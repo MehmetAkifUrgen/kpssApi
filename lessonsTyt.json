@@ -1,0 +1,1528 @@
+{
+    "konuAnlatimi": {
+        "Türkçe" : {
+            "Ses Bilgisi" : [
+                {
+                  "baslik": "Ses",
+                  "metin": "1- İşitme organımız tarafından algılanan titreşimlere “ses” denir.\n2- Akciğerlerden gelen havanın ses yolunda oluşturduğu titreşime “ses” denir.\n3- Ses, dilin işlevli en küçük birimidir."
+                },
+                {
+                  "baslik": "Harf",
+                  "metin": "1- Seslerin yazıdaki karşılığına “harf” denir.\n2- Harfler, sesleri karşılayan işaretlerdir."
+                },
+                {
+                  "baslik": "Alfabe",
+                  "metin": "1- Dilde kullanılan tüm harflerin sıralanmış şekline “alfabe” denir.\n2- Harflerin sistemli olarak yer aldığı tabloya “alfabe” denir.\n3- Bir dildeki harflerin belirli bir sıraya dizilmiş bütününe “alfabe” denir."
+                },
+                {
+                  "baslik": "Türk Alfabesi",
+                  "metin": "Türk alfabesi 29 harften oluşur. 8 sesli (ünlü) harf ve 21 sessiz (ünsüz) harf bulunur. Sesli harfler: a, e, ı, i, o, ö, u, ü. Sessiz harfler: b, c, ç, d, f, g, ğ, h, j, k, l, m, n, p, r, s, ş, t, v, y, z."
+                },
+                {
+                  "baslik": "Genel Kurallar",
+                  "metin": "1- Türkçede ilk heceden sonraki hecelerde 'o, ö' harfleri bulunmaz.\n2- Kelime kökünde iki ünlü yan yana bulunmaz.\n3- Türkçe kelime kökünde aynı iki ünsüz yan yana bulunmaz.\n4- Kökeni Türkçe olan kelimelerin sonunda b, c, d, g ünsüzleri bulunmaz. Bazı istisnalar hariçtir."
+                },
+                {
+                  "baslik": "Ünlülerin Nitelikleri",
+                  "metin": "Ünlüler dilin durumuna göre kalın (a, ı, o, u) ve ince (e, i, ö, ü) olarak; dudakların durumuna göre düz (a, e, ı, i) ve yuvarlak (o, ö, u, ü) olarak; ağzın açıklığına göre geniş (a, e, o, ö) ve dar (ı, i, u, ü) olarak sınıflandırılır."
+                },
+                {
+                  "baslik": "Ünlü Daralması",
+                  "metin": "Türkçede a, e ünlüleri ile biten fiillerin şimdiki zaman çekiminde, söyleyişte de yazımda da daralır. Örneğin: 'başla-yor > başlıyor', 'de-yor > diyor'. Ancak bazı yardımcı ses kullanımları daralma sayılmaz: 'biliyor, atıyor, yüzüyor'."
+                },
+                {
+                  "baslik": "Ünlü Düşmesi",
+                  "metin": "Bazı kelimeler ek aldıklarında ya da bileşik kelime oluşturduklarında ünlü düşmesi görülür. Örnek: 'ağız > ağzı', 'akıl > aklı', 'kayın > kaynı'. Ancak 'içeri, dışarı, ileri' gibi kelimelerde ek alındığında ünlü düşmesi yaşanmaz."
+                },
+                {
+                  "baslik": "Ünsüzlerin Nitelikleri",
+                  "metin": "Ünsüzler, ses tellerinin titreşimine göre yumuşak (b, c, d, g, ğ) ve sert (ç, f, h, k, p, s, ş, t) olarak sınıflandırılır. Sert ünsüzler 'fıstıkçı şahap' harfleridir."
+                },
+                {
+                  "baslik": "Ünsüz Benzeşmesi",
+                  "metin": "Sert ünsüzle biten kelimeler, sert ünsüzle başlayan ekler alır. Örneğin: 'kitap-da > kitapta', 'çalış-dı > çalıştı'. Ancak '-cağız' ve '-gen' ekleri bu kurala uymaz: 'çocukcağız, üçgen'."
+                },
+                {
+                    "baslik": "Ünlü Türemesi",
+                    "metin": "Bazı kelimelerle ekler yan yana geldiğinde, sözcük ve eke ait olmayan bir ünlü ortaya çıkabilir. Örneğin: 'az-cık > azıcık', 'bir-cik > biricik', 'gül-cük > gülücük'."
+                  },
+                  {
+                    "baslik": "Ünsüz Yumuşaması",
+                    "metin": "Türkçede 'p, ç, t, k' harfleri ile biten bir kelimeye ünlü ile başlayan bir ek geldiğinde, bu harfler 'b, c, d, g/ğ' harflerine dönüşür. Örneğin: 'kitap > kitabı', 'ağaç > ağacı'. Ancak 'devlet, millet, hukuk' gibi kelimelerde yumuşama olmaz."
+                  },
+                  {
+                    "baslik": "Kaynaştırma Harfleri",
+                    "metin": "Türkçede iki ünlü yan yana gelmediği için araya 'y, ş, s, n' harfleri eklenir. Örneğin: 'soba-y-a', 'iki-ş-er', 'araba-n-ın'."
+                  },
+                  {
+                    "baslik": "Ulama",
+                    "metin": "Ünsüzle biten bir kelimeden sonra ünlüyle başlayan bir kelime geldiğinde, sesler birbirine bağlanarak okunur. Örneğin: 'Evden ayrıldı'."
+                  },
+                  {
+                    "baslik": "Büyük Ünlü Uyumu",
+                    "metin": "Bir kelimede ilk hecedeki ünlü kalınsa (a, ı, o, u), diğer ünlüler de kalın; inceyse (e, i, ö, ü), diğer ünlüler de ince olur. Ancak alıntı kelimeler ve bazı eklerle bu uyum bozulabilir."
+                  },
+                  {
+                    "baslik": "Küçük Ünlü Uyumu",
+                    "metin": "Kelimenin ilk hecesindeki düz ünlüden (a, e, ı, i) sonra yine düz ünlü; yuvarlak ünlüden (o, ö, u, ü) sonra ise ya dar-yuvarlak (u, ü) ya da düz-geniş (a, e) ünlü gelir. Örneğin: 'çocuk, odun'."
+                  },
+                  {
+                    "baslik": "Vurgu",
+                    "metin": "Türkçede sözcüklerde genellikle son hece, coğrafi isimlerde ve pekiştirme yapılmış sözcüklerde ise ilk hece vurgulanır. Örneğin: 'kelebek' (son hece), 'Ankara' (ilk hece)."
+                  },
+                  {
+                    "baslik": "Tek Heceli Sözcükler",
+                    "metin": "Tek heceli sözcüklerin sonunda bulunan 'p, ç, t, k' ünsüzleri iki ünlü arasında genelde korunur. Örneğin: 'ak > akı', 'ot > otu'. Ancak bazı kelimelerde yumuşama görülür: 'kap > kabı'."
+                  },
+                  {
+                    "baslik": "Ünsüz Türemesi",
+                    "metin": "Arapçadan dilimize geçen ve sonunda tek ünsüz bulunan bazı kelimeler, ünlüyle başlayan ek aldıklarında veya yardımcı fiille kullanıldıklarında, sondaki ünsüz ikizleşir. Örneğin: 'hak > hakkı', 'his > hissetmek'."
+                  },
+                  {
+                    "baslik": "Dudak Ünsüzlerinin Benzeşmesi",
+                    "metin": "'n' ünsüzü ile biten bir heceden sonra 'b' ile başlayan bir hece gelirse, 'n' ünsüzü 'm' harfine dönüşür. Örneğin: 'Saklanbaç > saklambaç', 'Çarşanba > çarşamba'."
+                  }
+              ],
+              "Sözcük Türleri" : [
+                {
+                  "baslik": "Ad ve Ad Soylular",
+                  "metin": "Ad (isim), adıl (zamir), önad (sıfat), belirteç (zarf), ilgeç (edat), bağlaç ve ünlem gibi sözcük türleri ad soylular kategorisinde yer alır. Sözcükler cümlede kullanılışlarına göre tür değiştirebilir."
+                },
+                {
+                  "baslik": "İsim-Fil Farkı",
+                  "metin": "Bir kök '-mek, -mak' eki alabiliyorsa fiildir. Örneğin, 'gelmişsin' fiildir çünkü 'gelmek' olur. Ancak 'maviymiş' isimdir çünkü 'mavimek' olamaz."
+                },
+                {
+                  "baslik": "İkiz Kök",
+                  "metin": "Hem fiil hem isim olarak kullanılabilen köklerdir. Örneğin: 'boya' ve 'gül'. 'Elindeki boyayla duvarı boya' cümlesinde 'boya' isimdir, 'duvarı boya' cümlesinde fiildir."
+                },
+                {
+                  "baslik": "İsim Çeşitleri",
+                  "metin": "Varlıklara verilişlerine göre cins isim (örneğin: masa, kuş) ve özel isim (örneğin: İstanbul, Türkçe) olarak ayrılır. Oluşlarına göre somut (örneğin: taş) ve soyut (örneğin: sevgi) isimlerdir. Sayılarına göre tekil, çoğul ve topluluk isimleri olarak sınıflandırılır."
+                },
+                {
+                  "baslik": "İsimlerde Küçültme",
+                  "metin": "İsimlere '-cek, -cik, -ceğiz' ekleri eklenerek küçültme yapılır. Örneğin: 'kulübecik, kuzucuk, kadıncağız'. Bu ekler sevgi, küçültme veya acıma anlamı katabilir."
+                },
+                {
+                  "baslik": "Zamir (Adıl)",
+                  "metin": "İsimlerin yerine kullanılan sözcüklerdir. Örneğin: 'Ben, sen, o'. Zamirler, tamlama kurabilir ve adların aldığı çekim eklerini alabilir."
+                },
+                {
+                  "baslik": "Zamir Çeşitleri",
+                  "metin": "Kişi zamiri ('ben, sen, o'), işaret zamiri ('bu, şu, o'), belgisiz zamir ('herkes, birçoğu') ve soru zamiri ('ne, kim, hangisi') olarak dört gruba ayrılır."
+                },
+                {
+                  "baslik": "İyelik ve İlgi Zamirleri",
+                  "metin": "İyelik zamirleri, bir varlığın kime ait olduğunu gösterir ('kalemim, evimiz'). İlgi zamiri '-ki' ekidir ve bir isim tamlamasında tamlanan yerine geçer ('benimki, seninki')."
+                },
+                {
+                  "baslik": "Sıfat (Önad)",
+                  "metin": "İsimleri niteleyen veya belirten sözcüklerdir. İsme sorulan 'nasıl, hangi, kaç' gibi sorulara yanıt verir. Örneğin: 'mavi gömlek', 'üçgen vücut'."
+                },
+                {
+                  "baslik": "Sıfat Çeşitleri",
+                  "metin": "Niteleme sıfatları ('uzun yol'), işaret sıfatları ('bu ev'), sayı sıfatları ('bir elma'), belgisiz sıfatlar ('her insan') ve soru sıfatları ('hangi kitap') olarak sınıflandırılır."
+                },
+                {
+                  "baslik": "Sıfatlarda Pekiştirme",
+                  "metin": "Anlamı güçlendirmek için sıfatların ilk ünlüsüne 'p, r, s, m' harflerinden biri eklenir: 'sa-p-sarı, be-m-beyaz'. İkileme veya 'mi' soru edatı ile de pekiştirme yapılabilir ('kara kara bulutlar, güzel mi güzel')."
+                },
+                {
+                  "baslik": "Sıfatlarda Adlaşma",
+                  "metin": "Sıfatlar, tamlamadaki isim düştüğünde adlaşır. Örneğin: 'Genç hızla yanıma geldi' (genç adam). Çekim eki alan sıfatlar da adlaşabilir ('yoksullara yardım')."
+                },
+                {
+                    "baslik": "Zarf (Belirteç)",
+                    "metin": "Fiilleri, fiilimsileri, sıfatları ya da kendi türünden sözcükleri anlamca etkileyen sözcüklerdir. Çekim eki almazlar, alırlarsa adlaşırlar. Örneğin: 'Hızlı yürüyorsun' (fiil niteleme). Zarflar, sıfatların ve diğer zarfların derecesini de bildirebilir: 'En güzel, çok hızlı'."
+                  },
+                  {
+                    "baslik": "Zarf Çeşitleri",
+                    "metin": "1) Durum Zarfı: Fiillerin durumunu, niteliğini bildirir: 'Yavaş konuş' (Nasıl konuş?). 2) Zaman Zarfı: Fiilin gerçekleştiği zamanı bildirir: 'Yarın geleceğim' (Ne zaman?). 3) Yer-Yön Zarfı: Fiilin yönünü bildirir: 'İçeri girdi' (Nereye?). 4) Azlık-Çokluk Zarfı: Miktar veya derece bildirir: 'Çok çalıştım' (Ne kadar?). 5) Soru Zarfı: Fiili soru yoluyla etkiler: 'Ne zaman geldin?'"
+                  },
+                  {
+                    "baslik": "Edat (İlgeç)",
+                    "metin": "Kendi başlarına anlamı olmayan; başka sözcüklerle kullanılarak anlam kazanan sözcüklerdir. Örneğin: 'ile, ancak, gibi, kadar, için'. Edatlar eklendiği sözcükle sıfat, zarf gibi görevlerde kullanılabilir: 'Ankara’ya uçakla gideceğiz' (Edat)."
+                  },
+                  {
+                    "baslik": "Bağlaç",
+                    "metin": "Kendi başlarına anlamı olmayan, sözleri veya cümleleri birbirine bağlayan sözcüklerdir. Örneğin: 've, veya, ama, çünkü, oysa, lakin'. Cümleden çıkarıldığında anlam daralabilir ama bozulmaz: 'Sen gel veya gelme, biz gideceğiz.'"
+                  },
+                  {
+                    "baslik": "Ünlem",
+                    "metin": "Sevinç, korku, şaşkınlık gibi duyguları içeren ya da seslenme bildiren sözcüklerdir. Örneğin: 'Ah!, Eyvah!, Of!' Ünlemler cümlede duyguyu ifade eder: 'Oh be! Rahatladım.'"
+                  },
+                  {
+                    "baslik": "İLE'nin Kullanımı",
+                    "metin": "1) Edat: 'Ankara’ya uçakla gideceğiz' (vasıta). 2) Bağlaç: 'Ahmet ile Hasan sinemaya gittiler' (ve anlamı). 3) Zarf: 'Topa hızla vurdu' (Nasıl?)."
+                  },
+                  {
+                    "baslik": "YALNIZ'ın Kullanımı",
+                    "metin": "1) Edat: 'Yalnız sen gelmedin' (sadece). 2) Bağlaç: 'Yemek güzel, yalnız tuzsuz' (ama). 3) Sıfat: 'Yalnız insanlar' (ismi niteleme). 4) Zarf: 'Yalnız geldi' (fiili niteleme)."
+                  },
+                  {
+                    "baslik": "GİBİ'nin Kullanımı",
+                    "metin": "Benzetme, karşılaştırma, olasılık gibi anlamlar katar: 'Buz gibi havada dışarı mı çıkılır?' (benzetme). 'Sınavı kazanacak gibi' (olasılık)."
+                  },
+                  {
+                    "baslik": "ANCAK'ın Kullanımı",
+                    "metin": "1) Edat: 'Ancak o katlanır' (sadece). 2) Bağlaç: 'Çok anlattım, ancak anlamadı' (ama). 3) Zarf: 'Ancak gelebildim' (henüz)."
+                  },
+                  {
+                    "baslik": "DOĞRU'nun Kullanımı",
+                    "metin": "1) Edat: 'Eve doğru gidiyordu' (yönelme). 2) Zarf: 'Doğru okula git' (fiili niteleme). 3) Sıfat: 'Doğru söz'. 4) İsim: 'Doğru, o da bizimle gelmişti.'"
+                  },
+                  {
+                    "baslik": "BAŞKA'nın Kullanımı",
+                    "metin": "1) Edat: 'Fuzuli’den başka herkes geldi' (hariç). 2) Sıfat: 'Başka bir yol düşünmeliyiz'. 3) Zamir: 'Başkası bu işi yapmazdı'. 4) Zarf: 'Başka konuşmalarına bıktım.'"
+                  },
+                  {
+                    "baslik": "DE'nin Kullanımı",
+                    "metin": "1) Bağlaç: 'Sen de gel' (katılma). 2) Zarf: 'Hazırlanacak da gideceğiz' (pekiştirme). 3) Hal eki: 'Okulda kurallara uyardı' (bulunma)."
+                  }
+              ],
+              "Cümlede Anlam" : [
+                {
+                  "baslik": "Cümle (Tümce)",
+                  "metin": "Bir duyguyu, bir düşünceyi, bir isteği vb. bildiren sözcük ya da sözcük dizisine cümle denir."
+                },
+                {
+                  "baslik": "1) Tanım Cümlesi",
+                  "metin": "Bir kavramın ya da varlığın ne olduğunu bildiren cümlelerdir. Genellikle '-dir', 'denir' gibi ifadeler bulunur. Örnek: 'Şiir, duyguların ifade edilmesidir.'"
+                },
+                {
+                  "baslik": "2) Öznel Cümle",
+                  "metin": "Doğruluğu ya da yanlışlığı kişiden kişiye değişebilen, kişisel görüş içeren cümlelerdir. Örnek: 'Reşat Nuri, Türkiye’nin en ünlü yazarıdır.'"
+                },
+                {
+                  "baslik": "3) Nesnel Cümle",
+                  "metin": "Doğruluğu ya da yanlışlığı kişiden kişiye değişmeyen, kanıtlanabilir yargılar içeren cümlelerdir. Örnek: 'Eserin ilk baskısı 2001 yılında yapıldı.'"
+                },
+                {
+                  "baslik": "4) Doğrudan Anlatım",
+                  "metin": "Bir kişinin sözünün olduğu gibi aktarıldığı anlatımdır. Örnek: 'Babam: “Yanıma gel.” dedi.'"
+                },
+                {
+                  "baslik": "5) Dolaylı Anlatım",
+                  "metin": "Bir kişinin sözünün, anlamını değiştirmeden, başka ifadelerle aktarıldığı anlatımdır. Örnek: 'Babam, yanına gitmemi istedi.'"
+                },
+                {
+                  "baslik": "6) Kinayeli Anlatım",
+                  "metin": "Alaya alma, iğneleme veya tersini kastetme içeren cümlelerdir. Örnek: 'Eh, bu hızla gidersek, okula yarın sabah varırız.'"
+                },
+                {
+                  "baslik": "7) Olumluluk",
+                  "metin": "a) Olumlu Cümle: Bir yargının gerçekleştiğini bildirir. Örnek: 'Ahmet, keldir.' b) Olumsuz Cümle: Bir yargının gerçekleşmediğini bildirir. Örnek: 'Beklediğim mektup henüz gelmedi.'"
+                },
+                {
+                  "baslik": "8) Soru Cümlesi",
+                  "metin": "Soru kelimesi ya da eki içeren, cevap bekleyen cümlelerdir. Örnek: 'Bakkaldan ekmek mi aldın?'"
+                },
+                {
+                  "baslik": "9) Ünlem Cümlesi",
+                  "metin": "Seslenme, heyecan, şaşma gibi ifadeleri içeren ünlemlerin kullanıldığı cümlelerdir. Örnek: 'Of, yine olmadı!'"
+                },
+                {
+                  "baslik": "10) Koşul (Şart) Cümlesi",
+                  "metin": "Bir olayın gerçekleşmesini şarta bağlayan cümlelerdir. Örnek: 'Çok çalışırsan, sen de kazanırsın.'"
+                },
+                {
+                  "baslik": "11) Sebep-Sonuç Cümlesi",
+                  "metin": "Bir olayın gerekçesini açıklayan cümlelerdir. Örnek: 'Havalar çok soğumuştu, bu yüzden hastalandım.'"
+                },
+                {
+                  "baslik": "12) Amaç Cümlesi",
+                  "metin": "Bir amacı gerçekleştirmek için yapılanları bildiren cümlelerdir. Örnek: 'Alışveriş yapmak için markete gitti.'"
+                },
+                {
+                  "baslik": "13) Tasarı Cümlesi",
+                  "metin": "İleride yapılacak işleri bildiren cümlelerdir. Örnek: 'Bu yazıları kitaplaştırmayı planlıyorum.'"
+                },
+                {
+                  "baslik": "14) Varsayım Cümlesi",
+                  "metin": "Bir olayın gerçekleştiğini farz eden cümlelerdir. Örnek: 'Tut ki bu çukuru kazdık.'"
+                },
+                {
+                  "baslik": "15) Tahmin Cümlesi",
+                  "metin": "Bir olayın olabileceğini ifade eden, kesinlikten yoksun cümlelerdir. Örnek: 'Hava soğudu, kar yağabilir.'"
+                },
+                {
+                  "baslik": "16) Ön Yargı Cümlesi",
+                  "metin": "Bir konu hakkında olumlu ya da olumsuz önceden oluşmuş yargılar içeren cümlelerdir. Örnek: 'Sen bu sınavı kazanamazsın.'"
+                },
+                {
+                  "baslik": "17) Karşılaştırma Cümlesi",
+                  "metin": "İki varlık ya da kavram arasındaki benzerlik veya farkların belirtildiği cümlelerdir. Örnek: 'Ahmet, Cüneyt’ten kuvvetlidir.'"
+                },
+                {
+                  "baslik": "18) Değerlendirme Cümlesi",
+                  "metin": "Bir sanatçı veya eserin çeşitli yönlerini belirten cümlelerdir. Örnek: 'Bu şiirde insanı etkileyen bir yan var.'"
+                },
+                {
+                  "baslik": "19) Eleştiri Cümlesi",
+                  "metin": "Bir eser veya kişi hakkında olumlu ya da olumsuz görüş bildirir. Örnek: 'Yazar, mesleğinde zirveye çıkmıştır.'"
+                },
+                {
+                  "baslik": "20) Öz Eleştiri Cümlesi",
+                  "metin": "Kişinin kendisini olumsuz bir şekilde eleştirdiği cümlelerdir. Örnek: 'Sanatın gereğini yerine getiremedik.'"
+                },
+                {
+                  "baslik": "21) Öneri Cümlesi",
+                  "metin": "Bir eksikliğin giderilmesi için tavsiyede bulunur. Örnek: 'İyi bir üniversite için günde 8 saat çalışmalısın.'"
+                },
+                {
+                  "baslik": "22) Yakınma-Sitem-Şikâyet Cümlesi",
+                  "metin": "Bir durumdan üzüntü veya şikâyet bildirir. Örnek: 'Söylesem de beni dinlemez ki!'"
+                },
+                {
+                  "baslik": "23) Beğenme (Övgü) Cümlesi",
+                  "metin": "Bir kişiyi, durumu ya da olayı güzel bulma, takdir etme içerir. Örnek: 'Bir öykü ancak bu kadar güzel yazılabilir.'"
+                },
+                {
+                  "baslik": "24) Öğüt Cümlesi",
+                  "metin": "Nasihat veya yol gösterme içerir. Örnek: 'Sabır bir erdemdir, ondan vazgeçmeyin.'"
+                },
+                {
+                  "baslik": "25) Karşıtlık Cümlesi",
+                  "metin": "Zıt kavramları veya durumları aynı cümlede bulundurur. Örnek: 'Böyle sıcak havalarda, soğuk içecekler iyi gider.'"
+                },
+                {
+                  "baslik": "26) Somutlama",
+                  "metin": "Soyut kavramların somut örneklerle açıklanmasıdır. Örnek: 'Başarı, merdiven gibidir; basamak basamak ilerlenir.'"
+                },
+                {
+                  "baslik": "27) Yorum Cümlesi",
+                  "metin": "Bir kişi veya olay hakkında kanaat bildiren cümlelerdir. Örnek: 'Kitapta etkileyici hikâyeler yer alıyor.'"
+                },
+                {
+                  "baslik": "28) Üslup Cümleleri",
+                  "metin": "Sanatçının anlatım tarzı hakkında bilgi verir. Örnek: 'Dili yer yer ağırlaşmasına rağmen akıcıdır.'"
+                },
+                {
+                  "baslik": "29) İçerik Cümleleri",
+                  "metin": "Eserde anlatılan konunun özetini verir. Örnek: 'Sanatçı, kırsal kesimdeki insanların yaşamını ele almıştır.'"
+                },
+                {
+                  "baslik": "30) Biçimle İlgili Cümleler",
+                  "metin": "Eserin tasarım, yapı veya dil özelliklerini belirtir. Örnek: 'Eser üç bölümden oluşuyor.'"
+                }
+              ],
+              "Paragraf" : [
+                {
+                  "baslik": "Paragraf Hakkında Genel Bilgiler",
+                  "metin": "Paragraf sorularını çözmeden önce soru kısmını dikkatlice okumak önemlidir. Sorunun olumlu ya da olumsuz olduğuna dikkat edilmelidir. Paragraf sorularında genel kültür ve okuma alışkanlığı büyük önem taşır. Her gün 15 sayfa kitap okunması önerilir."
+                },
+                {
+                  "baslik": "Paragrafın Unsurları",
+                  "metin": "Paragrafın unsurları; konu, ana düşünce, yardımcı düşünceler, üslup ve biçimdir. Konu, paragrafın ne anlattığını, ana düşünce ise niçin anlatıldığını açıklar."
+                },
+                {
+                  "baslik": "Konu (İçerik)",
+                  "metin": "Bir sanat eserinde anlatılmak istenen fikir ya da verilmek istenen duygu ve düşünceler konu başlığında ele alınır. Örnek: 'Şiirin insan hayatını etkilediğini anlatıyor.'"
+                },
+                {
+                  "baslik": "Ana Düşünce (Ana Fikir)",
+                  "metin": "Paragrafta vurgulanan, savunulan temel yargıdır. Paragrafın yazılış amacı ve yazarın iletmek istediği mesajı içerir. Örnek: 'Okuma alışkanlığı edinmenin belli bir eğitim gerektirdiğini anlatmak.'"
+                },
+                {
+                  "baslik": "Yardımcı Düşünceler",
+                  "metin": "Ana düşünceyi destekleyen, tamamlayan ya da açıklayan yan düşüncelerdir. Olumsuz sorular genellikle yardımcı düşüncelerle ilgilidir. Örnek: 'Paragrafta aşağıdakilerden hangisi yoktur?'"
+                },
+                {
+                  "baslik": "Üslup (Biçem)",
+                  "metin": "Sanatçının sözcükleri seçme ve kullanma tarzını ifade eder. Üslup, sanatçının anlatım şeklidir ve anlatım tarzını belirler. Örnek: 'Kısa cümleler kullanması, sıfatlara yer vermesi.'"
+                },
+                {
+                  "baslik": "Biçim",
+                  "metin": "Eserin içerik dışında kalan, tasarım ve dil özellikleri gibi unsurları kapsar. Örnek: 'Eser üç bölümden oluşuyor. Yapıtın özgün bir kapak tasarımı var.'"
+                },
+                {
+                  "baslik": "Paragraf Yapısı",
+                  "metin": "Paragraf; giriş, gelişme ve sonuç bölümlerinden oluşur. Giriş cümlesi genellikle tanım ya da konu aktarımı içerir, gelişme cümleleri detaylandırır ve sonuç cümlesi ana fikri özetler."
+                },
+                {
+                  "baslik": "Giriş Cümlesi",
+                  "metin": "Genellikle paragrafın ilk cümlesidir ve işlenecek konuyu tanıtır. Bağlaçlarla başlayamaz ve kendinden önceki cümlelere ihtiyaç duymaz."
+                },
+                {
+                  "baslik": "Gelişme Cümleleri",
+                  "metin": "Giriş cümlesini destekleyen, açıklayan veya örnekleyen bölümdür. Çeşitli anlatım biçimlerine yer verilebilir."
+                },
+                {
+                  "baslik": "Sonuç Cümlesi",
+                  "metin": "Paragrafta anlatılanların bir yargıya vardığı bölümdür. Genellikle 'özetle, kısaca, öyleyse' gibi ifadeler içerir."
+                },
+                {
+                  "baslik": "Paragrafta Düşüncenin Akışını Bozan Cümle",
+                  "metin": "Konu ile alakasız, farklı bir konuyu ele alan cümle düşüncenin akışını bozar. Bu cümle bulunarak çıkarılmalıdır."
+                },
+                {
+                  "baslik": "Paragrafın İkiye Ayrılması",
+                  "metin": "Konu değişimi tespit edilerek, hangi cümleden itibaren yeni bir paragraf başlayacağı belirlenir. Yeni paragraf giriş cümlesi niteliğinde olmalıdır."
+                },
+                {
+                  "baslik": "Paragraftan Cümle Çıkarma",
+                  "metin": "Anlamca yakın cümleler tespit edilerek kapsamlı olan cümle tutulur, diğer cümle çıkarılabilir."
+                },
+                {
+                  "baslik": "Paragraf Tamamlama",
+                  "metin": "Paragrafın başına, ortasına veya sonuna getirilecek cümle, uygun yapısal ve anlamsal özellikler taşımalıdır. Giriş, bağlayıcı veya sonuç cümlesi özellikleri aranır."
+                },
+                {
+                  "baslik": "Anlatım Teknikleri",
+                  "metin": "Açıklama, tartışma, öyküleme ve betimleme gibi teknikler kullanılarak anlatım güçlendirilir. Her teknik farklı bir amaç taşır ve çeşitli düşünce geliştirme yollarıyla desteklenebilir."
+                },
+                {
+                  "baslik": "Düşünceyi Geliştirme Yolları",
+                  "metin": "Tanımlama, örneklendirme, tanık gösterme, karşılaştırma, sayısal değerler kullanma, benzetme, ilgi kurma ve somutlama gibi yöntemlerle düşünceler desteklenir ve açıklanır."
+                },
+                {
+                  "baslik": "Anlatım Özellikleri",
+                  "metin": "Açıklık, akıcılık, duruluk, evrensellik, içtenlik, kalıcılık, özgünlük, özlülük, sürükleyicilik, tutarlılık, ulusallık ve yalınlık gibi özellikler, metni okuyucu için daha anlaşılır ve ilgi çekici hale getirir."
+                }
+              ],
+              "Anlatım Türleri" : [
+                {
+                  "baslik": "Anlatım Türleri (Anlatım Biçimleri)",
+                  "metin": "Bir düşünceyi, duyguyu ya da olayı sözle veya yazıyla ifade etmeye 'anlatım' denir. Anlatım türleri, iletilecek mesajın en etkili biçimde aktarılmasını sağlar."
+                },
+                {
+                  "baslik": "1- Öyküleyici Anlatım (Hikâye Etme)",
+                  "metin": "Gerçek veya tasarlanmış bir olayın belli bir noktadan alınıp geliştirildiği ve sonuca ulaştırıldığı anlatım biçimidir. Olay, kişi, zaman ve mekan unsurları ile olay örgüsü öne çıkar. Genellikle hikâye, roman, masal gibi türlerde kullanılır."
+                },
+                {
+                  "baslik": "Öyküleyici Anlatım Unsurları",
+                  "metin": "Kişi, olay, mekan, zaman ve anlatıcı öyküleyici anlatımın unsurlarıdır. Anlatıcı birinci veya üçüncü kişi olabilir. Bakış açıları ise hakim (ilahi), kahraman ve gözlemci olarak üçe ayrılır."
+                },
+                {
+                  "baslik": "Öyküleyici Anlatım Örnek",
+                  "metin": "Deniz tarafından bir ihtiyar; balıkçı kahvesine doğru usul usul ilerledi. Kapıyı aralayarak içeriye girdi. Sağda solda uyuyanlar vardı. Gür bir sesle herkesi selamladı."
+                },
+                {
+                  "baslik": "2- Betimleyici Anlatım (Tasvir Etme)",
+                  "metin": "Varlıkların belirgin özelliklerini tanıtıp göz önünde canlandırılmasını sağlayan anlatım biçimidir. Sözcüklerle resim çizme tekniği olarak da bilinir. Öznel (izlenimsel) ve nesnel (açıklayıcı) betimlemeler yapılabilir."
+                },
+                {
+                  "baslik": "Betimleyici Anlatım Örnek",
+                  "metin": "Gökyüzünün açık güneşli olduğu bir ilkbahar günüydü. Öğleden sonra saat tam beşe çeyrek kala, arabamla meydana geldim. Alan insan kaynıyordu."
+                },
+                {
+                  "baslik": "Portre Betimlemeleri",
+                  "metin": "Fiziksel portre kişilerin dış görünüşünü, ruhsal portre ise iç dünyasını anlatır. Betimlemeler kişilerin ayırt edici özelliklerine odaklanır ve okuyucunun hayalinde canlanmasını sağlar."
+                },
+                {
+                  "baslik": "3- Açıklayıcı Anlatım",
+                  "metin": "Bir kavramı, terimi veya sorunu açıklayan anlatım biçimidir. Tanımlama, örneklendirme ve tanık gösterme yöntemleri kullanılır. Nesnellik ön plandadır ve dil, göndergesel işlevdedir."
+                },
+                {
+                  "baslik": "Açıklayıcı Anlatım Örnek",
+                  "metin": "Memduh Şevket Esendal öykülerini sade ve temiz bir Türkçeyle yazmış, öykücülükte Çehov tarzını benimsemiştir. Onun öykülerini okuyanlar, eserin içinde kendilerini bulur gibi olurlar."
+                },
+                {
+                  "baslik": "4- Öğretici Anlatım",
+                  "metin": "Bilgi verme, açıklama yapma ve öğretme amacıyla kullanılan anlatım biçimidir. Nesnellik ön plandadır ve dil sade bir şekilde kullanılır. Ders kitapları, makaleler ve ansiklopedilerde görülür."
+                },
+                {
+                  "baslik": "Öğretici Anlatım Örnek",
+                  "metin": "Ahmet Rasim, İstanbul’da, Fatih semtinin Sarıgüzel Mahallesi’nde doğmuştur. Babası, Menteşeoğullarından Bahaeddin Efendi’dir. Bu zat, Kıbrıs kökenli ise de, küçükken göç ettiği Ermenak’ta yetişmiştir."
+                },
+                {
+                  "baslik": "Öğretici ve Açıklayıcı Anlatım Farkları",
+                  "metin": "Öğretici anlatım tamamen nesneldir, açıklayıcı anlatımda ise öznellik bulunabilir. Öğretici anlatım 'ne?' sorusunu yanıtlar; açıklayıcı anlatım ise 'niçin, neden, nasıl?' sorularını cevaplar."
+                },
+                {
+                    "baslik": "5-Tartışmacı Anlatım",
+                    "metin": "Savunulan ve karşı çıkılan görüşlere yer verilen anlatım biçimidir. Anlatıcı, öne sürülen düşünce, duygu ve kanılara katılmıyorsa onları değiştirmek ister. Yazar, okuyucunun bir konu hakkındaki düşüncesini değiştirmeye ya da bir fikri çürütmeye çalışır. Düşünce ve duygular, kısa ve kesin ifadelerle dile getirilir. 'Ama, fakat, lakin' gibi karşıtlık bağlaçları kullanılır. Dil sadedir ve göndergesel işlevde kullanılır."
+                  },
+                  {
+                    "baslik": "Tartışmacı Anlatım Örnek",
+                    "metin": "Yazarlar okudukları bir metinden yararlandıklarında yazın dünyasında bir kızılca kıyamet kopuyor. Efendim bu özgünlükle bağdaşmazmış. O zaman bu yazarın kendi eseri olmuyormuş, gibi. Bana göre yazar, kibarca esinlenme denilen bu işte son derece haklıdır. Hatta ileri gidip adapte yapmada da özgür olmalıdır. Bu vaveylayı koparanlar, eserlerini o ana dek okudukları eserlerin katkılarını dışarıda bırakarak mı yazıyorlar sanki?"
+                  },
+                  {
+                    "baslik": "6-Kanıtlayıcı Anlatım",
+                    "metin": "İleri sürülen düşüncelerin bazı görüşlerle desteklendiği ve kanıtlanmaya çalışıldığı anlatım biçimidir. Bu anlatımda, önce ortaya bir konu atılır ve konu bütün yönleriyle tanıtılır. Sonra da konunun kanıtlanmasına geçilir. Kanıtlamada nesnel veriler, deneyler ve gözlemlerden yararlanılır. Dil sadedir ve göndergesel işlevde kullanılır."
+                  },
+                  {
+                    "baslik": "Kanıtlayıcı Anlatım Örnek",
+                    "metin": "Öteden beri tartışılagelmiştir şiirin başka bir dile çevrilip çevrilmeyeceği. Kendine özgü bir yapısı olduğundan zordur şiir çevirmek. Anlamlamanın okur merkezli olması, bir dildeki ses ve biçemin diğer dilde yakalanmasının çok zor olması, dillerin sözcüklerinin her zaman birbirini karşılayamıyor olması şiir çevirisini zorlaştıran etkenlerdir. Jean Cocteau, 'Şiir öyle ayrı bir dildir ki başka hiçbir dile çevrilemez hatta yazılmış göründüğü dile bile.' sözüyle bu gerçeği ortaya koyuyor."
+                  },
+                  {
+                    "baslik": "7-Emredici Anlatım",
+                    "metin": "Emir, öneri, telkin, kesinlik anlamı taşıyan ifadelerin yer aldığı anlatım biçimidir. Okuyucunun istenen yönde harekete geçmesi amaçlanır. Dil, alıcıyı harekete geçirme işlevinde kullanılır. Genellikle sosyal yaşamın düzenlenmesinde kullanılan bir anlatım biçimidir. Yasalar, trafik kuralları, yemek tarifleri gibi metinlerde görülür."
+                  },
+                  {
+                    "baslik": "Emredici Anlatım Örnek",
+                    "metin": "Kıymayı bir gün önceden bir kere çektirin. Kıymaya karbonat karıştırarak yoğurun. Bir gün bekletin. İkinci gün robotta bir adet soğanı çekerek süzgeçte yıkayın. Köfteye karıştırın. Tuzunu ilave edip iyice yoğurun. Ceviz büyüklüğünde yuvarlayıp üzerini bastırarak mangal ateşinde pişirin."
+                  },
+                  {
+                    "baslik": "8-Söyleşmeye Bağlı Anlatım (Diyalog)",
+                    "metin": "İki veya daha fazla kimsenin karşılıklı konuşmalarını içeren anlatım biçimidir. Dil, genelde göndergesel işlevde kullanılır. Tiyatro, sohbet, mülakat, röportaj gibi türlerde görülür. Konuşmalar, kişilere ve bağlama göre değişir."
+                  },
+                  {
+                    "baslik": "Söyleşmeye Bağlı Anlatım Örnek",
+                    "metin": "Tekrar sordu: 'Söyle yavrum, o roman ne diyor?' Genç kız büyük gözlerini kaldırdı. Kitabı dizlerine indirdi. Nazik bir şive ile, 'Büyükanneciğim, Fransızca bir roman iste…' dedi. Lakin büyük nine merak ediyordu, mutlaka anlamak istiyordu: 'Adı ne?' 'Desenchant…' 'Ne demek?' 'Sevinçten, saadetten mahrum kadınlar demek.' 'Onlar kimmiş?' 'Biz… Türk kadınları…'"
+                  },
+                  {
+                    "baslik": "9-Destansı (Epik) Anlatım",
+                    "metin": "Olağanüstülüklerin, kahramanlıkların, tarihi konuların yer aldığı anlatım biçimidir. Abartma sanatından yararlanılır ve etkileyici bir dil kullanılır. Bu anlatım türü, genellikle destan, şiir, roman gibi türlerde yer alır."
+                  },
+                  {
+                    "baslik": "Destansı Anlatım Örnek",
+                    "metin": "Pekâlâ, adamlarım! Haydi, şimdi, aslanlarım! Kurşunlarımızı israf etmeyip bu süprüntüleri süngümüzle temizleyeceğiz. 'Hurra!' diye bağırdığımda hepinizin arkamdan geldiğini görmek istiyorum. Kimse geride oyalanmasın. Birbirinizden ayrılmamalısınız, bu en önemlisi..."
+                  },
+                  {
+                    "baslik": "10-Coşku ve Heyecana Bağlı (Lirik) Anlatım",
+                    "metin": "Duyguların sözle aktarılması sırasında kullanılan anlatım biçimidir. Şiirlerde mutluluk, üzüntü, sevinç gibi duygular dile getirilir. İmgesel bir anlatım söz konusudur ve az sözle çok şey anlatılmaya çalışılır."
+                  },
+                  {
+                    "baslik": "Coşku ve Heyecana Bağlı Anlatım Örnek",
+                    "metin": "Her şey sende gizli. Yerin seni çektiği kadar ağırsın. Kanatların çırpındığı kadar hafif. Kalbinin attığı kadar canlısın. Gözlerin uzağı gördüğü kadar genç."
+                  },
+                  {
+                    "baslik": "11-Düşsel (Fantastik) Anlatım",
+                    "metin": "Gerçek olmayan, hayalî olayların anlatıldığı bir anlatım biçimidir. Olağanüstü olaylar, hayal ürünü dünyalar anlatılır. Genelde masallarda, destanlarda ve fabllarda görülür. Kurgusallık ön plandadır."
+                  },
+                  {
+                    "baslik": "Düşsel Anlatım Örnek",
+                    "metin": "Çok çok zaman önce Anadolu'muzun doğusunda ünlü bir Kafdağı varmış. Kafdağı, öyle böyle dağlardan değilmiş, soylu soplu, adı sanı belli bir dağlar padişahıymış."
+                  },
+                  {
+                    "baslik": "12-Gelecekten Söz Eden Anlatım",
+                    "metin": "Gelecekte olacak, olabilecek ya da olması muhtemel olaylardan söz edilen anlatım biçimidir. Gelecekten söz edilen metinlerde tahminler, öngörüler yer alır. Gelecek zaman kipi kullanılır."
+                  },
+                  {
+                    "baslik": "Gelecekten Söz Eden Anlatım Örnek",
+                    "metin": "Küresel ısınmaya bağlı iklim değişikliğinin etkileri yalnız küresel olmadığı gibi, bölgesel ve zamansal farklılıklar da oluşturabilmektedir. En gelişmiş iklim modelleri, küresel ortalama yüzey sıcaklıklarında 1990-2100 dönemi için 1.4 C° ile 5.8 C° arasında bir artış olacağını öngörmektedir."
+                  },
+                  {
+                    "baslik": "13-Mizahi Anlatım",
+                    "metin": "Gülmece yaratma amacıyla kullanılan anlatım biçimidir. Karikatür, hiciv, parodi gibi türlerde görülür. Abartmalar, çelişkiler ve gülünç durumlar anlatılır."
+                  },
+                  {
+                    "baslik": "Mizahi Anlatım Örnek",
+                    "metin": "Nasrettin Hoca'nın, Akşehir'de kadılık yaptığı günler... Yoksul bir adam, eline geçirdiği bir parçacık ekmeği ile birlikte bir aşçı dükkânının önüne gitmiş, orada fıkır fıkır kaynamakta olan bir et çömleğinin başına geçmiş. 'Ver bakalım tirit parasını.' demiş. Yoksul adam, 'Yahu! Ben senin ne etinden aldım ne de etin suyundan, insaf et!' demiş."
+                  }
+              ],
+              "Tamlamalar" : [
+                {
+                  "baslik": "Sıfat Tamlaması",
+                  "metin": "Bir sıfatın, ismin önüne gelerek, onu nitelemesi ya da belirtmesiyle oluşan tamlamalardır. Sıfat mutlaka ismin önünde olmalıdır. Adlaşmış sıfat, sıfat tamlaması sayılmaz. Sıfat tamlamasında tamlayan ya da tamlanan isim tamlaması olabilir."
+                },
+                {
+                  "baslik": "İsim Tamlamaları",
+                  "metin": "İki ya da daha fazla ismin yan yana gelmesiyle oluşan öbeğe isim tamlaması denir. Tamlayan ekleri: -nin, -in, -im, -den; Tamlanan ekleri: -i, -si, -im, -in, -imiz, -iniz, -leri. Bazı tamlamalarda tamlayan eki olarak '-den, -dan' ekleri kullanılabilir. Tamlamada kaynaştırma harfleri yerine 'y' harfi kullanılabilir."
+                },
+                {
+                  "baslik": "Belirtili İsim Tamlaması",
+                  "metin": "Tamlayanın ve tamlananın, tamlama eklerini aldığı tamlamalardır. Tamlamayı kuran sözcükler her zaman ad olmayabilir. Belirtili isim tamlamasında, tamlayanla tamlanan arasına farklı sözcükler girebilir."
+                },
+                {
+                  "baslik": "Belirtisiz İsim Tamlaması",
+                  "metin": "Sadece tamlananın tamlama eklerini aldığı isim tamlamalarıdır. Belirtisiz isim tamlamalarına sıfat eklenirse sıfat tamlaması oluşur. Belirtisiz isim tamlamasında, ekler bazen düşebilir."
+                },
+                {
+                  "baslik": "Takısız İsim Tamlaması",
+                  "metin": "Tamlayanın da tamlananın da tamlama eklerini almadığı tamlamalardır. Bu tür tamlamalar, varlıkların neyle yapıldığı ya da neye benzediği belirtilerek kurulur. Bazı durumlarda bu tip tamlamalar sıfat tamlaması olarak da değerlendirilebilir."
+                },
+                {
+                  "baslik": "Zincirleme İsim Tamlaması",
+                  "metin": "İkiden fazla isimden oluşan isim tamlamalarıdır. Zincirleme isim tamlamalarında tamlayan, tamlanan ya da her ikisi birden isim tamlaması olabilir."
+                }
+              ],
+              "Fiiller" : [
+                {
+                  "baslik": "Fiil (Eylem)",
+                  "metin": "İş, oluş, hareket, kılış, durum bildiren kelimelerdir. Gel, Otur, Kalk, Çık, Uyu, Döv. Fiiller olumsuzluk eklerini alabilirler: Gelme, Oturma, Kalkma, Çıkma, Uyuma, Dövme. Fiilin yalın haline '-mek, -mak' eklerini ekleyerek fiil olup olmadığını anlayabiliriz."
+                },
+                {
+                  "baslik": "Fiil Çekimi ve Kip",
+                  "metin": "Fiiller kip ve kişi eklerini alarak zaman, istek gereklilik, emir gibi anlamlar taşır. Kip, fiilin zamana ve biçime göre değişmesini sağlar. Fiil kök ve gövdesine eklenen kip ekleriyle eylemin nasıl gerçekleştiğini, zamanını, şeklini ifade eder."
+                },
+                {
+                  "baslik": "Haber (Bildirme) Kipleri",
+                  "metin": "Fiilin zamanını bildiren kip ekleridir. Görülen Geçmiş Zaman: '-di, -dı, -du, -dü', Öğrenilen Geçmiş Zaman: '-mış, -miş, -muş, -müş', Şimdiki Zaman: '-yor, -mekte, -makta', Gelecek Zaman: '-ecek, -acak', Geniş Zaman: '-r, -er, -ır'. Fiil kip ekleriyle zaman ifade edilir."
+                },
+                {
+                  "baslik": "Dilek (İsteme) Kipleri",
+                  "metin": "Fiilin zamanını bildirmeyen kip ekleridir. İstek Kipi: '-e, -a' (istek anlamı), Şart Kipi: '-se, -sa' (koşul anlamı), Gereklilik Kipi: '-meli, -malı' (gereklilik anlamı), Emir Kipi: (şahıslara göre ek alır, emir anlamı taşır)."
+                },
+                {
+                  "baslik": "Fiillerde Kişi (Şahıs) ve Ekleri",
+                  "metin": "Fiilde bildirilen işin, oluşun ya da durumun kim tarafından yapıldığını belirten eklerdir. Fiillerde 1. tekil (ben), 2. tekil (sen), 3. tekil (o), 1. çoğul (biz), 2. çoğul (siz), 3. çoğul (onlar) şahıs ekleri kullanılır."
+                },
+                {
+                  "baslik": "Basit Zamanlı Fiiller",
+                  "metin": "Tek bir kip eki alan fiillerdir. Fiil + Kip Eki + Şahıs Eki. Örnekler: 'Sür-dü-m' (Görülen Geçmiş Zaman), 'Bak-mış-sın' (Öğrenilen Geçmiş Zaman)."
+                },
+                {
+                  "baslik": "Birleşik Zamanlı Fiiller",
+                  "metin": "Birden fazla kip eki alan fiillerdir. Fiil + 1. Kip Eki + 2. Kip Eki + Şahıs Eki. Örnekler: 'Git+miş+ti+n', 'Git+ecek+miş+iz', 'Git+miş+se+niz'. Birleşik zamanlı fiiller üçe ayrılır: Hikâye Birleşik Zaman, Rivayet Birleşik Zaman, Şart Birleşik Zaman."
+                },
+                {
+                  "baslik": "Fiillerde Olumsuzluk",
+                  "metin": "İşin, oluşun, hareketin yapılmadığını veya yapılamayacağını bildiren fiillere ‘olumsuz fiiller’ denir. Fiillerde olumsuzluk ‘-me, -ma, -mez, -maz’ ekleri ile yapılır. Örnekler: ‘Gel-me-di’, ‘Gel-miş’."
+                },
+                {
+                  "baslik": "Fiillerde Soru",
+                  "metin": "Fiiller, kendinden sonra eklenen soru ekiyle (mı, mi, mu, mü) soru anlamı kazanır. Soru eki, kendinden önce gelen sözcüklerden ayrı yazılır. Örnekler: ‘Siz de olanları gördünüz mü?’, ‘Ankara’ya varmış mıdır?’"
+                },
+                {
+                  "baslik": "Fiillerde Anlam-Zaman (Kip) Kayması",
+                  "metin": "Kip eklerinin, görevi dışında, başka bir kip ekinin yerine kullanılmasıyla oluşur. Birleşik zamanlı fiillerde anlam-zaman kayması olmaz. Dua ve dileklerde genelde görülür. Örnekler: ‘Yarın maça gidiyor muyuz?’ (aslında ‘gidecek miyiz?’ olmalı), ‘Akşamları erken yatıyorum.’ (aslında ‘yatarım.’)"
+                }
+              ],
+              "Ek-Fiil" : [
+                {
+                  "baslik": "Ek-Fiil (Ek Eylem)",
+                  "metin": "Ek-fiil, eski Türkçede dilimizde kullanılan ‘i’ eylemine bağlı olarak ortaya çıkmıştır. Günümüzde tek sesle bir fiil oluşmaz ancak bu ‘i’ eylemi cümlede görünmese de görevini iki şekilde sürdürmektedir: İsim ya da isim soylu sözcüklere eklenerek yüklem yapılmasını sağlar ve bileşik zamanlı fiiller oluşturur. Örneğin: 'Ben de sizi soruyordum' (sor: fiil kökü, yor: şimdiki zaman eki, du: ek-fiilin görülen geçmiş zaman çekimi)."
+                },
+                {
+                  "baslik": "Ek-Fiilin Dört Çekimi",
+                  "metin": "Ek-fiilin dört çekimi vardır: Görülen Geçmiş Zaman (Hikâye) Çekimi: -idi (Seyrettiğimiz film güzeldi.), Öğrenilen Geçmiş Zaman (Rivayet) Çekimi: -imiş (Sivribiberler çok acıymış.), Şart Çekimi: -ise (Durumu kötüyse evde kalsın.), Geniş Zaman Çekimi: -im, -sin, -dir, -iz, -siniz, -dirler (Ben öğretmen-im, Sen öğretmen-sin, O öğretmen-dir)."
+                },
+                {
+                  "baslik": "Ek-Fiil ve Olumsuzluk",
+                  "metin": "İsimlere gelen ek-fiilin olumsuzu ‘değil’ edatı ile yapılır. Örneğin: ‘Koşmama rağmen yorgun değilim.’ veya ‘Kaleci değilim ama kaleye geçebilirim.’ Ek-fiil ile olumsuzluk arasındaki farkı anlamak için ekleri ‘değil’ edatıyla kullanarak yazabilirsiniz."
+                },
+                {
+                  "baslik": "Ek-Fiilin Geniş Zaman Çekimi",
+                  "metin": "Ek-fiilin geniş zaman çekimi ‘-im, -sin, -dir, -iz, -siniz, -dirler’ ekleriyle yapılır. Örneğin: ‘Ben öğretmen-im.’, ‘Sen öğretmen-sin.’, ‘O öğretmen-dir.’, ‘Biz öğretmen-iz.’, ‘Siz öğretmen-siniz.’, ‘Onlar öğretmen-dirler.’ ‘-dir’ eki bazen cümleden düşürülebilir ve yüklem yine ek-fiilin geniş zaman çekimi olur."
+                },
+                {
+                  "baslik": "Ek-Fiil ve Bildirme Eki",
+                  "metin": "Bazı kaynaklarda ‘-dır’ eki, ‘bildirme eki’ olarak geçer ve kesinlik ya da ihtimal anlamı katacak şekilde kullanılır. Örneğin: ‘Evde olmadığına göre, arkadaşına gitmiştir.’ (ihtimal), ‘İnce ünlüden sonra, ince ünlüler kullanılmalıdır.’ (kesinlik)."
+                }
+              ],
+              "Fiilimsiler" : [
+                {
+                  "baslik": "Fiilimsiler (Eylemsiler)",
+                  "metin": "Fiilimsiler, kökü fiil olduğu halde, çeşitli ekler alarak, cümlede isim, sıfat, zarf olarak kullanılan sözcüklerdir. Fiilimsi ekleri yapım eki sayıldığından türemiş sözcüklerdir. Fiilimsiler isim çekim eklerini alabilirler fakat fiil gibi çekimlenemezler, kip ve kişi eki almazlar. Eylem anlamını tamamen yitirmezler ve olumsuzluk eki alabilirler."
+                },
+                {
+                  "baslik": "İsim-Fiil (Adeleym)",
+                  "metin": "İsim-fiil, fiil köküne ‘-mek, -mak, -me, -ma, -ış, -iş, -uş, -üş’ eklerinin eklenmesiyle oluşur. Örnekler: 'Voleybol oynamayı severim.', 'Onun gülüşüne sinir oluyorlardı.', 'Yürümek insanı rahatlatıyor.' Bazı isim-fiiller fiilimsi özelliğini kaybedip kalıcı isim oluşturabilirler, örneğin: 'Kazmaları alıp, yola çıkalım.'"
+                },
+                {
+                  "baslik": "Sıfat-Fiil (Ortaç)",
+                  "metin": "Sıfat-fiil, fiil köküne ‘-an, -ası, -mez, -ar, -dik, -ecek, -miş’ gibi eklerin eklenmesiyle oluşur. Bu eklerle oluşan fiiller sıfat olarak kullanılır. Örnekler: 'Görünen köy kılavuz istemez.', 'Yıkılası virane bizi perişan etti.', 'İşe yarar bir tornavida bulamadım.' Bazı durumlarda, isim düşer ve adlaşmış sıfat-fiil oluşur, örneğin: 'Gelen, gideni aratır.'"
+                },
+                {
+                  "baslik": "Zarf-Fiil (Bağ-Fiil, Ulaş)",
+                  "metin": "Zarf-fiil, fiil köküne ‘-e, -ip, -ince, -erek, -ken, -meden, -meksizin, -dıkça, -eli, -r, -mez, -casına, -dığında, -esiye’ gibi eklerin eklenmesiyle oluşur. Bu ekler fiilin anlamını genişletir ve cümlede zarf olarak kullanılır. Örnekler: 'O ağacı gördükçe seni hatırlıyorum.', 'Gülünce yanakları al al oldu.', 'Yağmur yağarken hüzünlenirim.'"
+                }
+              ],
+              "Ekler" : [
+                {
+                  "baslik": "EKLER",
+                  "metin": "Sözcük kök veya gövdelerine gelerek yeni sözcükler türeten ya da sözcüğün cümle içerisindeki kullanımını kolaylaştıran seslere “ek” denir.\nTürkçe sondan eklemeli bir dil olduğu için; ek, genelde sözcük sonuna gelir.\n\nNot: Ek kavramına geçmeden önce kök ve gövde kavramlarının bilinmesi gerekir."
+                },
+                {
+                  "baslik": "KÖK",
+                  "metin": "Sözcüğün anlamlı en küçük parçasına kök denir.\n\nUYARI: Burada dikkat edilmesi gereken bir husus vardır. Sözcük ile sözcüğün ek aldıktan sonraki hali arasında anlam ilişkisi bulunması gerekir.\n\nÖrneğin; “Arabam” sözcüğünün kökü “ar, ara, arab” olamaz.\nÇünkü bunlarla arabam sözcüğü arasında bir anlam ilişkisi yoktur. Bu sözcüğün kökü “araba” dır."
+                },
+                {
+                  "baslik": "GÖVDE",
+                  "metin": "Kök halindeki sözcüğün yapım eki almasıyla gövde oluşur. Kök, gövde haline geçerken anlam değişikliğine uğrar. Tür ve görev değişikliğine uğrayabilir.\nÖrnek: Göz-lük\nGöz: Kök        Gözlük: Gövde        -lük: Yapım eki"
+                },
+                {
+                  "baslik": "YAPIM EKLERİ",
+                  "metin": "Eklendiği sözcüğün anlamını ve bazen de türünü değiştiren eklerdir.\n\nYapım ekleri dörde ayrılır:\n1) İsimden İsim Türeten Ekler\nTuz-luk, Baş-lık, Krema-lı\n2) İsimden Fiil Türeten Ekler\nYaş-a, Çok-al\n3) Fiilden Fiil Türeten Ekler\nKoş-tur, Uyu-ma\n4) Fiilden İsim Türeten Ekler\nYaz-mak, Uyu-ma, Bak-ış"
+                },
+                {
+                  "baslik": "ÇEKİM EKLERİ",
+                  "metin": "Eklendiği kelimenin anlamını ve türünü değiştirmeyen; sadece kullanımını kolaylaştırıp, görevini belirleyen eklerdir.\n\n1) İSİM ÇEKİM EKLERİ:\nYükleme (Belirtme) Hali: (-ı, -i, -u, -ü)\nYönelme Hali: (-e, -a)\nBulunma Hali: (-de, -da)\nÇıkma Hali: (-den, -dan)\n\n2) Çoğul Eki: (-ler, -lar)\n\n3) Eşitlik Eki: (-ce, -ca, -çe, -ça)\n\n4) Vasıta Eki: (-le, -la)"
+                },
+                {
+                  "baslik": "EK-FİİL EKLERİ",
+                  "metin": "İsimlerin yüklem olarak kullanılmasını sağlayan eklerdir. Ek-fiil ekleri: (-idi, -imiş, -ise, -im, -sin, -dir, -iz, -siniz, -dirler)\nÖrnek: Ben öğrenciyim."
+                },
+                {
+                  "baslik": "Soru Eki",
+                  "metin": "Aslında soru edatıdır. Cümleye soru anlamı katar. Değişik anlamlar için kullanılabilir. Her zaman ayrı yazılır.\nÖrnek: Dün gelmeyen öğrenci sen miydin?"
+                },
+                {
+                  "baslik": "FİİL ÇEKİM EKLERİ",
+                  "metin": "Kip ekleri:\n\n- Görülen Geçmiş Zaman: (-dı, -di, -du, -dü)\n- Öğrenilen Geçmiş Zaman: (-mış, -miş, -muş, -müş)\n- Şimdiki Zaman: (-yor, -mekte)\n- Gelecek Zaman: (-ecek, -acak)\n- Geniş Zaman: (-r, -ır)\n\nKişi ekleri:\nGel-di-m, Gel-di-n, Gel-di-k, Gel-di-niz, Gel-di-ler"
+                }
+              ],
+              "Sözcük Yapısı" : [
+                {
+                  "baslik": "SÖZCÜĞÜN YAPISI (BASİT, TÜREMİŞ, BİRLEŞİK)",
+                  "metin": "Sözcükler yapı yönüyle üçe ayrılır.\n\n1-BASİT SÖZCÜKLER:\n*Yapım eki almazlar ve tek sözcükten oluşurlar.\n*Çekim eki alabilirler.\n*Kök halinde bulunurlar.\n\nKitap, Ol, Mavi, Kim\n\nKitab-ı, Ol-acak, Mavi-y-di, Kim-den\n\nNot: Yabancı dillerden dilimize giren sözcükler, kendi dillerinde ek alsa dahi, dilimizde “basit” kabul edilir.\n\nSelamet, Edebiyat, Nadan, Mesuliyet\n\n2-TÜREMİŞ SÖZCÜKLER:\n*Yapım eki alırlar ve tek sözcükten oluşurlar.\n*Çekim eki de alabilirler.\n*Gövde halinde bulunurlar.\n\nKitap-çı, Ol-uş, Mavi-li, Sabah-çı, Kim-lik\n\n3-BİLEŞİK SÖZCÜKLER:\n*En az iki kelimenin bir araya gelmesi ile oluşan sözcüklerdir.\n*Bu sözcükler bir araya gelirken, ses ve anlam değişikliğine uğrayabilirler.\n\nBalkabağı, Çekyat, Pazartesi"
+                },
+                {
+                  "baslik": "İSİMLERİN YAPISI",
+                  "metin": "1-Basit İsim:\n*Yapım eki almamış ve tek sözcükten oluşmuş isimlerdir.\n*Çekim eki alabilirler.\nÇocuk, İstanbul, Geyik, Gül\n\n2-Türemiş İsim:\n*Yapım eki almış ve tek sözcükten oluşmuş isimlerdir.\n*Çekim eki de alabilirler.\n\nAçlıktan, Yorgunlar\n\nNot: Türemiş isimler; fiilden, isimden ya da yansımadan türeyebilir.\n\n*Fiilden türemiş isimler:\nBil-gi, Sil-gi, Kaç-ık, Uç-ak, Yaz-gı, Çöz-üm, Yat-ak\n\n*İsimden türemiş isimler:\nGöz-lük-çü, Alman-ca, Meslek-taş, Tuz-suz, Beş-inci\n\n*Yansımadan türemiş isimler:\nCıv-ıltı, Gür-ültü, Pat-ırtı, Uğ-ultu\n\n3-Birleşik İsim:\n*Birden fazla sözcükten oluşan isimlerdir.\n*Çeşitli Şekillerde Oluşabilir:\n\nİsim+İsim: (İsim tamlaması şeklinde olabilir.)\nAslanağzı, Danaburnu, Gözbebeği, Hanımeli, Ateşböceği, Yerelması, Rüzgargülü, Arıkuşu, İşyeri, Serçeparmak, Camgöbeği, Atatürk, Binbaşı, Beşiktaş, Soyadı\n\nSıfat+İsim: (Sıfat tamlaması şeklinde olabilir.)\nAcıgöl, Boşboğaz, Ortakulak, İlkokul, Kabakulak, Eskişehir, Sivrisinek, Açıkgöz, Yenikapı, Uludağ, Bozkır\n\nİsim+Fiil:\nMirasyedi, Yurtsever, İmambayıldı, Ateşkes, Tanksavar, Kuşkonmaz, Külbastı, Hünkarbeğendi, Gecekondu, Isıölçer\n\nFiil+Fiil:\nKaptıkaçtı, Dedikodu, Çekyat, Gelgit, Biçerdöver, Uyurgezer, Çakaralmaz\n\nFiil+İsim:\nAtardamar, Toplardamar, Albeni\n\nİsim+Fiilimsi:\nAğaçkakan, Oyunbozan, Çöpçatan, Dalgakıran\n\nYansıma+Yansıma:\nÇırçır, fısfıs, çıtçıt\n\nNot: Birleşik isimler oluşurken ses değişiklikleri meydana gelebilir.\nCuma-ertesi: Cumartesi\nKayın-ana: Kaynana\nKahve altı: Kahvaltı\nSütlü aş: Sütlaç\nNe asıl: Nasıl\nNe için: Niçin\n\nNot: Birleşik isimler oluşurken sözcükler gerçek anlamını yitirebilir.\nAslanağzı (Mecaz+Mecaz)\nMirasyedi (Gerçek+Mecaz)\nUyurgezer (Gerçek+Gerçek)"
+                },
+                {
+                  "baslik": "SIFATLARIN YAPISI",
+                  "metin": "1- Basit Sıfat:\n*Yapım eki almamış ve tek sözcükten oluşmuş sıfatlardır.\n*Sıfatlar, istisnalar hariç çekim eki almazlar. Alırlarsa adlaşırlar.\n\nMor göz, Üç kişi, Şu adam, Güzel araba (İstisna: Güzelim araba)\n\n2- Türemiş Sıfat:\n*Yapım eki almış ve tek sözcükten oluşan fiillerdir.\n*İsim ya da fiil kökünden oluşabilirler.\n\nSıvalı duvar, Susuz yaz, Geçen yıl, Evcil kuş, İnatçı keçi, Gergin ortam, Ürkek tay, Bozuk süt, Üçüncü araç, Beşer kalem, Üçlük atış\n\n3- Birleşik Sıfat:\n*Üç şekilde oluşur:\n\na) Kaynaşmış Birleşik Sıfatlar:\nEz iki sözcüğün, tür ve anlam kaybına uğrayarak kaynaşmasından oluşur.\nCingöz Recai, Açıkgöz çocuk, Oyunbozan insan, Çöpçatan kadın, Vurdumduymaz veli, Birçok hikâye\n\nb) Kurallı Birleşik Sıfatlar:\n*Bu tür sıfatlarda, birleşik sözcüklere istisna olarak, sözcüklerin ayrı yazıldığı görülür.\n\nSarı saçà Saçı sarı kız\nAçık kapıà Kapısı açık ev\nKırık kolà Kolu kırık makine\n\nSıfat tamlamasına ek getirilir (-lı, -sız, -lık) ve yeni yapı başka bir ismi niteler.\nÜç günà Üç günlük dünya\nBeş para à Beş parasız adam\nKırk yılà Kırk yıllık dost"
+                },
+                {
+                  "baslik": "FİİLLERİN YAPISI",
+                  "metin": "1-BASİT FİİLLER:\n*Yapım eki almamış ve tek sözcükten oluşan fiillerdir.\n*Çekim eklerini alabilir.\n\nSev- , Kal- , Geç- , Al- , İç- , Düş-\n\nSeveceksiniz.\n\nNot: Birleşik zamanla birleşik fiil karıştırılmamalıdır.\nYazıyordum. >> Birleşik zaman – Basit Fiil\n\n2-TÜREMİŞ FİİLLER:\n*Yapım eki almış ve tek sözcükten oluşan fiillerdir.\n*Çekim eki de alabilirler.\n\nSev-il- , Düş-ür- , Kork-ut- , Su-la- , Yaş-a- , Temiz-le-\n\nSevineceksiniz.\n\nNot: Türemiş fiiller, isimden ya da fiilden türeyebilir.\nTemizlemişsin > İsimden türemiş “türemiş fiil”\nKaçırdınız > Fiilden türemiş “türemiş fiil”\n\n3-BİRLEŞİK FİİLLER:\n*Birden fazla sözcükten oluşan fiillerdir.\n\nBu tür fiiller, üç grup altında toplanmıştır:\n\na) Yardımcı Fiil İle Kurulan Birleşik Fiiller:\n*Kendi anlamının dışında kullanılan “etmek, eylemek, olmak, kılmak, buyurmak” gibi fiiller ve ad ya da ad soylu sözcüğün bir arada kullanılması ile oluşan birleşik fiillerdir.\nİsim+ “etmek, eylemek, olmak, kılmak, buyurmak”\nİşi çabuk bitirmek için yardım etti.\nYeni ayakkabım, ayağımı rahatsız etti.\nBenimle sürekli alay ediyorlar.\nMevla sana yardım eyleye.\nBizi mutlu kıldınız.\nBana sürekli emir buyurma.\nTerli terli soğuk suyu içince hasta oldu.\nBirdenbire yok oldu.\n\nNot: Birleşik fiiller oluşurken ses düşmesi veya ses türemesi yaşanıyorsa, birleşik fiili oluşturan kelimeler bitişik yazılır.\n\nSes türemesi olmuş:\nHisset-mek, Hallol-mak, Zannet-mek, Reddet-mek\n\nSes düşmesi olmuş:\nSabret-mek, Kahrol-mak, Devret-mek, Kaybol-mak"
+                }
+              ],
+              "Cümlenin Ögeleri" : [
+                {
+                  "baslik": "CÜMLENİN ÖĞELERİ",
+                  "metin": "1-Cümle içindeki sözcüklerin, tek başlarına ya da diğer sözcüklerle grup oluşturarak yaptıkları göreve öge denir.\n\n2-Yükleme ve yüklemi anlamca tamamlayan sözcük ya da söz gruplarına öge denir.\n\n3-Cümlede “yüklem” ve “görev, anlam yönünden yükleme eşlik eden diğer parçalardan her biri”.\n\nTemel Ögeler: Yüklem, Özne\nYardımcı Ögeler: Nesne, Dolaylı Tümleç, Zarf Tümleci, (Edat Tümleci)\n\nNot: Tam bir cümle kurulabilmesi için sadece “yüklem” kullanılması yeterlidir. Çünkü “yüklem”, “özne”yi de kendi içinde barındırır.\nGel.\n(Sen: Gizli Özne)\n(Yüklem emir kipinde ve 2. tekil şahsı içeriyor.)\n\nNot: Yüklem olmadan (eksiltili cümle hariç) cümle kurulamaz.\n\nNot: Cümlenin ögeleri bulunurken, Yüklem > Özne > Nesne sırası takip edilmelidir.\nEğer bu yapılmazsa, özne ve nesne karıştırılabilir.\n\nNot: Cümlenin ögeleri bulunurken sözcük gruplarının bölünmemesi gerekir.\n(Tamlama, ikileme, edat grubu, deyim, bileşik sözcükler vs.)\n\nNot: Bir cümlede aynı ögeden birkaç tane bulunabilir.\n\nNot: Cümlede hiçbir öge olmayan sözcükler de yer alabilir. Bunlara cümle dışı unsur denir.\nGençler, sizi her zaman bağrımıza basıyoruz."
+                },
+                {
+                  "baslik": "YÜKLEM",
+                  "metin": "*Cümlede yargıyı ortaya koyan temel ögedir.\n*Yüklem, fiil, fiilimsi ya da isimden (isim soylu sözcükten) oluşabilir.\n*Kurallı bir cümlede yüklem sonda bulunur.\n\nNot: Fiilimsi veya isim (isim soylu sözcük) yüklem olacağı zaman ek-fiil eki alır.\n(İstisna olarak bu ekin düştüğü görülür.)\nÇiçekler kadar güzelsin. (Ek-fiil almış isim soylu sözcük)\nÇiçeklerin en güzelini al. (Fiil)\nMutlu olan, çiçekleri dalında görendir. (Ek-fiil almış fiilimsi)\n\nNot: Yüklem, birden fazla sözcükle de oluşabilir.\nÇatışmada vurulan, Miroğlu’nun adamıymış. (İsim tamlaması)\nBu alet, teknolojinin son harikasıdır. (İsim tamlaması)\nO günler güzel günlerdi. (Sıfat tamlaması)\nİki katlı, pembe panjurlu, şirin bir evdi. (Sıfat tamlaması)\nYoksullara sürekli yardım ederdi. (Bileşik fiil)\nDüştüğü yerden zorla çıkarabildim. (Bileşik fiil)\nDışarıdan gelen koku, burnumun direğini kırdı. (Deyim)\nOnu bir yerden gözüm ısırıyor. (Deyim)\nArabanın kaportası, temiz gibi. (Edat grubu)\nSanat eseri oluşturmak hiç kolay değil. (Edat grubu)\n\nNot: Birden fazla cümle tek yüklemle kurulabilir.\nOdunları keserle, kömürleri baltayla kırdı.\n\nNot: Bazı istisna cümlelerde yüklem yer almaz. Bunlar eksiltili cümlelerdir.\nKarşı dağdan bir ıhlamur kokusu…\n\nSoru: “Yüklem, yok.” Cümlesinin yüklemi var mıdır?\nVardır. Yüklem “yok” kelimesidir.\nÖznesi, “yüklem” kelimesidir."
+                },
+                {
+                  "baslik": "ÖZNE",
+                  "metin": "*Fiil cümlelerinde “işi yapan”, isim cümlelerinde ise “olan” durumundaki ögedir.\n*Özne hal eki almaz.\n*Bazı cümlelerde özne, cümlede yer almayıp, yüklemden çıkarılabilir. Bu tür öznelere “gizli özne” denir.\n\n*Özneyi bulmak için;\n-fiil cümlelerinde “kim?, ne?”,\n-isim cümlelerinde “olan kim?, olan ne?” soruları sorulur.\n\nHavada bulut yok. (yok: yüklem, yok olan ne? : bulut=Özne)\nAli, bize geldi. (Geldi: yüklem, gelen kim? : Ali=Özne)\nTop, yuvarlaktır.\n(O) Bize geldi. (O: Gizli özne)\nDuman, tüm mahalleyi sarmıştı.\nArabanın sahibi, öldü. (Özne, isim tamlamasından oluşmuş.)\nGizli özne bu cümlede yok. (Özne, sıfat tamlamasından oluşmuş.)\nBen, sana demedim mi? (Özne, zamirden oluşmuş.)\nGelen, gideni aratır. (Özne, fiilimsiden oluşmuş.)\nDünden beri görüşemediğim öğrencim, yanıma geldi. (Özne, sözcük grubundan oluşmuş.)\n\nSoru: “Bu cümlede yok, öznedir.” Cümlesinin öznesi nedir?\n(Yok sözcüğü öznedir.)"
+                },
+                {
+                  "baslik": "ÖZNE ÇEŞİTLERİ",
+                  "metin": "1- Gerçek Özne:\n*Yüklemin bildirdiği eylemi gerçekten yapan ögedir.\n*Cümlede gerçek özne gizlenmiş olabilir. Buna “gizli” gerçek özne denir.\n*Gizli özne cümle ögesi olarak alınmaz.\n\nPolis, çatışmada üç hırsızı vurdu. (Gerçek Özne)\nÇocuklar, sofrayı serdi. (Gerçek Özne)\n(O) Daha fazla dayanamadı. (“O”, Gizli Gerçek Özne)\n\n2- Sözde Özne: Yüklemin bildirdiği eylemi yapmayan fakat yapıyormuş gibi görünen öznelerdir.\n\nPolis, çatışmada vuruldu.\n(Polis, işi yapan değil, işten etkilenendir.\nAma, “kim vuruldu?” sorusuna cevap verdiği için özne olarak alınır.)\nSofra, serildi.\n(Sofra, kendi kendine serilmez.\nBaşkaları tarafından serilmiştir. Bu yüzden sözde öznedir.)\n\nBir saat içinde yazıldı.\n(“O”, Gizli Sözde Özne)\n\nNot: Bazı cümlelerde özne belirsizdir.\nKırmızı ışıkta geçilmez.\n\nNot: İki cümle tek özneyle kurulabilir.\nSağır duymaz, uydurur.\n\nNot: Bir cümlede birden fazla özne bulunabilir.\nVeli, kardeşim ve ben yarın sinemaya gideceğiz."
+                },
+                {
+                  "baslik": "ÖRTÜLÜ ÖZNE",
+                  "metin": "*Bazen edilgen çatılı eylemlerle kurulmuş cümlelerde gerçek özne \"-ce\" eki ya da \"tarafından, nedeniyle, etkisiyle\" gibi sözcüklerin yardımıyla bir tümleç içinde yer alabilir. Buna “örtülü özne” denir.\n*Örtülü özneler yalnızca edilgen çatılı cümlelerde bulunur.\n\nYasa, Meclisçe kabul edildi.\nMeclisçe > Zarf Tümleci (Örtülü özne)\nCam, şiddetli rüzgârın etkisiyle kırıldı.\nŞiddetli rüzgarın etkisiyle > Zarf Tümleci (Örtülü özne)\nKar nedeniyle yollar kapandı.\nKar nedeniyle > Zarf Tümleci (Örtülü özne)\nÖğrenciler doktorlar tarafından aşılandı.\nDoktorlar tarafından > Zarf Tümleci (Örtülü özne)"
+                },
+                {
+                    "baslik": "NESNE (DÜZ TÜMLEÇ)",
+                    "metin": "*Cümlede yüklemin bildirdiği yargıdan etkilenen ögedir.\n(Öznenin yaptığı işten etkilenen ögedir.)\n*Ad cümlelerinde genelde nesne bulunmaz.\n*Nesne, belirtili ve belirtisiz olmak üzere ikiye ayrılır.\n\na) Belirtisiz Nesne:\n*İsim hal eki almaz.\n* “Ne?” sorusuna cevap verir.\n*İşten etkilenen durumundadır.\n\n(Ben) Akşam yatmadan önce kitap okudum. (Kitap: Belirtisiz Nesne)\nGizli özne\n\n(Ben) İyileşmek için ilaç kullanıyorum. (İlaç: Belirtisiz Nesne)\nGizli özne\n\n(O) Son yazılıdan beş almış. (Beş: Belirtisiz Nesne)\nGizli özne\n\nNot: Özne ve belirtisiz nesne sorusu olarak “Ne?”yi kullandığımıza dikkat etmeliyiz.\n*Bunları karıştırmamak için cümlede, önce özne, sonra nesne bulunmalıdır.\nHız, ölüm getirir.\n(İşi yapan durumundaki “Hız” öznedir. “Ölüm” belirtisiz nesnedir.)\nFare, fındık yer.\n(İşi yapan durumundaki “Fare” öznedir. “Fındık” belirtisiz nesnedir.)"
+                  },
+                  {
+                    "baslik": "b) Belirtili Nesne",
+                    "metin": "*İsmin –i hal eki alır.\n* “Neyi? , Kimi?” sorularına cevap verir.\n*İşten etkilenen durumundadır.\nKöyden aldığı yoğurdu, şehir pazarında sattı. (Sattı: Yüklem)\nBeni daha iyi tanıyacaksınız. (Tanıyacaksınız: Yüklem)\nAyağını yorganına göre uzat. (Uzat: Yüklem)\nAhmet’i o günden sonra görmedim. (Görmedim: Yüklem)\n\nNot: Özne ile nesneyi karıştırmamak gerekir.\nTop oynarken ayağı incinmiş. (İncinen ne? Ayağı: Özne)\nBabası bize uğrayacakmış. (Uğrayacak olan kim? Babası: Özne)"
+                  },
+                  {
+                    "baslik": "DOLAYLI TÜMLEÇ",
+                    "metin": "*Cümlede “–e, -de, -den” hâl eklerini alarak,\n“neye?, neyde?, neyden?,\nnereye?, nerede?, nereden?,\nkime?, kimde?, kimden?” sorularına cevap veren ögelerdir.\n\nYanına sessizce yaklaştı. (Nereye yaklaştı?)\nElçiler saraya yeni giriyordu. (Nereye giriyordu?)\nTaştan su çıkarıyordu. (Neyden çıkarıyordu?)\nYurduma alçakları uğratma sakın! (Nereye uğratma?)\nSoranlara selam olsun! (Kime selam olsun?)\nAldıklarını arabanın bagajında unutmuş. (Nerede unutmuş?)\n\nNot: Her “-e, -de, -den” ekini alan sözcük dolaylı tümleç olmayabilir.\nGüzelliğinden, parmaklarını yersin.\n(Niçin? Güzelliğinden: zarf tümleci)\nAkşama, yemeğe gideceğiz.\n(Ne zaman? Akşama: zarf tümleci)\n(Yemeğe: dolaylı tümleç)"
+                  },
+                  {
+                    "baslik": "ZARF TÜMLECİ",
+                    "metin": "*Yüklemin, durumunu, zamanını, miktarını, yönünü, koşulunu vb. bildiren ögelerdir.\n*“Ne zaman? , Nasıl? , Neden? , Niçin? , Nere(ye)? , Ne kadar?” sorularına cevap verirler.\nAkşam olmadan oraya varmalıyız.\nZarf Tümleci……...D.T……..Yüklem\nBaşından geçenleri ağlaya ağlaya anlatıyordu.\nBelirtili Nesne……………….Z.T………………Yüklem\nMisafirler yukarı çıktı.\nÖzne………….Z.T…..…Y.\nBu koşuya çok çalıştık.\nDolaylı T……Z.T…..Y.\nBüyüklerinle nasıl konuşuyorsun?\n…Edat T.........Z.T……………..Y.\nSiparişlerim ne zaman gelecek?\nÖzne……………….Z.T……………Y.\n\nNot: “Nereye?” sorusunun cevabı olan sözcük ek alırsa, “Dolaylı Tümleç” olur.\nMisafirler yukarıya çıktı.\nÖzne…………..D.T………Y.\nAz önce içeriye girdi.\nZarf T……..D.T……..Y."
+                  },
+                  {
+                    "baslik": "EDAT (İLGEÇ) TÜMLECİ",
+                    "metin": "* “ile, için vb. edatlarla kurulan; “ne ile? , kiminle? , niçin? , kimin için?” sorularına cevap verebilen edat gruplarına edat tümleci denir.\n*Bazı kaynaklarda, edat tümleci diye bir tümleç olmadığı, bunların zarf tümleci olarak alınması gerektiği bildirilmiştir.\nBiyoloji sınavına abisiyle çalıştı.\nDolaylı Tümleç……….E.T………Y.\n\nYarışmak için tüm şartlar hazırdı.\nEdat T………………….Özne………….Y\nSabaha kadar uyuyamadım.\nZarf T………….…………..Y.\n\n(Burada kadar edatı kullanılmasına rağmen, zaman ifade ettiği için “Sabaha kadar”:Zarf Tümlecidir. Deniliyor)\nAt gibi kişniyor. (At gibi: Nasıl? sorusunun cevabıdır.)\nZarf T……..Y."
+                  }
+              ],
+              "Fiil Çatısı" : [
+                {
+                  "baslik": "Özneyi Göre Fiiller",
+                  "metin": "Fiil, özneyle ilişkisine göre etken, edilgen, dönüşlü, ve işteş fiil olarak kategorize edilir. Özellikle, eylemin özneye nasıl yansıdığına göre fiilin yapısı belirlenir."
+                },
+                {
+                  "baslik": "1- Etken Fiiller",
+                  "metin": "Etken fiiller, öznenin bizzat yaptığı eylemleri belirtir. Özne, gerçek özne olarak kabul edilir. Gizli özne de olabilir. Örnek: 'Kitap, ikinci dünya savaşında yaşananları anlatıyor.' (Anlatıyor: Etken çatılı fiil)"
+                },
+                {
+                  "baslik": "2- Edilgen Fiiller",
+                  "metin": "Edilgen fiiller, eylemin öznesinin belli olmadığı ve eylemin işten etkilenen tarafı tarafından gerçekleştirildiği fiillerdir. Edilgenlik genellikle '-l' ve '-n' ekleriyle yapılır. Örnek: 'Çamaşırlar güzelce yıkandı.' (Yıkandı: Edilgen çatılı fiil)"
+                },
+                {
+                  "baslik": "3- Dönüşlü Fiiller",
+                  "metin": "Dönüşlü fiiller, öznenin hem eylemi yapan hem de işten etkilenen olduğu fiillerdir. Bu fiiller dönüşlülük ekleriyle yapılır. Örnek: 'Ahmet, yıkandı, giyindi, tarandı.' (Yıkandı: Dönüşlü fiil)"
+                },
+                {
+                  "baslik": "4- İşteş Fiiller",
+                  "metin": "İşteş fiiller, birden fazla öznenin karşılıklı olarak yaptığı eylemleri anlatır. İşteşlik, '-ş' eki ile yapılır. Örnek: 'Kuşlar heyecanla uçuştu.' (Uçuştu: İşteş fiil)"
+                },
+                {
+                  "baslik": "Nesneye Göre Fiiller",
+                  "metin": "Fiillerin nesne ile ilişkisine göre geçişli ve geçişsiz fiiller olarak ikiye ayrılır. Geçişli fiiller, nesne alabilirken, geçişsiz fiiller nesne almaz."
+                },
+                {
+                  "baslik": "1- Geçişli Fiiller",
+                  "metin": "Geçişli fiiller, cümlede nesne alabilen fiillerdir. Örnek: 'O adamı daha önce hiç görmemiştim.' (Görmemiştim: Geçişli fiil)"
+                },
+                {
+                  "baslik": "2- Geçişsiz Fiiller",
+                  "metin": "Geçişsiz fiiller, nesne alamayan fiillerdir. Örnek: 'O da bizimle geldi.' (Geldi: Geçişsiz fiil)"
+                },
+                {
+                  "baslik": "3- Oldurgan Fiiller",
+                  "metin": "Oldurgan fiiller, geçişsiz fiilleri geçişli hale getiren fiillerdir. '-r, -t, -tır' ekleriyle nesne alır hale gelir. Örnek: 'Otobüsü az ileride durdurdu.' (Durdurdu: Oldurgan fiil)"
+                },
+                {
+                  "baslik": "4- Ettirgen Fiiller",
+                  "metin": "Ettirgen fiiller, bir işi başkasına yaptırmak anlamına gelir. Bu fiiller '-r, -t, -tır' ekleriyle yapılır. Örnek: 'Öğretmen ikinci soruyu çözdürdü.' (Çözdürdü: Ettirgen fiil)"
+                }
+              ],
+              "Cümle Çeşitleri" : [
+                {
+                  "baslik": "Yüklemin Yerine Göre Cümleler (Öğelerinin Dizilişine Göre Cümleler)",
+                  "metin": "Cümlelerin yüklem sırasına göre düzenlenmesiyle farklı türler oluşur. Bu türler arasında kurallı, kuralsız ve eksiltili cümleler yer alır."
+                },
+                {
+                  "baslik": "1-Kurallı Cümle (Düz Cümle)",
+                  "metin": "Yüklemi sonda bulunan, öznenin ve yüklemin açıkça belirtildiği cümlelerdir. Örnek: 'Tüm zamanların en iyi filmiydi.'"
+                },
+                {
+                  "baslik": "2-Kuralsız Cümle (Devrik Cümle)",
+                  "metin": "Yüklemi sonda olmayan ve öğelerin farklı bir sıralama ile kullanıldığı cümlelerdir. Örnek: 'Geceleyin bir ses böler uykumu.'"
+                },
+                {
+                  "baslik": "3-Eksiltili Cümle",
+                  "metin": "Yüklemi bulunmayan ve genellikle üç nokta ile tamamlanan cümlelerdir. Örnek: 'Kır atın yanında duran, ya huyundan ya suyundan…'"
+                },
+                {
+                  "baslik": "Yüklemin Türüne Göre Cümleler",
+                  "metin": "Cümleler, yüklemlerinin türüne göre fiil cümlesi veya isim cümlesi olarak sınıflandırılabilir."
+                },
+                {
+                  "baslik": "1-Fiil Cümlesi",
+                  "metin": "Yüklemi çekimli bir fiil olan cümlelerdir. Örnek: 'Aç ayı oynamaz.'"
+                },
+                {
+                  "baslik": "2-İsim Cümlesi",
+                  "metin": "Yüklemi isim ya da isim soylu sözcüğün ek-fiil almasıyla oluşan cümlelerdir. Örnek: 'Bugün hava güzel.'"
+                },
+                {
+                  "baslik": "D) Yapılarına Göre Cümleler",
+                  "metin": "Cümleler, yapısal olarak basit, birleşik, sıralı ve bağlı cümleler olarak dört türde incelenir."
+                },
+                {
+                  "baslik": "1-Basit Cümle",
+                  "metin": "Tek bir yargı bildiren ve tek yükleme sahip olan cümlelerdir. Örnek: 'Gel.'"
+                },
+                {
+                  "baslik": "2-Birleşik Cümle",
+                  "metin": "Birden fazla yargı içeren cümlelerdir. Yan cümleler temel cümlenin tamamlayıcısı olabilir."
+                },
+                {
+                  "baslik": "a) Girişik Birleşik Cümle",
+                  "metin": "Bir temel cümle ve fiilimsiyle kurulmuş yan cümlelerden oluşur. Örnek: 'Okuldan gelen çocuk, içeri girip koltuğa oturdu.'"
+                },
+                {
+                  "baslik": "b) Şartlı Birleşik Cümle",
+                  "metin": "Yan cümlenin temel cümleye şart koyduğu birleşik cümlelerdir. Yan cümlede '-se' eki bulunur. Örnek: 'Benimle gelirsen, sana da çay ısmarlarım.'"
+                },
+                {
+                  "baslik": "c) Ki’li Bileşik Cümle (İlgi Cümlesi)",
+                  "metin": "Yan cümlenin temel cümleye 'ki' eki ile bağlandığı birleşik cümlelerdir. Örnek: 'İsterdim ki bana saygılı davransın.'"
+                },
+                {
+                  "baslik": "d) İç İçe Bileşik Cümle",
+                  "metin": "Bir cümlenin başka bir cümle içinde kullanılmasıyla oluşur. Örnek: 'Sinemaya gidiyorum.' dedi."
+                },
+                {
+                  "baslik": "3-Sıralı Cümle",
+                  "metin": "Birden çok cümlenin virgül veya noktalı virgül ile birbirine bağlanmasıyla oluşan cümlelerdir."
+                },
+                {
+                  "baslik": "a) Bağımlı Sıralı Cümle",
+                  "metin": "Öğelerinin biri ya da birkaçı ortak olan sıralı cümlelerdir. Örnek: 'Ölüsü olan bir gün, delisi olan her gün ağlar.'"
+                },
+                {
+                  "baslik": "b) Bağımsız Sıralı Cümle",
+                  "metin": "Hiçbir öğesi ortak olmayan sıralı cümlelerdir. Örnek: 'At ölür, meydan kalır; yiğit ölür, şanı kalır.'"
+                },
+                {
+                  "baslik": "4-Bağlı Cümle",
+                  "metin": "Birbirine bağlaçlarla bağlanan cümlelerdir. Örnek: 'Geldi ve gitti.'"
+                }
+              ],
+              "Anlatım Bozukluğu" : [
+                {
+                  "baslik": "Duruluk ilkesine ayrılık",
+                  "icerik": "Everest’in en yüksek zirvesine bayrağımızı diktik. (zirve zaten en yüksek yerdir.) Doktor ona iki günde bir günaşırı ilaç önerdi. (Günaşırı zaten iki günde bir demektir.) Farsçadan dilimize geçen yabancı sözcükleri atmalıyız. (Farsça zaten yabancı bir dildir.) İki kardeşten en küçüğü hastaneye yatırıldı. (İki kardeşten biri büyük biri küçük olur.) Bu kadar yol yaya yürümekle biter mi? (yaya zaten yürümek anlamına gelir.) Annesinin kulağına sessizce fısıldadı. (Fısıldamak zaten sessizce olur.) Köşeyi dönünce aniden karşıma çıkıverdi. (Çıkıvermek zaten aniden olan bir şeydir.) Burada sıcaklık sıfırın altında eksi iki derece (Sıfırın altı zaten eksidir.)"
+                },
+                {
+                  "baslik": "Gereksiz yardımcı eylem kullanımı",
+                  "icerik": "Programınıza başvuruda bulunanlardan seçeceğiz. (başvuranlardan) Ondan kuşku etmen doğru değil. (Kuşkulanman) Hasta olmana çok üzüldüm. (Hastalanmana) Öğrenciler içeriye teker teker giriş yaptılar. (Girdiler)"
+                },
+                {
+                  "baslik": "Gereksiz ek kullanım",
+                  "icerik": {
+                    "ler": "Özne insansa + çoğulsa => yüklem tekil veya çoğul olabilir. Onlar askerliklerini yeni bitirdiler/ bitirdi. Özne insan dışı + çoğulsa => yüklem tekil olur. Köpekler sabaha kadar sokakta dolaştı. Özne insan dışı + çoğul + teşhis => yüklem tekil veya çoğul olabilir. Kuşlar sevinçle balık dolu tekneyi karşıladı/ karşıladılar. Öznede sayı varsa yüklem tekil olur. Milyonlarca çocuk aşılandı.",
+                    "den": "Cümlede sebep/neden varsa '-den' eki olamaz. Hastalanmasının sebebi soğuk su içmesidir. (içmesindendir olmaz)",
+                    "ki": "Muğla yöresindeki çıkan yangında ciğerlerimiz kül oldu. (Bu cümlede '-ki' olmaz doğrusu = Muğla yöresinde çıkan yangında ciğerlerimiz kül oldu.)"
+                  }
+                },
+                {
+                  "baslik": "Sözcüğün yanlış anlamda kullanılması",
+                  "icerik": "Paramız olmadığı için okuma olasılığımızda azdı. (Yerine “imkânı” gelmeli.) Marmara’ya o yıl inanılmaz çoğunlukta bir balık akını. (Yerine “çoklukta” gelmeli.) Yapılan yardımlar refah bir hayat sürmemize neden oldu. (Yerine “yardımcı” gelmeli.) Pamuk işçilerinin fiyatlarında dalgalanmalar oldu. (Yerine “ücretinde” gelmeli.) Kitabı tekrar yayınlamayı düşünüyoruz. (Yerine “yayımlamayı” gelmeli.) Gezi sırasında bol bol resim çekindik. (Yerine “fotoğraf” gelmeli.) Annesi ona kışlık kıyafet dokumuş. (Yerine “örmüş” gelmeli.) Fidanları özenle ekmeye çalışıyoruz. (Yerine “dikmeye” gelmeli.) Görmeyeli boyun büyümüş. (Yerine “uzamış” gelmeli.) Bu yıl üniversitede öğretim göreceğiz. (Yerine “öğrenim” gelmeli.) Kazanın sonucunda sakat kalmış. (Yerine “sonunda” gelmeli.) Bu Türkiye’ye özel bir tutumdur. (Yerine “özgü” gelmeli.) Kavganın çıkışında Ali, etken rol oynamış. (Yerine “etkin” gelmeli.)"
+                },
+                {
+                  "baslik": "Anlamca Çelişen İfadeler",
+                  "icerik": "Kesin-olasılık/ tam-yaklaşık/ sürat-yavaş Tam yüz civarı makale okudum. Bu yazarımız asla baskı altında kalmaz diye düşünüyorum. Yağmur usul usul iniverdi şehrimize."
+                },
+                {
+                  "baslik": "Sözcüğün Yanlış Yerde Kullanılması",
+                  "icerik": "Bu futbolcu fazla topla oynuyor. (Doğrusu = …topla fazla oynuyor.) Başbakan dört günde petrol çıkaran üç ülkeyi ziyaret edecek. (Doğrusu = …üç ülkeyi dört günde ziyaret edecek.) Yeni eve geldim ki telefonum çaldı. (Doğrusu = Eve yeni geldim ki…) Sebzeler çok suda kalınca şişti. (Doğrusu = …suda çok kalınca şişti.)"
+                },
+                {
+                  "baslik": "Mantık Sıralama Hatası",
+                  "icerik": "Bu karar mecliste 300’e karşı 220 oyla kabul edildi. (Doğrusu =… 220’ye karşı 300 oyla kabul edildi.) Bu kaza ölüme hatta felce sebep olabilir. (Doğrusu = Bu kaza felce hatta ölüme sebep olabilir.) Mehtaplı bir günde yağmurda dolaşmak ne hoş. (Mehtapta yağmur olmaz.)"
+                },
+                {
+                  "baslik": "Anlam Belirsizliği",
+                  "icerik": "Evini gerçekten zor buldum. (Gizli özne burada “senin” ya da “onun” olabilir belli değildir.) Küçük masanın altına gir! (Küçük masamı yoksa küçük bir çocuk mu?)"
+                },
+                {
+                  "baslik": "Öğelerle ilgili eksiklikler",
+                  "icerik": "Güzellikleri severim, içli dışlı olmak isterim. (Zarf tümleci olan “güzelliklerle” cümlede eksiktir. Doğrusu = Güzellikleri severim, güzelliklerle içli dışlı olmak isterim.) Karşılaşma esnasında boksörün kaşı açıldı ve maçı bıraktı. (Özne olan “boksör” cümlede eksiktir. Doğrusu = Karşılaşma esnasında boksörün kaşı açıldı ve boksör maçı bıraktı.) Çayı az kahveyi ise hiç içmem. (Yüklem olan “içerim” cümlede eksiktir. Doğrusu = Çayı az içerim kahveyi ise hiç içmem.) Aldığı şehirlere Türkleri yerleştirmek Türkleştirdi. (Nesne olan “şehirleri” cümlede eksiktir. Doğrusu = Aldığı şehirlere Türkleri yerleştirmek şehirleri Türkleştirdi.)"
+                },
+                {
+                  "baslik": "Çatı uyuşmazlığı",
+                  "icerik": "Çatı ekleri “-ıl, -ın” fiilimsi ve yüklemde ikisinde de yer olmalı ya da ikisinde de yer almamalı. Önce güzel bir kahvaltı yapıp (Doğrusu = yapılıp) sonra yola çıkılabilir. Her ne kadar şehir dışına taşınılmışsa da beklenen rahatlığa kavuşamamıştı. (İkisinde de yok doğru.)"
+                },
+                {
+                  "baslik": "Ek eylem eksikliği",
+                  "icerik": "Ben dua ediyor o ise ağlıyordu. (Özne ortak değilse iki yüklemde ek eylemdir) (Doğrusu = Ben dua ediyordum o ise ağlıyordu.)"
+                },
+                {
+                  "baslik": "Tamlamalarla ilgili yanlışlıklar",
+                  "icerik": "Bize toplantıda pasta ve meyve suyu ikram ettiler. (Doğrusu = Bize toplantıda meyve suyu ve pasta ikram ettiler.) Burada her yıl kültür sanatsal etkinlikler yapılıyor. (Doğrusu = Burada her yıl kültür etkinlikleri sanatsal etkinlikler yapılıyor.)"
+                }
+              ] ,
+              "Bazı Kelime ve Eklerin Yazılışı": [
+                  {
+                    "baslik": "Soru Eki mı/mi/mu/mü’nün Yazılışı",
+                    "metin": "Bu ek gelenekleşmiş olarak ayrı yazılır ve kendisinden önceki kelimenin son ünlüsüne bağlı olarak ünlü uyumlarına uyar."
+                  },
+                  {
+                    "baslik": "Bağlaç Olan da/de’nin Yazılışı",
+                    "metin": "Bağlaç olan da/de ayrı yazılır ve kendisinden önceki kelimenin son ünlüsüne bağlı olarak büyük ünlü uyumuna uyar."
+                  },
+                  {
+                    "baslik": "Bağlaç Olan ki’nin Yazılışı",
+                    "metin": "Bağlaç olan ki ayrı yazılır. Birkaç örnekte ki bağlacı kalıplaşmış olduğu için bitişik yazılır."
+                  },
+                  {
+                    "baslik": "İle’nin Yazılışı",
+                    "metin": "İle, ayrı olarak yazılabildiği gibi kelimelere eklenerek de yazılabilir."
+                  },
+                  {
+                    "baslik": "Bulunma Durumu Eki -da/-de/-ta/-te’nin Yazılışı",
+                    "metin": "Bulunma durumu eki getirildiği kelimeye bitişik yazılır."
+                  },
+                  {
+                    "baslik": "Fiil Çekimi ile İlgili Yazılışlar",
+                    "metin": "Fiil ekleri ve çekim biçimlerinin yazılışı konusunda dikkat edilmesi gereken kurallar."
+                  },
+                  {
+                    "baslik": "Mastarlara Gelen Eklerin Yazılışı",
+                    "metin": "Ma / -me ile biten mastarlardan sonra gelen ekler."
+                  },
+                  {
+                    "baslik": "Ek Fiilin Yazılışı",
+                    "metin": "Ek fiil ile ilgili yazılış kuralları."
+                  },
+                  {
+                    "baslik": "Pekiştirmeli Sözlerin Yazılışı",
+                    "metin": "Sıfat veya zarf görevindeki pekiştirmeli sözler bitişik yazılır."
+                  }
+                ]
+             ,
+              "Sayıların Yazımı" : [
+                  {
+                    "baslik": "Sayıların Harflerle Yazılması",
+                    "metin": "Sayılar harflerle de yazılabilir: bin yıldan beri, on dört gün, haftanın beşinci günü, üç ayda bir, yüz soru, iki hafta sonra, üçüncü sınıf vb."
+                  },
+                  {
+                    "baslik": "Rakamla Yazılacak Sayılar",
+                    "metin": "Saat, para tutarı, ölçü, istatistik verilere ilişkin sayılarda rakam kullanılır: 17.30’da, 11.00’de, 1.500.000 lira, 25 kilogram, 150 kilometre, 15 metre kumaş, 1.250.000 kişi vb."
+                  },
+                  {
+                    "baslik": "Saatlerin Yazılışı",
+                    "metin": "Saatler ve dakikalar metin içinde yazıyla da yazılabilir: saat dokuzu beş geçe, saat yediye çeyrek kala, saat sekizi on dakika üç saniye geçe, mesela saat onda vb."
+                  },
+                  {
+                    "baslik": "Dört Basamaktan Fazla Sayılar",
+                    "metin": "Dört veya daha çok basamaklı sayıların kolay okunabilmesi amacıyla içinde geçen bin, milyon, milyar ve trilyon sözcükleri harfle yazılabilir: 1 milyar 500 milyon kişi, 3 bin 255 kalem, 8 trilyon 412 milyar vb."
+                  },
+                  {
+                    "baslik": "Birden Fazla Kelimeden Oluşan Sayılar",
+                    "metin": "Birden fazla kelimeden oluşan sayılar ayrı yazılır: iki yüz, üç yüz altmış beş, bin iki yüz elli bir vb."
+                  },
+                  {
+                    "baslik": "Para ve Ticaretle İlgili Sayılar",
+                    "metin": "Para ile ilgili işlemlerle senet, çek vb. ticari belgelerde geçen sayılar bitişik yazılır: 650,35 (altıyüzelli TL, otuzbeş kr.)"
+                  },
+                  {
+                    "baslik": "Yüzde ve Binde İşaretlerinin Yazılışı",
+                    "metin": "Yüzde ve binde işaretleri yazılırken sayılarla işaret arasında boşluk bırakılmaz: %25, ‰50 vb."
+                  },
+                  {
+                    "baslik": "İskambil Oyunları Adları",
+                    "metin": "Adları sayılardan oluşan iskambil oyunları bitişik yazılır: altmışaltı, ellibir, yirmibir vb."
+                  },
+                  {
+                    "baslik": "Romen Rakamlarının Yazılışı",
+                    "metin": "Romen rakamları tarihî olaylarda, yüzyıllarda, hükümdar adlarında, tarihlerde ayların yazılışında, kitap ve dergi ciltlerinde kullanılır: II. Dünya Savaşı, XX. yüzyıl, III. Selim, XIV. Louis vb."
+                  },
+                  {
+                    "baslik": "Dört Basamaktan Fazla Sayıların Yazılışı",
+                    "metin": "Dört veya daha çok basamaklı sayılar sondan sayılmak üzere üçlü gruplara ayrılarak yazılır ve aralarına nokta konur: 4.567, 326.197, 49.750.812 vb."
+                  },
+                  {
+                    "baslik": "Kesirlerin Yazılışı",
+                    "metin": "Sayılarda kesirler virgülle ayrılır: 15,2 (15 tam, onda 2); 5,26 (5 tam, yüzde 26) vb."
+                  },
+                  {
+                    "baslik": "Sıra Sayılarının Yazılışı",
+                    "metin": "Sıra sayıları yazıyla ve rakamla gösterilebilir. Rakamla gösterilmesi durumunda ya rakamdan sonra bir nokta konur ya da rakamdan sonra kesme işareti konularak derece gösteren ek yazılır."
+                  },
+                  {
+                    "baslik": "Üleştirme Sayıları",
+                    "metin": "Üleştirme sayıları rakamla değil yazıyla belirtilir: 2’şer değil ikişer, 9’ar değil dokuzar, 100’er değil yüzer vb."
+                  },
+                  {
+                    "baslik": "Bayağı Kesirlerde Eklerin Yazılışı",
+                    "metin": "Bayağı kesirlere getirilecek ekler alttaki sayı esas alınarak yazılır: 4/8’i (dört bölü sekizi), 1/2’si (bir bölü ikisi) vb."
+                  },
+                  {
+                    "baslik": "Cümleye Rakamla Başlanmaması",
+                    "metin": "Bir zorunluluk olmadıkça cümle rakamla başlamaz."
+                  }
+                ]
+              ,
+              "Büyük Harflerin Kullanıldığı Yerler" :  [
+                  {
+                    "baslik": "Cümle Büyük Harfle Başlar",
+                    "metin": "Cümle büyük harfle başlar: Ak akçe kara gün içindir. Hayatta en hakiki mürşit ilimdir, fendir. (Atatürk)"
+                  },
+                  {
+                    "baslik": "Tırnak veya Yay Ayraç İçindeki Cümleler",
+                    "metin": "Cümle içinde tırnak veya yay ayraç içine alınan cümleler büyük harfle başlar ve sonlarına uygun noktalama işareti (nokta, soru, ünlem vb.) konur: Atatürk 'Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur!' diyor."
+                  },
+                  {
+                    "baslik": "İki Nokta Sonrası Cümleler",
+                    "metin": "İki noktadan sonra gelen cümleler büyük harfle başlar: Menfaat sandalyeye benzer: Başında taşırsan seni küçültür, ayağının altına alırsan yükseltir. (Cenap Şahabettin)"
+                  },
+                  {
+                    "baslik": "Rakamla Başlayan Cümleler",
+                    "metin": "Rakamla başlayan cümlelerde rakamdan sonra gelen kelime özel ad değilse büyük harfle başlamaz: 2007 yılında Türk Dil Kurumunun 75. yılını kutladık."
+                  },
+                  {
+                    "baslik": "Dizeler Büyük Harfle Başlar",
+                    "metin": "Dizeler büyük harfle başlar: 'Halk içinde muteber bir nesne yok devlet gibi' (Muhibbi), 'Korkma! Sönmez bu şafaklarda yüzen al sancak' (Mehmet Akif Ersoy)."
+                  },
+                  {
+                    "baslik": "Özel Adlar Büyük Harfle Başlar",
+                    "metin": "Özel adlar büyük harfle başlar: Mustafa Kemal Atatürk, İsmet İnönü, Kâzım Karabekir, Ahmet Haşim, Yunus Emre, Karacaoğlan, Wolfgang von Goethe vb."
+                  },
+                  {
+                    "baslik": "Kişi Adlarından Önceki Unvanlar",
+                    "metin": "Kişi adlarından önce ve sonra gelen unvanlar, saygı sözleri, rütbe adları ve lakaplar büyük harfle başlar: Cumhurbaşkanı Mustafa Kemal Atatürk, Kaymakam Erol Bey, Dr. Alâaddin Yavaşça."
+                  },
+                  {
+                    "baslik": "Saygı Bildiren Sözler",
+                    "metin": "Saygı bildiren sözlerden sonra gelen ve makam, mevki, unvan bildiren kelimeler büyük harfle başlar: Sayın Bakan, Sayın Başkan, Sayın Rektör."
+                  },
+                  {
+                    "baslik": "Hayvanlara Verilen Özel Adlar",
+                    "metin": "Hayvanlara verilen özel adlar büyük harfle başlar: Boncuk, Fındık, Minnoş, Pamuk vb."
+                  },
+                  {
+                    "baslik": "Millet ve Boy Adları",
+                    "metin": "Millet, boy, oymak adları büyük harfle başlar: Alman, Arap, İngiliz, Japon, Rus, Türk; Kazak, Kırgız, Oğuz, Özbek, Tatar."
+                  },
+                  {
+                    "baslik": "Dil ve Lehçe Adları",
+                    "metin": "Dil ve lehçe adları büyük harfle başlar: Türkçe, Almanca, İngilizce, Rusça, Arapça; Oğuzca, Kazakça, Kırgızca."
+                  },
+                  {
+                    "baslik": "Devlet ve Din Adları",
+                    "metin": "Devlet adları büyük harfle başlar: Türkiye Cumhuriyeti, Kuzey Kıbrıs Türk Cumhuriyeti, Amerika Birleşik Devletleri. Din ve mezhep adları da büyük harfle başlar: Müslümanlık, Hristiyanlık, Musevilik."
+                  },
+                  {
+                    "baslik": "Gezegen ve Yıldız Adları",
+                    "metin": "Gezegen ve yıldız adları büyük harfle başlar: Merkür, Neptün, Satürn; Halley vb."
+                  },
+                  {
+                    "baslik": "Yer Adları",
+                    "metin": "Yer adları büyük harfle başlar: Afrika, Asya; İstanbul, Taşkent; Turgutlu, Ürgüp; Akçaköy, Çayırbağı."
+                  },
+                  {
+                    "baslik": "Yer Adlarında İkinci İsim",
+                    "metin": "Yer adlarında ilk isimden sonra gelen ve deniz, nehir, göl, dağ, boğaz vb. tür bildiren ikinci isimler büyük harfle başlar: Ağrı Dağı, Aral Gölü, Çanakkale Boğazı."
+                  },
+                  {
+                    "baslik": "Kurum ve Kuruluş Adları",
+                    "metin": "Kurum, kuruluş ve kurul adlarının her kelimesi büyük harfle başlar: Türkiye Büyük Millet Meclisi, Türk Dil Kurumu, Devlet Malzeme Ofisi."
+                  },
+                  {
+                    "baslik": "Kanun ve Yönetmelikler",
+                    "metin": "Kanun, tüzük, yönetmelik, yönerge, genelge adlarının her kelimesi büyük harfle başlar: Medeni Kanun, Türk Bayrağı Tüzüğü, Telif Hakkı Yayın ve Satış Yönetmeliği."
+                  },
+                  {
+                    "baslik": "Kitap ve Eser Adları",
+                    "metin": "Kitap, dergi, gazete ve sanat eserlerinin her kelimesi büyük harfle başlar: Nutuk, Safahat, Anadolu Notları, Türk Dili, Türk Kültürü."
+                  },
+                  {
+                    "baslik": "Ulusal ve Resmî Bayramlar",
+                    "metin": "Ulusal, resmî ve dinî bayramlarla anma ve kutlama günlerinin adları büyük harfle başlar: Cumhuriyet Bayramı, 19 Mayıs Atatürk’ü Anma Gençlik ve Spor Bayramı."
+                  },
+                  {
+                    "baslik": "Tarihî Olaylar ve Dönemler",
+                    "metin": "Tarihî olay, çağ ve dönem adları büyük harfle başlar: Kurtuluş Savaşı, Millî Mücadele, Tanzimat Dönemi."
+                  },
+                  {
+                    "baslik": "Özel Adlardan Türetilen Kelimeler",
+                    "metin": "Özel adlardan türetilen bütün kelimeler büyük harfle başlar: Türklük, Türkleşmek, Avrupalı, Konyalı."
+                  },
+                  {
+                    "baslik": "Belirli Tarih Bildiren Ay ve Gün Adları",
+                    "metin": "Belirli bir tarih bildiren ay ve gün adları büyük harfle başlar: 29 Mayıs 1453 Salı günü, 29 Ekim 1923."
+                  },
+                  {
+                    "baslik": "Tabela ve Levha Yazıları",
+                    "metin": "Tabela, levha ve levha niteliğindeki yazılarda geçen kelimeler büyük harfle başlar: Giriş, Çıkış, Müdür, Vezne."
+                  },
+                  {
+                    "baslik": "Kitap ve Dergi Başlıkları",
+                    "metin": "Kitap, dergi vb. ana başlıktaki kelimelerin tamamı büyük harfle, alt başlıktaki kelimeler ise yalnızca ilk harfleriyle yazılır."
+                  }
+                ]
+              ,
+              "Birleşik Kelimelerin Yazılışı" :[
+                  {
+                    "baslik": "Bitişik Yazılan Birleşik Kelimeler",
+                    "metin": "Belirtisiz isim tamlamaları, sıfat tamlamaları, isnat grupları, birleşik fiiller, ikilemeler, kısaltma grupları ve kalıplaşmış çekimli fiillerden oluşan ifadeler yeni bir kavramı karşıladıklarında birleşik kelime olurlar. Birleşik kelimeler belirli kurallar çerçevesinde bitişik veya ayrı olarak yazılır."
+                  },
+                  {
+                    "baslik": "Ses Düşmesine Uğrayan Birleşik Kelimeler",
+                    "metin": "Ses düşmesine uğrayan birleşik kelimeler bitişik yazılır: birbiri (< biri biri), kaynana (< kayın ana), kaynata (< kayın ata), nasıl (< ne asıl), niçin (< ne için), pazartesi (< pazar ertesi), sütlaç (< sütlü aş) vb."
+                  },
+                  {
+                    "baslik": "Arapça Kökenli Kelimelerle Yapılan Birleşikler",
+                    "metin": "Özgün biçimleri tek heceli bazı Arapça kökenli kelimeler, etmek, edilmek, eylemek, olmak, olunmak yardımcı fiilleriyle birleşirken ses düşmesine, ses değişmesine veya ses türemesine uğradıklarında bitişik yazılır: emretmek, kaybolmak, affetmek, hamdetmek, hissetmek vb."
+                  },
+                  {
+                    "baslik": "Anlam Değişikliğine Uğrayan Birleşik Kelimeler",
+                    "metin": "Kelimelerden her ikisi veya ikincisi, birleşme sırasında anlam değişmesine uğradığında bu tür birleşik kelimeler bitişik yazılır. Örnekler: Aslanağzı, civanperçemi, keçiboynuzu, kuşburnu, turnagagası, keçiboynuzu vb."
+                  },
+                  {
+                    "baslik": "Tasvirî Fiillerle Yapılan Birleşik Kelimeler",
+                    "metin": "-a, -e, -ı, -i, -u, -ü zarf-fiil ekleriyle bilmek, vermek, kalmak, durmak, gelmek ve yazmak fiilleriyle yapılan tasvirî fiiller bitişik yazılır: düşünebilmek, sevebilmek; alıvermek, gülüvermek; uyuyakalmak; gidedurmak, yazadurmak; çıkagelmek, süregelmek vb."
+                  },
+                  {
+                    "baslik": "Emir Kipiyle Kurulan Kalıplaşmış Birleşik Kelimeler",
+                    "metin": "Bir veya iki ögesi emir kipiyle kurulan kalıplaşmış birleşik kelimeler bitişik yazılır: albeni, ateşkes, çalçene, çalyaka, dönbaba, gelberi, incitmebeni, sallabaş, sallasırt, unutmabeni vb."
+                  },
+                  {
+                    "baslik": "Sıfat-Fiil Ekleriyle Kurulan Kalıplaşmış Birleşik Kelimeler",
+                    "metin": "-an/-en, -r/-ar/-er/-ır/-ir, -maz/-mez ve -mış/-miş sıfat-fiil ekleriyle kurulan kalıplaşmış birleşik kelimeler bitişik yazılır: alaybozan, cankurtaran, dalgakıran, demirkapan, gökdelen, yelkesen vb."
+                  },
+                  {
+                    "baslik": "Belirli Geçmiş Zaman Ekleriyle Kurulan Birleşik Kelimeler",
+                    "metin": "İkinci kelimesi -dı (-di / -du / -dü, -tı / -ti / -tu / -tü) kalıplaşmış belirli geçmiş zaman ekleriyle kurulan birleşik kelimeler bitişik yazılır: albastı, ciğerdeldi, çıtkırıldım, dalbastı, fırdöndü, gecekondu, gündöndü vb."
+                  },
+                  {
+                    "baslik": "Somut Yer Bildirmeyen Alt ve Üst Sözleriyle Kurulan Birleşik Kelimeler",
+                    "metin": "Somut olarak yer bildirmeyen alt, üst ve üzeri sözlerinin sona getirilmesiyle kurulan birleşik kelimeler bitişik yazılır: ayakaltı, bilinçaltı, gözaltı, şuuraltı; akşamüstü, akşamüzeri, ayaküstü, bayraüstü vb."
+                  },
+                  {
+                    "baslik": "Kişi Adları ve Soyadlarından Oluşan Birleşik Kelimeler",
+                    "metin": "İki veya daha çok kelimenin birleşmesinden oluşmuş kişi adları, soyadları ve lakaplar bitişik yazılır: Alper, Birol, Gülnihal, Gülseren, Gündoğdu, Abasıyanık, Adıvar, Atatürk, Gökalp, Güntekin vb."
+                  },
+                  {
+                    "baslik": "Yer Adlarından Oluşan Birleşik Kelimeler",
+                    "metin": "İki veya daha çok kelimeden oluşmuş il, ilçe, semt vb. yer adları bitişik yazılır: Çanakkale, Gümüşhane, Beşiktaş, Kabataş vb."
+                  },
+                  {
+                    "baslik": "Dış, İç ve Sıra Sözleriyle Kurulan Birleşik Kelimeler",
+                    "metin": "Dış, iç, sıra sözleriyle oluşturulan birleşik kelimeler ve terimler ayrı yazılır: ahlak dışı, çağ dışı, din dışı, kanun dışı; ceviz içi, hafta içi, aklı sıra, yanı sıra vb."
+                  },
+                  {
+                    "baslik": "Yer Belirten Alt ve Üst Sözleriyle Kurulan Birleşik Kelimeler",
+                    "metin": "Somut olarak yer belirten alt ve üst sözleriyle oluşturulan birleşik kelime ve terimler ayrı yazılır: deri altı, su altı, toprak altı, yer altı; böbrek üstü bezi, tepe üstü vb."
+                  },
+                  {
+                    "baslik": "Sıfat Tamlamasıyla Kurulan Birleşik Kelimeler",
+                    "metin": "Alt, üst, ana, ön, arka, yan, karşı, iç, dış, orta, büyük, küçük gibi sıfatlarla kurulan birleşik kelimeler ayrı yazılır: alt kurul, ana bilim dalı, dış borç, büyük defter, sağ açık, sol bek vb."
+                  },
+                  {
+                    "baslik": "Deyimlerin Yazılışı",
+                    "metin": "Deyimler ayrı yazılır: akıntıya kürek çekmek, çam devirmek, gönlünden geçirmek, göz atmak, kulak asmak, kulak vermek vb."
+                  },
+                  {
+                    "baslik": "İkilemelerin Yazılışı",
+                    "metin": "İkilemeler ayrı yazılır: adım adım, ağır ağır, akın akın, allak bullak, karış karış, yavaş yavaş, kırk elli vb."
+                  },
+                  {
+                    "baslik": "m ile Yapılan İkilemelerin Yazılışı",
+                    "metin": "m ile yapılmış ikilemeler de ayrı yazılır: at mat, çocuk mocuk, dolap molap vb."
+                  },
+                  {
+                    "baslik": "İsim Durum Ekleri ve İyelik Ekiyle Yapılan İkilemelerin Yazılışı",
+                    "metin": "İsim durum ekleri ve iyelik ekiyle yapılan ikilemeler de ayrı yazılır: baş başa, el ele, göz göze, iç içe, omuz omuza, yan yana vb."
+                  }
+                ],
+                "Alıntı Kelimelerin Yazılışı" : [
+                    {
+                        "baslik": "Çift Ünsüz Harfle Başlayan Batı Kökenli Alıntılar",
+                        "metin": "Çift ünsüz harfle başlayan Batı kökenli alıntılar, ünsüzler arasına ünlü konulmadan yazılır: francala, gram, gramer, gramofon, grup, Hristiyan, kral, kredi, kritik, plan, pratik, problem, profesör, program, proje, propaganda, psikoloji, slogan, snop, spiker, spor, staj, stil, stüdyo, trafik, tren, triptik vb."
+                      },
+                      {
+                        "baslik": "Birleşik Ünsüzlerle Yapılan Alıntılar",
+                        "metin": "İçinde yan yana iki veya daha fazla ünsüz bulunan Batı kökenli alıntılar, ünsüzler arasına ünlü konmadan yazılır: alafranga, apartman, biyografi, elektrik, gangster, kilogram, orkestra, paragraf, tel vb."
+                      },
+                      {
+                        "baslik": "İki Ünsüzle Biten Batı Kökenli Alıntılar",
+                        "metin": "İki ünsüzle biten Batı kökenli alıntılar, ünsüzler arasına ünlü konmadan yazılır: film, form, lüks, modern, natürmort, psikiyatr, slayt, teyp vb."
+                      },
+                      {
+                        "baslik": "Batı Kökenli Alıntılarda 'g' Ünsüzünün Korunması",
+                        "metin": "Batı kökenli alıntıların içindeki ve sonundaki g ünsüzleri olduğu gibi korunur: biyografi, diyagram, dogma, magma, monografi, paragraf, program; arkeolog, demagog, diyalog, filolog, jeolog, katalog, monolog, psikolog, ürolog vb. Ancak fotoğraf ve topoğraf kelimelerinde g’ler, ğ’ye döner."
+                      },
+                      {
+                        "baslik": "Özgün Biçimiyle Yazılan Batı Kökenli Kelimeler",
+                        "metin": "Batı kökenli kelimeler aşağıdaki durumlarda özgün biçimleriyle yazılır:\n\n1. Bilim, sanat ve uzmanlık dallarında kullanılan bazı terimler: andante (müzik), cuprum (kimya), deseptyl (eczacılık), quercus, terminus technicus (teknik terim) vb.\n\n2. Latin yazı sistemini kullanan dillerden alınma deyim ve sözler: Veni, vidi, vici (Geldim, gördüm, yendim.); conditio sine qua non (Olmazsa olmaz.); eppur si muove (Dünya her şeye rağmen dönüyor.); to be or not to be (olmak veya olmamak); l’art pour l’art (Sanat sanat içindir.); l’Etat c’est moi (Devlet benim.); traduttore traditore (Çevirmen haindir.); persona non grata (istenmeyen kişi) vb."
+                      }
+                ],
+                "Yabancı Özel Adların Yazılışı" : [
+                      {
+                        "baslik": "Latin Harflerini Kullanan Dillerdeki Özel Adlar",
+                        "metin": "1. Latin harflerini kullanan dillerdeki özel adlar özgün biçimleriyle yazılır: Beethoven, Byron, Cervantes, Chopin, Eminescu, Grimm, Horatius, Molière, Puccini, Rousseau, Shakespeare; Bologna, Buenos Aires, Iorga, Ile-de-France, Karlovy Vary, Latium, Loire, Mann, New York, Nice, Rio de Janeiro, Vaasa, Wuppertal vb. Ancak Batı dillerinde kullanılan adların okunuşları ayraç içinde gösterilebilir: Shakespeare (Şekspir) vb."
+                      },
+                      {
+                        "baslik": "Eskiden Dilimize Yerleşmiş Batı Kökenli Kişi ve Yer Adları",
+                        "metin": "2. Eskiden dilimize yerleşmiş bazı Batı kökenli kişi ve yer adları Türkçe söylenişlerine göre yazılır: Napolyon, Şarlken, Şarl (Demirbaş Şarl); Atina, Brüksel, Cenevre, Londra, Marsilya, Münih, Paris, Roma, Selânik, Venedik, Viyana, Zürih; Hollanda, Letonya, Lüksemburg vb."
+                      },
+                      {
+                        "baslik": "Yabancı Özel Adlardan Türetilmiş Akım Adları",
+                        "metin": "3. Yabancı özel adlardan türetilmiş akım adları Türkçe söylenişlerine göre yazılır: Dekartçılık, Epikürcülük, Kalvenci, Kalvencilik, Kalvenizm, Kartezyenizm, Lüterci, Lütercilik, Marksçılık, Marksist, Marksizm vb."
+                      },
+                      {
+                        "baslik": "Ait Olduğu Dilde Ayrı Yazılan Yer Adları",
+                        "metin": "4. Ait olduğu dilde ayrı yazılan yer adları Türkçede de ayrı yazılır: Buenos Aires, Frankfurt am Main, Freiburg im Breisgau, Hyde Park, Mont Blanc, New Orleans, New York, Rio de Janeiro, San Marino, Wiener Neustadt, Titov Veles vb."
+                      },
+                      {
+                        "baslik": "Arapça ve Farsça Özel Adlar",
+                        "metin": "Kökeni Arapça ve Farsça olan kişi ve yer adları Türkçenin ses ve yapı özelliklerine göre yazılır: Ahmet, Bedrettin, Fuat, Mehmet, Necmettin, Nizamettin, Ömer, Rıza, Saadettin; Cezayir, Fas, Filistin, Mısır, Suudi Arabistan; Bağdat, Cidde, Erdebil, Halep, İsfahan, İskenderiye, Medine, Mekke, Şam, Şiraz, Tahran, Tebriz, Trablusgarp vb."
+                      },
+                      {
+                        "baslik": "Yunanca Özel Adlar",
+                        "metin": "Yunanca adlar yazılırken Yunan harflerinin ses değerlerini karşılayan Türk harfleri kullanılır: Homeros, Herodotos, Euripides, Pindaros, Solon, Sokrates, Aristoteles, Platon, Venizelos, Karamanlis, Papandreu, Onasis vb. Ancak Herodotos, Sokrates, Aristoteles, Platon, Pythagoras, Eukleides adları dilimize Herodot, Sokrat, Aristo, Eflatun, Pisagor, Öklid biçimlerinde yerleşmiştir."
+                      },
+                      {
+                        "baslik": "Rusça Özel Adlar",
+                        "metin": "Rusça özel adlar yazılırken Rus harflerinin ses değerlerini karşılayan Türk harfleri kullanılır: Bolşevik, Brejnev, Çaykovski, Çehov, Dostoyevski, Gogol, Gorbaçov, İlminskiy, İlyiç, Katayev, Klyaştornıy, Malov, Mendeleyev, Prokofyev, Puşkin, Şolohov, Tolstoy, Yeltsin; Moskova, Omsk, Orenburg, Petersburg, Volga, Yenisey vb."
+                      },
+                      {
+                        "baslik": "Uzak Doğu Dillerindeki Özel Adlar",
+                        "metin": "1. Çince adlar, Türkçede yerleşmiş biçimlerine göre yazılır: Huangho, Kanton, Nankin, Pekin, Şanghay. Çincede soyadları küçük adlardan önce gelir. Soyadları çoklukla tek hecelidir, küçük adlar ise bir veya iki heceden oluşur. Bu adlar büyük harfle başlar; heceler arasına çizgi konur: Sun Yat-sen, Lin Yu-tang. Yalnız Konfüçyüs gibi yaygınlık kazanmış adlar bitişik yazılır.\n\n2. Japonca adlar da Türkçede yerleşmiş biçimlerine göre yazılır: Tokyo, Hiroşima, Nagazaki, Osaka, Kyoto; Hirohito, Kayako Hayashi, Sbuishi Kato, Masao Mori."
+                      },
+                      {
+                        "baslik": "Türk Devletleri ve Topluluklarındaki Özel Adlar",
+                        "metin": "Türk devletleri ve topluluklarındaki kişi ve yer adları Türkçede yerleşmiş biçimlerine göre yazılır: Azerbaycan, Özbekistan; Taşkent, Semerkant, Bakü, Bişkek; Abdullah Tukay, Abdürrauf Fıtrat, Bahtiyar Vahapzade, Baykonur, Cafer Cebbarlı, Cemal Kemal, Cengiz Aytmatov, İslam Kerimov, Muhtar Avazov, Osman Nasır vb."
+                      }
+                    ],
+                    "Kısaltmalar" :[
+                          {
+                            "baslik": "Kuruluş, Ülke, Kitap, Dergi ve Yön Adlarının Kısaltmaları",
+                            "metin": "Kuruluş, ülke, kitap, dergi ve yön adlarının kısaltmaları her kelimenin ilk harfinin büyük olarak yazılmasıyla yapılır: TBMM (Türkiye Büyük Millet Meclisi), TDK (Türk Dil Kurumu), ABD (Amerika Birleşik Devletleri); KB (Kutadgu Bilig); TD (Türk Dili), TK (Türk Kültürü), TDED (Türk Dili ve Edebiyatı Dergisi); B (batı), D (doğu), G (güney), K (kuzey); GB (güneybatı), GD (güneydoğu), KB (kuzeybatı), KD (kuzeydoğu) vb."
+                          },
+                          {
+                            "baslik": "Gelenekleşmiş Kısaltmalar",
+                            "metin": "Ancak bazen kelimelerin, özellikle son kelimenin birkaç harfinin kısaltmaya alındığı da görülür. Bazen de aradaki kelimelerden hiç harf alınmadığı olur. Bu tür kısaltmalarda, kısaltmanın akılda kalabilmesi için yeni bir kelime oluşturma amacı güdülür: BOTAŞ (Boru Hatları ile Petrol Taşıma Anonim Şirketi), İLESAM (İlim ve Edebiyat Eseri Sahipleri Meslek Birliği), TÖMER (Türkçe Öğretim Merkezi) vb."
+                          },
+                          {
+                            "baslik": "Ölçü Birimlerinin Kısaltmaları",
+                            "metin": "Ölçü birimlerinin, uluslararası kısaltmaları kullanılır: m (metre), mm (milimetre), cm (santimetre), km (kilometre), g (gram), kg (kilogram), l (litre), hl (hektolitre), mg (miligram), m² (metrekare), cm² (santimetrekare) vb."
+                          },
+                          {
+                            "baslik": "Kelime veya Kelime Gruplarının Kısaltılması",
+                            "metin": "Kuruluş, kitap, dergi ve yön adlarıyla element ve ölçülerin dışında kalan kelime veya kelime gruplarının kısaltılmasında, ilk harfle birlikte kelimeyi oluşturan temel harfler dikkate alınır. Kısaltılan kelime veya kelime grubu; özel ad, unvan veya rütbe ise ilk harf büyük; cins isim ise ilk harf küçük olur: Alm. (Almanca), İng. (İngilizce), Kocatepe Mah. (Kocatepe Mahallesi), Güniz Sok. (Güniz Sokağı), Prof. (Profesör), Dr. (Doktor), Av. (Avukat), Alb. (Albay), Gen. (General); sf. (sıfat), haz. (hazırlayan), çev. (çeviren), ed. (edebiyat), fiz. (fizik), kim. (kimya) vb."
+                          },
+                          {
+                            "baslik": "Küçük Harflerle Yapılan Kısaltmalara Ek Getirilmesi",
+                            "metin": "Küçük harflerle yapılan kısaltmalara getirilen eklerde kelimenin okunuşu esas alınır: cm’yi, kg’dan, mm’den, kr.un."
+                          },
+                          {
+                            "baslik": "Büyük Harflerle Yapılan Kısaltmalara Ek Getirilmesi",
+                            "metin": "Büyük harflerle yapılan kısaltmalara getirilen eklerde ise kısaltmanın son harfinin okunuşu esas alınır: BDT’ye, TDK’den, THY’de, TRT’den, TL’nin vb. Ancak kısaltması büyük harflerle yapıldığı hâlde bir kelime gibi okunan kısaltmalara getirilen eklerde kısaltmanın okunuşu esas alınır: ASELSAN’da, BOTAŞ’ın, NATO’dan, UNESCO’ya vb."
+                          },
+                          {
+                            "baslik": "Nokta ve Üs İşaretli Kısaltmalara Ek Getirilmesi",
+                            "metin": "Sonunda nokta bulunan kısaltmalarla üs işaretli kısaltmalara gelen ekler kesmeyle ayrılmaz. Bu tür kısaltmalarda ek noktadan ve üs işaretinden sonra, kelimenin veya üs işaretinin okunuşuna uygun olarak yazılır: vb.leri, Alm.dan, İng.yi; cm³e (santimetreküpe), m²ye (metrekareye) vb."
+                          },
+                          {
+                            "baslik": "Sert Ünsüzle Biten Kısaltmalar",
+                            "metin": "Sert ünsüzle biten kısaltmalar, ek aldıkları zaman okuşta sert ses yumuşatılmaz: AGİK’in (AGİĞ’in değil), CMUK’un (CMUĞ’un değil), RTÜK’e (RTÜĞ’e değil), TÜBİTAK’ın (TÜBİTAĞ’ın değil) vb."
+                          },
+                          {
+                            "baslik": "Birlik Kelimeleriyle Yapılan Kısaltmalar",
+                            "metin": "Ancak birlik kelimesiyle yapılan kısaltmalarda söyleyişte k’nin yuşatılması normaldir: ÇUKOBİRLİK’e (söylenişi ÇUKOBİRLİĞE), FİSKOBİRLİK’in (söylenişi FİSKOBİRLİĞİN) vb."
+                          }
+                        ],
+
+                "Noktalama İşaretleri" :  [
+                      {
+                        "baslik": "Nokta (.)",
+                        "metin": [
+                          "Cümlenin sonuna konur: Türk Dil Kurumu, 1932 yılında kurulmuştur.",
+                          "Bazı kısaltmaların sonuna konur: Alb. (albay), Dr. (doktor), Yrd. Doç. (yardımcı doçent), vb.",
+                          "Sayılardan sonra sıra bildirmek için konur: 3. (üçüncü), 15. (on beşinci); II. Mehmet, XIV. Louis, vb.",
+                          "Arka arkaya sıralandıkları için virgülle veya çizgiyle ayrılan rakamlardan yalnızca sonuncu rakamdan sonra nokta konur: 3, 4 ve 7. maddeler.",
+                          "Bir yazının maddelerini gösteren rakam veya harflerden sonra konur: I. 1. A. a.",
+                          "Tarihlerde kullanılır: 29.5.1453, 29.X.1923 vb.",
+                          "Saat ve dakika gösteren sayıları birbirinden ayırmak için kullanılır: 09.15’te, 13.00’te vb.",
+                          "Kitap, dergi künyelerinde kullanılır: Türk Dilinde Gelişme ve Sadeleşme Evreleri, TDK Yayınları, Ankara, 1960.",
+                          "Dört ve dörtten çok rakamlı sayılar üçlü gruplara ayrılarak yazılır: 1.000, 326.197, vb.",
+                          "Genel Ağ adreslerinde kullanılır: http://tdk.org.tr",
+                          "Matematikte çarpma işareti yerine kullanılır: 4.5=20, 12.6=72 vb."
+                        ]
+                      },
+                      {
+                        "baslik": "Virgül (,)",
+                        "metin": [
+                          "Birbiri ardınca sıralanan eş görevli kelime ve kelime gruplarının arasına konur.",
+                          "Sıralı cümleleri birbirinden ayırmak için kullanılır.",
+                          "Uzun cümlelerde yüklemden uzak düşmüş olan özneyi belirtmek için konur.",
+                          "Cümle içinde ara sözleri veya ara cümleleri ayırmak için kullanılır.",
+                          "Anlama güç kazandırmak için tekrarlanan kelimeler arasına konur.",
+                          "Tırnak içinde olmayan alıntı cümlelerinden sonra konur.",
+                          "Konuşma çizgisinden sonraki alıntı cümlesinin bitimine konur.",
+                          "Edebî eserlerde konuşma bölümünden önceki ifadenin sonuna konur.",
+                          "Ret, kabul ve teşvik bildirilen kelimelerden sonra kullanılır.",
+                          "Bir kelimenin kendisinden sonra gelen kelime veya kelime grubu ile bağlantısız olduğunda kullanılır.",
+                          "Hitap için kullanılan kelimelerden sonra konur.",
+                          "Sayıların yazılışında kesirleri ayırmak için kullanılır.",
+                          "Metin içinde art arda gelen zarf-fiil eki almış kelimelerden sonra konur."
+                        ]
+                      },
+                      {
+                        "baslik": "Noktalı Virgül (;)",
+                        "metin": [
+                          "Cümlede virgülle ayrılmış tür veya takımları birbirinden ayırmak için kullanılır.",
+                          "Ögeleri arasında virgül bulunan sıralı cümleleri birbirinden ayırmak için kullanılır.",
+                          "İkiden fazla eş değer ögeler arasında virgül bulunan cümlelerde özneden sonra noktalı virgül konabilir."
+                        ]
+                      },
+                      {
+                        "baslik": "İki Nokta (:)",
+                        "metin": [
+                          "Kendisiyle ilgili örnek verilecek cümlenin sonuna konur.",
+                          "Kendisiyle ilgili açıklama verilecek cümlenin sonuna konur.",
+                          "Ses bilgisinde uzun ünlüyü göstermek için kullanılır.",
+                          "Karşılıklı konuşmalarda, konuşan kişiyi belirten sözlerden sonra konur.",
+                          "Edebî eserlerde konuşma bölümünden önceki ifadenin sonuna konur.",
+                          "Genel Ağ adreslerinde kullanılır.",
+                          "Matematikte bölme işareti olarak kullanılır."
+                        ]
+                      },
+                      {
+                        "baslik": "Üç Nokta (...)",
+                        "metin": [
+                          "Anlatım olarak tamamlanmamış cümlelerin sonuna konur.",
+                          "Kaba sayıldığı için veya bir başka sebepten dolayı açık yazılmak istenmeyen kelimelerin yerine konur.",
+                          "Alıntılarda başta, ortada ve sonda alınmayan kelime veya bölümle yerine konur.",
+                          "Sözün bir yerde kesilerek geri kalan bölümün okuyucunun hayal dünyasına bırakıldığını göstermek için kullanılır.",
+                          "Ünlem ve seslenmelerde anlatımı pekiştirmek için konur.",
+                          "Karşılıklı konuşmalarda yeterli olmayan cevaplar için kullanılır."
+                        ]
+                      },
+                      {
+                        "baslik": "Soru İşareti (?)",
+                        "metin": [
+                          "Soru eki veya sözü içeren cümlelerin sonuna konur.",
+                          "Soru bildiren ancak soru eki veya sözü içermeyen cümlelerin sonuna konur.",
+                          "Bilinmeyen, kesin olmayan veya şüpheyle karşılanan yer, tarih vb. durumlar için kullanılır.",
+                          "Yan cümle temel cümlenin zarf tümleci olduğunda cümlenin sonuna soru işareti konmaz.",
+                          "Soru ifadesi taşıyan sıralı ve bağlı cümlelerde soru işareti en sona konur."
+                        ]
+                      },
+                      {
+                        "baslik": "Ünlem İşareti ( ! )",
+                        "metin": [
+                          "Sevinç, kıvanç, acı, korku, şaşma gibi duyguları anlatan cümle veya ibarelerin sonuna konur: Hava ne kadar da sıcak! Aşk olsun!",
+                          "Seslenme, hitap ve uyarı sözlerinden sonra konur: Ordular! İlk hedefiniz Akdeniz’dir, ileri! (Atatürk)",
+                          "Alay, kinaye veya küçümseme anlamı kazandırılmak istenen sözden sonra yay ayraç içinde ünlem işareti kullanılır."
+                        ]
+                      },
+                      {
+                        "baslik": "Kısa Çizgi ( - )",
+                        "metin": [
+                          "Satıra sığmayan kelimeler bölünürken satır sonuna konur.",
+                          "Cümle içinde ara sözleri veya ara cümleleri ayırmak için kullanılır.",
+                          "Kelimelerin kökleri, gövdeleri ve eklerini birbirinden ayırmak için kullanılır.",
+                          "Fiil kök ve gövdelerini göstermek için kullanılır.",
+                          "Heceleri göstermek için kullanılır.",
+                          "Arasında anlam belirten kelimeler veya sayılar arasında kullanılır.",
+                          "Matematikte çıkarma işareti olarak kullanılır."
+                        ]
+                      },
+                      {
+                        "baslik": "Uzun Çizgi (—)",
+                        "metin": [
+                          "Yazıda satır başına alınan konuşmaları göstermek için kullanılır.",
+                          "Oyunlarda uzun çizgi konuşanın adından sonra da konabilir.",
+                          "Konuşmalar tırnak içinde verildiğinde uzun çizgi kullanılmaz."
+                        ]
+                      },
+                      {
+                        "baslik": "Eğik Çizgi ( / )",
+                        "metin": [
+                          "Dizeler yan yana yazıldığında aralarına konur.",
+                          "Adres yazarken apartman numarası ile daire numarası arasına ve semt ile şehir arasına konur.",
+                          "Tarihlerin yazılışında gün, ay ve yılı gösteren sayıları birbirinden ayırmak için konur.",
+                          "Dil bilgisinde eklerin farklı biçimlerini göstermek için kullanılır.",
+                          "Genel Ağ adreslerinde kullanılır.",
+                          "Matematikte bölme işareti olarak kullanılır."
+                        ]
+                      },
+                      {
+                        "baslik": "Ters Eğik Çizgi ( \\ )",
+                        "metin": [
+                          "Bilişim uygulamalarında art arda gelen dizinleri birbirinden ayırt etmek için kullanılır."
+                        ]
+                      },
+                      {
+                        "baslik": "Tırnak İşareti ( “ ” )",
+                        "metin": [
+                          "Başka bir kimseden veya yazıdan olduğu gibi aktarılan sözler tırnak içine alınır.",
+                          "Özel olarak vurgulanmak istenen sözler tırnak içine alınır.",
+                          "Cümle içerisinde eserlerin ve yazıların adları ile bölüm başlıkları tırnak içine alınır.",
+                          "Tırnak içindeki alıntının sonunda bulunan işaret tırnak içinde kalır."
+                        ]
+                      },
+                      {
+                        "baslik": "Tek Tırnak İşareti ( ‘ ’ )",
+                        "metin": [
+                          "Tırnak içinde verilen cümlenin içinde yeniden tırnağa alınması gereken bir sözü, ibareyi belirtmek için kullanılır."
+                        ]
+                      },
+                      {
+                        "baslik": "Denden İşareti (\" )",
+                        "metin": [
+                          "Bir yazıdaki maddelerin sıralanmasında veya bir çizelgede alt alta gelen aynı sözlerin, söz gruplarının ve sayıların tekrar yazılmasını önlemek için kullanılır."
+                        ]
+                      },
+                      {
+                        "baslik": "Yay Ayraç ( )",
+                        "metin": [
+                          "Cümledeki anlamı tamamlayan ve cümlenin dışında kalan ek bilgiler için kullanılır.",
+                          "Özel veya cins isme ait ek, ayraçtan önce yazılır.",
+                          "Tiyatro eserlerinde ve senaryolarda konuşanın hareketlerini, durumunu açıkla ve göstermek için kullanılır.",
+                          "Alıntıların aktarıldığı eseri, yazarı veya künye bilgilerini göstermek için kullanılır.",
+                          "Alıntılarda, alınmayan kelime veya bölümle yerine konulan üç nokta, yay ayraç içine alınabilir."
+                        ]
+                      },
+                      {
+                        "baslik": "Köşeli Ayraç ( [ ] )",
+                        "metin": [
+                          "Ayraç içinde ayraç kullanılması gereken durumlarda yay ayraçtan önce köşeli ayraç kullanılır.",
+                          "Metin aktarmalarında, çevirilerde, alıntılarda çalışmayı yapanın eklediği sözler için kullanılır.",
+                          "Kaynak olarak verilen kitap veya makalelerin künyelerine ilişkin bazı ayrıntıları göstermek için kullanılır."
+                        ]
+                      },
+                      {
+                        "baslik": "Kesme İşareti ( ’ )",
+                        "metin": [
+                          "Özel adlara getirilen iyelik, durum ve bildirme ekleri kesme işaretiyle ayrılır.",
+                          "Kişi adlarından sonra gelen saygı ve unvan sözlerine getirilen ekleri ayırmak için konur.",
+                          "Kısaltmalara getirilen ekleri ayırmak için konur.",
+                          "Sayılara getirilen ekleri ayırmak için konur.",
+                          "Belirli bir tarih bildiren ay ve gün adlarına gelen ekleri ayırmak için konur."
+                        ]
+                      },
+                      {
+                        "baslik": "Hece Yapısı ve Satır Sonunda Kelimelerin Bölünmesi",
+                        "metin": [
+                          "Türkçede kelime içinde iki ünlü arasındaki ünsüz, kendinden sonraki ünlüyle hece kurar.",
+                          "Batı kökenli kelimeler, Türkçenin hece yapısına göre hecelere ayrılır.",
+                          "Satır sonunda kelimeler bölünürken satır sonuna kısa çizgi (-) konur."
+                        ]
+                      }
+                    ]
+                  
+                  
+                      
+                      
+                  
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+        },
+        "Tarih": {
+            "İslamiyet Öncesi Türk Tarihi": [
+                {
+                    "baslik": "TÜRK ADI",
+                    "metin": "Türk adı, ilk defa Çin kaynaklarında, özellikle MÖ 6. yüzyılda kullanılmaya başlanmıştır. 'Türük' olarak geçen bu kelime, zamanla Orta Asya'nın geniş alanlarına yayılmış ve Türkler, kimliklerini bu adla tanımlamışlardır. Türkiye adı ise ilk kez Bizans kaynaklarında 11. yüzyılda görülmektedir. Türkler, bu dönemde hem Orta Asya'da hem de çevre bölgelerde çeşitli devletler kurmuşlardır."
+                },
+                {
+                    "baslik": "TÜRKLERİN ORTA ASYA'DAKİ YERİ",
+                    "metin": "Türkler, Orta Asya'nın bozkırlarında yaşamışlardır. Orta Asya, Türklerin vatanı olarak kabul edilmiştir ve bu bölgeye dair çok sayıda eski Türk devleti, uygarlıklar ve kültürler yer almıştır. Türklerin ilk yerleşik hayata geçişleri Göktürkler ve Uygurlar dönemine rastlar. Bu dönemde Türkler, birçok medeniyetle etkileşimde bulunmuş, önemli kültürel değişimlere uğramışlardır. Türkler Orta Asya'dan çıkarak batıya, Çin'e, Hindistan'a ve Avrupa'ya doğru büyük göçler yapmışlardır."
+                },
+                {
+                    "baslik": "HUN DEVLETİ",
+                    "metin": "Hunlar, Türklerin Orta Asya'da kurduğu ilk büyük devletlerden biridir. MÖ 3. yüzyılda kurulan Hun Devleti, Batı'ya doğru büyük bir göç hareketi başlatmış ve Roma İmparatorluğu'nu tehdit etmiştir. Attila, Hunlar'ın en bilinen hükümdarlarından olup, Batı Roma İmparatorluğu'nun sınırlarına kadar ilerlemiş, Avrupa'da büyük bir yıkım yaratmıştır. Hunlar, savaşçı kimlikleriyle tanınmış ve tarihte 'Tanrı'nın kırbacı' olarak anılmışlardır."
+                },
+                {
+                    "baslik": "GÖKTÜRK DEVLETİ",
+                    "metin": "Göktürk Devleti, 6. yüzyılda Orta Asya'da kurulan ilk büyük Türk devletidir. Bu devlet, Türkler'in Orta Asya'da kurduğu ilk birleşik hükümetti. Bumin Kağan, Göktürk Devleti'nin kurucusudur ve Türk tarihine damgasını vurmuştur. Bilge Kağan, Göktürk Devleti'nin zirveye ulaşmasında önemli bir rol oynamış, devletin siyasi, askeri ve kültürel yapısını güçlendirmiştir. Göktürkler, Orta Asya'da, Çin'den Avrupa'ya kadar geniş bir alana hükmetmişlerdir. Bilge Kağan'ın yazdırdığı Göktürk Kitabeleri, Türk dilinin en eski yazılı belgeleri arasındadır."
+                },
+                {
+                    "baslik": "UYGUR DEVLETİ",
+                    "metin": "Uygurlar, 8. yüzyılda Orta Asya'nın batısında Göktürklerin yerine geçen ve ilk yerleşik hayata geçişi sağlayan Türk topluluğudur. Uygurlar, özellikle Batı Asya ve Orta Doğu ile ticaret yaparak büyük bir kültürel etkileşim sağlamışlardır. Uygurlar, Maniheizm ve Budizm gibi inançları benimsemişlerdir. Uygurlar, aynı zamanda Orta Asya'da ilk defa matbaanın kullanılmasına öncülük etmişlerdir. Bu dönemde, Uygur Devleti'nin başkenti, kültürel ve ticari bir merkez haline gelmiştir."
+                },
+                {
+                    "baslik": "TÜRKLERİN GÖÇLERİ",
+                    "metin": "Türkler, Orta Asya'dan batıya doğru büyük göçler yapmışlardır. Bu göçler, hem Türklerin kültürel etkilerini hem de savaşçı kimliklerini yaymalarına olanak sağlamıştır. Büyük Türk göçleri arasında Hun göçü, Oğuzların batıya göçü, Selçukluların Anadolu'ya yerleşmesi önemli dönüm noktalarındandır. Bu göçler, Türklerin Avrupa'ya ve Ortadoğu'ya yerleşmelerini, büyük Türk devletlerinin kurulmasını ve Osmanlı İmparatorluğu'nun temellerinin atılmasını sağlamıştır."
+                },
+                {
+                    "baslik": "TÜRK BOY VE KAVİMLERİ",
+                    "metin": "Türkler, çok sayıda boy ve kavimden oluşan geniş bir halktır. Başlıca Türk boyları arasında Kök Türkler, Avarlar, Oğuzlar, Karluklar, Peçenekler, Kıpçaklar ve Uygurlar yer alır. Her bir boy, kendi kültürel ve askeri özelliklerine sahip olup tarih boyunca farklı bölgelere yayılmıştır. Bu boylar, Orta Asya'dan Avrupa'ya kadar geniş bir coğrafyaya yayılmış, farklı kültürlerle etkileşime girmiş ve birbirleriyle bazen dostça, bazen de düşmanca ilişkiler kurmuşlardır."
+                },
+                {
+                    "baslik": "TÜRK DEVLETLERİ VE KURULUŞ TARİHİ",
+                    "metin": "İslamiyet öncesi dönemde Türkler, Orta Asya'da birçok devlet kurmuşlardır. Bunlar arasında Göktürkler, Uygurlar, Selçuklular, Karahanlılar, Kutluklar gibi devletler yer alır. Bu devletlerin en büyük özelliklerinden biri, merkezi yönetim anlayışlarını benimsemeleri ve kültürel çeşitliliği teşvik etmeleridir. Karahanlılar, Türklerin İslamiyet'i kabul etmeye başladığı ilk devlettir. Göktürkler ve Uygurlar, hem askeri hem de kültürel olarak büyük izler bırakmışlardır."
+                },
+                {
+                    "baslik": "TÜRKLERİN DİNİ VE İNANÇLARI",
+                    "metin": "İslamiyet öncesi dönemde Türkler, çeşitli inançlara sahipti. Şamanizm, Tengricilik, Budizm, Maniheizm gibi inançlar Türkler arasında yaygındı. Tengricilik, Türklerin eski inanç sistemi olup, doğa ile uyum içinde yaşamayı, gökyüzü tanrısı Tengri'ye inanmayı esas alır. Uygurlar gibi bazı Türk boyları ise Budizm ve Maniheizm gibi inançları benimsemişlerdir. Bu dönemde Türkler, çeşitli dinî inançlarla birbirlerinden etkilenmiş ve farklı inançları benimsemişlerdir."
+                },
+                {
+                    "baslik": "BİLGE KAĞAN VE KÖKTÜRK DEVLETİ",
+                    "metin": "Bilge Kağan, 8. yüzyılda Göktürk Devleti'nin önemli hükümdarlarından biridir. Bilge Kağan döneminde devlet, Orta Asya'da büyük bir askeri güç haline gelmiş ve sınırlarını genişletmiştir. Aynı zamanda devletin kültürel ve sosyal yapısında da önemli reformlar yapmıştır. Bilge Kağan, Göktürk Kitabeleri'ni yazdırarak, Türklerin tarihi mirasını gelecek nesillere aktarmıştır. Göktürk Kitabeleri, Türklerin devlet anlayışını ve toplum yapısını anlatan önemli yazılı belgelerdir."
+                },
+                {
+                    "baslik": "TÜRKLERİN KÜLTÜREL YAŞAMI",
+                    "metin": "Türkler, Orta Asya'da büyük bir kültürel miras bırakmışlardır. Göktürkler ve Uygurlar, sanat, bilim ve edebiyat alanlarında önemli eserler ortaya koymuşlardır. Göktürk Kitabeleri, Türk dilinin ilk yazılı belgeleri arasında yer alırken, Uygurlar döneminde matbaanın ilk örnekleri kullanılmıştır. Türkler, ayrıca Orta Asya'dan batıya doğru yayıldıkça, farklı kültürlerle etkileşime girerek, kültürel çeşitliliği benimsemişlerdir."
+                }
+            ]
+        },
+        "Coğrafya":{
+            "Türkiyenin özel konumu" : [
+                {
+                    "baslik": "TÜRKİYE'NİN ÖZEL KONUMU",
+                    "metin": "Türkiye, hem Asya hem de Avrupa kıtaları üzerinde yer alan stratejik bir konuma sahiptir. Bu özelliği, onu kültürel, ekonomik ve politik açıdan önemli bir köprü haline getirmiştir. Türkiye, Boğazlar sayesinde Karadeniz ile Akdeniz arasındaki ulaşımı kontrol etme imkânına sahip olup, Batı ile Doğu arasındaki etkileşimin merkezinde bulunmaktadır. Ayrıca, tarihsel olarak Osmanlı İmparatorluğu'nun mirasını taşıyan Türkiye, geçmişteki imparatorluk sınırları doğrultusunda hem Asya hem de Avrupa'dan gelen çeşitli kültürel etkileri bir arada barındırmaktadır. Coğrafi konumu, Türkiye'yi hem Batı hem de Orta Doğu politikalarında kilit bir rol oynamasına olanak sağlar."
+                },
+                {
+                    "baslik": "TÜRKİYE'NİN ÖZEL KONUMU",
+                    "metin": "Türkiye, hem Asya hem de Avrupa kıtaları üzerinde yer alan stratejik bir konuma sahiptir. Bu özelliği, onu kültürel, ekonomik ve politik açıdan önemli bir köprü haline getirmiştir. Türkiye, Boğazlar sayesinde Karadeniz ile Akdeniz arasındaki ulaşımı kontrol etme imkânına sahip olup, Batı ile Doğu arasındaki etkileşimin merkezinde bulunmaktadır. Ayrıca, tarihsel olarak Osmanlı İmparatorluğu'nun mirasını taşıyan Türkiye, geçmişteki imparatorluk sınırları doğrultusunda hem Asya hem de Avrupa'dan gelen çeşitli kültürel etkileri bir arada barındırmaktadır. Coğrafi konumu, Türkiye'yi hem Batı hem de Orta Doğu politikalarında kilit bir rol oynamasına olanak sağlar."
+                },
+                {
+                    "baslik": "TÜRKİYE'NİN ÖZEL KONUMU",
+                    "metin": "Türkiye, hem Asya hem de Avrupa kıtaları üzerinde yer alan stratejik bir konuma sahiptir. Bu özelliği, onu kültürel, ekonomik ve politik açıdan önemli bir köprü haline getirmiştir. Türkiye, Boğazlar sayesinde Karadeniz ile Akdeniz arasındaki ulaşımı kontrol etme imkânına sahip olup, Batı ile Doğu arasındaki etkileşimin merkezinde bulunmaktadır. Ayrıca, tarihsel olarak Osmanlı İmparatorluğu'nun mirasını taşıyan Türkiye, geçmişteki imparatorluk sınırları doğrultusunda hem Asya hem de Avrupa'dan gelen çeşitli kültürel etkileri bir arada barındırmaktadır. Coğrafi konumu, Türkiye'yi hem Batı hem de Orta Doğu politikalarında kilit bir rol oynamasına olanak sağlar."
+                },
+                {
+                    "baslik": "TÜRKİYE'NİN ÖZEL KONUMU",
+                    "metin": "Türkiye, hem Asya hem de Avrupa kıtaları üzerinde yer alan stratejik bir konuma sahiptir. Bu özelliği, onu kültürel, ekonomik ve politik açıdan önemli bir köprü haline getirmiştir. Türkiye, Boğazlar sayesinde Karadeniz ile Akdeniz arasındaki ulaşımı kontrol etme imkânına sahip olup, Batı ile Doğu arasındaki etkileşimin merkezinde bulunmaktadır. Ayrıca, tarihsel olarak Osmanlı İmparatorluğu'nun mirasını taşıyan Türkiye, geçmişteki imparatorluk sınırları doğrultusunda hem Asya hem de Avrupa'dan gelen çeşitli kültürel etkileri bir arada barındırmaktadır. Coğrafi konumu, Türkiye'yi hem Batı hem de Orta Doğu politikalarında kilit bir rol oynamasına olanak sağlar."
+                }
+                
+            ]
+
+            
+        }
+    }
+}
