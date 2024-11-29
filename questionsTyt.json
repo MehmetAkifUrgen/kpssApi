@@ -8855,11 +8855,7 @@
             "dogruCevap": "Süspansiyonlar kolloidlerden daha büyük parçacıklara sahiptir"
           }
         ]
-        
-        
-        
-        
-        
+
       },
       "Biyoloji" : {
         "Canlıların Temel Bileşenleri" : [
@@ -9063,8 +9059,1584 @@
             ],
             "dogruCevap": "Protein"
           }
+        ],
+        "Hücre ve Organelleri" : [
+          {
+            "soru": "Aşağıdaki maddelerden hangisi tüm canlı hücrelerinde bulunan temel bileşenlerden biri değildir?",
+            "secenekler": [
+              "Amino asitler",
+              "Karbonhidratlar",
+              "Nükleik asitler",
+              "Klorofil"
+            ],
+            "dogruCevap": "Klorofil"
+          },
+          {
+            "soru": "Prokaryotik hücrelerde hangisi bulunmaz?",
+            "secenekler": [
+              "Çekirdek",
+              "Sitozom",
+              "Hücre zarı",
+              "DNA"
+            ],
+            "dogruCevap": "Çekirdek"
+          },
+          {
+            "soru": "Aşağıdaki hücrelerden hangisi ökaryotik hücreye örnektir?",
+            "secenekler": [
+              "Bakteri",
+              "Arke",
+              "Mantar hücresi",
+              "Virüs"
+            ],
+            "dogruCevap": "Mantar hücresi"
+          },
+          {
+            "soru": "Hücre zarı hangi modelle açıklanır?",
+            "secenekler": [
+              "Düzlem modeli",
+              "Akışkan mozaik modeli",
+              "Çift tabaka modeli",
+              "Katmanlı model"
+            ],
+            "dogruCevap": "Akışkan mozaik modeli"
+          },
+          {
+            "soru": "Hücre zarında bulunan glikokaliks hangi işlevi görür?",
+            "secenekler": [
+              "Hücreye özgüllük kazandırmak",
+              "Hücreyi dış ortamdan ayırmak",
+              "Hücreye enerji sağlamak",
+              "Hücre içi iletişimi sağlamak"
+            ],
+            "dogruCevap": "Hücreye özgüllük kazandırmak"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi mitokondrinin işlevlerinden biridir?",
+            "secenekler": [
+              "Besin sentezi",
+              "Enerji üretimi",
+              "Protein sentezi",
+              "Hücre bölünmesi"
+            ],
+            "dogruCevap": "Enerji üretimi"
+          },
+          {
+            "soru": "Plastitler hangi canlılarda bulunur?",
+            "secenekler": [
+              "Hayvanlar",
+              "Bitkiler",
+              "Bakteriler",
+              "Mantarlar"
+            ],
+            "dogruCevap": "Bitkiler"
+          },
+          {
+            "soru": "Kloroplast içinde hangi pigment bulunur?",
+            "secenekler": [
+              "Melanin",
+              "Klorofil",
+              "Karoten",
+              "Ksantofil"
+            ],
+            "dogruCevap": "Klorofil"
+          },
+          {
+            "soru": "Mitokondri, kendi DNA'sına sahip olduğu için ne yapabilir?",
+            "secenekler": [
+              "Enerji üretebilir",
+              "Bölünüp çoğalabilir",
+              "Işık enerjisini emebilir",
+              "Sıvıları depolayabilir"
+            ],
+            "dogruCevap": "Bölünüp çoğalabilir"
+          },
+          {
+            "soru": "Aşağıdaki organellerden hangisi bitki hücresinde bulunmaz?",
+            "secenekler": [
+              "Mitokondri",
+              "Kloroplast",
+              "Lökoplast",
+              "Lizozom"
+            ],
+            "dogruCevap": "Lizozom"
+          },
+          {
+            "soru": "Ribozom hangi hücresel işlevi gerçekleştirir?",
+            "secenekler": [
+              "Protein sentezi",
+              "Sıvı depolama",
+              "Hücre zarının onarımı",
+              "Hücre içi iletişim"
+            ],
+            "dogruCevap": "Protein sentezi"
+          },
+          {
+            "soru": "Granüllü endoplazmik retikulumun üzerinde hangi yapılar bulunur?",
+            "secenekler": [
+              "Ribozomlar",
+              "Mitokondriler",
+              "Çekirdek zarı",
+              "Kloroplastlar"
+            ],
+            "dogruCevap": "Ribozomlar"
+          },
+          {
+            "soru": "Granülsüz endoplazmik retikulumun görevlerinden biri nedir?",
+            "secenekler": [
+              "Yağ üretimi",
+              "Protein sentezi",
+              "Hücre zarının oluşumu",
+              "Salgı maddelerinin depolanması"
+            ],
+            "dogruCevap": "Yağ üretimi"
+          },
+          {
+            "soru": "Hücre zarında bulunan kolesterolün işlevi nedir?",
+            "secenekler": [
+              "Hücre zarını korumak",
+              "Hücreyi beslemek",
+              "Kolesterol enerji üretir",
+              "Salgı maddelerinin taşınmasını sağlamak"
+            ],
+            "dogruCevap": "Hücre zarını korumak"
+          },
+          {
+            "soru": "Hangi organel, ribozomların üretiminde yer alır?",
+            "secenekler": [
+              "Kloroplast",
+              "Mitokondri",
+              "Çekirdek",
+              "Endoplazmik retikulum"
+            ],
+            "dogruCevap": "Çekirdek"
+          },
+          {
+            "soru": "Hangisi prokaryotik hücrelere örnek değildir?",
+            "secenekler": [
+              "Bakteri",
+              "Arke",
+              "Mantar hücresi",
+              "E.coli"
+            ],
+            "dogruCevap": "Mantar hücresi"
+          },
+          {
+            "soru": "Kromoplastlar hangi renkleri taşır?",
+            "secenekler": [
+              "Yeşil",
+              "Sarı, kırmızı, turuncu",
+              "Mavi, yeşil",
+              "Beyaz, mor"
+            ],
+            "dogruCevap": "Sarı, kırmızı, turuncu"
+          },
+          {
+            "soru": "Prokaryotik hücrelerin hangi yapısı yoktur?",
+            "secenekler": [
+              "Hücre zarı",
+              "Çekirdek",
+              "Sitoplazma",
+              "Ribozom"
+            ],
+            "dogruCevap": "Çekirdek"
+          },
+          {
+            "soru": "Lökoplast ne depolar?",
+            "secenekler": [
+              "Yağ, protein, nişasta",
+              "Suyu",
+              "Oksijen",
+              "Glikoz"
+            ],
+            "dogruCevap": "Yağ, protein, nişasta"
+          },
+          {
+            "soru": "Hücredeki enerji üretimi hangi organelde gerçekleştirilir?",
+            "secenekler": [
+              "Mitokondri",
+              "Endoplazmik retikulum",
+              "Kloroplast",
+              "Ribozom"
+            ],
+            "dogruCevap": "Mitokondri"
+          }
+        ],
+         "Hücre ve Organelleri 2" : [
+          {
+            "soru": "Aşağıdaki organellerden hangisi sadece bitki hücrelerinde bulunur?",
+            "secenekler": [
+              "Mitokondri",
+              "Kloroplast",
+              "Lizozom",
+              "Golgi"
+            ],
+            "dogruCevap": "Kloroplast"
+          },
+          {
+            "soru": "Golgi organelinin ana işlevi nedir?",
+            "secenekler": [
+              "Protein ve yağ üretimi",
+              "DNA sentezi",
+              "Sindirilen maddelerin atılması",
+              "Enerji üretimi"
+            ],
+            "dogruCevap": "Protein ve yağ üretimi"
+          },
+          {
+            "soru": "Lizozomlar hangi tür hücresel işlevi yerine getirir?",
+            "secenekler": [
+              "Enerji üretimi",
+              "Sindirim ve hücre içi yıkım",
+              "Protein sentezi",
+              "Oksijen üretimi"
+            ],
+            "dogruCevap": "Sindirim ve hücre içi yıkım"
+          },
+          {
+            "soru": "Sentrozomun hangi işlevi vardır?",
+            "secenekler": [
+              "Hücre bölünmesinde mikrotübülleri oluşturmak",
+              "Enerji üretimi sağlamak",
+              "Maddelerin taşınmasını sağlamak",
+              "Protein sentezi"
+            ],
+            "dogruCevap": "Hücre bölünmesinde mikrotübülleri oluşturmak"
+          },
+          {
+            "soru": "Kofullar hangi hücresel işlevi gerçekleştirir?",
+            "secenekler": [
+              "Besin ve atık madde depolama",
+              "Protein sentezi",
+              "DNA kopyalama",
+              "Sıvı üretimi"
+            ],
+            "dogruCevap": "Besin ve atık madde depolama"
+          },
+          {
+            "soru": "Peroksizomlar hangi maddeleri etkisiz hale getirir?",
+            "secenekler": [
+              "Asidik maddeler",
+              "Ağır metaller",
+              "Zehir, ilaç, hidrojen peroksit",
+              "Oksijen"
+            ],
+            "dogruCevap": "Zehir, ilaç, hidrojen peroksit"
+          },
+          {
+            "soru": "Hücre iskeletinin kalınlık sıralaması nasıl yapılır?",
+            "secenekler": [
+              "Mikrotübül > Ara filament > Mikrofilament",
+              "Mikrofilament > Ara filament > Mikrotübül",
+              "Ara filament > Mikrofilament > Mikrotübül",
+              "Mikrotübül > Mikrofilament > Ara filament"
+            ],
+            "dogruCevap": "Mikrotübül > Ara filament > Mikrofilament"
+          },
+          {
+            "soru": "Mikrotübüller hangi hücresel işlevi gerçekleştirir?",
+            "secenekler": [
+              "Hücre bölünmesini kontrol etmek",
+              "Kromozom hareketini sağlamak",
+              "Protein sentezi yapmak",
+              "Lipidi depolamak"
+            ],
+            "dogruCevap": "Kromozom hareketini sağlamak"
+          },
+          {
+            "soru": "Mikrofilamentlerin hangi işlevi vardır?",
+            "secenekler": [
+              "Aktin iplikçiklerinden oluşmak",
+              "Mikrotübül yapısı sağlamak",
+              "Mikrotübüllerle birlikte hücre hareketini sağlamak",
+              "Hücre zarının şeklini değiştirmek"
+            ],
+            "dogruCevap": "Aktin iplikçiklerinden oluşmak"
+          },
+          {
+            "soru": "Hangi organel hücredeki enerji üretiminden sorumludur?",
+            "secenekler": [
+              "Mitokondri",
+              "Golgi",
+              "Ribozom",
+              "Sentrozom"
+            ],
+            "dogruCevap": "Mitokondri"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi hücredeki protein sentezi için kullanılan organeldir?",
+            "secenekler": [
+              "Mitokondri",
+              "Ribozom",
+              "Sentrozom",
+              "Kloroplast"
+            ],
+            "dogruCevap": "Ribozom"
+          },
+          {
+            "soru": "Çekirdekçikte hangi işlev gerçekleştirilir?",
+            "secenekler": [
+              "DNA sentezi",
+              "Ribozom alt birimlerinin birleşmesi",
+              "Protein sentezi",
+              "Mikrotübül üretimi"
+            ],
+            "dogruCevap": "Ribozom alt birimlerinin birleşmesi"
+          },
+          {
+            "soru": "Aşağıdaki hücre organellerinden hangisi bitki hücresinde bulunmaz?",
+            "secenekler": [
+              "Kloroplast",
+              "Peroksizom",
+              "Sentrozom",
+              "Golgi"
+            ],
+            "dogruCevap": "Sentrozom"
+          },
+          {
+            "soru": "Lizozom hangi durumlarda hücreyi öldürebilir?",
+            "secenekler": [
+              "Otofazisinde",
+              "Otoliz halinde",
+              "Salgı sırasında",
+              "Enerji üretirken"
+            ],
+            "dogruCevap": "Otoliz halinde"
+          },
+          {
+            "soru": "Hücredeki madde taşınması ve depolanması için hangi organel görev alır?",
+            "secenekler": [
+              "Endoplazmik retikulum",
+              "Ribozom",
+              "Kloroplast",
+              "Sentrozom"
+            ],
+            "dogruCevap": "Endoplazmik retikulum"
+          },
+          {
+            "soru": "Hangi organel hücre zarının yapısını oluşturmaz?",
+            "secenekler": [
+              "Golgi",
+              "Mikrotübüller",
+              "Peroksizom",
+              "Kolesterol"
+            ],
+            "dogruCevap": "Peroksizom"
+          },
+          {
+            "soru": "Çekirdek zarının işlevi nedir?",
+            "secenekler": [
+              "Hücreyi dışarıdan ayırmak",
+              "Büyüme düzenini sağlamak",
+              "Metabolik faaliyetleri denetlemek",
+              "Hücre bölünmesini kontrol etmek"
+            ],
+            "dogruCevap": "Hücreyi dışarıdan ayırmak"
+          },
+          {
+            "soru": "Kromozomlar hangi organelde bulunur?",
+            "secenekler": [
+              "Çekirdek",
+              "Mitokondri",
+              "Ribozom",
+              "Golgi"
+            ],
+            "dogruCevap": "Çekirdek"
+          },
+          {
+            "soru": "Çekirdek sıvısının içinde hangi bileşenler bulunur?",
+            "secenekler": [
+              "DNA, RNA, protein",
+              "Su, oksijen, glikoz",
+              "ATP, ribozom, vitamin",
+              "Sıvı, yağ, karbonhidrat"
+            ],
+            "dogruCevap": "DNA, RNA, protein"
+          }
+        ],
+        "Canlıların Sınıflandırılması" : [
+          {
+            "soru": "Aşağıdaki canlılardan hangisi prokaryotik hücre yapısına sahiptir?",
+            "secenekler": [
+              "Bakteri",
+              "Alg",
+              "Hayvan",
+              "Bitki"
+            ],
+            "dogruCevap": "Bakteri"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi homolog organlara örnek olarak verilebilir?",
+            "secenekler": [
+              "Balinanın yüzgeci ile tavşanın ayağı",
+              "Böceğin kanadı ile yarasanın kanadı",
+              "Kedinin patisi ile kuşun kanadı",
+              "Balığın kuyruğu ile yunusun kuyruğu"
+            ],
+            "dogruCevap": "Balinanın yüzgeci ile tavşanın ayağı"
+          },
+          {
+            "soru": "Taksonomik sınıflandırma birimlerinin en küçük birimi nedir?",
+            "secenekler": [
+              "Alem",
+              "Tür",
+              "Cins",
+              "Sınıf"
+            ],
+            "dogruCevap": "Tür"
+          },
+          {
+            "soru": "Aşağıdaki canlıların hangisinin ikili adlandırması doğru bir şekilde verilmiştir?",
+            "secenekler": [
+              "Morus alba (Beyaz dut)",
+              "Pinus alba (Beyaz çam)",
+              "Morus albus (Beyaz dut)",
+              "Pinus albus (Beyaz çam)"
+            ],
+            "dogruCevap": "Morus albus (Beyaz dut)"
+          },
+          {
+            "soru": "Aşağıdaki gruplardan hangisi doğal sınıflandırmanın bir örneğidir?",
+            "secenekler": [
+              "Homolog organ",
+              "Analog organ",
+              "Gıda türleri",
+              "Yapay organlar"
+            ],
+            "dogruCevap": "Homolog organ"
+          },
+          {
+            "soru": "Aşağıdaki canlılardan hangisi prokaryotik değildir?",
+            "secenekler": [
+              "Bakteri",
+              "Arke",
+              "Protista",
+              "Mantar"
+            ],
+            "dogruCevap": "Protista"
+          },
+          {
+            "soru": "Bakteriler hangi özelliklere sahip değildir?",
+            "secenekler": [
+              "Çok hücreli",
+              "Halkasal DNA",
+              "Peptidoglikan yapılı hücre çeperi",
+              "Fermantasyonla enerji üretimi"
+            ],
+            "dogruCevap": "Çok hücreli"
+          },
+          {
+            "soru": "Arkelerin hangi özelliği diğer canlılardan farklıdır?",
+            "secenekler": [
+              "Endospor üretirler",
+              "Halkasal DNA'ya sahip olmaları",
+              "Antibiyotiklere karşı dirençlidirler",
+              "Çok hücreli yapıya sahiptirler"
+            ],
+            "dogruCevap": "Antibiyotiklere karşı dirençlidirler"
+          },
+          {
+            "soru": "Aşağıdaki protista türlerinden hangisi fotosentez yapabilir?",
+            "secenekler": [
+              "Amip",
+              "Paramesyum",
+              "Alg",
+              "Cıvık mantar"
+            ],
+            "dogruCevap": "Alg"
+          },
+          {
+            "soru": "Bitkilerde fotosentez için hangi organel gereklidir?",
+            "secenekler": [
+              "Mitozom",
+              "Kloroplast",
+              "Ribozom",
+              "Golgi"
+            ],
+            "dogruCevap": "Kloroplast"
+          },
+          {
+            "soru": "Aşağıdaki bitkilerden hangisi tohumlu bitkiler arasında yer almaz?",
+            "secenekler": [
+              "Çam",
+              "Fasülye",
+              "Kozalaklı bitkiler",
+              "Eğrelti otu"
+            ],
+            "dogruCevap": "Eğrelti otu"
+          },
+          {
+            "soru": "Hangi organel hücrenin enerji üretiminden sorumludur?",
+            "secenekler": [
+              "Golgi",
+              "Mitokondri",
+              "Ribozom",
+              "Peroksizom"
+            ],
+            "dogruCevap": "Mitokondri"
+          },
+          {
+            "soru": "Mantarların hücre çeperi hangi maddeyi içerir?",
+            "secenekler": [
+              "Selüloz",
+              "Kitin",
+              "Sülfür",
+              "Peptidoglikan"
+            ],
+            "dogruCevap": "Kitin"
+          },
+          {
+            "soru": "Bakterilerde hangi yapı çevre koşullarından korunmak için oluşturulur?",
+            "secenekler": [
+              "Endospor",
+              "Plazmit",
+              "Kamçı",
+              "Pilus"
+            ],
+            "dogruCevap": "Endospor"
+          },
+          {
+            "soru": "Protistaların hangi yapısı hareket etmelerini sağlar?",
+            "secenekler": [
+              "Hif",
+              "Yalancı ayak",
+              "Spor",
+              "Mikrotübül"
+            ],
+            "dogruCevap": "Yalancı ayak"
+          },
+          {
+            "soru": "Arkelerde bulunan hücre duvarı, hangi maddeyi içerir?",
+            "secenekler": [
+              "Selüloz",
+              "Kitin",
+              "Peptidoglikan",
+              "Pseudo peptidoglikan"
+            ],
+            "dogruCevap": "Pseudo peptidoglikan"
+          },
+          {
+            "soru": "Bakteriler hangi şekilde çoğalır?",
+            "secenekler": [
+              "Bölünerek",
+              "Meyve vererek",
+              "Tomurcuklanarak",
+              "Sporlaşarak"
+            ],
+            "dogruCevap": "Bölünerek"
+          },
+          {
+            "soru": "Aşağıdaki canlılardan hangisi fotosentez yapmaz?",
+            "secenekler": [
+              "Alg",
+              "Yeşil bitkiler",
+              "Protista",
+              "Mantar"
+            ],
+            "dogruCevap": "Mantar"
+          },
+          {
+            "soru": "Bakteriler hangi şekil tiplerine sahip olabilir?",
+            "secenekler": [
+              "Küre, çubuk, virgül, spiral",
+              "Kare, daire, çizgi",
+              "Yıldız, spiral, dikdörtgen",
+              "Küre, dikdörtgen, şerit"
+            ],
+            "dogruCevap": "Küre, çubuk, virgül, spiral"
+          },
+          {
+            "soru": "Bakterilerde hangi yapı genetik materyalin taşınmasını sağlar?",
+            "secenekler": [
+              "Ribozom",
+              "Endospor",
+              "Plazmit",
+              "Pilus"
+            ],
+            "dogruCevap": "Plazmit"
+          },
+          {
+            "soru": "Bitkilerde hangi yapı su kaybını engellemeye yardımcı olur?",
+            "secenekler": [
+              "Yaprak damarları",
+              "Kök sistemi",
+              "Mikrozom",
+              "Stomalar"
+            ],
+            "dogruCevap": "Stomalar"
+          }
+        ],
+        "Canlıların Sınıflandırılması 2" : [
+          {
+            "soru": "Aşağıdaki canlılardan hangisi omurgasızlar sınıfında yer almaz?",
+            "secenekler": [
+              "Sünger",
+              "Balina",
+              "Eklembacaklı",
+              "Sölenter"
+            ],
+            "dogruCevap": "Balina"
+          },
+          {
+            "soru": "Süngerler hangi özelliğe sahiptir?",
+            "secenekler": [
+              "Sabit organları vardır",
+              "Eşeysiz üreme yapmazlar",
+              "Gözenekleri ile beslenme yaparlar",
+              "Hareketli organları vardır"
+            ],
+            "dogruCevap": "Gözenekleri ile beslenme yaparlar"
+          },
+          {
+            "soru": "Sölenterlerde hangi yapı bulunmaz?",
+            "secenekler": [
+              "Sinir doku",
+              "Kas doku",
+              "Solunum organları",
+              "Üreme organları"
+            ],
+            "dogruCevap": "Solunum organları"
+          },
+          {
+            "soru": "Solucanlar hangi tür solunumu yapar?",
+            "secenekler": [
+              "Deri solunumu",
+              "Ağız solunumu",
+              "Solungaç solunumu",
+              "Akciğer solunumu"
+            ],
+            "dogruCevap": "Deri solunumu"
+          },
+          {
+            "soru": "Yumuşakçaların hangi türü kapalı dolaşım yapar?",
+            "secenekler": [
+              "Ahtapot",
+              "Midye",
+              "Sünger",
+              "Köpekbalığı"
+            ],
+            "dogruCevap": "Ahtapot"
+          },
+          {
+            "soru": "Eklembacaklılarda hangi solunum sistemi bulunur?",
+            "secenekler": [
+              "Trake solunumu",
+              "Deri solunumu",
+              "Akciğer solunumu",
+              "Solungaç solunumu"
+            ],
+            "dogruCevap": "Trake solunumu"
+          },
+          {
+            "soru": "Eklembacaklıların hangi özelliği büyümeyi sınırlar?",
+            "secenekler": [
+              "Kemik yapılı iç iskelet",
+              "Kitin yapılı dış iskelet",
+              "Solungaç yapısı",
+              "Yumuşak vücut"
+            ],
+            "dogruCevap": "Kitin yapılı dış iskelet"
+          },
+          {
+            "soru": "Derisidikenlilerin solunum sistemi nedir?",
+            "secenekler": [
+              "Deri solunumu",
+              "Akciğer solunumu",
+              "Solungaç solunumu",
+              "Su damar sistemi"
+            ],
+            "dogruCevap": "Solungaç solunumu"
+          },
+          {
+            "soru": "Kordalılar hangi özellikleri taşır?",
+            "secenekler": [
+              "Omurga ve sinir kordonu bulunur",
+              "Sadece denizlerde yaşarlar",
+              "Sürekli tomurcuklanarak çoğalırlar",
+              "Kıkırdak iskeletleri vardır"
+            ],
+            "dogruCevap": "Omurga ve sinir kordonu bulunur"
+          },
+          {
+            "soru": "Balıklarda hangi solunum sistemi bulunur?",
+            "secenekler": [
+              "Akciğer solunumu",
+              "Solungaç solunumu",
+              "Deri solunumu",
+              "Trake solunumu"
+            ],
+            "dogruCevap": "Solungaç solunumu"
+          },
+          {
+            "soru": "İki yaşamlılar hangi solunum türünü kullanır?",
+            "secenekler": [
+              "Akciğer solunumu",
+              "Deri solunumu",
+              "Solungaç solunumu",
+              "Hem solungaç hem akciğer solunumu"
+            ],
+            "dogruCevap": "Hem solungaç hem akciğer solunumu"
+          },
+          {
+            "soru": "Sürüngenlerin boşaltım ürünü nedir?",
+            "secenekler": [
+              "Amonyak",
+              "Üre",
+              "Ürik asit",
+              "Glikoz"
+            ],
+            "dogruCevap": "Ürik asit"
+          },
+          {
+            "soru": "Kuşlar hangi sistemle solunum yapar?",
+            "secenekler": [
+              "Akciğer solunumu ve hava keseleri",
+              "Deri solunumu",
+              "Solungaç solunumu",
+              "Trake solunumu"
+            ],
+            "dogruCevap": "Akciğer solunumu ve hava keseleri"
+          },
+          {
+            "soru": "Memelilerin hangi özelliği onları sıcak kanlı yapar?",
+            "secenekler": [
+              "Yüksek kan basıncı",
+              "İki kulakçık ve iki karıncıklı kalp",
+              "Kanlarının sıvı olması",
+              "Sürekli dışarıdan enerji almak"
+            ],
+            "dogruCevap": "İki kulakçık ve iki karıncıklı kalp"
+          },
+          {
+            "soru": "Memelilerin boşaltım ürünü nedir?",
+            "secenekler": [
+              "Amonyak",
+              "Üre",
+              "Ürik asit",
+              "Glikoz"
+            ],
+            "dogruCevap": "Üre"
+          },
+          {
+            "soru": "Memeliler hangi üreme şekline sahiptir?",
+            "secenekler": [
+              "İç döllenme ve iç gelişme",
+              "Dış döllenme ve dış gelişme",
+              "İç döllenme ve dış gelişme",
+              "Dış döllenme ve iç gelişme"
+            ],
+            "dogruCevap": "İç döllenme ve iç gelişme"
+          },
+          {
+            "soru": "Virüslerin çoğalması için hangi şart gereklidir?",
+            "secenekler": [
+              "Canlı hücreye girmeleri",
+              "Biyolojik reaksiyonlar yapmaları",
+              "Bağımsız olarak büyümeleri",
+              "Kendi enerji üretmeleri"
+            ],
+            "dogruCevap": "Canlı hücreye girmeleri"
+          },
+          {
+            "soru": "Virüslerin hangi özellikleri cansızlık özellikleri arasında yer alır?",
+            "secenekler": [
+              "Metabolik aktiviteleri vardır",
+              "Hücre dışında kristalleşirler",
+              "Yapılarında RNA ve DNA taşırlar",
+              "Çoğalabilirler"
+            ],
+            "dogruCevap": "Hücre dışında kristalleşirler"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi virüslerin canlılık özelliklerinden biridir?",
+            "secenekler": [
+              "Hücre dışında kristalleşirler",
+              "Metabolik aktiviteleri yoktur",
+              "Hücre içinde çoğalabilirler",
+              "Bağımsız olarak hareket ederler"
+            ],
+            "dogruCevap": "Hücre içinde çoğalabilirler"
+          },
+          {
+            "soru": "Virüslerin hangi hastalıklara neden olduğu bilinmektedir?",
+            "secenekler": [
+              "AIDS, grip, kuduz",
+              "Grip, verem, kızamık",
+              "Zatürre, covid-19, sıtma",
+              "Kanser, hepatit, şeker"
+            ],
+            "dogruCevap": "AIDS, grip, kuduz"
+          }
+        ],
+        "Mitoz Bölünme ve Eşeysiz Üreme" : [
+          {
+            "soru": "Mitoz bölünme ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": [
+              "Mitoz bölünme ile oluşan hücreler aynı genetik yapıya sahiptir.",
+              "Mitoz, yalnızca tek hücrelilerde çoğalma sağlar.",
+              "Mitoz bölünme çok hücrelilerde büyüme ve yenilenme sağlar.",
+              "Mitozda kromozom sayısı değişmez."
+            ],
+            "dogruCevap": "Mitoz, yalnızca tek hücrelilerde çoğalma sağlar."
+          },
+          {
+            "soru": "Bir hücrenin bölünme emri verildikten sonra ne olur?",
+            "secenekler": [
+              "DNA eşlenir.",
+              "Sadece sitoplazma bölünür.",
+              "Hücre büyür ve metabolik faaliyetler hızlanır.",
+              "Hücre bölünmeden önce hacim / yüzey oranı sabit kalır."
+            ],
+            "dogruCevap": "DNA eşlenir."
+          },
+          {
+            "soru": "Homolog kromozomlar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": [
+              "Homolog kromozomlar biri anneden biri babadan gelir.",
+              "Homolog kromozomlar aynı büyüklükte ve şekildedir.",
+              "Homolog kromozomlar sadece vücut hücrelerinde bulunur.",
+              "Homolog kromozomlar aynı genleri taşır ancak farklı aleller taşıyabilir."
+            ],
+            "dogruCevap": "Homolog kromozomlar sadece vücut hücrelerinde bulunur."
+          },
+          {
+            "soru": "Diploit hücre (2n) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": [
+              "Haploit hücredeki kromozom sayısı taşır.",
+              "Diploit hücrede iki set kromozom bulunur.",
+              "Diploit hücreler yalnızca erkek arılarla ilgilidir.",
+              "Diploit hücreler yalnızca gamet hücrelerinde bulunur."
+            ],
+            "dogruCevap": "Diploit hücrede iki set kromozom bulunur."
+          },
+          {
+            "soru": "Mitoz bölünmenin sonunda hangi özellik gerçekleşir?",
+            "secenekler": [
+              "Yeni hücreler farklı genetik yapıya sahiptir.",
+              "Yeni hücreler aynı genetik yapıya sahiptir.",
+              "Hücre büyüklüğü artar.",
+              "Organellerin sayısı azalır."
+            ],
+            "dogruCevap": "Yeni hücreler aynı genetik yapıya sahiptir."
+          },
+          {
+            "soru": "İnterfaz evresinin hangi aşamasında DNA eşlenmesi gerçekleşir?",
+            "secenekler": [
+              "G1 evresi",
+              "S evresi",
+              "G2 evresi",
+              "Mitotik evre"
+            ],
+            "dogruCevap": "S evresi"
+          },
+          {
+            "soru": "Mitoz bölünmede kromozomlar hangi evrede en görünür hale gelir?",
+            "secenekler": [
+              "Profaz",
+              "Metafaz",
+              "Anafaz",
+              "Telofaz"
+            ],
+            "dogruCevap": "Metafaz"
+          },
+          {
+            "soru": "Mitoz bölünmenin hangi evresinde kardeş kromatitler zıt kutuplara çekilir?",
+            "secenekler": [
+              "Profaz",
+              "Metafaz",
+              "Anafaz",
+              "Telofaz"
+            ],
+            "dogruCevap": "Anafaz"
+          },
+          {
+            "soru": "Profaz evresinin sonunda hangi olay gerçekleşir?",
+            "secenekler": [
+              "Kromozomlar kısalır ve kalınlaşır.",
+              "İğ iplikleri oluşturulur.",
+              "Çekirdek zarı kaybolur.",
+              "Kromozomlar tek sıra halinde dizilir."
+            ],
+            "dogruCevap": "Çekirdek zarı kaybolur."
+          },
+          {
+            "soru": "İnterfaz evresinde hangi olay gerçekleşmez?",
+            "secenekler": [
+              "DNA eşlenmesi",
+              "Organel sayısının artması",
+              "Hücre büyümesi",
+              "Çekirdek bölünmesi"
+            ],
+            "dogruCevap": "Çekirdek bölünmesi"
+          },
+          {
+            "soru": "Mitoz bölünme sırasında sentromerlerin görevini ne yerine getirir?",
+            "secenekler": [
+              "Kinetokorlar",
+              "İğ iplikleri",
+              "Kromozomlar",
+              "Hücre zarı"
+            ],
+            "dogruCevap": "Kinetokorlar"
+          },
+          {
+            "soru": "Aşağıdaki evrelerden hangisi mitoz bölünme sırasında gerçekleşmez?",
+            "secenekler": [
+              "Profaz",
+              "Metafaz",
+              "Anafaz",
+              "İnterfaz"
+            ],
+            "dogruCevap": "İnterfaz"
+          },
+          {
+            "soru": "Homolog kromozomlar hangi hücrede bulunur?",
+            "secenekler": [
+              "Sperm hücresinde",
+              "Yumurta hücresinde",
+              "Vücut hücrelerinde",
+              "Gamet hücrelerinde"
+            ],
+            "dogruCevap": "Vücut hücrelerinde"
+          },
+          {
+            "soru": "Mitoz bölünme, hangi özellikleri sağlar?",
+            "secenekler": [
+              "Büyüme ve yenilenme",
+              "Genetik çeşitlilik",
+              "Eşeysiz üreme",
+              "Hem büyüme hem de eşeyli üreme"
+            ],
+            "dogruCevap": "Büyüme ve yenilenme"
+          },
+          {
+            "soru": "DNA'nın eşlenmesinin nedeni nedir?",
+            "secenekler": [
+              "Yeni hücrelerin aynı genetik yapıya sahip olması",
+              "Hücre zarının yenilenmesi",
+              "Sadece yavru hücrelerin büyümesi",
+              "Kromozom sayısının artması"
+            ],
+            "dogruCevap": "Yeni hücrelerin aynı genetik yapıya sahip olması"
+          },
+          {
+            "soru": "Mitoz bölünmede hücreyi ikiye bölen olay nedir?",
+            "secenekler": [
+              "Çekirdek bölünmesi",
+              "Sitoplazma bölünmesi",
+              "DNA eşlenmesi",
+              "Kromozom hareketi"
+            ],
+            "dogruCevap": "Sitoplazma bölünmesi"
+          },
+          {
+            "soru": "Bir hücrenin bölünme emri vermesi için hangi faktör gereklidir?",
+            "secenekler": [
+              "Hücrenin hacim / yüzey oranı",
+              "DNA'nın mutasyona uğraması",
+              "Organellerin sayısı",
+              "Hücre zarının büyümesi"
+            ],
+            "dogruCevap": "Hücrenin hacim / yüzey oranı"
+          },
+          {
+            "soru": "Kromozomların sayısı hangi evrede artar?",
+            "secenekler": [
+              "Profaz",
+              "Metafaz",
+              "Anafaz",
+              "Telofaz"
+            ],
+            "dogruCevap": "Anafaz"
+          },
+          {
+            "soru": "Mitoz bölünme sonucunda oluşan yeni hücreler hangi özelliği paylaşır?",
+            "secenekler": [
+              "Farklı genetik yapıya sahip olur",
+              "Aynı genetik yapıya sahip olur",
+              "Hücre sayısı azalır",
+              "Kromozom sayısı artar"
+            ],
+            "dogruCevap": "Aynı genetik yapıya sahip olur"
+          }
+        ],
+         "Mitoz Bölünme ve Eşeysiz Üreme 2" : [
+          {
+            "soru": "Telofaz evresinde hangi özellik gerçekleşir?",
+            "secenekler": [
+              "Çekirdek zarları kaybolur",
+              "Kromozomlar kısalır ve kalınlaşır",
+              "Kromozomlar tekrar kromatin ipliğe dönüşür",
+              "Çekirdek oluşumu durur"
+            ],
+            "dogruCevap": "Kromozomlar tekrar kromatin ipliğe dönüşür"
+          },
+          {
+            "soru": "Hayvansal hücrelerde telofazın sonlarına doğru hangi olay gerçekleşir?",
+            "secenekler": [
+              "Boğumlanma",
+              "Ara lamel oluşumu",
+              "Sentrioleler kutuplara gider",
+              "Kromozomlar dizilir"
+            ],
+            "dogruCevap": "Boğumlanma"
+          },
+          {
+            "soru": "Mitozda DNA miktarı ne zaman iki katına çıkar?",
+            "secenekler": [
+              "İnterfaz evresinde",
+              "S evresinde",
+              "Metafazda",
+              "Anafazda"
+            ],
+            "dogruCevap": "S evresinde"
+          },
+          {
+            "soru": "Endomitoz ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": [
+              "Çekirdek bölünmesi ve sitoplazma bölünmesi birlikte gerçekleşir.",
+              "Çekirdek bölünmesi gerçekleşirken sitoplazma bölünmez.",
+              "Çekirdek bölünmesi gerçekleşmez.",
+              "Hücre döngüsünde hızlanma olur."
+            ],
+            "dogruCevap": "Çekirdek bölünmesi gerçekleşirken sitoplazma bölünmez."
+          },
+          {
+            "soru": "Amitoz bölünme hangi organizmalarda görülür?",
+            "secenekler": [
+              "Tek hücreli hayvanlar",
+              "Bira mayası ve amip",
+              "Mantarlar",
+              "Bitkiler"
+            ],
+            "dogruCevap": "Bira mayası ve amip"
+          },
+          {
+            "soru": "Kanser hangi durumda meydana gelir?",
+            "secenekler": [
+              "Hücre döngüsünün kontrolü kaybolduğunda",
+              "Embriyonik hücrelerde",
+              "Çekirdek bölünmesi kontrol altında olduğunda",
+              "Hücre büyümesi durduğunda"
+            ],
+            "dogruCevap": "Hücre döngüsünün kontrolü kaybolduğunda"
+          },
+          {
+            "soru": "Hangi kontrol noktası, DNA hasarını kontrol eder?",
+            "secenekler": [
+              "G1 kontrol noktası",
+              "G2 kontrol noktası",
+              "G0 kontrol noktası",
+              "M kontrol noktası"
+            ],
+            "dogruCevap": "G2 kontrol noktası"
+          },
+          {
+            "soru": "Eşeysiz üreme ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": [
+              "Eşeysiz üremede yeni bireyler ata ile aynı genetik yapıya sahiptir.",
+              "Eşeysiz üreme daha yavaş seyreder.",
+              "Eşeysiz üremede genetik çeşitlilik azalır.",
+              "Eşeysiz üreme mitoz bölünmeye dayanır."
+            ],
+            "dogruCevap": "Eşeysiz üreme daha yavaş seyreder."
+          },
+          {
+            "soru": "Eşeysiz üreme hangi organizmalarda görülmez?",
+            "secenekler": [
+              "Mantarlar",
+              "Bitkiler",
+              "Hayvanlar",
+              "Bazı hayvansal canlılar"
+            ],
+            "dogruCevap": "Hayvanlar"
+          },
+          {
+            "soru": "Bölünerek üreme hangi türlerde görülür?",
+            "secenekler": [
+              "Prokaryotik ve tek hücreli ökaryotik canlılar",
+              "Sölenterler ve balıklar",
+              "Mantarlar ve bazı hayvanlar",
+              "Bitkiler"
+            ],
+            "dogruCevap": "Prokaryotik ve tek hücreli ökaryotik canlılar"
+          },
+          {
+            "soru": "Sporla üreme hangi canlılarda görülür?",
+            "secenekler": [
+              "Sölenterler ve mayalar",
+              "Tohumsuz bitkiler ve mantarlar",
+              "Hayvanlar",
+              "Yumurtlayan memeliler"
+            ],
+            "dogruCevap": "Tohumsuz bitkiler ve mantarlar"
+          },
+          {
+            "soru": "Tomurcuklanma ile üreme hangi canlılarda görülür?",
+            "secenekler": [
+              "Bira mayası ve bazı sölenterler",
+              "Yapraklı bitkiler",
+              "Omurgasızlar",
+              "Süngerler"
+            ],
+            "dogruCevap": "Bira mayası ve bazı sölenterler"
+          },
+          {
+            "soru": "Rejenerasyonla üreme sonucu hangi organizmalarda yeni bir canlı oluşur?",
+            "secenekler": [
+              "Kertenkele",
+              "Planarya",
+              "Deniz yıldızı",
+              "Amip"
+            ],
+            "dogruCevap": "Deniz yıldızı"
+          },
+          {
+            "soru": "Partenogenez hangi canlıda gerçekleşir?",
+            "secenekler": [
+              "Erkek arı",
+              "Kertenkele",
+              "Böcekler",
+              "Kuşlar"
+            ],
+            "dogruCevap": "Erkek arı"
+          },
+          {
+            "soru": "Vejetatif üreme hangi organizmalarda görülür?",
+            "secenekler": [
+              "Bitkiler",
+              "Hayvanlar",
+              "Mantarlar",
+              "Tek hücreliler"
+            ],
+            "dogruCevap": "Bitkiler"
+          },
+          {
+            "soru": "Çelikle üreme hangi bitkilerde görülür?",
+            "secenekler": [
+              "Söğüt ve kavak",
+              "Patates ve havuç",
+              "Çilek ve zencefil",
+              "Asma ve şeftali"
+            ],
+            "dogruCevap": "Söğüt ve kavak"
+          },
+          {
+            "soru": "Doku kültürü yöntemi hangi bitkilerde kullanılır?",
+            "secenekler": [
+              "Soyu tükenmekte olan bitkiler",
+              "Çiçekli bitkiler",
+              "Tavuklar ve böcekler",
+              "Bütün bitkiler"
+            ],
+            "dogruCevap": "Soyu tükenmekte olan bitkiler"
+          },
+          {
+            "soru": "Aşılama ile üreme hangi bitkilerde uygulanabilir?",
+            "secenekler": [
+              "Aynı veya farklı türler arasında",
+              "Sadece tek türde",
+              "Farklı cinslerde",
+              "Sadece meyve veren bitkiler"
+            ],
+            "dogruCevap": "Aynı veya farklı türler arasında"
+          },
+          {
+            "soru": "Hangi üreme şekli tek hücreli organizmalarda görülür?",
+            "secenekler": [
+              "Amitoz",
+              "Mitoz",
+              "Bölünerek üreme",
+              "Sporla üreme"
+            ],
+            "dogruCevap": "Bölünerek üreme"
+          }
+        ],
+        "Kalıtım" : [
+          {
+            "soru": "Kalıtım biliminin konusu nedir?",
+            "secenekler": [
+              "Canlıların fiziksel özelliklerinin incelenmesi",
+              "Genetik bilgilerin aktarılması",
+              "Canlıların davranışlarının incelenmesi",
+              "Canlıların evrimsel süreçlerinin incelenmesi"
+            ],
+            "dogruCevap": "Genetik bilgilerin aktarılması"
+          },
+          {
+            "soru": "Gen nedir?",
+            "secenekler": [
+              "Bir organizmanın tüm özelliklerini belirleyen proteinler",
+              "DNA molekülünü oluşturan nükleotitlerin düzenlenmiş parçaları",
+              "Bir organizmanın dış görünüşünü belirleyen kromozomlar",
+              "Vücutta enerji üretimi yapan organeller"
+            ],
+            "dogruCevap": "DNA molekülünü oluşturan nükleotitlerin düzenlenmiş parçaları"
+          },
+          {
+            "soru": "Baskın gen nasıl ifade edilir?",
+            "secenekler": [
+              "A küçük harf ile",
+              "a küçük harf ile",
+              "A büyük harf ile",
+              "a büyük harf ile"
+            ],
+            "dogruCevap": "A büyük harf ile"
+          },
+          {
+            "soru": "Çekinik gen hangi harf ile ifade edilir?",
+            "secenekler": [
+              "A",
+              "a",
+              "B",
+              "b"
+            ],
+            "dogruCevap": "a"
+          },
+          {
+            "soru": "Homozigotluk ne anlama gelir?",
+            "secenekler": [
+              "Karakteri oluşturan genlerin farklı olması",
+              "Karakteri oluşturan genlerin aynı olması",
+              "Baskın genin etkisini gösteren genotip",
+              "Çekinik genin etkisini gösteren genotip"
+            ],
+            "dogruCevap": "Karakteri oluşturan genlerin aynı olması"
+          },
+          {
+            "soru": "Heterozigotluk ne anlama gelir?",
+            "secenekler": [
+              "Karakteri oluşturan genlerin farklı olması",
+              "Karakteri oluşturan genlerin aynı olması",
+              "Baskın genin etkisini göstermeyen genotip",
+              "Çekinik genin etkisini gösteren genotip"
+            ],
+            "dogruCevap": "Karakteri oluşturan genlerin farklı olması"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi genetik çeşitlilik sağlamaz?",
+            "secenekler": [
+              "Krossing-over",
+              "Bağımsız dağılım yasası",
+              "Eş baskınlık",
+              "Homozigotluk"
+            ],
+            "dogruCevap": "Homozigotluk"
+          },
+          {
+            "soru": "Monohibrit çaprazlama nedir?",
+            "secenekler": [
+              "Bir karakterin genetik çaprazlaması",
+              "İki karakterin genetik çaprazlaması",
+              "Üç karakterin genetik çaprazlaması",
+              "Tek bir karakterin farklı bireylerle çaprazlanması"
+            ],
+            "dogruCevap": "Bir karakterin genetik çaprazlaması"
+          },
+          {
+            "soru": "Mendel'in çalışmalarında bezelye bitkisini seçme nedeni nedir?",
+            "secenekler": [
+              "Bezelye çabuk döl verir ve hızlı yetişir",
+              "Bezelye sadece bir karakteri taşır",
+              "Bezelye eşeyli üreme yapmaz",
+              "Bezelye çok sayıda genetik çeşitliliğe sahip değildir"
+            ],
+            "dogruCevap": "Bezelye çabuk döl verir ve hızlı yetişir"
+          },
+          {
+            "soru": "Mendel'in Ayrılma Yasası neyi ifade eder?",
+            "secenekler": [
+              "Alel genlerin birbirinden aynı olasılıkla ayrıldığını",
+              "Farklı karakterlerin alellerinin bağımsız olarak dağıldığını",
+              "Bir karakterin baskın olan geninin her zaman belirleyici olduğunu",
+              "Bir karakterin tüm alellerinin eşit şekilde birleştiğini"
+            ],
+            "dogruCevap": "Alel genlerin birbirinden aynı olasılıkla ayrıldığını"
+          },
+          {
+            "soru": "Bağımsız dağılım yasası nedir?",
+            "secenekler": [
+              "Farklı karakterlerin alellerinin birbirinden bağımsız dağılması",
+              "Aynı karakterin alellerinin bağlanarak dağıldığı yasa",
+              "Farklı karakterlerin alellerinin birbirine bağlı kalması",
+              "Bir alel çiftinin her zaman baskın olarak ifade edilmesi"
+            ],
+            "dogruCevap": "Farklı karakterlerin alellerinin birbirinden bağımsız dağılması"
+          },
+          {
+            "soru": "Aşağıdaki genetik kavramlardan hangisi fenotipin tanımını yapar?",
+            "secenekler": [
+              "Canlının genetik yapısı",
+              "Bir canlının sahip olduğu genlerin toplamı",
+              "Canlının gözle görülebilen özellikleri",
+              "Canlının kromozom yapısı"
+            ],
+            "dogruCevap": "Canlının gözle görülebilen özellikleri"
+          },
+          {
+            "soru": "Mendel'in Bağımsız Dağılım Yasası hangi durumda geçerli olur?",
+            "secenekler": [
+              "Genler birbirine bağlıysa",
+              "Genler bağımsızsa",
+              "Krossing-over olmadığı durumlarda",
+              "Kötü huylu genler bulunduğunda"
+            ],
+            "dogruCevap": "Genler bağımsızsa"
+          },
+          {
+            "soru": "Krossing-over nedir?",
+            "secenekler": [
+              "Alel genlerin aynı kromozomda birleştirilmesi",
+              "Homolog kromozomların genetik materyalini takas yapması",
+              "Farklı kromozomların bir araya gelmesi",
+              "Kromozomun kendini eşlemesi"
+            ],
+            "dogruCevap": "Homolog kromozomların genetik materyalini takas yapması"
+          },
+          {
+            "soru": "Eş baskınlık nedir?",
+            "secenekler": [
+              "Bir alel diğerine baskın gelir",
+              "Alel genler eşit şekilde etkili olur",
+              "Baskın genin etkisi az olur",
+              "Çekinik gen baskın gelir"
+            ],
+            "dogruCevap": "Alel genler eşit şekilde etkili olur"
+          },
+          {
+            "soru": "Test çaprazlaması nedir?",
+            "secenekler": [
+              "Baskın fenotipli bireyin genotipini belirlemek için yapılan çaprazlama",
+              "Bireylerin fenotiplerinin analiz edilmesi",
+              "Genetik çeşitliliği artıran çaprazlama",
+              "Homozigot bireylerin çaprazlanması"
+            ],
+            "dogruCevap": "Baskın fenotipli bireyin genotipini belirlemek için yapılan çaprazlama"
+          },
+          {
+            "soru": "M-N kan grubu örneğinde heterozigot genotip kimdir?",
+            "secenekler": [
+              "MM",
+              "NN",
+              "MN",
+              "MM veya NN"
+            ],
+            "dogruCevap": "MN"
+          },
+          {
+            "soru": "Fenotip ve genotip arasındaki fark nedir?",
+            "secenekler": [
+              "Genotip genetik yapıyı, fenotip ise dışa yansıyan özellikleri belirler",
+              "Genotip fiziksel özellikleri belirler, fenotip genetik yapıyı",
+              "Genotip ve fenotip arasında fark yoktur",
+              "Fenotip sadece fiziksel özellikleri değil genetik yapıyı da belirler"
+            ],
+            "dogruCevap": "Genotip genetik yapıyı, fenotip ise dışa yansıyan özellikleri belirler"
+          }
+        ],
+        "Kalıtım 2" : [
+          {
+            "soru": "Çok alellilik nedir?",
+            "secenekler": [
+              "Bir karakteri belirleyen alel sayısının birden fazla olması",
+              "Bir karakteri belirleyen alel sayısının iki olması",
+              "Bir genin baskınlık durumunun çok olması",
+              "Bir karakterin sadece bir alelle belirlenmesi"
+            ],
+            "dogruCevap": "Bir karakteri belirleyen alel sayısının birden fazla olması"
+          },
+          {
+            "soru": "Himalaya tavşanlarının kürk rengini belirleyen aleller arasındaki baskınlık sıralaması nedir?",
+            "secenekler": [
+              "C > cch > ch > c",
+              "C > ch > cch > c",
+              "ch > C > cch > c",
+              "cch > C > ch > c"
+            ],
+            "dogruCevap": "C > cch > ch > c"
+          },
+          {
+            "soru": "Çok alellilikte genotip çeşit sayısı nasıl hesaplanır?",
+            "secenekler": [
+              "n x (n+1) / 2",
+              "n x (n-1) / 2",
+              "n x n",
+              "n x (n+2) / 2"
+            ],
+            "dogruCevap": "n x (n+1) / 2"
+          },
+          {
+            "soru": "Çok alellilikte heterozigot genotip sayısı nasıl hesaplanır?",
+            "secenekler": [
+              "n x (n+1) / 2",
+              "n x (n-1) / 2",
+              "n x n",
+              "n x 2"
+            ],
+            "dogruCevap": "n x (n-1) / 2"
+          },
+          {
+            "soru": "Kan grupları hangi genetik özellik ile belirlenir?",
+            "secenekler": [
+              "X kromozomu",
+              "Y kromozomu",
+              "Çok alellilik",
+              "Bağlı genler"
+            ],
+            "dogruCevap": "Çok alellilik"
+          },
+          {
+            "soru": "A ve B alelleri, kan gruplarında hangi özelliği belirler?",
+            "secenekler": [
+              "Antijen",
+              "Antikor",
+              "Aglütinin",
+              "Aglütinojen"
+            ],
+            "dogruCevap": "Antijen"
+          },
+          {
+            "soru": "Kan grubunda 0 aleli ne işlev görür?",
+            "secenekler": [
+              "Antijen oluşumunu sağlar",
+              "Antikor oluşumunu sağlar",
+              "Antijen oluşumunda etkisizdir",
+              "Aglütinin üretir"
+            ],
+            "dogruCevap": "Antijen oluşumunda etkisizdir"
+          },
+          {
+            "soru": "Rh faktörü hangi kromozomlarla kalıtılır?",
+            "secenekler": [
+              "X ve Y kromozomları",
+              "Sadece X kromozomu",
+              "Sadece Y kromozomu",
+              "Baskın ve çekinik genlerle"
+            ],
+            "dogruCevap": "Baskın ve çekinik genlerle"
+          },
+          {
+            "soru": "Rh pozitif (Rh+) bireyde hangi genotip bulunur?",
+            "secenekler": [
+              "RR veya Rr",
+              "rr",
+              "Rr",
+              "RR"
+            ],
+            "dogruCevap": "RR veya Rr"
+          },
+          {
+            "soru": "Rh negatif (Rh-) bireyde hangi genotip bulunur?",
+            "secenekler": [
+              "RR",
+              "Rr",
+              "rr",
+              "Rr veya rr"
+            ],
+            "dogruCevap": "rr"
+          },
+          {
+            "soru": "Rh kan uyuşmazlığı hangi durumda görülür?",
+            "secenekler": [
+              "Rh(+) baba ve Rh(-) anne",
+              "Rh(-) baba ve Rh(+) anne",
+              "İki Rh(-) birey arasında",
+              "İki Rh(+) birey arasında"
+            ],
+            "dogruCevap": "Rh(+) baba ve Rh(-) anne"
+          },
+          {
+            "soru": "Eritroblastosis fetalis nedir?",
+            "secenekler": [
+              "Anne ve fetüs arasındaki kan uyuşmazlığının sonucu",
+              "Fetüsün anne kanında antikor üretmesi",
+              "Fetüsün doğum öncesi ölümünü ifade eder",
+              "Fetüsün kanında kırmızı hücrelerin normalden fazla olması"
+            ],
+            "dogruCevap": "Anne ve fetüs arasındaki kan uyuşmazlığının sonucu"
+          },
+          {
+            "soru": "Soyağacı çalışmasında hangi sembol erkek bireyleri temsil eder?",
+            "secenekler": [
+              "Daire",
+              "Kare",
+              "Üçgen",
+              "Yıldız"
+            ],
+            "dogruCevap": "Kare"
+          },
+          {
+            "soru": "Soyağacında hangi sembol dişi bireyleri temsil eder?",
+            "secenekler": [
+              "Daire",
+              "Kare",
+              "Üçgen",
+              "Yıldız"
+            ],
+            "dogruCevap": "Daire"
+          },
+          {
+            "soru": "Eşey tayini hangi kromozomlar ile yapılır?",
+            "secenekler": [
+              "Otozom ve gonozom",
+              "X ve Y kromozomları",
+              "Y kromozomu ve otozomlar",
+              "XX ve XY kromozomları"
+            ],
+            "dogruCevap": "X ve Y kromozomları"
+          },
+          {
+            "soru": "Bir bireyde X kromozomunda bulunan hastalık genini taşıması, hangi durumu gösterir?",
+            "secenekler": [
+              "Dişi bireyde hastalık kesinlikle görülür",
+              "Erkek bireyde hastalık kesinlikle görülür",
+              "Erkek bireyde hastalık, tek X kromozomunda yeterlidir",
+              "Dişi bireyde hastalık ancak her iki X kromozomunda olursa görülür"
+            ],
+            "dogruCevap": "Erkek bireyde hastalık, tek X kromozomunda yeterlidir"
+          },
+          {
+            "soru": "Kısmi renk körlüğü hangi kromozom ile taşınır?",
+            "secenekler": [
+              "X kromozomu",
+              "Y kromozomu",
+              "Otozom",
+              "Hem X hem Y kromozomları"
+            ],
+            "dogruCevap": "X kromozomu"
+          },
+          {
+            "soru": "Hemofili hastalığı hangi kromozom ile taşınır?",
+            "secenekler": [
+              "X kromozomu",
+              "Y kromozomu",
+              "Otozom",
+              "Birden fazla kromozom"
+            ],
+            "dogruCevap": "X kromozomu"
+          },
+          {
+            "soru": "Kulak kıllılığı hangi kromozom ile taşınır?",
+            "secenekler": [
+              "X kromozomu",
+              "Y kromozomu",
+              "Otozom",
+              "Bağımsız genler"
+            ],
+            "dogruCevap": "Y kromozomu"
+          },
+          {
+            "soru": "Akraba evliliği genetik hastalıkların görülme olasılığını nasıl etkiler?",
+            "secenekler": [
+              "Azaltır",
+              "Artırır",
+              "Hiç etkilemez",
+              "Genetik çeşitliliği artırır"
+            ],
+            "dogruCevap": "Artırır"
+          }
         ]
-        
+
       }
     }
   }
