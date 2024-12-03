@@ -9341,6 +9341,414 @@
         
         
         
+      },
+      "Güncel Konular" : {
+        "Güncel Konular 1" : [
+          {
+            "soru": "2024 Nobel Fizik Ödülü hangi bilim insanlarına verilmiştir?",
+            "secenekler": [
+              "David Baker ve Demis Hassabis",
+              "John Hopfield ve Geoffrey Hinton",
+              "Gary Ruvkun ve Victor Ambros",
+              "Daron Acemoğlu ve Simon Johnson"
+            ],
+            "dogruCevap": "John Hopfield ve Geoffrey Hinton"
+          },
+          {
+            "soru": "2024 Nobel Edebiyat Ödülü'nü kazanan kişi kimdir?",
+            "secenekler": [
+              "Han Kang",
+              "Nuri Bilge Ceylan",
+              "Victor Ambros",
+              "Daron Acemoğlu"
+            ],
+            "dogruCevap": "Han Kang"
+          },
+          {
+            "soru": "2024 Oscar Ödülleri'nde En İyi Film ödülünü kazanan yapım aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "The Zone of Interest",
+              "Poor Things",
+              "Oppenheimer",
+              "The Boy and the Heron"
+            ],
+            "dogruCevap": "Oppenheimer"
+          },
+          {
+            "soru": "2024 Altın Küre Ödülleri'nde En İyi Yönetmen ödülünü kazanan kişi kimdir?",
+            "secenekler": [
+              "Christopher Nolan",
+              "Lily Gladstone",
+              "Cillian Murphy",
+              "Ricky Gervais"
+            ],
+            "dogruCevap": "Christopher Nolan"
+          },
+          {
+            "soru": "2024 Nobel Ekonomi Ödülü hangi bilim insanlarına verilmiştir?",
+            "secenekler": [
+              "Daron Acemoğlu, Simon Johnson ve James A. Robinson",
+              "David Baker ve Demis Hassabis",
+              "John Hopfield ve Geoffrey Hinton",
+              "Han Kang ve Gary Ruvkun"
+            ],
+            "dogruCevap": "Daron Acemoğlu, Simon Johnson ve James A. Robinson"
+          },
+          {
+            "soru": "SİYAD 2024'te En İyi Film ödülünü kazanan yapım hangisidir?",
+            "secenekler": [
+              "Kuru Otlar Üstüne",
+              "Karanlık Gece",
+              "Anatomy of A Fall",
+              "Ayna Ayna"
+            ],
+            "dogruCevap": "Kuru Otlar Üstüne"
+          },
+          {
+            "soru": "2024 Oscar Ödülleri'nde En İyi Kadın Oyuncu ödülünü kim kazanmıştır?",
+            "secenekler": [
+              "Merve Dizdar",
+              "Emma Stone",
+              "Lily Gladstone",
+              "Han Kang"
+            ],
+            "dogruCevap": "Emma Stone"
+          },
+          {
+            "soru": "2024 Altın Küre Ödülleri'nde En İyi Animasyon Film ödülünü kazanan yapım hangisidir?",
+            "secenekler": [
+              "The Boy and the Heron",
+              "Barbie",
+              "Poor Things",
+              "Anatomy of a Fall"
+            ],
+            "dogruCevap": "The Boy and the Heron"
+          },
+          {
+            "soru": "2024 Nobel Barış Ödülü'nü kazanan kurum hangisidir?",
+            "secenekler": [
+              "UNICEF",
+              "Nihon Hidankyo",
+              "Greenpeace",
+              "Amnesty International"
+            ],
+            "dogruCevap": "Nihon Hidankyo"
+          },
+          {
+            "soru": "2024 Oscar Ödülleri'nde En İyi Yardımcı Erkek Oyuncu ödülünü kim kazanmıştır?",
+            "secenekler": [
+              "Cem Davran",
+              "Cillian Murphy",
+              "Robert Downey Jr.",
+              "Simon Johnson"
+            ],
+            "dogruCevap": "Robert Downey Jr."
+          },
+          {
+            "soru": "SİYAD 2024'te En İyi Yönetmen ödülünü kazanan kişi kimdir?",
+            "secenekler": [
+              "Christopher Nolan",
+              "Han Kang",
+              "Nuri Bilge Ceylan",
+              "Justine Triet"
+            ],
+            "dogruCevap": "Nuri Bilge Ceylan"
+          },
+          {
+            "soru": "2024 Altın Küre Ödülleri'nde En İyi Stand-Up ödülünü kim kazanmıştır?",
+            "secenekler": [
+              "Ricky Gervais",
+              "Billie Eilish",
+              "Robert Downey Jr.",
+              "Lily Gladstone"
+            ],
+            "dogruCevap": "Ricky Gervais"
+          },
+          {
+            "soru": "2024 Nobel Tıp Ödülü'nü kazanan bilim insanları kimlerdir?",
+            "secenekler": [
+              "Gary Ruvkun ve Victor Ambros",
+              "David Baker ve Demis Hassabis",
+              "Han Kang ve Geoffrey Hinton",
+              "Daron Acemoğlu ve Simon Johnson"
+            ],
+            "dogruCevap": "Gary Ruvkun ve Victor Ambros"
+          },
+          {
+            "soru": "2024 Oscar Ödülleri'nde En İyi Uluslararası Film ödülünü kazanan yapım hangisidir?",
+            "secenekler": [
+              "The Zone of Interest",
+              "Anatomy of a Fall",
+              "Barbie",
+              "Kuru Otlar Üstüne"
+            ],
+            "dogruCevap": "The Zone of Interest"
+          },
+          {
+            "soru": "2024 Altın Küre Ödülleri'nde En İyi Müzik ödülünü kim kazanmıştır?",
+            "secenekler": [
+              "Cansun Küçüktürk",
+              "Ludwig Göransson",
+              "Billie Eilish",
+              "David Baker"
+            ],
+            "dogruCevap": "Ludwig Göransson"
+          },
+          {
+            "soru": "SİYAD 2024'te Yardımcı Rolde En İyi Kadın Oyuncu ödülünü kim kazanmıştır?",
+            "secenekler": [
+              "Merve Dizdar",
+              "Emma Stone",
+              "Ece Bağcı",
+              "Lily Gladstone"
+            ],
+            "dogruCevap": "Ece Bağcı"
+          },
+          {
+            "soru": "2024 Oscar Ödülleri'nde En İyi Orijinal Senaryo ödülünü kazanan yapım hangisidir?",
+            "secenekler": [
+              "Poor Things",
+              "Anatomy of A Fall",
+              "American Fiction",
+              "Barbie"
+            ],
+            "dogruCevap": "Anatomy of A Fall"
+          },
+          {
+            "soru": "SİYAD 2024'te En İyi Uzun Metraj Belgesel ödülünü kazanan yapım hangisidir?",
+            "secenekler": [
+              "20 Days in Mariupol",
+              "Ayna Ayna",
+              "Kavur",
+              "Anatomy of A Fall"
+            ],
+            "dogruCevap": "Kavur"
+          },
+          {
+            "soru": "2024 Altın Küre Ödülleri'nde Drama dalında En İyi Erkek Oyuncu ödülünü kim kazanmıştır?",
+            "secenekler": [
+              "Cillian Murphy",
+              "Robert Downey Jr.",
+              "Deniz Celiloğlu",
+              "Victor Ambros"
+            ],
+            "dogruCevap": "Cillian Murphy"
+          },
+          {
+            "soru": "2024 Nobel Kimya Ödülü'nü kazananlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": [
+              "John M. Jumper",
+              "David Baker",
+              "Demis Hassabis",
+              "James A. Robinson"
+            ],
+            "dogruCevap": "James A. Robinson"
+          }
+        ],
+        "Güncel Konular 2" : [
+          {
+            "soru": "2024 Grammy Ödülleri'nde 'Yılın Albümü' ödülünü kazanan sanatçı kimdir?",
+            "secenekler": [
+              "Billie Eilish",
+              "Taylor Swift",
+              "Miley Cyrus",
+              "Victoria Monét"
+            ],
+            "dogruCevap": "Taylor Swift"
+          },
+          {
+            "soru": "2024 Grammy Ödülleri'nde 'En İyi Metal Performansı' ödülünü kim kazandı?",
+            "secenekler": [
+              "Metallica",
+              "Paramore",
+              "boygenius",
+              "Killer Mike"
+            ],
+            "dogruCevap": "Metallica"
+          },
+          {
+            "soru": "Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nde 'Tiyatro' alanında ödül alan kişi kimdir?",
+            "secenekler": [
+              "Ahmet Özhan",
+              "Turan Oflazoğlu",
+              "Fatma Barbarosoğlu",
+              "Halit Refiğ"
+            ],
+            "dogruCevap": "Turan Oflazoğlu"
+          },
+          {
+            "soru": "2024 Grammy Ödülleri'nde 'Yılın Şarkısı' ödülünü kazanan şarkı hangisidir?",
+            "secenekler": [
+              "Flowers",
+              "Ghost in the Machine",
+              "What Was I Made For?",
+              "Not Strong Enough"
+            ],
+            "dogruCevap": "What Was I Made For?"
+          },
+          {
+            "soru": "2024 Grammy Ödülleri'nde 'En İyi Rap Albümü' ödülünü kazanan sanatçı kimdir?",
+            "secenekler": [
+              "Paramore",
+              "Killer Mike",
+              "Chris Stapleton",
+              "boygenius"
+            ],
+            "dogruCevap": "Killer Mike"
+          },
+          {
+            "soru": "2023 Kültür ve Turizm Bakanlığı Özel Ödülleri'nde hangi müze ödül kazanmıştır?",
+            "secenekler": [
+              "İbrahim Alimoğlu Müzik Müzesi",
+              "Sadberk Hanım Müzesi",
+              "Pera Müzesi",
+              "Rahmi Koç Müzesi"
+            ],
+            "dogruCevap": "İbrahim Alimoğlu Müzik Müzesi"
+          },
+          {
+            "soru": "2024 Grammy Ödülleri'nde 'En İyi Klip' ödülünü kazanan şarkı hangisidir?",
+            "secenekler": [
+              "I’m Only Sleeping",
+              "Flowers",
+              "White Horse",
+              "Not Strong Enough"
+            ],
+            "dogruCevap": "I’m Only Sleeping"
+          },
+          {
+            "soru": "Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nde 'Müzik' alanında ödül alan sanatçı kimdir?",
+            "secenekler": [
+              "Göksel Arsoy",
+              "Ramazan Minder",
+              "Ahmet Özhan",
+              "Fatma Barbarosoğlu"
+            ],
+            "dogruCevap": "Ahmet Özhan"
+          },
+          {
+            "soru": "Türkiye’nin ilk uzay yolcusu kimdir?",
+            "secenekler": [
+              "Alper Gezeravcı",
+              "Halit Refiğ",
+              "Ersen Martin",
+              "Ramazan Minder"
+            ],
+            "dogruCevap": "Alper Gezeravcı"
+          },
+          {
+            "soru": "2024 Grammy Ödülleri'nde 'En İyi Alternatif Müzik Albümü' ödülünü kazanan albüm hangisidir?",
+            "secenekler": [
+              "Bewitched",
+              "Michael",
+              "The Record",
+              "This Is Why"
+            ],
+            "dogruCevap": "The Record"
+          },
+          {
+            "soru": "2023 yılında yaşanan 'Yüzyılın Felaketi' olarak anılan büyük deprem hangi şehir merkezliydi?",
+            "secenekler": [
+              "İstanbul",
+              "Ankara",
+              "Kahramanmaraş",
+              "İzmir"
+            ],
+            "dogruCevap": "Kahramanmaraş"
+          },
+          {
+            "soru": "2024 Grammy Ödülleri'nde 'En İyi Solo Pop Performansı' ödülünü hangi şarkı kazandı?",
+            "secenekler": [
+              "Ghost in the Machine",
+              "Flowers",
+              "What Was I Made For?",
+              "Not Strong Enough"
+            ],
+            "dogruCevap": "Flowers"
+          },
+          {
+            "soru": "Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nde 'Edebiyat' ödülünü alan kişi kimdir?",
+            "secenekler": [
+              "Ahmet Özhan",
+              "Ramazan Minder",
+              "Fatma Barbarosoğlu",
+              "Günay Kut"
+            ],
+            "dogruCevap": "Fatma Barbarosoğlu"
+          },
+          {
+            "soru": "2024 Grammy Ödülleri'nde 'En İyi Country Performansı' ödülünü kim kazandı?",
+            "secenekler": [
+              "Chris Stapleton",
+              "Lainey Wilson",
+              "Killer Mike",
+              "Taylor Swift"
+            ],
+            "dogruCevap": "Chris Stapleton"
+          },
+          {
+            "soru": "2024 Grammy Ödülleri'nde 'En İyi Yeni Sanatçı' ödülünü kim kazandı?",
+            "secenekler": [
+              "Victoria Monét",
+              "Taylor Swift",
+              "Miley Cyrus",
+              "SZA"
+            ],
+            "dogruCevap": "Victoria Monét"
+          },
+          {
+            "soru": "2023 Kültür ve Turizm Bakanlığı Özel Ödülleri'nde hangi dernek ödül kazanmıştır?",
+            "secenekler": [
+              "Anelsander",
+              "Sadberk Hanım Müzesi",
+              "Rahmi Koç Müzesi",
+              "Pera Müzesi"
+            ],
+            "dogruCevap": "Anelsander"
+          },
+          {
+            "soru": "Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nde 'Kütüphanecilik' ödülünü kim kazanmıştır?",
+            "secenekler": [
+              "Ramazan Minder",
+              "Fatma Barbarosoğlu",
+              "Göksel Arsoy",
+              "Turan Oflazoğlu"
+            ],
+            "dogruCevap": "Ramazan Minder"
+          },
+          {
+            "soru": "TCG Anadolu, hangi kuvvetin bünyesine katılmıştır?",
+            "secenekler": [
+              "Hava Kuvvetleri",
+              "Kara Kuvvetleri",
+              "Türk Deniz Kuvvetleri",
+              "Sahil Güvenlik"
+            ],
+            "dogruCevap": "Türk Deniz Kuvvetleri"
+          },
+          {
+            "soru": "Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nde 'Bilim' ödülünü kazananlar kimlerdir?",
+            "secenekler": [
+              "Günay Kut ve Gönül Tekin",
+              "Ramazan Minder ve Ahmet Özhan",
+              "Turan Oflazoğlu ve Halit Refiğ",
+              "Fatma Barbarosoğlu ve Göksel Arsoy"
+            ],
+            "dogruCevap": "Günay Kut ve Gönül Tekin"
+          },
+          {
+            "soru": "2024 Grammy Ödülleri'nde 'En İyi Caz Vokal Albümü' ödülünü kazanan albüm hangisidir?",
+            "secenekler": [
+              "How Love Begins",
+              "Michael",
+              "The Record",
+              "Bewitched"
+            ],
+            "dogruCevap": "How Love Begins"
+          }
+        ]
+        
+        
       }
 
     }
