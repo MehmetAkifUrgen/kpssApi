@@ -5489,214 +5489,208 @@
             }
           ],
           "Türkiye’nin Yerşekilleri ve Özellikleri - 1" : [
-            
-              {
-                "soru": "Türkiye'nin yer şekilleri genel olarak hangi iki ana grupta incelenir?",
-                "secenekler": ["Dağlar ve ovalar", "Dağlar ve platolar", "Dağlar ve göller", "Ovalar ve göller"],
-                "dogruCevap": "Dağlar ve platolar"
-              },
-              {
-                "soru": "Türkiye'nin en yüksek dağı hangisidir?",
-                "secenekler": ["Ağrı Dağı", "Erciyes Dağı", "Kaçkar Dağı", "Iğdır Dağı"],
-                "dogruCevap": "Ağrı Dağı"
-              },
-              {
-                "soru": "Türkiye'nin en büyük ova hangisidir?",
-                "secenekler": ["Çukurova", "Konya Ovası", "Gediz Ovası", "Aksaray Ovası"],
-                "dogruCevap": "Konya Ovası"
-              },
-              {
-                "soru": "Türkiye'deki en büyük plato hangisidir?",
-                "secenekler": ["Isparta Platosu", "Çukurova Platosu", "Bolu Platosu", "Tuz Gölü Platosu"],
-                "dogruCevap": "Tuz Gölü Platosu"
-              },
-              {
-                "soru": "Türkiye'nin en geniş platosu hangi bölgededir?",
-                "secenekler": ["Ege Bölgesi", "İç Anadolu Bölgesi", "Akdeniz Bölgesi", "Karadeniz Bölgesi"],
-                "dogruCevap": "İç Anadolu Bölgesi"
-              },
-              {
-                "soru": "Türkiye'nin en büyük gölü hangisidir?",
-                "secenekler": ["Van Gölü", "Tuz Gölü", "Burdur Gölü", "Egirdir Gölü"],
-                "dogruCevap": "Van Gölü"
-              },
-              {
-                "soru": "Türkiye'nin en önemli fay hattı hangisidir?",
-                "secenekler": ["Doğu Anadolu Fay Hattı", "Kuzey Anadolu Fay Hattı", "Batı Anadolu Fay Hattı", "Ege Fay Hattı"],
-                "dogruCevap": "Kuzey Anadolu Fay Hattı"
-              },
-              {
-                "soru": "Türkiye'nin güneydoğusundaki en büyük volkanik dağ hangisidir?",
-                "secenekler": ["Ağrı Dağı", "Erciyes Dağı", "Nemrut Dağı", "Cudi Dağı"],
-                "dogruCevap": "Ağrı Dağı"
-              },
-              {
-                "soru": "Türkiye'deki en geniş kara gölü hangisidir?",
-                "secenekler": ["Van Gölü", "Tuz Gölü", "Burdur Gölü", "Egirdir Gölü"],
-                "dogruCevap": "Tuz Gölü"
-              },
-              {
-                "soru": "Türkiye'nin doğusunda bulunan Erzurum-Kars Platosu hangi özelliklere sahiptir?",
-                "secenekler": ["Volkanik", "Okyanusal", "Kıyı tipi", "Karasal"],
-                "dogruCevap": "Volkanik"
-              },
-              {
-                "soru": "Türkiye'nin güneydoğusunda bulunan Mezopotamya Ovası, hangi nehir tarafından sulanır?",
-                "secenekler": ["Fırat ve Dicle Nehirleri", "Menderes Nehri", "Kızılırmak Nehri", "Sakarya Nehri"],
-                "dogruCevap": "Fırat ve Dicle Nehirleri"
-              },
-              {
-                "soru": "Türkiye'nin en büyük volkanik alanı hangi bölgededir?",
-                "secenekler": ["İç Anadolu Bölgesi", "Ege Bölgesi", "Doğu Anadolu Bölgesi", "Karadeniz Bölgesi"],
-                "dogruCevap": "Doğu Anadolu Bölgesi"
-              },
-              {
-                "soru": "Türkiye'nin en yüksek aktif yanardağı hangi dağdır?",
-                "secenekler": ["Ağrı Dağı", "Erciyes Dağı", "Nemrut Dağı", "Süphan Dağı"],
-                "dogruCevap": "Ağrı Dağı"
-              },
-              {
-                "soru": "Türkiye'nin en büyük deltasının adı nedir?",
-                "secenekler": ["Çukurova Delta", "Akyatan Delta", "Menderes Delta", "Bafra Delta"],
-                "dogruCevap": "Çukurova Delta"
-              },
-              {
-                "soru": "Türkiye'nin en büyük karasal gölü hangisidir?",
-                "secenekler": ["Tuz Gölü", "Van Gölü", "Burdur Gölü", "Egirdir Gölü"],
-                "dogruCevap": "Tuz Gölü"
-              },
-              {
-                "soru": "Türkiye'deki dağlar genellikle hangi yönüyle uzanır?",
-                "secenekler": ["Kuzeydoğu-Güneybatı", "Doğu-Batı", "Kuzey-Güney", "Batı-Doğu"],
-                "dogruCevap": "Kuzeydoğu-Güneybatı"
-              },
-              {
-                "soru": "Türkiye'deki en büyük fay hattı nereden geçer?",
-                "secenekler": ["Doğu Anadolu", "Kuzey Anadolu", "Batı Anadolu", "Ege Fay Hattı"],
-                "dogruCevap": "Kuzey Anadolu"
-              },
-              {
-                "soru": "Türkiye'nin en uzun nehri hangisidir?",
-                "secenekler": ["Kızılırmak", "Fırat", "Dicle", "Sakarya"],
-                "dogruCevap": "Kızılırmak"
-              },
-              {
-                "soru": "Türkiye'nin batısındaki en önemli yarımada hangisidir?",
-                "secenekler": ["Gökova Yarımadası", "Çanakkale Yarımadası", "Bodrum Yarımadası", "Gallipoli Yarımadası"],
-                "dogruCevap": "Gallipoli Yarımadası"
-              },
-              {
-                "soru": "Türkiye'deki en büyük açık deniz olan deniz hangisidir?",
-                "secenekler": ["Karadeniz", "Ege Denizi", "Akdeniz", "Marmara Denizi"],
-                "dogruCevap": "Akdeniz"
-              },
-              {
-                "soru": "Türkiye'nin ortalama rakımı ne kadardır?",
-                "secenekler": ["500 m", "800 m", "1000 m", "1200 m"],
-                "dogruCevap": "1000 m"
-              },
-              {
-                "soru": "Türkiye'nin ortalama yükseltisi en düşük olan bölgesi hangi bölgedir?",
-                "secenekler": ["Ege Bölgesi", "Akdeniz Bölgesi", "İç Anadolu Bölgesi", "Karadeniz Bölgesi"],
-                "dogruCevap": "Ege Bölgesi"
-              },
-              {
-                "soru": "Türkiye'nin Karadeniz kıyılarında görülen önemli kıyı tiplerinden biri hangisidir?",
-                "secenekler": ["Fiyord", "Menderes", "Koy", "Alçak kıyı"],
-                "dogruCevap": "Fiyord"
-              }
-            
-            
+            {
+              "soru": "Türkiye’nin ortalama yükseltisi yaklaşık kaç metredir?",
+              "secenekler": ["500 m", "1200 m", "1000 m", "1500 m"],
+              "dogruCevap": "1000 m"
+            },
+            {
+              "soru": "Türkiye’nin en büyük ovası hangisidir?",
+              "secenekler": ["Çukurova", "Konya Ovası", "Gediz Ovası", "Harran Ovası"],
+              "dogruCevap": "Konya Ovası"
+            },
+            {
+              "soru": "Türkiye’de dağlar genellikle hangi doğrultuda uzanır?",
+              "secenekler": ["Kuzey-Güney", "Doğu-Batı", "Kuzeydoğu-Güneybatı", "Güneydoğu-Kuzeybatı"],
+              "dogruCevap": "Kuzeydoğu-Güneybatı"
+            },
+            {
+              "soru": "Türkiye’nin en yüksek aktif yanardağı aşağıdakilerden hangisidir?",
+              "secenekler": ["Nemrut Dağı", "Süphan Dağı", "Ağrı Dağı", "Erciyes Dağı"],
+              "dogruCevap": "Ağrı Dağı"
+            },
+            {
+              "soru": "Türkiye’nin en büyük gölü aşağıdakilerden hangisidir?",
+              "secenekler": ["Tuz Gölü", "Burdur Gölü", "Eğirdir Gölü", "Van Gölü"],
+              "dogruCevap": "Van Gölü"
+            },
+            {
+              "soru": "Türkiye’nin en uzun nehri aşağıdakilerden hangisidir?",
+              "secenekler": ["Fırat", "Sakarya", "Kızılırmak", "Dicle"],
+              "dogruCevap": "Kızılırmak"
+            },
+            {
+              "soru": "Türkiye’nin kuzeyindeki önemli kıyı tipi aşağıdakilerden hangisidir?",
+              "secenekler": ["Delta", "Fiyord", "Ria", "Lagün"],
+              "dogruCevap": "Fiyord"
+            },
+            {
+              "soru": "Türkiye’nin doğusunda yer alan Erzurum-Kars Platosu’nun genel özelliği nedir?",
+              "secenekler": ["Karasal iklim", "Volkanik yapı", "Okyanusal iklim", "Alüvyonal yapı"],
+              "dogruCevap": "Volkanik yapı"
+            },
+            {
+              "soru": "Türkiye’nin en geniş deltası aşağıdakilerden hangisidir?",
+              "secenekler": ["Bafra Deltası", "Çukurova", "Akyatan Deltası", "Gediz Deltası"],
+              "dogruCevap": "Çukurova"
+            },
+            {
+              "soru": "Türkiye’nin güneydoğusunda bulunan Mezopotamya Ovası hangi nehirler tarafından sulanır?",
+              "secenekler": ["Fırat ve Dicle", "Kızılırmak ve Sakarya", "Meriç ve Aras", "Gediz ve Menderes"],
+              "dogruCevap": "Fırat ve Dicle"
+            },
+            {
+              "soru": "Türkiye’nin en büyük plato alanı hangi bölgededir?",
+              "secenekler": ["Ege Bölgesi", "Doğu Anadolu Bölgesi", "İç Anadolu Bölgesi", "Karadeniz Bölgesi"],
+              "dogruCevap": "İç Anadolu Bölgesi"
+            },
+            {
+              "soru": "Türkiye’nin en büyük fay hattı aşağıdakilerden hangisidir?",
+              "secenekler": ["Doğu Anadolu Fay Hattı", "Kuzey Anadolu Fay Hattı", "Batı Anadolu Fay Hattı", "Ege Fay Hattı"],
+              "dogruCevap": "Kuzey Anadolu Fay Hattı"
+            },
+            {
+              "soru": "Türkiye’nin en büyük volkanik dağı aşağıdakilerden hangisidir?",
+              "secenekler": ["Nemrut Dağı", "Erciyes Dağı", "Süphan Dağı", "Ağrı Dağı"],
+              "dogruCevap": "Ağrı Dağı"
+            },
+            {
+              "soru": "Türkiye’de en yaygın olarak bulunan yer şekilleri aşağıdakilerden hangisidir?",
+              "secenekler": ["Platolar", "Dağlar", "Ovalar", "Vadiler"],
+              "dogruCevap": "Dağlar"
+            },
+            {
+              "soru": "Türkiye’nin batısındaki en büyük delta ovası aşağıdakilerden hangisidir?",
+              "secenekler": ["Gediz Deltası", "Çukurova", "Büyük Menderes Deltası", "Küçük Menderes Deltası"],
+              "dogruCevap": "Büyük Menderes Deltası"
+            },
+            {
+              "soru": "Türkiye’nin en geniş karstik platosu aşağıdakilerden hangisidir?",
+              "secenekler": ["Taşeli Platosu", "Tuz Gölü Platosu", "Cihanbeyli Platosu", "Erzurum-Kars Platosu"],
+              "dogruCevap": "Taşeli Platosu"
+            },
+            {
+              "soru": "Türkiye’nin güneyinde yer alan Toros Dağları’nın oluşumu hangi dönemdir?",
+              "secenekler": ["Paleozoik", "Mezozoik", "Tersiyer", "Kuvaterner"],
+              "dogruCevap": "Tersiyer"
+            },
+            {
+              "soru": "Türkiye’nin en büyük açık deniz kıyısı hangi denizdedir?",
+              "secenekler": ["Karadeniz", "Ege Denizi", "Akdeniz", "Marmara Denizi"],
+              "dogruCevap": "Akdeniz"
+            },
+            {
+              "soru": "Türkiye’nin en geniş alüvyal ovası aşağıdakilerden hangisidir?",
+              "secenekler": ["Konya Ovası", "Harran Ovası", "Çukurova", "Gediz Ovası"],
+              "dogruCevap": "Çukurova"
+            },
+            {
+              "soru": "Türkiye’nin batısında bulunan önemli kıyı tiplerinden biri aşağıdakilerden hangisidir?",
+              "secenekler": ["Delta", "Ria", "Lagün", "Fiyord"],
+              "dogruCevap": "Ria"
+            }
           ],
           "Türkiye’nin Yerşekilleri ve Özellikleri - 2" :[
-            
-              {
-                "soru": "Türkiye'nin jeolojik geçmişine dair doğru ifade hangisidir?",
-                "secenekler": ["Türkiye, çeşitli volkanik faaliyetler sonucu şekillenmiştir.", "Türkiye'nin jeolojik yapısı sadece erozyona bağlıdır.", "Türkiye'nin jeolojik yapısı tamamen okyanus hareketleriyle şekillenmiştir.", "Türkiye'nin jeolojik yapısı değişmemiştir."],
-                "dogruCevap": "Türkiye, çeşitli volkanik faaliyetler sonucu şekillenmiştir."
-              },
-              {
-                "soru": "Türkiye'de yer şekillerinin çeşitliliğini artıran temel etken hangisidir?",
-                "secenekler": ["Farklı iklim tipleri", "Tektonik hareketler", "Volkanik faaliyetler", "Rüzgar etkisi"],
-                "dogruCevap": "Tektonik hareketler"
-              },
-              {
-                "soru": "Türkiye'nin en büyük kıyı tipi hangisidir?",
-                "secenekler": ["Alçak kıyı", "Yüksek kıyı", "Fiyord", "Lagün"],
-                "dogruCevap": "Alçak kıyı"
-              },
-              {
-                "soru": "Türkiye'nin en büyük deniz kökenli gölü hangisidir?",
-                "secenekler": ["Tuz Gölü", "Van Gölü", "Burdur Gölü", "Egirdir Gölü"],
-                "dogruCevap": "Van Gölü"
-              },
-              {
-                "soru": "Türkiye'nin en büyük okyanus kıyısındaki adası hangisidir?",
-                "secenekler": ["Gökçeada", "Bozcaada", "Marmara Adası", "İmralı Adası"],
-                "dogruCevap": "Gökçeada"
-              },
-              {
-                "soru": "Türkiye'deki en büyük dağlık alan nerededir?",
-                "secenekler": ["Doğu Anadolu Bölgesi", "Ege Bölgesi", "Karadeniz Bölgesi", "İç Anadolu Bölgesi"],
-                "dogruCevap": "Doğu Anadolu Bölgesi"
-              },
-              {
-                "soru": "Türkiye'nin en büyük tatlı su gölü hangisidir?",
-                "secenekler": ["Burdur Gölü", "Egirdir Gölü", "Van Gölü", "Tuz Gölü"],
-                "dogruCevap": "Egirdir Gölü"
-              },
-              {
-                "soru": "Türkiye'nin en büyük volkanik dağları hangi bölgede yer alır?",
-                "secenekler": ["İç Anadolu", "Doğu Anadolu", "Karadeniz", "Ege Bölgesi"],
-                "dogruCevap": "Doğu Anadolu"
-              },
-              {
-                "soru": "Türkiye'nin hangi bölgesinde en fazla tor toprağı görülür?",
-                "secenekler": ["Ege Bölgesi", "Akdeniz Bölgesi", "Karadeniz Bölgesi", "İç Anadolu Bölgesi"],
-                "dogruCevap": "Karadeniz Bölgesi"
-              },
-              {
-                "soru": "Türkiye'nin en büyük karasal gölü hangisidir?",
-                "secenekler": ["Tuz Gölü", "Van Gölü", "Burdur Gölü", "Egirdir Gölü"],
-                "dogruCevap": "Tuz Gölü"
-              },
-              {
-                "soru": "Türkiye'nin doğusunda hangi kıyı tipi görülür?",
-                "secenekler": ["Fiyord", "Lagün", "Menderes", "Alçak kıyı"],
-                "dogruCevap": "Fiyord"
-              },
-              {
-                "soru": "Türkiye'nin en yüksek volkanik dağı hangi dağdır?",
-                "secenekler": ["Ağrı Dağı", "Erciyes Dağı", "Nemrut Dağı", "Süphan Dağı"],
-                "dogruCevap": "Ağrı Dağı"
-              },
-              {
-                "soru": "Türkiye'nin en büyük yeraltı su kaynağı hangi bölgededir?",
-                "secenekler": ["İç Anadolu", "Ege", "Güneydoğu Anadolu", "Karadeniz"],
-                "dogruCevap": "İç Anadolu"
-              },
-              {
-                "soru": "Türkiye'nin en büyük alüvyon ovası hangi ildir?",
-                "secenekler": ["Konya", "Aksaray", "İstanbul", "Çorum"],
-                "dogruCevap": "Konya"
-              },
-              {
-                "soru": "Türkiye'nin iç bölgesinde yer alan en büyük platonun adı nedir?",
-                "secenekler": ["Çukurova Platosu", "Tuz Gölü Platosu", "Isparta Platosu", "Bolu Platosu"],
-                "dogruCevap": "Tuz Gölü Platosu"
-              },
-              {
-                "soru": "Türkiye'nin en büyük akarsu hangisidir?",
-                "secenekler": ["Kızılırmak", "Fırat", "Dicle", "Sakarya"],
-                "dogruCevap": "Kızılırmak"
-              },
-              {
-                "soru": "Türkiye'nin en yüksek yaylası hangisidir?",
-                "secenekler": ["Erzurum-Kars Platosu", "Hakkari Yaylası", "Bolu Yaylası", "Tuz Gölü Yaylası"],
-                "dogruCevap": "Erzurum-Kars Platosu"
-              }
-            
-            
+            {
+              "soru": "Türkiye'nin jeomorfolojik yapısını şekillendiren başlıca faktör hangisidir?",
+              "secenekler": ["Erozyon", "Tektonik hareketler", "Rüzgar aşındırması", "Volkanik patlamalar"],
+              "dogruCevap": "Tektonik hareketler"
+            },
+            {
+              "soru": "Türkiye'nin en geniş alana yayılan volkanik dağı hangisidir?",
+              "secenekler": ["Nemrut Dağı", "Ağrı Dağı", "Erciyes Dağı", "Karacadağ"],
+              "dogruCevap": "Karacadağ"
+            },
+            {
+              "soru": "Türkiye'de en fazla delta ovası hangi bölgede yer alır?",
+              "secenekler": ["Ege Bölgesi", "Marmara Bölgesi", "Karadeniz Bölgesi", "Akdeniz Bölgesi"],
+              "dogruCevap": "Ege Bölgesi"
+            },
+            {
+              "soru": "Türkiye'nin en büyük kırık dağları hangi bölgede yoğunlaşmıştır?",
+              "secenekler": ["Akdeniz", "Ege", "Karadeniz", "Doğu Anadolu"],
+              "dogruCevap": "Ege"
+            },
+            {
+              "soru": "Türkiye'nin en büyük akarsu havzası hangisidir?",
+              "secenekler": ["Dicle Havzası", "Kızılırmak Havzası", "Fırat Havzası", "Meriç Havzası"],
+              "dogruCevap": "Fırat Havzası"
+            },
+            {
+              "soru": "Türkiye'nin kıyı bölgelerinde en yaygın görülen aşınım şekli hangisidir?",
+              "secenekler": ["Lagün", "Falez", "Menderes", "Alüvyon"],
+              "dogruCevap": "Falez"
+            },
+            {
+              "soru": "Türkiye'deki hangi göl tektonik oluşumlu değildir?",
+              "secenekler": ["Tuz Gölü", "Beyşehir Gölü", "Van Gölü", "Sapanca Gölü"],
+              "dogruCevap": "Beyşehir Gölü"
+            },
+            {
+              "soru": "Türkiye’nin hangi bölgesinde karstik arazi şekilleri en fazla görülür?",
+              "secenekler": ["Akdeniz Bölgesi", "Ege Bölgesi", "Doğu Anadolu Bölgesi", "İç Anadolu Bölgesi"],
+              "dogruCevap": "Akdeniz Bölgesi"
+            },
+            {
+              "soru": "Türkiye'deki en büyük tektonik ova hangisidir?",
+              "secenekler": ["Konya Ovası", "Gediz Ovası", "Erzurum Ovası", "Adana Ovası"],
+              "dogruCevap": "Konya Ovası"
+            },
+            {
+              "soru": "Aşağıdaki akarsulardan hangisi rejimi en düzenli olanıdır?",
+              "secenekler": ["Fırat", "Dicle", "Çoruh", "Yeşilırmak"],
+              "dogruCevap": "Fırat"
+            },
+            {
+              "soru": "Türkiye’nin yüksekliği ve engebeliliği açısından en düz bölgesi hangisidir?",
+              "secenekler": ["İç Anadolu", "Doğu Anadolu", "Güneydoğu Anadolu", "Ege"],
+              "dogruCevap": "Güneydoğu Anadolu"
+            },
+            {
+              "soru": "Türkiye’de doğudan batıya doğru gidildikçe akarsuların debisinin azalmasının temel sebebi nedir?",
+              "secenekler": ["İklim farklılıkları", "Arazi eğimi", "Jeolojik yapı", "Toprak özellikleri"],
+              "dogruCevap": "İklim farklılıkları"
+            },
+            {
+              "soru": "Türkiye'nin en büyük fiyordu hangi kıyısında bulunur?",
+              "secenekler": ["Karadeniz", "Ege", "Marmara", "Doğu Anadolu"],
+              "dogruCevap": "Karadeniz"
+            },
+            {
+              "soru": "Türkiye'nin iç kesimlerinde oluşmuş olan en büyük volkanik plato hangisidir?",
+              "secenekler": ["Erzurum-Kars Platosu", "Nevşehir Platosu", "Tuz Gölü Platosu", "Doğu Anadolu Platosu"],
+              "dogruCevap": "Erzurum-Kars Platosu"
+            },
+            {
+              "soru": "Türkiye’de en fazla erozyon hangi bölgede görülür?",
+              "secenekler": ["Doğu Anadolu", "Güneydoğu Anadolu", "İç Anadolu", "Karadeniz"],
+              "dogruCevap": "İç Anadolu"
+            },
+            {
+              "soru": "Türkiye'nin kıyı bölgelerindeki delta ovalarının oluşumunda aşağıdaki faktörlerden hangisi etkili değildir?",
+              "secenekler": ["Akarsuların taşıdığı alüvyon miktarı", "Deniz seviyesinin değişimi", "Tektonik hareketler", "Buzul etkisi"],
+              "dogruCevap": "Buzul etkisi"
+            },
+            {
+              "soru": "Türkiye’nin en büyük karmaşık volkanik dağı hangisidir?",
+              "secenekler": ["Erciyes", "Ağrı", "Nemrut", "Süphan"],
+              "dogruCevap": "Erciyes"
+            },
+            {
+              "soru": "Türkiye'nin hangi bölgesi en fazla deprem riskine sahiptir?",
+              "secenekler": ["Doğu Anadolu", "Ege", "Karadeniz", "Marmara"],
+              "dogruCevap": "Marmara"
+            },
+            {
+              "soru": "Türkiye'nin hangi bölgesi, yüksek dağlık alanlar nedeniyle en az yerleşime sahiptir?",
+              "secenekler": ["Akdeniz", "Karadeniz", "Doğu Anadolu", "Ege"],
+              "dogruCevap": "Doğu Anadolu"
+            },
+            {
+              "soru": "Türkiye’nin tektonik hareketlerle oluşmuş olan en büyük kapalı havzası hangisidir?",
+              "secenekler": ["Van Gölü", "Tuz Gölü", "Burdur Gölü", "Sapanca Gölü"],
+              "dogruCevap": "Tuz Gölü"
+            }
           ],
           "Türkiye’nin İklimi" : [
             
