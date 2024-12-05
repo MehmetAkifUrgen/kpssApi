@@ -10637,6 +10637,2017 @@
           }
         ]
 
+      },
+      "Felsefe" : {
+        "Felsefenin Alanı" : [
+          {
+            "soru": "Felsefe nedir?",
+            "secenekler": [
+              "Bilimsel araştırmaların yapılması",
+              "Doğa olaylarını açıklamaya yönelik çalışmalar",
+              "İnsan düşüncesinin ve varlığının temellerini sorgulayan bir alan",
+              "Sanatsal yaratım süreci"
+            ],
+            "dogruCevap": "İnsan düşüncesinin ve varlığının temellerini sorgulayan bir alan"
+          },
+          {
+            "soru": "Felsefenin amacı nedir?",
+            "secenekler": [
+              "Pratik çözümler üretmek",
+              "İnsanın varoluşunu ve değerlerini anlamaya çalışmak",
+              "Deneysel veri toplamak",
+              "Sadece bilimsel araştırmalar yapmak"
+            ],
+            "dogruCevap": "İnsanın varoluşunu ve değerlerini anlamaya çalışmak"
+          },
+          {
+            "soru": "Felsefe, hangi disiplinden farklıdır?",
+            "secenekler": [
+              "Sosyoloji",
+              "Psikoloji",
+              "Bilim",
+              "Sanat"
+            ],
+            "dogruCevap": "Bilim"
+          },
+          {
+            "soru": "Felsefe tarihinin ilk büyük düşünürü kimdir?",
+            "secenekler": [
+              "Sokrat",
+              "Platon",
+              "Aristoteles",
+              "Thales"
+            ],
+            "dogruCevap": "Thales"
+          },
+          {
+            "soru": "Felsefede 'ontoloji' hangi konuyu inceler?",
+            "secenekler": [
+              "Bilginin doğasını",
+              "Varlığın ve gerçekliğin doğasını",
+              "Ahlakın temellerini",
+              "Toplumların yapısını"
+            ],
+            "dogruCevap": "Varlığın ve gerçekliğin doğasını"
+          },
+          {
+            "soru": "Felsefede 'epistemoloji' hangi konuyu ele alır?",
+            "secenekler": [
+              "Varlığın anlamını",
+              "Bilginin doğasını ve kaynaklarını",
+              "Ahlak ilkelerini",
+              "Toplumların yapısını"
+            ],
+            "dogruCevap": "Bilginin doğasını ve kaynaklarını"
+          },
+          {
+            "soru": "Felsefede 'etik' hangi konuları inceler?",
+            "secenekler": [
+              "Sadece bilimsel keşifleri",
+              "İnsan davranışlarının doğru ve yanlışlarını",
+              "Toplumların yapısını",
+              "Varlığın anlamını"
+            ],
+            "dogruCevap": "İnsan davranışlarının doğru ve yanlışlarını"
+          },
+          {
+            "soru": "Aşağıdaki düşünürlerden hangisi 'idealizm' akımının önemli temsilcisidir?",
+            "secenekler": [
+              "Aristoteles",
+              "Platon",
+              "Nietzsche",
+              "Descartes"
+            ],
+            "dogruCevap": "Platon"
+          },
+          {
+            "soru": "Felsefede 'fenomenoloji' hangi alanda çalışmalar yapar?",
+            "secenekler": [
+              "İnsan toplumlarının gelişimini",
+              "Bilinçli deneyimlerin ve algının analizini",
+              "Doğa olaylarını ve fiziksel evreni",
+              "Evrimsel süreçleri"
+            ],
+            "dogruCevap": "Bilinçli deneyimlerin ve algının analizini"
+          },
+          {
+            "soru": "Hangi felsefi akım, insanın varlıkla olan ilişkisini sorgular?",
+            "secenekler": [
+              "Empirizm",
+              "Rasyonalizm",
+              "Egzistansiyalizm",
+              "Pragmatizm"
+            ],
+            "dogruCevap": "Egzistansiyalizm"
+          },
+          {
+            "soru": "Felsefede 'pragmatizm' nedir?",
+            "secenekler": [
+              "Ahlakın doğru ve yanlışlarını sorgulamak",
+              "Kendisini en iyi şekilde ifade etme amacı",
+              "Fikirlerin etkinliğini, pratik sonuçlarıyla ölçme anlayışı",
+              "Evrensel doğrulara ulaşmaya çalışma"
+            ],
+            "dogruCevap": "Fikirlerin etkinliğini, pratik sonuçlarıyla ölçme anlayışı"
+          },
+          {
+            "soru": "Felsefede 'diyalektik' yöntem hangi düşünürle ilişkilendirilir?",
+            "secenekler": [
+              "Karl Marx",
+              "Sokrat",
+              "Aristoteles",
+              "David Hume"
+            ],
+            "dogruCevap": "Karl Marx"
+          },
+          {
+            "soru": "Sokrat, hangi felsefi yöntemi geliştirmiştir?",
+            "secenekler": [
+              "Diyalektik yöntem",
+              "Pragmatizm",
+              "Empirizm",
+              "Rasyonalizm"
+            ],
+            "dogruCevap": "Diyalektik yöntem"
+          },
+          {
+            "soru": "Felsefede 'varlık' kavramı genellikle hangi alanda ele alınır?",
+            "secenekler": [
+              "Metafizik",
+              "Epistemoloji",
+              "Etik",
+              "Estetik"
+            ],
+            "dogruCevap": "Metafizik"
+          },
+          {
+            "soru": "Felsefede 'rasyonalizm' hangi düşünüş biçimini savunur?",
+            "secenekler": [
+              "Duyulara dayalı bilgi edinmeyi",
+              "Mantık ve akıla dayalı bilgi edinmeyi",
+              "Toplumsal davranışları anlamayı",
+              "Pratik deneyimlere dayalı bilgi edinmeyi"
+            ],
+            "dogruCevap": "Mantık ve akıla dayalı bilgi edinmeyi"
+          },
+          {
+            "soru": "Felsefede 'empirizm' akımı hangi kaynakları vurgular?",
+            "secenekler": [
+              "Mantık ve akıl",
+              "Bilinçli deneyimler ve gözlemler",
+              "Toplumun normlarını",
+              "Doğal içgüdüleri"
+            ],
+            "dogruCevap": "Bilinçli deneyimler ve gözlemler"
+          },
+          {
+            "soru": "Felsefede 'postmodernizm' hangi anlayışı savunur?",
+            "secenekler": [
+              "Evrenin bir bütün olarak anlaşılabilir olduğunu",
+              "Gerçeklerin ve anlamların öznel olduğunu",
+              "Bilgilerin evrensel olduğunu",
+              "Bütüncül düşünmenin gerekliliğini"
+            ],
+            "dogruCevap": "Gerçeklerin ve anlamların öznel olduğunu"
+          },
+          {
+            "soru": "Hangi felsefi akım, insanın doğaya karşı sorumluluğunu vurgular?",
+            "secenekler": [
+              "Ekolojizm",
+              "Pragmatizm",
+              "Realizm",
+              "Idealizm"
+            ],
+            "dogruCevap": "Ekolojizm"
+          },
+          {
+            "soru": "Felsefede 'estetik' hangi konuyu ele alır?",
+            "secenekler": [
+              "Güzellik ve sanat anlayışlarını",
+              "Toplumların yapısını",
+              "Varlık ve gerçekliği",
+              "İnsan davranışlarını"
+            ],
+            "dogruCevap": "Güzellik ve sanat anlayışlarını"
+          },
+          {
+            "soru": "Felsefede 'sokratik yöntem' nedir?",
+            "secenekler": [
+              "Felsefi soruları yanlış bilgilere dayandırarak tartışma",
+              "Felsefi konuları deneysel yollarla çözme",
+              "İki kişi arasında sürekli soru ve cevapla doğruya ulaşmaya çalışma",
+              "Felsefi düşünceleri bilimsel verilerle çelişki oluşturma"
+            ],
+            "dogruCevap": "İki kişi arasında sürekli soru ve cevapla doğruya ulaşmaya çalışma"
+          }
+        ],
+        "Bilgi Felsefesi" : [
+          {
+            "soru": "Bilgi felsefesi nedir?",
+            "secenekler": [
+              "Bilginin kaynağını ve doğasını inceleyen felsefi alan",
+              "Felsefi düşüncenin tarihsel gelişimini inceleyen alan",
+              "Varlığın anlamını sorgulayan alan",
+              "Toplumların yapısını inceleyen felsefi alan"
+            ],
+            "dogruCevap": "Bilginin kaynağını ve doğasını inceleyen felsefi alan"
+          },
+          {
+            "soru": "Epistemoloji nedir?",
+            "secenekler": [
+              "İnsan davranışlarını inceleyen felsefi alan",
+              "Bilgiye nasıl sahip olunduğunu ve bilginin doğruluğunu sorgulayan alan",
+              "Varlıkların doğasını araştıran alan",
+              "Toplumların tarihsel süreçlerini inceleyen alan"
+            ],
+            "dogruCevap": "Bilgiye nasıl sahip olunduğunu ve bilginin doğruluğunu sorgulayan alan"
+          },
+          {
+            "soru": "Bilgi felsefesinde 'bilgi' kavramı hangi anlamda kullanılır?",
+            "secenekler": [
+              "Doğal olayların açıklanması",
+              "Bir kişinin doğruyu ve yanlışı ayırt edebilmesi",
+              "Bilinçli düşünme ve anlama süreçlerinin tamamı",
+              "Toplumsal yapıları anlayabilme"
+            ],
+            "dogruCevap": "Bir kişinin doğruyu ve yanlışı ayırt edebilmesi"
+          },
+          {
+            "soru": "İzafiyet teorisi ile ilgili olarak bilgi felsefesinde ne anlatılmak istenir?",
+            "secenekler": [
+              "Bilginin kişisel algılar ve bakış açılarına göre değişebileceği",
+              "Evrensel gerçeklerin varlığı",
+              "Bütün bilgilerin deneysel olarak elde edilebileceği",
+              "Bilginin kesin ve değişmez olduğu"
+            ],
+            "dogruCevap": "Bilginin kişisel algılar ve bakış açılarına göre değişebileceği"
+          },
+          {
+            "soru": "Empirizm nedir?",
+            "secenekler": [
+              "Bilginin yalnızca mantıkla elde edilebileceği görüşü",
+              "Bilginin doğrudan gözlem ve deneyimle elde edilebileceği görüşü",
+              "İnsan zihninin doğuştan bilgiyle geldiği görüşü",
+              "Toplumsal yapılarla ilgili bilgilerin elde edilmesidir"
+            ],
+            "dogruCevap": "Bilginin yalnızca mantıkla elde edilebileceği görüşü"
+          },
+          {
+            "soru": "Rasyonalizm hangi görüşü savunur?",
+            "secenekler": [
+              "Bilgi yalnızca duyusal algılarla edinilebilir",
+              "İnsan zihni doğuştan bilgi sahibidir",
+              "Bilgi yalnızca mantıkla ve akılla elde edilebilir",
+              "Bilgi deneyimle edinilir ve kesin değildir"
+            ],
+            "dogruCevap": "Bilgi yalnızca mantıkla ve akılla elde edilebilir"
+          },
+          {
+            "soru": "Descartes’ın ünlü ‘Cogito, ergo sum’ (Düşünüyorum, o hâlde varım) sözünün anlamı nedir?",
+            "secenekler": [
+              "İnsanlar her zaman doğruyu bilebilir",
+              "Düşünce, varlığın en kesin kanıtıdır",
+              "İnsanlar dış dünyadan bağımsız olarak bilgi edinemez",
+              "Bilgi ancak deneyimle elde edilir"
+            ],
+            "dogruCevap": "Düşünce, varlığın en kesin kanıtıdır"
+          },
+          {
+            "soru": "Hangi felsefi akım, bilginin duyu organları aracılığıyla edinilmesini savunur?",
+            "secenekler": [
+              "Empirizm",
+              "Rasyonalizm",
+              "Pragmatizm",
+              "Egzistansiyalizm"
+            ],
+            "dogruCevap": "Empirizm"
+          },
+          {
+            "soru": "Kant’a göre bilgi nasıl edinilir?",
+            "secenekler": [
+              "Bilgi tamamen duyularla edinilir",
+              "Bilgi doğrudan mantıkla elde edilir",
+              "Zihin, duyusal verileri organize eder ve anlamlı hale getirir",
+              "Bilgi yalnızca doğrudan deneyimlerle elde edilir"
+            ],
+            "dogruCevap": "Zihin, duyusal verileri organize eder ve anlamlı hale getirir"
+          },
+          {
+            "soru": "Sofistlerin bilgi anlayışına göre, bilgi nedir?",
+            "secenekler": [
+              "Evrensel ve değişmez bir gerçekliktir",
+              "Kişinin algılarına göre değişir",
+              "Kesin ve doğruluğu kanıtlanmış bilgidir",
+              "Her insan doğuştan doğruyu bilir"
+            ],
+            "dogruCevap": "Kişinin algılarına göre değişir"
+          },
+          {
+            "soru": "Bilgi felsefesinde 'doğruluk' kavramı nasıl tanımlanır?",
+            "secenekler": [
+              "Bir şeyin ne kadar kesin olduğu",
+              "Bir iddianın gerçeğe ne kadar uyduğu",
+              "Toplumun kabul ettiği bilgi",
+              "Sadece bilimsel bilgilerin doğru olduğu"
+            ],
+            "dogruCevap": "Bir iddianın gerçeğe ne kadar uyduğu"
+          },
+          {
+            "soru": "Bilgi felsefesinde 'gerekçe' kavramı nedir?",
+            "secenekler": [
+              "Bir iddianın doğru olmasını destekleyen argümanlar",
+              "Bir fikrin doğru olup olmadığının test edilmesi",
+              "Gerçeklerin insan algısına nasıl aktarıldığı",
+              "Bilginin kesin olarak doğruluğunu ölçme"
+            ],
+            "dogruCevap": "Bir iddianın doğru olmasını destekleyen argümanlar"
+          },
+          {
+            "soru": "Bir kişinin, doğru bildiğini savunmasına rağmen yanıldığını bilmesi hangi bilgi türüne örnektir?",
+            "secenekler": [
+              "Öznellik",
+              "Doğa bilimleri",
+              "Yanılgı",
+              "Kesin bilgi"
+            ],
+            "dogruCevap": "Yanılgı"
+          },
+          {
+            "soru": "Bilgi felsefesinde 'skeptisizm' nedir?",
+            "secenekler": [
+              "Bilginin kesin ve mutlak olduğuna inanmak",
+              "Bilginin duyusal deneyimlere dayandığını savunmak",
+              "Bilgiye karşı şüpheci yaklaşım ve bilgiye ulaşmanın imkansızlığı",
+              "İnsan doğasının her zaman doğruyu bildiği görüşü"
+            ],
+            "dogruCevap": "Bilgiye karşı şüpheci yaklaşım ve bilgiye ulaşmanın imkansızlığı"
+          },
+          {
+            "soru": "Bilgi felsefesinde 'pragmatizm' hangi görüşü savunur?",
+            "secenekler": [
+              "Bilgi, sadece deneyim ve pratik fayda ile değerlidir",
+              "Bilgi duyularla elde edilir ve her zaman doğrudur",
+              "Bilgi, yalnızca akıl ve mantık yoluyla edinilebilir",
+              "Bilgi sadece bilimsel araştırmalarla edinilir"
+            ],
+            "dogruCevap": "Bilgi, sadece deneyim ve pratik fayda ile değerlidir"
+          },
+          {
+            "soru": "Felsefede 'a priori' bilgi nedir?",
+            "secenekler": [
+              "Deneyim ve gözlemlerle edinilen bilgi",
+              "Doğrudan deneyimle elde edilemeyen bilgi",
+              "Kesin doğruluğu kanıtlanmış bilgi",
+              "Sadece doğrudan gözlemle elde edilen bilgi"
+            ],
+            "dogruCevap": "Doğrudan deneyimle elde edilemeyen bilgi"
+          },
+          {
+            "soru": "Felsefede 'a posteriori' bilgi nedir?",
+            "secenekler": [
+              "Deneyim ve gözlemlerle elde edilen bilgi",
+              "Doğrudan akıl yoluyla edinilen bilgi",
+              "Bilginin soyut kavramlarla elde edilmesi",
+              "Herhangi bir mantıklı çıkarım olmadan bilgi edinmek"
+            ],
+            "dogruCevap": "Deneyim ve gözlemlerle elde edilen bilgi"
+          },
+          {
+            "soru": "Felsefede 'doğruluk' testini geçmek için, bir iddianın ne olması gerekir?",
+            "secenekler": [
+              "Bütün insanlar tarafından kabul edilmesi",
+              "Deneysel olarak test edilebilmesi ve kanıtlanabilmesi",
+              "Toplum tarafından doğru olarak kabul edilmesi",
+              "Bir felsefi okul tarafından onaylanması"
+            ],
+            "dogruCevap": "Deneysel olarak test edilebilmesi ve kanıtlanabilmesi"
+          }
+        ],
+        "Varlık Felsefesi" : [
+          {
+            "soru": "Varlık felsefesi hangi soruya yanıt arar?",
+            "secenekler": [
+              "Varlıkların nasıl algılandığı",
+              "Varlığın ne olduğu",
+              "Varlıkların toplumdaki yeri",
+              "Varlıkların tarihsel gelişimi"
+            ],
+            "dogruCevap": "Varlığın ne olduğu"
+          },
+          {
+            "soru": "Varlık felsefesinin temeli hangi kavramla ilişkilidir?",
+            "secenekler": [
+              "İyi",
+              "Gerçeklik",
+              "Zihin",
+              "Erdem"
+            ],
+            "dogruCevap": "Gerçeklik"
+          },
+          {
+            "soru": "Varlık felsefesinde ontoloji neyi inceler?",
+            "secenekler": [
+              "Varlığın anlamını",
+              "Varlıkların yapısını ve doğasını",
+              "Varlıkların evrimsel sürecini",
+              "Varlıkların toplumsal etkilerini"
+            ],
+            "dogruCevap": "Varlıkların yapısını ve doğasını"
+          },
+          {
+            "soru": "Aristoteles'in varlık anlayışında ne ön plandadır?",
+            "secenekler": [
+              "İdea",
+              "Maddi dünya",
+              "Ruhsal varlıklar",
+              "Duyularla algılanan dünya"
+            ],
+            "dogruCevap": "Maddi dünya"
+          },
+          {
+            "soru": "Platon'un varlık anlayışına göre, gerçeklik nedir?",
+            "secenekler": [
+              "Duyusal dünyadaki varlıklardır",
+              "Maddi dünyada var olan her şeydir",
+              "Duyularla algılanamayan İdea dünyasıdır",
+              "Toplumların yarattığı kültürel değerlerdir"
+            ],
+            "dogruCevap": "Duyularla algılanamayan İdea dünyasıdır"
+          },
+          {
+            "soru": "Varlık felsefesinde 'monizm' görüşü nedir?",
+            "secenekler": [
+              "Her şeyin bir tek özden meydana geldiği görüşü",
+              "Varlıkların çokluğunun doğuştan var olduğu görüşü",
+              "Varlıkların sürekli değişen bir yapıya sahip olduğu görüşü",
+              "Varlıkların yalnızca bir boyutta var olduğu görüşü"
+            ],
+            "dogruCevap": "Her şeyin bir tek özden meydana geldiği görüşü"
+          },
+          {
+            "soru": "Varlık felsefesinde 'düşünce' ile 'madde' arasındaki ilişkiyi tartışan görüş nedir?",
+            "secenekler": [
+              "Dualizm",
+              "Monizm",
+              "Empirizm",
+              "Rasyonalizm"
+            ],
+            "dogruCevap": "Dualizm"
+          },
+          {
+            "soru": "Dualizm, hangi filozof tarafından savunulmuştur?",
+            "secenekler": [
+              "Aristoteles",
+              "Descartes",
+              "Kant",
+              "Hegel"
+            ],
+            "dogruCevap": "Descartes"
+          },
+          {
+            "soru": "Varlık felsefesinde 'idealizm' görüşü neyi savunur?",
+            "secenekler": [
+              "Gerçekliğin zihinsel veya ruhsal bir varlık olduğu",
+              "Gerçekliğin sadece maddeden ibaret olduğu",
+              "Varlıkların fiziksel dünyada var olduğu",
+              "Gerçekliğin sadece toplumsal bir yapıyı temsil ettiği"
+            ],
+            "dogruCevap": "Gerçekliğin zihinsel veya ruhsal bir varlık olduğu"
+          },
+          {
+            "soru": "Hegel'in varlık anlayışına göre, gerçeklik nedir?",
+            "secenekler": [
+              "Zihinsel bir yapıdır ve her şeyin ruhla ilişkisi vardır",
+              "Maddeyi oluşturan özlerden birisidir",
+              "Duyusal dünyadaki varlıklardan bağımsızdır",
+              "Kişisel algıların birleşimidir"
+            ],
+            "dogruCevap": "Zihinsel bir yapıdır ve her şeyin ruhla ilişkisi vardır"
+          },
+          {
+            "soru": "Varlık felsefesinde 'empirizm' görüşü nedir?",
+            "secenekler": [
+              "Gerçekliği sadece akılla anlamaya çalışır",
+              "Gerçekliğin deneyim ve gözlemle anlaşılabileceğini savunur",
+              "Gerçekliği yalnızca kavramlarla açıklamaya çalışır",
+              "Gerçekliğin fiziksel ögelerle açıklanamayacağını savunur"
+            ],
+            "dogruCevap": "Gerçekliğin deneyim ve gözlemle anlaşılabileceğini savunur"
+          },
+          {
+            "soru": "Varlık felsefesinde 'ontolojik argüman' nedir?",
+            "secenekler": [
+              "Tanrı'nın varlığını akıl yoluyla kanıtlamaya yönelik argümandır",
+              "Varlıkların sadece insan tarafından algılandığı görüşüdür",
+              "Varlığın bir bütün olarak algılanması gerektiği görüşüdür",
+              "Varlıkların var olmasının nedenini sorgulayan bir argümandır"
+            ],
+            "dogruCevap": "Tanrı'nın varlığını akıl yoluyla kanıtlamaya yönelik argümandır"
+          },
+          {
+            "soru": "Varlık felsefesinde 'varlık' kavramı nasıl tanımlanır?",
+            "secenekler": [
+              "Her şeyin bir arada bulunduğu, birbiriyle ilişkili bir yapı",
+              "Zihnin, maddi dünya üzerindeki algısı",
+              "Fiziksel olarak var olan her şeyin toplamı",
+              "Duyularla algılanamayan ama var olan her şey"
+            ],
+            "dogruCevap": "Fiziksel olarak var olan her şeyin toplamı"
+          },
+          {
+            "soru": "Varlık felsefesinde 'varlık problemi' nedir?",
+            "secenekler": [
+              "Varlığın zamanla nasıl değiştiği sorusu",
+              "Varlığın nasıl algılandığı sorusu",
+              "Varlığın ne olduğu ve nasıl var olduğu sorusu",
+              "Varlıkların neden var olduğu sorusu"
+            ],
+            "dogruCevap": "Varlığın ne olduğu ve nasıl var olduğu sorusu"
+          },
+          {
+            "soru": "Varlık felsefesinde 'realizm' görüşü neyi savunur?",
+            "secenekler": [
+              "Gerçekliğin insan zihninden bağımsız olarak var olduğu",
+              "Gerçekliğin sadece zihinsel bir varlık olduğu",
+              "Varlıkların yalnızca algılarla mevcut olduğu",
+              "Gerçekliğin bir illüzyon olduğu"
+            ],
+            "dogruCevap": "Gerçekliğin insan zihninden bağımsız olarak var olduğu"
+          },
+          {
+            "soru": "Varlık felsefesinde 'fenomenoloji' nedir?",
+            "secenekler": [
+              "Gerçekliği dış dünyadaki nesnelerin varlığıyla açıklama",
+              "Bilincin bir şeyleri nasıl algıladığını inceleme",
+              "Varlıkların evrimsel gelişimini inceleme",
+              "Gerçekliğin toplumsal yapılarla ilişkisini inceleme"
+            ],
+            "dogruCevap": "Bilincin bir şeyleri nasıl algıladığını inceleme"
+          },
+          {
+            "soru": "Varlık felsefesinde 'varlık alanı' kavramı nedir?",
+            "secenekler": [
+              "Varlıkların sadece fiziksel olarak mevcut olduğu alan",
+              "Varlıkların duyularla algılanabilen alan",
+              "Fiziksel ve metafizik varlıkların tümünü kapsayan alan",
+              "Toplumların algıladığı varlık alanıdır"
+            ],
+            "dogruCevap": "Fiziksel ve metafizik varlıkların tümünü kapsayan alan"
+          },
+          {
+            "soru": "Varlık felsefesinde 'kategoriler' neyi ifade eder?",
+            "secenekler": [
+              "Farklı varlık türlerinin sınıflandırılması",
+              "Varlıkların toplumsal olarak algılandığı kategoriler",
+              "Varlıkların insan zihninde oluşturduğu anlamlar",
+              "Varlıkların doğal evrimsel kategorileri"
+            ],
+            "dogruCevap": "Farklı varlık türlerinin sınıflandırılması"
+          },
+          {
+            "soru": "Varlık felsefesinde 'subjektif idealizm' görüşünü savunan filozof kimdir?",
+            "secenekler": [
+              "Kant",
+              "Hegel",
+              "Berkeley",
+              "Descartes"
+            ],
+            "dogruCevap": "Berkeley"
+          },
+          {
+            "soru": "Varlık felsefesinde 'ontolojik varlık' neyi ifade eder?",
+            "secenekler": [
+              "Fiziksel dünyanın ötesinde var olan varlıklar",
+              "Duyularla algılanan tüm varlıklar",
+              "Zihinsel olarak var olan her şey",
+              "Düşüncenin bir ürünüdür"
+            ],
+            "dogruCevap": "Fiziksel dünyanın ötesinde var olan varlıklar"
+          }
+        ],
+        "Ahlak Felsefesi" : [
+          {
+            "soru": "Ahlak felsefesinin temel amacı nedir?",
+            "secenekler": [
+              "İyi ve kötü arasındaki farkı belirlemek",
+              "Toplumların hukuk düzenlerini incelemek",
+              "İnsanın varoluş amacını sorgulamak",
+              "İnsanların düşünsel kapasitesini artırmak"
+            ],
+            "dogruCevap": "İyi ve kötü arasındaki farkı belirlemek"
+          },
+          {
+            "soru": "Ahlakın temel sorusu nedir?",
+            "secenekler": [
+              "Gerçekten var mıyız?",
+              "Neden varız?",
+              "Ne yapmak doğru ve ne yapmak yanlıştır?",
+              "İnsanlar neden düşünür?"
+            ],
+            "dogruCevap": "Ne yapmak doğru ve ne yapmak yanlıştır?"
+          },
+          {
+            "soru": "Kimyasal ve biyolojik süreçlerin ahlaki kararları etkileyip etkilemediğini soran felsefi akım nedir?",
+            "secenekler": [
+              "Empirizm",
+              "Determinizm",
+              "Rasyonalizm",
+              "Hedonizm"
+            ],
+            "dogruCevap": "Determinizm"
+          },
+          {
+            "soru": "Ahlak felsefesinde ‘utilitarizm’ nedir?",
+            "secenekler": [
+              "İnsanın bireysel özgürlüklerini savunur",
+              "Toplumun en büyük yararı için eylemler yapılması gerektiğini savunur",
+              "İyi ve kötü değerlerin mutlak olduğu görüşüdür",
+              "Ahlaki eylemlerin sadece Tanrı'ya hizmet etmesi gerektiğini savunur"
+            ],
+            "dogruCevap": "Toplumun en büyük yararı için eylemler yapılması gerektiğini savunur"
+          },
+          {
+            "soru": "Ahlak felsefesinde ‘deontoloji’ yaklaşımı hangi görüşü savunur?",
+            "secenekler": [
+              "Sonuçlardan bağımsız olarak eylemlerin doğru ya da yanlış olduğunu savunur",
+              "Bütün eylemlerin sonuçlarına göre değerlendirilmesi gerektiğini savunur",
+              "Ahlaki değerlerin tamamen kişisel olduğuna inanır",
+              "Ahlak kurallarının toplumdan toplumdan farklı olduğunu savunur"
+            ],
+            "dogruCevap": "Sonuçlardan bağımsız olarak eylemlerin doğru ya da yanlış olduğunu savunur"
+          },
+          {
+            "soru": "Ahlak felsefesinde ‘virtue ethics’ (Erdem Ahlakı) görüşünü savunan filozof kimdir?",
+            "secenekler": [
+              "Sokrat",
+              "Aristoteles",
+              "Descartes",
+              "Platon"
+            ],
+            "dogruCevap": "Aristoteles"
+          },
+          {
+            "soru": "Ahlak felsefesinde ‘hedonizm’ görüşü neyi savunur?",
+            "secenekler": [
+              "İyi olan her şeyin Tanrı'nın emirlerine uygun olması gerektiğini",
+              "İnsanın sadece kendi mutluluğunun peşinden gitmesi gerektiğini",
+              "Toplumun en fazla yararını sağlamak için çaba gösterilmesi gerektiğini",
+              "İyi eylemlerin sadece rasyonel düşüncelerle yapılması gerektiğini"
+            ],
+            "dogruCevap": "İnsanın sadece kendi mutluluğunun peşinden gitmesi gerektiğini"
+          },
+          {
+            "soru": "‘Moral realism’ (Ahlaki realizm) görüşü neyi savunur?",
+            "secenekler": [
+              "Ahlaki değerlerin toplumun algılarına göre değişebileceği",
+              "Ahlaki değerlerin nesnel ve evrensel olduğu",
+              "Ahlaki değerlerin tamamen bireysel olduğunu",
+              "Ahlaki değerlerin duygusal bir yaklaşım olduğuna inanılır"
+            ],
+            "dogruCevap": "Ahlaki değerlerin nesnel ve evrensel olduğu"
+          },
+          {
+            "soru": "Ahlak felsefesine göre, bir eylemin doğru ya da yanlış olup olmadığı nasıl değerlendirilir?",
+            "secenekler": [
+              "Eylemin sonucuna göre",
+              "Eylemi yapan kişinin niyetine göre",
+              "Eylemin toplumdaki genel geçer kurallara uygunluğuna göre",
+              "Eylemin düşünsel süreçlere uygunluğuna göre"
+            ],
+            "dogruCevap": "Eylemin sonucuna göre"
+          },
+          {
+            "soru": "Ahlak felsefesindeki ‘pragmatizm’ görüşü nedir?",
+            "secenekler": [
+              "Ahlaki değerlerin mutlak olduğunu savunur",
+              "Ahlaki eylemlerin sadece amaca hizmet etmesi gerektiğini savunur",
+              "Ahlaki değerlerin toplumdan topluma değişebileceğini savunur",
+              "Ahlaki değerlerin doğruyu bulmak için mantıklı bir yol olmadığını savunur"
+            ],
+            "dogruCevap": "Ahlaki eylemlerin sadece amaca hizmet etmesi gerektiğini savunur"
+          },
+          {
+            "soru": "‘İyi hayat’ konusunda filozofların önerdiği yollar arasında hangi görüş öne çıkmaz?",
+            "secenekler": [
+              "Erdemli bir hayat yaşamak",
+              "Toplumsal fayda sağlamak",
+              "Kişisel arzuları tatmin etmek",
+              "Bireysel mutluluğa odaklanmak"
+            ],
+            "dogruCevap": "Kişisel arzuları tatmin etmek"
+          },
+          {
+            "soru": "Ahlak felsefesinde ‘meta-etik’ neyi inceleyen bir alandır?",
+            "secenekler": [
+              "Ahlaki yargıların doğruluğunu ve temellerini sorgular",
+              "Ahlakın ne şekilde işler olduğunu inceleyen bir alandır",
+              "Ahlaki yasaların toplumsal temellerini analiz eder",
+              "İyi ve kötü arasındaki seçimleri tartışır"
+            ],
+            "dogruCevap": "Ahlaki yargıların doğruluğunu ve temellerini sorgular"
+          },
+          {
+            "soru": "‘Ahlaki sorumluluk’ kavramını savunan yaklaşım hangisidir?",
+            "secenekler": [
+              "Determinist görüş",
+              "Ahlaki relativizm",
+              "Karma felsefesi",
+              "Deontoloji"
+            ],
+            "dogruCevap": "Deontoloji"
+          },
+          {
+            "soru": "Ahlak felsefesindeki ‘nihilizm’ görüşü nedir?",
+            "secenekler": [
+              "Ahlaki değerlerin olduğu görüşüdür",
+              "Ahlaki değerlerin insanlar tarafından yaratıldığını savunur",
+              "Ahlaki değerlerin nesnel olarak var olduğunu savunur",
+              "Ahlaki değerlerin tamamen anlamsız olduğunu savunur"
+            ],
+            "dogruCevap": "Ahlaki değerlerin tamamen anlamsız olduğunu savunur"
+          },
+          {
+            "soru": "Ahlak felsefesinde ‘egzistansiyalizm’ (varoluşçuluk) nedir?",
+            "secenekler": [
+              "İnsanın doğuştan ahlaki bir sorumluluğu olduğu",
+              "Bireylerin kendi seçimleriyle anlam yaratmaları gerektiği",
+              "İnsanların ahlaki değerler dışında bir amaç gütmeleri gerektiği",
+              "Bütün insanların aynı ahlaki değerlere sahip olması gerektiği"
+            ],
+            "dogruCevap": "Bireylerin kendi seçimleriyle anlam yaratmaları gerektiği"
+          },
+          {
+            "soru": "‘Toplumsal sözleşme’ kuramını savunan filozof kimdir?",
+            "secenekler": [
+              "Hobbes",
+              "Platon",
+              "Nietzsche",
+              "Descartes"
+            ],
+            "dogruCevap": "Hobbes"
+          },
+          {
+            "soru": "Ahlak felsefesinde ‘kültürel relativizm’ görüşü neyi savunur?",
+            "secenekler": [
+              "Ahlaki değerlerin evrensel olduğu",
+              "Ahlaki değerlerin sadece toplumdan topluma değiştiği",
+              "Ahlaki değerlerin sadece kişisel tercihlere dayandığı",
+              "Ahlaki değerlerin tarihsel olarak değiştiği"
+            ],
+            "dogruCevap": "Ahlaki değerlerin sadece toplumdan topluma değiştiği"
+          },
+          {
+            "soru": "Ahlak felsefesinde ‘epistemik adalet’ nedir?",
+            "secenekler": [
+              "Gerçeklerin doğru bir şekilde aktarılması",
+              "Kişilerin ahlaki sorumluluklarının doğruluğu",
+              "Toplumda herkesin eşit haklara sahip olması",
+              "İnsanların inançlarının doğruluğu"
+            ],
+            "dogruCevap": "Gerçeklerin doğru bir şekilde aktarılması"
+          },
+          {
+            "soru": "Ahlak felsefesinde ‘olumlu özgürlük’ nedir?",
+            "secenekler": [
+              "Kişinin kendi iradesiyle karar verme gücüdür",
+              "Bireyin toplumda kabul edilen kurallara uymasıdır",
+              "Devletin bireyin özgürlüğünü koruma sorumluluğudur",
+              "Bireyin kendini ifade edebilmesi için gerekli koşulları yaratma özgürlüğüdür"
+            ],
+            "dogruCevap": "Kişinin kendi iradesiyle karar verme gücüdür"
+          }
+        ],
+        "Din Felsefesi" : [
+          {
+            "soru": "Din felsefesi nedir?",
+            "secenekler": [
+              "Dinlerin ritüel ve ibadetlerini inceler",
+              "Dinlerin öğretilerini eleştirir",
+              "Dinlerin inanç ve değerlerini felsefi bir bakış açısıyla sorgular",
+              "Dinlerin sosyal işlevlerini araştırır"
+            ],
+            "dogruCevap": "Dinlerin inanç ve değerlerini felsefi bir bakış açısıyla sorgular"
+          },
+          {
+            "soru": "Tanrı'nın varlığını kanıtlamaya yönelik argümanlar hangi alanda incelenir?",
+            "secenekler": [
+              "Ontoloji",
+              "Metafizik",
+              "Din felsefesi",
+              "Epistemoloji"
+            ],
+            "dogruCevap": "Din felsefesi"
+          },
+          {
+            "soru": "Tanrı'nın varlığına dair yapılan en eski kanıtlar arasında hangisi yer alır?",
+            "secenekler": [
+              "Kuantum teorisi",
+              "Ontolojik kanıt",
+              "Dinsel metinler",
+              "Sosyal bilimler"
+            ],
+            "dogruCevap": "Ontolojik kanıt"
+          },
+          {
+            "soru": "Din felsefesinde ‘problema teodise’ nedir?",
+            "secenekler": [
+              "Tanrı'nın varlığının ispatlanması",
+              "İnsanların özgür iradesi",
+              "Tanrı'nın kötülük ve acılara rağmen neden dünyada var olduğuna dair sorun",
+              "Dinlerin farklı inanç sistemlerini karşılaştırmak"
+            ],
+            "dogruCevap": "Tanrı'nın kötülük ve acılara rağmen neden dünyada var olduğuna dair sorun"
+          },
+          {
+            "soru": "Din felsefesinde ‘fenomenoloji’ yaklaşımı neyi inceler?",
+            "secenekler": [
+              "Dinsel deneyimlerin bireysel algılarını ve anlamını",
+              "Dinlerin tarihsel gelişimini",
+              "Dinler arası farklılıkları",
+              "Dinsel ritüellerin toplumsal işlevini"
+            ],
+            "dogruCevap": "Dinsel deneyimlerin bireysel algılarını ve anlamını"
+          },
+          {
+            "soru": "Din felsefesinde ‘deizm’ görüşü nedir?",
+            "secenekler": [
+              "Tanrı'nın doğrudan müdahalesine inanç",
+              "Tanrı'nın evreni yarattığı ancak sonrasında evrenden elini çektiği görüşü",
+              "Tanrı'nın var olmadığına inanç",
+              "Tanrı'nın tüm olayları kontrol ettiğine inanç"
+            ],
+            "dogruCevap": "Tanrı'nın evreni yarattığı ancak sonrasında evrenden elini çektiği görüşü"
+          },
+          {
+            "soru": "İslam dininde Tanrı’nın mutlak birliği anlamına gelen kavram nedir?",
+            "secenekler": [
+              "Vahdet-i Vücut",
+              "Tevhid",
+              "Tawhid",
+              "Monoteizm"
+            ],
+            "dogruCevap": "Tevhid"
+          },
+          {
+            "soru": "Din felsefesinde ‘epistemik’ yaklaşım neyi inceler?",
+            "secenekler": [
+              "Dinlerin doğru olup olmadığına dair bilgiler",
+              "Dinlerin toplumsal işlevlerini",
+              "Tanrı'nın varlığını",
+              "Dinlerin sosyal yapısını"
+            ],
+            "dogruCevap": "Dinlerin doğru olup olmadığına dair bilgiler"
+          },
+          {
+            "soru": "Ahlaki sorumluluklar ile ilgili sorular din felsefesinde hangi problem alanında ele alınır?",
+            "secenekler": [
+              "Teodise problemi",
+              "İyi yaşam problemi",
+              "Din ve bilim problemi",
+              "İnanç ve akıl problemi"
+            ],
+            "dogruCevap": "İyi yaşam problemi"
+          },
+          {
+            "soru": "Din felsefesinde ‘İnanç ve akıl ilişkisi’ ile ilgili hangi görüş savunulur?",
+            "secenekler": [
+              "Din aklı reddeder",
+              "Aklın sınırlarını aşan konularda din rehberlik eder",
+              "Din tamamen akıl dışıdır",
+              "Aklın her durumda dini inançları onaylaması gerekir"
+            ],
+            "dogruCevap": "Aklın sınırlarını aşan konularda din rehberlik eder"
+          },
+          {
+            "soru": "İslam felsefesinde ‘hikmet’ kavramı neyi ifade eder?",
+            "secenekler": [
+              "Dinin emirlerine tam olarak uyulması",
+              "İnsana doğruyu ve yanlışı öğreten bilgelik",
+              "Tanrı'nın varlığının ispatlanması",
+              "İbadetlerin doğru bir şekilde yapılması"
+            ],
+            "dogruCevap": "İnsana doğruyu ve yanlışı öğreten bilgelik"
+          },
+          {
+            "soru": "Hangi filozof, ‘Tanrı var olmasaydı, her şey anlamsız olurdu’ diyerek Tanrı’nın varlığını savunmuştur?",
+            "secenekler": [
+              "Descartes",
+              "Hume",
+              "Kant",
+              "Kierkegaard"
+            ],
+            "dogruCevap": "Descartes"
+          },
+          {
+            "soru": "Din felsefesinde ‘kötülük problemi’ nedir?",
+            "secenekler": [
+              "Tanrı'nın varlığı ile kötülüğün varlığı arasındaki çelişki",
+              "Tanrı'nın insanlara kötülük yapma hakkı",
+              "Kötülüğün Tanrı tarafından yaratılmış olması",
+              "Dinsel uygulamalarda kötülüğün yeri"
+            ],
+            "dogruCevap": "Tanrı'nın varlığı ile kötülüğün varlığı arasındaki çelişki"
+          },
+          {
+            "soru": "Ateizm nedir?",
+            "secenekler": [
+              "Tanrı'nın varlığına inanç",
+              "Tanrı'nın var olmadığına inanç",
+              "Dinlerin doğru olduğuna inanç",
+              "Dinleri kabul etmeyen bir topluluk"
+            ],
+            "dogruCevap": "Tanrı'nın var olmadığına inanç"
+          },
+          {
+            "soru": "Din felsefesinde, Tanrı'nın varlığının anlaşılmasını sağlamak amacıyla yapılan mantıklı düşünceler nedir?",
+            "secenekler": [
+              "Tanrısal kanıtlar",
+              "Ontolojik kanıtlar",
+              "Metafiziksel kanıtlar",
+              "İlahiyat"
+            ],
+            "dogruCevap": "Ontolojik kanıtlar"
+          },
+          {
+            "soru": "Tanrı'nın varlığını kanıtlamak amacıyla ‘gözlem ve düzen’ argümanını savunan filozof kimdir?",
+            "secenekler": [
+              "Kant",
+              "Hume",
+              "Paley",
+              "Nietzsche"
+            ],
+            "dogruCevap": "Paley"
+          },
+          {
+            "soru": "Din felsefesinde Tanrı’nın mutlak gücünün, insanın özgür iradesiyle nasıl bir ilişkisi olduğu sorusu hangi kavramla açıklanır?",
+            "secenekler": [
+              "Teodise",
+              "Determinism",
+              "Evrimsel teoloji",
+              "İnanç-aksiyon ilişkisi"
+            ],
+            "dogruCevap": "Teodise"
+          },
+          {
+            "soru": "Din felsefesinde, Tanrı'nın doğrudan müdahalesinin olmadığına inanan görüş nedir?",
+            "secenekler": [
+              "Deizm",
+              "Ateizm",
+              "Panteizm",
+              "Teizm"
+            ],
+            "dogruCevap": "Deizm"
+          },
+          {
+            "soru": "İslam’da Tanrı’nın birliğini savunan temel kavram nedir?",
+            "secenekler": [
+              "Vahdet-i Vücut",
+              "Tevhid",
+              "Ruhbanlık",
+              "Monoteizm"
+            ],
+            "dogruCevap": "Tevhid"
+          },
+          {
+            "soru": "Din felsefesinde ‘ontolojik kanıt’ nedir?",
+            "secenekler": [
+              "Tanrı'nın varlığının mantıksal bir argümanla kanıtlanması",
+              "Dinlerin tarihsel süreçlerinin incelenmesi",
+              "Tanrı'nın doğrudan gözlemiyle varlığının kanıtlanması",
+              "İnsanın doğuştan Tanrı'ya olan inancı"
+            ],
+            "dogruCevap": "Tanrı'nın varlığının mantıksal bir argümanla kanıtlanması"
+          }
+        ]
+        
+        
+        
+        
+        
+      },
+      "Din Kültürü ve Ahlak Bilgisi" : {
+        "Bilgi ve İnanç" : [
+          {
+            "soru": "Dinî inanç, hangi temele dayanır?",
+            "secenekler": [
+              "Kişisel düşünce ve akıl yürütme",
+              "Toplumsal düzen ve güvenlik",
+              "Kutsal kabul edilen kaynaklar ve vahiy",
+              "Bilimsel veriler ve gözlemler"
+            ],
+            "dogruCevap": "Kutsal kabul edilen kaynaklar ve vahiy"
+          },
+          {
+            "soru": "İnanç, genellikle hangi unsurlara dayanarak şekillenir?",
+            "secenekler": [
+              "Akıl yürütme ve mantık",
+              "Duyusal deneyimler ve gözlemler",
+              "Kişisel ve toplumsal değerler",
+              "Bilimsel araştırmalar ve keşifler"
+            ],
+            "dogruCevap": "Kişisel ve toplumsal değerler"
+          },
+          {
+            "soru": "Dinî inançların doğruluğu hakkında kesin bilgiye ulaşmak mümkün müdür?",
+            "secenekler": [
+              "Evet, her inanç doğrulama gerektirir",
+              "Hayır, inançlar kişisel ve özeldir",
+              "Evet, her inanç bilimsel testlerle doğrulanabilir",
+              "Hayır, inançlar akıl yoluyla anlaşılabilir"
+            ],
+            "dogruCevap": "Hayır, inançlar kişisel ve özeldir"
+          },
+          {
+            "soru": "‘İnanç, kişinin içsel kabulü ve duygusal tercihiyle şekillenir’ diyen yaklaşım hangi düşünürle ilişkilidir?",
+            "secenekler": [
+              "Descartes",
+              "Kant",
+              "Hume",
+              "Nietzsche"
+            ],
+            "dogruCevap": "Hume"
+          },
+          {
+            "soru": "Bir insanın dini inancı hakkında kesin bir bilgi edinip edinemeyeceğini sorgulayan görüş nedir?",
+            "secenekler": [
+              "Skeptisizm",
+              "Empirizm",
+              "Rasyonalizm",
+              "Agnostisizm"
+            ],
+            "dogruCevap": "Skeptisizm"
+          },
+          {
+            "soru": "Hangi görüş, bilginin kaynağının yalnızca duyu organlarıyla edinilebileceğini savunur?",
+            "secenekler": [
+              "Empirizm",
+              "Rasyonalizm",
+              "Pragmatizm",
+              "Agnostisizm"
+            ],
+            "dogruCevap": "Empirizm"
+          },
+          {
+            "soru": "İnançlar, hangi faktöre dayanarak doğruluğu kesin olmayan kabuller olarak kabul edilir?",
+            "secenekler": [
+              "Bilimsel gözlemler",
+              "Duyusal deneyimler",
+              "Kişisel duygular ve sezgiler",
+              "Kutsal kitaplar ve vahiyler"
+            ],
+            "dogruCevap": "Kişisel duygular ve sezgiler"
+          },
+          {
+            "soru": "Dini inançlar toplumlar arasında nasıl farklılıklar gösterebilir?",
+            "secenekler": [
+              "Farklı kültürel ve tarihi bağlamlara göre",
+              "Bilimsel bulgularla doğrudan ilişkilidir",
+              "Toplumların akıl yürütme seviyeleriyle ilişkili",
+              "Her inanç kesin doğrulama gerektirir"
+            ],
+            "dogruCevap": "Farklı kültürel ve tarihi bağlamlara göre"
+          },
+          {
+            "soru": "Bir kişinin doğru ve yanlış hakkında sahip olduğu bilgi, hangi unsurlar tarafından şekillenir?",
+            "secenekler": [
+              "Toplumsal normlar ve kültürel değerler",
+              "Sadece bilimsel bilgiler",
+              "Kişisel deneyimler ve gözlemler",
+              "Doğal yasalar ve evrim"
+            ],
+            "dogruCevap": "Toplumsal normlar ve kültürel değerler"
+          },
+          {
+            "soru": "Dinî inançlar ve bilimsel bilgi arasındaki temel fark nedir?",
+            "secenekler": [
+              "Dinî inançlar deneysel kanıtlarla doğrulanabilirken, bilimsel bilgi duygusal bir temele dayanır",
+              "Dinî inançlar kutsal metinlere dayanırken, bilimsel bilgi gözleme ve deneylere dayanır",
+              "Dinî inançlar evrimsel sürecin sonucudur, bilimsel bilgi doğrudan vahiyden alınır",
+              "Dinî inançlar bilimsel keşiflerle çelişir ve reddedilir"
+            ],
+            "dogruCevap": "Dinî inançlar kutsal metinlere dayanırken, bilimsel bilgi gözleme ve deneylere dayanır"
+          },
+          {
+            "soru": "‘Dinî inançlar toplumda birliği sağlar ve toplumsal düzeni korur’ görüşü hangi düşünürün görüşüdür?",
+            "secenekler": [
+              "Karl Marx",
+              "Emile Durkheim",
+              "Friedrich Nietzsche",
+              "Jean-Paul Sartre"
+            ],
+            "dogruCevap": "Emile Durkheim"
+          },
+          {
+            "soru": "Bir kişinin dini inancı, hangi unsurla daha çok ilişkilidir?",
+            "secenekler": [
+              "Doğal yasalar",
+              "Toplumsal ve kültürel etkileşimler",
+              "Akıl ve mantık",
+              "Bireysel gözlemler"
+            ],
+            "dogruCevap": "Toplumsal ve kültürel etkileşimler"
+          },
+          {
+            "soru": "‘Bir inancın doğruluğu, her birey için farklılık gösterir’ görüşü hangi kavramı ifade eder?",
+            "secenekler": [
+              "Relativizm",
+              "Agnostisizm",
+              "Objektivizm",
+              "Pragmatizm"
+            ],
+            "dogruCevap": "Relativizm"
+          },
+          {
+            "soru": "‘Dinî inançlar sadece akıl yürütme ve mantıkla değil, duygusal ve içsel bir kabul ile doğrulanır’ görüşünü savunan hangi yaklaşım olabilir?",
+            "secenekler": [
+              "Rasyonalizm",
+              "Empirizm",
+              "Agnostisizm",
+              "Pragmatizm"
+            ],
+            "dogruCevap": "Pragmatizm"
+          },
+          {
+            "soru": "İnançların temelinde yatan doğrular, hangi kaynaktan türetilir?",
+            "secenekler": [
+              "Kutsal kitaplar ve vahiy",
+              "Sosyal deneyimler ve gözlemler",
+              "Bireysel çıkarlar ve istekler",
+              "Bilimsel teoriler ve deneyler"
+            ],
+            "dogruCevap": "Kutsal kitaplar ve vahiy"
+          },
+          {
+            "soru": "Dinin ve inancın insan yaşamındaki etkisi hakkında hangi görüş öne çıkmaktadır?",
+            "secenekler": [
+              "Din, bireylerin moral değerlerini belirler",
+              "Din, toplumsal düzeni bozmak için vardır",
+              "Din, insanları bilimsel düşünceye itmeye yönelir",
+              "Din, sadece bir ritüel olarak kalmalıdır"
+            ],
+            "dogruCevap": "Din, bireylerin moral değerlerini belirler"
+          },
+          {
+            "soru": "Bilgi, bir dini inançla ilgili olarak nasıl tanımlanır?",
+            "secenekler": [
+              "Bireysel görüşlerin birleşimi",
+              "Genel toplumsal kabul",
+              "Sistematik gözlem ve deney",
+              "Vahiy ve kutsal metinlerden elde edilen bilgi"
+            ],
+            "dogruCevap": "Vahiy ve kutsal metinlerden elde edilen bilgi"
+          },
+          {
+            "soru": "‘Herkesin dini inançları doğrultusunda yaşamaya hakkı vardır’ anlayışı hangi kavramı ifade eder?",
+            "secenekler": [
+              "Hoşgörü",
+              "Zorlama",
+              "Dogmatizm",
+              "Ateizm"
+            ],
+            "dogruCevap": "Hoşgörü"
+          },
+          {
+            "soru": "Bir kişinin dini inançlarını sorgulaması neyi ifade eder?",
+            "secenekler": [
+              "İnançsızlık",
+              "Agnostisizm",
+              "Skeptisizm",
+              "Ateizm"
+            ],
+            "dogruCevap": "Skeptisizm"
+          },
+          {
+            "soru": "Dinî inançlar ve bilimsel bilgi arasındaki çatışma hangi durumda daha belirgin olur?",
+            "secenekler": [
+              "Dinî inançlar doğrudan gözlemle doğrulanabilirken",
+              "Dinî inançlar ve bilimsel bilgi birbirini tamamlar",
+              "Dinî inançlar, bilimsel bulgularla çelişebilir",
+              "Dinî inançlar tamamen bilimsel bulgulara dayanır"
+            ],
+            "dogruCevap": "Dinî inançlar, bilimsel bulgularla çelişebilir"
+          }
+        ],
+        "Din ve İslam" : [
+          {
+            "soru": "İslam dininde Allah'ın sıfatlarından biri olan 'Rahman' neyi ifade eder?",
+            "secenekler": [
+              "Her şeye gücü yeten",
+              "Merhametli ve bağışlayıcı",
+              "Bütün evrenin yaratıcısı",
+              "Her şeyi bilen"
+            ],
+            "dogruCevap": "Merhametli ve bağışlayıcı"
+          },
+          {
+            "soru": "İslam dininin kutsal kitabı nedir?",
+            "secenekler": [
+              "Kur'an-ı Kerim",
+              "Tevrat",
+              "Zebur",
+              "İncil"
+            ],
+            "dogruCevap": "Kur'an-ı Kerim"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V) hangi şehirde doğmuştur?",
+            "secenekler": [
+              "Medine",
+              "Mekke",
+              "Kudüs",
+              "Taif"
+            ],
+            "dogruCevap": "Mekke"
+          },
+          {
+            "soru": "İslam dininde temel ibadetlerden biri olan 'Namaz' günde kaç defa kılınır?",
+            "secenekler": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            "dogruCevap": "5"
+          },
+          {
+            "soru": "İslam dininde oruç, hangi aya aittir?",
+            "secenekler": [
+              "Ramazan",
+              "Şaban",
+              "Hicri yıl",
+              "Zilhicce"
+            ],
+            "dogruCevap": "Ramazan"
+          },
+          {
+            "soru": "İslam'da hac ibadeti hangi kutsal mekâna yapılır?",
+            "secenekler": [
+              "Medine",
+              "Kâbe",
+              "Mescid-i Aksa",
+              "Kubbetü’s-Sahra"
+            ],
+            "dogruCevap": "Kâbe"
+          },
+          {
+            "soru": "İslam'ın beş şartından biri olan 'Zekât', ne amaçla verilir?",
+            "secenekler": [
+              "Yoksullara yardım etmek",
+              "Toplumda eşitlik sağlamak",
+              "Özde şükür etmek",
+              "Günahları affettirmek"
+            ],
+            "dogruCevap": "Yoksullara yardım etmek"
+          },
+          {
+            "soru": "İslam dininde ilk vahiy hangi mağarada indirilmiştir?",
+            "secenekler": [
+              "Hira Mağarası",
+              "Kahf Mağarası",
+              "Ühüd Mağarası",
+              "Kıble Mağarası"
+            ],
+            "dogruCevap": "Hira Mağarası"
+          },
+          {
+            "soru": "İslam dininde peygamberlerin sonuncusu kimdir?",
+            "secenekler": [
+              "Hz. İsa",
+              "Hz. Musa",
+              "Hz. Muhammed",
+              "Hz. Nuh"
+            ],
+            "dogruCevap": "Hz. Muhammed"
+          },
+          {
+            "soru": "İslam'da insanların birbirine yapması gereken güzel davranışlar nelerdir?",
+            "secenekler": [
+              "İman etmek ve ahlaka uygun yaşamak",
+              "Sadece dua etmek",
+              "Başka inançlara saygı duymamak",
+              "Diğer dinleri hor görmek"
+            ],
+            "dogruCevap": "İman etmek ve ahlaka uygun yaşamak"
+          },
+          {
+            "soru": "İslam'da Allah'a inanmak, hangi temele dayanır?",
+            "secenekler": [
+              "İman",
+              "İbadet",
+              "Akıl",
+              "Dua"
+            ],
+            "dogruCevap": "İman"
+          },
+          {
+            "soru": "İslam'da müslümanların, diğer müslümanlarla olan ilişkilerinde takip etmeleri gereken kural nedir?",
+            "secenekler": [
+              "Yardımlaşmak ve dayanışma içinde olmak",
+              "Bireysel çıkarları ön planda tutmak",
+              "Sadece kendi inancına sahip olanlarla konuşmak",
+              "Diğer dinlere karşı duyarsız olmak"
+            ],
+            "dogruCevap": "Yardımlaşmak ve dayanışma içinde olmak"
+          },
+          {
+            "soru": "İslam'da 'Cennet' ve 'Cehennem' kavramları neyi ifade eder?",
+            "secenekler": [
+              "Dünya hayatının başlangıç ve bitişi",
+              "İyi ve kötü insanların sonsuz yaşayacağı yerler",
+              "Toplumun sosyal yapısı",
+              "Cennetin dünyada yaşananlar için ödül olması"
+            ],
+            "dogruCevap": "İyi ve kötü insanların sonsuz yaşayacağı yerler"
+          },
+          {
+            "soru": "İslam'da 'İman' nedir?",
+            "secenekler": [
+              "Allah'ın varlığına ve peygamberlerine inanmak",
+              "Sadece Allah'a inanmak",
+              "Peygamberlere inanmak",
+              "Ritüellere inanmak"
+            ],
+            "dogruCevap": "Allah'ın varlığına ve peygamberlerine inanmak"
+          },
+          {
+            "soru": "İslam'da oruç tutan bir kişi, hangi zaman diliminde yemek yemelidir?",
+            "secenekler": [
+              "Sabah namazından önce",
+              "Öğle namazından sonra",
+              "Akşam namazından önce",
+              "İmsak ile akşam arasındaki sürede"
+            ],
+            "dogruCevap": "İmsak ile akşam arasındaki sürede"
+          },
+          {
+            "soru": "İslam'ın temel inanç esaslarından biri olan 'melekler' neyi ifade eder?",
+            "secenekler": [
+              "Allah'ın yarattığı, insanların hayatını etkileyen ruhsal varlıklar",
+              "İnsanları denetleyen üstün varlıklar",
+              "Herkesin içerisinde bulunan manevi varlıklar",
+              "Günahları affetme gücüne sahip varlıklar"
+            ],
+            "dogruCevap": "Allah'ın yarattığı, insanların hayatını etkileyen ruhsal varlıklar"
+          },
+          {
+            "soru": "İslam'ın beş şartı dışında bir ibadet türü olan 'Vakıf' nedir?",
+            "secenekler": [
+              "Müslümanlar arasında sadaka dağıtmak",
+              "İhtiyaç sahiplerine yardım etmek için oluşturulan kurum",
+              "Camiye giden her kişinin bağış yapması",
+              "Dini kitapları bağışlamak"
+            ],
+            "dogruCevap": "İhtiyaç sahiplerine yardım etmek için oluşturulan kurum"
+          },
+          {
+            "soru": "İslam'a göre, müslümanın hayatını düzenleyen temel kitap hangisidir?",
+            "secenekler": [
+              "Kur'an-ı Kerim",
+              "Hadis-i Şerif",
+              "İmam-ı Azam",
+              "Tevrat"
+            ],
+            "dogruCevap": "Kur'an-ı Kerim"
+          },
+          {
+            "soru": "İslam'da peygamberlere inanmak, hangi inanç esasına dayanır?",
+            "secenekler": [
+              "Akıl",
+              "Vahiy",
+              "Tevrat",
+              "Kitaplar"
+            ],
+            "dogruCevap": "Vahiy"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in vefatından sonra İslam dünyasında hangi kitap en çok kabul edilir?",
+            "secenekler": [
+              "Kur'an-ı Kerim",
+              "Hadis-i Şerif",
+              "Sahih-i Buhari",
+              "İmam-ı Azam"
+            ],
+            "dogruCevap": "Kur'an-ı Kerim"
+          },
+          {
+            "soru": "İslam'da Allah'ın en güzel isimlerinden biri nedir?",
+            "secenekler": [
+              "El-Rahman",
+              "El-Malik",
+              "El-Kadir",
+              "El-İzzet"
+            ],
+            "dogruCevap": "El-Rahman"
+          }
+        ],
+        "Allah İnsan İlişkisi" : [
+          {
+            "soru": "İslam'a göre, Allah insanları neden yaratmıştır?",
+            "secenekler": [
+              "Kendisiyle birlikte mutlu olmaları için",
+              "Onlara sorumluluk yüklemek için",
+              "Allah'ın kudretini göstermek için",
+              "İnsanların her ihtiyacını karşılamak için"
+            ],
+            "dogruCevap": "Onlara sorumluluk yüklemek için"
+          },
+          {
+            "soru": "İslam'a göre, Allah insanları hangi özelliği ile diğer varlıklardan farklı yaratmıştır?",
+            "secenekler": [
+              "İrade ve özgürlük",
+              "Zenginlik",
+              "Fiziksel güç",
+              "Duygusal derinlik"
+            ],
+            "dogruCevap": "İrade ve özgürlük"
+          },
+          {
+            "soru": "İslam’a göre, Allah insanlara hangi iki önemli sorumluluk verir?",
+            "secenekler": [
+              "İbadet etmek ve ahlaka uygun yaşamak",
+              "Kişisel hırslarını gerçekleştirmek ve varlıklarını arttırmak",
+              "Başka dinlere saygı duymak ve adalet sağlamak",
+              "Doğayı korumak ve barışçıl olmak"
+            ],
+            "dogruCevap": "İbadet etmek ve ahlaka uygun yaşamak"
+          },
+          {
+            "soru": "İslam'a göre Allah, insanlara ne tür bir ilişki sunar?",
+            "secenekler": [
+              "Her zaman yakın ve yardımsever",
+              "Sadece adaletli ve tarafsız",
+              "İnsanları sürekli test eden ve zorlayan",
+              "Sadece yargılayan"
+            ],
+            "dogruCevap": "Her zaman yakın ve yardımsever"
+          },
+          {
+            "soru": "İslam’a göre, insanın Allah ile olan ilişkisi nasıl daha güçlü hale getirilebilir?",
+            "secenekler": [
+              "Sürekli olarak dua ve ibadetle",
+              "Fakat yalnızca toplumla etkileşimde bulunarak",
+              "Kendi isteklerine göre yaşamakla",
+              "Sadece başkalarına zarar vermemekle"
+            ],
+            "dogruCevap": "Sürekli olarak dua ve ibadetle"
+          },
+          {
+            "soru": "İslam’a göre, Allah’ın insanlara verdiği en önemli nimet nedir?",
+            "secenekler": [
+              "Akıl ve özgür irade",
+              "Sağlık ve güzellik",
+              "Zenginlik ve toprak",
+              "Ebeveynler"
+            ],
+            "dogruCevap": "Akıl ve özgür irade"
+          },
+          {
+            "soru": "İslam’a göre, Allah’ın insanlara olan rahmeti nasıl bir özellik taşır?",
+            "secenekler": [
+              "Sonsuz ve sınırsız",
+              "Zamanla sınırlıdır",
+              "Herkes için eşit değildir",
+              "İnsanlar sadece kendi elleriyle kazanabilir"
+            ],
+            "dogruCevap": "Sonsuz ve sınırsız"
+          },
+          {
+            "soru": "Allah’ın insanlara verdiği en büyük nimetlerden biri nedir?",
+            "secenekler": [
+              "Özgür irade",
+              "Ruhsal rahatlık",
+              "Kariyer başarısı",
+              "Toprak"
+            ],
+            "dogruCevap": "Özgür irade"
+          },
+          {
+            "soru": "İslam’da insanın Allah’a karşı sorumluluğu nedir?",
+            "secenekler": [
+              "Kendi iradesine göre hareket etmek",
+              "Sürekli olarak dua etmek",
+              "Allah’a inançsız kalmak",
+              "Allah’a ibadet etmek ve ahlaka uygun yaşamak"
+            ],
+            "dogruCevap": "Allah’a ibadet etmek ve ahlaka uygun yaşamak"
+          },
+          {
+            "soru": "İslam’da Allah’ın insanları affetmesiyle ilgili hangi özellik vurgulanır?",
+            "secenekler": [
+              "Allah'ın her zaman bağışlayıcı ve merhametli olması",
+              "Allah'ın affetmesi için yalnızca bir dua yeterlidir",
+              "Allah’ın affetmesi için çok para harcamak gerekir",
+              "Affetme, sadece belirli bir zaman diliminde mümkündür"
+            ],
+            "dogruCevap": "Allah'ın her zaman bağışlayıcı ve merhametli olması"
+          },
+          {
+            "soru": "İslam’a göre Allah’a iman etmek, insan hayatında neyi ifade eder?",
+            "secenekler": [
+              "Yalnızca bir görev",
+              "Dünya hayatı için bir rehber",
+              "Sadece ahlaki kuralları izlemek",
+              "Kötü bir durumdan korunma"
+            ],
+            "dogruCevap": "Dünya hayatı için bir rehber"
+          },
+          {
+            "soru": "İslam’a göre, Allah’ın insanlara olan ilgisini gösteren bir ayet nedir?",
+            "secenekler": [
+              "Allah her şeye kadirdir",
+              "Allah insanları affeder",
+              "Allah, insanlara yakın olandır",
+              "İman edenlere rahmet vardır"
+            ],
+            "dogruCevap": "Allah, insanlara yakın olandır"
+          },
+          {
+            "soru": "İslam’a göre, Allah’ın yaratma amacına karşı insanın görevi nedir?",
+            "secenekler": [
+              "Dünyada her şeyin sahibi olmak",
+              "İbadet etmek ve Allah’a hizmet etmek",
+              "Toplumda en güçlü olmak",
+              "Sadece kendi çıkarlarını düşünmek"
+            ],
+            "dogruCevap": "İbadet etmek ve Allah’a hizmet etmek"
+          },
+          {
+            "soru": "İslam’a göre Allah’a olan inanç, insanın hangi yönlerini etkiler?",
+            "secenekler": [
+              "Sadece fiziksel sağlığı",
+              "Sadece ruhsal durumunu",
+              "Ahlaki, sosyal ve ruhsal yönlerini",
+              "Fakat sadece yaşam standartlarını"
+            ],
+            "dogruCevap": "Ahlaki, sosyal ve ruhsal yönlerini"
+          },
+          {
+            "soru": "İslam’a göre, Allah ile olan ilişkiyi güçlendirmek için insanın en önemli çabası nedir?",
+            "secenekler": [
+              "İnsanların sadece dini kurallara uyması",
+              "Dünya malına odaklanmak",
+              "Allah’a gönülden dua ve ibadetle yaklaşmak",
+              "Her zaman başarılı olmak"
+            ],
+            "dogruCevap": "Allah’a gönülden dua ve ibadetle yaklaşmak"
+          },
+          {
+            "soru": "İslam’a göre Allah, insanlara hangi değerleri öğretmiştir?",
+            "secenekler": [
+              "Zenginlik ve şöhret",
+              "Adalet, dürüstlük, sabır",
+              "Bütün insanların eşit olduğunu",
+              "Sadece kadınlara saygı gösterilmesi gerektiğini"
+            ],
+            "dogruCevap": "Adalet, dürüstlük, sabır"
+          },
+          {
+            "soru": "İslam’a göre, Allah’ın insana karşı sorumluluğu nedir?",
+            "secenekler": [
+              "İnsanları eğitmek",
+              "Her an insanları korumak",
+              "İnsanların her ihtiyacını karşılamak",
+              "İnsanları sorumlu tutmak"
+            ],
+            "dogruCevap": "Her an insanları korumak"
+          },
+          {
+            "soru": "İslam’a göre, Allah’a inanmak insana ne sağlar?",
+            "secenekler": [
+              "Dünyada rahat bir yaşam",
+              "Allah’ın rızasını ve rahmetini kazanma",
+              "Zenginlik ve başarı",
+              "İnsanları yönetme yeteneği"
+            ],
+            "dogruCevap": "Allah’ın rızasını ve rahmetini kazanma"
+          },
+          {
+            "soru": "İslam’a göre, Allah insanları neden test eder?",
+            "secenekler": [
+              "Onları yok etmek için",
+              "İmanlarını ve sabırlarını ölçmek için",
+              "Onlara acı çektirmek için",
+              "Onları daha güçlü hale getirmek için"
+            ],
+            "dogruCevap": "İmanlarını ve sabırlarını ölçmek için"
+          },
+          {
+            "soru": "İslam’a göre, Allah’a yapılan dua ne zaman kabul edilir?",
+            "secenekler": [
+              "Her zaman",
+              "Sadece akşam namazı sırasında",
+              "Sadaka verildiğinde",
+              "İnançlı olanların duaları kabul edilir"
+            ],
+            "dogruCevap": "Her zaman"
+          }
+        ],
+        "Hz. Muhammed (S.A.V)" : [
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in doğumu hangi şehirde gerçekleşmiştir?",
+            "secenekler": [
+              "Mekke",
+              "Medine",
+              "Taif",
+              "Küfe"
+            ],
+            "dogruCevap": "Mekke"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V) hangi yıl doğmuştur?",
+            "secenekler": [
+              "570",
+              "565",
+              "590",
+              "600"
+            ],
+            "dogruCevap": "570"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in annesinin adı nedir?",
+            "secenekler": [
+              "Aminah",
+              "Hala",
+              "Fatma",
+              "Hafsa"
+            ],
+            "dogruCevap": "Aminah"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in babasının adı nedir?",
+            "secenekler": [
+              "Abdullah",
+              "Abu Talib",
+              "Hasan",
+              "Ali"
+            ],
+            "dogruCevap": "Abdullah"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in peygamberlik görevi kaç yaşında başlamıştır?",
+            "secenekler": [
+              "25",
+              "30",
+              "40",
+              "50"
+            ],
+            "dogruCevap": "40"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V) hangi dağda ilk vahyi almıştır?",
+            "secenekler": [
+              "Cebel-i Nur",
+              "Cebel-i Hira",
+              "Cebel-i Tûr",
+              "Cebel-i Uhud"
+            ],
+            "dogruCevap": "Cebel-i Hira"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in ilk eşinin adı nedir?",
+            "secenekler": [
+              "Aişe",
+              "Hatice",
+              "Zeynep",
+              "Safiye"
+            ],
+            "dogruCevap": "Hatice"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in en yakın kuzeni kimdir?",
+            "secenekler": [
+              "Ali",
+              "Ebu Süfyan",
+              "Abdullah",
+              "Abu Talib"
+            ],
+            "dogruCevap": "Ali"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V) hangi savaşta başkumandan olarak yer almıştır?",
+            "secenekler": [
+              "Bedir",
+              "Uhud",
+              "Hendek",
+              "Küba"
+            ],
+            "dogruCevap": "Bedir"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V) Medine'ye ne zaman hicret etmiştir?",
+            "secenekler": [
+              "622",
+              "615",
+              "630",
+              "610"
+            ],
+            "dogruCevap": "622"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in vefat ettiği yer neresidir?",
+            "secenekler": [
+              "Mekke",
+              "Medine",
+              "Taif",
+              "Küfe"
+            ],
+            "dogruCevap": "Medine"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in en önemli mucizelerinden biri nedir?",
+            "secenekler": [
+              "Kur'an-ı Kerim",
+              "Birkaç parça taşın havada süzülmesi",
+              "İsa (A.S)'ın geri gelmesi",
+              "Denizin ikiye yarılması"
+            ],
+            "dogruCevap": "Kur'an-ı Kerim"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in kızı kimdir?",
+            "secenekler": [
+              "Zeynep",
+              "Fatma",
+              "Aişe",
+              "Rukiyye"
+            ],
+            "dogruCevap": "Fatma"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V) hangi yıl hicret etmiştir?",
+            "secenekler": [
+              "610",
+              "622",
+              "630",
+              "631"
+            ],
+            "dogruCevap": "622"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V) kaç yıl peygamberlik yapmıştır?",
+            "secenekler": [
+              "10 yıl",
+              "13 yıl",
+              "23 yıl",
+              "25 yıl"
+            ],
+            "dogruCevap": "23 yıl"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in en çok sevdiği eşinin adı kimdir?",
+            "secenekler": [
+              "Aişe",
+              "Hatice",
+              "Zeynep",
+              "Fatma"
+            ],
+            "dogruCevap": "Aişe"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V) hangi gece Miraç’a çıkmıştır?",
+            "secenekler": [
+              "Berat Gecesi",
+              "Ramazan Gecesi",
+              "Kadir Gecesi",
+              "Miraç Gecesi"
+            ],
+            "dogruCevap": "Miraç Gecesi"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V) İslam’ı ilk kime tebliğ etmiştir?",
+            "secenekler": [
+              "Ebu Bekir",
+              "Hatice",
+              "Ali",
+              "Zeyd"
+            ],
+            "dogruCevap": "Hatice"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in en önemli öğretilerinden biri nedir?",
+            "secenekler": [
+              "İhlas ve samimiyet",
+              "Kişisel çıkarları maksimize etmek",
+              "İnsanların sadece kendilerini düşünmesi",
+              "İslam’a karşı olanlarla savaşmak"
+            ],
+            "dogruCevap": "İhlas ve samimiyet"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in en bilinen mucizesi nedir?",
+            "secenekler": [
+              "Kur'an-ı Kerim",
+              "Yeryüzünün suyla kaplanması",
+              "Taşların konuşması",
+              "Ölülerin dirilmesi"
+            ],
+            "dogruCevap": "Kur'an-ı Kerim"
+          },
+          {
+            "soru": "Hz. Muhammed (S.A.V)'in en önemli hadisi hangisidir?",
+            "secenekler": [
+              "Bismillah",
+              "La ilahe illallah",
+              "Sizin en hayırlınız, insanlara faydalı olandır",
+              "Elhamdülillah"
+            ],
+            "dogruCevap": "Sizin en hayırlınız, insanlara faydalı olandır"
+          }
+        ],
+        "Vahiy ve Akıl" : [
+          {
+            "soru": "Vahiy nedir?",
+            "secenekler": [
+              "Tanrı'dan insanlara gönderilen mesajlar",
+              "İnsanın mantık yoluyla keşfettiği bilgiler",
+              "Doğal olaylardan öğrenilen bilgiler",
+              "Bilimsel araştırmalara dayanan bilgiler"
+            ],
+            "dogruCevap": "Tanrı'dan insanlara gönderilen mesajlar"
+          },
+          {
+            "soru": "Akıl ve vahiy arasındaki ilişki nasıl tanımlanır?",
+            "secenekler": [
+              "Akıl vahiyden bağımsız çalışır",
+              "Vahiy, akıla ters düşer",
+              "Akıl ve vahiy birbirini tamamlar",
+              "Akıl, vahiyden önce gelir"
+            ],
+            "dogruCevap": "Akıl ve vahiy birbirini tamamlar"
+          },
+          {
+            "soru": "Vahiy, insanlara hangi aracılığıyla iletilmiştir?",
+            "secenekler": [
+              "Felsefi düşünceler",
+              "Mucizeler",
+              "Peygamberler aracılığıyla",
+              "Bilimsel çalışmalar"
+            ],
+            "dogruCevap": "Peygamberler aracılığıyla"
+          },
+          {
+            "soru": "Vahiy ve akıl arasındaki en temel fark nedir?",
+            "secenekler": [
+              "Vahiy, insan aklının sınırlarını aşar",
+              "Akıl, vahyi reddeder",
+              "Vahiy sadece kitaplarda yer alır",
+              "Akıl, vahiyden daha doğrudur"
+            ],
+            "dogruCevap": "Vahiy, insan aklının sınırlarını aşar"
+          },
+          {
+            "soru": "Vahiy, hangi süreçle insanlara ulaşır?",
+            "secenekler": [
+              "Sürekli bir evrimsel süreç",
+              "Peygamberlere indirilen ilahi bir mesaj",
+              "Bilimsel keşiflerle",
+              "Doğal olaylarla"
+            ],
+            "dogruCevap": "Peygamberlere indirilen ilahi bir mesaj"
+          },
+          {
+            "soru": "Vahiy ve akıl, hangi alanda birbirini destekler?",
+            "secenekler": [
+              "Din ve bilim",
+              "Akıl, vahyi her zaman reddeder",
+              "Vahiy, akılsız bir kabul gerektirir",
+              "Vahiy, sadece akıldan alınır"
+            ],
+            "dogruCevap": "Din ve bilim"
+          },
+          {
+            "soru": "Vahiy, akıl yoluyla anlaşılabilir mi?",
+            "secenekler": [
+              "Evet, vahiy her zaman mantıklı bir şekilde açıklanabilir",
+              "Hayır, vahiy akılla açıklanamaz",
+              "Evet, akıl yalnızca vahyin anlamını belirler",
+              "Hayır, vahiy insan aklının ötesindedir"
+            ],
+            "dogruCevap": "Hayır, vahiy insan aklının ötesindedir"
+          },
+          {
+            "soru": "Kur'an'a göre vahiy nedir?",
+            "secenekler": [
+              "İnsanların akıl yoluyla elde ettiği bilgiler",
+              "Allah'ın peygamberlerine gönderdiği ilahi mesaj",
+              "Bilimsel gerçeklerin keşfi",
+              "Doğal olayların açıklanması"
+            ],
+            "dogruCevap": "Allah'ın peygamberlerine gönderdiği ilahi mesaj"
+          },
+          {
+            "soru": "Vahiy hangi yollarla insanlara ulaşmıştır?",
+            "secenekler": [
+              "Peygamberlere rüyalarla",
+              "Peygamberlere ilahi kitaplarla",
+              "Peygamberlere doğal olaylarla",
+              "Peygamberlere akıl yoluyla"
+            ],
+            "dogruCevap": "Peygamberlere ilahi kitaplarla"
+          },
+          {
+            "soru": "Vahiy, sadece akıl yoluyla mı kabul edilir?",
+            "secenekler": [
+              "Evet, vahiy sadece akıl yoluyla kabul edilir",
+              "Hayır, vahiy akıldan bağımsızdır",
+              "Evet, vahiy her zaman akıl ile birlikte gelir",
+              "Hayır, akıl vahiy için bir ölçüt değildir"
+            ],
+            "dogruCevap": "Hayır, vahiy akıldan bağımsızdır"
+          },
+          {
+            "soru": "Vahiy ve akıl, hangi durumlarda çelişebilir?",
+            "secenekler": [
+              "Vahiy her zaman akıl ile uyumludur",
+              "Vahiy, akıl ile çelişmez",
+              "Vahiy ve akıl bazen çelişebilir",
+              "Vahiy, her zaman akıl ile ters düşer"
+            ],
+            "dogruCevap": "Vahiy ve akıl bazen çelişebilir"
+          },
+          {
+            "soru": "Vahiy, insanlara hangi amaca hizmet eder?",
+            "secenekler": [
+              "İnsanları sadece dünyevi işleri hakkında yönlendirmek",
+              "İnsanları akıl yoluyla doğru yolda ilerlemeye yönlendirmek",
+              "İnsanları dini ve manevi olarak doğruya yönlendirmek",
+              "İnsanları sadece akıl yoluyla yönlendirmek"
+            ],
+            "dogruCevap": "İnsanları dini ve manevi olarak doğruya yönlendirmek"
+          },
+          {
+            "soru": "Vahiy, insanların aklını zorlayabilir mi?",
+            "secenekler": [
+              "Evet, vahiy her zaman akılla uyumludur",
+              "Hayır, vahiy insan aklını zorlamaz",
+              "Evet, vahiy bazı insanlar için akıl yoluyla kabul edilemez",
+              "Hayır, vahiy her zaman kolayca anlaşılır"
+            ],
+            "dogruCevap": "Evet, vahiy bazı insanlar için akıl yoluyla kabul edilemez"
+          },
+          {
+            "soru": "Vahiy ve akıl arasındaki ilişkiyi en iyi tanımlayan yaklaşım nedir?",
+            "secenekler": [
+              "Akıl, vahyi açıklamakta yetersizdir",
+              "Vahiy, akıla tamamen ters düşer",
+              "Akıl ve vahiy birbirini tamamlar",
+              "Akıl, vahiyden bağımsızdır"
+            ],
+            "dogruCevap": "Akıl ve vahiy birbirini tamamlar"
+          },
+          {
+            "soru": "Vahiy ile akıl arasındaki farklar nelerdir?",
+            "secenekler": [
+              "Vahiy, Tanrı'dan gelir, akıl ise insana aittir",
+              "Akıl Tanrı'dan gelir, vahiy ise insana aittir",
+              "Vahiy ve akıl tamamen aynı şeydir",
+              "Akıl vahiyden daha üstündür"
+            ],
+            "dogruCevap": "Vahiy, Tanrı'dan gelir, akıl ise insana aittir"
+          },
+          {
+            "soru": "Vahiy, insan aklını nasıl etkiler?",
+            "secenekler": [
+              "Vahiy, insan aklını değiştirmez",
+              "Vahiy, insan aklını doğruya yönlendirir",
+              "Vahiy, insan aklını engeller",
+              "Vahiy, insan aklını tamamen yönlendirir"
+            ],
+            "dogruCevap": "Vahiy, insan aklını doğruya yönlendirir"
+          },
+          {
+            "soru": "Vahiy ve akıl, hangi konuda insanlara rehberlik eder?",
+            "secenekler": [
+              "Sadece dünyevi başarı",
+              "Sadece manevi gelişim",
+              "Sadece bilimsel başarı",
+              "Hem manevi hem de dünyevi gelişim"
+            ],
+            "dogruCevap": "Hem manevi hem de dünyevi gelişim"
+          },
+          {
+            "soru": "Vahiy ve akıl arasındaki dengeyi nasıl kurarız?",
+            "secenekler": [
+              "Vahyi her zaman akılla sınırlandırarak",
+              "Vahyi akıl yoluyla tamamen reddederek",
+              "Vahiy ve akıl birlikte çalışarak",
+              "Akıl, vahiyden bağımsız olarak kullanılmalıdır"
+            ],
+            "dogruCevap": "Vahiy ve akıl birlikte çalışarak"
+          },
+          {
+            "soru": "Vahiy, hangi konuda insanlara rehberlik etmede önemlidir?",
+            "secenekler": [
+              "Sadece bilimsel keşiflerde",
+              "Sadece maddi başarılarda",
+              "Sadece manevi ve ahlaki değerlerde",
+              "Sadece günlük hayatı düzenlemekte"
+            ],
+            "dogruCevap": "Sadece manevi ve ahlaki değerlerde"
+          }
+        ]
+        
+        
       }
     }
   }
