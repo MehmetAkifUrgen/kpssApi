@@ -1913,6 +1913,602 @@
           "dogruCevap": "Türk Eğitim Vakfı"
         }
       ],
+      "Türkiye Yüzyılı Maarif Modelinin Genel Yapısı ve Temelleri" : [
+        {
+          "soru": "Türkiye Yüzyılı Maarif Modeli’nin temel amacı nedir?",
+          "secenekler": [
+            "Ders saatlerini azaltmak",
+            "Eğitimde milli ve manevi değerlere dayalı bir model oluşturmak",
+            "Eğitimin sadece akademik yönünü geliştirmek",
+            "Teknolojik araçlara bağımlılığı artırmak"
+          ],
+          "dogruCevap": "Eğitimde milli ve manevi değerlere dayalı bir model oluşturmak"
+        },
+        {
+          "soru": "Maarif Modeli’nde teknoloji kullanımı nasıl bir rol oynar?",
+          "secenekler": [
+            "Sadece uzaktan eğitimde kullanılır",
+            "Eğitimden tamamen bağımsızdır",
+            "Eğitimi destekleyen bir araçtır",
+            "Teknolojik bağımlılığı artırır"
+          ],
+          "dogruCevap": "Eğitimi destekleyen bir araçtır"
+        },
+        {
+          "soru": "Maarif Modeli’nde hangi unsur ön plandadır?",
+          "secenekler": [
+            "Evrensel değerler ve milli hassasiyetlerin dengesi",
+            "Yalnızca bilimsel eğitim",
+            "Sadece teorik bilgi aktarımı",
+            "Eğitimde bireysel başarı"
+          ],
+          "dogruCevap": "Evrensel değerler ve milli hassasiyetlerin dengesi"
+        },
+        {
+          "soru": "Maarif Modeli’nin temel hedeflerinden biri aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Eğitimde kaliteyi artırmak",
+            "Müfredatı sadeleştirmek",
+            "Eğitimi sadece sınav odaklı hale getirmek",
+            "Teknolojik araçları kaldırmak"
+          ],
+          "dogruCevap": "Eğitimde kaliteyi artırmak"
+        },
+        {
+          "soru": "Maarif Modeli’nde ahlaki eğitim hangi boyutta ele alınır?",
+          "secenekler": [
+            "İhmal edilir",
+            "Sadece bireysel düzeyde",
+            "Eğitimin merkezinde",
+            "Akademik eğitimin önünde engel olarak"
+          ],
+          "dogruCevap": "Eğitimin merkezinde"
+        },
+        {
+          "soru": "Maarif Modeli’nde öğretmenlerin rolü nedir?",
+          "secenekler": [
+            "Sadece akademik bilgi aktarmak",
+            "Öğrencilerin potansiyellerini ortaya çıkarmak",
+            "Müfredat dışına çıkmamak",
+            "Teknoloji ile ders anlatmak"
+          ],
+          "dogruCevap": "Öğrencilerin potansiyellerini ortaya çıkarmak"
+        },
+        {
+          "soru": "Maarif Modeli’ne göre, öğrenciler hangi şekilde yetiştirilmelidir?",
+          "secenekler": [
+            "Ezberci bireyler olarak",
+            "Milli ve manevi değerleri içselleştirmiş bireyler olarak",
+            "Teknolojik araçlara bağımlı bireyler olarak",
+            "Tamamen bireysel başarı odaklı"
+          ],
+          "dogruCevap": "Milli ve manevi değerleri içselleştirmiş bireyler olarak"
+        },
+        {
+          "soru": "Maarif Modeli hangi alanlarda değişiklik öngörmektedir?",
+          "secenekler": [
+            "Sadece teknolojik altyapıda",
+            "Müfredatta, öğretmen eğitiminde ve öğrenci değerlendirmesinde",
+            "Yalnızca ders saatlerinde",
+            "Sınav sisteminde köklü değişiklik olmadan"
+          ],
+          "dogruCevap": "Müfredatta, öğretmen eğitiminde ve öğrenci değerlendirmesinde"
+        },
+        {
+          "soru": "Maarif Modeli, öğrenci merkezli bir eğitim anlayışını nasıl teşvik eder?",
+          "secenekler": [
+            "Öğrencilerin pasif dinleyici olmasıyla",
+            "Öğrencilerin bireysel öğrenme süreçlerini destekleyerek",
+            "Tamamen sınav odaklı bir sistemle",
+            "Öğrencilerin sadece teknolojiye yönlendirilmesiyle"
+          ],
+          "dogruCevap": "Öğrencilerin bireysel öğrenme süreçlerini destekleyerek"
+        },
+        {
+          "soru": "Maarif Modeli’nin eğitimde öngördüğü en önemli yenilik nedir?",
+          "secenekler": [
+            "Eğitimdeki tüm dijital araçların kaldırılması",
+            "Değer temelli eğitimi merkeze alması",
+            "Sadece bilimsel araştırmalara yönelmesi",
+            "Tüm müfredatın iptal edilmesi"
+          ],
+          "dogruCevap": "Değer temelli eğitimi merkeze alması"
+        },
+        {
+          "soru": "Maarif Modeli’ne göre, bireysel başarı nasıl ele alınır?",
+          "secenekler": [
+            "Toplumun genel faydasına hizmet edecek şekilde",
+            "Tamamen bireysel odaklı",
+            "Eğitim sistemi dışında tutulur",
+            "Yalnızca akademik başarı olarak"
+          ],
+          "dogruCevap": "Toplumun genel faydasına hizmet edecek şekilde"
+        },
+        {
+          "soru": "Maarif Modeli’nin değer temelli eğitimi hangi kavramla ilişkilidir?",
+          "secenekler": [
+            "Ahlaki ve toplumsal sorumluluk",
+            "Tamamen bilimsel gelişme",
+            "Yalnızca sınav başarısı",
+            "Bireysel rekabet"
+          ],
+          "dogruCevap": "Ahlaki ve toplumsal sorumluluk"
+        },
+        {
+          "soru": "Maarif Modeli’nde yer alan eğitimin toplumsal faydası nedir?",
+          "secenekler": [
+            "Toplumun değerlerinden uzaklaşmayı sağlar",
+            "Eğitimde bireysel başarıyı öne çıkarır",
+            "Toplumun refahını artırmayı hedefler",
+            "Eğitimde rekabeti teşvik eder"
+          ],
+          "dogruCevap": "Toplumun refahını artırmayı hedefler"
+        },
+        {
+          "soru": "Maarif Modeli’nde öğretmen eğitimi nasıl ele alınır?",
+          "secenekler": [
+            "Yalnızca müfredat bilgisi ile sınırlandırılır",
+            "Hem akademik hem de değer temelli gelişimi destekler",
+            "Sadece teknolojik eğitimle sınırlıdır",
+            "Eğitimin önemsiz bir parçasıdır"
+          ],
+          "dogruCevap": "Hem akademik hem de değer temelli gelişimi destekler"
+        },
+        {
+          "soru": "Maarif Modeli hangi tür bir müfredat anlayışı benimser?",
+          "secenekler": [
+            "Ezberci müfredat",
+            "Milli, manevi ve bilimsel değerlere dayalı",
+            "Tamamen dijital içerikli",
+            "Teknolojik bağımlılığı artıran"
+          ],
+          "dogruCevap": "Milli, manevi ve bilimsel değerlere dayalı"
+        },
+        {
+          "soru": "Maarif Modeli’nin gelecekteki hedefi nedir?",
+          "secenekler": [
+            "Eğitimi küresel standartlara uyarlamak",
+            "Milli ve evrensel değerleri sentezleyen bireyler yetiştirmek",
+            "Eğitimi yalnızca dijitalleştirmek",
+            "Tüm eğitim sistemini kaldırmak"
+          ],
+          "dogruCevap": "Milli ve evrensel değerleri sentezleyen bireyler yetiştirmek"
+        },
+        {
+          "soru": "Maarif Modeli’nin temelinde yer alan öğrenci anlayışı nedir?",
+          "secenekler": [
+            "Pasif dinleyici",
+            "Milli ve manevi değerleri benimsemiş aktif birey",
+            "Sadece sınav odaklı öğrenci",
+            "Tamamen bağımsız birey"
+          ],
+          "dogruCevap": "Milli ve manevi değerleri benimsemiş aktif birey"
+        },
+        {
+          "soru": "Maarif Modeli, uluslararası eğitim modellerinden nasıl farklılaşır?",
+          "secenekler": [
+            "Eğitimi tamamen sınav odaklı yapar",
+            "Milli ve manevi değerleri merkeze alır",
+            "Küresel değerleri tamamen reddeder",
+            "Bilimsel gelişmeleri dışlar"
+          ],
+          "dogruCevap": "Milli ve manevi değerleri merkeze alır"
+        },
+        {
+          "soru": "Maarif Modeli’nde öğrenme süreçleri nasıl desteklenir?",
+          "secenekler": [
+            "Ezberci yöntemlerle",
+            "Deneyimsel ve proje tabanlı yaklaşımlarla",
+            "Sadece sınavlarla",
+            "Teknolojik bağımlılıkla"
+          ],
+          "dogruCevap": "Deneyimsel ve proje tabanlı yaklaşımlarla"
+        },
+        {
+          "soru": "Maarif Modeli, eğitimde hangi temel unsuru önemser?",
+          "secenekler": [
+            "Yalnızca teknolojik yenilikleri",
+            "Değerler eğitimi ve bilimsel düşünceyi",
+            "Sadece bireysel başarıyı",
+            "Eğitim saatlerini azaltmayı"
+          ],
+          "dogruCevap": "Değerler eğitimi ve bilimsel düşünceyi"
+        }
+      ] ,
+      "Eğitim ve Öğretimde Etik" : [
+        {
+          "soru": "Eğitim ve öğretimde etik ilkelerin temel amacı nedir?",
+          "secenekler": [
+            "Öğretmenlerin sınavlarda başarı oranını artırmak",
+            "Eğitim süreçlerinde adalet, eşitlik ve saygıyı sağlamak",
+            "Müfredatı sadeleştirmek",
+            "Öğrencileri sadece akademik başarıya yönlendirmek"
+          ],
+          "dogruCevap": "Eğitim süreçlerinde adalet, eşitlik ve saygıyı sağlamak"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi eğitimde etik dışı bir davranıştır?",
+          "secenekler": [
+            "Öğrencilere ayrımcılık yapmak",
+            "Öğrencilerin gelişimini desteklemek",
+            "Adil not değerlendirmesi yapmak",
+            "Eğitim materyallerini uygun şekilde kullanmak"
+          ],
+          "dogruCevap": "Öğrencilere ayrımcılık yapmak"
+        },
+        {
+          "soru": "Bir öğretmenin etik açıdan en temel sorumluluğu aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Müfredatı eksiksiz tamamlamak",
+            "Öğrencilere karşı tarafsız ve adil olmak",
+            "Öğrencileri sadece sınavlara hazırlamak",
+            "Okul yönetiminin kararlarını sorgulamadan uygulamak"
+          ],
+          "dogruCevap": "Öğrencilere karşı tarafsız ve adil olmak"
+        },
+        {
+          "soru": "Eğitim ve öğretimde etik ilkeler hangi durumu destekler?",
+          "secenekler": [
+            "Öğrenciler arası rekabetin artırılmasını",
+            "Eğitimde şeffaflık ve dürüstlüğün sağlanmasını",
+            "Öğretmenlerin otoritesinin artırılmasını",
+            "Akademik başarıya ulaşmada baskı yapılmasını"
+          ],
+          "dogruCevap": "Eğitimde şeffaflık ve dürüstlüğün sağlanmasını"
+        },
+        {
+          "soru": "Aşağıdaki davranışlardan hangisi bir öğretmenin etik kurallara uygun hareket ettiğini gösterir?",
+          "secenekler": [
+            "Kendi görüşlerini öğrencilere dayatması",
+            "Öğrencilerin bireysel farklılıklarına saygı göstermesi",
+            "Sınıfta disiplin için ceza yöntemlerini kullanması",
+            "Sadece başarılı öğrencilerle ilgilenmesi"
+          ],
+          "dogruCevap": "Öğrencilerin bireysel farklılıklarına saygı göstermesi"
+        },
+        {
+          "soru": "Eğitim ve öğretimde etik ihlaller genellikle hangi duruma yol açar?",
+          "secenekler": [
+            "Öğrenci başarısının artmasına",
+            "Eğitimde güven kaybına",
+            "Eğitimin daha etkili olmasına",
+            "Öğretmen-öğrenci ilişkisinin güçlenmesine"
+          ],
+          "dogruCevap": "Eğitimde güven kaybına"
+        },
+        {
+          "soru": "Eğitim ve öğretimde etik değerlere uygun davranış geliştirmek için aşağıdakilerden hangisi önemlidir?",
+          "secenekler": [
+            "Kendi çıkarlarını ön planda tutmak",
+            "Etik eğitim programlarına katılmak",
+            "Öğrencilere baskı uygulamak",
+            "Sadece akademik başarıya odaklanmak"
+          ],
+          "dogruCevap": "Etik eğitim programlarına katılmak"
+        },
+        {
+          "soru": "Eğitimde etik ilkeler doğrultusunda bir öğretmenin öğrencilerle ilişkisi nasıl olmalıdır?",
+          "secenekler": [
+            "Sadece başarılı öğrencilerle iletişim kurmalıdır",
+            "Öğrencilerle eşit, adil ve saygılı bir ilişki içinde olmalıdır",
+            "Öğrencilerle tamamen mesafeli olmalıdır",
+            "Kendi değerlerini öğrencilere empoze etmelidir"
+          ],
+          "dogruCevap": "Öğrencilerle eşit, adil ve saygılı bir ilişki içinde olmalıdır"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi eğitimde etik kuralların ihlali sayılmaz?",
+          "secenekler": [
+            "Öğrencilere not verirken tarafsız olmak",
+            "Öğrencilere yönelik ayrımcılık yapmak",
+            "Eğitim materyallerini izinsiz kullanmak",
+            "Öğrencileri küçük düşürmek"
+          ],
+          "dogruCevap": "Öğrencilere not verirken tarafsız olmak"
+        },
+        {
+          "soru": "Bir öğretmenin etik değerlere uygun olarak meslektaşlarına karşı sorumluluğu nedir?",
+          "secenekler": [
+            "Meslektaşlarının hatalarını açıkça eleştirmek",
+            "Meslektaşlarına destek ve işbirliği içinde olmak",
+            "Kendi çalışmalarını meslektaşlarından gizlemek",
+            "Meslektaşlarının başarısını küçümsemek"
+          ],
+          "dogruCevap": "Meslektaşlarına destek ve işbirliği içinde olmak"
+        },
+        {
+          "soru": "Eğitim ve öğretimde etik değerlerin korunması için en önemli adım nedir?",
+          "secenekler": [
+            "Öğretmenlerin etik eğitimden geçirilmesi",
+            "Eğitim programlarının değiştirilmesi",
+            "Müfredat dışı etkinliklerin azaltılması",
+            "Sadece başarılı öğrencilere öncelik verilmesi"
+          ],
+          "dogruCevap": "Öğretmenlerin etik eğitimden geçirilmesi"
+        },
+        {
+          "soru": "Eğitimde etik kuralları ihlal eden bir durumun çözümü için aşağıdakilerden hangisi uygun bir yaklaşımdır?",
+          "secenekler": [
+            "Durumu görmezden gelmek",
+            "Şeffaflık ve hesap verebilirlik sağlamak",
+            "Sadece öğrencilere yüklemek",
+            "Sorunu gizli tutmak"
+          ],
+          "dogruCevap": "Şeffaflık ve hesap verebilirlik sağlamak"
+        },
+        {
+          "soru": "Eğitimde etik kurallar hangi kavramlarla doğrudan ilişkilidir?",
+          "secenekler": [
+            "Adalet, saygı ve güven",
+            "Baskı, otorite ve yaptırım",
+            "Rekabet, başarı ve üstünlük",
+            "Katılık, kontrol ve disiplin"
+          ],
+          "dogruCevap": "Adalet, saygı ve güven"
+        },
+        {
+          "soru": "Etik dışı davranışları önlemek için okul yönetimi hangi tedbirleri almalıdır?",
+          "secenekler": [
+            "Etik ihlalleri göz ardı etmek",
+            "Etik kurallar konusunda eğitimler düzenlemek",
+            "Öğrencilerin görüşlerini dikkate almamak",
+            "Sadece öğretmenleri denetlemek"
+          ],
+          "dogruCevap": "Etik kurallar konusunda eğitimler düzenlemek"
+        },
+        {
+          "soru": "Eğitimde etik değerlere sahip bir öğretmen hangi davranışı sergiler?",
+          "secenekler": [
+            "Öğrenciler arasında ayrım yapar",
+            "Derslere zamanında ve hazırlıklı girer",
+            "Öğrencilere baskı uygular",
+            "Sadece kendi alanına odaklanır"
+          ],
+          "dogruCevap": "Derslere zamanında ve hazırlıklı girer"
+        },
+        {
+          "soru": "Eğitimde etik, aşağıdaki hangi konuyu kapsamaz?",
+          "secenekler": [
+            "Müfredatın uygulanması",
+            "Öğrencilerin güvenliği",
+            "Öğretmen-öğrenci ilişkileri",
+            "Sosyal medya kullanım alışkanlıkları"
+          ],
+          "dogruCevap": "Sosyal medya kullanım alışkanlıkları"
+        },
+        {
+          "soru": "Eğitim ve öğretimde etik davranışların yaygınlaştırılması için kimlerin katkısı önemlidir?",
+          "secenekler": [
+            "Sadece okul müdürlerinin",
+            "Tüm eğitim paydaşlarının",
+            "Sadece öğretmenlerin",
+            "Sadece velilerin"
+          ],
+          "dogruCevap": "Tüm eğitim paydaşlarının"
+        },
+        {
+          "soru": "Bir öğretmenin meslek etiğine uygun davranması, hangi sonucu doğurur?",
+          "secenekler": [
+            "Eğitimde güven ortamını artırır",
+            "Öğrencilerin başarısız olmasına neden olur",
+            "Okulda disiplini zorlaştırır",
+            "Öğretmenin otoritesini zedeler"
+          ],
+          "dogruCevap": "Eğitimde güven ortamını artırır"
+        },
+        {
+          "soru": "Etik değerlerin korunması açısından okulda alınacak ilk önlem ne olmalıdır?",
+          "secenekler": [
+            "Etik ilkeler konusunda farkındalık çalışmaları yapılması",
+            "Eğitim saatlerinin artırılması",
+            "Sadece disiplin kurallarının sıkılaştırılması",
+            "Öğrencilerin yalnız bırakılması"
+          ],
+          "dogruCevap": "Etik ilkeler konusunda farkındalık çalışmaları yapılması"
+        },
+        {
+          "soru": "Eğitimde etik kurallar çerçevesinde öğrencilerle yapılmaması gereken davranış nedir?",
+          "secenekler": [
+            "Öğrencilerin mahremiyetine saygı göstermek",
+            "Öğrencilere adil bir şekilde yaklaşmak",
+            "Öğrencilere karşı önyargılı olmak",
+            "Öğrencilerin haklarını savunmak"
+          ],
+          "dogruCevap": "Öğrencilere karşı önyargılı olmak"
+        }
+      ]  ,
+      "Eğitim ve Öğretim Teknolojileri" : [
+        {
+          "soru": "Aşağıdakilerden hangisi eğitim teknolojilerinin temel amacıdır?",
+          "secenekler": [
+            "Öğrencilerin internet bağımlılığına yol açmak",
+            "Eğitim süreçlerini daha verimli ve etkili hale getirmek",
+            "Öğretmenlerin iş yükünü artırmak",
+            "Sadece teorik bilgilerin aktarılmasını sağlamak"
+          ],
+          "dogruCevap": "Eğitim süreçlerini daha verimli ve etkili hale getirmek"
+        },
+        {
+          "soru": "Eğitimde teknoloji kullanımı aşağıdaki alanlardan hangisini geliştirme amacına hizmet etmez?",
+          "secenekler": [
+            "Öğrencilerin eleştirel düşünme becerilerini",
+            "Öğrencilerin görsel ve işitsel algılarını",
+            "Öğrencilerin fiziksel dayanıklılıklarını",
+            "Öğrencilerin iletişim becerilerini"
+          ],
+          "dogruCevap": "Öğrencilerin fiziksel dayanıklılıklarını"
+        },
+        {
+          "soru": "Eğitim teknolojilerinin öğretmenler için sağladığı en büyük avantajlardan biri aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Öğretmenlerin iş yükünü artırmak",
+            "Sadece akademik derslerde kullanılmak",
+            "Ders materyallerini hızlıca hazırlayabilmek",
+            "Öğrencilerin bireysel sorunlarına odaklanmak"
+          ],
+          "dogruCevap": "Ders materyallerini hızlıca hazırlayabilmek"
+        },
+        {
+          "soru": "Bir öğretmenin sınıf içinde dijital araçları kullanmasının en önemli faydası nedir?",
+          "secenekler": [
+            "Öğrencileri daha fazla zorlamak",
+            "Eğitim sürecini çeşitlendirmek ve öğrencilerin ilgisini çekmek",
+            "Öğrencilerin sadece teknik bilgi edinmesini sağlamak",
+            "Öğrencilerin ekran başında daha fazla vakit geçirmesini sağlamak"
+          ],
+          "dogruCevap": "Eğitim sürecini çeşitlendirmek ve öğrencilerin ilgisini çekmek"
+        },
+        {
+          "soru": "Eğitim teknolojilerinin kullanımı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+          "secenekler": [
+            "Eğitim teknolojileri öğretmenin rolünü ortadan kaldırır.",
+            "Eğitimde teknoloji kullanımı öğrencilere daha fazla etkileşim imkanı sunar.",
+            "Teknoloji, öğretmenin öğrenciyi takip etmesini kolaylaştırır.",
+            "Teknolojik araçlar, öğretim süreçlerinin daha etkili ve verimli olmasına yardımcı olabilir."
+          ],
+          "dogruCevap": "Eğitim teknolojileri öğretmenin rolünü ortadan kaldırır."
+        },
+        {
+          "soru": "Aşağıdaki eğitim teknolojilerinden hangisi öğrencilerin birbirleriyle etkileşimde bulunmalarını sağlar?",
+          "secenekler": [
+            "E-posta",
+            "Video konferans uygulamaları",
+            "Öğretmenlerin yazılı raporları",
+            "Kapsamlı dijital ders kitapları"
+          ],
+          "dogruCevap": "Video konferans uygulamaları"
+        },
+        {
+          "soru": "Eğitimde teknolojinin kullanımı ile ilgili aşağıdaki durumların hangisi öğrenciye katkı sağlamaz?",
+          "secenekler": [
+            "Derslerin daha dinamik ve ilgi çekici hale gelmesi",
+            "Öğrencilerin pasif hale gelmesi",
+            "Öğrencilerin dijital okuryazarlıklarını geliştirmesi",
+            "Bireysel öğrenme süreçlerinin desteklenmesi"
+          ],
+          "dogruCevap": "Öğrencilerin pasif hale gelmesi"
+        },
+        {
+          "soru": "Eğitimde teknoloji kullanımını artırmak için hangi strateji en etkili olabilir?",
+          "secenekler": [
+            "Teknolojik araçların sadece öğretmenler tarafından kullanılması",
+            "Öğrencilere teknolojiyi öğretmek ve onun doğru kullanımı hakkında eğitim vermek",
+            "Teknolojiyi sadece sınıf dışı etkinliklerde kullanmak",
+            "Öğrencilere teknoloji kullanımına dair kısıtlamalar getirmek"
+          ],
+          "dogruCevap": "Öğrencilere teknolojiyi öğretmek ve onun doğru kullanımı hakkında eğitim vermek"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi eğitimde kullanılan teknolojilerin türlerinden biri değildir?",
+          "secenekler": [
+            "Sanal gerçeklik (VR)",
+            "E-posta",
+            "Elektronik kitaplar (E-book)",
+            "Dijital oyunlar"
+          ],
+          "dogruCevap": "E-posta"
+        },
+        {
+          "soru": "Eğitimde kullanılan teknolojilerin en önemli amacı nedir?",
+          "secenekler": [
+            "Öğrencileri derslerden uzaklaştırmak",
+            "Öğrenme süreçlerini hızlandırmak ve öğrencilere erişilebilirlik sağlamak",
+            "Öğretmenlerin yalnızca bireysel becerilerini geliştirmesi",
+            "Sadece sınavları kolaylaştırmak"
+          ],
+          "dogruCevap": "Öğrenme süreçlerini hızlandırmak ve öğrencilere erişilebilirlik sağlamak"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi eğitimde teknolojinin kullanımı ile ilgili etik bir sorunu temsil eder?",
+          "secenekler": [
+            "Dijital araçlar aracılığıyla öğrencilere eşit fırsatlar sunmak",
+            "Öğrencilerin kişisel verilerinin korunmaması",
+            "Öğrencilerin eğitim materyallerine erişim sağlaması",
+            "Öğrencilerin çevrimiçi derslere katılımı"
+          ],
+          "dogruCevap": "Öğrencilerin kişisel verilerinin korunmaması"
+        },
+        {
+          "soru": "Eğitimde teknoloji kullanımının en büyük zorluklarından biri aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Teknolojik araçların kolayca erişilebilir olması",
+            "Öğretmenlerin teknolojiye yeterince hakim olmamaları",
+            "Dijital araçların düşük maliyetli olması",
+            "Öğrencilerin teknolojiye olan ilgisi"
+          ],
+          "dogruCevap": "Öğretmenlerin teknolojiye yeterince hakim olmamaları"
+        },
+        {
+          "soru": "Aşağıdaki teknolojilerden hangisi öğretmenlerin sınıf yönetimi becerilerini geliştirmede kullanılır?",
+          "secenekler": [
+            "Sosyal medya",
+            "E-posta",
+            "Sınıf yönetimi yazılımları",
+            "Sanal gerçeklik (VR)"
+          ],
+          "dogruCevap": "Sınıf yönetimi yazılımları"
+        },
+        {
+          "soru": "Aşağıdaki araçlardan hangisi, eğitimde öğrenci etkileşimini artırmak amacıyla kullanılabilir?",
+          "secenekler": [
+            "E-posta",
+            "Forumlar ve çevrimiçi tartışma grupları",
+            "Sunum programları",
+            "Kapsamlı ders kitapları"
+          ],
+          "dogruCevap": "Forumlar ve çevrimiçi tartışma grupları"
+        },
+        {
+          "soru": "Eğitimde teknolojinin etkin bir şekilde kullanılabilmesi için öğretmenlerin hangi beceriyi geliştirmesi gerekir?",
+          "secenekler": [
+            "Dijital okuryazarlık",
+            "Yalnızca yazılı iletişim becerisi",
+            "Sadece matematiksel beceriler",
+            "Dijital bağımlılık"
+          ],
+          "dogruCevap": "Dijital okuryazarlık"
+        },
+        {
+          "soru": "Hangi dijital araç, öğrencilere bireysel öğrenme deneyimlerini destekleyebilir?",
+          "secenekler": [
+            "E-posta",
+            "Sanal sınıflar",
+            "Web tabanlı uygulamalar",
+            "Online testler"
+          ],
+          "dogruCevap": "Sanal sınıflar"
+        },
+        {
+          "soru": "Eğitimde teknolojinin kullanımı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+          "secenekler": [
+            "Teknoloji, öğrencilere daha fazla öğrenme fırsatı sunar.",
+            "Eğitim teknolojileri, öğretmenin rolünü azaltır.",
+            "Eğitimde teknoloji, öğrencilerin bilgiye erişimini artırır.",
+            "Teknoloji, öğrenme süreçlerini daha etkili hale getirebilir."
+          ],
+          "dogruCevap": "Eğitim teknolojileri, öğretmenin rolünü azaltır."
+        },
+        {
+          "soru": "Eğitimde teknolojinin geleceği ile ilgili aşağıdakilerden hangisi beklenen bir gelişmedir?",
+          "secenekler": [
+            "Öğrencilerin eğitim süreçlerinden uzaklaşması",
+            "Dijital okuryazarlığın daha yaygın hale gelmesi",
+            "Sadece yazılı materyallere dönüş",
+            "Öğretmenlerin dijital teknolojilerden uzaklaşması"
+          ],
+          "dogruCevap": "Dijital okuryazarlığın daha yaygın hale gelmesi"
+        },
+        {
+          "soru": "Eğitimde kullanılan teknolojinin sağladığı en büyük avantaj nedir?",
+          "secenekler": [
+            "Eğitimdeki çeşitliliği ve erişilebilirliği artırmak",
+            "Öğretmenlerin yükünü azaltmak",
+            "Öğrencilerin ekran bağımlılığını artırmak",
+            "Sadece görsel materyallerin kullanılmasını sağlamak"
+          ],
+          "dogruCevap": "Eğitimdeki çeşitliliği ve erişilebilirliği artırmak"
+        }
+      ]  ,
       "Öğretimin Basamaklandırılması": [
         {
           "soru": "Türk eğitim sisteminde öğretimin basamaklandırılması nedir?",
@@ -7682,9 +8278,9 @@
         {
           "soru": "İlk Türk-İslam devleti hangisidir?",
           "secenekler": [
-            "Karahanlılar",
             "Gazneliler",
             "Büyük Selçuklu Devleti",
+            "Karahanlılar",
             "Harzemşahlar"
           ],
           "dogruCevap": "Karahanlılar"
@@ -7693,19 +8289,19 @@
           "soru": "Karahanlılar hangi hükümdar döneminde İslamiyet'i kabul etmiştir?",
           "secenekler": [
             "Satuk Buğra Han",
-            "Gazneli Mahmud",
             "Melikşah",
-            "Alp Tegin"
+            "Alp Tegin",
+            "Gazneli Mahmud"
           ],
           "dogruCevap": "Satuk Buğra Han"
         },
         {
           "soru": "Gazneli Mahmud, hangi unvanla anılmıştır?",
           "secenekler": [
-            "Sultan",
             "Kağan",
-            "Şah",
-            "Hakan"
+            "Sultan",
+            "Hakan",
+            "Şah"
           ],
           "dogruCevap": "Sultan"
         },
@@ -7714,48 +8310,48 @@
           "secenekler": [
             "Selçuklular",
             "Karahanlılar",
-            "Harzemşahlar",
-            "Eyyubiler"
+            "Eyyubiler",
+            "Harzemşahlar"
           ],
           "dogruCevap": "Selçuklular"
         },
         {
           "soru": "Büyük Selçuklu Devleti'nin kurucusu kimdir?",
           "secenekler": [
-            "Selçuk Bey",
-            "Alp Arslan",
+            "Tuğrul Bey",
             "Melikşah",
-            "Tuğrul Bey"
+            "Selçuk Bey",
+            "Alp Arslan"
           ],
           "dogruCevap": "Tuğrul Bey"
         },
         {
           "soru": "Malazgirt Meydan Muharebesi hangi hükümdar döneminde kazanılmıştır?",
           "secenekler": [
-            "Alp Arslan",
-            "Tuğrul Bey",
             "Melikşah",
-            "Sencer"
+            "Sencer",
+            "Tuğrul Bey",
+            "Alp Arslan"
           ],
           "dogruCevap": "Alp Arslan"
         },
         {
           "soru": "Karahanlılar İslamiyet'i yaymak için hangi bölgede faaliyet göstermiştir?",
           "secenekler": [
-            "Orta Asya",
+            "Hindistan",
             "Anadolu",
-            "Mezopotamya",
-            "Hindistan"
+            "Orta Asya",
+            "Mezopotamya"
           ],
           "dogruCevap": "Orta Asya"
         },
         {
           "soru": "Gazneli Mahmud'un Hindistan'a düzenlediği seferlerin amacı nedir?",
           "secenekler": [
-            "İslamiyet'i yaymak",
+            "Vergi toplamak",
             "Ticaret yollarını ele geçirmek",
-            "Toprak kazanmak",
-            "Vergi toplamak"
+            "İslamiyet'i yaymak",
+            "Toprak kazanmak"
           ],
           "dogruCevap": "İslamiyet'i yaymak"
         },
@@ -7763,18 +8359,18 @@
           "soru": "Dandanakan Savaşı, hangi iki devlet arasında olmuştur?",
           "secenekler": [
             "Gazneliler ve Selçuklular",
-            "Karahanlılar ve Gazneliler",
+            "Eyyubiler ve Gazneliler",
             "Selçuklular ve Harzemşahlar",
-            "Eyyubiler ve Gazneliler"
+            "Karahanlılar ve Gazneliler"
           ],
           "dogruCevap": "Gazneliler ve Selçuklular"
         },
         {
           "soru": "Nizamiye Medreseleri hangi Selçuklu hükümdarı döneminde kurulmuştur?",
           "secenekler": [
-            "Melikşah",
             "Tuğrul Bey",
             "Alp Arslan",
+            "Melikşah",
             "Sencer"
           ],
           "dogruCevap": "Melikşah"
@@ -7784,26 +8380,26 @@
           "secenekler": [
             "Türkçe",
             "Arapça",
-            "Farsça",
-            "Çince"
+            "Çince",
+            "Farsça"
           ],
           "dogruCevap": "Türkçe"
         },
         {
           "soru": "Gazneli Mahmud, Abbasi halifesini Şii Büveyhoğullarına karşı koruduğu için hangi unvanı almıştır?",
           "secenekler": [
+            "Put Kırıcı",
             "Sultan",
             "Zıllullah",
-            "Sultan-ı Azam",
-            "Put Kırıcı"
+            "Sultan-ı Azam"
           ],
           "dogruCevap": "Sultan"
         },
         {
           "soru": "İlk Türk-İslam yazılı eseri olan 'Kutadgu Bilig' hangi devlet zamanında yazılmıştır?",
           "secenekler": [
-            "Karahanlılar",
             "Gazneliler",
+            "Karahanlılar",
             "Selçuklular",
             "Harzemşahlar"
           ],
@@ -7812,19 +8408,19 @@
         {
           "soru": "Anadolu'da kurulan ilk Türk beyliği hangisidir?",
           "secenekler": [
-            "Saltuklular",
-            "Artuklular",
             "Mengücekliler",
-            "Danişmentliler"
+            "Saltuklular",
+            "Danişmentliler",
+            "Artuklular"
           ],
           "dogruCevap": "Saltuklular"
         },
         {
           "soru": "Hasankeyf, hangi Türk beyliği döneminde önemli bir yerleşim yeri olmuştur?",
           "secenekler": [
-            "Artuklular",
             "Saltuklular",
             "Mengücekliler",
+            "Artuklular",
             "Danişmentliler"
           ],
           "dogruCevap": "Artuklular"
@@ -7832,18 +8428,18 @@
         {
           "soru": "Alp Arslan, hangi savaşta Bizans İmparatoru Romanos Diogenes'i yenmiştir?",
           "secenekler": [
+            "Pasinler Savaşı",
             "Malazgirt Savaşı",
             "Dandanakan Savaşı",
-            "Yassıçemen Savaşı",
-            "Pasinler Savaşı"
+            "Yassıçemen Savaşı"
           ],
           "dogruCevap": "Malazgirt Savaşı"
         },
         {
           "soru": "Selçukluların resmi dili hangi dildir?",
           "secenekler": [
-            "Farsça",
             "Türkçe",
+            "Farsça",
             "Arapça",
             "Latince"
           ],
@@ -7852,10 +8448,10 @@
         {
           "soru": "Dandanakan Savaşı'ndan sonra Selçuklular hangi devleti yıkmıştır?",
           "secenekler": [
-            "Gazneliler",
             "Karahanlılar",
-            "Harzemşahlar",
-            "Moğollar"
+            "Gazneliler",
+            "Moğollar",
+            "Harzemşahlar"
           ],
           "dogruCevap": "Gazneliler"
         },
@@ -7864,17 +8460,17 @@
           "secenekler": [
             "Divan-ı Saltanat",
             "Kurultay",
-            "Şura",
-            "Meclis-i Şura"
+            "Meclis-i Şura",
+            "Şura"
           ],
           "dogruCevap": "Divan-ı Saltanat"
         },
         {
           "soru": "Türk-İslam devletlerinde 'hükümdarın Allah’ın yeryüzündeki temsilcisi' olduğuna inanılan kavram nedir?",
           "secenekler": [
-            "Kut",
-            "Töre",
             "Nizam",
+            "Töre",
+            "Kut",
             "Hilafet"
           ],
           "dogruCevap": "Kut"
@@ -7884,9 +8480,9 @@
         {
           "soru": "İslamiyet’i kabul eden ilk Türk devleti hangisidir?",
           "secenekler": [
-            "İtil Bulgarları",
-            "Gazneliler",
             "Karahanlılar",
+            "Gazneliler",
+            "İtil Bulgarları",
             "Selçuklular"
           ],
           "dogruCevap": "İtil Bulgarları"
@@ -7894,28 +8490,28 @@
         {
           "soru": "Karahanlılar hangi coğrafyada kurulmuştur?",
           "secenekler": [
-            "Orta Asya",
-            "Anadolu",
             "Hindistan",
-            "İran"
+            "Orta Asya",
+            "İran",
+            "Anadolu"
           ],
           "dogruCevap": "Orta Asya"
         },
         {
           "soru": "Büyük Selçuklu Devleti'nin önemli vezirlerinden biri olan Nizamülmülk, hangi eseri yazmıştır?",
           "secenekler": [
-            "Siyasetname",
-            "Divan-ı Hikmet",
+            "Atabetü'l Hakayık",
             "Kutadgu Bilig",
-            "Atabetü'l Hakayık"
+            "Divan-ı Hikmet",
+            "Siyasetname"
           ],
           "dogruCevap": "Siyasetname"
         },
         {
-          "soru": "Gazneliler döneminde Hindistan’da kurulan ilk Türk devleti hangisidir?",
+          "soru": "Hindistan’da Türkler tarafından kurulan ilk büyük Türk devleti hangisidir?",
           "secenekler": [
-            "Delhi Türk Sultanlığı",
             "Babür İmparatorluğu",
+            "Delhi Türk Sultanlığı",
             "Harzemşahlar",
             "Timur İmparatorluğu"
           ],
@@ -7924,364 +8520,62 @@
         {
           "soru": "İlk Türk-İslam mimari eserlerini oluşturan devlet hangisidir?",
           "secenekler": [
-            "Karahanlılar",
-            "Gazneliler",
             "Selçuklular",
-            "Harzemşahlar"
+            "Harzemşahlar",
+            "Karahanlılar",
+            "Gazneliler"
           ],
           "dogruCevap": "Karahanlılar"
         },
         {
           "soru": "Gazneli Mahmud, Hindistan seferleri sırasında hangi ünlü tapınağı yıkmıştır?",
           "secenekler": [
+            "Brihadeeswarar Tapınağı",
             "Somnath Tapınağı",
             "Kandariya Mahadeva Tapınağı",
-            "Jagannath Tapınağı",
-            "Brihadeeswarar Tapınağı"
+            "Jagannath Tapınağı"
           ],
           "dogruCevap": "Somnath Tapınağı"
         },
         {
           "soru": "Selçuklu Devleti’nin ilk başkenti neresidir?",
           "secenekler": [
-            "Nişabur",
+            "Bağdat",
             "Rey",
-            "Merv",
-            "Bağdat"
+            "Nişabur",
+            "Merv"
           ],
           "dogruCevap": "Nişabur"
         },
         {
           "soru": "Karahanlılar, Türk-İslam kültürünün gelişmesinde hangi şehirde önemli bir merkez kurmuştur?",
           "secenekler": [
-            "Kaşgar",
-            "Semerkand",
             "Buhara",
+            "Semerkand",
+            "Kaşgar",
             "Balasagun"
           ],
           "dogruCevap": "Kaşgar"
         },
         {
-          "soru": "Gazneli Mahmud'un tarihçi Biruni ile ilişkisi nasıldır?",
+          "soru": "Gazneli Mahmud’un himayesine aldığı ünlü bilim insanı kimdir ve ilişkileri nasıldır?",
           "secenekler": [
-            "Onu himayesine almıştır",
-            "Onu sürgüne göndermiştir",
             "Bir savaşta karşılaşmışlardır",
-            "Biruni Gazneliler için bir isyan çıkarmıştır"
+            "Biruni Gazneliler için bir isyan çıkarmıştır",
+            "Onu himayesine almıştır",
+            "Onu sürgüne göndermiştir"
           ],
           "dogruCevap": "Onu himayesine almıştır"
         },
         {
           "soru": "Anadolu’da kurulan Türk beyliklerinden hangisi ilk medreseyi yapmıştır?",
           "secenekler": [
-            "Danişmentliler",
-            "Saltuklular",
             "Mengücekliler",
-            "Artuklular"
+            "Artuklular",
+            "Saltuklular",
+            "Danişmentliler"
           ],
           "dogruCevap": "Danişmentliler"
-        },
-        {
-          "soru": "Tuğrul Bey, Abbasi halifesini hangi devlete karşı korumuştur?",
-          "secenekler": [
-            "Büveyhoğulları",
-            "Fatımiler",
-            "Karahanlılar",
-            "Gazneliler"
-          ],
-          "dogruCevap": "Büveyhoğulları"
-        },
-        {
-          "soru": "Divan-ı Hikmet eseri hangi Türk-İslam düşünürü tarafından yazılmıştır?",
-          "secenekler": [
-            "Ahmet Yesevi",
-            "Yusuf Has Hacib",
-            "Kaşgarlı Mahmud",
-            "Farabi"
-          ],
-          "dogruCevap": "Ahmet Yesevi"
-        },
-        {
-          "soru": "Malazgirt Zaferi’nin ardından Anadolu’nun kapılarını Türklere açan devlet hangisidir?",
-          "secenekler": [
-            "Büyük Selçuklu Devleti",
-            "Karahanlılar",
-            "Gazneliler",
-            "Eyyubiler"
-          ],
-          "dogruCevap": "Büyük Selçuklu Devleti"
-        },
-        {
-          "soru": "Harzemşahlar, hangi devlet tarafından yıkılmıştır?",
-          "secenekler": [
-            "Moğollar",
-            "Selçuklular",
-            "Karahanlılar",
-            "Gazneliler"
-          ],
-          "dogruCevap": "Moğollar"
-        },
-        {
-          "soru": "Anadolu’daki ilk Türk camisi hangisidir?",
-          "secenekler": [
-            "Ebu'l Menuçehr Camii",
-            "Ulu Cami",
-            "Divriği Camii",
-            "Karatay Medresesi"
-          ],
-          "dogruCevap": "Ebu'l Menuçehr Camii"
-        },
-        {
-          "soru": "Artuklular, hangi bölgede yoğunlaşmıştır?",
-          "secenekler": [
-            "Diyarbakır ve Mardin",
-            "Trabzon",
-            "Kars",
-            "Van"
-          ],
-          "dogruCevap": "Diyarbakır ve Mardin"
-        },
-        {
-          "soru": "Büyük Selçuklu Devleti'nde devlet yönetiminde etkili olan 'vezir' unvanını taşıyan ünlü kişi kimdir?",
-          "secenekler": [
-            "Nizamülmülk",
-            "Alp Arslan",
-            "Tuğrul Bey",
-            "Sencer"
-          ],
-          "dogruCevap": "Nizamülmülk"
-        },
-        {
-          "soru": "Türk-İslam devletlerinde orduya 'guleman-ı saray' adı verilen askerler nasıl yetiştirilirdi?",
-          "secenekler": [
-            "Kölelerden seçilerek özel eğitimle",
-            "Türk ailelerinden alarak",
-            "Zorunlu askerlik sistemiyle",
-            "Göçebe topluluklardan alınarak"
-          ],
-          "dogruCevap": "Kölelerden seçilerek özel eğitimle"
-        },
-        {
-          "soru": "Gazneliler’in önemli bilim insanı ve tarihçisi kimdir?",
-          "secenekler": [
-            "Biruni",
-            "Farabi",
-            "Kaşgarlı Mahmud",
-            "İbn-i Sina"
-          ],
-          "dogruCevap": "Biruni"
-        },
-        {
-          "soru": "Anadolu’da Türklerin yaptığı ilk kale hangi beyliğe aittir?",
-          "secenekler": [
-            "Saltuklular",
-            "Mengücekliler",
-            "Danişmentliler",
-            "Artuklular"
-          ],
-          "dogruCevap": "Saltuklular"
-        }
-      ],
-      "Osmanlı Devleti Kuruluş ve Yükselme Dönemleri": [
-        {
-          "soru": "Osmanlı Devleti hangi tarihte kurulmuştur?",
-          "secenekler": [
-            "1299",
-            "1308",
-            "1258",
-            "1326"
-          ],
-          "dogruCevap": "1299"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin kurucusu kimdir?",
-          "secenekler": [
-            "Orhan Bey",
-            "Osman Bey",
-            "Ertuğrul Gazi",
-            "Murat Hüdavendigar"
-          ],
-          "dogruCevap": "Osman Bey"
-        },
-        {
-          "soru": "Osmanlı Devleti’nin başkentlerinden hangisi ilk başkent olmuştur?",
-          "secenekler": [
-            "Bursa",
-            "Edirne",
-            "Söğüt",
-            "İstanbul"
-          ],
-          "dogruCevap": "Söğüt"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin Rumeli'ye geçişini sağlayan stratejik nokta hangisidir?",
-          "secenekler": [
-            "Çimpe Kalesi",
-            "Edirne",
-            "Balkanlar",
-            "Gelibolu"
-          ],
-          "dogruCevap": "Çimpe Kalesi"
-        },
-        {
-          "soru": "Osmanlı Devleti’nin ilk sultanı kimdir?",
-          "secenekler": [
-            "Osman Bey",
-            "Orhan Bey",
-            "I. Murad",
-            "Yıldırım Bayezid"
-          ],
-          "dogruCevap": "Osman Bey"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin ilk medresesi hangi dönemde kurulmuştur?",
-          "secenekler": [
-            "Orhan Bey Dönemi",
-            "Osman Bey Dönemi",
-            "I. Murad Dönemi",
-            "Yıldırım Bayezid Dönemi"
-          ],
-          "dogruCevap": "Orhan Bey Dönemi"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin kuruluşunda katkı sağlayan ahilik teşkilatının lideri kimdir?",
-          "secenekler": [
-            "Ahi Evran",
-            "Hacı Bektaş-ı Veli",
-            "Şeyh Edebali",
-            "Mevlana"
-          ],
-          "dogruCevap": "Şeyh Edebali"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin ilk düzenli ordusu kim tarafından kurulmuştur?",
-          "secenekler": [
-            "Orhan Bey",
-            "Osman Bey",
-            "I. Murad",
-            "Yıldırım Bayezid"
-          ],
-          "dogruCevap": "Orhan Bey"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin Haçlılarla yaptığı ilk savaş hangisidir?",
-          "secenekler": [
-            "Sırpsındığı Savaşı",
-            "I. Kosova Savaşı",
-            "Varna Savaşı",
-            "Çirmen Savaşı"
-          ],
-          "dogruCevap": "Sırpsındığı Savaşı"
-        },
-        {
-          "soru": "Osmanlı Devleti hangi savaş sonucunda Bizans İmparatorluğu’nu sona erdirmiştir?",
-          "secenekler": [
-            "İstanbul'un Fethi",
-            "Sırpsındığı Savaşı",
-            "Varna Savaşı",
-            "Niğbolu Savaşı"
-          ],
-          "dogruCevap": "İstanbul'un Fethi"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin Rumeli’deki ilk fethettiği şehir hangisidir?",
-          "secenekler": [
-            "Edirne",
-            "Bursa",
-            "Tekirdağ",
-            "İznik"
-          ],
-          "dogruCevap": "Edirne"
-        },
-        {
-          "soru": "İstanbul’u fetheden Osmanlı padişahı kimdir?",
-          "secenekler": [
-            "Fatih Sultan Mehmet",
-            "Yıldırım Bayezid",
-            "I. Murad",
-            "II. Mehmet"
-          ],
-          "dogruCevap": "Fatih Sultan Mehmet"
-        },
-        {
-          "soru": "Osmanlı Devleti’nin Balkanlarda üstünlüğünü perçinleyen savaş hangisidir?",
-          "secenekler": [
-            "I. Kosova Savaşı",
-            "Çirmen Savaşı",
-            "Sırpsındığı Savaşı",
-            "Niğbolu Savaşı"
-          ],
-          "dogruCevap": "Niğbolu Savaşı"
-        },
-        {
-          "soru": "Osmanlı Devleti'nde ilk deniz savaşı hangi dönemde gerçekleşmiştir?",
-          "secenekler": [
-            "Yıldırım Bayezid Dönemi",
-            "Orhan Bey Dönemi",
-            "I. Murad Dönemi",
-            "Fatih Sultan Mehmet Dönemi"
-          ],
-          "dogruCevap": "Yıldırım Bayezid Dönemi"
-        },
-        {
-          "soru": "Osmanlı Devleti'nde ilk kez 'sultan' unvanını kullanan padişah kimdir?",
-          "secenekler": [
-            "Osman Bey",
-            "Orhan Bey",
-            "I. Murad",
-            "Yıldırım Bayezid"
-          ],
-          "dogruCevap": "I. Murad"
-        },
-        {
-          "soru": "Osmanlı Devleti’nde ilk kez para basımı hangi dönemde gerçekleşmiştir?",
-          "secenekler": [
-            "Orhan Bey Dönemi",
-            "Osman Bey Dönemi",
-            "I. Murad Dönemi",
-            "Fatih Sultan Mehmet Dönemi"
-          ],
-          "dogruCevap": "Orhan Bey Dönemi"
-        },
-        {
-          "soru": "İlk Osmanlı-Haçlı ittifakı hangi savaşta kurulmuştur?",
-          "secenekler": [
-            "Sırpsındığı Savaşı",
-            "I. Kosova Savaşı",
-            "Varna Savaşı",
-            "Niğbolu Savaşı"
-          ],
-          "dogruCevap": "Sırpsındığı Savaşı"
-        },
-        {
-          "soru": "Osmanlı Devleti’nde ilk divan teşkilatı hangi padişah döneminde kurulmuştur?",
-          "secenekler": [
-            "Orhan Bey",
-            "I. Murad",
-            "Yıldırım Bayezid",
-            "Fatih Sultan Mehmet"
-          ],
-          "dogruCevap": "Orhan Bey"
-        },
-        {
-          "soru": "Yıldırım Bayezid döneminde Anadolu’da siyasi birliği sağlamak amacıyla düzenlenen sefer hangi beyliğe karşı yapılmıştır?",
-          "secenekler": [
-            "Karamanoğulları",
-            "Candaroğulları",
-            "Germiyanoğulları",
-            "Aydınoğulları"
-          ],
-          "dogruCevap": "Karamanoğulları"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin yükselme döneminin başlangıcı hangi olayla kabul edilir?",
-          "secenekler": [
-            "İstanbul'un Fethi",
-            "Çaldıran Savaşı",
-            "Niğbolu Savaşı",
-            "Sırpsındığı Savaşı"
-          ],
-          "dogruCevap": "İstanbul'un Fethi"
         }
       ],
       "Osmanlı Devleti Kuruluş ve Yükselme Dönemleri 2": [
@@ -10892,197 +11186,157 @@
       ],
       "I. TBMM Dönemi": [
         {
-          "soru": "I. TBMM'nin açılış tarihi nedir?",
+          "soru": "1. TBMM’nin açılış tarihi nedir?",
           "secenekler": [
             "23 Nisan 1920",
             "29 Ekim 1923",
-            "30 Ağustos 1922",
-            "1 Kasım 1919"
+            "19 Mayıs 1919",
+            "4 Eylül 1919"
           ],
           "dogruCevap": "23 Nisan 1920"
         },
         {
-          "soru": "I. TBMM'nin en önemli özelliği nedir?",
+          "soru": "1. TBMM'nin en önemli görevlerinden biri nedir?",
           "secenekler": [
             "Cumhuriyetin ilan edilmesi",
-            "Milli egemenliğin kabul edilmesi",
-            "Saltanatın kaldırılması",
-            "Cumhurbaşkanının seçilmesi"
+            "Milli Mücadeleyi yönetmek",
+            "Anayasa Mahkemesinin kurulması",
+            "Saltanatın kaldırılması"
           ],
-          "dogruCevap": "Milli egemenliğin kabul edilmesi"
+          "dogruCevap": "Milli Mücadeleyi yönetmek"
         },
         {
-          "soru": "I. TBMM'nin ilk başkanı kimdir?",
+          "soru": "1. TBMM hangi olay sonrasında açılmıştır?",
           "secenekler": [
-            "Mustafa Kemal Atatürk",
+            "İstanbul’un İtilaf Devletlerince resmen işgal edilmesi",
+            "Cumhuriyetin ilanı",
+            "Sakarya Meydan Muharebesi",
+            "Lozan Antlaşması"
+          ],
+          "dogruCevap": "İstanbul’un İtilaf Devletlerince resmen işgal edilmesi"
+        },
+        {
+          "soru": "1. TBMM'nin başkanı kimdir?",
+          "secenekler": [
+            "İsmet İnönü",
             "Fevzi Çakmak",
-            "Rauf Orbay",
-            "Ali Fuat Cebesoy"
+            "Kazım Karabekir",
+            "Mustafa Kemal Atatürk"
           ],
           "dogruCevap": "Mustafa Kemal Atatürk"
         },
         {
-          "soru": "I. TBMM'de kabul edilen en önemli ilkelerden biri nedir?",
+          "soru": "1. TBMM’nin çalışma şekli nasıl bir özelliğe sahiptir?",
           "secenekler": [
-            "Egemenlik kayıtsız şartsız millete aittir",
-            "Osmanlı saltanatı devam edecektir",
-            "Meclisin yetkileri kısıtlanacaktır",
-            "Padişah'ın yetkileri artırılacaktır"
+            "Güçler birliği ilkesi",
+            "Güçler ayrılığı ilkesi",
+            "Demokratik monarşi",
+            "Laik yönetim"
           ],
-          "dogruCevap": "Egemenlik kayıtsız şartsız millete aittir"
+          "dogruCevap": "Güçler birliği ilkesi"
         },
         {
-          "soru": "I. TBMM'ye katılmayan önemli bir grup hangisidir?",
+          "soru": "1. TBMM'nin ilk çıkardığı kanun hangisidir?",
           "secenekler": [
-            "Osmanlı hükümeti temsilcileri",
-            "Müdafa-i Hukuk Cemiyeti üyeleri",
-            "Kuva-yi Milliye komutanları",
-            "Cumhuriyetçi parti üyeleri"
-          ],
-          "dogruCevap": "Osmanlı hükümeti temsilcileri"
-        },
-        {
-          "soru": "I. TBMM'nin açılmasıyla hangi yönetim biçimi resmen başlamıştır?",
-          "secenekler": [
-            "Cumhuriyet",
-            "Saltanat",
-            "Monarşi",
-            "Feodalizm"
-          ],
-          "dogruCevap": "Cumhuriyet"
-        },
-        {
-          "soru": "I. TBMM'nin açılmasından sonra yapılan ilk önemli iş nedir?",
-          "secenekler": [
-            "Kuva-yi Milliye'nin resmen kurulması",
-            "Saltanatın kaldırılması",
-            "Misak-ı Milli'nin kabul edilmesi",
-            "İstanbul'un işgali"
-          ],
-          "dogruCevap": "Misak-ı Milli'nin kabul edilmesi"
-        },
-        {
-          "soru": "I. TBMM'de kabul edilen Misak-ı Milli, hangi konuda bir deklarasyon niteliğindedir?",
-          "secenekler": [
-            "Türk milletinin bağımsızlık hakkı",
-            "Ermenistan'a toprak verilmesi",
-            "Osmanlı İmparatorluğu'nun yeniden kurulması",
-            "Kürt bağımsızlık hareketi"
-          ],
-          "dogruCevap": "Türk milletinin bağımsızlık hakkı"
-        },
-        {
-          "soru": "I. TBMM Dönemi'nde, hangi önemli gelişme gerçekleşmiştir?",
-          "secenekler": [
-            "Saltanatın kaldırılması",
-            "Cumhuriyetin ilanı",
-            "Lozan Antlaşması'nın imzalanması",
-            "Hilafet kurumunun kurulması"
-          ],
-          "dogruCevap": "Saltanatın kaldırılması"
-        },
-        {
-          "soru": "I. TBMM'de en fazla yer alan siyasi akım hangisidir?",
-          "secenekler": [
-            "Milli Mücadeleci",
-            "İttihat ve Terakki",
-            "Cumhuriyetçi",
-            "Liberal"
-          ],
-          "dogruCevap": "Milli Mücadeleci"
-        },
-        {
-          "soru": "I. TBMM, hangi ülke tarafından işgal edilmiştir?",
-          "secenekler": [
-            "Yunanistan",
-            "Fransa",
-            "İngiltere",
-            "Ermenistan"
-          ],
-          "dogruCevap": "Yunanistan"
-        },
-        {
-          "soru": "I. TBMM, hangi kurumu kurarak, ulusal bağımsızlık için mücadele etmiştir?",
-          "secenekler": [
-            "Kuva-yi Milliye",
-            "Cumhuriyet Halk Partisi",
-            "Türk Hava Kurumu",
-            "TCDD"
-          ],
-          "dogruCevap": "Kuva-yi Milliye"
-        },
-        {
-          "soru": "I. TBMM'nin kabul ettiği ilk anayasa nedir?",
-          "secenekler": [
+            "Hıyanet-i Vataniye Kanunu",
             "Teşkilat-ı Esasiye Kanunu",
-            "Osmanlı Kanun-i Esasi'si",
-            "Cumhuriyet Anayasası",
-            "Mütareke Anayasası"
+            "Medeni Kanun",
+            "Saltanatın kaldırılması kararı"
           ],
-          "dogruCevap": "Teşkilat-ı Esasiye Kanunu"
+          "dogruCevap": "Hıyanet-i Vataniye Kanunu"
         },
         {
-          "soru": "I. TBMM, saltanatı hangi tarihte kaldırmıştır?",
+          "soru": "1. TBMM’nin anayasal metni olan Teşkilat-ı Esasiye Kanunu hangi tarihte kabul edilmiştir?",
           "secenekler": [
-            "1 Kasım 1922",
+            "20 Ocak 1921",
             "23 Nisan 1920",
-            "30 Ağustos 1922",
-            "29 Ekim 1923"
+            "29 Ekim 1923",
+            "24 Temmuz 1923"
           ],
-          "dogruCevap": "1 Kasım 1922"
+          "dogruCevap": "20 Ocak 1921"
         },
         {
-          "soru": "I. TBMM döneminde, hangi mücadele başlatılmıştır?",
+          "soru": "1. TBMM'de hangi gruplar yer almıştır?",
           "secenekler": [
-            "Kurtuluş Savaşı",
-            "Bağımsızlık savaşı",
+            "Halk Zümresi ve Müdafaa-i Hukuk Grubu",
+            "Cumhuriyet Halk Partisi ve İttihat ve Terakki",
+            "Müdafaa-i Hukuk Grubu ve İstiklal Grubu",
+            "Fırkalar ve Azınlık Grupları"
+          ],
+          "dogruCevap": "Halk Zümresi ve Müdafaa-i Hukuk Grubu"
+        },
+        {
+          "soru": "1. TBMM hangi savaşın kazanılmasıyla etkinliğini artırmıştır?",
+          "secenekler": [
+            "Sakarya Meydan Muharebesi",
+            "Büyük Taarruz",
+            "I. İnönü Muharebesi",
+            "Çanakkale Savaşı"
+          ],
+          "dogruCevap": "Sakarya Meydan Muharebesi"
+        },
+        {
+          "soru": "1. TBMM’nin oluşturulma amacı nedir?",
+          "secenekler": [
+            "Bağımsızlık mücadelesini yönetmek",
+            "Saltanatı tekrar güçlendirmek",
+            "İstanbul Hükümeti ile işbirliği yapmak",
+            "Savaş kararları almak"
+          ],
+          "dogruCevap": "Bağımsızlık mücadelesini yönetmek"
+        },
+        {
+          "soru": "1. TBMM döneminde alınan kararlar hangi ilkeye dayanıyordu?",
+          "secenekler": [
+            "Milli egemenlik",
+            "Meşrutiyet",
+            "Oligarşi",
+            "Feodal sistem"
+          ],
+          "dogruCevap": "Milli egemenlik"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi 1. TBMM’nin özelliklerinden biridir?",
+          "secenekler": [
+            "İhtilalci bir meclistir",
+            "Çok partili dönemi başlatmıştır",
+            "Saltanatı desteklemiştir",
+            "Sadece dini kanunlar çıkarmıştır"
+          ],
+          "dogruCevap": "İhtilalci bir meclistir"
+        },
+        {
+          "soru": "1. TBMM, Kurtuluş Savaşı boyunca hangi ülkelerle diplomatik görüşmeler yapmıştır?",
+          "secenekler": [
+            "Fransa ve İtalya",
+            "Almanya ve İngiltere",
+            "Japonya ve Amerika",
+            "Yunanistan ve Rusya"
+          ],
+          "dogruCevap": "Fransa ve İtalya"
+        },
+        {
+          "soru": "1. TBMM hangi antlaşma ile uluslararası alanda tanınmıştır?",
+          "secenekler": [
+            "Moskova Antlaşması",
+            "Lozan Antlaşması",
+            "Sevr Antlaşması",
+            "Ankara Antlaşması"
+          ],
+          "dogruCevap": "Moskova Antlaşması"
+        },
+        {
+          "soru": "1. TBMM’nin görevi hangi olayla sona ermiştir?",
+          "secenekler": [
+            "2. TBMM’nin açılması",
             "Cumhuriyetin ilanı",
-            "Kuvayi Milliye'nin sona erdirilmesi"
+            "Lozan Antlaşması",
+            "Saltanatın kaldırılması"
           ],
-          "dogruCevap": "Kurtuluş Savaşı"
+          "dogruCevap": "2. TBMM’nin açılması"
         },
         {
-          "soru": "I. TBMM'nin en uzun süren icraatı nedir?",
-          "secenekler": [
-            "Ermenilere toprak verilmesi",
-            "Milli egemenlik hakkının savunulması",
-            "Misak-ı Milli'nin uygulanması",
-            "İstanbul'un işgali"
-          ],
-          "dogruCevap": "Milli egemenlik hakkının savunulması"
-        },
-        {
-          "soru": "I. TBMM'de temsil edilen en güçlü siyasi eğilim nedir?",
-          "secenekler": [
-            "Milli Mücadele",
-            "İslamcılık",
-            "Osmanlıcılık",
-            "Kurtuluşçu"
-          ],
-          "dogruCevap": "Milli Mücadele"
-        },
-        {
-          "soru": "I. TBMM'nin yapısal özelliklerinden biri nedir?",
-          "secenekler": [
-            "Halkı doğrudan temsil eden bir yapıya sahipti",
-            "Sadece İstanbul'dan milletvekilleri katılabiliyordu",
-            "Saltanatla işbirliği içindeydi",
-            "Ermeni temsilcilerine yer verilmiştir"
-          ],
-          "dogruCevap": "Halkı doğrudan temsil eden bir yapıya sahipti"
-        },
-        {
-          "soru": "I. TBMM, hangi dış tehditlerle mücadele etmiştir?",
-          "secenekler": [
-            "İngiltere ve Fransa",
-            "Yunanistan ve Ermeniler",
-            "Rusya ve Amerika",
-            "Almanya ve Avusturya"
-          ],
-          "dogruCevap": "Yunanistan ve Ermeniler"
-        },
-        {
-          "soru": "I. TBMM'nin kurulduğu şehir hangisidir?",
+          "soru": "1. TBMM hangi şehirde toplanmıştır?",
           "secenekler": [
             "Ankara",
             "İstanbul",
@@ -11090,6 +11344,46 @@
             "Erzurum"
           ],
           "dogruCevap": "Ankara"
+        },
+        {
+          "soru": "1. TBMM döneminde halkın moralini yükseltmek amacıyla aşağıdakilerden hangisi yapılmıştır?",
+          "secenekler": [
+            "Düzenli ordunun kurulması",
+            "Cumhuriyetin ilanı",
+            "Saltanatın kaldırılması",
+            "Şapka Kanunu'nun çıkarılması"
+          ],
+          "dogruCevap": "Düzenli ordunun kurulması"
+        },
+        {
+          "soru": "1. TBMM'nin kabul ettiği ilk anayasa olan Teşkilat-ı Esasiye Kanunu’na göre egemenlik kime aittir?",
+          "secenekler": [
+            "Millete",
+            "Padişaha",
+            "Meclise",
+            "Başbakana"
+          ],
+          "dogruCevap": "Millete"
+        },
+        {
+          "soru": "1. TBMM’nin aldığı kararlardan hangisi halkın ihtiyaçlarını ön planda tutmuştur?",
+          "secenekler": [
+            "İstiklal Mahkemelerinin kurulması",
+            "Aşar vergisinin kaldırılması",
+            "Düzenli ordunun kurulması",
+            "Kabotaj Kanunu’nun kabul edilmesi"
+          ],
+          "dogruCevap": "Aşar vergisinin kaldırılması"
+        },
+        {
+          "soru": "1. TBMM döneminde çıkarılan İstiklal Mahkemeleri’nin kurulma amacı nedir?",
+          "secenekler": [
+            "Milli mücadeleye karşı çıkanları cezalandırmak",
+            "Hukuk reformunu başlatmak",
+            "Saltanatı güçlendirmek",
+            "Vergi düzenlemelerini yapmak"
+          ],
+          "dogruCevap": "Milli mücadeleye karşı çıkanları cezalandırmak"
         }
       ],
       "Kurtuluş Savaşı Muharebeler Dönemi": [
