@@ -3,7 +3,7 @@
     "Eğitim Temelleri": {
       "Eğitime İlişkin Temel Kavramlar": [
         {
-          "soru": "Eğitim, hangi süreçle bireyde davranış değişikliği meydana getirmektedir?",
+          "soru": "Eğitim hangi süreçle bireyde davranış değişikliği meydana getirir?",
           "secenekler": [
             "Yaşantı",
             "Kasıtlı etkileşim",
@@ -13,164 +13,54 @@
           "dogruCevap": "Yaşantı"
         },
         {
-          "soru": "Eğitim sürecinin hangi özelliği, belirli bir zaman dilimi içinde devam etmesini ifade eder?",
+          "soru": "Eğitim sürecinin hangi özelliği onu zamanla devam eden bir süreç olarak tanımlar?",
           "secenekler": [
-            "Eğitimin kasıtlı olması",
-            "Eğitimin süreç olması",
-            "Eğitimin yaşantı sonucunda gerçekleşmesi",
-            "Davranış değişikliği"
+            "Kısa sürede tamamlanır",
+            "Eğitim bir anda gerçekleşir",
+            "Belirli bir zaman diliminde devam eder",
+            "Tek seferlik bir etkinliktir"
           ],
-          "dogruCevap": "Eğitimin süreç olması"
-        },
-        {
-          "soru": "Eğitimin kasıtlı olması hangi anlamı taşır?",
-          "secenekler": [
-            "Bir amaca yönelik olarak gerçekleştirilmesi",
-            "Kendi yaşantılarıyla gerçekleşmesi",
-            "Yaşam boyu sürmesi",
-            "Eğitimin programlı olması"
-          ],
-          "dogruCevap": "Bir amaca yönelik olarak gerçekleştirilmesi"
-        },
-        {
-          "soru": "Eğitim sonucunda bireyde hangi değişim meydana gelir?",
-          "secenekler": [
-            "Davranış değişikliği",
-            "Yeni bir çevre oluşturulması",
-            "Beceri kazandırılması",
-            "Görsel algı gelişimi"
-          ],
-          "dogruCevap": "Davranış değişikliği"
-        },
-        {
-          "soru": "Eğitim süreci, hangi alanda yapılan tanımlar ile açıklanır?",
-          "secenekler": [
-            "Sosyolojik, felsefi, psikolojik",
-            "Evrensel, kültürel, fiziksel",
-            "Sosyal, psikolojik, ekonomik",
-            "Bilimsel, matematiksel, kültürel"
-          ],
-          "dogruCevap": "Sosyolojik, felsefi, psikolojik"
-        },
-        {
-          "soru": "Eğitim, birey için nasıl bir süreçtir?",
-          "secenekler": [
-            "Geçici bir süreç",
-            "Sürekli devam eden bir süreç",
-            "Kısa süreli bir etkinlik",
-            "Belirli bir yaşa kadar süren bir süreç"
-          ],
-          "dogruCevap": "Sürekli devam eden bir süreç"
-        },
-        {
-          "soru": "İnformal eğitim nedir?",
-          "secenekler": [
-            "Planlı ve programlı eğitim",
-            "Kendi başına gerçekleşen, plansız eğitim",
-            "Okullarda verilen resmi eğitim",
-            "Çok katmanlı öğretim"
-          ],
-          "dogruCevap": "Kendi başına gerçekleşen, plansız eğitim"
-        },
-        {
-          "soru": "Formal eğitim hangi özelliğe sahiptir?",
-          "secenekler": [
-            "Plansız ve spontane",
-            "Özel çevre içinde, planlı ve programlı",
-            "Kendi başına öğrenme",
-            "Bireysel etkileşim gerektirmez"
-          ],
-          "dogruCevap": "Özel çevre içinde, planlı ve programlı"
-        },
-        {
-          "soru": "Örgün eğitim hangi düzeyleri kapsar?",
-          "secenekler": [
-            "Okul öncesi, ilköğretim, ortaöğretim, yükseköğretim",
-            "Yükseköğretim ve işyeri eğitimi",
-            "Lise ve üniversite eğitimi",
-            "Evde eğitim ve okul dışı öğrenme"
-          ],
-          "dogruCevap": "Okul öncesi, ilköğretim, ortaöğretim, yükseköğretim"
-        },
-        {
-          "soru": "Yaygın eğitim nedir?",
-          "secenekler": [
-            "Örgün eğitime katılmayan bireylere yönelik eğitim",
-            "Resmi okullarda verilen eğitim",
-            "İnformal eğitim süreçlerinin birleşimi",
-            "Okul dışı eğitim aktiviteleri"
-          ],
-          "dogruCevap": "Örgün eğitime katılmayan bireylere yönelik eğitim"
-        },
-        {
-          "soru": "İnformal eğitimde öğrenme nasıl gerçekleşir?",
-          "secenekler": [
-            "Öğrencinin öğretmene bağımlı olması",
-            "Planlı, programlı bir yapıda",
-            "Doğal yaşamda ve günlük etkileşimlerde",
-            "Okul ortamında"
-          ],
-          "dogruCevap": "Doğal yaşamda ve günlük etkileşimlerde"
-        },
-        {
-          "soru": "Eğitim süreci sonunda bireyin kazandığı değişim nedir?",
-          "secenekler": [
-            "Kişisel özelliklerde gelişim",
-            "Davranışlarda değişim",
-            "Fiziksel güç",
-            "Beceri kaybı"
-          ],
-          "dogruCevap": "Davranışlarda değişim"
-        },
-        {
-          "soru": "Eğitimin hangi özelliği onu bir süreç olarak tanımlar?",
-          "secenekler": [
-            "Eğitim belirli bir süre içinde ve ömür boyu devam eder",
-            "Eğitim yalnızca bireyin içsel motivasyonuyla gerçekleşir",
-            "Eğitim bir anda ve kısa sürede tamamlanır",
-            "Eğitim genellikle evde yapılır"
-          ],
-          "dogruCevap": "Eğitim belirli bir süre içinde ve ömür boyu devam eder"
+          "dogruCevap": "Belirli bir zaman diliminde devam eder"
         },
         {
           "soru": "Eğitimin kasıtlı olması neyi ifade eder?",
           "secenekler": [
-            "Bireyin bilinçli bir şekilde eğitim alması",
-            "Bir amaca yönelik olarak planlı yapılması",
-            "Kendi başına ve plansız bir şekilde öğrenilmesi",
-            "İstenmeyen öğrenmelerin gerçekleşmesi"
+            "Kendi başına öğrenilmesi",
+            "Bilinçli ve planlı yapılması",
+            "Doğal yaşamda gerçekleşmesi",
+            "Spontane etkileşimle öğrenme"
           ],
-          "dogruCevap": "Bir amaca yönelik olarak planlı yapılması"
+          "dogruCevap": "Bilinçli ve planlı yapılması"
         },
         {
-          "soru": "Formal eğitimin bir özelliği aşağıdakilerden hangisidir?",
+          "soru": "Formal eğitim hangi özelliğe sahiptir?",
           "secenekler": [
-            "Günlük yaşamda kendiliğinden gerçekleşmesi",
-            "Planlı ve programlı olması",
-            "Bireyler arasında etkileşim gerektirmemesi",
-            "Kendi başına öğrenmeye dayalı olması"
+            "Kendiliğinden öğrenme",
+            "Özel çevrede planlı ve programlı",
+            "Günlük etkileşimle öğrenme",
+            "Bireysel deneyimlere dayanır"
           ],
-          "dogruCevap": "Planlı ve programlı olması"
+          "dogruCevap": "Özel çevrede planlı ve programlı"
         },
         {
-          "soru": "Eğitimin bir davranış değişikliği yaratması neyi ifade eder?",
+          "soru": "Yaygın eğitim hangi bireyler için uygundur?",
           "secenekler": [
-            "Yeni bilgi kazanımı",
-            "Bireyin düşünce yapısında değişim",
-            "Bireyin yaptığı bir hatayı fark etmesi",
-            "Yeni davranışlar öğrenmesi"
+            "Örgün eğitime katılmamış bireyler",
+            "Sadece ilkokul öğrencileri",
+            "Okulda eğitim alan bireyler",
+            "Yükseköğrenim gören bireyler"
           ],
-          "dogruCevap": "Yeni davranışlar öğrenmesi"
+          "dogruCevap": "Örgün eğitime katılmamış bireyler"
         },
         {
-          "soru": "Yaygın eğitim hangi tür bireyler için uygulanır?",
+          "soru": "İnformal eğitim nasıl gerçekleşir?",
           "secenekler": [
-            "Okulda olmayan, daha önce eğitim almış bireyler",
-            "Sadece okullarda eğitim gören bireyler",
-            "Üniversite öğrencileri",
-            "Öğrenciler ve öğretmenler"
+            "Planlı ve programlı şekilde",
+            "Doğal yaşamda günlük etkileşimle",
+            "Okul ortamında öğretmenle",
+            "Resmi müfredat çerçevesinde"
           ],
-          "dogruCevap": "Okulda olmayan, daha önce eğitim almış bireyler"
+          "dogruCevap": "Doğal yaşamda günlük etkileşimle"
         },
         {
           "soru": "Örgün eğitim hangi ortamda gerçekleşir?",
@@ -178,29 +68,39 @@
             "Evde",
             "Okullarda",
             "İşyerlerinde",
-            "Arkadaş gruplarında"
+            "Toplum merkezlerinde"
           ],
           "dogruCevap": "Okullarda"
         },
         {
-          "soru": "İnformal eğitimde öğrenme örneklerinden biri aşağıdakilerden hangisidir?",
+          "soru": "Bir çocuğun annesinden yemek yapmayı öğrenmesi hangi eğitim türüdür?",
           "secenekler": [
-            "Bir çocuğun annesinden yemek yapmayı öğrenmesi",
-            "Bir öğretmenin ders anlatması",
-            "Bir okulda grup çalışması yapılması",
-            "Bir derste verilen eğitim"
+            "Formal eğitim",
+            "İnformal eğitim",
+            "Örgün eğitim",
+            "Yaygın eğitim"
           ],
-          "dogruCevap": "Bir çocuğun annesinden yemek yapmayı öğrenmesi"
+          "dogruCevap": "İnformal eğitim"
         },
         {
-          "soru": "Eğitimin süregeldiği en önemli alanlar arasında aşağıdakilerden hangisi yoktur?",
+          "soru": "Eğitim sonucunda bireyde hangi değişim meydana gelir?",
           "secenekler": [
-            "Sosyolojik ve felsefi açıklamalar",
-            "Kişisel gelişim ve sanat",
-            "Resmi okul dersleri",
-            "Bilimsel araştırmalar"
+            "Fiziksel büyüme",
+            "Yeni davranışlar öğrenme",
+            "Sosyolojik açıklamalar",
+            "Beceri kaybı"
           ],
-          "dogruCevap": "Bilimsel araştırmalar"
+          "dogruCevap": "Yeni davranışlar öğrenme"
+        },
+        {
+          "soru": "Formal eğitimin ayırt edici özelliği nedir?",
+          "secenekler": [
+            "Kendiliğinden gerçekleşmesi",
+            "Planlı ve programlı olması",
+            "Tamamen bireysel bir süreç olması",
+            "Günlük etkileşimlerle oluşması"
+          ],
+          "dogruCevap": "Planlı ve programlı olması"
         }
       ],
       "Eğitimin Tarihsel Gelişimi": [
@@ -599,7 +499,7 @@
       ],
       "Eğitimin Sosyal ve Hukuki Temelleri": [
         {
-          "soru": "Eğitimin sosyal temelleri ile ilgili olarak, eğitimin hangi fonksiyonu toplumsal değişim ve gelişime katkıda bulunmakla ilgilidir?",
+          "soru": "Eğitimin sosyal temelleri açısından, eğitimin hangi fonksiyonu bireylerin toplumsal değişim ve gelişimine katkıda bulunmasını sağlar?",
           "secenekler": [
             "Toplumsal entegrasyon",
             "Sosyal mobilite",
@@ -609,7 +509,7 @@
           "dogruCevap": "Sosyal mobilite"
         },
         {
-          "soru": "Hangi hukuki metin, Türkiye’de eğitimin temellerini belirleyen en üst düzeydeki yasadır?",
+          "soru": "Türkiye’de eğitimin hukuki temellerini belirleyen en üst düzeydeki yasal düzenleme hangisidir?",
           "secenekler": [
             "Anayasalar",
             "Milli Eğitim Temel Kanunu",
@@ -619,7 +519,7 @@
           "dogruCevap": "Anayasalar"
         },
         {
-          "soru": "Eğitimin sosyal yönleriyle ilgili olarak hangi kurum, eğitim politikalarının oluşturulmasında en fazla rol oynar?",
+          "soru": "Eğitim politikalarının oluşturulmasında Türkiye’de en etkili olan kurum aşağıdakilerden hangisidir?",
           "secenekler": [
             "Milli Eğitim Bakanlığı",
             "Yükseköğretim Kurulu",
@@ -629,37 +529,7 @@
           "dogruCevap": "Milli Eğitim Bakanlığı"
         },
         {
-          "soru": "Eğitimle ilgili olarak, öğrencilerin eşit haklara sahip olmasını sağlayan hukuki düzenleme nedir?",
-          "secenekler": [
-            "Eğitimde fırsat eşitliği",
-            "Özel okulların denetimi",
-            "Okul kayıtlarının yerel yönetimlerce yapılması",
-            "Kamusal eğitim alanındaki özelleştirme"
-          ],
-          "dogruCevap": "Eğitimde fırsat eşitliği"
-        },
-        {
-          "soru": "Eğitimin sosyal rolüyle ilgili aşağıdaki kavramlardan hangisi, toplumsal normların öğretilmesinde önemli bir yer tutar?",
-          "secenekler": [
-            "Toplumsal entegrasyon",
-            "Sosyal mobilite",
-            "Sosyal eşitlik",
-            "Toplumsal çatışma"
-          ],
-          "dogruCevap": "Toplumsal entegrasyon"
-        },
-        {
-          "soru": "Türkiye’de eğitimde temel hak ve özgürlükleri garanti altına alan kanun hangisidir?",
-          "secenekler": [
-            "Milli Eğitim Temel Kanunu",
-            "Çocuk Hakları Sözleşmesi",
-            "Anayasaya Ek 3. Madde",
-            "Öğretmenlik Kanunu"
-          ],
-          "dogruCevap": "Milli Eğitim Temel Kanunu"
-        },
-        {
-          "soru": "Eğitimde fırsat eşitliği sağlanması konusunda Türkiye'deki en önemli yasal düzenleme nedir?",
+          "soru": "Türkiye’de eğitimde fırsat eşitliğini sağlayan en önemli yasal düzenleme nedir?",
           "secenekler": [
             "Milli Eğitim Temel Kanunu",
             "Eğitimde Fırsat Eşitliği Yasası",
@@ -669,17 +539,17 @@
           "dogruCevap": "Milli Eğitim Temel Kanunu"
         },
         {
-          "soru": "Eğitimde fırsat eşitliğini sağlamaya yönelik sosyal politika stratejilerinin en temel amacı nedir?",
+          "soru": "Eğitimde fırsat eşitliğini sağlamaya yönelik sosyal politika stratejilerinin temel amacı nedir?",
           "secenekler": [
-            "Eğitimde özel yetenekli öğrencilere daha fazla fırsat sunmak",
-            "Eğitimde nitelikli öğretmen yetiştirmek",
             "Toplumsal sınıflar arasında eğitimde eşitlik sağlamak",
-            "Eğitimde bireysel farkları yok saymak"
+            "Nitelikli öğretmen sayısını artırmak",
+            "Özel yetenekli öğrencilere daha fazla fırsat sunmak",
+            "Bireysel farklılıkları göz ardı etmek"
           ],
           "dogruCevap": "Toplumsal sınıflar arasında eğitimde eşitlik sağlamak"
         },
         {
-          "soru": "Türkiye’de eğitim hakkı hangi anayasa maddesinde güvence altına alınmıştır?",
+          "soru": "Türkiye’de eğitim hakkı Anayasanın hangi maddesinde güvence altına alınmıştır?",
           "secenekler": [
             "Madde 42",
             "Madde 39",
@@ -689,27 +559,27 @@
           "dogruCevap": "Madde 42"
         },
         {
-          "soru": "Türkiye’de eğitimle ilgili olarak ailelerin, devletin denetim ve yönlendirmesi dışında karar verme yetkisine sahip olduğu okul türü hangisidir?",
+          "soru": "Eğitimde toplumsal normların öğretilmesinde önemli bir rol üstlenen kavram aşağıdakilerden hangisidir?",
           "secenekler": [
-            "Devlet okulları",
-            "Özel okullar",
-            "Temel eğitim okulları",
-            "Yükseköğretim kurumları"
+            "Toplumsal entegrasyon",
+            "Sosyal mobilite",
+            "Sosyal eşitlik",
+            "Toplumsal çatışma"
           ],
-          "dogruCevap": "Özel okullar"
+          "dogruCevap": "Toplumsal entegrasyon"
         },
         {
-          "soru": "Eğitimin hukuki temelleriyle ilgili olarak, öğretmenlerin ve yöneticilerin hakları ve sorumlulukları hangi yasa ile belirlenir?",
+          "soru": "Türkiye’de eğitimde temel hak ve özgürlükleri garanti altına alan yasa hangisidir?",
           "secenekler": [
             "Milli Eğitim Temel Kanunu",
-            "Öğretmenlik Meslek Kanunu",
-            "İş Kanunu",
-            "Eğitimde Kamu Görevlileri Kanunu"
+            "Çocuk Hakları Sözleşmesi",
+            "Anayasaya Ek 3. Madde",
+            "Öğretmenlik Meslek Kanunu"
           ],
-          "dogruCevap": "Öğretmenlik Meslek Kanunu"
+          "dogruCevap": "Milli Eğitim Temel Kanunu"
         },
         {
-          "soru": "Aşağıdakilerden hangisi eğitimde toplumsal eşitliği sağlamak amacıyla yapılan sosyal politikaların örneklerinden biri değildir?",
+          "soru": "Eğitimde toplumsal eşitliği sağlamak için uygulanan sosyal politikalar arasında hangisi yer almaz?",
           "secenekler": [
             "Özürlü öğrencilere özel eğitim imkanı sunmak",
             "Köy okullarına devlet desteği sağlamak",
@@ -719,7 +589,7 @@
           "dogruCevap": "Özel okullara devlet sübvansiyonu sağlamak"
         },
         {
-          "soru": "Eğitimde kadın erkek eşitliği ile ilgili hangi uluslararası belge, eğitimde cinsiyet eşitliğini savunur?",
+          "soru": "Eğitimde kadın erkek eşitliği ile ilgili olarak hangi uluslararası belge, cinsiyet ayrımcılığını ortadan kaldırmayı amaçlar?",
           "secenekler": [
             "Birleşmiş Milletler İnsan Hakları Evrensel Beyannamesi",
             "Kadınlara Yönelik Ayrımcılığın Ortadan Kaldırılması Sözleşmesi (CEDAW)",
@@ -729,47 +599,17 @@
           "dogruCevap": "Kadınlara Yönelik Ayrımcılığın Ortadan Kaldırılması Sözleşmesi (CEDAW)"
         },
         {
-          "soru": "Hangi hukuki belge, eğitimde öğrencilerin fiziksel ve zihinsel gelişimlerini desteklemeyi amaçlar?",
+          "soru": "Eğitimde öğrencilerin fiziksel ve zihinsel gelişimlerini desteklemeyi amaçlayan uluslararası belge aşağıdakilerden hangisidir?",
           "secenekler": [
-            "Eğitimde Fırsat Eşitliği Yasası",
             "Çocuk Hakları Sözleşmesi",
+            "Eğitimde Fırsat Eşitliği Yasası",
             "Milli Eğitim Temel Kanunu",
             "Anayasalar"
           ],
           "dogruCevap": "Çocuk Hakları Sözleşmesi"
         },
         {
-          "soru": "Eğitimde devletin izlediği temel amaç nedir?",
-          "secenekler": [
-            "Özel okulları desteklemek",
-            "Bireylerin kendi potansiyellerini keşfetmelerini sağlamak",
-            "Öğrencilerin toplumsal normlara uymalarını sağlamak",
-            "Toplumun ekonomik ve kültürel gelişimine katkıda bulunmak"
-          ],
-          "dogruCevap": "Toplumun ekonomik ve kültürel gelişimine katkıda bulunmak"
-        },
-        {
-          "soru": "Eğitimde fırsat eşitliğini sağlamak için Türkiye’de uygulanan en önemli politika nedir?",
-          "secenekler": [
-            "Öğretmenlerin daha fazla eğitim alması",
-            "Ücretsiz eğitim imkanı sunulması",
-            "Köy okullarına ulaşım imkanları sağlanması",
-            "Bütün okullarda aynı müfredatın uygulanması"
-          ],
-          "dogruCevap": "Ücretsiz eğitim imkanı sunulması"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi, eğitimde toplumsal eşitlik ilkesinin uygulanabilmesi için gereklidir?",
-          "secenekler": [
-            "Öğrencilere bireysel danışmanlık hizmeti sunulması",
-            "Eğitim kurumları arasında ekonomik farklılıkların giderilmesi",
-            "Eğitimde sadece akademik başarıya odaklanılması",
-            "Sosyal hizmetlerin eğitimle birleşmesi"
-          ],
-          "dogruCevap": "Eğitim kurumları arasında ekonomik farklılıkların giderilmesi"
-        },
-        {
-          "soru": "Türkiye’de eğitimle ilgili olarak, ailelerin eğitimde daha fazla söz sahibi olduğu durum hangi okul türü için geçerlidir?",
+          "soru": "Türkiye’de ailelerin devletin denetimi dışında daha fazla söz sahibi olduğu okul türü hangisidir?",
           "secenekler": [
             "Devlet okulları",
             "Özel okullar",
@@ -779,16 +619,17 @@
           "dogruCevap": "Özel okullar"
         },
         {
-          "soru": "Eğitimin temel amacıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+          "soru": "Eğitimin temel amaçlarından biri aşağıdakilerden hangisidir?",
           "secenekler": [
-            "Eğitim, sadece bireylerin iş gücü piyasasında yer bulmasına yardımcı olur.",
-            "Eğitim, toplumsal değerleri ve kültürü aktarmayı amaçlar.",
-            "Eğitim, yalnızca bireysel başarıyı artırmayı hedefler.",
-            "Eğitim, sınıfsal eşitsizlikleri pekiştirir."
+            "Toplumun ekonomik ve kültürel gelişimine katkıda bulunmak",
+            "Bireylerin yalnızca akademik başarılarını artırmak",
+            "Sınıfsal eşitsizlikleri güçlendirmek",
+            "Toplumsal normlara uymayan bireyleri dışlamak"
           ],
-          "dogruCevap": "Eğitim, toplumsal değerleri ve kültürü aktarmayı amaçlar."
+          "dogruCevap": "Toplumun ekonomik ve kültürel gelişimine katkıda bulunmak"
         }
       ],
+
       "Eğitimin Ekonomik ve Politik Temelleri": [
         {
           "soru": "Aşağıdakilerden hangisi eğitimin ekonomik işlevlerinden biridir?",
@@ -981,734 +822,726 @@
           "dogruCevap": "Çatışma teorisi"
         }
       ],
+
       "Eğitim Bilimlerinde Yöntem": [
-        {
-          "soru": "Aşağıdakilerden hangisi eğitimde kullanılan nitel bir araştırma yöntemidir?",
-          "secenekler": [
-            "Deneysel araştırma",
-            "Anket yöntemi",
-            "Görüşme yöntemi",
-            "İstatistiksel analiz"
-          ],
-          "dogruCevap": "Görüşme yöntemi"
-        },
-        {
-          "soru": "Aşağıdaki araştırma türlerinden hangisi, birey veya grup üzerinde kontrol yaparak nedensel ilişkiler kurmaya yönelik bir yöntemdir?",
-          "secenekler": [
-            "Deneysel araştırma",
-            "Durum çalışması",
-            "Eylem araştırması",
-            "Etnografik araştırma"
-          ],
-          "dogruCevap": "Deneysel araştırma"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi eğitimde nicel araştırma yöntemine örnek olarak verilebilir?",
-          "secenekler": [
-            "Görüşme",
-            "Anket",
-            "Açık uçlu soru formu",
-            "Katılımcı gözlem"
-          ],
-          "dogruCevap": "Anket"
-        },
-        {
-          "soru": "Aşağıdaki araştırma yöntemlerinden hangisi, öğretmenlerin sınıf içi davranışlarını gözlemlemeyi amaçlar?",
-          "secenekler": [
-            "Deneysel araştırma",
-            "Etnografik araştırma",
-            "Durum çalışması",
-            "Eylem araştırması"
-          ],
-          "dogruCevap": "Etnografik araştırma"
-        },
-        {
-          "soru": "Hangi araştırma türü, öğretmenlerin sınıf yönetimi becerilerini geliştirmeyi amaçlayan, öğretmenin katılımı ile yürütülen araştırmalardır?",
-          "secenekler": [
-            "Deneysel araştırma",
-            "Eylem araştırması",
-            "İçsel araştırma",
-            "Durum çalışması"
-          ],
-          "dogruCevap": "Eylem araştırması"
-        },
-        {
-          "soru": "Aşağıdaki verilerden hangisi, nitel araştırma yönteminde elde edilen bir veri türüdür?",
-          "secenekler": [
-            "Sayılar ve oranlar",
-            "Görüşmelerden elde edilen metinler",
-            "Grafikler ve tablolar",
-            "İstatistiksel veriler"
-          ],
-          "dogruCevap": "Görüşmelerden elde edilen metinler"
-        },
-        {
-          "soru": "Eğitim bilimlerinde kullanılan betimsel araştırmaların amacı nedir?",
-          "secenekler": [
-            "Veri toplama ve sonuç çıkarma",
-            "Bir durumu olduğu gibi betimlemek",
-            "Korelasyonları incelemek",
-            "Hipotez testleri yapmak"
-          ],
-          "dogruCevap": "Bir durumu olduğu gibi betimlemek"
-        },
-        {
-          "soru": "Aşağıdaki eğitim araştırmalarından hangisi öğretmenlerin sınıf içindeki davranışlarını değiştirmeyi amaçlayan araştırma türüdür?",
-          "secenekler": [
-            "Deneysel araştırma",
-            "Eylem araştırması",
-            "Etnografik araştırma",
-            "Özdeğerlendirme araştırması"
-          ],
-          "dogruCevap": "Eylem araştırması"
-        },
-        {
-          "soru": "Aşağıdaki seçeneklerden hangisi nitel araştırma yönteminde kullanılan veri toplama araçlarından biridir?",
-          "secenekler": [
-            "Anket",
-            "Görüşme",
-            "Deney",
-            "Test"
-          ],
-          "dogruCevap": "Görüşme"
-        },
-        {
-          "soru": "Bir öğretmenin sınıf içi disiplinini gözlemlemek amacıyla yapılan ve öğretmenin davranışlarını inceleyen araştırma türü aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Etnografik araştırma",
-            "Deneysel araştırma",
-            "Durum çalışması",
-            "Karma araştırma"
-          ],
-          "dogruCevap": "Etnografik araştırma"
-        },
-        {
-          "soru": "Aşağıdaki seçeneklerden hangisi nicel araştırma türü değildir?",
-          "secenekler": [
-            "Anket",
-            "Deneysel araştırma",
-            "İstatistiksel analiz",
-            "Görüşme"
-          ],
-          "dogruCevap": "Görüşme"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi eğitimde yapılacak araştırma için en uygun örneklerden biridir?",
-          "secenekler": [
-            "Sınıf içindeki öğrenci başarılarının ölçülmesi",
-            "Bir öğretmenin eğitimsel felsefesinin incelenmesi",
-            "Bir okulun genel yönetim yapısının gözlemlenmesi",
-            "Öğrencilerin psikolojik gelişimlerinin ölçülmesi"
-          ],
-          "dogruCevap": "Sınıf içindeki öğrenci başarılarının ölçülmesi"
-        },
-        {
-          "soru": "Aşağıdaki araştırma türlerinden hangisi, sınıf içindeki öğretim yöntemlerinin öğrenci başarıları ile ilişkisini inceler?",
-          "secenekler": [
-            "Deneysel araştırma",
-            "Durum çalışması",
-            "Görüşme",
-            "Anket"
-          ],
-          "dogruCevap": "Deneysel araştırma"
-        },
-        {
-          "soru": "Aşağıdaki yöntemlerden hangisi, eğitimde araştırma yaparken öğretmenlerin katılımıyla uygulanan bir yöntemdir?",
-          "secenekler": [
-            "Eylem araştırması",
-            "Deneysel araştırma",
-            "Anket yöntemi",
-            "İçsel araştırma"
-          ],
-          "dogruCevap": "Eylem araştırması"
-        },
-        {
-          "soru": "Eğitimde araştırma yaparken verilerin toplanmasında kullanılan aşağıdaki yöntemlerden hangisi genellikle sayısal verileri toplamak için kullanılır?",
-          "secenekler": [
-            "Görüşme",
-            "Anket",
-            "Katılımcı gözlem",
-            "Etnografik araştırma"
-          ],
-          "dogruCevap": "Anket"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi eğitimde kullanılan karma yöntem araştırmalarına örnek teşkil eder?",
-          "secenekler": [
-            "Nicel ve nitel araştırma yöntemlerinin aynı araştırmada birleştirilmesi",
-            "Sadece anket uygulanması",
-            "Yalnızca deneysel araştırma yapılması",
-            "Sadece gözlem yapılması"
-          ],
-          "dogruCevap": "Nicel ve nitel araştırma yöntemlerinin aynı araştırmada birleştirilmesi"
-        },
-        {
-          "soru": "Eğitimde, öğretmenlerin sınıf içi performanslarını değerlendirmek amacıyla yapılan gözlemler hangi araştırma türüne örnek teşkil eder?",
-          "secenekler": [
-            "Deneysel araştırma",
-            "Etnografik araştırma",
-            "Durum çalışması",
-            "Karma araştırma"
-          ],
-          "dogruCevap": "Etnografik araştırma"
-        },
-        {
-          "soru": "Aşağıdaki eğitim araştırma türlerinden hangisi, bireylerin düşüncelerini ve deneyimlerini derinlemesine anlamayı amaçlar?",
-          "secenekler": [
-            "Deneysel araştırma",
-            "Etnografik araştırma",
-            "Durum çalışması",
-            "Fenomenolojik araştırma"
-          ],
-          "dogruCevap": "Fenomenolojik araştırma"
-        },
-        {
-          "soru": "Bir öğretmenin öğrencilerle ilgili gözlem yaparak, sınıf içindeki ilişkileri anlamaya çalıştığı araştırma türü aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Durum çalışması",
-            "Etnografik araştırma",
-            "Deneysel araştırma",
-            "Anket yöntemi"
-          ],
-          "dogruCevap": "Etnografik araştırma"
-        }
+    {
+      "soru": "Aşağıdakilerden hangisi eğitimde kullanılan nitel bir araştırma yöntemidir?",
+      "secenekler": [
+        "Deneysel araştırma",
+        "Anket yöntemi",
+        "Görüşme yöntemi",
+        "İstatistiksel analiz"
       ],
+      "dogruCevap": "Görüşme yöntemi"
+    },
+    {
+      "soru": "Aşağıdaki araştırma türlerinden hangisi, birey veya grup üzerinde kontrol yaparak nedensel ilişkiler kurmaya yönelik bir yöntemdir?",
+      "secenekler": [
+        "Deneysel araştırma",
+        "Durum çalışması",
+        "Eylem araştırması",
+        "Etnografik araştırma"
+      ],
+      "dogruCevap": "Deneysel araştırma"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi eğitimde nicel araştırma yöntemine örnek olarak verilebilir?",
+      "secenekler": [
+        "Görüşme",
+        "Anket",
+        "Açık uçlu soru formu",
+        "Katılımcı gözlem"
+      ],
+      "dogruCevap": "Anket"
+    },
+    {
+      "soru": "Aşağıdaki araştırma yöntemlerinden hangisi, öğretmenlerin sınıf içi davranışlarını gözlemlemeyi amaçlar?",
+      "secenekler": [
+        "Deneysel araştırma",
+        "Etnografik araştırma",
+        "Durum çalışması",
+        "Eylem araştırması"
+      ],
+      "dogruCevap": "Etnografik araştırma"
+    },
+    {
+      "soru": "Hangi araştırma türü, öğretmenlerin sınıf yönetimi becerilerini geliştirmeyi amaçlayan, öğretmenin katılımı ile yürütülen araştırmalardır?",
+      "secenekler": [
+        "Deneysel araştırma",
+        "Eylem araştırması",
+        "İçsel araştırma",
+        "Durum çalışması"
+      ],
+      "dogruCevap": "Eylem araştırması"
+    },
+    {
+      "soru": "Aşağıdaki verilerden hangisi, nitel araştırma yönteminde elde edilen bir veri türüdür?",
+      "secenekler": [
+        "Sayılar ve oranlar",
+        "Görüşmelerden elde edilen metinler",
+        "Grafikler ve tablolar",
+        "İstatistiksel veriler"
+      ],
+      "dogruCevap": "Görüşmelerden elde edilen metinler"
+    },
+    {
+      "soru": "Eğitim bilimlerinde kullanılan betimsel araştırmaların amacı nedir?",
+      "secenekler": [
+        "Veri toplama ve sonuç çıkarma",
+        "Bir durumu olduğu gibi betimlemek",
+        "Korelasyonları incelemek",
+        "Hipotez testleri yapmak"
+      ],
+      "dogruCevap": "Bir durumu olduğu gibi betimlemek"
+    },
+    {
+      "soru": "Aşağıdaki eğitim araştırmalarından hangisi öğretmenlerin sınıf içindeki davranışlarını değiştirmeyi amaçlayan araştırma türüdür?",
+      "secenekler": [
+        "Deneysel araştırma",
+        "Eylem araştırması",
+        "Etnografik araştırma",
+        "Özdeğerlendirme araştırması"
+      ],
+      "dogruCevap": "Eylem araştırması"
+    },
+    {
+      "soru": "Aşağıdaki seçeneklerden hangisi nitel araştırma yönteminde kullanılan veri toplama araçlarından biridir?",
+      "secenekler": [
+        "Anket",
+        "Görüşme",
+        "Deney",
+        "Test"
+      ],
+      "dogruCevap": "Görüşme"
+    },
+    {
+      "soru": "Bir öğretmenin sınıf içi disiplinini gözlemlemek amacıyla yapılan ve öğretmenin davranışlarını inceleyen araştırma türü aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Etnografik araştırma",
+        "Deneysel araştırma",
+        "Durum çalışması",
+        "Karma araştırma"
+      ],
+      "dogruCevap": "Etnografik araştırma"
+    },
+    {
+      "soru": "Aşağıdaki seçeneklerden hangisi nicel araştırma türü değildir?",
+      "secenekler": [
+        "Anket",
+        "Deneysel araştırma",
+        "İstatistiksel analiz",
+        "Görüşme"
+      ],
+      "dogruCevap": "Görüşme"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi eğitimde yapılacak araştırma için en uygun örneklerden biridir?",
+      "secenekler": [
+        "Sınıf içindeki öğrenci başarılarının ölçülmesi",
+        "Bir öğretmenin eğitimsel felsefesinin incelenmesi",
+        "Bir okulun genel yönetim yapısının gözlemlenmesi",
+        "Öğrencilerin psikolojik gelişimlerinin ölçülmesi"
+      ],
+      "dogruCevap": "Sınıf içindeki öğrenci başarılarının ölçülmesi"
+    },
+    {
+      "soru": "Aşağıdaki araştırma türlerinden hangisi, sınıf içindeki öğretim yöntemlerinin öğrenci başarıları ile ilişkisini inceler?",
+      "secenekler": [
+        "Deneysel araştırma",
+        "Durum çalışması",
+        "Görüşme",
+        "Anket"
+      ],
+      "dogruCevap": "Deneysel araştırma"
+    },
+    {
+      "soru": "Aşağıdaki yöntemlerden hangisi, eğitimde araştırma yaparken öğretmenlerin katılımıyla uygulanan bir yöntemdir?",
+      "secenekler": [
+        "Eylem araştırması",
+        "Deneysel araştırma",
+        "Anket yöntemi",
+        "İçsel araştırma"
+      ],
+      "dogruCevap": "Eylem araştırması"
+    },
+    {
+      "soru": "Eğitimde araştırma yaparken verilerin toplanmasında kullanılan aşağıdaki yöntemlerden hangisi genellikle sayısal verileri toplamak için kullanılır?",
+      "secenekler": [
+        "Görüşme",
+        "Anket",
+        "Katılımcı gözlem",
+        "Etnografik araştırma"
+      ],
+      "dogruCevap": "Anket"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi eğitimde kullanılan karma yöntem araştırmalarına örnek teşkil eder?",
+      "secenekler": [
+        "Nicel ve nitel araştırma yöntemlerinin aynı araştırmada birleştirilmesi",
+        "Sadece anket uygulanması",
+        "Yalnızca deneysel araştırma yapılması",
+        "Sadece gözlem yapılması"
+      ],
+      "dogruCevap": "Nicel ve nitel araştırma yöntemlerinin aynı araştırmada birleştirilmesi"
+    },
+    {
+      "soru": "Eğitimde, öğretmenlerin sınıf içi performanslarını değerlendirmek amacıyla yapılan gözlemler hangi araştırma türüne örnek teşkil eder?",
+      "secenekler": [
+        "Deneysel araştırma",
+        "Etnografik araştırma",
+        "Durum çalışması",
+        "Karma araştırma"
+      ],
+      "dogruCevap": "Etnografik araştırma"
+    },
+    {
+      "soru": "Aşağıdaki eğitim araştırma türlerinden hangisi, bireylerin düşüncelerini ve deneyimlerini derinlemesine anlamayı amaçlar?",
+      "secenekler": [
+        "Deneysel araştırma",
+        "Etnografik araştırma",
+        "Durum çalışması",
+        "Fenomenolojik araştırma"
+      ],
+      "dogruCevap": "Fenomenolojik araştırma"
+    },
+    {
+      "soru": "Bir öğretmenin öğrencilerle ilgili gözlem yaparak, sınıf içindeki ilişkileri anlamaya çalıştığı araştırma türü aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Durum çalışması",
+        "Etnografik araştırma",
+        "Deneysel araştırma",
+        "Anket yöntemi"
+      ],
+      "dogruCevap": "Etnografik araştırma"
+    }
+  ],
       "Eğitimin İşlevleri": [
-        {
-          "soru": "Aşağıdaki seçeneklerden hangisi eğitimin ekonomik işlevine örnek olarak verilebilir?",
-          "secenekler": [
-            "Toplumsal dayanışmayı artırmak",
-            "Bireyleri iş gücüne hazırlamak",
-            "Kültürel mirası aktarmak",
-            "Bireylerin kişisel gelişimlerini sağlamak"
-          ],
-          "dogruCevap": "Bireyleri iş gücüne hazırlamak"
-        },
-        {
-          "soru": "Eğitimin toplumsal işlevi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-          "secenekler": [
-            "Eğitim, bireylerin iş gücü piyasasına katılımını sağlar.",
-            "Eğitim, bireylerin toplumsal normlara ve değerlere uygun davranmalarını sağlar.",
-            "Eğitim, bireylerin kişisel gelişimlerini tamamlamalarını sağlar.",
-            "Eğitim, kültürel mirası aktarmak için önemlidir."
-          ],
-          "dogruCevap": "Eğitim, bireylerin toplumsal normlara ve değerlere uygun davranmalarını sağlar."
-        },
-        {
-          "soru": "Eğitimin bireysel işlevi ile ilgili olarak aşağıdakilerden hangisi doğru bir açıklamadır?",
-          "secenekler": [
-            "Bireyin toplumsal değerler ve normlarla tanışmasını sağlar.",
-            "Bireyin psikolojik ve kişisel gelişimini destekler.",
-            "Bireylerin ekonomik üretime katılmalarını sağlar.",
-            "Bireylerin kültürel mirası öğrenmelerini sağlar."
-          ],
-          "dogruCevap": "Bireyin psikolojik ve kişisel gelişimini destekler."
-        },
-        {
-          "soru": "Eğitimin kültürel işlevi aşağıdakilerden hangisini içerir?",
-          "secenekler": [
-            "Toplumun kültürel mirasını nesilden nesile aktarmak",
-            "Bireylerin meslek edinmesini sağlamak",
-            "Bireyleri ekonomik hayata hazırlamak",
-            "Bireylerin toplumsal uyum içinde yaşamalarını sağlamak"
-          ],
-          "dogruCevap": "Toplumun kültürel mirasını nesilden nesile aktarmak"
-        },
-        {
-          "soru": "Eğitim, bireylerin toplumda kendilerini gerçekleştirmelerine katkı sağlamak amacıyla aşağıdaki işlevlerden hangisini yerine getirir?",
-          "secenekler": [
-            "Ekonomik işlev",
-            "Sosyal işlev",
-            "Bireysel işlev",
-            "Kültürel işlev"
-          ],
-          "dogruCevap": "Bireysel işlev"
-        },
-        {
-          "soru": "Eğitimin toplumsal işlevi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-          "secenekler": [
-            "Eğitim, bireylerin toplumsal sorumluluklarını yerine getirmesini sağlar.",
-            "Eğitim, toplumun değer ve normlarının bireyler aracılığıyla devamını sağlar.",
-            "Eğitim, bireylerin kültürel mirasa sahip çıkmalarını sağlar.",
-            "Eğitim, toplumun ekonomik kalkınmasına katkı sağlar."
-          ],
-          "dogruCevap": "Eğitim, toplumun ekonomik kalkınmasına katkı sağlar."
-        },
-        {
-          "soru": "Eğitim sisteminin birey üzerinde yaptığı en önemli etki aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Bireyin meslek edinmesi",
-            "Bireyin kültürel mirasa sahip olması",
-            "Bireyin toplumsal rollerini öğrenmesi",
-            "Bireyin kişisel gelişimini tamamlaması"
-          ],
-          "dogruCevap": "Bireyin kişisel gelişimini tamamlaması"
-        },
-        {
-          "soru": "Eğitimin bireyler arasındaki eşitsizlikleri azaltma işlevi hangi işlev ile ilgilidir?",
-          "secenekler": [
-            "Bireysel işlev",
-            "Toplumsal işlev",
-            "Kültürel işlev",
-            "Ekonomik işlev"
-          ],
-          "dogruCevap": "Toplumsal işlev"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi eğitimin bireysel işlevlerine örnek gösterilemez?",
-          "secenekler": [
-            "Bireyin özgüvenini geliştirmesi",
-            "Bireyin kendini gerçekleştirmesi",
-            "Bireyin toplumsal hayata katılımı",
-            "Bireyin meslek sahibi olması"
-          ],
-          "dogruCevap": "Bireyin toplumsal hayata katılımı"
-        },
-        {
-          "soru": "Eğitimin en temel toplumsal işlevi nedir?",
-          "secenekler": [
-            "Toplumun değerlerini ve kültürel mirasını korumak",
-            "Bireylerin özgürlüklerini arttırmak",
-            "Toplumda toplumsal dayanışmayı sağlamak",
-            "Bireyleri ekonomik olarak güçlendirmek"
-          ],
-          "dogruCevap": "Toplumda toplumsal dayanışmayı sağlamak"
-        },
-        {
-          "soru": "Eğitimin bireysel işlevi, bireylerin hangi alanda gelişmesini amaçlar?",
-          "secenekler": [
-            "Toplumsal dayanışma",
-            "Psikolojik ve kişisel gelişim",
-            "Kültürel aktarım",
-            "Ekonomik kalkınma"
-          ],
-          "dogruCevap": "Psikolojik ve kişisel gelişim"
-        },
-        {
-          "soru": "Aşağıdaki işlevlerden hangisi eğitimin toplumsal işleviyle ilgili değildir?",
-          "secenekler": [
-            "Toplumdaki kültürel mirası aktarmak",
-            "Toplumda sosyal uyumu sağlamak",
-            "Toplumsal eşitsizlikleri artırmak",
-            "Toplumdaki bireylerin iş gücüne katılımını sağlamak"
-          ],
-          "dogruCevap": "Toplumsal eşitsizlikleri artırmak"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi eğitimin ekonomik işlevine örnek teşkil eder?",
-          "secenekler": [
-            "Bireyleri iş gücüne hazırlamak",
-            "Bireylerin kültürel mirasa sahip çıkmalarını sağlamak",
-            "Bireylerin kişisel gelişimlerini desteklemek",
-            "Bireylerin toplumsal normlara uygun davranmalarını sağlamak"
-          ],
-          "dogruCevap": "Bireyleri iş gücüne hazırlamak"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi eğitimin sosyal işlevlerinden biridir?",
-          "secenekler": [
-            "Bireylerin toplumsal rollerini öğrenmeleri",
-            "Bireylerin meslek sahibi olmaları",
-            "Bireylerin kişisel gelişimlerini tamamlamaları",
-            "Bireylerin ekonomik gücünü arttırmaları"
-          ],
-          "dogruCevap": "Bireylerin toplumsal rollerini öğrenmeleri"
-        },
-        {
-          "soru": "Eğitim, bireylere toplumun değerlerini öğreterek hangi işlevi yerine getirir?",
-          "secenekler": [
-            "Ekonomik işlev",
-            "Kültürel işlev",
-            "Bireysel işlev",
-            "Sosyal işlev"
-          ],
-          "dogruCevap": "Kültürel işlev"
-        },
-        {
-          "soru": "Eğitimin bireylerin toplumsal sorumluluklarını öğrenmelerine yardımcı olma işlevi hangi işlevle ilgilidir?",
-          "secenekler": [
-            "Bireysel işlev",
-            "Toplumsal işlev",
-            "Ekonomik işlev",
-            "Kültürel işlev"
-          ],
-          "dogruCevap": "Toplumsal işlev"
-        },
-        {
-          "soru": "Eğitimin aşağıdaki işlevlerinden hangisi, bireylerin özgürleşmesini sağlayan bir işlevdir?",
-          "secenekler": [
-            "Bireysel işlev",
-            "Toplumsal işlev",
-            "Kültürel işlev",
-            "Ekonomik işlev"
-          ],
-          "dogruCevap": "Bireysel işlev"
-        },
-        {
-          "soru": "Eğitimin en temel ekonomik işlevi nedir?",
-          "secenekler": [
-            "Bireylerin ekonomik olarak bağımsızlıklarını kazanmaları",
-            "Bireylerin iş gücüne katılımlarını sağlamak",
-            "Bireylerin toplumsal değerleri öğrenmelerini sağlamak",
-            "Bireylerin kültürel mirasa sahip çıkmalarını sağlamak"
-          ],
-          "dogruCevap": "Bireylerin iş gücüne katılımlarını sağlamak"
-        }
+    {
+      "soru": "Aşağıdaki seçeneklerden hangisi eğitimin ekonomik işlevine örnek olarak verilebilir?",
+      "secenekler": [
+        "Toplumsal dayanışmayı artırmak",
+        "Bireyleri iş gücüne hazırlamak",
+        "Kültürel mirası aktarmak",
+        "Bireylerin kişisel gelişimlerini sağlamak"
       ],
-      "Eğitimin Toplumsal Değişme ve Yenileşmeye Etkileri": [
-        {
-          "soru": "Eğitim, toplumsal değişmeye hangi şekilde katkı sağlar?",
-          "secenekler": [
-            "Toplumun kültürel değerlerini koruyarak",
-            "Yeni fikirlerin yayılmasına ve toplumsal değişime zemin hazırlayarak",
-            "Toplumun geleneksel yapısını güçlendirerek",
-            "Toplumda eşitsizliği arttırarak"
-          ],
-          "dogruCevap": "Yeni fikirlerin yayılmasına ve toplumsal değişime zemin hazırlayarak"
-        },
-        {
-          "soru": "Eğitimin toplumsal yenileşmeye etkisi aşağıdaki seçeneklerden hangisi ile açıklanabilir?",
-          "secenekler": [
-            "Eğitim, bireylerin geleneksel değerlerle uyuşmalarını sağlar.",
-            "Eğitim, bireylerin yenilikçi düşünme becerilerini geliştirir.",
-            "Eğitim, bireylerin ekonomik hayata katılmalarını engeller.",
-            "Eğitim, toplumsal eşitsizlikleri pekiştirir."
-          ],
-          "dogruCevap": "Eğitim, bireylerin yenilikçi düşünme becerilerini geliştirir."
-        },
-        {
-          "soru": "Eğitimin toplumsal değişimdeki rolü aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?",
-          "secenekler": [
-            "Eğitim, toplumsal değişimin önündeki engelleri arttırır.",
-            "Eğitim, toplumsal normlara ve geleneklere daha fazla bağlılık sağlar.",
-            "Eğitim, toplumsal değişimi hızlandırarak bireylerin yeni ideolojilere yönelmesini sağlar.",
-            "Eğitim, toplumsal değişimle ilgisizdir."
-          ],
-          "dogruCevap": "Eğitim, toplumsal değişimi hızlandırarak bireylerin yeni ideolojilere yönelmesini sağlar."
-        },
-        {
-          "soru": "Toplumsal değişim sürecinde eğitim sisteminin rolü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-          "secenekler": [
-            "Eğitim, bireylere toplumsal normları ve değerleri öğretir.",
-            "Eğitim, toplumsal değişimin gerçekleşmesini engeller.",
-            "Eğitim, toplumsal yapıdaki değişikliklere uygun bir şekilde şekillendirilebilir.",
-            "Eğitim, toplumsal yenileşmeye katkı sağlar."
-          ],
-          "dogruCevap": "Eğitim, toplumsal değişimin gerçekleşmesini engeller."
-        },
-        {
-          "soru": "Eğitimin toplumsal değişme üzerindeki etkisi hangi faktörle daha belirgin hale gelir?",
-          "secenekler": [
-            "Eğitimin sadece geleneksel değerleri koruyarak öğretilmesi",
-            "Eğitimin toplumsal eşitsizlikleri artırması",
-            "Eğitimin bireylere eleştirel düşünme becerisi kazandırması",
-            "Eğitimin bireylere sadece teknik bilgi sunması"
-          ],
-          "dogruCevap": "Eğitimin bireylere eleştirel düşünme becerisi kazandırması"
-        },
-        {
-          "soru": "Eğitimin toplumsal değişmeye olan katkılarından biri nedir?",
-          "secenekler": [
-            "Geleneksel yapıları güçlendirir",
-            "Bireylerin yenilikçi ve yaratıcı düşünmelerini sağlar",
-            "Bireyleri yalnızca ekonomik üretime yönlendirir",
-            "Bireylerin toplumsal sorumluluklarını azaltır"
-          ],
-          "dogruCevap": "Bireylerin yenilikçi ve yaratıcı düşünmelerini sağlar"
-        },
-        {
-          "soru": "Toplumsal değişim ve yenileşme sürecinde eğitim en fazla hangi alanlarda etkilidir?",
-          "secenekler": [
-            "Sosyal yapıyı koruyarak",
-            "Bireylerin toplumsal statülerini kalıcı hale getirerek",
-            "Bireylerin sosyal becerilerini geliştirmeye odaklanarak",
-            "Bireylerin ekonomi dışı alanlarda daha fazla yer almasını sağlayarak"
-          ],
-          "dogruCevap": "Bireylerin sosyal becerilerini geliştirmeye odaklanarak"
-        },
-        {
-          "soru": "Eğitim, toplumsal değişim sürecinde hangi rolü üstlenir?",
-          "secenekler": [
-            "Geleneksel değerlerin muhafaza edilmesi",
-            "Toplumun kültürel yapısının değişmesine direnç gösterilmesi",
-            "Yeni düşünce tarzlarının yayılmasını sağlaması",
-            "Bireyleri yalnızca ekonomik üretime yönlendirmesi"
-          ],
-          "dogruCevap": "Yeni düşünce tarzlarının yayılmasını sağlaması"
-        },
-        {
-          "soru": "Eğitim, toplumsal değişime katkıda bulunurken en çok hangi faktöre dikkat etmelidir?",
-          "secenekler": [
-            "Geleneksel yapıyı güçlendirmelidir.",
-            "Bireylerin değişen toplumsal ihtiyaçlarına uygun eğitim vermelidir.",
-            "Bireyleri tek tip düşünmeye teşvik etmelidir.",
-            "Toplumun geleneksel yapısını muhafaza etmelidir."
-          ],
-          "dogruCevap": "Bireylerin değişen toplumsal ihtiyaçlarına uygun eğitim vermelidir."
-        },
-        {
-          "soru": "Eğitim, toplumsal yenileşme sürecinde hangi şekilde etkin olabilir?",
-          "secenekler": [
-            "Bireylerin geleneksel düşünme kalıplarını pekiştirerek",
-            "Bireylerin mevcut toplumsal yapıyı sorgulamalarını teşvik ederek",
-            "Bireyleri sadece ekonomiye yönlendirerek",
-            "Bireylerin sosyal haklarını sınırlayarak"
-          ],
-          "dogruCevap": "Bireylerin mevcut toplumsal yapıyı sorgulamalarını teşvik ederek"
-        },
-        {
-          "soru": "Toplumsal yenileşme sürecinde eğitim ile ilgili olarak aşağıdakilerden hangisi doğru bir ifade değildir?",
-          "secenekler": [
-            "Eğitim, toplumun kültürel yapısını değiştirmeye yardımcı olabilir.",
-            "Eğitim, toplumsal eşitsizlikleri azaltabilir.",
-            "Eğitim, bireylerin yenilikçi düşünmelerini engelleyebilir.",
-            "Eğitim, toplumsal değişimin hızlanmasına katkı sağlar."
-          ],
-          "dogruCevap": "Eğitim, bireylerin yenilikçi düşünmelerini engelleyebilir."
-        },
-        {
-          "soru": "Eğitim, toplumsal değişim ve yenileşme sürecinde hangi alanda etkili olabilir?",
-          "secenekler": [
-            "Ekonomik kalkınmayı engelleyebilir",
-            "Toplumsal eşitsizlikleri pekiştirebilir",
-            "Bireylerin sosyal becerilerini geliştirebilir",
-            "Geleneksel yapıyı güçlendirebilir"
-          ],
-          "dogruCevap": "Bireylerin sosyal becerilerini geliştirebilir"
-        },
-        {
-          "soru": "Toplumsal yenileşme ve değişim süreçlerinde eğitim hangi rolü üstlenir?",
-          "secenekler": [
-            "Geleneksel değerlere sadık kalarak toplumu korur",
-            "Yeni fikirlerin ve düşüncelerin yayılmasına zemin hazırlar",
-            "Bireyleri toplumsal yapıya daha çok uyum sağlamaya yönlendirir",
-            "Toplumun kültürel yapısını sabit tutar"
-          ],
-          "dogruCevap": "Yeni fikirlerin ve düşüncelerin yayılmasına zemin hazırlar"
-        },
-        {
-          "soru": "Toplumsal değişme ve yenileşme ile ilgili olarak eğitimin en önemli etkisi nedir?",
-          "secenekler": [
-            "Bireylerin toplumsal sorumluluklarını azaltmak",
-            "Bireyleri geleneksel yapıyı korumaya yönlendirmek",
-            "Bireylerin yeni düşünme biçimleri geliştirmesini sağlamak",
-            "Bireyleri yalnızca ekonomik kalkınmaya odaklatmak"
-          ],
-          "dogruCevap": "Bireylerin yeni düşünme biçimleri geliştirmesini sağlamak"
-        },
-        {
-          "soru": "Toplumsal değişim ve yenileşme sürecinde eğitim ne şekilde etki eder?",
-          "secenekler": [
-            "Eğitim, geleneksel yapıları sürdürmek için bir araçtır.",
-            "Eğitim, toplumsal eşitsizlikleri artıran bir faktördür.",
-            "Eğitim, toplumun değişen ihtiyaçlarına uygun olarak şekillendirilebilir.",
-            "Eğitim, toplumsal normlara tamamen karşıdır."
-          ],
-          "dogruCevap": "Eğitim, toplumun değişen ihtiyaçlarına uygun olarak şekillendirilebilir."
-        },
-        {
-          "soru": "Eğitim, toplumsal yenileşme sürecinde hangi şekilde bir değişim yaratabilir?",
-          "secenekler": [
-            "Bireylerin toplumsal sorumluluklarını azaltarak",
-            "Bireylerin geleneksel yapıyı sorgulamalarını sağlayarak",
-            "Bireyleri sadece teknik becerilere yönlendirerek",
-            "Bireyleri ekonomik üretime odaklanarak"
-          ],
-          "dogruCevap": "Bireylerin geleneksel yapıyı sorgulamalarını sağlayarak"
-        },
-        {
-          "soru": "Toplumsal değişim ve yenileşme süreçlerinde eğitim hangi yönüyle öne çıkar?",
-          "secenekler": [
-            "Bireylerin toplumsal normları sorgulamalarını sağlar.",
-            "Bireylerin geleneksel değerlere sadık kalmalarını sağlar.",
-            "Bireyleri geleneksel iş gücü sistemlerine adapte eder.",
-            "Bireylerin sosyal haklarını sınırlayarak toplumu korur."
-          ],
-          "dogruCevap": "Bireylerin toplumsal normları sorgulamalarını sağlar."
-        }
+      "dogruCevap": "Bireyleri iş gücüne hazırlamak"
+    },
+    {
+      "soru": "Eğitimin toplumsal işlevi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": [
+        "Eğitim, bireylerin iş gücü piyasasına katılımını sağlar.",
+        "Eğitim, bireylerin toplumsal normlara ve değerlere uygun davranmalarını sağlar.",
+        "Eğitim, bireylerin kişisel gelişimlerini tamamlamalarını sağlar.",
+        "Eğitim, kültürel mirası aktarmak için önemlidir."
       ],
+      "dogruCevap": "Eğitim, bireylerin toplumsal normlara ve değerlere uygun davranmalarını sağlar."
+    },
+    {
+      "soru": "Eğitimin bireysel işlevi ile ilgili olarak aşağıdakilerden hangisi doğru bir açıklamadır?",
+      "secenekler": [
+        "Bireyin toplumsal değerler ve normlarla tanışmasını sağlar.",
+        "Bireyin psikolojik ve kişisel gelişimini destekler.",
+        "Bireylerin ekonomik üretime katılmalarını sağlar.",
+        "Bireylerin kültürel mirası öğrenmelerini sağlar."
+      ],
+      "dogruCevap": "Bireyin psikolojik ve kişisel gelişimini destekler."
+    },
+    {
+      "soru": "Eğitimin kültürel işlevi aşağıdakilerden hangisini içerir?",
+      "secenekler": [
+        "Toplumun kültürel mirasını nesilden nesile aktarmak",
+        "Bireylerin meslek edinmesini sağlamak",
+        "Bireyleri ekonomik hayata hazırlamak",
+        "Bireylerin toplumsal uyum içinde yaşamalarını sağlamak"
+      ],
+      "dogruCevap": "Toplumun kültürel mirasını nesilden nesile aktarmak"
+    },
+    {
+      "soru": "Eğitim, bireylerin toplumda kendilerini gerçekleştirmelerine katkı sağlamak amacıyla aşağıdaki işlevlerden hangisini yerine getirir?",
+      "secenekler": [
+        "Ekonomik işlev",
+        "Sosyal işlev",
+        "Bireysel işlev",
+        "Kültürel işlev"
+      ],
+      "dogruCevap": "Bireysel işlev"
+    },
+    {
+      "soru": "Eğitimin toplumsal işlevi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": [
+        "Eğitim, bireylerin toplumsal sorumluluklarını yerine getirmesini sağlar.",
+        "Eğitim, toplumun değer ve normlarının bireyler aracılığıyla devamını sağlar.",
+        "Eğitim, bireylerin kültürel mirasa sahip çıkmalarını sağlar.",
+        "Eğitim, toplumun ekonomik kalkınmasına katkı sağlar."
+      ],
+      "dogruCevap": "Eğitim, toplumun ekonomik kalkınmasına katkı sağlar."
+    },
+    {
+      "soru": "Eğitim sisteminin birey üzerinde yaptığı en önemli etki aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Bireyin meslek edinmesi",
+        "Bireyin kültürel mirasa sahip olması",
+        "Bireyin toplumsal rollerini öğrenmesi",
+        "Bireyin kişisel gelişimini tamamlaması"
+      ],
+      "dogruCevap": "Bireyin kişisel gelişimini tamamlaması"
+    },
+    {
+      "soru": "Eğitimin bireyler arasındaki eşitsizlikleri azaltma işlevi hangi işlev ile ilgilidir?",
+      "secenekler": [
+        "Bireysel işlev",
+        "Toplumsal işlev",
+        "Kültürel işlev",
+        "Ekonomik işlev"
+      ],
+      "dogruCevap": "Toplumsal işlev"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi eğitimin bireysel işlevlerine örnek gösterilemez?",
+      "secenekler": [
+        "Bireyin özgüvenini geliştirmesi",
+        "Bireyin kendini gerçekleştirmesi",
+        "Bireyin toplumsal hayata katılımı",
+        "Bireyin meslek sahibi olması"
+      ],
+      "dogruCevap": "Bireyin toplumsal hayata katılımı"
+    },
+    {
+      "soru": "Eğitimin en temel toplumsal işlevi nedir?",
+      "secenekler": [
+        "Toplumun değerlerini ve kültürel mirasını korumak",
+        "Bireylerin özgürlüklerini arttırmak",
+        "Toplumda toplumsal dayanışmayı sağlamak",
+        "Bireyleri ekonomik olarak güçlendirmek"
+      ],
+      "dogruCevap": "Toplumda toplumsal dayanışmayı sağlamak"
+    },
+    {
+      "soru": "Eğitimin bireysel işlevi, bireylerin hangi alanda gelişmesini amaçlar?",
+      "secenekler": [
+        "Toplumsal dayanışma",
+        "Psikolojik ve kişisel gelişim",
+        "Kültürel aktarım",
+        "Ekonomik kalkınma"
+      ],
+      "dogruCevap": "Psikolojik ve kişisel gelişim"
+    },
+    {
+      "soru": "Aşağıdaki işlevlerden hangisi eğitimin toplumsal işleviyle ilgili değildir?",
+      "secenekler": [
+        "Toplumdaki kültürel mirası aktarmak",
+        "Toplumda sosyal uyumu sağlamak",
+        "Toplumsal eşitsizlikleri artırmak",
+        "Toplumdaki bireylerin iş gücüne katılımını sağlamak"
+      ],
+      "dogruCevap": "Toplumsal eşitsizlikleri artırmak"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi eğitimin ekonomik işlevine örnek teşkil eder?",
+      "secenekler": [
+        "Bireyleri iş gücüne hazırlamak",
+        "Bireylerin kültürel mirasa sahip çıkmalarını sağlamak",
+        "Bireylerin kişisel gelişimlerini desteklemek",
+        "Bireylerin toplumsal normlara uygun davranmalarını sağlamak"
+      ],
+      "dogruCevap": "Bireyleri iş gücüne hazırlamak"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi eğitimin sosyal işlevlerinden biridir?",
+      "secenekler": [
+        "Bireylerin toplumsal rollerini öğrenmeleri",
+        "Bireylerin meslek sahibi olmaları",
+        "Bireylerin kişisel gelişimlerini tamamlamaları",
+        "Bireylerin ekonomik gücünü arttırmaları"
+      ],
+      "dogruCevap": "Bireylerin toplumsal rollerini öğrenmeleri"
+    },
+    {
+      "soru": "Eğitim, bireylere toplumun değerlerini öğreterek hangi işlevi yerine getirir?",
+      "secenekler": [
+        "Ekonomik işlev",
+        "Kültürel işlev",
+        "Bireysel işlev",
+        "Sosyal işlev"
+      ],
+      "dogruCevap": "Kültürel işlev"
+    },
+    {
+      "soru": "Eğitimin bireylerin toplumsal sorumluluklarını öğrenmelerine yardımcı olma işlevi hangi işlevle ilgilidir?",
+      "secenekler": [
+        "Bireysel işlev",
+        "Toplumsal işlev",
+        "Ekonomik işlev",
+        "Kültürel işlev"
+      ],
+      "dogruCevap": "Toplumsal işlev"
+    },
+    {
+      "soru": "Eğitimin aşağıdaki işlevlerinden hangisi, bireylerin özgürleşmesini sağlayan bir işlevdir?",
+      "secenekler": [
+        "Bireysel işlev",
+        "Toplumsal işlev",
+        "Kültürel işlev",
+        "Ekonomik işlev"
+      ],
+      "dogruCevap": "Bireysel işlev"
+    },
+    {
+      "soru": "Eğitimin en temel ekonomik işlevi nedir?",
+      "secenekler": [
+        "Bireylerin ekonomik olarak bağımsızlıklarını kazanmaları",
+        "Bireylerin iş gücüne katılımlarını sağlamak",
+        "Bireylerin toplumsal değerleri öğrenmelerini sağlamak",
+        "Bireylerin kültürel mirasa sahip çıkmalarını sağlamak"
+      ],
+      "dogruCevap": "Bireylerin iş gücüne katılımlarını sağlamak"
+    }
+  ],
+      
+  "Eğitimin Toplumsal Değişme ve Yenileşmeye Etkileri": [
+    {
+      "soru": "Eğitim, toplumsal değişmeye hangi şekilde katkı sağlar?",
+      "secenekler": [
+        "Toplumun geleneksel yapısını güçlendirerek",
+        "Toplumun kültürel değerlerini koruyarak",
+        "Yeni fikirlerin yayılmasına ve toplumsal değişime zemin hazırlayarak",
+        "Toplumda eşitsizliği arttırarak"
+      ],
+      "dogruCevap": "Yeni fikirlerin yayılmasına ve toplumsal değişime zemin hazırlayarak"
+    },
+    {
+      "soru": "Eğitimin toplumsal yenileşmeye etkisi aşağıdaki seçeneklerden hangisi ile açıklanabilir?",
+      "secenekler": [
+        "Eğitim, bireylerin yenilikçi düşünme becerilerini geliştirir.",
+        "Eğitim, bireylerin geleneksel değerlerle uyuşmalarını sağlar.",
+        "Eğitim, bireylerin ekonomik hayata katılmalarını engeller.",
+        "Eğitim, toplumsal eşitsizlikleri pekiştirir."
+      ],
+      "dogruCevap": "Eğitim, bireylerin yenilikçi düşünme becerilerini geliştirir."
+    },
+    {
+      "soru": "Eğitimin toplumsal değişimdeki rolü aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?",
+      "secenekler": [
+        "Eğitim, toplumsal normlara ve geleneklere daha fazla bağlılık sağlar.",
+        "Eğitim, toplumsal değişimin önündeki engelleri arttırır.",
+        "Eğitim, toplumsal değişimi hızlandırarak bireylerin yeni ideolojilere yönelmesini sağlar.",
+        "Eğitim, toplumsal değişimle ilgisizdir."
+      ],
+      "dogruCevap": "Eğitim, toplumsal değişimi hızlandırarak bireylerin yeni ideolojilere yönelmesini sağlar."
+    },
+    {
+      "soru": "Toplumsal değişim sürecinde eğitim sisteminin rolü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": [
+        "Eğitim, toplumsal yenileşmeye katkı sağlar.",
+        "Eğitim, toplumsal değişimin gerçekleşmesini engeller.",
+        "Eğitim, bireylere toplumsal normları ve değerleri öğretir.",
+        "Eğitim, toplumsal yapıdaki değişikliklere uygun bir şekilde şekillendirilebilir."
+      ],
+      "dogruCevap": "Eğitim, toplumsal değişimin gerçekleşmesini engeller."
+    },
+    {
+      "soru": "Eğitimin toplumsal değişme üzerindeki etkisi hangi faktörle daha belirgin hale gelir?",
+      "secenekler": [
+        "Eğitimin bireylere eleştirel düşünme becerisi kazandırması",
+        "Eğitimin bireylere sadece teknik bilgi sunması",
+        "Eğitimin toplumsal eşitsizlikleri artırması",
+        "Eğitimin sadece geleneksel değerleri koruyarak öğretilmesi"
+      ],
+      "dogruCevap": "Eğitimin bireylere eleştirel düşünme becerisi kazandırması"
+    },
+    {
+      "soru": "Eğitimin toplumsal değişmeye olan katkılarından biri nedir?",
+      "secenekler": [
+        "Bireyleri yalnızca ekonomik üretime yönlendirir",
+        "Bireylerin yenilikçi ve yaratıcı düşünmelerini sağlar",
+        "Bireylerin toplumsal sorumluluklarını azaltır",
+        "Geleneksel yapıları güçlendirir"
+      ],
+      "dogruCevap": "Bireylerin yenilikçi ve yaratıcı düşünmelerini sağlar"
+    },
+    {
+      "soru": "Toplumsal değişim ve yenileşme sürecinde eğitim en fazla hangi alanlarda etkilidir?",
+      "secenekler": [
+        "Bireylerin sosyal becerilerini geliştirmeye odaklanarak",
+        "Bireylerin ekonomi dışı alanlarda daha fazla yer almasını sağlayarak",
+        "Bireylerin toplumsal statülerini kalıcı hale getirerek",
+        "Sosyal yapıyı koruyarak"
+      ],
+      "dogruCevap": "Bireylerin sosyal becerilerini geliştirmeye odaklanarak"
+    },
+    {
+      "soru": "Eğitim, toplumsal değişim sürecinde hangi rolü üstlenir?",
+      "secenekler": [
+        "Toplumun kültürel yapısının değişmesine direnç gösterilmesi",
+        "Yeni düşünce tarzlarının yayılmasını sağlaması",
+        "Geleneksel değerlerin muhafaza edilmesi",
+        "Bireyleri yalnızca ekonomik üretime yönlendirmesi"
+      ],
+      "dogruCevap": "Yeni düşünce tarzlarının yayılmasını sağlaması"
+    },
+    {
+      "soru": "Eğitim, toplumsal değişime katkıda bulunurken en çok hangi faktöre dikkat etmelidir?",
+      "secenekler": [
+        "Bireyleri tek tip düşünmeye teşvik etmelidir.",
+        "Toplumun geleneksel yapısını muhafaza etmelidir.",
+        "Bireylerin değişen toplumsal ihtiyaçlarına uygun eğitim vermelidir.",
+        "Geleneksel yapıyı güçlendirmelidir."
+      ],
+      "dogruCevap": "Bireylerin değişen toplumsal ihtiyaçlarına uygun eğitim vermelidir."
+    },
+    {
+      "soru": "Eğitim, toplumsal yenileşme sürecinde hangi şekilde etkin olabilir?",
+      "secenekler": [
+        "Bireyleri sadece ekonomiye yönlendirerek",
+        "Bireylerin geleneksel düşünme kalıplarını pekiştirerek",
+        "Bireylerin sosyal haklarını sınırlayarak",
+        "Bireylerin mevcut toplumsal yapıyı sorgulamalarını teşvik ederek"
+      ],
+      "dogruCevap": "Bireylerin mevcut toplumsal yapıyı sorgulamalarını teşvik ederek"
+    },
+    {
+      "soru": "Toplumsal yenileşme sürecinde eğitim ile ilgili olarak aşağıdakilerden hangisi doğru bir ifade değildir?",
+      "secenekler": [
+        "Eğitim, toplumsal değişimin hızlanmasına katkı sağlar.",
+        "Eğitim, toplumun kültürel yapısını değiştirmeye yardımcı olabilir.",
+        "Eğitim, toplumsal eşitsizlikleri azaltabilir.",
+        "Eğitim, bireylerin yenilikçi düşünmelerini engelleyebilir."
+      ],
+      "dogruCevap": "Eğitim, bireylerin yenilikçi düşünmelerini engelleyebilir."
+    },
+    {
+      "soru": "Eğitim, toplumsal değişim ve yenileşme sürecinde hangi alanda etkili olabilir?",
+      "secenekler": [
+        "Bireylerin sosyal becerilerini geliştirebilir",
+        "Geleneksel yapıyı güçlendirebilir",
+        "Toplumsal eşitsizlikleri pekiştirebilir",
+        "Ekonomik kalkınmayı engelleyebilir"
+      ],
+      "dogruCevap": "Bireylerin sosyal becerilerini geliştirebilir"
+    },
+    {
+      "soru": "Toplumsal yenileşme ve değişim süreçlerinde eğitim hangi rolü üstlenir?",
+      "secenekler": [
+        "Yeni fikirlerin ve düşüncelerin yayılmasına zemin hazırlar",
+        "Bireyleri toplumsal yapıya daha çok uyum sağlamaya yönlendirir",
+        "Toplumun kültürel yapısını sabit tutar",
+        "Geleneksel değerlere sadık kalarak toplumu korur"
+      ],
+      "dogruCevap": "Yeni fikirlerin ve düşüncelerin yayılmasına zemin hazırlar"
+    },
+    {
+      "soru": "Toplumsal değişme ve yenileşme ile ilgili olarak eğitimin en önemli etkisi nedir?",
+      "secenekler": [
+        "Bireylerin toplumsal sorumluluklarını azaltmak",
+        "Bireyleri geleneksel yapıyı korumaya yönlendirmek",
+        "Bireylerin yeni düşünme biçimleri geliştirmesini sağlamak",
+        "Bireyleri yalnızca ekonomik kalkınmaya odaklatmak"
+      ],
+      "dogruCevap": "Bireylerin yeni düşünme biçimleri geliştirmesini sağlamak"
+    },
+    {
+      "soru": "Toplumsal değişim ve yenileşme sürecinde eğitim ne şekilde etki eder?",
+      "secenekler": [
+        "Eğitim, toplumsal normlara tamamen karşıdır.",
+        "Eğitim, toplumun değişen ihtiyaçlarına uygun olarak şekillendirilebilir.",
+        "Eğitim, geleneksel yapıları sürdürmek için bir araçtır.",
+        "Eğitim, toplumsal eşitsizlikleri artıran bir faktördür."
+      ],
+      "dogruCevap": "Eğitim, toplumun değişen ihtiyaçlarına uygun olarak şekillendirilebilir."
+    },
+    {
+      "soru": "Eğitim, toplumsal yenileşme sürecinde hangi şekilde bir değişim yaratabilir?",
+      "secenekler": [
+        "Bireyleri sadece teknik becerilere yönlendirerek",
+        "Bireylerin geleneksel yapıyı sorgulamalarını sağlayarak",
+        "Bireylerin toplumsal sorumluluklarını azaltarak",
+        "Bireyleri ekonomik üretime odaklanarak"
+      ],
+      "dogruCevap": "Bireylerin geleneksel yapıyı sorgulamalarını sağlayarak"
+    },
+    {
+      "soru": "Toplumsal değişim ve yenileşme süreçlerinde eğitim hangi yönüyle öne çıkar?",
+      "secenekler": [
+        "Bireylerin toplumsal normları sorgulamalarını sağlar.",
+        "Bireylerin geleneksel değerlere sadık kalmalarını sağlar.",
+        "Bireyleri geleneksel iş gücü sistemlerine adapte eder.",
+        "Bireylerin sosyal haklarını sınırlayarak toplumu korur."
+      ],
+      "dogruCevap": "Bireylerin toplumsal normları sorgulamalarını sağlar."
+    }
+  ],
       "Bir Meslek Olarak Öğretmenlik ve Öğretmen Yetiştirme Alanındaki Uygulamalarla Gelişmeler": [
-        {
-          "soru": "Öğretmenlik mesleği ile ilgili aşağıdakilerden hangisi doğrudur?",
-          "secenekler": [
-            "Öğretmenlik mesleği yalnızca eğitim sürecinde yer almayı içerir.",
-            "Öğretmenlik mesleği, sadece bilgiyi aktararak öğrencilerin öğrenmesini sağlar.",
-            "Öğretmenlik, öğrencilerin gelişimlerine katkı sağlamak için bir rehberlik rolü üstlenir.",
-            "Öğretmenlik, yalnızca okul dışındaki faaliyetleri kapsar."
-          ],
-          "dogruCevap": "Öğretmenlik, öğrencilerin gelişimlerine katkı sağlamak için bir rehberlik rolü üstlenir."
-        },
-        {
-          "soru": "Öğretmen yetiştirme süreci hangi alanı kapsamaktadır?",
-          "secenekler": [
-            "Öğretmenlerin yalnızca ders içerikleri hakkında eğitim alması",
-            "Öğretmenlerin pedagojik formasyonla ilgili eğitim alması",
-            "Öğretmenlerin yalnızca akademik bilgiyle donatılması",
-            "Öğretmenlerin sadece sınıf yönetimi becerileri üzerine eğitim alması"
-          ],
-          "dogruCevap": "Öğretmenlerin pedagojik formasyonla ilgili eğitim alması"
-        },
-        {
-          "soru": "Öğretmenlik mesleği hangi unsurlardan beslenir?",
-          "secenekler": [
-            "Teknik bilgi ve meslek içi deneyim",
-            "Pedagojik bilgi ve uygulama becerileri",
-            "Sadece meslek içi deneyim",
-            "Yalnızca teorik bilgi"
-          ],
-          "dogruCevap": "Pedagojik bilgi ve uygulama becerileri"
-        },
-        {
-          "soru": "Öğretmenlik mesleğini diğer mesleklerden ayıran temel özellik nedir?",
-          "secenekler": [
-            "Öğretmenler yalnızca teknik iş gücünü sağlarlar.",
-            "Öğretmenler, öğrencilerin kişisel gelişimlerine de katkı sağlarlar.",
-            "Öğretmenler sadece ders öğretirler, diğer işlevleri yoktur.",
-            "Öğretmenler yalnızca okul dışı etkinliklere katılırlar."
-          ],
-          "dogruCevap": "Öğretmenler, öğrencilerin kişisel gelişimlerine de katkı sağlarlar."
-        },
-        {
-          "soru": "Öğretmen yetiştirme sürecindeki en önemli unsurlardan biri nedir?",
-          "secenekler": [
-            "Öğretmenlerin sadece akademik alanda donatılması",
-            "Öğretmenlerin pedagojik formasyon eğitimi alması",
-            "Öğretmenlerin sınıf içi becerilerden bağımsız eğitilmesi",
-            "Öğretmenlerin yalnızca ders içerikleri ile ilgili eğitim alması"
-          ],
-          "dogruCevap": "Öğretmenlerin pedagojik formasyon eğitimi alması"
-        },
-        {
-          "soru": "Öğretmenlik mesleği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-          "secenekler": [
-            "Öğretmenler, öğrencilerin sadece bilgi almasını sağlar.",
-            "Öğretmenler, öğrencilerin sosyal, duygusal ve zihinsel gelişimlerine katkıda bulunur.",
-            "Öğretmenlik mesleği, sadece ders anlatma süreciyle sınırlıdır.",
-            "Öğretmenler, öğrencilere rehberlik ederek onları yetiştirirler."
-          ],
-          "dogruCevap": "Öğretmenlik mesleği, sadece ders anlatma süreciyle sınırlıdır."
-        },
-        {
-          "soru": "Öğretmenlerin meslek içi gelişim süreçleriyle ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
-          "secenekler": [
-            "Öğretmenlerin meslek içi gelişimleri sadece bireysel çabalarla olur.",
-            "Öğretmenlerin meslek içi gelişimleri sürekli ve izlenebilir olmalıdır.",
-            "Öğretmenlerin meslek içi gelişimleri yalnızca ders içeriklerine yöneliktir.",
-            "Öğretmenlerin meslek içi gelişimleri sadece öğretim tekniklerine odaklanır."
-          ],
-          "dogruCevap": "Öğretmenlerin meslek içi gelişimleri sürekli ve izlenebilir olmalıdır."
-        },
-        {
-          "soru": "Öğretmen yetiştirme sürecinde 'pedagojik formasyon' neyi ifade eder?",
-          "secenekler": [
-            "Öğretmenlerin sadece ders anlatma becerilerini ifade eder.",
-            "Öğretmenlerin öğrencilere disiplinli davranışlarını öğretmelerini sağlar.",
-            "Öğretmenlerin eğitim bilimleri ve öğretim yöntemleri üzerine kazandıkları bilgiyi ifade eder.",
-            "Öğretmenlerin sadece kişisel gelişimlerini ifade eder."
-          ],
-          "dogruCevap": "Öğretmenlerin eğitim bilimleri ve öğretim yöntemleri üzerine kazandıkları bilgiyi ifade eder."
-        },
-        {
-          "soru": "Öğretmenlik mesleğinin en temel işlevlerinden biri nedir?",
-          "secenekler": [
-            "Öğrencilerin sadece sınavlarda başarılı olmalarını sağlamak",
-            "Öğrencilere sadece teknik bilgiler öğretmek",
-            "Öğrencilere bireysel ve toplumsal değerleri kazandırmak",
-            "Öğrencilere yalnızca akademik alanda bilgiler aktarmak"
-          ],
-          "dogruCevap": "Öğrencilere bireysel ve toplumsal değerleri kazandırmak"
-        },
-        {
-          "soru": "Öğretmenlik mesleğinde meslek içi gelişim nedir?",
-          "secenekler": [
-            "Öğretmenlerin yalnızca ders içerikleri hakkında bilgi edinmeleri",
-            "Öğretmenlerin zaman zaman öğretim tekniklerini gözden geçirmeleri",
-            "Öğretmenlerin sürekli olarak yeniliklere açık olmaları ve gelişim göstermeleridir",
-            "Öğretmenlerin sadece okul dışı eğitimlere katılmaları"
-          ],
-          "dogruCevap": "Öğretmenlerin sürekli olarak yeniliklere açık olmaları ve gelişim göstermeleridir"
-        },
-        {
-          "soru": "Öğretmenlerin meslek içi gelişimlerini izleyebilmek için hangi faktör göz önünde bulundurulmalıdır?",
-          "secenekler": [
-            "Öğretmenin ders anlatma becerileri",
-            "Öğretmenin sosyal hayatındaki başarılar",
-            "Öğretmenin kişisel özellikleri",
-            "Öğretmenin eğitimdeki yeniliklere uyum sağlama becerisi"
-          ],
-          "dogruCevap": "Öğretmenin eğitimdeki yeniliklere uyum sağlama becerisi"
-        },
-        {
-          "soru": "Öğretmenlik mesleğinde etik değerlere önem verilmesinin nedeni nedir?",
-          "secenekler": [
-            "Öğretmenlerin kişisel başarılarını arttırmak",
-            "Öğrencilerin akademik başarılarını ölçmek",
-            "Öğrencilerin sağlıklı gelişimlerini desteklemek",
-            "Öğretmenlerin yalnızca akademik başarıya odaklanmalarını sağlamak"
-          ],
-          "dogruCevap": "Öğrencilerin sağlıklı gelişimlerini desteklemek"
-        },
-        {
-          "soru": "Öğretmenlik mesleğinin toplumdaki yeriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-          "secenekler": [
-            "Öğretmenlik, toplumun kültürel ve sosyal yapısını güçlendirir.",
-            "Öğretmenlik, bireylerin toplumsal sorumluluklarını artırır.",
-            "Öğretmenlik, sadece öğrencilerin akademik başarısını hedefler.",
-            "Öğretmenlik, bireylerin toplumsal gelişimine katkıda bulunur."
-          ],
-          "dogruCevap": "Öğretmenlik, sadece öğrencilerin akademik başarısını hedefler."
-        },
-        {
-          "soru": "Öğretmen yetiştirme sürecinde aşağıdaki uygulamalardan hangisi önemlidir?",
-          "secenekler": [
-            "Öğretmenlerin sadece sınıf yönetimi becerilerinin artırılması",
-            "Öğretmenlerin öğretim yöntemleri üzerine sürekli olarak eğitim alması",
-            "Öğretmenlerin sadece ders kitaplarına odaklanması",
-            "Öğretmenlerin yalnızca öğretim teknikleri konusunda eğitim alması"
-          ],
-          "dogruCevap": "Öğretmenlerin öğretim yöntemleri üzerine sürekli olarak eğitim alması"
-        },
-        {
-          "soru": "Bir öğretmenin meslek içi gelişimini izleyen en önemli faktör aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Öğretmenin ders içerikleri hakkında bilgi seviyesi",
-            "Öğretmenin öğrenci ilişkileri ve sınıf içi yönetim becerileri",
-            "Öğretmenin akademik kariyer planlaması",
-            "Öğretmenin sınıf dışı etkinliklere katılımı"
-          ],
-          "dogruCevap": "Öğretmenin öğrenci ilişkileri ve sınıf içi yönetim becerileri"
-        },
-        {
-          "soru": "Öğretmenlerin meslek içi gelişimlerinin takip edilmesi neden önemlidir?",
-          "secenekler": [
-            "Öğretmenlerin sadece sınav sonuçları değerlendirilmelidir.",
-            "Öğretmenlerin iş yükünü artırmak için takip edilmelidir.",
-            "Öğretmenlerin gelişimleri, öğretim kalitesini artırmak için izlenmelidir.",
-            "Öğretmenlerin yalnızca sınavlara hazırlanması için takip edilmelidir."
-          ],
-          "dogruCevap": "Öğretmenlerin gelişimleri, öğretim kalitesini artırmak için izlenmelidir."
-        },
-        {
-          "soru": "Öğretmenlik mesleği hangi alanda gelişim göstermelidir?",
-          "secenekler": [
-            "Teknik beceriler",
-            "Pedagojik formasyon",
-            "Sadece akademik alandaki bilgiler",
-            "Kişisel gelişim alanında"
-          ],
-          "dogruCevap": "Pedagojik formasyon"
-        },
-        {
-          "soru": "Öğretmenlik mesleğinin toplumsal değeri nedir?",
-          "secenekler": [
-            "Sadece bireysel başarıya odaklanır.",
-            "Toplumun gelişimine katkı sağlar.",
-            "Sadece öğrencilerin akademik başarısını artırır.",
-            "Toplumun kültürel yapısına zarar verir."
-          ],
-          "dogruCevap": "Toplumun gelişimine katkı sağlar."
-        }
-      ]
+    {
+      "soru": "Öğretmenlik mesleği ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "secenekler": [
+        "Öğretmenlik mesleği yalnızca eğitim sürecinde yer almayı içerir.",
+        "Öğretmenlik mesleği, sadece bilgiyi aktararak öğrencilerin öğrenmesini sağlar.",
+        "Öğretmenlik, öğrencilerin gelişimlerine katkı sağlamak için bir rehberlik rolü üstlenir.",
+        "Öğretmenlik, yalnızca okul dışındaki faaliyetleri kapsar."
+      ],
+      "dogruCevap": "Öğretmenlik, öğrencilerin gelişimlerine katkı sağlamak için bir rehberlik rolü üstlenir."
+    },
+    {
+      "soru": "Öğretmen yetiştirme süreci hangi alanı kapsamaktadır?",
+      "secenekler": [
+        "Öğretmenlerin yalnızca ders içerikleri hakkında eğitim alması",
+        "Öğretmenlerin pedagojik formasyonla ilgili eğitim alması",
+        "Öğretmenlerin yalnızca akademik bilgiyle donatılması",
+        "Öğretmenlerin sadece sınıf yönetimi becerileri üzerine eğitim alması"
+      ],
+      "dogruCevap": "Öğretmenlerin pedagojik formasyonla ilgili eğitim alması"
+    },
+    {
+      "soru": "Öğretmenlik mesleği hangi unsurlardan beslenir?",
+      "secenekler": [
+        "Teknik bilgi ve meslek içi deneyim",
+        "Pedagojik bilgi ve uygulama becerileri",
+        "Sadece meslek içi deneyim",
+        "Yalnızca teorik bilgi"
+      ],
+      "dogruCevap": "Pedagojik bilgi ve uygulama becerileri"
+    },
+    {
+      "soru": "Öğretmenlik mesleğini diğer mesleklerden ayıran temel özellik nedir?",
+      "secenekler": [
+        "Öğretmenler yalnızca teknik iş gücünü sağlarlar.",
+        "Öğretmenler, öğrencilerin kişisel gelişimlerine de katkı sağlarlar.",
+        "Öğretmenler sadece ders öğretirler, diğer işlevleri yoktur.",
+        "Öğretmenler yalnızca okul dışı etkinliklere katılırlar."
+      ],
+      "dogruCevap": "Öğretmenler, öğrencilerin kişisel gelişimlerine de katkı sağlarlar."
+    },
+    {
+      "soru": "Öğretmen yetiştirme sürecindeki en önemli unsurlardan biri nedir?",
+      "secenekler": [
+        "Öğretmenlerin sadece akademik alanda donatılması",
+        "Öğretmenlerin pedagojik formasyon eğitimi alması",
+        "Öğretmenlerin sınıf içi becerilerden bağımsız eğitilmesi",
+        "Öğretmenlerin yalnızca ders içerikleri ile ilgili eğitim alması"
+      ],
+      "dogruCevap": "Öğretmenlerin pedagojik formasyon eğitimi alması"
+    },
+    {
+      "soru": "Öğretmenlik mesleği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": [
+        "Öğretmenler, öğrencilerin sadece bilgi almasını sağlar.",
+        "Öğretmenler, öğrencilerin sosyal, duygusal ve zihinsel gelişimlerine katkıda bulunur.",
+        "Öğretmenlik mesleği, sadece ders anlatma süreciyle sınırlıdır.",
+        "Öğretmenler, öğrencilere rehberlik ederek onları yetiştirirler."
+      ],
+      "dogruCevap": "Öğretmenlik mesleği, sadece ders anlatma süreciyle sınırlıdır."
+    },
+    {
+      "soru": "Öğretmenlerin meslek içi gelişim süreçleriyle ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": [
+        "Öğretmenlerin meslek içi gelişimleri sadece bireysel çabalarla olur.",
+        "Öğretmenlerin meslek içi gelişimleri sürekli ve izlenebilir olmalıdır.",
+        "Öğretmenlerin meslek içi gelişimleri yalnızca ders içeriklerine yöneliktir.",
+        "Öğretmenlerin meslek içi gelişimleri sadece öğretim tekniklerine odaklanır."
+      ],
+      "dogruCevap": "Öğretmenlerin meslek içi gelişimleri sürekli ve izlenebilir olmalıdır."
+    },
+    {
+      "soru": "Öğretmen yetiştirme sürecinde 'pedagojik formasyon' neyi ifade eder?",
+      "secenekler": [
+        "Öğretmenlerin sadece ders anlatma becerilerini ifade eder.",
+        "Öğretmenlerin öğrencilere disiplinli davranışlarını öğretmelerini sağlar.",
+        "Öğretmenlerin eğitim bilimleri ve öğretim yöntemleri üzerine kazandıkları bilgiyi ifade eder.",
+        "Öğretmenlerin sadece kişisel gelişimlerini ifade eder."
+      ],
+      "dogruCevap": "Öğretmenlerin eğitim bilimleri ve öğretim yöntemleri üzerine kazandıkları bilgiyi ifade eder."
+    },
+    {
+      "soru": "Öğretmenlik mesleğinin en temel işlevlerinden biri nedir?",
+      "secenekler": [
+        "Öğrencilerin sadece sınavlarda başarılı olmalarını sağlamak",
+        "Öğrencilere sadece teknik bilgiler öğretmek",
+        "Öğrencilere bireysel ve toplumsal değerleri kazandırmak",
+        "Öğrencilere yalnızca akademik alanda bilgiler aktarmak"
+      ],
+      "dogruCevap": "Öğrencilere bireysel ve toplumsal değerleri kazandırmak"
+    },
+    {
+      "soru": "Öğretmenlik mesleğinde meslek içi gelişim nedir?",
+      "secenekler": [
+        "Öğretmenlerin yalnızca ders içerikleri hakkında bilgi edinmeleri",
+        "Öğretmenlerin zaman zaman öğretim tekniklerini gözden geçirmeleri",
+        "Öğretmenlerin sürekli olarak yeniliklere açık olmaları ve gelişim göstermeleridir",
+        "Öğretmenlerin sadece okul dışı eğitimlere katılmaları"
+      ],
+      "dogruCevap": "Öğretmenlerin sürekli olarak yeniliklere açık olmaları ve gelişim göstermeleridir"
+    },
+    {
+      "soru": "Öğretmenlerin meslek içi gelişimlerini izleyebilmek için hangi faktör göz önünde bulundurulmalıdır?",
+      "secenekler": [
+        "Öğretmenin ders anlatma becerileri",
+        "Öğretmenin sosyal hayatındaki başarılar",
+        "Öğretmenin kişisel özellikleri",
+        "Öğretmenin eğitimdeki yeniliklere uyum sağlama becerisi"
+      ],
+      "dogruCevap": "Öğretmenin eğitimdeki yeniliklere uyum sağlama becerisi"
+    },
+    {
+      "soru": "Öğretmenlik mesleğinde etik değerlere önem verilmesinin nedeni nedir?",
+      "secenekler": [
+        "Öğretmenlerin kişisel başarılarını arttırmak",
+        "Öğrencilerin akademik başarılarını ölçmek",
+        "Öğrencilerin sağlıklı gelişimlerini desteklemek",
+        "Öğretmenlerin yalnızca akademik başarıya odaklanmalarını sağlamak"
+      ],
+      "dogruCevap": "Öğrencilerin sağlıklı gelişimlerini desteklemek"
+    },
+    {
+      "soru": "Öğretmenlik mesleğinin toplumdaki yeriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": [
+        "Öğretmenlik, toplumun kültürel ve sosyal yapısını güçlendirir.",
+        "Öğretmenlik, bireylerin toplumsal sorumluluklarını artırır.",
+        "Öğretmenlik, sadece öğrencilerin akademik başarısını hedefler.",
+        "Öğretmenlik, bireylerin toplumsal gelişimine katkıda bulunur."
+      ],
+      "dogruCevap": "Öğretmenlik, sadece öğrencilerin akademik başarısını hedefler."
+    },
+    {
+      "soru": "Öğretmen yetiştirme sürecinde aşağıdaki uygulamalardan hangisi önemlidir?",
+      "secenekler": [
+        "Öğretmenlerin sadece sınıf yönetimi becerilerinin artırılması",
+        "Öğretmenlerin öğretim yöntemleri üzerine sürekli olarak eğitim alması",
+        "Öğretmenlerin sadece ders kitaplarına odaklanması",
+        "Öğretmenlerin yalnızca öğretim teknikleri konusunda eğitim alması"
+      ],
+      "dogruCevap": "Öğretmenlerin öğretim yöntemleri üzerine sürekli olarak eğitim alması"
+    },
+    {
+      "soru": "Bir öğretmenin meslek içi gelişimini izleyen en önemli faktör aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Öğretmenin ders içerikleri hakkında bilgi seviyesi",
+        "Öğretmenin öğrenci ilişkileri ve sınıf içi yönetim becerileri",
+        "Öğretmenin akademik kariyer planlaması",
+        "Öğretmenin sınıf dışı etkinliklere katılımı"
+      ],
+      "dogruCevap": "Öğretmenin öğrenci ilişkileri ve sınıf içi yönetim becerileri"
+    },
+    {
+      "soru": "Öğretmenlerin meslek içi gelişimlerinin takip edilmesi neden önemlidir?",
+      "secenekler": [
+        "Öğretmenlerin sadece sınav sonuçları değerlendirilmelidir.",
+        "Öğretmenlerin iş yükünü artırmak için takip edilmelidir.",
+        "Öğretmenlerin gelişimleri, öğretim kalitesini artırmak için izlenmelidir.",
+        "Öğretmenlerin yalnızca sınavlara hazırlanması için takip edilmelidir."
+      ],
+      "dogruCevap": "Öğretmenlerin gelişimleri, öğretim kalitesini artırmak için izlenmelidir."
+    },
+    {
+      "soru": "Öğretmenlik mesleği hangi alanda gelişim göstermelidir?",
+      "secenekler": [
+        "Teknik beceriler",
+        "Pedagojik formasyon",
+        "Sadece akademik alandaki bilgiler",
+        "Kişisel gelişim alanında"
+      ],
+      "dogruCevap": "Pedagojik formasyon"
+    }
+  ]
     },
     "Türk Millî Eğitim Sistemi": {
       "Türk Eğitim Sisteminin Yapısı": [
@@ -1913,994 +1746,795 @@
           "dogruCevap": "Türk Eğitim Vakfı"
         }
       ],
-      "Türkiye Yüzyılı Maarif Modelinin Genel Yapısı ve Temelleri" : [
-        {
-          "soru": "Türkiye Yüzyılı Maarif Modeli’nin temel amacı nedir?",
-          "secenekler": [
-            "Ders saatlerini azaltmak",
-            "Eğitimde milli ve manevi değerlere dayalı bir model oluşturmak",
-            "Eğitimin sadece akademik yönünü geliştirmek",
-            "Teknolojik araçlara bağımlılığı artırmak"
-          ],
-          "dogruCevap": "Eğitimde milli ve manevi değerlere dayalı bir model oluşturmak"
-        },
-        {
-          "soru": "Maarif Modeli’nde teknoloji kullanımı nasıl bir rol oynar?",
-          "secenekler": [
-            "Sadece uzaktan eğitimde kullanılır",
-            "Eğitimden tamamen bağımsızdır",
-            "Eğitimi destekleyen bir araçtır",
-            "Teknolojik bağımlılığı artırır"
-          ],
-          "dogruCevap": "Eğitimi destekleyen bir araçtır"
-        },
-        {
-          "soru": "Maarif Modeli’nde hangi unsur ön plandadır?",
-          "secenekler": [
-            "Evrensel değerler ve milli hassasiyetlerin dengesi",
-            "Yalnızca bilimsel eğitim",
-            "Sadece teorik bilgi aktarımı",
-            "Eğitimde bireysel başarı"
-          ],
-          "dogruCevap": "Evrensel değerler ve milli hassasiyetlerin dengesi"
-        },
-        {
-          "soru": "Maarif Modeli’nin temel hedeflerinden biri aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Eğitimde kaliteyi artırmak",
-            "Müfredatı sadeleştirmek",
-            "Eğitimi sadece sınav odaklı hale getirmek",
-            "Teknolojik araçları kaldırmak"
-          ],
-          "dogruCevap": "Eğitimde kaliteyi artırmak"
-        },
-        {
-          "soru": "Maarif Modeli’nde ahlaki eğitim hangi boyutta ele alınır?",
-          "secenekler": [
-            "İhmal edilir",
-            "Sadece bireysel düzeyde",
-            "Eğitimin merkezinde",
-            "Akademik eğitimin önünde engel olarak"
-          ],
-          "dogruCevap": "Eğitimin merkezinde"
-        },
-        {
-          "soru": "Maarif Modeli’nde öğretmenlerin rolü nedir?",
-          "secenekler": [
-            "Sadece akademik bilgi aktarmak",
-            "Öğrencilerin potansiyellerini ortaya çıkarmak",
-            "Müfredat dışına çıkmamak",
-            "Teknoloji ile ders anlatmak"
-          ],
-          "dogruCevap": "Öğrencilerin potansiyellerini ortaya çıkarmak"
-        },
-        {
-          "soru": "Maarif Modeli’ne göre, öğrenciler hangi şekilde yetiştirilmelidir?",
-          "secenekler": [
-            "Ezberci bireyler olarak",
-            "Milli ve manevi değerleri içselleştirmiş bireyler olarak",
-            "Teknolojik araçlara bağımlı bireyler olarak",
-            "Tamamen bireysel başarı odaklı"
-          ],
-          "dogruCevap": "Milli ve manevi değerleri içselleştirmiş bireyler olarak"
-        },
-        {
-          "soru": "Maarif Modeli hangi alanlarda değişiklik öngörmektedir?",
-          "secenekler": [
-            "Sadece teknolojik altyapıda",
-            "Müfredatta, öğretmen eğitiminde ve öğrenci değerlendirmesinde",
-            "Yalnızca ders saatlerinde",
-            "Sınav sisteminde köklü değişiklik olmadan"
-          ],
-          "dogruCevap": "Müfredatta, öğretmen eğitiminde ve öğrenci değerlendirmesinde"
-        },
-        {
-          "soru": "Maarif Modeli, öğrenci merkezli bir eğitim anlayışını nasıl teşvik eder?",
-          "secenekler": [
-            "Öğrencilerin pasif dinleyici olmasıyla",
-            "Öğrencilerin bireysel öğrenme süreçlerini destekleyerek",
-            "Tamamen sınav odaklı bir sistemle",
-            "Öğrencilerin sadece teknolojiye yönlendirilmesiyle"
-          ],
-          "dogruCevap": "Öğrencilerin bireysel öğrenme süreçlerini destekleyerek"
-        },
-        {
-          "soru": "Maarif Modeli’nin eğitimde öngördüğü en önemli yenilik nedir?",
-          "secenekler": [
-            "Eğitimdeki tüm dijital araçların kaldırılması",
-            "Değer temelli eğitimi merkeze alması",
-            "Sadece bilimsel araştırmalara yönelmesi",
-            "Tüm müfredatın iptal edilmesi"
-          ],
-          "dogruCevap": "Değer temelli eğitimi merkeze alması"
-        },
-        {
-          "soru": "Maarif Modeli’ne göre, bireysel başarı nasıl ele alınır?",
-          "secenekler": [
-            "Toplumun genel faydasına hizmet edecek şekilde",
-            "Tamamen bireysel odaklı",
-            "Eğitim sistemi dışında tutulur",
-            "Yalnızca akademik başarı olarak"
-          ],
-          "dogruCevap": "Toplumun genel faydasına hizmet edecek şekilde"
-        },
-        {
-          "soru": "Maarif Modeli’nin değer temelli eğitimi hangi kavramla ilişkilidir?",
-          "secenekler": [
-            "Ahlaki ve toplumsal sorumluluk",
-            "Tamamen bilimsel gelişme",
-            "Yalnızca sınav başarısı",
-            "Bireysel rekabet"
-          ],
-          "dogruCevap": "Ahlaki ve toplumsal sorumluluk"
-        },
-        {
-          "soru": "Maarif Modeli’nde yer alan eğitimin toplumsal faydası nedir?",
-          "secenekler": [
-            "Toplumun değerlerinden uzaklaşmayı sağlar",
-            "Eğitimde bireysel başarıyı öne çıkarır",
-            "Toplumun refahını artırmayı hedefler",
-            "Eğitimde rekabeti teşvik eder"
-          ],
-          "dogruCevap": "Toplumun refahını artırmayı hedefler"
-        },
-        {
-          "soru": "Maarif Modeli’nde öğretmen eğitimi nasıl ele alınır?",
-          "secenekler": [
-            "Yalnızca müfredat bilgisi ile sınırlandırılır",
-            "Hem akademik hem de değer temelli gelişimi destekler",
-            "Sadece teknolojik eğitimle sınırlıdır",
-            "Eğitimin önemsiz bir parçasıdır"
-          ],
-          "dogruCevap": "Hem akademik hem de değer temelli gelişimi destekler"
-        },
-        {
-          "soru": "Maarif Modeli hangi tür bir müfredat anlayışı benimser?",
-          "secenekler": [
-            "Ezberci müfredat",
-            "Milli, manevi ve bilimsel değerlere dayalı",
-            "Tamamen dijital içerikli",
-            "Teknolojik bağımlılığı artıran"
-          ],
-          "dogruCevap": "Milli, manevi ve bilimsel değerlere dayalı"
-        },
-        {
-          "soru": "Maarif Modeli’nin gelecekteki hedefi nedir?",
-          "secenekler": [
-            "Eğitimi küresel standartlara uyarlamak",
-            "Milli ve evrensel değerleri sentezleyen bireyler yetiştirmek",
-            "Eğitimi yalnızca dijitalleştirmek",
-            "Tüm eğitim sistemini kaldırmak"
-          ],
-          "dogruCevap": "Milli ve evrensel değerleri sentezleyen bireyler yetiştirmek"
-        },
-        {
-          "soru": "Maarif Modeli’nin temelinde yer alan öğrenci anlayışı nedir?",
-          "secenekler": [
-            "Pasif dinleyici",
-            "Milli ve manevi değerleri benimsemiş aktif birey",
-            "Sadece sınav odaklı öğrenci",
-            "Tamamen bağımsız birey"
-          ],
-          "dogruCevap": "Milli ve manevi değerleri benimsemiş aktif birey"
-        },
-        {
-          "soru": "Maarif Modeli, uluslararası eğitim modellerinden nasıl farklılaşır?",
-          "secenekler": [
-            "Eğitimi tamamen sınav odaklı yapar",
-            "Milli ve manevi değerleri merkeze alır",
-            "Küresel değerleri tamamen reddeder",
-            "Bilimsel gelişmeleri dışlar"
-          ],
-          "dogruCevap": "Milli ve manevi değerleri merkeze alır"
-        },
-        {
-          "soru": "Maarif Modeli’nde öğrenme süreçleri nasıl desteklenir?",
-          "secenekler": [
-            "Ezberci yöntemlerle",
-            "Deneyimsel ve proje tabanlı yaklaşımlarla",
-            "Sadece sınavlarla",
-            "Teknolojik bağımlılıkla"
-          ],
-          "dogruCevap": "Deneyimsel ve proje tabanlı yaklaşımlarla"
-        },
-        {
-          "soru": "Maarif Modeli, eğitimde hangi temel unsuru önemser?",
-          "secenekler": [
-            "Yalnızca teknolojik yenilikleri",
-            "Değerler eğitimi ve bilimsel düşünceyi",
-            "Sadece bireysel başarıyı",
-            "Eğitim saatlerini azaltmayı"
-          ],
-          "dogruCevap": "Değerler eğitimi ve bilimsel düşünceyi"
-        }
-      ] ,
-      "Eğitim ve Öğretimde Etik" : [
-        {
-          "soru": "Eğitim ve öğretimde etik ilkelerin temel amacı nedir?",
-          "secenekler": [
-            "Öğretmenlerin sınavlarda başarı oranını artırmak",
-            "Eğitim süreçlerinde adalet, eşitlik ve saygıyı sağlamak",
-            "Müfredatı sadeleştirmek",
-            "Öğrencileri sadece akademik başarıya yönlendirmek"
-          ],
-          "dogruCevap": "Eğitim süreçlerinde adalet, eşitlik ve saygıyı sağlamak"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi eğitimde etik dışı bir davranıştır?",
-          "secenekler": [
-            "Öğrencilere ayrımcılık yapmak",
-            "Öğrencilerin gelişimini desteklemek",
-            "Adil not değerlendirmesi yapmak",
-            "Eğitim materyallerini uygun şekilde kullanmak"
-          ],
-          "dogruCevap": "Öğrencilere ayrımcılık yapmak"
-        },
-        {
-          "soru": "Bir öğretmenin etik açıdan en temel sorumluluğu aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Müfredatı eksiksiz tamamlamak",
-            "Öğrencilere karşı tarafsız ve adil olmak",
-            "Öğrencileri sadece sınavlara hazırlamak",
-            "Okul yönetiminin kararlarını sorgulamadan uygulamak"
-          ],
-          "dogruCevap": "Öğrencilere karşı tarafsız ve adil olmak"
-        },
-        {
-          "soru": "Eğitim ve öğretimde etik ilkeler hangi durumu destekler?",
-          "secenekler": [
-            "Öğrenciler arası rekabetin artırılmasını",
-            "Eğitimde şeffaflık ve dürüstlüğün sağlanmasını",
-            "Öğretmenlerin otoritesinin artırılmasını",
-            "Akademik başarıya ulaşmada baskı yapılmasını"
-          ],
-          "dogruCevap": "Eğitimde şeffaflık ve dürüstlüğün sağlanmasını"
-        },
-        {
-          "soru": "Aşağıdaki davranışlardan hangisi bir öğretmenin etik kurallara uygun hareket ettiğini gösterir?",
-          "secenekler": [
-            "Kendi görüşlerini öğrencilere dayatması",
-            "Öğrencilerin bireysel farklılıklarına saygı göstermesi",
-            "Sınıfta disiplin için ceza yöntemlerini kullanması",
-            "Sadece başarılı öğrencilerle ilgilenmesi"
-          ],
-          "dogruCevap": "Öğrencilerin bireysel farklılıklarına saygı göstermesi"
-        },
-        {
-          "soru": "Eğitim ve öğretimde etik ihlaller genellikle hangi duruma yol açar?",
-          "secenekler": [
-            "Öğrenci başarısının artmasına",
-            "Eğitimde güven kaybına",
-            "Eğitimin daha etkili olmasına",
-            "Öğretmen-öğrenci ilişkisinin güçlenmesine"
-          ],
-          "dogruCevap": "Eğitimde güven kaybına"
-        },
-        {
-          "soru": "Eğitim ve öğretimde etik değerlere uygun davranış geliştirmek için aşağıdakilerden hangisi önemlidir?",
-          "secenekler": [
-            "Kendi çıkarlarını ön planda tutmak",
-            "Etik eğitim programlarına katılmak",
-            "Öğrencilere baskı uygulamak",
-            "Sadece akademik başarıya odaklanmak"
-          ],
-          "dogruCevap": "Etik eğitim programlarına katılmak"
-        },
-        {
-          "soru": "Eğitimde etik ilkeler doğrultusunda bir öğretmenin öğrencilerle ilişkisi nasıl olmalıdır?",
-          "secenekler": [
-            "Sadece başarılı öğrencilerle iletişim kurmalıdır",
-            "Öğrencilerle eşit, adil ve saygılı bir ilişki içinde olmalıdır",
-            "Öğrencilerle tamamen mesafeli olmalıdır",
-            "Kendi değerlerini öğrencilere empoze etmelidir"
-          ],
-          "dogruCevap": "Öğrencilerle eşit, adil ve saygılı bir ilişki içinde olmalıdır"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi eğitimde etik kuralların ihlali sayılmaz?",
-          "secenekler": [
-            "Öğrencilere not verirken tarafsız olmak",
-            "Öğrencilere yönelik ayrımcılık yapmak",
-            "Eğitim materyallerini izinsiz kullanmak",
-            "Öğrencileri küçük düşürmek"
-          ],
-          "dogruCevap": "Öğrencilere not verirken tarafsız olmak"
-        },
-        {
-          "soru": "Bir öğretmenin etik değerlere uygun olarak meslektaşlarına karşı sorumluluğu nedir?",
-          "secenekler": [
-            "Meslektaşlarının hatalarını açıkça eleştirmek",
-            "Meslektaşlarına destek ve işbirliği içinde olmak",
-            "Kendi çalışmalarını meslektaşlarından gizlemek",
-            "Meslektaşlarının başarısını küçümsemek"
-          ],
-          "dogruCevap": "Meslektaşlarına destek ve işbirliği içinde olmak"
-        },
-        {
-          "soru": "Eğitim ve öğretimde etik değerlerin korunması için en önemli adım nedir?",
-          "secenekler": [
-            "Öğretmenlerin etik eğitimden geçirilmesi",
-            "Eğitim programlarının değiştirilmesi",
-            "Müfredat dışı etkinliklerin azaltılması",
-            "Sadece başarılı öğrencilere öncelik verilmesi"
-          ],
-          "dogruCevap": "Öğretmenlerin etik eğitimden geçirilmesi"
-        },
-        {
-          "soru": "Eğitimde etik kuralları ihlal eden bir durumun çözümü için aşağıdakilerden hangisi uygun bir yaklaşımdır?",
-          "secenekler": [
-            "Durumu görmezden gelmek",
-            "Şeffaflık ve hesap verebilirlik sağlamak",
-            "Sadece öğrencilere yüklemek",
-            "Sorunu gizli tutmak"
-          ],
-          "dogruCevap": "Şeffaflık ve hesap verebilirlik sağlamak"
-        },
-        {
-          "soru": "Eğitimde etik kurallar hangi kavramlarla doğrudan ilişkilidir?",
-          "secenekler": [
-            "Adalet, saygı ve güven",
-            "Baskı, otorite ve yaptırım",
-            "Rekabet, başarı ve üstünlük",
-            "Katılık, kontrol ve disiplin"
-          ],
-          "dogruCevap": "Adalet, saygı ve güven"
-        },
-        {
-          "soru": "Etik dışı davranışları önlemek için okul yönetimi hangi tedbirleri almalıdır?",
-          "secenekler": [
-            "Etik ihlalleri göz ardı etmek",
-            "Etik kurallar konusunda eğitimler düzenlemek",
-            "Öğrencilerin görüşlerini dikkate almamak",
-            "Sadece öğretmenleri denetlemek"
-          ],
-          "dogruCevap": "Etik kurallar konusunda eğitimler düzenlemek"
-        },
-        {
-          "soru": "Eğitimde etik değerlere sahip bir öğretmen hangi davranışı sergiler?",
-          "secenekler": [
-            "Öğrenciler arasında ayrım yapar",
-            "Derslere zamanında ve hazırlıklı girer",
-            "Öğrencilere baskı uygular",
-            "Sadece kendi alanına odaklanır"
-          ],
-          "dogruCevap": "Derslere zamanında ve hazırlıklı girer"
-        },
-        {
-          "soru": "Eğitimde etik, aşağıdaki hangi konuyu kapsamaz?",
-          "secenekler": [
-            "Müfredatın uygulanması",
-            "Öğrencilerin güvenliği",
-            "Öğretmen-öğrenci ilişkileri",
-            "Sosyal medya kullanım alışkanlıkları"
-          ],
-          "dogruCevap": "Sosyal medya kullanım alışkanlıkları"
-        },
-        {
-          "soru": "Eğitim ve öğretimde etik davranışların yaygınlaştırılması için kimlerin katkısı önemlidir?",
-          "secenekler": [
-            "Sadece okul müdürlerinin",
-            "Tüm eğitim paydaşlarının",
-            "Sadece öğretmenlerin",
-            "Sadece velilerin"
-          ],
-          "dogruCevap": "Tüm eğitim paydaşlarının"
-        },
-        {
-          "soru": "Bir öğretmenin meslek etiğine uygun davranması, hangi sonucu doğurur?",
-          "secenekler": [
-            "Eğitimde güven ortamını artırır",
-            "Öğrencilerin başarısız olmasına neden olur",
-            "Okulda disiplini zorlaştırır",
-            "Öğretmenin otoritesini zedeler"
-          ],
-          "dogruCevap": "Eğitimde güven ortamını artırır"
-        },
-        {
-          "soru": "Etik değerlerin korunması açısından okulda alınacak ilk önlem ne olmalıdır?",
-          "secenekler": [
-            "Etik ilkeler konusunda farkındalık çalışmaları yapılması",
-            "Eğitim saatlerinin artırılması",
-            "Sadece disiplin kurallarının sıkılaştırılması",
-            "Öğrencilerin yalnız bırakılması"
-          ],
-          "dogruCevap": "Etik ilkeler konusunda farkındalık çalışmaları yapılması"
-        },
-        {
-          "soru": "Eğitimde etik kurallar çerçevesinde öğrencilerle yapılmaması gereken davranış nedir?",
-          "secenekler": [
-            "Öğrencilerin mahremiyetine saygı göstermek",
-            "Öğrencilere adil bir şekilde yaklaşmak",
-            "Öğrencilere karşı önyargılı olmak",
-            "Öğrencilerin haklarını savunmak"
-          ],
-          "dogruCevap": "Öğrencilere karşı önyargılı olmak"
-        }
-      ]  ,
-      "Eğitim ve Öğretim Teknolojileri" : [
-        {
-          "soru": "Aşağıdakilerden hangisi eğitim teknolojilerinin temel amacıdır?",
-          "secenekler": [
-            "Öğrencilerin internet bağımlılığına yol açmak",
-            "Eğitim süreçlerini daha verimli ve etkili hale getirmek",
-            "Öğretmenlerin iş yükünü artırmak",
-            "Sadece teorik bilgilerin aktarılmasını sağlamak"
-          ],
-          "dogruCevap": "Eğitim süreçlerini daha verimli ve etkili hale getirmek"
-        },
-        {
-          "soru": "Eğitimde teknoloji kullanımı aşağıdaki alanlardan hangisini geliştirme amacına hizmet etmez?",
-          "secenekler": [
-            "Öğrencilerin eleştirel düşünme becerilerini",
-            "Öğrencilerin görsel ve işitsel algılarını",
-            "Öğrencilerin fiziksel dayanıklılıklarını",
-            "Öğrencilerin iletişim becerilerini"
-          ],
-          "dogruCevap": "Öğrencilerin fiziksel dayanıklılıklarını"
-        },
-        {
-          "soru": "Eğitim teknolojilerinin öğretmenler için sağladığı en büyük avantajlardan biri aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Öğretmenlerin iş yükünü artırmak",
-            "Sadece akademik derslerde kullanılmak",
-            "Ders materyallerini hızlıca hazırlayabilmek",
-            "Öğrencilerin bireysel sorunlarına odaklanmak"
-          ],
-          "dogruCevap": "Ders materyallerini hızlıca hazırlayabilmek"
-        },
-        {
-          "soru": "Bir öğretmenin sınıf içinde dijital araçları kullanmasının en önemli faydası nedir?",
-          "secenekler": [
-            "Öğrencileri daha fazla zorlamak",
-            "Eğitim sürecini çeşitlendirmek ve öğrencilerin ilgisini çekmek",
-            "Öğrencilerin sadece teknik bilgi edinmesini sağlamak",
-            "Öğrencilerin ekran başında daha fazla vakit geçirmesini sağlamak"
-          ],
-          "dogruCevap": "Eğitim sürecini çeşitlendirmek ve öğrencilerin ilgisini çekmek"
-        },
-        {
-          "soru": "Eğitim teknolojilerinin kullanımı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-          "secenekler": [
-            "Eğitim teknolojileri öğretmenin rolünü ortadan kaldırır.",
-            "Eğitimde teknoloji kullanımı öğrencilere daha fazla etkileşim imkanı sunar.",
-            "Teknoloji, öğretmenin öğrenciyi takip etmesini kolaylaştırır.",
-            "Teknolojik araçlar, öğretim süreçlerinin daha etkili ve verimli olmasına yardımcı olabilir."
-          ],
-          "dogruCevap": "Eğitim teknolojileri öğretmenin rolünü ortadan kaldırır."
-        },
-        {
-          "soru": "Aşağıdaki eğitim teknolojilerinden hangisi öğrencilerin birbirleriyle etkileşimde bulunmalarını sağlar?",
-          "secenekler": [
-            "E-posta",
-            "Video konferans uygulamaları",
-            "Öğretmenlerin yazılı raporları",
-            "Kapsamlı dijital ders kitapları"
-          ],
-          "dogruCevap": "Video konferans uygulamaları"
-        },
-        {
-          "soru": "Eğitimde teknolojinin kullanımı ile ilgili aşağıdaki durumların hangisi öğrenciye katkı sağlamaz?",
-          "secenekler": [
-            "Derslerin daha dinamik ve ilgi çekici hale gelmesi",
-            "Öğrencilerin pasif hale gelmesi",
-            "Öğrencilerin dijital okuryazarlıklarını geliştirmesi",
-            "Bireysel öğrenme süreçlerinin desteklenmesi"
-          ],
-          "dogruCevap": "Öğrencilerin pasif hale gelmesi"
-        },
-        {
-          "soru": "Eğitimde teknoloji kullanımını artırmak için hangi strateji en etkili olabilir?",
-          "secenekler": [
-            "Teknolojik araçların sadece öğretmenler tarafından kullanılması",
-            "Öğrencilere teknolojiyi öğretmek ve onun doğru kullanımı hakkında eğitim vermek",
-            "Teknolojiyi sadece sınıf dışı etkinliklerde kullanmak",
-            "Öğrencilere teknoloji kullanımına dair kısıtlamalar getirmek"
-          ],
-          "dogruCevap": "Öğrencilere teknolojiyi öğretmek ve onun doğru kullanımı hakkında eğitim vermek"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi eğitimde kullanılan teknolojilerin türlerinden biri değildir?",
-          "secenekler": [
-            "Sanal gerçeklik (VR)",
-            "E-posta",
-            "Elektronik kitaplar (E-book)",
-            "Dijital oyunlar"
-          ],
-          "dogruCevap": "E-posta"
-        },
-        {
-          "soru": "Eğitimde kullanılan teknolojilerin en önemli amacı nedir?",
-          "secenekler": [
-            "Öğrencileri derslerden uzaklaştırmak",
-            "Öğrenme süreçlerini hızlandırmak ve öğrencilere erişilebilirlik sağlamak",
-            "Öğretmenlerin yalnızca bireysel becerilerini geliştirmesi",
-            "Sadece sınavları kolaylaştırmak"
-          ],
-          "dogruCevap": "Öğrenme süreçlerini hızlandırmak ve öğrencilere erişilebilirlik sağlamak"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi eğitimde teknolojinin kullanımı ile ilgili etik bir sorunu temsil eder?",
-          "secenekler": [
-            "Dijital araçlar aracılığıyla öğrencilere eşit fırsatlar sunmak",
-            "Öğrencilerin kişisel verilerinin korunmaması",
-            "Öğrencilerin eğitim materyallerine erişim sağlaması",
-            "Öğrencilerin çevrimiçi derslere katılımı"
-          ],
-          "dogruCevap": "Öğrencilerin kişisel verilerinin korunmaması"
-        },
-        {
-          "soru": "Eğitimde teknoloji kullanımının en büyük zorluklarından biri aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Teknolojik araçların kolayca erişilebilir olması",
-            "Öğretmenlerin teknolojiye yeterince hakim olmamaları",
-            "Dijital araçların düşük maliyetli olması",
-            "Öğrencilerin teknolojiye olan ilgisi"
-          ],
-          "dogruCevap": "Öğretmenlerin teknolojiye yeterince hakim olmamaları"
-        },
-        {
-          "soru": "Aşağıdaki teknolojilerden hangisi öğretmenlerin sınıf yönetimi becerilerini geliştirmede kullanılır?",
-          "secenekler": [
-            "Sosyal medya",
-            "E-posta",
-            "Sınıf yönetimi yazılımları",
-            "Sanal gerçeklik (VR)"
-          ],
-          "dogruCevap": "Sınıf yönetimi yazılımları"
-        },
-        {
-          "soru": "Aşağıdaki araçlardan hangisi, eğitimde öğrenci etkileşimini artırmak amacıyla kullanılabilir?",
-          "secenekler": [
-            "E-posta",
-            "Forumlar ve çevrimiçi tartışma grupları",
-            "Sunum programları",
-            "Kapsamlı ders kitapları"
-          ],
-          "dogruCevap": "Forumlar ve çevrimiçi tartışma grupları"
-        },
-        {
-          "soru": "Eğitimde teknolojinin etkin bir şekilde kullanılabilmesi için öğretmenlerin hangi beceriyi geliştirmesi gerekir?",
-          "secenekler": [
-            "Dijital okuryazarlık",
-            "Yalnızca yazılı iletişim becerisi",
-            "Sadece matematiksel beceriler",
-            "Dijital bağımlılık"
-          ],
-          "dogruCevap": "Dijital okuryazarlık"
-        },
-        {
-          "soru": "Hangi dijital araç, öğrencilere bireysel öğrenme deneyimlerini destekleyebilir?",
-          "secenekler": [
-            "E-posta",
-            "Sanal sınıflar",
-            "Web tabanlı uygulamalar",
-            "Online testler"
-          ],
-          "dogruCevap": "Sanal sınıflar"
-        },
-        {
-          "soru": "Eğitimde teknolojinin kullanımı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-          "secenekler": [
-            "Teknoloji, öğrencilere daha fazla öğrenme fırsatı sunar.",
-            "Eğitim teknolojileri, öğretmenin rolünü azaltır.",
-            "Eğitimde teknoloji, öğrencilerin bilgiye erişimini artırır.",
-            "Teknoloji, öğrenme süreçlerini daha etkili hale getirebilir."
-          ],
-          "dogruCevap": "Eğitim teknolojileri, öğretmenin rolünü azaltır."
-        },
-        {
-          "soru": "Eğitimde teknolojinin geleceği ile ilgili aşağıdakilerden hangisi beklenen bir gelişmedir?",
-          "secenekler": [
-            "Öğrencilerin eğitim süreçlerinden uzaklaşması",
-            "Dijital okuryazarlığın daha yaygın hale gelmesi",
-            "Sadece yazılı materyallere dönüş",
-            "Öğretmenlerin dijital teknolojilerden uzaklaşması"
-          ],
-          "dogruCevap": "Dijital okuryazarlığın daha yaygın hale gelmesi"
-        },
-        {
-          "soru": "Eğitimde kullanılan teknolojinin sağladığı en büyük avantaj nedir?",
-          "secenekler": [
-            "Eğitimdeki çeşitliliği ve erişilebilirliği artırmak",
-            "Öğretmenlerin yükünü azaltmak",
-            "Öğrencilerin ekran bağımlılığını artırmak",
-            "Sadece görsel materyallerin kullanılmasını sağlamak"
-          ],
-          "dogruCevap": "Eğitimdeki çeşitliliği ve erişilebilirliği artırmak"
-        }
-      ]  ,
-      "Öğretimin Basamaklandırılması": [
-        {
-          "soru": "Türk eğitim sisteminde öğretimin basamaklandırılması nedir?",
-          "secenekler": [
-            "Eğitim kurumlarının fiziki yapısının düzenlenmesi",
-            "Eğitim süreçlerinin belirli bir düzende sıralanması",
-            "Öğrencilerin yaşlarına göre eğitimde gruplandırılması",
-            "Öğrencilerin ders seçiminde özgür olması"
-          ],
-          "dogruCevap": "Eğitim süreçlerinin belirli bir düzende sıralanması"
-        },
-        {
-          "soru": "Türk eğitim sisteminde hangi basamağa kadar eğitim zorunludur?",
-          "secenekler": [
-            "İlköğretim",
-            "Ortaöğretim",
-            "Yükseköğretim",
-            "Lise"
-          ],
-          "dogruCevap": "Ortaöğretim"
-        },
-        {
-          "soru": "Türk eğitim sisteminde hangi okul, öğretimin ilk basamağını oluşturur?",
-          "secenekler": [
-            "Anaokulu",
-            "İlkokul",
-            "Ortaokul",
-            "Lise"
-          ],
-          "dogruCevap": "İlkokul"
-        },
-        {
-          "soru": "Türk eğitim sistemindeki hangi basamaktan sonra üniversite eğitimi başlar?",
-          "secenekler": [
-            "Ortaokul",
-            "Lise",
-            "İlkokul",
-            "Yükseköğretim"
-          ],
-          "dogruCevap": "Lise"
-        },
-        {
-          "soru": "Türk eğitim sisteminde yükseköğretim hangi basamaktan sonra gelir?",
-          "secenekler": [
-            "İlköğretim",
-            "Ortaöğretim",
-            "Yükseköğretim",
-            "Üniversite"
-          ],
-          "dogruCevap": "Ortaöğretim"
-        },
-        {
-          "soru": "Öğretimin basamaklandırılması hangi tür eğitimde gereklidir?",
-          "secenekler": [
-            "Herkesin aynı düzeyde eğitim aldığı eğitim sistemlerinde",
-            "Öğrencilerin başarı düzeylerine göre eğitim yapıldığı eğitim sistemlerinde",
-            "Yaş gruplarına göre eğitim yapılan eğitim sistemlerinde",
-            "Farklı dilde eğitim yapılan sistemlerde"
-          ],
-          "dogruCevap": "Yaş gruplarına göre eğitim yapılan eğitim sistemlerinde"
-        },
-        {
-          "soru": "Türk eğitim sisteminde öğretimin her basamağı hangi kurumlar tarafından sağlanır?",
-          "secenekler": [
-            "Özel kurumlar",
-            "Devlet okulları",
-            "Hem devlet hem de özel kurumlar",
-            "Devlet ve vakıf üniversiteleri"
-          ],
-          "dogruCevap": "Hem devlet hem de özel kurumlar"
-        },
-        {
-          "soru": "Türk eğitim sisteminde öğretim basamakları arasındaki geçişi kim denetler?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Yükseköğretim Kurulu",
-            "İçişleri Bakanlığı",
-            "Türkiye İstatistik Kurumu"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Türk eğitim sisteminde ortaöğretimden sonraki basamak hangisidir?",
-          "secenekler": [
-            "Üniversite",
-            "Lise",
-            "İlköğretim",
-            "Meslek yüksekokulu"
-          ],
-          "dogruCevap": "Üniversite"
-        },
-        {
-          "soru": "Türk eğitim sisteminde öğretimin basamaklandırılmasında hangi faktör önemli rol oynar?",
-          "secenekler": [
-            "Öğrencilerin psikolojik gelişimleri",
-            "Okulun bina kapasitesi",
-            "Öğrencilerin tercihlerine göre eğitim",
-            "Öğrencilerin yaş ve başarı düzeyleri"
-          ],
-          "dogruCevap": "Öğrencilerin yaş ve başarı düzeyleri"
-        },
-        {
-          "soru": "Türk eğitim sistemindeki ilk öğretim basamağında hangi yaş grubu eğitim görür?",
-          "secenekler": [
-            "5-6 yaş",
-            "6-7 yaş",
-            "7-9 yaş",
-            "10-12 yaş"
-          ],
-          "dogruCevap": "6-7 yaş"
-        },
-        {
-          "soru": "Ortaöğretim basamağındaki eğitim süresi ne kadardır?",
-          "secenekler": [
-            "2 yıl",
-            "3 yıl",
-            "4 yıl",
-            "5 yıl"
-          ],
-          "dogruCevap": "4 yıl"
-        },
-        {
-          "soru": "Türk eğitim sisteminde öğretim basamakları arasındaki en temel fark nedir?",
-          "secenekler": [
-            "Eğitim süresi",
-            "Ders içerikleri",
-            "Okul binalarının büyüklüğü",
-            "Öğrencilerin yaşları"
-          ],
-          "dogruCevap": "Ders içerikleri"
-        },
-        {
-          "soru": "Öğretimin basamaklandırılması hangi eğitimi sağlar?",
-          "secenekler": [
-            "Eğitimde başarı",
-            "Yaş aralıklarına göre eşitlik",
-            "Bütün öğrencilere aynı eğitim verilmesi",
-            "Yaş ve gelişim düzeyine uygun eğitim"
-          ],
-          "dogruCevap": "Yaş ve gelişim düzeyine uygun eğitim"
-        },
-        {
-          "soru": "Türk eğitim sisteminde öğretim basamakları şunlardır:",
-          "secenekler": [
-            "Anaokulu, İlkokul, Ortaokul, Lise, Üniversite",
-            "İlkokul, Ortaokul, Lise, Yükseköğretim",
-            "İlkokul, Ortaokul, Lise, Meslek yüksekokulu",
-            "Anaokulu, İlkokul, Lise, Üniversite"
-          ],
-          "dogruCevap": "Anaokulu, İlkokul, Ortaokul, Lise, Üniversite"
-        },
-        {
-          "soru": "Türk eğitim sisteminde öğretimin basamaklandırılmasında en büyük amaç nedir?",
-          "secenekler": [
-            "Eğitimde kalitenin artırılması",
-            "Bütün öğrencilerin aynı seviyede eğitim alması",
-            "Öğrencilerin çeşitli alanlarda yetiştirilmesi",
-            "Eğitim sisteminin adil ve düzenli olması"
-          ],
-          "dogruCevap": "Eğitim sisteminin adil ve düzenli olması"
-        },
-        {
-          "soru": "Türk eğitim sisteminde öğretimin her basamağına öğrenciler nasıl yerleştirilir?",
-          "secenekler": [
-            "Sınavla",
-            "Öğrencinin tercihlerine göre",
-            "Rastgele",
-            "Yıl sonu başarılarına göre"
-          ],
-          "dogruCevap": "Sınavla"
-        },
-        {
-          "soru": "Öğretimin basamaklandırılması, hangi tür eğitimde etkili sonuçlar verir?",
-          "secenekler": [
-            "Serbest eğitim",
-            "Eğitimde bireysel yaklaşım",
-            "Yaş ve gelişim düzeyine uygun eğitim",
-            "Öğrencilerin tek tip eğitim aldığı sistem"
-          ],
-          "dogruCevap": "Yaş ve gelişim düzeyine uygun eğitim"
-        },
-        {
-          "soru": "Türk eğitim sisteminde ilkokuldan sonra hangi tür eğitim basamağına geçilir?",
-          "secenekler": [
-            "Anaokulu",
-            "Ortaokul",
-            "Lise",
-            "Üniversite"
-          ],
-          "dogruCevap": "Ortaokul"
-        }
+      
+        "Türkiye Yüzyılı Maarif Modelinin Genel Yapısı ve Temelleri": [
+          {
+            "soru": "Türkiye Yüzyılı Maarif Modeli’nin temel amacı nedir?",
+            "secenekler": [
+              "Eğitimde milli ve manevi değerlere dayalı bir model oluşturmak",
+              "Ders saatlerini azaltmak",
+              "Sadece akademik başarıyı artırmak",
+              "Teknolojik araçlara bağımlılığı artırmak"
+            ],
+            "dogruCevap": "Eğitimde milli ve manevi değerlere dayalı bir model oluşturmak"
+          },
+          {
+            "soru": "Maarif Modeli’nde teknoloji kullanımı nasıl bir rol oynar?",
+            "secenekler": [
+              "Eğitimden tamamen bağımsızdır",
+              "Eğitimi destekleyen bir araçtır",
+              "Sadece uzaktan eğitimde kullanılır",
+              "Teknolojik bağımlılığı artırır"
+            ],
+            "dogruCevap": "Eğitimi destekleyen bir araçtır"
+          },
+          {
+            "soru": "Maarif Modeli’nde hangi unsur ön plandadır?",
+            "secenekler": [
+              "Evrensel değerler ve milli hassasiyetlerin dengesi",
+              "Yalnızca bilimsel eğitim",
+              "Sadece teorik bilgi aktarımı",
+              "Eğitimde bireysel başarı"
+            ],
+            "dogruCevap": "Evrensel değerler ve milli hassasiyetlerin dengesi"
+          },
+          {
+            "soru": "Maarif Modeli’nin temel hedeflerinden biri aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Eğitimde kaliteyi artırmak",
+              "Müfredatı sadeleştirmek",
+              "Eğitimi sadece sınav odaklı hale getirmek",
+              "Teknolojik araçları kaldırmak"
+            ],
+            "dogruCevap": "Eğitimde kaliteyi artırmak"
+          },
+          {
+            "soru": "Maarif Modeli’nde ahlaki eğitim hangi boyutta ele alınır?",
+            "secenekler": [
+              "İhmal edilir",
+              "Sadece bireysel düzeyde",
+              "Eğitimin merkezinde",
+              "Akademik eğitimin önünde engel olarak"
+            ],
+            "dogruCevap": "Eğitimin merkezinde"
+          },
+          {
+            "soru": "Maarif Modeli’nde öğretmenlerin rolü nedir?",
+            "secenekler": [
+              "Sadece akademik bilgi aktarmak",
+              "Öğrencilerin potansiyellerini ortaya çıkarmak",
+              "Müfredat dışına çıkmamak",
+              "Teknoloji ile ders anlatmak"
+            ],
+            "dogruCevap": "Öğrencilerin potansiyellerini ortaya çıkarmak"
+          },
+          {
+            "soru": "Maarif Modeli’ne göre, öğrenciler hangi şekilde yetiştirilmelidir?",
+            "secenekler": [
+              "Ezberci bireyler olarak",
+              "Milli ve manevi değerleri içselleştirmiş bireyler olarak",
+              "Teknolojik araçlara bağımlı bireyler olarak",
+              "Tamamen bireysel başarı odaklı"
+            ],
+            "dogruCevap": "Milli ve manevi değerleri içselleştirmiş bireyler olarak"
+          },
+          {
+            "soru": "Maarif Modeli hangi alanlarda değişiklik öngörmektedir?",
+            "secenekler": [
+              "Sadece teknolojik altyapıda",
+              "Müfredatta, öğretmen eğitiminde ve öğrenci değerlendirmesinde",
+              "Yalnızca ders saatlerinde",
+              "Sınav sisteminde köklü değişiklik olmadan"
+            ],
+            "dogruCevap": "Müfredatta, öğretmen eğitiminde ve öğrenci değerlendirmesinde"
+          },
+          {
+            "soru": "Maarif Modeli, öğrenci merkezli bir eğitim anlayışını nasıl teşvik eder?",
+            "secenekler": [
+              "Öğrencilerin pasif dinleyici olmasıyla",
+              "Öğrencilerin bireysel öğrenme süreçlerini destekleyerek",
+              "Tamamen sınav odaklı bir sistemle",
+              "Öğrencilerin sadece teknolojiye yönlendirilmesiyle"
+            ],
+            "dogruCevap": "Öğrencilerin bireysel öğrenme süreçlerini destekleyerek"
+          },
+          {
+            "soru": "Maarif Modeli’nin eğitimde öngördüğü en önemli yenilik nedir?",
+            "secenekler": [
+              "Eğitimdeki tüm dijital araçların kaldırılması",
+              "Değer temelli eğitimi merkeze alması",
+              "Sadece bilimsel araştırmalara yönelmesi",
+              "Tüm müfredatın iptal edilmesi"
+            ],
+            "dogruCevap": "Değer temelli eğitimi merkeze alması"
+          },
+          {
+            "soru": "Maarif Modeli’ne göre, bireysel başarı nasıl ele alınır?",
+            "secenekler": [
+              "Toplumun genel faydasına hizmet edecek şekilde",
+              "Tamamen bireysel odaklı",
+              "Eğitim sistemi dışında tutulur",
+              "Yalnızca akademik başarı olarak"
+            ],
+            "dogruCevap": "Toplumun genel faydasına hizmet edecek şekilde"
+          },
+          {
+            "soru": "Maarif Modeli’nin değer temelli eğitimi hangi kavramla ilişkilidir?",
+            "secenekler": [
+              "Ahlaki ve toplumsal sorumluluk",
+              "Tamamen bilimsel gelişme",
+              "Yalnızca sınav başarısı",
+              "Bireysel rekabet"
+            ],
+            "dogruCevap": "Ahlaki ve toplumsal sorumluluk"
+          },
+          {
+            "soru": "Maarif Modeli’nde yer alan eğitimin toplumsal faydası nedir?",
+            "secenekler": [
+              "Toplumun değerlerinden uzaklaşmayı sağlar",
+              "Eğitimde bireysel başarıyı öne çıkarır",
+              "Toplumun refahını artırmayı hedefler",
+              "Eğitimde rekabeti teşvik eder"
+            ],
+            "dogruCevap": "Toplumun refahını artırmayı hedefler"
+          },
+          {
+            "soru": "Maarif Modeli’nde öğretmen eğitimi nasıl ele alınır?",
+            "secenekler": [
+              "Yalnızca müfredat bilgisi ile sınırlandırılır",
+              "Hem akademik hem de değer temelli gelişimi destekler",
+              "Sadece teknolojik eğitimle sınırlıdır",
+              "Eğitimin önemsiz bir parçasıdır"
+            ],
+            "dogruCevap": "Hem akademik hem de değer temelli gelişimi destekler"
+          },
+          {
+            "soru": "Maarif Modeli hangi tür bir müfredat anlayışı benimser?",
+            "secenekler": [
+              "Ezberci müfredat",
+              "Milli, manevi ve bilimsel değerlere dayalı",
+              "Tamamen dijital içerikli",
+              "Teknolojik bağımlılığı artıran"
+            ],
+            "dogruCevap": "Milli, manevi ve bilimsel değerlere dayalı"
+          },
+          {
+            "soru": "Maarif Modeli’nin gelecekteki hedefi nedir?",
+            "secenekler": [
+              "Eğitimi küresel standartlara uyarlamak",
+              "Milli ve evrensel değerleri sentezleyen bireyler yetiştirmek",
+              "Eğitimi yalnızca dijitalleştirmek",
+              "Tüm eğitim sistemini kaldırmak"
+            ],
+            "dogruCevap": "Milli ve evrensel değerleri sentezleyen bireyler yetiştirmek"
+          },
+          {
+            "soru": "Maarif Modeli’nin temelinde yer alan öğrenci anlayışı nedir?",
+            "secenekler": [
+              "Pasif dinleyici",
+              "Milli ve manevi değerleri benimsemiş aktif birey",
+              "Sadece sınav odaklı öğrenci",
+              "Tamamen bağımsız birey"
+            ],
+            "dogruCevap": "Milli ve manevi değerleri benimsemiş aktif birey"
+          },
+          {
+            "soru": "Maarif Modeli, uluslararası eğitim modellerinden nasıl farklılaşır?",
+            "secenekler": [
+              "Eğitimi tamamen sınav odaklı yapar",
+              "Milli ve manevi değerleri merkeze alır",
+              "Küresel değerleri tamamen reddeder",
+              "Bilimsel gelişmeleri dışlar"
+            ],
+            "dogruCevap": "Milli ve manevi değerleri merkeze alır"
+          },
+          {
+            "soru": "Maarif Modeli’nde öğrenme süreçleri nasıl desteklenir?",
+            "secenekler": [
+              "Ezberci yöntemlerle",
+              "Deneyimsel ve proje tabanlı yaklaşımlarla",
+              "Sadece sınavlarla",
+              "Teknolojik bağımlılıkla"
+            ],
+            "dogruCevap": "Deneyimsel ve proje tabanlı yaklaşımlarla"
+          },
+          {
+            "soru": "Maarif Modeli, eğitimde hangi temel unsuru önemser?",
+            "secenekler": [
+              "Yalnızca teknolojik yenilikleri",
+              "Değerler eğitimi ve bilimsel düşünceyi",
+              "Sadece bireysel başarıyı",
+              "Eğitim saatlerini azaltmayı"
+            ],
+            "dogruCevap": "Değerler eğitimi ve bilimsel düşünceyi"
+          }
+        ] ,
+        "Eğitim ve Öğretimde Etik": [
+          {
+            "soru": "Eğitim ve öğretimde etik ilkelerin temel amacı nedir?",
+            "secenekler": [
+              "Öğretmenlerin sınavlarda başarı oranını artırmak",
+              "Eğitim süreçlerinde adalet, eşitlik ve saygıyı sağlamak",
+              "Müfredatı sadeleştirmek",
+              "Öğrencileri sadece akademik başarıya yönlendirmek"
+            ],
+            "dogruCevap": "Eğitim süreçlerinde adalet, eşitlik ve saygıyı sağlamak"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitimde etik dışı bir davranıştır?",
+            "secenekler": [
+              "Öğrencilere ayrımcılık yapmak",
+              "Öğrencilerin gelişimini desteklemek",
+              "Adil not değerlendirmesi yapmak",
+              "Eğitim materyallerini uygun şekilde kullanmak"
+            ],
+            "dogruCevap": "Öğrencilere ayrımcılık yapmak"
+          },
+          {
+            "soru": "Bir öğretmenin etik açıdan en temel sorumluluğu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Müfredatı eksiksiz tamamlamak",
+              "Öğrencilere karşı tarafsız ve adil olmak",
+              "Öğrencileri sadece sınavlara hazırlamak",
+              "Okul yönetiminin kararlarını sorgulamadan uygulamak"
+            ],
+            "dogruCevap": "Öğrencilere karşı tarafsız ve adil olmak"
+          },
+          {
+            "soru": "Eğitim ve öğretimde etik ilkeler hangi durumu destekler?",
+            "secenekler": [
+              "Öğrenciler arası rekabetin artırılmasını",
+              "Eğitimde şeffaflık ve dürüstlüğün sağlanmasını",
+              "Öğretmenlerin otoritesinin artırılmasını",
+              "Akademik başarıya ulaşmada baskı yapılmasını"
+            ],
+            "dogruCevap": "Eğitimde şeffaflık ve dürüstlüğün sağlanmasını"
+          },
+          {
+            "soru": "Aşağıdaki davranışlardan hangisi bir öğretmenin etik kurallara uygun hareket ettiğini gösterir?",
+            "secenekler": [
+              "Kendi görüşlerini öğrencilere dayatması",
+              "Öğrencilerin bireysel farklılıklarına saygı göstermesi",
+              "Sınıfta disiplin için ceza yöntemlerini kullanması",
+              "Sadece başarılı öğrencilerle ilgilenmesi"
+            ],
+            "dogruCevap": "Öğrencilerin bireysel farklılıklarına saygı göstermesi"
+          },
+          {
+            "soru": "Eğitim ve öğretimde etik ihlaller genellikle hangi duruma yol açar?",
+            "secenekler": [
+              "Öğrenci başarısının artmasına",
+              "Eğitimde güven kaybına",
+              "Eğitimin daha etkili olmasına",
+              "Öğretmen-öğrenci ilişkisinin güçlenmesine"
+            ],
+            "dogruCevap": "Eğitimde güven kaybına"
+          },
+          {
+            "soru": "Eğitim ve öğretimde etik değerlere uygun davranış geliştirmek için aşağıdakilerden hangisi önemlidir?",
+            "secenekler": [
+              "Kendi çıkarlarını ön planda tutmak",
+              "Etik eğitim programlarına katılmak",
+              "Öğrencilere baskı uygulamak",
+              "Sadece akademik başarıya odaklanmak"
+            ],
+            "dogruCevap": "Etik eğitim programlarına katılmak"
+          },
+          {
+            "soru": "Eğitimde etik ilkeler doğrultusunda bir öğretmenin öğrencilerle ilişkisi nasıl olmalıdır?",
+            "secenekler": [
+              "Sadece başarılı öğrencilerle iletişim kurmalıdır",
+              "Öğrencilerle eşit, adil ve saygılı bir ilişki içinde olmalıdır",
+              "Öğrencilerle tamamen mesafeli olmalıdır",
+              "Kendi değerlerini öğrencilere empoze etmelidir"
+            ],
+            "dogruCevap": "Öğrencilerle eşit, adil ve saygılı bir ilişki içinde olmalıdır"
+          }
+        ],
+     "Eğitim ve Öğretim Teknolojileri": [
+    {
+      "soru": "Eğitim teknolojilerinin temel amacı nedir?",
+      "secenekler": [
+        "Öğrencilerin internet bağımlılığına yol açmak",
+        "Eğitim süreçlerini daha verimli ve etkili hale getirmek",
+        "Öğretmenlerin iş yükünü artırmak",
+        "Sadece teorik bilgilerin aktarılmasını sağlamak"
       ],
-      "Eğitimin Merkezden ve Yerinden Yönetimi": [
-        {
-          "soru": "Eğitimin merkezden yönetimi hangi özelliği taşır?",
-          "secenekler": [
-            "Eğitimde kararların yerel düzeyde alınması",
-            "Eğitim politikalarının merkezi otoriteler tarafından belirlenmesi",
-            "Eğitim sürecinde bireysel farklılıkların dikkate alınması",
-            "Eğitimdeki kaynakların yerel yönetimlerce belirlenmesi"
-          ],
-          "dogruCevap": "Eğitim politikalarının merkezi otoriteler tarafından belirlenmesi"
-        },
-        {
-          "soru": "Yerinden yönetim anlayışına göre, eğitimle ilgili kararları kim alır?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Yerel yönetimler ve okullar",
-            "Yükseköğretim Kurulu",
-            "Cumhurbaşkanlığı"
-          ],
-          "dogruCevap": "Yerel yönetimler ve okullar"
-        },
-        {
-          "soru": "Merkezî yönetim modelinin Türkiye'deki temel amacı nedir?",
-          "secenekler": [
-            "Eğitimdeki kaliteyi artırmak",
-            "Eğitimde eşitliği sağlamak",
-            "Yerel farklılıkları göz önünde bulundurmak",
-            "Öğrencilerin bireysel gelişimini desteklemek"
-          ],
-          "dogruCevap": "Eğitimdeki kaliteyi artırmak"
-        },
-        {
-          "soru": "Yerinden yönetim anlayışında eğitimle ilgili en önemli avantaj nedir?",
-          "secenekler": [
-            "Yerel ihtiyaçlara daha hızlı cevap verilebilmesi",
-            "Eğitim politikalarının daha genel olması",
-            "Merkezi hükümetin daha güçlü olması",
-            "Eğitimde daha fazla denetim yapılması"
-          ],
-          "dogruCevap": "Yerel ihtiyaçlara daha hızlı cevap verilebilmesi"
-        },
-        {
-          "soru": "Merkezî yönetim modelinin uygulandığı bir eğitim sisteminde hangi özellik ön plana çıkar?",
-          "secenekler": [
-            "Eğitimde merkezi bir denetim ve düzenleme",
-            "Eğitim programlarının yerel ihtiyaçlara göre özelleştirilmesi",
-            "Okulların kendi bütçelerini yönetmesi",
-            "Öğretmenlerin kendi müfredatlarını belirlemesi"
-          ],
-          "dogruCevap": "Eğitimde merkezi bir denetim ve düzenleme"
-        },
-        {
-          "soru": "Eğitimin yerinden yönetiminde öğretmenlerin ve okul yöneticilerinin rolü nedir?",
-          "secenekler": [
-            "Yalnızca uygulama yapmaları",
-            "Karar alma ve politika belirleme süreçlerine katılmaları",
-            "Yalnızca öğrenci başarısını ölçmeleri",
-            "Yalnızca okul içindeki etkinliklere katılmaları"
-          ],
-          "dogruCevap": "Karar alma ve politika belirleme süreçlerine katılmaları"
-        },
-        {
-          "soru": "Merkezden yönetilen eğitim sisteminde hangi faktör daha etkilidir?",
-          "secenekler": [
-            "Yerel okulların özgürlüğü",
-            "Milli Eğitim Bakanlığı'nın kararları",
-            "Okul yönetimlerinin bağımsızlıkları",
-            "Öğrenci sayısının düşük olması"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı'nın kararları"
-        },
-        {
-          "soru": "Türkiye'de eğitim sistemi genellikle hangi yönetim anlayışına dayanır?",
-          "secenekler": [
-            "Merkezî yönetim",
-            "Yerinden yönetim",
-            "Karma yönetim",
-            "Eşit dağıtım yönetimi"
-          ],
-          "dogruCevap": "Merkezî yönetim"
-        },
-        {
-          "soru": "Yerinden yönetimin eğitimdeki en belirgin avantajı nedir?",
-          "secenekler": [
-            "Yerel yönetimlerin eğitim programlarını belirleme yetkisi",
-            "Yerel şartlara göre eğitim içeriği oluşturulması",
-            "Eğitimde daha fazla denetim yapılması",
-            "Milli Eğitim Bakanlığı'nın daha fazla kontrol etmesi"
-          ],
-          "dogruCevap": "Yerel şartlara göre eğitim içeriği oluşturulması"
-        },
-        {
-          "soru": "Yerinden yönetim modeli, eğitimde hangi tür kararları yerel düzeyde bırakır?",
-          "secenekler": [
-            "Yatırım kararlarını",
-            "Müfredat geliştirme kararlarını",
-            "Okul yapım kararlarını",
-            "Öğrenci taşıma kararlarını"
-          ],
-          "dogruCevap": "Müfredat geliştirme kararlarını"
-        },
-        {
-          "soru": "Merkezî yönetimin eğitimdeki en önemli hedefi nedir?",
-          "secenekler": [
-            "Eğitimde yerel farklılıkların dikkate alınması",
-            "Eğitimde standartların sağlanması",
-            "Okullarda özel programlar geliştirilmesi",
-            "Öğrencilerin bireysel başarılarını takip etmek"
-          ],
-          "dogruCevap": "Eğitimde standartların sağlanması"
-        },
-        {
-          "soru": "Yerinden yönetim anlayışında okulların hangi yetkileri olabilir?",
-          "secenekler": [
-            "Eğitim politikalarını belirlemek",
-            "Öğretmen maaşlarını belirlemek",
-            "Okul içi etkinlikleri düzenlemek",
-            "Müfredat belirlemek"
-          ],
-          "dogruCevap": "Okul içi etkinlikleri düzenlemek"
-        },
-        {
-          "soru": "Merkezî yönetimin eğitimde uyguladığı standartlaştırma neyi ifade eder?",
-          "secenekler": [
-            "Öğrenciler arasında başarı farkının azaltılması",
-            "Bütün okullarda aynı müfredatın uygulanması",
-            "Okul yapılarının aynı şekilde inşa edilmesi",
-            "Öğretmenlerin aynı mesleki gelişim süreçlerinden geçmesi"
-          ],
-          "dogruCevap": "Bütün okullarda aynı müfredatın uygulanması"
-        },
-        {
-          "soru": "Yerinden yönetimle eğitimde, okulların daha fazla yerel karar almasının nedeni nedir?",
-          "secenekler": [
-            "Yerel yönetimlerin daha fazla kaynak sağlaması",
-            "Yerel toplumun eğitim ihtiyaçlarını daha iyi bilmesi",
-            "Eğitim standartlarının ulusal düzeyde belirlenmesi",
-            "Okul yöneticilerinin daha deneyimli olması"
-          ],
-          "dogruCevap": "Yerel toplumun eğitim ihtiyaçlarını daha iyi bilmesi"
-        },
-        {
-          "soru": "Türk eğitim sisteminde hangi yönetim modeli, yerel ihtiyaçların göz önünde bulundurulmasını sağlar?",
-          "secenekler": [
-            "Merkezî yönetim",
-            "Yerinden yönetim",
-            "Karma yönetim",
-            "Toplum temelli eğitim"
-          ],
-          "dogruCevap": "Yerinden yönetim"
-        },
-        {
-          "soru": "Yerinden yönetim anlayışına göre okul yönetimleri hangi konuda daha fazla sorumluluk taşır?",
-          "secenekler": [
-            "Okul finansmanını sağlamak",
-            "Eğitim programlarını belirlemek",
-            "Öğretmenleri atamak",
-            "Milli Eğitim Bakanlığı'na raporlama yapmak"
-          ],
-          "dogruCevap": "Eğitim programlarını belirlemek"
-        },
-        {
-          "soru": "Merkezî yönetim modeline sahip bir eğitim sistemi, hangi tür sorunları daha kolay çözebilir?",
-          "secenekler": [
-            "Yerel farklılıklar",
-            "Eğitimdeki eşitsizlik",
-            "Okullar arası rekabet",
-            "Okul içindeki özgürlükler"
-          ],
-          "dogruCevap": "Eğitimdeki eşitsizlik"
-        },
-        {
-          "soru": "Yerinden yönetim ile eğitimde hangi tür kararlar yerel yönetimlere bırakılır?",
-          "secenekler": [
-            "Eğitim programı belirleme",
-            "Okul inşaatı projeleri",
-            "Öğretmen atama",
-            "Müfredat hazırlama"
-          ],
-          "dogruCevap": "Eğitim programı belirleme"
-        }
-      ]
+      "dogruCevap": "Eğitim süreçlerini daha verimli ve etkili hale getirmek"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi eğitimde teknoloji kullanımının amacına hizmet etmez?",
+      "secenekler": [
+        "Öğrencilerin eleştirel düşünme becerilerini geliştirmek",
+        "Öğrencilerin görsel ve işitsel algılarını artırmak",
+        "Öğrencilerin fiziksel dayanıklılıklarını artırmak",
+        "Öğrencilerin iletişim becerilerini güçlendirmek"
+      ],
+      "dogruCevap": "Öğrencilerin fiziksel dayanıklılıklarını artırmak"
+    },
+    {
+      "soru": "Eğitimde teknoloji kullanımının öğretmenlere sağladığı en büyük avantaj nedir?",
+      "secenekler": [
+        "Öğretmenlerin ders materyallerini hızlıca hazırlayabilmesi",
+        "Öğretmenlerin iş yükünün artması",
+        "Sadece akademik derslerde teknoloji kullanımı",
+        "Öğrencilerin bireysel sorunlarına daha az odaklanma"
+      ],
+      "dogruCevap": "Öğretmenlerin ders materyallerini hızlıca hazırlayabilmesi"
+    },
+    {
+      "soru": "Bir öğretmenin dijital araçları kullanmasının en büyük faydası nedir?",
+      "secenekler": [
+        "Eğitim sürecini çeşitlendirmek ve öğrencilerin ilgisini çekmek",
+        "Öğrencileri sadece teknik bilgi edinmeye zorlamak",
+        "Ekran başında daha fazla vakit geçirilmesini sağlamak",
+        "Öğrencileri daha fazla zorlamak"
+      ],
+      "dogruCevap": "Eğitim sürecini çeşitlendirmek ve öğrencilerin ilgisini çekmek"
+    },
+    {
+      "soru": "Aşağıdaki ifadelerden hangisi eğitim teknolojilerinin kullanımıyla ilgili yanlıştır?",
+      "secenekler": [
+        "Eğitim teknolojileri öğretmenin rolünü ortadan kaldırır.",
+        "Eğitimde teknoloji kullanımı öğrencilere daha fazla etkileşim imkanı sunar.",
+        "Teknoloji, öğretmenin öğrenciyi takip etmesini kolaylaştırır.",
+        "Teknolojik araçlar, öğretim süreçlerinin daha etkili ve verimli olmasına yardımcı olabilir."
+      ],
+      "dogruCevap": "Eğitim teknolojileri öğretmenin rolünü ortadan kaldırır."
+    },
+    {
+      "soru": "Eğitimde teknoloji kullanımını artırmak için hangi strateji daha etkili olabilir?",
+      "secenekler": [
+        "Teknolojiyi sadece öğretmenlerin kullanması",
+        "Öğrencilere teknolojiyi öğretmek ve doğru kullanım hakkında eğitim vermek",
+        "Teknolojiyi sadece sınıf dışı etkinliklerde kullanmak",
+        "Öğrencilere teknoloji kullanımına kısıtlamalar getirmek"
+      ],
+      "dogruCevap": "Öğrencilere teknolojiyi öğretmek ve doğru kullanım hakkında eğitim vermek"
+    },
+    {
+      "soru": "Eğitimde kullanılan teknolojilerden hangisi öğrencilerin birbirleriyle etkileşimde bulunmalarını sağlar?",
+      "secenekler": [
+        "E-posta",
+        "Video konferans uygulamaları",
+        "Öğretmenlerin yazılı raporları",
+        "Kapsamlı dijital ders kitapları"
+      ],
+      "dogruCevap": "Video konferans uygulamaları"
+    },
+    {
+      "soru": "Eğitimde teknoloji kullanımının öğrenciler için en büyük katkısı nedir?",
+      "secenekler": [
+        "Derslerin daha dinamik ve ilgi çekici hale gelmesi",
+        "Öğrencilerin pasif hale gelmesi",
+        "Öğrencilerin dijital okuryazarlıklarını geliştirmesi",
+        "Bireysel öğrenme süreçlerinin desteklenmesi"
+      ],
+      "dogruCevap": "Derslerin daha dinamik ve ilgi çekici hale gelmesi"
+    },
+    {
+      "soru": "Eğitimde teknolojinin kullanımı ile ilgili aşağıdaki durumların hangisi öğrenciye katkı sağlamaz?",
+      "secenekler": [
+        "Derslerin daha dinamik ve ilgi çekici hale gelmesi",
+        "Öğrencilerin pasif hale gelmesi",
+        "Öğrencilerin dijital okuryazarlıklarını geliştirmesi",
+        "Bireysel öğrenme süreçlerinin desteklenmesi"
+      ],
+      "dogruCevap": "Öğrencilerin pasif hale gelmesi"
+    },
+    {
+      "soru": "Eğitimde teknoloji kullanımının en büyük zorluklarından biri nedir?",
+      "secenekler": [
+        "Teknolojik araçların kolayca erişilebilir olması",
+        "Öğretmenlerin teknolojiye yeterince hakim olmamaları",
+        "Dijital araçların düşük maliyetli olması",
+        "Öğrencilerin teknolojiye olan ilgisi"
+      ],
+      "dogruCevap": "Öğretmenlerin teknolojiye yeterince hakim olmamaları"
+    },
+    {
+      "soru": "Eğitimde kullanılan teknolojilerin türlerinden hangisi eğitimde öğrencilerin etkileşimde bulunmalarını sağlar?",
+      "secenekler": [
+        "Sosyal medya",
+        "E-posta",
+        "Forumlar ve çevrimiçi tartışma grupları",
+        "Sanal gerçeklik (VR)"
+      ],
+      "dogruCevap": "Forumlar ve çevrimiçi tartışma grupları"
+    }
+  ],
+      "Öğretimin Basamaklandırılması": [
+    {
+      "soru": "Türk eğitim sisteminde öğretimin basamaklandırılması nedir?",
+      "secenekler": [
+        "Eğitim süreçlerinin belirli bir düzende sıralanması",
+        "Eğitimde başarıya göre sıralama yapılması",
+        "Öğrencilerin ders seçiminde özgür olması",
+        "Eğitim kurumlarının fiziki yapısının düzenlenmesi"
+      ],
+      "dogruCevap": "Eğitim süreçlerinin belirli bir düzende sıralanması"
+    },
+    {
+      "soru": "Türk eğitim sisteminde hangi basamağa kadar eğitim zorunludur?",
+      "secenekler": [
+        "İlköğretim",
+        "Ortaöğretim",
+        "Yükseköğretim",
+        "Lise"
+      ],
+      "dogruCevap": "Ortaöğretim"
+    },
+    {
+      "soru": "Türk eğitim sisteminde hangi okul, öğretimin ilk basamağını oluşturur?",
+      "secenekler": [
+        "Anaokulu",
+        "İlkokul",
+        "Ortaokul",
+        "Lise"
+      ],
+      "dogruCevap": "İlkokul"
+    },
+    {
+      "soru": "Türk eğitim sistemindeki hangi basamaktan sonra üniversite eğitimi başlar?",
+      "secenekler": [
+        "Ortaokul",
+        "Lise",
+        "İlkokul",
+        "Yükseköğretim"
+      ],
+      "dogruCevap": "Lise"
+    },
+    {
+      "soru": "Türk eğitim sisteminde yükseköğretim hangi basamaktan sonra gelir?",
+      "secenekler": [
+        "İlköğretim",
+        "Ortaöğretim",
+        "Yükseköğretim",
+        "Üniversite"
+      ],
+      "dogruCevap": "Ortaöğretim"
+    },
+    {
+      "soru": "Öğretimin basamaklandırılması hangi tür eğitimde gereklidir?",
+      "secenekler": [
+        "Herkesin aynı düzeyde eğitim aldığı eğitim sistemlerinde",
+        "Öğrencilerin başarı düzeylerine göre eğitim yapıldığı eğitim sistemlerinde",
+        "Yaş gruplarına göre eğitim yapılan eğitim sistemlerinde",
+        "Farklı dilde eğitim yapılan sistemlerde"
+      ],
+      "dogruCevap": "Yaş gruplarına göre eğitim yapılan eğitim sistemlerinde"
+    },
+    {
+      "soru": "Türk eğitim sisteminde öğretimin her basamağı hangi kurumlar tarafından sağlanır?",
+      "secenekler": [
+        "Özel kurumlar",
+        "Devlet okulları",
+        "Hem devlet hem de özel kurumlar",
+        "Devlet ve vakıf üniversiteleri"
+      ],
+      "dogruCevap": "Hem devlet hem de özel kurumlar"
+    },
+    {
+      "soru": "Türk eğitim sisteminde öğretim basamakları arasındaki geçişi kim denetler?",
+      "secenekler": [
+        "Milli Eğitim Bakanlığı",
+        "Yükseköğretim Kurulu",
+        "İçişleri Bakanlığı",
+        "Türkiye İstatistik Kurumu"
+      ],
+      "dogruCevap": "Milli Eğitim Bakanlığı"
+    },
+    {
+      "soru": "Türk eğitim sisteminde ortaöğretimden sonraki basamak hangisidir?",
+      "secenekler": [
+        "Üniversite",
+        "Lise",
+        "İlköğretim",
+        "Meslek yüksekokulu"
+      ],
+      "dogruCevap": "Üniversite"
+    },
+    {
+      "soru": "Türk eğitim sisteminde öğretimin basamaklandırılmasında hangi faktör önemli rol oynar?",
+      "secenekler": [
+        "Öğrencilerin psikolojik gelişimleri",
+        "Okulun bina kapasitesi",
+        "Öğrencilerin tercihlerine göre eğitim",
+        "Öğrencilerin yaş ve başarı düzeyleri"
+      ],
+      "dogruCevap": "Öğrencilerin yaş ve başarı düzeyleri"
+    },
+    {
+      "soru": "Türk eğitim sistemindeki ilk öğretim basamağında hangi yaş grubu eğitim görür?",
+      "secenekler": [
+        "5-6 yaş",
+        "6-7 yaş",
+        "7-9 yaş",
+        "10-12 yaş"
+      ],
+      "dogruCevap": "6-7 yaş"
+    },
+    {
+      "soru": "Ortaöğretim basamağındaki eğitim süresi ne kadardır?",
+      "secenekler": [
+        "2 yıl",
+        "3 yıl",
+        "4 yıl",
+        "5 yıl"
+      ],
+      "dogruCevap": "4 yıl"
+    },
+    {
+      "soru": "Türk eğitim sisteminde öğretim basamakları arasındaki en temel fark nedir?",
+      "secenekler": [
+        "Eğitim süresi",
+        "Ders içerikleri",
+        "Okul binalarının büyüklüğü",
+        "Öğrencilerin yaşları"
+      ],
+      "dogruCevap": "Ders içerikleri"
+    },
+    {
+      "soru": "Öğretimin basamaklandırılması hangi eğitimi sağlar?",
+      "secenekler": [
+        "Eğitimde başarı",
+        "Yaş aralıklarına göre eşitlik",
+        "Bütün öğrencilere aynı eğitim verilmesi",
+        "Yaş ve gelişim düzeyine uygun eğitim"
+      ],
+      "dogruCevap": "Yaş ve gelişim düzeyine uygun eğitim"
+    },
+    {
+      "soru": "Türk eğitim sisteminde öğretim basamakları şunlardır:",
+      "secenekler": [
+        "Anaokulu, İlkokul, Ortaokul, Lise, Üniversite",
+        "İlkokul, Ortaokul, Lise, Yükseköğretim",
+        "İlkokul, Ortaokul, Lise, Meslek yüksekokulu",
+        "Anaokulu, İlkokul, Lise, Üniversite"
+      ],
+      "dogruCevap": "Anaokulu, İlkokul, Ortaokul, Lise, Üniversite"
+    },
+    {
+      "soru": "Türk eğitim sisteminde öğretimin basamaklandırılmasında en büyük amaç nedir?",
+      "secenekler": [
+        "Eğitimde kalitenin artırılması",
+        "Bütün öğrencilerin aynı seviyede eğitim alması",
+        "Öğrencilerin çeşitli alanlarda yetiştirilmesi",
+        "Eğitim sisteminin adil ve düzenli olması"
+      ],
+      "dogruCevap": "Eğitim sisteminin adil ve düzenli olması"
+    },
+    {
+      "soru": "Türk eğitim sisteminde öğretimin her basamağına öğrenciler nasıl yerleştirilir?",
+      "secenekler": [
+        "Sınavla",
+        "Öğrencinin tercihlerine göre",
+        "Rastgele",
+        "Yıl sonu başarılarına göre"
+      ],
+      "dogruCevap": "Sınavla"
+    },
+    {
+      "soru": "Öğretimin basamaklandırılması, hangi tür eğitimde etkili sonuçlar verir?",
+      "secenekler": [
+        "Serbest eğitim",
+        "Eğitimde bireysel yaklaşım",
+        "Yaş ve gelişim düzeyine uygun eğitim",
+        "Öğrencilerin tek tip eğitim aldığı sistem"
+      ],
+      "dogruCevap": "Yaş ve gelişim düzeyine uygun eğitim"
+    },
+    {
+      "soru": "Türk eğitim sisteminde ilkokuldan sonra hangi tür eğitim basamağına geçilir?",
+      "secenekler": [
+        "Anaokulu",
+        "Ortaokul",
+        "Lise",
+        "Üniversite"
+      ],
+      "dogruCevap": "Ortaokul"
+    }
+  ],
+     "Eğitimin Merkezden ve Yerinden Yönetimi": [
+    {
+      "soru": "Eğitimin merkezden yönetimi hangi özelliği taşır?",
+      "secenekler": [
+        "Eğitimde kararların yerel düzeyde alınması",
+        "Eğitim politikalarının merkezi otoriteler tarafından belirlenmesi",
+        "Eğitim sürecinde bireysel farklılıkların dikkate alınması",
+        "Eğitimdeki kaynakların yerel yönetimlerce belirlenmesi"
+      ],
+      "dogruCevap": "Eğitim politikalarının merkezi otoriteler tarafından belirlenmesi"
+    },
+    {
+      "soru": "Yerinden yönetim anlayışına göre, eğitimle ilgili kararları kim alır?",
+      "secenekler": [
+        "Milli Eğitim Bakanlığı",
+        "Yerel yönetimler ve okullar",
+        "Yükseköğretim Kurulu",
+        "Cumhurbaşkanlığı"
+      ],
+      "dogruCevap": "Yerel yönetimler ve okullar"
+    },
+    {
+      "soru": "Merkezî yönetim modelinin Türkiye'deki temel amacı nedir?",
+      "secenekler": [
+        "Eğitimdeki kaliteyi artırmak",
+        "Eğitimde eşitliği sağlamak",
+        "Yerel farklılıkları göz önünde bulundurmak",
+        "Öğrencilerin bireysel gelişimini desteklemek"
+      ],
+      "dogruCevap": "Eğitimdeki kaliteyi artırmak"
+    },
+    {
+      "soru": "Yerinden yönetim anlayışında eğitimle ilgili en önemli avantaj nedir?",
+      "secenekler": [
+        "Yerel ihtiyaçlara daha hızlı cevap verilebilmesi",
+        "Eğitim politikalarının daha genel olması",
+        "Merkezi hükümetin daha güçlü olması",
+        "Eğitimde daha fazla denetim yapılması"
+      ],
+      "dogruCevap": "Yerel ihtiyaçlara daha hızlı cevap verilebilmesi"
+    },
+    {
+      "soru": "Merkezî yönetim modelinin uygulandığı bir eğitim sisteminde hangi özellik ön plana çıkar?",
+      "secenekler": [
+        "Eğitimde merkezi bir denetim ve düzenleme",
+        "Eğitim programlarının yerel ihtiyaçlara göre özelleştirilmesi",
+        "Okulların kendi bütçelerini yönetmesi",
+        "Öğretmenlerin kendi müfredatlarını belirlemesi"
+      ],
+      "dogruCevap": "Eğitimde merkezi bir denetim ve düzenleme"
+    },
+    {
+      "soru": "Eğitimin yerinden yönetiminde öğretmenlerin ve okul yöneticilerinin rolü nedir?",
+      "secenekler": [
+        "Yalnızca uygulama yapmaları",
+        "Karar alma ve politika belirleme süreçlerine katılmaları",
+        "Yalnızca öğrenci başarısını ölçmeleri",
+        "Yalnızca okul içindeki etkinliklere katılmaları"
+      ],
+      "dogruCevap": "Karar alma ve politika belirleme süreçlerine katılmaları"
+    },
+    {
+      "soru": "Merkezden yönetilen eğitim sisteminde hangi faktör daha etkilidir?",
+      "secenekler": [
+        "Yerel okulların özgürlüğü",
+        "Milli Eğitim Bakanlığı'nın kararları",
+        "Okul yönetimlerinin bağımsızlıkları",
+        "Öğrenci sayısının düşük olması"
+      ],
+      "dogruCevap": "Milli Eğitim Bakanlığı'nın kararları"
+    },
+    {
+      "soru": "Türkiye'de eğitim sistemi genellikle hangi yönetim anlayışına dayanır?",
+      "secenekler": [
+        "Merkezî yönetim",
+        "Yerinden yönetim",
+        "Karma yönetim",
+        "Eşit dağıtım yönetimi"
+      ],
+      "dogruCevap": "Merkezî yönetim"
+    },
+    {
+      "soru": "Yerinden yönetimin eğitimdeki en belirgin avantajı nedir?",
+      "secenekler": [
+        "Yerel yönetimlerin eğitim programlarını belirleme yetkisi",
+        "Yerel şartlara göre eğitim içeriği oluşturulması",
+        "Eğitimde daha fazla denetim yapılması",
+        "Milli Eğitim Bakanlığı'nın daha fazla kontrol etmesi"
+      ],
+      "dogruCevap": "Yerel şartlara göre eğitim içeriği oluşturulması"
+    },
+    {
+      "soru": "Yerinden yönetim modeli, eğitimde hangi tür kararları yerel düzeyde bırakır?",
+      "secenekler": [
+        "Yatırım kararlarını",
+        "Müfredat geliştirme kararlarını",
+        "Okul yapım kararlarını",
+        "Öğrenci taşıma kararlarını"
+      ],
+      "dogruCevap": "Müfredat geliştirme kararlarını"
+    },
+    {
+      "soru": "Merkezî yönetimin eğitimdeki en önemli hedefi nedir?",
+      "secenekler": [
+        "Eğitimde yerel farklılıkların dikkate alınması",
+        "Eğitimde standartların sağlanması",
+        "Okullarda özel programlar geliştirilmesi",
+        "Öğrencilerin bireysel başarılarını takip etmek"
+      ],
+      "dogruCevap": "Eğitimde standartların sağlanması"
+    },
+    {
+      "soru": "Yerinden yönetim anlayışında okulların hangi yetkileri olabilir?",
+      "secenekler": [
+        "Eğitim politikalarını belirlemek",
+        "Öğretmen maaşlarını belirlemek",
+        "Okul içi etkinlikleri düzenlemek",
+        "Müfredat belirlemek"
+      ],
+      "dogruCevap": "Okul içi etkinlikleri düzenlemek"
+    },
+    {
+      "soru": "Merkezî yönetimin eğitimde uyguladığı standartlaştırma neyi ifade eder?",
+      "secenekler": [
+        "Öğrenciler arasında başarı farkının azaltılması",
+        "Bütün okullarda aynı müfredatın uygulanması",
+        "Okul yapılarının aynı şekilde inşa edilmesi",
+        "Öğretmenlerin aynı mesleki gelişim süreçlerinden geçmesi"
+      ],
+      "dogruCevap": "Bütün okullarda aynı müfredatın uygulanması"
+    },
+    {
+      "soru": "Yerinden yönetimle eğitimde, okulların daha fazla yerel karar almasının nedeni nedir?",
+      "secenekler": [
+        "Yerel yönetimlerin daha fazla kaynak sağlaması",
+        "Yerel toplumun eğitim ihtiyaçlarını daha iyi bilmesi",
+        "Eğitim standartlarının ulusal düzeyde belirlenmesi",
+        "Okul yöneticilerinin daha deneyimli olması"
+      ],
+      "dogruCevap": "Yerel toplumun eğitim ihtiyaçlarını daha iyi bilmesi"
+    },
+    {
+      "soru": "Türk eğitim sisteminde hangi yönetim modeli, yerel ihtiyaçların göz önünde bulundurulmasını sağlar?",
+      "secenekler": [
+        "Merkezî yönetim",
+        "Yerinden yönetim",
+        "Karma yönetim",
+        "Toplum temelli eğitim"
+      ],
+      "dogruCevap": "Yerinden yönetim"
+    },
+    {
+      "soru": "Yerinden yönetim anlayışına göre okul yönetimleri hangi konuda daha fazla sorumluluk taşır?",
+      "secenekler": [
+        "Okul finansmanını sağlamak",
+        "Eğitim programlarını belirlemek",
+        "Öğretmenleri atamak",
+        "Milli Eğitim Bakanlığı'na raporlama yapmak"
+      ],
+      "dogruCevap": "Eğitim programlarını belirlemek"
+    },
+    {
+      "soru": "Merkezî yönetim modeline sahip bir eğitim sistemi, hangi tür sorunları daha kolay çözebilir?",
+      "secenekler": [
+        "Yerel farklılıklar",
+        "Eğitimdeki eşitsizlik",
+        "Okullar arası rekabet",
+        "Okul içindeki özgürlükler"
+      ],
+      "dogruCevap": "Eğitimdeki eşitsizlik"
+    },
+    {
+      "soru": "Yerinden yönetim ile eğitimde hangi tür kararlar yerel yönetimlere bırakılır?",
+      "secenekler": [
+        "Eğitim programı belirleme",
+        "Okul inşaatı projeleri",
+        "Öğretmen atama",
+        "Müfredat hazırlama"
+      ],
+      "dogruCevap": "Eğitim programı belirleme"
+    }
+  ]
     },
     "Mevzuat": {
       "Türk Milli Eğitiminin Amaçları": [
         {
           "soru": "Türk Milli Eğitiminin genel amacı nedir?",
           "secenekler": [
-            "Türk milletinin ekonomik gelişimini sağlamak",
             "İnsan haklarına saygılı bireyler yetiştirmek",
-            "Öğrencilere meslek kazandırmak",
-            "Türk milletinin kültürünü dünya çapında tanıtmak"
+            "Türk milletinin kültürünü dünya çapında tanıtmak",
+            "Türk milletinin ekonomik gelişimini sağlamak",
+            "Öğrencilere meslek kazandırmak"
           ],
           "dogruCevap": "İnsan haklarına saygılı bireyler yetiştirmek"
         },
         {
           "soru": "Türk Milli Eğitim sisteminin, Türk milletinin hangi değerlerine bağlı olarak öğrenci yetiştirmesi hedeflenir?",
           "secenekler": [
-            "Ekonomik değerler",
             "Manevi, kültürel, ahlaki ve insanî değerler",
+            "Ekonomik değerler",
             "Siyasi değerler",
             "Dini değerler"
           ],
@@ -2909,9 +2543,9 @@
         {
           "soru": "Türk Milli Eğitim sisteminin amacı doğrultusunda, bireylerin hangi özelliklere sahip olması beklenir?",
           "secenekler": [
-            "Sadece meslek bilgisine sahip",
             "Demokratik, laik, sosyal bir devletin bilincine sahip",
-            "Yalnızca bilimsel düşünme becerisi geliştirmiş",
+            "Sadece bilimsel düşünme becerisi geliştirmiş",
+            "Yalnızca meslek bilgisine sahip",
             "Kültürel değerlerden bağımsız"
           ],
           "dogruCevap": "Demokratik, laik, sosyal bir devletin bilincine sahip"
@@ -2929,20 +2563,20 @@
         {
           "soru": "Türk Milli Eğitimi, bireyleri hangi yönleriyle geliştirmeyi amaçlar?",
           "secenekler": [
-            "Fiziksel gelişim",
             "Duygusal, sosyal ve entelektüel gelişim",
-            "Yalnızca mesleki gelişim",
-            "Sadece kültürel gelişim"
+            "Sadece kültürel gelişim",
+            "Fiziksel gelişim",
+            "Yalnızca mesleki gelişim"
           ],
           "dogruCevap": "Duygusal, sosyal ve entelektüel gelişim"
         },
         {
           "soru": "Türk Milli Eğitim Kanununa göre, eğitimde bireyin hangi türden gelişimini sağlamak önceliklidir?",
           "secenekler": [
-            "Fiziksel gelişim",
-            "Duygusal gelişim",
             "Kişilik gelişimi ve karakter eğitimi",
-            "Mesleki gelişim"
+            "Fiziksel gelişim",
+            "Mesleki gelişim",
+            "Duygusal gelişim"
           ],
           "dogruCevap": "Kişilik gelişimi ve karakter eğitimi"
         },
@@ -2959,8 +2593,8 @@
         {
           "soru": "Türk Milli Eğitiminde öğrencilerin hangi özelliklere sahip olması beklenir?",
           "secenekler": [
-            "Sadece akademik başarı",
             "Sosyal sorumluluk bilinci",
+            "Sadece akademik başarı",
             "Fiziksel gücün artırılması",
             "Teknik beceriler"
           ],
@@ -2970,8 +2604,8 @@
           "soru": "Türk Milli Eğitiminde bireylerin hangi özellikleri kazanmaları amaçlanır?",
           "secenekler": [
             "Demokratik toplum değerlerine saygılı",
-            "Fiziksel güç",
             "Bireysel kazanç düşüncesi",
+            "Fiziksel güç",
             "Kültürel bağımsızlık"
           ],
           "dogruCevap": "Demokratik toplum değerlerine saygılı"
@@ -2979,9 +2613,9 @@
         {
           "soru": "Türk Milli Eğitiminde bireylerin hangi eğitimi alması beklenir?",
           "secenekler": [
+            "Bütünsel bir eğitim, ahlaki ve kültürel değerlerle birlikte sağlanır",
             "Eğitimde sadece dini içerikler ön planda tutulur",
             "Fiziksel gelişim ön planda tutulur",
-            "Bütünsel bir eğitim, ahlaki ve kültürel değerlerle birlikte sağlanır",
             "Yalnızca mesleki beceriler kazandırılır"
           ],
           "dogruCevap": "Bütünsel bir eğitim, ahlaki ve kültürel değerlerle birlikte sağlanır"
@@ -3009,8 +2643,8 @@
         {
           "soru": "Türk Milli Eğitiminde bireylerin hangi tür özellikleri geliştirmeleri beklenir?",
           "secenekler": [
-            "Fiziksel gücü",
             "Ahlaki ve kültürel değerleri",
+            "Fiziksel gücü",
             "Yalnızca ekonomik başarıyı",
             "Teknolojik becerileri"
           ],
@@ -3019,18 +2653,18 @@
         {
           "soru": "Türk Milli Eğitimi, hangi temel eğitimi güçlendirmeyi amaçlar?",
           "secenekler": [
+            "Ahlaki ve sosyal gelişim",
             "Zihinsel beceriler",
             "Fiziksel güç",
-            "Kişisel bağımsızlık",
-            "Ahlaki ve sosyal gelişim"
+            "Kişisel bağımsızlık"
           ],
           "dogruCevap": "Ahlaki ve sosyal gelişim"
         },
         {
           "soru": "Türk Milli Eğitiminde bireylerin hangi düzeyde gelişim göstermelerini hedefler?",
           "secenekler": [
-            "Zihinsel düzeyde",
             "Ahlaki ve sosyal düzeyde",
+            "Zihinsel düzeyde",
             "Fiziksel düzeyde",
             "Teknik düzeyde"
           ],
@@ -3050,8 +2684,8 @@
           "soru": "Türk Milli Eğitimi, hangi konuda bireylerin bilinçli olmalarını hedefler?",
           "secenekler": [
             "Toplumsal sorumluluklar",
-            "Teknolojik bağımsızlık",
             "Kişisel bağımsızlık",
+            "Teknolojik bağımsızlık",
             "Kültürel değerlerin yitirilmesi"
           ],
           "dogruCevap": "Toplumsal sorumluluklar"
@@ -3059,18 +2693,18 @@
         {
           "soru": "Türk Milli Eğitiminde, bireylerin hangi sorumlulukları üstlenmeleri beklenir?",
           "secenekler": [
-            "Toplumun gereksinimlerini göz ardı etmek",
             "Toplumsal barışı sağlamak",
             "Ekonomik başarıyı ön planda tutmak",
-            "Bireysel kazanç sağlamak"
+            "Bireysel kazanç sağlamak",
+            "Toplumun gereksinimlerini göz ardı etmek"
           ],
           "dogruCevap": "Toplumsal barışı sağlamak"
         },
         {
           "soru": "Türk Milli Eğitiminde, eğitimdeki kaynakların yönetimi nasıl yapılır?",
           "secenekler": [
-            "Yerel yönetimlerce belirlenir",
             "Merkezi otoritelerce belirlenir",
+            "Yerel yönetimlerce belirlenir",
             "Okul müdürlükleri tarafından belirlenir",
             "Eğitimciler tarafından belirlenir"
           ],
