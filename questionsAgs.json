@@ -224,26 +224,7 @@
           ],
           "dogruCevap": "Halk eğitimine olan ilginin artması"
         },
-        {
-          "soru": "Eğitimde bilimsel yöntemlerin kullanılması gerektiğini savunan kişi kimdir?",
-          "secenekler": [
-            "John Dewey",
-            "Jean Piaget",
-            "Vygotsky",
-            "Maria Montessori"
-          ],
-          "dogruCevap": "John Dewey"
-        },
-        {
-          "soru": "Montessori eğitim sisteminin temelini kim atmıştır?",
-          "secenekler": [
-            "John Dewey",
-            "Jean Piaget",
-            "Maria Montessori",
-            "Lev Vygotsky"
-          ],
-          "dogruCevap": "Maria Montessori"
-        },
+        
         {
           "soru": "Türkiye'de eğitim reformunu gerçekleştiren lider kimdir?",
           "secenekler": [
@@ -306,16 +287,7 @@
         }
       ],
       "Eğitimin Felsefi ve Psikolojik Temelleri": [
-        {
-          "soru": "Eğitimin felsefi temelleri, hangi düşünsel akıma dayanır?",
-          "secenekler": [
-            "Pozitivizm",
-            "Empirizm",
-            "Rasyonalizm",
-            "Hedonizm"
-          ],
-          "dogruCevap": "Pozitivizm"
-        },
+
         {
           "soru": "Eğitimde bireysel farklılıkların ön plana çıkmasının savunucusu kimdir?",
           "secenekler": [
@@ -335,26 +307,6 @@
             "Dünya gerçekliğinden bağımsız idealar öğrenilmelidir"
           ],
           "dogruCevap": "Dünya gerçekliğinden bağımsız idealar öğrenilmelidir"
-        },
-        {
-          "soru": "Eğitimin psikolojik temelleri ile ilgili olarak psikolojinin hangi alt dalı önemli bir rol oynar?",
-          "secenekler": [
-            "Psikanaliz",
-            "Davranışçılık",
-            "Bilişsel psikoloji",
-            "Eğitim psikolojisi"
-          ],
-          "dogruCevap": "Eğitim psikolojisi"
-        },
-        {
-          "soru": "Eğitimde davranışçılık anlayışını savunan kişi kimdir?",
-          "secenekler": [
-            "John Dewey",
-            "Jean Piaget",
-            "B.F. Skinner",
-            "Abraham Maslow"
-          ],
-          "dogruCevap": "B.F. Skinner"
         },
         {
           "soru": "Eğitimin psikolojik temellerine göre, bireylerin öğrenme süreçlerinde en etkili faktör nedir?",
@@ -1541,7 +1493,395 @@
       ],
       "dogruCevap": "Pedagojik formasyon"
     }
-  ]
+  ],
+   
+      "Öğrenme Psikolojisi": [
+        {
+          "soru": "Bir öğrenci matematik dersinde başarısız oldukça 'Ben zaten matematiği yapamam' diyerek dersten uzaklaşmaktadır. Bu durum aşağıdaki kavramlardan hangisiyle açıklanabilir?",
+          "secenekler": [
+            "Öğrenilmiş çaresizlik",
+            "Olumsuz transfer",
+            "Kendini gerçekleştiren kehanet",
+            "Başarısızlık korkusu"
+          ],
+          "dogruCevap": "Öğrenilmiş çaresizlik"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Gestalt psikolojisinin temel ilkelerinden biri değildir?",
+          "secenekler": [
+            "Şekil-zemin ilişkisi",
+            "Yakınlık",
+            "Tamamlama",
+            "Tekrar"
+          ],
+          "dogruCevap": "Tekrar"
+        },
+        {
+          "soru": "Bir öğretmenin, öğrencinin yanlış davranışını görmezden gelerek söndürmeye çalışması hangi pekiştirme tarifesine örnektir?",
+          "secenekler": [
+            "Sürekli pekiştirme",
+            "Sönme",
+            "Sistematik duyarsızlaştırma",
+            "Aralıklı pekiştirme"
+          ],
+          "dogruCevap": "Sönme"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi bilgiyi işleme kuramının aşamalarından biri değildir?",
+          "secenekler": [
+            "Duyusal kayıt",
+            "Kısa süreli bellek",
+            "Uzun süreli bellek",
+            "Tepki üretimi"
+          ],
+          "dogruCevap": "Tepki üretimi"
+        },
+        {
+          "soru": "Bir öğrencinin sınav kaygısını azaltmak için önce boş sınıfta, sonra birkaç arkadaşı varken, en sonunda da kalabalık ortamda deneme sınavına girmesi hangi tekniğe örnektir?",
+          "secenekler": [
+            "Sistematik duyarsızlaştırma",
+            "Karşıt koşullama",
+            "Kademeli yaklaşma",
+            "Etkisizleştirme"
+          ],
+          "dogruCevap": "Sistematik duyarsızlaştırma"
+        },
+        {
+          "soru": "Thorndike'ın öğrenme yasalarından 'hazırbulunuşluk' ilkesi aşağıdakilerden hangisini vurgular?",
+          "secenekler": [
+            "Tekrar yapmanın önemini",
+            "Pekiştirmenin gerekliliğini",
+            "Öğrenme için uygun olgunluğu",
+            "Transfer etkisini"
+          ],
+          "dogruCevap": "Öğrenme için uygun olgunluğu"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi kısa süreli belleğin özelliklerinden biri değildir?",
+          "secenekler": [
+            "Sınırlı kapasite",
+            "Sınırsız süre",
+            "Aktif tekrar",
+            "Bilgi kodlama"
+          ],
+          "dogruCevap": "Sınırsız süre"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi edimsel koşullanmanın temel kavramlarından biri değildir?",
+          "secenekler": [
+            "Pekiştireç",
+            "Tepki",
+            "Nötr uyarıcı",
+            "Koşullu uyarıcı"
+          ],
+          "dogruCevap": "Koşullu uyarıcı"
+        },
+        {
+          "soru": "Bandura'nın sosyal öğrenme kuramına göre, aşağıdakilerden hangisi model alma yoluyla öğrenmenin aşamalarından biri değildir?",
+          "secenekler": [
+            "Dikkat",
+            "Hatırlama",
+            "Güdülenme",
+            "Koşullanma"
+          ],
+          "dogruCevap": "Koşullanma"
+        },
+        {
+          "soru": "Bir davranışın ardından verilen pekiştirecin giderek azaltılması aşağıdaki kavramlardan hangisine örnektir?",
+          "secenekler": [
+            "Sistematik duyarsızlaştırma",
+            "Kademeli yaklaşma",
+            "Premack ilkesi",
+            "Davranış azaltma"
+          ],
+          "dogruCevap": "Kademeli yaklaşma"
+        },
+        {
+          "soru": "Öğrencinin matematik dersinde başarılı olması sonucunda bilgisayar oynamasına izin verilmesi, aşağıdaki pekiştireç türlerinden hangisine örnektir?",
+          "secenekler": [
+            "Birincil pekiştireç",
+            "İkincil pekiştireç",
+            "Olumsuz pekiştireç",
+            "Sosyal pekiştireç"
+          ],
+          "dogruCevap": "İkincil pekiştireç"
+        },
+        {
+          "soru": "Bir öğrencinin bisiklete binmeyi öğrendikten sonra motosiklet kullanmayı daha kolay öğrenmesi, aşağıdaki kavramlardan hangisine örnektir?",
+          "secenekler": [
+            "Geriye ket vurma",
+            "Kendiliğinden geri gelme",
+            "Olumlu transfer",
+            "Sönme"
+          ],
+          "dogruCevap": "Olumlu transfer"
+        },
+        {
+          "soru": "Bir öğrencinin İngilizce öğrendikten sonra Almanca öğrenirken İngilizce kelimeler kullanması hangi kavramla açıklanır?",
+          "secenekler": [
+            "Olumlu transfer",
+            "Olumsuz transfer",
+            "Geriye ket vurma",
+            "İleriye ket vurma"
+          ],
+          "dogruCevap": "Olumsuz transfer"
+        }
+      ],
+      "Gelişim Psikolojisi": [
+        {
+          "soru": "Piaget'nin bilişsel gelişim dönemlerinden 'Somut İşlemler Dönemi'nde aşağıdaki özelliklerden hangisi görülmez?",
+          "secenekler": [
+            "Korunum kavramı",
+            "Tersine çevirebilirlik",
+            "Soyut düşünme",
+            "Sınıflama becerisi"
+          ],
+          "dogruCevap": "Soyut düşünme"
+        },
+        {
+          "soru": "Erikson'un psikososyal gelişim kuramına göre, okul çağı döneminde kazanılması gereken temel özellik aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Özerkliğe karşı kuşku",
+            "Başarıya karşı aşağılık duygusu",
+            "Kimliğe karşı rol karmaşası",
+            "Yakınlığa karşı yalıtılmışlık"
+          ],
+          "dogruCevap": "Başarıya karşı aşağılık duygusu"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Bronfenbrenner'in ekolojik sistemler kuramındaki mikrosistem içinde yer almaz?",
+          "secenekler": [
+            "Aile",
+            "Okul",
+            "Kitle iletişim araçları",
+            "Arkadaş grubu"
+          ],
+          "dogruCevap": "Kitle iletişim araçları"
+        },
+        {
+          "soru": "Piaget'ye göre, aşağıdakilerden hangisi bilişsel gelişimin temel mekanizmalarından biri değildir?",
+          "secenekler": [
+            "Özümleme",
+            "Uyumsama",
+            "Örgütleme",
+            "Yansıtma"
+          ],
+          "dogruCevap": "Yansıtma"
+        },
+        {
+          "soru": "Bir çocuğun 'Babam bana kızdığı için artık beni sevmiyor' şeklinde düşünmesi, aşağıdaki kavramlardan hangisine örnektir?",
+          "secenekler": [
+            "Benmerkezcilik",
+            "Özümleme",
+            "Yapaycılık",
+            "Canlandırmacılık"
+          ],
+          "dogruCevap": "Yapaycılık"
+        },
+        {
+          "soru": "Erikson'un psikososyal gelişim kuramına göre, yaşlılık döneminin temel çatışması aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Üretkenliğe karşı durgunluk",
+            "Benlik bütünlüğüne karşı umutsuzluk",
+            "Yakınlığa karşı yalıtılmışlık",
+            "Girişimciliğe karşı suçluluk"
+          ],
+          "dogruCevap": "Benlik bütünlüğüne karşı umutsuzluk"
+        },
+        {
+          "soru": "Bir çocuğun 'Annem doktor olduğu için ben de doktor olacağım' demesi, Freud'un psikanalitik kuramındaki hangi kavramla açıklanır?",
+          "secenekler": [
+            "Yansıtma",
+            "Özdeşim kurma",
+            "Bastırma",
+            "Yüceltme"
+          ],
+          "dogruCevap": "Özdeşim kurma"
+        },
+        {
+          "soru": "Havighurst'ün gelişim görevleri kuramına göre, aşağıdakilerden hangisi ergenlik döneminin gelişim görevlerinden biri değildir?",
+          "secenekler": [
+            "Meslek seçimi",
+            "Kimlik kazanımı",
+            "Emeklilik planı yapma",
+            "Akran ilişkileri geliştirme"
+          ],
+          "dogruCevap": "Emeklilik planı yapma"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi bilişsel gelişimin temel ilkelerinden biri değildir?",
+          "secenekler": [
+            "Gelişim süreklidir",
+            "Gelişim aşamalıdır",
+            "Gelişim durağandır",
+            "Gelişim örüntüsü sabittir"
+          ],
+          "dogruCevap": "Gelişim durağandır"
+        },
+        {
+          "soru": "Gardner'ın çoklu zeka kuramına göre, bir çocuğun harita okumada ve yön bulmada başarılı olması hangi zeka alanının güçlü olduğunu gösterir?",
+          "secenekler": [
+            "Mantıksal-matematiksel zeka",
+            "Görsel-uzamsal zeka",
+            "Bedensel-kinestetik zeka",
+            "Doğacı zeka"
+          ],
+          "dogruCevap": "Görsel-uzamsal zeka"
+        },
+        {
+          "soru": "Piaget'nin bilişsel gelişim kuramına göre, aşağıdakilerden hangisi soyut işlemler döneminin özelliklerinden biri değildir?",
+          "secenekler": [
+            "Hipotetik düşünme",
+            "Tümevarımsal akıl yürütme",
+            "Benmerkezci düşünme",
+            "Sistematik problem çözme"
+          ],
+          "dogruCevap": "Benmerkezci düşünme"
+        },
+        {
+          "soru": "Erikson'un psikososyal gelişim kuramına göre, 'Kimliğe karşı rol karmaşası' hangi dönemde ortaya çıkar?",
+          "secenekler": [
+            "Okul çağı",
+            "Ergenlik",
+            "İlk yetişkinlik",
+            "Orta yetişkinlik"
+          ],
+          "dogruCevap": "Ergenlik"
+        },
+        {
+          "soru": "Kohlberg'in ahlak gelişimi kuramında 'geleneksel düzey'de bulunan bir birey için aşağıdakilerden hangisi karakteristiktir?",
+          "secenekler": [
+            "Ceza ve itaatle yönlenme",
+            "Toplumsal sözleşme eğilimi",
+            "İyi çocuk olma eğilimi",
+            "Evrensel ahlak ilkeleri"
+          ],
+          "dogruCevap": "İyi çocuk olma eğilimi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Vygotsky'nin sosyokültürel gelişim kuramının temel kavramlarından biri değildir?",
+          "secenekler": [
+            "Yakınsal gelişim alanı",
+            "Yapı iskelesi",
+            "Şema",
+            "İçselleştirme"
+          ],
+          "dogruCevap": "Şema"
+        }
+      ],
+      "Program Geliştirme": [
+        {
+          "soru": "Tyler'ın program geliştirme modeline göre, aşağıdakilerden hangisi program geliştirmenin ilk aşamasıdır?",
+          "secenekler": [
+            "Öğrenme yaşantılarının düzenlenmesi",
+            "Eğitim felsefesinin belirlenmesi",
+            "Hedeflerin belirlenmesi",
+            "İçeriğin seçimi"
+          ],
+          "dogruCevap": "Hedeflerin belirlenmesi"
+        },
+        {
+          "soru": "Program değerlendirmede kullanılan 'Stufflebeam'in CIPP Modeli'nde 'P' harfi aşağıdakilerden hangisini temsil eder?",
+          "secenekler": [
+            "Plan (Plan)",
+            "Product (Ürün)",
+            "Process (Süreç)",
+            "Program (Program)"
+          ],
+          "dogruCevap": "Process (Süreç)"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Taba'nın program geliştirme modelinin aşamalarından biri değildir?",
+          "secenekler": [
+            "İhtiyaçların belirlenmesi",
+            "Hedeflerin belirlenmesi",
+            "Maliyetin hesaplanması",
+            "İçeriğin seçimi"
+          ],
+          "dogruCevap": "Maliyetin hesaplanması"
+        },
+        {
+          "soru": "Program değerlendirmede kullanılan Provus'un Farklar Yaklaşımı Modeli'nde aşağıdakilerden hangisi değerlendirme aşamalarından biri değildir?",
+          "secenekler": [
+            "Tanımlama",
+            "Süreç",
+            "Ürün",
+            "Transfer"
+          ],
+          "dogruCevap": "Transfer"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi eğitim programının temel öğelerinden biri değildir?",
+          "secenekler": [
+            "Hedef",
+            "İçerik",
+            "Öğretmen",
+            "Değerlendirme"
+          ],
+          "dogruCevap": "Öğretmen"
+        },
+        {
+          "soru": "Program geliştirmede hedef alanları ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+          "secenekler": [
+            "Bilişsel alan - Bloom",
+            "Duyuşsal alan - Krathwohl",
+            "Psikomotor alan - Simpson",
+            "Sosyal alan - Gagne"
+          ],
+          "dogruCevap": "Sosyal alan - Gagne"
+        },
+        {
+          "soru": "Program geliştirmede hedef yazılırken aşağıdakilerden hangisine dikkat edilmez?",
+          "secenekler": [
+            "Öğrenci davranışına dönük olma",
+            "Ölçülebilir olma",
+            "Öğretmen merkezli olma",
+            "Kendi içinde tutarlı olma"
+          ],
+          "dogruCevap": "Öğretmen merkezli olma"
+        },
+    
+        {
+          "soru": "Program geliştirmede aşağıdakilerden hangisi hedef yazma yaklaşımlarından biri değildir?",
+          "secenekler": [
+            "Taksonomik yaklaşım",
+            "Modüler yaklaşım",
+            "Davranışsal yaklaşım",
+            "Yapılandırmacı yaklaşım"
+          ],
+          "dogruCevap": "Yapılandırmacı yaklaşım"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi program değerlendirme türlerinden biri değildir?",
+          "secenekler": [
+            "Düzey belirleyici değerlendirme",
+            "Tanılayıcı değerlendirme",
+            "Biçimlendirici değerlendirme",
+            "Yönlendirici değerlendirme"
+          ],
+          "dogruCevap": "Yönlendirici değerlendirme"
+        },
+        {
+          "soru": "Program geliştirme sürecinde ihtiyaç analizi yapılırken aşağıdaki yaklaşımlardan hangisi kullanılmaz?",
+          "secenekler": [
+            "Farklar yaklaşımı",
+            "Demokratik yaklaşım",
+            "Betimsel yaklaşım",
+            "Davranışsal yaklaşım"
+          ],
+          "dogruCevap": "Davranışsal yaklaşım"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi program değerlendirme modellerinden Stake'in Uygunluk-Olasılık modeline ait bir özellik değildir?",
+          "secenekler": [
+            "Girdilerin değerlendirilmesi",
+            "Sürecin değerlendirilmesi",
+            "Yargıya varma",
+            "Maliyet analizi"
+          ],
+          "dogruCevap": "Maliyet analizi"
+        }
+      ]
     },
     "Türk Millî Eğitim Sistemi": {
       "Türk Eğitim Sisteminin Yapısı": [
@@ -6685,16 +7025,6 @@
           "dogruCevap": "Çekim eki"
         },
         {
-          "soru": "Aşağıdaki kelimelerden hangisi yalnızca çekim eki almıştır?",
-          "secenekler": [
-            "Balkon",
-            "Gülüş",
-            "Sevinç",
-            "Yazdırmak"
-          ],
-          "dogruCevap": "Gülüş"
-        },
-        {
           "soru": "‘Yüzeysel’ kelimesindeki ‘-sel’ eki hangi tür ek olarak kabul edilir?",
           "secenekler": [
             "Yapım eki",
@@ -7240,158 +7570,8 @@
           ],
           "dogruCevap": "En güzel aşk şiirlerini terkedip toplumsal konulara eğiliyor."
         }
-      ],
-      "Noktalama İşaretleri": [
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde virgül yanlış kullanılmıştır?",
-          "secenekler": [
-            "Sabah kahvaltıdan sonra sinemaya gideceğiz.",
-            "Yavaşça, elini cebine soktu.",
-            "İstanbul, Ankara ve İzmir'e gittim.",
-            "Bugün, akşam bir toplantım var."
-          ],
-          "dogruCevap": "Yavaşça, elini cebine soktu."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde tırnak işareti yanlış kullanılmıştır?",
-          "secenekler": [
-            "Adam 'Hadi, gidelim!' dedi.",
-            "'Hızlı bir şekilde çalışmaya başladım,' dedi Ahmet.",
-            "O, 'Bunu bana getirebilir misin?' diye sordu.",
-            "Yazarın son kitabı 'Görünmeyen Dünya' çok ilgi gördü."
-          ],
-          "dogruCevap": "'Hızlı bir şekilde çalışmaya başladım,' dedi Ahmet."
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi noktalama işareti yanlış kullanılmıştır?",
-          "secenekler": [
-            "Ahmet'in, yanına oturması gerekiyordu.",
-            "Akşam yemeği, benimle birlikte yenecek.",
-            "Bugün gerçekten çok yorgunum; ama gitmem gerek.",
-            "Köpeğini parkta bulduğumda, çok neşeliydi."
-          ],
-          "dogruCevap": "Akşam yemeği, benimle birlikte yenecek."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde üç nokta yanlış kullanılmıştır?",
-          "secenekler": [
-            "Film çok güzeldi… Ama biraz uzundu.",
-            "O kadar düşünüyordum ki… Hiçbir şey hatırlamıyorum.",
-            "Her şey bitti… Ve bir daha dönmedim.",
-            "Ona bir şeyler söyleyecektim ama… Yutkundum."
-          ],
-          "dogruCevap": "Her şey bitti… Ve bir daha dönmedim."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde soru işareti yanlış kullanılmıştır?",
-          "secenekler": [
-            "Ne zaman gelirsen, ben de orada olacağım.",
-            "Bunu neden yaptın?",
-            "Bugün, seninle görüşebilir miyiz?",
-            "Siz buraya daha önce gelmiş miydiniz?"
-          ],
-          "dogruCevap": "Ne zaman gelirsen, ben de orada olacağım."
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi noktalama işareti yanlış kullanılmıştır?",
-          "secenekler": [
-            "Hadi, biraz dışarıda yürüyelim.",
-            "Sinemaya gideceğiz; film çok güzeldi.",
-            "Toplantıya katıldım, ancak pek konuşmadım.",
-            "Yazarın yeni kitabı çok dikkat çekici!"
-          ],
-          "dogruCevap": "Sinemaya gideceğiz; film çok güzeldi."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde kesme işareti yanlış kullanılmıştır?",
-          "secenekler": [
-            "Ali'ye söyle, yarın gelmesin.",
-            "Dün, Aziz Nesin'in kitabını okudum.",
-            "Sabahları Hande'nin yanına giderim.",
-            "Yozgatlılar bu duruma çok sevindi."
-          ],
-          "dogruCevap": "Sabahları Hande'nin yanına giderim."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde uzun çizgi (–) yanlış kullanılmıştır?",
-          "secenekler": [
-            "Köpeğin adı Bon-ny.",
-            "Konsere gelecek olanlar: Ahmet, Ayşe ve Zeynep.",
-            "Ondan sonra; sinemaya gittik.",
-            "Yaz tatilinde çok geziyoruz – ve her yeri çok seviyorum."
-          ],
-          "dogruCevap": "Ondan sonra; sinemaya gittik."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
-          "secenekler": [
-            "Sinemada harika bir film vardı; fakat çok kalabalıktı.",
-            "Benim için fark etmez; sen hangi filmi izlersen izleyin.",
-            "Bazen insanlar birbirlerine yardımcı olur; bazen de engeller."
-          ],
-          "dogruCevap": "Benim için fark etmez; sen hangi filmi izlersen izleyin."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde nokta yanlış kullanılmıştır?",
-          "secenekler": [
-            "Sabah erken kalkmam gerekti.",
-            "Saat 12:00’de toplantıya gireceğiz.",
-            "İstanbul’daki tüm etkinlikler iptal edildi.",
-            "Bugün yağmur yağacak mı? Bilmiyorum."
-          ],
-          "dogruCevap": "Bugün yağmur yağacak mı? Bilmiyorum."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde parantez ( ) yanlış kullanılmıştır?",
-          "secenekler": [
-            "Mustafa Kemal Atatürk (1881-1938) Türkiye Cumhuriyeti'nin kurucusudur.",
-            "Süleyman Demirel (1924-2015) çok önemli bir liderdi.",
-            "Yanındaki kitap (el yazması) çok değerli.",
-            "Çalışmalarını sürdürdü, fakat (çalışma hızında azalma oldu)."
-          ],
-          "dogruCevap": "Çalışmalarını sürdürdü, fakat (çalışma hızında azalma oldu)."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde kısa çizgi (–) yanlış kullanılmıştır?",
-          "secenekler": [
-            "Kitapçıda gezerken birkaç kitabı aldım; ama birkaçını da bıraktım.",
-            "Sinemaya gittiğimizde film başlamıştı- ancak hemen oturduk.",
-            "Birçok kişi bu konuda fikir değiştirdi- ama bazıları hala aynı fikirde.",
-            "Çalışmalarını aksatmamak için- ertesi gün tekrar denemeli."
-          ],
-          "dogruCevap": "Çalışmalarını aksatmamak için- ertesi gün tekrar denemeli."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde üç nokta (…) yanlış kullanılmıştır?",
-          "secenekler": [
-            "Çok korktum, fakat sonra her şey yoluna girdi…",
-            "Düşüncelerimi tam olarak anlatamadım… O yüzden özür dilerim.",
-            "Yolculuğumuz uzun sürmüştü… O yüzden biraz dinlendik.",
-            "Her şey çok güzeldi… Ama sonunda bir aksilik oldu."
-          ],
-          "dogruCevap": "Düşüncelerimi tam olarak anlatamadım… O yüzden özür dilerim."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde ünlem işareti yanlış kullanılmıştır?",
-          "secenekler": [
-            "Ne kadar harika bir yer!",
-            "Ah! Ne kadar yorgunum!",
-            "Neden buradayım, diye düşündüm.",
-            "Vay! Şu an ne kadar mutluyum!"
-          ],
-          "dogruCevap": "Neden buradayım, diye düşündüm."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde virgül yanlış kullanılmıştır?",
-          "secenekler": [
-            "Odaya girdi, bilgisayarını açtı.",
-            "Sinemaya gitmek, herkesin hoşuna gitti.",
-            "Evet, bunu da yapabilirim.",
-            "Toplantıya gitmeden önce, çantamı alacağım."
-          ],
-          "dogruCevap": "Sinemaya gitmek, herkesin hoşuna gitti."
-        }
       ]
+     
     },
     "Tarih": {
       "İslamiyet Öncesi Türk Tarihi": [
@@ -14171,26 +14351,6 @@
       ],
       "Türkiye’de Ulaşım, Ticaret ve Turizm": [
         {
-          "soru": "Türkiye'nin en fazla turizm geliri elde ettiği bölge hangisidir?",
-          "secenekler": [
-            "Karadeniz",
-            "Ege",
-            "Marmara",
-            "Akdeniz"
-          ],
-          "dogruCevap": "Marmara"
-        },
-        {
-          "soru": "Türkiye’de kış turizmi için en uygun bölge hangisidir?",
-          "secenekler": [
-            "Doğu Akdeniz",
-            "Karadeniz",
-            "Marmara",
-            "Güneydoğu Anadolu"
-          ],
-          "dogruCevap": "Doğu Akdeniz"
-        },
-        {
           "soru": "Kış turizmi potansiyelinin en yüksek olduğu dağ aşağıdakilerden hangisidir?",
           "secenekler": [
             "Erciyes",
@@ -14281,26 +14441,6 @@
           "dogruCevap": "Marmara Bölgesi"
         },
         {
-          "soru": "Türkiye'nin en riskli ulaşım şekli hangisidir?",
-          "secenekler": [
-            "Deniz yolu",
-            "Demir yolu",
-            "Kara yolu",
-            "Hava yolu"
-          ],
-          "dogruCevap": "Kara yolu"
-        },
-        {
-          "soru": "Türkiye'deki en yoğun kara yolu taşımacılığı yapılan ürün nedir?",
-          "secenekler": [
-            "Tekstil",
-            "Tarım ürünleri",
-            "Elektronik ürünler",
-            "Maden"
-          ],
-          "dogruCevap": "Tarım ürünleri"
-        },
-        {
           "soru": "Türkiye'nin en fazla ihraç ettiği sanayi ürünü hangisidir?",
           "secenekler": [
             "Elektronik",
@@ -14330,26 +14470,7 @@
           ],
           "dogruCevap": "Çin"
         },
-        {
-          "soru": "Türkiye’nin transit ticaret yaptığı ülkelerden hangisi doğrudan deniz yoluyla ulaşım sağlamamaktadır?",
-          "secenekler": [
-            "Irak",
-            "Azerbaycan",
-            "İran",
-            "Suriye"
-          ],
-          "dogruCevap": "İran"
-        },
-        {
-          "soru": "Türkiye'nin en büyük ihracat limanı hangisidir?",
-          "secenekler": [
-            "İstanbul Limanı",
-            "Mersin Limanı",
-            "İzmir Limanı",
-            "Antalya Limanı"
-          ],
-          "dogruCevap": "İzmir Limanı"
-        },
+   
         {
           "soru": "Türkiye'nin en fazla ticaret yaptığı ülke hangisidir?",
           "secenekler": [
@@ -14433,16 +14554,6 @@
           "dogruCevap": "Rize"
         },
         {
-          "soru": "Karadeniz Bölgesi'ndeki tarım arazilerinin genişliği, aşağıdaki coğrafi faktörlerden hangisine bağlı olarak artmıştır?",
-          "secenekler": [
-            "Akdeniz ikliminin etkisiyle",
-            "Yağışların bol ve düzenli olması",
-            "Volkanik arazilerin yaygın olması",
-            "Sahra çölünün etkisiyle"
-          ],
-          "dogruCevap": "Yağışların bol ve düzenli olması"
-        },
-        {
           "soru": "İç Anadolu Bölgesi'nin coğrafi yapısında en belirgin özelliği nedir?",
           "secenekler": [
             "Büyük ormanlık alanlar",
@@ -14507,7 +14618,7 @@
         {
           "soru": "Güneydoğu Anadolu Projesi'nin (GAP) başlıca hedeflerinden biri aşağıdakilerden hangisidir?",
           "secenekler": [
-            "İçki üretimini arttırmak",
+            "Hayvancılık sektörünü desteklemek",
             "Yenilenebilir enerji kaynaklarının kullanımı",
             "Kırsal kalkınmayı desteklemek",
             "Yüksek teknoloji ürünlerinin geliştirilmesi"
@@ -14585,16 +14696,6 @@
           "dogruCevap": "Tarımda verimliliği artırmak"
         },
         {
-          "soru": "Türkiye'deki illerde sosyo-ekonomik gelişmişlik farklılıklarını azaltmayı amaçlayan ‘Kalkınmada Öncelikli Yatırım Bölgeleri’ projesinin amacı nedir?",
-          "secenekler": [
-            "Sanayi tesislerinin kurulması",
-            "Tarım alanlarının artırılması",
-            "Altyapı hizmetlerinin eşit şekilde dağıtılması",
-            "İhracatın artırılması"
-          ],
-          "dogruCevap": "Altyapı hizmetlerinin eşit şekilde dağıtılması"
-        },
-        {
           "soru": "Türkiye'nin bölgesel kalkınma projelerinde en çok destek verilen alanlardan biri olan 'Sosyal Yardım Projeleri'nin en büyük hedeflerinden biri nedir?",
           "secenekler": [
             "İçki üretimini artırmak",
@@ -14643,26 +14744,6 @@
             "Sağlık"
           ],
           "dogruCevap": "Tarım"
-        },
-        {
-          "soru": "Türkiye’de en yüksek oranda tarım sektörüne dayalı kalkınma projeleri aşağıdaki hangi bölgede yoğunlaşmaktadır?",
-          "secenekler": [
-            "Marmara Bölgesi",
-            "Ege Bölgesi",
-            "İç Anadolu Bölgesi",
-            "Güneydoğu Anadolu Bölgesi"
-          ],
-          "dogruCevap": "Güneydoğu Anadolu Bölgesi"
-        },
-        {
-          "soru": "Çukurova Kalkınma Projesi ile ilgili olarak aşağıdaki açıklamalardan hangisi yanlıştır?",
-          "secenekler": [
-            "Bu proje, tarım sektöründe verimliliği artırmayı hedeflemektedir.",
-            "Sulama altyapısının güçlendirilmesi amaçlanmaktadır.",
-            "Sanayi yatırımlarının artırılması planlanmıştır.",
-            "Ürün çeşitliliğinin arttırılması hedeflenmektedir."
-          ],
-          "dogruCevap": "Sanayi yatırımlarının artırılması planlanmıştır."
         }
       ]
     }

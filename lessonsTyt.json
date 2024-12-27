@@ -20,7 +20,7 @@
                 },
                 {
                   "baslik": "Genel Kurallar",
-                  "metin": "1- Türkçede ilk heceden sonraki hecelerde 'o, ö' harfleri bulunmaz.\n2- Kelime kökünde iki ünlü yan yana bulunmaz.\n3- Türkçe kelime kökünde aynı iki ünsüz yan yana bulunmaz.\n4- Kökeni Türkçe olan kelimelerin sonunda b, c, d, g ünsüzleri bulunmaz. Bazı istisnalar hariçtir."
+                  "metin": "1- Türkçede ilk heceden sonraki hecelerde 'o, ö' harfleri bulunmaz (radyo, foto gibi yabancı kelimeler hariç).\n2- Türkçe kökenli kelimelerin kökünde iki ünlü yan yana bulunmaz (saat, şiir gibi yabancı kelimeler hariç).\n3- Türkçe kökenli kelimelerin kökünde aynı iki ünsüz yan yana bulunmaz (anne, elli gibi bazı Türkçe kelimeler istisnadır).\n4- Türkçe kökenli kelimelerin sonunda 'b, c, d, g' ünsüzleri bulunmaz (ad, sac gibi bazı kelimeler istisnadır)."
                 },
                 {
                   "baslik": "Ünlülerin Nitelikleri",
@@ -28,7 +28,7 @@
                 },
                 {
                   "baslik": "Ünlü Daralması",
-                  "metin": "Türkçede a, e ünlüleri ile biten fiillerin şimdiki zaman çekiminde, söyleyişte de yazımda da daralır. Örneğin: 'başla-yor > başlıyor', 'de-yor > diyor'. Ancak bazı yardımcı ses kullanımları daralma sayılmaz: 'biliyor, atıyor, yüzüyor'."
+                  "metin": "1- Türkçede 'a, e' ünlüleri ile biten bazı fiiller, şimdiki zaman ekini aldığında daralarak 'ı, i' olur: 'ye-yor > yiyor, de-yor > diyor'.\n2- Her 'a, e' ile biten fiilde daralma olmaz: 'bekle-yor > bekliyor' değil 'bekleyor', 'dinle-yor > dinliyor' değil 'dinleyor'.\n3- Bazı birleşik kelimelerde de ünlü daralması görülür: 'sütlaç (süt+aş), kahvaltı (kahve+altı)'."
                 },
                 {
                   "baslik": "Ünlü Düşmesi",
@@ -40,7 +40,7 @@
                 },
                 {
                   "baslik": "Ünsüz Benzeşmesi",
-                  "metin": "Sert ünsüzle biten kelimeler, sert ünsüzle başlayan ekler alır. Örneğin: 'kitap-da > kitapta', 'çalış-dı > çalıştı'. Ancak '-cağız' ve '-gen' ekleri bu kurala uymaz: 'çocukcağız, üçgen'."
+                  "metin": "1- Sert ünsüzle (f, s, t, k, ç, ş, h, p) biten kelimeler, c ve d ile başlayan ek aldığında, bu ünsüzler t'ye dönüşür: 'kitap-tan, ağaç-ta'.\n2- Bu kural birleşik kelimelerde de görülür: 'baştan (baş-dan)'.\n3- Bazı ekler (-gen, -gil, -gor, -giller) bu kurala uymaz: 'altıgen, çokgen, Ahmetgil'."
                 },
                 {
                     "baslik": "Ünlü Türemesi",
@@ -48,11 +48,11 @@
                   },
                   {
                     "baslik": "Ünsüz Yumuşaması",
-                    "metin": "Türkçede 'p, ç, t, k' harfleri ile biten bir kelimeye ünlü ile başlayan bir ek geldiğinde, bu harfler 'b, c, d, g/ğ' harflerine dönüşür. Örneğin: 'kitap > kitabı', 'ağaç > ağacı'. Ancak 'devlet, millet, hukuk' gibi kelimelerde yumuşama olmaz."
+                    "metin": "1- Türkçe kökenli kelimelerde 'p, ç, t, k' ünsüzleri ile biten bir kelimeye ünlü ile başlayan bir ek geldiğinde, bu ünsüzler genellikle 'b, c, d, g/ğ' ünsüzlerine dönüşür: 'kitap > kitabı, ağaç > ağacı'.\n2- Bazı Türkçe kökenli kelimelerde yumuşama olmaz: 'sanat > sanatı, bulut > bulutu, çöp > çöpü'.\n3- Tek heceli kimi kelimelerde yumuşama olur: 'kap > kabı'.\n4- Alıntı kelimelerde kurala uymayan durumlar olabilir."
                   },
                   {
                     "baslik": "Kaynaştırma Harfleri",
-                    "metin": "Türkçede iki ünlü yan yana gelmediği için araya 'y, ş, s, n' harfleri eklenir. Örneğin: 'soba-y-a', 'iki-ş-er', 'araba-n-ın'."
+                    "metin": "Türkçede iki ünlü arasında kullanılan kaynaştırma harfleri 'y, s, ş, n'dir. En sık kullanılan kaynaştırma harfi 'y'dir. Örneğin: 'araba-y-ı, su-y-u'. 's' harfi sadece 'ne-s-i' sözcüğünde, 'ş' harfi 'iki-ş-er' gibi üleştirme sayılarında, 'n' harfi ise iyelik eklerinden sonra kullanılır: 'araba-n-ın, ev-i-n-in'."
                   },
                   {
                     "baslik": "Ulama",
@@ -60,15 +60,15 @@
                   },
                   {
                     "baslik": "Büyük Ünlü Uyumu",
-                    "metin": "Bir kelimede ilk hecedeki ünlü kalınsa (a, ı, o, u), diğer ünlüler de kalın; inceyse (e, i, ö, ü), diğer ünlüler de ince olur. Ancak alıntı kelimeler ve bazı eklerle bu uyum bozulabilir."
+                    "metin": "1- Türkçe bir kelimenin ilk hecesinde kalın ünlü (a, ı, o, u) varsa, sonraki hecelerde de kalın ünlü; ince ünlü (e, i, ö, ü) varsa, sonraki hecelerde de ince ünlü bulunur.\n2- Bu kurala uymayan durumlar:\n- Bazı birleşik kelimeler: 'bugün, bilgisayar'\n- Bazı ekler: '-ki, -gil, -ken, -leyin'\n- Yabancı kelimeler: 'kitap, hukuk'\n3- Türkçeye giren yeni kelimeler genellikle bu uyuma girer."
                   },
                   {
                     "baslik": "Küçük Ünlü Uyumu",
-                    "metin": "Kelimenin ilk hecesindeki düz ünlüden (a, e, ı, i) sonra yine düz ünlü; yuvarlak ünlüden (o, ö, u, ü) sonra ise ya dar-yuvarlak (u, ü) ya da düz-geniş (a, e) ünlü gelir. Örneğin: 'çocuk, odun'."
+                    "metin": "1- Düz ünlüden (a, e, ı, i) sonra düz ünlü gelir: 'bilgi, yazı'\n2- Yuvarlak ünlüden (o, ö, u, ü) sonra ya dar-yuvarlak (u, ü) ya da düz-geniş (a, e) ünlü gelir: 'çocuk, gözlük, koru-mak'\n3- Bu kurala uymayan durumlar:\n- Bazı birleşik kelimeler\n- Bazı ekler (-yor, -ki)\n- Yabancı kelimeler"
                   },
                   {
                     "baslik": "Vurgu",
-                    "metin": "Türkçede sözcüklerde genellikle son hece, coğrafi isimlerde ve pekiştirme yapılmış sözcüklerde ise ilk hece vurgulanır. Örneğin: 'kelebek' (son hece), 'Ankara' (ilk hece)."
+                    "metin": "Türkçede vurgu genellikle son hecededir. Ancak şu durumlarda farklı hecelerde vurgu olabilir:\n1- Yer adlarında ilk hece vurguludur: 'Ankara, İzmir'\n2- Pekiştirmelerde ilk hece vurguludur: 'kıpkırmızı, sapsarı'\n3- Olumsuzluk eki (-me/-ma) vurguludur: 'gelme, gitme'\n4- Soru eki vurguludur: 'gelecek mi?'\n5- Bazı ekler (-ki, -leyin, -ce) vurgusuzdur: 'bugünkü, sabahleyin, Türkçe'"
                   },
                   {
                     "baslik": "Tek Heceli Sözcükler",
@@ -2239,10 +2239,7 @@
                 "baslik": "Türkiye’de Yerleşme",
                 "metin": "Yerleşme, insanların bir yere geçici veya sürekli olarak kalmalarıdır. Kentsel ve kırsal yerleşme olarak ikiye ayrılır."
               },
-              {
-                "baslik": "Kentsel Yerleşme",
-                "metin": "Kent: Nüfusu 10000’den fazla olan, ekonomik faaliyeti sanayi ve hizmet sektörlerine dayanan, eğitim, sağlık, sosyal ve kültürel yönü gelişmemiş yerleşim birimlerine denir."
-              },
+             
               {
                 "baslik": "Büyüklüklerine Göre Kentler",
                 "metin": "Megapol: Nüfusu 10 milyonu geçen kentlerdir.\nMetropol: Nüfusu 1 milyon ile 10 milyon arasında kentlerdir.\nBüyük Şehirler: Nüfusu 500000 ile 1 milyon arasında olan şehirlerdir.\nOrta Ölçekli Şehirler: Nüfusu 100000-500000 arası şehirlerdir.\nKüçük şehirler: Nüfusu 100000’den az olan şehirlerdir."
@@ -2267,10 +2264,7 @@
                 "baslik": "Köy Altı",
                 "metin": "İdari açıdan köye bağlı köyden daha küçük tek ev ve eklentilerinden oluşan toplu veya dağınık yerleşmelerdir."
               },
-              {
-                "baslik": "Mahalle",
-                "metin": "Ev sayısı 5 ile 30 arasında değişen yerleşme tipidir. Zamanla gelişerek köy yerleşmeleri haline gelirler. Batı Karadeniz, Akdeniz, Marmara ve Batı Anadolu’da yaygındır."
-              },
+         
               {
                 "baslik": "Çiftlik",
                 "metin": "Geniş toprak mülkiyeti içindeki küçük yerleşme tipidir. Tarım ve hayvancılık yapılır. Trakya, Ege, Akdeniz ve İç Anadolu’da görülür."
@@ -3797,10 +3791,6 @@
             {
               "baslik": "Dini Deneyim",
               "metin": "Din felsefesi, dini deneyimin doğasını da tartışır. Dini deneyim, bir kişinin Tanrı ile doğrudan bir ilişki kurduğuna inanması, mistik bir deneyim yaşaması veya dini bir duyguyu derinden hissetmesi gibi durumları kapsar. Dini deneyim, kişisel bir deneyim olduğu için, farklı inanç sistemleri ve bireyler arasında çeşitlilik gösterebilir. Din felsefesi, bu deneyimlerin ne kadar objektif ve evrensel olduğunu, ayrıca dinin gerçekliğiyle ne kadar örtüştüğünü inceler."
-            },
-            {
-              "baslik": "Din ve Bilim",
-              "metin": "Din felsefesi, din ile bilim arasındaki ilişkiyi de ele alır. Bilim, doğa ve evreni gözlemleyerek, deneylerle ve mantıklı çıkarımlarla bilgiyi artırırken, din, Tanrı, ahiret ve insanın manevi yönlerine dair öğretiler sunar. Bu iki alan bazen birbirleriyle çelişebilir, bazen de birbirini tamamlayabilir. Din felsefesi, bu iki alan arasındaki uyumu ya da çatışmayı inceleyerek, bilim ve dinin nasıl bir arada var olabileceği konusunda tartışmalar başlatır."
             }
           ]
           
@@ -3868,10 +3858,7 @@
               "baslik": "İslam'ın Sosyal Hayat Üzerindeki Etkileri",
               "metin": "İslam, sadece bireysel bir din değil, aynı zamanda sosyal hayatta da etkili bir sistemdir. İslam, toplumsal adalet, eşitlik ve dayanışmayı vurgular. Aile, toplum ve devlet düzeyinde İslam, insanların birbirlerine karşı sorumluluk taşımasını öğütler. İslam, sosyal yardımlaşma, zengin-fakir ilişkileri, kadın hakları, çocuk hakları gibi alanlarda belirli kurallar koymuş ve bu kurallar, sosyal düzenin sağlanmasına yardımcı olmuştur."
             },
-            {
-              "baslik": "İslam'da Kadın ve Erkek Eşitliği",
-              "metin": "İslam, kadın ve erkek arasındaki eşitliği vurgular, ancak her birine farklı sorumluluklar yükler. İslam'a göre, kadınlar ve erkekler Allah'ın yarattığı eşit varlıklardır. Kuran'da ve Hadislerde, kadınlara saygı gösterilmesi, haklarının korunması, eğitim ve çalışma gibi haklarının olduğu vurgulanır. Ancak İslam'ın bazı uygulamalarında, kadınların bazı sosyal rollerinin farklı olması gerektiği söylenmiştir. Bu, sosyal ve kültürel bağlamda farklı şekillerde yorumlanabilir."
-            },
+          
             {
               "baslik": "İslam ve Diğer Dinler",
               "metin": "İslam, diğer büyük dinlerle de ilişkilidir ve diğer dinlere mensup insanlarla hoşgörü ve barış içinde yaşamayı öğütler. Kuran'da Yahudiler ve Hristiyanlar, 'Ehli Kitap' olarak kabul edilir ve onlarla birlikte barış içinde yaşamanın önemi vurgulanır. Bununla birlikte, İslam, diğer dinlerin inançlarının doğru olduğunu kabul etmez ve Allah'ın son mesajı olarak Kuran'ı kabul eder. Ancak bu, diğer dinlere mensup kişilere karşı hoşgörüsüzlük anlamına gelmez, aksine farklılıklarla birlikte yaşama ve saygı gösterme öğretilir."
@@ -3918,7 +3905,7 @@
           "Hz. Muhammed (S.A.V)" : [
             {
               "baslik": "Hz. Muhammed'in Doğumu ve Ailesi",
-              "metin": "Hz. Muhammed (S.A.V), 570 yılında Mekke'de doğmuştur. Babası Abdullah, annesi Amine'dir. Babası vefat ettikten sonra annesi Amine de 6 yaşında iken vefat etmiştir. Hz. Muhammed (S.A.V) ilk yıllarını dedesi Abdülmuttalib ve amcası Ebu Talib'in bakımında geçirmiştir. O, çocukken yetim olarak büyümüş, bu yüzden çok merhametli ve şefkatli bir karaktere sahip olmuştur. Ailesi, Kureyş kabilesinin en saygın ailesi arasında yer alıyordu."
+              "metin": "Babası Abdullah, annesi Amine'dir. Babası vefat ettikten sonra annesi Amine de 6 yaşında iken vefat etmiştir. Hz. Muhammed (S.A.V) ilk yıllarını dedesi Abdülmuttalib ve amcası Ebu Talib'in bakımında geçirmiştir. O, çocukken yetim olarak büyümüş, bu yüzden çok merhametli ve şefkatli bir karaktere sahip olmuştur. Ailesi, Kureyş kabilesinin en saygın ailesi arasında yer alıyordu."
             },
             {
               "baslik": "Hz. Muhammed'in Gençliği ve Evliliği",
@@ -3949,28 +3936,7 @@
               "metin": "Hz. Muhammed (S.A.V), yalnızca bir peygamber değil, aynı zamanda bir lider, öğretmen ve aile babasıydı. Onun öğretileri, insanları hem ahlaken hem de manevi olarak olgunlaştırmayı amaçlamıştır. Hz. Muhammed'in hayatı ve sözleri, müslümanlar için en büyük rehber olmuştur. Kuran'ı doğru anlamak ve yaşamak, onun sünnetini takip etmek, müslümanların hayatında çok önemli bir yer tutmaktadır. Hz. Muhammed (S.A.V)'in mirası, bugüne kadar tüm dünyada milyonlarca insanı etkilemiş ve etkilemeye devam etmektedir."
             }
           ],
-          "Vahiy ve Akıl" : [
-            {
-              "baslik": "Vahiy Nedir?",
-              "metin": "Vahiy, Allah tarafından peygamberlere gönderilen ilahi mesajlardır. Vahiy, insanlara doğru yolu göstermek ve onlara ahlaki değerler öğretmek amacıyla gönderilmiştir. Vahiy, insan aklının ulaşamayacağı bilgi ve gerçekleri içerir. Kuran, vahiylerin sonuncusu olarak kabul edilir ve Allah’ın kelamıdır. Vahiy, insanlara rehberlik etmek, onları kötü davranışlardan korumak ve doğru bir yaşam biçimi öğretmek için gönderilir."
-            },
-            {
-              "baslik": "Vahiy ve Akıl Arasındaki İlişki",
-              "metin": "Vahiy ve akıl arasında güçlü bir ilişki vardır. Akıl, insanın düşünme ve anlama yeteneğidir, vahiy ise Allah tarafından gönderilen ilahi bilgidir. İnsan aklı, Allah’ın vahiylerini anlamada bir araçtır. Akıl, vahiy ile uyum içinde çalışarak insanları doğru yola yönlendirebilir. İslam’a göre, akıl vahiy ile tamamlanır ve insan, akıl ve vahyi birlikte kullanarak doğru inançlara ve ahlaka ulaşabilir. Akıl, insanın sorumluluğunu yerine getirmesinde ve doğruyu aramasında önemlidir, ancak vahiy, insanın aklının ötesinde olan gerçekleri insanlara bildirir."
-            },
-            {
-              "baslik": "Vahiy ile Akıl Arasındaki Sınırlar",
-              "metin": "İslam'da vahiy, akıl yoluyla anlaşılamayan ve insanın doğrudan ulaşamayacağı bilgileri sunar. Akıl, sınırlı bir kapasiteye sahiptir ve insanın tüm gerçekleri kavrayabilmesi mümkün değildir. Bu nedenle, vahiy, insanların hayatlarını doğru bir şekilde yönlendirmek için gereklidir. İslam, akıl ve vahiy arasındaki uyumu savunur, ancak vahiy her zaman akıl ile sınırlandırılamaz. İslam, aklın insanın doğruyu arama çabalarına rehberlik etmesini isterken, vahiy ise insanlara doğruyu, dini emirleri ve yasakları öğretir."
-            },
-            {
-              "baslik": "Akıl ve Vahiy Arasındaki Uyum",
-              "metin": "İslam'a göre, akıl ve vahiy birbirini tamamlayan iki kaynaktır. Vahiy, insan aklının doğruyu bulabilmesi için gerekli olan ilahi rehberliği sunar. Akıl, vahiyden alınan mesajları doğru bir şekilde anlamak için kullanılır. İslam'da vahiy, aklın ışığında kabul edilir ve akıl, vahiy ile çatışmadan doğruyu bulmaya çalışır. İslam düşüncesinde, akıl ve vahiy arasında bir çelişki olmadığı vurgulanır; aksine, biri diğerini destekler. İslam'ın temel inançları ve değerleri akıl yoluyla doğrulanabilir ve akıl, vahiy ile uyumlu bir şekilde insanlara rehberlik eder."
-            },
-            {
-              "baslik": "Vahiy ve Akıl: İslam'daki Rolü",
-              "metin": "İslam'da vahiy ve akıl, insanın doğruyu bulma çabasında eşit derecede önemli iki öğedir. Vahiy, insanlara Allah’ın emirlerini ve yasaklarını bildirirken, akıl bu mesajları anlamada ve yaşamda uygulamada yardımcı olur. İslam, insanları akıl ve vahiy arasındaki uyumu sağlama konusunda teşvik eder. Akıl, insanları iyiye yönlendiren bir araçtır, ancak son karar, Allah’ın vahyine dayanır. İslam'da vahiy ve akıl arasında bir denge vardır; vahiy, aklı doğru yönlendirir ve akıl, vahiyin ışığında insanları doğruya ulaştırır."
-            }
-          ],
+  
           "Din, Kültür ve Medeniyet" : [
             {
               "baslik": "Din ve Kültür İlişkisi",

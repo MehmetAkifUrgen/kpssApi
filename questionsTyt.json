@@ -12,20 +12,11 @@
             "secenekler": ["Anav", "Afanesyova", "Karasuk", "Tagar"],
             "dogruCevap": "Anav"
           },
-          {
-            "soru": "Türklerin bilinen ilk topluluğu hangisidir?",
-            "secenekler": ["İskitler", "Uygurlar", "Hunlar", "Köktürkler"],
-            "dogruCevap": "İskitler"
-          },
+      
           {
             "soru": "Alp Er Tunga Destanı hangi Türk topluluğuna aittir?",
             "secenekler": ["İskitler", "Hunlar", "Göktürkler", "Uygurlar"],
-            "dogruCevap": "İskitler"
-          },
-          {
-            "soru": "Dünyada bilinen ilk kadın hükümdar kimdir?",
-            "secenekler": ["Tomris Hatun", "Bumin Kağan", "Bilge Kağan", "Teoman"],
-            "dogruCevap": "Tomris Hatun"
+            "dogruCevap": "İskitler(Sakalar)"
           },
           {
             "soru": "İlk düzenli kara ordusu hangi hükümdar tarafından kurulmuştur?",
@@ -61,11 +52,6 @@
             "soru": "Avrupa’da kurulan ilk Türk devleti hangisidir?",
             "secenekler": ["Avrupa Hun Devleti", "Göktürkler", "Peçenekler", "Avarlar"],
             "dogruCevap": "Avrupa Hun Devleti"
-          },
-          {
-            "soru": "Türklerin İslamiyet’i kabul eden ilk topluluğu hangisidir?",
-            "secenekler": ["Karluklar", "Kıpçaklar", "Avarlar", "Hunlar"],
-            "dogruCevap": "Karluklar"
           },
           {
             "soru": "Tarihte ilk Musevi Türk devleti hangisidir?",
@@ -147,11 +133,6 @@
             "dogruCevap": "Asya Hun Devleti"
           },
           {
-            "soru": "Türk tarihinde ilk defa parayı kullanan devlet hangisidir?",
-            "secenekler": ["Göktürkler", "Uygurlar", "Hazarlar", "Avarlar"],
-            "dogruCevap": "Göktürkler"
-          },
-          {
             "soru": "Tarihte Türklerin kullandığı ilk yazılı alfabe hangisidir?",
             "secenekler": ["Göktürk Alfabesi", "Uygur Alfabesi", "Kiril Alfabesi", "Latin Alfabesi"],
             "dogruCevap": "Göktürk Alfabesi"
@@ -194,11 +175,6 @@
             "dogruCevap": "Orta Asya"
           },
           {
-            "soru": "Gazneli Mahmud'un Hindistan'a düzenlediği seferlerin amacı nedir?",
-            "secenekler": ["İslamiyet'i yaymak", "Ticaret yollarını ele geçirmek", "Toprak kazanmak", "Vergi toplamak"],
-            "dogruCevap": "İslamiyet'i yaymak"
-          },
-          {
             "soru": "Dandanakan Savaşı, hangi iki devlet arasında olmuştur?",
             "secenekler": ["Gazneliler ve Selçuklular", "Karahanlılar ve Gazneliler", "Selçuklular ve Harzemşahlar", "Eyyubiler ve Gazneliler"],
             "dogruCevap": "Gazneliler ve Selçuklular"
@@ -213,20 +189,11 @@
             "secenekler": ["Türkçe", "Arapça", "Farsça", "Çince"],
             "dogruCevap": "Türkçe"
           },
-          {
-            "soru": "Gazneli Mahmud, Abbasi halifesini Şii Büveyhoğullarına karşı koruduğu için hangi unvanı almıştır?",
-            "secenekler": ["Sultan", "Zıllullah", "Sultan-ı Azam", "Put Kırıcı"],
-            "dogruCevap": "Sultan"
-          },
+      
           {
             "soru": "İlk Türk-İslam yazılı eseri olan 'Kutadgu Bilig' hangi devlet zamanında yazılmıştır?",
             "secenekler": ["Karahanlılar", "Gazneliler", "Selçuklular", "Harzemşahlar"],
             "dogruCevap": "Karahanlılar"
-          },
-          {
-            "soru": "Anadolu'da kurulan ilk Türk beyliği hangisidir?",
-            "secenekler": ["Saltuklular", "Artuklular", "Mengücekliler", "Danişmentliler"],
-            "dogruCevap": "Saltuklular"
           },
           {
             "soru": "Hasankeyf, hangi Türk beyliği döneminde önemli bir yerleşim yeri olmuştur?",
@@ -260,11 +227,6 @@
           }
         ],
         "İlk Türk - İslam Devletleri ve Beylikleri 2" :[
-          {
-            "soru": "İslamiyet’i kabul eden ilk Türk devleti hangisidir?",
-            "secenekler": ["İtil Bulgarları", "Gazneliler", "Karahanlılar", "Selçuklular"],
-            "dogruCevap": "İtil Bulgarları"
-          },
           {
             "soru": "Karahanlılar hangi coğrafyada kurulmuştur?",
             "secenekler": ["Orta Asya", "Anadolu", "Hindistan", "İran"],
@@ -2927,11 +2889,6 @@
                 "soru": "Türkiye'nin ortalama yükseltisi en düşük olan bölgesi hangi bölgedir?",
                 "secenekler": ["Ege Bölgesi", "Akdeniz Bölgesi", "İç Anadolu Bölgesi", "Karadeniz Bölgesi"],
                 "dogruCevap": "Ege Bölgesi"
-              },
-              {
-                "soru": "Türkiye'nin Karadeniz kıyılarında görülen önemli kıyı tiplerinden biri hangisidir?",
-                "secenekler": ["Fiyord", "Menderes", "Koy", "Alçak kıyı"],
-                "dogruCevap": "Fiyord"
               }
             
             
@@ -4269,16 +4226,6 @@
               "Atatürk Orman Çiftliği'ni ziyaret ettik."
             ],
             "dogruCevap": "Ali Şükrü bey, meclisin önemli bir ismiydi."
-          },
-          {
-            "soru": "Aşağıdaki cümlelerin hangisinde birleşik kelimenin yazımı yanlıştır?",
-            "secenekler": [
-              "Bugün gündoğumunu izledik.",
-              "Ayçiçeği tarlası çok güzeldi.",
-              "Yemek için hanımeli lokantasına gittik.",
-              "Bu konu birazcık sabır gerektiriyor."
-            ],
-            "dogruCevap": "Bugün gündoğumunu izledik."
           },
           {
             "soru": "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmamıştır?",
@@ -9486,16 +9433,6 @@
             "dogruCevap": "Tür"
           },
           {
-            "soru": "Aşağıdaki canlıların hangisinin ikili adlandırması doğru bir şekilde verilmiştir?",
-            "secenekler": [
-              "Morus alba (Beyaz dut)",
-              "Pinus alba (Beyaz çam)",
-              "Morus albus (Beyaz dut)",
-              "Pinus albus (Beyaz çam)"
-            ],
-            "dogruCevap": "Morus albus (Beyaz dut)"
-          },
-          {
             "soru": "Aşağıdaki gruplardan hangisi doğal sınıflandırmanın bir örneğidir?",
             "secenekler": [
               "Homolog organ",
@@ -12452,198 +12389,6 @@
               "Elhamdülillah"
             ],
             "dogruCevap": "Sizin en hayırlınız, insanlara faydalı olandır"
-          }
-        ],
-        "Vahiy ve Akıl" : [
-          {
-            "soru": "Vahiy nedir?",
-            "secenekler": [
-              "Tanrı'dan insanlara gönderilen mesajlar",
-              "İnsanın mantık yoluyla keşfettiği bilgiler",
-              "Doğal olaylardan öğrenilen bilgiler",
-              "Bilimsel araştırmalara dayanan bilgiler"
-            ],
-            "dogruCevap": "Tanrı'dan insanlara gönderilen mesajlar"
-          },
-          {
-            "soru": "Akıl ve vahiy arasındaki ilişki nasıl tanımlanır?",
-            "secenekler": [
-              "Akıl vahiyden bağımsız çalışır",
-              "Vahiy, akıla ters düşer",
-              "Akıl ve vahiy birbirini tamamlar",
-              "Akıl, vahiyden önce gelir"
-            ],
-            "dogruCevap": "Akıl ve vahiy birbirini tamamlar"
-          },
-          {
-            "soru": "Vahiy, insanlara hangi aracılığıyla iletilmiştir?",
-            "secenekler": [
-              "Felsefi düşünceler",
-              "Mucizeler",
-              "Peygamberler aracılığıyla",
-              "Bilimsel çalışmalar"
-            ],
-            "dogruCevap": "Peygamberler aracılığıyla"
-          },
-          {
-            "soru": "Vahiy ve akıl arasındaki en temel fark nedir?",
-            "secenekler": [
-              "Vahiy, insan aklının sınırlarını aşar",
-              "Akıl, vahyi reddeder",
-              "Vahiy sadece kitaplarda yer alır",
-              "Akıl, vahiyden daha doğrudur"
-            ],
-            "dogruCevap": "Vahiy, insan aklının sınırlarını aşar"
-          },
-          {
-            "soru": "Vahiy, hangi süreçle insanlara ulaşır?",
-            "secenekler": [
-              "Sürekli bir evrimsel süreç",
-              "Peygamberlere indirilen ilahi bir mesaj",
-              "Bilimsel keşiflerle",
-              "Doğal olaylarla"
-            ],
-            "dogruCevap": "Peygamberlere indirilen ilahi bir mesaj"
-          },
-          {
-            "soru": "Vahiy ve akıl, hangi alanda birbirini destekler?",
-            "secenekler": [
-              "Din ve bilim",
-              "Akıl, vahyi her zaman reddeder",
-              "Vahiy, akılsız bir kabul gerektirir",
-              "Vahiy, sadece akıldan alınır"
-            ],
-            "dogruCevap": "Din ve bilim"
-          },
-          {
-            "soru": "Vahiy, akıl yoluyla anlaşılabilir mi?",
-            "secenekler": [
-              "Evet, vahiy her zaman mantıklı bir şekilde açıklanabilir",
-              "Hayır, vahiy akılla açıklanamaz",
-              "Evet, akıl yalnızca vahyin anlamını belirler",
-              "Hayır, vahiy insan aklının ötesindedir"
-            ],
-            "dogruCevap": "Hayır, vahiy insan aklının ötesindedir"
-          },
-          {
-            "soru": "Kur'an'a göre vahiy nedir?",
-            "secenekler": [
-              "İnsanların akıl yoluyla elde ettiği bilgiler",
-              "Allah'ın peygamberlerine gönderdiği ilahi mesaj",
-              "Bilimsel gerçeklerin keşfi",
-              "Doğal olayların açıklanması"
-            ],
-            "dogruCevap": "Allah'ın peygamberlerine gönderdiği ilahi mesaj"
-          },
-          {
-            "soru": "Vahiy hangi yollarla insanlara ulaşmıştır?",
-            "secenekler": [
-              "Peygamberlere rüyalarla",
-              "Peygamberlere ilahi kitaplarla",
-              "Peygamberlere doğal olaylarla",
-              "Peygamberlere akıl yoluyla"
-            ],
-            "dogruCevap": "Peygamberlere ilahi kitaplarla"
-          },
-          {
-            "soru": "Vahiy, sadece akıl yoluyla mı kabul edilir?",
-            "secenekler": [
-              "Evet, vahiy sadece akıl yoluyla kabul edilir",
-              "Hayır, vahiy akıldan bağımsızdır",
-              "Evet, vahiy her zaman akıl ile birlikte gelir",
-              "Hayır, akıl vahiy için bir ölçüt değildir"
-            ],
-            "dogruCevap": "Hayır, vahiy akıldan bağımsızdır"
-          },
-          {
-            "soru": "Vahiy ve akıl, hangi durumlarda çelişebilir?",
-            "secenekler": [
-              "Vahiy her zaman akıl ile uyumludur",
-              "Vahiy, akıl ile çelişmez",
-              "Vahiy ve akıl bazen çelişebilir",
-              "Vahiy, her zaman akıl ile ters düşer"
-            ],
-            "dogruCevap": "Vahiy ve akıl bazen çelişebilir"
-          },
-          {
-            "soru": "Vahiy, insanlara hangi amaca hizmet eder?",
-            "secenekler": [
-              "İnsanları sadece dünyevi işleri hakkında yönlendirmek",
-              "İnsanları akıl yoluyla doğru yolda ilerlemeye yönlendirmek",
-              "İnsanları dini ve manevi olarak doğruya yönlendirmek",
-              "İnsanları sadece akıl yoluyla yönlendirmek"
-            ],
-            "dogruCevap": "İnsanları dini ve manevi olarak doğruya yönlendirmek"
-          },
-          {
-            "soru": "Vahiy, insanların aklını zorlayabilir mi?",
-            "secenekler": [
-              "Evet, vahiy her zaman akılla uyumludur",
-              "Hayır, vahiy insan aklını zorlamaz",
-              "Evet, vahiy bazı insanlar için akıl yoluyla kabul edilemez",
-              "Hayır, vahiy her zaman kolayca anlaşılır"
-            ],
-            "dogruCevap": "Evet, vahiy bazı insanlar için akıl yoluyla kabul edilemez"
-          },
-          {
-            "soru": "Vahiy ve akıl arasındaki ilişkiyi en iyi tanımlayan yaklaşım nedir?",
-            "secenekler": [
-              "Akıl, vahyi açıklamakta yetersizdir",
-              "Vahiy, akıla tamamen ters düşer",
-              "Akıl ve vahiy birbirini tamamlar",
-              "Akıl, vahiyden bağımsızdır"
-            ],
-            "dogruCevap": "Akıl ve vahiy birbirini tamamlar"
-          },
-          {
-            "soru": "Vahiy ile akıl arasındaki farklar nelerdir?",
-            "secenekler": [
-              "Vahiy, Tanrı'dan gelir, akıl ise insana aittir",
-              "Akıl Tanrı'dan gelir, vahiy ise insana aittir",
-              "Vahiy ve akıl tamamen aynı şeydir",
-              "Akıl vahiyden daha üstündür"
-            ],
-            "dogruCevap": "Vahiy, Tanrı'dan gelir, akıl ise insana aittir"
-          },
-          {
-            "soru": "Vahiy, insan aklını nasıl etkiler?",
-            "secenekler": [
-              "Vahiy, insan aklını değiştirmez",
-              "Vahiy, insan aklını doğruya yönlendirir",
-              "Vahiy, insan aklını engeller",
-              "Vahiy, insan aklını tamamen yönlendirir"
-            ],
-            "dogruCevap": "Vahiy, insan aklını doğruya yönlendirir"
-          },
-          {
-            "soru": "Vahiy ve akıl, hangi konuda insanlara rehberlik eder?",
-            "secenekler": [
-              "Sadece dünyevi başarı",
-              "Sadece manevi gelişim",
-              "Sadece bilimsel başarı",
-              "Hem manevi hem de dünyevi gelişim"
-            ],
-            "dogruCevap": "Hem manevi hem de dünyevi gelişim"
-          },
-          {
-            "soru": "Vahiy ve akıl arasındaki dengeyi nasıl kurarız?",
-            "secenekler": [
-              "Vahyi her zaman akılla sınırlandırarak",
-              "Vahyi akıl yoluyla tamamen reddederek",
-              "Vahiy ve akıl birlikte çalışarak",
-              "Akıl, vahiyden bağımsız olarak kullanılmalıdır"
-            ],
-            "dogruCevap": "Vahiy ve akıl birlikte çalışarak"
-          },
-          {
-            "soru": "Vahiy, hangi konuda insanlara rehberlik etmede önemlidir?",
-            "secenekler": [
-              "Sadece bilimsel keşiflerde",
-              "Sadece maddi başarılarda",
-              "Sadece manevi ve ahlaki değerlerde",
-              "Sadece günlük hayatı düzenlemekte"
-            ],
-            "dogruCevap": "Sadece manevi ve ahlaki değerlerde"
           }
         ]
         
