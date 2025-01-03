@@ -15,13 +15,8 @@
       
           {
             "soru": "Alp Er Tunga Destanı hangi Türk topluluğuna aittir?",
-            "secenekler": ["İskitler", "Hunlar", "Göktürkler", "Uygurlar"],
-            "dogruCevap": "İskitler(Sakalar)"
-          },
-          {
-            "soru": "İlk düzenli kara ordusu hangi hükümdar tarafından kurulmuştur?",
-            "secenekler": ["Mete Han", "Teoman", "Bilge Kağan", "Attila"],
-            "dogruCevap": "Mete Han"
+            "secenekler": ["İskitler (Sakalar)", "Hunlar", "Göktürkler", "Uygurlar"],
+            "dogruCevap": "İskitler (Sakalar)"
           },
           {
             "soru": "Orhun Kitabeleri hangi Türk devletine aittir?",
@@ -11887,16 +11882,6 @@
             "dogruCevap": "Yardımlaşmak ve dayanışma içinde olmak"
           },
           {
-            "soru": "İslam'da 'Cennet' ve 'Cehennem' kavramları neyi ifade eder?",
-            "secenekler": [
-              "Dünya hayatının başlangıç ve bitişi",
-              "İyi ve kötü insanların sonsuz yaşayacağı yerler",
-              "Toplumun sosyal yapısı",
-              "Cennetin dünyada yaşananlar için ödül olması"
-            ],
-            "dogruCevap": "İyi ve kötü insanların sonsuz yaşayacağı yerler"
-          },
-          {
             "soru": "İslam'da 'İman' nedir?",
             "secenekler": [
               "Allah'ın varlığına ve peygamberlerine inanmak",
@@ -11905,16 +11890,6 @@
               "Ritüellere inanmak"
             ],
             "dogruCevap": "Allah'ın varlığına ve peygamberlerine inanmak"
-          },
-          {
-            "soru": "İslam'da oruç tutan bir kişi, hangi zaman diliminde yemek yemelidir?",
-            "secenekler": [
-              "Sabah namazından önce",
-              "Öğle namazından sonra",
-              "Akşam namazından önce",
-              "İmsak ile akşam arasındaki sürede"
-            ],
-            "dogruCevap": "İmsak ile akşam arasındaki sürede"
           },
           {
             "soru": "İslam'ın temel inanç esaslarından biri olan 'melekler' neyi ifade eder?",
@@ -11947,27 +11922,7 @@
             "dogruCevap": "Kur'an-ı Kerim"
           },
           {
-            "soru": "İslam'da peygamberlere inanmak, hangi inanç esasına dayanır?",
-            "secenekler": [
-              "Akıl",
-              "Vahiy",
-              "Tevrat",
-              "Kitaplar"
-            ],
-            "dogruCevap": "Vahiy"
-          },
-          {
-            "soru": "Hz. Muhammed (S.A.V)'in vefatından sonra İslam dünyasında hangi kitap en çok kabul edilir?",
-            "secenekler": [
-              "Kur'an-ı Kerim",
-              "Hadis-i Şerif",
-              "Sahih-i Buhari",
-              "İmam-ı Azam"
-            ],
-            "dogruCevap": "Kur'an-ı Kerim"
-          },
-          {
-            "soru": "İslam'da Allah'ın en güzel isimlerinden biri nedir?",
+            "soru": "İslam'da Allah'ın rahmet sıfatını ifade eden ismi hangisidir?",
             "secenekler": [
               "El-Rahman",
               "El-Malik",
@@ -11982,11 +11937,11 @@
             "soru": "İslam'a göre, Allah insanları neden yaratmıştır?",
             "secenekler": [
               "Kendisiyle birlikte mutlu olmaları için",
-              "Onlara sorumluluk yüklemek için",
+              "İbadet etmek ve Allah'a hizmet etmek",
               "Allah'ın kudretini göstermek için",
               "İnsanların her ihtiyacını karşılamak için"
             ],
-            "dogruCevap": "Onlara sorumluluk yüklemek için"
+            "dogruCevap": "İbadet etmek ve Allah'a hizmet etmek"
           },
           {
             "soru": "İslam'a göre, Allah insanları hangi özelliği ile diğer varlıklardan farklı yaratmıştır?",
@@ -12167,16 +12122,6 @@
               "Onları daha güçlü hale getirmek için"
             ],
             "dogruCevap": "İmanlarını ve sabırlarını ölçmek için"
-          },
-          {
-            "soru": "İslam’a göre, Allah’a yapılan dua ne zaman kabul edilir?",
-            "secenekler": [
-              "Her zaman",
-              "Sadece akşam namazı sırasında",
-              "Sadaka verildiğinde",
-              "İnançlı olanların duaları kabul edilir"
-            ],
-            "dogruCevap": "Her zaman"
           }
         ],
         "Hz. Muhammed (S.A.V)" : [
@@ -12291,36 +12236,6 @@
             "dogruCevap": "Medine"
           },
           {
-            "soru": "Hz. Muhammed (S.A.V)'in en önemli mucizelerinden biri nedir?",
-            "secenekler": [
-              "Kur'an-ı Kerim",
-              "Birkaç parça taşın havada süzülmesi",
-              "İsa (A.S)'ın geri gelmesi",
-              "Denizin ikiye yarılması"
-            ],
-            "dogruCevap": "Kur'an-ı Kerim"
-          },
-          {
-            "soru": "Hz. Muhammed (S.A.V)'in kızı kimdir?",
-            "secenekler": [
-              "Zeynep",
-              "Fatma",
-              "Aişe",
-              "Rukiyye"
-            ],
-            "dogruCevap": "Fatma"
-          },
-          {
-            "soru": "Hz. Muhammed (S.A.V) hangi yıl hicret etmiştir?",
-            "secenekler": [
-              "610",
-              "622",
-              "630",
-              "631"
-            ],
-            "dogruCevap": "622"
-          },
-          {
             "soru": "Hz. Muhammed (S.A.V) kaç yıl peygamberlik yapmıştır?",
             "secenekler": [
               "10 yıl",
@@ -12330,16 +12245,7 @@
             ],
             "dogruCevap": "23 yıl"
           },
-          {
-            "soru": "Hz. Muhammed (S.A.V)'in en çok sevdiği eşinin adı kimdir?",
-            "secenekler": [
-              "Aişe",
-              "Hatice",
-              "Zeynep",
-              "Fatma"
-            ],
-            "dogruCevap": "Aişe"
-          },
+   
           {
             "soru": "Hz. Muhammed (S.A.V) hangi gece Miraç’a çıkmıştır?",
             "secenekler": [
@@ -12379,16 +12285,6 @@
               "Ölülerin dirilmesi"
             ],
             "dogruCevap": "Kur'an-ı Kerim"
-          },
-          {
-            "soru": "Hz. Muhammed (S.A.V)'in en önemli hadisi hangisidir?",
-            "secenekler": [
-              "Bismillah",
-              "La ilahe illallah",
-              "Sizin en hayırlınız, insanlara faydalı olandır",
-              "Elhamdülillah"
-            ],
-            "dogruCevap": "Sizin en hayırlınız, insanlara faydalı olandır"
           }
         ]
         
