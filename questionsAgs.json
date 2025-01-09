@@ -6529,218 +6529,88 @@
           "dogruCevap": "Öznel cümle"
         }
       ],
-      "Paragrafta Anlam": [
-        {
-          "soru": "Aşağıdaki cümlelerden hangisi paragrafta anlatılmak istenen ana düşünceyi bozar?",
-          "secenekler": [
-            "Edebiyat, insan ruhunu en derin şekilde anlatan sanat dalıdır.",
-            "Edebiyat, hayatı ve insanı anlamamıza yardımcı olur.",
-            "Edebiyat tarihini bilmek, edebi eserleri daha iyi anlamamızı sağlar.",
-            "Edebiyat eserleri genellikle dilin ve kültürün izlerini taşır."
-          ],
-          "dogruCevap": "Edebiyat tarihini bilmek, edebi eserleri daha iyi anlamamızı sağlar."
-        },
-        {
-          "soru": "Bir paragrafın ana düşüncesi nasıl bulunur?",
-          "secenekler": [
-            "Her cümledeki önemli kelimeleri bularak",
-            "Paragrafın başındaki cümleyi inceleyerek",
-            "Paragrafın sonundaki cümleyi inceleyerek",
-            "Paragrafın en uzun cümlesine bakarak"
-          ],
-          "dogruCevap": "Paragrafın başındaki cümleyi inceleyerek"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisi örnekleme yoluyla paragrafı geliştirir?",
-          "secenekler": [
-            "Dünya üzerindeki her insanın kendi bir hikayesi vardır.",
-            "Örneğin, John Steinbeck'in 'Gazap Üzümleri' romanında, fakir bir ailenin hayat mücadelesi anlatılmaktadır.",
-            "Hayat, bazen zorlayıcı ve dondurucu olabilir.",
-            "Edebiyat insanları anlamanın en güçlü yoludur."
-          ],
-          "dogruCevap": "Örneğin, John Steinbeck'in 'Gazap Üzümleri' romanında, fakir bir ailenin hayat mücadelesi anlatılmaktadır."
-        },
-        {
-          "soru": "Aşağıdaki paragrafta hangi anlatım biçimi kullanılmıştır? 'Gün doğarken, gökyüzü turuncu ve mor renklerle boyanmıştı. Kuşlar cıvıldayarak ağaçların üzerinde uçuşuyor, sabahın serinliği yüzünüze vuruyordu.'",
-          "secenekler": [
-            "Açıklayıcı anlatım",
-            "Betimleyici anlatım",
-            "Öyküleyici anlatım",
-            "Tartışmacı anlatım"
-          ],
-          "dogruCevap": "Betimleyici anlatım"
-        },
-        {
-          "soru": "Bir paragrafın ana fikri, diğer bir deyişle paragrafın ana düşüncesi, neyle ifade edilir?",
-          "secenekler": [
-            "Paragraftaki en uzun cümleyle",
-            "Paragrafın başında yer alan cümleyle",
-            "Paragrafın sonunda geçen cümleyle",
-            "Paragrafın ortasında yer alan cümleyle"
-          ],
-          "dogruCevap": "Paragrafın başında yer alan cümleyle"
-        },
-        {
-          "soru": "Aşağıdaki paragrafta hangi anlatım biçimi ön plandadır? 'Çocuk, yaşadığı zorlukları anlatırken gözlerinden yaşlar süzüldü. O an hayatın ne kadar acımasız olduğunu bir kez daha fark etti.'",
-          "secenekler": [
-            "Öyküleyici anlatım",
-            "Betimleyici anlatım",
-            "Açıklayıcı anlatım",
-            "Tartışmacı anlatım"
-          ],
-          "dogruCevap": "Öyküleyici anlatım"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisi, bir paragrafın gelişmesine yardımcı olacak nitelikte değildir?",
-          "secenekler": [
-            "Kitap okumak insanı geliştirir.",
-            "Kitaplar, farklı dünyaları keşfetme imkanı sunar.",
-            "Birçok farklı türde kitap bulunmaktadır.",
-            "Kitaplar, zaman zaman insanı sıkar."
-          ],
-          "dogruCevap": "Kitaplar, zaman zaman insanı sıkar."
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi anlatım biçimi kullanılmıştır? 'Büyük şehirlerde, sabahları trafik, evlerden duyulan horlamalarla birleşince işkenceye dönüşür.'",
-          "secenekler": [
-            "Öyküleyici anlatım",
-            "Açıklayıcı anlatım",
-            "Betimleyici anlatım",
-            "Tartışmacı anlatım"
-          ],
-          "dogruCevap": "Betimleyici anlatım"
-        },
-        {
-          "soru": "Bir paragrafın ana fikrini bulurken dikkat edilmesi gereken en önemli unsur nedir?",
-          "secenekler": [
-            "Paragrafın uzunluğu",
-            "Paragraftaki olaylar",
-            "Paragrafta verilen örnekler",
-            "Paragraftaki ana düşünceyi ifade eden cümle"
-          ],
-          "dogruCevap": "Paragraftaki ana düşünceyi ifade eden cümle"
-        },
-        {
-          "soru": "Aşağıdaki paragrafta hangi anlatım biçimi kullanılmıştır? 'Toplumların kalkınması, bireylerin eğitim düzeyleriyle doğru orantılıdır. Eğitim, bir ülkenin gelişmesinin temel taşıdır.'",
-          "secenekler": [
-            "Betimleyici anlatım",
-            "Açıklayıcı anlatım",
-            "Tartışmacı anlatım",
-            "Öyküleyici anlatım"
-          ],
-          "dogruCevap": "Açıklayıcı anlatım"
-        },
-        {
-          "soru": "Bir paragrafta hangi cümle, paragrafın gelişimine engel olur?",
-          "secenekler": [
-            "Beni üzmek istemezsin değil mi?",
-            "Bu arada konuya dair pek çok fikir ortaya atılabilir.",
-            "Pek çok kişi bu konuda fikir sahibidir.",
-            "Buna dair daha fazla bilgi verebilirim."
-          ],
-          "dogruCevap": "Beni üzmek istemezsin değil mi?"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi anlam ilişkisi vardır? 'Çocuk, sabah saatlerinde okulda, öğleden sonra ise arkadaşlarıyla vakit geçiriyor.'",
-          "secenekler": [
-            "Neden-sonuç",
-            "Koşul",
-            "Amaç-sonuç",
-            "Zıtlık"
-          ],
-          "dogruCevap": "Zıtlık"
-        },
-        {
-          "soru": "'Sanat, insanın ruhunu en derinden etkileyen bir araçtır.' cümlesinde hangi anlatım biçimi kullanılmaktadır?",
-          "secenekler": [
-            "Tartışmacı anlatım",
-            "Betimleyici anlatım",
-            "Açıklayıcı anlatım",
-            "Öyküleyici anlatım"
-          ],
-          "dogruCevap": "Tartışmacı anlatım"
-        },
-        {
-          "soru": "'Geçen yıl, sosyal medya kullanımının gençler üzerinde nasıl bir etkisi olduğunu araştırdık.' cümlesindeki anlatım biçimi nedir?",
-          "secenekler": [
-            "Öyküleyici anlatım",
-            "Betimleyici anlatım",
-            "Açıklayıcı anlatım",
-            "Tartışmacı anlatım"
-          ],
-          "dogruCevap": "Öyküleyici anlatım"
-        },
-        {
-          "soru": "'Türk edebiyatında, halk şiirinin önemli bir yeri vardır.' cümlesindeki anlatım biçimi nedir?",
-          "secenekler": [
-            "Betimleyici anlatım",
-            "Öyküleyici anlatım",
-            "Açıklayıcı anlatım",
-            "Tartışmacı anlatım"
-          ],
-          "dogruCevap": "Açıklayıcı anlatım"
-        },
-        {
-          "soru": "'Olağanüstü bir yıl geçirdik, ama bu yıl her şey çok daha farklı olacak.' cümlesinde hangi anlam ilişkisi vardır?",
-          "secenekler": [
-            "Koşul",
-            "Amaç-sonuç",
-            "Zıtlık",
-            "Neden-sonuç"
-          ],
-          "dogruCevap": "Zıtlık"
-        },
-        {
-          "soru": "Bir paragrafın ana fikrini doğru şekilde bulabilmek için ne yapılmalıdır?",
-          "secenekler": [
-            "Paragrafın ilk ve son cümlesini karşılaştırmak",
-            "Paragrafın bütün cümlelerini gözden geçirmek",
-            "Paragrafı okuyup en uzun cümleyi bulmak",
-            "Paragrafın içinde en çok kullanılan kelimeyi bulmak"
-          ],
-          "dogruCevap": "Paragrafın bütün cümlelerini gözden geçirmek"
-        },
-        {
-          "soru": "Bir paragrafta hangi cümle, paragrafın gelişmesine engel olur?",
-          "secenekler": [
-            "Sonuç olarak, her şeyin düzgün bir şekilde yapılması gerektiğini anladık.",
-            "Bu kadar çok zaman kaybetmemeliyiz.",
-            "Bu konuda henüz karar verilmedi.",
-            "Başka bir düşünce daha eklemek gerekirse..."
-          ],
-          "dogruCevap": "Bu konuda henüz karar verilmedi."
-        },
-        {
-          "soru": "'Bir şeyin doğru olması, onun herkes tarafından kabul edilmesi gerektiği anlamına gelmez.' cümlesinde hangi anlatım biçimi kullanılmıştır?",
-          "secenekler": [
-            "Tartışmacı anlatım",
-            "Betimleyici anlatım",
-            "Açıklayıcı anlatım",
-            "Öyküleyici anlatım"
-          ],
-          "dogruCevap": "Tartışmacı anlatım"
-        },
-        {
-          "soru": "'Çalışmak, insanın hayatında önemli bir yer tutar.' cümlesinde hangi anlam ilişkisi vardır?",
-          "secenekler": [
-            "Koşul",
-            "Zıtlık",
-            "Neden-sonuç",
-            "Amaç-sonuç"
-          ],
-          "dogruCevap": "Neden-sonuç"
-        },
-        {
-          "soru": "'Bütün kitapları okudum ama hâlâ eksik bir şeyler var.' cümlesinde hangi anlatım biçimi kullanılmıştır?",
-          "secenekler": [
-            "Betimleyici anlatım",
-            "Öyküleyici anlatım",
-            "Açıklayıcı anlatım",
-            "Tartışmacı anlatım"
-          ],
-          "dogruCevap": "Öyküleyici anlatım"
-        }
-      ],
+    "Paragrafta Anlam": [
+  {
+    "soru": "Bir paragrafın ana düşüncesi nasıl bulunur?",
+    "secenekler": [
+      "Sadece paragrafın başındaki cümleyi inceleyerek",
+      "Paragrafın tamamını okuyup ana fikri destekleyen cümleleri belirleyerek",
+      "Paragrafın sadece son cümlesine bakarak",
+      "Paragraftaki en uzun cümleyi bularak"
+    ],
+    "dogruCevap": "Paragrafın tamamını okuyup ana fikri destekleyen cümleleri belirleyerek"
+  },
+  {
+    "soru": "Aşağıdaki paragrafta hangi anlatım biçimi kullanılmıştır? 'Bilim insanları, küresel ısınmanın etkilerini azaltmak için yeni yöntemler geliştiriyor. Bu yöntemlerden biri, atmosferdeki karbondioksiti emerek depolayan yapay ağaçlar.'",
+    "secenekler": [
+      "Öyküleyici anlatım",
+      "Betimleyici anlatım",
+      "Açıklayıcı anlatım",
+      "Tartışmacı anlatım"
+    ],
+    "dogruCevap": "Açıklayıcı anlatım"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerden hangisi bir paragrafın giriş cümlesi olmaya en uygundur?",
+    "secenekler": [
+      "Sonuç olarak, teknoloji hayatımızı kolaylaştırmaktadır.",
+      "Örneğin, akıllı telefonlar sayesinde her şey elimizin altında.",
+      "Teknoloji, modern çağın vazgeçilmez bir parçası haline gelmiştir.",
+      "Bu nedenle teknolojiyi doğru kullanmalıyız."
+    ],
+    "dogruCevap": "Teknoloji, modern çağın vazgeçilmez bir parçası haline gelmiştir."
+  },
+  {
+    "soru": "Bir paragrafta düşünceyi geliştirme yollarından hangisi kullanıldığında sayısal verilerden yararlanılır?",
+    "secenekler": [
+      "Tanımlama",
+      "Örneklendirme",
+      "Tanık gösterme",
+      "Sayısal verilerden yararlanma"
+    ],
+    "dogruCevap": "Sayısal verilerden yararlanma"
+  },
+  {
+    "soru": "Aşağıdaki paragraflardan hangisinde 'karşılaştırma' yapılmıştır?",
+    "secenekler": [
+      "Kediler bağımsız hayvanlardır. Kendi başlarına hareket etmeyi severler.",
+      "Kediler ve köpekler farklı karakterlere sahiptir. Kediler bağımsızken köpekler daha sadıktır.",
+      "Kediler çok temiz hayvanlardır. Sürekli kendilerini temizlerler.",
+      "Kediler iyi birer avcıdır. Fare ve küçük hayvanları kolayca yakalayabilirler."
+    ],
+    "dogruCevap": "Kediler ve köpekler farklı karakterlere sahiptir. Kediler bağımsızken köpekler daha sadıktır."
+  },
+  {
+    "soru": "Aşağıdaki metinlerden hangisinde sebep-sonuç ilişkisi vardır?",
+    "secenekler": [
+      "Yağmur yağdığı için şemsiyemi yanıma aldım.",
+      "Bugün hava çok güzel ve güneşli.",
+      "Parkta çocuklar oyun oynuyor.",
+      "İstanbul tarihi bir şehirdir."
+    ],
+    "dogruCevap": "Yağmur yağdığı için şemsiyemi yanıma aldım."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerden hangisi bir paragrafın sonuç cümlesi olmaya uygundur?",
+    "secenekler": [
+      "Çevre kirliliği günümüzün en önemli sorunlarından biridir.",
+      "Örneğin, plastik atıklar deniz canlılarına zarar vermektedir.",
+      "Bu nedenle, çevre konusunda daha duyarlı olmalı ve gerekli önlemleri almalıyız.",
+      "Fabrikalar her gün tonlarca atık üretmektedir."
+    ],
+    "dogruCevap": "Bu nedenle, çevre konusunda daha duyarlı olmalı ve gerekli önlemleri almalıyız."
+  },
+  {
+    "soru": "Aşağıdaki metinlerden hangisinde 'tanımlama' yapılmıştır?",
+    "secenekler": [
+      "Fotosentez, bitkilerin güneş ışığını kullanarak besin üretme sürecidir.",
+      "Bitkiler güneş ışığında daha iyi büyür.",
+      "Bahçemizdeki çiçekler çok güzel görünüyor.",
+      "Güneş ışığı bitkilerin büyümesi için önemlidir."
+    ],
+    "dogruCevap": "Fotosentez, bitkilerin güneş ışığını kullanarak besin üretme sürecidir."
+  }
+],
       "Ses Bilgisi": [
         {
           "soru": "Aşağıdaki sözcüklerin hangisinde ünlü uyumu vardır?",
@@ -7459,118 +7329,128 @@
           "dogruCevap": "Çünkü"
         }
       ],
-      "Yazım Kuralları": [
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır?",
-          "secenekler": [
-            "Öğretmenimiz, bizden, çözemediğimiz soruları da getirmemizi istiyor.",
-            "Kendisine mülakata yalnız katılması gerektiği söylendi.",
-            "Komşumuz Gülseren teyzeyi, öğleüzeri semt pazarında gördüm.",
-            "Yarın sabaha kadar ki bütün feribot seferlerinin iptal edileceği bildirildi."
-          ],
-          "dogruCevap": "Yarın sabaha kadar ki bütün feribot seferlerinin iptal edileceği bildirildi."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde ‘ki’ bağlacı yanlış yazılmıştır?",
-          "secenekler": [
-            "Sınavın sonuçları ki herkesin merak ettiği şeydi.",
-            "O kitapları yazan yazarlar ki çok ünlü.",
-            "Gerçekten de o kadar büyük bir hataydı.",
-            "Kütüphaneye gittiğimizde kitaplar ki çok güzeldi."
-          ],
-          "dogruCevap": "Sınavın sonuçları ki herkesin merak ettiği şeydi."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde büyük harf yanlış kullanılmıştır?",
-          "secenekler": [
-            "Fransa'dan gelen misafirler çok ilginçti.",
-            "Bursa'daki kış manzaraları çok güzeldi.",
-            "ankara'da çok güzel bir müze var.",
-            "Her yaz tatilinde denize giriyorum."
-          ],
-          "dogruCevap": "ankara'da çok güzel bir müze var."
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi kelime birleşik yazılmalıdır?",
-          "secenekler": [
-            "Bütünşehir yönetiminden memnun kaldık.",
-            "Birçok insan bu konuya ilgi gösterdi.",
-            "Yolculuk sırasında çok fazla kitap okudum.",
-            "Herkes yerini aldı ve eğlence başladı."
-          ],
-          "dogruCevap": "Birçok insan bu konuya ilgi gösterdi."
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi kelime yanlış yazılmıştır?",
-          "secenekler": [
-            "Çok keyifli bir akşam geçirdik.",
-            "Çalışmalarımda ilerleme kaydettim.",
-            "Bir çok insan bu etkinliğe katıldı.",
-            "Yavaşça odadan çıktım, kimseye çarpmadım."
-          ],
-          "dogruCevap": "Bir çok insan bu etkinliğe katıldı."
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi kelime yanlış yazılmıştır?",
-          "secenekler": [
-            "Konuklarımız bize misafirperver olduğumuzu söyledi.",
-            "Bu işe girdiğinden bu yana hiç tatile çıkamamıştı.",
-            "Yağmur yağmaya başladımı hepimiz sınıflarımıza kaçardık.",
-            "Bize uğramadan gitmiş oysaki uğrayacağına dair söz vermişti."
-          ],
-          "dogruCevap": "Yağmur yağmaya başladımı hepimiz sınıflarımıza kaçardık."
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi kelime yanlış yazılmıştır?",
-          "secenekler": [
-            "Semtimizde bulunan huzur evini ziyaret edip sakinleriyle sohbet ettik.",
-            "Yeni eğitim öğretim yılında da çalışmalar devam edecek.",
-            "Ara sıra bizim de düşüncelerimizi sorsanız iyi olur.",
-            "Yapılan çalışmalara rağmen su kaybı bir türlü önlenemedi."
-          ],
-          "dogruCevap": "Ara sıra bizim de düşüncelerimizi sorsanız iyi olur."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde ‘mi’ bağlacının yazımıyla ilgili bir yanlışlık yapılmıştır?",
-          "secenekler": [
-            "Yahya Kemal, hece vezniyle şiir yazmış mı?",
-            "Yarın, buraya tekrar gelecek misiniz?",
-            "Niçin buraya gelmediğini biliyor musunuz?",
-            "Ne diye bu konuyu babana anlat mıyorsun?"
-          ],
-          "dogruCevap": "Ne diye bu konuyu babana anlat mıyorsun?"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi kelime yanlış yazılmıştır?",
-          "secenekler": [
-            "Güzel olan hiçbir şeyi yaşatmadın ki bana, diyordu.",
-            "Necip Fazıl'ın şiiri, kendi yüzyılını aşan bir hava taşımaktadır.",
-            "Klasik bir yapıt olan 'Suç ve Ceza'yı birtakım sanatçılar beğenmez.",
-            "Geçen yıl Varlık Dergisi ile yaptığı röportajı çok tartışılmıştı bu yazarın."
-          ],
-          "dogruCevap": "Geçen yıl Varlık Dergisi ile yaptığı röportajı çok tartışılmıştı bu yazarın."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde bir yazım yanlışı vardır?",
-          "secenekler": [
-            "Konuklarımız bize misafirperver olduğumuzu söyledi.",
-            "Bu işe girdiğinden bu yana hiç tatile çıkamamıştı.",
-            "Yağmur yağmaya başladımı hepimiz sınıflarımıza kaçardık.",
-            "Bize uğramadan gitmiş oysaki uğrayacağına dair söz vermişti."
-          ],
-          "dogruCevap": "Yağmur yağmaya başladımı hepimiz sınıflarımıza kaçardık."
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi kelime yanlış yazılmıştır?",
-          "secenekler": [
-            "Dostlarından aldığı destekle dergilere imzasız yazılar yazmaya başladı.",
-            "En güzel aşk şiirlerini terkedip toplumsal konulara eğiliyor.",
-            "Tüm yaşamını dedikodulardan uzak, şiir yazarak geçirmiş biriydi.",
-            "Kendini ifade edebildiği şiirleri ömrünün sonuna kadar sakladı."
-          ],
-          "dogruCevap": "En güzel aşk şiirlerini terkedip toplumsal konulara eğiliyor."
-        }
-      ]
+  "Yazım Kuralları": [
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır?",
+    "secenekler": [
+      "Her gün okula gidip geliyorum.",
+      "Hafta sonu İstanbula gideceğiz.",
+      "Türkçe dersini çok seviyorum.",
+      "Yarın size geleceğim."
+    ],
+    "dogruCevap": "Hafta sonu İstanbula gideceğiz."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'de/da' bağlacı yanlış yazılmıştır?",
+    "secenekler": [
+      "Evde kimse yoktu.",
+      "Ben de sizinle geleceğim.",
+      "Bahçede çiçekler açmış.",
+      "Ahmet'te bizimle gelecek."
+    ],
+    "dogruCevap": "Ahmet'te bizimle gelecek."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde sayıların yazımı yanlıştır?",
+    "secenekler": [
+      "Yarışmada 1.'inci oldum.",
+      "3 elma, 5 armut aldım.",
+      "Saat 17.30'da buluşalım.",
+      "XX. yüzyılda yaşıyoruz."
+    ],
+    "dogruCevap": "Yarışmada 1.'inci oldum."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde büyük harflerin kullanımı yanlıştır?",
+    "secenekler": [
+      "Türk Dil Kurumu'na başvurdum.",
+      "Doğu anadolu'da kış çok sert geçer.",
+      "Atatürk Lisesi'nde okuyorum.",
+      "Van Gölü çok güzeldir."
+    ],
+    "dogruCevap": "Doğu anadolu'da kış çok sert geçer."
+  },
+  {
+    "soru": "Aşağıdaki birleşik kelimelerin hangisinin yazımı yanlıştır?",
+    "secenekler": [
+      "açıkgöz",
+      "baş ağrısı",
+      "hanımeli",
+      "aşçıbaşı"
+    ],
+    "dogruCevap": "baş ağrısı"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde soru eki yanlış yazılmıştır?",
+    "secenekler": [
+      "Gelecek misin?",
+      "Okula gidiyor musun?",
+      "Anlayabildinmi?",
+      "Nereye gidiyorsun?"
+    ],
+    "dogruCevap": "Anlayabildinmi?"
+  },
+  {
+    "soru": "Aşağıdaki kısaltmaların hangisinin yazımı yanlıştır?",
+    "secenekler": [
+      "TDK",
+      "Dr.",
+      "cm.",
+      "Prof. Dr."
+    ],
+    "dogruCevap": "cm."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde noktalama işaretlerinin kullanımı yanlıştır?",
+    "secenekler": [
+      "Ali, Ayşe ve Mehmet pikniğe gitti.",
+      "Ahmet; bugün okula gelmedi.",
+      "Kitap, defter ve kalem aldım.",
+      "Atatürk, 1881'de doğdu."
+    ],
+    "dogruCevap": "Ahmet; bugün okula gelmedi."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde özel isimlere gelen eklerin yazımı yanlıştır?",
+    "secenekler": [
+      "Türkiye'de yaşıyorum.",
+      "Ankara'ya gidiyorum.",
+      "İstanbulda'yım.",
+      "Atatürk'ün evini gezdim."
+    ],
+    "dogruCevap": "İstanbulda'yım."
+  },
+  {
+    "soru": "Aşağıdaki tarih yazımlarından hangisi yanlıştır?",
+    "secenekler": [
+      "29 Ekim 1923",
+      "23 Nisan 1920",
+      "19.Mayıs.1919",
+      "30 Ağustos 1922"
+    ],
+    "dogruCevap": "19.Mayıs.1919"
+  },
+  {
+    "soru": "Aşağıdaki pekiştirmeli sıfatlardan hangisinin yazımı yanlıştır?",
+    "secenekler": [
+      "kıpkırmızı",
+      "yemyeşil",
+      "sımsıcak",
+      "bembeyaz"
+    ],
+    "dogruCevap": "sımsıcak"
+  },
+  {
+    "soru": "Aşağıdaki bileşik fiillerden hangisinin yazımı doğrudur?",
+    "secenekler": [
+      "vazgeçmek",
+      "dans etmek",
+      "hissetmek",
+      "yardım etmek"
+    ],
+    "dogruCevap": "vazgeçmek"
+  }
+]
      
     },
     "Tarih": {
@@ -11694,10 +11574,10 @@
           "secenekler": [
             "Harf İnkılabı",
             "Eğitim ve Öğretim İnkılabı",
-            "Hukuk İnkılabı",
+            "Tevhid-i Tedrisat Kanunu",
             "Medeni Kanun"
           ],
-          "dogruCevap": "Hukuk İnkılabı"
+          "dogruCevap": "Medeni Kanun"
         },
         {
           "soru": "Cumhuriyetin ilanından sonra yapılan ve halkın devletle olan ilişkisini doğrudan etkileyen inkılap hangisidir?",
@@ -11780,7 +11660,7 @@
           "dogruCevap": "Şapka İnkılabı"
         },
         {
-          "soru": "Cumhuriyet'in ilk yıllarında yapılan hangi inkılap, Osmanlı İmparatorluğu'ndan kalan padişah unvanlarının kullanılmasını engellemiştir?",
+          "soru": "Cumhuriyet'in ilk yıllarında yapılan hangi inkılap, vatandaşların kimlik tespitini kolaylaştırmak ve modern devlet yapısına uyum sağlamak amacıyla getirilmiştir?",
           "secenekler": [
             "Soyadı Kanunu",
             "Cumhuriyetin ilanı",
@@ -11830,14 +11710,14 @@
           "dogruCevap": "Türk Tarih Kurumu"
         },
         {
-          "soru": "Atatürk'ün inkılaplarından hangisi, Türkiye Cumhuriyeti'ni laik bir devlet haline getiren önemli bir adımdır?",
+          "soru": "Türkiye Cumhuriyeti'ni laik bir devlet yapısına kavuşturan en önemli inkılaplar hangileridir?",
           "secenekler": [
-            "Laiklik İnkılabı",
-            "Medeni Kanun",
-            "Harf İnkılabı",
-            "Kadınlara Seçme ve Seçilme Hakkı"
+            "Halifeliğin kaldırılması ve Tevhid-i Tedrisat Kanunu",
+            "Medeni Kanun ve Harf İnkılabı",
+            "Saltanatın kaldırılması ve Cumhuriyetin ilanı",
+            "Şapka Kanunu ve Takvim İnkılabı"
           ],
-          "dogruCevap": "Laiklik İnkılabı"
+          "dogruCevap": "Halifeliğin kaldırılması ve Tevhid-i Tedrisat Kanunu"
         },
         {
           "soru": "Atatürk'ün gerçekleştirdiği hangi inkılapla, halk arasında halk müziği, şiir ve sanat anlayışı gibi geleneksel unsurlar halk edebiyatında kullanılmaya başlanmıştır?",
@@ -11880,218 +11760,108 @@
           "dogruCevap": "Medeni Kanun"
         }
       ],
-      "Atatürk İlkeleri": [
-        {
-          "soru": "Atatürk'ün ilkelerinden hangisi, halkın egemenliğini esas alarak, halkın devlet yönetimine katılmasını sağlamayı hedeflemiştir?",
-          "secenekler": [
-            "Cumhuriyetçilik",
-            "Halkçılık",
-            "Milliyetçilik",
-            "Laiklik"
-          ],
-          "dogruCevap": "Cumhuriyetçilik"
-        },
-        {
-          "soru": "Atatürk'ün ilkelerinden hangisi, tüm vatandaşlar arasında eşitlik, adalet ve kardeşlik duygusunun ön planda tutulmasını amaçlamaktadır?",
-          "secenekler": [
-            "Halkçılık",
-            "Devletçilik",
-            "Laiklik",
-            "Milliyetçilik"
-          ],
-          "dogruCevap": "Halkçılık"
-        },
-        {
-          "soru": "Atatürk'ün hangi ilkesi, Türkiye'nin bağımsızlık mücadelesine ve ulusal çıkarlarına öncelik vererek, yabancı ülkelerin iç işlerine müdahale etmelerini reddetmeyi hedefler?",
-          "secenekler": [
-            "Milliyetçilik",
-            "Laiklik",
-            "Cumhuriyetçilik",
-            "Yurtta Sulh, Cihanda Sulh"
-          ],
-          "dogruCevap": "Milliyetçilik"
-        },
-        {
-          "soru": "Atatürk'ün hangi ilkesi, devletin ekonomik alanda denetim ve düzenlemeler yaparak halkın refahını artırmayı amaçlamaktadır?",
-          "secenekler": [
-            "Devletçilik",
-            "Cumhuriyetçilik",
-            "Laiklik",
-            "Halkçılık"
-          ],
-          "dogruCevap": "Devletçilik"
-        },
-        {
-          "soru": "Atatürk, hangi ilkesinde, devletin din işlerinden tamamen ayrılmasını ve dinin devlet yönetiminde etkili olmasının engellenmesini istemiştir?",
-          "secenekler": [
-            "Laiklik",
-            "Cumhuriyetçilik",
-            "Devletçilik",
-            "Milliyetçilik"
-          ],
-          "dogruCevap": "Laiklik"
-        },
-        {
-          "soru": "Atatürk'ün hangi ilkesi, halkın milli bir bilinçle hareket etmesini ve kendi kültürüne sahip çıkmasını amaçlamaktadır?",
-          "secenekler": [
-            "Milliyetçilik",
-            "Cumhuriyetçilik",
-            "Devletçilik",
-            "Laiklik"
-          ],
-          "dogruCevap": "Milliyetçilik"
-        },
-        {
-          "soru": "Atatürk'ün hangi ilkesinde, ülkenin modernleşmesi ve çağdaşlaşması için, halkın özgürlük ve eşitlik içinde yaşaması gerektiği vurgulanmıştır?",
-          "secenekler": [
-            "Halkçılık",
-            "Devletçilik",
-            "Cumhuriyetçilik",
-            "Laiklik"
-          ],
-          "dogruCevap": "Halkçılık"
-        },
-        {
-          "soru": "Atatürk, Türk milletinin bağımsızlık mücadelesinin ve Cumhuriyetin temelini hangi ilkeyle atmıştır?",
-          "secenekler": [
-            "Cumhuriyetçilik",
-            "Laiklik",
-            "Devletçilik",
-            "Milliyetçilik"
-          ],
-          "dogruCevap": "Cumhuriyetçilik"
-        },
-        {
-          "soru": "Atatürk'ün ilkelerinden hangisi, ülke içindeki tüm vatandaşların eşit haklara sahip olmasını ve toplumsal sınıf farklarının ortadan kaldırılmasını hedefler?",
-          "secenekler": [
-            "Halkçılık",
-            "Devletçilik",
-            "Laiklik",
-            "Milliyetçilik"
-          ],
-          "dogruCevap": "Halkçılık"
-        },
-        {
-          "soru": "Atatürk'ün ilkelerinden hangisi, devletin ekonomik hayatta daha fazla müdahale etmesini ve milli kalkınmayı sağlamayı amaçlar?",
-          "secenekler": [
-            "Devletçilik",
-            "Cumhuriyetçilik",
-            "Laiklik",
-            "Halkçılık"
-          ],
-          "dogruCevap": "Devletçilik"
-        },
-        {
-          "soru": "Atatürk'ün hangi ilkesinde, Türk milletinin bağımsızlığının ve egemenliğinin her şeyden önemli olduğu vurgulanmıştır?",
-          "secenekler": [
-            "Milliyetçilik",
-            "Cumhuriyetçilik",
-            "Devletçilik",
-            "Laiklik"
-          ],
-          "dogruCevap": "Milliyetçilik"
-        },
-        {
-          "soru": "Atatürk, Türkiye Cumhuriyeti'nin çağdaş bir devlet olarak varlığını sürdürebilmesi için, hangi ilkesinde bilim, teknoloji ve eğitimde devrim yapmayı hedeflemiştir?",
-          "secenekler": [
-            "Cumhuriyetçilik",
-            "Laiklik",
-            "Devletçilik",
-            "Halkçılık"
-          ],
-          "dogruCevap": "Cumhuriyetçilik"
-        },
-        {
-          "soru": "Atatürk'ün hangi ilkesi, toplumda dinin, devletin işleyişiyle karışmadan sadece bireysel bir inanç meselesi olarak kalmasını amaçlamaktadır?",
-          "secenekler": [
-            "Laiklik",
-            "Milliyetçilik",
-            "Cumhuriyetçilik",
-            "Halkçılık"
-          ],
-          "dogruCevap": "Laiklik"
-        },
-        {
-          "soru": "Atatürk'ün hangi ilkesi, devletin ekonomik kalkınma sürecine müdahale ederek, sanayi ve tarım alanlarında devletin daha fazla sorumluluk almasını sağlamaktadır?",
-          "secenekler": [
-            "Devletçilik",
-            "Milliyetçilik",
-            "Halkçılık",
-            "Cumhuriyetçilik"
-          ],
-          "dogruCevap": "Devletçilik"
-        },
-        {
-          "soru": "Atatürk'ün hangi ilkesinde, tüm halkın birlikte ve uyum içinde yaşaması için, toplumsal dayanışma ve adalet ön planda tutulmuştur?",
-          "secenekler": [
-            "Halkçılık",
-            "Laiklik",
-            "Cumhuriyetçilik",
-            "Devletçilik"
-          ],
-          "dogruCevap": "Halkçılık"
-        },
-        {
-          "soru": "Atatürk, Türk milletinin özgürlüğü ve bağımsızlığı için hangi ilkesinde, dışa bağımlı olmayı reddederek ulusal çıkarları her şeyin önünde tutmayı savunmuştur?",
-          "secenekler": [
-            "Milliyetçilik",
-            "Cumhuriyetçilik",
-            "Devletçilik",
-            "Laiklik"
-          ],
-          "dogruCevap": "Milliyetçilik"
-        },
-        {
-          "soru": "Atatürk'ün ilkelerinden hangisi, devletin dış politikada barışçıl bir yaklaşım benimsemesini ve dünya ile iyi ilişkiler kurmasını amaçlamaktadır?",
-          "secenekler": [
-            "Yurtta Sulh, Cihanda Sulh",
-            "Devletçilik",
-            "Laiklik",
-            "Milliyetçilik"
-          ],
-          "dogruCevap": "Yurtta Sulh, Cihanda Sulh"
-        },
-        {
-          "soru": "Atatürk'ün hangi ilkesi, halkın iradesinin egemen olmasını savunarak, padişah ve halife gibi mutlakiyetçi yönetim anlayışlarına karşı çıkmıştır?",
-          "secenekler": [
-            "Cumhuriyetçilik",
-            "Milliyetçilik",
-            "Halkçılık",
-            "Devletçilik"
-          ],
-          "dogruCevap": "Cumhuriyetçilik"
-        },
-        {
-          "soru": "Atatürk'ün hangi ilkesi, halkın özgür ve bağımsız bir şekilde yaşamını sürdürmesini amaçlamaktadır?",
-          "secenekler": [
-            "Halkçılık",
-            "Laiklik",
-            "Cumhuriyetçilik",
-            "Devletçilik"
-          ],
-          "dogruCevap": "Halkçılık"
-        },
-        {
-          "soru": "Atatürk, Türkiye Cumhuriyeti'nin temellerini atarken, hangi ilkesinde, halkın iradesine dayalı, demokratik bir rejimin olmasına özen göstermiştir?",
-          "secenekler": [
-            "Cumhuriyetçilik",
-            "Devletçilik",
-            "Milliyetçilik",
-            "Laiklik"
-          ],
-          "dogruCevap": "Cumhuriyetçilik"
-        },
-        {
-          "soru": "Atatürk'ün hangi ilkesinde, Türk milletinin ulusal birliğinin korunması için tüm halkın aynı amaç doğrultusunda hareket etmesi gerektiği vurgulanmıştır?",
-          "secenekler": [
-            "Milliyetçilik",
-            "Laiklik",
-            "Devletçilik",
-            "Halkçılık"
-          ],
-          "dogruCevap": "Milliyetçilik"
-        }
-      ],
+ "Atatürk İlkeleri": [
+  {
+    "soru": "İnkılapçılık ilkesi hangi amaçla benimsenmiştir?",
+    "secenekler": [
+      "Toplumun sürekli yenilenmesi ve çağdaşlaşması",
+      "Ekonomik kalkınmanın sağlanması",
+      "Dış politikanın düzenlenmesi",
+      "Eğitim sisteminin değiştirilmesi"
+    ],
+    "dogruCevap": "Toplumun sürekli yenilenmesi ve çağdaşlaşması"
+  },
+  {
+    "soru": "Devletçilik ilkesinin 1930'larda uygulanmasının temel sebebi nedir?",
+    "secenekler": [
+      "1929 Dünya Ekonomik Buhranı'nın etkileri",
+      "Özel sektörün güçlenmesi",
+      "Dış ticaret fazlası",
+      "Tarımsal üretimin artması"
+    ],
+    "dogruCevap": "1929 Dünya Ekonomik Buhranı'nın etkileri"
+  },
+  {
+    "soru": "Laiklik ilkesinin uygulanmasında atılan ilk önemli adım hangisidir?",
+    "secenekler": [
+      "Halifeliğin kaldırılması",
+      "Medeni Kanun'un kabulü",
+      "Tekke ve zaviyelerin kapatılması",
+      "Latin alfabesinin kabulü"
+    ],
+    "dogruCevap": "Halifeliğin kaldırılması"
+  },
+  {
+    "soru": "Milliyetçilik ilkesinin Türk Tarih Tezi ile ilişkisi nedir?",
+    "secenekler": [
+      "Türk milletinin tarihteki yerini ve önemini vurgulamak",
+      "Diğer milletleri dışlamak",
+      "Dini değerleri öne çıkarmak",
+      "Ekonomik bağımsızlığı sağlamak"
+    ],
+    "dogruCevap": "Türk milletinin tarihteki yerini ve önemini vurgulamak"
+  },
+  {
+    "soru": "Halkçılık ilkesinin eğitim alanındaki en önemli yansıması hangisidir?",
+    "secenekler": [
+      "Tevhid-i Tedrisat Kanunu",
+      "Medeni Kanun",
+      "İş Kanunu",
+      "Toprak Reformu"
+    ],
+    "dogruCevap": "Tevhid-i Tedrisat Kanunu"
+  },
+  {
+    "soru": "Cumhuriyetçilik ilkesinin ekonomik hayattaki yansıması hangisidir?",
+    "secenekler": [
+      "Milli ekonominin kurulması",
+      "Yabancı sermayenin ülkeye girişi",
+      "Tarımsal üretimin artırılması",
+      "Dış ticaretin geliştirilmesi"
+    ],
+    "dogruCevap": "Milli ekonominin kurulması"
+  },
+  {
+    "soru": "İnkılapçılık ilkesinin kadın hakları alanındaki en önemli yansıması nedir?",
+    "secenekler": [
+      "Kadınlara siyasi hakların verilmesi",
+      "Kılık kıyafet devrimi",
+      "Medeni Kanun'un kabulü",
+      "Eğitim birliği"
+    ],
+    "dogruCevap": "Kadınlara siyasi hakların verilmesi"
+  },
+  {
+    "soru": "Devletçilik ilkesi kapsamında kurulan ilk önemli sanayi kuruluşu hangisidir?",
+    "secenekler": [
+      "Sümerbank",
+      "Etibank",
+      "İş Bankası",
+      "Merkez Bankası"
+    ],
+    "dogruCevap": "Sümerbank"
+  },
+  {
+    "soru": "Laiklik ilkesinin hukuk alanındaki en önemli yansıması hangisidir?",
+    "secenekler": [
+      "Türk Medeni Kanunu'nun kabulü",
+      "Tevhid-i Tedrisat Kanunu",
+      "Soyadı Kanunu",
+      "Kılık Kıyafet Kanunu"
+    ],
+    "dogruCevap": "Türk Medeni Kanunu'nun kabulü"
+  },
+  {
+    "soru": "Milliyetçilik ilkesinin dil alanındaki en önemli yansıması hangisidir?",
+    "secenekler": [
+      "Türk Dil Kurumu'nun kurulması",
+      "Harf İnkılabı",
+      "Millet Mektepleri",
+      "Halkevleri"
+    ],
+    "dogruCevap": "Türk Dil Kurumu'nun kurulması"
+  }
+],
       "Partiler ve Partileşme Dönemi (İç Politika)": [
         {
           "soru": "Türkiye Cumhuriyeti'nin ilk siyasi partisi hangisidir?",
@@ -12247,12 +12017,12 @@
         {
           "soru": "Türkiye Cumhuriyeti'ndeki ilk çok partili dönemde, hangi olay parti içi çatışmaların büyümesine neden olmuştur?",
           "secenekler": [
-            "İzmir Suikastı",
-            "Menderes'in halkla ilişkileri",
+            "Terakkiperver Cumhuriyet Fırkası'nın kapatılması",
+            "Şeyh Sait İsyanı",
             "Serbest Cumhuriyet Fırkası'nın kapatılması",
-            "Yassıada yargılamaları"
+            "Menemen Olayı"
           ],
-          "dogruCevap": "İzmir Suikastı"
+          "dogruCevap": "Terakkiperver Cumhuriyet Fırkası'nın kapatılması"
         },
         {
           "soru": "İkinci Dünya Savaşı sırasında, Türkiye’de tek partili yönetimi denetleyen oluşum hangi partinin oluşturulmasıyla sona ermiştir?",
@@ -12283,317 +12053,542 @@
             "Atatürk'ün vefatı"
           ],
           "dogruCevap": "1946 Seçimleri"
+        },
+        {
+          "soru": "Terakkiperver Cumhuriyet Fırkası'nın kapatılmasının temel gerekçesi nedir?",
+          "secenekler": [
+            "Dini siyasete alet etmek",
+            "Ekonomik politikalara muhalefet",
+            "Dış politikayı eleştirmek",
+            "Askeri müdahale çağrısı yapmak"
+          ],
+          "dogruCevap": "Dini siyasete alet etmek"
+        },
+        {
+          "soru": "Serbest Cumhuriyet Fırkası'nın kurucusu kimdir?",
+          "secenekler": [
+            "Fethi Okyar",
+            "Celal Bayar",
+            "Rauf Orbay",
+            "Kazım Karabekir"
+          ],
+          "dogruCevap": "Fethi Okyar"
+        },
+        {
+          "soru": "1946-1950 yılları arasında Demokrat Parti'nin en çok eleştirdiği konu hangisidir?",
+          "secenekler": [
+            "Seçim sistemi ve anti-demokratik uygulamalar",
+            "Dış politika kararları",
+            "Ekonomik kalkınma programları",
+            "Eğitim politikaları"
+          ],
+          "dogruCevap": "Seçim sistemi ve anti-demokratik uygulamalar"
+        },
+        {
+          "soru": "1950 seçimlerinde Demokrat Parti'nin seçim sloganı nedir?",
+          "secenekler": [
+            "Yeter! Söz Milletindir",
+            "Yeni Türkiye",
+            "Milli İrade",
+            "Demokrasi ve Kalkınma"
+          ],
+          "dogruCevap": "Yeter! Söz Milletindir"
+        },
+        {
+          "soru": "Demokrat Parti döneminde (1950-1960) uygulanan ekonomi politikasının temel özelliği nedir?",
+          "secenekler": [
+            "Liberal ekonomi politikası",
+            "Devletçi ekonomi politikası",
+            "Karma ekonomi modeli",
+            "Sosyalist ekonomi modeli"
+          ],
+          "dogruCevap": "Liberal ekonomi politikası"
+        },
+        {
+          "soru": "1954 seçimlerinde Demokrat Parti'nin oy oranını artırmasının temel sebebi nedir?",
+          "secenekler": [
+            "Ekonomik kalkınma ve refah artışı",
+            "Dış politikadaki başarılar",
+            "Muhalefetin zayıflığı",
+            "Seçim sisteminin değiştirilmesi"
+          ],
+          "dogruCevap": "Ekonomik kalkınma ve refah artışı"
+        },
+        {
+          "soru": "1957 seçimlerinde Demokrat Parti'nin oy kaybetmesinin temel sebebi nedir?",
+          "secenekler": [
+            "Ekonomik sorunlar ve enflasyon",
+            "Dış politika başarısızlıkları",
+            "Muhalefet partilerinin birleşmesi",
+            "Askeri müdahale tehdidi"
+          ],
+          "dogruCevap": "Ekonomik sorunlar ve enflasyon"
+        },
+        {
+          "soru": "Cumhuriyet Halk Partisi'nin 1957 seçimlerinde kullandığı temel propaganda konusu nedir?",
+          "secenekler": [
+            "Demokratik haklar ve özgürlükler",
+            "Ekonomik kalkınma",
+            "Dış politika",
+            "Sosyal adalet"
+          ],
+          "dogruCevap": "Demokratik haklar ve özgürlükler"
+        },
+        {
+          "soru": "1960 öncesi dönemde çıkarılan Tahkikat Komisyonu'nun kurulma amacı nedir?",
+          "secenekler": [
+            "Muhalefet faaliyetlerini denetlemek",
+            "Ekonomik sorunları araştırmak",
+            "Yolsuzlukları incelemek",
+            "Dış politikayı değerlendirmek"
+          ],
+          "dogruCevap": "Muhalefet faaliyetlerini denetlemek"
         }
       ],
-      "Atatürk Dönemi Türk Dış Politikası": [
-        {
-          "soru": "Atatürk dönemi Türk dış politikasının temel amacı aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Barışçı dış ilişkiler",
-            "Sömürgecilik",
-            "Askeri ittifaklar kurmak",
-            "Dünya egemenliği sağlamak"
-          ],
-          "dogruCevap": "Barışçı dış ilişkiler"
-        },
-        {
-          "soru": "Lozan Antlaşması'nda Türkiye'nin bağımsızlığını uluslararası alanda kabul ettiren Türk heyeti lideri kimdir?",
-          "secenekler": [
-            "İsmet İnönü",
-            "Mustafa Kemal Atatürk",
-            "Fevzi Çakmak",
-            "Rauf Orbay"
-          ],
-          "dogruCevap": "İsmet İnönü"
-        },
-        {
-          "soru": "Atatürk’ün dış politikada izlediği ‘Yurtta sulh, cihanda sulh’ ilkesinin anlamı nedir?",
-          "secenekler": [
-            "İçerde barış, dışarıda savaş",
-            "İçerde ve dışarda barış",
-            "Savaş ilanı",
-            "Dışarıda barış, içerde savaş"
-          ],
-          "dogruCevap": "İçerde ve dışarda barış"
-        },
-        {
-          "soru": "Atatürk dönemi Türk dış politikasının önemli başarılarından biri, aşağıdakilerden hangisi ile elde edilmiştir?",
-          "secenekler": [
-            "Lozan Antlaşması",
-            "Montreux Boğazlar Sözleşmesi",
-            "Balkan Paktı",
-            "Sadabad Paktı"
-          ],
-          "dogruCevap": "Lozan Antlaşması"
-        },
-        {
-          "soru": "Atatürk'ün dış politikada izlediği bağımsızlıkçılık ve barışçılık politikalarının etkisiyle, Türkiye aşağıdaki uluslararası kuruluşlardan hangisine katılmamıştır?",
-          "secenekler": [
-            "Milletler Cemiyeti",
-            "Birleşmiş Milletler",
-            "NATO",
-            "Sovyetler Birliği"
-          ],
-          "dogruCevap": "Sovyetler Birliği"
-        },
-        {
-          "soru": "Atatürk döneminde Türkiye'nin, Batı Avrupa ile ilişkilerini düzeltme amacıyla yaptığı antlaşma hangisidir?",
-          "secenekler": [
-            "Lozan Antlaşması",
-            "Balkan Antantı",
-            "Sadabad Paktı",
-            "Montreux Boğazlar Sözleşmesi"
-          ],
-          "dogruCevap": "Montreux Boğazlar Sözleşmesi"
-        },
-        {
-          "soru": "Atatürk döneminde Türkiye'nin komşuları ile barışçıl ilişkiler geliştirmeyi amaçlayan pakt hangisidir?",
-          "secenekler": [
-            "Sadabad Paktı",
-            "Balkan Paktı",
-            "Karadeniz Ekonomik İşbirliği",
-            "Bagdat Paktı"
-          ],
-          "dogruCevap": "Sadabad Paktı"
-        },
-        {
-          "soru": "Türkiye'nin Sovyet Rusya ile imzaladığı 1921 tarihli anlaşma hangisidir?",
-          "secenekler": [
-            "Moskova Antlaşması",
-            "Lozan Antlaşması",
-            "Kars Antlaşması",
-            "Montreux Boğazlar Sözleşmesi"
-          ],
-          "dogruCevap": "Moskova Antlaşması"
-        },
-        {
-          "soru": "Atatürk'ün Türk dış politikasında izlediği barışçı ve diplomatik stratejinin en belirgin özelliği nedir?",
-          "secenekler": [
-            "Sürekli savaşlara girilmesi",
-            "Uluslararası anlaşmalarla sınırların netleştirilmesi",
-            "Gizli diplomasi",
-            "Komşu ülkelerle sınır değişiklikleri"
-          ],
-          "dogruCevap": "Uluslararası anlaşmalarla sınırların netleştirilmesi"
-        },
-        {
-          "soru": "Atatürk’ün dış politikasında, Türkiye'nin boğazlar üzerindeki egemenliğini garanti altına almayı amaçlayan antlaşma hangisidir?",
-          "secenekler": [
-            "Montreux Boğazlar Sözleşmesi",
-            "Lozan Antlaşması",
-            "Balkan Antantı",
-            "Sadabad Paktı"
-          ],
-          "dogruCevap": "Montreux Boğazlar Sözleşmesi"
-        },
-        {
-          "soru": "Atatürk döneminde, Türkiye'nin güvenliğini sağlamak amacıyla kurulan ilk bölgesel pakt hangisidir?",
-          "secenekler": [
-            "Sadabad Paktı",
-            "Balkan Antantı",
-            "Bagdat Paktı",
-            "İstanbul Paktı"
-          ],
-          "dogruCevap": "Sadabad Paktı"
-        },
-        {
-          "soru": "Lozan Antlaşması, Türkiye Cumhuriyeti için hangi anlamı taşımaktadır?",
-          "secenekler": [
-            "Türkiye'nin uluslararası alanda tanınması",
-            "Osmanlı İmparatorluğu'nun sona ermesi",
-            "Savaş ilanı",
-            "Türkiye'nin NATO'ya katılımı"
-          ],
-          "dogruCevap": "Türkiye'nin uluslararası alanda tanınması"
-        },
-        {
-          "soru": "Balkan Paktı, Atatürk’ün hangi dış politika anlayışını yansıtmaktadır?",
-          "secenekler": [
-            "Komşu ülkelerle barışçıl ilişkiler kurma",
-            "Dünya egemenliği",
-            "Avrupa'ya karşı askeri ittifaklar kurma",
-            "Sömürgecilik yapma"
-          ],
-          "dogruCevap": "Komşu ülkelerle barışçıl ilişkiler kurma"
-        },
-        {
-          "soru": "Türkiye Cumhuriyeti'nin dış politikada benimsediği barışçıl politika aşağıdaki antlaşmalardan hangisiyle pekiştirilmiştir?",
-          "secenekler": [
-            "Lozan Antlaşması",
-            "Montreux Boğazlar Sözleşmesi",
-            "Balkan Paktı",
-            "Sadabad Paktı"
-          ],
-          "dogruCevap": "Lozan Antlaşması"
-        },
-        {
-          "soru": "Atatürk, Türk dış politikasının temelini oluştururken hangi ilkeye en çok vurgu yapmıştır?",
-          "secenekler": [
-            "Bağımsızlık",
-            "Savaş",
-            "Askeri ittifaklar",
-            "Dışa bağımlılık"
-          ],
-          "dogruCevap": "Bağımsızlık"
-        },
-        {
-          "soru": "Atatürk döneminde Türkiye, hangi bölgesel paktla, Türkiye'nin güneydoğusundaki güvenliği sağlamayı hedeflemiştir?",
-          "secenekler": [
-            "Sadabad Paktı",
-            "Balkan Antantı",
-            "Bagdat Paktı",
-            "Montreux Boğazlar Sözleşmesi"
-          ],
-          "dogruCevap": "Bagdat Paktı"
-        },
-        {
-          "soru": "Türk dış politikasının Atatürk döneminde izlediği en önemli prensiplerden biri, komşularla aşağıdaki ilişkilerden hangisini geliştirmeyi amaçlamıştır?",
-          "secenekler": [
-            "Barışçıl",
-            "Savaşçı",
-            "Egemenlik kurma",
-            "Bağımlılık kurma"
-          ],
-          "dogruCevap": "Barışçıl"
-        },
-        {
-          "soru": "Atatürk döneminin önemli dış politika başarısı olan, 1923 yılında imzalanan anlaşma hangisidir?",
-          "secenekler": [
-            "Lozan Antlaşması",
-            "Kars Antlaşması",
-            "Montreux Boğazlar Sözleşmesi",
-            "Moskova Antlaşması"
-          ],
-          "dogruCevap": "Lozan Antlaşması"
-        },
-        {
-          "soru": "Atatürk dönemi Türk dış politikasında, Türkiye'nin Osmanlı İmparatorluğu'ndan kalma toprak talepleri aşağıdaki antlaşmalardan hangisiyle kesin olarak sona erdirilmiştir?",
-          "secenekler": [
-            "Lozan Antlaşması",
-            "Montreux Boğazlar Sözleşmesi",
-            "Moskova Antlaşması",
-            "Balkan Paktı"
-          ],
-          "dogruCevap": "Lozan Antlaşması"
-        }
-      ],
-      "Atatürk Sonrası Dönem": [
-        {
-          "soru": "Atatürk'ün ölümünden sonra Cumhurbaşkanı olarak görev yapmaya başlayan İsmet İnönü'nün, Türkiye'nin dış politikasında izlediği temel yaklaşım aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Batı ile iş birliği",
-            "Sovyetler Birliği ile yakınlaşma",
-            "Bağlantısızlık hareketine katılma",
-            "Ortadoğu'da liderlik iddiası"
-          ],
-          "dogruCevap": "Batı ile iş birliği"
-        },
-        {
-          "soru": "Atatürk sonrasındaki dönemde, Türkiye'nin iç politikasında hangi gelişme çok partili hayata geçişi hızlandırmıştır?",
-          "secenekler": [
-            "İsmet İnönü'nün liderliği",
-            "Demokrat Parti'nin kurulması",
-            "Halk Partisi'nin gücünün artması",
-            "Sosyalist hareketin güçlenmesi"
-          ],
-          "dogruCevap": "Demokrat Parti'nin kurulması"
-        },
-        {
-          "soru": "Atatürk sonrasında Türkiye'de en çok dikkat çeken ekonomik politika hangisi olmuştur?",
-          "secenekler": [
-            "Tarımda devlet müdahalesinin artması",
-            "Sanayileşmeye dayalı ekonomi politikası",
-            "Özelleştirme politikaları",
-            "Sosyal devlet anlayışının güçlendirilmesi"
-          ],
-          "dogruCevap": "Sanayileşmeye dayalı ekonomi politikası"
-        },
-        {
-          "soru": "Türkiye Cumhuriyeti'nin Atatürk sonrasındaki dış politikasında en çok hangi bölgesel sorun öne çıkmıştır?",
-          "secenekler": [
-            "Balkanlar",
-            "Ortadoğu",
-            "Kafkaslar",
-            "Kuzey Afrika"
-          ],
-          "dogruCevap": "Ortadoğu"
-        },
-
-  
-        {
-          "soru": "Atatürk sonrası dönemde, Cumhuriyet Halk Partisi'nin yerine Türkiye'de hangi parti güçlü bir muhalefet oluşturmuştur?",
-          "secenekler": [
-            "Adalet Partisi",
-            "Demokrat Parti",
-            "Milliyetçi Hareket Partisi",
-            "Serbest Cumhuriyet Fırkası"
-          ],
-          "dogruCevap": "Demokrat Parti"
-        },
-        {
-          "soru": "Türkiye Cumhuriyeti'nin Atatürk sonrasındaki dış politikasında, Sovyetler Birliği ile ilişkilerin gerilmesinde hangi faktör etkili olmuştur?",
-          "secenekler": [
-            "Türkiye'nin Batı bloğuna katılması",
-            "Kıbrıs sorunu",
-            "Suriye ile yaşanan sınır problemi",
-            "Irak ile petrol anlaşmazlıkları"
-          ],
-          "dogruCevap": "Türkiye'nin Batı bloğuna katılması"
-        },
-        {
-          "soru": "Atatürk sonrası dönemde, Türkiye'nin iç politikasında en büyük tartışmalara yol açan ekonomik krizlerden biri hangi sektörde yaşanmıştır?",
-          "secenekler": [
-            "Tarım",
-            "İnşaat",
-            "Sanayi",
-            "Bankacılık"
-          ],
-          "dogruCevap": "Tarım"
-        },
-        {
-          "soru": "Atatürk sonrası dönemde, Türkiye Cumhuriyeti'nin izlediği eğitim politikalarındaki en büyük yenilik hangisi olmuştur?",
-          "secenekler": [
-            "Ortaöğretim için devlet okullarının açılması",
-            "Köy enstitülerinin kurulması",
-            "Özel okulların yaygınlaştırılması",
-            "Üniversite sayısının artırılması"
-          ],
-          "dogruCevap": "Köy enstitülerinin kurulması"
-        },
-
- 
-        {
-          "soru": "İsmet İnönü dönemi Türkiye Cumhuriyeti'nde sosyal yapıyı en çok etkileyen gelişmelerden biri aşağıdakilerden hangisi olmuştur?",
-          "secenekler": [
-            "Kadınların iş gücüne katılımının artması",
-            "Eğitimde laikleşme ve modernleşme",
-            "Sosyal güvenlik sisteminin geliştirilmesi",
-            "Kırsal alanda nüfus artışı"
-          ],
-          "dogruCevap": "Eğitimde laikleşme ve modernleşme"
-        },
-        {
-          "soru": "Atatürk sonrası dönemde, Türk dış politikasında en çok üzerinde durulan sorunlardan biri hangi bölgedeki toprak sorunlarıdır?",
-          "secenekler": [
-            "Balkanlar",
-            "Ortadoğu",
-            "Kafkaslar",
-            "Türkistan"
-          ],
-          "dogruCevap": "Ortadoğu"
-        },
-  
-        {
-          "soru": "Atatürk sonrası dönemde, Türkiye'de ekonomik kalkınmayı hızlandırmak için aşağıdakilerden hangisi temel hedeflerden biri olmuştur?",
-          "secenekler": [
-            "Tarımda modernleşme",
-            "Sanayileşme",
-            "Dış ticaretin serbestleşmesi",
-            "Yerli üretimin teşvik edilmesi"
-          ],
-          "dogruCevap": "Sanayileşme"
-        }
-      ]
+    "Atatürk Dönemi Türk Dış Politikası": [
+  {
+    "soru": "Hatay'ın anavatana katılması sürecinde Türkiye hangi ülke ile diplomatik müzakereler yürütmüştür?",
+    "secenekler": [
+      "Fransa",
+      "İngiltere",
+      "İtalya",
+      "Yunanistan"
+    ],
+    "dogruCevap": "Fransa"
+  },
+  {
+    "soru": "1932 yılında Türkiye'nin Milletler Cemiyeti'ne üye olmasının temel sebebi nedir?",
+    "secenekler": [
+      "Uluslararası barışa katkı sağlamak",
+      "Ekonomik yardım almak",
+      "Askeri ittifak kurmak",
+      "Sömürge elde etmek"
+    ],
+    "dogruCevap": "Uluslararası barışa katkı sağlamak"
+  },
+  {
+    "soru": "1934 yılında imzalanan Balkan Antantı'nın temel amacı nedir?",
+    "secenekler": [
+      "Balkanlar'da statükoyu korumak",
+      "Ekonomik işbirliği sağlamak",
+      "Askeri üstünlük kurmak",
+      "Sınırları genişletmek"
+    ],
+    "dogruCevap": "Balkanlar'da statükoyu korumak"
+  },
+  {
+    "soru": "Montreux Boğazlar Sözleşmesi'nin imzalanmasında etkili olan uluslararası gelişme hangisidir?",
+    "secenekler": [
+      "İtalya'nın Habeşistan'ı işgali",
+      "Almanya'nın silahlanması",
+      "Japonya'nın yayılmacı politikası",
+      "Sovyetler Birliği'nin kurulması"
+    ],
+    "dogruCevap": "İtalya'nın Habeşistan'ı işgali"
+  },
+  {
+    "soru": "1937'de imzalanan Sadabad Paktı hangi ülkeler arasında imzalanmıştır?",
+    "secenekler": [
+      "Türkiye-İran-Irak-Afganistan",
+      "Türkiye-Yunanistan-Bulgaristan-Yugoslavya",
+      "Türkiye-Suriye-Lübnan-Ürdün",
+      "Türkiye-Mısır-Suudi Arabistan-Yemen"
+    ],
+    "dogruCevap": "Türkiye-İran-Irak-Afganistan"
+  },
+  {
+    "soru": "Musul sorununun çözümünde hangi uluslararası kuruluş arabuluculuk yapmıştır?",
+    "secenekler": [
+      "Milletler Cemiyeti",
+      "Birleşmiş Milletler",
+      "NATO",
+      "Avrupa Birliği"
+    ],
+    "dogruCevap": "Milletler Cemiyeti"
+  },
+  {
+    "soru": "Türkiye-Yunanistan ilişkilerinin düzelmesinde etkili olan gelişme hangisidir?",
+    "secenekler": [
+      "Venizelos'un Ankara ziyareti",
+      "Lozan Antlaşması",
+      "Balkan Antantı",
+      "Nüfus mübadelesi"
+    ],
+    "dogruCevap": "Venizelos'un Ankara ziyareti"
+  },
+  {
+    "soru": "Moskova Antlaşması'nın en önemli sonucu nedir?",
+    "secenekler": [
+      "Doğu sınırının güvence altına alınması",
+      "Ekonomik işbirliğinin başlaması",
+      "Kültürel ilişkilerin gelişmesi",
+      "Askeri ittifakın kurulması"
+    ],
+    "dogruCevap": "Doğu sınırının güvence altına alınması"
+  },
+  {
+    "soru": "Nyon Konferansı hangi sorunun çözümü için toplanmıştır?",
+    "secenekler": [
+      "Akdeniz'de korsanlık faaliyetleri",
+      "Boğazlar sorunu",
+      "Musul meselesi",
+      "Hatay sorunu"
+    ],
+    "dogruCevap": "Akdeniz'de korsanlık faaliyetleri"
+  },
+  {
+    "soru": "Briand-Kellogg Paktı'na Türkiye'nin katılmasının sebebi nedir?",
+    "secenekler": [
+      "Savaşı uluslararası ilişkilerde yasaklama çabasına destek vermek",
+      "Ekonomik yardım almak",
+      "Askeri ittifak kurmak",
+      "Sınırları genişletmek"
+    ],
+    "dogruCevap": "Savaşı uluslararası ilişkilerde yasaklama çabasına destek vermek"
+  },
+  {
+    "soru": "Türkiye'nin Milletler Cemiyeti'ne üye olmasından sonra ilk kez aktif rol aldığı uluslararası sorun hangisidir?",
+    "secenekler": [
+      "İtalya-Habeşistan Savaşı",
+      "Musul Sorunu",
+      "Hatay Meselesi",
+      "Boğazlar Sorunu"
+    ],
+    "dogruCevap": "İtalya-Habeşistan Savaşı"
+  },
+  {
+    "soru": "Hatay sorununun çözümünde hangi uluslararası gelişme etkili olmuştur?",
+    "secenekler": [
+      "II. Dünya Savaşı'nın yaklaşması",
+      "Milletler Cemiyeti'nin kararı",
+      "İngiltere'nin arabuluculuğu",
+      "Sovyetler Birliği'nin desteği"
+    ],
+    "dogruCevap": "II. Dünya Savaşı'nın yaklaşması"
+  },
+  {
+    "soru": "Atatürk döneminde Türkiye-İran ilişkilerinin gelişmesinde hangi antlaşma önemli rol oynamıştır?",
+    "secenekler": [
+      "1932 Türk-İran Dostluk Antlaşması",
+      "Sadabad Paktı",
+      "Balkan Antantı",
+      "Montreux Sözleşmesi"
+    ],
+    "dogruCevap": "1932 Türk-İran Dostluk Antlaşması"
+  },
+  {
+    "soru": "1930'larda Türkiye'nin Balkan politikasının temel hedefi nedir?",
+    "secenekler": [
+      "Balkanlarda barış ve istikrarı korumak",
+      "Ekonomik üstünlük sağlamak",
+      "Askeri ittifaklar kurmak",
+      "Sınırları genişletmek"
+    ],
+    "dogruCevap": "Balkanlarda barış ve istikrarı korumak"
+  },
+  {
+    "soru": "1932'de Türkiye'nin Milletler Cemiyeti'ne üye olmasının ardından ilk kez karşılaştığı uluslararası kriz hangisidir?",
+    "secenekler": [
+      "İtalya-Habeşistan Savaşı",
+      "Almanya'nın Avusturya'yı ilhakı",
+      "İspanya İç Savaşı",
+      "Japonya'nın Mançurya'yı işgali"
+    ],
+    "dogruCevap": "İtalya-Habeşistan Savaşı"
+  },
+  {
+    "soru": "Türkiye'nin 1930'larda İtalya'ya karşı izlediği politikanın temel nedeni nedir?",
+    "secenekler": [
+      "İtalya'nın Akdeniz'de yayılmacı politika izlemesi",
+      "İtalya'nın ekonomik yaptırımları",
+      "İtalya'nın Balkan politikası",
+      "İtalya'nın Sovyetler ile yakınlaşması"
+    ],
+    "dogruCevap": "İtalya'nın Akdeniz'de yayılmacı politika izlemesi"
+  },
+  {
+    "soru": "1934 Balkan Antantı'nın imzalanmasında aşağıdakilerden hangisi etkili olmuştur?",
+    "secenekler": [
+      "Revizyonist devletlerin tehdidi",
+      "Ekonomik işbirliği ihtiyacı",
+      "Sovyetler Birliği'nin baskısı",
+      "Amerika'nın teşviki"
+    ],
+    "dogruCevap": "Revizyonist devletlerin tehdidi"
+  },
+  {
+    "soru": "1936'da imzalanan Montreux Boğazlar Sözleşmesi'nin Türkiye açısından en önemli kazanımı nedir?",
+    "secenekler": [
+      "Boğazlarda tam egemenlik hakkının elde edilmesi",
+      "Ticaret gemilerinin geçiş serbestliği",
+      "Savaş gemilerinin geçiş yasağı",
+      "Uluslararası komisyonun kurulması"
+    ],
+    "dogruCevap": "Boğazlarda tam egemenlik hakkının elde edilmesi"
+  },
+  {
+    "soru": "Atatürk döneminde Türkiye-İngiltere ilişkilerinin gelişmesinde hangi olay etkili olmuştur?",
+    "secenekler": [
+      "İtalya'nın Akdeniz'deki yayılmacı politikası",
+      "Almanya'nın silahlanması",
+      "Sovyetler Birliği'nin güçlenmesi",
+      "Fransa'nın Suriye politikası"
+    ],
+    "dogruCevap": "İtalya'nın Akdeniz'deki yayılmacı politikası"
+  },
+  {
+    "soru": "1921'de imzalanan Kars Antlaşması hangi ülkelerle yapılmıştır?",
+    "secenekler": [
+      "Ermenistan, Gürcistan ve Azerbaycan",
+      "İran, Irak ve Suriye",
+      "Yunanistan, Bulgaristan ve Romanya",
+      "Rusya, İngiltere ve Fransa"
+    ],
+    "dogruCevap": "Ermenistan, Gürcistan ve Azerbaycan"
+  },
+  {
+    "soru": "Atatürk döneminde Balkan Antantı'na hangi ülke katılmamıştır?",
+    "secenekler": [
+      "Bulgaristan",
+      "Yunanistan",
+      "Yugoslavya",
+      "Romanya"
+    ],
+    "dogruCevap": "Bulgaristan"
+  }
+],
+   "Atatürk Sonrası Dönem": [
+  {
+    "soru": "İsmet İnönü döneminde Türkiye'nin II. Dünya Savaşı'ndaki temel politikası ne olmuştur?",
+    "secenekler": [
+      "Savaşa aktif katılım",
+      "Tarafsızlık politikası",
+      "Sovyetler ile ittifak",
+      "Almanya ile işbirliği"
+    ],
+    "dogruCevap": "Tarafsızlık politikası"
+  },
+  {
+    "soru": "1946-1950 yılları arasında Türkiye'de yaşanan en önemli siyasi gelişme hangisidir?",
+    "secenekler": [
+      "Çok partili hayata geçiş",
+      "NATO'ya üyelik",
+      "Köy Enstitülerinin kapatılması",
+      "Marshall Yardımının başlaması"
+    ],
+    "dogruCevap": "Çok partili hayata geçiş"
+  },
+  {
+    "soru": "İsmet İnönü döneminde uygulanan hangi ekonomik politika halk tarafından tepkiyle karşılanmıştır?",
+    "secenekler": [
+      "Milli Korunma Kanunu",
+      "Varlık Vergisi",
+      "Toprak Reformu",
+      "Devletçilik politikası"
+    ],
+    "dogruCevap": "Varlık Vergisi"
+  },
+  {
+    "soru": "1950'li yıllarda Demokrat Parti döneminde uygulanan dış politikanın temel özelliği nedir?",
+    "secenekler": [
+      "Amerika ile yakın ilişkiler",
+      "Sovyetler ile işbirliği",
+      "Tarafsızlık politikası",
+      "Bağlantısızlar hareketi"
+    ],
+    "dogruCevap": "Amerika ile yakın ilişkiler"
+  },
+  {
+    "soru": "Demokrat Parti döneminde ekonomide yaşanan en önemli değişim hangisidir?",
+    "secenekler": [
+      "Liberal ekonomi politikalarının benimsenmesi",
+      "Devletçi politikaların güçlendirilmesi",
+      "Dış ticarette kısıtlamaların artırılması",
+      "Tarım sektörünün gerilemesi"
+    ],
+    "dogruCevap": "Liberal ekonomi politikalarının benimsenmesi"
+  },
+  {
+    "soru": "1950-1960 döneminde Türkiye'de eğitim alanında yapılan en önemli değişiklik hangisidir?",
+    "secenekler": [
+      "İmam Hatip okullarının açılması",
+      "Köy Enstitülerinin kapatılması",
+      "Zorunlu eğitimin 8 yıla çıkarılması",
+      "Karma eğitime geçilmesi"
+    ],
+    "dogruCevap": "Köy Enstitülerinin kapatılması"
+  },
+  {
+    "soru": "1945-1950 yılları arasında Türkiye'nin dış politikasını etkileyen en önemli gelişme hangisidir?",
+    "secenekler": [
+      "Truman Doktrini ve Marshall Yardımı",
+      "Balkan Paktı'nın kurulması",
+      "Bağdat Paktı'na üyelik",
+      "Kıbrıs sorununun ortaya çıkması"
+    ],
+    "dogruCevap": "Truman Doktrini ve Marshall Yardımı"
+  },
+  {
+    "soru": "İsmet İnönü döneminde Türkiye'de üniversite reformu kapsamında hangi önemli gelişme yaşanmıştır?",
+    "secenekler": [
+      "İstanbul Üniversitesi'nden kaçan Alman bilim insanlarının Türkiye'ye kabulü",
+      "Yeni üniversitelerin açılması",
+      "YÖK'ün kurulması",
+      "Üniversitelerin özerklik kazanması"
+    ],
+    "dogruCevap": "İstanbul Üniversitesi'nden kaçan Alman bilim insanlarının Türkiye'ye kabulü"
+  },
+  {
+    "soru": "1950'li yıllarda Türkiye'de yaşanan kentleşmenin temel nedeni nedir?",
+    "secenekler": [
+      "Tarımda makineleşme ve köyden kente göç",
+      "Sanayi yatırımlarının artması",
+      "Eğitim olanaklarının artması",
+      "Doğal afetler"
+    ],
+    "dogruCevap": "Tarımda makineleşme ve köyden kente göç"
+  },
+  {
+    "soru": "1945-1960 döneminde Türkiye'nin NATO'ya üye olmasının temel nedeni nedir?",
+    "secenekler": [
+      "Sovyet tehdidine karşı güvenlik arayışı",
+      "Ekonomik yardım alma isteği",
+      "Batılılaşma politikası",
+      "ABD'nin baskısı"
+    ],
+    "dogruCevap": "Sovyet tehdidine karşı güvenlik arayışı"
+  },
+  {
+    "soru": "Demokrat Parti döneminde din politikalarında yapılan en önemli değişiklik hangisidir?",
+    "secenekler": [
+      "Ezanın Arapça okunmasına izin verilmesi",
+      "Diyanet İşleri Başkanlığı'nın kurulması",
+      "Din derslerinin zorunlu hale getirilmesi",
+      "Tekke ve zaviyelerin açılması"
+    ],
+    "dogruCevap": "Ezanın Arapça okunmasına izin verilmesi"
+  },
+  {
+    "soru": "Demokrat Parti döneminde uygulanan tarım politikalarının sonucu olarak ortaya çıkan en önemli gelişme nedir?",
+    "secenekler": [
+      "Tarımda makineleşmenin artması",
+      "Küçük çiftçinin desteklenmesi",
+      "Kooperatifleşmenin yaygınlaşması",
+      "Organik tarımın başlaması"
+    ],
+    "dogruCevap": "Tarımda makineleşmenin artması"
+  },
+  {
+    "soru": "1945-1960 döneminde Türkiye'de işçi haklarının gelişimi açısından en önemli gelişme hangisidir?",
+    "secenekler": [
+      "Sendika kurma hakkının tanınması",
+      "Asgari ücret uygulamasının başlaması",
+      "İş Kanunu'nun çıkarılması",
+      "Sosyal güvenlik sisteminin kurulması"
+    ],
+    "dogruCevap": "Sendika kurma hakkının tanınması"
+  },
+  {
+    "soru": "İsmet İnönü döneminde eğitim alanında yapılan en önemli yenilik hangisidir?",
+    "secenekler": [
+      "Köy Enstitülerinin yaygınlaştırılması",
+      "Karma eğitime geçilmesi",
+      "Yabancı dil eğitiminin zorunlu hale getirilmesi",
+      "Teknik eğitimin geliştirilmesi"
+    ],
+    "dogruCevap": "Köy Enstitülerinin yaygınlaştırılması"
+  },
+  {
+    "soru": "1950'li yıllarda Türkiye'nin NATO'ya üye olmasının ekonomik açıdan en önemli sonucu nedir?",
+    "secenekler": [
+      "Amerikan ekonomik yardımlarının artması",
+      "Dış ticaret hacminin genişlemesi",
+      "Savunma harcamalarının artması",
+      "Yabancı sermaye yatırımlarının artması"
+    ],
+    "dogruCevap": "Amerikan ekonomik yardımlarının artması"
+  },
+  {
+    "soru": "Demokrat Parti döneminde uygulanan hangi politika, laiklik ilkesinden taviz verildiği eleştirilerine neden olmuştur?",
+    "secenekler": [
+      "Din derslerinin okullarda seçmeli hale getirilmesi",
+      "İmam Hatip okullarının sayısının artırılması",
+      "Diyanet İşleri Başkanlığı'nın yetkilerinin genişletilmesi",
+      "Tekke ve zaviyelerin yeniden açılması"
+    ],
+    "dogruCevap": "İmam Hatip okullarının sayısının artırılması"
+  },
+  {
+    "soru": "1950'li yıllarda Türkiye'nin dış politikasında Ortadoğu ülkeleriyle ilişkilerini etkileyen en önemli gelişme hangisidir?",
+    "secenekler": [
+      "Bağdat Paktı'nın kurulması",
+      "Süveyş Krizi",
+      "Filistin sorunu",
+      "Petrol krizi"
+    ],
+    "dogruCevap": "Bağdat Paktı'nın kurulması"
+  },
+  {
+    "soru": "İsmet İnönü döneminde uygulanan Milli Korunma Kanunu'nun temel amacı nedir?",
+    "secenekler": [
+      "Savaş ekonomisini düzenlemek",
+      "Dış ticareti kontrol etmek",
+      "Yerli üretimi artırmak",
+      "Enflasyonu düşürmek"
+    ],
+    "dogruCevap": "Savaş ekonomisini düzenlemek"
+  },
+  {
+    "soru": "1950-1960 döneminde Türkiye'de yaşanan sosyal değişimin en belirgin göstergesi hangisidir?",
+    "secenekler": [
+      "Köyden kente göçün hızlanması",
+      "Nüfus artış hızının düşmesi",
+      "Eğitim seviyesinin yükselmesi",
+      "Kadın haklarının gelişmesi"
+    ],
+    "dogruCevap": "Köyden kente göçün hızlanması"
+  },
+  {
+    "soru": "1950'li yıllarda Demokrat Parti'nin uyguladığı ekonomi politikasının sonucu olarak ortaya çıkan en önemli sorun nedir?",
+    "secenekler": [
+      "Dış borçların artması",
+      "İşsizliğin artması",
+      "Tarımsal üretimin düşmesi",
+      "Sanayileşmenin yavaşlaması"
+    ],
+    "dogruCevap": "Dış borçların artması"
+  },
+  {
+    "soru": "İsmet İnönü döneminde çıkarılan Çiftçiyi Topraklandırma Kanunu'nun amacı nedir?",
+    "secenekler": [
+      "Topraksız köylüye toprak dağıtmak",
+      "Tarımda makineleşmeyi artırmak",
+      "Köyden kente göçü engellemek",
+      "Tarımsal üretimi artırmak"
+    ],
+    "dogruCevap": "Topraksız köylüye toprak dağıtmak"
+  },
+  {
+    "soru": "1950-1960 yılları arasında Türkiye'de basın özgürlüğü konusunda yaşanan en önemli gelişme nedir?",
+    "secenekler": [
+      "Basın üzerindeki baskıların artması",
+      "Yeni gazete ve dergilerin açılması",
+      "Basın Kanunu'nun değiştirilmesi",
+      "Gazetecilerin sendikalaşması"
+    ],
+    "dogruCevap": "Basın üzerindeki baskıların artması"
+  },
+  {
+    "soru": "1945-1950 yılları arasında Türkiye'de çok partili hayata geçişi hızlandıran dış etken hangisidir?",
+    "secenekler": [
+      "II. Dünya Savaşı'nın sona ermesi",
+      "NATO'ya üyelik başvurusu",
+      "Sovyetler Birliği'nin baskısı",
+      "Marshall Planı'nın uygulanması"
+    ],
+    "dogruCevap": "II. Dünya Savaşı'nın sona ermesi"
+  }
+]
       
     },
     "Coğrafya": {
