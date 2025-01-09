@@ -6045,1291 +6045,1377 @@
       ]
     },
     "Türkçe": {
-      "Sözcükte Anlam": [
-        {
-          "soru": "'Düşmanın çokluğu canımızı sıkıyor.' cümlesindeki 'çokluğu' kelimesi hangi anlamda kullanılmıştır?",
-          "secenekler": [
-            "Gerçek anlam",
-            "Mecaz anlam",
-            "Eğretileme",
-            "Benzetme"
-          ],
-          "dogruCevap": "Mecaz anlam"
-        },
-        {
-          "soru": "'Savaş alanında herkesin tek amacı zaferdi' cümlesinde 'savaş alanı' hangi anlamda kullanılmıştır?",
-          "secenekler": [
-            "Gerçek anlam",
-            "Mecaz anlam",
-            "Terimsel anlam",
-            "Soyut anlam"
-          ],
-          "dogruCevap": "Mecaz anlam"
-        },
-        {
-          "soru": "‘İçimde bir kuş uçuyor’ cümlesinde hangi anlam kullanılmıştır?",
-          "secenekler": [
-            "Kişileştirme",
-            "Mecaz anlam",
-            "Abartma",
-            "Terimsel anlam"
-          ],
-          "dogruCevap": "Kişileştirme"
-        },
-        {
-          "soru": "'Göz var nizam var' atasözünde hangi anlam kullanılmıştır?",
-          "secenekler": [
-            "Gerçek anlam",
-            "Mecaz anlam",
-            "Kinaye",
-            "Benzetme"
-          ],
-          "dogruCevap": "Mecaz anlam"
-        },
-        {
-          "soru": "'Elini korkak alıştırma, cesur ol.' cümlesindeki anlam hangisidir?",
-          "secenekler": [
-            "Gerçek anlam",
-            "Mecaz anlam",
-            "Benzetme",
-            "Kinaye"
-          ],
-          "dogruCevap": "Mecaz anlam"
-        },
-        {
-          "soru": "Aşağıdaki deyimlerden hangisi mecaz anlam taşır?",
-          "secenekler": [
-            "İçini dökmek",
-            "Süperman gibi",
-            "Göz var nizam var",
-            "Aslanlar gibi"
-          ],
-          "dogruCevap": "İçini dökmek"
-        },
-        {
-          "soru": "'Fırtınada gemiyi batıracak rüzgar esti' cümlesindeki 'rüzgar' sözcüğü hangi anlamda kullanılmıştır?",
-          "secenekler": [
-            "Gerçek anlam",
-            "Mecaz anlam",
-            "Kinaye",
-            "Kişileştirme"
-          ],
-          "dogruCevap": "Mecaz anlam"
-        },
-        {
-          "soru": "'Bir kuş gibi özgür olmak istiyorum' cümlesinde hangi anlam özelliği kullanılmıştır?",
-          "secenekler": [
-            "Benzetme",
-            "Kişileştirme",
-            "Abartma",
-            "Mecazımürsel"
-          ],
-          "dogruCevap": "Benzetme"
-        },
-        {
-          "soru": "'Kırmızı elma, yüzümdeki tüm kırmızılığı giderdi.' cümlesinde hangi anlam kullanılmıştır?",
-          "secenekler": [
-            "Mecaz anlam",
-            "Gerçek anlam",
-            "Kinaye",
-            "Eğretileme"
-          ],
-          "dogruCevap": "Mecaz anlam"
-        },
-        {
-          "soru": "'Bu kadar acıyı omuzlarımda taşımaya devam edemem' cümlesindeki hangi anlam kullanılmıştır?",
-          "secenekler": [
-            "Abartma",
-            "Mecaz anlam",
-            "Eğretileme",
-            "Gerçek anlam"
-          ],
-          "dogruCevap": "Mecaz anlam"
-        },
-        {
-          "soru": "'Yüzümdeki gülümseme her şeye bedeldi.' cümlesindeki 'gülümseme' hangi anlamda kullanılmıştır?",
-          "secenekler": [
-            "Kinaye",
-            "Mecaz anlam",
-            "Gerçek anlam",
-            "Benzetme"
-          ],
-          "dogruCevap": "Mecaz anlam"
-        },
-        {
-          "soru": "'Beni deliye döndürdün!' cümlesindeki hangi anlam özelliği kullanılmıştır?",
-          "secenekler": [
-            "Abartma",
-            "Mecazımürsel",
-            "Eğretileme",
-            "Kinaye"
-          ],
-          "dogruCevap": "Abartma"
-        },
-        {
-          "soru": "'Kırmızı ışıkta durmak önemli bir kuraldır' cümlesindeki 'kural' kelimesi hangi anlamda kullanılmıştır?",
-          "secenekler": [
-            "Terimsel anlam",
-            "Gerçek anlam",
-            "Mecaz anlam",
-            "Benzetme"
-          ],
-          "dogruCevap": "Terimsel anlam"
-        },
-        {
-          "soru": "'Düşlerim ve umutlarım hayal dünyasında uçuşuyor' cümlesindeki hangi anlam kullanılmıştır?",
-          "secenekler": [
-            "Benzetme",
-            "Mecaz anlam",
-            "Kinaye",
-            "Eğretileme"
-          ],
-          "dogruCevap": "Mecaz anlam"
-        },
-        {
-          "soru": "'Ona yine kışın sonu bahar getirecek.' cümlesindeki hangi anlam kullanılmıştır?",
-          "secenekler": [
-            "Mecaz anlam",
-            "Eğretileme",
-            "Gerçek anlam",
-            "Kinaye"
-          ],
-          "dogruCevap": "Mecaz anlam"
-        },
-        {
-          "soru": "'Sözlerim bir ok gibi hedefe doğru gidiyor' cümlesindeki hangi anlam kullanılmıştır?",
-          "secenekler": [
-            "Eğretileme",
-            "Benzetme",
-            "Kişileştirme",
-            "Gerçek anlam"
-          ],
-          "dogruCevap": "Benzetme"
-        },
-        {
-          "soru": "'Göğüslerim deli gibi atıyor' cümlesindeki hangi anlam kullanılmıştır?",
-          "secenekler": [
-            "Mecazımürsel",
-            "Kişileştirme",
-            "Abartma",
-            "Gerçek anlam"
-          ],
-          "dogruCevap": "Abartma"
-        },
-        {
-          "soru": "'Küçük bir örnek verir misin?' cümlesinde 'örnek' kelimesi hangi anlamda kullanılmıştır?",
-          "secenekler": [
-            "Gerçek anlam",
-            "Eğretileme",
-            "Terimsel anlam",
-            "Mecaz anlam"
-          ],
-          "dogruCevap": "Gerçek anlam"
-        },
-        {
-          "soru": "'Ağacın köklerine dokunmaya başladım.' cümlesindeki hangi anlam kullanılmıştır?",
-          "secenekler": [
-            "Mecazımürsel",
-            "Kişileştirme",
-            "Kinaye",
-            "Gerçek anlam"
-          ],
-          "dogruCevap": "Gerçek anlam"
-        },
-        {
-          "soru": "'Bu kadar güçlü bir hikaye yazmam gerek' cümlesindeki hangi anlam kullanılmıştır?",
-          "secenekler": [
-            "Abartma",
-            "Mecaz anlam",
-            "Kişileştirme",
-            "Eğretileme"
-          ],
-          "dogruCevap": "Abartma"
-        },
-        {
-          "soru": "'Sonsuz bir deniz gibisin.' cümlesindeki anlam özelliği nedir?",
-          "secenekler": [
-            "Benzetme",
-            "Mecazımürsel",
-            "Kişileştirme",
-            "Abartma"
-          ],
-          "dogruCevap": "Benzetme"
-        },
-        {
-          "soru": "'Ona bir iyilik yaptı ve bu iyilik bir ok gibi kalbinde saplandı.' cümlesindeki anlam türü nedir?",
-          "secenekler": [
-            "Eğretileme",
-            "Mecaz anlam",
-            "Abartma",
-            "Benzetme"
-          ],
-          "dogruCevap": "Eğretileme"
-        }
-      ],
-      "Cümlede Anlam": [
-        {
-          "soru": "'Evet, ben de size yardımcı olabilirim.' cümlesindeki vurgu hangi kelimede yapılmıştır?",
-          "secenekler": [
-            "Evet",
-            "ben",
-            "yardımcı",
-            "olabilirim"
-          ],
-          "dogruCevap": "ben"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisi 'olumsuz' anlam taşır?",
-          "secenekler": [
-            "Bugün çok mutlu hissediyorum.",
-            "Kütüphaneye gitmeyecek miyiz?",
-            "Ödevimi hemen bitireceğim.",
-            "Geceyi evde geçireceğim."
-          ],
-          "dogruCevap": "Kütüphaneye gitmeyecek miyiz?"
-        },
-        {
-          "soru": "'Kendisini yeterince iyi ifade edemediğini düşündü.' cümlesinde hangi düşünce yer almaktadır?",
-          "secenekler": [
-            "Şaşırma",
-            "Pişmanlık",
-            "Tahmin",
-            "Saptama"
-          ],
-          "dogruCevap": "Pişmanlık"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde 'neden-sonuç' ilişkisi vardır?",
-          "secenekler": [
-            "Hava soğuk olduğu için dışarı çıkmak istemiyorum.",
-            "Kendimi çok iyi hissetmiyorum, belki biraz dinlenmeliyim.",
-            "Çalışmaya başlamadığım için geç kaldım.",
-            "Dışarıda yağmur yağarken, bir kahve içmeye gitmek istiyorum."
-          ],
-          "dogruCevap": "Hava soğuk olduğu için dışarı çıkmak istemiyorum."
-        },
-        {
-          "soru": "'Bütün gün okula gitmek için hazırlık yapıyorum.' cümlesi hangi tür cümledir?",
-          "secenekler": [
-            "Emir cümlesi",
-            "Soru cümlesi",
-            "Olumlu cümle",
-            "Olumsuz cümle"
-          ],
-          "dogruCevap": "Olumlu cümle"
-        },
-        {
-          "soru": "'Oysa tam tersi olması gerekirdi.' cümlesinde hangi anlam ilişkisi vardır?",
-          "secenekler": [
-            "Anlatım",
-            "Koşul",
-            "Karşılaştırma",
-            "Saptama"
-          ],
-          "dogruCevap": "Karşılaştırma"
-        },
-        {
-          "soru": "'Çalışmaların sonucunda bir başarı elde edebileceksiniz.' cümlesinde hangi tür anlam ilişkisi vardır?",
-          "secenekler": [
-            "Koşul",
-            "Amaç-sonuç",
-            "Neden-sonuç",
-            "Saptama"
-          ],
-          "dogruCevap": "Koşul"
-        },
-        {
-          "soru": "'Gün boyu hiç dışarı çıkmak istemedim.' cümlesindeki hangi duygu yer almaktadır?",
-          "secenekler": [
-            "Sitem",
-            "Tahmin",
-            "Değerlendirme",
-            "Yakınma"
-          ],
-          "dogruCevap": "Yakınma"
-        },
-        {
-          "soru": "'Bunu yapmak için daha fazla vaktimiz yok.' cümlesindeki anlam ilişkisi nedir?",
-          "secenekler": [
-            "Neden-sonuç",
-            "Koşul",
-            "Amaç-sonuç",
-            "Değerlendirme"
-          ],
-          "dogruCevap": "Koşul"
-        },
-        {
-          "soru": "'Sana güveniyorum çünkü hep doğruyu söylüyorsun.' cümlesindeki anlam ilişkisi nedir?",
-          "secenekler": [
-            "Neden-sonuç",
-            "Koşul",
-            "Sitem",
-            "Amaç-sonuç"
-          ],
-          "dogruCevap": "Neden-sonuç"
-        },
-        {
-          "soru": "'Bunun sonuçlarını hep birlikte göreceğiz.' cümlesindeki vurgu hangi kelimede yapılmıştır?",
-          "secenekler": [
-            "Bunun",
-            "sonuçlarını",
-            "hep",
-            "birlikte"
-          ],
-          "dogruCevap": "sonuçlarını"
-        },
-        {
-          "soru": "'Fazla zaman kaybetmeyeceğiz, her şey hızlıca yapılacak.' cümlesinde hangi anlam ilişkisi vardır?",
-          "secenekler": [
-            "Koşul",
-            "Neden-sonuç",
-            "Amaç-sonuç",
-            "Saptama"
-          ],
-          "dogruCevap": "Amaç-sonuç"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi tür anlam ilişkisi vardır? 'Eğer düzenli çalışırsan başarılı olursun.'",
-          "secenekler": [
-            "Koşul",
-            "Saptama",
-            "Neden-sonuç",
-            "Amaç-sonuç"
-          ],
-          "dogruCevap": "Koşul"
-        },
-        {
-          "soru": "'Kimse buna cesaret edemez.' cümlesi hangi anlamda kullanılmıştır?",
-          "secenekler": [
-            "Soru",
-            "Olumsuz",
-            "Emir",
-            "Ünlem"
-          ],
-          "dogruCevap": "Olumsuz"
-        },
-        {
-          "soru": "'Beni asla unutma!' cümlesi hangi tür cümledir?",
-          "secenekler": [
-            "Emir cümlesi",
-            "Soru cümlesi",
-            "Olumsuz cümle",
-            "Ünlem cümlesi"
-          ],
-          "dogruCevap": "Emir cümlesi"
-        },
-        {
-          "soru": "'Bunu yapabileceğimi düşünüyorum.' cümlesinde hangi duygu bulunur?",
-          "secenekler": [
-            "Varsayım",
-            "Tahmin",
-            "Kuşku",
-            "Sitem"
-          ],
-          "dogruCevap": "Tahmin"
-        },
-        {
-          "soru": "'O kadar hızlı mı olmalıyım?' cümlesinde hangi tür cümle vardır?",
-          "secenekler": [
-            "Soru cümlesi",
-            "Emir cümlesi",
-            "Olumsuz cümle",
-            "Ünlem cümlesi"
-          ],
-          "dogruCevap": "Soru cümlesi"
-        },
-        {
-          "soru": "'Bir gün bu yolu geçeceğiz.' cümlesinde hangi tür anlam ilişkisi vardır?",
-          "secenekler": [
-            "Koşul",
-            "Değerlendirme",
-            "Varsayım",
-            "Neden-sonuç"
-          ],
-          "dogruCevap": "Varsayım"
-        },
-        {
-          "soru": "'Olağanüstü bir durum yoktu.' cümlesindeki vurgu hangi kelimede yapılmıştır?",
-          "secenekler": [
-            "Olağanüstü",
-            "bir",
-            "durum",
-            "yoktu"
-          ],
-          "dogruCevap": "Olağanüstü"
-        },
-        {
-          "soru": "'Bu da ne demek şimdi?' cümlesinde hangi anlam kullanılmıştır?",
-          "secenekler": [
-            "Şaşırma",
-            "Kuşku",
-            "Öneri",
-            "Yakınma"
-          ],
-          "dogruCevap": "Şaşırma"
-        },
-        {
-          "soru": "'Daha önce bu kadar çok düşündüğümü hatırlamıyorum.' cümlesinde hangi duygu bulunmaktadır?",
-          "secenekler": [
-            "Pişmanlık",
-            "Tahmin",
-            "Yakınma",
-            "Değerlendirme"
-          ],
-          "dogruCevap": "Pişmanlık"
-        },
-        {
-          "soru": "'Bunun için ne kadar çok vakit harcandı.' cümlesinde hangi anlam türü vardır?",
-          "secenekler": [
-            "Mübalağa",
-            "Güzel adlandırma",
-            "Abartma",
-            "Saptama"
-          ],
-          "dogruCevap": "Abartma"
-        },
-        {
-          "soru": "'Eğer bu işe başlarsak, bir şeyler değişebilir.' cümlesi hangi anlamda kullanılmıştır?",
-          "secenekler": [
-            "Koşul",
-            "Amaç-sonuç",
-            "Değerlendirme",
-            "Neden-sonuç"
-          ],
-          "dogruCevap": "Koşul"
-        },
-        {
-          "soru": "'Ne yapacağımı bilemiyorum.' cümlesinde hangi duygu yer almaktadır?",
-          "secenekler": [
-            "Kuşku",
-            "Sitem",
-            "Varsayım",
-            "Yakınma"
-          ],
-          "dogruCevap": "Kuşku"
-        },
-        {
-          "soru": "'Bu işleri yapmak çok yorucu oldu.' cümlesinde hangi anlam kullanılmıştır?",
-          "secenekler": [
-            "Abartma",
-            "Tahmin",
-            "Mübalağa",
-            "Saptama"
-          ],
-          "dogruCevap": "Mübalağa"
-        },
-        {
-          "soru": "'Açık havada oturmak çok daha güzel.' cümlesi hangi tür cümledir?",
-          "secenekler": [
-            "Nesnel cümle",
-            "Öznel cümle",
-            "Soru cümlesi",
-            "Emir cümlesi"
-          ],
-          "dogruCevap": "Öznel cümle"
-        }
-      ],
-    "Paragrafta Anlam": [
+    "Sözcükte Anlam": [
   {
-    "soru": "Bir paragrafın ana düşüncesi nasıl bulunur?",
+    "soru": "Aşağıdaki cümlelerin hangisinde 'mecaz' anlamda kullanılmış bir sözcük vardır?",
     "secenekler": [
-      "Sadece paragrafın başındaki cümleyi inceleyerek",
-      "Paragrafın tamamını okuyup ana fikri destekleyen cümleleri belirleyerek",
-      "Paragrafın sadece son cümlesine bakarak",
-      "Paragraftaki en uzun cümleyi bularak"
+      "Ağaçlar çiçek açtı.",
+      "Soğuk su içti.",
+      "Sıcak bir kalbi var.",
+      "Kuşlar gökyüzünde uçuyor."
     ],
-    "dogruCevap": "Paragrafın tamamını okuyup ana fikri destekleyen cümleleri belirleyerek"
+    "dogruCevap": "Sıcak bir kalbi var.",
+    "aciklama": "'Sıcak kalp' deyimi mecaz anlamda kullanılmıştır."
   },
   {
-    "soru": "Aşağıdaki paragrafta hangi anlatım biçimi kullanılmıştır? 'Bilim insanları, küresel ısınmanın etkilerini azaltmak için yeni yöntemler geliştiriyor. Bu yöntemlerden biri, atmosferdeki karbondioksiti emerek depolayan yapay ağaçlar.'",
+    "soru": "Aşağıdaki altı çizili sözcüklerden hangisi 'terim' anlamda kullanılmıştır?",
     "secenekler": [
-      "Öyküleyici anlatım",
-      "Betimleyici anlatım",
-      "Açıklayıcı anlatım",
-      "Tartışmacı anlatım"
+      "Güzel bir resim çizdi.",
+      "Üçgenin açılarını hesapladı.",
+      "Yeni bir kitap aldım.",
+      "Bahçede oynuyor."
     ],
-    "dogruCevap": "Açıklayıcı anlatım"
+    "dogruCevap": "Üçgenin açılarını hesapladı.",
+    "aciklama": "'Açı' geometri terimidir."
   },
   {
-    "soru": "Aşağıdaki cümlelerden hangisi bir paragrafın giriş cümlesi olmaya en uygundur?",
+    "soru": "Aşağıdaki cümlelerin hangisinde 'somut' anlamda kullanılan bir sözcük 'soyut' anlama geçmiştir?",
     "secenekler": [
-      "Sonuç olarak, teknoloji hayatımızı kolaylaştırmaktadır.",
-      "Örneğin, akıllı telefonlar sayesinde her şey elimizin altında.",
-      "Teknoloji, modern çağın vazgeçilmez bir parçası haline gelmiştir.",
-      "Bu nedenle teknolojiyi doğru kullanmalıyız."
+      "Ağır bir yük taşıyor.",
+      "Ağır bir sorumluluk aldı.",
+      "Masada kitap var.",
+      "Bahçede çiçekler açmış."
     ],
-    "dogruCevap": "Teknoloji, modern çağın vazgeçilmez bir parçası haline gelmiştir."
+    "dogruCevap": "Ağır bir sorumluluk aldı.",
+    "aciklama": "'Ağır' sözcüğü somut anlamdan soyut anlama geçmiştir."
   },
   {
-    "soru": "Bir paragrafta düşünceyi geliştirme yollarından hangisi kullanıldığında sayısal verilerden yararlanılır?",
+    "soru": "Aşağıdaki cümlelerin hangisinde 'eş sesli' (sesteş) bir sözcük kullanılmıştır?",
     "secenekler": [
-      "Tanımlama",
-      "Örneklendirme",
-      "Tanık gösterme",
-      "Sayısal verilerden yararlanma"
+      "Yüzünü yıkadı.",
+      "Yüz lira verdi.",
+      "Güzel bir ev.",
+      "Hızlı koştu."
     ],
-    "dogruCevap": "Sayısal verilerden yararlanma"
+    "dogruCevap": "Yüz lira verdi.",
+    "aciklama": "'Yüz' sözcüğü hem sayı hem de organ anlamında kullanılabilir."
   },
   {
-    "soru": "Aşağıdaki paragraflardan hangisinde 'karşılaştırma' yapılmıştır?",
+    "soru": "Aşağıdaki cümlelerin hangisinde 'yan anlam' vardır?",
     "secenekler": [
-      "Kediler bağımsız hayvanlardır. Kendi başlarına hareket etmeyi severler.",
-      "Kediler ve köpekler farklı karakterlere sahiptir. Kediler bağımsızken köpekler daha sadıktır.",
-      "Kediler çok temiz hayvanlardır. Sürekli kendilerini temizlerler.",
-      "Kediler iyi birer avcıdır. Fare ve küçük hayvanları kolayca yakalayabilirler."
+      "Gözleri parlıyordu.",
+      "İğnenin ucu sivri.",
+      "Masanın ayağı kırık.",
+      "Su içti."
     ],
-    "dogruCevap": "Kediler ve köpekler farklı karakterlere sahiptir. Kediler bağımsızken köpekler daha sadıktır."
+    "dogruCevap": "Masanın ayağı kırık.",
+    "aciklama": "'Ayak' sözcüğü yan anlamda kullanılmıştır."
   },
   {
-    "soru": "Aşağıdaki metinlerden hangisinde sebep-sonuç ilişkisi vardır?",
+    "soru": "Aşağıdaki cümlelerin hangisinde 'zıt anlamlı' sözcükler bir arada kullanılmıştır?",
     "secenekler": [
-      "Yağmur yağdığı için şemsiyemi yanıma aldım.",
-      "Bugün hava çok güzel ve güneşli.",
-      "Parkta çocuklar oyun oynuyor.",
-      "İstanbul tarihi bir şehirdir."
+      "İyi kötü geçinip gidiyoruz.",
+      "Güzel güzel konuşuyor.",
+      "Hızlı hızlı yürüyor.",
+      "Yavaş yavaş ilerliyor."
     ],
-    "dogruCevap": "Yağmur yağdığı için şemsiyemi yanıma aldım."
+    "dogruCevap": "İyi kötü geçinip gidiyoruz."
   },
   {
-    "soru": "Aşağıdaki cümlelerden hangisi bir paragrafın sonuç cümlesi olmaya uygundur?",
+    "soru": "Aşağıdaki cümlelerin hangisinde 'deyim' kullanılmamıştır?",
     "secenekler": [
-      "Çevre kirliliği günümüzün en önemli sorunlarından biridir.",
-      "Örneğin, plastik atıklar deniz canlılarına zarar vermektedir.",
-      "Bu nedenle, çevre konusunda daha duyarlı olmalı ve gerekli önlemleri almalıyız.",
-      "Fabrikalar her gün tonlarca atık üretmektedir."
+      "Gözden düştü.",
+      "Kulak verdi.",
+      "Yüzü güldü.",
+      "Bahçeye çıktı."
     ],
-    "dogruCevap": "Bu nedenle, çevre konusunda daha duyarlı olmalı ve gerekli önlemleri almalıyız."
+    "dogruCevap": "Bahçeye çıktı."
   },
   {
-    "soru": "Aşağıdaki metinlerden hangisinde 'tanımlama' yapılmıştır?",
+    "soru": "Aşağıdaki cümlelerin hangisinde 'nitel' anlamlı bir sözcük vardır?",
     "secenekler": [
-      "Fotosentez, bitkilerin güneş ışığını kullanarak besin üretme sürecidir.",
-      "Bitkiler güneş ışığında daha iyi büyür.",
-      "Bahçemizdeki çiçekler çok güzel görünüyor.",
-      "Güneş ışığı bitkilerin büyümesi için önemlidir."
+      "İki elma aldım.",
+      "Güzel bir gün.",
+      "Beş kitap okudum.",
+      "Üç kişi geldi."
     ],
-    "dogruCevap": "Fotosentez, bitkilerin güneş ışığını kullanarak besin üretme sürecidir."
+    "dogruCevap": "Güzel bir gün.",
+    "aciklama": "'Güzel' sözcüğü nitel bir anlam taşır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'genel' anlamlı bir sözcük kullanılmıştır?",
+    "secenekler": [
+      "Papatya topladı.",
+      "Çiçek aldım.",
+      "Gül dikti.",
+      "Menekşe kokladı."
+    ],
+    "dogruCevap": "Çiçek aldım.",
+    "aciklama": "'Çiçek' sözcüğü diğerlerine göre daha genel anlamlıdır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'nicel' anlamlı bir sözcük vardır?",
+    "secenekler": [
+      "Güzel bir film.",
+      "Uzun bir yol.",
+      "Beş kilometre yürüdüm.",
+      "İyi bir insan."
+    ],
+    "dogruCevap": "Beş kilometre yürüdüm.",
+    "aciklama": "'Beş kilometre' nicel bir anlam taşır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'ad aktarması' (mecaz-ı mürsel) vardır?",
+    "secenekler": [
+      "Sınıf çok gürültülü.",
+      "Kitap okudu.",
+      "Su içti.",
+      "Güneş doğdu."
+    ],
+    "dogruCevap": "Sınıf çok gürültülü.",
+    "aciklama": "'Sınıf' sözcüğü öğrenciler yerine kullanılmıştır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'dolaylama' vardır?",
+    "secenekler": [
+      "Yavru vatan'a gidiyoruz.",
+      "İstanbul'a vardık.",
+      "Ankara'ya geldik.",
+      "İzmir'e gittik."
+    ],
+    "dogruCevap": "Yavru vatan'a gidiyoruz.",
+    "aciklama": "'Yavru vatan' Kıbrıs için kullanılan bir dolaylamadır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'kinaye' sanatı vardır?",
+    "secenekler": [
+      "Eli kalem tutuyor.",
+      "Gözü açık gitti.",
+      "Yüzü güldü.",
+      "Başı döndü."
+    ],
+    "dogruCevap": "Eli kalem tutuyor.",
+    "aciklama": "'Eli kalem tutmak' yazı yazabilmek anlamında kinayedir."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'benzetme' yapılmıştır?",
+    "secenekler": [
+      "Aslan gibi güçlü.",
+      "Çok çalışkan.",
+      "İyi bir öğrenci.",
+      "Hızlı koşuyor."
+    ],
+    "dogruCevap": "Aslan gibi güçlü."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'somut' anlamlı bir sözcük kullanılmıştır?",
+    "secenekler": [
+      "Sevgi her şeyi çözer.",
+      "Mutluluk önemlidir.",
+      "Masa devrildi.",
+      "Üzüntü içindeydi."
+    ],
+    "dogruCevap": "Masa devrildi."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'soyut' anlamlı bir sözcük kullanılmıştır?",
+    "secenekler": [
+      "Kalem kırıldı.",
+      "Sevgi doluydu.",
+      "Su içti.",
+      "Kitap okudu."
+    ],
+    "dogruCevap": "Sevgi doluydu."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'eş anlamlı' sözcükler bir arada kullanılmıştır?",
+    "secenekler": [
+      "Siyah beyaz bir film.",
+      "Kara talih kötü kader.",
+      "Uzun ince bir yol.",
+      "Güzel çirkin demeden."
+    ],
+    "dogruCevap": "Kara talih kötü kader."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'yansıma' sözcük kullanılmıştır?",
+    "secenekler": [
+      "Kapı gıcırdadı.",
+      "Kuş uçtu.",
+      "Su aktı.",
+      "Güneş doğdu."
+    ],
+    "dogruCevap": "Kapı gıcırdadı."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'ikilemeler' kullanılmıştır?",
+    "secenekler": [
+      "Yavaş yavaş yürüdü.",
+      "Hızlı koştu.",
+      "İyi çalıştı.",
+      "Güzel yazdı."
+    ],
+    "dogruCevap": "Yavaş yavaş yürüdü."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'terim anlamlı' bir sözcük 'mecaz' anlamda kullanılmıştır?",
+    "secenekler": [
+      "Açı ölçtü.",
+      "Kafası açı yapmıyor.",
+      "Üçgen çizdi.",
+      "Kare buldu."
+    ],
+    "dogruCevap": "Kafası açı yapmıyor.",
+    "aciklama": "Geometri terimi olan 'açı' mecaz anlamda kullanılmıştır."
   }
 ],
-      "Ses Bilgisi": [
-        {
-          "soru": "Aşağıdaki sözcüklerin hangisinde ünlü uyumu vardır?",
-          "secenekler": [
-            "Karpuz",
-            "Ağaç",
-            "Deniz",
-            "Gözlük"
-          ],
-          "dogruCevap": "Ağaç"
-        },
-        {
-          "soru": "Aşağıdaki ünlülerden hangisi ince ünlüdür?",
-          "secenekler": [
-            "A",
-            "E",
-            "I",
-            "O"
-          ],
-          "dogruCevap": "E"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi ses olayı vardır? 'Köydeki çocuklar, güzel bir oyun oynuyorlardı.'",
-          "secenekler": [
-            "Ünlü düşmesi",
-            "Ünsüz yumuşaması",
-            "Ses türemesi",
-            "Ulama"
-          ],
-          "dogruCevap": "Ulama"
-        },
-        {
-          "soru": "Aşağıdaki hangi örnekte ünsüz yumuşaması görülür?",
-          "secenekler": [
-            "Karpuz - Karpuza",
-            "Gözlük - Gözlüğü",
-            "Yazmak - Yazmaz",
-            "Gömlek - Gömleği"
-          ],
-          "dogruCevap": "Yazmak - Yazmaz"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ünsüz benzeşmesi (sertleşme) görülür?",
-          "secenekler": [
-            "Gözlük",
-            "Tuz",
-            "Karpuz",
-            "Baş"
-          ],
-          "dogruCevap": "Baş"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ünlü daralması görülür?",
-          "secenekler": [
-            "Yazı",
-            "Gözlük",
-            "Halk",
-            "Baba"
-          ],
-          "dogruCevap": "Yazı"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde kökte ünlü değişimi görülür?",
-          "secenekler": [
-            "Saray - Saraya",
-            "Gözlük - Gözlüklük",
-            "Karpuz - Karpuzu",
-            "Başka - Başkalaşmak"
-          ],
-          "dogruCevap": "Başka - Başkalaşmak"
-        },
-        {
-          "soru": "Aşağıdaki hangi cümlede ses türemesi görülür?",
-          "secenekler": [
-            "Kediler havlıyor",
-            "Evdeki kediler çok sevimli",
-            "Kadınlar şarkı söylüyor",
-            "Çocuklar oyun oynuyor"
-          ],
-          "dogruCevap": "Kediler havlıyor"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ünlü uyumu bozulmuştur?",
-          "secenekler": [
-            "Saray",
-            "Gözlük",
-            "Meyve",
-            "Karpuz"
-          ],
-          "dogruCevap": "Saray"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ulama yoktur?",
-          "secenekler": [
-            "Büyük adam",
-            "Çekirdek tarlası",
-            "Yüksek dağ",
-            "Yeşil çimen"
-          ],
-          "dogruCevap": "Çekirdek tarlası"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi ses olayı görülür? 'Köylü evine gitti.'",
-          "secenekler": [
-            "Ses türemesi",
-            "Ünlü daralması",
-            "Ünsüz benzeşmesi",
-            "Ünlü uyumu"
-          ],
-          "dogruCevap": "Ses türemesi"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ünlü uyumu yoktur?",
-          "secenekler": [
-            "Yazı",
-            "Gözlük",
-            "Balık",
-            "Karpuz"
-          ],
-          "dogruCevap": "Yazı"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ünsüz benzeşmesi (sertleşme) vardır?",
-          "secenekler": [
-            "Yazı",
-            "Köşe",
-            "Güzel",
-            "Tuz"
-          ],
-          "dogruCevap": "Köşe"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ünsüz yumuşaması görülür?",
-          "secenekler": [
-            "Saray",
-            "Kadın",
-            "Karpuz",
-            "Gözlük"
-          ],
-          "dogruCevap": "Kadın"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi ses olayı vardır? 'Evde her şey düzeldi.'",
-          "secenekler": [
-            "Ses düşmesi",
-            "Ses türemesi",
-            "Ünsüz benzeşmesi",
-            "Ulama"
-          ],
-          "dogruCevap": "Ses düşmesi"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ünlü daralması görülür?",
-          "secenekler": [
-            "Yazı",
-            "Gözlük",
-            "Çilek",
-            "Karpuz"
-          ],
-          "dogruCevap": "Yazı"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde kökte ünlü değişimi görülür?",
-          "secenekler": [
-            "Saray - Saraya",
-            "Kadın - Kadınlık",
-            "Karpuz - Karpuzu",
-            "Baş - Başka"
-          ],
-          "dogruCevap": "Baş - Başka"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi ses olayı vardır? 'Evden çıkarken kapıyı kapatmayı unutma.'",
-          "secenekler": [
-            "Ünlü düşmesi",
-            "Ünsüz benzeşmesi",
-            "Ses türemesi",
-            "Ulama"
-          ],
-          "dogruCevap": "Ulama"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ünlü uyumu bozulmuştur?",
-          "secenekler": [
-            "Yazı",
-            "Kitap",
-            "Çalışmak",
-            "Gözlük"
-          ],
-          "dogruCevap": "Yazı"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ünlü uyumu vardır?",
-          "secenekler": [
-            "Karpuz",
-            "Gözlük",
-            "Çalışmak",
-            "Deniz"
-          ],
-          "dogruCevap": "Karpuz"
-        }
-      ],
-      "Yapı Bilgisi": [
-        {
-          "soru": "Aşağıdaki kelimelerden hangisi yalnızca bir kökten türetilmiştir?",
-          "secenekler": [
-            "Çalışkanlık",
-            "Savaşçı",
-            "Okumak",
-            "Yazıcı"
-          ],
-          "dogruCevap": "Okumak"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde yapım eki kullanılmıştır?",
-          "secenekler": [
-            "Balkon",
-            "Okul",
-            "Çalışmak",
-            "Gözlük"
-          ],
-          "dogruCevap": "Okul"
-        },
-        {
-          "soru": "Aşağıdaki hangi kelime kök + ek yapısına örnektir?",
-          "secenekler": [
-            "Çalışkan",
-            "Öğretmek",
-            "Gülmek",
-            "Araba"
-          ],
-          "dogruCevap": "Çalışkan"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde yalnızca çekim eki kullanılmıştır?",
-          "secenekler": [
-            "Araba",
-            "Okulum",
-            "Yazıcı",
-            "Savaşmak"
-          ],
-          "dogruCevap": "Okulum"
-        },
-        {
-          "soru": "‘Çalışkanlık’ kelimesindeki ‘-lık’ eki ne tür bir ektir?",
-          "secenekler": [
-            "Yapım eki",
-            "Çekim eki",
-            "Zarf fiil eki",
-            "Bağlaç eki"
-          ],
-          "dogruCevap": "Yapım eki"
-        },
-        {
-          "soru": "Aşağıdaki hangi kelimede hem kök hem de ek vardır?",
-          "secenekler": [
-            "Çalışan",
-            "Okunmuş",
-            "Gülmek",
-            "Yüksek"
-          ],
-          "dogruCevap": "Okunmuş"
-        },
-        {
-          "soru": "‘Okumak’ fiilinde hangi tür ek kullanılmıştır?",
-          "secenekler": [
-            "Yapım eki",
-            "Çekim eki",
-            "Zarf fiil eki",
-            "Bağlaç eki"
-          ],
-          "dogruCevap": "Yapım eki"
-        },
-        {
-          "soru": "‘Güzel’ kelimesinde hangi tür ek kullanılmamıştır?",
-          "secenekler": [
-            "Yapım eki",
-            "Çekim eki",
-            "Sözcük türü eki",
-            "Hiçbiri"
-          ],
-          "dogruCevap": "Çekim eki"
-        },
-        {
-          "soru": "‘Yüzeysel’ kelimesindeki ‘-sel’ eki hangi tür ek olarak kabul edilir?",
-          "secenekler": [
-            "Yapım eki",
-            "Çekim eki",
-            "Zarf fiil eki",
-            "Fiil kök eki"
-          ],
-          "dogruCevap": "Yapım eki"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisi yalnızca bir çekim eki almıştır?",
-          "secenekler": [
-            "Gözlük",
-            "Yazlık",
-            "Çalıştım",
-            "Çalışkan"
-          ],
-          "dogruCevap": "Çalıştım"
-        },
-        {
-          "soru": "‘Büyükçe’ kelimesindeki ‘-çe’ eki hangi tür ekle yapılmıştır?",
-          "secenekler": [
-            "Yapım eki",
-            "Çekim eki",
-            "Zarf fiil eki",
-            "Fiil eki"
-          ],
-          "dogruCevap": "Çekim eki"
-        },
-        {
-          "soru": "‘Küçükten’ kelimesindeki ‘-den’ eki hangi tür ekle yapılmıştır?",
-          "secenekler": [
-            "Yapım eki",
-            "Çekim eki",
-            "Yer ekleri",
-            "Zarf fiil eki"
-          ],
-          "dogruCevap": "Çekim eki"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisi yalnızca bir yapım eki almıştır?",
-          "secenekler": [
-            "Yazılı",
-            "Okul",
-            "Çalışkan",
-            "Yüksek"
-          ],
-          "dogruCevap": "Yazılı"
-        },
-        {
-          "soru": "‘Yükseklik’ kelimesindeki ‘-lik’ eki ne tür bir ektir?",
-          "secenekler": [
-            "Yapım eki",
-            "Çekim eki",
-            "Zarf fiil eki",
-            "İsim fiil eki"
-          ],
-          "dogruCevap": "Yapım eki"
-        },
-        {
-          "soru": "Aşağıdaki hangi kelimede hem çekim eki hem de yapım eki vardır?",
-          "secenekler": [
-            "Okurum",
-            "Çalışkanlık",
-            "Öğretmek",
-            "Yüksekten"
-          ],
-          "dogruCevap": "Okurum"
-        },
-        {
-          "soru": "Aşağıdaki hangi kelimede yalnızca yapım eki kullanılmıştır?",
-          "secenekler": [
-            "Yazdırmak",
-            "Görüşmek",
-            "Güzelce",
-            "Yükseklik"
-          ],
-          "dogruCevap": "Yükseklik"
-        },
-        {
-          "soru": "‘Savaşçı’ kelimesinde hangi tür ek kullanılmıştır?",
-          "secenekler": [
-            "Yapım eki",
-            "Çekim eki",
-            "Fiil eki",
-            "Yer ekleri"
-          ],
-          "dogruCevap": "Yapım eki"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisi yalnızca bir yapım eki almıştır?",
-          "secenekler": [
-            "Gözlük",
-            "Öğretmen",
-            "Yazmak",
-            "Konuşkan"
-          ],
-          "dogruCevap": "Konuşkan"
-        },
-        {
-          "soru": "‘Okulda’ kelimesindeki ‘-da’ eki ne tür bir ektir?",
-          "secenekler": [
-            "Yapım eki",
-            "Çekim eki",
-            "Yer eki",
-            "Zarf fiil eki"
-          ],
-          "dogruCevap": "Yer eki"
-        }
-      ],
-      "Sözcük Türleri": [
-        {
-          "soru": "Aşağıdaki kelimelerden hangisi bir sıfat değildir?",
-          "secenekler": [
-            "Büyük",
-            "Güzel",
-            "Hızlı",
-            "Koşmak"
-          ],
-          "dogruCevap": "Koşmak"
-        },
-        {
-          "soru": "‘Evdeki kitap’ cümlesindeki ‘evdeki’ sözcüğü hangi sözcük türüne örnektir?",
-          "secenekler": [
-            "Sıfat",
-            "İsim",
-            "Fiil",
-            "Edat"
-          ],
-          "dogruCevap": "Sıfat"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde zarf (belirteç) kullanılmıştır?",
-          "secenekler": [
-            "O çok hızlı koşuyor.",
-            "Bize mutlaka gelmelisin.",
-            "Güzel bir çiçek aldım.",
-            "Dün sinemaya gittik."
-          ],
-          "dogruCevap": "O çok hızlı koşuyor."
-        },
-        {
-          "soru": "‘Onunla hiç görüşmedim.’ cümlesindeki ‘onunla’ sözcüğü hangi tür sözcük ile yapılmış bir tamlamadır?",
-          "secenekler": [
-            "İsim tamlaması",
-            "Fiilimsiz tamlama",
-            "Edat tamlaması",
-            "Zarf tamlaması"
-          ],
-          "dogruCevap": "İsim tamlaması"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük zamir olarak kullanılmıştır?",
-          "secenekler": [
-            "Kitaplar masanın üstünde.",
-            "O, çok çalışkan bir öğrencidir.",
-            "Yazdım ve gönderdim.",
-            "Burası çok sessiz."
-          ],
-          "dogruCevap": "O, çok çalışkan bir öğrencidir."
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisi fiilimsidir?",
-          "secenekler": [
-            "Koşmak",
-            "Güzel",
-            "Giderken",
-            "Yüksek"
-          ],
-          "dogruCevap": "Giderken"
-        },
-        {
-          "soru": "‘Evet, ben de geliyorum.’ cümlesinde hangi sözcük bağlaçtır?",
-          "secenekler": [
-            "Evet",
-            "Ben",
-            "De",
-            "Geliyorum"
-          ],
-          "dogruCevap": "De"
-        },
-        {
-          "soru": "‘Sana bunun ne kadar önemli olduğunu anlatmam gerekiyor.’ cümlesindeki ‘önemli’ sözcüğü hangi tür sözcük ile yapılmış bir tamlamadır?",
-          "secenekler": [
-            "İsim tamlaması",
-            "Sıfat tamlaması",
-            "Fiil tamlaması",
-            "Zarf tamlaması"
-          ],
-          "dogruCevap": "Sıfat tamlaması"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisi bir fiilimsidir?",
-          "secenekler": [
-            "Koşarak",
-            "Çalışkan",
-            "Güzelce",
-            "Yükseklik"
-          ],
-          "dogruCevap": "Koşarak"
-        },
-        {
-          "soru": "‘Kitapları odamda bulundururum.’ cümlesindeki ‘odamda’ sözcüğü hangi türdür?",
-          "secenekler": [
-            "Fiil",
-            "Zarf",
-            "Edat",
-            "İsim"
-          ],
-          "dogruCevap": "Edat"
-        },
-        {
-          "soru": "‘Beni unutma.’ cümlesindeki hangi sözcük fiilimsidir?",
-          "secenekler": [
-            "Beni",
-            "Unutma",
-            "Cümlesindeki",
-            "Fiilimsidir"
-          ],
-          "dogruCevap": "Unutma"
-        },
-        {
-          "soru": "‘Bugün hava çok soğuk.’ cümlesinde hangi sözcük zarf olarak kullanılmıştır?",
-          "secenekler": [
-            "Bugün",
-            "Çok",
-            "Soğuk",
-            "Hava"
-          ],
-          "dogruCevap": "Çok"
-        },
-        {
-          "soru": "‘Kendini çok iyi hissediyorsun.’ cümlesinde hangi sözcük zamirdir?",
-          "secenekler": [
-            "Kendini",
-            "Çok",
-            "İyi",
-            "Hissediyorsun"
-          ],
-          "dogruCevap": "Kendini"
-        },
-        {
-          "soru": "‘Bir zamanlar burada büyük bir orman vardı.’ cümlesindeki hangi sözcük sıfattır?",
-          "secenekler": [
-            "Bir",
-            "Zamanlar",
-            "Büyük",
-            "Orman"
-          ],
-          "dogruCevap": "Büyük"
-        },
-        {
-          "soru": "‘Bütün gün çalıştım.’ cümlesindeki hangi sözcük zarf olarak kullanılmıştır?",
-          "secenekler": [
-            "Bütün",
-            "Gün",
-            "Çalıştım",
-            "Zarf"
-          ],
-          "dogruCevap": "Bütün"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde soru zamiri kullanılmıştır?",
-          "secenekler": [
-            "Bu kitabı okudum.",
-            "O, her zaman gelirdi.",
-            "Ne zaman gelecek?",
-            "Kim gelecek?"
-          ],
-          "dogruCevap": "Kim gelecek?"
-        },
-        {
-          "soru": "‘Çok çalışıyorum, ama hala başaramıyorum.’ cümlesindeki ‘ama’ sözcüğü hangi tür bağlaçtır?",
-          "secenekler": [
-            "Zıtlık bağlacı",
-            "Bağlaç",
-            "Şart bağlacı",
-            "Amaç bağlacı"
-          ],
-          "dogruCevap": "Zıtlık bağlacı"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük sıfat olarak kullanılmıştır?",
-          "secenekler": [
-            "Beni çok seviyor.",
-            "Güzel bir hayat.",
-            "Koşarak geldi.",
-            "Sesini duydum."
-          ],
-          "dogruCevap": "Güzel bir hayat."
-        },
-        {
-          "soru": "‘Sana borçlu hissediyorum.’ cümlesindeki ‘hissediyorum’ sözcüğü hangi tür fiildir?",
-          "secenekler": [
-            "İş fiili",
-            "Oluş fiili",
-            "Durum fiili",
-            "Yardımcı fiil"
-          ],
-          "dogruCevap": "Durum fiili"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde fiilimsi kullanılmıştır?",
-          "secenekler": [
-            "Yüksek sesle şarkı söyledim.",
-            "Küçükken çok koşardım.",
-            "Çok uyudum.",
-            "Yazın çok gezdim."
-          ],
-          "dogruCevap": "Küçükken çok koşardım."
-        },
-        {
-          "soru": "‘Mavi bir elbise giydim.’ cümlesindeki ‘mavi’ sözcüğü hangi tür sözcük ile yapılmış bir tamlamadır?",
-          "secenekler": [
-            "İsim tamlaması",
-            "Fiil tamlaması",
-            "Zarf tamlaması",
-            "Sıfat tamlaması"
-          ],
-          "dogruCevap": "Sıfat tamlaması"
-        },
-        {
-          "soru": "‘Gözlerim bu sabah çok hassas.’ cümlesindeki hangi sözcük sıfat tamlaması oluşturmuştur?",
-          "secenekler": [
-            "Bu sabah",
-            "Çok hassas",
-            "Gözlerim",
-            "Hassas"
-          ],
-          "dogruCevap": "Çok hassas"
-        }
-      ],
-      "Cümle Bilgisi": [
-        {
-          "soru": "Aşağıdaki cümlelerden hangisi 'özne + yüklem + nesne' ögelerine sahip bir olumlu cümledir?",
-          "secenekler": [
-            "Hangi takımı tutuyorsun?",
-            "Yüksek sesle şarkı söylüyordu, annesi de ona eşlik ediyordu.",
-            "Film çok güzeldi, ama kitap daha ilginçti.",
-            "Herkes mutlu olmalı, çünkü hayat kısa."
-          ],
-          "dogruCevap": "Yüksek sesle şarkı söylüyordu, annesi de ona eşlik ediyordu."
-        },
-        {
-          "soru": "'Ayşe, uzun zamandır istediği kitabı sonunda aldı.' cümlesindeki 'Ayşe' sözcüğü hangi cümle öğesini belirtir?",
-          "secenekler": [
-            "Yüklem",
-            "Özne",
-            "Nesne",
-            "Zarf tümleci"
-          ],
-          "dogruCevap": "Özne"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde dolaylı tümleç yer almaktadır?",
-          "secenekler": [
-            "Öğle yemeğini yemeye gitmişti.",
-            "Yeni aldığım telefon çok güzel.",
-            "Odasının kapısını hızla kapattı.",
-            "Bahçede herkes top oynuyor."
-          ],
-          "dogruCevap": "Öğle yemeğini yemeye gitmişti."
-        },
-        {
-          "soru": "'Hızla koşarak geldi, ancak kimse onu fark etmedi.' cümlesinde yer alan ögelerden hangisi yanlış eşleştirilmiştir?",
-          "secenekler": [
-            "Yüklem – geldi",
-            "Özne – kimse",
-            "Dolaylı tümleç – onu",
-            "Zarf tümleci – hızla"
-          ],
-          "dogruCevap": "Dolaylı tümleç – onu"
-        },
-        {
-          "soru": "'Kitapçıda uzun süre kaldıktan sonra dışarıda yağmurun başladığını fark etti.' cümlesinde hangi öğe fazladır?",
-          "secenekler": [
-            "Yüklem",
-            "Nesne",
-            "Dolaylı tümleç",
-            "Zarf tümleci"
-          ],
-          "dogruCevap": "Zarf tümleci"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde bağlaç yanlış kullanılmıştır?",
-          "secenekler": [
-            "Eve gidip ders çalışmalıyım, çünkü sınavım var.",
-            "Edebiyat dersini seviyorum, ayrıca tarih dersini de.",
-            "Araba biraz hızlıydı, ama yol çok düzgündü.",
-            "Gidemedim, çünkü işlerim vardı."
-          ],
-          "dogruCevap": "Edebiyat dersini seviyorum, ayrıca tarih dersini de."
-        },
-        {
-          "soru": "'Ali, Ayşe’nin istediği elbiseyi almayı çok istiyordu ama ona uygun renkleri bulamadı.' cümlesinde hangi öge gereksiz bir şekilde kullanılmıştır?",
-          "secenekler": [
-            "Özne",
-            "Yüklem",
-            "Nesne",
-            "Zarf tümleci"
-          ],
-          "dogruCevap": "Zarf tümleci"
-        },
-        {
-          "soru": "'Sürekli olarak yeni bir şeyler öğrenmeyi seviyorum, o yüzden kitaplar her zaman ilgi çekicidir.' cümlesinde hangi öge yanlış eşleştirilmiştir?",
-          "secenekler": [
-            "Özne – ben",
-            "Yüklem – seviyorum",
-            "Nesne – kitaplar",
-            "Zarf tümleci – sürekli olarak"
-          ],
-          "dogruCevap": "Zarf tümleci – sürekli olarak"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangisi anlamca çelişmektedir?",
-          "secenekler": [
-            "Dün yağmur yağmıştı, ancak bugün hava gayet güzel.",
-            "Çok sevdiğim bir arkadaşımı kaybettim, ama üzülmedim.",
-            "Sınavı geçtim, ama hala başarılı sayılmam.",
-            "Çalışmaya devam ettim, çünkü o zaman daha iyi olacaktım."
-          ],
-          "dogruCevap": "Çok sevdiğim bir arkadaşımı kaybettim, ama üzülmedim."
-        },
-        {
-          "soru": "'Sabahları erken uyanırım, çünkü günün ilk ışıklarıyla uyanmak daha huzurlu.' cümlesindeki bağlaç nedir?",
-          "secenekler": [
-            "Çünkü",
-            "Ve",
-            "Ancak",
-            "Ama"
-          ],
-          "dogruCevap": "Çünkü"
-        }
-      ],
-  "Yazım Kuralları": [
+    "Cümlede Anlam": [
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'kesinlik' anlamı vardır?",
+    "secenekler": [
+      "Belki yarın size gelirim.",
+      "Sanırım hava yağacak.",
+      "Güneş doğudan doğar.",
+      "Akşama doğru çıkabilirim."
+    ],
+    "dogruCevap": "Güneş doğudan doğar.",
+    "aciklama": "Doğa kanunu olduğu için kesinlik içerir."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'yakınma' anlamı yoktur?",
+    "secenekler": [
+      "Kimse beni anlamıyor.",
+      "Her gün aynı işleri yapıyorum.",
+      "Güzel bir gün geçirdik.",
+      "Bu kadar da olmaz ki!"
+    ],
+    "dogruCevap": "Güzel bir gün geçirdik.",
+    "aciklama": "Bu cümlede memnuniyet vardır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'öneri' anlamı vardır?",
+    "secenekler": [
+      "Kitap okumayı seviyorum.",
+      "Daha çok çalışmalısın.",
+      "Hava çok güzel.",
+      "Yarın okula gideceğim."
+    ],
+    "dogruCevap": "Daha çok çalışmalısın.",
+    "aciklama": "'-malısın' eki öneri anlamı katmıştır."
+  },
+  {
+    "soru": "'Artık hiçbir şey eskisi gibi olmayacak.' cümlesinde aşağıdaki anlamlardan hangisi vardır?",
+    "secenekler": [
+      "Pişmanlık",
+      "Uyarı",
+      "Değişim",
+      "Beğeni"
+    ],
+    "dogruCevap": "Değişim"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'varsayım' anlamı vardır?",
+    "secenekler": [
+      "Diyelim ki sınavı kazandın.",
+      "Yarın okula gideceğim.",
+      "Kitabı bitirdim.",
+      "Hava çok sıcak."
+    ],
+    "dogruCevap": "Diyelim ki sınavı kazandın.",
+    "aciklama": "'Diyelim ki' ifadesi varsayım belirtir."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'karşılaştırma' yapılmıştır?",
+    "secenekler": [
+      "Bu kitap çok güzel.",
+      "Ali, Ahmet'ten daha çalışkan.",
+      "Yarın okula gideceğim.",
+      "Hava bugün çok sıcak."
+    ],
+    "dogruCevap": "Ali, Ahmet'ten daha çalışkan."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'abartma' vardır?",
+    "secenekler": [
+      "Dün akşam erken yattım.",
+      "Ölümüne seviyorum seni.",
+      "Kitap okumayı severim.",
+      "Yarın size geleceğim."
+    ],
+    "dogruCevap": "Ölümüne seviyorum seni."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'üzüntü' anlamı yoktur?",
+    "secenekler": [
+      "Keşke ona öyle davranmasaydım.",
+      "Ne güzel günlerdi.",
+      "Mutluluktan uçuyorum.",
+      "Ah, nerede o eski günler!"
+    ],
+    "dogruCevap": "Mutluluktan uçuyorum."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'olasılık' anlamı vardır?",
+    "secenekler": [
+      "Yarın yağmur yağabilir.",
+      "Kesinlikle geleceğim.",
+      "Asla vazgeçmem.",
+      "Her zaman erken kalkarım."
+    ],
+    "dogruCevap": "Yarın yağmur yağabilir.",
+    "aciklama": "'-bilir' eki olasılık anlamı katmıştır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'amaç-sonuç' ilişkisi vardır?",
+    "secenekler": [
+      "Başarılı olmak için çok çalışıyor.",
+      "Yağmur yağdığı için ıslandık.",
+      "Hava soğuk ama üşümüyorum.",
+      "Kitap okudum ve uyudum."
+    ],
+    "dogruCevap": "Başarılı olmak için çok çalışıyor."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'beğeni' anlamı yoktur?",
+    "secenekler": [
+      "Ne güzel bir manzara!",
+      "Harika bir film izledik.",
+      "Yemek soğumuş.",
+      "Muhteşem bir konserdi."
+    ],
+    "dogruCevap": "Yemek soğumuş."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'öz eleştiri' vardır?",
+    "secenekler": [
+      "Keşke daha çok çalışsaydım.",
+      "Sen hiç değişmemişsin.",
+      "Hava çok güzel.",
+      "Onlar çok tembel."
+    ],
+    "dogruCevap": "Keşke daha çok çalışsaydım."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'küçümseme' anlamı vardır?",
+    "secenekler": [
+      "Bu kadarcık işi de yapamadın mı?",
+      "Ne kadar güzel bir ev!",
+      "Yarın görüşelim.",
+      "Hava çok sıcak."
+    ],
+    "dogruCevap": "Bu kadarcık işi de yapamadın mı?"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'sitem' vardır?",
+    "secenekler": [
+      "Bir kez olsun aramadın.",
+      "Yarın geleceğim.",
+      "Hava çok güzel.",
+      "Kitap okuyorum."
+    ],
+    "dogruCevap": "Bir kez olsun aramadın."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'pişmanlık' anlamı yoktur?",
+    "secenekler": [
+      "Keşke gitmeseydim.",
+      "Ah, neden söyledim ki!",
+      "Ne güzel bir gün!",
+      "Böyle yapmamalıydım."
+    ],
+    "dogruCevap": "Ne güzel bir gün!"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'azımsama' anlamı vardır?",
+    "secenekler": [
+      "Topu topu üç kitap okumuş.",
+      "Çok kitap okudum.",
+      "Güzel bir film izledik.",
+      "Yarın görüşürüz."
+    ],
+    "dogruCevap": "Topu topu üç kitap okumuş."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'ön yargı' vardır?",
+    "secenekler": [
+      "Nasılsa başaramayacak.",
+      "Belki yarın gelir.",
+      "Güzel bir gün geçirdik.",
+      "Kitap okumayı seviyorum."
+    ],
+    "dogruCevap": "Nasılsa başaramayacak."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'şaşırma' anlamı vardır?",
+    "secenekler": [
+      "A, sen burada mıydın?",
+      "Yarın görüşürüz.",
+      "Hava çok güzel.",
+      "Kitap okuyorum."
+    ],
+    "dogruCevap": "A, sen burada mıydın?"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'tahmin' anlamı vardır?",
+    "secenekler": [
+      "Herhalde yine geç kalacak.",
+      "Kesinlikle geleceğim.",
+      "Asla vazgeçmem.",
+      "Her zaman erken kalkarım."
+    ],
+    "dogruCevap": "Herhalde yine geç kalacak."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'eleştiri' yoktur?",
+    "secenekler": [
+      "Bu kadar da olmaz!",
+      "Hiç düşünmeden konuşuyor.",
+      "Ne güzel bir manzara!",
+      "Yine geç kaldın."
+    ],
+    "dogruCevap": "Ne güzel bir manzara!"
+  }
+],
+   "Paragrafta Anlam": [
+  {
+    "soru": "Sanat, insanın kendini ifade etme biçimidir. Kimi zaman bir tabloda, kimi zaman bir şiirde, kimi zaman da bir heykelde karşımıza çıkar. Her sanatçı, kendi dünyasını, kendi penceresinden yansıtır eserlerine. Bu yüzden aynı konuyu işleyen farklı sanatçıların eserleri birbirinden farklıdır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Sanat, sanatçının öznel bakış açısının ürünüdür.",
+      "Her sanat dalı farklı teknikler kullanır.",
+      "Sanat eserleri toplumu yansıtır.",
+      "Sanatçılar birbirlerinden etkilenir."
+    ],
+    "dogruCevap": "Sanat, sanatçının öznel bakış açısının ürünüdür."
+  },
+  {
+    "soru": "Okumak, insanı düşünmeye sevk eder. Düşünen insan sorgular, sorgulayan insan araştırır, araştıran insan öğrenir, öğrenen insan gelişir. Bu yüzden okumak, insanın kendini geliştirmesinin en temel yoludur.\n\nBu parçada aşağıdakilerden hangisi vurgulanmaktadır?",
+    "secenekler": [
+      "Okumanın düşünmeye etkisi",
+      "Okumanın kişisel gelişime katkısı",
+      "Araştırmanın önemi",
+      "Sorgulamanın gerekliliği"
+    ],
+    "dogruCevap": "Okumanın kişisel gelişime katkısı"
+  },
+  {
+    "soru": "Teknoloji hızla gelişiyor. Her gün yeni bir buluş hayatımıza giriyor. Ancak bu gelişmeler beraberinde bazı sorunları da getiriyor. İnsanlar artık birbirleriyle yüz yüze iletişim kurmak yerine, sosyal medya üzerinden haberleşmeyi tercih ediyor.\n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "secenekler": [
+      "Örneklendirme",
+      "Karşılaştırma",
+      "Neden-sonuç ilişkisi",
+      "Tanımlama"
+    ],
+    "dogruCevap": "Neden-sonuç ilişkisi"
+  },
+  {
+    "soru": "Başarı, çok çalışmakla elde edilir. Ancak çalışmak tek başına yeterli değildir. Planlı ve programlı çalışmak gerekir. Hedefler belirlemeli, bu hedeflere ulaşmak için stratejiler geliştirmeliyiz.\n\nBu parçadan aşağıdakilerden hangisi çıkarılamaz?",
+    "secenekler": [
+      "Başarı için çalışmak gerekir.",
+      "Planlı çalışmak önemlidir.",
+      "Hedef belirlemek başarıyı artırır.",
+      "Yetenek başarıdan daha önemlidir."
+    ],
+    "dogruCevap": "Yetenek başarıdan daha önemlidir."
+  },
+  {
+    "soru": "I. Doğal kaynaklar hızla tükeniyor.\nII. İnsanlar çevreye karşı duyarsız.\nIII. Geri dönüşüm yetersiz.\nIV. Çevre kirliliği artıyor.\nV. İklim değişikliği yaşanıyor.\n\nYukarıdaki cümlelerden hangileri neden-sonuç ilişkisi içinde değildir?",
+    "secenekler": [
+      "I ve II",
+      "II ve III",
+      "III ve IV",
+      "IV ve V"
+    ],
+    "dogruCevap": "II ve III"
+  },
+  {
+    "soru": "Kitap okumak, insanın kelime hazinesini geliştirir. (I) Yeni kelimeler öğrenmesini sağlar. (II) Düşünce dünyasını zenginleştirir. (III) Hayal gücünü artırır. (IV) Bu yüzden herkes düzenli olarak kitap okumalıdır.\n\nBu parçadaki numaralanmış cümlelerden hangisi kendinden önceki cümlenin gerekçesidir?",
+    "secenekler": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "dogruCevap": "IV"
+  },
+  {
+    "soru": "Aşağıdaki parçalardan hangisi bir öykünün giriş bölümü olabilir?",
+    "secenekler": [
+      "Sonunda her şey bitmişti. Artık yapacak bir şey kalmamıştı.",
+      "Yağmurlu bir sonbahar akşamıydı. Sokak lambaları henüz yanmamıştı.",
+      "Bu yüzden herkes ona hak verdi ve destekledi.",
+      "Böylece sorun çözülmüş oldu."
+    ],
+    "dogruCevap": "Yağmurlu bir sonbahar akşamıydı. Sokak lambaları henüz yanmamıştı."
+  },
+  {
+    "soru": "Bir yazarın üslubu, onun kimliğidir. Her yazar kendine özgü bir anlatım tarzı geliştirir. Bu tarz, yazarın dünya görüşünü, yaşam deneyimlerini ve kişiliğini yansıtır.\n\nBu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+    "secenekler": [
+      "Üslup, yazarın özgünlüğünü gösterir.",
+      "Her yazar aynı konuları işler.",
+      "Üslup zamanla değişmez.",
+      "Yazarlar birbirlerini taklit eder."
+    ],
+    "dogruCevap": "Üslup, yazarın özgünlüğünü gösterir."
+  },
+  {
+    "soru": "Başarılı insanların ortak özelliği, asla pes etmemeleridir. Karşılarına ne kadar engel çıkarsa çıksın, yollarına devam ederler. Her başarısızlığı bir ders olarak görür ve hatalarından öğrenirler.\n\nBu parçada vurgulanan düşünce aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Azim ve kararlılık başarının anahtarıdır.",
+      "Başarı için yetenek gereklidir.",
+      "Başarısızlık kaçınılmazdır.",
+      "Engeller aşılamaz."
+    ],
+    "dogruCevap": "Azim ve kararlılık başarının anahtarıdır."
+  },
+  {
+    "soru": "Doğa, insanoğluna sayısız güzellik sunar. (I) Ancak insan bu güzelliklerin değerini bilmez. (II) Çevreyi kirletir, ormanları yok eder. (III) Doğal kaynakları sorumsuzca tüketir. (IV) Sonunda kendi sonunu hazırlar.\n\nBu parçadaki numaralanmış cümlelerden hangisi parçanın ana düşüncesidir?",
+    "secenekler": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "dogruCevap": "IV"
+  },
+  {
+    "soru": "Aşağıdaki parçalardan hangisinde betimleme ağır basmaktadır?",
+    "secenekler": [
+      "Yaşlı çınar ağacının dalları gökyüzüne uzanıyordu. Gövdesi kalın ve çatlaktı. Yaprakları sonbahar rüzgârında hışırdıyordu.",
+      "İnsanlar her geçen gün daha çok teknolojiye bağımlı hale geliyor.",
+      "Başarılı olmak için çok çalışmak gerekir.",
+      "Sorunlar ancak birlikte çözülebilir."
+    ],
+    "dogruCevap": "Yaşlı çınar ağacının dalları gökyüzüne uzanıyordu. Gövdesi kalın ve çatlaktı. Yaprakları sonbahar rüzgârında hışırdıyordu."
+  },
+  {
+    "soru": "Aşağıdaki parçalardan hangisi 'öznellik' içermez?",
+    "secenekler": [
+      "İstanbul, dünyanın en güzel şehridir.",
+      "Su, 100 derecede kaynar.",
+      "Bu kitap muhteşem bir başyapıt.",
+      "Ressamın son tablosu çok etkileyici."
+    ],
+    "dogruCevap": "Su, 100 derecede kaynar."
+  },
+  {
+    "soru": "Bir paragrafın giriş cümlesi aşağıdakilerden hangisi olamaz?",
+    "secenekler": [
+      "Konuyla ilgili çeşitli görüşler vardır.",
+      "Bu nedenle sorun çözülemedi.",
+      "İnsanlar her zaman mutluluğu aramıştır.",
+      "Teknoloji hayatımızı kolaylaştırır."
+    ],
+    "dogruCevap": "Bu nedenle sorun çözülemedi."
+  },
+  {
+    "soru": "Aşağıdaki parçalardan hangisi bir makaleden alınmış olabilir?",
+    "secenekler": [
+      "Yapılan araştırmalar, küresel ısınmanın ciddi boyutlara ulaştığını göstermektedir.",
+      "Bir varmış bir yokmuş, evvel zaman içinde...",
+      "Ah, ne güzel bir bahar günüydü!",
+      "Çocukluğumun en güzel anılarını bu sokakta yaşadım."
+    ],
+    "dogruCevap": "Yapılan araştırmalar, küresel ısınmanın ciddi boyutlara ulaştığını göstermektedir."
+  },
+  {
+    "soru": "Aşağıdaki parçalardan hangisinde 'tanımlama' yapılmıştır?",
+    "secenekler": [
+      "Roman, insanın iç dünyasını ve toplumsal yaşamı anlatan uzun soluklu edebi türdür.",
+      "Yazar, son kitabında çok farklı konulara değinmiş.",
+      "Bahçedeki çiçekler açmış.",
+      "Her sabah erkenden kalkarım."
+    ],
+    "dogruCevap": "Roman, insanın iç dünyasını ve toplumsal yaşamı anlatan uzun soluklu edebi türdür."
+  },
+  {
+    "soru": "Aşağıdaki parçalardan hangisi 'öyküleme' tekniğiyle yazılmıştır?",
+    "secenekler": [
+      "Dün akşam eve dönerken yolda eski bir arkadaşıma rastladım. Birlikte bir çay içtik, eski günleri andık.",
+      "Çevre kirliliği günümüzün en önemli sorunlarından biridir.",
+      "Başarılı olmak için planlı çalışmak gerekir.",
+      "Teknoloji her geçen gün gelişiyor."
+    ],
+    "dogruCevap": "Dün akşam eve dönerken yolda eski bir arkadaşıma rastladım. Birlikte bir çay içtik, eski günleri andık."
+  },
+  {
+    "soru": "Aşağıdaki parçalardan hangisinde 'karşılaştırma' yapılmamıştır?",
+    "secenekler": [
+      "Eskiden insanlar daha samimiydi, şimdi herkes bencilleşti.",
+      "Kış mevsimi soğuk, yaz mevsimi sıcak geçer.",
+      "Bazı öğrenciler çalışkan, bazıları tembeldir.",
+      "Her sabah düzenli olarak spor yaparım."
+    ],
+    "dogruCevap": "Her sabah düzenli olarak spor yaparım."
+  },
+  {
+    "soru": "Aşağıdaki parçalardan hangisi 'tartışmacı' anlatım içerir?",
+    "secenekler": [
+      "Teknolojinin yararlı olduğunu söyleyenler var, ancak ben bu görüşe katılmıyorum. Çünkü teknoloji insanları yalnızlaştırıyor.",
+      "Bahar gelince ağaçlar çiçek açar.",
+      "İstanbul, tarihi bir şehirdir.",
+      "Her gün düzenli olarak kitap okurum."
+    ],
+    "dogruCevap": "Teknolojinin yararlı olduğunu söyleyenler var, ancak ben bu görüşe katılmıyorum. Çünkü teknoloji insanları yalnızlaştırıyor."
+  },
+  {
+    "soru": "Aşağıdaki parçalardan hangisinde 'neden-sonuç' ilişkisi yoktur?",
+    "secenekler": [
+      "Yağmur yağdığı için pikniğe gidemedik.",
+      "Çok çalıştığı için başarılı oldu.",
+      "Her sabah erken kalkarım.",
+      "Hasta olduğu için okula gelemedi."
+    ],
+    "dogruCevap": "Her sabah erken kalkarım."
+  },
+  {
+    "soru": "Aşağıdaki parçalardan hangisi bir 'sonuç cümlesi' ile bitmemiştir?",
+    "secenekler": [
+      "Teknoloji gelişiyor. İnsanlar birbirine yabancılaşıyor. Herkes kendi dünyasında yaşıyor.",
+      "Çevre kirliliği artıyor. Doğal kaynaklar tükeniyor. Bu yüzden önlem almalıyız.",
+      "Kitap okumak önemlidir. İnsanı geliştirir. Bu nedenle herkes okumalıdır.",
+      "Başarılı olmak için çok çalışmak gerekir. Bu yüzden zamanımızı iyi değerlendirmeliyiz."
+    ],
+    "dogruCevap": "Teknoloji gelişiyor. İnsanlar birbirine yabancılaşıyor. Herkes kendi dünyasında yaşıyor."
+  }
+],
+    "Ses Bilgisi": [
+  {
+    "soru": "I. Sırtındaki (Ünlü daralması)\nII. Başlıyor (Ünsüz düşmesi)\nIII. Yoğurt (Ünsüz türemesi)\nIV. İstemiyorum (Ünlü düşmesi)\n\nYukarıdaki sözcüklerde parantez içinde verilen ses olaylarından hangileri yanlıştır?",
+    "secenekler": [
+      "I ve II",
+      "II ve III",
+      "I ve IV",
+      "III ve IV"
+    ],
+    "dogruCevap": "II ve III"
+  },
+  {
+    "soru": "'Kardeşimin anlattıklarını dinledikçe heyecanlanıyordum.' cümlesinde kaç ses olayı vardır?",
+    "secenekler": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "dogruCevap": "5",
+    "aciklama": "kardeşimin (ünsüz yumuşaması), anlattıklarını (ünsüz benzeşmesi), dinledikçe (ünsüz benzeşmesi), heyecanlanıyordum (ünlü daralması, kaynaştırma)"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde ünsüz benzeşmesi ve ünsüz yumuşaması aynı sözcükte gerçekleşmiştir?",
+    "secenekler": [
+      "Kitapçıdan yeni bir roman aldım.",
+      "Ağaçtan düşen yaprakları topladım.",
+      "Çocukluğumda çok yaramazdım.",
+      "Rengini çok beğendiğim bir elbise gördüm."
+    ],
+    "dogruCevap": "Rengini çok beğendiğim bir elbise gördüm.",
+    "aciklama": "'Rengini' sözcüğünde hem k>g (ünsüz yumuşaması) hem de n>ŋ (ünsüz benzeşmesi) vardır."
+  },
+  {
+    "soru": "I. Yalnızlık\nII. Kavrulmuş\nIII. Oynuyor\nIV. Söylüyor\n\nYukarıdaki sözcüklerden hangileri sadece üç heceden oluşur?",
+    "secenekler": [
+      "I ve II",
+      "II ve III",
+      "III ve IV",
+      "I ve IV"
+    ],
+    "dogruCevap": "II ve III"
+  },
+  {
+    "soru": "'Bahçedeki ağaçların yaprakları sararıyordu.' cümlesindeki sözcüklerin hangisinde birden fazla ses olayı vardır?",
+    "secenekler": [
+      "bahçedeki",
+      "ağaçların",
+      "yaprakları",
+      "sararıyordu"
+    ],
+    "dogruCevap": "sararıyordu",
+    "aciklama": "sararıyordu: ünlü daralması ve kaynaştırma ünsüzü"
+  },
+  {
+    "soru": "Aşağıdaki altı çizili sözcüklerden hangisinde görülen ses olayları diğerlerinden farklıdır?",
+    "secenekler": [
+      "Küçük çocuk parkta oynuyordu.",
+      "Akşam yemeğini hazırlıyorum.",
+      "Kitabı okumaya başlıyorum.",
+      "Yarın okula gidiyorum."
+    ],
+    "dogruCevap": "Küçük çocuk parkta oynuyordu.",
+    "aciklama": "'oynuyordu' sözcüğünde sadece ünlü daralması varken, diğerlerinde hem ünlü daralması hem kaynaştırma ünsüzü vardır."
+  },
+  {
+    "soru": "I. Burnumun (ünlü düşmesi)\nII. Aklımdan (ünlü düşmesi)\nIII. Oğlunun (ünlü düşmesi)\nIV. Ömrümüz (ünlü düşmesi)\n\nYukarıdaki sözcüklerden hangilerinin kökünde ünlü düşmesi yoktur?",
+    "secenekler": [
+      "Yalnız I",
+      "I ve II",
+      "II ve III",
+      "III ve IV"
+    ],
+    "dogruCevap": "III ve IV",
+    "aciklama": "oğul ve ömür sözcüklerinin köklerinde ünlü düşmesi yoktur."
+  },
+  {
+    "soru": "'Bahçemizdeki ağaçlar çiçek açtı.' cümlesinde kaç ünsüz harfin yumuşak karşılığı vardır?",
+    "secenekler": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "dogruCevap": "4",
+    "aciklama": "ç>c, k>g, ç>c, k>g (bahçe, -deki, çiçek, açtı)"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde ulama yoktur?",
+    "secenekler": [
+      "Ak akçe kara gün içindir.",
+      "Mart ayı bahar demektir.",
+      "Yürek acısı kolay geçmez.",
+      "Kış uykusuna yatmış ayı."
+    ],
+    "dogruCevap": "Kış uykusuna yatmış ayı."
+  },
+  {
+    "soru": "'Seyretmek' sözcüğünün farklı çekimlerinde görülebilecek ses olayları hangi seçenekte doğru verilmiştir?",
+    "secenekler": [
+      "Ünlü düşmesi - ünlü daralması",
+      "Ünsüz benzeşmesi - ünlü türemesi",
+      "Ünlü düşmesi - ünsüz yumuşaması",
+      "Ünsüz türemesi - ünlü daralması"
+    ],
+    "dogruCevap": "Ünlü düşmesi - ünlü daralması",
+    "aciklama": "seyrediyorum (ünlü daralması), seyretti (ünlü düşmesi)"
+  }
+],
+    "Yapı Bilgisi": [
+  {
+    "soru": "I. Göz-lük-çü-lük\nII. Yaz-dır-t-mak\nIII. Bil-gi-say-ar\nIV. Sor-um-lu-luk\n\nYukarıdaki sözcüklerden hangileri yapım ekiyle türetilmiş birleşik sözcüktür?",
+    "secenekler": [
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "II ve IV"
+    ],
+    "dogruCevap": "Yalnız III",
+    "aciklama": "Bilgisayar: bil- (fiil) + gi (yapım eki) + say- (fiil) + ar (yapım eki) şeklinde oluşmuş birleşik sözcüktür."
+  },
+  {
+    "soru": "'Küçücük elleriyle masadaki kitabı aldı.' cümlesindeki sözcüklerin yapısı hangi seçenekte doğru verilmiştir?",
+    "secenekler": [
+      "Türemiş - basit - basit - basit",
+      "Türemiş - basit - türemiş - basit",
+      "Basit - türemiş - basit - türemiş",
+      "Türemiş - türemiş - türemiş - basit"
+    ],
+    "dogruCevap": "Türemiş - basit - türemiş - basit",
+    "aciklama": "küçücük (türemiş), el (basit), masadaki (türemiş), kitap (basit)"
+  },
+  {
+    "soru": "Aşağıdaki sözcüklerden hangisinin kökü diğerlerinden farklıdır?",
+    "secenekler": [
+      "bilgisayar",
+      "bilgili",
+      "bilgiç",
+      "bildiri"
+    ],
+    "dogruCevap": "bildiri",
+    "aciklama": "Diğerleri 'bilgi' isminden türerken, 'bildiri' sözcüğü 'bildir-' fiilinden türemiştir."
+  },
+  {
+    "soru": "I. Göz-cü\nII. Göz-lük\nIII. Göz-le\nIV. Göz-et\n\nYukarıdaki sözcüklerden hangileri isimden fiil yapım eki almıştır?",
+    "secenekler": [
+      "I ve II",
+      "II ve III",
+      "III ve IV",
+      "I ve IV"
+    ],
+    "dogruCevap": "III ve IV"
+  },
+  {
+    "soru": "'Karşılaştırılabilirlik' sözcüğünün yapım ekleri hangi seçenekte doğru sıralanmıştır?",
+    "secenekler": [
+      "-laş, -tır, -ıl, -abil, -ir, -lik",
+      "-laş, -tır, -abil, -ir, -lik, -ıl",
+      "-ış, -tır, -ıl, -abil, -ir, -lik",
+      "-laş, -tır, -ıl, -ir, -abil, -lik"
+    ],
+    "dogruCevap": "-laş, -tır, -ıl, -abil, -ir, -lik"
+  },
+  {
+    "soru": "Aşağıdaki birleşik sözcüklerden hangisi farklı bir yolla oluşturulmuştur?",
+    "secenekler": [
+      "hanımeli",
+      "kuşburnu",
+      "aslanağzı",
+      "cumartesi"
+    ],
+    "dogruCevap": "cumartesi",
+    "aciklama": "Cumartesi: Farsça 'cuma ertesi'nden gelir. Diğerleri belirtisiz isim tamlaması yoluyla oluşmuştur."
+  },
+  {
+    "soru": "'Güzelleştirilemeyenlerdenmiş' sözcüğünde kaç çekim eki vardır?",
+    "secenekler": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "dogruCevap": "3",
+    "aciklama": "-ler (çoğul eki), -den (ayrılma hal eki), -miş (bildirme eki)"
+  },
+  {
+    "soru": "I. Açık-göz\nII. Baş-bakan\nIII. Bil-gi-say-ar\nIV. Kız-ıl-ay\n\nYukarıdaki birleşik sözcüklerden hangileri sıfat tamlaması yoluyla oluşmuştur?",
+    "secenekler": [
+      "Yalnız I",
+      "I ve II",
+      "II ve III",
+      "III ve IV"
+    ],
+    "dogruCevap": "Yalnız I"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde hem yapım hem çekim eki almış sözcük yoktur?",
+    "secenekler": [
+      "Bahçedeki çiçekleri suladım.",
+      "Kitabı masaya koydum.",
+      "Güneşli günleri özledim.",
+      "Evden çıktı."
+    ],
+    "dogruCevap": "Kitabı masaya koydum.",
+    "aciklama": "Diğer cümlelerde 'bahçedeki (yapım+çekim)', 'güneşli (yapım+çekim)', 'evden (yapım+çekim)' sözcükleri vardır."
+  },
+  {
+    "soru": "'Kalem-lik-ler-imiz-den' sözcüğündeki eklerin türü hangi seçenekte doğru sıralanmıştır?",
+    "secenekler": [
+      "yapım-yapım-çekim-çekim-çekim",
+      "yapım-çekim-çekim-çekim-çekim",
+      "çekim-yapım-çekim-çekim-çekim",
+      "yapım-çekim-yapım-çekim-çekim"
+    ],
+    "dogruCevap": "yapım-çekim-çekim-çekim-çekim"
+  },
+  {
+    "soru": "Aşağıdaki sözcüklerden hangisi hem yapısına hem de ek alışına göre diğerlerinden farklıdır?",
+    "secenekler": [
+      "balıkçılık",
+      "öğretmenlik",
+      "yazarlık",
+      "insanlık"
+    ],
+    "dogruCevap": "balıkçılık",
+    "aciklama": "'balıkçılık' sözcüğü iki yapım eki almıştır (balık+çı+lık), diğerleri tek yapım eki almıştır."
+  },
+  {
+    "soru": "'Gözlükçülerimizden' sözcüğünün kökü ve aldığı ekler hangi seçenekte doğru gösterilmiştir?",
+    "secenekler": [
+      "göz (kök) + lük, çü (yapım) + ler, imiz, den (çekim)",
+      "göz (kök) + lük, çü, ler (yapım) + imiz, den (çekim)",
+      "gözlük (kök) + çü (yapım) + ler, imiz, den (çekim)",
+      "göz (kök) + lük, çü (yapım) + ler, imiz, den (çekim)"
+    ],
+    "dogruCevap": "göz (kök) + lük, çü (yapım) + ler, imiz, den (çekim)"
+  },
+  {
+    "soru": "Aşağıdaki birleşik fiillerden hangisi yardımcı eylemle kurulmamıştır?",
+    "secenekler": [
+      "dans et-",
+      "yardım et-",
+      "söz ver-",
+      "kayıp ol-"
+    ],
+    "dogruCevap": "söz ver-",
+    "aciklama": "'söz ver-' anlamca kaynaşmış birleşik fiildir."
+  },
+  {
+    "soru": "'Küçücük elleriyle masadaki kitabı aldı.' cümlesinde kaç tane yapım eki kullanılmıştır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "2",
+    "aciklama": "küçücük (-cük), masadaki (-ki) yapım ekleridir."
+  },
+  {
+    "soru": "Aşağıdaki sözcüklerden hangisi isimden isim yapan bir ek almıştır?",
+    "secenekler": [
+      "yazılı",
+      "gözlük",
+      "kitapçı",
+      "balıkçı"
+    ],
+    "dogruCevap": "gözlük"
+  },
+  {
+    "soru": "'Bilgisayarlı' sözcüğünün yapısı aşağıdakilerden hangisinde doğru gösterilmiştir?",
+    "secenekler": [
+      "Birleşik kök + yapım eki",
+      "Basit kök + yapım eki + yapım eki",
+      "Türemiş kök + yapım eki",
+      "Birleşik gövde + yapım eki"
+    ],
+    "dogruCevap": "Birleşik kök + yapım eki"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde birleşik sözcük yoktur?",
+    "secenekler": [
+      "Dedemin kahvaltısını hazırladım.",
+      "Hanımeli bahçemizde açmış.",
+      "Akşamüstü size geleceğim.",
+      "Başöğretmen toplantıya katıldı."
+    ],
+    "dogruCevap": "Dedemin kahvaltısını hazırladım."
+  },
+  {
+    "soru": "'Göz-lem-ci-lik-ten' sözcüğünde kaç yapım eki vardır?",
+    "secenekler": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "dogruCevap": "3",
+    "aciklama": "-lem, -ci, -lik yapım ekleridir. -ten çekim ekidir."
+  },
+  {
+    "soru": "Aşağıdaki sözcüklerden hangisi gövdeden türetilmiştir?",
+    "secenekler": [
+      "balıkçı",
+      "yazılı",
+      "gözlükçü",
+      "kitaplık"
+    ],
+    "dogruCevap": "gözlükçü",
+    "aciklama": "'gözlük' gövdesinden '-çü' ekiyle türetilmiştir."
+  },
+  {
+    "soru": "'Çalışkanlık' sözcüğünün yapısı aşağıdakilerden hangisinde doğru gösterilmiştir?",
+    "secenekler": [
+      "çalış- (fiil) + -kan (yapım) + -lık (yapım)",
+      "çalış- (fiil) + -kan (çekim) + -lık (yapım)",
+      "çalışkan (sıfat) + -lık (yapım)",
+      "çalış (isim) + -kan (yapım) + -lık (yapım)"
+    ],
+    "dogruCevap": "çalış- (fiil) + -kan (yapım) + -lık (yapım)"
+  }
+],
+   "Sözcük Türleri": [
+  {
+    "soru": "I. Güzel bir gün geçirdik.\nII. Güzel konuşuyorsun.\nIII. Bu güzel benim değil.\nIV. Güzel yazı yazmış.\n\nYukarıdaki cümlelerde 'güzel' sözcüğü hangi seçenekte sırasıyla doğru verilmiştir?",
+    "secenekler": [
+      "Sıfat - zarf - isim - sıfat",
+      "Sıfat - zarf - sıfat - zarf",
+      "Zarf - sıfat - isim - sıfat",
+      "İsim - zarf - sıfat - zarf"
+    ],
+    "dogruCevap": "Sıfat - zarf - isim - sıfat",
+    "aciklama": "I'de güzel gün (sıfat), II'de güzel konuşmak (zarf), III'te bu güzel (isim), IV'te güzel yazı (sıfat)"
+  },
+  {
+    "soru": "'Bazı insanlar hiç kimseyi beğenmez.' cümlesindeki altı çizili sözcüklerin türü hangi seçenekte doğru verilmiştir?",
+    "secenekler": [
+      "Belgisiz zamir - belgisiz zamir",
+      "Belgisiz sıfat - belgisiz zamir",
+      "Belgisiz sıfat - olumsuzluk zarfı",
+      "Belgisiz zamir - olumsuzluk sıfatı"
+    ],
+    "dogruCevap": "Belgisiz sıfat - belgisiz zamir"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde isim tamlamasının sıfat tamlamasını nitelediği bir kullanım vardır?",
+    "secenekler": [
+      "Bahçenin güzel çiçekleri açmış.",
+      "Evin büyük kapısı boyandı.",
+      "Masanın eski örtüsü yırtılmış.",
+      "Okulun yeni müdürü geldi."
+    ],
+    "dogruCevap": "Bahçenin güzel çiçekleri açmış.",
+    "aciklama": "'Bahçenin çiçekleri' isim tamlaması, 'güzel çiçekler' sıfat tamlamasını nitelemektedir."
+  },
+  {
+    "soru": "I. Okula giderken arkadaşımı gördüm.\nII. Yorulunca dinleniriz.\nIII. Çalıştığı için başarılı oldu.\nIV. Eve geldiğimde uyuyordu.\n\nYukarıdaki cümlelerde altı çizili sözcüklerden hangisi zarf-fiil değildir?",
+    "secenekler": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "dogruCevap": "IV",
+    "aciklama": "IV'teki 'geldiğimde' sıfat-fiildir, diğerleri zarf-fiildir."
+  },
+  {
+    "soru": "'Bugün hava oldukça soğuktu.' cümlesindeki sözcüklerin türleri sırasıyla hangi seçenekte doğru verilmiştir?",
+    "secenekler": [
+      "Zarf - isim - zarf - isim - fiil",
+      "İsim - isim - zarf - sıfat - fiil",
+      "Zarf - isim - zarf - sıfat - fiil",
+      "İsim - isim - edat - sıfat - fiil"
+    ],
+    "dogruCevap": "Zarf - isim - zarf - sıfat - fiil"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde hem niteleme hem belirtme sıfatı bir arada kullanılmıştır?",
+    "secenekler": [
+      "Bu güzel kitabı dün aldım.",
+      "Şu kırmızı arabayı çok beğendim.",
+      "Eski evimizi özlüyorum.",
+      "Bazı insanlar çok konuşur."
+    ],
+    "dogruCevap": "Bu güzel kitabı dün aldım.",
+    "aciklama": "'Bu' işaret sıfatı (belirtme), 'güzel' niteleme sıfatıdır."
+  },
+  {
+    "soru": "'Onun kadar güzel konuşan birini görmedim.' cümlesindeki altı çizili sözcüklerin türü hangi seçenekte doğru verilmiştir?",
+    "secenekler": [
+      "Zamir - edat - sıfat - sıfat-fiil - zamir",
+      "Zamir - edat - zarf - sıfat-fiil - zamir",
+      "Sıfat - zarf - sıfat - zarf-fiil - zamir",
+      "Zamir - edat - sıfat - zarf-fiil - sıfat"
+    ],
+    "dogruCevap": "Zamir - edat - zarf - sıfat-fiil - zamir"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'ki' bağlaç değildir?",
+    "secenekler": [
+      "Öyle çalış ki başarılı ol.",
+      "Masadaki kitap benim.",
+      "Dedim ki sana gelme.",
+      "Gel ki konuşalım."
+    ],
+    "dogruCevap": "Masadaki kitap benim.",
+    "aciklama": "'Masadaki' sözcüğündeki 'ki' yapım ekidir."
+  },
+  {
+    "soru": "'Yaşlı adam yavaşça yürüyordu.' cümlesindeki sözcüklerin türleri sırasıyla hangi seçenekte doğru verilmiştir?",
+    "secenekler": [
+      "Sıfat - isim - zarf - fiil",
+      "İsim - isim - zarf - fiil",
+      "Sıfat - isim - sıfat - fiil",
+      "İsim - sıfat - zarf - fiil"
+    ],
+    "dogruCevap": "Sıfat - isim - zarf - fiil"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde isim-fiil (mastar) yoktur?",
+    "secenekler": [
+      "Yürümek sağlıklıdır.",
+      "Okumayı çok severim.",
+      "Yazmaktan yoruldum.",
+      "Koşarak geldi."
+    ],
+    "dogruCevap": "Koşarak geldi.",
+    "aciklama": "'Koşarak' zarf-fiildir."
+  },
+  {
+    "soru": "'Herkes kendini düşünüyor.' cümlesindeki altı çizili sözcüklerin türü hangi seçenekte doğru verilmiştir?",
+    "secenekler": [
+      "Belgisiz zamir - dönüşlülük zamiri",
+      "Belgisiz sıfat - kişi zamiri",
+      "Belgisiz zamir - kişi zamiri",
+      "Belgisiz sıfat - dönüşlülük zamiri"
+    ],
+    "dogruCevap": "Belgisiz zamir - dönüşlülük zamiri"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'gibi' edatı benzetme anlamı katmamıştır?",
+    "secenekler": [
+      "Kuş gibi uçuyor.",
+      "Senin gibi düşünüyorum.",
+      "Demir gibi sağlam.",
+      "Dün gibi hatırlıyorum."
+    ],
+    "dogruCevap": "Dün gibi hatırlıyorum.",
+    "aciklama": "Burada 'gibi' zaman anlamı katmıştır."
+  },
+  {
+    "soru": "'Ne zaman geleceksin?' cümlesindeki 'ne' sözcüğünün türü nedir?",
+    "secenekler": [
+      "Soru sıfatı",
+      "Soru zamiri",
+      "Soru zarfı",
+      "Bağlaç"
+    ],
+    "dogruCevap": "Soru zarfı"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde niteleme sıfatı yoktur?",
+    "secenekler": [
+      "Kırmızı gül açmış.",
+      "Beş kitap aldım.",
+      "Güzel bir gün geçirdik.",
+      "Yaşlı adam uyuyordu."
+    ],
+    "dogruCevap": "Beş kitap aldım.",
+    "aciklama": "'Beş' sayı sıfatıdır."
+  },
+  {
+    "soru": "'Çalışkan öğrenciler başarılı olur.' cümlesindeki sözcüklerin türleri sırasıyla hangi seçenekte doğru verilmiştir?",
+    "secenekler": [
+      "Sıfat - isim - sıfat - fiil",
+      "İsim - isim - zarf - fiil",
+      "Sıfat - isim - zarf - fiil",
+      "Zarf - isim - sıfat - fiil"
+    ],
+    "dogruCevap": "Sıfat - isim - sıfat - fiil"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde hem sıfat-fiil hem zarf-fiil kullanılmıştır?",
+    "secenekler": [
+      "Koşarak gelen çocuk yorulmuştu.",
+      "Ağlayan bebek sustu.",
+      "Gülerek oynuyordu.",
+      "Yazılmış mektup masadaydı."
+    ],
+    "dogruCevap": "Koşarak gelen çocuk yorulmuştu.",
+    "aciklama": "'Koşarak' zarf-fiil, 'gelen' sıfat-fiildir."
+  },
+  {
+    "soru": "'Ancak sen yapabilirsin bunu.' cümlesindeki 'ancak' sözcüğünün türü nedir?",
+    "secenekler": [
+      "Bağlaç",
+      "Edat",
+      "Zarf",
+      "Ünlem"
+    ],
+    "dogruCevap": "Zarf",
+    "aciklama": "Burada 'ancak' sözcüğü 'sadece' anlamında zarf görevindedir."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde isim tamlaması yoktur?",
+    "secenekler": [
+      "Bahçenin kapısı açıktı.",
+      "Güzel bir gün geçirdik.",
+      "Evin penceresi kırılmış.",
+      "Okulun bahçesi temizdi."
+    ],
+    "dogruCevap": "Güzel bir gün geçirdik.",
+    "aciklama": "Bu cümlede sıfat tamlaması vardır."
+  },
+  {
+    "soru": "'Okula gitmek için erkenden kalktı.' cümlesindeki 'için' sözcüğünün türü nedir?",
+    "secenekler": [
+      "Bağlaç",
+      "Edat",
+      "Zarf",
+      "İsim"
+    ],
+    "dogruCevap": "Edat"
+  },
+  {
+    "soru": "Aşağıdaki altı çizili sözcüklerden hangisi farklı bir türdedir?",
+    "secenekler": [
+      "Hızlı koşuyordu.",
+      "Güzel konuştu.",
+      "Yavaş yürüdü.",
+      "Akıllı çocuk."
+    ],
+    "dogruCevap": "Akıllı çocuk.",
+    "aciklama": "'Akıllı' sıfat, diğerleri zarftır."
+  }
+],
+     "Cümle Bilgisi": [
+  {
+    "soru": "I. Kitabı masaya koydu.\nII. Yarın okula gideceğim.\nIII. Ahmet hızlıca koştu.\nIV. Çocuk bahçede oynuyor.\n\nYukarıdaki cümlelerden hangileri özne-yüklem-nesne-dolaylı tümleç sırasıyla kurulmuştur?",
+    "secenekler": [
+      "Yalnız I",
+      "I ve II",
+      "II ve III",
+      "III ve IV"
+    ],
+    "dogruCevap": "Yalnız I",
+    "aciklama": "Sadece 'Kitabı masaya koydu' cümlesi bu sıralamaya uygundur."
+  },
+  {
+    "soru": "'Küçük çocuk parkta arkadaşlarıyla neşeyle oynuyordu.' cümlesinin ögeleri hangi seçenekte doğru sıralanmıştır?",
+    "secenekler": [
+      "Özne / Yer tamlayıcısı / Zarf tümleci / Yüklem",
+      "Özne / Dolaylı tümleç / Zarf tümleci / Yüklem",
+      "Özne / Yer tamlayıcısı / Dolaylı tümleç / Zarf tümleci / Yüklem",
+      "Sıfat tamlaması (özne) / Dolaylı tümleç / Zarf tümleci / Yüklem"
+    ],
+    "dogruCevap": "Sıfat tamlaması (özne) / Dolaylı tümleç / Zarf tümleci / Yüklem"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerden hangisi sadece özne ve yüklemden oluşmaktadır?",
+    "secenekler": [
+      "Çocuk ağlıyor.",
+      "Kuşlar gökyüzünde uçuyor.",
+      "Ahmet kitap okuyor.",
+      "Güneş parlak parlıyor."
+    ],
+    "dogruCevap": "Çocuk ağlıyor."
+  },
+  {
+    "soru": "'Öğretmen, öğrencilere yeni kitapları dağıttı.' cümlesinde hangi öge yoktur?",
+    "secenekler": [
+      "Özne",
+      "Dolaylı tümleç",
+      "Nesne",
+      "Zarf tümleci"
+    ],
+    "dogruCevap": "Zarf tümleci"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerden hangisi kurallı (düz) bir cümle değildir?",
+    "secenekler": [
+      "Yarın size geleceğim.",
+      "Kitabı masaya koydum.",
+      "Geldi bahar ayları.",
+      "Çocuklar parkta oynuyor."
+    ],
+    "dogruCevap": "Geldi bahar ayları.",
+    "aciklama": "Yüklem cümle başında olduğu için devrik cümledir."
+  },
+  {
+    "soru": "'Akşamüstü sahilde yürüyüş yapıyorduk.' cümlesinde zarf tümleci hangi sözcük ya da sözcük grubudur?",
+    "secenekler": [
+      "Yalnız 'akşamüstü'",
+      "Yalnız 'sahilde'",
+      "'akşamüstü sahilde'",
+      "'sahilde yürüyüş'"
+    ],
+    "dogruCevap": "'akşamüstü sahilde'",
+    "aciklama": "Her iki sözcük de zaman ve yer bildiren zarf tümlecidir."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerden hangisinde nesne, hem yapıca hem de anlamca farklıdır?",
+    "secenekler": [
+      "Kitabı masaya koydum.",
+      "Çocuğu okuldan aldım.",
+      "Güzel bir film izledik.",
+      "Kapıyı yavaşça açtı."
+    ],
+    "dogruCevap": "Güzel bir film izledik.",
+    "aciklama": "Sıfat tamlaması şeklinde belirtisiz nesnedir."
+  },
+  {
+    "soru": "'Bahçedeki çiçekleri annem özenle suladı.' cümlesinin öge dizilişi aşağıdakilerden hangisinde doğru verilmiştir?",
+    "secenekler": [
+      "Nesne / Özne / Zarf tümleci / Yüklem",
+      "Dolaylı tümleç / Özne / Zarf tümleci / Yüklem",
+      "Zarf tümleci / Özne / Nesne / Yüklem",
+      "Nesne / Zarf tümleci / Özne / Yüklem"
+    ],
+    "dogruCevap": "Nesne / Özne / Zarf tümleci / Yüklem"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerden hangisi yapısına göre birleşik cümledir?",
+    "secenekler": [
+      "Hava güzeldi ve dışarı çıktık.",
+      "Kitap okumayı çok severim.",
+      "Yarın size geleceğim.",
+      "Güneş parlak parlıyordu."
+    ],
+    "dogruCevap": "Hava güzeldi ve dışarı çıktık."
+  },
+  {
+    "soru": "'Küçük kardeşim okula başladı.' cümlesinin öznesi aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Küçük",
+      "Kardeşim",
+      "Küçük kardeşim",
+      "Okula"
+    ],
+    "dogruCevap": "Küçük kardeşim",
+    "aciklama": "Sıfat tamlaması şeklinde bir öznedir."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerden hangisinde dolaylı anlatım vardır?",
+    "secenekler": [
+      "Ali: 'Yarın geleceğim.' dedi.",
+      "Ayşe yarın geleceğini söyledi.",
+      "Hava çok güzelmiş.",
+      "Gelecek misin?"
+    ],
+    "dogruCevap": "Ayşe yarın geleceğini söyledi."
+  },
+  {
+    "soru": "'Çocuk, bahçede arkadaşlarıyla oyun oynuyor.' cümlesinde aşağıdakilerden hangisi yoktur?",
+    "secenekler": [
+      "Özne",
+      "Zarf tümleci",
+      "Dolaylı tümleç",
+      "Belirtili nesne"
+    ],
+    "dogruCevap": "Belirtili nesne"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerden hangisi hem yapıca hem de anlamca olumsuzdur?",
+    "secenekler": [
+      "Hiç kimse gelmedi.",
+      "Bu iş böyle olmaz.",
+      "Gelmez olaydı.",
+      "İyi değildi."
+    ],
+    "dogruCevap": "Hiç kimse gelmedi.",
+    "aciklama": "'Hiç kimse' ve '-me' olumsuzluk eki birlikte kullanılmıştır."
+  },
+  {
+    "soru": "'Akşama kadar ders çalıştım.' cümlesinde zarf tümleci hangi sorunun cevabıdır?",
+    "secenekler": [
+      "Nasıl?",
+      "Ne zaman?",
+      "Ne zamana kadar?",
+      "Niçin?"
+    ],
+    "dogruCevap": "Ne zamana kadar?"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerden hangisi içerik bakımından farklıdır?",
+    "secenekler": [
+      "Yarın size geleceğim.",
+      "Akşam buluşalım.",
+      "Kitap okudum.",
+      "Pikniğe gideceğiz."
+    ],
+    "dogruCevap": "Kitap okudum.",
+    "aciklama": "Diğerleri gelecek zamanda yapılacak işleri belirtirken, bu cümle geçmişte yapılan bir işi belirtir."
+  },
+  {
+    "soru": "'Güneşli bir günde parkta yürüyüş yapıyorduk.' cümlesinde kaç zarf tümleci vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "2",
+    "aciklama": "'Güneşli bir günde' ve 'parkta' zarf tümleçleridir."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerden hangisi yapısına göre girişik birleşik cümledir?",
+    "secenekler": [
+      "Geldiğini görünce çok sevindim.",
+      "Hava güzeldi ve pikniğe gittik.",
+      "Eve gitti, uyudu.",
+      "Kitap okuyorum."
+    ],
+    "dogruCevap": "Geldiğini görünce çok sevindim."
+  },
+  {
+    "soru": "'Ahmet okula gitti.' cümlesinin ögeleri arasına virgül konulursa anlamı nasıl değişir?",
+    "secenekler": [
+      "Özne vurgulanmış olur.",
+      "Yüklem vurgulanmış olur.",
+      "Nesne vurgulanmış olur.",
+      "Zarf tümleci vurgulanmış olur."
+    ],
+    "dogruCevap": "Özne vurgulanmış olur."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerden hangisinde nesne, yüklemin bildirdiği işten doğrudan etkilenmemektedir?",
+    "secenekler": [
+      "Kitabı okudum.",
+      "Evi temizledim.",
+      "Çocuğu gördüm.",
+      "Bahçeyi suladım."
+    ],
+    "dogruCevap": "Çocuğu gördüm.",
+    "aciklama": "'Görmek' eylemi nesneyi doğrudan etkilemez."
+  },
+  {
+    "soru": "'Küçük çocuk parkta oynuyor.' cümlesindeki 'küçük' sözcüğü hangi ögenin sıfatıdır?",
+    "secenekler": [
+      "Yüklemin",
+      "Öznenin",
+      "Nesnenin",
+      "Zarf tümlecinin"
+    ],
+    "dogruCevap": "Öznenin"
+  }
+],
+"Yazım Kuralları": [
   {
     "soru": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır?",
     "secenekler": [
@@ -7338,7 +7424,8 @@
       "Türkçe dersini çok seviyorum.",
       "Yarın size geleceğim."
     ],
-    "dogruCevap": "Hafta sonu İstanbula gideceğiz."
+    "dogruCevap": "Hafta sonu İstanbula gideceğiz.",
+    "aciklama": "Özel isim olan 'İstanbul'a' ayrı yazılmalıdır."
   },
   {
     "soru": "Aşağıdaki cümlelerin hangisinde 'de/da' bağlacı yanlış yazılmıştır?",
@@ -7348,7 +7435,8 @@
       "Bahçede çiçekler açmış.",
       "Ahmet'te bizimle gelecek."
     ],
-    "dogruCevap": "Ahmet'te bizimle gelecek."
+    "dogruCevap": "Ahmet'te bizimle gelecek.",
+    "aciklama": "Bağlaç olan 'de' ayrı yazılmalıdır."
   },
   {
     "soru": "Aşağıdaki cümlelerin hangisinde sayıların yazımı yanlıştır?",
@@ -7358,7 +7446,8 @@
       "Saat 17.30'da buluşalım.",
       "XX. yüzyılda yaşıyoruz."
     ],
-    "dogruCevap": "Yarışmada 1.'inci oldum."
+    "dogruCevap": "Yarışmada 1.'inci oldum.",
+    "aciklama": "Sıra sayıları ya rakamla ya da yazıyla yazılmalıdır, ikisi birden kullanılmaz."
   },
   {
     "soru": "Aşağıdaki cümlelerin hangisinde büyük harflerin kullanımı yanlıştır?",
@@ -7368,7 +7457,8 @@
       "Atatürk Lisesi'nde okuyorum.",
       "Van Gölü çok güzeldir."
     ],
-    "dogruCevap": "Doğu anadolu'da kış çok sert geçer."
+    "dogruCevap": "Doğu anadolu'da kış çok sert geçer.",
+    "aciklama": "Özel isim olan 'Doğu Anadolu' her kelimesi büyük harfle başlamalıdır."
   },
   {
     "soru": "Aşağıdaki birleşik kelimelerin hangisinin yazımı yanlıştır?",
@@ -7378,7 +7468,8 @@
       "hanımeli",
       "aşçıbaşı"
     ],
-    "dogruCevap": "baş ağrısı"
+    "dogruCevap": "baş ağrısı",
+    "aciklama": "'Başağrısı' bitişik yazılmalıdır."
   },
   {
     "soru": "Aşağıdaki cümlelerin hangisinde soru eki yanlış yazılmıştır?",
@@ -7388,7 +7479,8 @@
       "Anlayabildinmi?",
       "Nereye gidiyorsun?"
     ],
-    "dogruCevap": "Anlayabildinmi?"
+    "dogruCevap": "Anlayabildinmi?",
+    "aciklama": "Soru eki 'mı/mi/mu/mü' ayrı yazılmalıdır."
   },
   {
     "soru": "Aşağıdaki kısaltmaların hangisinin yazımı yanlıştır?",
@@ -7398,7 +7490,8 @@
       "cm.",
       "Prof. Dr."
     ],
-    "dogruCevap": "cm."
+    "dogruCevap": "cm.",
+    "aciklama": "Uluslararası ölçü birimlerinin kısaltmalarının sonuna nokta konmaz."
   },
   {
     "soru": "Aşağıdaki cümlelerin hangisinde noktalama işaretlerinin kullanımı yanlıştır?",
@@ -7408,7 +7501,8 @@
       "Kitap, defter ve kalem aldım.",
       "Atatürk, 1881'de doğdu."
     ],
-    "dogruCevap": "Ahmet; bugün okula gelmedi."
+    "dogruCevap": "Ahmet; bugün okula gelmedi.",
+    "aciklama": "Noktalı virgül yerine virgül kullanılmalıdır."
   },
   {
     "soru": "Aşağıdaki cümlelerin hangisinde özel isimlere gelen eklerin yazımı yanlıştır?",
@@ -7418,7 +7512,8 @@
       "İstanbulda'yım.",
       "Atatürk'ün evini gezdim."
     ],
-    "dogruCevap": "İstanbulda'yım."
+    "dogruCevap": "İstanbulda'yım.",
+    "aciklama": "Kesme işareti 'İstanbul'dayım' şeklinde olmalıdır."
   },
   {
     "soru": "Aşağıdaki tarih yazımlarından hangisi yanlıştır?",
@@ -7428,7 +7523,8 @@
       "19.Mayıs.1919",
       "30 Ağustos 1922"
     ],
-    "dogruCevap": "19.Mayıs.1919"
+    "dogruCevap": "19.Mayıs.1919",
+    "aciklama": "Tarihler arasına nokta konmaz."
   },
   {
     "soru": "Aşağıdaki pekiştirmeli sıfatlardan hangisinin yazımı yanlıştır?",
@@ -7438,7 +7534,8 @@
       "sımsıcak",
       "bembeyaz"
     ],
-    "dogruCevap": "sımsıcak"
+    "dogruCevap": "sımsıcak",
+    "aciklama": "'Sımsıcak' değil, 'sıpsıcak' olmalıdır."
   },
   {
     "soru": "Aşağıdaki bileşik fiillerden hangisinin yazımı doğrudur?",
@@ -7448,7 +7545,93 @@
       "hissetmek",
       "yardım etmek"
     ],
-    "dogruCevap": "vazgeçmek"
+    "dogruCevap": "vazgeçmek",
+    "aciklama": "'Vazgeçmek' bitişik, yardımcı fiille kurulanlar ayrı yazılır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'ki' ekinin yazımı yanlıştır?",
+    "secenekler": [
+      "Evdeki hesap çarşıya uymaz.",
+      "Biliyorum ki başaracaksın.",
+      "Halbuki o çok çalışkandı.",
+      "Öyleki herkes şaşırdı."
+    ],
+    "dogruCevap": "Öyleki herkes şaşırdı.",
+    "aciklama": "Bağlaç olan 'ki' ayrı yazılmalıdır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde sayıların yazımı doğrudur?",
+    "secenekler": [
+      "3.'üncü katta oturuyoruz.",
+      "7 nci sınıfa gidiyorum.",
+      "5.inci sırada bekliyorum.",
+      "2. kez uyarıyorum."
+    ],
+    "dogruCevap": "2. kez uyarıyorum."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde büyük harflerin kullanımı doğrudur?",
+    "secenekler": [
+      "Türk dil kurumuna başvurdum.",
+      "Orta doğu teknik üniversitesinde okuyor.",
+      "İç Anadolu Bölgesi'nde yaşıyorum.",
+      "Akdeniz'in kıyısında tatil yaptık."
+    ],
+    "dogruCevap": "İç Anadolu Bölgesi'nde yaşıyorum."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde bağlaçların yazımında yanlışlık yapılmıştır?",
+    "secenekler": [
+      "Ya sen ya o gelsin.",
+      "Hem gülüyor hem ağlıyordu.",
+      "Ne sen, ne de o geldi.",
+      "Yada sen git."
+    ],
+    "dogruCevap": "Yada sen git.",
+    "aciklama": "'Ya da' ayrı yazılmalıdır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde kesme işaretinin kullanımı yanlıştır?",
+    "secenekler": [
+      "TBMM'nin açılışı",
+      "1920'de",
+      "TDK'nin",
+      "3'üncü"
+    ],
+    "dogruCevap": "3'üncü",
+    "aciklama": "Sıra sayılarında kesme işareti kullanılmaz."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde kısaltmaların yazımı yanlıştır?",
+    "secenekler": [
+      "THY'de çalışıyor.",
+      "TRT'yi izliyorum.",
+      "T.C vatandaşıyım.",
+      "AB'ye üyelik"
+    ],
+    "dogruCevap": "T.C vatandaşıyım.",
+    "aciklama": "'T.C.' şeklinde yazılmalıdır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde rakamların yazımı doğrudur?",
+    "secenekler": [
+      "2.'inci sınıf öğrencisi",
+      "3 üncü kata çıktım",
+      "4'üncü sırada",
+      "5. sınıf"
+    ],
+    "dogruCevap": "5. sınıf"
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde birleşik sözcüklerin yazımı yanlıştır?",
+    "secenekler": [
+      "Çekyat aldık.",
+      "Haftasonu tatile gideceğiz.",
+      "Gecekondu yıkıldı.",
+      "Başvuru yaptım."
+    ],
+    "dogruCevap": "Haftasonu tatile gideceğiz.",
+    "aciklama": "'Hafta sonu' ayrı yazılmalıdır."
   }
 ]
      
@@ -7968,310 +8151,431 @@
           "dogruCevap": "12 Hayvanlı Takvim"
         }
       ],
-      "İlk Türk - İslam Devletleri ve Beylikleri": [
-        {
-          "soru": "İlk Türk-İslam devleti hangisidir?",
-          "secenekler": [
-            "Gazneliler",
-            "Büyük Selçuklu Devleti",
-            "Karahanlılar",
-            "Harzemşahlar"
-          ],
-          "dogruCevap": "Karahanlılar"
-        },
-        {
-          "soru": "Karahanlılar hangi hükümdar döneminde İslamiyet'i kabul etmiştir?",
-          "secenekler": [
-            "Satuk Buğra Han",
-            "Melikşah",
-            "Alp Tegin",
-            "Gazneli Mahmud"
-          ],
-          "dogruCevap": "Satuk Buğra Han"
-        },
-        {
-          "soru": "Gazneli Mahmud, hangi unvanla anılmıştır?",
-          "secenekler": [
-            "Kağan",
-            "Sultan",
-            "Hakan",
-            "Şah"
-          ],
-          "dogruCevap": "Sultan"
-        },
-        {
-          "soru": "Gazneliler, hangi Türk-İslam devleti tarafından yıkılmıştır?",
-          "secenekler": [
-            "Selçuklular",
-            "Karahanlılar",
-            "Eyyubiler",
-            "Harzemşahlar"
-          ],
-          "dogruCevap": "Selçuklular"
-        },
-        {
-          "soru": "Büyük Selçuklu Devleti'nin kurucusu kimdir?",
-          "secenekler": [
-            "Tuğrul Bey",
-            "Melikşah",
-            "Selçuk Bey",
-            "Alp Arslan"
-          ],
-          "dogruCevap": "Tuğrul Bey"
-        },
-        {
-          "soru": "Malazgirt Meydan Muharebesi hangi hükümdar döneminde kazanılmıştır?",
-          "secenekler": [
-            "Melikşah",
-            "Sencer",
-            "Tuğrul Bey",
-            "Alp Arslan"
-          ],
-          "dogruCevap": "Alp Arslan"
-        },
-        {
-          "soru": "Karahanlılar İslamiyet'i yaymak için hangi bölgede faaliyet göstermiştir?",
-          "secenekler": [
-            "Hindistan",
-            "Anadolu",
-            "Orta Asya",
-            "Mezopotamya"
-          ],
-          "dogruCevap": "Orta Asya"
-        },
-        {
-          "soru": "Gazneli Mahmud'un Hindistan'a düzenlediği seferlerin amacı nedir?",
-          "secenekler": [
-            "Vergi toplamak",
-            "Ticaret yollarını ele geçirmek",
-            "İslamiyet'i yaymak",
-            "Toprak kazanmak"
-          ],
-          "dogruCevap": "İslamiyet'i yaymak"
-        },
-        {
-          "soru": "Dandanakan Savaşı, hangi iki devlet arasında olmuştur?",
-          "secenekler": [
-            "Gazneliler ve Selçuklular",
-            "Eyyubiler ve Gazneliler",
-            "Selçuklular ve Harzemşahlar",
-            "Karahanlılar ve Gazneliler"
-          ],
-          "dogruCevap": "Gazneliler ve Selçuklular"
-        },
-        {
-          "soru": "Nizamiye Medreseleri hangi Selçuklu hükümdarı döneminde kurulmuştur?",
-          "secenekler": [
-            "Tuğrul Bey",
-            "Alp Arslan",
-            "Melikşah",
-            "Sencer"
-          ],
-          "dogruCevap": "Melikşah"
-        },
-        {
-          "soru": "Karahanlılar'da resmi dil olarak hangi dil kullanılmıştır?",
-          "secenekler": [
-            "Türkçe",
-            "Arapça",
-            "Çince",
-            "Farsça"
-          ],
-          "dogruCevap": "Türkçe"
-        },
-        {
-          "soru": "Gazneli Mahmud, Abbasi halifesini Şii Büveyhoğullarına karşı koruduğu için hangi unvanı almıştır?",
-          "secenekler": [
-            "Put Kırıcı",
-            "Sultan",
-            "Zıllullah",
-            "Sultan-ı Azam"
-          ],
-          "dogruCevap": "Sultan"
-        },
-        {
-          "soru": "İlk Türk-İslam yazılı eseri olan 'Kutadgu Bilig' hangi devlet zamanında yazılmıştır?",
-          "secenekler": [
-            "Gazneliler",
-            "Karahanlılar",
-            "Selçuklular",
-            "Harzemşahlar"
-          ],
-          "dogruCevap": "Karahanlılar"
-        },
-        {
-          "soru": "Anadolu'da kurulan ilk Türk beyliği hangisidir?",
-          "secenekler": [
-            "Mengücekliler",
-            "Saltuklular",
-            "Danişmentliler",
-            "Artuklular"
-          ],
-          "dogruCevap": "Saltuklular"
-        },
-        {
-          "soru": "Hasankeyf, hangi Türk beyliği döneminde önemli bir yerleşim yeri olmuştur?",
-          "secenekler": [
-            "Saltuklular",
-            "Mengücekliler",
-            "Artuklular",
-            "Danişmentliler"
-          ],
-          "dogruCevap": "Artuklular"
-        },
-        {
-          "soru": "Alp Arslan, hangi savaşta Bizans İmparatoru Romanos Diogenes'i yenmiştir?",
-          "secenekler": [
-            "Pasinler Savaşı",
-            "Malazgirt Savaşı",
-            "Dandanakan Savaşı",
-            "Yassıçemen Savaşı"
-          ],
-          "dogruCevap": "Malazgirt Savaşı"
-        },
-        {
-          "soru": "Selçukluların resmi dili hangi dildir?",
-          "secenekler": [
-            "Türkçe",
-            "Farsça",
-            "Arapça",
-            "Latince"
-          ],
-          "dogruCevap": "Farsça"
-        },
-        {
-          "soru": "Dandanakan Savaşı'ndan sonra Selçuklular hangi devleti yıkmıştır?",
-          "secenekler": [
-            "Karahanlılar",
-            "Gazneliler",
-            "Moğollar",
-            "Harzemşahlar"
-          ],
-          "dogruCevap": "Gazneliler"
-        },
-        {
-          "soru": "Selçuklular döneminde devlet işleri hangi mecliste görüşülürdü?",
-          "secenekler": [
-            "Divan-ı Saltanat",
-            "Kurultay",
-            "Meclis-i Şura",
-            "Şura"
-          ],
-          "dogruCevap": "Divan-ı Saltanat"
-        },
-        {
-          "soru": "Türk-İslam devletlerinde 'hükümdarın Allah’ın yeryüzündeki temsilcisi' olduğuna inanılan kavram nedir?",
-          "secenekler": [
-            "Nizam",
-            "Töre",
-            "Kut",
-            "Hilafet"
-          ],
-          "dogruCevap": "Kut"
-        }
-      ],
-      "İlk Türk - İslam Devletleri ve Beylikleri 2": [
-        {
-          "soru": "İslamiyet’i kabul eden ilk Türk devleti hangisidir?",
-          "secenekler": [
-            "Karahanlılar",
-            "Gazneliler",
-            "İtil Bulgarları",
-            "Selçuklular"
-          ],
-          "dogruCevap": "İtil Bulgarları"
-        },
-        {
-          "soru": "Karahanlılar hangi coğrafyada kurulmuştur?",
-          "secenekler": [
-            "Hindistan",
-            "Orta Asya",
-            "İran",
-            "Anadolu"
-          ],
-          "dogruCevap": "Orta Asya"
-        },
-        {
-          "soru": "Büyük Selçuklu Devleti'nin önemli vezirlerinden biri olan Nizamülmülk, hangi eseri yazmıştır?",
-          "secenekler": [
-            "Atabetü'l Hakayık",
-            "Kutadgu Bilig",
-            "Divan-ı Hikmet",
-            "Siyasetname"
-          ],
-          "dogruCevap": "Siyasetname"
-        },
-        {
-          "soru": "Hindistan’da Türkler tarafından kurulan ilk büyük Türk devleti hangisidir?",
-          "secenekler": [
-            "Babür İmparatorluğu",
-            "Delhi Türk Sultanlığı",
-            "Harzemşahlar",
-            "Timur İmparatorluğu"
-          ],
-          "dogruCevap": "Delhi Türk Sultanlığı"
-        },
-        {
-          "soru": "İlk Türk-İslam mimari eserlerini oluşturan devlet hangisidir?",
-          "secenekler": [
-            "Selçuklular",
-            "Harzemşahlar",
-            "Karahanlılar",
-            "Gazneliler"
-          ],
-          "dogruCevap": "Karahanlılar"
-        },
-        {
-          "soru": "Gazneli Mahmud, Hindistan seferleri sırasında hangi ünlü tapınağı yıkmıştır?",
-          "secenekler": [
-            "Brihadeeswarar Tapınağı",
-            "Somnath Tapınağı",
-            "Kandariya Mahadeva Tapınağı",
-            "Jagannath Tapınağı"
-          ],
-          "dogruCevap": "Somnath Tapınağı"
-        },
-        {
-          "soru": "Selçuklu Devleti’nin ilk başkenti neresidir?",
-          "secenekler": [
-            "Bağdat",
-            "Rey",
-            "Nişabur",
-            "Merv"
-          ],
-          "dogruCevap": "Nişabur"
-        },
-        {
-          "soru": "Karahanlılar, Türk-İslam kültürünün gelişmesinde hangi şehirde önemli bir merkez kurmuştur?",
-          "secenekler": [
-            "Buhara",
-            "Semerkand",
-            "Kaşgar",
-            "Balasagun"
-          ],
-          "dogruCevap": "Kaşgar"
-        },
-        {
-          "soru": "Gazneli Mahmud’un himayesine aldığı ünlü bilim insanı kimdir ve ilişkileri nasıldır?",
-          "secenekler": [
-            "Bir savaşta karşılaşmışlardır",
-            "Biruni Gazneliler için bir isyan çıkarmıştır",
-            "Onu himayesine almıştır",
-            "Onu sürgüne göndermiştir"
-          ],
-          "dogruCevap": "Onu himayesine almıştır"
-        },
-        {
-          "soru": "Anadolu’da kurulan Türk beyliklerinden hangisi ilk medreseyi yapmıştır?",
-          "secenekler": [
-            "Mengücekliler",
-            "Artuklular",
-            "Saltuklular",
-            "Danişmentliler"
-          ],
-          "dogruCevap": "Danişmentliler"
-        }
-      ],
+      "İlk Türk-İslam Devletleri ve Beylikleri": [
+  {
+    "soru": "Aşağıdakilerden hangisi Karahanlı Devleti'nin Türk-İslam tarihindeki önemli özelliklerinden biri değildir?",
+    "secenekler": [
+      "İlk Müslüman Türk devletidir",
+      "İlk kez medrese sistemini kurmuşlardır",
+      "Türkçeyi resmi dil olarak kullanmışlardır",
+      "İlk Türk-İslam eseri olan Kutadgu Bilig bu dönemde yazılmıştır"
+    ],
+    "dogruCevap": "İlk Müslüman Türk devletidir",
+    "aciklama": "İlk Müslüman Türk devleti İtil Bulgarlarıdır."
+  },
+  {
+    "soru": "Gazneli Devleti'nin en önemli hükümdarı olan Gazneli Mahmut döneminde aşağıdakilerden hangisi gerçekleşmemiştir?",
+    "secenekler": [
+      "Hindistan'a seferler düzenlemiştir",
+      "Sultan unvanını almıştır",
+      "Biruni'yi himaye etmiştir",
+      "Türkçeyi resmi dil yapmıştır"
+    ],
+    "dogruCevap": "Türkçeyi resmi dil yapmıştır",
+    "aciklama": "Gaznelilerde resmi dil Farsça idi."
+  },
+  {
+    "soru": "Büyük Selçuklu Devleti ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": [
+      "Dandanakan Savaşı ile kurulmuştur",
+      "İlk hükümdarı Tuğrul Bey'dir",
+      "Nizamiye Medreseleri kurulmuştur",
+      "Türkçe resmi dil olarak kullanılmıştır"
+    ],
+    "dogruCevap": "Türkçe resmi dil olarak kullanılmıştır",
+    "aciklama": "Büyük Selçuklularda resmi dil Farsça idi."
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Karahanlılar döneminde yazılmış eserlerden biri değildir?",
+    "secenekler": [
+      "Kutadgu Bilig",
+      "Divan-ı Lügati't Türk",
+      "Atabetü'l Hakayık",
+      "Siyasetname"
+    ],
+    "dogruCevap": "Siyasetname",
+    "aciklama": "Siyasetname, Büyük Selçuklu veziri Nizamülmülk tarafından yazılmıştır."
+  },
+  {
+    "soru": "Malazgirt Savaşı'nın sonuçları arasında aşağıdakilerden hangisi yer almaz?",
+    "secenekler": [
+      "Anadolu'nun kapıları Türklere açılmıştır",
+      "Bizans ordusu büyük bir yenilgiye uğramıştır",
+      "Türkiye tarihi başlamıştır",
+      "Büyük Selçuklu Devleti kurulmuştur"
+    ],
+    "dogruCevap": "Büyük Selçuklu Devleti kurulmuştur",
+    "aciklama": "Büyük Selçuklu Devleti daha önce Dandanakan Savaşı ile kurulmuştur."
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Türkiye Selçuklu Devleti'nin kurucusudur?",
+    "secenekler": [
+      "Kutalmışoğlu Süleymanşah",
+      "Alparslan",
+      "Tuğrul Bey",
+      "Melikşah"
+    ],
+    "dogruCevap": "Kutalmışoğlu Süleymanşah"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Karahanlılar döneminde İslamiyet'in Türkler arasında yayılmasında etkili olan faktörlerden biri değildir?",
+    "secenekler": [
+      "Türkçe eserler yazılması",
+      "Medreselerin kurulması",
+      "Ribatların inşa edilmesi",
+      "Hindistan seferlerinin düzenlenmesi"
+    ],
+    "dogruCevap": "Hindistan seferlerinin düzenlenmesi",
+    "aciklama": "Hindistan seferleri Gazneliler döneminde yapılmıştır."
+  },
+  {
+    "soru": "Büyük Selçuklu Devleti'nde aşağıdaki kurumlardan hangisi eğitim faaliyetlerini yürütmüştür?",
+    "secenekler": [
+      "Nizamiye Medreseleri",
+      "Divan-ı İnşa",
+      "Divan-ı Arz",
+      "Divan-ı İstifa"
+    ],
+    "dogruCevap": "Nizamiye Medreseleri"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Gazneli Mahmut'un Hindistan seferlerinin amaçlarından biri değildir?",
+    "secenekler": [
+      "İslamiyet'i yaymak",
+      "Ganimet elde etmek",
+      "Türk hakimiyetini kurmak",
+      "Bizans'ı zayıflatmak"
+    ],
+    "dogruCevap": "Bizans'ı zayıflatmak"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Büyük Selçuklu Devleti'nin yıkılış nedenleri arasında gösterilemez?",
+    "secenekler": [
+      "Taht kavgaları",
+      "Moğol istilası",
+      "İkta sisteminin bozulması",
+      "Haçlı Seferleri"
+    ],
+    "dogruCevap": "Haçlı Seferleri",
+    "aciklama": "Haçlı Seferleri daha çok Türkiye Selçuklularını etkilemiştir."
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Karahanlılar döneminde yazılan ilk Türkçe siyasetname özelliği taşıyan eserdir?",
+    "secenekler": [
+      "Kutadgu Bilig",
+      "Divan-ı Lügati't Türk",
+      "Atabetü'l Hakayık",
+      "Divan-ı Hikmet"
+    ],
+    "dogruCevap": "Kutadgu Bilig"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Büyük Selçuklu Devleti'nde vezirlik yapmış önemli devlet adamlarından biri değildir?",
+    "secenekler": [
+      "Nizamülmülk",
+      "Amidülmülk Kündüri",
+      "Tacülmülk",
+      "Yusuf Has Hacib"
+    ],
+    "dogruCevap": "Yusuf Has Hacib",
+    "aciklama": "Yusuf Has Hacib, Kutadgu Bilig'in yazarıdır ve Karahanlılar döneminde yaşamıştır."
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Dandanakan Savaşı'nın sonuçlarından biri değildir?",
+    "secenekler": [
+      "Büyük Selçuklu Devleti kuruldu",
+      "Gazneliler zayıfladı",
+      "Türkler İran'a hakim oldu",
+      "Anadolu'nun kapıları Türklere açıldı"
+    ],
+    "dogruCevap": "Anadolu'nun kapıları Türklere açıldı",
+    "aciklama": "Anadolu'nun kapıları Malazgirt Savaşı ile açılmıştır."
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Karahanlılar döneminde kurulan ilk Türk-İslam şehridir?",
+    "secenekler": [
+      "Kaşgar",
+      "Semerkant",
+      "Buhara",
+      "Balasagun"
+    ],
+    "dogruCevap": "Kaşgar"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Büyük Selçuklu Devleti'nde görülen askeri teşkilat birimlerinden biri değildir?",
+    "secenekler": [
+      "Gulaman-ı Saray",
+      "Hassa Ordusu",
+      "Türkmen Birlikleri",
+      "Yeniçeri Ocağı"
+    ],
+    "dogruCevap": "Yeniçeri Ocağı",
+    "aciklama": "Yeniçeri Ocağı Osmanlı Devleti'ne ait bir kurumdur."
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Gazneliler döneminde bilim ve kültür alanında öne çıkan bilim insanlarından biri değildir?",
+    "secenekler": [
+      "Biruni",
+      "Firdevsi",
+      "Kaşgarlı Mahmut",
+      "Utbi"
+    ],
+    "dogruCevap": "Kaşgarlı Mahmut",
+    "aciklama": "Kaşgarlı Mahmut Karahanlılar döneminde yaşamıştır."
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Büyük Selçuklu Devleti'nde uygulanan ikta sisteminin özelliklerinden biri değildir?",
+    "secenekler": [
+      "Toprakların mülkiyeti devlete aitti",
+      "Askeri amaçlı bir sistemdi",
+      "Babadan oğula geçerdi",
+      "Vergi toplama hakkı verilirdi"
+    ],
+    "dogruCevap": "Babadan oğula geçerdi"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Karahanlılar döneminde İslamiyet'i kabul eden ilk Türk hükümdarıdır?",
+    "secenekler": [
+      "Satuk Buğra Han",
+      "Bilge Kağan",
+      "Alp Arslan",
+      "Tuğrul Bey"
+    ],
+    "dogruCevap": "Satuk Buğra Han"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Büyük Selçuklu Devleti'nin başkentlerinden biri değildir?",
+    "secenekler": [
+      "Rey",
+      "Nişabur",
+      "Isfahan",
+      "Semerkant"
+    ],
+    "dogruCevap": "Semerkant",
+    "aciklama": "Semerkant, Karahanlıların önemli şehirlerinden biridir."
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Gazneli Mahmut'un 'Sultan' unvanını almasının nedenidir?",
+    "secenekler": [
+      "Abbasi halifesini Şii Büveyhoğullarına karşı koruması",
+      "Hindistan seferlerini başarıyla tamamlaması",
+      "Büyük bir devlet kurması",
+      "Samani Devleti'ni ortadan kaldırması"
+    ],
+    "dogruCevap": "Abbasi halifesini Şii Büveyhoğullarına karşı koruması"
+  }
+],
+"Anadolu Beylikleri": [
+  {
+    "soru": "Aşağıdakilerden hangisi Malazgirt Savaşı'ndan sonra Anadolu'da kurulan ilk Türk beyliğidir?",
+    "secenekler": [
+      "Danişmentliler",
+      "Saltuklular",
+      "Mengücekliler",
+      "Artuklular"
+    ],
+    "dogruCevap": "Saltuklular",
+    "aciklama": "Saltuklular, 1071 Malazgirt Savaşı'ndan sonra Erzurum ve çevresinde kurulan ilk Türk beyliğidir."
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi tıp alanında önemli gelişmeler kaydetmiş ve dönemin en büyük hastanesini kurmuştur?",
+    "secenekler": [
+      "Mengücekliler",
+      "Artuklular",
+      "Danişmentliler",
+      "Saltuklular"
+    ],
+    "dogruCevap": "Mengücekliler",
+    "aciklama": "Mengücekliler döneminde Divriği'de kurulan Darüşşifa, dönemin en önemli sağlık merkezlerinden biriydi."
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi madeni para basma tekniğinde önemli gelişmeler kaydetmiştir?",
+    "secenekler": [
+      "Artuklular",
+      "Saltuklular",
+      "Mengücekliler",
+      "Danişmentliler"
+    ],
+    "dogruCevap": "Artuklular",
+    "aciklama": "Artuklular, madeni para basımında özgün teknikler geliştirmişlerdir."
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisinin merkezi Sivas'tır?",
+    "secenekler": [
+      "Danişmentliler",
+      "Saltuklular",
+      "Mengücekliler",
+      "Artuklular"
+    ],
+    "dogruCevap": "Danişmentliler"
+  },
+  {
+    "soru": "Hasankeyf, hangi beyliğin önemli kültür ve sanat merkezlerinden biridir?",
+    "secenekler": [
+      "Artuklular",
+      "Danişmentliler",
+      "Saltuklular",
+      "Mengücekliler"
+    ],
+    "dogruCevap": "Artuklular"
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi Malatya ve çevresinde hüküm sürmüştür?",
+    "secenekler": [
+      "Danişmentliler",
+      "Saltuklular",
+      "Mengücekliler",
+      "Çaka Beyliği"
+    ],
+    "dogruCevap": "Danişmentliler"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Türkiye Selçukluları tarafından en son ortadan kaldırılan beyliktir?",
+    "secenekler": [
+      "Danişmentliler",
+      "Artuklular",
+      "Saltuklular",
+      "Mengücekliler"
+    ],
+    "dogruCevap": "Danişmentliler",
+    "aciklama": "Danişmentliler 1178'de ortadan kaldırılmıştır."
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi denizcilik faaliyetleriyle ön plana çıkmıştır?",
+    "secenekler": [
+      "Çaka Beyliği",
+      "Saltuklular",
+      "Mengücekliler",
+      "Artuklular"
+    ],
+    "dogruCevap": "Çaka Beyliği",
+    "aciklama": "Çaka Beyliği, İzmir merkezli ilk Türk denizcilik beyliğidir."
+  },
+  {
+    "soru": "Divriği Ulu Camii ve Darüşşifası hangi beylik döneminde yapılmıştır?",
+    "secenekler": [
+      "Mengücekliler",
+      "Artuklular",
+      "Danişmentliler",
+      "Saltuklular"
+    ],
+    "dogruCevap": "Mengücekliler"
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi Erzurum ve çevresinde hüküm sürmüştür?",
+    "secenekler": [
+      "Saltuklular",
+      "Danişmentliler",
+      "Mengücekliler",
+      "Artuklular"
+    ],
+    "dogruCevap": "Saltuklular"
+  },
+  {
+    "soru": "Danişmendname hangi beylik döneminde yazılmıştır?",
+    "secenekler": [
+      "Danişmentliler",
+      "Artuklular",
+      "Saltuklular",
+      "Mengücekliler"
+    ],
+    "dogruCevap": "Danişmentliler",
+    "aciklama": "Danişmendname, Danişmentliler döneminin önemli edebi eserlerindendir."
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi Diyarbakır ve çevresinde hüküm sürmüştür?",
+    "secenekler": [
+      "Artuklular",
+      "Saltuklular",
+      "Mengücekliler",
+      "Danişmentliler"
+    ],
+    "dogruCevap": "Artuklular"
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi Bizans'a karşı ilk deniz savaşlarını yapmıştır?",
+    "secenekler": [
+      "Çaka Beyliği",
+      "Artuklular",
+      "Danişmentliler",
+      "Saltuklular"
+    ],
+    "dogruCevap": "Çaka Beyliği"
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi mimari alanda özgün eserler vermiştir?",
+    "secenekler": [
+      "Mengücekliler",
+      "Çaka Beyliği",
+      "Saltuklular",
+      "Danişmentliler"
+    ],
+    "dogruCevap": "Mengücekliler",
+    "aciklama": "Divriği Ulu Camii ve Darüşşifası UNESCO Dünya Mirası Listesi'ndedir."
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi Haçlılara karşı önemli mücadeleler vermiştir?",
+    "secenekler": [
+      "Danişmentliler",
+      "Mengücekliler",
+      "Saltuklular",
+      "Çaka Beyliği"
+    ],
+    "dogruCevap": "Danişmentliler"
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi köprü mimarisinde önemli eserler vermiştir?",
+    "secenekler": [
+      "Artuklular",
+      "Danişmentliler",
+      "Saltuklular",
+      "Mengücekliler"
+    ],
+    "dogruCevap": "Artuklular",
+    "aciklama": "Hasankeyf Köprüsü önemli örneklerdendir."
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi bilimsel çalışmalara önem vermiş ve astronomi alanında gelişmeler kaydetmiştir?",
+    "secenekler": [
+      "Artuklular",
+      "Saltuklular",
+      "Danişmentliler",
+      "Mengücekliler"
+    ],
+    "dogruCevap": "Artuklular"
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi Türkiye Selçukluları tarafından ilk ortadan kaldırılan beyliktir?",
+    "secenekler": [
+      "Saltuklular",
+      "Mengücekliler",
+      "Danişmentliler",
+      "Artuklular"
+    ],
+    "dogruCevap": "Saltuklular"
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi en uzun süre varlığını sürdürmüştür?",
+    "secenekler": [
+      "Artuklular",
+      "Danişmentliler",
+      "Saltuklular",
+      "Mengücekliler"
+    ],
+    "dogruCevap": "Artuklular",
+    "aciklama": "Artuklular yaklaşık 300 yıl hüküm sürmüştür."
+  },
+  {
+    "soru": "Aşağıdaki beyliklerden hangisi eğitim alanında medreseler kurarak önemli gelişmeler kaydetmiştir?",
+    "secenekler": [
+      "Danişmentliler",
+      "Çaka Beyliği",
+      "Saltuklular",
+      "Mengücekliler"
+    ],
+    "dogruCevap": "Danişmentliler"
+  }
+],
       "Osmanlı Devleti Kuruluş ve Yükselme Dönemleri ": [
         {
           "soru": "Osmanlı Devleti'nin ilk veziri kimdir?",
