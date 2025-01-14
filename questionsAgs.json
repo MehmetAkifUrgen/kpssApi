@@ -103,6 +103,228 @@
           "dogruCevap": "Planlı ve programlı olması"
         }
       ],
+        "Eğitimin Temelleri": [
+          {
+            "soru": "Antik Yunan'da 'paideia' kavramı neyi ifade eder?",
+            "secenekler": [
+              "Sadece okuma yazma öğretimini",
+              "Bireyin bedensel gelişimini",
+              "İnsanın ideal ölçülerde yetiştirilmesini ve kültürlenmesini",
+              "Askeri eğitimi",
+              "Dini eğitimi"
+            ],
+            "dogruCevap": "İnsanın ideal ölçülerde yetiştirilmesini ve kültürlenmesini"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitimin ekonomik işlevlerinden biri değildir?",
+            "secenekler": [
+              "Nitelikli işgücü yetiştirme",
+              "Toplumsal hareketliliği sağlama",
+              "Üretim teknolojilerini geliştirme",
+              "Kültürel değerleri aktarma",
+              "İstihdam olanakları yaratma"
+            ],
+            "dogruCevap": "Kültürel değerleri aktarma"
+          },
+          {
+            "soru": "Eğitimin felsefi temelleri açısından 'esasicilik' (essentialism) akımının temel görüşü nedir?",
+            "secenekler": [
+              "Eğitimde bireysel farklılıklar esas alınmalıdır",
+              "Eğitimde temel kültürel değerler ve entelektüel beceriler kazandırılmalıdır",
+              "Eğitimde yaşantı ve deneyimler ön planda olmalıdır",
+              "Eğitimde toplumsal değişim hedeflenmelidir",
+              "Eğitimde öğrenci merkezli yaklaşım benimsenmelidir"
+            ],
+            "dogruCevap": "Eğitimde temel kültürel değerler ve entelektüel beceriler kazandırılmalıdır"
+          },
+          {
+            "soru": "Eğitimin psikolojik temelleri açısından Piaget'nin bilişsel gelişim kuramında 'özümleme' (assimilation) kavramı neyi ifade eder?",
+            "secenekler": [
+              "Yeni bilgilerin var olan şemalara uyarlanmasını",
+              "Şemaların yeni durumlara göre değiştirilmesini",
+              "Denge durumunun bozulmasını",
+              "Bilişsel yapıların olgunlaşmasını",
+              "Öğrenmenin transfer edilmesini"
+            ],
+            "dogruCevap": "Yeni bilgilerin var olan şemalara uyarlanmasını"
+          },
+          {
+            "soru": "Türk eğitim tarihinde Satı Bey'in öne çıkan görüşü aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Eğitimde dini değerlerin ön planda tutulması",
+              "Eğitimde batı tarzı yöntemlerin benimsenmesi",
+              "Eğitimde milliyetçi yaklaşımın benimsenmesi",
+              "Eğitimde çocuğun aktif olması ve yaparak yaşayarak öğrenmesi",
+              "Eğitimde disiplinin ön planda tutulması"
+            ],
+            "dogruCevap": "Eğitimde çocuğun aktif olması ve yaparak yaşayarak öğrenmesi"
+          },
+          {
+            "soru": "Eğitimin toplumsal temellerinde 'kültürel gecikme' kavramı neyi ifade eder?",
+            "secenekler": [
+              "Toplumun teknolojik gelişmelere ayak uyduramamasını",
+              "Maddi kültür ile manevi kültür arasındaki değişim hızı farkını",
+              "Eğitim sisteminin çağın gerisinde kalmasını",
+              "Kültürel değerlerin yok olmasını",
+              "Toplumsal değişimin yavaşlamasını"
+            ],
+            "dogruCevap": "Maddi kültür ile manevi kültür arasındaki değişim hızı farkını"
+          },
+          {
+            "soru": "John Dewey'in eğitim felsefesinde aşağıdakilerden hangisi temel bir ilke değildir?",
+            "secenekler": [
+              "Yaparak yaşayarak öğrenme",
+              "Öğrenci merkezli eğitim",
+              "Problem çözme becerisi",
+              "Mutlak bilgiye ulaşma",
+              "Yaşantı temelli öğrenme"
+            ],
+            "dogruCevap": "Mutlak bilgiye ulaşma"
+          },
+          {
+            "soru": "Eğitimin politik temelleri açısından 'gizli müfredat' kavramı neyi ifade eder?",
+            "secenekler": [
+              "Resmi programda yer almayan ancak örtük olarak öğretilen değer ve normları",
+              "Okul yönetiminin belirlediği kuralları",
+              "Öğretmenlerin ders içi uygulamalarını",
+              "Eğitim bakanlığının gizli politikalarını",
+              "Sınıf içi informal öğrenmeleri"
+            ],
+            "dogruCevap": "Resmi programda yer almayan ancak örtük olarak öğretilen değer ve normları"
+          },
+          {
+            "soru": "Eğitimin ekonomik işlevleri açısından 'beşeri sermaye' kavramı neyi ifade eder?",
+            "secenekler": [
+              "Eğitime yapılan maddi yatırımları",
+              "Bireylerin bilgi, beceri ve yeteneklerinin ekonomik değerini",
+              "Okulların fiziki altyapısını",
+              "Eğitim çalışanlarının maaşlarını",
+              "Eğitim kurumlarının bütçesini"
+            ],
+            "dogruCevap": "Bireylerin bilgi, beceri ve yeteneklerinin ekonomik değerini"
+          },
+          {
+            "soru": "Selçuklularda eğitim kurumu olan 'Nizamiye Medreseleri'nin en önemli özelliği aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Sadece dini eğitim vermesi",
+              "İlk sistemli ve programlı devlet okulu olması",
+              "Sadece askeri eğitim vermesi",
+              "Karma eğitim yapması",
+              "Özel okul statüsünde olması"
+            ],
+            "dogruCevap": "İlk sistemli ve programlı devlet okulu olması"
+          },
+          {
+            "soru": "Eğitimin psikolojik temelleri açısından Vygotsky'nin 'yakınsal gelişim alanı' kavramı neyi ifade eder?",
+            "secenekler": [
+              "Çocuğun kendi başına yapabildiği ile bir yetişkin desteğiyle yapabildiği arasındaki farkı",
+              "Çocuğun bilişsel olgunluk düzeyini",
+              "Çocuğun sosyal gelişim düzeyini",
+              "Çocuğun öğrenme kapasitesini",
+              "Çocuğun fiziksel gelişim düzeyini"
+            ],
+            "dogruCevap": "Çocuğun kendi başına yapabildiği ile bir yetişkin desteğiyle yapabildiği arasındaki farkı"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitimin toplumsal işlevlerinden biri değildir?",
+            "secenekler": [
+              "Toplumsal değerleri aktarma",
+              "Sosyalleşmeyi sağlama",
+              "Toplumsal kontrol sağlama",
+              "Bireysel farklılıkları ortadan kaldırma",
+              "Toplumsal bütünleşmeyi sağlama"
+            ],
+            "dogruCevap": "Bireysel farklılıkları ortadan kaldırma"
+          },
+          {
+            "soru": "İbn-i Sina'nın eğitim görüşlerinde aşağıdakilerden hangisi yer almaz?",
+            "secenekler": [
+              "Eğitimde bireysel farklılıklar dikkate alınmalıdır",
+              "Çocuklar ilgi ve yeteneklerine göre mesleğe yönlendirilmelidir",
+              "Eğitimde ceza temel motivasyon kaynağı olmalıdır",
+              "Eğitimde oyun ve müzikten yararlanılmalıdır",
+              "Çocuğun gelişim özellikleri dikkate alınmalıdır"
+            ],
+            "dogruCevap": "Eğitimde ceza temel motivasyon kaynağı olmalıdır"
+          },
+          {
+            "soru": "Eğitimin felsefi temelleri açısından 'daimicilik' (perennialism) akımının temel görüşü nedir?",
+            "secenekler": [
+              "Eğitimde değişmez evrensel gerçekler öğretilmelidir",
+              "Eğitimde güncel sorunlar ele alınmalıdır",
+              "Eğitimde toplumsal reform hedeflenmelidir",
+              "Eğitimde bireysel deneyimler ön planda olmalıdır",
+              "Eğitimde teknolojik gelişmeler takip edilmelidir"
+            ],
+            "dogruCevap": "Eğitimde değişmez evrensel gerçekler öğretilmelidir"
+          },
+          {
+            "soru": "Eğitimin politik temelleri açısından 'fırsat eşitliği' ilkesi öncelikle neyi gerektirir?",
+            "secenekler": [
+              "Herkese aynı eğitimi vermeyi",
+              "Herkese yetenekleri doğrultusunda eğitim imkanı sunmayı",
+              "Eğitimi tamamen ücretsiz yapmayı",
+              "Tüm okulları aynı fiziki şartlara getirmeyi",
+              "Öğretmen niteliklerini eşitlemeyi"
+            ],
+            "dogruCevap": "Herkese yetenekleri doğrultusunda eğitim imkanı sunmayı"
+          },
+          {
+            "soru": "Ziya Gökalp'in eğitim görüşlerinde aşağıdakilerden hangisi temel alınmıştır?",
+            "secenekler": [
+              "Dini değerlerin aktarılması",
+              "Batı medeniyetinin örnek alınması",
+              "Milli kültür ile çağdaş medeniyet sentezi",
+              "Geleneksel eğitim yöntemlerinin korunması",
+              "Bireysel özgürlüklerin ön plana çıkarılması"
+            ],
+            "dogruCevap": "Milli kültür ile çağdaş medeniyet sentezi"
+          },
+          {
+            "soru": "Eğitimin psikolojik temelleri açısından Bandura'nın sosyal öğrenme kuramında 'öz yeterlik' kavramı neyi ifade eder?",
+            "secenekler": [
+              "Bireyin başkalarını model alma becerisini",
+              "Bireyin kendi öğrenme kapasitesini",
+              "Bireyin belirli bir görevi başarabileceğine olan inancını",
+              "Bireyin sosyal becerilerini",
+              "Bireyin akademik başarısını"
+            ],
+            "dogruCevap": "Bireyin belirli bir görevi başarabileceğine olan inancını"
+          },
+          {
+            "soru": "Eğitimin ekonomik işlevleri açısından 'eğitimin dışsallığı' kavramı neyi ifade eder?",
+            "secenekler": [
+              "Eğitimin maliyetini",
+              "Eğitimin topluma olan faydasını",
+              "Eğitimin bireye sağladığı kazancı",
+              "Eğitimin uluslararası boyutunu",
+              "Eğitimin kurumsal yapısını"
+            ],
+            "dogruCevap": "Eğitimin topluma olan faydasını"
+          },
+          {
+            "soru": "Fatih Sultan Mehmet döneminde Sahn-ı Seman Medreselerinin kurulmasının temel amacı nedir?",
+            "secenekler": [
+              "Askeri eğitim vermek",
+              "Dini eğitim vermek",
+              "Yüksek düzeyde bilim adamı yetiştirmek",
+              "Saray görevlisi yetiştirmek",
+              "Teknik eğitim vermek"
+            ],
+            "dogruCevap": "Yüksek düzeyde bilim adamı yetiştirmek"
+          },
+          {
+            "soru": "Eğitimin toplumsal temelleri açısından 'yatay hareketlilik' kavramı neyi ifade eder?",
+            "secenekler": [
+              "Bireyin sosyal statüsünün yükselmesini",
+              "Bireyin sosyal statüsünün düşmesini",
+              "Bireyin aynı sosyal statü içinde yer değiştirmesini",
+              "Bireyin eğitim seviyesinin yükselmesini",
+              "Bireyin meslek değiştirmesini"
+            ],
+            "dogruCevap": "Bireyin aynı sosyal statü içinde yer değiştirmesini"
+          }
+        ],
       "Eğitimin Tarihsel Gelişimi": [
         {
           "soru": "İlk formal eğitim kurumları, hangi medeniyetler tarafından kurulmuştur?",
