@@ -3,15 +3,14 @@
      "Türkçe": {
       "Sözel Mantık": [
         {
-          "soru": "Ali, Burak, Canan, Deniz ve Elif bir sırada oturmaktadır.\n- Ali en başta oturmamaktadır.\n- Burak ve Canan yan yana oturmaktadır.\n- Deniz en sonda oturmaktadır.\n- Elif, Ali'nin hemen yanında oturmaktadır.\nBuna göre, sıranın başından itibaren öğrencilerin oturma düzeni aşağıdakilerden hangisidir?",
+          "soru": "Ali, Burak, Canan, Deniz ve Elif bir sırada oturmaktadır.\n- Ali en başta oturmamaktadır.\n- Burak ve Canan yan yana oturmaktadır.\n- Deniz en sonda oturmaktadır.\n- Elif, Ali'nin hemen yanında oturmaktadır.\n- Burak, Canan'ın solunda oturmaktadır.\nBuna göre, sıranın başından itibaren öğrencilerin oturma düzeni aşağıdakilerden hangisidir?",
           "secenekler": [
             "Burak-Canan-Ali-Elif-Deniz",
             "Canan-Burak-Elif-Ali-Deniz",
             "Burak-Canan-Elif-Ali-Deniz",
             "Canan-Burak-Ali-Elif-Deniz"
           ],
-          "dogruCevap": "Burak-Canan-Ali-Elif-Deniz",
-          "aciklama": "Verilen bilgilere göre tek olası düzen budur."
+          "dogruCevap": "Burak-Canan-Ali-Elif-Deniz"
         },
         {
           "soru": "Bir markette;\n- Süt peynirden ucuzdur.\n- Peynir yoğurttan pahalıdır.\n- Yoğurt tereyağından ucuzdur.\nBuna göre, en pahalı ürün hangisidir?",
@@ -35,7 +34,7 @@
           "dogruCevap": "Ahmet en büyüktür"
         },
         {
-          "soru": "Bir hafta boyunca her gün farklı bir ders çalışan Ayşe;\n- Salı günü matematik çalışmamıştır.\n- Türkçe'yi tarihten önce çalışmıştır.\n- Fen bilgisini cumartesi çalışmıştır.\n- Matematik ve İngilizce'yi art arda çalışmıştır.\nBuna göre, Ayşe hangi dersi perşembe günü çalışmıştır?",
+          "soru": "Bir hafta boyunca her gün farklı bir ders çalışan Ayşe;\n- Salı günü matematik çalışmamıştır.\n- Türkçe'yi tarihten önce çalışmıştır.\n- Fen bilgisini cumartesi çalışmıştır.\n- Matematik ve İngilizce'yi art arda çalışmıştır.\n- Türkçe'yi çarşamba günü çalışmıştır.\nBuna göre, Ayşe hangi dersi perşembe günü çalışmıştır?",
           "secenekler": [
             "Matematik",
             "Türkçe",
@@ -45,14 +44,14 @@
           "dogruCevap": "İngilizce"
         },
         {
-          "soru": "Bir parkta beş çocuk salıncakta sallanmaktadır.\n- Ayşe, Fatma'nın solundadır.\n- Can, Deniz'in sağındadır.\n- Berk, Ayşe'nin sağındadır.\n- Deniz en soldadır.\nBuna göre, ortada kim sallanmaktadır?",
+          "soru": "Bir parkta beş çocuk salıncakta sallanmaktadır.\n- Ayşe, Fatma'nın solundadır.\n- Can, Deniz'in sağındadır.\n- Berk, Ayşe'nin sağındadır.\n- Deniz en soldadır.\n- Can, Ayşe'nin solundadır.\nBuna göre, ortada kim sallanmaktadır?",
           "secenekler": [
             "Ayşe",
             "Berk",
             "Can",
             "Fatma"
           ],
-          "dogruCevap": "Berk"
+          "dogruCevap": "Ayşe"
         },
         {
           "soru": "Dört arkadaş farklı mesleklere sahiptir:\n- Doktor olan kişi öğretmenden uzundur.\n- Mühendis olan kişi en kısadır.\n- Avukat olan kişi doktordan kısadır.\nBuna göre, aşağıdakilerden hangisi kesinlikle yanlıştır?",
@@ -65,14 +64,14 @@
           "dogruCevap": "Öğretmen avukattan uzundur"
         },
         {
-          "soru": "Bir kütüphanede beş kitap yan yana dizilmiştir:\n- Roman, hikaye kitabından sonra gelmektedir.\n- Şiir kitabı en sonda değildir.\n- Deneme, romandan hemen sonra gelmektedir.\n- Biyografi en baştadır.\nBuna göre, ortadaki kitap hangisidir?",
+          "soru": "Bir kütüphanede beş kitap yan yana dizilmiştir:\n- Roman, hikaye kitabından sonra gelmektedir.\n- Şiir kitabı hikayeden önce gelmektedir.\n- Deneme, romandan hemen sonra gelmektedir.\n- Biyografi en baştadır.\nBuna göre, ortadaki kitap hangisidir?",
           "secenekler": [
             "Roman",
             "Hikaye",
             "Şiir",
             "Deneme"
           ],
-          "dogruCevap": "Roman"
+          "dogruCevap": "Hikaye"
         },
         {
           "soru": "A, B, C ve D şehirleri arasında;\n- A şehri B'nin doğusundadır.\n- C şehri D'nin batısındadır.\n- B şehri C'nin doğusundadır.\nBilgileri veriliyor. Buna göre, doğudan batıya doğru şehirlerin sıralanışı nasıldır?",
@@ -85,7 +84,7 @@
           "dogruCevap": "A-B-C-D"
         },
         {
-          "soru": "Beş arkadaş farklı günlerde sinemaya gitmiştir:\n- Ali çarşamba günü gitmemiştir.\n- Berk, Canan'dan önce gitmiştir.\n- Deniz, pazartesi günü gitmiştir.\n- Elif, salı günü gitmiştir.\nBuna göre, Ali hangi gün sinemaya gitmiştir?",
+          "soru": "Beş arkadaş farklı günlerde sinemaya gitmiştir:\n- Ali çarşamba günü gitmemiştir.\n- Berk, Canan'dan önce gitmiştir ve çarşamba günü gitmiştir.\n- Deniz, pazartesi günü gitmiştir.\n- Elif, salı günü gitmiştir.\nBuna göre, Ali hangi gün sinemaya gitmiştir?",
           "secenekler": [
             "Pazartesi",
             "Salı",
@@ -95,7 +94,7 @@
           "dogruCevap": "Perşembe"
         },
         {
-          "soru": "Bir masada dört fincan çay vardır:\n- Kırmızı fincan, mavi fincandan öncedir.\n- Yeşil fincan, sarı fincandan sonradır.\n- Mavi fincan en sonda değildir.\nBuna göre, hangi fincan kesinlikle en sondadır?",
+          "soru": "Bir masada dört fincan çay vardır:\n- Kırmızı fincan, mavi fincandan öncedir.\n- Yeşil fincan, sarı fincandan sonradır.\n- Mavi fincan en sonda değildir.\n- Yeşil fincan maviden sonradır.\nBuna göre, hangi fincan kesinlikle en sondadır?",
           "secenekler": [
             "Kırmızı",
             "Mavi",
@@ -103,6 +102,108 @@
             "Sarı"
           ],
           "dogruCevap": "Yeşil"
+        }
+      ],
+      "Sözel Mantık 2": [
+        {
+          "soru": "Beş arkadaş farklı günlerde sinemaya gitmiştir:\n- Ali pazartesi günü gitmemiştir.\n- Berk, Canan'dan önce gitmiştir ve çarşamba günü gitmiştir.\n- Deniz, pazartesi günü gitmiştir.\n- Elif, salı günü gitmiştir.\n- Canan cuma günü gitmiştir.\nBuna göre, Ali hangi gün sinemaya gitmiştir?",
+          "secenekler": [
+            "Pazartesi",
+            "Salı",
+            "Perşembe",
+            "Cuma"
+          ],
+          "dogruCevap": "Perşembe"
+        },
+        {
+          "soru": "Bir masada dört fincan çay vardır:\n- Kırmızı fincan, mavi fincandan öncedir.\n- Yeşil fincan, sarı fincandan sonradır.\n- Mavi fincan en sonda değildir.\n- Yeşil fincan maviden sonradır.\n- Sarı fincan en başta değildir.\nBuna göre, hangi fincan kesinlikle en sondadır?",
+          "secenekler": [
+            "Kırmızı",
+            "Mavi",
+            "Yeşil",
+            "Sarı"
+          ],
+          "dogruCevap": "Yeşil"
+        },
+        {
+          "soru": "Bir kütüphanede beş kitap yan yana dizilmiştir:\n- Roman, hikaye kitabından sonra gelmektedir.\n- Şiir kitabı hikayeden önce gelmektedir.\n- Deneme, romandan hemen sonra gelmektedir.\n- Biyografi en baştadır.\n- Roman en sonda değildir.\nBuna göre, ortadaki kitap hangisidir?",
+          "secenekler": [
+            "Roman",
+            "Hikaye",
+            "Şiir",
+            "Deneme"
+          ],
+          "dogruCevap": "Hikaye"
+        },
+        {
+          "soru": "A, B, C ve D şehirleri arasında;\n- A şehri B'nin doğusundadır.\n- C şehri D'nin batısındadır.\n- B şehri C'nin doğusundadır.\n- D en batıdadır.\nBilgileri veriliyor. Buna göre, doğudan batıya doğru şehirlerin sıralanışı nasıldır?",
+          "secenekler": [
+            "A-B-C-D",
+            "D-C-B-A",
+            "A-B-D-C",
+            "D-A-B-C"
+          ],
+          "dogruCevap": "A-B-C-D"
+        },
+        {
+          "soru": "Bir markette;\n- Süt peynirden ucuzdur.\n- Peynir yoğurttan pahalıdır.\n- Yoğurt tereyağından ucuzdur.\n- Tereyağı en pahalı üründür.\nBuna göre, en ucuz ürün hangisidir?",
+          "secenekler": [
+            "Süt",
+            "Peynir",
+            "Yoğurt",
+            "Tereyağı"
+          ],
+          "dogruCevap": "Süt"
+        },
+        {
+          "soru": "Beş öğrenci sınavdan farklı notlar almıştır:\n- Ali, Berk'ten yüksek not almıştır.\n- Canan, Deniz'den düşük not almıştır.\n- Elif en yüksek notu almıştır.\n- Berk, Deniz'den düşük not almıştır.\n- Canan, Berk'ten yüksek not almıştır.\nBuna göre, en düşük notu kim almıştır?",
+          "secenekler": [
+            "Ali",
+            "Berk",
+            "Canan",
+            "Deniz"
+          ],
+          "dogruCevap": "Berk"
+        },
+        {
+          "soru": "Dört kardeş farklı yaşlardadır:\n- Ahmet, Mehmet'ten büyüktür.\n- Ayşe, Fatma'dan küçüktür.\n- Mehmet, Ayşe'den büyüktür.\n- Fatma en büyüktür.\nBuna göre, yaşı en küçük olan kimdir?",
+          "secenekler": [
+            "Ahmet",
+            "Mehmet",
+            "Ayşe",
+            "Fatma"
+          ],
+          "dogruCevap": "Ayşe"
+        },
+        {
+          "soru": "Beş arkadaş farklı spor dallarıyla ilgilenmektedir:\n- Futbol oynayan, basketbol oynayanın solundadır.\n- Voleybol oynayan, tenis oynayanın sağındadır.\n- Yüzme yapan en sağdadır.\n- Basketbol oynayan, voleybol oynayanın solundadır.\n- Tenis oynayan, futbol oynayanın sağındadır.\nBuna göre, ortada hangi sporu yapan kişi vardır?",
+          "secenekler": [
+            "Futbol",
+            "Basketbol",
+            "Voleybol",
+            "Tenis"
+          ],
+          "dogruCevap": "Basketbol"
+        },
+        {
+          "soru": "Dört öğrenci sırayla tahtaya kalkmıştır:\n- Ali, Berk'ten önce kalkmıştır.\n- Canan en son kalkmıştır.\n- Deniz, Ali'den sonra kalkmıştır.\n- Berk son sırada değildir.\nBuna göre, ikinci sırada kim tahtaya kalkmıştır?",
+          "secenekler": [
+            "Ali",
+            "Berk",
+            "Canan",
+            "Deniz"
+          ],
+          "dogruCevap": "Deniz"
+        },
+        {
+          "soru": "Beş farklı renkteki kalem masaya dizilmiştir:\n- Mavi kalem, kırmızı kalemden öncedir.\n- Yeşil kalem, sarı ve siyah kalemin arasındadır.\n- Kırmızı kalem en sonda değildir.\n- Siyah kalem en sondadır.\n- Sarı kalem, mavi kalemden sonradır.\nBuna göre, baştan üçüncü sırada hangi renk kalem vardır?",
+          "secenekler": [
+            "Mavi",
+            "Kırmızı",
+            "Yeşil",
+            "Sarı"
+          ],
+          "dogruCevap": "Sarı"
         }
       ],
       "Sözcükte Anlam": [
