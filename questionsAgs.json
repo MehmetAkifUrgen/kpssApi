@@ -1913,10 +1913,10 @@
           "secenekler": [
             "Milli Eğitim Bakanlığı",
             "Yükseköğretim Kurulu",
-            "Eğitim Araştırma ve Geliştirme Merkezi",
+            "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü",
             "Meslekî Eğitim ve Rehberlik Merkezi"
           ],
-          "dogruCevap": "Eğitim Araştırma ve Geliştirme Merkezi"
+          "dogruCevap": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
         },
         {
           "soru": "Türk eğitim sisteminde hangi tür okullar ücretsiz eğitim verir?",
@@ -1989,16 +1989,6 @@
           "dogruCevap": "Türkçe"
         },
         {
-          "soru": "Türk eğitim sisteminde hangi tür okullar mezuniyet sonrası üniversiteye giriş için hazırlık yapar?",
-          "secenekler": [
-            "Meslek liseleri",
-            "İmam hatip liseleri",
-            "Fen liseleri",
-            "Açık liseler"
-          ],
-          "dogruCevap": "Fen liseleri"
-        },
-        {
           "soru": "Türk eğitim sisteminde ilkokul eğitimi kaç yıl sürer?",
           "secenekler": [
             "3 yıl",
@@ -2029,16 +2019,6 @@
           "dogruCevap": "Özel eğitim okulları"
         },
         {
-          "soru": "Türk eğitim sisteminde ilkokuldan sonra hangi kurum zorunludur?",
-          "secenekler": [
-            "Lise",
-            "Üniversite",
-            "Meslek Yüksekokulu",
-            "Açıköğretim Fakültesi"
-          ],
-          "dogruCevap": "Lise"
-        },
-        {
           "soru": "Türk eğitim sisteminde 'Halk Eğitim Merkezleri' hangi tür kursları düzenler?",
           "secenekler": [
             "Yükseköğretim dersleri",
@@ -2047,16 +2027,6 @@
             "Üniversiteye hazırlık kursları"
           ],
           "dogruCevap": "Meslekî ve kişisel gelişim kursları"
-        },
-        {
-          "soru": "Türk eğitim sisteminde bir öğrencinin sınıf tekrar etmesi hangi durumda yapılır?",
-          "secenekler": [
-            "Öğrencinin not ortalaması düşükse",
-            "Öğrenci sınavı geçemezse",
-            "Öğrenci derslerden devamsızlık yaparsa",
-            "Öğrenci belirli bir yaşa ulaşınca"
-          ],
-          "dogruCevap": "Öğrencinin not ortalaması düşükse"
         },
         {
           "soru": "Türk eğitim sisteminde üniversiteye girişte uygulanacak olan merkezi sınavın adı nedir?",
@@ -2577,16 +2547,6 @@
           "dogruCevap": "Öğrencilerin yaş ve başarı düzeyleri"
         },
         {
-          "soru": "Türk eğitim sistemindeki ilk öğretim basamağında hangi yaş grubu eğitim görür?",
-          "secenekler": [
-            "5-6 yaş",
-            "6-7 yaş",
-            "7-9 yaş",
-            "10-12 yaş"
-          ],
-          "dogruCevap": "6-7 yaş"
-        },
-        {
           "soru": "Ortaöğretim basamağındaki eğitim süresi ne kadardır?",
           "secenekler": [
             "2 yıl",
@@ -2637,16 +2597,6 @@
           "dogruCevap": "Eğitim sisteminin adil ve düzenli olması"
         },
         {
-          "soru": "Türk eğitim sisteminde öğretimin her basamağına öğrenciler nasıl yerleştirilir?",
-          "secenekler": [
-            "Sınavla",
-            "Öğrencinin tercihlerine göre",
-            "Rastgele",
-            "Yıl sonu başarılarına göre"
-          ],
-          "dogruCevap": "Sınavla"
-        },
-        {
           "soru": "Öğretimin basamaklandırılması, hangi tür eğitimde etkili sonuçlar verir?",
           "secenekler": [
             "Serbest eğitim",
@@ -2687,16 +2637,6 @@
             "Cumhurbaşkanlığı"
           ],
           "dogruCevap": "Yerel yönetimler ve okullar"
-        },
-        {
-          "soru": "Merkezî yönetim modelinin Türkiye'deki temel amacı nedir?",
-          "secenekler": [
-            "Eğitimdeki kaliteyi artırmak",
-            "Eğitimde eşitliği sağlamak",
-            "Yerel farklılıkları göz önünde bulundurmak",
-            "Öğrencilerin bireysel gelişimini desteklemek"
-          ],
-          "dogruCevap": "Eğitimdeki kaliteyi artırmak"
         },
         {
           "soru": "Yerinden yönetim anlayışında eğitimle ilgili en önemli avantaj nedir?",
@@ -2759,16 +2699,6 @@
           "dogruCevap": "Yerel şartlara göre eğitim içeriği oluşturulması"
         },
         {
-          "soru": "Yerinden yönetim modeli, eğitimde hangi tür kararları yerel düzeyde bırakır?",
-          "secenekler": [
-            "Yatırım kararlarını",
-            "Müfredat geliştirme kararlarını",
-            "Okul yapım kararlarını",
-            "Öğrenci taşıma kararlarını"
-          ],
-          "dogruCevap": "Müfredat geliştirme kararlarını"
-        },
-        {
           "soru": "Merkezî yönetimin eğitimdeki en önemli hedefi nedir?",
           "secenekler": [
             "Eğitimde yerel farklılıkların dikkate alınması",
@@ -2819,16 +2749,6 @@
           "dogruCevap": "Yerinden yönetim"
         },
         {
-          "soru": "Yerinden yönetim anlayışına göre okul yönetimleri hangi konuda daha fazla sorumluluk taşır?",
-          "secenekler": [
-            "Okul finansmanını sağlamak",
-            "Eğitim programlarını belirlemek",
-            "Öğretmenleri atamak",
-            "Milli Eğitim Bakanlığı'na raporlama yapmak"
-          ],
-          "dogruCevap": "Eğitim programlarını belirlemek"
-        },
-        {
           "soru": "Merkezî yönetim modeline sahip bir eğitim sistemi, hangi tür sorunları daha kolay çözebilir?",
           "secenekler": [
             "Yerel farklılıklar",
@@ -2851,1158 +2771,397 @@
       ]
     },
     "Mevzuat": {
-      "Türk Milli Eğitiminin Amaçları": [
-        {
-          "soru": "Türk Milli Eğitiminin genel amacı nedir?",
-          "secenekler": [
-            "İnsan haklarına saygılı bireyler yetiştirmek",
-            "Türk milletinin kültürünü dünya çapında tanıtmak",
-            "Türk milletinin ekonomik gelişimini sağlamak",
-            "Öğrencilere meslek kazandırmak"
-          ],
-          "dogruCevap": "İnsan haklarına saygılı bireyler yetiştirmek"
-        },
-        {
-          "soru": "Türk Milli Eğitim sisteminin, Türk milletinin hangi değerlerine bağlı olarak öğrenci yetiştirmesi hedeflenir?",
-          "secenekler": [
-            "Manevi, kültürel, ahlaki ve insanî değerler",
-            "Ekonomik değerler",
-            "Siyasi değerler",
-            "Dini değerler"
-          ],
-          "dogruCevap": "Manevi, kültürel, ahlaki ve insanî değerler"
-        },
-        {
-          "soru": "Türk Milli Eğitim sisteminin amacı doğrultusunda, bireylerin hangi özelliklere sahip olması beklenir?",
-          "secenekler": [
-            "Demokratik, laik, sosyal bir devletin bilincine sahip",
-            "Sadece bilimsel düşünme becerisi geliştirmiş",
-            "Yalnızca meslek bilgisine sahip",
-            "Kültürel değerlerden bağımsız"
-          ],
-          "dogruCevap": "Demokratik, laik, sosyal bir devletin bilincine sahip"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde, öğrencilerin hangi özellikleri geliştirilmeye çalışılır?",
-          "secenekler": [
-            "Sağlıklı, dengeli bir kişilik ve karakter",
-            "Yalnızca sportif beceriler",
-            "Zengin ekonomik bilinci",
-            "Hukuki bilgiler"
-          ],
-          "dogruCevap": "Sağlıklı, dengeli bir kişilik ve karakter"
-        },
-        {
-          "soru": "Türk Milli Eğitimi, bireyleri hangi yönleriyle geliştirmeyi amaçlar?",
-          "secenekler": [
-            "Duygusal, sosyal ve entelektüel gelişim",
-            "Sadece kültürel gelişim",
-            "Fiziksel gelişim",
-            "Yalnızca mesleki gelişim"
-          ],
-          "dogruCevap": "Duygusal, sosyal ve entelektüel gelişim"
-        },
-        {
-          "soru": "Türk Milli Eğitim Kanununa göre, eğitimde bireyin hangi türden gelişimini sağlamak önceliklidir?",
-          "secenekler": [
-            "Kişilik gelişimi ve karakter eğitimi",
-            "Fiziksel gelişim",
-            "Mesleki gelişim",
-            "Duygusal gelişim"
-          ],
-          "dogruCevap": "Kişilik gelişimi ve karakter eğitimi"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde hangi değerlerin öğretilmesi amaçlanır?",
-          "secenekler": [
-            "Bilimsel düşünme",
-            "Milli ve manevi değerler",
-            "Kişisel başarı",
-            "Dünya ekonomisi"
-          ],
-          "dogruCevap": "Milli ve manevi değerler"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde öğrencilerin hangi özelliklere sahip olması beklenir?",
-          "secenekler": [
-            "Sosyal sorumluluk bilinci",
-            "Sadece akademik başarı",
-            "Fiziksel gücün artırılması",
-            "Teknik beceriler"
-          ],
-          "dogruCevap": "Sosyal sorumluluk bilinci"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde bireylerin hangi özellikleri kazanmaları amaçlanır?",
-          "secenekler": [
-            "Demokratik toplum değerlerine saygılı",
-            "Bireysel kazanç düşüncesi",
-            "Fiziksel güç",
-            "Kültürel bağımsızlık"
-          ],
-          "dogruCevap": "Demokratik toplum değerlerine saygılı"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde bireylerin hangi eğitimi alması beklenir?",
-          "secenekler": [
-            "Bütünsel bir eğitim, ahlaki ve kültürel değerlerle birlikte sağlanır",
-            "Eğitimde sadece dini içerikler ön planda tutulur",
-            "Fiziksel gelişim ön planda tutulur",
-            "Yalnızca mesleki beceriler kazandırılır"
-          ],
-          "dogruCevap": "Bütünsel bir eğitim, ahlaki ve kültürel değerlerle birlikte sağlanır"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde bireylerin toplumsal barışı sağlamak için kazandırması gereken temel özellik nedir?",
-          "secenekler": [
-            "Demokratik düşünce yapısı",
-            "Fiziksel güç",
-            "Bireysel kazanç düşüncesi",
-            "Kültürel bağımsızlık"
-          ],
-          "dogruCevap": "Demokratik düşünce yapısı"
-        },
-        {
-          "soru": "Türk Milli Eğitimi, bireylerin hangi konuda bilgili olmalarını amaçlar?",
-          "secenekler": [
-            "Sosyal, kültürel ve ekonomik konularda",
-            "Sadece bilimsel konularda",
-            "Fiziksel ve biyolojik konularda",
-            "Kişisel finans konularında"
-          ],
-          "dogruCevap": "Sosyal, kültürel ve ekonomik konularda"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde bireylerin hangi tür özellikleri geliştirmeleri beklenir?",
-          "secenekler": [
-            "Ahlaki ve kültürel değerleri",
-            "Fiziksel gücü",
-            "Yalnızca ekonomik başarıyı",
-            "Teknolojik becerileri"
-          ],
-          "dogruCevap": "Ahlaki ve kültürel değerleri"
-        },
-        {
-          "soru": "Türk Milli Eğitimi, hangi temel eğitimi güçlendirmeyi amaçlar?",
-          "secenekler": [
-            "Ahlaki ve sosyal gelişim",
-            "Zihinsel beceriler",
-            "Fiziksel güç",
-            "Kişisel bağımsızlık"
-          ],
-          "dogruCevap": "Ahlaki ve sosyal gelişim"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde bireylerin hangi düzeyde gelişim göstermelerini hedefler?",
-          "secenekler": [
-            "Ahlaki ve sosyal düzeyde",
-            "Zihinsel düzeyde",
-            "Fiziksel düzeyde",
-            "Teknik düzeyde"
-          ],
-          "dogruCevap": "Ahlaki ve sosyal düzeyde"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde hangi değerler ön planda tutulur?",
-          "secenekler": [
-            "Demokratik değerler",
-            "Sadece ekonomik değerler",
-            "Sadece fiziki değerler",
-            "Sadece mesleki değerler"
-          ],
-          "dogruCevap": "Demokratik değerler"
-        },
-        {
-          "soru": "Türk Milli Eğitimi, hangi konuda bireylerin bilinçli olmalarını hedefler?",
-          "secenekler": [
-            "Toplumsal sorumluluklar",
-            "Kişisel bağımsızlık",
-            "Teknolojik bağımsızlık",
-            "Kültürel değerlerin yitirilmesi"
-          ],
-          "dogruCevap": "Toplumsal sorumluluklar"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde, bireylerin hangi sorumlulukları üstlenmeleri beklenir?",
-          "secenekler": [
-            "Toplumsal barışı sağlamak",
-            "Ekonomik başarıyı ön planda tutmak",
-            "Bireysel kazanç sağlamak",
-            "Toplumun gereksinimlerini göz ardı etmek"
-          ],
-          "dogruCevap": "Toplumsal barışı sağlamak"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde, eğitimdeki kaynakların yönetimi nasıl yapılır?",
-          "secenekler": [
-            "Merkezi otoritelerce belirlenir",
-            "Yerel yönetimlerce belirlenir",
-            "Okul müdürlükleri tarafından belirlenir",
-            "Eğitimciler tarafından belirlenir"
-          ],
-          "dogruCevap": "Merkezi otoritelerce belirlenir"
-        }
-      ],
-      "Türk Milli Eğitim Sisteminin Genel Yapısı": [
-        {
-          "soru": "Türk Milli Eğitim Sisteminin genel yapısının temel ilkelerinden biri nedir?",
-          "secenekler": [
-            "Her bireye eşit eğitim sağlanması",
-            "Eğitimde yalnızca teorik derslerin verilmesi",
-            "Eğitimde sadece dini bilgilerin öğretilmesi",
-            "Eğitimde belirli bir sosyal sınıfın öne çıkarılması"
-          ],
-          "dogruCevap": "Her bireye eşit eğitim sağlanması"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde hangi eğitim türleri yer alır?",
-          "secenekler": [
-            "Yalnızca ilkokul eğitimi",
-            "Resmi eğitim ve yaygın eğitim",
-            "Eğitim sadece üniversitelerde yapılır",
-            "Eğitim sadece dini içerikli olmalıdır"
-          ],
-          "dogruCevap": "Resmi eğitim ve yaygın eğitim"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde yer alan eğitim türlerinden hangisi en temel düzeyde eğitim sağlar?",
-          "secenekler": [
-            "Yükseköğretim",
-            "Ortaöğretim",
-            "İlköğretim",
-            "Meslekî eğitim"
-          ],
-          "dogruCevap": "İlköğretim"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre Türk Milli Eğitiminde hangi eğitim düzeyinin zorunlu olduğu belirtilmiştir?",
-          "secenekler": [
-            "Üniversite eğitimi",
-            "Ortaöğretim",
-            "İlköğretim",
-            "Meslekî eğitim"
-          ],
-          "dogruCevap": "İlköğretim"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde eğitim kurumlarının bağımsızlıkları hangi ilke ile güvence altına alınır?",
-          "secenekler": [
-            "Milli irade",
-            "Yerel yönetim",
-            "Merkezi yönetim",
-            "Eğitimdeki bilimsel özgürlük"
-          ],
-          "dogruCevap": "Eğitimdeki bilimsel özgürlük"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde eğitim sisteminin en üst düzeydeki yönetimi hangi kurum tarafından yapılır?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Eğitim ve Öğretim Bakanlığı",
-            "Yerel yönetimler",
-            "Yükseköğretim Kurulu"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Türk Milli Eğitim Sistemi'nde eğitimde yer alan en önemli temel unsurlardan biri nedir?",
-          "secenekler": [
-            "Eğitimde sadece akademik başarı",
-            "Öğretmenlerin ücretleri",
-            "Eğitimde fırsat eşitliği",
-            "Öğrencilerin sadece fiziksel gelişimi"
-          ],
-          "dogruCevap": "Eğitimde fırsat eşitliği"
-        },
-        {
-          "soru": "Türk Milli Eğitim Sisteminde devletin eğitime yönelik yükümlülüklerinden biri nedir?",
-          "secenekler": [
-            "Eğitim kurumlarını özelleştirmek",
-            "Eğitimde fırsat eşitliğini sağlamak",
-            "Yalnızca özel okullar kurmak",
-            "Eğitimde sanatsal faaliyetlere yer vermemek"
-          ],
-          "dogruCevap": "Eğitimde fırsat eşitliğini sağlamak"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde yer alan okullardan hangisi özel öğretim kurumları arasında yer alır?",
-          "secenekler": [
-            "Halk Eğitim Merkezi",
-            "Anadolu Lisesi",
-            "Özel okullar",
-            "Devlet okulları"
-          ],
-          "dogruCevap": "Özel okullar"
-        },
-        {
-          "soru": "Türk Milli Eğitim Sistemi'nde eğitimde fırsat eşitliğini sağlamak için hangi kurumlar sorumludur?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı ve yerel yönetimler",
-            "Sadece Milli Eğitim Bakanlığı",
-            "Sadece yerel yönetimler",
-            "Yükseköğretim Kurulu"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı ve yerel yönetimler"
-        },
-        {
-          "soru": "Türk Milli Eğitim Sistemi'nde eğitimde fırsat eşitliği sağlanırken en fazla dikkate alınan husus nedir?",
-          "secenekler": [
-            "Maddi zorluklar",
-            "Fiziksel sınırlar",
-            "Kültürel farklılıklar",
-            "Eğitimdeki kalite farkları"
-          ],
-          "dogruCevap": "Maddi zorluklar"
-        },
-        {
-          "soru": "Türk Milli Eğitim Kanunu'na göre, eğitimin amacı nedir?",
-          "secenekler": [
-            "Toplumun ekonomik gelişimini sağlamak",
-            "Demokratik, laik ve sosyal bir toplum düzenini güçlendirmek",
-            "Yalnızca bilimsel düşünmeyi yaygınlaştırmak",
-            "Eğitimde sadece teknik ve mesleki becerileri artırmak"
-          ],
-          "dogruCevap": "Demokratik, laik ve sosyal bir toplum düzenini güçlendirmek"
-        },
-        {
-          "soru": "Türk Milli Eğitim Sistemi'nde eğitimin yönetimi hangi esaslara dayanır?",
-          "secenekler": [
-            "Merkeziyetçi bir yönetim",
-            "Yerel yönetimlerin bağımsız yönetimi",
-            "Bireysel yönetim",
-            "Eğitimin sadece merkezi hükümet tarafından yönetilmesi"
-          ],
-          "dogruCevap": "Merkeziyetçi bir yönetim"
-        },
-        {
-          "soru": "Türk Milli Eğitim Kanunu'na göre, eğitimde kullanılan araç ve gereçlerin temininde kim sorumludur?",
-          "secenekler": [
-            "Devlet",
-            "Öğrenciler",
-            "Öğretmenler",
-            "Yerel yönetimler"
-          ],
-          "dogruCevap": "Devlet"
-        },
-        {
-          "soru": "Türk Milli Eğitim Sistemi'nde eğitimde yer alan eğitici özelliklerin temel hedefi nedir?",
-          "secenekler": [
-            "Eğitimde yalnızca maddi başarı",
-            "Toplumsal barışın sağlanması",
-            "Bireysel kazançların arttırılması",
-            "Öğrencilerin bireysel bağımsızlıklarını kazanmaları"
-          ],
-          "dogruCevap": "Toplumsal barışın sağlanması"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde yer alan öğretim kurumları hangi türde düzenlenir?",
-          "secenekler": [
-            "Sadece devlet okulları",
-            "Devlet ve özel okullar",
-            "Sadece özel okullar",
-            "Sadece yükseköğretim kurumları"
-          ],
-          "dogruCevap": "Devlet ve özel okullar"
-        },
-        {
-          "soru": "Türk Milli Eğitim Sistemi'nde, eğitimin gelişimine en çok katkıyı hangi kurum sağlar?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Yükseköğretim Kurulu",
-            "Yerel yönetimler",
-            "Eğitim dernekleri"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Türk Milli Eğitim Sistemi'nde eğitimdeki yeniliklerin uygulanmasında hangi ilke dikkate alınır?",
-          "secenekler": [
-            "Eğitimde bilimsel ve pedagojik temeller",
-            "Eğitimde sadece ekonomik kazanç",
-            "Eğitimde yalnızca yerel değerlerin ön planda tutulması",
-            "Eğitimde sadece askeri disiplin"
-          ],
-          "dogruCevap": "Eğitimde bilimsel ve pedagojik temeller"
-        },
-        {
-          "soru": "Türk Milli Eğitiminde eğitimdeki genel hedeflere ulaşmak için hangi araçlar kullanılır?",
-          "secenekler": [
-            "Sadece teknoloji",
-            "Eğitim müfredatları, öğretim yöntemleri ve materyaller",
-            "Kültürel değerler",
-            "Sadece öğretmenlerin bireysel çabaları"
-          ],
-          "dogruCevap": "Eğitim müfredatları, öğretim yöntemleri ve materyaller"
-        }
-      ],
-      "Yaygın Eğitim, Okul Binaları ve Tesisleri, Eğitim Araç ve Gereçleri": [
-        {
-          "soru": "Yaygın eğitim nedir?",
-          "secenekler": [
-            "Sadece okulda yapılan eğitim",
-            "Okul dışı ve okul içindeki eğitim faaliyetlerini kapsayan eğitim türüdür",
-            "Yalnızca üniversitelerde verilen eğitim",
-            "Sadece meslek eğitimi verilen eğitim"
-          ],
-          "dogruCevap": "Okul dışı ve okul içindeki eğitim faaliyetlerini kapsayan eğitim türüdür"
-        },
-        {
-          "soru": "Yaygın eğitim, hangi tür kurumları kapsamaktadır?",
-          "secenekler": [
-            "Sadece devlet okulları",
-            "Halk eğitim merkezleri ve özel eğitim kurumları",
-            "Üniversiteler ve yüksekokullar",
-            "Tüm okullar"
-          ],
-          "dogruCevap": "Halk eğitim merkezleri ve özel eğitim kurumları"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre okul binalarının güvenliğini kim sağlar?",
-          "secenekler": [
-            "Okul müdürlükleri",
-            "Milli Eğitim Bakanlığı",
-            "Yerel yönetimler",
-            "İçişleri Bakanlığı"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Okul binalarının yapımında ve bakımında hangi prensibe göre hareket edilir?",
-          "secenekler": [
-            "Binaların sadece estetik açıdan değerli olması",
-            "Eğitim ihtiyaçlarını karşılaması ve güvenli olması",
-            "Sadece tarihi dokunun korunması",
-            "Binaların sadece ticari olarak kullanılabilir olması"
-          ],
-          "dogruCevap": "Eğitim ihtiyaçlarını karşılaması ve güvenli olması"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre, eğitim araç ve gereçlerinin temininde hangi ilke önceliklidir?",
-          "secenekler": [
-            "Sadece estetik görünüme önem verilmesi",
-            "Eğitimde etkinlik ve verimliliğin artırılması",
-            "Sadece teknolojik gelişmelerin takip edilmesi",
-            "Sadece devletin belirlediği araç gereçlerin kullanılması"
-          ],
-          "dogruCevap": "Eğitimde etkinlik ve verimliliğin artırılması"
-        },
-        {
-          "soru": "Yaygın eğitimin temel amaçlarından biri nedir?",
-          "secenekler": [
-            "Sadece üniversiteye hazırlık yapmak",
-            "Bireylerin genel kültürel seviyelerini yükseltmek",
-            "Öğrencilere yükseköğretim sunmak",
-            "Bireylerin sadece iş gücünü artırmak"
-          ],
-          "dogruCevap": "Bireylerin genel kültürel seviyelerini yükseltmek"
-        },
-        {
-          "soru": "Okul binalarının tasarımında dikkate alınması gereken en önemli faktör nedir?",
-          "secenekler": [
-            "Okulun büyüklüğü",
-            "Öğrencilerin güvenliği ve sağlığı",
-            "Sadece akademik başarı",
-            "Okul binasının dekorasyonu"
-          ],
-          "dogruCevap": "Öğrencilerin güvenliği ve sağlığı"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre eğitim araç ve gereçlerinin temininden kim sorumludur?",
-          "secenekler": [
-            "Yerel yönetimler",
-            "Milli Eğitim Bakanlığı",
-            "Okul aile birlikleri",
-            "Öğretmenler"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Yaygın eğitimde yer alan başlıca eğitim türlerinden hangisi toplumda yaşam boyu öğrenmeyi teşvik eder?",
-          "secenekler": [
-            "Eğitim kurumlarında yapılan eğitimler",
-            "Mesleki ve teknik eğitim",
-            "Halk eğitim kursları",
-            "İlköğretim ve ortaöğretim"
-          ],
-          "dogruCevap": "Halk eğitim kursları"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre, okul binalarının bakımı ve onarımından kim sorumludur?",
-          "secenekler": [
-            "Okul müdürlükleri",
-            "Yerel yönetimler",
-            "Milli Eğitim Bakanlığı",
-            "Öğretmenler"
-          ],
-          "dogruCevap": "Yerel yönetimler"
-        },
-        {
-          "soru": "Eğitim araç ve gereçleri ile ilgili hangi ilke Türk Milli Eğitim Sisteminde en ön planda tutulur?",
-          "secenekler": [
-            "Eğitim araçlarının sadece lüks olması",
-            "Eğitim araçlarının işlevsel olması",
-            "Sadece teknolojik araçların kullanılması",
-            "Eğitim araçlarının estetik görünüme göre seçilmesi"
-          ],
-          "dogruCevap": "Eğitim araçlarının işlevsel olması"
-        },
-        {
-          "soru": "Türk Milli Eğitim Sistemi'nde okul binaları ile ilgili olarak hangi faktör önemlidir?",
-          "secenekler": [
-            "Sadece mimari estetik",
-            "Binaların işlevselliği ve güvenliği",
-            "Binaların büyüklüğü",
-            "Binaların sadece öğretmenler için uygun olması"
-          ],
-          "dogruCevap": "Binaların işlevselliği ve güvenliği"
-        },
-        {
-          "soru": "Yaygın eğitim hangi düzeyde eğitim sağlar?",
-          "secenekler": [
-            "Sadece ilkokul düzeyinde",
-            "Sadece üniversite düzeyinde",
-            "Yaşam boyu öğrenmeye yönelik her yaşa hitap eden eğitimler",
-            "Sadece lise düzeyinde"
-          ],
-          "dogruCevap": "Yaşam boyu öğrenmeye yönelik her yaşa hitap eden eğitimler"
-        },
-        {
-          "soru": "Okul binalarının güvenlik önlemleri ile ilgili hangi düzenlemeler yapılmıştır?",
-          "secenekler": [
-            "Okul binalarının sadece dış görünüşüne önem verilmiştir",
-            "Binalarda öğrenci güvenliğini sağlamak için yerel yönetimler sorumludur",
-            "Okul binalarının güvenliği Milli Eğitim Bakanlığı tarafından sağlanır",
-            "Okul binalarındaki güvenlik sadece öğretmenlere aittir"
-          ],
-          "dogruCevap": "Okul binalarının güvenliği Milli Eğitim Bakanlığı tarafından sağlanır"
-        },
-        {
-          "soru": "Eğitim araç gereçleri kullanımıyla ilgili olarak Türk Milli Eğitim Sistemi'nde en önemli hedef nedir?",
-          "secenekler": [
-            "Eğitim araç gereçlerinin sadece yüksek maliyetli olması",
-            "Eğitimde verimliliği artırmak",
-            "Eğitimde sadece teknolojiye odaklanmak",
-            "Eğitimde geleneksel yöntemlerin kullanılması"
-          ],
-          "dogruCevap": "Eğitimde verimliliği artırmak"
-        },
-        {
-          "soru": "Yaygın eğitim hangi eğitim türlerine yöneliktir?",
-          "secenekler": [
-            "Sadece lise öğrencilerine yönelik",
-            "Herkese, her yaşa yönelik eğitim",
-            "Sadece üniversite öğrencilerine yönelik",
-            "Sadece iş gücüne yönelik"
-          ],
-          "dogruCevap": "Herkese, her yaşa yönelik eğitim"
-        },
-        {
-          "soru": "Okul binalarının yapımında dikkate alınması gereken en önemli parametre nedir?",
-          "secenekler": [
-            "Sadece estetik tasarım",
-            "Sosyal ve eğitimsel ihtiyaçları karşılamak",
-            "Okul binalarının büyük olması",
-            "Sadece öğrencilere yönelik güvenlik"
-          ],
-          "dogruCevap": "Sosyal ve eğitimsel ihtiyaçları karşılamak"
-        },
-        {
-          "soru": "Yaygın eğitimde eğitici ve eğitilen arasındaki ilişki hangi temele dayanır?",
-          "secenekler": [
-            "Sadece öğretmen-eğitici ilişkisine",
-            "Eğitilenin katılımı ve gelişimi üzerine",
-            "Sadece öğrenciye eğitim vermek",
-            "Eğiticiye tamamen bağımlı olma"
-          ],
-          "dogruCevap": "Eğitilenin katılımı ve gelişimi üzerine"
-        }
-      ],
-      "Eğitim ve Öğretim Alanındaki Görev ve Sorumluluk": [
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre eğitim ve öğretimle ilgili en temel sorumluluk kime aittir?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı'na",
-            "Yerel yönetimlere",
-            "Okul müdürlüklerine",
-            "Öğretmenlere"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı'na"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre eğitim öğretim sürecinde en önemli ilke nedir?",
-          "secenekler": [
-            "Öğrencilerin bireysel gelişimlerinin dikkate alınması",
-            "Eğitimde sadece teknolojik araçların kullanılması",
-            "Eğitimde yoğun sınav sistemi",
-            "Eğitimde devletin tekelleşmesi"
-          ],
-          "dogruCevap": "Öğrencilerin bireysel gelişimlerinin dikkate alınması"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre eğitim öğretim sürecinde öğretmenlerin hangi sorumluluğu vardır?",
-          "secenekler": [
-            "Öğrencilerin sadece akademik başarılarını artırmak",
-            "Eğitim ve öğretim programlarının uygulanmasını sağlamak",
-            "Öğrencilerin ev ödevlerini kontrol etmek",
-            "Okul yönetiminin kararlarına uymak"
-          ],
-          "dogruCevap": "Eğitim ve öğretim programlarının uygulanmasını sağlamak"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre eğitimde her öğrencinin eşit haklara sahip olması gerektiği ilkesini hangi otorite sağlar?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Yerel yönetimler",
-            "Okul yönetimi",
-            "Aileler"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre eğitimde öğretim programlarının belirlenmesinde kimin yetkisi vardır?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Okul müdürlükleri",
-            "Öğretmenler",
-            "Yerel yönetimler"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre eğitim sürecinde öğrencilerin kişisel ve toplumsal gelişimleri için hangi faktörler önemlidir?",
-          "secenekler": [
-            "Sadece akademik başarı",
-            "Fiziksel ve sosyal gelişim",
-            "Teknolojik gelişmeler",
-            "Eğitimde sadece test sistemine dayalı çalışmalar"
-          ],
-          "dogruCevap": "Fiziksel ve sosyal gelişim"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre öğretmenlerin eğitimdeki sorumlulukları nelerdir?",
-          "secenekler": [
-            "Sadece sınıf disiplinini sağlamak",
-            "Öğrencilere sadece akademik bilgi vermek",
-            "Öğrencilerin gelişimlerini takip etmek ve desteklemek",
-            "Sadece sınav sonuçlarına odaklanmak"
-          ],
-          "dogruCevap": "Öğrencilerin gelişimlerini takip etmek ve desteklemek"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre eğitimde en önemli hedeflerden biri nedir?",
-          "secenekler": [
-            "Sadece akademik başarı",
-            "Bireylerin toplumsal sorumluluk bilincinin artırılması",
-            "Öğrencilere sadece meslek bilgisi verilmesi",
-            "Sadece teorik bilginin öğretilmesi"
-          ],
-          "dogruCevap": "Bireylerin toplumsal sorumluluk bilincinin artırılması"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre eğitimde öğrencilerin kişisel gelişimlerini destekleyen hangi yöntem kullanılır?",
-          "secenekler": [
-            "Sadece grup çalışmaları",
-            "Öğrencilerin bireysel ihtiyaçlarına göre öğretim",
-            "Sadece ders kitapları",
-            "Öğrencilere sürekli test uygulanması"
-          ],
-          "dogruCevap": "Öğrencilerin bireysel ihtiyaçlarına göre öğretim"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre eğitimde bireysel farklılıklar nasıl ele alınır?",
-          "secenekler": [
-            "Tüm öğrenciler aynı hızda eğitilmelidir",
-            "Bireysel farklılıklar göz önünde bulundurulmalıdır",
-            "Öğrenciler sadece zorunlu derslerde değerlendirilir",
-            "Bireysel farklılıklara göre eğitim verilemez"
-          ],
-          "dogruCevap": "Bireysel farklılıklar göz önünde bulundurulmalıdır"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre öğretmenlerin eğitim sürecindeki en önemli sorumluluğu nedir?",
-          "secenekler": [
-            "Sadece ders içeriklerini anlatmak",
-            "Öğrencilerin gelişimlerini izlemek ve yönlendirmek",
-            "Okul binalarını denetlemek",
-            "Eğitimde sadece kitaplardan yararlanmak"
-          ],
-          "dogruCevap": "Öğrencilerin gelişimlerini izlemek ve yönlendirmek"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre okulda eğitim ve öğretimin düzenlenmesinden kim sorumludur?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Okul müdürlüğü",
-            "Öğrenciler",
-            "Yerel yönetimler"
-          ],
-          "dogruCevap": "Okul müdürlüğü"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre, öğretmenlerin eğitim öğretim sürecindeki görevlerinden biri nedir?",
-          "secenekler": [
-            "Öğrencilere sadece sınav soruları hazırlamak",
-            "Öğrencilerin eğitim hayatlarında karşılaştıkları engelleri aşmalarına yardımcı olmak",
-            "Okul bina bakımını sağlamak",
-            "Eğitimdeki yönetim kararlarını uygulamak"
-          ],
-          "dogruCevap": "Öğrencilerin eğitim hayatlarında karşılaştıkları engelleri aşmalarına yardımcı olmak"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre eğitimde öğretmenin amacı nedir?",
-          "secenekler": [
-            "Öğrencilere sadece sınavları geçirme yeteneği kazandırmak",
-            "Öğrencilerin en iyi şekilde gelişimlerini sağlamak",
-            "Öğrencilerin sadece meslek sahibi olmalarını sağlamak",
-            "Öğrencilere eğlenceli içerikler sunmak"
-          ],
-          "dogruCevap": "Öğrencilerin en iyi şekilde gelişimlerini sağlamak"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre öğretmenler hangi konuda sorumluluk taşır?",
-          "secenekler": [
-            "Sadece ders kitabı seçimi",
-            "Öğrencilerin bireysel ihtiyaçlarına yönelik eğitim sağlamak",
-            "Okul yönetiminin tüm kararlarını uygulamak",
-            "Sadece eğitimi teorik bir şekilde vermek"
-          ],
-          "dogruCevap": "Öğrencilerin bireysel ihtiyaçlarına yönelik eğitim sağlamak"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre eğitimde öğretmenler nasıl bir yaklaşım benimsemelidir?",
-          "secenekler": [
-            "Bireysel farklılıkları göz ardı ederek herkes için aynı eğitimi vermelidir",
-            "Öğrencilerin gelişimlerini takip ederek eğitim programlarını bireyselleştirmelidir",
-            "Sadece sınav odaklı bir eğitim vermelidir",
-            "Öğrencilere sadece eğitimde tekdüzelik sağlamalıdır"
-          ],
-          "dogruCevap": "Öğrencilerin gelişimlerini takip ederek eğitim programlarını bireyselleştirmelidir"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre eğitimde başarıyı etkileyen en önemli faktör nedir?",
-          "secenekler": [
-            "Öğrencilerin derse katılımı",
-            "Öğrencilere sürekli test yapılması",
-            "Okul binasının büyüklüğü",
-            "Öğretmenlerin yalnızca akademik bilgiler sunması"
-          ],
-          "dogruCevap": "Öğrencilerin derse katılımı"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre öğretmenlerin eğitimdeki başarıları nasıl değerlendirilir?",
-          "secenekler": [
-            "Sadece öğrencilerin sınav sonuçları",
-            "Öğrencilerin genel gelişim durumu ve katkıları",
-            "Öğrencilerin fiziksel durumları",
-            "Sadece okul binasının temizlik durumu"
-          ],
-          "dogruCevap": "Öğrencilerin genel gelişim durumu ve katkıları"
-        },
-        {
-          "soru": "Milli Eğitim Temel Kanunu'na göre öğretmenlerin eğitim sürecindeki sorumlulukları hangi aşamalarda dikkate alınır?",
-          "secenekler": [
-            "Sadece dersin başında",
-            "Eğitim süreci boyunca",
-            "Sadece ders sonunda",
-            "Okul binalarının temizlik aşamalarında"
-          ],
-          "dogruCevap": "Eğitim süreci boyunca"
-        }
-      ],
-      "İlköğretim ve Eğitim Kanunu": [
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre ilköğretim okullarında hangi öğretim süresi uygulanır?",
-          "secenekler": [
-            "3 yıl",
-            "4 yıl",
-            "5 yıl",
-            "8 yıl"
-          ],
-          "dogruCevap": "8 yıl"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarında hangi düzeyde eğitimin verileceği kararı kim tarafından alınır?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Yerel yönetimler",
-            "Okul müdürlükleri",
-            "Veliler"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre ilköğretim okullarında eğitim, hangi sınıflarda başlar?",
-          "secenekler": [
-            "1. sınıf",
-            "2. sınıf",
-            "3. sınıf",
-            "4. sınıf"
-          ],
-          "dogruCevap": "1. sınıf"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim öğrencilerinin eğitimde hangi öğretim programına uyması beklenir?",
-          "secenekler": [
-            "Ulusal öğretim programı",
-            "Yerel öğretim programı",
-            "Hibrit öğretim programı",
-            "Zorunlu müfredat"
-          ],
-          "dogruCevap": "Ulusal öğretim programı"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarında öğretmenlerin sahip olması gereken minimum eğitim seviyesi nedir?",
-          "secenekler": [
-            "Lise diploması",
-            "Önlisans diploması",
-            "Lisans diploması",
-            "Yüksek lisans diploması"
-          ],
-          "dogruCevap": "Lisans diploması"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarında eğitim öğretim yılı kaç hafta sürer?",
-          "secenekler": [
-            "20 hafta",
-            "24 hafta",
-            "30 hafta",
-            "34 hafta"
-          ],
-          "dogruCevap": "30 hafta"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarında eğitime hangi yaş grubundaki çocuklar katılabilir?",
-          "secenekler": [
-            "4-6 yaş",
-            "5-7 yaş",
-            "6-12 yaş",
-            "7-14 yaş"
-          ],
-          "dogruCevap": "6-12 yaş"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarında eğitime başlamak için öğrencilerin hangi şartları taşıması gerekir?",
-          "secenekler": [
-            "Okul yaşını tamamlamak",
-            "Okulun öğretim programına uygun olmak",
-            "Okul yönetimi tarafından onaylanmak",
-            "Bütün öğretmenlerin onayını almak"
-          ],
-          "dogruCevap": "Okul yaşını tamamlamak"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarındaki öğrencilere eğitimde hangi alanlarda yardımcı eğitim verilebilir?",
-          "secenekler": [
-            "Beden eğitimi",
-            "Sanat ve müzik",
-            "Fen bilimleri",
-            "Hepsi"
-          ],
-          "dogruCevap": "Hepsi"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarındaki eğitim süresi kaç yıldır?",
-          "secenekler": [
-            "5 yıl",
-            "6 yıl",
-            "7 yıl",
-            "8 yıl"
-          ],
-          "dogruCevap": "8 yıl"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarında hangi dersler zorunlu olarak okutulur?",
-          "secenekler": [
-            "Matematik ve Fen Bilgisi",
-            "Türkçe ve Sosyal Bilgiler",
-            "Beden Eğitimi ve Din Kültürü",
-            "Hepsi"
-          ],
-          "dogruCevap": "Hepsi"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarındaki öğrencilerin başarıları nasıl değerlendirilir?",
-          "secenekler": [
-            "Sadece yazılı sınavlarla",
-            "Sadece sözlü sınavlarla",
-            "Yazılı ve sözlü sınavlarla",
-            "Proje bazlı değerlendirme ile"
-          ],
-          "dogruCevap": "Yazılı ve sözlü sınavlarla"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, öğrenciler hangi durumda okuldan alıkonulabilir?",
-          "secenekler": [
-            "Başarı durumu yetersizse",
-            "Öğrencinin izniyle",
-            "Velinin talebiyle",
-            "Okul yönetimi kararıyla"
-          ],
-          "dogruCevap": "Okul yönetimi kararıyla"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, öğrencilerin devamsızlık durumunda ne yapılır?",
-          "secenekler": [
-            "Devamsızlık yapması durumunda okuldan uzaklaştırılırlar",
-            "Okul yönetimi tarafından öğrenciye telafi eğitimi verilir",
-            "Devamsızlık durumu ceza ile sonuçlanır",
-            "Hiçbir işlem yapılmaz"
-          ],
-          "dogruCevap": "Okul yönetimi tarafından öğrenciye telafi eğitimi verilir"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarında öğretim programları neye göre belirlenir?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı'nın belirlediği müfredata",
-            "Yerel yönetimlerin önerilerine",
-            "Okul yönetimlerinin taleplerine",
-            "Velilerin isteklerine"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı'nın belirlediği müfredata"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarındaki öğretmenlerin hangi nitelikleri taşıması gerekmektedir?",
-          "secenekler": [
-            "Lise mezunu olmak",
-            "Önlisans mezunu olmak",
-            "Lisans mezunu olmak",
-            "Yüksek lisans mezunu olmak"
-          ],
-          "dogruCevap": "Lisans mezunu olmak"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarındaki eğitim sürecinde hangi organlar öğrenci başarısını izler?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı ve okul yönetimi",
-            "Yerel yönetimler ve okul yönetimi",
-            "Okul yönetimi ve öğretmenler",
-            "Veliler ve öğrenciler"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı ve okul yönetimi"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarında öğrencilere hangi hizmet sunulabilir?",
-          "secenekler": [
-            "Özel eğitim hizmetleri",
-            "Dil eğitimi",
-            "Okul servisi",
-            "Hepsi"
-          ],
-          "dogruCevap": "Hepsi"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarında öğrencilerin hangi hakları vardır?",
-          "secenekler": [
-            "Eğitim hakkı",
-            "Sadece okul gezisi hakkı",
-            "Öğretmenleri seçme hakkı",
-            "Okul değiştirme hakkı"
-          ],
-          "dogruCevap": "Eğitim hakkı"
-        },
-        {
-          "soru": "İlköğretim ve Eğitim Kanunu'na göre, ilköğretim okullarında öğrencilerin devamsızlık hakları nasıl yönetilir?",
-          "secenekler": [
-            "Devamsızlık süreleri her yıl sıfırlanır",
-            "Öğrenciler devamsızlık yapmamaları durumunda cezalandırılır",
-            "Devamsızlık süresi belirli bir süreyle sınırlıdır",
-            "Devamsızlık yapılsa bile hiç ceza verilmez"
-          ],
-          "dogruCevap": "Devamsızlık süresi belirli bir süreyle sınırlıdır"
-        }
-      ],
-      "İlde İlköğretim Görevlileri": [
-        {
-          "soru": "İlde ilköğretim görevlilerinin atamaları kim tarafından yapılır?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Valilik",
-            "İlçe Milli Eğitim Müdürlüğü",
-            "Okul müdürlüğü"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin görevleri arasında hangisi bulunmaz?",
-          "secenekler": [
-            "Eğitim programlarını belirlemek",
-            "Öğrencilerin gelişimini izlemek",
-            "Okul idaresi ile koordineli çalışmak",
-            "Öğretim kadrosunun atamalarını yapmak"
-          ],
-          "dogruCevap": "Öğretim kadrosunun atamalarını yapmak"
-        },
-        {
-          "soru": "İlde ilk öğretim görevlilerinin atanabilmesi için hangi eğitim şartı gereklidir?",
-          "secenekler": [
-            "Lise diploması",
-            "Önlisans diploması",
-            "Lisans diploması",
-            "Yüksek lisans diploması"
-          ],
-          "dogruCevap": "Lisans diploması"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin görevde yükselme ve atama işlemleri hangi esaslara dayanır?",
-          "secenekler": [
-            "Öğretmenlik Kanunu",
-            "Milli Eğitim Bakanlığı Yönetmeliği",
-            "İlköğretim ve Eğitim Kanunu",
-            "Kamu Görevlileri Kanunu"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı Yönetmeliği"
-        },
-        {
-          "soru": "İlde ilköğretim görevlilerinin hizmet içi eğitimini kim düzenler?",
-          "secenekler": [
-            "İl Milli Eğitim Müdürlüğü",
-            "Milli Eğitim Bakanlığı",
-            "İlçe Milli Eğitim Müdürlüğü",
-            "Okul Müdürlüğü"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin görevli oldukları okulda hangi şartları taşımaları gerekir?",
-          "secenekler": [
-            "En az 10 yıl öğretmenlik yapmış olmak",
-            "Okulda öğretim kadrosu eksik olmamalıdır",
-            "Okul müdürlüğü tarafından onay almak",
-            "Eğitim ihtiyaçları doğrultusunda görevlendirilmeleri"
-          ],
-          "dogruCevap": "Eğitim ihtiyaçları doğrultusunda görevlendirilmeleri"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin taşra bölgelerinde görevlendirilmelerinde ne dikkate alınır?",
-          "secenekler": [
-            "Okulun kapasitesi",
-            "Öğrenci sayısı",
-            "Görev alanındaki yerel koşullar",
-            "Öğretmenlerin kıdem sırası"
-          ],
-          "dogruCevap": "Görev alanındaki yerel koşullar"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin taşra bölgelerinde görev yapabilmesi için hangi şartlar aranır?",
-          "secenekler": [
-            "Taşra bölgesinde 5 yıl görev yapmış olmak",
-            "Milli Eğitim Bakanlığı onayı almak",
-            "Yerel yönetimden izin almak",
-            "En az 2 yıl öğretmenlik yapmış olmak"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı onayı almak"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin tayin ve yer değiştirme işlemleri hangi usullere dayanır?",
-          "secenekler": [
-            "Bakanlık takvimine göre yapılan kura",
-            "Öğretmenlerin talep sırasına göre",
-            "Eğitim durumu ve kıdem sırasına göre",
-            "İlçe milli eğitim müdürlüğü onayı ile"
-          ],
-          "dogruCevap": "Eğitim durumu ve kıdem sırasına göre"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin eğitim hizmetleri hakkında hangi otorite karar verir?",
-          "secenekler": [
-            "İlçe Milli Eğitim Müdürlüğü",
-            "İl Milli Eğitim Müdürlüğü",
-            "Milli Eğitim Bakanlığı",
-            "Okul Müdürlüğü"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin maaş ve özlük hakları hangi kurum tarafından belirlenir?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "İçişleri Bakanlığı",
-            "Kamu Görevlileri Sendikaları",
-            "Çalışma ve Sosyal Güvenlik Bakanlığı"
-          ],
-          "dogruCevap": "Çalışma ve Sosyal Güvenlik Bakanlığı"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin görev yerleri hakkında nasıl bir karar alınır?",
-          "secenekler": [
-            "Okul müdürü kararıyla",
-            "Milli Eğitim Bakanlığı kararıyla",
-            "İlçe milli eğitim müdürlüğü kararıyla",
-            "Valilik kararıyla"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı kararıyla"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin görevde yükselme süreçlerinde hangi faktör dikkate alınmaz?",
-          "secenekler": [
-            "Eğitimdeki başarı",
-            "Kıdem süresi",
-            "İlçe milli eğitim müdürlüğü değerlendirmesi",
-            "Öğrenci sayısının artırılması"
-          ],
-          "dogruCevap": "Öğrenci sayısının artırılması"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin görev yerlerinde karşılaşabilecekleri zorlukları kim belirler?",
-          "secenekler": [
-            "İl Milli Eğitim Müdürlüğü",
-            "Okul müdürlükleri",
-            "Bakanlık genelgesi",
-            "Yerel yönetimler"
-          ],
-          "dogruCevap": "Bakanlık genelgesi"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin görevlerini en verimli şekilde yerine getirebilmeleri için hangi destek sağlanır?",
-          "secenekler": [
-            "Yaz tatili",
-            "Okul içi hizmet içi eğitim",
-            "Taşıma giderleri",
-            "Sadece maaş"
-          ],
-          "dogruCevap": "Okul içi hizmet içi eğitim"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin taşra bölgelerindeki görevlendirme işlemleri için hangi koşullar geçerlidir?",
-          "secenekler": [
-            "Yerel yönetim tarafından onay almak",
-            "Bakanlık tarafından belirlenen yer değişim takvimi",
-            "Sadece öğretmen talepleri dikkate alınır",
-            "Kura çekilerek yer değişim yapılır"
-          ],
-          "dogruCevap": "Bakanlık tarafından belirlenen yer değişim takvimi"
-        },
-        {
-          "soru": "İlköğretim görevlileri taşra bölgelerinde görev yaparken hangi ek hizmetleri alabilir?",
-          "secenekler": [
-            "Ek ödeme",
-            "Taşıma giderleri",
-            "Yol yardımı",
-            "Hepsi"
-          ],
-          "dogruCevap": "Hepsi"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin görev yerinde disiplin cezası uygulanması halinde, hangi kurum karar verir?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "İl Milli Eğitim Müdürlüğü",
-            "Okul müdürlüğü",
-            "İlçe Milli Eğitim Müdürlüğü"
-          ],
-          "dogruCevap": "İl Milli Eğitim Müdürlüğü"
-        },
-        {
-          "soru": "İlköğretim görevlilerinin taşra bölgelerinde görev yapma süresi ne kadar olabilir?",
-          "secenekler": [
-            "1 yıl",
-            "2 yıl",
-            "3 yıl",
-            "5 yıl"
-          ],
-          "dogruCevap": "3 yıl"
-        }
-      ],
+        "Türk Milli Eğitiminin Temel İlkeleri": [
+          {
+            "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre Türk Milli Eğitiminin temel ilkeleri arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": [
+              "Genellik ve eşitlik",
+              "Ferdin ve toplumun ihtiyaçları",
+              "Yöneltme",
+              "Sınıf tekrarı"
+            ],
+            "dogruCevap": "Sınıf tekrarı"
+          },
+          {
+            "soru": "1739 sayılı Kanun'a göre, 'Her yurttaşın ilgi, istidat ve kabiliyetleri ölçüsünde eğitim hizmetlerinden faydalanması' hangi temel ilkeyi ifade eder?",
+            "secenekler": [
+              "Fırsat ve imkan eşitliği",
+              "Genellik ve eşitlik",
+              "Yöneltme",
+              "Her yerde eğitim"
+            ],
+            "dogruCevap": "Fırsat ve imkan eşitliği"
+          },
+          {
+            "soru": "1739 sayılı Kanun'da belirtilen 'Türk Milli Eğitiminin Genel Amaçları' arasında aşağıdakilerden hangisi yer alır?",
+            "secenekler": [
+              "Atatürk inkılap ve ilkelerine bağlı, demokratik, laik ve sosyal bir hukuk devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen vatandaşlar yetiştirmek",
+              "Sadece akademik başarıya odaklanan bireyler yetiştirmek",
+              "Yalnızca mesleki becerileri olan bireyler yetiştirmek",
+              "Sadece spor ve sanat alanında başarılı bireyler yetiştirmek"
+            ],
+            "dogruCevap": "Atatürk inkılap ve ilkelerine bağlı, demokratik, laik ve sosyal bir hukuk devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen vatandaşlar yetiştirmek"
+          },
+          {
+            "soru": "1739 sayılı Kanun'a göre, eğitim kurumlarının aşağıdaki niteliklerden hangisine açık olması zorunludur?",
+            "secenekler": [
+              "Dil, ırk, cinsiyet, engellilik ve din ayırımı gözetilmeksizin herkese açık olma",
+              "Sadece başarılı öğrencilere açık olma",
+              "Sadece belirli bölgelerdeki öğrencilere açık olma",
+              "Sadece maddi durumu iyi olan ailelerin çocuklarına açık olma"
+            ],
+            "dogruCevap": "Dil, ırk, cinsiyet, engellilik ve din ayırımı gözetilmeksizin herkese açık olma"
+          },
+          {
+            "soru": "1739 sayılı Kanun'a göre, 'Laiklik' ilkesi eğitimde neyi ifade eder?",
+            "secenekler": [
+              "Din eğitim ve öğretiminin devletin gözetim ve denetimi altında yapılması",
+              "Din eğitiminin tamamen yasaklanması",
+              "Din eğitiminin sadece özel kurumlarda verilmesi",
+              "Din eğitiminin ailelere bırakılması"
+            ],
+            "dogruCevap": "Din eğitim ve öğretiminin devletin gözetim ve denetimi altında yapılması"
+          },
+          {
+            "soru": "1739 sayılı Kanun'a göre, öğretmenlik mesleği ile ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": [
+              "Öğretmenlik, devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir",
+              "Öğretmenlik sadece ders anlatma görevini içeren bir meslektir",
+              "Öğretmenlik herkesin yapabileceği bir meslektir",
+              "Öğretmenlik için özel bir eğitim gerekmez"
+            ],
+            "dogruCevap": "Öğretmenlik, devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir"
+          },
+          {
+            "soru": "1739 sayılı Kanun'a göre, 'Her yerde eğitim' ilkesi neyi ifade eder?",
+            "secenekler": [
+              "Milli eğitim hizmetinin, ekonomik, sosyal ve kültürel kalkınma hedeflerine uygun olarak eğitim kurumları dışında da her yerde ve her fırsatta verilmesi",
+              "Sadece okul binalarında eğitim verilmesi",
+              "Eğitimin sadece büyük şehirlerde verilmesi",
+              "Eğitimin sadece resmi kurumlarda verilmesi"
+            ],
+            "dogruCevap": "Milli eğitim hizmetinin, ekonomik, sosyal ve kültürel kalkınma hedeflerine uygun olarak eğitim kurumları dışında da her yerde ve her fırsatta verilmesi"
+          }
+        ],
+          "Türk Milli Eğitim Sisteminin Genel Yapısı": [
+            {
+              "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre Türk Milli Eğitim Sistemi hangi iki ana bölümden oluşur?",
+              "secenekler": [
+                "Örgün eğitim ve yaygın eğitim",
+                "İlköğretim ve ortaöğretim",
+                "Resmi eğitim ve özel eğitim",
+                "Zorunlu eğitim ve isteğe bağlı eğitim"
+              ],
+              "dogruCevap": "Örgün eğitim ve yaygın eğitim"
+            },
+            {
+              "soru": "1739 sayılı Kanun'a göre, örgün eğitim hangi kurumları kapsar?",
+              "secenekler": [
+                "Okul öncesi, ilköğretim, ortaöğretim ve yükseköğretim kurumları",
+                "Sadece ilköğretim ve ortaöğretim kurumları",
+                "Sadece yükseköğretim kurumları",
+                "Sadece mesleki eğitim kurumları"
+              ],
+              "dogruCevap": "Okul öncesi, ilköğretim, ortaöğretim ve yükseköğretim kurumları"
+            },
+            {
+              "soru": "1739 sayılı Kanun'a göre, Türk Milli Eğitim Sisteminin genel yapısı içinde zorunlu eğitim kaç yıldır?",
+              "secenekler": [
+                "8 yıl",
+                "5 yıl",
+                "12 yıl",
+                "4 yıl"
+              ],
+              "dogruCevap": "12 yıl"
+            },
+            {
+              "soru": "1739 sayılı Kanun'a göre, Türk Milli Eğitim Sisteminin yönetiminde temel sorumluluk hangi kuruma aittir?",
+              "secenekler": [
+                "Milli Eğitim Bakanlığı",
+                "Yükseköğretim Kurulu",
+                "Valilikler",
+                "İl Milli Eğitim Müdürlükleri"
+              ],
+              "dogruCevap": "Milli Eğitim Bakanlığı"
+            },
+            {
+              "soru": "1739 sayılı Kanun'a göre, eğitim kurumlarının açılması, geliştirilmesi ve kapanması ile ilgili kararları hangi kurum verir?",
+              "secenekler": [
+                "Milli Eğitim Bakanlığı",
+                "Yerel yönetimler",
+                "Okul müdürlükleri",
+                "İl Milli Eğitim Müdürlükleri"
+              ],
+              "dogruCevap": "Milli Eğitim Bakanlığı"
+            },
+            {
+              "soru": "1739 sayılı Kanun'a göre, örgün ve yaygın eğitim kurumlarının eğitim, öğretim ve yönetim görevlerini yerine getirmekle yükümlü olan meslek kimdir?",
+              "secenekler": [
+                "Öğretmenler",
+                "Okul müdürleri",
+                "Eğitim uzmanları",
+                "Milli Eğitim müfettişleri"
+              ],
+              "dogruCevap": "Öğretmenler"
+            },
+            {
+              "soru": "1739 sayılı Kanun'a göre, eğitim sisteminin temel özelliklerinden biri nedir?",
+              "secenekler": [
+                "Türk Milli Eğitiminin genel amacına ve temel ilkelerine uygun olması",
+                "Sadece akademik başarıya odaklanması",
+                "Yerel yönetimlerin kontrolünde olması",
+                "Özel sektör tarafından yönetilmesi"
+              ],
+              "dogruCevap": "Türk Milli Eğitiminin genel amacına ve temel ilkelerine uygun olması"
+            },
+            {
+              "soru": "1739 sayılı Kanun'a göre, eğitim kurumlarının denetimi hangi kurumun sorumluluğundadır?",
+              "secenekler": [
+                "Milli Eğitim Bakanlığı",
+                "Yerel yönetimler",
+                "Okul aile birlikleri",
+                "Sivil toplum kuruluşları"
+              ],
+              "dogruCevap": "Milli Eğitim Bakanlığı"
+            }
+          ],
+            "Yaygın Eğitim, Okul Binaları ve Tesisleri, Eğitim Araç ve Gereçleri": [
+              {
+                "soru": "1739 sayılı Kanun'a göre yaygın eğitim nedir?",
+                "secenekler": [
+                  "Örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetlerinin tümüdür",
+                  "Sadece halk eğitim merkezlerinde verilen eğitimdir",
+                  "Sadece mesleki kursları kapsar",
+                  "Sadece örgün eğitim dışındaki eğitimlerdir"
+                ],
+                "dogruCevap": "Örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetlerinin tümüdür"
+              },
+              {
+                "soru": "1739 sayılı Kanun'a göre yaygın eğitimin amacı nedir?",
+                "secenekler": [
+                  "Vatandaşlara milli birlik ve beraberlik anlayışı içinde ekonomik, sosyal ve kültürel kalkınmayı destekleyici eğitim vermek",
+                  "Sadece mesleki beceri kazandırmak",
+                  "Sadece okuma yazma öğretmek",
+                  "Sadece boş zamanları değerlendirmek"
+                ],
+                "dogruCevap": "Vatandaşlara milli birlik ve beraberlik anlayışı içinde ekonomik, sosyal ve kültürel kalkınmayı destekleyici eğitim vermek"
+              },
+              {
+                "soru": "1739 sayılı Kanun'a göre okul binalarının yapımında uyulması gereken temel ilke nedir?",
+                "secenekler": [
+                  "Sağlık ve eğitim-öğretim esaslarına ve çevrenin ihtiyaçlarına göre uygun olarak yapılması",
+                  "Sadece ekonomik olması",
+                  "Sadece mimari açıdan güzel olması",
+                  "Sadece büyük olması"
+                ],
+                "dogruCevap": "Sağlık ve eğitim-öğretim esaslarına ve çevrenin ihtiyaçlarına göre uygun olarak yapılması"
+              },
+              {
+                "soru": "1739 sayılı Kanun'a göre eğitim araç ve gereçlerinin geliştirilmesi ve yaygınlaştırılmasından kim sorumludur?",
+                "secenekler": [
+                  "Milli Eğitim Bakanlığı",
+                  "Okul müdürlükleri",
+                  "Öğretmenler",
+                  "Yerel yönetimler"
+                ],
+                "dogruCevap": "Milli Eğitim Bakanlığı"
+              },
+              {
+                "soru": "1739 sayılı Kanun'a göre yaygın eğitim faaliyetlerinin düzenlenmesindeki temel ilke nedir?",
+                "secenekler": [
+                  "Örgün eğitim ile birbirini tamamlayacak şekilde planlanması",
+                  "Sadece yetişkinlere yönelik olması",
+                  "Sadece mesleki eğitime yönelik olması",
+                  "Sadece boş zamanları değerlendirmeye yönelik olması"
+                ],
+                "dogruCevap": "Örgün eğitim ile birbirini tamamlayacak şekilde planlanması"
+              },
+              {
+                "soru": "1739 sayılı Kanun'a göre eğitim araç ve gereçlerinin seçiminde dikkat edilmesi gereken en önemli husus nedir?",
+                "secenekler": [
+                  "Eğitim-öğretim programlarının uygulanmasında verimliliği artırması",
+                  "Sadece teknolojik olması",
+                  "Sadece ucuz olması",
+                  "Sadece yerli üretim olması"
+                ],
+                "dogruCevap": "Eğitim-öğretim programlarının uygulanmasında verimliliği artırması"
+              },
+              {
+                "soru": "1739 sayılı Kanun'a göre yaygın eğitim kurumlarının görevlerinden biri nedir?",
+                "secenekler": [
+                  "Toplumun ihtiyaçlarına ve şartlarına göre eğitim imkanı sağlamak",
+                  "Sadece diploma vermek",
+                  "Sadece meslek edindirmek",
+                  "Sadece kurs düzenlemek"
+                ],
+                "dogruCevap": "Toplumun ihtiyaçlarına ve şartlarına göre eğitim imkanı sağlamak"
+              },
+              {
+                "soru": "1739 sayılı Kanun'a göre okul binalarının kullanımında temel sorumluluk kimdedir?",
+                "secenekler": [
+                  "Milli Eğitim Bakanlığı",
+                  "Belediyeler",
+                  "Okul aile birlikleri",
+                  "Özel idareler"
+                ],
+                "dogruCevap": "Milli Eğitim Bakanlığı"
+              }
+            ],
+              "Eğitim ve Öğretim Alanındaki Görev ve Sorumluluk": [
+                {
+                  "soru": "1739 sayılı Kanun'a göre öğretmenlik mesleği nasıl tanımlanmıştır?",
+                  "secenekler": [
+                    "Devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir",
+                    "Sadece ders veren bir meslektir",
+                    "Okul yönetimine yardımcı olan bir meslektir",
+                    "Öğrencilere rehberlik yapan bir meslektir"
+                  ],
+                  "dogruCevap": "Devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir"
+                },
+                {
+                  "soru": "1739 sayılı Kanun'a göre öğretmenlerin nitelikleri ile ilgili temel esas nedir?",
+                  "secenekler": [
+                    "Özel bir meslek olarak öğretmenliğin gerektirdiği bilgi, beceri, tutum ve davranışlara sahip olma",
+                    "Sadece alan bilgisine sahip olma",
+                    "Sadece pedagojik formasyon almış olma",
+                    "Sadece yükseköğrenim görmüş olma"
+                  ],
+                  "dogruCevap": "Özel bir meslek olarak öğretmenliğin gerektirdiği bilgi, beceri, tutum ve davranışlara sahip olma"
+                },
+                
+                {
+                  "soru": "1739 sayılı Kanun'a göre, öğretmenlik mesleğine hazırlık hangi genel kültür dallarını kapsar?",
+                  "secenekler": [
+                    "Özel alan eğitimi, pedagojik formasyon ve genel kültür",
+                    "Sadece özel alan eğitimi",
+                    "Sadece pedagojik formasyon",
+                    "Sadece genel kültür"
+                  ],
+                  "dogruCevap": "Özel alan eğitimi, pedagojik formasyon ve genel kültür"
+                },
+                {
+                  "soru": "1739 sayılı Kanun'a göre, öğretmenlerin atanmalarında aranan temel şart nedir?",
+                  "secenekler": [
+                    "Devlet memuru olma şartlarına ek olarak, öğretmenlik formasyonuna sahip olmak",
+                    "Sadece yükseköğrenim mezunu olmak",
+                    "Sadece devlet memuru olmak",
+                    "Sadece alan bilgisine sahip olmak"
+                  ],
+                  "dogruCevap": "Devlet memuru olma şartlarına ek olarak, öğretmenlik formasyonuna sahip olmak"
+                },
+                {
+                  "soru": "1739 sayılı Kanun'a göre, öğretmenlerin hizmet içi eğitimlerinin amacı nedir?",
+                  "secenekler": [
+                    "Öğretmenlerin mesleki yeterliliklerini artırmak ve eğitim alanındaki gelişmeleri takip etmelerini sağlamak",
+                    "Sadece maaş artışı sağlamak",
+                    "Sadece yöneticilik pozisyonuna hazırlamak",
+                    "Sadece kıdem ilerlemesi sağlamak"
+                  ],
+                  "dogruCevap": "Öğretmenlerin mesleki yeterliliklerini artırmak ve eğitim alanındaki gelişmeleri takip etmelerini sağlamak"
+                },
+                {
+                  "soru": "1739 sayılı Kanun'a göre, öğretmenlerin görev ve sorumluluklarının temelini ne oluşturur?",
+                  "secenekler": [
+                    "Türk Milli Eğitiminin amaçları ve temel ilkeleri",
+                    "Okul yönetiminin istekleri",
+                    "Veli talepleri",
+                    "Öğrenci istekleri"
+                  ],
+                  "dogruCevap": "Türk Milli Eğitiminin amaçları ve temel ilkeleri"
+                },
+                {
+                  "soru": "1739 sayılı Kanun'a göre, öğretmenlerin mesleki gelişimleri için hangi imkanlar sağlanır?",
+                  "secenekler": [
+                    "Yurt içinde ve yurt dışında yetişme imkanları",
+                    "Sadece hizmet içi eğitimler",
+                    "Sadece uzaktan eğitim imkanları",
+                    "Sadece okul içi seminerler"
+                  ],
+                  "dogruCevap": "Yurt içinde ve yurt dışında yetişme imkanları"
+                }
+              ],
+                "İlköğretim ve Eğitim Kanunu": [
+                  {
+                    "soru": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre mecburi ilköğretim çağı hangi yaş grubunu kapsar?",
+                    "secenekler": [
+                      "5-13 yaş grubundaki çocukları",
+                      "6-14 yaş grubundaki çocukları",
+                      "7-15 yaş grubundaki çocukları",
+                      "8-16 yaş grubundaki çocukları"
+                    ],
+                    "dogruCevap": "6-14 yaş grubundaki çocukları"
+                  },
+                  {
+                    "soru": "222 sayılı Kanun'a göre, bir öğretim yılı en az kaç iş gününü kapsar?",
+                    "secenekler": [
+                      "150 iş günü",
+                      "160 iş günü",
+                      "170 iş günü",
+                      "180 iş günü"
+                    ],
+                    "dogruCevap": "180 iş günü"
+                  },
+                  {
+                    "soru": "222 sayılı Kanun'a göre, özürsüz olarak bir öğretim yılı içinde toplam kaç gün devamsızlık yapan öğrencilerin velilerine yasal işlem yapılır?",
+                    "secenekler": [
+                      "20 gün",
+                      "25 gün",
+                      "30 gün",
+                      "35 gün"
+                    ],
+                    "dogruCevap": "30 gün"
+                  },
+                  {
+                    "soru": "222 sayılı Kanun'a göre, ilköğretim kurumlarının açılış ve kapanış tarihleri hangi makam tarafından belirlenir?",
+                    "secenekler": [
+                      "Milli Eğitim Bakanlığı",
+                      "Valilik",
+                      "İl Milli Eğitim Müdürlüğü",
+                      "Okul Müdürlüğü"
+                    ],
+                    "dogruCevap": "Milli Eğitim Bakanlığı"
+                  },
+                  {
+                    "soru": "222 sayılı Kanun'a göre, mecburi öğrenim çağını bitirdiği öğretim yılı sonuna kadar ilköğretim okulunu bitiremeyen çocuklar için ne yapılır?",
+                    "secenekler": [
+                      "İlköğretimden çıkarılırlar",
+                      "15 yaşını bitirene kadar devam ederler",
+                      "Yaş sınırı olmaksızın eğitimlerine devam ederler",
+                      "Açık öğretime yönlendirilirler"
+                    ],
+                    "dogruCevap": "15 yaşını bitirene kadar devam ederler"
+                  },
+                  {
+                    "soru": "222 sayılı Kanun'a göre, özel eğitime muhtaç çocukların eğitimi için ne yapılır?",
+                    "secenekler": [
+                      "Normal okullarda kaynaştırma eğitimine alınırlar",
+                      "Özel okul ve sınıflar açılır",
+                      "Evde eğitim verilir",
+                      "Eğitimden muaf tutulurlar"
+                    ],
+                    "dogruCevap": "Özel okul ve sınıflar açılır"
+                  },
+                  {
+                    "soru": "222 sayılı Kanun'a göre, ilköğretim kurumlarında hangi hizmetler parasızdır?",
+                    "secenekler": [
+                      "Sadece öğretim",
+                      "Sadece ders kitapları",
+                      "Öğretim, tesis, kitap ve diğer öğrenim materyalleri",
+                      "Sadece öğrenci servisleri"
+                    ],
+                    "dogruCevap": "Öğretim, tesis, kitap ve diğer öğrenim materyalleri"
+                  },
+                  {
+                    "soru": "222 sayılı Kanun'a göre, okula devam etmeyen öğrenciler için ilk olarak ne yapılır?",
+                    "secenekler": [
+                      "Hemen ceza uygulanır",
+                      "Okul idaresince velisi çağrılır",
+                      "Öğrenci okuldan uzaklaştırılır",
+                      "Sınıf tekrarı yaptırılır"
+                    ],
+                    "dogruCevap": "Okul idaresince velisi çağrılır"
+                  }
+                ],
       "Okul Öncesi Eğitim ve Öğretim Kurumları ile İlköğretim Okullarının Açılma, Kapanma ve Öğretime Ara Verme Zamanları": [
         {
           "soru": "Okul öncesi eğitim kurumlarının eğitim yılı başlangıcı hangi tarihte başlar?",
@@ -6039,15 +5198,14 @@
     "Türkçe": {
       "Sözel Mantık": [
         {
-          "soru": "Ali, Burak, Canan, Deniz ve Elif bir sırada oturmaktadır.\n- Ali en başta oturmamaktadır.\n- Burak ve Canan yan yana oturmaktadır.\n- Deniz en sonda oturmaktadır.\n- Elif, Ali'nin hemen yanında oturmaktadır.\nBuna göre, sıranın başından itibaren öğrencilerin oturma düzeni aşağıdakilerden hangisidir?",
+          "soru": "Ali, Burak, Canan, Deniz ve Elif bir sırada oturmaktadır.\n- Ali en başta oturmamaktadır.\n- Burak ve Canan yan yana oturmaktadır.\n- Deniz en sonda oturmaktadır.\n- Elif, Ali'nin hemen yanında oturmaktadır.\n- Burak, Canan'ın solunda oturmaktadır.\nBuna göre, sıranın başından itibaren öğrencilerin oturma düzeni aşağıdakilerden hangisidir?",
           "secenekler": [
             "Burak-Canan-Ali-Elif-Deniz",
             "Canan-Burak-Elif-Ali-Deniz",
             "Burak-Canan-Elif-Ali-Deniz",
             "Canan-Burak-Ali-Elif-Deniz"
           ],
-          "dogruCevap": "Burak-Canan-Ali-Elif-Deniz",
-          "aciklama": "Verilen bilgilere göre tek olası düzen budur."
+          "dogruCevap": "Burak-Canan-Ali-Elif-Deniz"
         },
         {
           "soru": "Bir markette;\n- Süt peynirden ucuzdur.\n- Peynir yoğurttan pahalıdır.\n- Yoğurt tereyağından ucuzdur.\nBuna göre, en pahalı ürün hangisidir?",
@@ -6071,7 +5229,7 @@
           "dogruCevap": "Ahmet en büyüktür"
         },
         {
-          "soru": "Bir hafta boyunca her gün farklı bir ders çalışan Ayşe;\n- Salı günü matematik çalışmamıştır.\n- Türkçe'yi tarihten önce çalışmıştır.\n- Fen bilgisini cumartesi çalışmıştır.\n- Matematik ve İngilizce'yi art arda çalışmıştır.\nBuna göre, Ayşe hangi dersi perşembe günü çalışmıştır?",
+          "soru": "Bir hafta boyunca her gün farklı bir ders çalışan Ayşe;\n- Salı günü matematik çalışmamıştır.\n- Türkçe'yi tarihten önce çalışmıştır.\n- Fen bilgisini cumartesi çalışmıştır.\n- Matematik ve İngilizce'yi art arda çalışmıştır.\n- Türkçe'yi çarşamba günü çalışmıştır.\nBuna göre, Ayşe hangi dersi perşembe günü çalışmıştır?",
           "secenekler": [
             "Matematik",
             "Türkçe",
@@ -6081,14 +5239,14 @@
           "dogruCevap": "İngilizce"
         },
         {
-          "soru": "Bir parkta beş çocuk salıncakta sallanmaktadır.\n- Ayşe, Fatma'nın solundadır.\n- Can, Deniz'in sağındadır.\n- Berk, Ayşe'nin sağındadır.\n- Deniz en soldadır.\nBuna göre, ortada kim sallanmaktadır?",
+          "soru": "Bir parkta beş çocuk salıncakta sallanmaktadır.\n- Ayşe, Fatma'nın solundadır.\n- Can, Deniz'in sağındadır.\n- Berk, Ayşe'nin sağındadır.\n- Deniz en soldadır.\n- Can, Ayşe'nin solundadır.\nBuna göre, ortada kim sallanmaktadır?",
           "secenekler": [
             "Ayşe",
             "Berk",
             "Can",
             "Fatma"
           ],
-          "dogruCevap": "Berk"
+          "dogruCevap": "Ayşe"
         },
         {
           "soru": "Dört arkadaş farklı mesleklere sahiptir:\n- Doktor olan kişi öğretmenden uzundur.\n- Mühendis olan kişi en kısadır.\n- Avukat olan kişi doktordan kısadır.\nBuna göre, aşağıdakilerden hangisi kesinlikle yanlıştır?",
@@ -6101,14 +5259,14 @@
           "dogruCevap": "Öğretmen avukattan uzundur"
         },
         {
-          "soru": "Bir kütüphanede beş kitap yan yana dizilmiştir:\n- Roman, hikaye kitabından sonra gelmektedir.\n- Şiir kitabı en sonda değildir.\n- Deneme, romandan hemen sonra gelmektedir.\n- Biyografi en baştadır.\nBuna göre, ortadaki kitap hangisidir?",
+          "soru": "Bir kütüphanede beş kitap yan yana dizilmiştir:\n- Roman, hikaye kitabından sonra gelmektedir.\n- Şiir kitabı hikayeden önce gelmektedir.\n- Deneme, romandan hemen sonra gelmektedir.\n- Biyografi en baştadır.\nBuna göre, ortadaki kitap hangisidir?",
           "secenekler": [
             "Roman",
             "Hikaye",
             "Şiir",
             "Deneme"
           ],
-          "dogruCevap": "Roman"
+          "dogruCevap": "Hikaye"
         },
         {
           "soru": "A, B, C ve D şehirleri arasında;\n- A şehri B'nin doğusundadır.\n- C şehri D'nin batısındadır.\n- B şehri C'nin doğusundadır.\nBilgileri veriliyor. Buna göre, doğudan batıya doğru şehirlerin sıralanışı nasıldır?",
@@ -6121,7 +5279,7 @@
           "dogruCevap": "A-B-C-D"
         },
         {
-          "soru": "Beş arkadaş farklı günlerde sinemaya gitmiştir:\n- Ali çarşamba günü gitmemiştir.\n- Berk, Canan'dan önce gitmiştir.\n- Deniz, pazartesi günü gitmiştir.\n- Elif, salı günü gitmiştir.\nBuna göre, Ali hangi gün sinemaya gitmiştir?",
+          "soru": "Beş arkadaş farklı günlerde sinemaya gitmiştir:\n- Ali çarşamba günü gitmemiştir.\n- Berk, Canan'dan önce gitmiştir ve çarşamba günü gitmiştir.\n- Deniz, pazartesi günü gitmiştir.\n- Elif, salı günü gitmiştir.\nBuna göre, Ali hangi gün sinemaya gitmiştir?",
           "secenekler": [
             "Pazartesi",
             "Salı",
@@ -6131,7 +5289,7 @@
           "dogruCevap": "Perşembe"
         },
         {
-          "soru": "Bir masada dört fincan çay vardır:\n- Kırmızı fincan, mavi fincandan öncedir.\n- Yeşil fincan, sarı fincandan sonradır.\n- Mavi fincan en sonda değildir.\nBuna göre, hangi fincan kesinlikle en sondadır?",
+          "soru": "Bir masada dört fincan çay vardır:\n- Kırmızı fincan, mavi fincandan öncedir.\n- Yeşil fincan, sarı fincandan sonradır.\n- Mavi fincan en sonda değildir.\n- Yeşil fincan maviden sonradır.\nBuna göre, hangi fincan kesinlikle en sondadır?",
           "secenekler": [
             "Kırmızı",
             "Mavi",
@@ -6139,6 +5297,108 @@
             "Sarı"
           ],
           "dogruCevap": "Yeşil"
+        }
+      ],
+      "Sözel Mantık 2": [
+        {
+          "soru": "Beş arkadaş farklı günlerde sinemaya gitmiştir:\n- Ali pazartesi günü gitmemiştir.\n- Berk, Canan'dan önce gitmiştir ve çarşamba günü gitmiştir.\n- Deniz, pazartesi günü gitmiştir.\n- Elif, salı günü gitmiştir.\n- Canan cuma günü gitmiştir.\nBuna göre, Ali hangi gün sinemaya gitmiştir?",
+          "secenekler": [
+            "Pazartesi",
+            "Salı",
+            "Perşembe",
+            "Cuma"
+          ],
+          "dogruCevap": "Perşembe"
+        },
+        {
+          "soru": "Bir masada dört fincan çay vardır:\n- Kırmızı fincan, mavi fincandan öncedir.\n- Yeşil fincan, sarı fincandan sonradır.\n- Mavi fincan en sonda değildir.\n- Yeşil fincan maviden sonradır.\n- Sarı fincan en başta değildir.\nBuna göre, hangi fincan kesinlikle en sondadır?",
+          "secenekler": [
+            "Kırmızı",
+            "Mavi",
+            "Yeşil",
+            "Sarı"
+          ],
+          "dogruCevap": "Yeşil"
+        },
+        {
+          "soru": "Bir kütüphanede beş kitap yan yana dizilmiştir:\n- Roman, hikaye kitabından sonra gelmektedir.\n- Şiir kitabı hikayeden önce gelmektedir.\n- Deneme, romandan hemen sonra gelmektedir.\n- Biyografi en baştadır.\n- Roman en sonda değildir.\nBuna göre, ortadaki kitap hangisidir?",
+          "secenekler": [
+            "Roman",
+            "Hikaye",
+            "Şiir",
+            "Deneme"
+          ],
+          "dogruCevap": "Hikaye"
+        },
+        {
+          "soru": "A, B, C ve D şehirleri arasında;\n- A şehri B'nin doğusundadır.\n- C şehri D'nin batısındadır.\n- B şehri C'nin doğusundadır.\n- D en batıdadır.\nBilgileri veriliyor. Buna göre, doğudan batıya doğru şehirlerin sıralanışı nasıldır?",
+          "secenekler": [
+            "A-B-C-D",
+            "D-C-B-A",
+            "A-B-D-C",
+            "D-A-B-C"
+          ],
+          "dogruCevap": "A-B-C-D"
+        },
+        {
+          "soru": "Bir markette;\n- Süt peynirden ucuzdur.\n- Peynir yoğurttan pahalıdır.\n- Yoğurt tereyağından ucuzdur.\n- Tereyağı en pahalı üründür.\nBuna göre, en ucuz ürün hangisidir?",
+          "secenekler": [
+            "Süt",
+            "Peynir",
+            "Yoğurt",
+            "Tereyağı"
+          ],
+          "dogruCevap": "Süt"
+        },
+        {
+          "soru": "Beş öğrenci sınavdan farklı notlar almıştır:\n- Ali, Berk'ten yüksek not almıştır.\n- Canan, Deniz'den düşük not almıştır.\n- Elif en yüksek notu almıştır.\n- Berk, Deniz'den düşük not almıştır.\n- Canan, Berk'ten yüksek not almıştır.\nBuna göre, en düşük notu kim almıştır?",
+          "secenekler": [
+            "Ali",
+            "Berk",
+            "Canan",
+            "Deniz"
+          ],
+          "dogruCevap": "Berk"
+        },
+        {
+          "soru": "Dört kardeş farklı yaşlardadır:\n- Ahmet, Mehmet'ten büyüktür.\n- Ayşe, Fatma'dan küçüktür.\n- Mehmet, Ayşe'den büyüktür.\n- Fatma en büyüktür.\nBuna göre, yaşı en küçük olan kimdir?",
+          "secenekler": [
+            "Ahmet",
+            "Mehmet",
+            "Ayşe",
+            "Fatma"
+          ],
+          "dogruCevap": "Ayşe"
+        },
+        {
+          "soru": "Beş arkadaş farklı spor dallarıyla ilgilenmektedir:\n- Futbol oynayan, basketbol oynayanın solundadır.\n- Voleybol oynayan, tenis oynayanın sağındadır.\n- Yüzme yapan en sağdadır.\n- Basketbol oynayan, voleybol oynayanın solundadır.\n- Tenis oynayan, futbol oynayanın sağındadır.\nBuna göre, ortada hangi sporu yapan kişi vardır?",
+          "secenekler": [
+            "Futbol",
+            "Basketbol",
+            "Voleybol",
+            "Tenis"
+          ],
+          "dogruCevap": "Basketbol"
+        },
+        {
+          "soru": "Dört öğrenci sırayla tahtaya kalkmıştır:\n- Ali, Berk'ten önce kalkmıştır.\n- Canan en son kalkmıştır.\n- Deniz, Ali'den sonra kalkmıştır.\n- Berk son sırada değildir.\nBuna göre, ikinci sırada kim tahtaya kalkmıştır?",
+          "secenekler": [
+            "Ali",
+            "Berk",
+            "Canan",
+            "Deniz"
+          ],
+          "dogruCevap": "Deniz"
+        },
+        {
+          "soru": "Beş farklı renkteki kalem masaya dizilmiştir:\n- Mavi kalem, kırmızı kalemden öncedir.\n- Yeşil kalem, sarı ve siyah kalemin arasındadır.\n- Kırmızı kalem en sonda değildir.\n- Siyah kalem en sondadır.\n- Sarı kalem, mavi kalemden sonradır.\nBuna göre, baştan üçüncü sırada hangi renk kalem vardır?",
+          "secenekler": [
+            "Mavi",
+            "Kırmızı",
+            "Yeşil",
+            "Sarı"
+          ],
+          "dogruCevap": "Sarı"
         }
       ],
       "Sözcükte Anlam": [
