@@ -103,6 +103,442 @@
           "dogruCevap": "Planlı ve programlı olması"
         }
       ],
+        "Eğitim Biliminin Temel Kavramları ve Kuramları": [
+          {
+            "soru": "Aşağıdakilerden hangisi eğitimin temel özelliklerinden biri değildir?",
+            "secenekler": [
+              "Yaşam boyu devam eden bir süreçtir",
+              "Planlı ve kasıtlı bir süreçtir",
+              "Bireyde davranış değişikliği hedeflenir",
+              "Sadece okullarda gerçekleşir",
+              "Toplumsal ve kültürel bir süreçtir"
+            ],
+            "dogruCevap": "Sadece okullarda gerçekleşir",
+            "aciklama": "Eğitim sadece okullarda değil, hayatın her alanında gerçekleşebilir. Formal ve informal eğitim olarak ikiye ayrılır."
+          },
+          {
+            "soru": "Piaget'nin Bilişsel Gelişim Kuramı'na göre, aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": [
+              "Gelişim dönemleri belirli bir sıra izler",
+              "Her çocuk aynı gelişim dönemlerinden geçer",
+              "Gelişim dönemleri yaşa göre kesin sınırlarla ayrılır",
+              "Bilişsel gelişim çevre ile etkileşim sonucu gerçekleşir",
+              "Her dönemin kendine özgü özellikleri vardır"
+            ],
+            "dogruCevap": "Gelişim dönemleri yaşa göre kesin sınırlarla ayrılır",
+            "aciklama": "Piaget'ye göre gelişim dönemleri arasındaki geçişler kesin çizgilerle ayrılmaz, bireysel farklılıklar gösterebilir."
+          },
+          {
+            "soru": "Öğrenmeyi etkileyen faktörler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": [
+              "Güdülenme",
+              "Olgunlaşma",
+              "Transfer",
+              "Sosyoekonomik durum",
+              "Kan grubu"
+            ],
+            "dogruCevap": "Kan grubu",
+            "aciklama": "Kan grubu öğrenmeyi etkileyen bir faktör değildir. Diğer seçenekler öğrenmeyi doğrudan etkileyen faktörlerdir."
+          },
+          {
+            "soru": "Vygotsky'nin Sosyokültürel Gelişim Kuramı'na göre aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": [
+              "Öğrenme sosyal etkileşim yoluyla gerçekleşir",
+              "Dil, düşüncenin gelişiminde önemli rol oynar",
+              "Yakınsal gelişim alanı önemlidir",
+              "Bilişsel gelişim kültürden bağımsızdır",
+              "Yetişkin desteği öğrenmede önemlidir"
+            ],
+            "dogruCevap": "Bilişsel gelişim kültürden bağımsızdır",
+            "aciklama": "Vygotsky'ye göre bilişsel gelişim kültürden bağımsız değildir, tam tersine kültür bilişsel gelişimi etkileyen en önemli faktörlerden biridir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Bandura'nın Sosyal Öğrenme Kuramı'nın temel kavramlarından biri değildir?",
+            "secenekler": [
+              "Model alma",
+              "Dolaylı öğrenme",
+              "Öz yeterlik",
+              "Şema oluşturma",
+              "Karşılıklı belirleyicilik"
+            ],
+            "dogruCevap": "Şema oluşturma",
+            "aciklama": "Şema oluşturma Piaget'nin kuramına ait bir kavramdır. Diğer seçenekler Bandura'nın kuramının temel kavramlarıdır."
+          },
+          {
+            "soru": "Eğitimde ölçme ve değerlendirme ile ilgili aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": [
+              "Ölçme nesnel bir süreçtir",
+              "Değerlendirme öznel bir süreçtir",
+              "Ölçme sayısal veriler elde etmektir",
+              "Değerlendirme her zaman nesnel olmalıdır",
+              "Ölçme değerlendirmenin ilk aşamasıdır"
+            ],
+            "dogruCevap": "Değerlendirme her zaman nesnel olmalıdır",
+            "aciklama": "Değerlendirme öznel bir süreçtir ve değer yargısı içerir. Her zaman nesnel olması mümkün değildir."
+          },
+          {
+            "soru": "Bruner'in Buluş Yoluyla Öğrenme Kuramı'na göre aşağıdakilerden hangisi doğrudur?",
+            "secenekler": [
+              "Öğretmen bilgiyi doğrudan aktarmalıdır",
+              "Öğrenci pasif alıcı konumunda olmalıdır",
+              "Öğrenci kendi öğrenmesinden sorumlu olmalıdır",
+              "Ezberleme en etkili öğrenme yoludur",
+              "Öğretmen merkezli eğitim esastır"
+            ],
+            "dogruCevap": "Öğrenci kendi öğrenmesinden sorumlu olmalıdır",
+            "aciklama": "Bruner'e göre öğrenci aktif olmalı ve kendi öğrenmesinden sorumlu olmalıdır. Buluş yoluyla öğrenme öğrenci merkezlidir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitim programının temel öğelerinden biri değildir?",
+            "secenekler": [
+              "Hedef",
+              "İçerik",
+              "Öğrenme-öğretme süreci",
+              "Değerlendirme",
+              "Öğretmen maaşları"
+            ],
+            "dogruCevap": "Öğretmen maaşları",
+            "aciklama": "Eğitim programının temel öğeleri hedef, içerik, öğrenme-öğretme süreci ve değerlendirmedir. Öğretmen maaşları programın öğesi değildir."
+          },
+          {
+            "soru": "Maslow'un İhtiyaçlar Hiyerarşisi'ne göre aşağıdakilerden hangisi en temel ihtiyaçtır?",
+            "secenekler": [
+              "Kendini gerçekleştirme",
+              "Saygı görme",
+              "Ait olma ve sevgi",
+              "Güvenlik",
+              "Fizyolojik ihtiyaçlar"
+            ],
+            "dogruCevap": "Fizyolojik ihtiyaçlar",
+            "aciklama": "Maslow'a göre fizyolojik ihtiyaçlar (yeme, içme, uyku vb.) en temel ihtiyaçlardır ve hiyerarşinin en altında yer alır."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi öğretim ilkelerinden biri değildir?",
+            "secenekler": [
+              "Yakından uzağa",
+              "Bilinenden bilinmeyene",
+              "Somuttan soyuta",
+              "Kolaydan zora",
+              "Soyuttan somuta"
+            ],
+            "dogruCevap": "Soyuttan somuta",
+            "aciklama": "Öğretim ilkelerinden biri 'somuttan soyuta'dır. 'Soyuttan somuta' bir öğretim ilkesi değildir."
+          },
+          {
+            "soru": "Bloom'un Tam Öğrenme Modeli'ne göre aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": [
+              "Her öğrenci öğrenebilir",
+              "Öğrencilere yeterli zaman verilmelidir",
+              "Bireysel farklılıklar önemlidir",
+              "Başarı doğuştan gelir",
+              "İpucu, pekiştireç, katılım ve dönüt önemlidir"
+            ],
+            "dogruCevap": "Başarı doğuştan gelir",
+            "aciklama": "Bloom'a göre başarı doğuştan gelmez, uygun öğrenme koşulları sağlandığında her öğrenci öğrenebilir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi yapılandırmacı öğrenme yaklaşımının özelliklerinden biri değildir?",
+            "secenekler": [
+              "Öğrenci merkezlidir",
+              "Bilgi öğrenci tarafından yapılandırılır",
+              "Öğretmen rehber konumundadır",
+              "Öğretmen bilgiyi doğrudan aktarır",
+              "Ön bilgiler önemlidir"
+            ],
+            "dogruCevap": "Öğretmen bilgiyi doğrudan aktarır",
+            "aciklama": "Yapılandırmacı yaklaşımda öğretmen bilgiyi doğrudan aktarmaz, öğrencinin bilgiyi yapılandırmasına rehberlik eder."
+          },
+          {
+            "soru": "Gardner'ın Çoklu Zeka Kuramı'na göre aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": [
+              "Her birey farklı zeka alanlarına sahiptir",
+              "Zeka alanları geliştirilebilir",
+              "Zeka tek bir faktörle ölçülebilir",
+              "Her zeka alanı eşit derecede değerlidir",
+              "Zeka alanları birbiriyle etkileşim halindedir"
+            ],
+            "dogruCevap": "Zeka tek bir faktörle ölçülebilir",
+            "aciklama": "Gardner'a göre zeka tek bir faktörle ölçülemez, çünkü zeka çok boyutludur ve farklı alanları vardır."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitimde motivasyonu artıran faktörlerden biri değildir?",
+            "secenekler": [
+              "Olumlu pekiştireç kullanma",
+              "Başarı beklentisi oluşturma",
+              "Sürekli rekabet ortamı yaratma",
+              "İlgi ve ihtiyaçları dikkate alma",
+              "Hedef belirleme"
+            ],
+            "dogruCevap": "Sürekli rekabet ortamı yaratma",
+            "aciklama": "Sürekli rekabet ortamı motivasyonu olumsuz etkileyebilir ve kaygıya neden olabilir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Ausubel'in Anlamlı Öğrenme Kuramı'nın temel ilkelerinden biri değildir?",
+            "secenekler": [
+              "Ön öğrenmeler önemlidir",
+              "Yeni bilgiler eski bilgilerle ilişkilendirilmelidir",
+              "Öğrenme basitten karmaşığa doğru olmalıdır",
+              "Ezberleme en etkili öğrenme yoludur",
+              "Öğrenme materyali anlamlı olmalıdır"
+            ],
+            "dogruCevap": "Ezberleme en etkili öğrenme yoludur",
+            "aciklama": "Ausubel'e göre ezberleme değil, anlamlı öğrenme önemlidir. Bilgiler arasında ilişki kurulmalıdır."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi öğretimde bireysel farklılıkları dikkate almanın yollarından biri değildir?",
+            "secenekler": [
+              "Farklı öğretim yöntemleri kullanma",
+              "Öğrencilerin öğrenme stillerini dikkate alma",
+              "Herkese aynı süreyi verme",
+              "Farklı değerlendirme yöntemleri kullanma",
+              "Esnek öğrenme ortamları oluşturma"
+            ],
+            "dogruCevap": "Herkese aynı süreyi verme",
+            "aciklama": "Bireysel farklılıkları dikkate almak için öğrencilere ihtiyaç duydukları süre verilmelidir, herkese aynı süre verilmesi bireysel farklılıkları göz ardı etmek anlamına gelir."
+          }
+        ],
+          "Eğitim Biliminin Temel Kavramları ve Kuramları 2": [
+            {
+              "soru": "Erikson'un Psikososyal Gelişim Kuramı'na göre, okul çağı döneminde çözülmesi gereken temel çatışma hangisidir?",
+              "secenekler": [
+                "Özerkliğe karşı kuşku",
+                "Girişimciliğe karşı suçluluk",
+                "Başarıya karşı aşağılık duygusu",
+                "Kimliğe karşı rol karmaşası",
+                "Yakınlığa karşı yalıtılmışlık"
+              ],
+              "dogruCevap": "Başarıya karşı aşağılık duygusu",
+              "aciklama": "Erikson'a göre okul çağında (6-12 yaş) çocuk başarılı olmaya karşı aşağılık duygusu çatışmasını yaşar ve çözmesi gerekir."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi üstbiliş (metacognition) becerilerinden biri değildir?",
+              "secenekler": [
+                "Planlama yapma",
+                "Öğrenme stratejilerini seçme",
+                "Kendini izleme",
+                "Ezber yapma",
+                "Öz değerlendirme"
+              ],
+              "dogruCevap": "Ezber yapma",
+              "aciklama": "Ezber yapma bir üstbiliş becerisi değildir. Üstbiliş, kişinin kendi düşünme süreçlerini kontrol etmesi ve yönetmesidir."
+            },
+            {
+              "soru": "Gestalt öğrenme kuramına göre aşağıdakilerden hangisi yanlıştır?",
+              "secenekler": [
+                "Öğrenme aniden gerçekleşir",
+                "Algıda bütünlük önemlidir",
+                "Problem çözme içgörüsel olarak gerçekleşir",
+                "Öğrenme parçadan bütüne doğrudur",
+                "Öğrenmede organizasyon önemlidir"
+              ],
+              "dogruCevap": "Öğrenme parçadan bütüne doğrudur",
+              "aciklama": "Gestalt kuramına göre öğrenme bütünden parçaya doğrudur, parçadan bütüne değil."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi yapılandırmacı öğrenme ortamının özelliklerinden biri değildir?",
+              "secenekler": [
+                "İşbirlikli öğrenme teşvik edilir",
+                "Öğrenci sorgulamaya yönlendirilir",
+                "Öğretmen tek bilgi kaynağıdır",
+                "Gerçek yaşam problemleri kullanılır",
+                "Öğrenci aktif katılım gösterir"
+              ],
+              "dogruCevap": "Öğretmen tek bilgi kaynağıdır",
+              "aciklama": "Yapılandırmacı öğrenmede öğretmen tek bilgi kaynağı değildir, birçok farklı kaynak kullanılır."
+            },
+            {
+              "soru": "Gagne'nin Öğrenme Hiyerarşisi'nde en üst düzey öğrenme hangisidir?",
+              "secenekler": [
+                "İşaret öğrenme",
+                "Uyarıcı-tepki öğrenme",
+                "Zincirleme öğrenme",
+                "Kavram öğrenme",
+                "Problem çözme"
+              ],
+              "dogruCevap": "Problem çözme",
+              "aciklama": "Gagne'ye göre problem çözme en üst düzey öğrenmedir ve diğer öğrenme türlerini içerir."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi öğretimde güdülemeyi artıran faktörlerden biri değildir?",
+              "secenekler": [
+                "Öğrencinin ilgisini çekme",
+                "Başarı beklentisi oluşturma",
+                "Sürekli eleştiri yapma",
+                "Olumlu pekiştireç kullanma",
+                "Hedeften haberdar etme"
+              ],
+              "dogruCevap": "Sürekli eleştiri yapma",
+              "aciklama": "Sürekli eleştiri öğrencinin güdülenmesini olumsuz etkiler ve öğrenme isteğini azaltır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi Kohlberg'in Ahlak Gelişimi Kuramı'nın düzeylerinden biri değildir?",
+              "secenekler": [
+                "Gelenek öncesi düzey",
+                "Geleneksel düzey",
+                "Gelenek sonrası düzey",
+                "Soyut işlemler düzeyi",
+                "Evrensel ahlak düzeyi"
+              ],
+              "dogruCevap": "Soyut işlemler düzeyi",
+              "aciklama": "Soyut işlemler düzeyi Piaget'nin bilişsel gelişim kuramına aittir, Kohlberg'in ahlak gelişimi kuramına değil."
+            },
+            {
+              "soru": "Program değerlendirme modellerinden CIPP modelinde 'I' neyi temsil eder?",
+              "secenekler": [
+                "Implementation (Uygulama)",
+                "Input (Girdi)",
+                "Instruction (Öğretim)",
+                "Interaction (Etkileşim)",
+                "Integration (Bütünleşme)"
+              ],
+              "dogruCevap": "Input (Girdi)",
+              "aciklama": "CIPP modelinde I harfi Input (Girdi) değerlendirmesini temsil eder. Model: Context, Input, Process, Product."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi öğretimde kullanılan ipucu türlerinden biri değildir?",
+              "secenekler": [
+                "Sözel ipucu",
+                "Görsel ipucu",
+                "Fiziksel ipucu",
+                "Doğal ipucu",
+                "Cezalandırıcı ipucu"
+              ],
+              "dogruCevap": "Cezalandırıcı ipucu",
+              "aciklama": "Cezalandırıcı ipucu diye bir ipucu türü yoktur. İpuçları öğrenmeyi kolaylaştırmak için kullanılır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi Dewey'in Probleme Dayalı Öğrenme yaklaşımının özelliklerinden biri değildir?",
+              "secenekler": [
+                "Öğrenci aktiftir",
+                "Gerçek yaşam problemleri kullanılır",
+                "Öğretmen bilgi aktarıcıdır",
+                "İşbirlikli öğrenme önemlidir",
+                "Yaparak yaşayarak öğrenme esastır"
+              ],
+              "dogruCevap": "Öğretmen bilgi aktarıcıdır",
+              "aciklama": "Dewey'in yaklaşımında öğretmen bilgi aktarıcı değil, rehber konumundadır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi öğrenme stillerinden biri değildir?",
+              "secenekler": [
+                "Görsel öğrenme",
+                "İşitsel öğrenme",
+                "Kinestetik öğrenme",
+                "Dokunsal öğrenme",
+                "Cezalandırıcı öğrenme"
+              ],
+              "dogruCevap": "Cezalandırıcı öğrenme",
+              "aciklama": "Cezalandırıcı öğrenme diye bir öğrenme stili yoktur. Öğrenme stilleri bireyin tercih ettiği öğrenme yollarıdır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi Skinner'in Edimsel Koşullanma kuramının temel kavramlarından biri değildir?",
+              "secenekler": [
+                "Pekiştirme",
+                "Ceza",
+                "Sönme",
+                "İçgörü",
+                "Şekillendirme"
+              ],
+              "dogruCevap": "İçgörü",
+              "aciklama": "İçgörü Gestalt kuramının temel kavramıdır, Skinner'in edimsel koşullanma kuramına ait değildir."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi öğretim teknolojilerinin kullanım amaçlarından biri değildir?",
+              "secenekler": [
+                "Öğrenmeyi kolaylaştırma",
+                "Motivasyonu artırma",
+                "Öğretmeni pasifleştirme",
+                "Kalıcı öğrenmeyi sağlama",
+                "Bireysel farklılıklara hitap etme"
+              ],
+              "dogruCevap": "Öğretmeni pasifleştirme",
+              "aciklama": "Öğretim teknolojileri öğretmeni pasifleştirmek için değil, öğretim sürecini desteklemek için kullanılır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi Bloom'un Bilişsel Alan Taksonomisi'nin en üst düzey basamağıdır?",
+              "secenekler": [
+                "Bilgi",
+                "Kavrama",
+                "Uygulama",
+                "Analiz",
+                "Değerlendirme"
+              ],
+              "dogruCevap": "Değerlendirme",
+              "aciklama": "Bloom'un orijinal taksonomisinde en üst düzey basamak değerlendirmedir. (Revize edilmiş taksonomide yaratma en üsttedir)"
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi öğretimde kullanılan pekiştireç türlerinden biri değildir?",
+              "secenekler": [
+                "Sosyal pekiştireç",
+                "Maddi pekiştireç",
+                "Sembol pekiştireç",
+                "Etkinlik pekiştireci",
+                "Cezalandırıcı pekiştireç"
+              ],
+              "dogruCevap": "Cezalandırıcı pekiştireç",
+              "aciklama": "Cezalandırıcı pekiştireç diye bir pekiştireç türü yoktur. Ceza ve pekiştireç farklı kavramlardır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi öğretimde kullanılan dönüt türlerinden biri değildir?",
+              "secenekler": [
+                "Doğrulayıcı dönüt",
+                "Açıklayıcı dönüt",
+                "Düzeltici dönüt",
+                "Tamamlayıcı dönüt",
+                "Cezalandırıcı dönüt"
+              ],
+              "dogruCevap": "Cezalandırıcı dönüt",
+              "aciklama": "Cezalandırıcı dönüt diye bir dönüt türü yoktur. Dönüt öğrenmeyi desteklemek için kullanılır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi öğretimde kullanılan soru türlerinden biri değildir?",
+              "secenekler": [
+                "Bilgi soruları",
+                "Kavrama soruları",
+                "Analiz soruları",
+                "Sentez soruları",
+                "Cezalandırma soruları"
+              ],
+              "dogruCevap": "Cezalandırma soruları",
+              "aciklama": "Cezalandırma soruları diye bir soru türü yoktur. Sorular öğrenmeyi değerlendirmek ve desteklemek için kullanılır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi öğretimde kullanılan strateji türlerinden biri değildir?",
+              "secenekler": [
+                "Sunuş yoluyla öğretim",
+                "Buluş yoluyla öğretim",
+                "Araştırma-inceleme yoluyla öğretim",
+                "İşbirlikli öğretim",
+                "Cezalandırma yoluyla öğretim"
+              ],
+              "dogruCevap": "Cezalandırma yoluyla öğretim",
+              "aciklama": "Cezalandırma yoluyla öğretim diye bir öğretim stratejisi yoktur. Öğretim stratejileri öğrenmeyi kolaylaştırmak için kullanılır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi öğretimde kullanılan yöntem türlerinden biri değildir?",
+              "secenekler": [
+                "Anlatım yöntemi",
+                "Tartışma yöntemi",
+                "Gösterip yaptırma yöntemi",
+                "Problem çözme yöntemi",
+                "Cezalandırma yöntemi"
+              ],
+              "dogruCevap": "Cezalandırma yöntemi",
+              "aciklama": "Cezalandırma yöntemi diye bir öğretim yöntemi yoktur. Öğretim yöntemleri öğrenmeyi sağlamak için kullanılır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi öğretimde kullanılan teknik türlerinden biri değildir?",
+              "secenekler": [
+                "Soru-cevap tekniği",
+                "Beyin fırtınası tekniği",
+                "Drama tekniği",
+                "Rol oynama tekniği",
+                "Cezalandırma tekniği"
+              ],
+              "dogruCevap": "Cezalandırma tekniği",
+              "aciklama": "Cezalandırma tekniği diye bir öğretim tekniği yoktur. Öğretim teknikleri öğrenmeyi kolaylaştırmak için kullanılır."
+            }
+          ],
         "Eğitimin Temelleri": [
           {
             "soru": "Antik Yunan'da 'paideia' kavramı neyi ifade eder?",
@@ -325,6 +761,248 @@
             "dogruCevap": "Bireyin aynı sosyal statü içinde yer değiştirmesini"
           }
         ],
+          "Eğitimin Temelleri 2": [
+            {
+              "soru": "Antik Yunan'da 'Akademia' kavramı hangi düşünürle özdeşleşmiştir?",
+              "secenekler": [
+                "Aristoteles",
+                "Sokrates",
+                "Platon",
+                "Herakleitos",
+                "Pythagoras"
+              ],
+              "dogruCevap": "Platon",
+              "aciklama": "Akademia, Platon'un M.Ö. 387'de Atina'da kurduğu ve modern üniversitelerin temeli sayılan eğitim kurumudur."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi pragmatist eğitim felsefesinin temel ilkelerinden biri değildir?",
+              "secenekler": [
+                "Yaparak yaşayarak öğrenme",
+                "Öğrenci merkezli eğitim",
+                "Problem çözme becerisi",
+                "Mutlak bilginin aktarımı",
+                "Yaşama dönük eğitim"
+              ],
+              "dogruCevap": "Mutlak bilginin aktarımı",
+              "aciklama": "Pragmatist eğitim felsefesi mutlak bilginin varlığını reddeder, bilginin değişebilir olduğunu savunur."
+            },
+            {
+              "soru": "Eğitimin ekonomik işlevleri arasında aşağıdakilerden hangisi yer almaz?",
+              "secenekler": [
+                "Nitelikli işgücü yetiştirme",
+                "Üretim teknolojilerini geliştirme",
+                "Kültürel değerleri koruma",
+                "İstihdam sağlama",
+                "Ekonomik kalkınmaya katkı"
+              ],
+              "dogruCevap": "Kültürel değerleri koruma",
+              "aciklama": "Kültürel değerleri koruma, eğitimin toplumsal işlevleri arasında yer alır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi İbn-i Sina'nın eğitim görüşlerinden biri değildir?",
+              "secenekler": [
+                "Eğitimde bireysel farklılıklar dikkate alınmalıdır",
+                "Çocuğun ilgi ve yetenekleri önemlidir",
+                "Eğitim sadece dini bilgilerle sınırlı olmalıdır",
+                "Oyun çocuğun gelişimi için önemlidir",
+                "Ahlak eğitimi erken yaşta başlamalıdır"
+              ],
+              "dogruCevap": "Eğitim sadece dini bilgilerle sınırlı olmalıdır",
+              "aciklama": "İbn-i Sina eğitimde dini bilgilerin yanında fen, matematik, müzik gibi alanların da önemli olduğunu vurgulamıştır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi eğitimin psikolojik temellerini oluşturan alanlardan biri değildir?",
+              "secenekler": [
+                "Gelişim psikolojisi",
+                "Öğrenme psikolojisi",
+                "Kişilik psikolojisi",
+                "Ekonomi psikolojisi",
+                "Sosyal psikoloji"
+              ],
+              "dogruCevap": "Ekonomi psikolojisi",
+              "aciklama": "Ekonomi psikolojisi diye bir alan yoktur. Diğer seçenekler eğitimin psikolojik temellerini oluşturan alanlardır."
+            },
+            {
+              "soru": "Fatih Sultan Mehmet döneminde kurulan Sahn-ı Seman Medreselerinin temel amacı nedir?",
+              "secenekler": [
+                "Askeri eğitim vermek",
+                "Yüksek düzeyde bilim adamı yetiştirmek",
+                "Sanat eğitimi vermek",
+                "Teknik eğitim vermek",
+                "Ticaret eğitimi vermek"
+              ],
+              "dogruCevap": "Yüksek düzeyde bilim adamı yetiştirmek",
+              "aciklama": "Sahn-ı Seman Medreseleri, dönemin en yüksek eğitim kurumuydu ve bilim adamı yetiştirmeyi amaçlıyordu."
+            },
+            {
+              "soru": "Eğitimin politik işlevleri arasında aşağıdakilerden hangisi yer almaz?",
+              "secenekler": [
+                "Vatandaşlık bilinci kazandırma",
+                "Demokratik değerleri öğretme",
+                "Milli kimlik oluşturma",
+                "Ekonomik üretimi artırma",
+                "Siyasi katılımı teşvik etme"
+              ],
+              "dogruCevap": "Ekonomik üretimi artırma",
+              "aciklama": "Ekonomik üretimi artırma, eğitimin ekonomik işlevleri arasında yer alır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi varoluşçu eğitim felsefesinin temel ilkelerinden biridir?",
+              "secenekler": [
+                "Mutlak doğruların aktarılması",
+                "Bireysel özgürlüğün önemi",
+                "Toplumsal düzenin korunması",
+                "Geleneksel değerlerin aktarımı",
+                "Standart eğitim programı"
+              ],
+              "dogruCevap": "Bireysel özgürlüğün önemi",
+              "aciklama": "Varoluşçu eğitim felsefesi, bireyin özgürlüğünü ve özgün varoluşunu merkeze alır."
+            },
+            {
+              "soru": "Eğitimin toplumsal hareketlilik işlevi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+              "secenekler": [
+                "Dikey hareketlilik sağlar",
+                "Yatay hareketlilik sağlar",
+                "Sosyal statü değişimine imkan verir",
+                "Toplumsal eşitsizlikleri tamamen ortadan kaldırır",
+                "Meslek değiştirme imkanı sağlar"
+              ],
+              "dogruCevap": "Toplumsal eşitsizlikleri tamamen ortadan kaldırır",
+              "aciklama": "Eğitim toplumsal hareketlilik sağlar ancak eşitsizlikleri tamamen ortadan kaldıramaz."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi Ziya Gökalp'in eğitim görüşlerinden biri değildir?",
+              "secenekler": [
+                "Milli kültürün aktarılması önemlidir",
+                "Batı medeniyetinden yararlanılmalıdır",
+                "Eğitim tamamen Batı tarzında olmalıdır",
+                "Türkçülük bilinci kazandırılmalıdır",
+                "Hars ve medeniyet dengesi kurulmalıdır"
+              ],
+              "dogruCevap": "Eğitim tamamen Batı tarzında olmalıdır",
+              "aciklama": "Ziya Gökalp, Batı medeniyetinden yararlanmayı savunurken milli kültürün korunmasını da vurgulamıştır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi realist eğitim felsefesinin özelliklerinden biri değildir?",
+              "secenekler": [
+                "Nesnel bilginin varlığına inanır",
+                "Bilimsel yöntemi önemser",
+                "Öğretmen merkezli eğitimi savunur",
+                "Bilginin göreceli olduğunu savunur",
+                "Sistematik öğretimi vurgular"
+              ],
+              "dogruCevap": "Bilginin göreceli olduğunu savunur",
+              "aciklama": "Realist eğitim felsefesi, bilginin nesnel ve mutlak olduğunu savunur, göreceliliği kabul etmez."
+            },
+            {
+              "soru": "Eğitimin ekonomik maliyeti ile ilgili aşağıdakilerden hangisi yanlıştır?",
+              "secenekler": [
+                "Doğrudan maliyetler vardır",
+                "Dolaylı maliyetler vardır",
+                "Fırsat maliyeti söz konusudur",
+                "Sosyal maliyetler içerir",
+                "Maliyeti sadece devlet karşılar"
+              ],
+              "dogruCevap": "Maliyeti sadece devlet karşılar",
+              "aciklama": "Eğitimin maliyeti sadece devlet tarafından değil, bireyler ve toplum tarafından da karşılanır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi John Dewey'in eğitim görüşlerinden biri değildir?",
+              "secenekler": [
+                "Eğitim yaşama hazırlık değil, yaşamın kendisidir",
+                "Yaparak yaşayarak öğrenme önemlidir",
+                "Öğretmen merkezli eğitim esastır",
+                "Problem çözme becerisi geliştirilmelidir",
+                "Demokrasi eğitimle güçlenir"
+              ],
+              "dogruCevap": "Öğretmen merkezli eğitim esastır",
+              "aciklama": "Dewey öğrenci merkezli eğitimi savunur, öğretmen merkezli eğitimi değil."
+            },
+            {
+              "soru": "Eğitimin toplumsal işlevleri arasında aşağıdakilerden hangisi yer almaz?",
+              "secenekler": [
+                "Kültürel mirası aktarma",
+                "Sosyalleşmeyi sağlama",
+                "Toplumsal değerleri koruma",
+                "Kar elde etme",
+                "Toplumsal bütünleşmeyi sağlama"
+              ],
+              "dogruCevap": "Kar elde etme",
+              "aciklama": "Kar elde etme eğitimin ekonomik işlevleri arasında yer alabilir, toplumsal işlevleri arasında değil."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi idealist eğitim felsefesinin özelliklerinden biridir?",
+              "secenekler": [
+                "Maddi gerçekliği esas alır",
+                "Deneysel öğrenmeyi vurgular",
+                "Mutlak gerçekliği arar",
+                "Pragmatik yaklaşımı benimser",
+                "Göreceli bilgiyi savunur"
+              ],
+              "dogruCevap": "Mutlak gerçekliği arar",
+              "aciklama": "İdealist eğitim felsefesi, mutlak ve değişmez gerçekliğin varlığını savunur."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi eğitimin psikolojik temellerinin konuları arasında yer almaz?",
+              "secenekler": [
+                "Öğrenme süreçleri",
+                "Gelişim özellikleri",
+                "Bireysel farklılıklar",
+                "Ekonomik kalkınma",
+                "Motivasyon"
+              ],
+              "dogruCevap": "Ekonomik kalkınma",
+              "aciklama": "Ekonomik kalkınma eğitimin ekonomik temellerinin konusudur, psikolojik temellerinin değil."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi eğitimin politik işlevlerinden biri değildir?",
+              "secenekler": [
+                "Siyasi sosyalleşmeyi sağlama",
+                "Vatandaşlık bilinci kazandırma",
+                "Mesleki beceri kazandırma",
+                "Demokratik değerleri öğretme",
+                "Siyasi katılımı teşvik etme"
+              ],
+              "dogruCevap": "Mesleki beceri kazandırma",
+              "aciklama": "Mesleki beceri kazandırma eğitimin ekonomik işlevleri arasında yer alır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi eğitimin felsefi temelleri açısından doğru bir yaklaşım değildir?",
+              "secenekler": [
+                "Eğitim felsefesi eğitimin amaçlarını belirler",
+                "Eğitim programlarının temelini oluşturur",
+                "Öğretim yöntemlerini etkiler",
+                "Sadece tek bir felsefi görüş benimsenmelidir",
+                "Değerlendirme yaklaşımlarını şekillendirir"
+              ],
+              "dogruCevap": "Sadece tek bir felsefi görüş benimsenmelidir",
+              "aciklama": "Eğitimde farklı felsefi görüşlerden yararlanılabilir, tek bir görüşle sınırlı kalınmamalıdır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi eğitimin toplumsal temellerinin inceleme alanlarından biri değildir?",
+              "secenekler": [
+                "Toplumsal değişme",
+                "Kültürel yapı",
+                "Sosyal kurumlar",
+                "Öğrenme kuramları",
+                "Sosyal tabakalaşma"
+              ],
+              "dogruCevap": "Öğrenme kuramları",
+              "aciklama": "Öğrenme kuramları eğitimin psikolojik temellerinin inceleme alanıdır."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi eğitimin ekonomik temellerinin inceleme alanlarından biri değildir?",
+              "secenekler": [
+                "Eğitim yatırımları",
+                "İnsan kaynakları planlaması",
+                "Eğitim maliyetleri",
+                "Kültürel değerler",
+                "Eğitimin finansmanı"
+              ],
+              "dogruCevap": "Kültürel değerler",
+              "aciklama": "Kültürel değerler eğitimin toplumsal temellerinin inceleme alanıdır."
+            }
+          ],
       "Eğitimin Tarihsel Gelişimi": [
         {
           "soru": "İlk formal eğitim kurumları, hangi medeniyetler tarafından kurulmuştur?",
@@ -2473,6 +3151,248 @@
           "dogruCevap": "Değerler eğitimi ve bilimsel düşünceyi"
         }
       ],
+        "Türkiye Yüzyılı Maarif Modeli 2": [
+          {
+            "soru": "Türkiye Yüzyılı Maarif Modeli'nin temel vizyonu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Sadece akademik başarıya odaklanma",
+              "Bütüncül insan yetiştirme",
+              "Yalnızca teknolojik gelişime önem verme",
+              "Tek tip eğitim modeli uygulama",
+              "Geleneksel eğitim sistemini sürdürme"
+            ],
+            "dogruCevap": "Bütüncül insan yetiştirme",
+            "aciklama": "Model, öğrencilerin bilişsel, duyuşsal ve psikomotor becerilerini bir bütün olarak geliştirmeyi hedefler."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Modeli'nin temel değerlerinden biri değildir?",
+            "secenekler": [
+              "Milli ve manevi değerler",
+              "Evrensel etik değerler",
+              "Bilimsel düşünce",
+              "Rekabetçi bireycilik",
+              "Kültürel miras"
+            ],
+            "dogruCevap": "Rekabetçi bireycilik",
+            "aciklama": "Model, işbirlikçi ve dayanışmacı bir yaklaşımı benimser, rekabetçi bireyciliği değil."
+          },
+          {
+            "soru": "Türkiye Yüzyılı Maarif Modeli'nde öğretmen rolü nasıl tanımlanmıştır?",
+            "secenekler": [
+              "Bilgi aktarıcı",
+              "Rehber ve kolaylaştırıcı",
+              "Otoriter lider",
+              "Pasif gözlemci",
+              "Tek yönlü anlatıcı"
+            ],
+            "dogruCevap": "Rehber ve kolaylaştırıcı",
+            "aciklama": "Model, öğretmeni öğrenme sürecinde rehber ve kolaylaştırıcı olarak konumlandırır."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi modelin dijital dönüşüm hedeflerinden biridir?",
+            "secenekler": [
+              "Teknoloji kullanımını sınırlandırma",
+              "Dijital yetkinlikleri geliştirme",
+              "Geleneksel yöntemlere bağlı kalma",
+              "Teknolojiden uzak durma",
+              "Dijital araçları yasaklama"
+            ],
+            "dogruCevap": "Dijital yetkinlikleri geliştirme",
+            "aciklama": "Model, öğrencilerin dijital çağın gerektirdiği yetkinlikleri kazanmasını hedefler."
+          },
+          {
+            "soru": "Türkiye Yüzyılı Maarif Modeli'nde değerlendirme yaklaşımı nasıldır?",
+            "secenekler": [
+              "Sadece sonuç odaklı",
+              "Yalnızca sınav temelli",
+              "Süreç ve sonuç odaklı",
+              "Sadece öğretmen değerlendirmesi",
+              "Tek tip değerlendirme"
+            ],
+            "dogruCevap": "Süreç ve sonuç odaklı",
+            "aciklama": "Model, hem süreç hem de sonuç değerlendirmesini içeren çok boyutlu bir değerlendirme yaklaşımı benimser."
+          },
+          {
+            "soru": "Modelin beceri geliştirme yaklaşımında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": [
+              "21. yüzyıl becerileri",
+              "Eleştirel düşünme",
+              "Problem çözme",
+              "Ezbere dayalı öğrenme",
+              "Yaratıcı düşünme"
+            ],
+            "dogruCevap": "Ezbere dayalı öğrenme",
+            "aciklama": "Model, ezbere dayalı öğrenme yerine üst düzey düşünme becerilerini geliştirmeyi hedefler."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi modelin yabancı dil eğitimi yaklaşımının özelliklerinden biridir?",
+            "secenekler": [
+              "Tek dil odaklı eğitim",
+              "Çok dilli eğitim yaklaşımı",
+              "Sadece gramer öğretimi",
+              "Yabancı dil eğitimini önemsememe",
+              "Dil eğitimini sınırlandırma"
+            ],
+            "dogruCevap": "Çok dilli eğitim yaklaşımı",
+            "aciklama": "Model, çok dilli ve kültürlerarası bir yaklaşımı benimser."
+          },
+          {
+            "soru": "Modelin okul öncesi eğitim yaklaşımının temel özelliği nedir?",
+            "secenekler": [
+              "Akademik başarıya odaklanma",
+              "Oyun temelli öğrenme",
+              "Sınav odaklı eğitim",
+              "Katı disiplin anlayışı",
+              "Formal öğretim"
+            ],
+            "dogruCevap": "Oyun temelli öğrenme",
+            "aciklama": "Model, okul öncesi eğitimde oyun temelli öğrenmeyi esas alır."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi modelin özel eğitim yaklaşımının temel ilkelerinden biridir?",
+            "secenekler": [
+              "Tek tip eğitim",
+              "Bireyselleştirilmiş eğitim",
+              "Ayrıştırıcı eğitim",
+              "Standart müfredat",
+              "Sınırlı destek"
+            ],
+            "dogruCevap": "Bireyselleştirilmiş eğitim",
+            "aciklama": "Model, özel eğitimde bireysel farklılıkları dikkate alan bireyselleştirilmiş eğitimi benimser."
+          },
+          {
+            "soru": "Modelin mesleki eğitim yaklaşımında aşağıdakilerden hangisi önceliklidir?",
+            "secenekler": [
+              "Teorik eğitim",
+              "Sektör işbirliği",
+              "Akademik başarı",
+              "Genel kültür",
+              "Soyut öğrenme"
+            ],
+            "dogruCevap": "Sektör işbirliği",
+            "aciklama": "Model, mesleki eğitimde sektörle işbirliğini ve uygulamalı eğitimi önemser."
+          },
+          {
+            "soru": "Modelin öğretmen yetiştirme yaklaşımının temel özelliği nedir?",
+            "secenekler": [
+              "Sadece teorik eğitim",
+              "Sürekli mesleki gelişim",
+              "Tek seferlik eğitim",
+              "Geleneksel yöntemler",
+              "Sınırlı uygulama"
+            ],
+            "dogruCevap": "Sürekli mesleki gelişim",
+            "aciklama": "Model, öğretmenlerin sürekli mesleki gelişimini destekler ve teşvik eder."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi modelin ölçme-değerlendirme yaklaşımının özelliklerinden biri değildir?",
+            "secenekler": [
+              "Çok boyutlu değerlendirme",
+              "Süreç değerlendirme",
+              "Tek tip sınav",
+              "Performans değerlendirme",
+              "Alternatif değerlendirme"
+            ],
+            "dogruCevap": "Tek tip sınav",
+            "aciklama": "Model, tek tip sınav yerine çok boyutlu ve alternatif değerlendirme yaklaşımlarını benimser."
+          },
+          {
+            "soru": "Modelin rehberlik anlayışının temel özelliği nedir?",
+            "secenekler": [
+              "Sadece akademik rehberlik",
+              "Bütüncül rehberlik yaklaşımı",
+              "Kriz odaklı rehberlik",
+              "Sınırlı rehberlik hizmeti",
+              "Tek boyutlu rehberlik"
+            ],
+            "dogruCevap": "Bütüncül rehberlik yaklaşımı",
+            "aciklama": "Model, öğrencilerin tüm gelişim alanlarını destekleyen bütüncül bir rehberlik anlayışını benimser."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi modelin okul yönetimi anlayışının özelliklerinden biri değildir?",
+            "secenekler": [
+              "Katılımcı yönetim",
+              "Şeffaflık",
+              "Merkezi kontrol",
+              "Paydaş işbirliği",
+              "Demokratik yönetim"
+            ],
+            "dogruCevap": "Merkezi kontrol",
+            "aciklama": "Model, merkezi kontrol yerine katılımcı ve demokratik bir yönetim anlayışını benimser."
+          },
+          {
+            "soru": "Modelin veli katılımı yaklaşımı nasıldır?",
+            "secenekler": [
+              "Sınırlı katılım",
+              "Aktif katılım ve işbirliği",
+              "Katılımın engellenmesi",
+              "Pasif katılım",
+              "Katılımın önemsenmemesi"
+            ],
+            "dogruCevap": "Aktif katılım ve işbirliği",
+            "aciklama": "Model, velilerin eğitim sürecine aktif katılımını ve işbirliğini önemser."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi modelin sosyal etkinlikler yaklaşımının özelliklerinden biridir?",
+            "secenekler": [
+              "Etkinlikleri sınırlama",
+              "Çok yönlü gelişimi destekleme",
+              "Akademik başarıya odaklanma",
+              "Etkinlikleri önemsememe",
+              "Tek tip etkinlik"
+            ],
+            "dogruCevap": "Çok yönlü gelişimi destekleme",
+            "aciklama": "Model, öğrencilerin çok yönlü gelişimini destekleyen sosyal etkinlikleri önemser."
+          },
+          {
+            "soru": "Modelin teknoloji entegrasyonu yaklaşımı nasıldır?",
+            "secenekler": [
+              "Teknolojiyi reddetme",
+              "Amaca uygun entegrasyon",
+              "Teknolojiden kaçınma",
+              "Kontrolsüz kullanım",
+              "Teknolojiye bağımlılık"
+            ],
+            "dogruCevap": "Amaca uygun entegrasyon",
+            "aciklama": "Model, teknolojiyi amaca uygun ve kontrollü bir şekilde eğitime entegre etmeyi hedefler."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi modelin yaşam boyu öğrenme yaklaşımının özelliklerinden biridir?",
+            "secenekler": [
+              "Öğrenmeyi okulla sınırlama",
+              "Sürekli öğrenmeyi destekleme",
+              "Öğrenmeyi yaşla sınırlama",
+              "Formal eğitime odaklanma",
+              "Öğrenmeyi sonlandırma"
+            ],
+            "dogruCevap": "Sürekli öğrenmeyi destekleme",
+            "aciklama": "Model, yaşam boyu öğrenmeyi destekler ve teşvik eder."
+          },
+          {
+            "soru": "Modelin kültür-sanat eğitimi yaklaşımının temel özelliği nedir?",
+            "secenekler": [
+              "Sadece teorik eğitim",
+              "Bütüncül sanat eğitimi",
+              "Sanat eğitimini önemsememe",
+              "Tek sanat dalına odaklanma",
+              "Sanatı göz ardı etme"
+            ],
+            "dogruCevap": "Bütüncül sanat eğitimi",
+            "aciklama": "Model, farklı sanat dallarını içeren bütüncül bir sanat eğitimi yaklaşımını benimser."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi modelin değerler eğitimi yaklaşımının özelliklerinden biri değildir?",
+            "secenekler": [
+              "Milli değerleri koruma",
+              "Evrensel değerleri benimseme",
+              "Değerleri yaşatma",
+              "Değerleri dayatma",
+              "Değerleri içselleştirme"
+            ],
+            "dogruCevap": "Değerleri dayatma",
+            "aciklama": "Model, değerlerin dayatılması yerine içselleştirilmesini ve yaşatılmasını hedefler."
+          }
+        ],
       "Eğitim ve Öğretimde Etik": [
         {
           "soru": "Eğitim ve öğretimde etik ilkelerin temel amacı nedir?",
@@ -2555,6 +3475,228 @@
           "dogruCevap": "Öğrencilerle eşit, adil ve saygılı bir ilişki içinde olmalıdır"
         }
       ],
+        "Eğitim ve Öğretimde Etik - 2": [
+          {
+            "soru": "Öğretmenin mesleki etik ilkelerinden hangisi gizlilik ile ilgilidir?",
+            "secenekler": [
+              "Öğrenci bilgilerini sosyal medyada paylaşmak",
+              "Öğrenci özel bilgilerini korumak ve saklamak",
+              "Veli toplantılarında öğrenci sorunlarını açıkça tartışmak",
+              "Öğrenci notlarını herkese açık şekilde ilan etmek"
+            ],
+            "dogruCevap": "Öğrenci özel bilgilerini korumak ve saklamak",
+            "aciklama": "Öğretmenler öğrencilere ait özel bilgileri korumak ve gizli tutmakla yükümlüdür."
+          },
+          {
+            "soru": "Eğitimde etik liderlik hangi davranışı gerektirir?",
+            "secenekler": [
+              "Kararları tek başına almak",
+              "Örnek davranışlar sergilemek",
+              "Eleştirilere kapalı olmak",
+              "Kuralları katı şekilde uygulamak"
+            ],
+            "dogruCevap": "Örnek davranışlar sergilemek",
+            "aciklama": "Etik liderlik, başkalarına örnek olacak davranışlar sergilemeyi gerektirir."
+          },
+          {
+            "soru": "Öğretmenin değerlendirme sürecinde etik davranışı nasıl olmalıdır?",
+            "secenekler": [
+              "Objektif ve adil değerlendirme yapmalı",
+              "Sevdiği öğrencilere yüksek not vermeli",
+              "Sınıf ortalamasını düşük tutmalı",
+              "Başarısız öğrencileri cezalandırmalı"
+            ],
+            "dogruCevap": "Objektif ve adil değerlendirme yapmalı",
+            "aciklama": "Değerlendirmede objektiflik ve adalet temel etik ilkelerdendir."
+          },
+          {
+            "soru": "Eğitimde etik karar verme sürecinde aşağıdakilerden hangisi dikkate alınmalıdır?",
+            "secenekler": [
+              "Sadece kişisel çıkarlar",
+              "Yalnızca okul kuralları",
+              "Tüm paydaşların hakları ve çıkarları",
+              "Sadece yönetimin istekleri"
+            ],
+            "dogruCevap": "Tüm paydaşların hakları ve çıkarları",
+            "aciklama": "Etik karar vermede tüm paydaşların hak ve çıkarları gözetilmelidir."
+          },
+          {
+            "soru": "Öğretmenin meslektaşlarına karşı etik sorumluluğu nedir?",
+            "secenekler": [
+              "Rekabet ortamı yaratmak",
+              "Mesleki dayanışma ve işbirliği",
+              "Meslektaşlarını eleştirmek",
+              "İletişimi sınırlamak"
+            ],
+            "dogruCevap": "Mesleki dayanışma ve işbirliği",
+            "aciklama": "Öğretmenler arası mesleki dayanışma ve işbirliği temel etik sorumluluklardandır."
+          },
+          {
+            "soru": "Eğitimde telif hakları konusunda etik davranış nasıl olmalıdır?",
+            "secenekler": [
+              "Kaynakları izinsiz kullanmak",
+              "Telif haklarına saygı göstermek",
+              "Kopyala-yapıştır yapmak",
+              "Kaynak göstermeden kullanmak"
+            ],
+            "dogruCevap": "Telif haklarına saygı göstermek",
+            "aciklama": "Eğitimde telif haklarına saygı göstermek temel etik kurallardandır."
+          },
+          {
+            "soru": "Öğretmenin sosyal medya kullanımında etik davranışı nasıl olmalıdır?",
+            "secenekler": [
+              "Öğrencilerle ilgili paylaşımlar yapmak",
+              "Okul sorunlarını sosyal medyada tartışmak",
+              "Profesyonel sınırları korumak",
+              "Öğrencilerle arkadaş olmak"
+            ],
+            "dogruCevap": "Profesyonel sınırları korumak",
+            "aciklama": "Sosyal medyada profesyonel sınırların korunması etik bir zorunluluktur."
+          },
+          {
+            "soru": "Özel eğitim gerektiren öğrencilere yönelik etik yaklaşım nasıl olmalıdır?",
+            "secenekler": [
+              "Görmezden gelmek",
+              "Ayrımcılık yapmak",
+              "Eşit fırsatlar sunmak",
+              "Sınıf dışında tutmak"
+            ],
+            "dogruCevap": "Eşit fırsatlar sunmak",
+            "aciklama": "Özel eğitim öğrencilerine eşit fırsatlar sunmak etik bir zorunluluktur."
+          },
+          {
+            "soru": "Eğitimde kültürel farklılıklara yönelik etik yaklaşım nasıl olmalıdır?",
+            "secenekler": [
+              "Tek tip kültürü dayatmak",
+              "Farklılıklara saygı göstermek",
+              "Farklılıkları yok saymak",
+              "Kültürel ayrımcılık yapmak"
+            ],
+            "dogruCevap": "Farklılıklara saygı göstermek",
+            "aciklama": "Kültürel farklılıklara saygı göstermek temel etik ilkelerdendir."
+          },
+          {
+            "soru": "Öğretmenin velilerle iletişiminde etik davranışı nasıl olmalıdır?",
+            "secenekler": [
+              "Taraflı davranmak",
+              "İletişimi reddetmek",
+              "Profesyonel iletişim kurmak",
+              "Bazı velileri kayırmak"
+            ],
+            "dogruCevap": "Profesyonel iletişim kurmak",
+            "aciklama": "Velilerle profesyonel iletişim kurmak etik bir sorumluluktur."
+          },
+          {
+            "soru": "Eğitimde teknoloji kullanımında etik sorumluluk nedir?",
+            "secenekler": [
+              "Kontrolsüz kullanım",
+              "Güvenli ve amaca uygun kullanım",
+              "Teknolojiden kaçınmak",
+              "Sadece eğlence amaçlı kullanım"
+            ],
+            "dogruCevap": "Güvenli ve amaca uygun kullanım",
+            "aciklama": "Teknolojinin güvenli ve amaca uygun kullanımı etik bir sorumluluktur."
+          },
+          {
+            "soru": "Öğretmenin mesleki gelişiminde etik sorumluluğu nedir?",
+            "secenekler": [
+              "Gelişime kapalı olmak",
+              "Sürekli kendini geliştirmek",
+              "Mevcut bilgilerle yetinmek",
+              "Değişime direnmek"
+            ],
+            "dogruCevap": "Sürekli kendini geliştirmek",
+            "aciklama": "Sürekli mesleki gelişim öğretmenin etik sorumluluklarındandır."
+          },
+          {
+            "soru": "Eğitimde ölçme-değerlendirmede etik ilke nedir?",
+            "secenekler": [
+              "Keyfi değerlendirme",
+              "Objektif ve şeffaf değerlendirme",
+              "Sonuçları gizli tutma",
+              "Notları pazarlık konusu yapma"
+            ],
+            "dogruCevap": "Objektif ve şeffaf değerlendirme",
+            "aciklama": "Ölçme-değerlendirmede objektiflik ve şeffaflık temel etik ilkedir."
+          },
+          {
+            "soru": "Öğretmenin sınıf yönetiminde etik davranışı nasıl olmalıdır?",
+            "secenekler": [
+              "Otoriter ve baskıcı olmak",
+              "Demokratik ve adil olmak",
+              "Disiplini göz ardı etmek",
+              "Kuralsız bir ortam yaratmak"
+            ],
+            "dogruCevap": "Demokratik ve adil olmak",
+            "aciklama": "Sınıf yönetiminde demokratik ve adil olmak etik bir gerekliliktir."
+          },
+          {
+            "soru": "Eğitimde özel yaşama saygı ilkesi neyi gerektirir?",
+            "secenekler": [
+              "Özel bilgileri paylaşmak",
+              "Mahremiyet sınırlarını korumak",
+              "Her şeyi açıkça konuşmak",
+              "Özel hayatı araştırmak"
+            ],
+            "dogruCevap": "Mahremiyet sınırlarını korumak",
+            "aciklama": "Özel yaşama saygı, mahremiyet sınırlarının korunmasını gerektirir."
+          },
+          {
+            "soru": "Eğitimde çıkar çatışması durumunda etik yaklaşım ne olmalıdır?",
+            "secenekler": [
+              "Kişisel çıkarları öne almak",
+              "Durumu görmezden gelmek",
+              "Tarafsız ve adil davranmak",
+              "Çatışmayı körüklemek"
+            ],
+            "dogruCevap": "Tarafsız ve adil davranmak",
+            "aciklama": "Çıkar çatışmalarında tarafsızlık ve adalet esastır."
+          },
+          {
+            "soru": "Öğretmenin mesleki sırları konusundaki etik sorumluluğu nedir?",
+            "secenekler": [
+              "Herkesle paylaşmak",
+              "Sırları korumak",
+              "Seçerek paylaşmak",
+              "Önemsememek"
+            ],
+            "dogruCevap": "Sırları korumak",
+            "aciklama": "Mesleki sırların korunması temel etik sorumluluklardandır."
+          },
+          {
+            "soru": "Eğitimde ayrımcılıkla mücadelede etik yaklaşım nasıl olmalıdır?",
+            "secenekler": [
+              "Ayrımcılığı görmezden gelmek",
+              "Aktif mücadele etmek",
+              "Tarafsız kalmak",
+              "Duruma göre davranmak"
+            ],
+            "dogruCevap": "Aktif mücadele etmek",
+            "aciklama": "Ayrımcılıkla aktif mücadele etmek etik bir sorumluluktur."
+          },
+          {
+            "soru": "Öğretmenin okul kaynaklarını kullanmadaki etik sorumluluğu nedir?",
+            "secenekler": [
+              "Kişisel amaçlar için kullanmak",
+              "Amacına uygun ve verimli kullanmak",
+              "Kullanımı sınırlamak",
+              "Başkalarının kullanımını engellemek"
+            ],
+            "dogruCevap": "Amacına uygun ve verimli kullanmak",
+            "aciklama": "Okul kaynaklarının amacına uygun ve verimli kullanımı etik bir sorumluluktur."
+          },
+          {
+            "soru": "Eğitimde bilimsel dürüstlük ilkesi neyi gerektirir?",
+            "secenekler": [
+              "Bilgileri manipüle etmek",
+              "Bilimsel etik kurallara uymak",
+              "Sonuçları değiştirmek",
+              "Kaynakları görmezden gelmek"
+            ],
+            "dogruCevap": "Bilimsel etik kurallara uymak",
+            "aciklama": "Bilimsel dürüstlük, etik kurallara uymayı gerektirir."
+          }
+        ],
       "Eğitim ve Öğretim Teknolojileri": [
         {
           "soru": "Eğitim teknolojilerinin temel amacı nedir?",
@@ -2667,6 +3809,228 @@
           "dogruCevap": "Forumlar ve çevrimiçi tartışma grupları"
         }
       ],
+        "Eğitim ve Öğretim Teknolojileri 2": [
+          {
+            "soru": "Uzaktan eğitimde senkron öğrenmenin temel avantajı nedir?",
+            "secenekler": [
+              "Öğrencilerin kendi hızlarında çalışması",
+              "Anlık etkileşim ve geri bildirim imkanı",
+              "Ders kayıtlarının tekrar izlenebilmesi",
+              "İnternet bağlantısı gerektirmemesi"
+            ],
+            "dogruCevap": "Anlık etkileşim ve geri bildirim imkanı",
+            "aciklama": "Senkron öğrenme, öğrenci-öğretmen arasında gerçek zamanlı etkileşim sağlar."
+          },
+          {
+            "soru": "Artırılmış gerçeklik (AR) teknolojisinin eğitimdeki temel katkısı nedir?",
+            "secenekler": [
+              "Soyut kavramları somutlaştırma",
+              "Öğrenci devamsızlığını azaltma",
+              "Sınıf mevcudunu düşürme",
+              "Ödev kontrolünü kolaylaştırma"
+            ],
+            "dogruCevap": "Soyut kavramları somutlaştırma",
+            "aciklama": "AR teknolojisi, soyut kavramları görselleştirerek anlaşılır hale getirir."
+          },
+          {
+            "soru": "Yapay zeka destekli öğrenme sistemlerinin en önemli özelliği nedir?",
+            "secenekler": [
+              "Kişiselleştirilmiş öğrenme deneyimi sunma",
+              "Öğretmeni tamamen devre dışı bırakma",
+              "Tüm dersleri otomatikleştirme",
+              "İnternet bağlantısı gerektirmeme"
+            ],
+            "dogruCevap": "Kişiselleştirilmiş öğrenme deneyimi sunma",
+            "aciklama": "Yapay zeka, her öğrencinin öğrenme hızına ve stiline uygun içerik sunar."
+          },
+          {
+            "soru": "Dijital portfolyo kullanımının eğitimdeki temel amacı nedir?",
+            "secenekler": [
+              "Öğrenci gelişimini süreç içinde takip etmek",
+              "Sadece notları kaydetmek",
+              "Velilerle iletişim kurmak",
+              "Ders programı oluşturmak"
+            ],
+            "dogruCevap": "Öğrenci gelişimini süreç içinde takip etmek",
+            "aciklama": "Dijital portfolyolar öğrenci gelişiminin kapsamlı kaydını tutar."
+          },
+          {
+            "soru": "Eğitsel oyunlaştırmanın (gamification) temel faydası nedir?",
+            "secenekler": [
+              "Öğrenme motivasyonunu artırmak",
+              "Ders süresini kısaltmak",
+              "Öğretmen iş yükünü azaltmak",
+              "Sınav sayısını düşürmek"
+            ],
+            "dogruCevap": "Öğrenme motivasyonunu artırmak",
+            "aciklama": "Oyunlaştırma, öğrenmeyi eğlenceli hale getirerek motivasyonu artırır."
+          },
+          {
+            "soru": "Öğrenme yönetim sistemlerinin (LMS) en önemli işlevi nedir?",
+            "secenekler": [
+              "Eğitim sürecini sistematik olarak yönetmek",
+              "Sadece sınav yapmak",
+              "Öğrenci yoklaması almak",
+              "Ders programı oluşturmak"
+            ],
+            "dogruCevap": "Eğitim sürecini sistematik olarak yönetmek",
+            "aciklama": "LMS'ler eğitim sürecinin tüm yönlerini bütünleşik olarak yönetir."
+          },
+          {
+            "soru": "Mobil öğrenmenin (m-learning) en büyük avantajı nedir?",
+            "secenekler": [
+              "Zaman ve mekan bağımsız öğrenme imkanı",
+              "Daha yüksek internet hızı",
+              "Daha büyük ekran boyutu",
+              "Daha fazla depolama alanı"
+            ],
+            "dogruCevap": "Zaman ve mekan bağımsız öğrenme imkanı",
+            "aciklama": "Mobil öğrenme, her yerde ve her zaman öğrenme fırsatı sunar."
+          },
+          {
+            "soru": "Eğitimde podcast kullanımının temel yararı nedir?",
+            "secenekler": [
+              "Sesli öğrenme imkanı sunması",
+              "Görsel materyal sağlaması",
+              "Yazılı içerik oluşturması",
+              "Sınav yapması"
+            ],
+            "dogruCevap": "Sesli öğrenme imkanı sunması",
+            "aciklama": "Podcastler, sesli öğrenme materyali olarak etkili bir araçtır."
+          },
+          {
+            "soru": "Dijital değerlendirme araçlarının en önemli avantajı nedir?",
+            "secenekler": [
+              "Anında geri bildirim sağlaması",
+              "Kağıt tasarrufu yapması",
+              "Öğretmen yorgunluğunu azaltması",
+              "Sınav süresini uzatması"
+            ],
+            "dogruCevap": "Anında geri bildirim sağlaması",
+            "aciklama": "Dijital değerlendirme araçları hızlı ve otomatik geri bildirim sağlar."
+          },
+          {
+            "soru": "Eğitimde bulut teknolojilerinin temel faydası nedir?",
+            "secenekler": [
+              "Kolay erişim ve paylaşım imkanı",
+              "Daha hızlı internet",
+              "Daha fazla yazılım",
+              "Daha ucuz donanım"
+            ],
+            "dogruCevap": "Kolay erişim ve paylaşım imkanı",
+            "aciklama": "Bulut teknolojileri, eğitim materyallerine her yerden erişim sağlar."
+          },
+          {
+            "soru": "3D yazıcıların eğitimde kullanımının temel amacı nedir?",
+            "secenekler": [
+              "Somut öğrenme deneyimleri oluşturmak",
+              "Kağıt tasarrufu yapmak",
+              "Sınıf mevcudunu azaltmak",
+              "İnternet hızını artırmak"
+            ],
+            "dogruCevap": "Somut öğrenme deneyimleri oluşturmak",
+            "aciklama": "3D yazıcılar, kavramları somut modeller haline getirerek öğrenmeyi destekler."
+          },
+          {
+            "soru": "Dijital güvenlik eğitiminin öncelikli hedefi nedir?",
+            "secenekler": [
+              "Siber risklere karşı farkındalık oluşturmak",
+              "İnternet hızını artırmak",
+              "Yazılım geliştirmek",
+              "Donanım bilgisi vermek"
+            ],
+            "dogruCevap": "Siber risklere karşı farkındalık oluşturmak",
+            "aciklama": "Dijital güvenlik eğitimi, güvenli internet kullanımı bilinci oluşturur."
+          },
+          {
+            "soru": "Eğitimde robotik kodlama öğretiminin temel amacı nedir?",
+            "secenekler": [
+              "Algoritmik düşünme becerisi kazandırmak",
+              "Robot üretmek",
+              "Yazılım satmak",
+              "Donanım bilgisi vermek"
+            ],
+            "dogruCevap": "Algoritmik düşünme becerisi kazandırmak",
+            "aciklama": "Robotik kodlama, problem çözme ve algoritmik düşünme becerilerini geliştirir."
+          },
+          {
+            "soru": "Eğitimde web 2.0 araçlarının temel katkısı nedir?",
+            "secenekler": [
+              "İşbirlikli öğrenme ortamı sağlamak",
+              "Sadece içerik sunmak",
+              "Tek yönlü iletişim kurmak",
+              "Statik web sayfaları oluşturmak"
+            ],
+            "dogruCevap": "İşbirlikli öğrenme ortamı sağlamak",
+            "aciklama": "Web 2.0 araçları, etkileşimli ve işbirlikli öğrenme imkanı sunar."
+          },
+          {
+            "soru": "Eğitimde sanal laboratuvarların temel avantajı nedir?",
+            "secenekler": [
+              "Güvenli deney ortamı sağlaması",
+              "Gerçek malzeme kullanımı",
+              "Fiziksel mekan ihtiyacı",
+              "Yüksek maliyet"
+            ],
+            "dogruCevap": "Güvenli deney ortamı sağlaması",
+            "aciklama": "Sanal laboratuvarlar, risk olmadan deney yapma imkanı sunar."
+          },
+          {
+            "soru": "Eğitimde dijital hikaye anlatımının temel faydası nedir?",
+            "secenekler": [
+              "Yaratıcı düşünmeyi geliştirmek",
+              "Sadece dinleme becerisi",
+              "Tek yönlü anlatım",
+              "Pasif öğrenme"
+            ],
+            "dogruCevap": "Yaratıcı düşünmeyi geliştirmek",
+            "aciklama": "Dijital hikaye anlatımı, yaratıcılığı ve anlatım becerilerini geliştirir."
+          },
+          {
+            "soru": "Eğitimde QR kod kullanımının temel amacı nedir?",
+            "secenekler": [
+              "Hızlı bilgi erişimi sağlamak",
+              "Dekorasyon yapmak",
+              "Kağıt tasarrufu",
+              "Sınıf düzeni"
+            ],
+            "dogruCevap": "Hızlı bilgi erişimi sağlamak",
+            "aciklama": "QR kodlar, dijital içeriğe hızlı ve kolay erişim sağlar."
+          },
+          {
+            "soru": "Eğitimde yeşil ekran (green screen) teknolojisinin kullanım amacı nedir?",
+            "secenekler": [
+              "Yaratıcı içerik üretimi",
+              "Enerji tasarrufu",
+              "Sınıf aydınlatması",
+              "Renk öğretimi"
+            ],
+            "dogruCevap": "Yaratıcı içerik üretimi",
+            "aciklama": "Yeşil ekran teknolojisi, yaratıcı ve etkili eğitim içerikleri üretmeyi sağlar."
+          },
+          {
+            "soru": "Eğitimde akıllı tahta kullanımının temel avantajı nedir?",
+            "secenekler": [
+              "Etkileşimli öğrenme ortamı sağlaması",
+              "Elektrik tasarrufu",
+              "Daha az yazı yazma",
+              "Sınıf sessizliği"
+            ],
+            "dogruCevap": "Etkileşimli öğrenme ortamı sağlaması",
+            "aciklama": "Akıllı tahtalar, etkileşimli ve dinamik öğrenme ortamı oluşturur."
+          },
+          {
+            "soru": "Eğitimde dijital rozet sisteminin temel işlevi nedir?",
+            "secenekler": [
+              "Öğrenci motivasyonunu artırmak",
+              "Dekorasyon sağlamak",
+              "Sınıf düzeni oluşturmak",
+              "Devamsızlık takibi yapmak"
+            ],
+            "dogruCevap": "Öğrenci motivasyonunu artırmak",
+            "aciklama": "Dijital rozetler, başarıyı ödüllendirerek motivasyonu artırır."
+          }
+        ],
       "Öğretimin Basamaklandırılması": [
         {
           "soru": "Türk eğitim sisteminde öğretimin basamaklandırılması nedir?",
@@ -6044,6 +7408,248 @@
           "dogruCevap": "Ne güzel bir manzara!"
         }
       ],
+        "Anlatımın Oluşması": [
+          {
+            "paragraf": "Kahve, koyu kahverengi renkli, kendine has kokusu olan, acımsı bir içecektir. Kavrulmuş kahve çekirdeklerinin öğütülmesi ve sıcak su ile demlenmesiyle hazırlanır. İçine şeker, süt veya krema eklenebilir.",
+            "soru": "Bu parçada hangi anlatım biçimi kullanılmıştır?",
+            "secenekler": [
+              "Öyküleme",
+              "Betimleme",
+              "Tanımlama",
+              "Tartışma",
+              "Açıklama"
+            ],
+            "dogruCevap": "Tanımlama"
+          },
+          {
+            "paragraf": "Önce hafif bir rüzgar çıktı. Ardından gökyüzünü kara bulutlar kapladı. Şimşekler çakmaya başladı. Derken bardaktan boşanırcasına yağmur yağmaya başladı.",
+            "soru": "Bu parçada hangi anlatım biçimi ağır basmaktadır?",
+            "secenekler": [
+              "Öyküleme",
+              "Betimleme",
+              "Tartışma",
+              "Açıklama",
+              "Tanımlama"
+            ],
+            "dogruCevap": "Öyküleme"
+          },
+          {
+            "paragraf": "Küresel ısınma, insanlığın geleceği için büyük bir tehdittir. Çünkü buzulların erimesine, deniz seviyesinin yükselmesine ve iklim değişikliklerine neden olmaktadır. Bu durum, birçok canlı türünün yok olmasına yol açabilir.",
+            "soru": "Bu parçada kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Örnekleme",
+              "Tanık gösterme",
+              "Neden-sonuç ilişkisi",
+              "Karşılaştırma",
+              "Sayısal verilerden yararlanma"
+            ],
+            "dogruCevap": "Neden-sonuç ilişkisi"
+          },
+          {
+            "paragraf": "Yüksek dağların zirvesinde kar hiç eksik olmaz. Yamaçlarında çam ormanları uzanır. Eteklerinde ise köyler, kasabalar kurulmuştur. Dağın her yamacında farklı renkte çiçekler açar.",
+            "soru": "Bu parçada hangi anlatım biçimi kullanılmıştır?",
+            "secenekler": [
+              "Öyküleme",
+              "Betimleme",
+              "Tartışma",
+              "Açıklama",
+              "Tanımlama"
+            ],
+            "dogruCevap": "Betimleme"
+          },
+          {
+            "paragraf": "Teknoloji bağımlılığı tıpkı alkol ya da sigara bağımlılığı gibi tedavi edilmesi gereken bir hastalıktır. Her ikisi de kişinin yaşam kalitesini düşürür ve sosyal ilişkilerini zedeler.",
+            "soru": "Bu parçada kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Örnekleme",
+              "Benzetme",
+              "Tanımlama",
+              "Karşılaştırma",
+              "Tanık gösterme"
+            ],
+            "dogruCevap": "Benzetme"
+          },
+          {
+            "paragraf": "Uzmanlar, günde en az 8 saat uyumamız gerektiğini söylüyor. Düzenli uyku, bağışıklık sistemimizi güçlendirir ve zihinsel performansımızı artırır.",
+            "soru": "Bu parçada kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Örnekleme",
+              "Tanık gösterme",
+              "Karşılaştırma",
+              "Sayısal verilerden yararlanma",
+              "Benzetme"
+            ],
+            "dogruCevap": "Tanık gösterme"
+          },
+          {
+            "paragraf": "İstanbul'da yaşayan bir kişi günde ortalama 2 saat trafikte geçiriyor. Bu süre, yılda yaklaşık 730 saat, yani bir aydan fazla zamana denk geliyor.",
+            "soru": "Bu parçada kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Örnekleme",
+              "Tanık gösterme",
+              "Sayısal verilerden yararlanma",
+              "Karşılaştırma",
+              "Benzetme"
+            ],
+            "dogruCevap": "Sayısal verilerden yararlanma"
+          },
+          {
+            "paragraf": "Kitap okumak, insanın ufkunu genişletir. Örneğin, tarih kitapları geçmişi anlamamızı sağlar. Bilim kurgu kitapları hayal gücümüzü geliştirir. Felsefe kitapları ise düşünme yeteneğimizi artırır.",
+            "soru": "Bu parçada kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Örnekleme",
+              "Tanık gösterme",
+              "Neden-sonuç ilişkisi",
+              "Karşılaştırma",
+              "Benzetme"
+            ],
+            "dogruCevap": "Örnekleme"
+          },
+          {
+            "paragraf": "Spor yapmak mı daha sağlıklıdır, yoksa diyet yapmak mı? Bu sorunun cevabı kişiden kişiye değişebilir. Ancak uzmanlar, ikisinin bir arada yapılmasının en etkili sonucu verdiğini belirtiyorlar.",
+            "soru": "Bu parçada hangi anlatım biçimi kullanılmıştır?",
+            "secenekler": [
+              "Öyküleme",
+              "Betimleme",
+              "Tartışma",
+              "Açıklama",
+              "Tanımlama"
+            ],
+            "dogruCevap": "Tartışma"
+          },
+          {
+            "paragraf": "Köy hayatı ile şehir hayatı birbirinden çok farklıdır. Köyde doğal yaşam, huzur ve sakinlik hakimken şehirde teknoloji, kalabalık ve gürültü vardır.",
+            "soru": "Bu parçada kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Örnekleme",
+              "Karşılaştırma",
+              "Tanık gösterme",
+              "Benzetme",
+              "Tanımlama"
+            ],
+            "dogruCevap": "Karşılaştırma"
+          },
+          {
+            "paragraf": "Dünya nüfusu her geçen gün artıyor. 1950'de 2,5 milyar olan dünya nüfusu, 2000'de 6 milyara, 2023'te ise 8 milyara ulaştı.",
+            "soru": "Bu parçada kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Örnekleme",
+              "Tanık gösterme",
+              "Sayısal verilerden yararlanma",
+              "Karşılaştırma",
+              "Benzetme"
+            ],
+            "dogruCevap": "Sayısal verilerden yararlanma"
+          },
+          {
+            "paragraf": "Sosyal medya, günümüzde bir bıçak gibidir. Doğru kullanıldığında faydalı olabilir ancak yanlış kullanıldığında zararlı sonuçlar doğurabilir.",
+            "soru": "Bu parçada kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Örnekleme",
+              "Benzetme",
+              "Tanık gösterme",
+              "Karşılaştırma",
+              "Tanımlama"
+            ],
+            "dogruCevap": "Benzetme"
+          },
+          {
+            "paragraf": "Çevre kirliliği, hava kalitesini düşürür. Bu durum solunum yolu hastalıklarına neden olur. Hastalıkların artması ise sağlık sistemine olan yükü artırır.",
+            "soru": "Bu parçada kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Örnekleme",
+              "Tanık gösterme",
+              "Neden-sonuç ilişkisi",
+              "Karşılaştırma",
+              "Benzetme"
+            ],
+            "dogruCevap": "Neden-sonuç ilişkisi"
+          },
+          {
+            "paragraf": "Bilim insanları, küresel ısınmanın etkilerini azaltmak için yenilenebilir enerji kaynaklarının kullanılması gerektiğini vurguluyorlar. Özellikle güneş ve rüzgar enerjisinin önemini belirtiyorlar.",
+            "soru": "Bu parçada kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Örnekleme",
+              "Tanık gösterme",
+              "Neden-sonuç ilişkisi",
+              "Karşılaştırma",
+              "Benzetme"
+            ],
+            "dogruCevap": "Tanık gösterme"
+          },
+          {
+            "paragraf": "Yaşlı adam, titrek adımlarla ilerliyordu. Bastonuna dayanmış, hafifçe öne eğik bir şekilde yürüyordu. Gri saçları rüzgarda dalgalanıyordu.",
+            "soru": "Bu parçada hangi anlatım biçimi kullanılmıştır?",
+            "secenekler": [
+              "Öyküleme",
+              "Betimleme",
+              "Tartışma",
+              "Açıklama",
+              "Tanımlama"
+            ],
+            "dogruCevap": "Betimleme"
+          },
+          {
+            "paragraf": "Sağlıklı beslenme, düzenli egzersiz yapmak kadar önemlidir. Her ikisi de vücut sağlığımız için vazgeçilmezdir. Biri olmadan diğerinin etkisi sınırlı kalır.",
+            "soru": "Bu parçada kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Örnekleme",
+              "Karşılaştırma",
+              "Tanık gösterme",
+              "Benzetme",
+              "Tanımlama"
+            ],
+            "dogruCevap": "Karşılaştırma"
+          },
+          {
+            "paragraf": "Stres, modern çağın en büyük sorunlarından biridir. İş hayatındaki rekabet, ekonomik sorunlar, trafik gibi faktörler insanları strese sokmaktadır.",
+            "soru": "Bu parçada kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Örnekleme",
+              "Tanık gösterme",
+              "Neden-sonuç ilişkisi",
+              "Karşılaştırma",
+              "Benzetme"
+            ],
+            "dogruCevap": "Örnekleme"
+          },
+          {
+            "paragraf": "Deprem, yerin derinliklerindeki kayaçların kırılması sonucu oluşan sarsıntılardır. Bu sarsıntılar, yer kabuğunda dalgalar halinde yayılır ve yeryüzünde hasara neden olabilir.",
+            "soru": "Bu parçada hangi anlatım biçimi kullanılmıştır?",
+            "secenekler": [
+              "Öyküleme",
+              "Betimleme",
+              "Tartışma",
+              "Açıklama",
+              "Tanımlama"
+            ],
+            "dogruCevap": "Açıklama"
+          },
+          {
+            "paragraf": "Teknoloji mi insanlığa fayda sağlıyor yoksa zarar mı veriyor? Bu konu sürekli tartışılıyor. Bazıları teknolojinin hayatı kolaylaştırdığını savunurken, diğerleri insanları yalnızlaştırdığını iddia ediyor.",
+            "soru": "Bu parçada hangi anlatım biçimi kullanılmıştır?",
+            "secenekler": [
+              "Öyküleme",
+              "Betimleme",
+              "Tartışma",
+              "Açıklama",
+              "Tanımlama"
+            ],
+            "dogruCevap": "Tartışma"
+          },
+          {
+            "paragraf": "Sabah erkenden kalktı. Kahvaltısını yaptı. Okul çantasını hazırladı. Servise binip okula gitti.",
+            "soru": "Bu parçada hangi anlatım biçimi kullanılmıştır?",
+            "secenekler": [
+              "Öyküleme",
+              "Betimleme",
+              "Tartışma",
+              "Açıklama",
+              "Tanımlama"
+            ],
+            "dogruCevap": "Öyküleme"
+          }
+        ],
       "Paragrafta Anlam": [
         {
           "soru": "Sanat, insanın kendini ifade etme biçimidir. Kimi zaman bir tabloda, kimi zaman bir şiirde, kimi zaman da bir heykelde karşımıza çıkar. Her sanatçı, kendi dünyasını, kendi penceresinden yansıtır eserlerine. Bu yüzden aynı konuyu işleyen farklı sanatçıların eserleri birbirinden farklıdır.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
@@ -6246,6 +7852,190 @@
           "dogruCevap": "Teknoloji gelişiyor. İnsanlar birbirine yabancılaşıyor. Herkes kendi dünyasında yaşıyor."
         }
       ],
+        "Paragrafta Anlam 2": [
+          {
+            "paragraf": "Sanat eseri, sanatçının iç dünyasının dışa vurumudur. Bu nedenle her sanat eseri, onu ortaya koyan sanatçının kişiliğinden izler taşır. Ancak bu, sanat eserinin sadece sanatçıyı yansıttığı anlamına gelmez. Çünkü sanatçı, içinde yaşadığı toplumdan ve dönemden bağımsız değildir. Dolayısıyla sanat eseri, hem bireysel hem de toplumsal özellikler barındırır. Bu yönüyle sanat eseri, bir yandan sanatçının iç dünyasını yansıtırken diğer yandan da toplumun ve dönemin aynası olur.",
+            "soru": "Bu parçadan aşağıdakilerden hangisi çıkarılamaz?",
+            "secenekler": [
+              "Sanat eseri, sanatçının kişiliğini yansıtır",
+              "Sanatçı, toplumsal koşullardan etkilenir",
+              "Sanat eseri, dönemin özelliklerini taşır",
+              "Her sanat eseri evrensel nitelikler taşır",
+              "Sanat eseri hem bireysel hem toplumsal özellikler içerir"
+            ],
+            "dogruCevap": "Her sanat eseri evrensel nitelikler taşır"
+          },
+          {
+            "paragraf": "Okumak, insanın kendini geliştirmesinin en etkili yollarından biridir. Ancak günümüzde teknolojinin gelişmesiyle birlikte kitap okuma alışkanlığı giderek azalmaktadır. İnsanlar, sosyal medya ve internet üzerinden hızlı ve yüzeysel bilgiler edinmeyi tercih etmektedir. Bu durum, derinlemesine düşünme ve analiz etme becerilerinin körelmesine neden olmaktadır. Oysa kitap okumak, insanın düşünce dünyasını zenginleştiren, hayal gücünü geliştiren ve eleştirel düşünme yeteneğini artıran bir eylemdir.",
+            "soru": "Bu parçanın ana düşüncesi nedir?",
+            "secenekler": [
+              "Teknoloji, kitap okuma alışkanlığını olumsuz etkilemektedir",
+              "Sosyal medya, bilgi edinmenin en kolay yoludur",
+              "Kitap okumak, kişisel gelişimin temel unsurudur",
+              "İnternet kullanımı giderek artmaktadır",
+              "Eleştirel düşünme becerisi önemlidir"
+            ],
+            "dogruCevap": "Kitap okumak, kişisel gelişimin temel unsurudur"
+          },
+          {
+            "paragraf": "Bilim insanları, son yıllarda küresel ısınmanın etkilerinin beklenenden daha hızlı gerçekleştiğini belirtiyorlar. Buzulların erimesi, deniz seviyesinin yükselmesi ve aşırı hava olaylarının artması bu durumun en belirgin göstergeleri. Ancak insanlar hala bu konuda yeterince duyarlı değil. Fosil yakıtların kullanımı devam ediyor, ormanlar yok ediliyor ve karbon salınımı artıyor. Bu gidişat değişmezse, gelecek nesillere yaşanabilir bir dünya bırakamayacağız.",
+            "soru": "Bu parçada asıl anlatılmak istenen nedir?",
+            "secenekler": [
+              "Küresel ısınma, doğal bir süreçtir",
+              "İnsanların duyarsızlığı, çevre sorunlarını artırmaktadır",
+              "Bilim insanları sürekli araştırma yapmaktadır",
+              "Fosil yakıtlar tükenmek üzeredir",
+              "Hava olayları değişkenlik göstermektedir"
+            ],
+            "dogruCevap": "İnsanların duyarsızlığı, çevre sorunlarını artırmaktadır"
+          },
+          {
+            "paragraf": "Dil, sadece iletişim aracı değil, aynı zamanda bir kültür taşıyıcısıdır. Her dil, ait olduğu toplumun düşünce yapısını, yaşam biçimini ve değerlerini yansıtır. Bu nedenle bir dilin yok olması, sadece bir iletişim aracının değil, bir kültürün de yok olması anlamına gelir. Günümüzde birçok yerel dil yok olma tehlikesiyle karşı karşıya. Bu durum, insanlığın kültürel mirasının da tehdit altında olduğunu gösteriyor.",
+            "soru": "Bu parçaya göre, dillerin yok olması neden önemli bir sorundur?",
+            "secenekler": [
+              "İletişim zorlaşacağı için",
+              "Ekonomik kayıplar yaşanacağı için",
+              "Kültürel miras kaybolacağı için",
+              "Eğitim aksayacağı için",
+              "Teknolojik gelişme duracağı için"
+            ],
+            "dogruCevap": "Kültürel miras kaybolacağı için"
+          },
+          {
+            "paragraf": "Başarı, çoğu zaman yanlış anlaşılan bir kavramdır. İnsanlar genellikle başarıyı sadece sonuç odaklı değerlendirir ve süreçteki çabayı göz ardı eder. Oysa başarı, hedefe ulaşmak kadar o hedefe ulaşmak için gösterilen çabayı da içerir. Bir insan hedefine ulaşamasa bile, gösterdiği çaba ve kazandığı deneyimler açısından başarılı sayılabilir. Bu nedenle başarıyı değerlendirirken, sadece sonuca değil, sürece de odaklanmak gerekir.",
+            "soru": "Bu parçadan aşağıdaki yargılardan hangisine ulaşılabilir?",
+            "secenekler": [
+              "Başarı için sadece çaba yeterlidir",
+              "Başarı, sonuç ve sürecin birlikte değerlendirilmesiyle ölçülmelidir",
+              "Başarısızlık, çaba eksikliğinden kaynaklanır",
+              "Her çaba mutlaka başarıyla sonuçlanır",
+              "Başarı için hedef belirlemek yeterlidir"
+            ],
+            "dogruCevap": "Başarı, sonuç ve sürecin birlikte değerlendirilmesiyle ölçülmelidir"
+          }
+        ],
+          "Paragrafta Anlam 3": [
+            {
+              "paragraf": "Günümüzde insanlar, sosyal medyada gördükleri 'mükemmel' yaşamları kendi hayatlarıyla kıyaslıyor ve mutsuz oluyor. Oysa sosyal medyada paylaşılanlar, çoğunlukla gerçek hayatın sadece en güzel anlarından seçilmiş karelerdir. İnsanlar kendi sıradan günlerini, başkalarının en özel anlarıyla karşılaştırarak kendilerini yetersiz hissediyor. Bu durum, modern çağın en büyük psikolojik sorunlarından biri haline geldi.",
+              "soru": "Bu parçanın ana düşüncesi nedir?",
+              "secenekler": [
+                "Sosyal medya kullanımı giderek artmaktadır",
+                "İnsanlar sosyal medyada çok zaman geçirmektedir",
+                "Sosyal medyadaki gerçek dışı karşılaştırmalar mutsuzluğa neden olmaktadır",
+                "Modern çağda psikolojik sorunlar artmıştır",
+                "İnsanlar özel anlarını paylaşmayı sevmektedir"
+              ],
+              "dogruCevap": "Sosyal medyadaki gerçek dışı karşılaştırmalar mutsuzluğa neden olmaktadır"
+            },
+            {
+              "paragraf": "Bir dilin zenginliği, sadece kelime hazinesinin büyüklüğüyle ölçülmez. O dilin anlatım olanakları, deyimleri, atasözleri, mecazları ve en önemlisi de o dili konuşan insanların dili kullanma becerileri, dilin zenginliğini belirleyen unsurlardır. Bu nedenle bir dili zenginleştirmek için yapılması gereken ilk şey, o dili doğru ve etkili kullanmayı öğrenmektir.",
+              "soru": "Bu parçadan aşağıdakilerden hangisi çıkarılamaz?",
+              "secenekler": [
+                "Dilin zenginliği çok boyutlu bir kavramdır",
+                "Kelime hazinesi dilin tek zenginlik ölçütü değildir",
+                "Dili doğru kullanmak önemlidir",
+                "Her dil aynı zenginlik düzeyine sahiptir",
+                "Deyimler ve atasözleri dilin zenginlik göstergeleridir"
+              ],
+              "dogruCevap": "Her dil aynı zenginlik düzeyine sahiptir"
+            },
+            {
+              "paragraf": "Bilimsel araştırmalar, uyku kalitesinin fiziksel ve zihinsel sağlık üzerinde sandığımızdan çok daha fazla etkisi olduğunu gösteriyor. Yetersiz uyku, sadece yorgunluğa değil, aynı zamanda bağışıklık sisteminin zayıflamasına, hafıza sorunlarına ve hatta kalp hastalıklarına bile yol açabiliyor. Bu nedenle düzenli ve kaliteli uyku, sağlıklı bir yaşamın en temel gereksinimlerinden biridir.",
+              "soru": "Bu parçada uyku ile ilgili vurgulanan temel düşünce nedir?",
+              "secenekler": [
+                "Uyku süresinin uzunluğu önemlidir",
+                "Uyku kalitesi sağlık için hayati önem taşır",
+                "Uykusuzluk sadece yorgunluğa neden olur",
+                "Herkes aynı süre uyumalıdır",
+                "Uyku düzeni kişiden kişiye değişir"
+              ],
+              "dogruCevap": "Uyku kalitesi sağlık için hayati önem taşır"
+            },
+            {
+              "paragraf": "Yaratıcı yazarlık, bazılarının iddia ettiği gibi doğuştan gelen bir yetenek değildir. Elbette bazı insanlar diğerlerine göre daha yetenekli olabilir, ancak yazma becerisi geliştirilebilir bir özelliktir. Düzenli okuma, yazma alıştırmaları yapma ve farklı yazım tekniklerini öğrenme yoluyla herkes yazarlık becerilerini geliştirebilir.",
+              "soru": "Bu parçanın anlatımında aşağıdakilerden hangisi vardır?",
+              "secenekler": [
+                "Tanımlama",
+                "Karşılaştırma",
+                "Örneklendirme",
+                "Sayısal verilerden yararlanma",
+                "Benzetme"
+              ],
+              "dogruCevap": "Karşılaştırma"
+            },
+            {
+              "paragraf": "Arkeolojik kazılar, sadece geçmiş uygarlıkların kalıntılarını ortaya çıkarmakla kalmaz, aynı zamanda insanlık tarihinin bilinmeyen sayfalarını da aydınlatır. Her yeni buluntu, geçmişe dair bilgilerimizi yeniden gözden geçirmemizi sağlar. Bazen tek bir eser, tüm tarih kitaplarının yeniden yazılmasına neden olabilir.",
+              "soru": "Bu parçada arkeolojik kazılarla ilgili olarak aşağıdakilerden hangisi vurgulanmaktadır?",
+              "secenekler": [
+                "Maliyetli olduğu",
+                "Uzun süre aldığı",
+                "Tarihsel bilgileri değiştirebileceği",
+                "Zor koşullarda yapıldığı",
+                "Modern teknoloji gerektirdiği"
+              ],
+              "dogruCevap": "Tarihsel bilgileri değiştirebileceği"
+            },
+            {
+              "paragraf": "Eleştiri, bir sanat eserini anlamak ve değerlendirmek için yapılan en önemli çalışmadır. Ancak eleştiri yaparken nesnel olmak gerekir. Kişisel beğeni ve önyargılardan uzak durulmalı, eserin kendi bağlamı içinde değerlendirilmesine özen gösterilmelidir. İyi bir eleştirmen, eseri hem biçim hem de içerik yönünden inceleyebilmeli, aynı zamanda eserin döneminin koşullarını da göz önünde bulundurmalıdır.",
+              "soru": "Bu parçaya göre iyi bir eleştirmenin öncelikli özelliği aşağıdakilerden hangisidir?",
+              "secenekler": [
+                "Yaratıcı olması",
+                "Nesnel davranması",
+                "Çok okuması",
+                "Deneyimli olması",
+                "Ünlü olması"
+              ],
+              "dogruCevap": "Nesnel davranması"
+            },
+            {
+              "paragraf": "Doğal kaynakların hızla tükendiği günümüzde, geri dönüşüm hayati bir önem kazanmıştır. Ancak geri dönüşümün başarılı olabilmesi için öncelikle atıkların kaynağında ayrıştırılması gerekir. Bu konuda toplumsal bilinç henüz yeterli düzeyde değildir. İnsanlar, geri dönüşümün önemini bildikleri halde, günlük yaşamlarında bunu uygulamakta zorlanmaktadırlar.",
+              "soru": "Bu parçadan aşağıdaki yargılardan hangisine ulaşılamaz?",
+              "secenekler": [
+                "Geri dönüşüm önemli bir konudur",
+                "Atıkların ayrıştırılması gerekmektedir",
+                "Toplumsal bilinç yetersizdir",
+                "Geri dönüşüm ekonomik değildir",
+                "İnsanlar bildiklerini uygulamakta zorlanmaktadır"
+              ],
+              "dogruCevap": "Geri dönüşüm ekonomik değildir"
+            },
+            {
+              "paragraf": "Kentleşme, modern çağın kaçınılmaz bir gerçeğidir. Ancak plansız kentleşme, birçok sorunu da beraberinde getirmektedir. Çarpık yapılaşma, altyapı yetersizliği, trafik sorunu ve çevre kirliliği bunların başında gelir. Bu sorunların çözümü için uzun vadeli planlamalar yapılmalı ve bu planlar kararlılıkla uygulanmalıdır.",
+              "soru": "Bu parçanın anlatımında aşağıdakilerden hangisi yoktur?",
+              "secenekler": [
+                "Tanımlama",
+                "Örneklendirme",
+                "Karşılaştırma",
+                "Neden-sonuç ilişkisi",
+                "Benzetme"
+              ],
+              "dogruCevap": "Benzetme"
+            },
+            {
+              "paragraf": "Bir toplumun gelişmişlik düzeyi, o toplumda kadınlara verilen değer ve sağlanan fırsatlarla doğru orantılıdır. Kadınların eğitim, iş ve sosyal hayatta erkeklerle eşit haklara sahip olduğu toplumlarda, ekonomik ve sosyal gelişme daha hızlı gerçekleşir. Bu nedenle toplumsal cinsiyet eşitliği, sadece kadınların değil, tüm toplumun kazanımıdır.",
+              "soru": "Bu parçadan aşağıdakilerden hangisi çıkarılabilir?",
+              "secenekler": [
+                "Kadın hakları sadece kadınları ilgilendirir",
+                "Toplumsal gelişme için cinsiyet eşitliği şarttır",
+                "Erkekler her zaman daha avantajlıdır",
+                "Eşitlik sadece eğitimde olmalıdır",
+                "Gelişmiş ülkelerde kadınlar daha mutludur"
+              ],
+              "dogruCevap": "Toplumsal gelişme için cinsiyet eşitliği şarttır"
+            },
+            {
+              "paragraf": "Sanat, insanın kendini ifade etme biçimlerinden biridir. Her sanatçı, eserinde kendi dünya görüşünü, duygularını ve düşüncelerini yansıtır. Ancak sanat eseri, sanatçının niyetinden bağımsız olarak da var olur. İzleyici veya okuyucu, eseri kendi birikimine ve algısına göre yorumlar. Bu nedenle bir sanat eseri, farklı kişiler tarafından farklı şekillerde anlaşılabilir ve yorumlanabilir.",
+              "soru": "Bu parçada sanatla ilgili olarak vurgulanan temel düşünce nedir?",
+              "secenekler": [
+                "Sanat eseri öznel yorumlara açıktır",
+                "Her sanatçı özgündür",
+                "Sanat toplum içindir",
+                "Sanat eğitimi önemlidir",
+                "Sanat evrenseldir"
+              ],
+              "dogruCevap": "Sanat eseri öznel yorumlara açıktır"
+            }
+          ],
       "Ses Bilgisi": [
         {
           "soru": "I. Sırtındaki (Ünlü daralması)\nII. Başlıyor (Ünsüz düşmesi)\nIII. Yoğurt (Ünsüz türemesi)\nIV. İstemiyorum (Ünlü düşmesi)\n\nYukarıdaki sözcüklerde parantez içinde verilen ses olaylarından hangileri yanlıştır?",
@@ -8153,7 +9943,7 @@
           "dogruCevap": "Danişmentliler"
         }
       ],
-      "Osmanlı Devleti Kuruluş ve Yükselme Dönemleri ": [
+      "Osmanlı Devleti Kuruluş Dönemi ": [
         {
           "soru": "Osmanlı Devleti'nin ilk veziri kimdir?",
           "secenekler": [
@@ -8487,6 +10277,228 @@
           "dogruCevap": "Fransa ile ekonomik ve askeri ittifak kurmak"
         }
       ],
+        "Osmanlı Devleti Yükseliş Dönemi 2": [
+          {
+            "soru": "Yavuz Sultan Selim'in Mısır seferi sonucunda Osmanlı Devleti hangi önemli unvanı kazanmıştır?",
+            "secenekler": [
+              "Halifelik",
+              "Şahlık",
+              "İmparatorluk",
+              "Krallık"
+            ],
+            "dogruCevap": "Halifelik",
+            "aciklama": "1517'de Mısır'ın fethiyle birlikte halifelik Osmanlı hanedanına geçmiştir."
+          },
+          {
+            "soru": "Kanuni Sultan Süleyman döneminde imzalanan ilk kapitülasyon hangi devlete verilmiştir?",
+            "secenekler": [
+              "Fransa",
+              "İngiltere",
+              "Venedik",
+              "Portekiz"
+            ],
+            "dogruCevap": "Fransa",
+            "aciklama": "1535'te Fransa'ya verilen kapitülasyonlar, siyasi ve ekonomik amaçlı ilk ayrıcalıklardır."
+          },
+          {
+            "soru": "Barbaros Hayreddin Paşa'nın Osmanlı donanmasının başına getirilmesinin temel amacı nedir?",
+            "secenekler": [
+              "Akdeniz'de üstünlük sağlamak",
+              "Karadeniz'i kontrol etmek",
+              "Hint Okyanusu'na açılmak",
+              "Baltık Denizi'ne ulaşmak"
+            ],
+            "dogruCevap": "Akdeniz'de üstünlük sağlamak",
+            "aciklama": "Barbaros'un Kaptan-ı Derya olması, Akdeniz hakimiyeti için önemli bir adımdır."
+          },
+          {
+            "soru": "Mercidabık Savaşı'nın (1516) Osmanlı Devleti açısından önemi nedir?",
+            "secenekler": [
+              "Suriye ve Filistin'in fethi",
+              "Mısır'ın alınması",
+              "İran'ın yenilgisi",
+              "Balkanların fethi"
+            ],
+            "dogruCevap": "Suriye ve Filistin'in fethi",
+            "aciklama": "Mercidabık Savaşı sonrası Suriye ve Filistin Osmanlı topraklarına katılmıştır."
+          },
+          {
+            "soru": "Rodos'un fethi (1522) Osmanlı Devleti'ne ne kazandırmıştır?",
+            "secenekler": [
+              "Doğu Akdeniz'de güvenlik",
+              "Batı Akdeniz hakimiyeti",
+              "Karadeniz kontrolü",
+              "Hint Okyanusu'na çıkış"
+            ],
+            "dogruCevap": "Doğu Akdeniz'de güvenlik",
+            "aciklama": "Rodos'un fethi, Doğu Akdeniz'deki deniz ticaret yollarının güvenliğini sağlamıştır."
+          },
+          {
+            "soru": "Kanuni döneminde gerçekleşen Hint seferlerinin temel amacı nedir?",
+            "secenekler": [
+              "Portekizlileri Hint Okyanusu'ndan çıkarmak",
+              "Baharat yolunu ele geçirmek",
+              "Hindistan'ı fethetmek",
+              "Çin'e ulaşmak"
+            ],
+            "dogruCevap": "Portekizlileri Hint Okyanusu'ndan çıkarmak",
+            "aciklama": "Hint seferleri, Portekiz'in bölgedeki etkisini kırmak için düzenlenmiştir."
+          },
+          {
+            "soru": "Kanuni Sultan Süleyman'ın Macaristan seferlerinin sonucu nedir?",
+            "secenekler": [
+              "Orta Avrupa'da Osmanlı hakimiyeti",
+              "Viyana'nın fethi",
+              "Almanya'nın fethi",
+              "İtalya'nın kontrolü"
+            ],
+            "dogruCevap": "Orta Avrupa'da Osmanlı hakimiyeti",
+            "aciklama": "Macaristan seferleri sonucunda Orta Avrupa'da Osmanlı hakimiyeti kurulmuştur."
+          },
+          {
+            "soru": "Yavuz Sultan Selim'in doğu siyasetinin temel hedefi nedir?",
+            "secenekler": [
+              "Şii yayılmasını engellemek",
+              "İpek Yolu'nu ele geçirmek",
+              "Çin'e ulaşmak",
+              "Hindistan'ı fethetmek"
+            ],
+            "dogruCevap": "Şii yayılmasını engellemek",
+            "aciklama": "Yavuz'un doğu siyaseti, Safevi Devleti'nin Şii yayılmacılığını engellemeyi amaçlamıştır."
+          },
+          {
+            "soru": "Preveze Deniz Zaferi'nin (1538) Avrupa açısından önemi nedir?",
+            "secenekler": [
+              "Haçlı donanmasının yenilgisi",
+              "Venedik'in güçlenmesi",
+              "İspanya'nın yükselişi",
+              "Portekiz'in ilerlemesi"
+            ],
+            "dogruCevap": "Haçlı donanmasının yenilgisi",
+            "aciklama": "Preveze'de Haçlı donanması yenilgiye uğratılmış ve Akdeniz hakimiyeti kesinleşmiştir."
+          },
+          {
+            "soru": "Kanuni döneminde Osmanlı-Fransız ittifakının nedeni nedir?",
+            "secenekler": [
+              "Habsburg tehdidine karşı işbirliği",
+              "Ekonomik çıkarlar",
+              "Dini yakınlık",
+              "Kültürel etkileşim"
+            ],
+            "dogruCevap": "Habsburg tehdidine karşı işbirliği",
+            "aciklama": "İttifak, Habsburg İmparatorluğu'nun gücünü dengelemek için kurulmuştur."
+          },
+          {
+            "soru": "Ridaniye Savaşı'nın (1517) sonucu nedir?",
+            "secenekler": [
+              "Memlük Devleti'nin sonu",
+              "Safevi yenilgisi",
+              "Bizans'ın fethi",
+              "Venedik'in yenilgisi"
+            ],
+            "dogruCevap": "Memlük Devleti'nin sonu",
+            "aciklama": "Ridaniye Savaşı sonucunda Memlük Devleti tarih sahnesinden silinmiştir."
+          },
+          {
+            "soru": "Osmanlı'nın Kızıldeniz hakimiyetinin önemi nedir?",
+            "secenekler": [
+              "Kutsal yerlerin kontrolü",
+              "Baharat ticareti",
+              "Avrupa ile ticaret",
+              "Balkan hakimiyeti"
+            ],
+            "dogruCevap": "Kutsal yerlerin kontrolü",
+            "aciklama": "Kızıldeniz hakimiyeti, Mekke ve Medine'nin kontrolünü sağlamıştır."
+          },
+          {
+            "soru": "Kanuni döneminde Osmanlı-Venedik ilişkilerini belirleyen temel faktör nedir?",
+            "secenekler": [
+              "Deniz ticareti rekabeti",
+              "Dini çatışmalar",
+              "Kara savaşları",
+              "Kültürel etkileşim"
+            ],
+            "dogruCevap": "Deniz ticareti rekabeti",
+            "aciklama": "Akdeniz'deki ticari çıkarlar, iki devlet arasındaki ilişkileri şekillendirmiştir."
+          },
+          {
+            "soru": "Osmanlı'nın Belgrad'ı fethetmesinin (1521) stratejik önemi nedir?",
+            "secenekler": [
+              "Orta Avrupa'ya açılan kapı",
+              "Deniz ticareti",
+              "Doğu ticareti",
+              "Balkan kontrolü"
+            ],
+            "dogruCevap": "Orta Avrupa'ya açılan kapı",
+            "aciklama": "Belgrad'ın fethi, Orta Avrupa'ya yönelik seferlerin önünü açmıştır."
+          },
+          {
+            "soru": "Yavuz Sultan Selim'in Dulkadiroğulları Beyliği'ni ortadan kaldırmasının amacı nedir?",
+            "secenekler": [
+              "Doğu seferlerinde güvenlik",
+              "Ekonomik kazanç",
+              "Batı seferleri",
+              "Deniz ticareti"
+            ],
+            "dogruCevap": "Doğu seferlerinde güvenlik",
+            "aciklama": "Dulkadiroğulları'nın ortadan kaldırılması, doğu seferlerinin güvenliğini sağlamıştır."
+          },
+          {
+            "soru": "Kanuni döneminde Osmanlı-Safevi ilişkilerinin temel özelliği nedir?",
+            "secenekler": [
+              "Sürekli çatışma hali",
+              "Barışçıl ilişkiler",
+              "Ticari ortaklık",
+              "Kültürel yakınlaşma"
+            ],
+            "dogruCevap": "Sürekli çatışma hali",
+            "aciklama": "İki devlet arasında mezhepsel ve siyasi rekabet nedeniyle sürekli çatışma yaşanmıştır."
+          },
+          {
+            "soru": "Osmanlı'nın Kıbrıs'ı fethetmesinin (1571) önemi nedir?",
+            "secenekler": [
+              "Doğu Akdeniz kontrolü",
+              "Batı Akdeniz hakimiyeti",
+              "Karadeniz ticareti",
+              "Hint Okyanusu'na açılım"
+            ],
+            "dogruCevap": "Doğu Akdeniz kontrolü",
+            "aciklama": "Kıbrıs'ın fethi, Doğu Akdeniz'deki Osmanlı kontrolünü güçlendirmiştir."
+          },
+          {
+            "soru": "Kanuni döneminde Osmanlı-Rus ilişkilerinin karakteri nasıldır?",
+            "secenekler": [
+              "Kırım üzerinden dolaylı temas",
+              "Doğrudan savaş",
+              "Ticari ortaklık",
+              "Diplomatik yakınlık"
+            ],
+            "dogruCevap": "Kırım üzerinden dolaylı temas",
+            "aciklama": "İki devlet arasındaki ilişkiler genellikle Kırım Hanlığı üzerinden yürütülmüştür."
+          },
+          {
+            "soru": "Osmanlı'nın Yemen'i ele geçirmesinin (1538) amacı nedir?",
+            "secenekler": [
+              "Kızıldeniz'in güvenliği",
+              "Baharat ticareti",
+              "İran'ı çevreleme",
+              "Afrika'ya açılım"
+            ],
+            "dogruCevap": "Kızıldeniz'in güvenliği",
+            "aciklama": "Yemen'in fethi, Kızıldeniz'in güvenliğini sağlamak için gerçekleştirilmiştir."
+          },
+          {
+            "soru": "Kanuni döneminde Osmanlı-Portekiz mücadelesinin nedeni nedir?",
+            "secenekler": [
+              "Hint Okyanusu hakimiyeti",
+              "Akdeniz kontrolü",
+              "Karadeniz ticareti",
+              "Balkan toprakları"
+            ],
+            "dogruCevap": "Hint Okyanusu hakimiyeti",
+            "aciklama": "İki devlet arasındaki mücadele, Hint Okyanusu'ndaki ticari ve siyasi hakimiyet için yaşanmıştır."
+          }
+        ],
       "Osmanlı Devleti’nde Kültür ve Medeniyet": [
         {
           "soru": "Osmanlı Devleti'nde Divan-ı Hümayun toplantıları nerede yapılırdı?",
@@ -9487,6 +11499,228 @@
           "dogruCevap": "Viyana Kuşatması"
         }
       ],
+        "XVII. Yüzyılda Osmanlı Devleti (Duraklama Dönemi) 2": [
+          {
+            "soru": "XVII. yüzyılda Osmanlı'da 'Kadızadeliler Hareketi' hangi alanda etkili olmuştur?",
+            "secenekler": [
+              "Dini ve sosyal hayat",
+              "Askeri düzen",
+              "Ekonomik sistem",
+              "Saray teşkilatı"
+            ],
+            "dogruCevap": "Dini ve sosyal hayat",
+            "aciklama": "Kadızadeliler Hareketi, dini ve sosyal hayatta tutucu bir akım olarak ortaya çıkmıştır."
+          },
+          {
+            "soru": "IV. Murad döneminde uygulanan en sert yasak hangisidir?",
+            "secenekler": [
+              "Kahvehane yasağı",
+              "Tütün yasağı",
+              "Alkol yasağı",
+              "Ticaret yasağı"
+            ],
+            "dogruCevap": "Tütün yasağı",
+            "aciklama": "IV. Murad döneminde tütün kullanımı ölüm cezasıyla yasaklanmıştır."
+          },
+          {
+            "soru": "XVII. yüzyılda 'Celali İsyanları'nın temel nedeni nedir?",
+            "secenekler": [
+              "Ekonomik bozulma ve sosyal düzensizlik",
+              "Dini çatışmalar",
+              "Yabancı devletlerin kışkırtması",
+              "Saray içi çekişmeler"
+            ],
+            "dogruCevap": "Ekonomik bozulma ve sosyal düzensizlik",
+            "aciklama": "Celali İsyanları, ekonomik ve sosyal düzenin bozulmasından kaynaklanmıştır."
+          },
+          {
+            "soru": "Köprülü ailesinin veziriazamlık döneminde gerçekleştirdiği en önemli reform nedir?",
+            "secenekler": [
+              "Merkezi otoritenin güçlendirilmesi",
+              "Yeniçeri Ocağı'nın kaldırılması",
+              "Kapitülasyonların iptali",
+              "Eğitim sisteminin modernleştirilmesi"
+            ],
+            "dogruCevap": "Merkezi otoritenin güçlendirilmesi",
+            "aciklama": "Köprülüler, merkezi otoriteyi güçlendirerek devlet düzenini sağlamaya çalışmıştır."
+          },
+          {
+            "soru": "'Çuhadar Mustafa İsyanı' hangi padişah döneminde gerçekleşmiştir?",
+            "secenekler": [
+              "IV. Mehmed",
+              "II. Süleyman",
+              "II. Ahmed",
+              "II. Mustafa"
+            ],
+            "dogruCevap": "IV. Mehmed",
+            "aciklama": "İsyan IV. Mehmed döneminde çıkmış ve önemli sonuçlar doğurmuştur."
+          },
+          {
+            "soru": "XVII. yüzyılda tımar sisteminin bozulmasının en önemli sonucu nedir?",
+            "secenekler": [
+              "Ordunun zayıflaması",
+              "Sarayın güçlenmesi",
+              "Ticaretin artması",
+              "Vergilerin azalması"
+            ],
+            "dogruCevap": "Ordunun zayıflaması",
+            "aciklama": "Tımar sisteminin bozulması, askeri gücün zayıflamasına neden olmuştur."
+          },
+          {
+            "soru": "Girit'in fethi hangi padişah döneminde tamamlanmıştır?",
+            "secenekler": [
+              "IV. Mehmed",
+              "III. Ahmed",
+              "II. Süleyman",
+              "IV. Murad"
+            ],
+            "dogruCevap": "IV. Mehmed",
+            "aciklama": "Girit'in fethi 1669'da IV. Mehmed döneminde tamamlanmıştır."
+          },
+          {
+            "soru": "'Vakayı Vakvakiye' olayı hangi padişahın tahttan indirilmesiyle sonuçlanmıştır?",
+            "secenekler": [
+              "IV. Mehmed",
+              "II. Süleyman",
+              "II. Mustafa",
+              "III. Ahmed"
+            ],
+            "dogruCevap": "IV. Mehmed",
+            "aciklama": "1687'deki Vakayı Vakvakiye sonucunda IV. Mehmed tahttan indirilmiştir."
+          },
+          {
+            "soru": "XVII. yüzyılda 'İltizam Sistemi'nin yaygınlaşmasının temel nedeni nedir?",
+            "secenekler": [
+              "Hazineye nakit para sağlama ihtiyacı",
+              "Tarımsal üretimi artırma çabası",
+              "Vergi sistemini basitleştirme",
+              "Köylüleri koruma politikası"
+            ],
+            "dogruCevap": "Hazineye nakit para sağlama ihtiyacı",
+            "aciklama": "İltizam sistemi, devletin acil nakit ihtiyacını karşılamak için yaygınlaştırılmıştır."
+          },
+          {
+            "soru": "Karlofça Antlaşması'nın (1699) en önemli özelliği nedir?",
+            "secenekler": [
+              "İlk büyük toprak kaybı antlaşması olması",
+              "Deniz ticaretini düzenlemesi",
+              "Kapitülasyonları kaldırması",
+              "Balkanlarda barışı sağlaması"
+            ],
+            "dogruCevap": "İlk büyük toprak kaybı antlaşması olması",
+            "aciklama": "Karlofça, Osmanlı'nın ilk kez büyük çapta toprak kaybettiği antlaşmadır."
+          },
+          {
+            "soru": "'Evliya Çelebi Seyahatnamesi' XVII. yüzyıl Osmanlı'sı hakkında hangi alanda en değerli bilgileri verir?",
+            "secenekler": [
+              "Sosyal ve kültürel hayat",
+              "Askeri düzen",
+              "Saray teşkilatı",
+              "Dış ilişkiler"
+            ],
+            "dogruCevap": "Sosyal ve kültürel hayat",
+            "aciklama": "Seyahatname, dönemin sosyal ve kültürel yaşamı hakkında önemli bilgiler içerir."
+          },
+          {
+            "soru": "XVII. yüzyılda 'Kapıkulu Ocakları'nın en büyük sorunu neydi?",
+            "secenekler": [
+              "Disiplinsizlik ve başıbozukluk",
+              "Maaş yetersizliği",
+              "Silah eksikliği",
+              "Eğitim eksikliği"
+            ],
+            "dogruCevap": "Disiplinsizlik ve başıbozukluk",
+            "aciklama": "Kapıkulu Ocakları'nda disiplin bozulmuş ve askerler devlet otoritesine karşı gelmeye başlamıştır."
+          },
+          {
+            "soru": "XVII. yüzyılda Osmanlı'da paranın değer kaybetmesinin temel nedeni nedir?",
+            "secenekler": [
+              "Akçenin ayarının düşürülmesi",
+              "Dış ticaret açığı",
+              "Savaş masrafları",
+              "Lüks tüketim"
+            ],
+            "dogruCevap": "Akçenin ayarının düşürülmesi",
+            "aciklama": "Akçenin gümüş içeriğinin azaltılması, paranın değer kaybetmesine neden olmuştur."
+          },
+          {
+            "soru": "'Medrese Sistemi'nin bozulmasının en önemli göstergesi nedir?",
+            "secenekler": [
+              "İlmiye sınıfının kalitesinin düşmesi",
+              "Öğrenci sayısının artması",
+              "Yeni medreselerin açılması",
+              "Ders programlarının değişmesi"
+            ],
+            "dogruCevap": "İlmiye sınıfının kalitesinin düşmesi",
+            "aciklama": "Medreselerin bozulması, ilmiye sınıfının niteliğinin düşmesine yol açmıştır."
+          },
+          {
+            "soru": "XVII. yüzyılda Osmanlı donanmasının zayıflamasının temel nedeni nedir?",
+            "secenekler": [
+              "Tersanelerin ihmal edilmesi",
+              "Denizci yetersizliği",
+              "Teknolojik gerilik",
+              "Maddi imkansızlıklar"
+            ],
+            "dogruCevap": "Tersanelerin ihmal edilmesi",
+            "aciklama": "Tersanelerin bakımsız kalması, donanmanın zayıflamasında etkili olmuştur."
+          },
+          {
+            "soru": "XVII. yüzyılda Osmanlı'da lonca teşkilatının bozulmasının sonucu nedir?",
+            "secenekler": [
+              "Üretim kalitesinin düşmesi",
+              "Üretimin artması",
+              "Fiyatların düşmesi",
+              "İhracatın artması"
+            ],
+            "dogruCevap": "Üretim kalitesinin düşmesi",
+            "aciklama": "Lonca teşkilatının bozulması, üretim kalitesinin düşmesine neden olmuştur."
+          },
+          {
+            "soru": "'Sekban-Sarıca' birlikleri hangi soruna çözüm olarak kurulmuştur?",
+            "secenekler": [
+              "Tımarlı sipahi eksikliği",
+              "Yeniçeri disiplinsizliği",
+              "Donanma yetersizliği",
+              "Vergi toplama zorluğu"
+            ],
+            "dogruCevap": "Tımarlı sipahi eksikliği",
+            "aciklama": "Bu birlikler, tımarlı sipahi sisteminin bozulmasıyla ortaya çıkan asker ihtiyacını karşılamak için kurulmuştur."
+          },
+          {
+            "soru": "XVII. yüzyılda Osmanlı'da 'Çift-bozan' sorununun temel nedeni nedir?",
+            "secenekler": [
+              "Ağır vergiler",
+              "Doğal afetler",
+              "Salgın hastalıklar",
+              "Nüfus artışı"
+            ],
+            "dogruCevap": "Ağır vergiler",
+            "aciklama": "Ağır vergiler nedeniyle köylüler topraklarını terk etmeye başlamıştır."
+          },
+          {
+            "soru": "XVII. yüzyılda Osmanlı'da 'Devşirme Sistemi'nin bozulmasının en önemli sonucu nedir?",
+            "secenekler": [
+              "Yeniçeri Ocağı'nın niteliğinin düşmesi",
+              "Vergi gelirlerinin azalması",
+              "Ticaretin gerilemesi",
+              "Eğitim seviyesinin düşmesi"
+            ],
+            "dogruCevap": "Yeniçeri Ocağı'nın niteliğinin düşmesi",
+            "aciklama": "Devşirme sisteminin bozulması, Yeniçeri Ocağı'nın askeri niteliğinin zayıflamasına yol açmıştır."
+          },
+          {
+            "soru": "XVII. yüzyılda Osmanlı'da 'Enderun Mektebi'nin önemini kaybetmesinin nedeni nedir?",
+            "secenekler": [
+              "Liyakat sisteminin bozulması",
+              "Öğrenci sayısının artması",
+              "Eğitim süresinin uzaması",
+              "Yabancı dil eğitiminin yetersizliği"
+            ],
+            "dogruCevap": "Liyakat sisteminin bozulması",
+            "aciklama": "Liyakat sisteminin bozulması, Enderun Mektebi'nin devlet adamı yetiştirme kalitesini düşürmüştür."
+          }
+        ],
       "XVIII. Yüzyılda Osmanlı Devleti (Gerileme Dönemi)": [
         {
           "soru": "XVIII. yüzyılda Osmanlı Devleti'nin gerilemesinin en önemli sebeplerinden biri nedir?",
@@ -9689,6 +11923,228 @@
           "dogruCevap": "II. Mahmud"
         }
       ],
+        "XVIII. Yüzyılda Osmanlı Devleti (Gerileme Dönemi) 2": [
+          {
+            "soru": "Lale Devri'nde açılan ilk matbaanın kurucusu kimdir?",
+            "secenekler": [
+              "İbrahim Müteferrika",
+              "Said Efendi",
+              "Nevşehirli Damat İbrahim Paşa",
+              "Yirmisekiz Çelebi Mehmet"
+            ],
+            "dogruCevap": "İbrahim Müteferrika",
+            "aciklama": "1727'de İbrahim Müteferrika ve Said Efendi tarafından ilk Türk matbaası kurulmuştur."
+          },
+          {
+            "soru": "Patrona Halil İsyanı'nın temel nedeni nedir?",
+            "secenekler": [
+              "Lale Devri'ndeki israflar",
+              "Yeniçeri maaşları",
+              "Toprak kayıpları",
+              "Vergi artışları"
+            ],
+            "dogruCevap": "Lale Devri'ndeki israflar",
+            "aciklama": "İsyan, Lale Devri'ndeki lüks ve israf nedeniyle çıkmıştır."
+          },
+          {
+            "soru": "XVIII. yüzyılda kurulan ilk askeri okul hangisidir?",
+            "secenekler": [
+              "Hendesehane",
+              "Mühendishane-i Bahri Hümayun",
+              "Harbiye Mektebi",
+              "Tıphane"
+            ],
+            "dogruCevap": "Hendesehane",
+            "aciklama": "1734'te kurulan Hendesehane, modern askeri eğitimin başlangıcıdır."
+          },
+          {
+            "soru": "Pasarofça Antlaşması'nın (1718) en önemli sonucu nedir?",
+            "secenekler": [
+              "Belgrad'ın kaybı",
+              "Mora'nın geri alınması",
+              "Kapitülasyonların sürekli hale gelmesi",
+              "Kırım'ın kaybı"
+            ],
+            "dogruCevap": "Kapitülasyonların sürekli hale gelmesi",
+            "aciklama": "Bu antlaşmayla Avusturya'ya verilen kapitülasyonlar sürekli hale gelmiştir."
+          },
+          {
+            "soru": "Humbaracı Ahmed Paşa'nın (Comte de Bonneval) Osmanlı'daki görevi nedir?",
+            "secenekler": [
+              "Askeri ıslahatlar yapmak",
+              "Matbaa kurmak",
+              "Saray mimarı",
+              "Elçilik görevlisi"
+            ],
+            "dogruCevap": "Askeri ıslahatlar yapmak",
+            "aciklama": "Humbaracı Ahmed Paşa, modern askeri teknikleri Osmanlı ordusuna getirmiştir."
+          },
+          {
+            "soru": "Yirmisekiz Çelebi Mehmet'in Paris Sefaretnamesi'nin önemi nedir?",
+            "secenekler": [
+              "Batı kültürünü tanıtması",
+              "Savaş taktiklerini anlatması",
+              "Ticari anlaşmalar yapması",
+              "Dini reformları önermesi"
+            ],
+            "dogruCevap": "Batı kültürünü tanıtması",
+            "aciklama": "Sefaretname, Batı kültür ve yaşam tarzını Osmanlı'ya tanıtmıştır."
+          },
+          {
+            "soru": "XVIII. yüzyılda 'Nizam-ı Cedid' reformlarını başlatan padişah kimdir?",
+            "secenekler": [
+              "III. Selim",
+              "I. Mahmud",
+              "III. Mustafa",
+              "I. Abdülhamid"
+            ],
+            "dogruCevap": "III. Selim",
+            "aciklama": "III. Selim, Nizam-ı Cedid reformlarıyla kapsamlı yenileşme başlatmıştır."
+          },
+          {
+            "soru": "Belgrat Antlaşması'nın (1739) Osmanlı için önemi nedir?",
+            "secenekler": [
+              "Kaybedilen toprakların geri alınması",
+              "Yeni topraklar kazanılması",
+              "Kapitülasyonların kaldırılması",
+              "Rusya'nın yenilgisi"
+            ],
+            "dogruCevap": "Kaybedilen toprakların geri alınması",
+            "aciklama": "Bu antlaşmayla Pasarofça'da kaybedilen bazı topraklar geri alınmıştır."
+          },
+          {
+            "soru": "XVIII. yüzyılda çıkarılan ilk Türkçe gazete hangisidir?",
+            "secenekler": [
+              "Takvim-i Vekayi",
+              "Ceride-i Havadis",
+              "Tercüman-ı Ahval",
+              "Takvim-i Sefer"
+            ],
+            "dogruCevap": "Takvim-i Vekayi",
+            "aciklama": "İlk Türkçe resmi gazete olan Takvim-i Vekayi bu dönemde çıkarılmıştır."
+          },
+          {
+            "soru": "Baron de Tott'un Osmanlı'daki görevi nedir?",
+            "secenekler": [
+              "Topçu ocağını modernleştirmek",
+              "Donanmayı yenilemek",
+              "Saray mimarisi",
+              "Eğitim reformu"
+            ],
+            "dogruCevap": "Topçu ocağını modernleştirmek",
+            "aciklama": "Baron de Tott, Osmanlı topçu sınıfını modernleştirmiştir."
+          },
+          {
+            "soru": "Lale Devri'nde kurulan ilk itfaiye teşkilatının adı nedir?",
+            "secenekler": [
+              "Tulumbacılar Ocağı",
+              "Yangın Askerleri",
+              "İtfaiye Nizamı",
+              "Ateş Söndürücüler"
+            ],
+            "dogruCevap": "Tulumbacılar Ocağı",
+            "aciklama": "Modern itfaiye teşkilatı Tulumbacılar Ocağı adıyla kurulmuştur."
+          },
+          {
+            "soru": "XVIII. yüzyılda Osmanlı'da kağıt üretimi için kurulan ilk fabrika nerededir?",
+            "secenekler": [
+              "Yalova",
+              "İstanbul",
+              "Bursa",
+              "İzmir"
+            ],
+            "dogruCevap": "Yalova",
+            "aciklama": "İlk kağıt fabrikası Yalova'da kurulmuştur."
+          },
+          {
+            "soru": "Küçük Kaynarca Antlaşması'nın (1774) dini açıdan en önemli sonucu nedir?",
+            "secenekler": [
+              "Rusya'nın Ortodoksların hamisi olması",
+              "Hac yollarının güvence altına alınması",
+              "Dini kurumların modernleştirilmesi",
+              "Vakıfların düzenlenmesi"
+            ],
+            "dogruCevap": "Rusya'nın Ortodoksların hamisi olması",
+            "aciklama": "Bu antlaşmayla Rusya, Osmanlı'daki Ortodoksların hamisi konumuna gelmiştir."
+          },
+          {
+            "soru": "XVIII. yüzyılda kurulan ilk çini fabrikası nerededir?",
+            "secenekler": [
+              "İstanbul",
+              "Kütahya",
+              "İznik",
+              "Bursa"
+            ],
+            "dogruCevap": "İstanbul",
+            "aciklama": "İlk modern çini fabrikası İstanbul'da kurulmuştur."
+          },
+          {
+            "soru": "Sadabad Sarayı hangi mimari üslubun örneğidir?",
+            "secenekler": [
+              "Türk Baroğu",
+              "Klasik Osmanlı",
+              "Rokoko",
+              "Gotik"
+            ],
+            "dogruCevap": "Türk Baroğu",
+            "aciklama": "Sadabad Sarayı, Türk Barok üslubunun önemli örneklerindendir."
+          },
+          {
+            "soru": "XVIII. yüzyılda açılan ilk tercüme odası hangi padişah dönemindedir?",
+            "secenekler": [
+              "II. Mahmud",
+              "III. Selim",
+              "I. Abdülhamid",
+              "III. Mustafa"
+            ],
+            "dogruCevap": "II. Mahmud",
+            "aciklama": "İlk resmi tercüme odası II. Mahmud döneminde açılmıştır."
+          },
+          {
+            "soru": "Lale Devri'nde kurulan ilk kütüphane hangisidir?",
+            "secenekler": [
+              "Damat İbrahim Paşa Kütüphanesi",
+              "Ayasofya Kütüphanesi",
+              "Fatih Kütüphanesi",
+              "Süleymaniye Kütüphanesi"
+            ],
+            "dogruCevap": "Damat İbrahim Paşa Kütüphanesi",
+            "aciklama": "Dönemin ilk modern kütüphanesi Damat İbrahim Paşa tarafından kurulmuştur."
+          },
+          {
+            "soru": "XVIII. yüzyılda Osmanlı'da ilk defa hangi alanda kadın sanatçılar ortaya çıkmıştır?",
+            "secenekler": [
+              "Şiir",
+              "Mimari",
+              "Hat sanatı",
+              "Musiki"
+            ],
+            "dogruCevap": "Şiir",
+            "aciklama": "Bu dönemde ilk kez kadın şairler edebi hayatta yer almaya başlamıştır."
+          },
+          {
+            "soru": "XVIII. yüzyılda Osmanlı'da ilk defa hangi Batı müzik aleti kullanılmaya başlanmıştır?",
+            "secenekler": [
+              "Piyano",
+              "Keman",
+              "Gitar",
+              "Flüt"
+            ],
+            "dogruCevap": "Piyano",
+            "aciklama": "Batı müziği etkisiyle ilk olarak piyano saray müziğine girmiştir."
+          },
+          {
+            "soru": "XVIII. yüzyılda Osmanlı'da ilk resmi elçiliklerin açıldığı şehirler hangileridir?",
+            "secenekler": [
+              "Londra ve Paris",
+              "Viyana ve Berlin",
+              "Roma ve Madrid",
+              "Moskova ve Varşova"
+            ],
+            "dogruCevap": "Londra ve Paris",
+            "aciklama": "İlk daimi elçilikler Londra ve Paris'te açılmıştır."
+          }
+        ],
       "XIX..Yüzyılda Osmanlı Devleti (Dağılma Dönemi)": [
         {
           "soru": "XIX. yüzyılda Osmanlı Devleti'nin dağılmasının en önemli sebeplerinden biri nedir?",
@@ -9901,6 +12357,228 @@
           "dogruCevap": "Yunanlar"
         }
       ],
+      "XIX. Yüzyılda Osmanlı Devleti (Dağılma Dönemi) 2": [
+          {
+            "soru": "Düyun-u Umumiye İdaresi'nin kurulmasının temel amacı nedir?",
+            "secenekler": [
+              "Osmanlı borçlarını düzenli ödemek",
+              "Yeni vergiler koymak",
+              "Ticaret yapmak",
+              "Orduyu modernleştirmek"
+            ],
+            "dogruCevap": "Osmanlı borçlarını düzenli ödemek",
+            "aciklama": "1881'de kurulan bu idare, Osmanlı'nın dış borçlarını düzenli ödenmesini sağlamak için kurulmuştur."
+          },
+          {
+            "soru": "Yeni Osmanlılar Cemiyeti'nin temel amacı nedir?",
+            "secenekler": [
+              "Meşruti yönetimi getirmek",
+              "Saltanatı kaldırmak",
+              "İslamcılığı yaymak",
+              "Orduyu güçlendirmek"
+            ],
+            "dogruCevap": "Meşruti yönetimi getirmek",
+            "aciklama": "Yeni Osmanlılar, meşruti yönetim için mücadele etmişlerdir."
+          },
+          {
+            "soru": "Sened-i İttifak'ın (1808) önemi nedir?",
+            "secenekler": [
+              "Padişahın yetkilerini sınırlandırması",
+              "Orduyu modernleştirmesi",
+              "Vergileri düzenlemesi",
+              "Eğitimi yaygınlaştırması"
+            ],
+            "dogruCevap": "Padişahın yetkilerini sınırlandırması",
+            "aciklama": "İlk kez padişahın yetkileri bir belgeyle sınırlandırılmıştır."
+          },
+          {
+            "soru": "Kırım Savaşı'nın (1853-1856) Osmanlı için en önemli sonucu nedir?",
+            "secenekler": [
+              "İlk dış borçlanma",
+              "Toprak kazanımı",
+              "Ordunun güçlenmesi",
+              "Rusya'nın yenilgisi"
+            ],
+            "dogruCevap": "İlk dış borçlanma",
+            "aciklama": "Savaş masrafları nedeniyle ilk kez dış borç alınmıştır."
+          },
+          {
+            "soru": "Mecelle'nin hazırlanmasının temel amacı nedir?",
+            "secenekler": [
+              "Medeni hukuku düzenlemek",
+              "Ceza hukukunu modernleştirmek",
+              "Vergi sistemini değiştirmek",
+              "Eğitimi düzenlemek"
+            ],
+            "dogruCevap": "Medeni hukuku düzenlemek",
+            "aciklama": "Mecelle, İslam hukukuna dayalı ilk medeni kanundur."
+          },
+          {
+            "soru": "Berlin Kongresi'nin (1878) Osmanlı için en önemli sonucu nedir?",
+            "secenekler": [
+              "Balkan topraklarının büyük kısmının kaybı",
+              "Mısır'ın kaybı",
+              "Rusya ile yakınlaşma",
+              "Ekonomik güçlenme"
+            ],
+            "dogruCevap": "Balkan topraklarının büyük kısmının kaybı",
+            "aciklama": "Kongre sonrası Balkanlar'daki Osmanlı hakimiyeti büyük ölçüde sona ermiştir."
+          },
+          {
+            "soru": "Darülfünun'un (üniversite) kurulmasının amacı nedir?",
+            "secenekler": [
+              "Modern yüksek öğretimi başlatmak",
+              "Dini eğitimi güçlendirmek",
+              "Askeri eğitimi geliştirmek",
+              "Yabancı dil öğretmek"
+            ],
+            "dogruCevap": "Modern yüksek öğretimi başlatmak",
+            "aciklama": "İlk modern üniversite olarak kurulmuştur."
+          },
+          {
+            "soru": "Tersane Konferansı'nın (1876) toplanma nedeni nedir?",
+            "secenekler": [
+              "Balkan sorunlarını çözmek",
+              "Donanmayı güçlendirmek",
+              "Ekonomik reform yapmak",
+              "Eğitimi düzenlemek"
+            ],
+            "dogruCevap": "Balkan sorunlarını çözmek",
+            "aciklama": "Balkanlar'daki karışıklıkları çözmek için toplanmıştır."
+          },
+          {
+            "soru": "Kuleli Vakası'nın (1859) amacı nedir?",
+            "secenekler": [
+              "Abdülmecid'i tahttan indirmek",
+              "Yeniçeri Ocağı'nı kaldırmak",
+              "Meşrutiyeti ilan etmek",
+              "Islahatları durdurmak"
+            ],
+            "dogruCevap": "Abdülmecid'i tahttan indirmek",
+            "aciklama": "İlk siyasi darbe girişimi olarak bilinir."
+          },
+          {
+            "soru": "Şirket-i Hayriye'nin kurulmasının amacı nedir?",
+            "secenekler": [
+              "Deniz ulaşımını modernleştirmek",
+              "Ticaret yapmak",
+              "Vergi toplamak",
+              "Orduyu güçlendirmek"
+            ],
+            "dogruCevap": "Deniz ulaşımını modernleştirmek",
+            "aciklama": "İstanbul'da modern deniz taşımacılığını başlatmıştır."
+          },
+          {
+            "soru": "Tuna Vilayeti Nizamnamesi'nin önemi nedir?",
+            "secenekler": [
+              "Modern vilayet sisteminin başlangıcı",
+              "Ordu düzenlemesi",
+              "Eğitim reformu",
+              "Vergi düzenlemesi"
+            ],
+            "dogruCevap": "Modern vilayet sisteminin başlangıcı",
+            "aciklama": "Modern taşra teşkilatının ilk örneğidir."
+          },
+          {
+            "soru": "Encümen-i Daniş'in kurulma amacı nedir?",
+            "secenekler": [
+              "Bilimsel çalışmaları teşvik etmek",
+              "Orduyu modernleştirmek",
+              "Vergi toplamak",
+              "Dini eğitimi güçlendirmek"
+            ],
+            "dogruCevap": "Bilimsel çalışmaları teşvik etmek",
+            "aciklama": "İlk Türk bilim akademisi olarak kurulmuştur."
+          },
+          {
+            "soru": "Islahat Fermanı'nın (1856) en önemli özelliği nedir?",
+            "secenekler": [
+              "Gayrimüslimlere eşit haklar tanıması",
+              "Orduyu modernleştirmesi",
+              "Eğitimi yaygınlaştırması",
+              "Ekonomiyi düzenlemesi"
+            ],
+            "dogruCevap": "Gayrimüslimlere eşit haklar tanıması",
+            "aciklama": "Gayrimüslimlere Müslümanlarla eşit haklar tanınmıştır."
+          },
+          {
+            "soru": "Rüştiye mekteplerinin açılmasının amacı nedir?",
+            "secenekler": [
+              "Orta öğretimi modernleştirmek",
+              "Askeri eğitim vermek",
+              "Dini eğitimi güçlendirmek",
+              "Yüksek öğretim sağlamak"
+            ],
+            "dogruCevap": "Orta öğretimi modernleştirmek",
+            "aciklama": "Modern orta öğretimin başlangıcını oluşturur."
+          },
+          {
+            "soru": "Osmanlı'da ilk resmi nüfus sayımının (1831) amacı nedir?",
+            "secenekler": [
+              "Asker ve vergi potansiyelini belirlemek",
+              "Eğitim planlaması yapmak",
+              "Toprak dağıtımı yapmak",
+              "Nüfus yerleştirmek"
+            ],
+            "dogruCevap": "Asker ve vergi potansiyelini belirlemek",
+            "aciklama": "Modern anlamda ilk nüfus sayımıdır."
+          },
+          {
+            "soru": "Tanzimat döneminde çıkarılan ilk gazetenin adı nedir?",
+            "secenekler": [
+              "Takvim-i Vekayi",
+              "Tercüman-ı Ahval",
+              "Ceride-i Havadis",
+              "Tasvir-i Efkar"
+            ],
+            "dogruCevap": "Takvim-i Vekayi",
+            "aciklama": "1831'de çıkarılan ilk resmi gazetedir."
+          },
+          {
+            "soru": "Osmanlı'da ilk telgraf hattı hangi padişah döneminde kurulmuştur?",
+            "secenekler": [
+              "Abdülmecid",
+              "II. Mahmud",
+              "Abdülaziz",
+              "II. Abdülhamid"
+            ],
+            "dogruCevap": "Abdülmecid",
+            "aciklama": "1855'te ilk telgraf hattı kurulmuştur."
+          },
+          {
+            "soru": "Bank-ı Osmani'nin (Osmanlı Bankası) kuruluş amacı nedir?",
+            "secenekler": [
+              "Para basımını düzenlemek",
+              "Dış ticareti kontrol etmek",
+              "Vergi toplamak",
+              "Borç vermek"
+            ],
+            "dogruCevap": "Para basımını düzenlemek",
+            "aciklama": "İlk merkez bankası işlevini görmüştür."
+          },
+          {
+            "soru": "Osmanlı'da ilk demiryolunun yapılmasının amacı nedir?",
+            "secenekler": [
+              "Tarım ürünlerini limanlara taşımak",
+              "Askeri sevkiyat yapmak",
+              "Yolcu taşımak",
+              "Madenleri işletmek"
+            ],
+            "dogruCevap": "Tarım ürünlerini limanlara taşımak",
+            "aciklama": "İzmir-Aydın hattı tarım ürünlerinin taşınması için yapılmıştır."
+          },
+          {
+            "soru": "Mekteb-i Mülkiye'nin kuruluş amacı nedir?",
+            "secenekler": [
+              "Modern devlet memuru yetiştirmek",
+              "Asker yetiştirmek",
+              "Din adamı yetiştirmek",
+              "Öğretmen yetiştirmek"
+            ],
+            "dogruCevap": "Modern devlet memuru yetiştirmek",
+            "aciklama": "Modern bürokrat yetiştirmek için kurulmuştur."
+          }
+        ],
       "XX. Yüzyılda Osmanlı Devleti": [
         {
           "soru": "XX. yüzyılda Osmanlı Devleti'nin son dönemindeki en büyük askeri hezimet hangisidir?",
@@ -12099,6 +14777,228 @@
           "dogruCevap": "Bulgaristan"
         }
       ],
+      "Atatürk Dönemi Türk Dış Politikası 2": [
+          {
+            "soru": "1925 Türk-Sovyet Dostluk ve Tarafsızlık Antlaşması'nın temel amacı nedir?",
+            "secenekler": [
+              "Batılı devletlere karşı güvenlik sağlamak",
+              "Ekonomik işbirliği kurmak",
+              "Kültürel ilişkileri geliştirmek",
+              "Askeri ittifak oluşturmak"
+            ],
+            "dogruCevap": "Batılı devletlere karşı güvenlik sağlamak",
+            "aciklama": "Antlaşma, her iki ülkenin de Batı'ya karşı güvenlik ihtiyacını karşılamıştır."
+          },
+          {
+            "soru": "Türkiye'nin 1928'de Briand-Kellogg Paktı'na katılmasının asıl nedeni nedir?",
+            "secenekler": [
+              "Barışçı dış politikasını göstermek",
+              "Ekonomik çıkar sağlamak",
+              "Askeri destek almak",
+              "Siyasi yalnızlıktan kurtulmak"
+            ],
+            "dogruCevap": "Barışçı dış politikasını göstermek",
+            "aciklama": "Türkiye, uluslararası barışa verdiği önemi göstermek istemiştir."
+          },
+          {
+            "soru": "1929'da imzalanan Türk-Sovyet Protokolü'nün önemi nedir?",
+            "secenekler": [
+              "1925 antlaşmasının süresinin uzatılması",
+              "Yeni bir ittifak kurulması",
+              "Sınır sorunlarının çözülmesi",
+              "Ticari ilişkilerin düzenlenmesi"
+            ],
+            "dogruCevap": "1925 antlaşmasının süresinin uzatılması",
+            "aciklama": "Protokol, mevcut dostluk ilişkilerinin devamını sağlamıştır."
+          },
+          {
+            "soru": "Türkiye'nin 1930'larda İtalya'ya karşı Oniki Ada politikası nasıl olmuştur?",
+            "secenekler": [
+              "Adaların silahsızlandırılmasını isteme",
+              "Adaların ilhakını tanıma",
+              "Adalara askeri müdahale tehdidi",
+              "Adalar konusunda tarafsız kalma"
+            ],
+            "dogruCevap": "Adaların silahsızlandırılmasını isteme",
+            "aciklama": "Türkiye, güvenlik endişesiyle adaların silahsızlandırılmasını talep etmiştir."
+          },
+          {
+            "soru": "1933'te Londra Ekonomik Konferansı'na Türkiye'nin katılma amacı nedir?",
+            "secenekler": [
+              "Dünya ekonomik krizine çözüm arayışı",
+              "Yeni ticaret antlaşmaları yapmak",
+              "Dış borçları yapılandırmak",
+              "Savaş tazminatlarını görüşmek"
+            ],
+            "dogruCevap": "Dünya ekonomik krizine çözüm arayışı",
+            "aciklama": "Türkiye, küresel ekonomik krize çözüm bulmak için katılmıştır."
+          },
+          {
+            "soru": "1935'te İtalya-Habeşistan Savaşı sırasında Türkiye'nin tutumu ne olmuştur?",
+            "secenekler": [
+              "Milletler Cemiyeti yaptırımlarına katılma",
+              "İtalya'yı destekleme",
+              "Tarafsız kalma",
+              "Habeşistan'a askeri yardım"
+            ],
+            "dogruCevap": "Milletler Cemiyeti yaptırımlarına katılma",
+            "aciklama": "Türkiye, uluslararası hukuku destekleyerek yaptırımlara katılmıştır."
+          },
+          {
+            "soru": "1937 Sadabad Paktı'nın imzalanmasındaki temel etken nedir?",
+            "secenekler": [
+              "Ortadoğu'da istikrarı sağlama",
+              "Ekonomik işbirliği kurma",
+              "Askeri ittifak oluşturma",
+              "Sınır sorunlarını çözme"
+            ],
+            "dogruCevap": "Ortadoğu'da istikrarı sağlama",
+            "aciklama": "Pakt, bölgesel istikrarı hedeflemiştir."
+          },
+          {
+            "soru": "1936 Montreux görüşmelerinde Sovyetler Birliği'nin temel talebi ne olmuştur?",
+            "secenekler": [
+              "Karadeniz'de üstünlük sağlama",
+              "Boğazların ortak yönetimi",
+              "Ticaret serbestisi",
+              "Askeri geçiş hakkı"
+            ],
+            "dogruCevap": "Karadeniz'de üstünlük sağlama",
+            "aciklama": "Sovyetler, Karadeniz'deki güvenlik çıkarlarını korumak istemiştir."
+          },
+          {
+            "soru": "1938'de Hatay sorununda Fransa'nın tutumunun değişmesinde etkili olan faktör nedir?",
+            "secenekler": [
+              "Almanya tehdidi",
+              "Ekonomik çıkarlar",
+              "İngiltere'nin baskısı",
+              "Suriye'nin tutumu"
+            ],
+            "dogruCevap": "Almanya tehdidi",
+            "aciklama": "Fransa, Almanya tehdidi karşısında Türkiye'yi yanında tutmak istemiştir."
+          },
+          {
+            "soru": "1934 Balkan Antantı'na Arnavutluk'un katılmamasının nedeni nedir?",
+            "secenekler": [
+              "İtalya'nın etkisi altında olması",
+              "Ekonomik yetersizlik",
+              "Yugoslavya ile anlaşmazlık",
+              "İç siyasi sorunlar"
+            ],
+            "dogruCevap": "İtalya'nın etkisi altında olması",
+            "aciklama": "Arnavutluk, İtalya'nın etkisiyle antanta katılmamıştır."
+          },
+          {
+            "soru": "1930'larda Türk-İngiliz yakınlaşmasının ekonomik boyutu nedir?",
+            "secenekler": [
+              "İngiliz kredileri",
+              "Serbest ticaret antlaşması",
+              "Ortak yatırımlar",
+              "Teknoloji transferi"
+            ],
+            "dogruCevap": "İngiliz kredileri",
+            "aciklama": "İngiltere'den alınan krediler ekonomik ilişkileri güçlendirmiştir."
+          },
+          {
+            "soru": "1923-1938 döneminde Türkiye'nin Balkan politikasının temel ilkesi nedir?",
+            "secenekler": [
+              "Mevcut sınırları koruma",
+              "Ekonomik üstünlük kurma",
+              "Kültürel birlik oluşturma",
+              "Askeri ittifak kurma"
+            ],
+            "dogruCevap": "Mevcut sınırları koruma",
+            "aciklama": "Türkiye, Balkanlarda statükonun korunmasını amaçlamıştır."
+          },
+          {
+            "soru": "1935'te Türkiye'nin Milletler Cemiyeti Konseyi'ne seçilmesinin önemi nedir?",
+            "secenekler": [
+              "Uluslararası prestij kazanması",
+              "Ekonomik avantajlar elde etmesi",
+              "Askeri güç kazanması",
+              "Siyasi yalnızlıktan kurtulması"
+            ],
+            "dogruCevap": "Uluslararası prestij kazanması",
+            "aciklama": "Bu seçim, Türkiye'nin uluslararası itibarını artırmıştır."
+          },
+          {
+            "soru": "1930'larda Türkiye-Yugoslavya ilişkilerinin gelişmesinde etkili olan faktör nedir?",
+            "secenekler": [
+              "İtalya tehdidine karşı işbirliği",
+              "Ekonomik çıkarlar",
+              "Kültürel yakınlık",
+              "Sınır güvenliği"
+            ],
+            "dogruCevap": "İtalya tehdidine karşı işbirliği",
+            "aciklama": "İtalya'nın yayılmacı politikası iki ülkeyi yakınlaştırmıştır."
+          },
+          {
+            "soru": "1932'de Türkiye'nin silahsızlanma konferansına katılmasının amacı nedir?",
+            "secenekler": [
+              "Uluslararası barışa katkı sağlamak",
+              "Askeri modernizasyon sağlamak",
+              "İttifak ilişkileri kurmak",
+              "Ekonomik yardım almak"
+            ],
+            "dogruCevap": "Uluslararası barışa katkı sağlamak",
+            "aciklama": "Türkiye, küresel barış çabalarına destek vermiştir."
+          },
+          {
+            "soru": "1926 Ankara Antlaşması'nın Musul sorunu açısından önemi nedir?",
+            "secenekler": [
+              "Sorunun kesin çözümü",
+              "Geçici çözüm sağlanması",
+              "Sorunun ertelenmesi",
+              "Yeni sorunların ortaya çıkması"
+            ],
+            "dogruCevap": "Sorunun kesin çözümü",
+            "aciklama": "Antlaşma, Musul sorununu kesin olarak çözüme kavuşturmuştur."
+          },
+          {
+            "soru": "1930'larda Türkiye-Romanya ilişkilerinin temel dinamiği nedir?",
+            "secenekler": [
+              "Balkan güvenliği",
+              "Ticari ilişkiler",
+              "Kültürel bağlar",
+              "Azınlık meseleleri"
+            ],
+            "dogruCevap": "Balkan güvenliği",
+            "aciklama": "İki ülke Balkanların güvenliği için işbirliği yapmıştır."
+          },
+          {
+            "soru": "1938'de Türkiye'nin Milletler Cemiyeti'ndeki son önemli girişimi ne olmuştur?",
+            "secenekler": [
+              "Hatay sorununun çözümü",
+              "Boğazlar meselesi",
+              "Balkan sorunları",
+              "Silahsızlanma"
+            ],
+            "dogruCevap": "Hatay sorununun çözümü",
+            "aciklama": "Türkiye, Hatay'ın bağımsızlığı için Cemiyet'te çaba göstermiştir."
+          },
+          {
+            "soru": "1923-1938 döneminde Türk dış politikasının temel prensibi nedir?",
+            "secenekler": [
+              "Yurtta sulh, cihanda sulh",
+              "Aktif tarafsızlık",
+              "Güç dengesi politikası",
+              "Yayılmacı politika"
+            ],
+            "dogruCevap": "Yurtta sulh, cihanda sulh",
+            "aciklama": "Bu ilke, Atatürk dönemi dış politikasının temelini oluşturmuştur."
+          },
+          {
+            "soru": "1936 Montreux Boğazlar Sözleşmesi'nin imzalanmasında hangi devletin desteği önemli rol oynamıştır?",
+            "secenekler": [
+              "İngiltere",
+              "Fransa",
+              "Sovyetler Birliği",
+              "İtalya"
+            ],
+            "dogruCevap": "İngiltere",
+            "aciklama": "İngiltere'nin desteği sözleşmenin imzalanmasında etkili olmuştur."
+          }
+        ],
       "Atatürk Sonrası Dönem": [
         {
           "soru": "İsmet İnönü döneminde Türkiye'nin II. Dünya Savaşı'ndaki temel politikası ne olmuştur?",
@@ -12330,7 +15230,229 @@
           ],
           "dogruCevap": "II. Dünya Savaşı'nın sona ermesi"
         }
-      ]
+      ],
+      "Atatürk Sonrası Dönem 2": [
+          {
+            "soru": "1950-1960 döneminde Türkiye'nin Kıbrıs politikasındaki temel yaklaşımı ne olmuştur?",
+            "secenekler": [
+              "Taksim tezi",
+              "Bağımsızlık tezi", 
+              "İlhak politikası",
+              "Federasyon tezi"
+            ],
+            "dogruCevap": "Taksim tezi",
+            "aciklama": "DP döneminde Kıbrıs'ın Türkiye ve Yunanistan arasında paylaşılması savunulmuştur."
+          },
+          {
+            "soru": "İsmet İnönü döneminde kurulan ilk muhalefet partisi hangisidir?",
+            "secenekler": [
+              "Milli Kalkınma Partisi",
+              "Demokrat Parti",
+              "Serbest Cumhuriyet Fırkası",
+              "Terakkiperver Cumhuriyet Fırkası"
+            ],
+            "dogruCevap": "Milli Kalkınma Partisi",
+            "aciklama": "1945'te Nuri Demirağ tarafından kurulmuştur."
+          },
+          {
+            "soru": "1947'de ilan edilen Truman Doktrini'nin Türkiye açısından önemi nedir?",
+            "secenekler": [
+              "ABD'nin askeri yardımlarının başlaması",
+              "NATO'ya üyelik",
+              "Marshall Yardımı'nın başlaması", 
+              "Sovyet tehdidinin sona ermesi"
+            ],
+            "dogruCevap": "ABD'nin askeri yardımlarının başlaması",
+            "aciklama": "Truman Doktrini ile ABD'den askeri yardım alınmaya başlanmıştır."
+          },
+          {
+            "soru": "1950-1960 döneminde uygulanan hangi politika sonucu köyden kente göç hızlanmıştır?",
+            "secenekler": [
+              "Marshall Planı kapsamında tarımda makineleşme",
+              "Fabrikaların kurulması",
+              "Eğitim imkanlarının artması",
+              "Sağlık hizmetlerinin gelişmesi"
+            ],
+            "dogruCevap": "Marshall Planı kapsamında tarımda makineleşme",
+            "aciklama": "Tarımda makineleşme işsiz kalan köylülerin şehirlere göçüne neden olmuştur."
+          },
+          {
+            "soru": "1945-1950 yılları arasında CHP'nin parti programında yaptığı en önemli değişiklik nedir?",
+            "secenekler": [
+              "Devletçilik ilkesinin yumuşatılması",
+              "Laiklik ilkesinin kaldırılması",
+              "Milliyetçilik ilkesinin güçlendirilmesi",
+              "Halkçılık ilkesinin değiştirilmesi"
+            ],
+            "dogruCevap": "Devletçilik ilkesinin yumuşatılması",
+            "aciklama": "CHP liberal ekonomiye geçiş için devletçilik ilkesini yumuşatmıştır."
+          },
+          {
+            "soru": "1952'de Türkiye'nin NATO'ya üye olmasının siyasi sonucu nedir?",
+            "secenekler": [
+              "Batı bloğuna kesin bağlanma",
+              "Tarafsızlık politikasının güçlenmesi",
+              "Sovyetlerle yakınlaşma",
+              "Bağlantısızlar hareketine katılım"
+            ],
+            "dogruCevap": "Batı bloğuna kesin bağlanma",
+            "aciklama": "NATO üyeliği Türkiye'yi kesin olarak Batı bloğuna bağlamıştır."
+          },
+          {
+            "soru": "1950'li yıllarda Demokrat Parti'nin uyguladığı 'Her mahallede bir milyoner yaratma' politikasının sonucu nedir?",
+            "secenekler": [
+              "Gelir dağılımının bozulması",
+              "Ekonomik kalkınmanın hızlanması",
+              "Yoksulluğun azalması",
+              "Sanayileşmenin artması"
+            ],
+            "dogruCevap": "Gelir dağılımının bozulması",
+            "aciklama": "Bu politika toplumda gelir adaletsizliğini artırmıştır."
+          },
+          {
+            "soru": "1954-1960 yılları arasında basına uygulanan sansürün temel nedeni nedir?",
+            "secenekler": [
+              "Muhalefeti susturma çabası",
+              "Milli güvenliği koruma",
+              "Ahlaki değerleri koruma",
+              "Dış politikayı koruma"
+            ],
+            "dogruCevap": "Muhalefeti susturma çabası",
+            "aciklama": "DP iktidarı muhalefetin sesini kısmak için basına sansür uygulamıştır."
+          },
+          {
+            "soru": "1945-1950 döneminde çıkarılan Çiftçiyi Topraklandırma Kanunu'na en çok kimler karşı çıkmıştır?",
+            "secenekler": [
+              "Büyük toprak sahipleri",
+              "Köylüler",
+              "Sanayiciler",
+              "Memurlar"
+            ],
+            "dogruCevap": "Büyük toprak sahipleri",
+            "aciklama": "Topraklarının dağıtılmasını istemeyen büyük toprak sahipleri karşı çıkmıştır."
+          },
+          {
+            "soru": "1950'li yıllarda uygulanan liberal ekonomi politikalarının en olumsuz sonucu nedir?",
+            "secenekler": [
+              "Dış ticaret açığının artması",
+              "İşsizliğin artması",
+              "Enflasyonun düşmesi",
+              "Üretimin azalması"
+            ],
+            "dogruCevap": "Dış ticaret açığının artması",
+            "aciklama": "İthalatın artması dış ticaret açığını büyütmüştür."
+          },
+          {
+            "soru": "1946'da çok partili hayata geçişin iç politikadaki en önemli sonucu nedir?",
+            "secenekler": [
+              "Demokratikleşme sürecinin başlaması",
+              "Ekonomik kalkınmanın hızlanması",
+              "Dış politikanın değişmesi",
+              "Laikliğin güçlenmesi"
+            ],
+            "dogruCevap": "Demokratikleşme sürecinin başlaması",
+            "aciklama": "Çok partili hayat demokratikleşme sürecini başlatmıştır."
+          },
+          {
+            "soru": "1950-1960 döneminde karayollarına öncelik verilmesinin nedeni nedir?",
+            "secenekler": [
+              "Marshall Planı'nın etkisi",
+              "Demiryolu maliyetlerinin yüksekliği",
+              "Coğrafi koşullar",
+              "Halkın talebi"
+            ],
+            "dogruCevap": "Marshall Planı'nın etkisi",
+            "aciklama": "ABD'nin etkisiyle karayolu yapımına ağırlık verilmiştir."
+          },
+          {
+            "soru": "İsmet İnönü döneminde uygulanan 'Milli Şef' sisteminin sona ermesinin nedeni nedir?",
+            "secenekler": [
+              "Çok partili hayata geçiş",
+              "Ekonomik sorunlar",
+              "Dış baskılar",
+              "Savaşın bitmesi"
+            ],
+            "dogruCevap": "Çok partili hayata geçiş",
+            "aciklama": "Demokratikleşme süreciyle Milli Şef dönemi sona ermiştir."
+          },
+          {
+            "soru": "1950'li yıllarda özel sektörün gelişmesini desteklemek için kurulan banka hangisidir?",
+            "secenekler": [
+              "Türkiye Sınai Kalkınma Bankası",
+              "Ziraat Bankası",
+              "Halk Bankası",
+              "İş Bankası"
+            ],
+            "dogruCevap": "Türkiye Sınai Kalkınma Bankası",
+            "aciklama": "TSKB özel sektörü desteklemek için kurulmuştur."
+          },
+          {
+            "soru": "1950-1960 döneminde dış politikada yaşanan en önemli kriz hangisidir?",
+            "secenekler": [
+              "6-7 Eylül Olayları",
+              "Kıbrıs Krizi",
+              "Süveyş Krizi",
+              "Berlin Krizi"
+            ],
+            "dogruCevap": "6-7 Eylül Olayları",
+            "aciklama": "Bu olaylar Türk-Yunan ilişkilerini olumsuz etkilemiştir."
+          },
+          {
+            "soru": "1945-1950 döneminde Sovyetler Birliği'nin Türkiye'den talepleri sonucu hangi politika izlenmiştir?",
+            "secenekler": [
+              "Batı ittifakına yönelme",
+              "Tarafsızlık politikası",
+              "Sovyetlerle yakınlaşma",
+              "Bağlantısızlık politikası"
+            ],
+            "dogruCevap": "Batı ittifakına yönelme",
+            "aciklama": "Sovyet tehdidi Türkiye'yi Batı'ya yakınlaştırmıştır."
+          },
+          {
+            "soru": "1950'li yıllarda tarımda makineleşmenin sosyal yapıya etkisi ne olmuştur?",
+            "secenekler": [
+              "Kırsal kesimde işsizliğin artması",
+              "Köylünün refah seviyesinin yükselmesi",
+              "Tarımsal üretimin azalması",
+              "Köy nüfusunun artması"
+            ],
+            "dogruCevap": "Kırsal kesimde işsizliğin artması",
+            "aciklama": "Makineleşme tarım işçilerinin işsiz kalmasına neden olmuştur."
+          },
+          {
+            "soru": "1950-1960 döneminde eğitim politikalarında yapılan en önemli değişiklik nedir?",
+            "secenekler": [
+              "Din eğitimine ağırlık verilmesi",
+              "Teknik eğitimin yaygınlaştırılması",
+              "Yükseköğretimin geliştirilmesi",
+              "Zorunlu eğitimin uzatılması"
+            ],
+            "dogruCevap": "Din eğitimine ağırlık verilmesi",
+            "aciklama": "DP döneminde din eğitimi yaygınlaştırılmıştır."
+          },
+          {
+            "soru": "1945-1960 döneminde Türkiye'nin dış politikasında belirleyici olan temel faktör nedir?",
+            "secenekler": [
+              "Soğuk Savaş koşulları",
+              "Ekonomik çıkarlar",
+              "Bölgesel sorunlar",
+              "İç politika gelişmeleri"
+            ],
+            "dogruCevap": "Soğuk Savaş koşulları",
+            "aciklama": "Soğuk Savaş dış politikayı şekillendirmiştir."
+          },
+          {
+            "soru": "1950'li yıllarda uygulanan ekonomi politikalarının temel özelliği nedir?",
+            "secenekler": [
+              "Özel sektöre öncelik verilmesi",
+              "Devletçiliğin güçlendirilmesi",
+              "Karma ekonomi modeli",
+              "Planlı kalkınma"
+            ],
+            "dogruCevap": "Özel sektöre öncelik verilmesi",
+            "aciklama": "DP döneminde liberal ekonomi politikaları uygulanmıştır."
+          }
+        ]
     },
     "Coğrafya": {
       "Türkiye'nin Coğrafi Konumu": [
@@ -12945,6 +16067,228 @@
           "dogruCevap": "I, II ve III"
         }
       ],
+        "Türkiye'nin İklimi 2": [
+          {
+            "soru": "Aşağıdakilerden hangisi Türkiye'de Akdeniz ikliminin görüldüğü yerlerin özelliklerinden biri değildir?",
+            "secenekler": [
+              "Yazları sıcak ve kurak geçer",
+              "Kışları ılık ve yağışlı geçer",
+              "Yıllık sıcaklık farkı azdır",
+              "Yağışlar kış mevsiminde kar şeklindedir",
+              "Doğal bitki örtüsü makidir"
+            ],
+            "dogruCevap": "Yağışlar kış mevsiminde kar şeklindedir"
+          },
+          {
+            "soru": "Türkiye'de aşağıdaki yerlerden hangisinde karasal iklimin etkisi en azdır?",
+            "secenekler": [
+              "Konya",
+              "Sivas",
+              "İzmir",
+              "Erzurum",
+              "Ankara"
+            ],
+            "dogruCevap": "İzmir"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Karadeniz ikliminin özelliklerinden biri değildir?",
+            "secenekler": [
+              "Her mevsim yağışlıdır",
+              "Yıllık sıcaklık farkı azdır",
+              "Doğal bitki örtüsü ormandır",
+              "Yaz kuraklığı belirgindir",
+              "Nem oranı yüksektir"
+            ],
+            "dogruCevap": "Yaz kuraklığı belirgindir"
+          },
+          {
+            "soru": "Türkiye'de yıllık sıcaklık farkının en fazla olduğu bölge hangisidir?",
+            "secenekler": [
+              "Akdeniz Bölgesi",
+              "Ege Bölgesi",
+              "Doğu Anadolu Bölgesi",
+              "Karadeniz Bölgesi",
+              "Marmara Bölgesi"
+            ],
+            "dogruCevap": "Doğu Anadolu Bölgesi"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Türkiye'de görülen Karasal iklimin özelliklerinden biri değildir?",
+            "secenekler": [
+              "Yaz ve kış mevsimi arasındaki sıcaklık farkı fazladır",
+              "Yağışlar genellikle ilkbahar mevsimindedir",
+              "Her mevsim yağış görülür",
+              "Kışlar soğuk ve kar yağışlıdır",
+              "Doğal bitki örtüsü bozkırdır"
+            ],
+            "dogruCevap": "Her mevsim yağış görülür"
+          },
+          {
+            "soru": "Türkiye'de en fazla yağış alan bölge hangisidir?",
+            "secenekler": [
+              "Akdeniz Bölgesi",
+              "Doğu Karadeniz Bölgesi",
+              "Ege Bölgesi",
+              "Marmara Bölgesi",
+              "İç Anadolu Bölgesi"
+            ],
+            "dogruCevap": "Doğu Karadeniz Bölgesi"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Marmara Geçiş ikliminin özelliklerinden biridir?",
+            "secenekler": [
+              "Yazları çok sıcak geçer",
+              "Kışları çok soğuk geçer",
+              "Her mevsim yağış görülür",
+              "Yağışlar sadece kış mevsimindedir",
+              "Yıllık sıcaklık farkı çok fazladır"
+            ],
+            "dogruCevap": "Her mevsim yağış görülür"
+          },
+          {
+            "soru": "Türkiye'de yıllık yağış miktarının en az olduğu bölge hangisidir?",
+            "secenekler": [
+              "Güneydoğu Anadolu Bölgesi",
+              "İç Anadolu Bölgesi",
+              "Doğu Anadolu Bölgesi",
+              "Akdeniz Bölgesi",
+              "Ege Bölgesi"
+            ],
+            "dogruCevap": "İç Anadolu Bölgesi"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Türkiye'de yağış rejimini etkileyen faktörlerden biri değildir?",
+            "secenekler": [
+              "Yükselti",
+              "Dağların uzanışı",
+              "Denize olan uzaklık",
+              "Enlem",
+              "Toprak yapısı"
+            ],
+            "dogruCevap": "Toprak yapısı"
+          },
+          {
+            "soru": "Türkiye'de en sıcak ayın ocak olduğu yer hangisidir?",
+            "secenekler": [
+              "Antalya",
+              "İzmir",
+              "Mersin",
+              "Hiçbir yer",
+              "İskenderun"
+            ],
+            "dogruCevap": "Hiçbir yer"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Türkiye'nin iklim özelliklerini etkileyen faktörlerden biri değildir?",
+            "secenekler": [
+              "Matematik konum",
+              "Özel konum",
+              "Yer şekilleri",
+              "Nüfus yoğunluğu",
+              "Denizellik"
+            ],
+            "dogruCevap": "Nüfus yoğunluğu"
+          },
+          {
+            "soru": "Türkiye'de en düşük sıcaklıkların görüldüğü il hangisidir?",
+            "secenekler": [
+              "Kars",
+              "Ağrı",
+              "Erzurum",
+              "Ardahan",
+              "Van"
+            ],
+            "dogruCevap": "Ardahan"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Akdeniz iklim bölgesinde yetişen tarım ürünlerinden biri değildir?",
+            "secenekler": [
+              "Turunçgiller",
+              "Zeytin",
+              "Muz",
+              "Çay",
+              "Pamuk"
+            ],
+            "dogruCevap": "Çay"
+          },
+          {
+            "soru": "Türkiye'de kar yağışlı gün sayısının en fazla olduğu bölge hangisidir?",
+            "secenekler": [
+              "İç Anadolu",
+              "Doğu Anadolu",
+              "Karadeniz",
+              "Marmara",
+              "Güneydoğu Anadolu"
+            ],
+            "dogruCevap": "Doğu Anadolu"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Türkiye'de görülen yerel rüzgarlardan biri değildir?",
+            "secenekler": [
+              "Poyraz",
+              "Lodos",
+              "Meltem",
+              "Sirokko",
+              "Kıble"
+            ],
+            "dogruCevap": "Sirokko"
+          },
+          {
+            "soru": "Türkiye'de en yüksek sıcaklıkların görüldüğü havza hangisidir?",
+            "secenekler": [
+              "Gediz Havzası",
+              "Ceyhan Havzası",
+              "Kızılırmak Havzası",
+              "Dicle Havzası",
+              "Büyük Menderes Havzası"
+            ],
+            "dogruCevap": "Ceyhan Havzası"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Karadeniz iklim bölgesinde yetişen başlıca tarım ürünüdür?",
+            "secenekler": [
+              "Pamuk",
+              "Çay",
+              "Zeytin",
+              "Üzüm",
+              "Antep fıstığı"
+            ],
+            "dogruCevap": "Çay"
+          },
+          {
+            "soru": "Türkiye'de don olaylarının en az görüldüğü bölge hangisidir?",
+            "secenekler": [
+              "Akdeniz kıyıları",
+              "Ege kıyıları",
+              "Marmara Bölgesi",
+              "İç Anadolu Bölgesi",
+              "Doğu Anadolu Bölgesi"
+            ],
+            "dogruCevap": "Akdeniz kıyıları"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Türkiye'de nem oranının yüksek olmasının sonuçlarından biri değildir?",
+            "secenekler": [
+              "Yağış miktarının artması",
+              "Bitki örtüsünün gürleşmesi",
+              "Sıcaklık farklarının azalması",
+              "Tarımsal üretimin artması",
+              "Kuraklığın artması"
+            ],
+            "dogruCevap": "Kuraklığın artması"
+          },
+          {
+            "soru": "Türkiye'de en fazla sis olayının görüldüğü bölge hangisidir?",
+            "secenekler": [
+              "Doğu Karadeniz kıyıları",
+              "Akdeniz kıyıları",
+              "Ege kıyıları",
+              "İç Anadolu Bölgesi",
+              "Güneydoğu Anadolu Bölgesi"
+            ],
+            "dogruCevap": "Doğu Karadeniz kıyıları"
+          }
+        ],
       "Türkiye'nin Bitki Örtüsü": [
         {
           "soru": "Türkiye'de bitki örtüsünün dağılışında;\nI. İklim özellikleri\nII. Yükselti\nIII. Toprak yapısı\nFaktörlerinden hangileri etkilidir?",
