@@ -5378,12 +5378,12 @@
         {
           "soru": "XIX. yüzyılda Osmanlı Devleti'nde, Rusya ile yapılan ve Osmanlı'nın önemli toprak kayıplarına uğradığı antlaşma hangisidir?",
           "secenekler": [
-            "Küçük Kaynarca Antlaşması",
+            "Ayastefanos Antlaşması",
             "Berlin Antlaşması",
             "Seyfe Antlaşması",
             "Ayastefanos Antlaşması"
           ],
-          "dogruCevap": "Küçük Kaynarca Antlaşması"
+          "dogruCevap": "Ayastefanos Antlaşması"
         },
         {
           "soru": "XIX. yüzyılda Osmanlı Devleti'nde, Mısır'da bağımsızlık hareketini başlatan lider kimdir?",
@@ -5426,24 +5426,14 @@
           "dogruCevap": "Çiftçiler"
         },
         {
-          "soru": "Osmanlı'da XIX. yüzyılda yapılan, özellikle orduyu modernize etmeyi amaçlayan reform hareketinin adı nedir?",
-          "secenekler": [
-            "Tanzimat",
-            "Islahat",
-            "Nizam-ı Cedid",
-            "Meşrutiyet"
-          ],
-          "dogruCevap": "Nizam-ı Cedid"
-        },
-        {
           "soru": "Osmanlı'da XIX. yüzyılda Tanzimat reformları sırasında en önemli hukuk değişikliklerinden biri hangisidir?",
           "secenekler": [
             "Hukuk-ı Aile Kanunu",
-            "Vilayet Nizamnamesi",
+            "Mecelle",
             "Kanun-i Esasi",
             "Ticaret Kanunu"
           ],
-          "dogruCevap": "Vilayet Nizamnamesi"
+          "dogruCevap": "Mecelle"
         },
         {
           "soru": "XIX. yüzyılda Osmanlı Devleti'nde milliyetçilik akımlarına karşı mücadele etmek amacıyla yapılan ıslahat hareketinin adı nedir?",
@@ -5526,16 +5516,6 @@
           "dogruCevap": "Milli bağımsızlık hareketleri"
         },
         {
-          "soru": "XIX. yüzyılda Osmanlı Devleti'nin Balkanlar'daki topraklarını kaybetmesinin ardından hangi bölge Osmanlı'dan bağımsızlığını kazanmıştır?",
-          "secenekler": [
-            "Sırbistan",
-            "Romanya",
-            "Bulgaristan",
-            "Yunanistan"
-          ],
-          "dogruCevap": "Yunanistan"
-        },
-        {
           "soru": "XIX. yüzyılda Osmanlı Devleti'nde, özellikle Mısır'da hangi isyan önemli bir yer tutmuştur?",
           "secenekler": [
             "Mısır Valisi İsyanı",
@@ -5556,14 +5536,15 @@
           "dogruCevap": "Islahat Fermanı"
         },
         {
-          "soru": "XIX. yüzyılda Osmanlı'da, Batı tarzı yönetim sistemine en yakın adım olarak kabul edilen anayasayı kim ilan etmiştir?",
+          "soru": "XIX. yüzyılda Osmanlı'da, Batı tarzı yönetim sistemine en yakın adım olarak kabul edilen anayasayı (Kanun-i Esasi) kim ilan etmiştir?",
           "secenekler": [
             "II. Abdülhamid",
             "I. Abdülmecid",
             "II. Mahmud",
-            "I. Meşrutiyet"
+            "V. Murad"
           ],
-          "dogruCevap": "I. Meşrutiyet"
+          "dogruCevap": "II. Abdülhamid",
+          "aciklama": "23 Aralık 1876'da Kanun-i Esasi'yi ilan eden ve I. Meşrutiyet'i başlatan padişah II. Abdülhamid'dir. Bu anayasa ile Osmanlı Devleti ilk kez meşruti monarşi ile yönetilmeye başlamıştır."
         },
         {
           "soru": "Osmanlı'da XIX. yüzyılda bağımsızlık kazanan ilk millet hangisidir?",
@@ -5743,7 +5724,7 @@
           "aciklama": "Modern anlamda ilk nüfus sayımıdır."
         },
         {
-          "soru": "Tanzimat döneminde çıkarılan ilk gazetenin adı nedir?",
+          "soru": "Osmanlıda çıkarılan ilk gazetenin adı nedir?",
           "secenekler": [
             "Takvim-i Vekayi",
             "Tercüman-ı Ahval",
@@ -5770,9 +5751,9 @@
             "Para basımını düzenlemek",
             "Dış ticareti kontrol etmek",
             "Vergi toplamak",
-            "Borç vermek"
+            "Devletin mali işlerini düzenlemek ve hazineye kredi sağlamak"
           ],
-          "dogruCevap": "Para basımını düzenlemek",
+          "dogruCevap": "Devletin mali işlerini düzenlemek ve hazineye kredi sağlamak",
           "aciklama": "İlk merkez bankası işlevini görmüştür."
         },
         {
@@ -5800,406 +5781,226 @@
       ],
       "XX. Yüzyılda Osmanlı Devleti": [
         {
-          "soru": "XX. yüzyılda Osmanlı Devleti'nin son dönemindeki en büyük askeri hezimet hangisidir?",
-          "secenekler": [
-            "Çanakkale Zaferi",
-            "I. Dünya Savaşı",
-            "Kurtuluş Savaşı",
-            "Balkan Savaşları"
-          ],
-          "dogruCevap": "I. Dünya Savaşı"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin son döneminde, içki yasağı ve ahlaki düzenin sağlanması için hangi padişah yönetimindeydi?",
+          "soru": "II. Meşrutiyet'in ilanından sonra tahta geçen padişah kimdir?",
           "secenekler": [
             "II. Abdülhamid",
-            "V. Murad",
-            "Mehmed Reşat",
-            "III. Selim"
+            "V. Mehmed Reşad",
+            "VI. Mehmed Vahdettin",
+            "V. Murad"
           ],
-          "dogruCevap": "II. Abdülhamid"
+          "dogruCevap": "V. Mehmed Reşad",
+          "aciklama": "31 Mart Vakası'ndan sonra II. Abdülhamid'in tahttan indirilmesiyle V. Mehmed Reşad padişah olmuştur (1909)."
         },
         {
-          "soru": "I. Dünya Savaşı'nda Osmanlı Devleti'nin yanında savaşa giren başlıca devletler hangileridir?",
+          "soru": "I. Dünya Savaşı'nda Osmanlı Devleti'nin müttefikleri kimlerdir?",
           "secenekler": [
-            "Almanya, Avusturya-Macaristan",
-            "Fransa, Rusya, İngiltere",
-            "İtalya, Yunanistan",
-            "Sovyet Rusya, ABD"
+            "Almanya ve Avusturya-Macaristan",
+            "Fransa ve İngiltere",
+            "Rusya ve İtalya",
+            "Bulgaristan ve Yunanistan"
           ],
-          "dogruCevap": "Almanya, Avusturya-Macaristan"
+          "dogruCevap": "Almanya ve Avusturya-Macaristan",
+          "aciklama": "Osmanlı Devleti, İttifak Devletleri safında Almanya ve Avusturya-Macaristan'ın yanında savaşa katılmıştır."
         },
         {
-          "soru": "XX. yüzyılda Osmanlı Devleti'nin iç işlerinde önemli bir reform hareketi olarak kabul edilen, II. Abdülhamid dönemine ait hangi harekettir?",
-          "secenekler": [
-            "Meşrutiyet",
-            "İttihat ve Terakki",
-            "Tanzimat",
-            "Islahat Fermanı"
-          ],
-          "dogruCevap": "İttihat ve Terakki"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin son döneminde hangi olay, Osmanlı İmparatorluğu'nun fiilen sona erdiği dönüm noktasıdır?",
-          "secenekler": [
-            "Mondros Mütarekesi",
-            "Sarıkamış Harekatı",
-            "Balkan Savaşları",
-            "Çanakkale Zaferi"
-          ],
-          "dogruCevap": "Mondros Mütarekesi"
-        },
-        {
-          "soru": "Osmanlı Devleti'nde XX. yüzyılın başında, özellikle Makedonya'dan gelen göçmenler arasında yaygın olan hareketin adı nedir?",
-          "secenekler": [
-            "İttihat ve Terakki",
-            "Jön Türkler",
-            "Meşrutiyetçiler",
-            "Vatan ve Hürriyet"
-          ],
-          "dogruCevap": "Jön Türkler"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin son döneminde, II. Meşrutiyet'in ilanından sonra padişah kimdir?",
-          "secenekler": [
-            "II. Abdülhamid",
-            "V. Murad",
-            "Mehmed Reşat",
-            "Sultan Abdülaziz"
-          ],
-          "dogruCevap": "Mehmed Reşat"
-        },
-        {
-          "soru": "XX. yüzyılda Osmanlı Devleti'nin yönetim biçimi hangi dönemde değişmiştir?",
-          "secenekler": [
-            "II. Meşrutiyet",
-            "III. Selim dönemi",
-            "Tanzimat dönemi",
-            "I. Dünya Savaşı"
-          ],
-          "dogruCevap": "II. Meşrutiyet"
-        },
-        {
-          "soru": "XX. yüzyıl başında Osmanlı'dan bağımsızlık isteyen Yunanistan ile yapılan ve Osmanlı'nın önemli toprak kayıplarına uğradığı antlaşma nedir?",
-          "secenekler": [
-            "Lozan Antlaşması",
-            "Sevr Antlaşması",
-            "Küçük Kaynarca",
-            "Amasya Protokolü"
-          ],
-          "dogruCevap": "Sevr Antlaşması"
-        },
-        {
-          "soru": "Osmanlı Devleti'nde 1913'te yaşanan Bab-ı Ali Baskını'nda yönetimi ele geçiren siyasi grup hangisidir?",
+          "soru": "XX. yüzyılda Osmanlı Devleti'nin iç işlerinde etkili olan siyasi hareket hangisidir?",
           "secenekler": [
             "İttihat ve Terakki Cemiyeti",
-            "Vatan ve Hürriyet",
-            "Hürriyet ve İtilaf Partisi",
-            "Jön Türkler"
+            "Hürriyet ve İtilaf Fırkası",
+            "Ahrar Fırkası",
+            "Vatan ve Hürriyet"
           ],
-          "dogruCevap": "İttihat ve Terakki Cemiyeti"
+          "dogruCevap": "İttihat ve Terakki Cemiyeti",
+          "aciklama": "1908-1918 yılları arasında İttihat ve Terakki Cemiyeti Osmanlı siyasetine damga vurmuştur."
         },
         {
-          "soru": "Osmanlı Devleti'nin 1912'deki toprak kayıplarından sonra yapılan hangi antlaşma, Osmanlı'nın Balkanlar'dan çekilmesini sağlamıştır?",
+          "soru": "Osmanlı Devleti'nin fiilen sona ermesine yol açan antlaşma hangisidir?",
           "secenekler": [
-            "Bükreş Antlaşması",
-            "Berlin Antlaşması",
+            "Mondros Mütarekesi",
+            "Sevr Antlaşması",
             "Lozan Antlaşması",
-            "Sevr Antlaşması"
+            "Bükreş Antlaşması"
           ],
-          "dogruCevap": "Bükreş Antlaşması"
+          "dogruCevap": "Mondros Mütarekesi",
+          "aciklama": "30 Ekim 1918'de imzalanan Mondros Mütarekesi ile Osmanlı Devleti fiilen sona ermiş ve toprakları işgal edilmeye başlanmıştır."
         },
         {
-          "soru": "1912-1913 yıllarında Osmanlı Devleti'nin Balkanlar'daki toprak kayıplarının ardından, Osmanlı'yı zor durumda bırakacak olan savaş hangisidir?",
+          "soru": "I. Dünya Savaşı sırasında Osmanlı Devleti hangi cephede savaşmamıştır?",
           "secenekler": [
-            "Balkan Savaşları",
-            "I. Dünya Savaşı",
-            "Kurtuluş Savaşı",
-            "Çanakkale Zaferi"
-          ],
-          "dogruCevap": "Balkan Savaşları"
-        },
-        {
-          "soru": "I. Dünya Savaşı sırasında Osmanlı Devleti hangi cephede savaşa girmemiştir?",
-          "secenekler": [
-            "Arap Yarımadası",
+            "Batı (Fransa) Cephesi",
             "Çanakkale Cephesi",
-            "Galiçya Cephesi",
-            "Suriye Cephesi"
+            "Kafkas Cephesi",
+            "Galiçya Cephesi"
           ],
-          "dogruCevap": "Galiçya Cephesi"
+          "dogruCevap": "Batı (Fransa) Cephesi",
+          "aciklama": "Osmanlı Devleti; Çanakkale, Kafkas, Galiçya, Kanal, Irak ve Suriye-Filistin cephelerinde savaşmış, ancak Batı Cephesi'nde savaşmamıştır."
         },
         {
-          "soru": "Osmanlı Devleti'nde 1913 yılında yapılan bir siyasi anlaşma ile hangi yönetim tarzı pekiştirilmiştir?",
+          "soru": "1913 Bab-ı Ali Baskını sonrasında Osmanlı'da hangi yönetim şekli hakim olmuştur?",
           "secenekler": [
-            "Meşrutiyet",
-            "Saltanat",
-            "Demokrasi",
-            "Monarşi"
+            "İttihat ve Terakki'nin tek parti yönetimi",
+            "Meşrutiyet yönetimi",
+            "Saltanat yönetimi",
+            "Demokratik yönetim"
           ],
-          "dogruCevap": "Saltanat"
+          "dogruCevap": "İttihat ve Terakki'nin tek parti yönetimi",
+          "aciklama": "Bab-ı Ali Baskını sonrası İttihat ve Terakki fiili bir tek parti yönetimi kurmuştur."
         },
         {
-          "soru": "1914'te Osmanlı Devleti'nin Almanya'nın yanında savaşa girmesinin başlıca nedeni nedir?",
+          "soru": "Osmanlı'nın I. Dünya Savaşı'na girmesinde etkili olan başlıca faktör nedir?",
           "secenekler": [
+            "Panturanist idealler ve Rusya tehdidi",
             "Ekonomik çıkarlar",
-            "Rusya ile olan düşmanlık",
-            "Fransa ile savaş",
-            "İngiltere'ye karşı intikam alma"
+            "İngiltere ile olan düşmanlık",
+            "Balkanlardaki toprakları geri alma isteği"
           ],
-          "dogruCevap": "Ekonomik çıkarlar"
+          "dogruCevap": "Panturanist idealler ve Rusya tehdidi",
+          "aciklama": "İttihatçıların Türkçü idealleri ve Rusya'ya karşı güvenlik kaygıları savaşa girme kararında etkili olmuştur."
         },
         {
-          "soru": "1919'da Osmanlı Devleti'ni resmi olarak sona erdiren hangi antlaşma imzalanmıştır?",
+          "soru": "Osmanlı Devleti'nin son sultanı kimdir?",
           "secenekler": [
-            "Lozan Antlaşması",
-            "Mondros Mütarekesi",
-            "Sevr Antlaşması",
-            "Bükreş Antlaşması"
+            "VI. Mehmed Vahdettin",
+            "V. Mehmed Reşad",
+            "II. Abdülhamid",
+            "Abdülmecid Efendi"
           ],
-          "dogruCevap": "Sevr Antlaşması"
+          "dogruCevap": "VI. Mehmed Vahdettin",
+          "aciklama": "VI. Mehmed Vahdettin, 1918-1922 yılları arasında son Osmanlı padişahı olarak görev yapmıştır."
         },
         {
-          "soru": "Osmanlı Devleti'nin son döneminde, özellikle I. Dünya Savaşı'na katılma kararında etkili olan, yönetimin başındaki komite kimdir?",
-          "secenekler": [
-            "İttihat ve Terakki",
-            "Hürriyet ve İtilaf",
-            "Vatan ve Hürriyet",
-            "Jön Türkler"
-          ],
-          "dogruCevap": "İttihat ve Terakki"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin I. Dünya Savaşı sonrasında imzaladığı ve toprak kayıplarına yol açan ilk antlaşma nedir?",
+          "soru": "Osmanlı Devleti'nin I. Dünya Savaşı sonrasında imzaladığı ilk antlaşma hangisidir?",
           "secenekler": [
             "Mondros Mütarekesi",
-            "Lozan Antlaşması",
             "Sevr Antlaşması",
+            "Lozan Antlaşması",
             "Bükreş Antlaşması"
           ],
-          "dogruCevap": "Mondros Mütarekesi"
+          "dogruCevap": "Mondros Mütarekesi",
+          "aciklama": "30 Ekim 1918'de imzalanan Mondros Mütarekesi, Osmanlı'nın I. Dünya Savaşı'ndan çekilmesini sağlayan ilk antlaşmadır."
         },
         {
-          "soru": "1918'de imzalanan Mondros Mütarekesi'ne göre Osmanlı'nın hangi bölgesi İngilizlere bırakılmıştır?",
+          "soru": "Osmanlı Devleti'nin resmen sona erdiği tarih hangisidir?",
           "secenekler": [
-            "İstanbul",
-            "Suriye",
-            "Hicaz",
-            "Irak"
-          ],
-          "dogruCevap": "İstanbul"
-        },
-        {
-          "soru": "XX. yüzyılda Osmanlı Devleti'nin resmi olarak sona erdiği ve Türk milletinin bağımsızlık mücadelesine başladığı tarih nedir?",
-          "secenekler": [
-            "29 Ekim 1923",
             "1 Kasım 1922",
+            "29 Ekim 1923",
             "30 Ağustos 1922",
             "10 Kasım 1923"
           ],
-          "dogruCevap": "1 Kasım 1922"
+          "dogruCevap": "1 Kasım 1922",
+          "aciklama": "1 Kasım 1922'de TBMM'nin aldığı kararla saltanat kaldırılmış ve Osmanlı Devleti resmen sona ermiştir."
         }
       ],
       "XX. Yüzyılda Osmanlı Devleti 2": [
         {
-          "soru": "Osmanlı Devleti'nde II. Meşrutiyet'in ilanıyla hangi siyasi yönetim tarzı uygulanmaya başlanmıştır?",
+          "soru": "II. Meşrutiyet'in ilanıyla (1908) Osmanlı'da hangi yönetim sistemi benimsenmiştir?",
           "secenekler": [
-            "Saltanat",
-            "Meşrutiyet",
-            "Monarşi",
-            "Cumhuriyet"
-          ],
-          "dogruCevap": "Meşrutiyet"
-        },
-        {
-          "soru": "II. Meşrutiyet'in ilanından sonra Osmanlı'da hangi yönetim tarzı benimsenmiştir?",
-          "secenekler": [
-            "Demokrasi",
-            "Sultanlık",
-            "Parlamenter sistem",
-            "Despotizm"
-          ],
-          "dogruCevap": "Parlamenter sistem"
-        },
-        {
-          "soru": "XX. yüzyılda Osmanlı Devleti'nin son döneminde, İttihat ve Terakki Cemiyeti'nin lideri kimdir?",
-          "secenekler": [
-            "Enver Paşa",
-            "Talat Paşa",
-            "Cemal Paşa",
-            "Ali Kemal"
-          ],
-          "dogruCevap": "Enver Paşa"
-        },
-        {
-          "soru": "Enver Paşa'nın başında olduğu Osmanlı hükümeti hangi savaşta büyük bir yenilgiye uğramıştır?",
-          "secenekler": [
-            "Çanakkale Savaşı",
-            "Sarıkamış Harekatı",
-            "Balkan Savaşları",
-            "I. Dünya Savaşı"
-          ],
-          "dogruCevap": "Sarıkamış Harekatı"
-        },
-        {
-          "soru": "Osmanlı Devleti, 1914'te I. Dünya Savaşı'na katılmak için hangi devletin yanında savaşa girmiştir?",
-          "secenekler": [
-            "Almanya",
-            "Fransa",
-            "Rusya",
-            "İngiltere"
-          ],
-          "dogruCevap": "Almanya"
-        },
-        {
-          "soru": "I. Dünya Savaşı'nda Osmanlı Devleti'nin taraf olduğu ittifakın adı nedir?",
-          "secenekler": [
-            "İttifak Devletleri",
-            "Merkez Devletleri",
-            "Müttefik Devletler",
-            "Bağlantısızlar"
-          ],
-          "dogruCevap": "Merkez Devletleri"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin, 1918'de imzaladığı Mondros Mütarekesi'ne göre hangi bölgesi İngilizlere bırakılmıştır?",
-          "secenekler": [
-            "İstanbul",
-            "Hicaz",
-            "Suriye",
-            "Irak"
-          ],
-          "dogruCevap": "İstanbul"
-        },
-        {
-          "soru": "Mondros Mütarekesi sonrası Osmanlı'da hangi toprak kaybı gerçekleşmiştir?",
-          "secenekler": [
-            "Irak",
-            "Suriye",
-            "Yunanistan",
-            "Makedonya"
-          ],
-          "dogruCevap": "Irak"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin son döneminde, İttihat ve Terakki Cemiyeti'nin kontrol ettiği yönetim tarzı nedir?",
-          "secenekler": [
-            "Monarşi",
+            "Parlamenter monarşi",
+            "Mutlak monarşi",
             "Cumhuriyet",
-            "Sultanlık",
-            "Meşrutiyet"
+            "Tek parti yönetimi"
           ],
-          "dogruCevap": "Meşrutiyet"
+          "dogruCevap": "Parlamenter monarşi",
+          "aciklama": "II. Meşrutiyet ile padişahın yetkileri sınırlandırılmış ve meclis sistemine geçilmiştir."
         },
         {
-          "soru": "Osmanlı Devleti'nin 1915'te Çanakkale Cephesi'nde kazandığı zaferin adı nedir?",
+          "soru": "İttihat ve Terakki Cemiyeti'nin önde gelen liderleri kimlerdir?",
           "secenekler": [
-            "Çanakkale Zaferi",
-            "Kurtuluş Savaşı",
-            "Sakarya Meydan Muharebesi",
-            "Büyük Taarruz"
+            "Talat, Enver ve Cemal Paşalar",
+            "Mithat ve Mahmut Paşalar",
+            "Ali ve Fuat Paşalar",
+            "Rauf ve Refet Paşalar"
           ],
-          "dogruCevap": "Çanakkale Zaferi"
+          "dogruCevap": "Talat, Enver ve Cemal Paşalar",
+          "aciklama": "Bu üç lider 'Üç Paşalar' olarak bilinir ve 1913-1918 arasında ülkeyi yönetmişlerdir."
         },
         {
-          "soru": "1915'teki Çanakkale Zaferi, hangi devletin Osmanlı'ya karşı yaptığı saldırıyı geri püskürtmüştür?",
+          "soru": "1914'te Osmanlı Devleti'nin I. Dünya Savaşı'na girmesinin temel nedenleri nelerdir?",
           "secenekler": [
-            "Fransa ve İngiltere",
+            "Panturanist idealler ve Rusya tehdidi",
+            "Sadece ekonomik çıkarlar",
+            "Fransa ile olan düşmanlık",
+            "Balkanlardaki toprakları geri alma isteği"
+          ],
+          "dogruCevap": "Panturanist idealler ve Rusya tehdidi",
+          "aciklama": "İttihatçıların Türkçü idealleri ve Rusya'ya karşı güvenlik kaygıları belirleyici olmuştur."
+        },
+        {
+          "soru": "Çanakkale Savaşları'nda (1915) hangi devletler Osmanlı'ya saldırmıştır?",
+          "secenekler": [
+            "İngiltere ve Fransa",
+            "Rusya ve İtalya",
             "Almanya ve Avusturya",
-            "Rusya",
-            "İtalya ve Avusturya"
+            "Yunanistan ve Bulgaristan"
           ],
-          "dogruCevap": "Fransa ve İngiltere"
+          "dogruCevap": "İngiltere ve Fransa",
+          "aciklama": "İtilaf Devletleri'nin İstanbul'u ele geçirme planı başarısız olmuştur."
         },
         {
-          "soru": "1919'da, Osmanlı Devleti'ne ait toprakları işgal eden hangi devletler, Sevr Antlaşması'nı dayatmıştır?",
+          "soru": "Mondros Mütarekesi'nin (30 Ekim 1918) en önemli sonucu nedir?",
           "secenekler": [
-            "İngiltere, Fransa, İtalya",
-            "Rusya, Almanya, Yunanistan",
-            "Fransa, Rusya, Yunanistan",
-            "İngiltere, Fransa, Rusya"
+            "İtilaf Devletleri'nin Anadolu'yu işgale başlaması",
+            "Saltanatın kaldırılması",
+            "Cumhuriyetin ilanı",
+            "Hilafetin kaldırılması"
           ],
-          "dogruCevap": "İngiltere, Fransa, İtalya"
+          "dogruCevap": "İtilaf Devletleri'nin Anadolu'yu işgale başlaması",
+          "aciklama": "Mütarekenin 7. maddesi işgallere zemin hazırlamıştır."
         },
         {
-          "soru": "I. Dünya Savaşı sonunda Osmanlı Devleti'nin toprakları, hangi antlaşma ile resmen paylaşılmıştır?",
+          "soru": "Sevr Antlaşması (10 Ağustos 1920) hangi hükümet tarafından imzalanmıştır?",
           "secenekler": [
-            "Sevr Antlaşması",
-            "Lozan Antlaşması",
-            "Bükreş Antlaşması",
-            "Versay Antlaşması"
+            "İstanbul Hükümeti",
+            "Ankara Hükümeti",
+            "İttihat ve Terakki Hükümeti",
+            "Meşrutiyet Hükümeti"
           ],
-          "dogruCevap": "Sevr Antlaşması"
+          "dogruCevap": "İstanbul Hükümeti",
+          "aciklama": "Ankara Hükümeti bu antlaşmayı tanımamıştır."
         },
         {
-          "soru": "Osmanlı Devleti'nin son döneminde, Osmanlı hükümeti hangi toprak kayıplarından sonra halkı direnişe çağırmıştır?",
+          "soru": "Osmanlı Devleti resmen ne zaman sona ermiştir?",
           "secenekler": [
-            "Balkan Savaşları",
-            "I. Dünya Savaşı",
-            "Mondros Mütarekesi",
-            "Sevr Antlaşması"
+            "1 Kasım 1922",
+            "29 Ekim 1923",
+            "3 Mart 1924",
+            "23 Nisan 1920"
           ],
-          "dogruCevap": "Sevr Antlaşması"
+          "dogruCevap": "1 Kasım 1922",
+          "aciklama": "TBMM'nin saltanatı kaldırma kararıyla Osmanlı Devleti resmen son bulmuştur."
         },
         {
-          "soru": "Osmanlı'nın son yıllarında, 1919'da başlayan Kurtuluş Savaşı'na liderlik eden kişi kimdir?",
+          "soru": "Sarıkamış Harekâtı'nın (1914-1915) sonucu ne olmuştur?",
           "secenekler": [
-            "Mustafa Kemal Atatürk",
-            "Enver Paşa",
-            "Mehmet Akif Ersoy",
-            "Kazım Karabekir"
+            "Büyük bir askeri yenilgi",
+            "Stratejik bir zafer",
+            "Toprak kazanımı",
+            "Ateşkes imzalanması"
           ],
-          "dogruCevap": "Mustafa Kemal Atatürk"
+          "dogruCevap": "Büyük bir askeri yenilgi",
+          "aciklama": "Ağır kış şartları nedeniyle büyük kayıplar verilmiştir."
         },
         {
-          "soru": "Mustafa Kemal Atatürk'ün Kurtuluş Savaşı'na başlamadan önce işgal edilen hangi şehirde halkı örgütlemiştir?",
+          "soru": "Balkan Savaşları sonucunda (1912-1913) Osmanlı neyi kaybetmiştir?",
           "secenekler": [
-            "Samsun",
-            "İstanbul",
-            "Ankara",
-            "Konya"
+            "Rumeli'deki topraklarının çoğunu",
+            "Arap vilayetlerini",
+            "Doğu Anadolu'yu",
+            "Kuzey Afrika'yı"
           ],
-          "dogruCevap": "Samsun"
+          "dogruCevap": "Rumeli'deki topraklarının çoğunu",
+          "aciklama": "Edirne dışındaki tüm Balkan toprakları kaybedilmiştir."
         },
         {
-          "soru": "Osmanlı'nın son döneminde, Mustafa Kemal Atatürk'ün öncülüğünde kurulan ve ulusal direnişi başlatan teşkilat hangisidir?",
+          "soru": "I. Dünya Savaşı'nda Osmanlı hangi cephelerde savaşmıştır?",
           "secenekler": [
-            "Milli Mücadele",
-            "İttihat ve Terakki",
-            "Vatan ve Hürriyet",
-            "Hürriyet ve İtilaf"
+            "Çanakkale, Kafkas, Kanal, Irak, Suriye-Filistin",
+            "Sadece Çanakkale ve Kafkas",
+            "Yalnız Arap Yarımadası",
+            "Sadece Balkanlar"
           ],
-          "dogruCevap": "Milli Mücadele"
-        },
-        {
-          "soru": "Mustafa Kemal Atatürk'ün 1919'daki milli mücadele hareketini başlatmasındaki en önemli hedef nedir?",
-          "secenekler": [
-            "Osmanlı Devleti'ni kurtarmak",
-            "Ulusal bağımsızlığı sağlamak",
-            "Demokrasi getirmek",
-            "Monarşiyi kaldırmak"
-          ],
-          "dogruCevap": "Ulusal bağımsızlığı sağlamak"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin son döneminde, İttihat ve Terakki'nin etkisiyle yapılan hangi reformlar hız kazanmıştır?",
-          "secenekler": [
-            "Tanzimat Reformları",
-            "Meşrutiyet Reformları",
-            "İslamcı Reformlar",
-            "Batılılaşma Reformları"
-          ],
-          "dogruCevap": "Batılılaşma Reformları"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin son yıllarında yaşanan Çanakkale Zaferi'nde, Osmanlı'nın zafer kazanmasını sağlayan komutan kimdir?",
-          "secenekler": [
-            "Mustafa Kemal Atatürk",
-            "Enver Paşa",
-            "Kazım Karabekir",
-            "Cemal Paşa"
-          ],
-          "dogruCevap": "Mustafa Kemal Atatürk"
+          "dogruCevap": "Çanakkale, Kafkas, Kanal, Irak, Suriye-Filistin",
+          "aciklama": "Osmanlı birçok cephede savaşmak zorunda kalmıştır."
         }
       ],
       "Kurtuluş Savaşı Hazırlık Dönemi": [
@@ -6295,26 +6096,6 @@
           "dogruCevap": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti'nin kurulması"
         },
         {
-          "soru": "Aşağıdakilerden hangisi Amasya Genelgesi'ni imzalayan komutanlardan biri değildir?",
-          "secenekler": [
-            "Kazım Karabekir",
-            "Ali Fuat Paşa",
-            "Rauf Orbay",
-            "Refet Bele"
-          ],
-          "dogruCevap": "Refet Bele"
-        },
-        {
-          "soru": "Temsil Heyeti'nin Ankara'ya taşınmasının nedeni aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "İstanbul'a yakın ve demiryolu bağlantısının olması",
-            "Güvenli bir bölge olması",
-            "Halkın desteğinin fazla olması",
-            "Coğrafi konumunun uygun olması"
-          ],
-          "dogruCevap": "İstanbul'a yakın ve demiryolu bağlantısının olması"
-        },
-        {
           "soru": "Aşağıdakilerden hangisi Sivas Kongresi'nin toplanmasını engellemeye çalışmıştır?",
           "secenekler": [
             "Ali Galip",
@@ -6363,26 +6144,6 @@
             "Kuvayı Milliye'nin tanınması"
           ],
           "dogruCevap": "Mebusan Meclisi'nin toplanması"
-        },
-        {
-          "soru": "Mustafa Kemal'in askerlik mesleğinden istifa etmesinin nedeni nedir?",
-          "secenekler": [
-            "Milli Mücadele'yi sivil olarak yürütmek",
-            "İstanbul Hükümeti'ne karşı gelmek",
-            "Temsil Heyeti'ni kurmak",
-            "Kongreleri toplamak"
-          ],
-          "dogruCevap": "Milli Mücadele'yi sivil olarak yürütmek"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Sivas Kongresi'nde American Mandası'nı savunmuştur?",
-          "secenekler": [
-            "Halide Edip",
-            "Rauf Orbay",
-            "Kazım Karabekir",
-            "Ali Fuat Paşa"
-          ],
-          "dogruCevap": "Halide Edip"
         },
         {
           "soru": "Temsil Heyeti'nin ilk kez nerede kurulduğu aşağıdakilerden hangisidir?",
@@ -6478,16 +6239,6 @@
           "dogruCevap": "Müdafa-i Hukuk Cemiyeti"
         },
         {
-          "soru": "Amasya Genelgesi'nde, milli mücadelenin merkezi olarak hangi şehir belirtilmiştir?",
-          "secenekler": [
-            "Sivas",
-            "Ankara",
-            "Amasya",
-            "İstanbul"
-          ],
-          "dogruCevap": "Amasya"
-        },
-        {
           "soru": "Kurtuluş Savaşı'nın başlatılması için atılan adımlardan biri, hangi kongre kararlarıyla hukuki zemin bulmuştur?",
           "secenekler": [
             "Erzurum Kongresi",
@@ -6498,24 +6249,14 @@
           "dogruCevap": "Sivas Kongresi"
         },
         {
-          "soru": "Amasya Genelgesi'ni yayımlayan Mustafa Kemal, hangi ilkeyi ilk kez kamuoyuna açıklamıştır?",
-          "secenekler": [
-            "Egemenliğin kayıtsız şartsız millete ait olması",
-            "Saltanatın sürdürülmesi",
-            "Meclis'in İstanbul'da toplanması",
-            "Ulusal bağımsızlığın korunması"
-          ],
-          "dogruCevap": "Egemenliğin kayıtsız şartsız millete ait olması"
-        },
-        {
           "soru": "Erzurum Kongresi'ni hangi cemiyet düzenlemiştir?",
           "secenekler": [
-            "Kuva-yi Milliye",
+            "Doğu Anadolu Müdafaa-i Hukuk Cemiyeti",
             "Osmanlı İttihat ve Terakki Cemiyeti",
-            "Müdafa-i Hukuk Cemiyeti",
+            "Kuvayi Milliye",
             "Teali İslam Cemiyeti"
           ],
-          "dogruCevap": "Müdafa-i Hukuk Cemiyeti"
+          "dogruCevap": "Doğu Anadolu Müdafaa-i Hukuk Cemiyeti"
         },
         {
           "soru": "Kurtuluş Savaşı'nda Anadolu'da, ulusal bağımsızlık mücadelesinin en güçlü örgütlenmesinin adı nedir?",
@@ -6538,6 +6279,61 @@
           "dogruCevap": "Ulusal egemenlik"
         },
         {
+          "soru": "Amasya Genelgesi'nin en önemli maddesi hangisidir?",
+          "secenekler": [
+            "Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir",
+            "Manda ve himaye kabul edilemez",
+            "Milli sınırlar içinde vatan bir bütündür",
+            "Kuvayı Milliye tek güçtür"
+          ],
+          "dogruCevap": "Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir",
+          "aciklama": "22 Haziran 1919'da yayınlanan genelge, milli mücadelenin gerekçesini ilk kez açıklamıştır."
+        },
+        {
+          "soru": "Erzurum Kongresi'nde alınan en önemli karar hangisidir?",
+          "secenekler": [
+            "Milli iradeyi hakim kılmak esastır",
+            "Manda ve himaye kabul edilemez",
+            "Vatanın bütünlüğü korunacaktır",
+            "Kuvayı Milliye tanınacaktır"
+          ],
+          "dogruCevap": "Milli iradeyi hakim kılmak esastır",
+          "aciklama": "23 Temmuz-7 Ağustos 1919 tarihleri arasında toplanan kongrede milli egemenlik ilkesi ilk kez vurgulanmıştır."
+        },
+        {
+          "soru": "Sivas Kongresi'nin en önemli özelliği nedir?",
+          "secenekler": [
+            "Tüm yurdu temsil eden ilk kongre olması",
+            "Saltanatın kaldırılması",
+            "Cumhuriyetin ilan edilmesi",
+            "TBMM'nin açılması"
+          ],
+          "dogruCevap": "Tüm yurdu temsil eden ilk kongre olması",
+          "aciklama": "4-11 Eylül 1919'da toplanan Sivas Kongresi, ulusal nitelikte ilk kongredir."
+        },
+        {
+          "soru": "Mustafa Kemal'in Samsun'a çıkış tarihi ve resmi görevi nedir?",
+          "secenekler": [
+            "19 Mayıs 1919 - 9. Ordu Müfettişi",
+            "23 Nisan 1919 - Harbiye Nazırı",
+            "29 Ekim 1919 - Temsil Heyeti Başkanı",
+            "28 Mayıs 1919 - Vali"
+          ],
+          "dogruCevap": "19 Mayıs 1919 - 9. Ordu Müfettişi",
+          "aciklama": "Mustafa Kemal, 9. Ordu Müfettişi olarak geniş yetkilerle Samsun'a çıkmıştır."
+        },
+        {
+          "soru": "Amasya Görüşmeleri'nin (20-22 Ekim 1919) önemi nedir?",
+          "secenekler": [
+            "İstanbul Hükümeti'nin Temsil Heyeti'ni resmen tanıması",
+            "Cumhuriyetin ilan edilmesi",
+            "Saltanatın kaldırılması",
+            "TBMM'nin açılması"
+          ],
+          "dogruCevap": "İstanbul Hükümeti'nin Temsil Heyeti'ni resmen tanıması",
+          "aciklama": "Bu görüşmelerle İstanbul Hükümeti ilk kez Milli Mücadele'yi ve Temsil Heyeti'ni tanımıştır."
+        },
+        {
           "soru": "Erzurum Kongresi'ne katılan temsilciler, hangi sınıfın çıkarlarını savunmuştur?",
           "secenekler": [
             "Halk sınıfı",
@@ -6548,16 +6344,6 @@
           "dogruCevap": "Halk sınıfı"
         },
         {
-          "soru": "Kurtuluş Savaşı hazırlık dönemiyle ilgili olarak, Amasya Genelgesi'nde hangi maddede 'savaş' ifadesi yer almıştır?",
-          "secenekler": [
-            "Bağımsızlık mücadelesi başlatılmalıdır",
-            "İstanbul hükümetinin onayı alınmalıdır",
-            "Müttefiklerin işgalleri durdurulmalıdır",
-            "Bağımsızlık savaşı başlatılmalıdır"
-          ],
-          "dogruCevap": "Bağımsızlık savaşı başlatılmalıdır"
-        },
-        {
           "soru": "Sivas Kongresi'nde, Mustafa Kemal Atatürk'ün temsil ettiği yönetim anlayışı hangisidir?",
           "secenekler": [
             "Bağımsızlık ve ulusal egemenlik",
@@ -6566,16 +6352,6 @@
             "Cumhuriyetin ilanı"
           ],
           "dogruCevap": "Bağımsızlık ve ulusal egemenlik"
-        },
-        {
-          "soru": "Amasya Genelgesi'nin en önemli kararlarından biri, hangi ulusal egemenlik ilkesini kabul etmesidir?",
-          "secenekler": [
-            "Bağımsızlık ve milletin yönetimi",
-            "Padişahın yönetim hakkı",
-            "İstanbul hükümetinin gücü",
-            "Türk milletinin bağımsızlık mücadelesi"
-          ],
-          "dogruCevap": "Bağımsızlık ve milletin yönetimi"
         },
         {
           "soru": "Kurtuluş Savaşı hazırlık dönemi sırasında kurulan hangi örgüt, askeri direnişi koordine etmiştir?",
@@ -6612,1248 +6388,1125 @@
         {
           "soru": "Amasya Genelgesi'nde hangi madde yer almaz?",
           "secenekler": [
-            "Vatanın bütünlüğü ve milletin istiklali tehlikededir.",
-            "İstanbul Hükûmeti üzerine düşen sorumluluğu yerine getirememektedir.",
-            "Halkın egemenliği esas alınacaktır.",
-            "Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır."
+            "Vatanın bütünlüğü ve milletin istiklali tehlikededir",
+            "İstanbul Hükûmeti üzerine düşen sorumluluğu yerine getirememektedir",
+            "Halkın egemenliği esas alınacaktır",
+            "Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır"
           ],
-          "dogruCevap": "Halkın egemenliği esas alınacaktır."
+          "dogruCevap": "Halkın egemenliği esas alınacaktır",
+          "aciklama": "Halkın egemenliği ilkesi ilk kez Erzurum Kongresi'nde dile getirilmiştir."
         },
         {
-          "soru": "Erzurum Kongresi'nin toplanış bakımından nasıl bir özelliği vardır?",
+          "soru": "Erzurum Kongresi'nin toplanış bakımından özelliği nedir?",
           "secenekler": [
             "Bölgeseldir",
             "Ulusaldır",
-            "Hedefleri dışarıya yönelikti",
-            "Yabancı ülkelerle iş birliği yapılmıştı"
+            "Uluslararasıdır",
+            "Yereldir"
           ],
-          "dogruCevap": "Bölgeseldir"
+          "dogruCevap": "Bölgeseldir",
+          "aciklama": "Doğu Anadolu illerini temsil eden bölgesel bir kongredir."
         },
         {
-          "soru": "Misakımilli kararları hangi meclis tarafından kabul edilmiştir?",
+          "soru": "Misak-ı Milli kararları hangi meclis tarafından kabul edilmiştir?",
           "secenekler": [
             "Son Osmanlı Mebusan Meclisi",
-            "İstanbul Hükûmeti",
-            "Türk Büyük Millet Meclisi",
-            "Sivas Kongresi"
+            "TBMM",
+            "İstanbul Hükümeti",
+            "Temsil Heyeti"
           ],
-          "dogruCevap": "Son Osmanlı Mebusan Meclisi"
+          "dogruCevap": "Son Osmanlı Mebusan Meclisi",
+          "aciklama": "28 Ocak 1920'de Son Osmanlı Mebusan Meclisi tarafından kabul edilmiştir."
         },
         {
-          "soru": "Mustafa Kemal, Amasya Genelgesi sonrasında ne demiştir?",
-          "secenekler": [
-            "Artık İstanbul Anadolu'ya hâkim değil, tabi olmak zorundadır.",
-            "İstanbul'a karşı bağımsızlık savaşını başlatacağız.",
-            "Ulusal egemenlik için mücadele edeceğiz.",
-            "Türkiye'nin bağımsızlığını savunmak için padişahı ikna edeceğiz."
-          ],
-          "dogruCevap": "Artık İstanbul Anadolu'ya hâkim değil, tabi olmak zorundadır."
-        },
-        {
-          "soru": "Sivas Kongresi'nde alınan kararlar doğrultusunda, hangi ilke kesin bir şekilde reddedilmiştir?",
-          "secenekler": [
-            "Manda ve himaye",
-            "Egemenlik kayıtsız şartsız millete ait olmalıdır",
-            "Azınlıklara hak tanınması",
-            "Saltanatın devamı"
-          ],
-          "dogruCevap": "Manda ve himaye"
-        },
-        {
-          "soru": "Mustafa Kemal'in İstanbul'a dönmesinin nedeni nedir?",
-          "secenekler": [
-            "İstanbul Hükûmeti'ni desteklemek",
-            "Milli mücadeleyi başlatmak",
-            "Batı Cephesi'ni kontrol altına almak",
-            "İstanbul'un işgali sırasında padişahı korumak"
-          ],
-          "dogruCevap": "Milli mücadeleyi başlatmak"
-        },
-        {
-          "soru": "Erzurum Kongresi hangi tarihte toplanmıştır?",
-          "secenekler": [
-            "23 Temmuz 1919",
-            "1 Eylül 1919",
-            "22 Mayıs 1919",
-            "28 Haziran 1919"
-          ],
-          "dogruCevap": "23 Temmuz 1919"
-        },
-        {
-          "soru": "Mustafa Kemal'in Samsun'a gönderilmesinin asıl amacı nedir?",
-          "secenekler": [
-            "Mondros'un hükümlerine uymamak",
-            "Halkı işgale karşı uyandırmak",
-            "Karadeniz'deki güvenlik sorunlarını çözmek",
-            "İstanbul'a yeniden hâkim olmak"
-          ],
-          "dogruCevap": "Karadeniz'deki güvenlik sorunlarını çözmek"
-        },
-        {
-          "soru": "Mustafa Kemal'in İstanbul Hükûmeti'ne karşı en sert karşı duruşunu sergilediği belge hangisidir?",
-          "secenekler": [
-            "Samsun Raporu",
-            "Amasya Genelgesi",
-            "Misakımilli",
-            "Havza Genelgesi"
-          ],
-          "dogruCevap": "Samsun Raporu"
-        },
-        {
-          "soru": "Amasya Genelgesi, hangi tarihli kongreye zemin hazırlamıştır?",
-          "secenekler": [
-            "Erzurum Kongresi",
-            "Sivas Kongresi",
-            "Balıkesir Kongresi",
-            "Alaşehir Kongresi"
-          ],
-          "dogruCevap": "Erzurum Kongresi"
-        },
-        {
-          "soru": "Sivas Kongresi'nde alınan kararlar doğrultusunda hangi kavram reddedilmiştir?",
-          "secenekler": [
-            "Manda ve himaye",
-            "Bağımsızlık",
-            "Saltanat",
-            "Padişahın yetkileri"
-          ],
-          "dogruCevap": "Manda ve himaye"
-        },
-        {
-          "soru": "Son Osmanlı Mebusan Meclisi hangi tarihte toplanmıştır?",
-          "secenekler": [
-            "1919",
-            "1920",
-            "1918",
-            "1917"
-          ],
-          "dogruCevap": "1919"
-        },
-        {
-          "soru": "Sivas Kongresi'nde hangi gelişme yaşanmıştır?",
-          "secenekler": [
-            "Mustafa Kemal'in saltanatı reddetmesi",
-            "Kuvayımilliye'nin kurulumunun tamamlanması",
-            "Padişahın İstanbul'dan kaçması",
-            "Mebusan Meclisi'nin İstanbul'da açılması"
-          ],
-          "dogruCevap": "Mustafa Kemal'in saltanatı reddetmesi"
-        },
-        {
-          "soru": "Misakımilli'nin kabulü sonrasında ne olmuştur?",
-          "secenekler": [
-            "İstanbul işgal edilmiştir",
-            "Mebusan Meclisi kapatılmıştır",
-            "Saltanat kaldırılmıştır",
-            "Meclis tekrar açılmıştır"
-          ],
-          "dogruCevap": "İstanbul işgal edilmiştir"
-        },
-        {
-          "soru": "İstanbul'un işgali sonrasında, Mustafa Kemal hangi önlemleri almıştır?",
-          "secenekler": [
-            "Anadolu'ya vergi gönderimini engellemek",
-            "İstanbul'a yardım göndermek",
-            "İstanbul'un işgali için karşılık vermek",
-            "İstanbul'daki bütün Osmanlı yöneticilerini tutuklamak"
-          ],
-          "dogruCevap": "Anadolu'ya vergi gönderimini engellemek"
-        },
-        {
-          "soru": "Erzurum Kongresi'nde alınan kararlar doğrultusunda, hangi yerlerden delege gönderilmiştir?",
-          "secenekler": [
-            "Erzurum, Sivas, Trabzon",
-            "Ankara, İstanbul, İzmir",
-            "Kars, Ardahan, Van",
-            "Bursa, Edirne, İstanbul"
-          ],
-          "dogruCevap": "Erzurum, Sivas, Trabzon"
-        },
-        {
-          "soru": "Mustafa Kemal'in, Sivas Kongresi sırasında hangi kararını verdiği belirgindir?",
-          "secenekler": [
-            "Manda ve himaye reddedildi",
-            "Savaş ilanı verildi",
-            "Saltanat kabul edildi",
-            "İstanbul Hükûmeti'ne destek verildi"
-          ],
-          "dogruCevap": "Manda ve himaye reddedildi"
-        },
-        {
-          "soru": "Misakımilli kararlarının en önemli özelliği nedir?",
-          "secenekler": [
-            "Ulusal bağımsızlık ve egemenlik",
-            "Sürekli dış yardımlar almak",
-            "Saltanatın devamı",
-            "Sadece yerli üretim"
-          ],
-          "dogruCevap": "Ulusal bağımsızlık ve egemenlik"
-        },
-        {
-          "soru": "Amasya Görüşmeleri sonucunda hangi Osmanlı hükûmeti millî mücadeleyi resmi olarak kabul etmiştir?",
-          "secenekler": [
-            "Ali Rıza Paşa Hükûmeti",
-            "Damat Ferit Paşa Hükûmeti",
-            "Sadrazam Mahmud Paşa Hükûmeti",
-            "İbrahim Paşa Hükûmeti"
-          ],
-          "dogruCevap": "Ali Rıza Paşa Hükûmeti"
-        },
-        {
-          "soru": "Mustafa Kemal'in Samsun'a çıkışından sonra ilk yayımladığı belge hangisidir?",
+          "soru": "Mustafa Kemal'in Samsun'a çıktıktan sonra yayımladığı ilk belge hangisidir?",
           "secenekler": [
             "Havza Genelgesi",
             "Amasya Genelgesi",
             "Samsun Raporu",
             "Erzurum Kongresi Kararları"
           ],
-          "dogruCevap": "Havza Genelgesi"
+          "dogruCevap": "Havza Genelgesi",
+          "aciklama": "28-29 Mayıs 1919'da yayımlanmıştır."
+        },
+        {
+          "soru": "Sivas Kongresi'nde kesin olarak reddedilen görüş hangisidir?",
+          "secenekler": [
+            "Manda ve himaye",
+            "Milli egemenlik",
+            "Vatanın bütünlüğü",
+            "Temsil Heyeti'nin varlığı"
+          ],
+          "dogruCevap": "Manda ve himaye",
+          "aciklama": "Tam bağımsızlık ilkesi benimsenmiş, manda ve himaye kesin olarak reddedilmiştir."
+        },
+        {
+          "soru": "Amasya Görüşmeleri'nde İstanbul Hükümeti'ni temsil eden kişi kimdir?",
+          "secenekler": [
+            "Salih Paşa",
+            "Damat Ferit Paşa",
+            "Ali Rıza Paşa",
+            "Tevfik Paşa"
+          ],
+          "dogruCevap": "Salih Paşa",
+          "aciklama": "Bahriye Nazırı Salih Paşa, İstanbul Hükümeti'ni temsilen katılmıştır."
+        },
+        {
+          "soru": "Erzurum Kongresi hangi tarihlerde toplanmıştır?",
+          "secenekler": [
+            "23 Temmuz - 7 Ağustos 1919",
+            "4-11 Eylül 1919",
+            "22-23 Haziran 1919",
+            "28 Mayıs 1919"
+          ],
+          "dogruCevap": "23 Temmuz - 7 Ağustos 1919",
+          "aciklama": "16 gün süren kongre, Doğu Anadolu'nun temsilcilerini bir araya getirmiştir."
+        },
+        {
+          "soru": "Mustafa Kemal'in Samsun'a gönderilmesindeki resmi görev nedir?",
+          "secenekler": [
+            "9. Ordu Müfettişi olarak bölgedeki asayişi sağlamak",
+            "Milli Mücadele'yi başlatmak",
+            "Pontus Rum çetelerini dağıtmak",
+            "İstanbul Hükümeti'ni temsil etmek"
+          ],
+          "dogruCevap": "9. Ordu Müfettişi olarak bölgedeki asayişi sağlamak",
+          "aciklama": "Geniş yetkilerle donatılmış 9. Ordu Müfettişi olarak görevlendirilmiştir."
+        },
+        {
+          "soru": "Amasya Genelgesi hangi kongreye zemin hazırlamıştır?",
+          "secenekler": [
+            "Erzurum Kongresi",
+            "Sivas Kongresi",
+            "Balıkesir Kongresi",
+            "Alaşehir Kongresi"
+          ],
+          "dogruCevap": "Erzurum Kongresi",
+          "aciklama": "Genelgede belirtilen 'milli bir kongre' ifadesi Erzurum Kongresi'ne işaret etmektedir."
+        },
+        {
+          "soru": "Misak-ı Milli'nin kabulünden sonra gerçekleşen olay nedir?",
+          "secenekler": [
+            "İstanbul'un işgal edilmesi",
+            "TBMM'nin açılması",
+            "Saltanatın kaldırılması",
+            "Cumhuriyetin ilanı"
+          ],
+          "dogruCevap": "İstanbul'un işgal edilmesi",
+          "aciklama": "16 Mart 1920'de İtilaf Devletleri İstanbul'u resmen işgal etmiştir."
+        },
+        {
+          "soru": "İstanbul'un işgalinden sonra Mustafa Kemal'in aldığı ilk önemli tedbir nedir?",
+          "secenekler": [
+            "Ankara'da yeni bir meclis toplama kararı almak",
+            "İstanbul'a yardım göndermek",
+            "İşgal kuvvetleriyle görüşmek",
+            "Padişahla iletişime geçmek"
+          ],
+          "dogruCevap": "Ankara'da yeni bir meclis toplama kararı almak",
+          "aciklama": "19 Mart 1920'de yayımladığı genelge ile yeni bir meclis toplanmasını istemiştir."
+        },
+        {
+          "soru": "Temsil Heyeti'nin Ankara'ya taşınma nedeni nedir?",
+          "secenekler": [
+            "Merkezi konum ve haberleşme imkanları",
+            "Halkın isteği",
+            "Padişahın emri",
+            "İtilaf Devletleri'nin baskısı"
+          ],
+          "dogruCevap": "Merkezi konum ve haberleşme imkanları",
+          "aciklama": "27 Aralık 1919'da stratejik konumu nedeniyle Ankara'ya taşınmıştır."
+        },
+        {
+          "soru": "Amasya Görüşmeleri sonucunda hangi karar alınmıştır?",
+          "secenekler": [
+            "Mebusan Meclisi'nin toplanması",
+            "TBMM'nin açılması",
+            "Saltanatın kaldırılması",
+            "Cumhuriyetin ilanı"
+          ],
+          "dogruCevap": "Mebusan Meclisi'nin toplanması",
+          "aciklama": "Son Osmanlı Mebusan Meclisi'nin toplanması kararlaştırılmıştır."
+        },
+        {
+          "soru": "Sivas Kongresi'nin ulusal niteliğini gösteren özellik nedir?",
+          "secenekler": [
+            "Tüm yurttan delegelerin katılması",
+            "Sadece doğu illerinden katılım olması",
+            "Yabancı temsilcilerin katılması",
+            "İstanbul Hükümeti'nin katılması"
+          ],
+          "dogruCevap": "Tüm yurttan delegelerin katılması",
+          "aciklama": "Anadolu ve Rumeli'den gelen delegelerle ulusal bir kongre niteliği kazanmıştır."
+        },
+        {
+          "soru": "Amasya Görüşmeleri'ni önemli kılan gelişme nedir?",
+          "secenekler": [
+            "İstanbul Hükümeti'nin Temsil Heyeti'ni resmen tanıması",
+            "Cumhuriyetin ilan edilmesi",
+            "TBMM'nin açılması",
+            "Saltanatın kaldırılması"
+          ],
+          "dogruCevap": "İstanbul Hükümeti'nin Temsil Heyeti'ni resmen tanıması",
+          "aciklama": "İlk kez İstanbul Hükümeti Milli Mücadele'yi ve Temsil Heyeti'ni tanımıştır."
         }
       ],
       "I. TBMM Dönemi": [
         {
-          "soru": "I. TBMM döneminde;\nI. Teşkilat-ı Esasiye Kanunu'nun kabulü\nII. İstiklal Mahkemeleri'nin kurulması\nIII. Düzenli ordunun kurulması\nIV. Tekâlif-i Milliye Emirleri'nin yayınlanması\nGelişmelerinden hangileri, meclisin olağanüstü yetkilerle donatıldığını gösterir?",
+          "soru": "I. TBMM döneminde çıkarılan;\nI. Teşkilat-ı Esasiye Kanunu\nII. İstiklal Mahkemeleri Kanunu\nIII. Düzenli ordunun kurulması kararı\nGelişmelerinden hangileri, meclisin olağanüstü yetkilerle donatıldığını gösterir?",
           "secenekler": [
+            "Yalnız I",
             "I ve II",
             "II ve III",
-            "I, II ve III",
-            "II, III ve IV"
+            "I, II ve III"
           ],
           "dogruCevap": "I, II ve III",
           "aciklama": "Bu gelişmeler meclisin yasama, yürütme ve yargı yetkilerini kullandığını gösterir."
         },
         {
-          "soru": "I. TBMM'nin;\n- Olağanüstü yetkilere sahip olması\n- Güçler birliği ilkesini benimsemesi\n- Meclis hükümeti sistemini uygulaması\nÖzelliklerinin temel nedeni aşağıdakilerden hangisidir?",
+          "soru": "I. TBMM'nin olağanüstü yetkilere sahip olmasının temel nedeni nedir?",
           "secenekler": [
             "Kurtuluş Savaşı'nın olağanüstü şartları",
-            "Padişahın yetkilerinin sınırlandırılmak istenmesi",
+            "Padişahın yetkilerini sınırlandırma isteği",
             "Cumhuriyet rejimine geçiş hazırlığı",
-            "Halkın yönetime katılmasının sağlanması"
+            "Halkın yönetime katılmasını sağlama"
           ],
-          "dogruCevap": "Kurtuluş Savaşı'nın olağanüstü şartları"
+          "dogruCevap": "Kurtuluş Savaşı'nın olağanüstü şartları",
+          "aciklama": "Savaş şartları hızlı karar almayı gerektirdiğinden meclis olağanüstü yetkilerle donatılmıştır."
         },
         {
-          "soru": "I. TBMM'de görülen;\nI. Tesanüt Grubu\nII. İstiklal Grubu\nIII. Müdafaa-i Hukuk Grubu\nIV. Halk Zümresi\nGruplarının ortaya çıkması, aşağıdakilerden hangisinin göstergesidir?",
+          "soru": "İstiklal Mahkemeleri'nin kuruluş amaçları arasında hangisi yer alır?",
           "secenekler": [
-            "Mecliste farklı görüşlerin temsil edildiğinin",
-            "Milli egemenlik ilkesinin benimsendiğinin",
-            "Çok partili hayata geçilmek istendiğinin",
-            "Meclisin monarşiyi desteklediğinin"
-          ],
-          "dogruCevap": "Mecliste farklı görüşlerin temsil edildiğinin"
-        },
-        {
-          "soru": "I. TBMM döneminde çıkarılan;\nI. Hıyanet-i Vataniye Kanunu\nII. Firariler Hakkında Kanun\nIII. İstiklal Mahkemeleri Kanunu\nHangileri iç isyanları bastırmak amacıyla çıkarılmıştır?",
-          "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "II ve III",
-            "I, II ve III"
-          ],
-          "dogruCevap": "I, II ve III"
-        },
-        {
-          "soru": "I. TBMM'nin açılışından sonra;\n- Meclise karşı isyanların çıkması\n- İstanbul Hükümeti'nin karşı propagandası\n- Düzenli ordunun kurulmasında yaşanan zorluklar\nGelişmelerinin ortak özelliği aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Milli Mücadele'yi zorlaştırıcı etkenler olmaları",
-            "Dış güçlerin etkisiyle ortaya çıkmaları",
-            "Ekonomik sorunlardan kaynaklanmaları",
-            "Rejim değişikliğini amaçlamaları"
-          ],
-          "dogruCevap": "Milli Mücadele'yi zorlaştırıcı etkenler olmaları"
-        },
-        {
-          "soru": "1921 Anayasası'nda;\n- Egemenlik kayıtsız şartsız milletindir\n- TBMM'nin üstünde bir güç yoktur\n- Türkiye Devleti TBMM tarafından idare olunur\nMaddelerinin yer alması, öncelikle aşağıdakilerden hangisini gösterir?",
-          "secenekler": [
-            "Milli egemenlik ilkesinin benimsendiğini",
-            "Cumhuriyet rejimine geçileceğini",
-            "Saltanatın kaldırılacağını",
-            "Halifeliğin kaldırılacağını"
-          ],
-          "dogruCevap": "Milli egemenlik ilkesinin benimsendiğini"
-        },
-        {
-          "soru": "I. TBMM'nin;\n- İstanbul Hükümeti'ni tanımaması\n- Ankara'yı merkez seçmesi\n- Kendi anayasasını yapması\nDurumları aşağıdakilerden hangisinin göstergesidir?",
-          "secenekler": [
-            "Meşruiyet kazanma çabasının",
-            "Bağımsız bir devlet kurma amacının",
-            "Cumhuriyet rejimine geçme isteğinin",
-            "Saltanatı kaldırma düşüncesinin"
-          ],
-          "dogruCevap": "Bağımsız bir devlet kurma amacının"
-        },
-        {
-          "soru": "I. TBMM döneminde;\n- Teşkilat-ı Esasiye'nin kabulü\n- İstiklal Mahkemeleri'nin kurulması\n- Tekâlif-i Milliye Emirleri'nin yayınlanması\nGibi uygulamaların temel amacı aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Kurtuluş Savaşı'nı başarıya ulaştırmak",
-            "Cumhuriyet rejimini ilan etmek",
+            "İç isyanları bastırmak ve ordunun ihtiyaçlarını karşılamak",
+            "Yeni bir anayasa hazırlamak",
             "Saltanatı kaldırmak",
             "Halifeliği kaldırmak"
           ],
-          "dogruCevap": "Kurtuluş Savaşı'nı başarıya ulaştırmak"
+          "dogruCevap": "İç isyanları bastırmak ve ordunun ihtiyaçlarını karşılamak",
+          "aciklama": "İstiklal Mahkemeleri hem iç güvenliği sağlamak hem de ordunun ihtiyaçlarını karşılamak için kurulmuştur."
         },
         {
-          "soru": "I. TBMM'nin açılışında;\nI. Cuma namazı kılınması\nII. Hacı Bayram Veli'nin türbesinin ziyaret edilmesi\nIII. Dualar okunması\nGibi dini ritüellerin gerçekleştirilmesinin nedeni aşağıdakilerden hangisidir?",
+          "soru": "1921 Anayasası'nın en önemli özelliği nedir?",
           "secenekler": [
-            "Halkın desteğini kazanmak",
-            "İstanbul Hükümeti'ni tanımak",
+            "Meclis hükümeti sistemini ve milli egemenliği benimsemesi",
+            "Saltanatı kaldırması",
+            "Cumhuriyeti ilan etmesi",
+            "Halifeliği kaldırması"
+          ],
+          "dogruCevap": "Meclis hükümeti sistemini ve milli egemenliği benimsemesi",
+          "aciklama": "1921 Anayasası ile egemenlik kayıtsız şartsız millete verilmiş ve meclis hükümeti sistemi benimsenmiştir."
+        },
+        {
+          "soru": "I. TBMM'nin açılışındaki dini törenlerin asıl amacı nedir?",
+          "secenekler": [
+            "Milli Mücadele'nin dine aykırı olmadığını göstermek ve halk desteğini sağlamak",
             "Hilafeti güçlendirmek",
-            "Şeriat düzenini kurmak"
+            "Şeriat düzenini kurmak",
+            "İstanbul Hükümeti'ni tanımak"
           ],
-          "dogruCevap": "Halkın desteğini kazanmak"
+          "dogruCevap": "Milli Mücadele'nin dine aykırı olmadığını göstermek ve halk desteğini sağlamak",
+          "aciklama": "Bu törenlerle hem halkın desteği alınmış hem de mücadelenin dini değerlere saygılı olduğu gösterilmiştir."
         },
         {
-          "soru": "I. TBMM'de;\n- Yasama\n- Yürütme\n- Yargı\nGüçlerinin mecliste toplanmasının temel nedeni aşağıdakilerden hangisidir?",
+          "soru": "Tekâlif-i Milliye Emirleri'nin yayınlanma amacı nedir?",
           "secenekler": [
-            "Savaş şartlarının gerektirdiği hızlı karar alma ihtiyacı",
-            "Cumhuriyet rejimine geçiş hazırlığı",
-            "Padişahın yetkilerini tamamen kaldırma isteği",
-            "Demokratik bir yönetim kurma düşüncesi"
+            "Ordunun ihtiyaçlarını karşılamak",
+            "Yeni vergiler koymak",
+            "Ekonomiyi düzenlemek",
+            "Ticareti geliştirmek"
           ],
-          "dogruCevap": "Savaş şartlarının gerektirdiği hızlı karar alma ihtiyacı"
+          "dogruCevap": "Ordunun ihtiyaçlarını karşılamak",
+          "aciklama": "Sakarya Savaşı öncesinde ordunun temel ihtiyaçlarını karşılamak için çıkarılmıştır."
+        },
+        {
+          "soru": "I. TBMM'de hangi grup en güçlü muhalefeti oluşturmuştur?",
+          "secenekler": [
+            "İkinci Grup",
+            "Tesanüt Grubu",
+            "İstiklal Grubu",
+            "Halk Zümresi"
+          ],
+          "dogruCevap": "İkinci Grup",
+          "aciklama": "Mustafa Kemal'in liderliğindeki Birinci Grup'a karşı en güçlü muhalefeti İkinci Grup yapmıştır."
+        },
+        {
+          "soru": "Hıyanet-i Vataniye Kanunu'nun çıkarılma amacı nedir?",
+          "secenekler": [
+            "İç isyanları ve vatana ihanet suçlarını önlemek",
+            "Vergi toplamak",
+            "Orduyu güçlendirmek",
+            "Ekonomiyi düzenlemek"
+          ],
+          "dogruCevap": "İç isyanları ve vatana ihanet suçlarını önlemek",
+          "aciklama": "29 Nisan 1920'de çıkarılan bu kanun, iç güvenliği sağlamak amacıyla çıkarılmıştır."
+        },
+        {
+          "soru": "I. TBMM'nin Ankara'da toplanma nedeni nedir?",
+          "secenekler": [
+            "Merkezi konumu ve güvenli olması",
+            "Nüfusunun kalabalık olması",
+            "Ekonomik açıdan gelişmiş olması",
+            "İstanbul'a yakın olması"
+          ],
+          "dogruCevap": "Merkezi konumu ve güvenli olması",
+          "aciklama": "Ankara'nın merkezi konumu, demiryolu bağlantısı ve işgal tehdidinden uzak olması tercih nedenidir."
+        },
+        {
+          "soru": "I. TBMM'nin ilk Başkanı kimdir?",
+          "secenekler": [
+            "Mustafa Kemal Paşa",
+            "Fevzi Çakmak",
+            "İsmet İnönü",
+            "Kazım Karabekir"
+          ],
+          "dogruCevap": "Mustafa Kemal Paşa",
+          "aciklama": "24 Nisan 1920'de yapılan seçimle Mustafa Kemal Paşa meclis başkanı seçilmiştir."
+        },
+        {
+          "soru": "I. TBMM'nin açılış tarihi nedir?",
+          "secenekler": [
+            "23 Nisan 1920",
+            "29 Ekim 1923",
+            "1 Kasım 1922",
+            "3 Mart 1924"
+          ],
+          "dogruCevap": "23 Nisan 1920",
+          "aciklama": "Büyük Millet Meclisi 23 Nisan 1920'de Ankara'da açılmıştır."
+        },
+        {
+          "soru": "I. TBMM'nin meşruiyet kaynağı nedir?",
+          "secenekler": [
+            "Milli irade",
+            "Padişah",
+            "İtilaf Devletleri",
+            "İstanbul Hükümeti"
+          ],
+          "dogruCevap": "Milli irade",
+          "aciklama": "TBMM meşruiyetini doğrudan milletten almıştır."
+        },
+        {
+          "soru": "I. TBMM'de kabul edilen ilk anayasa hangisidir?",
+          "secenekler": [
+            "1921 Anayasası",
+            "1924 Anayasası",
+            "1876 Kanun-i Esasi",
+            "1909 Anayasası"
+          ],
+          "dogruCevap": "1921 Anayasası",
+          "aciklama": "20 Ocak 1921'de kabul edilen Teşkilat-ı Esasiye Kanunu, TBMM'nin ilk anayasasıdır."
+        },
+        {
+          "soru": "I. TBMM'nin ilk hükümeti hangi isimle kurulmuştur?",
+          "secenekler": [
+            "İcra Vekilleri Heyeti",
+            "Bakanlar Kurulu",
+            "Heyet-i Vükela",
+            "Cumhuriyet Hükümeti"
+          ],
+          "dogruCevap": "İcra Vekilleri Heyeti",
+          "aciklama": "2 Mayıs 1920'de kurulan ilk hükümet İcra Vekilleri Heyeti adını almıştır."
+        },
+        {
+          "soru": "I. TBMM'nin açılışında ilk konuşmayı kim yapmıştır?",
+          "secenekler": [
+            "Sinop Mebusu Şerif Bey",
+            "Mustafa Kemal Paşa",
+            "İsmet İnönü",
+            "Fevzi Çakmak"
+          ],
+          "dogruCevap": "Sinop Mebusu Şerif Bey",
+          "aciklama": "En yaşlı üye sıfatıyla Sinop Mebusu Şerif Bey açılış konuşmasını yapmıştır."
+        },
+        {
+          "soru": "I. TBMM'nin kabul ettiği ilk kanun hangisidir?",
+          "secenekler": [
+            "Ağnam Resmi Kanunu",
+            "Teşkilat-ı Esasiye Kanunu",
+            "İstiklal Mahkemeleri Kanunu",
+            "Hıyanet-i Vataniye Kanunu"
+          ],
+          "dogruCevap": "Ağnam Resmi Kanunu",
+          "aciklama": "24 Nisan 1920'de kabul edilen ilk kanun, hayvanlardan alınan vergiyle ilgilidir."
+        },
+        {
+          "soru": "I. TBMM'nin olağanüstü yetkileri hangi ilkeye dayanır?",
+          "secenekler": [
+            "Güçler birliği",
+            "Güçler ayrılığı",
+            "Kuvvetler ayrılığı",
+            "Yasama üstünlüğü"
+          ],
+          "dogruCevap": "Güçler birliği",
+          "aciklama": "Yasama, yürütme ve yargı yetkileri mecliste toplanmıştır."
+        },
+        {
+          "soru": "I. TBMM'nin toplanma yeter sayısı kaçtır?",
+          "secenekler": [
+            "Salt çoğunluk",
+            "Üçte iki",
+            "Dörtte üç",
+            "Tam sayı"
+          ],
+          "dogruCevap": "Salt çoğunluk",
+          "aciklama": "Meclisin toplanması için üye tam sayısının yarısından bir fazlası gereklidir."
+        },
+        {
+          "soru": "I. TBMM'nin en önemli başarısı nedir?",
+          "secenekler": [
+            "Kurtuluş Savaşı'nı zaferle sonuçlandırması",
+            "Saltanatı kaldırması",
+            "Cumhuriyeti ilan etmesi",
+            "Halifeliği kaldırması"
+          ],
+          "dogruCevap": "Kurtuluş Savaşı'nı zaferle sonuçlandırması",
+          "aciklama": "Milli Mücadele'yi yönetmiş ve başarıya ulaştırmıştır."
+        },
+        {
+          "soru": "I. TBMM'nin son toplantısı hangi tarihte yapılmıştır?",
+          "secenekler": [
+            "16 Nisan 1923",
+            "29 Ekim 1923",
+            "3 Mart 1924",
+            "23 Nisan 1920"
+          ],
+          "dogruCevap": "16 Nisan 1923",
+          "aciklama": "I. TBMM, seçimlerin yenilenmesi kararıyla 16 Nisan 1923'te son toplantısını yapmıştır."
         }
       ],
       "Kurtuluş Savaşı Muharebeler Dönemi": [
         {
-          "soru": "Kurtuluş Savaşı'nda;\nI. I. İnönü Muharebesi\nII. II. İnönü Muharebesi\nIII. Sakarya Meydan Muharebesi\nIV. Büyük Taarruz\nSavaşlarının kronolojik sıralaması aşağıdakilerden hangisinde doğru verilmiştir?",
+          "soru": "Kurtuluş Savaşı'ndaki muharebelerin kronolojik sıralaması hangisidir?",
           "secenekler": [
-            "I-II-III-IV",
-            "II-I-III-IV",
-            "I-II-IV-III",
-            "III-II-I-IV"
+            "I. İnönü - II. İnönü - Sakarya - Büyük Taarruz",
+            "II. İnönü - I. İnönü - Sakarya - Büyük Taarruz",
+            "Sakarya - I. İnönü - II. İnönü - Büyük Taarruz",
+            "I. İnönü - Sakarya - II. İnönü - Büyük Taarruz"
           ],
-          "dogruCevap": "I-II-III-IV",
-          "aciklama": "Muharebeler kronolojik olarak bu sırayla gerçekleşmiştir."
+          "dogruCevap": "I. İnönü - II. İnönü - Sakarya - Büyük Taarruz",
+          "aciklama": "Muharebeler sırasıyla: I. İnönü (6-11 Ocak 1921), II. İnönü (23 Mart-1 Nisan 1921), Sakarya (23 Ağustos-13 Eylül 1921), Büyük Taarruz (26 Ağustos 1922)"
         },
         {
-          "soru": "Sakarya Meydan Muharebesi'nden sonra;\nI. Mustafa Kemal'e mareşallik rütbesi verilmesi\nII. Fransa ile Ankara Antlaşması'nın imzalanması\nIII. İtilaf Devletleri'nin Sevr'i gözden geçirmeye başlaması\nGelişmelerinden hangileri, Türk ordusunun askeri ve siyasi başarısını gösterir?",
+          "soru": "Sakarya Meydan Muharebesi'nin sonuçları arasında hangisi yer alır?",
           "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "II ve III",
-            "I, II ve III"
-          ],
-          "dogruCevap": "I, II ve III"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi I. İnönü Zaferi'nin sonuçlarından biri değildir?",
-          "secenekler": [
-            "Londra Konferansı'na TBMM'nin davet edilmesi",
-            "Sovyetler Birliği ile Moskova Antlaşması'nın imzalanması",
-            "İstiklal Marşı'nın kabul edilmesi",
+            "Mustafa Kemal'e mareşallik rütbesi ve gazi unvanı verilmesi",
+            "Teşkilat-ı Esasiye'nin kabulü",
+            "Londra Konferansı'nın toplanması",
             "Mudanya Ateşkes Antlaşması'nın imzalanması"
           ],
-          "dogruCevap": "Mudanya Ateşkes Antlaşması'nın imzalanması"
+          "dogruCevap": "Mustafa Kemal'e mareşallik rütbesi ve gazi unvanı verilmesi",
+          "aciklama": "19 Eylül 1921'de TBMM, Mustafa Kemal'e mareşallik rütbesi ve gazi unvanı vermiştir."
         },
         {
-          "soru": "Büyük Taarruz'un başarıya ulaşmasında;\nI. Savaş planının gizli tutulması\nII. Yunan ordusunun yıpranmış olması\nIII. Türk ordusunun taarruz gücünün artması\nDurumlarından hangileri etkili olmuştur?",
+          "soru": "I. İnönü Zaferi'nin sonuçları arasında hangisi yer alır?",
           "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "II ve III",
-            "I, II ve III"
+            "Londra Konferansı'na TBMM'nin davet edilmesi",
+            "Mudanya Ateşkes Antlaşması'nın imzalanması",
+            "Saltanatın kaldırılması",
+            "İzmir'in kurtuluşu"
           ],
-          "dogruCevap": "I, II ve III"
+          "dogruCevap": "Londra Konferansı'na TBMM'nin davet edilmesi",
+          "aciklama": "Bu zafer sonrası TBMM ilk kez uluslararası bir konferansa davet edilmiştir."
         },
         {
-          "soru": "Sakarya Meydan Muharebesi'nde uygulanan;\n'Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.'\nStratejisi ile aşağıdakilerden hangisi amaçlanmıştır?",
+          "soru": "Büyük Taarruz'un başarıya ulaşmasında etkili olan faktörler hangileridir?",
+          "secenekler": [
+            "Savaş planının gizli tutulması ve ordunun hazır olması",
+            "Yunan ordusunun güçlü olması",
+            "İtilaf Devletleri'nin desteği",
+            "Saltanatın kaldırılması"
+          ],
+          "dogruCevap": "Savaş planının gizli tutulması ve ordunun hazır olması",
+          "aciklama": "Gizlilik ve ordunun tam hazırlığı zaferin temel nedenleridir."
+        },
+        {
+          "soru": "Sakarya Meydan Muharebesi'nde uygulanan 'Hattı müdafaa yoktur, sathı müdafaa vardır' stratejisinin amacı nedir?",
           "secenekler": [
             "Düşmanı geniş bir alana yayarak zayıflatmak",
             "Savunma hattını güçlendirmek",
-            "Düşmanı tek bir noktada durdurmak",
-            "Karşı taarruza geçmek"
+            "Düşmanı tek noktada durdurmak",
+            "Geri çekilmek"
           ],
-          "dogruCevap": "Düşmanı geniş bir alana yayarak zayıflatmak"
+          "dogruCevap": "Düşmanı geniş bir alana yayarak zayıflatmak",
+          "aciklama": "Bu strateji ile düşman güçleri geniş bir alana yayılarak zayıflatılmıştır."
         },
         {
-          "soru": "Aşağıdakilerden hangisi II. İnönü Zaferi'nin sonuçlarından biri değildir?",
+          "soru": "II. İnönü Zaferi'nin önemli sonucu nedir?",
           "secenekler": [
             "İtalyanların işgal bölgelerinden çekilmeye başlaması",
-            "TBMM'nin uluslararası prestijinin artması",
-            "Teşkilat-ı Esasiye Kanunu'nun kabul edilmesi",
-            "Yunan ordusunun moral ve motivasyonunun bozulması"
-          ],
-          "dogruCevap": "Teşkilat-ı Esasiye Kanunu'nun kabul edilmesi"
-        },
-        {
-          "soru": "Büyük Taarruz öncesinde;\nI. Tekâlif-i Milliye Emirleri'nin yayınlanması\nII. Başkomutanlık yetkisinin uzatılması\nIII. Kütahya-Eskişehir Savaşları'nın kaybedilmesi\nGelişmelerinden hangileri, taarruz hazırlığı niteliğindedir?",
-          "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "II ve III",
-            "I, II ve III"
-          ],
-          "dogruCevap": "I ve II"
-        },
-        {
-          "soru": "Kurtuluş Savaşı'nda;\nI. Düzenli ordunun kurulması\nII. Başkomutanlık Kanunu'nun çıkarılması\nIII. Tekâlif-i Milliye Emirleri'nin yayınlanması\nGelişmelerinin ortak özelliği aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Askeri başarıyı artırmaya yönelik olmaları",
-            "Siyasi bağımsızlığı sağlamaları",
-            "Ekonomik sorunları çözmeleri",
-            "Yönetim şeklini değiştirmeleri"
-          ],
-          "dogruCevap": "Askeri başarıyı artırmaya yönelik olmaları"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Büyük Taarruz'un sonuçlarından biri değildir?",
-          "secenekler": [
-            "Mudanya Ateşkes Antlaşması'nın imzalanması",
+            "Teşkilat-ı Esasiye'nin kabulü",
             "Saltanatın kaldırılması",
-            "İzmir'in kurtarılması",
-            "Lozan Barış Konferansı'nın toplanması"
+            "TBMM'nin açılması"
           ],
-          "dogruCevap": "Saltanatın kaldırılması"
+          "dogruCevap": "İtalyanların işgal bölgelerinden çekilmeye başlaması",
+          "aciklama": "Bu zafer sonrası İtalya işgal bölgelerinden çekilmeye başlamıştır."
         },
         {
-          "soru": "Kurtuluş Savaşı'nda;\nI. İnönü Muharebeleri\nII. Sakarya Meydan Muharebesi\nIII. Büyük Taarruz\nSavaşlarının kazanılmasında aşağıdakilerden hangisinin etkisi en azdır?",
+          "soru": "Büyük Taarruz öncesi alınan hangi önlemler zafer için önemlidir?",
           "secenekler": [
-            "Düzenli ordunun kurulması",
-            "Halkın desteği",
-            "Komuta kademesinin başarısı",
-            "Dış yardımların artması"
+            "Tekâlif-i Milliye Emirleri ve Başkomutanlık yetkisinin uzatılması",
+            "Saltanatın kaldırılması",
+            "Cumhuriyetin ilanı",
+            "Halifeliğin kaldırılması"
           ],
-          "dogruCevap": "Dış yardımların artması"
-        }
-      ],
-      "Kurtuluş Savaşı Muharebeler Dönemi 2": [
-        {
-          "soru": "Kurtuluş Savaşı'nda, Sakarya Meydan Muharebesi öncesinde Türk ordusunun karşılaştığı en büyük zorluk neydi?",
-          "secenekler": [
-            "Yunan ordusunun güçlü savunması",
-            "Türk ordusunun cephane yetersizliği",
-            "Türk halkının moral bozukluğu",
-            "Fransızların müdahalesi"
-          ],
-          "dogruCevap": "Türk ordusunun cephane yetersizliği"
+          "dogruCevap": "Tekâlif-i Milliye Emirleri ve Başkomutanlık yetkisinin uzatılması",
+          "aciklama": "Bu önlemler ordunun ihtiyaçlarının karşılanmasını sağlamıştır."
         },
         {
-          "soru": "Sakarya Meydan Muharebesi'nde Türk ordusunun zafer kazanmasının ardından, Yunanlılar hangi stratejik hamleyi yapmıştır?",
+          "soru": "Kütahya-Eskişehir Savaşları'ndan sonra alınan en önemli karar nedir?",
           "secenekler": [
-            "Mudanya Mütarekesi'ni imzalamışlardır",
-            "Ankara'ya saldırmaya devam etmişlerdir",
-            "Barış görüşmeleri başlatmışlardır",
-            "İzmir'e yeniden asker göndermişlerdir"
+            "Ordunun Sakarya'nın doğusuna çekilmesi",
+            "Büyük Taarruz'un başlatılması",
+            "TBMM'nin Kayseri'ye taşınması",
+            "Düzenli ordunun kurulması"
           ],
-          "dogruCevap": "Barış görüşmeleri başlatmışlardır"
+          "dogruCevap": "Ordunun Sakarya'nın doğusuna çekilmesi",
+          "aciklama": "Bu stratejik geri çekilme, Sakarya Zaferi'nin hazırlığı olmuştur."
         },
         {
-          "soru": "İnönü I. Muharebesi sonrasında Türk ordusunun kazandığı zaferin ardından hangi uluslararası antlaşma imzalanmıştır?",
+          "soru": "Başkomutanlık Meydan Muharebesi hangi savaşın son aşamasıdır?",
           "secenekler": [
-            "Moskova Antlaşması",
-            "Lozan Antlaşması",
-            "Mudanya Mütarekesi",
-            "Sevr Antlaşması"
-          ],
-          "dogruCevap": "Moskova Antlaşması"
-        },
-        {
-          "soru": "Kurtuluş Savaşı sırasında Türk ordusunun ilk büyük başarısı hangi muharebe ile elde edilmiştir?",
-          "secenekler": [
-            "Sakarya Meydan Muharebesi",
-            "İnönü I. Muharebesi",
             "Büyük Taarruz",
-            "Dumlupınar Meydan Muharebesi"
-          ],
-          "dogruCevap": "İnönü I. Muharebesi"
-        },
-        {
-          "soru": "Türk ordusunun, Yunanlıları Anadolu'dan tamamen çıkarmak için yaptığı son taarruz hangi muharebe ile sonuçlanmıştır?",
-          "secenekler": [
-            "İnönü II. Muharebesi",
             "Sakarya Meydan Muharebesi",
-            "Büyük Taarruz",
-            "Dumlupınar Meydan Muharebesi"
+            "I. İnönü Muharebesi",
+            "II. İnönü Muharebesi"
           ],
-          "dogruCevap": "Büyük Taarruz"
+          "dogruCevap": "Büyük Taarruz",
+          "aciklama": "30 Ağustos 1922'de kazanılan bu zafer, Büyük Taarruz'un son aşamasıdır."
         },
         {
-          "soru": "Kurtuluş Savaşı'nın önemli cephelerinden biri olan Güney Cephesi'nde hangi şehirde yapılan muharebeler Türkler için zaferle sonuçlanmıştır?",
+          "soru": "Mudanya Ateşkes Antlaşması hangi zaferden sonra imzalanmıştır?",
           "secenekler": [
-            "Urfa",
-            "Konya",
+            "Büyük Taarruz",
+            "Sakarya Meydan Muharebesi",
+            "II. İnönü Muharebesi",
+            "I. İnönü Muharebesi"
+          ],
+          "dogruCevap": "Büyük Taarruz",
+          "aciklama": "11 Ekim 1922'de imzalanan antlaşma, Büyük Taarruz'un sonucudur."
+        },
+        {
+          "soru": "Başkomutanlık Kanunu ne zaman kabul edilmiştir?",
+          "secenekler": [
+            "5 Ağustos 1921",
+            "23 Nisan 1920",
+            "29 Ekim 1923",
+            "1 Kasım 1922"
+          ],
+          "dogruCevap": "5 Ağustos 1921",
+          "aciklama": "Sakarya Savaşı öncesinde Mustafa Kemal'e Başkomutanlık yetkisi verilmiştir."
+        },
+        {
+          "soru": "Büyük Taarruz'un başlangıç tarihi nedir?",
+          "secenekler": [
+            "26 Ağustos 1922",
+            "30 Ağustos 1922",
+            "9 Eylül 1922",
+            "11 Ekim 1922"
+          ],
+          "dogruCevap": "26 Ağustos 1922",
+          "aciklama": "Büyük Taarruz 26 Ağustos sabahı başlamıştır."
+        },
+        {
+          "soru": "İzmir'in kurtuluş tarihi hangisidir?",
+          "secenekler": [
+            "9 Eylül 1922",
+            "26 Ağustos 1922",
+            "30 Ağustos 1922",
+            "11 Ekim 1922"
+          ],
+          "dogruCevap": "9 Eylül 1922",
+          "aciklama": "Büyük Taarruz'un son aşamasında İzmir kurtarılmıştır."
+        },
+        {
+          "soru": "Sakarya Meydan Muharebesi kaç gün sürmüştür?",
+          "secenekler": [
+            "22 gün 22 gece",
+            "15 gün",
+            "30 gün",
+            "10 gün"
+          ],
+          "dogruCevap": "22 gün 22 gece",
+          "aciklama": "23 Ağustos-13 Eylül 1921 tarihleri arasında sürmüştür."
+        },
+        {
+          "soru": "I. İnönü Zaferi'nin kazanılmasında hangi komutan önemli rol oynamıştır?",
+          "secenekler": [
+            "İsmet Paşa",
+            "Fevzi Paşa",
+            "Kazım Karabekir",
+            "Ali Fuat Paşa"
+          ],
+          "dogruCevap": "İsmet Paşa",
+          "aciklama": "Batı Cephesi Komutanı İsmet Paşa bu zaferde önemli rol oynamıştır."
+        },
+        {
+          "soru": "Büyük Taarruz'da ilk hedef neresi olmuştur?",
+          "secenekler": [
+            "Afyon-Kocatepe",
             "İzmir",
-            "Adana"
+            "Eskişehir",
+            "Bursa"
           ],
-          "dogruCevap": "İzmir"
+          "dogruCevap": "Afyon-Kocatepe",
+          "aciklama": "Taarruzun ilk hedefi Afyon-Kocatepe bölgesidir."
         },
         {
-          "soru": "Sakarya Meydan Muharebesi'nde, Türk ordusunun zafer kazanmasının ardından hangi stratejik adımlar atılmıştır?",
-          "secenekler": [
-            "Mudanya Mütarekesi'ne başlanmıştır",
-            "Yunanlılarla silah bırakma görüşmeleri yapılmıştır",
-            "Büyük Taarruz için hazırlıklar yapılmıştır",
-            "Türk ordusu barış görüşmelerine katılmaya karar vermiştir"
-          ],
-          "dogruCevap": "Büyük Taarruz için hazırlıklar yapılmıştır"
-        },
-        {
-          "soru": "Kurtuluş Savaşı'nda, Yunan ordusunun Türk topraklarından çekilmesinin ardından hangi gelişme yaşanmıştır?",
-          "secenekler": [
-            "Lozan Konferansı başlamıştır",
-            "Fransa ile barış görüşmeleri yapılmıştır",
-            "Türk hükümeti İstanbul'a taşınmıştır",
-            "Yunanlılarla yeniden savaş başlamıştır"
-          ],
-          "dogruCevap": "Lozan Konferansı başlamıştır"
-        },
-        {
-          "soru": "Kurtuluş Savaşı'nda, hangi cephede yapılan muharebelerde, Türk ordusunun en ağır kayıpları verilmiştir?",
-          "secenekler": [
-            "Güney Cephesi",
-            "Doğu Cephesi",
-            "Batı Cephesi",
-            "İç Anadolu Cephesi"
-          ],
-          "dogruCevap": "Batı Cephesi"
-        },
-        {
-          "soru": "İnönü II. Muharebesi'nin Türk zaferiyle sonuçlanmasının ardından, hangi şehirde zafer coşkusu yaşanmıştır?",
-          "secenekler": [
-            "Ankara",
-            "İzmir",
-            "İstanbul",
-            "Eskişehir"
-          ],
-          "dogruCevap": "Ankara"
-        },
-        {
-          "soru": "İzmir'in kurtuluşuna giden yol hangi muharebe ile açılmıştır?",
-          "secenekler": [
-            "Büyük Taarruz",
-            "Sakarya Meydan Muharebesi",
-            "İnönü II. Muharebesi",
-            "Dumlupınar Meydan Muharebesi"
-          ],
-          "dogruCevap": "Büyük Taarruz"
-        },
-        {
-          "soru": "Kurtuluş Savaşı sırasında, Türk halkı hangi cephedeki zaferleri coşkuyla kutlamıştır?",
-          "secenekler": [
-            "İnönü",
-            "Sakarya",
-            "Büyük Taarruz",
-            "Dumlupınar"
-          ],
-          "dogruCevap": "İnönü"
-        },
-        {
-          "soru": "Büyük Taarruz'dan sonra, Yunanlıların Türk topraklarından tamamen çekilmesinin ardından hangi bölgeye geçilmiştir?",
-          "secenekler": [
-            "İzmir",
-            "Afyonkarahisar",
-            "Bursa",
-            "Ankara"
-          ],
-          "dogruCevap": "İzmir"
-        },
-        {
-          "soru": "Kurtuluş Savaşı'nda, Türk ordusunun Yunanlılarla en uzun süre çatıştığı cephe hangi cephedir?",
-          "secenekler": [
-            "Güney Cephesi",
-            "Batı Cephesi",
-            "Doğu Cephesi",
-            "İç Anadolu Cephesi"
-          ],
-          "dogruCevap": "Batı Cephesi"
-        },
-        {
-          "soru": "Sakarya Meydan Muharebesi'nde Türk ordusunun zafer kazanmasından sonra, hangi strateji izlenmiştir?",
-          "secenekler": [
-            "Türk ordusu, Yunanlılarla barış görüşmeleri başlatmıştır",
-            "Büyük Taarruz için hazırlık yapılmıştır",
-            "Türk ordusu İstanbul'a saldırıya geçmiştir",
-            "Türk ordusu silah bırakma anlaşması yapmıştır"
-          ],
-          "dogruCevap": "Büyük Taarruz için hazırlık yapılmıştır"
-        },
-        {
-          "soru": "İnönü I. Muharebesi sonrasında Türk ordusunun zafer kazanmasının ardından, hangi önemli gelişme yaşanmıştır?",
-          "secenekler": [
-            "Fransa ile barış yapılmıştır",
-            "Yunanlılarla silah bırakma anlaşması yapılmıştır",
-            "Moskova Antlaşması imzalanmıştır",
-            "Mudanya Mütarekesi yapılmıştır"
-          ],
-          "dogruCevap": "Moskova Antlaşması imzalanmıştır"
-        },
-        {
-          "soru": "Sakarya Meydan Muharebesi sonrasında, Türk ordusunun kazandığı zaferin ardından hangi mütareke imzalanmıştır?",
-          "secenekler": [
-            "Mudanya Mütarekesi",
-            "Lozan Antlaşması",
-            "Sevr Antlaşması",
-            "Paris Antlaşması"
-          ],
-          "dogruCevap": "Mudanya Mütarekesi"
-        },
-        {
-          "soru": "Kurtuluş Savaşı'nda, hangi muharebede Türk ordusu Yunan ordusunu tamamen geri çekilmek zorunda bırakmıştır?",
-          "secenekler": [
-            "İnönü I. Muharebesi",
-            "Büyük Taarruz",
-            "Sakarya Meydan Muharebesi",
-            "Dumlupınar Meydan Muharebesi"
-          ],
-          "dogruCevap": "Büyük Taarruz"
-        },
-        {
-          "soru": "Kurtuluş Savaşı'nda, Yunanlıların Anadolu'dan çekilmesinin ardından hangi antlaşma imzalanmıştır?",
-          "secenekler": [
-            "Mudanya Mütarekesi",
-            "Lozan Antlaşması",
-            "Sevr Antlaşması",
-            "Moskova Antlaşması"
-          ],
-          "dogruCevap": "Lozan Antlaşması"
-        }
-      ],
-      "Atatürk İnkılapları": [
-        {
-          "soru": "Atatürk'ün gerçekleştirdiği hangi inkılap, Osmanlı İmparatorluğu'ndan kalan dini temelli hukuk sistemini ortadan kaldırarak, yerine laik bir hukuk sistemi getirmiştir?",
-          "secenekler": [
-            "Harf İnkılabı",
-            "Eğitim ve Öğretim İnkılabı",
-            "Tevhid-i Tedrisat Kanunu",
-            "Medeni Kanun"
-          ],
-          "dogruCevap": "Medeni Kanun"
-        },
-        {
-          "soru": "Cumhuriyetin ilanından sonra yapılan ve halkın devletle olan ilişkisini doğrudan etkileyen inkılap hangisidir?",
-          "secenekler": [
-            "Cumhuriyetin ilanı",
-            "Saltanatın kaldırılması",
-            "Halifeliğin kaldırılması",
-            "Lâiklik ilkesi"
-          ],
-          "dogruCevap": "Saltanatın kaldırılması"
-        },
-        {
-          "soru": "Atatürk, eğitim alanında yapılan inkılaplardan hangisiyle, Osmanlı'dan miras kalan medrese eğitimi yerine modern bir eğitim sisteminin oluşturulmasını hedeflemiştir?",
-          "secenekler": [
-            "Tevhid-i Tedrisat Kanunu",
-            "Harf İnkılabı",
-            "Köy Enstitüleri",
-            "Türk Tarih Kurumu'nun kurulması"
-          ],
-          "dogruCevap": "Tevhid-i Tedrisat Kanunu"
-        },
-        {
-          "soru": "Atatürk'ün gerçekleştirdiği hangi inkılap, Osmanlı Devleti'nde kullanılan Arap harflerini terk edip, Latin harflerine dayalı bir alfabenin kabul edilmesini sağlamıştır?",
-          "secenekler": [
-            "Harf İnkılabı",
-            "Eğitim İnkılabı",
-            "Hukuk İnkılabı",
-            "Dil İnkılabı"
-          ],
-          "dogruCevap": "Harf İnkılabı"
-        },
-        {
-          "soru": "Atatürk, Türk milletinin egemenliğini pekiştirmek amacıyla, hangi inkılapla padişahın yönetimdeki rolünü sona erdirmiştir?",
-          "secenekler": [
-            "Cumhuriyetin ilanı",
-            "Saltanatın kaldırılması",
-            "Halkçılık İlkesi",
-            "Atatürk İlke ve İnkılapları"
-          ],
-          "dogruCevap": "Saltanatın kaldırılması"
-        },
-        {
-          "soru": "Cumhuriyetin ilanından sonra yapılan ve Türk halkına egemenlik yetkisini veren inkılap hangisidir?",
-          "secenekler": [
-            "Cumhuriyetin ilanı",
-            "Saltanatın kaldırılması",
-            "Halifeliğin kaldırılması",
-            "Yeni Türk Devleti'nin kurulması"
-          ],
-          "dogruCevap": "Cumhuriyetin ilanı"
-        },
-        {
-          "soru": "Atatürk, yeni bir takvim kullanılmasını sağlayarak hangi inkılapla halkın hayatını daha düzenli hale getirmeyi amaçlamıştır?",
-          "secenekler": [
-            "Takvim İnkılabı",
-            "Harf İnkılabı",
-            "Eğitim İnkılabı",
-            "Şapka İnkılabı"
-          ],
-          "dogruCevap": "Takvim İnkılabı"
-        },
-        {
-          "soru": "Atatürk, Türk dilini yabancı kelimelerden arındırmak amacıyla hangi kurumu kurmuştur?",
-          "secenekler": [
-            "Türk Dil Kurumu",
-            "Türk Tarih Kurumu",
-            "Türk İslam Eserleri Müzesi",
-            "Türk Devleti Arşivleri"
-          ],
-          "dogruCevap": "Türk Dil Kurumu"
-        },
-        {
-          "soru": "Atatürk, Türk halkının modern bir yaşam biçimine kavuşabilmesi için hangi inkılapla, batılı bir giyim tarzını kabul etmiştir?",
-          "secenekler": [
-            "Şapka İnkılabı",
-            "Harf İnkılabı",
-            "Kadın Hakları İnkılabı",
-            "Soyadı Kanunu"
-          ],
-          "dogruCevap": "Şapka İnkılabı"
-        },
-        {
-          "soru": "Cumhuriyet'in ilk yıllarında yapılan hangi inkılap, vatandaşların kimlik tespitini kolaylaştırmak ve modern devlet yapısına uyum sağlamak amacıyla getirilmiştir?",
-          "secenekler": [
-            "Soyadı Kanunu",
-            "Cumhuriyetin ilanı",
-            "Harf İnkılabı",
-            "Saltanatın kaldırılması"
-          ],
-          "dogruCevap": "Soyadı Kanunu"
-        },
-        {
-          "soru": "Atatürk, hangi inkılapla egemenliğin kayıtsız şartsız millete ait olduğunu vurgulamıştır?",
-          "secenekler": [
-            "Cumhuriyetin ilanı",
-            "Saltanatın kaldırılması",
-            "Ulusal Egemenlik",
-            "Lâiklik ilkesi"
-          ],
-          "dogruCevap": "Cumhuriyetin ilanı"
-        },
-        {
-          "soru": "Atatürk, hangi inkılapla devletin resmi dininin İslamiyet olduğu inancını ortadan kaldırarak, laik bir sistem oluşturmuştur?",
-          "secenekler": [
-            "Laiklik ilkesi",
-            "Cumhuriyetin ilanı",
-            "Eğitim ve Öğretim İnkılabı",
-            "Medeni Kanun"
-          ],
-          "dogruCevap": "Laiklik ilkesi"
-        },
-        {
-          "soru": "Atatürk'ün gerçekleştirdiği hangi inkılap, halkın egemenliğini artırarak, halkın yerel yönetimlere katılımını sağlamıştır?",
-          "secenekler": [
-            "Belediye İnkılabı",
-            "Türk Lirası'nın kabulü",
-            "Demokratikleşme",
-            "Cumhuriyetin ilanı"
-          ],
-          "dogruCevap": "Belediye İnkılabı"
-        },
-        {
-          "soru": "Atatürk, Türk milletinin tarihini bilimsel bir şekilde incelemek amacıyla hangi kurumu kurmuştur?",
-          "secenekler": [
-            "Türk Tarih Kurumu",
-            "Türk Dil Kurumu",
-            "TCDD",
-            "Yükseköğretim Kurulu"
-          ],
-          "dogruCevap": "Türk Tarih Kurumu"
-        },
-        {
-          "soru": "Türkiye Cumhuriyeti'ni laik bir devlet yapısına kavuşturan en önemli inkılaplar hangileridir?",
-          "secenekler": [
-            "Halifeliğin kaldırılması ve Tevhid-i Tedrisat Kanunu",
-            "Medeni Kanun ve Harf İnkılabı",
-            "Saltanatın kaldırılması ve Cumhuriyetin ilanı",
-            "Şapka Kanunu ve Takvim İnkılabı"
-          ],
-          "dogruCevap": "Halifeliğin kaldırılması ve Tevhid-i Tedrisat Kanunu"
-        },
-        {
-          "soru": "Atatürk'ün gerçekleştirdiği hangi inkılapla, halk arasında halk müziği, şiir ve sanat anlayışı gibi geleneksel unsurlar halk edebiyatında kullanılmaya başlanmıştır?",
-          "secenekler": [
-            "Dil İnkılabı",
-            "Sanat İnkılabı",
-            "Halkçı Eğitim İnkılabı",
-            "Harf İnkılabı"
-          ],
-          "dogruCevap": "Dil İnkılabı"
-        },
-        {
-          "soru": "Atatürk'ün uyguladığı hangi inkılapla, eski Osmanlı İmparatorluğu'nun egemenliğindeki topraklarda tek tip bir medeniyet anlayışı kurulmuştur?",
-          "secenekler": [
-            "Eğitim ve Öğretim İnkılabı",
-            "Harf İnkılabı",
-            "Ulusal Egemenlik",
-            "Hukuk İnkılabı"
-          ],
-          "dogruCevap": "Eğitim ve Öğretim İnkılabı"
-        },
-        {
-          "soru": "Cumhuriyetin ilanı sonrasında yapılan hangi inkılap, kadınların eğitimde ve kamu alanlarında daha fazla yer almasını sağlamıştır?",
-          "secenekler": [
-            "Kadınlara seçme ve seçilme hakkı verilmesi",
-            "Kadın Hakları İnkılabı",
-            "Kadın Hakları Yasası",
-            "Kadınlar İçin Çalışma Alanları Oluşturulması"
-          ],
-          "dogruCevap": "Kadınlara seçme ve seçilme hakkı verilmesi"
-        },
-        {
-          "soru": "Atatürk'ün yaptığı hangi inkılapla, hukuk sisteminde çağdaş ve eşitlikçi bir yaklaşım benimsenmiştir?",
-          "secenekler": [
-            "Medeni Kanun",
-            "Hukuk İnkılabı",
-            "Tevhid-i Tedrisat Kanunu",
-            "Anayasada Değişiklik Yapılması"
-          ],
-          "dogruCevap": "Medeni Kanun"
-        }
-      ],
-      "Atatürk İlkeleri": [
-        {
-          "soru": "İnkılapçılık ilkesi hangi amaçla benimsenmiştir?",
-          "secenekler": [
-            "Toplumun sürekli yenilenmesi ve çağdaşlaşması",
-            "Ekonomik kalkınmanın sağlanması",
-            "Dış politikanın düzenlenmesi",
-            "Eğitim sisteminin değiştirilmesi"
-          ],
-          "dogruCevap": "Toplumun sürekli yenilenmesi ve çağdaşlaşması"
-        },
-        {
-          "soru": "Devletçilik ilkesinin 1930'larda uygulanmasının temel sebebi nedir?",
-          "secenekler": [
-            "1929 Dünya Ekonomik Buhranı'nın etkileri",
-            "Özel sektörün güçlenmesi",
-            "Dış ticaret fazlası",
-            "Tarımsal üretimin artması"
-          ],
-          "dogruCevap": "1929 Dünya Ekonomik Buhranı'nın etkileri"
-        },
-        {
-          "soru": "Laiklik ilkesinin uygulanmasında atılan ilk önemli adım hangisidir?",
-          "secenekler": [
-            "Halifeliğin kaldırılması",
-            "Medeni Kanun'un kabulü",
-            "Tekke ve zaviyelerin kapatılması",
-            "Latin alfabesinin kabulü"
-          ],
-          "dogruCevap": "Halifeliğin kaldırılması"
-        },
-        {
-          "soru": "Milliyetçilik ilkesinin Türk Tarih Tezi ile ilişkisi nedir?",
-          "secenekler": [
-            "Türk milletinin tarihteki yerini ve önemini vurgulamak",
-            "Diğer milletleri dışlamak",
-            "Dini değerleri öne çıkarmak",
-            "Ekonomik bağımsızlığı sağlamak"
-          ],
-          "dogruCevap": "Türk milletinin tarihteki yerini ve önemini vurgulamak"
-        },
-        {
-          "soru": "Halkçılık ilkesinin eğitim alanındaki en önemli yansıması hangisidir?",
-          "secenekler": [
-            "Tevhid-i Tedrisat Kanunu",
-            "Medeni Kanun",
-            "İş Kanunu",
-            "Toprak Reformu"
-          ],
-          "dogruCevap": "Tevhid-i Tedrisat Kanunu"
-        },
-        {
-          "soru": "Cumhuriyetçilik ilkesinin ekonomik hayattaki yansıması hangisidir?",
-          "secenekler": [
-            "Milli ekonominin kurulması",
-            "Yabancı sermayenin ülkeye girişi",
-            "Tarımsal üretimin artırılması",
-            "Dış ticaretin geliştirilmesi"
-          ],
-          "dogruCevap": "Milli ekonominin kurulması"
-        },
-        {
-          "soru": "İnkılapçılık ilkesinin kadın hakları alanındaki en önemli yansıması nedir?",
-          "secenekler": [
-            "Kadınlara siyasi hakların verilmesi",
-            "Kılık kıyafet devrimi",
-            "Medeni Kanun'un kabulü",
-            "Eğitim birliği"
-          ],
-          "dogruCevap": "Kadınlara siyasi hakların verilmesi"
-        },
-        {
-          "soru": "Devletçilik ilkesi kapsamında kurulan ilk önemli sanayi kuruluşu hangisidir?",
-          "secenekler": [
-            "Sümerbank",
-            "Etibank",
-            "İş Bankası",
-            "Merkez Bankası"
-          ],
-          "dogruCevap": "Sümerbank"
-        },
-        {
-          "soru": "Laiklik ilkesinin hukuk alanındaki en önemli yansıması hangisidir?",
-          "secenekler": [
-            "Türk Medeni Kanunu'nun kabulü",
-            "Tevhid-i Tedrisat Kanunu",
-            "Soyadı Kanunu",
-            "Kılık Kıyafet Kanunu"
-          ],
-          "dogruCevap": "Türk Medeni Kanunu'nun kabulü"
-        },
-        {
-          "soru": "Milliyetçilik ilkesinin dil alanındaki en önemli yansıması hangisidir?",
-          "secenekler": [
-            "Türk Dil Kurumu'nun kurulması",
-            "Harf İnkılabı",
-            "Millet Mektepleri",
-            "Halkevleri"
-          ],
-          "dogruCevap": "Türk Dil Kurumu'nun kurulması"
-        }
-      ],
-      "Partiler ve Partileşme Dönemi (İç Politika)": [
-        {
-          "soru": "Türkiye Cumhuriyeti'nin ilk siyasi partisi hangisidir?",
-          "secenekler": [
-            "Cumhuriyet Halk Partisi",
-            "Serbest Cumhuriyet Fırkası",
-            "İttihat ve Terakki Cemiyeti",
-            "Halk Partisi"
-          ],
-          "dogruCevap": "Cumhuriyet Halk Partisi"
-        },
-        {
-          "soru": "İlk çok partili hayata geçiş denemesi Türkiye'de hangi partinin kurulmasıyla gerçekleşmiştir?",
-          "secenekler": [
-            "Serbest Cumhuriyet Fırkası",
-            "Adalet Partisi",
-            "Milliyetçi Hareket Partisi",
-            "Cumhuriyet Halk Partisi"
-          ],
-          "dogruCevap": "Serbest Cumhuriyet Fırkası"
-        },
-        {
-          "soru": "Serbest Cumhuriyet Fırkası, hangi dönemde kurulan Türkiye'nin ilk muhalefet partisidir?",
-          "secenekler": [
-            "1920'ler",
-            "1930'lar",
-            "1940'lar",
-            "1950'ler"
-          ],
-          "dogruCevap": "1930'lar"
-        },
-        {
-          "soru": "Cumhuriyet Halk Partisi, Cumhuriyet'in ilanından sonra hangi ilkeye dayalı olarak kurulan ilk siyasi partidir?",
-          "secenekler": [
-            "Laiklik",
-            "Cumhuriyetçilik",
-            "Milliyetçilik",
-            "Devletçilik"
-          ],
-          "dogruCevap": "Cumhuriyetçilik"
-        },
-        {
-          "soru": "Türkiye'de çok partili hayata geçişin başarılı olduğu ilk seçim, hangi seçimle gerçekleşmiştir?",
-          "secenekler": [
-            "1946 Seçimleri",
-            "1950 Seçimleri",
-            "1960 Seçimleri",
-            "1973 Seçimleri"
-          ],
-          "dogruCevap": "1950 Seçimleri"
-        },
-        {
-          "soru": "İlk çok partili seçimlere, Türkiye'deki tek parti rejiminin sona ermesinin ardından hangi tarihte gidilmiştir?",
-          "secenekler": [
-            "1946",
-            "1950",
-            "1954",
-            "1960"
-          ],
-          "dogruCevap": "1946"
-        },
-        {
-          "soru": "Adnan Menderes’in liderliğinde 1950'lerde iktidara gelen parti hangisidir?",
-          "secenekler": [
-            "Adalet Partisi",
-            "Cumhuriyet Halk Partisi",
-            "Demokrat Parti",
-            "Milliyetçi Hareket Partisi"
-          ],
-          "dogruCevap": "Demokrat Parti"
-        },
-        {
-          "soru": "Türkiye'deki ilk çok partili dönemin başladığı 1946 seçimlerinde, Cumhuriyet Halk Partisi ile birlikte yarışan parti hangisidir?",
-          "secenekler": [
-            "Serbest Cumhuriyet Fırkası",
-            "Demokrat Parti",
-            "Adalet Partisi",
-            "Milli Kalkınma Partisi"
-          ],
-          "dogruCevap": "Demokrat Parti"
-        },
-        {
-          "soru": "Cumhuriyet Halk Partisi'nin 1950 seçimlerinde iktidarı kaybetmesinin ardından, hangi parti Türkiye'deki iktidarı devralmıştır?",
-          "secenekler": [
-            "Demokrat Parti",
-            "Adalet Partisi",
-            "Milli Birlik Komitesi",
-            "Cumhuriyetçi Köylü Millet Partisi"
-          ],
-          "dogruCevap": "Demokrat Parti"
-        },
-        {
-          "soru": "Cumhuriyet Halk Partisi'nin tek parti döneminde uyguladığı politikaların halk arasında hoşnutsuzluk yaratmasına neden olan faktörlerden biri aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Kalkınma projeleri",
-            "Savaşta başarılı olmaması",
-            "Yabancı sermaye desteği",
-            "Fiyat denetimleri ve içki yasağı"
-          ],
-          "dogruCevap": "Fiyat denetimleri ve içki yasağı"
-        },
-        {
-          "soru": "Türkiye'deki ilk çok partili seçimlerin ardından, 1946 seçimlerinde hangi parti Cumhuriyet Halk Partisi'ne karşı en fazla oy almıştır?",
-          "secenekler": [
-            "Demokrat Parti",
-            "Adalet Partisi",
-            "Milli Kalkınma Partisi",
-            "Halkçı Parti"
-          ],
-          "dogruCevap": "Demokrat Parti"
-        },
-        {
-          "soru": "Türkiye Cumhuriyeti'nde 1960'lı yıllarda iktidara gelen partilerden hangisi, milli kalkınma ve demokrasi adına büyük bir program sunmuştur?",
-          "secenekler": [
-            "Adalet Partisi",
-            "Cumhuriyet Halk Partisi",
-            "Milliyetçi Hareket Partisi",
-            "Demokrat Parti"
-          ],
-          "dogruCevap": "Adalet Partisi"
-        },
-        {
-          "soru": "Türkiye'deki hangi siyasi parti, 1960 darbesi sonrası kurulan hükümetin içinde yer alan ilk siyasi parti olmuştur?",
-          "secenekler": [
-            "Cumhuriyet Halk Partisi",
-            "Adalet Partisi",
-            "Demokrat Parti",
-            "Milliyetçi Hareket Partisi"
-          ],
-          "dogruCevap": "Cumhuriyet Halk Partisi"
-        },
-        {
-          "soru": "1950 seçimlerinde Cumhuriyet Halk Partisi'nin kaybetmesinin en önemli nedenlerinden biri aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Cumhuriyetçi Köylü Millet Partisi'nin kurulması",
-            "İktidar partisinin halkla yeterince iletişim kuramaması",
-            "Demokrat Parti'nin güçlü bir seçim kampanyası yürütmesi",
-            "Adalet Partisi'nin seçimlere katılmaması"
-          ],
-          "dogruCevap": "Demokrat Parti'nin güçlü bir seçim kampanyası yürütmesi"
-        },
-        {
-          "soru": "Demokrat Parti'nin 1950'li yıllarda izlediği hangi politika, özellikle köylüler arasında büyük destek bulmasına yol açmıştır?",
-          "secenekler": [
-            "Kalkınma projeleri",
-            "Tartışmalı dış politika",
-            "Serbest piyasa ekonomisi",
-            "Köylüye toprak dağıtımı"
-          ],
-          "dogruCevap": "Köylüye toprak dağıtımı"
-        },
-        {
-          "soru": "Türkiye Cumhuriyeti'ndeki ilk çok partili dönemde, hangi olay parti içi çatışmaların büyümesine neden olmuştur?",
-          "secenekler": [
-            "Terakkiperver Cumhuriyet Fırkası'nın kapatılması",
-            "Şeyh Sait İsyanı",
-            "Serbest Cumhuriyet Fırkası'nın kapatılması",
-            "Menemen Olayı"
-          ],
-          "dogruCevap": "Terakkiperver Cumhuriyet Fırkası'nın kapatılması"
-        },
-        {
-          "soru": "İkinci Dünya Savaşı sırasında, Türkiye’de tek partili yönetimi denetleyen oluşum hangi partinin oluşturulmasıyla sona ermiştir?",
-          "secenekler": [
-            "Cumhuriyet Halk Partisi",
-            "Serbest Cumhuriyet Fırkası",
-            "Demokrat Parti",
-            "Milli Kalkınma Partisi"
-          ],
-          "dogruCevap": "Demokrat Parti"
-        },
-        {
-          "soru": "Cumhuriyet Halk Partisi'nin tek parti döneminde uyguladığı baskıcı politikalar hangi muhalefet partisinin ortaya çıkmasına yol açmıştır?",
-          "secenekler": [
-            "Serbest Cumhuriyet Fırkası",
-            "Demokrat Parti",
-            "Milli Birlik Komitesi",
-            "İttihat ve Terakki Cemiyeti"
-          ],
-          "dogruCevap": "Serbest Cumhuriyet Fırkası"
-        },
-        {
-          "soru": "İkinci Dünya Savaşı sonrasında, Türkiye'de hangi olay çok partili hayata geçişin önünü açmıştır?",
-          "secenekler": [
-            "Serbest Cumhuriyet Fırkası'nın kuruluşu",
-            "1946 Seçimleri",
-            "İzmir İktisat Kongresi",
-            "Atatürk'ün vefatı"
-          ],
-          "dogruCevap": "1946 Seçimleri"
-        },
-        {
-          "soru": "Terakkiperver Cumhuriyet Fırkası'nın kapatılmasının temel gerekçesi nedir?",
-          "secenekler": [
-            "Dini siyasete alet etmek",
-            "Ekonomik politikalara muhalefet",
-            "Dış politikayı eleştirmek",
-            "Askeri müdahale çağrısı yapmak"
-          ],
-          "dogruCevap": "Dini siyasete alet etmek"
-        },
-        {
-          "soru": "Serbest Cumhuriyet Fırkası'nın kurucusu kimdir?",
-          "secenekler": [
-            "Fethi Okyar",
-            "Celal Bayar",
-            "Rauf Orbay",
-            "Kazım Karabekir"
-          ],
-          "dogruCevap": "Fethi Okyar"
-        },
-        {
-          "soru": "1946-1950 yılları arasında Demokrat Parti'nin en çok eleştirdiği konu hangisidir?",
-          "secenekler": [
-            "Seçim sistemi ve anti-demokratik uygulamalar",
-            "Dış politika kararları",
-            "Ekonomik kalkınma programları",
-            "Eğitim politikaları"
-          ],
-          "dogruCevap": "Seçim sistemi ve anti-demokratik uygulamalar"
-        },
-        {
-          "soru": "1950 seçimlerinde Demokrat Parti'nin seçim sloganı nedir?",
-          "secenekler": [
-            "Yeter! Söz Milletindir",
-            "Yeni Türkiye",
-            "Milli İrade",
-            "Demokrasi ve Kalkınma"
-          ],
-          "dogruCevap": "Yeter! Söz Milletindir"
-        },
-        {
-          "soru": "Demokrat Parti döneminde (1950-1960) uygulanan ekonomi politikasının temel özelliği nedir?",
-          "secenekler": [
-            "Liberal ekonomi politikası",
-            "Devletçi ekonomi politikası",
-            "Karma ekonomi modeli",
-            "Sosyalist ekonomi modeli"
-          ],
-          "dogruCevap": "Liberal ekonomi politikası"
-        },
-        {
-          "soru": "1954 seçimlerinde Demokrat Parti'nin oy oranını artırmasının temel sebebi nedir?",
-          "secenekler": [
-            "Ekonomik kalkınma ve refah artışı",
-            "Dış politikadaki başarılar",
-            "Muhalefetin zayıflığı",
-            "Seçim sisteminin değiştirilmesi"
-          ],
-          "dogruCevap": "Ekonomik kalkınma ve refah artışı"
-        },
-        {
-          "soru": "1957 seçimlerinde Demokrat Parti'nin oy kaybetmesinin temel sebebi nedir?",
-          "secenekler": [
-            "Ekonomik sorunlar ve enflasyon",
-            "Dış politika başarısızlıkları",
-            "Muhalefet partilerinin birleşmesi",
-            "Askeri müdahale tehdidi"
-          ],
-          "dogruCevap": "Ekonomik sorunlar ve enflasyon"
-        },
-        {
-          "soru": "Cumhuriyet Halk Partisi'nin 1957 seçimlerinde kullandığı temel propaganda konusu nedir?",
-          "secenekler": [
-            "Demokratik haklar ve özgürlükler",
-            "Ekonomik kalkınma",
-            "Dış politika",
-            "Sosyal adalet"
-          ],
-          "dogruCevap": "Demokratik haklar ve özgürlükler"
-        },
-        {
-          "soru": "1960 öncesi dönemde çıkarılan Tahkikat Komisyonu'nun kurulma amacı nedir?",
-          "secenekler": [
-            "Muhalefet faaliyetlerini denetlemek",
-            "Ekonomik sorunları araştırmak",
-            "Yolsuzlukları incelemek",
-            "Dış politikayı değerlendirmek"
-          ],
-          "dogruCevap": "Muhalefet faaliyetlerini denetlemek"
-        }
-      ],
-      "Atatürk Dönemi Türk Dış Politikası": [
-        {
-          "soru": "Hatay'ın anavatana katılması sürecinde Türkiye hangi ülke ile diplomatik müzakereler yürütmüştür?",
+          "soru": "Sakarya Zaferi'nden sonra hangi devlet TBMM ile antlaşma imzalamıştır?",
           "secenekler": [
             "Fransa",
             "İngiltere",
             "İtalya",
             "Yunanistan"
           ],
-          "dogruCevap": "Fransa"
+          "dogruCevap": "Fransa",
+          "aciklama": "20 Ekim 1921'de Ankara Antlaşması imzalanmıştır."
         },
         {
-          "soru": "1932 yılında Türkiye'nin Milletler Cemiyeti'ne üye olmasının temel sebebi nedir?",
+          "soru": "Tekâlif-i Milliye Emirleri kaç tanedir?",
           "secenekler": [
-            "Uluslararası barışa katkı sağlamak",
-            "Ekonomik yardım almak",
-            "Askeri ittifak kurmak",
-            "Sömürge elde etmek"
+            "10",
+            "8",
+            "12",
+            "15"
           ],
-          "dogruCevap": "Uluslararası barışa katkı sağlamak"
+          "dogruCevap": "10",
+          "aciklama": "7-8 Ağustos 1921'de 10 emir yayınlanmıştır."
         },
         {
-          "soru": "1934 yılında imzalanan Balkan Antantı'nın temel amacı nedir?",
+          "soru": "Başkomutanlık Meydan Muharebesi'nin diğer adı nedir?",
           "secenekler": [
-            "Balkanlar'da statükoyu korumak",
-            "Ekonomik işbirliği sağlamak",
-            "Askeri üstünlük kurmak",
-            "Sınırları genişletmek"
+            "30 Ağustos Zaferi",
+            "Dumlupınar Zaferi",
+            "Büyük Zafer",
+            "Hepsi"
           ],
-          "dogruCevap": "Balkanlar'da statükoyu korumak"
+          "dogruCevap": "Hepsi",
+          "aciklama": "Bu zafer üç isimle de anılmaktadır."
         },
         {
-          "soru": "Montreux Boğazlar Sözleşmesi'nin imzalanmasında etkili olan uluslararası gelişme hangisidir?",
+          "soru": "Yunan ordusunun başkomutanı kimdi?",
           "secenekler": [
-            "İtalya'nın Habeşistan'ı işgali",
-            "Almanya'nın silahlanması",
-            "Japonya'nın yayılmacı politikası",
-            "Sovyetler Birliği'nin kurulması"
+            "General Trikupis",
+            "General Papulas",
+            "Venizelos",
+            "Konstantin"
           ],
-          "dogruCevap": "İtalya'nın Habeşistan'ı işgali"
-        },
+          "dogruCevap": "General Trikupis",
+          "aciklama": "General Trikupis Büyük Taarruz'da esir alınmıştır."
+        }
+      ],
+      "Kurtuluş Savaşı Muharebeler Dönemi 2": [
         {
-          "soru": "1937'de imzalanan Sadabad Paktı hangi ülkeler arasında imzalanmıştır?",
+          "soru": "Kurtuluş Savaşı'nda, Sakarya Meydan Muharebesi öncesinde Türk ordusunun karşılaştığı en büyük zorluk neydi?",
           "secenekler": [
-            "Türkiye-İran-Irak-Afganistan",
-            "Türkiye-Yunanistan-Bulgaristan-Yugoslavya",
-            "Türkiye-Suriye-Lübnan-Ürdün",
-            "Türkiye-Mısır-Suudi Arabistan-Yemen"
+            "Türk ordusunun cephane yetersizliği",
+            "Yunan ordusunun güçlü savunması",
+            "Türk halkının moral bozukluğu",
+            "Fransızların müdahalesi"
           ],
-          "dogruCevap": "Türkiye-İran-Irak-Afganistan"
+          "dogruCevap": "Türk ordusunun cephane yetersizliği",
+          "aciklama": "Tekâlif-i Milliye Emirleri bu sorunu çözmek için çıkarılmıştır."
         },
         {
-          "soru": "Musul sorununun çözümünde hangi uluslararası kuruluş arabuluculuk yapmıştır?",
+          "soru": "Sakarya Meydan Muharebesi sonrasında Yunanlıların tutumu ne olmuştur?",
           "secenekler": [
-            "Milletler Cemiyeti",
-            "Birleşmiş Milletler",
-            "NATO",
-            "Avrupa Birliği"
+            "Savunma pozisyonuna geçmişlerdir",
+            "Barış görüşmeleri başlatmışlardır",
+            "Ankara'ya saldırmaya devam etmişlerdir",
+            "İzmir'e çekilmişlerdir"
           ],
-          "dogruCevap": "Milletler Cemiyeti"
+          "dogruCevap": "Savunma pozisyonuna geçmişlerdir",
+          "aciklama": "Yunanlılar Sakarya yenilgisinden sonra savunmaya çekilmişlerdir."
         },
         {
-          "soru": "Türkiye-Yunanistan ilişkilerinin düzelmesinde etkili olan gelişme hangisidir?",
+          "soru": "I. İnönü Muharebesi sonrasında hangi önemli antlaşma imzalanmıştır?",
           "secenekler": [
-            "Venizelos'un Ankara ziyareti",
+            "Moskova Antlaşması",
             "Lozan Antlaşması",
-            "Balkan Antantı",
-            "Nüfus mübadelesi"
+            "Mudanya Mütarekesi",
+            "Sevr Antlaşması"
           ],
-          "dogruCevap": "Venizelos'un Ankara ziyareti"
+          "dogruCevap": "Moskova Antlaşması",
+          "aciklama": "16 Mart 1921'de Sovyetler Birliği ile Moskova Antlaşması imzalanmıştır."
+        },
+        {
+          "soru": "Kurtuluş Savaşı sırasında Türk ordusunun ilk büyük başarısı hangi muharebe ile elde edilmiştir?",
+          "secenekler": [
+            "İnönü I. Muharebesi",
+            "Sakarya Meydan Muharebesi",
+            "Büyük Taarruz",
+            "Dumlupınar Meydan Muharebesi"
+          ],
+          "dogruCevap": "İnönü I. Muharebesi",
+          "aciklama": "6-11 Ocak 1921'de kazanılan ilk büyük zaferdir."
+        },
+        {
+          "soru": "Türk ordusunun, Yunanlıları Anadolu'dan tamamen çıkarmak için yaptığı son taarruz hangisidir?",
+          "secenekler": [
+            "Büyük Taarruz",
+            "İnönü II. Muharebesi",
+            "Sakarya Meydan Muharebesi",
+            "Dumlupınar Meydan Muharebesi"
+          ],
+          "dogruCevap": "Büyük Taarruz",
+          "aciklama": "26 Ağustos 1922'de başlayan Büyük Taarruz, kesin zaferle sonuçlanmıştır."
+        },
+        {
+          "soru": "Güney Cephesi'nde hangi şehirlerde önemli direnişler yaşanmıştır?",
+          "secenekler": [
+            "Antep, Maraş, Urfa",
+            "İzmir, Aydın, Manisa",
+            "Konya, Adana, Mersin",
+            "Antalya, Muğla, Denizli"
+          ],
+          "dogruCevap": "Antep, Maraş, Urfa",
+          "aciklama": "Güney Cephesi'nde Fransızlara karşı bu şehirlerde önemli direnişler gerçekleşmiştir."
+        },
+        {
+          "soru": "Sakarya Meydan Muharebesi'nden sonra hangi hazırlıklar yapılmıştır?",
+          "secenekler": [
+            "Büyük Taarruz için hazırlıklar yapılmıştır",
+            "Mudanya Mütarekesi'ne başlanmıştır",
+            "Yunanlılarla silah bırakma görüşmeleri yapılmıştır",
+            "Barış görüşmelerine başlanmıştır"
+          ],
+          "dogruCevap": "Büyük Taarruz için hazırlıklar yapılmıştır",
+          "aciklama": "Bir yıl boyunca Büyük Taarruz için hazırlık yapılmıştır."
+        },
+        {
+          "soru": "Büyük Taarruz'un başarıya ulaşmasından sonra hangi gelişme yaşanmıştır?",
+          "secenekler": [
+            "Mudanya Mütarekesi imzalanmıştır",
+            "Fransa ile barış görüşmeleri yapılmıştır",
+            "Türk hükümeti İstanbul'a taşınmıştır",
+            "Yunanlılarla yeniden savaş başlamıştır"
+          ],
+          "dogruCevap": "Mudanya Mütarekesi imzalanmıştır",
+          "aciklama": "11 Ekim 1922'de Mudanya Mütarekesi imzalanmıştır."
+        },
+        {
+          "soru": "Kurtuluş Savaşı'nda en şiddetli muharebelerin yaşandığı cephe hangisidir?",
+          "secenekler": [
+            "Batı Cephesi",
+            "Güney Cephesi",
+            "Doğu Cephesi",
+            "İç Anadolu Cephesi"
+          ],
+          "dogruCevap": "Batı Cephesi",
+          "aciklama": "En uzun ve en şiddetli muharebeler Batı Cephesi'nde yaşanmıştır."
+        },
+        {
+          "soru": "II. İnönü Zaferi'nden sonra en çok hangi şehirde kutlamalar yapılmıştır?",
+          "secenekler": [
+            "Ankara",
+            "İzmir",
+            "İstanbul",
+            "Eskişehir"
+          ],
+          "dogruCevap": "Ankara",
+          "aciklama": "TBMM'nin bulunduğu Ankara'da büyük kutlamalar yapılmıştır."
+        },
+        {
+          "soru": "İzmir'in kurtuluşu hangi muharebenin sonucudur?",
+          "secenekler": [
+            "Büyük Taarruz",
+            "Sakarya Meydan Muharebesi",
+            "İnönü II. Muharebesi",
+            "Dumlupınar Meydan Muharebesi"
+          ],
+          "dogruCevap": "Büyük Taarruz",
+          "aciklama": "9 Eylül 1922'de İzmir, Büyük Taarruz'un sonucunda kurtarılmıştır."
+        },
+        {
+          "soru": "Sakarya Meydan Muharebesi kaç gün sürmüştür?",
+          "secenekler": [
+            "22 gün 22 gece",
+            "15 gün",
+            "30 gün",
+            "10 gün"
+          ],
+          "dogruCevap": "22 gün 22 gece",
+          "aciklama": "23 Ağustos-13 Eylül 1921 tarihleri arasında sürmüştür."
+        },
+        {
+          "soru": "Büyük Taarruz'un başlangıç tarihi nedir?",
+          "secenekler": [
+            "26 Ağustos 1922",
+            "30 Ağustos 1922",
+            "9 Eylül 1922",
+            "11 Ekim 1922"
+          ],
+          "dogruCevap": "26 Ağustos 1922",
+          "aciklama": "Büyük Taarruz 26 Ağustos sabahı başlamıştır."
+        },
+        {
+          "soru": "Başkomutanlık Meydan Muharebesi hangi tarihte gerçekleşmiştir?",
+          "secenekler": [
+            "30 Ağustos 1922",
+            "26 Ağustos 1922",
+            "9 Eylül 1922",
+            "11 Ekim 1922"
+          ],
+          "dogruCevap": "30 Ağustos 1922",
+          "aciklama": "Büyük Taarruz'un en önemli aşaması 30 Ağustos'ta gerçekleşmiştir."
+        },
+        {
+          "soru": "Mudanya Mütarekesi hangi zaferden sonra imzalanmıştır?",
+          "secenekler": [
+            "Büyük Taarruz",
+            "Sakarya Meydan Muharebesi",
+            "II. İnönü Muharebesi",
+            "I. İnönü Muharebesi"
+          ],
+          "dogruCevap": "Büyük Taarruz",
+          "aciklama": "11 Ekim 1922'de Büyük Taarruz'un başarıya ulaşmasından sonra imzalanmıştır."
+        }
+      ],
+      "Atatürk İnkılapları": [
+        {
+          "soru": "Hangi inkılap, Osmanlı İmparatorluğu'ndan kalan dini temelli hukuk sistemini ortadan kaldırarak, laik hukuk sistemini getirmiştir?",
+          "secenekler": [
+            "Medeni Kanun",
+            "Harf İnkılabı",
+            "Tevhid-i Tedrisat Kanunu",
+            "Şapka Kanunu"
+          ],
+          "dogruCevap": "Medeni Kanun",
+          "aciklama": "17 Şubat 1926'da kabul edilen Medeni Kanun ile laik hukuk sistemine geçilmiştir."
+        },
+        {
+          "soru": "Saltanatın kaldırılmasının ardından hangi önemli inkılap gerçekleştirilmiştir?",
+          "secenekler": [
+            "Cumhuriyetin ilanı",
+            "Halifeliğin kaldırılması",
+            "Tevhid-i Tedrisat Kanunu",
+            "Medeni Kanun"
+          ],
+          "dogruCevap": "Cumhuriyetin ilanı",
+          "aciklama": "1 Kasım 1922'de Saltanatın kaldırılmasından sonra, 29 Ekim 1923'te Cumhuriyet ilan edilmiştir."
+        },
+        {
+          "soru": "Eğitim ve öğretimin birleştirilmesi hangi kanunla sağlanmıştır?",
+          "secenekler": [
+            "Tevhid-i Tedrisat Kanunu",
+            "Harf İnkılabı",
+            "Millet Mektepleri",
+            "Türk Tarih Kurumu'nun kurulması"
+          ],
+          "dogruCevap": "Tevhid-i Tedrisat Kanunu",
+          "aciklama": "3 Mart 1924'te kabul edilen bu kanunla tüm eğitim kurumları Milli Eğitim Bakanlığı'na bağlanmıştır."
+        },
+        {
+          "soru": "Türkiye'yi laik devlet yapısına kavuşturan inkılaplar hangileridir?",
+          "secenekler": [
+            "Halifeliğin kaldırılması, Tevhid-i Tedrisat Kanunu ve Medeni Kanun",
+            "Harf İnkılabı ve Şapka Kanunu",
+            "Saltanatın kaldırılması ve Soyadı Kanunu",
+            "Takvim değişikliği ve Dil İnkılabı"
+          ],
+          "dogruCevap": "Halifeliğin kaldırılması, Tevhid-i Tedrisat Kanunu ve Medeni Kanun",
+          "aciklama": "Bu üç inkılap laikleşme sürecinin temel taşlarıdır."
+        },
+        {
+          "soru": "Latin alfabesine geçiş hangi inkılapla gerçekleşmiştir?",
+          "secenekler": [
+            "Harf İnkılabı",
+            "Dil İnkılabı",
+            "Eğitim İnkılabı",
+            "Tevhid-i Tedrisat Kanunu"
+          ],
+          "dogruCevap": "Harf İnkılabı",
+          "aciklama": "1 Kasım 1928'de kabul edilen Harf İnkılabı ile Latin alfabesine geçilmiştir."
+        },
+        {
+          "soru": "Miladi takvime geçiş hangi inkılapla sağlanmıştır?",
+          "secenekler": [
+            "Takvim, Saat ve Ölçülerde Değişiklik",
+            "Harf İnkılabı",
+            "Medeni Kanun",
+            "Tevhid-i Tedrisat Kanunu"
+          ],
+          "dogruCevap": "Takvim, Saat ve Ölçülerde Değişiklik",
+          "aciklama": "26 Aralık 1925'te kabul edilen bu değişiklikle miladi takvim ve uluslararası saat sistemine geçilmiştir."
+        },
+        {
+          "soru": "Türk dilinin sadeleştirilmesi için hangi kurum kurulmuştur?",
+          "secenekler": [
+            "Türk Dil Kurumu",
+            "Türk Tarih Kurumu",
+            "Millet Mektepleri",
+            "Darülfünun"
+          ],
+          "dogruCevap": "Türk Dil Kurumu",
+          "aciklama": "12 Temmuz 1932'de kurulan TDK, Türk dilinin sadeleştirilmesi çalışmalarını yürütmüştür."
+        },
+        {
+          "soru": "Modern giyim tarzına geçiş hangi kanunla sağlanmıştır?",
+          "secenekler": [
+            "Şapka Kanunu",
+            "Kıyafet Kanunu",
+            "Medeni Kanun",
+            "Tevhid-i Tedrisat Kanunu"
+          ],
+          "dogruCevap": "Şapka Kanunu",
+          "aciklama": "25 Kasım 1925'te kabul edilen Şapka Kanunu ile modern giyim tarzı benimsenmiştir."
+        },
+        {
+          "soru": "Kadınlara siyasi haklar ne zaman tanınmıştır?",
+          "secenekler": [
+            "1934",
+            "1926",
+            "1928",
+            "1930"
+          ],
+          "dogruCevap": "1934",
+          "aciklama": "5 Aralık 1934'te yapılan anayasa değişikliği ile kadınlara milletvekili seçme ve seçilme hakkı verilmiştir."
+        },
+        {
+          "soru": "Soyadı Kanunu hangi tarihte kabul edilmiştir?",
+          "secenekler": [
+            "21 Haziran 1934",
+            "3 Mart 1924",
+            "17 Şubat 1926",
+            "29 Ekim 1923"
+          ],
+          "dogruCevap": "21 Haziran 1934",
+          "aciklama": "Bu kanunla her Türk vatandaşının bir soyadı alması zorunlu hale getirilmiştir."
+        },
+        {
+          "soru": "Türk tarihinin araştırılması için hangi kurum kurulmuştur?",
+          "secenekler": [
+            "Türk Tarih Kurumu",
+            "Türk Dil Kurumu",
+            "Darülfünun",
+            "Millet Mektepleri"
+          ],
+          "dogruCevap": "Türk Tarih Kurumu",
+          "aciklama": "15 Nisan 1931'de kurulan TTK, Türk tarihinin bilimsel araştırmasını yapmaktadır."
+        },
+        {
+          "soru": "Yerel yönetimlerin modernleştirilmesi hangi düzenlemelerle sağlanmıştır?",
+          "secenekler": [
+            "Belediyecilik Alanındaki Düzenlemeler",
+            "Medeni Kanun",
+            "İl İdaresi Kanunu",
+            "Köy Kanunu"
+          ],
+          "dogruCevap": "Belediyecilik Alanındaki Düzenlemeler",
+          "aciklama": "1930'da çıkarılan Belediye Kanunu ile yerel yönetimler modernleştirilmiştir."
+        },
+        {
+          "soru": "Halifelik hangi tarihte kaldırılmıştır?",
+          "secenekler": [
+            "3 Mart 1924",
+            "29 Ekim 1923",
+            "1 Kasım 1922",
+            "17 Şubat 1926"
+          ],
+          "dogruCevap": "3 Mart 1924",
+          "aciklama": "Halifeliğin kaldırılması laikleşme sürecinin önemli adımlarından biridir."
+        },
+        {
+          "soru": "Millet Mektepleri hangi inkılabın uygulanmasını kolaylaştırmak için açılmıştır?",
+          "secenekler": [
+            "Harf İnkılabı",
+            "Tevhid-i Tedrisat Kanunu",
+            "Medeni Kanun",
+            "Dil İnkılabı"
+          ],
+          "dogruCevap": "Harf İnkılabı",
+          "aciklama": "1 Ocak 1929'da açılan Millet Mektepleri yeni alfabenin öğretilmesini sağlamıştır."
+        },
+        {
+          "soru": "Tekke ve zaviyelerin kapatılması hangi alandaki inkılaplarla ilgilidir?",
+          "secenekler": [
+            "Laiklik",
+            "Eğitim",
+            "Hukuk",
+            "Ekonomi"
+          ],
+          "dogruCevap": "Laiklik",
+          "aciklama": "30 Kasım 1925'te çıkarılan kanunla tekke ve zaviyeler kapatılmıştır."
+        }
+      ],
+      "Partiler ve Partileşme Dönemi": [
+        {
+          "soru": "Cumhuriyet döneminin ilk siyasi partisi hangi isimle kurulmuştur?",
+          "secenekler": [
+            "Halk Fırkası",
+            "Cumhuriyet Halk Partisi",
+            "Cumhuriyet Halk Fırkası",
+            "Müdafaa-i Hukuk Cemiyeti"
+          ],
+          "dogruCevap": "Halk Fırkası",
+          "aciklama": "9 Eylül 1923'te Halk Fırkası olarak kurulmuş, sonra ismi değişmiştir."
+        },
+        {
+          "soru": "Çok partili hayata geçiş yolunda ilk deneme hangi parti ile yapılmıştır?",
+          "secenekler": [
+            "Terakkiperver Cumhuriyet Fırkası",
+            "Serbest Cumhuriyet Fırkası",
+            "Demokrat Parti",
+            "Milli Kalkınma Partisi"
+          ],
+          "dogruCevap": "Terakkiperver Cumhuriyet Fırkası",
+          "aciklama": "17 Kasım 1924'te kurulan TCF ilk muhalefet partisidir."
+        },
+        {
+          "soru": "1930'da kurulan ve kontrollü muhalefet denemesi olan parti hangisidir?",
+          "secenekler": [
+            "Serbest Cumhuriyet Fırkası",
+            "Terakkiperver Cumhuriyet Fırkası",
+            "Demokrat Parti",
+            "Milli Kalkınma Partisi"
+          ],
+          "dogruCevap": "Serbest Cumhuriyet Fırkası",
+          "aciklama": "12 Ağustos 1930'da Atatürk'ün isteğiyle Fethi Okyar tarafından kurulmuştur."
+        },
+        {
+          "soru": "II. Dünya Savaşı sonrası çok partili hayata geçişte kurulan ilk parti hangisidir?",
+          "secenekler": [
+            "Milli Kalkınma Partisi",
+            "Demokrat Parti",
+            "Adalet Partisi",
+            "Millet Partisi"
+          ],
+          "dogruCevap": "Milli Kalkınma Partisi",
+          "aciklama": "1945'te Nuri Demirağ tarafından kurulmuştur."
+        },
+        {
+          "soru": "1946-1950 arası dönemde muhalefetin en önemli eleştiri konusu neydi?",
+          "secenekler": [
+            "Seçim güvenliği ve anti-demokratik uygulamalar",
+            "Ekonomik politikalar",
+            "Dış politika kararları",
+            "Eğitim sistemi"
+          ],
+          "dogruCevap": "Seçim güvenliği ve anti-demokratik uygulamalar",
+          "aciklama": "Açık oy-gizli sayım sistemi en çok eleştirilen konuydu."
+        },
+        {
+          "soru": "1950 seçimlerinde DP'nin başarısının temel nedeni nedir?",
+          "secenekler": [
+            "Halkın değişim isteği ve ekonomik vaatler",
+            "Dış politika vaatleri",
+            "Toprak reformu vaadi",
+            "Eğitim reformu vaadi"
+          ],
+          "dogruCevap": "Halkın değişim isteği ve ekonomik vaatler",
+          "aciklama": "27 yıllık tek parti yönetimine karşı değişim isteği etkili olmuştur."
+        },
+        {
+          "soru": "1950-1954 arası DP döneminin en belirgin ekonomik özelliği nedir?",
+          "secenekler": [
+            "Liberal ekonomi politikaları ve hızlı büyüme",
+            "Devletçi ekonomi politikaları",
+            "Karma ekonomi modeli",
+            "Planlı kalkınma"
+          ],
+          "dogruCevap": "Liberal ekonomi politikaları ve hızlı büyüme",
+          "aciklama": "Marshall yardımları ve tarımda makineleşme bu dönemde etkili olmuştur."
+        },
+        {
+          "soru": "1954-1957 döneminde DP iktidarının karşılaştığı en önemli sorun nedir?",
+          "secenekler": [
+            "Ekonomik sorunlar ve enflasyon",
+            "Dış politika sorunları",
+            "Muhalefet baskısı",
+            "Askeri muhtıra"
+          ],
+          "dogruCevap": "Ekonomik sorunlar ve enflasyon",
+          "aciklama": "Ekonomik büyümenin yavaşlaması ve enflasyon artışı yaşanmıştır."
+        },
+        {
+          "soru": "1957 seçimlerinde CHP'nin temel propaganda konusu neydi?",
+          "secenekler": [
+            "Demokratik haklar ve basın özgürlüğü",
+            "Ekonomik kalkınma",
+            "Dış politika",
+            "Eğitim reformu"
+          ],
+          "dogruCevap": "Demokratik haklar ve basın özgürlüğü",
+          "aciklama": "DP'nin basın ve muhalefet üzerindeki baskısı eleştirilmiştir."
+        },
+        {
+          "soru": "Tahkikat Komisyonu'nun kurulması hangi sonucu doğurmuştur?",
+          "secenekler": [
+            "27 Mayıs 1960 Darbesi'ne giden süreci hızlandırmıştır",
+            "Ekonomik istikrar sağlanmıştır",
+            "Muhalefetle uzlaşma sağlanmıştır",
+            "Dış politikada başarı elde edilmiştir"
+          ],
+          "dogruCevap": "27 Mayıs 1960 Darbesi'ne giden süreci hızlandırmıştır",
+          "aciklama": "Komisyonun geniş yetkileri tepkilere neden olmuştur."
+        },
+        {
+          "soru": "1960 Darbesi sonrası hangi parti kapatılmıştır?",
+          "secenekler": [
+            "Demokrat Parti",
+            "Cumhuriyet Halk Partisi",
+            "Millet Partisi",
+            "Adalet Partisi"
+          ],
+          "dogruCevap": "Demokrat Parti",
+          "aciklama": "29 Eylül 1960'ta DP kapatılmıştır."
+        },
+        {
+          "soru": "1961 Anayasası ile getirilen en önemli siyasi yenilik nedir?",
+          "secenekler": [
+            "Çift meclisli sistem",
+            "Tek parti sistemi",
+            "Başkanlık sistemi",
+            "Eyalet sistemi"
+          ],
+          "dogruCevap": "Çift meclisli sistem",
+          "aciklama": "Millet Meclisi ve Cumhuriyet Senatosu kurulmuştur."
+        },
+        {
+          "soru": "1961-1965 döneminin en önemli siyasi özelliği nedir?",
+          "secenekler": [
+            "Koalisyon hükümetleri dönemi",
+            "Tek parti iktidarı",
+            "Askeri yönetim",
+            "Başkanlık sistemi"
+          ],
+          "dogruCevap": "Koalisyon hükümetleri dönemi",
+          "aciklama": "Bu dönemde hiçbir parti tek başına iktidar olamamıştır."
+        },
+        {
+          "soru": "Adalet Partisi hangi partinin siyasi mirasçısı olarak kurulmuştur?",
+          "secenekler": [
+            "Demokrat Parti",
+            "Serbest Cumhuriyet Fırkası",
+            "Terakkiperver Cumhuriyet Fırkası",
+            "Millet Partisi"
+          ],
+          "dogruCevap": "Demokrat Parti",
+          "aciklama": "AP, kapatılan DP'nin devamı niteliğindedir."
+        },
+        {
+          "soru": "1965 seçimlerinde AP'nin başarısının temel nedeni nedir?",
+          "secenekler": [
+            "DP seçmeninin desteğini alması",
+            "Ekonomik vaatler",
+            "Dış politika başarıları",
+            "Eğitim reformu vaatleri"
+          ],
+          "dogruCevap": "DP seçmeninin desteğini alması",
+          "aciklama": "AP, DP'nin seçmen tabanının desteğini almıştır."
+        }
+      ],
+      "Atatürk Dönemi Türk Dış Politikası": [
+        {
+          "soru": "1921'de imzalanan Kars Antlaşması hangi ülkelerle yapılmıştır?",
+          "secenekler": [
+            "Ermenistan, Gürcistan ve Azerbaycan",
+            "İran, Irak ve Suriye",
+            "Yunanistan, Bulgaristan ve Romanya",
+            "Rusya, İngiltere ve Fransa"
+          ],
+          "dogruCevap": "Ermenistan, Gürcistan ve Azerbaycan",
+          "aciklama": "13 Ekim 1921'de Sovyet cumhuriyetleriyle imzalanmıştır."
         },
         {
           "soru": "Moskova Antlaşması'nın en önemli sonucu nedir?",
@@ -7863,47 +7516,30 @@
             "Kültürel ilişkilerin gelişmesi",
             "Askeri ittifakın kurulması"
           ],
-          "dogruCevap": "Doğu sınırının güvence altına alınması"
+          "dogruCevap": "Doğu sınırının güvence altına alınması",
+          "aciklama": "16 Mart 1921'de imzalanan antlaşma ile doğu sınırımız kesinleşmiştir."
         },
         {
-          "soru": "Nyon Konferansı hangi sorunun çözümü için toplanmıştır?",
+          "soru": "Musul sorununun çözümünde hangi uluslararası kuruluş arabuluculuk yapmıştır?",
           "secenekler": [
-            "Akdeniz'de korsanlık faaliyetleri",
-            "Boğazlar sorunu",
-            "Musul meselesi",
-            "Hatay sorunu"
+            "Milletler Cemiyeti",
+            "Birleşmiş Milletler",
+            "NATO",
+            "Avrupa Birliği"
           ],
-          "dogruCevap": "Akdeniz'de korsanlık faaliyetleri"
+          "dogruCevap": "Milletler Cemiyeti",
+          "aciklama": "1926'da Milletler Cemiyeti'nin kararıyla sorun çözülmüştür."
         },
         {
-          "soru": "Briand-Kellogg Paktı'na Türkiye'nin katılmasının sebebi nedir?",
+          "soru": "Türkiye-Yunanistan ilişkilerinin düzelmesinde etkili olan gelişme hangisidir?",
           "secenekler": [
-            "Savaşı uluslararası ilişkilerde yasaklama çabasına destek vermek",
-            "Ekonomik yardım almak",
-            "Askeri ittifak kurmak",
-            "Sınırları genişletmek"
+            "Venizelos'un Ankara ziyareti",
+            "Lozan Antlaşması",
+            "Balkan Antantı",
+            "Nüfus mübadelesi"
           ],
-          "dogruCevap": "Savaşı uluslararası ilişkilerde yasaklama çabasına destek vermek"
-        },
-        {
-          "soru": "Türkiye'nin Milletler Cemiyeti'ne üye olmasından sonra ilk kez aktif rol aldığı uluslararası sorun hangisidir?",
-          "secenekler": [
-            "İtalya-Habeşistan Savaşı",
-            "Musul Sorunu",
-            "Hatay Meselesi",
-            "Boğazlar Sorunu"
-          ],
-          "dogruCevap": "İtalya-Habeşistan Savaşı"
-        },
-        {
-          "soru": "Hatay sorununun çözümünde hangi uluslararası gelişme etkili olmuştur?",
-          "secenekler": [
-            "II. Dünya Savaşı'nın yaklaşması",
-            "Milletler Cemiyeti'nin kararı",
-            "İngiltere'nin arabuluculuğu",
-            "Sovyetler Birliği'nin desteği"
-          ],
-          "dogruCevap": "II. Dünya Savaşı'nın yaklaşması"
+          "dogruCevap": "Venizelos'un Ankara ziyareti",
+          "aciklama": "1930'daki bu ziyaret ilişkilerde dönüm noktası olmuştur."
         },
         {
           "soru": "Atatürk döneminde Türkiye-İran ilişkilerinin gelişmesinde hangi antlaşma önemli rol oynamıştır?",
@@ -7913,7 +7549,8 @@
             "Balkan Antantı",
             "Montreux Sözleşmesi"
           ],
-          "dogruCevap": "1932 Türk-İran Dostluk Antlaşması"
+          "dogruCevap": "1932 Türk-İran Dostluk Antlaşması",
+          "aciklama": "Bu antlaşma iki ülke arasındaki ilişkilerin temelini oluşturmuştur."
         },
         {
           "soru": "1930'larda Türkiye'nin Balkan politikasının temel hedefi nedir?",
@@ -7923,90 +7560,131 @@
             "Askeri ittifaklar kurmak",
             "Sınırları genişletmek"
           ],
-          "dogruCevap": "Balkanlarda barış ve istikrarı korumak"
+          "dogruCevap": "Balkanlarda barış ve istikrarı korumak",
+          "aciklama": "Yurtta Sulh Cihanda Sulh ilkesi doğrultusunda barış politikası izlenmiştir."
         },
         {
-          "soru": "1932'de Türkiye'nin Milletler Cemiyeti'ne üye olmasının ardından ilk kez karşılaştığı uluslararası kriz hangisidir?",
-          "secenekler": [
-            "İtalya-Habeşistan Savaşı",
-            "Almanya'nın Avusturya'yı ilhakı",
-            "İspanya İç Savaşı",
-            "Japonya'nın Mançurya'yı işgali"
-          ],
-          "dogruCevap": "İtalya-Habeşistan Savaşı"
-        },
-        {
-          "soru": "Türkiye'nin 1930'larda İtalya'ya karşı izlediği politikanın temel nedeni nedir?",
-          "secenekler": [
-            "İtalya'nın Akdeniz'de yayılmacı politika izlemesi",
-            "İtalya'nın ekonomik yaptırımları",
-            "İtalya'nın Balkan politikası",
-            "İtalya'nın Sovyetler ile yakınlaşması"
-          ],
-          "dogruCevap": "İtalya'nın Akdeniz'de yayılmacı politika izlemesi"
-        },
-        {
-          "soru": "1934 Balkan Antantı'nın imzalanmasında aşağıdakilerden hangisi etkili olmuştur?",
+          "soru": "1934 Balkan Antantı'nın imzalanmasında ne etkili olmuştur?",
           "secenekler": [
             "Revizyonist devletlerin tehdidi",
             "Ekonomik işbirliği ihtiyacı",
             "Sovyetler Birliği'nin baskısı",
             "Amerika'nın teşviki"
           ],
-          "dogruCevap": "Revizyonist devletlerin tehdidi"
+          "dogruCevap": "Revizyonist devletlerin tehdidi",
+          "aciklama": "İtalya ve Almanya'nın yayılmacı politikaları etkili olmuştur."
         },
         {
-          "soru": "1936'da imzalanan Montreux Boğazlar Sözleşmesi'nin Türkiye açısından en önemli kazanımı nedir?",
+          "soru": "1936 Montreux Boğazlar Sözleşmesi'nin en önemli kazanımı nedir?",
           "secenekler": [
             "Boğazlarda tam egemenlik hakkının elde edilmesi",
             "Ticaret gemilerinin geçiş serbestliği",
             "Savaş gemilerinin geçiş yasağı",
             "Uluslararası komisyonun kurulması"
           ],
-          "dogruCevap": "Boğazlarda tam egemenlik hakkının elde edilmesi"
+          "dogruCevap": "Boğazlarda tam egemenlik hakkının elde edilmesi",
+          "aciklama": "Türkiye'nin Boğazlar üzerindeki egemenlik hakları tanınmıştır."
         },
         {
-          "soru": "Atatürk döneminde Türkiye-İngiltere ilişkilerinin gelişmesinde hangi olay etkili olmuştur?",
+          "soru": "1937'de imzalanan Sadabad Paktı hangi ülkeler arasında imzalanmıştır?",
           "secenekler": [
-            "İtalya'nın Akdeniz'deki yayılmacı politikası",
-            "Almanya'nın silahlanması",
-            "Sovyetler Birliği'nin güçlenmesi",
-            "Fransa'nın Suriye politikası"
+            "Türkiye-İran-Irak-Afganistan",
+            "Türkiye-Yunanistan-Bulgaristan-Yugoslavya",
+            "Türkiye-Suriye-Lübnan-Ürdün",
+            "Türkiye-Mısır-Suudi Arabistan-Yemen"
           ],
-          "dogruCevap": "İtalya'nın Akdeniz'deki yayılmacı politikası"
+          "dogruCevap": "Türkiye-İran-Irak-Afganistan",
+          "aciklama": "8 Temmuz 1937'de bu dört ülke arasında imzalanmıştır."
         },
         {
-          "soru": "1921'de imzalanan Kars Antlaşması hangi ülkelerle yapılmıştır?",
+          "soru": "Hatay sorununun çözümünde hangi uluslararası gelişme etkili olmuştur?",
           "secenekler": [
-            "Ermenistan, Gürcistan ve Azerbaycan",
-            "İran, Irak ve Suriye",
-            "Yunanistan, Bulgaristan ve Romanya",
-            "Rusya, İngiltere ve Fransa"
+            "II. Dünya Savaşı'nın yaklaşması",
+            "Milletler Cemiyeti'nin kararı",
+            "İngiltere'nin arabuluculuğu",
+            "Sovyetler Birliği'nin desteği"
           ],
-          "dogruCevap": "Ermenistan, Gürcistan ve Azerbaycan"
+          "dogruCevap": "II. Dünya Savaşı'nın yaklaşması",
+          "aciklama": "Fransa, savaş öncesi Türkiye'nin desteğini almak istemiştir."
         },
         {
-          "soru": "Atatürk döneminde Balkan Antantı'na hangi ülke katılmamıştır?",
+          "soru": "Briand-Kellogg Paktı'na Türkiye neden katılmıştır?",
+          "secenekler": [
+            "Barışçı dış politikayı desteklemek için",
+            "Ekonomik yardım almak için",
+            "Askeri ittifak kurmak için",
+            "Sınırları genişletmek için"
+          ],
+          "dogruCevap": "Barışçı dış politikayı desteklemek için",
+          "aciklama": "Yurtta Sulh Cihanda Sulh ilkesi doğrultusunda katılım sağlanmıştır."
+        },
+        {
+          "soru": "Nyon Konferansı hangi sorunun çözümü için toplanmıştır?",
+          "secenekler": [
+            "Akdeniz'de korsanlık faaliyetleri",
+            "Boğazlar sorunu",
+            "Musul meselesi",
+            "Hatay sorunu"
+          ],
+          "dogruCevap": "Akdeniz'de korsanlık faaliyetleri",
+          "aciklama": "1937'de İtalyan denizaltılarının faaliyetlerine karşı toplanmıştır."
+        },
+        {
+          "soru": "Türkiye'nin 1930'larda İtalya'ya karşı politikasının nedeni nedir?",
+          "secenekler": [
+            "İtalya'nın Akdeniz'de yayılmacı politikası",
+            "Ekonomik anlaşmazlıklar",
+            "Balkan politikaları",
+            "Sovyetler ile yakınlaşması"
+          ],
+          "dogruCevap": "İtalya'nın Akdeniz'de yayılmacı politikası",
+          "aciklama": "Mussolini'nin yayılmacı politikaları tehdit oluşturmuştur."
+        },
+        {
+          "soru": "Balkan Antantı'na hangi ülke katılmamıştır?",
           "secenekler": [
             "Bulgaristan",
             "Yunanistan",
             "Yugoslavya",
             "Romanya"
           ],
-          "dogruCevap": "Bulgaristan"
+          "dogruCevap": "Bulgaristan",
+          "aciklama": "Bulgaristan revizyonist politikaları nedeniyle katılmamıştır."
+        },
+        {
+          "soru": "Atatürk dönemi dış politikasının temel ilkesi nedir?",
+          "secenekler": [
+            "Yurtta Sulh Cihanda Sulh",
+            "Yayılmacı politika",
+            "Panturanizm",
+            "İttifak arayışı"
+          ],
+          "dogruCevap": "Yurtta Sulh Cihanda Sulh",
+          "aciklama": "Barışçı ve gerçekçi dış politika temel ilke olmuştur."
         }
       ],
       "Atatürk Dönemi Türk Dış Politikası 2": [
         {
           "soru": "1925 Türk-Sovyet Dostluk ve Tarafsızlık Antlaşması'nın temel amacı nedir?",
           "secenekler": [
-            "Batılı devletlere karşı güvenlik sağlamak",
+            "Karşılıklı dostluk ve tarafsızlığı güvence altına almak",
             "Ekonomik işbirliği kurmak",
             "Kültürel ilişkileri geliştirmek",
             "Askeri ittifak oluşturmak"
           ],
-          "dogruCevap": "Batılı devletlere karşı güvenlik sağlamak",
-          "aciklama": "Antlaşma, her iki ülkenin de Batı'ya karşı güvenlik ihtiyacını karşılamıştır."
+          "dogruCevap": "Karşılıklı dostluk ve tarafsızlığı güvence altına almak",
+          "aciklama": "Antlaşma, iki ülke arasında dostluk ve tarafsızlık ilkelerini belirlemiştir."
+        },
+        {
+          "soru": "1926 Ankara Antlaşması'nın Musul sorunu açısından önemi nedir?",
+          "secenekler": [
+            "Sorunun kesin çözümü",
+            "Geçici çözüm sağlanması",
+            "Sorunun ertelenmesi",
+            "Yeni sorunların ortaya çıkması"
+          ],
+          "dogruCevap": "Sorunun kesin çözümü",
+          "aciklama": "5 Haziran 1926'da imzalanan antlaşma Musul sorununu kesin olarak çözüme kavuşturmuştur."
         },
         {
           "soru": "Türkiye'nin 1928'de Briand-Kellogg Paktı'na katılmasının asıl nedeni nedir?",
@@ -8031,15 +7709,15 @@
           "aciklama": "Protokol, mevcut dostluk ilişkilerinin devamını sağlamıştır."
         },
         {
-          "soru": "Türkiye'nin 1930'larda İtalya'ya karşı Oniki Ada politikası nasıl olmuştur?",
+          "soru": "1932'de Türkiye'nin silahsızlanma konferansına katılmasının amacı nedir?",
           "secenekler": [
-            "Adaların silahsızlandırılmasını isteme",
-            "Adaların ilhakını tanıma",
-            "Adalara askeri müdahale tehdidi",
-            "Adalar konusunda tarafsız kalma"
+            "Uluslararası barışa katkı sağlamak",
+            "Askeri modernizasyon sağlamak",
+            "İttifak ilişkileri kurmak",
+            "Ekonomik yardım almak"
           ],
-          "dogruCevap": "Adaların silahsızlandırılmasını isteme",
-          "aciklama": "Türkiye, güvenlik endişesiyle adaların silahsızlandırılmasını talep etmiştir."
+          "dogruCevap": "Uluslararası barışa katkı sağlamak",
+          "aciklama": "Türkiye, küresel barış çabalarına destek vermiştir."
         },
         {
           "soru": "1933'te Londra Ekonomik Konferansı'na Türkiye'nin katılma amacı nedir?",
@@ -8053,50 +7731,6 @@
           "aciklama": "Türkiye, küresel ekonomik krize çözüm bulmak için katılmıştır."
         },
         {
-          "soru": "1935'te İtalya-Habeşistan Savaşı sırasında Türkiye'nin tutumu ne olmuştur?",
-          "secenekler": [
-            "Milletler Cemiyeti yaptırımlarına katılma",
-            "İtalya'yı destekleme",
-            "Tarafsız kalma",
-            "Habeşistan'a askeri yardım"
-          ],
-          "dogruCevap": "Milletler Cemiyeti yaptırımlarına katılma",
-          "aciklama": "Türkiye, uluslararası hukuku destekleyerek yaptırımlara katılmıştır."
-        },
-        {
-          "soru": "1937 Sadabad Paktı'nın imzalanmasındaki temel etken nedir?",
-          "secenekler": [
-            "Ortadoğu'da istikrarı sağlama",
-            "Ekonomik işbirliği kurma",
-            "Askeri ittifak oluşturma",
-            "Sınır sorunlarını çözme"
-          ],
-          "dogruCevap": "Ortadoğu'da istikrarı sağlama",
-          "aciklama": "Pakt, bölgesel istikrarı hedeflemiştir."
-        },
-        {
-          "soru": "1936 Montreux görüşmelerinde Sovyetler Birliği'nin temel talebi ne olmuştur?",
-          "secenekler": [
-            "Karadeniz'de üstünlük sağlama",
-            "Boğazların ortak yönetimi",
-            "Ticaret serbestisi",
-            "Askeri geçiş hakkı"
-          ],
-          "dogruCevap": "Karadeniz'de üstünlük sağlama",
-          "aciklama": "Sovyetler, Karadeniz'deki güvenlik çıkarlarını korumak istemiştir."
-        },
-        {
-          "soru": "1938'de Hatay sorununda Fransa'nın tutumunun değişmesinde etkili olan faktör nedir?",
-          "secenekler": [
-            "Almanya tehdidi",
-            "Ekonomik çıkarlar",
-            "İngiltere'nin baskısı",
-            "Suriye'nin tutumu"
-          ],
-          "dogruCevap": "Almanya tehdidi",
-          "aciklama": "Fransa, Almanya tehdidi karşısında Türkiye'yi yanında tutmak istemiştir."
-        },
-        {
           "soru": "1934 Balkan Antantı'na Arnavutluk'un katılmamasının nedeni nedir?",
           "secenekler": [
             "İtalya'nın etkisi altında olması",
@@ -8108,26 +7742,15 @@
           "aciklama": "Arnavutluk, İtalya'nın etkisiyle antanta katılmamıştır."
         },
         {
-          "soru": "1930'larda Türk-İngiliz yakınlaşmasının ekonomik boyutu nedir?",
+          "soru": "1935'te İtalya-Habeşistan Savaşı sırasında Türkiye'nin tutumu ne olmuştur?",
           "secenekler": [
-            "İngiliz kredileri",
-            "Serbest ticaret antlaşması",
-            "Ortak yatırımlar",
-            "Teknoloji transferi"
+            "Milletler Cemiyeti yaptırımlarına katılma",
+            "İtalya'yı destekleme",
+            "Tarafsız kalma",
+            "Habeşistan'a askeri yardım"
           ],
-          "dogruCevap": "İngiliz kredileri",
-          "aciklama": "İngiltere'den alınan krediler ekonomik ilişkileri güçlendirmiştir."
-        },
-        {
-          "soru": "1923-1938 döneminde Türkiye'nin Balkan politikasının temel ilkesi nedir?",
-          "secenekler": [
-            "Mevcut sınırları koruma",
-            "Ekonomik üstünlük kurma",
-            "Kültürel birlik oluşturma",
-            "Askeri ittifak kurma"
-          ],
-          "dogruCevap": "Mevcut sınırları koruma",
-          "aciklama": "Türkiye, Balkanlarda statükonun korunmasını amaçlamıştır."
+          "dogruCevap": "Milletler Cemiyeti yaptırımlarına katılma",
+          "aciklama": "Türkiye, uluslararası hukuku destekleyerek yaptırımlara katılmıştır."
         },
         {
           "soru": "1935'te Türkiye'nin Milletler Cemiyeti Konseyi'ne seçilmesinin önemi nedir?",
@@ -8141,6 +7764,50 @@
           "aciklama": "Bu seçim, Türkiye'nin uluslararası itibarını artırmıştır."
         },
         {
+          "soru": "1936 Montreux Boğazlar Sözleşmesi'nin imzalanmasında hangi devletin desteği önemli rol oynamıştır?",
+          "secenekler": [
+            "İngiltere",
+            "Fransa",
+            "Sovyetler Birliği",
+            "İtalya"
+          ],
+          "dogruCevap": "İngiltere",
+          "aciklama": "İngiltere'nin desteği sözleşmenin imzalanmasında etkili olmuştur."
+        },
+        {
+          "soru": "1937 Sadabad Paktı'nın imzalanmasındaki temel etken nedir?",
+          "secenekler": [
+            "Ortadoğu'da istikrarı sağlama",
+            "Ekonomik işbirliği kurma",
+            "Askeri ittifak oluşturma",
+            "Sınır sorunlarını çözme"
+          ],
+          "dogruCevap": "Ortadoğu'da istikrarı sağlama",
+          "aciklama": "Pakt, bölgesel istikrarı hedeflemiştir."
+        },
+        {
+          "soru": "1938'de Hatay sorununda Fransa'nın tutumunun değişmesinde etkili olan faktör nedir?",
+          "secenekler": [
+            "Almanya tehdidi",
+            "Ekonomik çıkarlar",
+            "İngiltere'nin baskısı",
+            "Suriye'nin tutumu"
+          ],
+          "dogruCevap": "Almanya tehdidi",
+          "aciklama": "Fransa, Almanya tehdidi karşısında Türkiye'yi yanında tutmak istemiştir."
+        },
+        {
+          "soru": "1930'larda Türkiye'nin İtalya'ya karşı Oniki Ada politikası nasıl olmuştur?",
+          "secenekler": [
+            "Adaların silahsızlandırılmasını isteme",
+            "Adaların ilhakını tanıma",
+            "Adalara askeri müdahale tehdidi",
+            "Adalar konusunda tarafsız kalma"
+          ],
+          "dogruCevap": "Adaların silahsızlandırılmasını isteme",
+          "aciklama": "Türkiye, güvenlik endişesiyle adaların silahsızlandırılmasını talep etmiştir."
+        },
+        {
           "soru": "1930'larda Türkiye-Yugoslavya ilişkilerinin gelişmesinde etkili olan faktör nedir?",
           "secenekler": [
             "İtalya tehdidine karşı işbirliği",
@@ -8152,50 +7819,6 @@
           "aciklama": "İtalya'nın yayılmacı politikası iki ülkeyi yakınlaştırmıştır."
         },
         {
-          "soru": "1932'de Türkiye'nin silahsızlanma konferansına katılmasının amacı nedir?",
-          "secenekler": [
-            "Uluslararası barışa katkı sağlamak",
-            "Askeri modernizasyon sağlamak",
-            "İttifak ilişkileri kurmak",
-            "Ekonomik yardım almak"
-          ],
-          "dogruCevap": "Uluslararası barışa katkı sağlamak",
-          "aciklama": "Türkiye, küresel barış çabalarına destek vermiştir."
-        },
-        {
-          "soru": "1926 Ankara Antlaşması'nın Musul sorunu açısından önemi nedir?",
-          "secenekler": [
-            "Sorunun kesin çözümü",
-            "Geçici çözüm sağlanması",
-            "Sorunun ertelenmesi",
-            "Yeni sorunların ortaya çıkması"
-          ],
-          "dogruCevap": "Sorunun kesin çözümü",
-          "aciklama": "Antlaşma, Musul sorununu kesin olarak çözüme kavuşturmuştur."
-        },
-        {
-          "soru": "1930'larda Türkiye-Romanya ilişkilerinin temel dinamiği nedir?",
-          "secenekler": [
-            "Balkan güvenliği",
-            "Ticari ilişkiler",
-            "Kültürel bağlar",
-            "Azınlık meseleleri"
-          ],
-          "dogruCevap": "Balkan güvenliği",
-          "aciklama": "İki ülke Balkanların güvenliği için işbirliği yapmıştır."
-        },
-        {
-          "soru": "1938'de Türkiye'nin Milletler Cemiyeti'ndeki son önemli girişimi ne olmuştur?",
-          "secenekler": [
-            "Hatay sorununun çözümü",
-            "Boğazlar meselesi",
-            "Balkan sorunları",
-            "Silahsızlanma"
-          ],
-          "dogruCevap": "Hatay sorununun çözümü",
-          "aciklama": "Türkiye, Hatay'ın bağımsızlığı için Cemiyet'te çaba göstermiştir."
-        },
-        {
           "soru": "1923-1938 döneminde Türk dış politikasının temel prensibi nedir?",
           "secenekler": [
             "Yurtta sulh, cihanda sulh",
@@ -8205,17 +7828,6 @@
           ],
           "dogruCevap": "Yurtta sulh, cihanda sulh",
           "aciklama": "Bu ilke, Atatürk dönemi dış politikasının temelini oluşturmuştur."
-        },
-        {
-          "soru": "1936 Montreux Boğazlar Sözleşmesi'nin imzalanmasında hangi devletin desteği önemli rol oynamıştır?",
-          "secenekler": [
-            "İngiltere",
-            "Fransa",
-            "Sovyetler Birliği",
-            "İtalya"
-          ],
-          "dogruCevap": "İngiltere",
-          "aciklama": "İngiltere'nin desteği sözleşmenin imzalanmasında etkili olmuştur."
         }
       ],
       "Atatürk Sonrası Dönem": [
@@ -8290,14 +7902,15 @@
           "dogruCevap": "Truman Doktrini ve Marshall Yardımı"
         },
         {
-          "soru": "İsmet İnönü döneminde Türkiye'de üniversite reformu kapsamında hangi önemli gelişme yaşanmıştır?",
+          "soru": "İsmet İnönü döneminde yükseköğretim alanında yapılan en önemli gelişme nedir?",
           "secenekler": [
-            "İstanbul Üniversitesi'nden kaçan Alman bilim insanlarının Türkiye'ye kabulü",
             "Yeni üniversitelerin açılması",
+            "Üniversitelerin özerklik kazanması",
             "YÖK'ün kurulması",
-            "Üniversitelerin özerklik kazanması"
+            "Yabancı dilde eğitimin başlaması"
           ],
-          "dogruCevap": "İstanbul Üniversitesi'nden kaçan Alman bilim insanlarının Türkiye'ye kabulü"
+          "dogruCevap": "Yeni üniversitelerin açılması",
+          "aciklama": "Ankara Üniversitesi başta olmak üzere yeni üniversiteler açılmıştır."
         },
         {
           "soru": "1950'li yıllarda Türkiye'de yaşanan kentleşmenin temel nedeni nedir?",
@@ -8320,14 +7933,15 @@
           "dogruCevap": "Sovyet tehdidine karşı güvenlik arayışı"
         },
         {
-          "soru": "Demokrat Parti döneminde din politikalarında yapılan en önemli değişiklik hangisidir?",
+          "soru": "Demokrat Parti döneminde din politikalarında yapılan değişiklikler nelerdir?",
           "secenekler": [
-            "Ezanın Arapça okunmasına izin verilmesi",
-            "Diyanet İşleri Başkanlığı'nın kurulması",
-            "Din derslerinin zorunlu hale getirilmesi",
-            "Tekke ve zaviyelerin açılması"
+            "Ezanın Arapça okunması, din dersleri ve İmam Hatip okullarının açılması",
+            "Sadece ezanın Arapça okunması",
+            "Yalnızca İmam Hatip okullarının açılması",
+            "Sadece din derslerinin konulması"
           ],
-          "dogruCevap": "Ezanın Arapça okunmasına izin verilmesi"
+          "dogruCevap": "Ezanın Arapça okunması, din dersleri ve İmam Hatip okullarının açılması",
+          "aciklama": "DP döneminde din politikalarında kapsamlı değişiklikler yapılmıştır."
         },
         {
           "soru": "Demokrat Parti döneminde uygulanan tarım politikalarının sonucu olarak ortaya çıkan en önemli gelişme nedir?",
@@ -8360,14 +7974,15 @@
           "dogruCevap": "Köy Enstitülerinin yaygınlaştırılması"
         },
         {
-          "soru": "1950'li yıllarda Türkiye'nin NATO'ya üye olmasının ekonomik açıdan en önemli sonucu nedir?",
+          "soru": "1952'de NATO üyeliğinin Türkiye'ye sağladığı en önemli katkı nedir?",
           "secenekler": [
-            "Amerikan ekonomik yardımlarının artması",
+            "Güvenlik garantisi ve askeri modernizasyon",
+            "Ekonomik yardımlar",
             "Dış ticaret hacminin genişlemesi",
-            "Savunma harcamalarının artması",
-            "Yabancı sermaye yatırımlarının artması"
+            "Yabancı sermaye yatırımları"
           ],
-          "dogruCevap": "Amerikan ekonomik yardımlarının artması"
+          "dogruCevap": "Güvenlik garantisi ve askeri modernizasyon",
+          "aciklama": "NATO üyeliği öncelikle güvenlik ve askeri alanda katkı sağlamıştır."
         },
         {
           "soru": "Demokrat Parti döneminde uygulanan hangi politika, laiklik ilkesinden taviz verildiği eleştirilerine neden olmuştur?",
@@ -8518,7 +8133,7 @@
           "aciklama": "NATO üyeliği Türkiye'yi kesin olarak Batı bloğuna bağlamıştır."
         },
         {
-          "soru": "1950'li yıllarda Demokrat Parti'nin uyguladığı 'Her mahallede bir milyoner yaratma' politikasının sonucu nedir?",
+          "soru": "1950'li yıllarda Demokrat Parti'nin ekonomi politikasının sonucu ne olmuştur?",
           "secenekler": [
             "Gelir dağılımının bozulması",
             "Ekonomik kalkınmanın hızlanması",
@@ -8526,7 +8141,7 @@
             "Sanayileşmenin artması"
           ],
           "dogruCevap": "Gelir dağılımının bozulması",
-          "aciklama": "Bu politika toplumda gelir adaletsizliğini artırmıştır."
+          "aciklama": "Liberal ekonomi politikaları gelir dağılımını olumsuz etkilemiştir."
         },
         {
           "soru": "1954-1960 yılları arasında basına uygulanan sansürün temel nedeni nedir?",
@@ -8595,26 +8210,26 @@
           "aciklama": "Demokratikleşme süreciyle Milli Şef dönemi sona ermiştir."
         },
         {
-          "soru": "1950'li yıllarda özel sektörün gelişmesini desteklemek için kurulan banka hangisidir?",
+          "soru": "1950 öncesi özel sektörün gelişmesi için atılan en önemli adım nedir?",
           "secenekler": [
-            "Türkiye Sınai Kalkınma Bankası",
-            "Ziraat Bankası",
-            "Halk Bankası",
-            "İş Bankası"
+            "Türkiye Sınai Kalkınma Bankası'nın kurulması",
+            "Ziraat Bankası'nın destekleri",
+            "Halk Bankası'nın kurulması",
+            "İş Bankası'nın kredileri"
           ],
-          "dogruCevap": "Türkiye Sınai Kalkınma Bankası",
-          "aciklama": "TSKB özel sektörü desteklemek için kurulmuştur."
+          "dogruCevap": "Türkiye Sınai Kalkınma Bankası'nın kurulması",
+          "aciklama": "TSKB 1950 öncesinde özel sektörü desteklemek için kurulmuştur."
         },
         {
           "soru": "1950-1960 döneminde dış politikada yaşanan en önemli kriz hangisidir?",
           "secenekler": [
-            "6-7 Eylül Olayları",
             "Kıbrıs Krizi",
+            "6-7 Eylül Olayları",
             "Süveyş Krizi",
             "Berlin Krizi"
           ],
-          "dogruCevap": "6-7 Eylül Olayları",
-          "aciklama": "Bu olaylar Türk-Yunan ilişkilerini olumsuz etkilemiştir."
+          "dogruCevap": "Kıbrıs Krizi",
+          "aciklama": "Kıbrıs sorunu dönemin en önemli dış politika kriziydi."
         },
         {
           "soru": "1945-1950 döneminde Sovyetler Birliği'nin Türkiye'den talepleri sonucu hangi politika izlenmiştir?",
@@ -8678,7 +8293,7 @@
           "secenekler": [
             "Manihaizm",
             "Budizm",
-            "İslamiyet", 
+            "İslamiyet",
             "Hristiyanlık",
             "Şamanizm"
           ],
@@ -8689,7 +8304,7 @@
           "soru": "Firdevsî'nin Şehnâme adlı eserinde adı geçen efsanevi Türk hakanı aşağıdakilerden hangisidir?",
           "secenekler": [
             "Kül Tigin",
-            "Bilge Kağan", 
+            "Bilge Kağan",
             "Afrasyab",
             "Mukan Kağan",
             "Teoman"
@@ -8714,7 +8329,7 @@
           "secenekler": [
             "Nevşehirli Damat İbrahim Paşa",
             "Halil Hamit Paşa",
-            "Sadrazam Koca Ragıp Paşa", 
+            "Sadrazam Koca Ragıp Paşa",
             "Humbaracı Ahmet Paşa",
             "Tarhuncu Ahmet Paşa"
           ],
