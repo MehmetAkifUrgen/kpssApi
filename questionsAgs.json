@@ -9003,943 +9003,1170 @@
       ]
     },
     "Tarih": {
-      "İslamiyet Öncesi Türk Tarihi": [
-        {
-          "soru": "Türk adı ilk defa hangi kaynakta geçmiştir?",
-          "secenekler": [
-            "Bizans",
-            "Kaşgarlı Mahmut",
-            "Çin",
-            "Ziya Gökalp"
-          ],
-          "dogruCevap": "Çin"
-        },
-        {
-          "soru": "Türklerin en eski kültür merkezi hangisidir?",
-          "secenekler": [
-            "Anav",
-            "Afanesyova",
-            "Karasuk",
-            "Tagar"
-          ],
-          "dogruCevap": "Afanesyova"
-        },
-        {
-          "soru": "Türklerin bilinen ilk topluluğu hangisidir?",
-          "secenekler": [
-            "İskitler",
-            "Uygurlar",
-            "Hunlar",
-            "Köktürkler"
-          ],
-          "dogruCevap": "İskitler"
-        },
-        {
-          "soru": "Alp Er Tunga Destanı hangi Türk topluluğuna aittir?",
-          "secenekler": [
-            "İskitler",
-            "Hunlar",
-            "Göktürkler",
-            "Uygurlar"
-          ],
-          "dogruCevap": "İskitler"
-        },
-        {
-          "soru": "Dünyada bilinen ilk kadın hükümdar kimdir?",
-          "secenekler": [
-            "Tomris Hatun",
-            "Bumin Kağan",
-            "Bilge Kağan",
-            "Teoman"
-          ],
-          "dogruCevap": "Tomris Hatun"
-        },
-        {
-          "soru": "İlk düzenli kara ordusu hangi hükümdar tarafından kurulmuştur?",
-          "secenekler": [
-            "Mete Han",
-            "Teoman",
-            "Bilge Kağan",
-            "Attila"
-          ],
-          "dogruCevap": "Mete Han"
-        },
-        {
-          "soru": "Orhun Kitabeleri hangi Türk devletine aittir?",
-          "secenekler": [
-            "Göktürkler",
-            "Hunlar",
-            "Uygurlar",
-            "Avarlar"
-          ],
-          "dogruCevap": "Göktürkler"
-        },
-        {
-          "soru": "Töre’nin değişmeyen kurallarından biri nedir?",
-          "secenekler": [
-            "Adalet",
-            "Eğitim",
-            "Ekonomi",
-            "Din"
-          ],
-          "dogruCevap": "Adalet"
-        },
-        {
-          "soru": "Göktürklerin kurucusu kimdir?",
-          "secenekler": [
-            "Bumin Kağan",
-            "Bilge Kağan",
-            "Tapo Kağan",
-            "Kürşad"
-          ],
-          "dogruCevap": "Bumin Kağan"
-        },
-        {
-          "soru": "Türk tarihinin ilk yazılı belgesi hangisidir?",
-          "secenekler": [
-            "Orhun Kitabeleri",
-            "Göktürk Yazıtları",
-            "Kutadgu Bilig",
-            "Divan-ı Lügatit Türk"
-          ],
-          "dogruCevap": "Orhun Kitabeleri"
-        },
-        {
-          "soru": "Maniheizm dinini benimseyen Türk devleti hangisidir?",
-          "secenekler": [
-            "Uygurlar",
-            "Göktürkler",
-            "Hunlar",
-            "Avarlar"
-          ],
-          "dogruCevap": "Uygurlar"
-        },
-        {
-          "soru": "Avrupa’da kurulan ilk Türk devleti hangisidir?",
-          "secenekler": [
-            "Avrupa Hun Devleti",
-            "Göktürkler",
-            "Peçenekler",
-            "Avarlar"
-          ],
-          "dogruCevap": "Avrupa Hun Devleti"
-        },
-        {
-          "soru": "Türklerin İslamiyet’i kabul eden ilk topluluğu hangisidir?",
-          "secenekler": [
-            "Karluklar",
-            "Kıpçaklar",
-            "Avarlar",
-            "Hunlar"
-          ],
-          "dogruCevap": "Karluklar"
-        },
-        {
-          "soru": "Tarihte ilk Musevi Türk devleti hangisidir?",
-          "secenekler": [
-            "Hazarlar",
-            "Göktürkler",
-            "Avarlar",
-            "Peçenekler"
-          ],
-          "dogruCevap": "Hazarlar"
-        },
-        {
-          "soru": "İlk Türk topluluklarından İskitler’in en önemli hükümdarı kimdir?",
-          "secenekler": [
-            "Alp Er Tunga",
-            "Mete Han",
-            "Attila",
-            "Bilge Kağan"
-          ],
-          "dogruCevap": "Alp Er Tunga"
-        },
-        {
-          "soru": "Kavimler Göçü’nün sonucunda hangi çağ kapanmıştır?",
-          "secenekler": [
-            "İlk Çağ",
-            "Orta Çağ",
-            "Yeni Çağ",
-            "Yakın Çağ"
-          ],
-          "dogruCevap": "İlk Çağ"
-        },
-        {
-          "soru": "Köktürkler hangi alfabe ile yazılı belgeler bırakmıştır?",
-          "secenekler": [
-            "Orhun Alfabesi",
-            "Uygur Alfabesi",
-            "Arap Alfabesi",
-            "Latin Alfabesi"
-          ],
-          "dogruCevap": "Orhun Alfabesi"
-        },
-        {
-          "soru": "İlk düzenli Türk ordusunu kuran hükümdar kimdir?",
-          "secenekler": [
-            "Mete Han",
-            "Bilge Kağan",
-            "Bumin Kağan",
-            "Attila"
-          ],
-          "dogruCevap": "Mete Han"
-        },
-        {
-          "soru": "İlk Türk devletlerinde hakanın eşine ne ad verilirdi?",
-          "secenekler": [
-            "Hatun",
-            "Şad",
-            "Tigin",
-            "Buyruk"
-          ],
-          "dogruCevap": "Hatun"
-        },
-        {
-          "soru": "Avrupa Hun Devleti’nin en parlak dönemi hangi hükümdar zamanında yaşanmıştır?",
-          "secenekler": [
-            "Attila",
-            "Bumin Kağan",
-            "Alp Er Tunga",
-            "Teoman"
-          ],
-          "dogruCevap": "Attila"
-        },
-        {
-          "soru": "Kürşad Ayaklanması hangi Türk devleti zamanında gerçekleşmiştir?",
-          "secenekler": [
-            "Göktürkler",
-            "Hunlar",
-            "Uygurlar",
-            "Hazarlar"
-          ],
-          "dogruCevap": "Göktürkler"
-        },
-        {
-          "soru": "Anav Kültürü hangi özelliği ile bilinir?",
-          "secenekler": [
-            "Orta Asya’nın en eski kültür merkezi olması",
-            "Türklerin demiri işlemesi",
-            "Yerleşik hayata geçiş",
-            "Tarımsal faaliyetlerin başlaması"
-          ],
-          "dogruCevap": "Orta Asya’nın en eski kültür merkezi olması"
-        },
-        {
-          "soru": "Manas Destanı hangi Türk topluluğuna aittir?",
-          "secenekler": [
-            "Kırgızlar",
-            "Uygurlar",
-            "Göktürkler",
-            "Avarlar"
-          ],
-          "dogruCevap": "Kırgızlar"
-        },
-        {
-          "soru": "Göktürkler’in Çin’e karşı bağımsızlık mücadelesi sonucunda kurulan devlet hangisidir?",
-          "secenekler": [
-            "II. Göktürk Devleti",
-            "Hunlar",
-            "Uygurlar",
-            "Hazarlar"
-          ],
-          "dogruCevap": "II. Göktürk Devleti"
-        },
-        {
-          "soru": "Uygurların yerleşik hayata geçmesinin en önemli nedeni nedir?",
-          "secenekler": [
-            "Maniheizm dinini benimsemeleri",
-            "Tarım faaliyetleri",
-            "Budizm’i benimsemeleri",
-            "Göçebe yaşamın sona ermesi"
-          ],
-          "dogruCevap": "Maniheizm dinini benimsemeleri"
-        },
-        {
-          "soru": "Tarihte İstanbul’u kuşatan ilk Türk devleti hangisidir?",
-          "secenekler": [
-            "Avarlar",
-            "Göktürkler",
-            "Peçenekler",
-            "Hunlar"
-          ],
-          "dogruCevap": "Avarlar"
-        },
-        {
-          "soru": "Hazarlar hangi dini benimsemişlerdir?",
-          "secenekler": [
-            "Musevilik",
-            "Hristiyanlık",
-            "Budizm",
-            "Maniheizm"
-          ],
-          "dogruCevap": "Musevilik"
-        },
-        {
-          "soru": "İlk Türk devletlerinde hükümdar çocuklarına verilen unvan nedir?",
-          "secenekler": [
-            "Tigin",
-            "Şad",
-            "Buyruk",
-            "Hatun"
-          ],
-          "dogruCevap": "Tigin"
-        },
-        {
-          "soru": "Orta Asya’da kurulan ilk Türk devleti hangisidir?",
-          "secenekler": [
-            "Asya Hun Devleti",
-            "Göktürkler",
-            "Uygurlar",
-            "Hazarlar"
-          ],
-          "dogruCevap": "Asya Hun Devleti"
-        },
-        {
-          "soru": "Türk tarihinde ilk defa parayı kullanan devlet hangisidir?",
-          "secenekler": [
-            "Göktürkler",
-            "Uygurlar",
-            "Hazarlar",
-            "Avarlar"
-          ],
-          "dogruCevap": "Göktürkler"
-        },
-        {
-          "soru": "Tarihte Türklerin kullandığı ilk yazılı alfabe hangisidir?",
-          "secenekler": [
-            "Göktürk Alfabesi",
-            "Uygur Alfabesi",
-            "Kiril Alfabesi",
-            "Latin Alfabesi"
-          ],
-          "dogruCevap": "Göktürk Alfabesi"
-        }
-      ],
-      "İslamiyet Öncesi Türk Kültürü ve Uygarlık": [
-        {
-          "soru": "Göktanrı inancına göre, Hükümdarın sülalesine verdiği askeri donanım hangi kavramla ifade edilir?",
-          "secenekler": [
-            "Kut",
-            "Küç",
-            "Ulüş",
-            "Töre"
-          ],
-          "dogruCevap": "Küç"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde hükümdarın sülalesine verdiği ekonomik güç hangi kavramla ifade edilir?",
-          "secenekler": [
-            "Kut",
-            "Küç",
-            "Ulüş",
-            "Buyruk"
-          ],
-          "dogruCevap": "Ulüş"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde Hükümdarın sülalesine verdiği yetkiyi belirleyen kavram nedir?",
-          "secenekler": [
-            "Kut",
-            "Küç",
-            "Ulüş",
-            "Köle"
-          ],
-          "dogruCevap": "Kut"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde hangi unvan Hükümdarın temsil ettiği en yüksek makamı belirtir?",
-          "secenekler": [
-            "Han",
-            "Yabgu",
-            "Hakan",
-            "Tanhu"
-          ],
-          "dogruCevap": "Hakan"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde, ilk defa Asya Hunları tarafından uygulanan yönetim modeli nedir?",
-          "secenekler": [
-            "Kurultay",
-            "İkili Teşkilat",
-            "Toy",
-            "Buyruk"
-          ],
-          "dogruCevap": "İkili Teşkilat"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi, İslamiyet öncesi Türk devletlerinde ‘Kurultay’ veya ‘Toy’ olarak bilinen organın özelliklerinden biri değildir?",
-          "secenekler": [
-            "Yılda iki kez yapılır",
-            "Hükümdarın isteğiyle töre değiştirilir",
-            "Dini konularda karar veremez",
-            "Hakanın isteği ile töre değiştirilir"
-          ],
-          "dogruCevap": "Dini konularda karar veremez"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde ‘Toygun’ kavramı aşağıdakilerden hangisini ifade eder?",
-          "secenekler": [
-            "Toyda katılan bütün üyeleri",
-            "Hükümdarın danışmanlarını",
-            "Hükümdar ailesinin üyelerini",
-            "Halkın temsilcilerini"
-          ],
-          "dogruCevap": "Toyda katılan bütün üyeleri"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde hangi görevli yazışma işlerinden sorumludur?",
-          "secenekler": [
-            "Tamgacı",
-            "Ağılık",
-            "Apa",
-            "Buyruk"
-          ],
-          "dogruCevap": "Tamgacı"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde vergi memuruna hangi unvan verilmiştir?",
-          "secenekler": [
-            "Tuden",
-            "Buyruk",
-            "Erkin",
-            "Aygucı"
-          ],
-          "dogruCevap": "Tuden"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde ‘Hakan’ın oğlu’ olarak bilinen kavram nedir?",
-          "secenekler": [
-            "Tigin",
-            "Şad",
-            "Apa",
-            "Erkin"
-          ],
-          "dogruCevap": "Tigin"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde Hükümdarın eğitimini üstlenen kişi hangi unvanla anılır?",
-          "secenekler": [
-            "Şad",
-            "Aygucı",
-            "Apa",
-            "Tamgacı"
-          ],
-          "dogruCevap": "Şad"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde ‘Töre’ye uymayan Hakan görevden alınabilir. Bu durum hangi organın yetkisindedir?",
-          "secenekler": [
-            "Kurultay",
-            "Kengeş",
-            "Toygunlar",
-            "İhtiyarlar Meclisi"
-          ],
-          "dogruCevap": "Kurultay"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde ‘Bozkır sanat anlayışı’ hangi dönemi anlatır?",
-          "secenekler": [
-            "Göktürkler dönemi",
-            "Uygur dönemi",
-            "Selçuklu dönemi",
-            "Köktürkler dönemi"
-          ],
-          "dogruCevap": "Köktürkler dönemi"
-        },
-        {
-          "soru": "İslamiyet öncesi Türklerde Güneş Kültü ile ilgili hangi spor adı verilmiştir?",
-          "secenekler": [
-            "Kureş",
-            "Seğirtme",
-            "Tepük",
-            "Yelme"
-          ],
-          "dogruCevap": "Kureş"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde ilk kez parayı bastıran ve ticaretle kullanan Türk devleti hangisidir?",
-          "secenekler": [
-            "Göktürkler",
-            "Köktürkler",
-            "Uygurlar",
-            "Türgişler"
-          ],
-          "dogruCevap": "Göktürkler"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde ‘Yenisey Kitabevleri’ hangi devlete ait bir yazılı eserdir?",
-          "secenekler": [
-            "Kırgızlar",
-            "Uygurlar",
-            "Köktürkler",
-            "Göktürkler"
-          ],
-          "dogruCevap": "Kırgızlar"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde, Orhun Abideleri'nde hangi yazı kullanılmıştır?",
-          "secenekler": [
-            "Moğolca",
-            "Orhun Türkçesi",
-            "Çince",
-            "Farsça"
-          ],
-          "dogruCevap": "Orhun Türkçesi"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk devletlerinde hangi destan, Türk'ün sahneye çıkışını anlatır?",
-          "secenekler": [
-            "Ergenekon",
-            "Dede Korkut",
-            "Alper Tunga",
-            "Şu"
-          ],
-          "dogruCevap": "Ergenekon"
-        },
-        {
-          "soru": "İslamiyet öncesi Türk destanları arasında en uzun ve devam eden destan hangisidir?",
-          "secenekler": [
-            "Manas",
-            "Ergenekon",
-            "Bozkurt",
-            "Oğuz Kağan"
-          ],
-          "dogruCevap": "Manas"
-        },
-        {
-          "soru": "İslamiyet öncesi Türkler, hangi takvimi kullanmışlardır?",
-          "secenekler": [
-            "12 Hayvanlı Takvim",
-            "Hicri Takvim",
-            "Celali Takvim",
-            "Miladi Takvim"
-          ],
-          "dogruCevap": "12 Hayvanlı Takvim"
-        }
-      ],
-      "İlk Türk-İslam Devletleri ve Beylikleri": [
-        {
-          "soru": "Aşağıdakilerden hangisi Karahanlı Devleti'nin Türk-İslam tarihindeki önemli özelliklerinden biri değildir?",
-          "secenekler": [
-            "İlk Müslüman Türk devletidir",
-            "İlk kez medrese sistemini kurmuşlardır",
-            "Türkçeyi resmi dil olarak kullanmışlardır",
-            "İlk Türk-İslam eseri olan Kutadgu Bilig bu dönemde yazılmıştır"
-          ],
-          "dogruCevap": "İlk Müslüman Türk devletidir",
-          "aciklama": "İlk Müslüman Türk devleti İtil Bulgarlarıdır."
-        },
-        {
-          "soru": "Gazneli Devleti'nin en önemli hükümdarı olan Gazneli Mahmut döneminde aşağıdakilerden hangisi gerçekleşmemiştir?",
-          "secenekler": [
-            "Hindistan'a seferler düzenlemiştir",
-            "Sultan unvanını almıştır",
-            "Biruni'yi himaye etmiştir",
-            "Türkçeyi resmi dil yapmıştır"
-          ],
-          "dogruCevap": "Türkçeyi resmi dil yapmıştır",
-          "aciklama": "Gaznelilerde resmi dil Farsça idi."
-        },
-        {
-          "soru": "Büyük Selçuklu Devleti ile ilgili aşağıdakilerden hangisi yanlıştır?",
-          "secenekler": [
-            "Dandanakan Savaşı ile kurulmuştur",
-            "İlk hükümdarı Tuğrul Bey'dir",
-            "Nizamiye Medreseleri kurulmuştur",
-            "Türkçe resmi dil olarak kullanılmıştır"
-          ],
-          "dogruCevap": "Türkçe resmi dil olarak kullanılmıştır",
-          "aciklama": "Büyük Selçuklularda resmi dil Farsça idi."
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Karahanlılar döneminde yazılmış eserlerden biri değildir?",
-          "secenekler": [
-            "Kutadgu Bilig",
-            "Divan-ı Lügati't Türk",
-            "Atabetü'l Hakayık",
-            "Siyasetname"
-          ],
-          "dogruCevap": "Siyasetname",
-          "aciklama": "Siyasetname, Büyük Selçuklu veziri Nizamülmülk tarafından yazılmıştır."
-        },
-        {
-          "soru": "Malazgirt Savaşı'nın sonuçları arasında aşağıdakilerden hangisi yer almaz?",
-          "secenekler": [
-            "Anadolu'nun kapıları Türklere açılmıştır",
-            "Bizans ordusu büyük bir yenilgiye uğramıştır",
-            "Türkiye tarihi başlamıştır",
-            "Büyük Selçuklu Devleti kurulmuştur"
-          ],
-          "dogruCevap": "Büyük Selçuklu Devleti kurulmuştur",
-          "aciklama": "Büyük Selçuklu Devleti daha önce Dandanakan Savaşı ile kurulmuştur."
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Türkiye Selçuklu Devleti'nin kurucusudur?",
-          "secenekler": [
-            "Kutalmışoğlu Süleymanşah",
-            "Alparslan",
-            "Tuğrul Bey",
-            "Melikşah"
-          ],
-          "dogruCevap": "Kutalmışoğlu Süleymanşah"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Karahanlılar döneminde İslamiyet'in Türkler arasında yayılmasında etkili olan faktörlerden biri değildir?",
-          "secenekler": [
-            "Türkçe eserler yazılması",
-            "Medreselerin kurulması",
-            "Ribatların inşa edilmesi",
-            "Hindistan seferlerinin düzenlenmesi"
-          ],
-          "dogruCevap": "Hindistan seferlerinin düzenlenmesi",
-          "aciklama": "Hindistan seferleri Gazneliler döneminde yapılmıştır."
-        },
-        {
-          "soru": "Büyük Selçuklu Devleti'nde aşağıdaki kurumlardan hangisi eğitim faaliyetlerini yürütmüştür?",
-          "secenekler": [
-            "Nizamiye Medreseleri",
-            "Divan-ı İnşa",
-            "Divan-ı Arz",
-            "Divan-ı İstifa"
-          ],
-          "dogruCevap": "Nizamiye Medreseleri"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Gazneli Mahmut'un Hindistan seferlerinin amaçlarından biri değildir?",
-          "secenekler": [
-            "İslamiyet'i yaymak",
-            "Ganimet elde etmek",
-            "Türk hakimiyetini kurmak",
-            "Bizans'ı zayıflatmak"
-          ],
-          "dogruCevap": "Bizans'ı zayıflatmak"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Büyük Selçuklu Devleti'nin yıkılış nedenleri arasında gösterilemez?",
-          "secenekler": [
-            "Taht kavgaları",
-            "Moğol istilası",
-            "İkta sisteminin bozulması",
-            "Haçlı Seferleri"
-          ],
-          "dogruCevap": "Haçlı Seferleri",
-          "aciklama": "Haçlı Seferleri daha çok Türkiye Selçuklularını etkilemiştir."
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Karahanlılar döneminde yazılan ilk Türkçe siyasetname özelliği taşıyan eserdir?",
-          "secenekler": [
-            "Kutadgu Bilig",
-            "Divan-ı Lügati't Türk",
-            "Atabetü'l Hakayık",
-            "Divan-ı Hikmet"
-          ],
-          "dogruCevap": "Kutadgu Bilig"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Büyük Selçuklu Devleti'nde vezirlik yapmış önemli devlet adamlarından biri değildir?",
-          "secenekler": [
-            "Nizamülmülk",
-            "Amidülmülk Kündüri",
-            "Tacülmülk",
-            "Yusuf Has Hacib"
-          ],
-          "dogruCevap": "Yusuf Has Hacib",
-          "aciklama": "Yusuf Has Hacib, Kutadgu Bilig'in yazarıdır ve Karahanlılar döneminde yaşamıştır."
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Dandanakan Savaşı'nın sonuçlarından biri değildir?",
-          "secenekler": [
-            "Büyük Selçuklu Devleti kuruldu",
-            "Gazneliler zayıfladı",
-            "Türkler İran'a hakim oldu",
-            "Anadolu'nun kapıları Türklere açıldı"
-          ],
-          "dogruCevap": "Anadolu'nun kapıları Türklere açıldı",
-          "aciklama": "Anadolu'nun kapıları Malazgirt Savaşı ile açılmıştır."
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Karahanlılar döneminde kurulan ilk Türk-İslam şehridir?",
-          "secenekler": [
-            "Kaşgar",
-            "Semerkant",
-            "Buhara",
-            "Balasagun"
-          ],
-          "dogruCevap": "Kaşgar"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Büyük Selçuklu Devleti'nde görülen askeri teşkilat birimlerinden biri değildir?",
-          "secenekler": [
-            "Gulaman-ı Saray",
-            "Hassa Ordusu",
-            "Türkmen Birlikleri",
-            "Yeniçeri Ocağı"
-          ],
-          "dogruCevap": "Yeniçeri Ocağı",
-          "aciklama": "Yeniçeri Ocağı Osmanlı Devleti'ne ait bir kurumdur."
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Gazneliler döneminde bilim ve kültür alanında öne çıkan bilim insanlarından biri değildir?",
-          "secenekler": [
-            "Biruni",
-            "Firdevsi",
-            "Kaşgarlı Mahmut",
-            "Utbi"
-          ],
-          "dogruCevap": "Kaşgarlı Mahmut",
-          "aciklama": "Kaşgarlı Mahmut Karahanlılar döneminde yaşamıştır."
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Büyük Selçuklu Devleti'nde uygulanan ikta sisteminin özelliklerinden biri değildir?",
-          "secenekler": [
-            "Toprakların mülkiyeti devlete aitti",
-            "Askeri amaçlı bir sistemdi",
-            "Babadan oğula geçerdi",
-            "Vergi toplama hakkı verilirdi"
-          ],
-          "dogruCevap": "Babadan oğula geçerdi"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Karahanlılar döneminde İslamiyet'i kabul eden ilk Türk hükümdarıdır?",
-          "secenekler": [
-            "Satuk Buğra Han",
-            "Bilge Kağan",
-            "Alp Arslan",
-            "Tuğrul Bey"
-          ],
-          "dogruCevap": "Satuk Buğra Han"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Büyük Selçuklu Devleti'nin başkentlerinden biri değildir?",
-          "secenekler": [
-            "Rey",
-            "Nişabur",
-            "Isfahan",
-            "Semerkant"
-          ],
-          "dogruCevap": "Semerkant",
-          "aciklama": "Semerkant, Karahanlıların önemli şehirlerinden biridir."
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Gazneli Mahmut'un 'Sultan' unvanını almasının nedenidir?",
-          "secenekler": [
-            "Abbasi halifesini Şii Büveyhoğullarına karşı koruması",
-            "Hindistan seferlerini başarıyla tamamlaması",
-            "Büyük bir devlet kurması",
-            "Samani Devleti'ni ortadan kaldırması"
-          ],
-          "dogruCevap": "Abbasi halifesini Şii Büveyhoğullarına karşı koruması"
-        }
-      ],
+        "İslamiyet Öncesi Türk Tarihi": [
+          {
+            "soru": "Türk adı ilk kez hangi kaynakta geçmektedir?",
+            "secenekler": [
+              "Çin kaynakları",
+              "Bizans kaynakları",
+              "Arap kaynakları",
+              "Fars kaynakları"
+            ],
+            "dogruCevap": "Çin kaynakları",
+            "aciklama": "Çin kaynaklarında geçmektedir."
+          },
+          {
+            "soru": "Orta Asya'daki en eski kültür merkezi hangisidir?", 
+            "secenekler": [
+              "Anav",
+              "Afanesyova",
+              "Karasuk",
+              "Tagar"
+            ],
+            "dogruCevap": "Anav",
+            "aciklama": "Anav Kültürü."
+          },
+          {
+            "soru": "Demiri en erken işleyen Orta Asya kültürü hangisidir?",
+            "secenekler": [
+              "Karasuk",
+              "Afanesyova",
+              "Anav",
+              "Tagar"  
+            ],
+            "dogruCevap": "Karasuk",
+            "aciklama": "Karasuk Kültürü."
+          },
+          {
+            "soru": "Türklerin bilinen ilk topluluğu hangisidir?",
+            "secenekler": [
+              "İskitler (Sakalar)",
+              "Hunlar",
+              "Göktürkler", 
+              "Uygurlar"
+            ],
+            "dogruCevap": "İskitler (Sakalar)",
+            "aciklama": "İskitler (Sakalar)."
+          },
+          {
+            "soru": "Bozkırın kuyumcuları olarak bilinen Türk topluluğu hangisidir?",
+            "secenekler": [
+              "İskitler (Sakalar)",
+              "Hunlar",
+              "Göktürkler",
+              "Uygurlar"
+            ],
+            "dogruCevap": "İskitler (Sakalar)", 
+            "aciklama": "İskitler (Sakalar)."
+          },
+          {
+            "soru": "Pantolonu ve kemeri bulan Türk topluluğu kimdir?",
+            "secenekler": [
+              "İskitler (Sakalar)",
+              "Hunlar",
+              "Göktürkler",
+              "Uygurlar"
+            ],
+            "dogruCevap": "İskitler (Sakalar)",
+            "aciklama": "İskitler (Sakalar)."
+          },
+          {
+            "soru": "Balbal (mezar taşı) geleneğini başlatan Türk topluluğu hangisidir?",
+            "secenekler": [
+              "İskitler (Sakalar)", 
+              "Hunlar",
+              "Göktürkler",
+              "Uygurlar"
+            ],
+            "dogruCevap": "İskitler (Sakalar)",
+            "aciklama": "İskitler (Sakalar)."
+          },
+          {
+            "soru": "Türk tarihinde bilinen ilk kadın hükümdar kimdir?",
+            "secenekler": [
+              "Tomris Hatun",
+              "Börü Hatun",
+              "Bilge Hatun",
+              "Po Beg Hatun"
+            ],
+            "dogruCevap": "Tomris Hatun",
+            "aciklama": "Tomris Hatun."
+          },
+          {
+            "soru": "Alp Er Tunga ve Şu Destanı hangi Türk topluluğuna aittir?",
+            "secenekler": [
+              "İskitler (Sakalar)",
+              "Hunlar", 
+              "Göktürkler",
+              "Uygurlar"
+            ],
+            "dogruCevap": "İskitler (Sakalar)",
+            "aciklama": "İskitler (Sakalar)."
+          },
+          {
+            "soru": "Orta Asya'da kurulan ilk Türk devleti hangisidir?",
+            "secenekler": [
+              "Asya Hun Devleti",
+              "Göktürkler",
+              "Uygurlar",
+              "Sakalar"
+            ],
+            "dogruCevap": "Asya Hun Devleti",
+            "aciklama": "Asya Hun Devleti (Büyük Hunlar)."
+          },
+          {
+            "soru": "Asya Hun Devleti'nin en parlak dönemi hangi hükümdar dönemindedir?",
+            "secenekler": [
+              "Mete Han",
+              "Teoman",
+              "Ki-ok",
+              "Çi-çi"
+            ],
+            "dogruCevap": "Mete Han",
+            "aciklama": "Mete Han dönemi."
+          },
+          {
+            "soru": "İlk düzenli Türk kara ordusunu kim kurmuştur?",
+            "secenekler": [
+              "Mete Han",
+              "Teoman",
+              "Attila",
+              "Bumin Kağan"
+            ],
+            "dogruCevap": "Mete Han",
+            "aciklama": "Mete Han."
+          },
+          {
+            "soru": "İlk Türk siyasi birliğini kim sağlamıştır?",
+            "secenekler": [
+              "Mete Han",
+              "Teoman",
+              "Attila", 
+              "Bumin Kağan"
+            ],
+            "dogruCevap": "Mete Han",
+            "aciklama": "Mete Han."
+          },
+          {
+            "soru": "Türk tarihinde ilk kez Çin'i vergiye bağlayan hükümdar kimdir?",
+            "secenekler": [
+              "Mete Han",
+              "Teoman",
+              "Attila",
+              "İstemi Yabgu"
+            ],
+            "dogruCevap": "Mete Han",
+            "aciklama": "Mete Han."
+          },
+          {
+            "soru": "İlk Türk-Çin antlaşması hangisidir?",
+            "secenekler": [
+              "Kuzey Şansi Antlaşması",
+              "Ho-han Antlaşması",
+              "An-shi Antlaşması",
+              "Şuan-tung Antlaşması"
+            ],
+            "dogruCevap": "Kuzey Şansi Antlaşması",
+            "aciklama": "Kuzey Şansi Antlaşması."
+          },
+          {
+            "soru": "Türk adının geçtiği ilk belge nedir?",
+            "secenekler": [
+              "Kuzey Şansi Antlaşması",
+              "Orhun Yazıtları",
+              "Kutadgu Bilig",
+              "Divan-ı Lügati't Türk"
+            ],
+            "dogruCevap": "Kuzey Şansi Antlaşması",
+            "aciklama": "Kuzey Şansi Antlaşması."
+          },
+          {
+            "soru": "Türk adının geçtiği Türklere ait ilk belge nedir?",
+            "secenekler": [
+              "Orhun Kitabeleri",
+              "Çin yıllıkları",
+              "Kutadgu Bilig",
+              "Divan-ı Lügati't Türk"
+            ],
+            "dogruCevap": "Orhun Kitabeleri",
+            "aciklama": "Orhun Kitabeleri."
+          },
+          {
+            "soru": "Mete Han'ın tahta çıkışı olan M.Ö. 209 tarihi günümüzde hangi kurumun kuruluş yılı kabul edilir?",
+            "secenekler": [
+              "Kara Kuvvetleri Komutanlığı",
+              "Türk Polis Teşkilatı",
+              "Türk Jandarma Teşkilatı",
+              "Türk İstihbarat Teşkilatı"
+            ],
+            "dogruCevap": "Kara Kuvvetleri Komutanlığı",
+            "aciklama": "Kara Kuvvetleri Komutanlığı."
+          },
+          {
+            "soru": "Kavimler Göçü sonucunda hangi devlet ikiye ayrılmıştır?",
+            "secenekler": [
+              "Roma İmparatorluğu",
+              "Pers İmparatorluğu",
+              "Çin İmparatorluğu",
+              "Bizans İmparatorluğu"
+            ],
+            "dogruCevap": "Roma İmparatorluğu",
+            "aciklama": "Roma İmparatorluğu (Doğu Roma ve Batı Roma)."
+          }
+        ],
+          "İslamiyet Öncesi Türk Tarihi 2": [
+            {
+              "soru": "Avrupa'da kurulan ilk Türk devleti hangisidir?",
+              "secenekler": [
+                "Avrupa Hun Devleti",
+                "Avar Kağanlığı",
+                "Hazarlar",
+                "Peçenekler"
+              ],
+              "dogruCevap": "Avrupa Hun Devleti",
+              "aciklama": "Avrupa Hun Devleti."
+            },
+            {
+              "soru": "Avrupa Hun Devleti'nin en parlak dönemi hangi hükümdar dönemindedir?",
+              "secenekler": [
+                "Attila",
+                "Uldız",
+                "Rua",
+                "Bleda"
+              ],
+              "dogruCevap": "Attila",
+              "aciklama": "Attila dönemi."
+            },
+            {
+              "soru": "Attila'nın Batı Roma üzerine düzenlediği seferlerin isimleri nelerdir?",
+              "secenekler": [
+                "Galya ve İtalya Seferleri",
+                "Balkan ve Trakya Seferleri",
+                "Germanya ve Galya Seferleri",
+                "Roma ve Bizans Seferleri"
+              ],
+              "dogruCevap": "Galya ve İtalya Seferleri",
+              "aciklama": "Galya Seferi ve İtalya Seferi."
+            },
+            {
+              "soru": "Attila, hangi destanda 'Etzel' adıyla geçmektedir?",
+              "secenekler": [
+                "Nibelungen Destanı",
+                "Oğuz Kağan Destanı",
+                "Ergenekon Destanı",
+                "Manas Destanı"
+              ],
+              "dogruCevap": "Nibelungen Destanı",
+              "aciklama": "Nibelungen Destanı."
+            },
+            {
+              "soru": "Anadolu'ya ilk sefer düzenleyen Türk hükümdarı kimdir?",
+              "secenekler": [
+                "Uldız",
+                "Attila",
+                "Rua",
+                "Bleda"
+              ],
+              "dogruCevap": "Uldız",
+              "aciklama": "Uldız."
+            },
+            {
+              "soru": "'Türk' adını taşıyan ilk Türk devleti hangisidir?",
+              "secenekler": [
+                "I. Köktürk Devleti",
+                "Uygurlar",
+                "Hunlar",
+                "Avarlar"
+              ],
+              "dogruCevap": "I. Köktürk Devleti",
+              "aciklama": "I. Köktürk Devleti."
+            },
+            {
+              "soru": "I. Köktürk Devleti'nin kurucusu kimdir?",
+              "secenekler": [
+                "Bumin Kağan",
+                "İstemi Yabgu",
+                "Bilge Kağan",
+                "Kültigin"
+              ],
+              "dogruCevap": "Bumin Kağan",
+              "aciklama": "Bumin Kağan."
+            },
+            {
+              "soru": "Orhun Abideleri hangi Türk devletine aittir?",
+              "secenekler": [
+                "II. Köktürk (Kutluk) Devleti",
+                "I. Köktürk Devleti",
+                "Uygurlar",
+                "Hunlar"
+              ],
+              "dogruCevap": "II. Köktürk (Kutluk) Devleti",
+              "aciklama": "II. Köktürk (Kutluk) Devleti."
+            },
+            {
+              "soru": "Vezir Tonyukuk'a hangi unvanlar verilmiştir?",
+              "secenekler": [
+                "İlk yazar, ilk tarihçi, ilk siyasetçi, ilk vezir",
+                "Bilge vezir, başkomutan",
+                "Yabgu, şad",
+                "Erkin, tudun"
+              ],
+              "dogruCevap": "İlk yazar, ilk tarihçi, ilk siyasetçi, ilk vezir",
+              "aciklama": "İlk yazar, ilk tarihçi, ilk siyasetçi, ilk vezir."
+            },
+            {
+              "soru": "Uygurlar hangi dini benimseyerek savaşçılık özelliklerini kaybetmiştir?",
+              "secenekler": [
+                "Manihaizm",
+                "Budizm",
+                "Şamanizm",
+                "Musevilik"
+              ],
+              "dogruCevap": "Manihaizm",
+              "aciklama": "Manihaizm."
+            },
+            {
+              "soru": "İlk Türk tiyatrosu hangi Türk devleti zamanında ortaya çıkmıştır?",
+              "secenekler": [
+                "Uygurlar",
+                "Göktürkler",
+                "Hunlar",
+                "Hazarlar"
+              ],
+              "dogruCevap": "Uygurlar",
+              "aciklama": "Uygurlar."
+            },
+            {
+              "soru": "Uygurların ilk yazılı edebi eseri hangisidir?",
+              "secenekler": [
+                "Irk Bitig",
+                "Kutadgu Bilig",
+                "Divan-ı Lügati't Türk",
+                "Atabetü'l Hakayık"
+              ],
+              "dogruCevap": "Irk Bitig",
+              "aciklama": "Irk Bitig."
+            },
+            {
+              "soru": "Moğolların Türkleşmesinde etkili olan Türk devleti hangisidir?",
+              "secenekler": [
+                "Uygurlar",
+                "Göktürkler",
+                "Hunlar",
+                "Kırgızlar"
+              ],
+              "dogruCevap": "Uygurlar",
+              "aciklama": "Uygurlar."
+            },
+            {
+              "soru": "Manihaizm'in Uygurlara kazandırdığı en önemli yenilikler nelerdir?",
+              "secenekler": [
+                "Yerleşik hayat, tarım, sanat ve matbaa",
+                "Göçebe hayat ve hayvancılık",
+                "Savaşçılık ve askerlik",
+                "Ticaret ve zanaat"
+              ],
+              "dogruCevap": "Yerleşik hayat, tarım, sanat ve matbaa",
+              "aciklama": "Yerleşik hayat, tarım, sanat ve matbaa."
+            },
+            {
+              "soru": "Uygurların kurduğu önemli şehir merkezlerinden biri nedir?",
+              "secenekler": [
+                "Karabalasagun",
+                "Ötüken",
+                "Karakurum",
+                "Balasagun"
+              ],
+              "dogruCevap": "Karabalasagun",
+              "aciklama": "Karabalasagun."
+            },
+            {
+              "soru": "Türklerde hükümdarlık yetkisi hangi üç kavram ile açıklanır?",
+              "secenekler": [
+                "Kut, Ülüg, Küç",
+                "Töre, Yasa, Kurultay",
+                "İl, Bodun, Budun",
+                "Toy, Şölen, Yuğ"
+              ],
+              "dogruCevap": "Kut, Ülüg, Küç",
+              "aciklama": "Kut (siyasi yetki), Ülüg (ekonomik güç), Küç (askeri güç)."
+            },
+            {
+              "soru": "Türklerde devletin temel yapısını oluşturan sosyal yapının en küçük birimi nedir?",
+              "secenekler": [
+                "Oguş (Aile)",
+                "Boy",
+                "Bodun",
+                "Budun"
+              ],
+              "dogruCevap": "Oguş (Aile)",
+              "aciklama": "Oguş (Aile)."
+            },
+            {
+              "soru": "İslamiyet öncesi Türklerde yazılı olmayan hukuk kurallarına ne ad verilir?",
+              "secenekler": [
+                "Töre",
+                "Yasa",
+                "Kanun",
+                "Tüzük"
+              ],
+              "dogruCevap": "Töre",
+              "aciklama": "Töre."
+            },
+            {
+              "soru": "Türk devletlerinde ikili yönetim sisteminin amacı nedir?",
+              "secenekler": [
+                "Devleti daha kolay yönetmek",
+                "Vergi toplamak",
+                "Orduyu güçlendirmek",
+                "Ticareti geliştirmek"
+              ],
+              "dogruCevap": "Devleti daha kolay yönetmek",
+              "aciklama": "Devleti daha kolay yönetmek."
+            },
+            {
+              "soru": "Türklerde din adamına verilen isimlerden üç tanesi nedir?",
+              "secenekler": [
+                "Kam, Şaman, Baksı",
+                "Bey, Han, Kağan",
+                "Tarkan, Şad, Yabgu",
+                "Tudun, İnal, Erkin"
+              ],
+              "dogruCevap": "Kam, Şaman, Baksı",
+              "aciklama": "Kam, Şaman, Baksı."
+            },
+            {
+              "soru": "Türklerde cenaze törenine verilen isim nedir?",
+              "secenekler": [
+                "Yuğ",
+                "Şölen",
+                "Toy",
+                "Sığır"
+              ],
+              "dogruCevap": "Yuğ",
+              "aciklama": "Yuğ."
+            },
+            {
+              "soru": "Ordu-millet anlayışı nedir?",
+              "secenekler": [
+                "Her Türk'ün asker kabul edilmesi",
+                "Ordunun devletten ayrı olması",
+                "Sadece erkeklerin asker olması",
+                "Profesyonel ordu kurulması"
+              ],
+              "dogruCevap": "Her Türk'ün asker kabul edilmesi",
+              "aciklama": "Her Türk'ün asker kabul edilmesi."
+            },
+            {
+              "soru": "Onluk sistem ilk olarak hangi hükümdar tarafından oluşturulmuştur?",
+              "secenekler": [
+                "Mete Han",
+                "Attila",
+                "Bumin Kağan",
+                "Bilge Kağan"
+              ],
+              "dogruCevap": "Mete Han",
+              "aciklama": "Mete Han."
+            },
+            {
+              "soru": "Türk tarihinin ve edebiyatının ilk yazılı kaynakları nelerdir?",
+              "secenekler": [
+                "Orhun Abideleri",
+                "Divan-ı Lügati't Türk",
+                "Kutadgu Bilig",
+                "Irk Bitig"
+              ],
+              "dogruCevap": "Orhun Abideleri",
+              "aciklama": "Orhun Abideleri."
+            }
+          ],
+            "İlk Türk-İslam Devletleri": [
+              {
+                "soru": "Türkler, Müslüman Araplarla hangi savaş sonrası temas kurmaya başlamıştır?",
+                "secenekler": [
+                  "642 Nihavend Savaşı",
+                  "651 Merv Savaşı",
+                  "751 Talas Savaşı",
+                  "630 Mute Savaşı"
+                ],
+                "dogruCevap": "642 Nihavend Savaşı",
+                "aciklama": "642 Nihavend Savaşı."
+              },
+              {
+                "soru": "Talas Savaşı (751) kimler arasında yapılmıştır?",
+                "secenekler": [
+                  "Abbasiler ile Çinliler",
+                  "Emeviler ile Türkler",
+                  "Abbasiler ile Türkler",
+                  "Emeviler ile Çinliler"
+                ],
+                "dogruCevap": "Abbasiler ile Çinliler",
+                "aciklama": "Abbasiler ile Çinliler arasında."
+              },
+              {
+                "soru": "Talas Savaşı'nın Türkler açısından önemi nedir?",
+                "secenekler": [
+                  "Türklerin İslamiyet'i yakından tanıması ve İslamiyet'in Türkler arasında yayılması",
+                  "Türklerin Çin'e karşı zafer kazanması",
+                  "Türklerin Arap topraklarını ele geçirmesi",
+                  "Türklerin ticaret yollarına hakim olması"
+                ],
+                "dogruCevap": "Türklerin İslamiyet'i yakından tanıması ve İslamiyet'in Türkler arasında yayılması",
+                "aciklama": "Türklerin İslamiyet'i yakından tanımasına ve İslamiyet'in Türkler arasında yayılmasına neden olmuştur."
+              },
+              {
+                "soru": "Talas Savaşı sonrası Müslümanlar hangi Çin icatlarını öğrenerek dünyaya yaymıştır?",
+                "secenekler": [
+                  "Kâğıt, matbaa, barut ve pusula",
+                  "Sadece kağıt ve matbaa",
+                  "Sadece barut ve pusula",
+                  "Sadece kağıt ve barut"
+                ],
+                "dogruCevap": "Kâğıt, matbaa, barut ve pusula",
+                "aciklama": "Kâğıt, matbaa, barut ve pusula."
+              },
+              {
+                "soru": "İslamiyet'i kabul eden ilk Türk boyu hangisidir?",
+                "secenekler": [
+                  "Karluklar",
+                  "Oğuzlar",
+                  "Kıpçaklar",
+                  "Peçenekler"
+                ],
+                "dogruCevap": "Karluklar",
+                "aciklama": "Karluklar."
+              },
+              {
+                "soru": "Orta Asya'da kurulan ilk Müslüman Türk devleti hangisidir?",
+                "secenekler": [
+                  "Karahanlılar",
+                  "Gazneliler",
+                  "Selçuklular",
+                  "İdil Bulgarları"
+                ],
+                "dogruCevap": "Karahanlılar",
+                "aciklama": "Karahanlılar."
+              },
+              {
+                "soru": "Avrupa'da kurulan ilk Türk-İslam devleti hangisidir?",
+                "secenekler": [
+                  "İdil (Volga) Bulgarları",
+                  "Peçenekler",
+                  "Kumanlar",
+                  "Hazarlar"
+                ],
+                "dogruCevap": "İdil (Volga) Bulgarları",
+                "aciklama": "İdil (Volga) Bulgarları."
+              },
+              {
+                "soru": "Karahanlı Devleti hangi boylar tarafından kurulmuştur?",
+                "secenekler": [
+                  "Karluk, Yağma, Çiğil ve Tuhsi boyları",
+                  "Oğuz boyları",
+                  "Kıpçak boyları",
+                  "Peçenek boyları"
+                ],
+                "dogruCevap": "Karluk, Yağma, Çiğil ve Tuhsi boyları",
+                "aciklama": "Karluk, Yağma, Çiğil ve Tuhsi boyları."
+              },
+              {
+                "soru": "İslamiyet'i kabul eden ilk Karahanlı hükümdarı kimdir?",
+                "secenekler": [
+                  "Satuk Buğra Han",
+                  "Bilge Kül Kadir Han",
+                  "Yusuf Kadir Han",
+                  "Harun Buğra Han"
+                ],
+                "dogruCevap": "Satuk Buğra Han",
+                "aciklama": "Satuk Buğra Han."
+              },
+              {
+                "soru": "Satuk Buğra Han, Müslüman olduktan sonra hangi ismi almıştır?",
+                "secenekler": [
+                  "Abdülkerim",
+                  "Abdurrahman",
+                  "Abdullah",
+                  "Abdülaziz"
+                ],
+                "dogruCevap": "Abdülkerim",
+                "aciklama": "Abdülkerim."
+              },
+              {
+                "soru": "İlk Türk-İslam medresesi hangi devlet tarafından kurulmuştur?",
+                "secenekler": [
+                  "Karahanlılar",
+                  "Gazneliler",
+                  "Selçuklular",
+                  "Harzemşahlar"
+                ],
+                "dogruCevap": "Karahanlılar",
+                "aciklama": "Karahanlılar."
+              },
+              {
+                "soru": "Karahanlıların kurduğu ilk medreseye ne ad verilir?",
+                "secenekler": [
+                  "Semerkand Medresesi",
+                  "Buhara Medresesi",
+                  "Kaşgar Medresesi",
+                  "Balasagun Medresesi"
+                ],
+                "dogruCevap": "Semerkand Medresesi",
+                "aciklama": "Semerkand Medresesi."
+              },
+              {
+                "soru": "İlk Türk-İslam hastaneleri (Bimarhane) hangi devlet tarafından kurulmuştur?",
+                "secenekler": [
+                  "Karahanlılar",
+                  "Gazneliler",
+                  "Selçuklular",
+                  "Harzemşahlar"
+                ],
+                "dogruCevap": "Karahanlılar",
+                "aciklama": "Karahanlılar."
+              },
+              {
+                "soru": "Ribat adı verilen ilk kervansarayları kim kurmuştur?",
+                "secenekler": [
+                  "Karahanlılar",
+                  "Gazneliler",
+                  "Selçuklular",
+                  "Harzemşahlar"
+                ],
+                "dogruCevap": "Karahanlılar",
+                "aciklama": "Karahanlılar."
+              },
+         
+              {
+                "soru": "Gazneli Devleti'ni kuran komutan kimdir?",
+                "secenekler": [
+                  "Alp Tigin",
+                  "Sebük Tigin",
+                  "Gazneli Mahmut",
+                  "İbrahim"
+                ],
+                "dogruCevap": "Alp Tigin",
+                "aciklama": "Alp Tigin."
+              },
+              {
+                "soru": "Gazneli Mahmut, Hindistan'a kaç sefer düzenlemiştir?",
+                "secenekler": [
+                  "17 sefer",
+                  "15 sefer",
+                  "20 sefer",
+                  "12 sefer"
+                ],
+                "dogruCevap": "17 sefer",
+                "aciklama": "17 sefer."
+              },
+              {
+                "soru": "Gazneli Mahmut'a Abbasi Halifesi tarafından hangi unvan verilmiştir?",
+                "secenekler": [
+                  "Sultan",
+                  "Melik",
+                  "Emir",
+                  "Han"
+                ],
+                "dogruCevap": "Sultan",
+                "aciklama": "Sultan (Tarihte ilk kez Sultan unvanını kullanan hükümdardır)."
+              },
+              {
+                "soru": "İlk gulam (devşirme) sistemini kullanan devlet hangisidir?",
+                "secenekler": [
+                  "Gazneliler",
+                  "Karahanlılar",
+                  "Selçuklular",
+                  "Harzemşahlar"
+                ],
+                "dogruCevap": "Gazneliler",
+                "aciklama": "Gazneliler."
+              }
+            ],
+              "İlk Türk-İslam Devletleri 2": [
+                {
+                  "soru": "Firdevsi'nin Şehname adlı eserini yazdığı hükümdar kimdir?",
+                  "secenekler": [
+                    "Gazneli Mahmut",
+                    "Alp Tigin",
+                    "Sebük Tigin",
+                    "Sultan Mesud"
+                  ],
+                  "dogruCevap": "Gazneli Mahmut",
+                  "aciklama": "Gazneli Mahmut."
+                },
+                {
+                  "soru": "Gazneliler ile Selçuklular arasında yapılan Dandanakan Savaşı'nın sonucu ne olmuştur?",
+                  "secenekler": [
+                    "Selçuklular kazanmış, Gazneliler yıkılma sürecine girmiştir",
+                    "Gazneliler kazanmıştır",
+                    "Savaş berabere bitmiştir",
+                    "İki taraf barış yapmıştır"
+                  ],
+                  "dogruCevap": "Selçuklular kazanmış, Gazneliler yıkılma sürecine girmiştir",
+                  "aciklama": "Selçuklular kazanmış, Gazneliler yıkılma sürecine girmiştir."
+                },
+                {
+                  "soru": "Türk-İslam devletlerinde 'Kut' anlayışı ne olarak kabul edilmiştir?",
+                  "secenekler": [
+                    "Allah'ın nasibi veya Allah'ın takdiri",
+                    "Halkın seçimi",
+                    "Askeri güç",
+                    "Ekonomik güç"
+                  ],
+                  "dogruCevap": "Allah'ın nasibi veya Allah'ın takdiri",
+                  "aciklama": "Allah'ın nasibi veya Allah'ın takdiri."
+                },
+                {
+                  "soru": "İslamiyet'in kabulü ile 'İl' kelimesinin yerini hangi kelimeler almıştır?",
+                  "secenekler": [
+                    "Devlet ve mülk",
+                    "Ülke ve vatan",
+                    "Memleket ve yurt",
+                    "Diyar ve ülke"
+                  ],
+                  "dogruCevap": "Devlet ve mülk",
+                  "aciklama": "Devlet ve mülk."
+                },
+                {
+                  "soru": "Karahanlılar'da hakan yerine hangi unvan kullanılmıştır?",
+                  "secenekler": [
+                    "Arslan Han",
+                    "Buğra Han",
+                    "İlig Han",
+                    "Sultan Han"
+                  ],
+                  "dogruCevap": "Arslan Han",
+                  "aciklama": "Arslan Han."
+                },
+                {
+                  "soru": "Karahanlılar'da yabgu yerine hangi unvan kullanılmıştır?",
+                  "secenekler": [
+                    "Buğra Han",
+                    "Arslan Han",
+                    "İlig Han",
+                    "Sultan Han"
+                  ],
+                  "dogruCevap": "Buğra Han",
+                  "aciklama": "Buğra Han."
+                },
+                {
+                  "soru": "Karahanlılar'da şad yerine hangi unvan kullanılmıştır?",
+                  "secenekler": [
+                    "İlig Han",
+                    "Arslan Han",
+                    "Buğra Han",
+                    "Sultan Han"
+                  ],
+                  "dogruCevap": "İlig Han",
+                  "aciklama": "İlig Han."
+                },
+                {
+                  "soru": "Gazneliler, hükümdarları için hangi İslami unvanları kullanmışlardır?",
+                  "secenekler": [
+                    "Emir ve Sultan",
+                    "Han ve Hakan",
+                    "Melik ve Şah",
+                    "Yabgu ve Şad"
+                  ],
+                  "dogruCevap": "Emir ve Sultan",
+                  "aciklama": "Emir ve Sultan."
+                },
+                {
+                  "soru": "İlk Türk-İslam devletlerinde hükümdarlar özel giysilerine ne ad vermişlerdir?",
+                  "secenekler": [
+                    "Tıraz",
+                    "Kaftan",
+                    "Hilat",
+                    "Çapan"
+                  ],
+                  "dogruCevap": "Tıraz",
+                  "aciklama": "Tıraz."
+                },
+                {
+                  "soru": "İlk Türk-İslam devletlerinde resmi belgelerde kullanılan mühürlere ne ad verilmiştir?",
+                  "secenekler": [
+                    "Tuğra veya Tevki",
+                    "Mühür",
+                    "Damga",
+                    "Tamga"
+                  ],
+                  "dogruCevap": "Tuğra veya Tevki",
+                  "aciklama": "Tuğra veya Tevki."
+                },
+                {
+                  "soru": "İlk Türk-İslam devletlerinde hukuk sistemi kaça ayrılır?",
+                  "secenekler": [
+                    "Şer'i hukuk ve Örfi hukuk",
+                    "Medeni hukuk ve Ceza hukuku",
+                    "Yazılı hukuk ve Sözlü hukuk",
+                    "Devlet hukuku ve Özel hukuk"
+                  ],
+                  "dogruCevap": "Şer'i hukuk ve Örfi hukuk",
+                  "aciklama": "Şer'i hukuk (İslam hukuku) ve Örfi hukuk (Türk gelenek hukuku)."
+                },
+                {
+                  "soru": "Karahanlı ve Gazneli hükümdarları örfi mahkemelere başkanlık etmiş midir?",
+                  "secenekler": [
+                    "Evet",
+                    "Hayır",
+                    "Sadece Karahanlılar",
+                    "Sadece Gazneliler"
+                  ],
+                  "dogruCevap": "Evet",
+                  "aciklama": "Evet."
+                },
+                {
+                  "soru": "Gazne ordusunda yer alan askeri gruplardan biri değildir?",
+                  "secenekler": [
+                    "Janissaries",
+                    "Gulamlar",
+                    "Sipahiler",
+                    "Türkmenler"
+                  ],
+                  "dogruCevap": "Janissaries",
+                  "aciklama": "Janissaries (Yeniçeriler Osmanlı Devleti'ne aittir)."
+                },
+                {
+                  "soru": "İlk Türk-İslam devletlerinde savaşlarda ve törenlerde çalınan müzik aleti nedir?",
+                  "secenekler": [
+                    "Nevbet",
+                    "Davul",
+                    "Zurna",
+                    "Mehter"
+                  ],
+                  "dogruCevap": "Nevbet",
+                  "aciklama": "Nevbet."
+                },
+                {
+                  "soru": "İlk Türk-İslam edebi eseri hangisidir?",
+                  "secenekler": [
+                    "Kutadgu Bilig",
+                    "Dîvânu Lugâti't-Türk",
+                    "Atabetü'l-Hakayık",
+                    "Divan-ı Hikmet"
+                  ],
+                  "dogruCevap": "Kutadgu Bilig",
+                  "aciklama": "Kutadgu Bilig (Yusuf Has Hacip)."
+                },
+                {
+                  "soru": "Kutadgu Bilig'in yazarı kimdir?",
+                  "secenekler": [
+                    "Yusuf Has Hacip",
+                    "Kaşgarlı Mahmut",
+                    "Edip Ahmet Yükneki",
+                    "Hoca Ahmet Yesevi"
+                  ],
+                  "dogruCevap": "Yusuf Has Hacip",
+                  "aciklama": "Yusuf Has Hacip."
+                },
+                {
+                  "soru": "Türk tarihinin ilk sözlüğü nedir?",
+                  "secenekler": [
+                    "Dîvânu Lugâti't-Türk",
+                    "Kutadgu Bilig",
+                    "Atabetü'l-Hakayık",
+                    "Divan-ı Hikmet"
+                  ],
+                  "dogruCevap": "Dîvânu Lugâti't-Türk",
+                  "aciklama": "Dîvânu Lugâti't-Türk."
+                },
+                {
+                  "soru": "Dîvânu Lugâti't-Türk'ün yazarı kimdir?",
+                  "secenekler": [
+                    "Kaşgarlı Mahmut",
+                    "Yusuf Has Hacip",
+                    "Edip Ahmet Yükneki",
+                    "Hoca Ahmet Yesevi"
+                  ],
+                  "dogruCevap": "Kaşgarlı Mahmut",
+                  "aciklama": "Kaşgarlı Mahmut."
+                },
+                {
+                  "soru": "Gerçeklerin Eşiği anlamına gelen eser hangisidir?",
+                  "secenekler": [
+                    "Atabetü'l-Hakayık",
+                    "Kutadgu Bilig",
+                    "Dîvânu Lugâti't-Türk",
+                    "Divan-ı Hikmet"
+                  ],
+                  "dogruCevap": "Atabetü'l-Hakayık",
+                  "aciklama": "Atabetü'l-Hakayık (Edip Ahmet Yükneki)."
+                },
+                {
+                  "soru": "Türk tasavvuf tarihinin ilk eseri nedir?",
+                  "secenekler": [
+                    "Divan-ı Hikmet",
+                    "Kutadgu Bilig",
+                    "Atabetü'l-Hakayık",
+                    "Dîvânu Lugâti't-Türk"
+                  ],
+                  "dogruCevap": "Divan-ı Hikmet",
+                  "aciklama": "Divan-ı Hikmet (Hoca Ahmet Yesevi)."
+                },
+                {
+                  "soru": "Büyük Selçuklu Devleti hangi savaş sonucunda resmen kurulmuştur?",
+                  "secenekler": [
+                    "1040 Dandanakan Savaşı",
+                    "1048 Pasinler Savaşı",
+                    "1071 Malazgirt Savaşı",
+                    "1037 Merv Savaşı"
+                  ],
+                  "dogruCevap": "1040 Dandanakan Savaşı",
+                  "aciklama": "1040 Dandanakan Savaşı."
+                },
+                {
+                  "soru": "Büyük Selçuklu Devleti ile Bizans arasındaki ilk büyük savaş hangisidir?",
+                  "secenekler": [
+                    "Pasinler Savaşı (1048)",
+                    "Malazgirt Savaşı (1071)",
+                    "Dandanakan Savaşı (1040)",
+                    "Katvan Savaşı (1141)"
+                  ],
+                  "dogruCevap": "Pasinler Savaşı (1048)",
+                  "aciklama": "Pasinler Savaşı (1048)."
+                },
+                {
+                  "soru": "Malazgirt Savaşı'nın (1071) sonuçlarından biri değildir?",
+                  "secenekler": [
+                    "Bizans İmparatorluğu tamamen yıkıldı",
+                    "Anadolu'nun kapıları Türklere açıldı",
+                    "Haçlı Seferleri başladı",
+                    "Anadolu'da Türk beylikleri kuruldu"
+                  ],
+                  "dogruCevap": "Bizans İmparatorluğu tamamen yıkıldı",
+                  "aciklama": "Bizans İmparatorluğu tamamen yıkılmadı."
+                },
+                {
+                  "soru": "Selçuklu Devleti'nin en parlak dönemi hangi hükümdar zamanında yaşanmıştır?",
+                  "secenekler": [
+                    "Melikşah",
+                    "Tuğrul Bey",
+                    "Alparslan",
+                    "Sancar"
+                  ],
+                  "dogruCevap": "Melikşah",
+                  "aciklama": "Melikşah."
+                }
+              ],
       "Anadolu Beylikleri": [
         {
-          "soru": "Aşağıdakilerden hangisi Malazgirt Savaşı'ndan sonra Anadolu'da kurulan ilk Türk beyliğidir?",
+          "soru": "Anadolu'ya ilk kez hangi Türk hükümdarı döneminde akınlar yapılmıştır?",
           "secenekler": [
-            "Danişmentliler",
+            "Alparslan",
+            "Uldız", 
+            "Süleyman Şah",
+            "Çaka Bey"
+          ],
+          "dogruCevap": "Uldız",
+          "aciklama": "Uldız döneminde ilk akınlar yapılmıştır."
+        },
+        {
+          "soru": "Anadolu'nun kapıları Türklere hangi savaşla açılmıştır?",
+          "secenekler": [
+            "Pasinler Savaşı",
+            "Malazgirt Savaşı",
+            "Miryokefalon Savaşı", 
+            "Dandanakan Savaşı"
+          ],
+          "dogruCevap": "Malazgirt Savaşı",
+          "aciklama": "1071 Malazgirt Savaşı ile Anadolu'nun kapıları Türklere açılmıştır."
+        },
+        {
+          "soru": "'Fethedilen bölge fethedenin malıdır.' anlayışı hangi devlet tarafından benimsenmiştir?",
+          "secenekler": [
+            "Osmanlı Devleti",
+            "Anadolu Selçuklu Devleti",
+            "Büyük Selçuklu Devleti",
+            "Gazneliler"
+          ],
+          "dogruCevap": "Büyük Selçuklu Devleti",
+          "aciklama": "Bu anlayış Büyük Selçuklu Devleti tarafından benimsenmiştir."
+        },
+        {
+          "soru": "Anadolu'da kurulan ilk Türk beyliği hangisidir?",
+          "secenekler": [
             "Saltuklular",
+            "Danişmentliler",
             "Mengücekliler",
             "Artuklular"
           ],
           "dogruCevap": "Saltuklular",
-          "aciklama": "Saltuklular, 1071 Malazgirt Savaşı'ndan sonra Erzurum ve çevresinde kurulan ilk Türk beyliğidir."
+          "aciklama": "Saltuklular Anadolu'da kurulan ilk Türk beyliğidir."
         },
         {
-          "soru": "Aşağıdaki beyliklerden hangisi tıp alanında önemli gelişmeler kaydetmiş ve dönemin en büyük hastanesini kurmuştur?",
+          "soru": "Aşağıdakilerden hangisi Anadolu'daki ilk Türk beyliklerinden biri değildir?",
           "secenekler": [
-            "Mengücekliler",
-            "Artuklular",
-            "Danişmentliler",
-            "Saltuklular"
-          ],
-          "dogruCevap": "Mengücekliler",
-          "aciklama": "Mengücekliler döneminde Divriği'de kurulan Darüşşifa, dönemin en önemli sağlık merkezlerinden biriydi."
-        },
-        {
-          "soru": "Aşağıdaki beyliklerden hangisi madeni para basma tekniğinde önemli gelişmeler kaydetmiştir?",
-          "secenekler": [
-            "Artuklular",
             "Saltuklular",
-            "Mengücekliler",
-            "Danişmentliler"
-          ],
-          "dogruCevap": "Artuklular",
-          "aciklama": "Artuklular, madeni para basımında özgün teknikler geliştirmişlerdir."
-        },
-        {
-          "soru": "Aşağıdaki beyliklerden hangisinin merkezi Sivas'tır?",
-          "secenekler": [
             "Danişmentliler",
-            "Saltuklular",
-            "Mengücekliler",
+            "Karamanoğulları",
             "Artuklular"
           ],
-          "dogruCevap": "Danişmentliler"
+          "dogruCevap": "Karamanoğulları",
+          "aciklama": "Karamanoğulları ikinci dönem beyliklerindendir."
         },
         {
-          "soru": "Hasankeyf, hangi beyliğin önemli kültür ve sanat merkezlerinden biridir?",
+          "soru": "Saltuklu Beyliği'nin merkezi neresidir?",
           "secenekler": [
-            "Artuklular",
-            "Danişmentliler",
-            "Saltuklular",
-            "Mengücekliler"
+            "Erzincan",
+            "Sivas",
+            "Erzurum",
+            "Konya"
           ],
-          "dogruCevap": "Artuklular"
+          "dogruCevap": "Erzurum",
+          "aciklama": "Saltukluların merkezi Erzurum'dur."
         },
         {
-          "soru": "Aşağıdaki beyliklerden hangisi Malatya ve çevresinde hüküm sürmüştür?",
+          "soru": "Saltuklular hangi devlet tarafından yıkılmıştır?",
           "secenekler": [
-            "Danişmentliler",
-            "Saltuklular",
-            "Mengücekliler",
-            "Çaka Beyliği"
+            "Osmanlılar",
+            "Türkiye Selçuklu Devleti",
+            "Moğollar",
+            "Memlükler"
           ],
-          "dogruCevap": "Danişmentliler"
+          "dogruCevap": "Türkiye Selçuklu Devleti",
+          "aciklama": "Saltuklular Türkiye Selçuklu Devleti tarafından yıkılmıştır."
         },
         {
-          "soru": "Aşağıdakilerden hangisi Türkiye Selçukluları tarafından en son ortadan kaldırılan beyliktir?",
+          "soru": "Saltuklular döneminden kalma aşağıdaki eserlerden hangisi Erzurum'da yer almaktadır?",
           "secenekler": [
-            "Danişmentliler",
-            "Artuklular",
-            "Saltuklular",
-            "Mengücekliler"
+            "Zinciriye Medresesi",
+            "Malabadi Köprüsü", 
+            "Kale Camii",
+            "Ulu Cami"
           ],
-          "dogruCevap": "Danişmentliler",
-          "aciklama": "Danişmentliler 1178'de ortadan kaldırılmıştır."
+          "dogruCevap": "Kale Camii",
+          "aciklama": "Kale Camii Erzurum'da yer almaktadır."
         },
         {
-          "soru": "Aşağıdaki beyliklerden hangisi denizcilik faaliyetleriyle ön plana çıkmıştır?",
+          "soru": "Mengücekliler hangi komutan tarafından kurulmuştur?",
           "secenekler": [
+            "Danişment Gazi",
+            "Mengücek Gazi",
+            "Çaka Bey",
+            "Saltuk Bey"
+          ],
+          "dogruCevap": "Mengücek Gazi",
+          "aciklama": "Mengücekliler Mengücek Gazi tarafından kurulmuştur."
+        },
+        {
+          "soru": "Mengücekliler hangi şehirlerde hüküm sürmüştür?",
+          "secenekler": [
+            "Erzurum, Erzincan, Sivas",
+            "Erzincan, Kemah, Divriği",
+            "Amasya, Tokat, Kastamonu",
+            "Mardin, Diyarbakır, Batman"
+          ],
+          "dogruCevap": "Erzincan, Kemah, Divriği",
+          "aciklama": "Mengücekliler Erzincan, Kemah ve Divriği'de hüküm sürmüştür."
+        },
+        {
+          "soru": "Mengücekliler döneminden kalma ve UNESCO Dünya Kültür Mirası listesine alınan eser aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Malabadi Köprüsü",
+            "Divriği Ulu Cami ve Darüşşifası",
+            "Mama Hatun Türbesi",
+            "Kayseri Ulu Cami"
+          ],
+          "dogruCevap": "Divriği Ulu Cami ve Darüşşifası",
+          "aciklama": "Divriği Ulu Cami ve Darüşşifası UNESCO Dünya Kültür Mirası listesindedir."
+        },
+        {
+          "soru": "Danişmentli Beyliği'nin kurucusu kimdir?",
+          "secenekler": [
+            "Danişment Gazi",
+            "Gümüştekin Ahmet",
+            "Artuk Bey",
+            "Çaka Bey"
+          ],
+          "dogruCevap": "Gümüştekin Ahmet",
+          "aciklama": "Danişmentliler Gümüştekin Ahmet tarafından kurulmuştur."
+        },
+        {
+          "soru": "Danişmentliler'in merkezi neresidir?",
+          "secenekler": [
+            "Sivas",
+            "Erzurum",
+            "Kayseri",
+            "Malatya"
+          ],
+          "dogruCevap": "Sivas",
+          "aciklama": "Danişmentlilerin merkezi Sivas'tır."
+        },
+        {
+          "soru": "Danişmentliler tarafından yapılan ve Anadolu'daki ilk medrese olma özelliğine sahip olan eser hangisidir?",
+          "secenekler": [
+            "Kayseri Ulu Cami",
+            "Yağıbasan Medresesi",
+            "Zinciriye Medresesi",
+            "Hilafet Gazi Kümbeti"
+          ],
+          "dogruCevap": "Yağıbasan Medresesi",
+          "aciklama": "Yağıbasan Medresesi Anadolu'daki ilk medresedir."
+        },
+        {
+          "soru": "Artuklu Beyliği'nin kurucusu kimdir?",
+          "secenekler": [
+            "Artuk Bey",
+            "Mengücek Gazi",
+            "Çaka Bey",
+            "Saltuk Bey"
+          ],
+          "dogruCevap": "Artuk Bey",
+          "aciklama": "Artuklular Artuk Bey tarafından kurulmuştur."
+        },
+        {
+          "soru": "Artuklular döneminde yetişmiş ve sibernetik biliminin kurucusu kabul edilen bilim insanı kimdir?",
+          "secenekler": [
+            "Biruni",
+            "İbn Sina",
+            "El Cezeri",
+            "Farabi"
+          ],
+          "dogruCevap": "El Cezeri",
+          "aciklama": "El Cezeri sibernetik biliminin kurucusu kabul edilir."
+        },
+        {
+          "soru": "Anadolu'da ilk Türk denizci beyliği hangisidir?",
+          "secenekler": [
+            "Saltuklular",
+            "Danişmentliler",
             "Çaka Beyliği",
-            "Saltuklular",
-            "Mengücekliler",
-            "Artuklular"
+            "Mengücekliler"
           ],
           "dogruCevap": "Çaka Beyliği",
-          "aciklama": "Çaka Beyliği, İzmir merkezli ilk Türk denizcilik beyliğidir."
+          "aciklama": "Çaka Beyliği ilk Türk denizci beyliğidir."
         },
         {
-          "soru": "Divriği Ulu Camii ve Darüşşifası hangi beylik döneminde yapılmıştır?",
+          "soru": "Çaka Beyliği hangi şehirde kurulmuştur?",
           "secenekler": [
-            "Mengücekliler",
-            "Artuklular",
-            "Danişmentliler",
-            "Saltuklular"
+            "İstanbul",
+            "İzmir",
+            "Trabzon",
+            "Antalya"
           ],
-          "dogruCevap": "Mengücekliler"
+          "dogruCevap": "İzmir",
+          "aciklama": "Çaka Beyliği İzmir'de kurulmuştur."
         },
         {
-          "soru": "Aşağıdaki beyliklerden hangisi Erzurum ve çevresinde hüküm sürmüştür?",
+          "soru": "Çaka Beyliğinin kuruluş yılı olan 1081, hangi önemli olay nedeniyle Türk Deniz Kuvvetleri'nin kuruluş yılı olarak kabul edilir?",
           "secenekler": [
-            "Saltuklular",
-            "Danişmentliler",
-            "Mengücekliler",
-            "Artuklular"
+            "İlk Osmanlı donanmasının kurulması",
+            "İlk Türk tersanesinin açılması",
+            "Çaka Bey'in ilk Türk donanmasını oluşturması",
+            "Türklerin ilk denizaşırı seferini yapması"
           ],
-          "dogruCevap": "Saltuklular"
+          "dogruCevap": "Çaka Bey'in ilk Türk donanmasını oluşturması",
+          "aciklama": "Çaka Bey'in ilk Türk donanmasını oluşturması nedeniyle 1081 yılı Türk Deniz Kuvvetleri'nin kuruluş yılı olarak kabul edilmiştir."
         },
         {
-          "soru": "Danişmendname hangi beylik döneminde yazılmıştır?",
+          "soru": "Çaka Beyliği hangi hükümdarın döneminde yıkılmıştır?",
           "secenekler": [
-            "Danişmentliler",
-            "Artuklular",
-            "Saltuklular",
-            "Mengücekliler"
+            "I. Kılıçarslan",
+            "II. Kılıçarslan",
+            "I. Mesut",
+            "II. Gıyaseddin Keyhüsrev"
           ],
-          "dogruCevap": "Danişmentliler",
-          "aciklama": "Danişmendname, Danişmentliler döneminin önemli edebi eserlerindendir."
-        },
-        {
-          "soru": "Aşağıdaki beyliklerden hangisi Diyarbakır ve çevresinde hüküm sürmüştür?",
-          "secenekler": [
-            "Artuklular",
-            "Saltuklular",
-            "Mengücekliler",
-            "Danişmentliler"
-          ],
-          "dogruCevap": "Artuklular"
-        },
-        {
-          "soru": "Aşağıdaki beyliklerden hangisi Bizans'a karşı ilk deniz savaşlarını yapmıştır?",
-          "secenekler": [
-            "Çaka Beyliği",
-            "Artuklular",
-            "Danişmentliler",
-            "Saltuklular"
-          ],
-          "dogruCevap": "Çaka Beyliği"
-        },
-        {
-          "soru": "Aşağıdaki beyliklerden hangisi mimari alanda özgün eserler vermiştir?",
-          "secenekler": [
-            "Mengücekliler",
-            "Çaka Beyliği",
-            "Saltuklular",
-            "Danişmentliler"
-          ],
-          "dogruCevap": "Mengücekliler",
-          "aciklama": "Divriği Ulu Camii ve Darüşşifası UNESCO Dünya Mirası Listesi'ndedir."
-        },
-        {
-          "soru": "Aşağıdaki beyliklerden hangisi Haçlılara karşı önemli mücadeleler vermiştir?",
-          "secenekler": [
-            "Danişmentliler",
-            "Mengücekliler",
-            "Saltuklular",
-            "Çaka Beyliği"
-          ],
-          "dogruCevap": "Danişmentliler"
-        },
-        {
-          "soru": "Aşağıdaki beyliklerden hangisi köprü mimarisinde önemli eserler vermiştir?",
-          "secenekler": [
-            "Artuklular",
-            "Danişmentliler",
-            "Saltuklular",
-            "Mengücekliler"
-          ],
-          "dogruCevap": "Artuklular",
-          "aciklama": "Hasankeyf Köprüsü önemli örneklerdendir."
-        },
-        {
-          "soru": "Aşağıdaki beyliklerden hangisi bilimsel çalışmalara önem vermiş ve astronomi alanında gelişmeler kaydetmiştir?",
-          "secenekler": [
-            "Artuklular",
-            "Saltuklular",
-            "Danişmentliler",
-            "Mengücekliler"
-          ],
-          "dogruCevap": "Artuklular"
-        },
-        {
-          "soru": "Aşağıdaki beyliklerden hangisi Türkiye Selçukluları tarafından ilk ortadan kaldırılan beyliktir?",
-          "secenekler": [
-            "Saltuklular",
-            "Mengücekliler",
-            "Danişmentliler",
-            "Artuklular"
-          ],
-          "dogruCevap": "Saltuklular"
-        },
-        {
-          "soru": "Aşağıdaki beyliklerden hangisi en uzun süre varlığını sürdürmüştür?",
-          "secenekler": [
-            "Artuklular",
-            "Danişmentliler",
-            "Saltuklular",
-            "Mengücekliler"
-          ],
-          "dogruCevap": "Artuklular",
-          "aciklama": "Artuklular yaklaşık 300 yıl hüküm sürmüştür."
-        },
-        {
-          "soru": "Aşağıdaki beyliklerden hangisi eğitim alanında medreseler kurarak önemli gelişmeler kaydetmiştir?",
-          "secenekler": [
-            "Danişmentliler",
-            "Çaka Beyliği",
-            "Saltuklular",
-            "Mengücekliler"
-          ],
-          "dogruCevap": "Danişmentliler"
+          "dogruCevap": "I. Kılıçarslan",
+          "aciklama": "Çaka Beyliği I. Kılıçarslan döneminde yıkılmıştır."
         }
       ],
       "Osmanlı Devleti Kuruluş Dönemi ": [
