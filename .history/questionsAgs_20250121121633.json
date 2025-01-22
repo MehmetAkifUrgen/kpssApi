@@ -9481,7 +9481,17 @@
         }
       ],
       "İlk Türk-İslam Devletleri": [
-   
+        {
+          "soru": "Türkler, Müslüman Araplarla hangi savaş sonrası temas kurmaya başlamıştır?",
+          "secenekler": [
+            "642 Nihavend Savaşı",
+            "651 Merv Savaşı",
+            "751 Talas Savaşı",
+            "630 Mute Savaşı"
+          ],
+          "dogruCevap": "642 Nihavend Savaşı",
+          "aciklama": "642 Nihavend Savaşı."
+        },
         {
           "soru": "Talas Savaşı (751) kimler arasında yapılmıştır?",
           "secenekler": [
