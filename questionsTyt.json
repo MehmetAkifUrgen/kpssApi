@@ -13661,198 +13661,151 @@
             "dogruCevap": "AIDS, grip, kuduz"
           }
         ],
-        "Mitoz Bölünme ve Eşeysiz Üreme" : [
-          {
-            "soru": "Mitoz bölünme ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-            "secenekler": [
-              "Mitoz bölünme ile oluşan hücreler aynı genetik yapıya sahiptir.",
-              "Mitoz, yalnızca tek hücrelilerde çoğalma sağlar.",
-              "Mitoz bölünme çok hücrelilerde büyüme ve yenilenme sağlar.",
-              "Mitozda kromozom sayısı değişmez."
-            ],
-            "dogruCevap": "Mitoz, yalnızca tek hücrelilerde çoğalma sağlar."
-          },
-          {
-            "soru": "Bir hücrenin bölünme emri verildikten sonra ne olur?",
-            "secenekler": [
-              "DNA eşlenir.",
-              "Sadece sitoplazma bölünür.",
-              "Hücre büyür ve metabolik faaliyetler hızlanır.",
-              "Hücre bölünmeden önce hacim / yüzey oranı sabit kalır."
-            ],
-            "dogruCevap": "DNA eşlenir."
-          },
-          {
-            "soru": "Homolog kromozomlar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-            "secenekler": [
-              "Homolog kromozomlar biri anneden biri babadan gelir.",
-              "Homolog kromozomlar aynı büyüklükte ve şekildedir.",
-              "Homolog kromozomlar sadece vücut hücrelerinde bulunur.",
-              "Homolog kromozomlar aynı genleri taşır ancak farklı aleller taşıyabilir."
-            ],
-            "dogruCevap": "Homolog kromozomlar sadece vücut hücrelerinde bulunur."
-          },
-          {
-            "soru": "Diploit hücre (2n) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-            "secenekler": [
-              "Haploit hücredeki kromozom sayısı taşır.",
-              "Diploit hücrede iki set kromozom bulunur.",
-              "Diploit hücreler yalnızca erkek arılarla ilgilidir.",
-              "Diploit hücreler yalnızca gamet hücrelerinde bulunur."
-            ],
-            "dogruCevap": "Diploit hücrede iki set kromozom bulunur."
-          },
-          {
-            "soru": "Mitoz bölünmenin sonunda hangi özellik gerçekleşir?",
-            "secenekler": [
-              "Yeni hücreler farklı genetik yapıya sahiptir.",
-              "Yeni hücreler aynı genetik yapıya sahiptir.",
-              "Hücre büyüklüğü artar.",
-              "Organellerin sayısı azalır."
-            ],
-            "dogruCevap": "Yeni hücreler aynı genetik yapıya sahiptir."
-          },
-          {
-            "soru": "İnterfaz evresinin hangi aşamasında DNA eşlenmesi gerçekleşir?",
-            "secenekler": [
-              "G1 evresi",
-              "S evresi",
-              "G2 evresi",
-              "Mitotik evre"
-            ],
-            "dogruCevap": "S evresi"
-          },
-          {
-            "soru": "Mitoz bölünmede kromozomlar hangi evrede en görünür hale gelir?",
-            "secenekler": [
-              "Profaz",
-              "Metafaz",
-              "Anafaz",
-              "Telofaz"
-            ],
-            "dogruCevap": "Metafaz"
-          },
-          {
-            "soru": "Mitoz bölünmenin hangi evresinde kardeş kromatitler zıt kutuplara çekilir?",
-            "secenekler": [
-              "Profaz",
-              "Metafaz",
-              "Anafaz",
-              "Telofaz"
-            ],
-            "dogruCevap": "Anafaz"
-          },
-          {
-            "soru": "Profaz evresinin sonunda hangi olay gerçekleşir?",
-            "secenekler": [
-              "Kromozomlar kısalır ve kalınlaşır.",
-              "İğ iplikleri oluşturulur.",
-              "Çekirdek zarı kaybolur.",
-              "Kromozomlar tek sıra halinde dizilir."
-            ],
-            "dogruCevap": "Çekirdek zarı kaybolur."
-          },
-          {
-            "soru": "İnterfaz evresinde hangi olay gerçekleşmez?",
-            "secenekler": [
-              "DNA eşlenmesi",
-              "Organel sayısının artması",
-              "Hücre büyümesi",
-              "Çekirdek bölünmesi"
-            ],
-            "dogruCevap": "Çekirdek bölünmesi"
-          },
-          {
-            "soru": "Mitoz bölünme sırasında sentromerlerin görevini ne yerine getirir?",
-            "secenekler": [
-              "Kinetokorlar",
-              "İğ iplikleri",
-              "Kromozomlar",
-              "Hücre zarı"
-            ],
-            "dogruCevap": "Kinetokorlar"
-          },
-          {
-            "soru": "Aşağıdaki evrelerden hangisi mitoz bölünme sırasında gerçekleşmez?",
-            "secenekler": [
-              "Profaz",
-              "Metafaz",
-              "Anafaz",
-              "İnterfaz"
-            ],
-            "dogruCevap": "İnterfaz"
-          },
-          {
-            "soru": "Homolog kromozomlar hangi hücrede bulunur?",
-            "secenekler": [
-              "Sperm hücresinde",
-              "Yumurta hücresinde",
-              "Vücut hücrelerinde",
-              "Gamet hücrelerinde"
-            ],
-            "dogruCevap": "Vücut hücrelerinde"
-          },
-          {
-            "soru": "Mitoz bölünme, hangi özellikleri sağlar?",
-            "secenekler": [
-              "Büyüme ve yenilenme",
-              "Genetik çeşitlilik",
-              "Eşeysiz üreme",
-              "Hem büyüme hem de eşeyli üreme"
-            ],
-            "dogruCevap": "Büyüme ve yenilenme"
-          },
-          {
-            "soru": "DNA'nın eşlenmesinin nedeni nedir?",
-            "secenekler": [
-              "Yeni hücrelerin aynı genetik yapıya sahip olması",
-              "Hücre zarının yenilenmesi",
-              "Sadece yavru hücrelerin büyümesi",
-              "Kromozom sayısının artması"
-            ],
-            "dogruCevap": "Yeni hücrelerin aynı genetik yapıya sahip olması"
-          },
-          {
-            "soru": "Mitoz bölünmede hücreyi ikiye bölen olay nedir?",
-            "secenekler": [
-              "Çekirdek bölünmesi",
-              "Sitoplazma bölünmesi",
-              "DNA eşlenmesi",
-              "Kromozom hareketi"
-            ],
-            "dogruCevap": "Sitoplazma bölünmesi"
-          },
-          {
-            "soru": "Bir hücrenin bölünme emri vermesi için hangi faktör gereklidir?",
-            "secenekler": [
-              "Hücrenin hacim / yüzey oranı",
-              "DNA'nın mutasyona uğraması",
-              "Organellerin sayısı",
-              "Hücre zarının büyümesi"
-            ],
-            "dogruCevap": "Hücrenin hacim / yüzey oranı"
-          },
-          {
-            "soru": "Kromozomların sayısı hangi evrede artar?",
-            "secenekler": [
-              "Profaz",
-              "Metafaz",
-              "Anafaz",
-              "Telofaz"
-            ],
-            "dogruCevap": "Anafaz"
-          },
-          {
-            "soru": "Mitoz bölünme sonucunda oluşan yeni hücreler hangi özelliği paylaşır?",
-            "secenekler": [
-              "Farklı genetik yapıya sahip olur",
-              "Aynı genetik yapıya sahip olur",
-              "Hücre sayısı azalır",
-              "Kromozom sayısı artar"
-            ],
-            "dogruCevap": "Aynı genetik yapıya sahip olur"
-          }
-        ],
+      "Mitoz Bölünme ve Eşeysiz Üreme": [
+  {
+    "soru": "Mitoz bölünme ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "secenekler": [
+      "Mitoz bölünme ile oluşan hücreler aynı genetik yapıya sahiptir",
+      "Mitoz, yalnızca tek hücrelilerde çoğalma sağlar",
+      "Mitoz bölünme çok hücrelilerde büyüme ve yenilenme sağlar",
+      "Mitozda kromozom sayısı değişmez",
+      "Mitoz bölünme eşeysiz üremeyi sağlar"
+    ],
+    "dogruCevap": "Mitoz, yalnızca tek hücrelilerde çoğalma sağlar"
+  },
+  {
+    "soru": "Bir hücrenin bölünme emri verildikten sonra ilk olarak ne gerçekleşir?",
+    "secenekler": [
+      "DNA eşlenir",
+      "Sadece sitoplazma bölünür",
+      "Hücre büyür ve metabolik faaliyetler hızlanır",
+      "Hücre bölünmeden önce hacim / yüzey oranı sabit kalır",
+      "Çekirdek zarı parçalanır"
+    ],
+    "dogruCevap": "DNA eşlenir"
+  },
+  {
+    "soru": "Homolog kromozomlar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "secenekler": [
+      "Homolog kromozomlar biri anneden biri babadan gelir",
+      "Homolog kromozomlar aynı büyüklükte ve şekildedir",
+      "Homolog kromozomlar sadece vücut hücrelerinde bulunur",
+      "Homolog kromozomlar aynı genleri taşır ancak farklı aleller taşıyabilir",
+      "Homolog kromozomlar diploit hücrelerde bulunur"
+    ],
+    "dogruCevap": "Homolog kromozomlar sadece vücut hücrelerinde bulunur"
+  },
+  {
+    "soru": "Diploit hücre (2n) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "secenekler": [
+      "Haploit hücredeki kromozom sayısını taşır",
+      "Diploit hücrede iki set kromozom bulunur",
+      "Diploit hücreler yalnızca erkek arılarda bulunur",
+      "Diploit hücreler yalnızca gamet hücrelerinde bulunur",
+      "Diploit hücreler mayoz bölünme sonucu oluşur"
+    ],
+    "dogruCevap": "Diploit hücrede iki set kromozom bulunur"
+  },
+  {
+    "soru": "İnterfaz evresinin hangi aşamasında DNA eşlenmesi gerçekleşir?",
+    "secenekler": [
+      "G1 evresi",
+      "S evresi",
+      "G2 evresi",
+      "M evresi",
+      "G0 evresi"
+    ],
+    "dogruCevap": "S evresi"
+  },
+  {
+    "soru": "Mitoz bölünmede kromozomlar hangi evrede en net görülür?",
+    "secenekler": [
+      "Profaz",
+      "Metafaz",
+      "Anafaz",
+      "Telofaz",
+      "İnterfaz"
+    ],
+    "dogruCevap": "Metafaz"
+  },
+  {
+    "soru": "Mitoz bölünmenin hangi evresinde kardeş kromatitler birbirinden ayrılır?",
+    "secenekler": [
+      "Profaz",
+      "Metafaz",
+      "Anafaz",
+      "Telofaz",
+      "İnterfaz"
+    ],
+    "dogruCevap": "Anafaz"
+  },
+  {
+    "soru": "Profaz evresinin sonunda aşağıdakilerden hangisi gerçekleşir?",
+    "secenekler": [
+      "Kromozomlar kısalır ve kalınlaşır",
+      "İğ iplikleri oluşturulur",
+      "Çekirdek zarı kaybolur",
+      "Kromozomlar ekvator düzleminde dizilir",
+      "DNA eşlenmesi başlar"
+    ],
+    "dogruCevap": "Çekirdek zarı kaybolur"
+  },
+  {
+    "soru": "İnterfaz evresinde aşağıdakilerden hangisi gerçekleşmez?",
+    "secenekler": [
+      "DNA eşlenmesi",
+      "Organel sayısının artması",
+      "Hücre büyümesi",
+      "Çekirdek bölünmesi",
+      "Protein sentezi"
+    ],
+    "dogruCevap": "Çekirdek bölünmesi"
+  },
+  {
+    "soru": "Mitoz bölünme sırasında iğ ipliklerinin bağlandığı yapı hangisidir?",
+    "secenekler": [
+      "Kinetokor",
+      "Sentromer",
+      "Kromozom",
+      "Hücre zarı",
+      "Çekirdek zarı"
+    ],
+    "dogruCevap": "Kinetokor"
+  },
+  {
+    "soru": "Mitoz bölünmenin temel amacı aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Genetik çeşitlilik sağlamak",
+      "Kromozom sayısını artırmak",
+      "Ana hücre ile aynı genetik yapıda hücreler oluşturmak",
+      "Gamet hücreleri oluşturmak",
+      "Homolog kromozomları ayırmak"
+    ],
+    "dogruCevap": "Ana hücre ile aynı genetik yapıda hücreler oluşturmak"
+  },
+  {
+    "soru": "DNA'nın interfaz evresinde eşlenmesinin sebebi nedir?",
+    "secenekler": [
+      "Yeni hücrelerin aynı genetik yapıya sahip olmasını sağlamak",
+      "Hücre zarının yenilenmesini sağlamak",
+      "Protein sentezini artırmak",
+      "Kromozom sayısını artırmak",
+      "Genetik çeşitlilik oluşturmak"
+    ],
+    "dogruCevap": "Yeni hücrelerin aynı genetik yapıya sahip olmasını sağlamak"
+  },
+  {
+    "soru": "Sitokinez (sitoplazma bölünmesi) ne zaman başlar?",
+    "secenekler": [
+      "Anafaz sonunda",
+      "Profaz başında",
+      "Metafaz ortasında",
+      "İnterfaz sırasında",
+      "S evresinde"
+    ],
+    "dogruCevap": "Anafaz sonunda"
+  }
+],
          "Mitoz Bölünme ve Eşeysiz Üreme 2" : [
           {
             "soru": "Telofaz evresinde hangi özellik gerçekleşir?",
@@ -14227,208 +14180,228 @@
             "dogruCevap": "Genotip genetik yapıyı, fenotip ise dışa yansıyan özellikleri belirler"
           }
         ],
-        "Kalıtım 2" : [
-          {
-            "soru": "Çok alellilik nedir?",
-            "secenekler": [
-              "Bir karakteri belirleyen alel sayısının birden fazla olması",
-              "Bir karakteri belirleyen alel sayısının iki olması",
-              "Bir genin baskınlık durumunun çok olması",
-              "Bir karakterin sadece bir alelle belirlenmesi"
-            ],
-            "dogruCevap": "Bir karakteri belirleyen alel sayısının birden fazla olması"
-          },
-          {
-            "soru": "Himalaya tavşanlarının kürk rengini belirleyen aleller arasındaki baskınlık sıralaması nedir?",
-            "secenekler": [
-              "C > cch > ch > c",
-              "C > ch > cch > c",
-              "ch > C > cch > c",
-              "cch > C > ch > c"
-            ],
-            "dogruCevap": "C > cch > ch > c"
-          },
-          {
-            "soru": "Çok alellilikte genotip çeşit sayısı nasıl hesaplanır?",
-            "secenekler": [
-              "n x (n+1) / 2",
-              "n x (n-1) / 2",
-              "n x n",
-              "n x (n+2) / 2"
-            ],
-            "dogruCevap": "n x (n+1) / 2"
-          },
-          {
-            "soru": "Çok alellilikte heterozigot genotip sayısı nasıl hesaplanır?",
-            "secenekler": [
-              "n x (n+1) / 2",
-              "n x (n-1) / 2",
-              "n x n",
-              "n x 2"
-            ],
-            "dogruCevap": "n x (n-1) / 2"
-          },
-          {
-            "soru": "Kan grupları hangi genetik özellik ile belirlenir?",
-            "secenekler": [
-              "X kromozomu",
-              "Y kromozomu",
-              "Çok alellilik",
-              "Bağlı genler"
-            ],
-            "dogruCevap": "Çok alellilik"
-          },
-          {
-            "soru": "A ve B alelleri, kan gruplarında hangi özelliği belirler?",
-            "secenekler": [
-              "Antijen",
-              "Antikor",
-              "Aglütinin",
-              "Aglütinojen"
-            ],
-            "dogruCevap": "Antijen"
-          },
-          {
-            "soru": "Kan grubunda 0 aleli ne işlev görür?",
-            "secenekler": [
-              "Antijen oluşumunu sağlar",
-              "Antikor oluşumunu sağlar",
-              "Antijen oluşumunda etkisizdir",
-              "Aglütinin üretir"
-            ],
-            "dogruCevap": "Antijen oluşumunda etkisizdir"
-          },
-          {
-            "soru": "Rh faktörü hangi kromozomlarla kalıtılır?",
-            "secenekler": [
-              "X ve Y kromozomları",
-              "Sadece X kromozomu",
-              "Sadece Y kromozomu",
-              "Baskın ve çekinik genlerle"
-            ],
-            "dogruCevap": "Baskın ve çekinik genlerle"
-          },
-          {
-            "soru": "Rh pozitif (Rh+) bireyde hangi genotip bulunur?",
-            "secenekler": [
-              "RR veya Rr",
-              "rr",
-              "Rr",
-              "RR"
-            ],
-            "dogruCevap": "RR veya Rr"
-          },
-          {
-            "soru": "Rh negatif (Rh-) bireyde hangi genotip bulunur?",
-            "secenekler": [
-              "RR",
-              "Rr",
-              "rr",
-              "Rr veya rr"
-            ],
-            "dogruCevap": "rr"
-          },
-          {
-            "soru": "Rh kan uyuşmazlığı hangi durumda görülür?",
-            "secenekler": [
-              "Rh(+) baba ve Rh(-) anne",
-              "Rh(-) baba ve Rh(+) anne",
-              "İki Rh(-) birey arasında",
-              "İki Rh(+) birey arasında"
-            ],
-            "dogruCevap": "Rh(+) baba ve Rh(-) anne"
-          },
-          {
-            "soru": "Eritroblastosis fetalis nedir?",
-            "secenekler": [
-              "Anne ve fetüs arasındaki kan uyuşmazlığının sonucu",
-              "Fetüsün anne kanında antikor üretmesi",
-              "Fetüsün doğum öncesi ölümünü ifade eder",
-              "Fetüsün kanında kırmızı hücrelerin normalden fazla olması"
-            ],
-            "dogruCevap": "Anne ve fetüs arasındaki kan uyuşmazlığının sonucu"
-          },
-          {
-            "soru": "Soyağacı çalışmasında hangi sembol erkek bireyleri temsil eder?",
-            "secenekler": [
-              "Daire",
-              "Kare",
-              "Üçgen",
-              "Yıldız"
-            ],
-            "dogruCevap": "Kare"
-          },
-          {
-            "soru": "Soyağacında hangi sembol dişi bireyleri temsil eder?",
-            "secenekler": [
-              "Daire",
-              "Kare",
-              "Üçgen",
-              "Yıldız"
-            ],
-            "dogruCevap": "Daire"
-          },
-          {
-            "soru": "Eşey tayini hangi kromozomlar ile yapılır?",
-            "secenekler": [
-              "Otozom ve gonozom",
-              "X ve Y kromozomları",
-              "Y kromozomu ve otozomlar",
-              "XX ve XY kromozomları"
-            ],
-            "dogruCevap": "X ve Y kromozomları"
-          },
-          {
-            "soru": "Bir bireyde X kromozomunda bulunan hastalık genini taşıması, hangi durumu gösterir?",
-            "secenekler": [
-              "Dişi bireyde hastalık kesinlikle görülür",
-              "Erkek bireyde hastalık kesinlikle görülür",
-              "Erkek bireyde hastalık, tek X kromozomunda yeterlidir",
-              "Dişi bireyde hastalık ancak her iki X kromozomunda olursa görülür"
-            ],
-            "dogruCevap": "Erkek bireyde hastalık, tek X kromozomunda yeterlidir"
-          },
-          {
-            "soru": "Kısmi renk körlüğü hangi kromozom ile taşınır?",
-            "secenekler": [
-              "X kromozomu",
-              "Y kromozomu",
-              "Otozom",
-              "Hem X hem Y kromozomları"
-            ],
-            "dogruCevap": "X kromozomu"
-          },
-          {
-            "soru": "Hemofili hastalığı hangi kromozom ile taşınır?",
-            "secenekler": [
-              "X kromozomu",
-              "Y kromozomu",
-              "Otozom",
-              "Birden fazla kromozom"
-            ],
-            "dogruCevap": "X kromozomu"
-          },
-          {
-            "soru": "Kulak kıllılığı hangi kromozom ile taşınır?",
-            "secenekler": [
-              "X kromozomu",
-              "Y kromozomu",
-              "Otozom",
-              "Bağımsız genler"
-            ],
-            "dogruCevap": "Y kromozomu"
-          },
-          {
-            "soru": "Akraba evliliği genetik hastalıkların görülme olasılığını nasıl etkiler?",
-            "secenekler": [
-              "Azaltır",
-              "Artırır",
-              "Hiç etkilemez",
-              "Genetik çeşitliliği artırır"
-            ],
-            "dogruCevap": "Artırır"
-          }
-        ]
+    "Kalıtım 2": [
+  {
+    "soru": "Çok alellilik nedir?",
+    "secenekler": [
+      "Bir karakteri belirleyen alel sayısının birden fazla olması",
+      "Bir karakteri belirleyen alel sayısının iki olması",
+      "Bir genin baskınlık durumunun çok olması",
+      "Bir karakterin sadece bir alelle belirlenmesi",
+      "Bir karakterin sadece çekinik alelle belirlenmesi"
+    ],
+    "dogruCevap": "Bir karakteri belirleyen alel sayısının birden fazla olması"
+  },
+  {
+    "soru": "Himalaya tavşanlarının kürk rengini belirleyen aleller arasındaki baskınlık sıralaması nedir?",
+    "secenekler": [
+      "C > cch > ch > c",
+      "C > ch > cch > c",
+      "ch > C > cch > c",
+      "cch > C > ch > c",
+      "c > cch > ch > C"
+    ],
+    "dogruCevap": "C > cch > ch > c"
+  },
+  {
+    "soru": "Çok alellilikte genotip çeşit sayısı nasıl hesaplanır?",
+    "secenekler": [
+      "n x (n+1) / 2",
+      "n x (n-1) / 2",
+      "n x n",
+      "n x (n+2) / 2",
+      "n x (n-2) / 2"
+    ],
+    "dogruCevap": "n x (n+1) / 2"
+  },
+  {
+    "soru": "Çok alellilikte heterozigot genotip sayısı nasıl hesaplanır?",
+    "secenekler": [
+      "n x (n+1) / 2",
+      "n x (n-1) / 2",
+      "n x n",
+      "n x 2",
+      "n x (n-2) / 2"
+    ],
+    "dogruCevap": "n x (n-1) / 2"
+  },
+  {
+    "soru": "Kan grupları hangi genetik özellik ile belirlenir?",
+    "secenekler": [
+      "X kromozomu",
+      "Y kromozomu",
+      "Çok alellilik",
+      "Bağlı genler",
+      "Mitokondriyal DNA"
+    ],
+    "dogruCevap": "Çok alellilik"
+  },
+  {
+    "soru": "A ve B alelleri, kan gruplarında hangi özelliği belirler?",
+    "secenekler": [
+      "Antijen (Aglütinojen)",
+      "Antikor (Aglütinin)",
+      "Hemoglobin",
+      "Plazma proteinleri",
+      "Trombosit faktörleri"
+    ],
+    "dogruCevap": "Antijen (Aglütinojen)"
+  },
+  {
+    "soru": "Kan grubunda 0 aleli ne işlev görür?",
+    "secenekler": [
+      "Antijen oluşumunu sağlar",
+      "Antikor oluşumunu sağlar",
+      "Antijen oluşumunda etkisizdir",
+      "Aglütinin üretir",
+      "Hemoglobin üretir"
+    ],
+    "dogruCevap": "Antijen oluşumunda etkisizdir"
+  },
+  {
+    "soru": "Rh faktörü hangi kalıtım şekliyle aktarılır?",
+    "secenekler": [
+      "Otozomal kromozomlarla",
+      "X kromozomuyla",
+      "Y kromozomuyla",
+      "Mitokondriyal DNA ile",
+      "Sitoplazmayla"
+    ],
+    "dogruCevap": "Otozomal kromozomlarla"
+  },
+  {
+    "soru": "Rh pozitif (Rh+) bireyde hangi genotip bulunur?",
+    "secenekler": [
+      "RR veya Rr",
+      "rr",
+      "Sadece Rr",
+      "Sadece RR",
+      "Sadece rr"
+    ],
+    "dogruCevap": "RR veya Rr"
+  },
+  {
+    "soru": "Rh negatif (Rh-) bireyde hangi genotip bulunur?",
+    "secenekler": [
+      "RR",
+      "Rr",
+      "rr",
+      "RR veya Rr",
+      "Rr veya RR"
+    ],
+    "dogruCevap": "rr"
+  },
+  {
+    "soru": "Rh kan uyuşmazlığı hangi durumda görülür?",
+    "secenekler": [
+      "Rh(+) baba ve Rh(-) anne",
+      "Rh(-) baba ve Rh(+) anne",
+      "İki Rh(-) birey arasında",
+      "İki Rh(+) birey arasında",
+      "Rh(+) anne ve Rh(+) baba"
+    ],
+    "dogruCevap": "Rh(+) baba ve Rh(-) anne"
+  },
+  {
+    "soru": "Eritroblastosis fetalis nedir?",
+    "secenekler": [
+      "Anne ve fetüs arasındaki kan uyuşmazlığının sonucu",
+      "Fetüsün anne kanında antikor üretmesi",
+      "Fetüsün doğum öncesi ölümünü ifade eder",
+      "Fetüsün kanında kırmızı hücrelerin normalden fazla olması",
+      "Annenin kan hücrelerinin parçalanması"
+    ],
+    "dogruCevap": "Anne ve fetüs arasındaki kan uyuşmazlığının sonucu"
+  },
+  {
+    "soru": "Soyağacı çalışmasında hangi sembol erkek bireyleri temsil eder?",
+    "secenekler": [
+      "Daire",
+      "Kare",
+      "Üçgen",
+      "Yıldız",
+      "Beşgen"
+    ],
+    "dogruCevap": "Kare"
+  },
+  {
+    "soru": "Soyağacında hangi sembol dişi bireyleri temsil eder?",
+    "secenekler": [
+      "Daire",
+      "Kare",
+      "Üçgen",
+      "Yıldız",
+      "Beşgen"
+    ],
+    "dogruCevap": "Daire"
+  },
+  {
+    "soru": "Eşey tayini hangi kromozomlar ile yapılır?",
+    "secenekler": [
+      "Gonozomlar (X ve Y kromozomları)",
+      "Sadece otozomal kromozomlar",
+      "Sadece X kromozomu",
+      "Sadece Y kromozomu",
+      "Mitokondriyal DNA"
+    ],
+    "dogruCevap": "Gonozomlar (X ve Y kromozomları)"
+  },
+  {
+    "soru": "Bir bireyde X kromozomunda bulunan hastalık genini taşıması, hangi durumu gösterir?",
+    "secenekler": [
+      "Dişi bireyde hastalık kesinlikle görülür",
+      "Erkek bireyde hastalık kesinlikle görülür",
+      "Erkek bireyde hastalık, tek X kromozomunda yeterlidir",
+      "Dişi bireyde hastalık ancak her iki X kromozomunda olursa görülür",
+      "Hastalık hiçbir durumda görülmez"
+    ],
+    "dogruCevap": "Erkek bireyde hastalık, tek X kromozomunda yeterlidir"
+  },
+  {
+    "soru": "Kısmi renk körlüğü hangi kromozom ile taşınır?",
+    "secenekler": [
+      "X kromozomu",
+      "Y kromozomu",
+      "Otozom",
+      "Hem X hem Y kromozomları",
+      "Mitokondriyal DNA"
+    ],
+    "dogruCevap": "X kromozomu"
+  },
+  {
+    "soru": "Hemofili hastalığı hangi kromozom ile taşınır?",
+    "secenekler": [
+      "X kromozomu",
+      "Y kromozomu",
+      "Otozom",
+      "Birden fazla kromozom",
+      "Mitokondriyal DNA"
+    ],
+    "dogruCevap": "X kromozomu"
+  },
+  {
+    "soru": "Kulak kıllılığı hangi kromozom ile taşınır?",
+    "secenekler": [
+      "X kromozomu",
+      "Y kromozomu",
+      "Otozom",
+      "Bağımsız genler",
+      "Mitokondriyal DNA"
+    ],
+    "dogruCevap": "Y kromozomu"
+  },
+  {
+    "soru": "Akraba evliliği genetik hastalıkların görülme olasılığını nasıl etkiler?",
+    "secenekler": [
+      "Azaltır",
+      "Artırır",
+      "Hiç etkilemez",
+      "Genetik çeşitliliği artırır",
+      "Sadece dominant genleri etkiler"
+    ],
+    "dogruCevap": "Artırır"
+  }
+]
 
       },
       "Felsefe" : {
