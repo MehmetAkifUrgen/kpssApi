@@ -7925,7 +7925,7 @@
     "Türkçe": {
       "Sözel Mantık": [
         {
-          "soru": "Ali, Burak, Canan, Deniz ve Elif bir sırada oturmaktadır.\n- Ali en başta oturmamaktadır.\n- Burak ve Canan yan yana oturmaktadır.\n- Deniz en sonda oturmaktadır.\n- Elif, Ali'nin hemen yanında oturmaktadır.\n- Burak, Canan'ın solunda oturmaktadır.\nBuna göre, sıranın başından itibaren öğrencilerin oturma düzeni aşağıdakilerden hangisidir?",
+          "soru": "Ali, Burak, Canan, Deniz ve Elif bir sırada oturmaktadır.\n- Ali en başta oturmamaktadır.\n- Burak ve Canan yan yana oturmaktadır.\n- Deniz en sonda oturmaktadır.\n- Sosyal anksiyetesini yenmek amacıyla Ali en ortada oturmaktadır.\n- Burak, Canan'ın solunda oturmaktadır.\nBuna göre, sıranın başından itibaren öğrencilerin oturma düzeni aşağıdakilerden hangisidir?",
           "secenekler": [
             "Burak-Canan-Ali-Elif-Deniz",
             "Canan-Burak-Elif-Ali-Deniz",
@@ -10145,17 +10145,7 @@
           "dogruCevap": "Anav",
           "aciklama": "Anav Kültürü."
         },
-        {
-          "soru": "Demiri en erken işleyen Orta Asya kültürü hangisidir?",
-          "secenekler": [
-            "Karasuk",
-            "Afanesyova",
-            "Anav",
-            "Tagar"
-          ],
-          "dogruCevap": "Karasuk",
-          "aciklama": "Karasuk Kültürü."
-        },
+       
         {
           "soru": "Türklerin bilinen ilk topluluğu hangisidir?",
           "secenekler": [
