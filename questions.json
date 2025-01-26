@@ -92,16 +92,6 @@
             "Cuma"
           ],
           "dogruCevap": "Perşembe"
-        },
-        {
-          "soru": "Bir masada dört fincan çay vardır:\n- Kırmızı fincan, mavi fincandan öncedir.\n- Yeşil fincan, sarı fincandan sonradır.\n- Mavi fincan en sonda değildir.\n- Yeşil fincan maviden sonradır.\nBuna göre, hangi fincan kesinlikle en sondadır?",
-          "secenekler": [
-            "Kırmızı",
-            "Mavi",
-            "Yeşil",
-            "Sarı"
-          ],
-          "dogruCevap": "Yeşil"
         }
       ],
       "Sözel Mantık 2": [
@@ -114,16 +104,6 @@
             "Cuma"
           ],
           "dogruCevap": "Perşembe"
-        },
-        {
-          "soru": "Bir masada dört fincan çay vardır:\n- Kırmızı fincan, mavi fincandan öncedir.\n- Yeşil fincan, sarı fincandan sonradır.\n- Mavi fincan en sonda değildir.\n- Yeşil fincan maviden sonradır.\n- Sarı fincan en başta değildir.\nBuna göre, hangi fincan kesinlikle en sondadır?",
-          "secenekler": [
-            "Kırmızı",
-            "Mavi",
-            "Yeşil",
-            "Sarı"
-          ],
-          "dogruCevap": "Yeşil"
         },
         {
           "soru": "Bir kütüphanede beş kitap yan yana dizilmiştir:\n- Roman, hikaye kitabından sonra gelmektedir.\n- Şiir kitabı hikayeden önce gelmektedir.\n- Deneme, romandan hemen sonra gelmektedir.\n- Biyografi en baştadır.\n- Roman en sonda değildir.\nBuna göre, ortadaki kitap hangisidir?",
