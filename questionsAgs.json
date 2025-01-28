@@ -13,16 +13,6 @@
           "dogruCevap": "Yaşantı"
         },
         {
-          "soru": "Eğitim sürecinin hangi özelliği onu zamanla devam eden bir süreç olarak tanımlar?",
-          "secenekler": [
-            "Kısa sürede tamamlanır",
-            "Eğitim bir anda gerçekleşir",
-            "Belirli bir zaman diliminde devam eder",
-            "Tek seferlik bir etkinliktir"
-          ],
-          "dogruCevap": "Belirli bir zaman diliminde devam eder"
-        },
-        {
           "soru": "Eğitimin kasıtlı olması neyi ifade eder?",
           "secenekler": [
             "Kendi başına öğrenilmesi",
@@ -1122,16 +1112,6 @@
             "1960"
           ],
           "dogruCevap": "1923"
-        },
-        {
-          "soru": "Mustafa Kemal Atatürk'ün eğitimle ilgili yaptığı ilk önemli reformlardan biri nedir?",
-          "secenekler": [
-            "Türkçe'nin eğitimde zorunlu hale getirilmesi",
-            "Halk eğitimini geliştiren köy enstitülerinin kurulması",
-            "Okullarda tek tip öğretim yönteminin benimsenmesi",
-            "Osmanlıca'nın eğitimden çıkarılması"
-          ],
-          "dogruCevap": "Halk eğitimini geliştiren köy enstitülerinin kurulması"
         },
         {
           "soru": "Halk eğitimini geliştiren köy enstitüleri hangi dönemde kurulmuştur?",
@@ -7923,569 +7903,259 @@
       ]
     },
     "Türkçe": {
-      "Sözel Mantık": [
-        {
-          "soru": "Ali, Burak, Canan, Deniz ve Elif bir sırada oturmaktadır.\n- Ali en başta oturmamaktadır.\n- Burak ve Canan yan yana oturmaktadır.\n- Deniz en sonda oturmaktadır.\n- Sosyal anksiyetesini yenmek amacıyla Ali en ortada oturmaktadır.\n- Burak, Canan'ın solunda oturmaktadır.\nBuna göre, sıranın başından itibaren öğrencilerin oturma düzeni aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Burak-Canan-Ali-Elif-Deniz",
-            "Canan-Burak-Elif-Ali-Deniz",
-            "Burak-Canan-Elif-Ali-Deniz",
-            "Canan-Burak-Ali-Elif-Deniz"
-          ],
-          "dogruCevap": "Burak-Canan-Ali-Elif-Deniz"
-        },
-        {
-          "soru": "Bir markette;\n- Süt peynirden ucuzdur.\n- Peynir yoğurttan pahalıdır.\n- Yoğurt tereyağından ucuzdur.\nBuna göre, en pahalı ürün hangisidir?",
-          "secenekler": [
-            "Süt",
-            "Peynir",
-            "Yoğurt",
-            "Tereyağı"
-          ],
-          "dogruCevap": "Tereyağı",
-          "aciklama": "Fiyat sıralaması: Tereyağı > Yoğurt > Peynir > Süt"
-        },
-        {
-          "soru": "Ahmet, Mehmet ve Ali'nin yaşları ile ilgili;\n- Ahmet, Mehmet'ten büyüktür.\n- Ali, Ahmet'ten küçüktür.\n- Üçünün yaş farkı birbirinden farklıdır.\nBilgileri veriliyor. Buna göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
-          "secenekler": [
-            "Ali en küçüktür",
-            "Mehmet ortancadır",
-            "Ahmet en büyüktür",
-            "Ali Mehmet'ten büyüktür"
-          ],
-          "dogruCevap": "Ahmet en büyüktür"
-        },
-        {
-          "soru": "Bir hafta boyunca her gün farklı bir ders çalışan Ayşe;\n- Salı günü matematik çalışmamıştır.\n- Türkçe'yi tarihten önce çalışmıştır.\n- Fen bilgisini cumartesi çalışmıştır.\n- Matematik ve İngilizce'yi art arda çalışmıştır.\n- Türkçe'yi çarşamba günü çalışmıştır.\nBuna göre, Ayşe hangi dersi perşembe günü çalışmıştır?",
-          "secenekler": [
-            "Matematik",
-            "Türkçe",
-            "İngilizce",
-            "Tarih"
-          ],
-          "dogruCevap": "İngilizce"
-        },
-        {
-          "soru": "Bir parkta beş çocuk salıncakta sallanmaktadır.\n- Ayşe, Fatma'nın solundadır.\n- Can, Deniz'in sağındadır.\n- Berk, Ayşe'nin sağındadır.\n- Deniz en soldadır.\n- Can, Ayşe'nin solundadır.\nBuna göre, ortada kim sallanmaktadır?",
-          "secenekler": [
-            "Ayşe",
-            "Berk",
-            "Can",
-            "Fatma"
-          ],
-          "dogruCevap": "Ayşe"
-        },
-        {
-          "soru": "Dört arkadaş farklı mesleklere sahiptir:\n- Doktor olan kişi öğretmenden uzundur.\n- Mühendis olan kişi en kısadır.\n- Avukat olan kişi doktordan kısadır.\nBuna göre, aşağıdakilerden hangisi kesinlikle yanlıştır?",
-          "secenekler": [
-            "Doktor en uzundur",
-            "Mühendis en kısadır",
-            "Öğretmen avukattan uzundur",
-            "Avukat doktordan kısadır"
-          ],
-          "dogruCevap": "Öğretmen avukattan uzundur"
-        },
-        {
-          "soru": "Bir kütüphanede beş kitap yan yana dizilmiştir:\n- Roman, hikaye kitabından sonra gelmektedir.\n- Şiir kitabı hikayeden önce gelmektedir.\n- Deneme, romandan hemen sonra gelmektedir.\n- Biyografi en baştadır.\nBuna göre, ortadaki kitap hangisidir?",
-          "secenekler": [
-            "Roman",
-            "Hikaye",
-            "Şiir",
-            "Deneme"
-          ],
-          "dogruCevap": "Hikaye"
-        },
-        {
-          "soru": "A, B, C ve D şehirleri arasında;\n- A şehri B'nin doğusundadır.\n- C şehri D'nin batısındadır.\n- B şehri C'nin doğusundadır.\nBilgileri veriliyor. Buna göre, doğudan batıya doğru şehirlerin sıralanışı nasıldır?",
-          "secenekler": [
-            "A-B-C-D",
-            "D-C-B-A",
-            "A-B-D-C",
-            "D-A-B-C"
-          ],
-          "dogruCevap": "A-B-D-C"
-        },
-        {
-          "soru": "Beş arkadaş farklı günlerde sinemaya gitmiştir:\n- Ali çarşamba günü gitmemiştir.\n- Berk, Canan'dan önce gitmiştir ve çarşamba günü gitmiştir.\n- Deniz, pazartesi günü gitmiştir.\n- Elif, salı günü gitmiştir.\nBuna göre, Ali hangi gün sinemaya gitmiştir?",
-          "secenekler": [
-            "Pazartesi",
-            "Salı",
-            "Perşembe",
-            "Cuma"
-          ],
-          "dogruCevap": "Perşembe"
-        }
-      ],
-      "Sözel Mantık 2": [
-        {
-          "soru": "Beş arkadaş farklı günlerde sinemaya gitmiştir:\n- Ali pazartesi günü gitmemiştir.\n- Berk, Canan'dan önce gitmiştir ve çarşamba günü gitmiştir.\n- Deniz, pazartesi günü gitmiştir.\n- Elif, salı günü gitmiştir.\n- Canan cuma günü gitmiştir.\nBuna göre, Ali hangi gün sinemaya gitmiştir?",
-          "secenekler": [
-            "Pazartesi",
-            "Salı",
-            "Perşembe",
-            "Cuma"
-          ],
-          "dogruCevap": "Perşembe"
-        },
-        {
-          "soru": "Bir kütüphanede beş kitap yan yana dizilmiştir:\n- Roman, hikaye kitabından sonra gelmektedir.\n- Şiir kitabı hikayeden önce gelmektedir.\n- Deneme, romandan hemen sonra gelmektedir.\n- Biyografi en baştadır.\n- Roman en sonda değildir.\nBuna göre, ortadaki kitap hangisidir?",
-          "secenekler": [
-            "Roman",
-            "Hikaye",
-            "Şiir",
-            "Deneme"
-          ],
-          "dogruCevap": "Hikaye"
-        },
-        {
-          "soru": "Bir markette;\n- Süt peynirden ucuzdur.\n- Peynir yoğurttan pahalıdır.\n- Yoğurt tereyağından ucuzdur.\n- Tereyağı en pahalı üründür.\nBuna göre, en ucuz ürün hangisidir?",
-          "secenekler": [
-            "Süt",
-            "Peynir",
-            "Yoğurt",
-            "Tereyağı"
-          ],
-          "dogruCevap": "Süt"
-        },
-        {
-          "soru": "Beş öğrenci sınavdan farklı notlar almıştır:\n- Ali, Berk'ten yüksek not almıştır.\n- Canan, Deniz'den düşük not almıştır.\n- Elif en yüksek notu almıştır.\n- Berk, Deniz'den düşük not almıştır.\n- Canan, Berk'ten yüksek not almıştır.\nBuna göre, en düşük notu kim almıştır?",
-          "secenekler": [
-            "Ali",
-            "Berk",
-            "Canan",
-            "Deniz"
-          ],
-          "dogruCevap": "Berk"
-        },
-        {
-          "soru": "Dört kardeş farklı yaşlardadır:\n- Ahmet, Mehmet'ten büyüktür.\n- Ayşe, Fatma'dan küçüktür.\n- Mehmet, Ayşe'den büyüktür.\n- Fatma en büyüktür.\nBuna göre, yaşı en küçük olan kimdir?",
-          "secenekler": [
-            "Ahmet",
-            "Mehmet",
-            "Ayşe",
-            "Fatma"
-          ],
-          "dogruCevap": "Ayşe"
-        },
-        {
-          "soru": "Beş arkadaş farklı spor dallarıyla ilgilenmektedir:\n- Futbol oynayan, basketbol oynayanın solundadır.\n- Voleybol oynayan, tenis oynayanın sağındadır.\n- Yüzme yapan en sağdadır.\n- Basketbol oynayan, voleybol oynayanın solundadır.\n- Tenis oynayan, futbol oynayanın sağındadır.\nBuna göre, ortada hangi sporu yapan kişi vardır?",
-          "secenekler": [
-            "Futbol",
-            "Basketbol",
-            "Voleybol",
-            "Tenis"
-          ],
-          "dogruCevap": "Basketbol"
-        },
-        {
-          "soru": "Dört öğrenci sırayla tahtaya kalkmıştır:\n- Ali, Berk'ten önce kalkmıştır.\n- Canan en son kalkmıştır.\n- Deniz, Ali'den sonra kalkmıştır.\n- Berk son sırada değildir.\nBuna göre, ikinci sırada kim tahtaya kalkmıştır?",
-          "secenekler": [
-            "Ali",
-            "Berk",
-            "Canan",
-            "Deniz"
-          ],
-          "dogruCevap": "Deniz"
-        },
-        {
-          "soru": "Beş farklı renkteki kalem masaya dizilmiştir:\n- Mavi kalem, kırmızı kalemden öncedir.\n- Yeşil kalem, sarı ve siyah kalemin arasındadır.\n- Kırmızı kalem en sonda değildir.\n- Siyah kalem en sondadır.\n- Sarı kalem, mavi kalemden sonradır.\nBuna göre, baştan üçüncü sırada hangi renk kalem vardır?",
-          "secenekler": [
-            "Mavi",
-            "Kırmızı",
-            "Yeşil",
-            "Sarı"
-          ],
-          "dogruCevap": "Sarı"
-        }
-      ],
-      "Sözcükte Anlam": [
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'mecaz' anlamda kullanılmış bir sözcük vardır?",
-          "secenekler": [
-            "Ağaçlar çiçek açtı.",
-            "Soğuk su içti.",
-            "Sıcak bir kalbi var.",
-            "Kuşlar gökyüzünde uçuyor."
-          ],
-          "dogruCevap": "Sıcak bir kalbi var.",
-          "aciklama": "'Sıcak kalp' deyimi mecaz anlamda kullanılmıştır."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'yan anlam' vardır?",
-          "secenekler": [
-            "Gözleri parlıyordu.",
-            "İğnenin ucu sivri.",
-            "Masanın ayağı kırık.",
-            "Su içti."
-          ],
-          "dogruCevap": "Masanın ayağı kırık.",
-          "aciklama": "'Ayak' sözcüğü yan anlamda kullanılmıştır."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'zıt anlamlı' sözcükler bir arada kullanılmıştır?",
-          "secenekler": [
-            "İyi kötü geçinip gidiyoruz.",
-            "Güzel güzel konuşuyor.",
-            "Hızlı hızlı yürüyor.",
-            "Yavaş yavaş ilerliyor."
-          ],
-          "dogruCevap": "İyi kötü geçinip gidiyoruz."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'deyim' kullanılmamıştır?",
-          "secenekler": [
-            "Gözden düştü.",
-            "Kulak verdi.",
-            "Yüzü güldü.",
-            "Bahçeye çıktı."
-          ],
-          "dogruCevap": "Bahçeye çıktı."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'nitel' anlamlı bir sözcük vardır?",
-          "secenekler": [
-            "İki elma aldım.",
-            "Güzel bir gün.",
-            "Beş kitap okudum.",
-            "Üç kişi geldi."
-          ],
-          "dogruCevap": "Güzel bir gün.",
-          "aciklama": "'Güzel' sözcüğü nitel bir anlam taşır."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'genel' anlamlı bir sözcük kullanılmıştır?",
-          "secenekler": [
-            "Papatya topladı.",
-            "Çiçek aldım.",
-            "Gül dikti.",
-            "Menekşe kokladı."
-          ],
-          "dogruCevap": "Çiçek aldım.",
-          "aciklama": "'Çiçek' sözcüğü diğerlerine göre daha genel anlamlıdır."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'nicel' anlamlı bir sözcük vardır?",
-          "secenekler": [
-            "Güzel bir film.",
-            "Uzun bir yol.",
-            "Beş kilometre yürüdüm.",
-            "İyi bir insan."
-          ],
-          "dogruCevap": "Beş kilometre yürüdüm.",
-          "aciklama": "'Beş kilometre' nicel bir anlam taşır."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'ad aktarması' (mecaz-ı mürsel) vardır?",
-          "secenekler": [
-            "Sınıf çok gürültülü.",
-            "Kitap okudu.",
-            "Su içti.",
-            "Güneş doğdu."
-          ],
-          "dogruCevap": "Sınıf çok gürültülü.",
-          "aciklama": "'Sınıf' sözcüğü öğrenciler yerine kullanılmıştır."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'dolaylama' vardır?",
-          "secenekler": [
-            "Yavru vatan'a gidiyoruz.",
-            "İstanbul'a vardık.",
-            "Ankara'ya geldik.",
-            "İzmir'e gittik."
-          ],
-          "dogruCevap": "Yavru vatan'a gidiyoruz.",
-          "aciklama": "'Yavru vatan' Kıbrıs için kullanılan bir dolaylamadır."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'kinaye' sanatı vardır?",
-          "secenekler": [
-            "Eli kalem tutuyor.",
-            "Gözü açık gitti.",
-            "Yüzü güldü.",
-            "Başı döndü."
-          ],
-          "dogruCevap": "Eli kalem tutuyor.",
-          "aciklama": "'Eli kalem tutmak' yazı yazabilmek anlamında kinayedir."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'benzetme' yapılmıştır?",
-          "secenekler": [
-            "Aslan gibi güçlü.",
-            "Çok çalışkan.",
-            "İyi bir öğrenci.",
-            "Hızlı koşuyor."
-          ],
-          "dogruCevap": "Aslan gibi güçlü."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'somut' anlamlı bir sözcük kullanılmıştır?",
-          "secenekler": [
-            "Sevgi her şeyi çözer.",
-            "Mutluluk önemlidir.",
-            "Masa devrildi.",
-            "Üzüntü içindeydi."
-          ],
-          "dogruCevap": "Masa devrildi."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'soyut' anlamlı bir sözcük kullanılmıştır?",
-          "secenekler": [
-            "Kalem kırıldı.",
-            "Sevgi doluydu.",
-            "Su içti.",
-            "Kitap okudu."
-          ],
-          "dogruCevap": "Sevgi doluydu."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'eş anlamlı' sözcükler bir arada kullanılmıştır?",
-          "secenekler": [
-            "Siyah beyaz bir film.",
-            "Kara talih kötü kader.",
-            "Uzun ince bir yol.",
-            "Güzel çirkin demeden."
-          ],
-          "dogruCevap": "Kara talih kötü kader."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'yansıma' sözcük kullanılmıştır?",
-          "secenekler": [
-            "Kapı gıcırdadı.",
-            "Kuş uçtu.",
-            "Su aktı.",
-            "Güneş doğdu."
-          ],
-          "dogruCevap": "Kapı gıcırdadı."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'ikilemeler' kullanılmıştır?",
-          "secenekler": [
-            "Yavaş yavaş yürüdü.",
-            "Hızlı koştu.",
-            "İyi çalıştı.",
-            "Güzel yazdı."
-          ],
-          "dogruCevap": "Yavaş yavaş yürüdü."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'terim anlamlı' bir sözcük 'mecaz' anlamda kullanılmıştır?",
-          "secenekler": [
-            "Açı ölçtü.",
-            "Kafası açı yapmıyor.",
-            "Üçgen çizdi.",
-            "Kare buldu."
-          ],
-          "dogruCevap": "Kafası açı yapmıyor.",
-          "aciklama": "Geometri terimi olan 'açı' mecaz anlamda kullanılmıştır."
-        }
-      ],
-      "Cümlede Anlam": [
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'kesinlik' anlamı vardır?",
-          "secenekler": [
-            "Belki yarın size gelirim.",
-            "Sanırım hava yağacak.",
-            "Güneş doğudan doğar.",
-            "Akşama doğru çıkabilirim."
-          ],
-          "dogruCevap": "Güneş doğudan doğar.",
-          "aciklama": "Doğa kanunu olduğu için kesinlik içerir."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'yakınma' anlamı yoktur?",
-          "secenekler": [
-            "Kimse beni anlamıyor.",
-            "Her gün aynı işleri yapıyorum.",
-            "Güzel bir gün geçirdik.",
-            "Bu kadar da olmaz ki!"
-          ],
-          "dogruCevap": "Güzel bir gün geçirdik.",
-          "aciklama": "Bu cümlede memnuniyet vardır."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'öneri' anlamı vardır?",
-          "secenekler": [
-            "Kitap okumayı seviyorum.",
-            "Daha çok çalışmalısın.",
-            "Hava çok güzel.",
-            "Yarın okula gideceğim."
-          ],
-          "dogruCevap": "Daha çok çalışmalısın.",
-          "aciklama": "'-malısın' eki öneri anlamı katmıştır."
-        },
-        {
-          "soru": "'Artık hiçbir şey eskisi gibi olmayacak.' cümlesinde aşağıdaki anlamlardan hangisi vardır?",
-          "secenekler": [
-            "Pişmanlık",
-            "Uyarı",
-            "Değişim",
-            "Beğeni"
-          ],
-          "dogruCevap": "Değişim"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'varsayım' anlamı vardır?",
-          "secenekler": [
-            "Diyelim ki sınavı kazandın.",
-            "Yarın okula gideceğim.",
-            "Kitabı bitirdim.",
-            "Hava çok sıcak."
-          ],
-          "dogruCevap": "Diyelim ki sınavı kazandın.",
-          "aciklama": "'Diyelim ki' ifadesi varsayım belirtir."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'karşılaştırma' yapılmıştır?",
-          "secenekler": [
-            "Bu kitap çok güzel.",
-            "Ali, Ahmet'ten daha çalışkan.",
-            "Yarın okula gideceğim.",
-            "Hava bugün çok sıcak."
-          ],
-          "dogruCevap": "Ali, Ahmet'ten daha çalışkan."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'abartma' vardır?",
-          "secenekler": [
-            "Dün akşam erken yattım.",
-            "Ölümüne seviyorum seni.",
-            "Kitap okumayı severim.",
-            "Yarın size geleceğim."
-          ],
-          "dogruCevap": "Ölümüne seviyorum seni."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'üzüntü' anlamı yoktur?",
-          "secenekler": [
-            "Keşke ona öyle davranmasaydım.",
-            "Ne güzel günlerdi.",
-            "Mutluluktan uçuyorum.",
-            "Ah, nerede o eski günler!"
-          ],
-          "dogruCevap": "Mutluluktan uçuyorum."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'olasılık' anlamı vardır?",
-          "secenekler": [
-            "Yarın yağmur yağabilir.",
-            "Kesinlikle geleceğim.",
-            "Asla vazgeçmem.",
-            "Her zaman erken kalkarım."
-          ],
-          "dogruCevap": "Yarın yağmur yağabilir.",
-          "aciklama": "'-bilir' eki olasılık anlamı katmıştır."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'amaç-sonuç' ilişkisi vardır?",
-          "secenekler": [
-            "Başarılı olmak için çok çalışıyor.",
-            "Yağmur yağdığı için ıslandık.",
-            "Hava soğuk ama üşümüyorum.",
-            "Kitap okudum ve uyudum."
-          ],
-          "dogruCevap": "Başarılı olmak için çok çalışıyor."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'beğeni' anlamı yoktur?",
-          "secenekler": [
-            "Ne güzel bir manzara!",
-            "Harika bir film izledik.",
-            "Yemek soğumuş.",
-            "Muhteşem bir konserdi."
-          ],
-          "dogruCevap": "Yemek soğumuş."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'öz eleştiri' vardır?",
-          "secenekler": [
-            "Keşke daha çok çalışsaydım.",
-            "Sen hiç değişmemişsin.",
-            "Hava çok güzel.",
-            "Onlar çok tembel."
-          ],
-          "dogruCevap": "Keşke daha çok çalışsaydım."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'küçümseme' anlamı vardır?",
-          "secenekler": [
-            "Bu kadarcık işi de yapamadın mı?",
-            "Ne kadar güzel bir ev!",
-            "Yarın görüşelim.",
-            "Hava çok sıcak."
-          ],
-          "dogruCevap": "Bu kadarcık işi de yapamadın mı?"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'sitem' vardır?",
-          "secenekler": [
-            "Bir kez olsun aramadın.",
-            "Yarın geleceğim.",
-            "Hava çok güzel.",
-            "Kitap okuyorum."
-          ],
-          "dogruCevap": "Bir kez olsun aramadın."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'pişmanlık' anlamı yoktur?",
-          "secenekler": [
-            "Keşke gitmeseydim.",
-            "Ah, neden söyledim ki!",
-            "Ne güzel bir gün!",
-            "Böyle yapmamalıydım."
-          ],
-          "dogruCevap": "Ne güzel bir gün!"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'azımsama' anlamı vardır?",
-          "secenekler": [
-            "Topu topu üç kitap okumuş.",
-            "Çok kitap okudum.",
-            "Güzel bir film izledik.",
-            "Yarın görüşürüz."
-          ],
-          "dogruCevap": "Topu topu üç kitap okumuş."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'ön yargı' vardır?",
-          "secenekler": [
-            "Nasılsa başaramayacak.",
-            "Belki yarın gelir.",
-            "Güzel bir gün geçirdik.",
-            "Kitap okumayı seviyorum."
-          ],
-          "dogruCevap": "Nasılsa başaramayacak."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'şaşırma' anlamı vardır?",
-          "secenekler": [
-            "A, sen burada mıydın?",
-            "Yarın görüşürüz.",
-            "Hava çok güzel.",
-            "Kitap okuyorum."
-          ],
-          "dogruCevap": "A, sen burada mıydın?"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'tahmin' anlamı vardır?",
-          "secenekler": [
-            "Herhalde yine geç kalacak.",
-            "Kesinlikle geleceğim.",
-            "Asla vazgeçmem.",
-            "Her zaman erken kalkarım."
-          ],
-          "dogruCevap": "Herhalde yine geç kalacak."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'eleştiri' yoktur?",
-          "secenekler": [
-            "Bu kadar da olmaz!",
-            "Hiç düşünmeden konuşuyor.",
-            "Ne güzel bir manzara!",
-            "Yine geç kaldın."
-          ],
-          "dogruCevap": "Ne güzel bir manzara!"
-        }
-      ],
+      "Sözel Mantık 2015 Kpss Çıkmış Sorular": [
+  {
+    "soru": "Aynı bölümde görev yapan Kemal, Leyla, Mine, Nermin, Osman, Özkan'ın yıl sonunda A, B ve C düzeyinde dergilerde yayımlanan makaleleri incelenmiştir.\n- Her öğretim elemanının en az bir makalesi var (toplam 9 makale)\n- A düzeyi dergi makale sayısı en az\n- B düzeyi dergi makale sayısı üç\n- Özkan'ın yalnızca C düzeyi dergide bir makalesi var\n- A düzeyi dergide makalesi olan iki kişinin C düzeyinde de makalesi var\n- Leyla'nın iki makalesinden biri B düzeyi dergide\n- Kemal'in iki, Osman'ın bir makalesi var\nBuna göre, I. Kemal, II. Mine, III. Nermin'den hangilerinin B düzeyindeki dergide makalesi olabilir?",
+    "secenekler": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "dogruCevap": "II ve III"
+  },
+  {
+    "soru": "Aynı bilgilere göre, aşağıdakilerden hangisi kesinlikle yanlıştır?",
+    "secenekler": [
+      "Kemal'in makalelerinden biri A düzeyi dergide yayımlanmıştır",
+      "Mine'nin yayımlanan birden çok makalesi bulunmaktadır",
+      "Osman'ın makalesi C düzeyi dergide yayımlanmıştır",
+      "Leyla'nın makalelerinden biri, C düzeyi dergide yayımlanmıştır",
+      "Nermin'in A düzeyi dergide yayımlanan makalesi bulunmaktadır"
+    ],
+    "dogruCevap": "Osman'ın makalesi C düzeyi dergide yayımlanmıştır"
+  },
+  {
+    "soru": "Aynı bilgilere göre, Mine'nin C düzeyinde makalesi olduğu biliniyorsa aşağıdakilerden hangisi doğrudur?",
+    "secenekler": [
+      "Leyla ile Nermin'in aynı düzey dergide yayımlanan bir makalesi vardır",
+      "Mine ile Osman'ın aynı düzey dergide yayımlanan bir makalesi vardır",
+      "Kemal ile Nermin'in makaleleri aynı düzey dergide yayımlanmıştır",
+      "Mine ile Nermin'in makaleleri aynı düzey dergide yayımlanmıştır",
+      "Kemal ile Osman'ın makaleleri aynı düzey dergide yayımlanmıştır"
+    ],
+    "dogruCevap": "Leyla ile Nermin'in aynı düzey dergide yayımlanan bir makalesi vardır"
+  },
+  {
+    "soru": "Aynı bilgilere göre, makaleler yayımlandığı dergi düzeyine göre A düzeyi dergide 3, B düzeyi dergide 2, C düzeyi dergide 1 puan alıyorsa öğretim elemanlarınca alınan en yüksek puan kaçtır?",
+    "secenekler": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "dogruCevap": "4"
+  }],
+     "Sözcükte Anlam": [
+  {
+    "soru": "Günümüzde bilinen tarihî çanak çömlek örnekleri, Anadolu'da Çatalhöyük'te ele geçen seramiklerdir.\nBu cümleyle ilgili olarak aşağıdaki açıklamalardan hangisi yanlıştır?",
+    "secenekler": [
+      "Deyim kullanılmıştır",
+      "Gerçek anlamlı sözcüklere yer verilmiştir",
+      "'Günümüzde' sözcüğü 'şu zamanda' anlamını vermiştir",
+      "Pekiştirilmiş sözcük kullanılmıştır",
+      "İkileme kullanılmıştır"
+    ],
+    "dogruCevap": "Pekiştirilmiş sözcük kullanılmıştır",
+    "aciklama": "Cümlede pekiştirilmiş sözcük bulunmamaktadır. 'Ele geçmek' deyimdir, 'çanak çömlek' ikilemedir ve sözcükler gerçek anlamda kullanılmıştır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerden hangisi birlikte verilen sözün anlamını içermemektedir?",
+    "secenekler": [
+      "Öğrenme isteği: Ona bu merak nereden geldi, anlayamadım",
+      "Soyutlanmak: Sınıfta arkadaşlarından ayrı tutulmasına çok üzülmüştü",
+      "Zorlukla: Yaşamlarını binbir sıkıntı içinde sürdürüyorlardı",
+      "Önem vermek: O, ünlü olmayı değil, yalnızca para kazanmayı amaçlıyordu",
+      "Yetinmek: Babasından ona yalnızca bu çiftliğin kaldığını söylüyordu"
+    ],
+    "dogruCevap": "Yetinmek: Babasından ona yalnızca bu çiftliğin kaldığını söylüyordu",
+    "aciklama": "Yetinmek, bir şeyi kendisi için yeter bularak daha fazlasını istememek anlamına gelir. Verilen cümlede böyle bir anlam yoktur."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerde altı çizili sözcüklerden hangisi mecaz anlamlıdır?",
+    "secenekler": [
+      "Sağda, solda, kaldırımda, bu tarafta yürüyen kimse yoktu",
+      "Bu fikre katılmamak olanaksız gibi görünüyor",
+      "Yazar, romanın olay örgüsünü son derece akıcı bir şekilde dokur",
+      "Çeviri yazılarında hem iç hem de dış etkenler kaynak metnin sağlamlığına bağlıdır",
+      "Bir dilin söz dağarcığı, başka bir dilin söz dağarcığından farklıdır"
+    ],
+    "dogruCevap": "Yazar, romanın olay örgüsünü son derece akıcı bir şekilde dokur",
+    "aciklama": "'Örgü' sözcüğü gerçek anlamından tamamen koparak başka bir anlama karşılık gelecek şekilde kullanılmıştır."
+  },
+  {
+    "soru": "Aşağıdaki dizelerin hangisinde yakın anlamlı iki sözcük vardır?",
+    "secenekler": [
+      "Her şey sağır içimde ne şiir ne musiki / Dünyadan bezginliğim dünyalar kadar eski",
+      "Vazgeç dünyanın köhne saltanatından / Yetişir bunca keder bunca elem diyorum",
+      "Güneşler doğardı ve batardı belli belirsiz / Öyle yalnızdık anlatılmaz huzursuz, tesellisiz",
+      "Baksana denizlerin maviliğine / Martıların kanatlarına baksana",
+      "Ne zaman elime bir ayna alsam / Gözlerimden korkuyorum, bakışlarımdan"
+    ],
+    "dogruCevap": "Vazgeç dünyanın köhne saltanatından / Yetişir bunca keder bunca elem diyorum",
+    "aciklama": "'Keder' ve 'elem' yakın anlamlı sözcüklerdir."
+  },
+  {
+    "soru": "'Aramak' sözcüğü aşağıdaki cümlelerin hangisinde 'önem vermek, önemsemek' anlamında kullanılmıştır?",
+    "secenekler": [
+      "Bütün civar köylerde onu aradık",
+      "Beni buralarda çok arayacaksınız",
+      "O, böyle şeyleri aramaz; kendinizi üzmeyin boş yere",
+      "Dün akşam seni çok aradık ama telefonun sürekli kapalıydı",
+      "Bu sorunu çözmek için bir yol arıyoruz şu an"
+    ],
+    "dogruCevap": "O, böyle şeyleri aramaz; kendinizi üzmeyin boş yere",
+    "aciklama": "Bu cümlede 'aramaz' sözcüğü 'önemsemez' anlamında kullanılmıştır."
+  },
+  {
+    "soru": "'Atmak' sözcüğü verilen cümlelerde kaç farklı anlamda kullanılmıştır?\nI. Sırtına oldukça güzel bir şal attı.\nII. Suçu onun üzerine attılar.\nIII. Şapka inkılabıyla fesi attık.\nIV. Bu konunun tartışılmasını gelecek haftaya attılar.\nV. Yemeklerimize biber atmayı âdet edinmişiz.",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "dogruCevap": "5",
+    "aciklama": "1.Giymek 2.Suçu başkasına yıkmak 3.Kullanımdan kaldırmak 4.Ertelemek 5.İlave etmek anlamlarında kullanılmıştır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcüğün yerine ayraç içindeki sözcük getirilemez?",
+    "secenekler": [
+      "Doktora gitmekten korkuyordum (çekiniyordum) ancak sonunda gitmeye mecbur kaldım",
+      "Eğer (şayet) böyle yapmazsa edebiyatın dışına çıkar",
+      "Erkeklerin bazıları pantolonla, bazıları yöresel kıyafetleri olan etekle dolaşıyor (geziyor)",
+      "Evimden, ailemden ayrı kalmak beni huzursuz (keyifsiz) ediyordu",
+      "Evlerin arasında gizlenmiş (saklanmış) bu lokantanın önünde küçük masalar vardı"
+    ],
+    "dogruCevap": "Evimden, ailemden ayrı kalmak beni huzursuz (keyifsiz) ediyordu",
+    "aciklama": "'Huzursuz' kelimesi yerine 'keyifsiz' getirildiğinde cümlenin anlamında daralma olur."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde yakın anlamlı sözcükler kullanılmıştır?",
+    "secenekler": [
+      "Soran, sorgulayan ve aydınlığı arayan bir kişiliği vardır onun",
+      "Avustralya yerlileri ölümden sonra yeniden doğuşun mümkün olduğuna inanıyorlardı",
+      "Sanırsınız ki yazar hep kendi içini dinliyor, izlenimlerini anlatıyor",
+      "Gökyüzü, çiftçiye olan borcunu bereketli bir yağmurla ödüyordu",
+      "Salonda oturan izleyici, artık kendi hayal gücüyle algılar dekoru"
+    ],
+    "dogruCevap": "Soran, sorgulayan ve aydınlığı arayan bir kişiliği vardır onun",
+    "aciklama": "'Sormak' ve 'sorgulamak' yakın anlamlı sözcüklerdir."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerde altı çizili sözcüklerden hangisi mecaz anlamlıdır?",
+    "secenekler": [
+      "Bunlar, çoğu insan için boşuna bir çaba olarak görülebilir",
+      "Nesnellik makalenin bir özelliğidir, denemenin değil",
+      "Çeviri yazısı kaynak metinle sağlam bir ilişki içinde olmalıdır",
+      "Ara sıra eğlenerek yaşamanın tadına varmalı idi",
+      "Hastalık, insanı en güçsüz anında yakalar çoğu zaman"
+    ],
+    "dogruCevap": "Çeviri yazısı kaynak metinle sağlam bir ilişki içinde olmalıdır",
+    "aciklama": "'Sağlam' sözcüğü gerçek anlamından uzaklaşarak 'tutarlı' anlamında kullanılmıştır."
+  },
+  {
+    "soru": "Aşağıdakilerin hangisinde 'koşmak' sözcüğü ayraç içindeki anlamına uygun kullanılmamıştır?",
+    "secenekler": [
+      "Gencecik çocuğu böyle bir işe koşmak iyi cesaret (birini bir işte görevlendirmek)",
+      "İki yıldır bu işin peşinden koşuyorum (üstüne düşmek)",
+      "Akşamdan beri ben koştum, biraz da onlar yorulsunlar, dedi (bir işle çok ilgilenmek, koşuşturmak)",
+      "Atımız Doru, bugünkü yarışta koşmayacak (hayvanı çekeceği arabaya bağlamak)",
+      "Ben kaçıyordum, abim de arkamdan koşuyordu (hızla gitmek)"
+    ],
+    "dogruCevap": "Atımız Doru, bugünkü yarışta koşmayacak (hayvanı çekeceği arabaya bağlamak)",
+    "aciklama": "Bu cümlede 'koşmak' sözcüğü 'yarışmak' anlamında kullanılmıştır, verilen anlamla uyuşmamaktadır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'taşmak' sözcüğü mecaz anlamda kullanılmıştır?",
+    "secenekler": [
+      "Hayvanın ağzından taşan beyaz köpüklere biraz da kan karıştı",
+      "Acaba bizim taşıp köpürmelerimizi pek mi çocukça bulmuştu?",
+      "Yoğun yağmurlar nedeniyle akarsu yine taşmış",
+      "Kasketinden taşmış siyah saçları yakına gelince çok kırçıllaştı",
+      "Gösteri o kadar güzeldi ki seyirciler salondan taşmıştı"
+    ],
+    "dogruCevap": "Acaba bizim taşıp köpürmelerimizi pek mi çocukça bulmuştu?",
+    "aciklama": "'Taşıp köpürmek' deyimi 'sinirlenmek' anlamında mecaz olarak kullanılmıştır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerdeki altı çizili sözcüklerden hangisi terim anlamıyla kullanılmıştır?",
+    "secenekler": [
+      "Bu konuya farklı açılardan yaklaşmak mümkündür",
+      "Türkçede p, ç, t, k seslerinden sonra ünlü gelirse bu sesler yumuşar",
+      "Adamın burnu o kadar iyi koku alıyor ki şaşırıp kalırsın",
+      "Konuşmaya son noktayı koyan yine sen oldun",
+      "Onda bu boğaz varken hayatta rejim yapamaz o"
+    ],
+    "dogruCevap": "Türkçede p, ç, t, k seslerinden sonra ünlü gelirse bu sesler yumuşar",
+    "aciklama": "'Ses' sözcüğü dilbilgisi terimi olarak kullanılmıştır."
+  },
+  {
+    "soru": "Aşağıdaki cümlelerin hangisinde 'bakmak' sözcüğü ayraç içindeki anlamıyla kullanılmamıştır?",
+    "secenekler": [
+      "Git bak bakalım, yeni komşularımız evdeler mi? (yoklamak)",
+      "Şu hesaplara sen de bir bak, ne durumdayız bilelim (incelemek)",
+      "Bazı akşamlar bakarım, Halil gizlice savuşur (denemek)",
+      "Limana bakan penceresinden deniz görünürdü (bir şeyin yüzü bir yöne doğru olmak)",
+      "Bu kumaşın rengi yeşile bakıyor (benzemek, andırmak)"
+    ],
+    "dogruCevap": "Bazı akşamlar bakarım, Halil gizlice savuşur (denemek)",
+    "aciklama": "Bu cümlede 'bakmak' sözcüğü 'görmek, fark etmek' anlamında kullanılmıştır, verilen anlamla uyuşmamaktadır."
+  }
+],
+     "Cümlede Anlam": [
+  {
+    "soru": "I. Sınavda başarılı olmak için çok çalışıyor.\nII. Yağmur yağdığından sokaklar ıslanmış.\nIII. Hava soğuk olduğu halde üşümüyorum.\nIV. Erken kalktım ki işe geç kalmayayım.\nV. Öyle yorgunum ki gözlerimi açamıyorum.\nYukarıdaki cümlelerde aşağıdaki anlam ilişkilerinden hangisi yoktur?",
+    "secenekler": [
+      "Amaç-sonuç",
+      "Neden-sonuç",
+      "Karşıtlık",
+      "Koşul-sonuç",
+      "Abartma"
+    ],
+    "dogruCevap": "Koşul-sonuç",
+    "aciklama": "Cümlelerde amaç-sonuç (I), neden-sonuç (II), karşıtlık (III) ve abartma (V) ilişkileri vardır fakat koşul-sonuç ilişkisi bulunmamaktadır."
+  },
+  {
+    "soru": "I. Yarın hava güzel olursa pikniğe gideriz.\nII. Keşke bu sözleri söylemeseydin.\nIII. Belki de bir daha hiç görüşemeyeceğiz.\nIV. Akşama kadar bu işi bitirmeliyim.\nV. Sen de bizimle gelseydin çok eğlenirdin.\nYukarıdaki cümlelerde kaç farklı kiplik anlamı (kesinlik, olasılık, pişmanlık, gereklilik, dilek-şart) vardır?",
+    "secenekler": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "dogruCevap": "5",
+    "aciklama": "Dilek-şart (I), pişmanlık (II), olasılık (III), gereklilik (IV) ve koşula bağlı pişmanlık (V) olmak üzere 5 farklı kiplik anlamı vardır."
+  },
+  {
+    "soru": "I. Bu konuda sana katılmıyorum.\nII. Senin düşüncelerini desteklemiyorum.\nIII. Bu fikre karşı çıkıyorum.\nIV. Söylediklerin bana mantıklı gelmiyor.\nV. Bu görüşe farklı açıdan bakıyorum.\nYukarıdaki cümlelerden hangileri anlamca aynı doğrultudadır?",
+    "secenekler": [
+      "I, II ve III",
+      "II, III ve IV",
+      "III, IV ve V",
+      "I, III ve V",
+      "II, IV ve V"
+    ],
+    "dogruCevap": "I, II ve III",
+    "aciklama": "I, II ve III. cümleler 'karşı çıkma/reddetme' anlamı taşırken, IV. cümle 'inanmama', V. cümle ise 'farklı perspektiften değerlendirme' anlamı taşır."
+  },
+  {
+    "soru": "I. Yüreğim ağzıma geldi.\nII. İçim içime sığmıyor.\nIII. Gözlerim fal taşı gibi açıldı.\nIV. Dilim tutuldu.\nV. Beynimden vurulmuşa döndüm.\nYukarıdaki deyimlerden hangileri 'şaşırma' anlamı dışında kullanılabilir?",
+    "secenekler": [
+      "I ve II",
+      "II ve III",
+      "III ve IV",
+      "IV ve V",
+      "I ve V"
+    ],
+    "dogruCevap": "I ve II",
+    "aciklama": "I. deyim 'korku', II. deyim 'sevinç/heyecan' anlamında da kullanılabilir. Diğerleri sadece şaşırma anlamı taşır."
+  }
+],
       "Anlatımın Oluşması": [
         {
           "paragraf": "Kahve, koyu kahverengi renkli, kendine has kokusu olan, acımsı bir içecektir. Kavrulmuş kahve çekirdeklerinin öğütülmesi ve sıcak su ile demlenmesiyle hazırlanır. İçine şeker, süt veya krema eklenebilir.",
@@ -9177,17 +8847,6 @@
           ],
           "dogruCevap": "Küçük çocuk parkta oynuyordu.",
           "aciklama": "'oynuyordu' sözcüğünde sadece ünlü daralması varken, diğerlerinde hem ünlü daralması hem kaynaştırma ünsüzü vardır."
-        },
-        {
-          "soru": "I. Burnumun (ünlü düşmesi)\nII. Aklımdan (ünlü düşmesi)\nIII. Oğlunun (ünlü düşmesi)\nIV. Ömrümüz (ünlü düşmesi)\n\nYukarıdaki sözcüklerden hangilerinin kökünde ünlü düşmesi yoktur?",
-          "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "II ve III",
-            "III ve IV"
-          ],
-          "dogruCevap": "III ve IV",
-          "aciklama": "oğul ve ömür sözcüklerinin köklerinde ünlü düşmesi yoktur."
         },
         {
           "soru": "'Bahçemizdeki ağaçlar çiçek açtı.' cümlesinde kaç ünsüz harfin yumuşak karşılığı vardır?",
@@ -11237,17 +10896,6 @@
           ],
           "dogruCevap": "Bac",
           "aciklama": "Bac, Osmanlı'da alınan ilk vergidir ve çarşı-pazar vergisidir."
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Osmanlı Devleti'nin kısa sürede büyümesinde etkili olan faktörlerden biri değildir?",
-          "secenekler": [
-            "İskan siyaseti",
-            "Coğrafi konum",
-            "Güçlü donanma",
-            "Gaza ve cihat anlayışı"
-          ],
-          "dogruCevap": "Güçlü donanma",
-          "aciklama": "Kuruluş döneminde Osmanlı henüz güçlü bir donanmaya sahip değildi."
         },
         {
           "soru": "Osmanlı Devleti'nde ilk medrese nerede ve hangi padişah döneminde açılmıştır?",
@@ -15821,8 +15469,7 @@
           "dogruCevap": "Saltanatın kaldırılması"
         }
       ],
-
-      "Kpss Çıkmış Sorular": [
+      "2014 Kpss Çıkmış Sorular": [
         {
           "soru": "Aşağıdakilerden hangisi Uygurların, kağanlarının gücünü Ay'dan aldıklarına inanmalarından dolayı unvanlarının başına 'Ay' kelimesini eklemelerinde etkili olan dindir?",
           "secenekler": [
@@ -16003,7 +15650,152 @@
           "dogruCevap": "Rusya",
           "aciklama": "Misakımillî ilk kez 16 Mart 1921'de imzalanan Moskova Antlaşması ile Sovyet Rusya tarafından tanınmıştır."
         }
-      ]
+      ],
+      "2014 Kpss Çıkmış Sorular 2": [
+  {
+    "soru": "Misakımillî aşağıdaki Avrupa devletlerinden hangisi tarafından ilk kez kabul edilmiştir?",
+    "secenekler": [
+      "Yunanistan",
+      "İngiltere", 
+      "Fransa",
+      "Rusya",
+      "İtalya"
+    ],
+    "dogruCevap": "Rusya"
+  },
+  {
+    "soru": "Lozan Antlaşması'nda aşağıdakilerden hangileri mübadele dışında bırakılmıştır?\nI. Batı Anadolu'da yaşayan Rumlar\nII. Gümülcine ve İskeçe'de yaşayan Türkler\nIII. İstanbul'da yaşayan Rumlar",
+    "secenekler": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III", 
+      "II ve III",
+      "I, II ve III"
+    ],
+    "dogruCevap": "II ve III"
+  },
+  {
+    "soru": "'İstiklal Harbimiz' adlı eser aşağıdaki Millî Mücadele komutanlarından hangisinin anılarını içermektedir?",
+    "secenekler": [
+      "Kâzım Özalp",
+      "Kâzım Karabekir",
+      "Ali Fuat Cebesoy",
+      "İsmet İnönü",
+      "Fevzi Çakmak"
+    ],
+    "dogruCevap": "Kâzım Karabekir"
+  },
+  {
+    "soru": "Atatürk Dönemi'nde, incelemeler yapmak ve raporlar hazırlamak üzere İsviçre'den davet edilen Prof. Malche tarafından verilen raporun ardından, devamına karar verilen kurum aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "İstanbul Üniversitesi",
+      "Maden Tetkik Arama Enstitüsü",
+      "Türk Tarih Kurumu",
+      "Türk Hava Kurumu", 
+      "Merkez Bankası"
+    ],
+    "dogruCevap": "İstanbul Üniversitesi"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Falih Rıfkı Atay'ın, I. Dünya Savaşı'nda Suriye ve Kanal cephelerinde geçen olayların konu edildiği eseridir?",
+    "secenekler": [
+      "Çankaya",
+      "Zeytin Dağı",
+      "Atatürk'ten Hatıralar",
+      "Medine Müdafaası",
+      "Ateşten Gömlek"
+    ],
+    "dogruCevap": "Zeytin Dağı"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi, 1923-1938 yılları arasında tamamlanmış demir yolu hatlarından biri değildir?",
+    "secenekler": [
+      "Samsun-Sivas",
+      "Sivas-Erzurum",
+      "Malatya-Diyarbakır",
+      "Zonguldak-Ankara",
+      "Eskişehir-Ankara"
+    ],
+    "dogruCevap": "Eskişehir-Ankara"
+  },
+  {
+    "soru": "II. Dünya Savaşı sonrası çok partili hayata geçiş sürecinde kurulan ilk siyasi parti aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Hürriyet Partisi",
+      "Millî Nizam Partisi",
+      "Demokrat Parti",
+      "Millet Partisi",
+      "Ahali Partisi"
+    ],
+    "dogruCevap": "Millî Kalkınma Partisi"
+  },
+  {
+    "soru": "Türkiye'nin de içinde bulunduğu ve antlaşmayı imzalayan devletlerden birinin ayrılmasından sonra CENTO adını alan pakt aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Bağdat",
+      "Balkan",
+      "Akdeniz",
+      "Sadabat",
+      "Briand-Kellogg"
+    ],
+    "dogruCevap": "Bağdat"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Kurtuluş Savaşı Dönemi'nde Anadolu'nun dışa açılan en önemli ikmal limanı olmuştur?",
+    "secenekler": [
+      "İzmir",
+      "Trabzon",
+      "Samsun",
+      "İnebolu",
+      "Antalya"
+    ],
+    "dogruCevap": "İnebolu"
+  },
+  {
+    "soru": "Aşağıda belirtilen işleri yapmak için kurulan kurum hangisidir?\n• Türk dilinin halk arasında yaşayan sözcüklerini araştırmak\n• Folklor üzerinde çalışmak\n• Ulusal tarihin yerel olaylarına ilişkin belgeleri araştırmak\n• Güzel sanatlar dallarında kurslar açmak\n• Köylülerin sağlık ve sosyal alanlarda gelişmelerine yardımcı olmak",
+    "secenekler": [
+      "Halkevleri",
+      "Türk İnkılap Tarihi Enstitüsü",
+      "Türk Dil Kurumu",
+      "Türk Tarih Kurumu",
+      "Dil ve Tarih-Coğrafya Fakültesi"
+    ],
+    "dogruCevap": "Halkevleri"
+  },
+  {
+    "soru": "1991-2013 yılları arasında Kırım Tatar Millî Meclisi Başkanlığı görevini yapan Kırımlıoğlu soy isimli siyasetçi ve halk kahramanı aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "İsa Yusuf",
+      "Mustafa Abdülcemil",
+      "İsmail Gaspıralı",
+      "Remzi İlyasov",
+      "Refat Çubarov"
+    ],
+    "dogruCevap": "Mustafa Abdülcemil"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Türkiye'de 1993 yılında ilk resmî internet bağlantısının kurulduğu kurumdur?",
+    "secenekler": [
+      "İstanbul Teknik Üniversitesi",
+      "Türkiye Büyük Millet Meclisi",
+      "Ankara Üniversitesi", 
+      "Boğaziçi Üniversitesi",
+      "Orta Doğu Teknik Üniversitesi"
+    ],
+    "dogruCevap": "Orta Doğu Teknik Üniversitesi"
+  },
+  {
+    "soru": "1992 yılında Türkiye'nin öncülüğünde İstanbul'da kurulan ve üyeleri arasında ekonomik, teknolojik ve sosyal ilişkileri geliştirmeyi amaçlayan uluslararası örgüt aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "TÜRKSOY",
+      "D8",
+      "AGİT",
+      "KEİ",
+      "BDT"
+    ],
+    "dogruCevap": "KEİ"
+  }
+]
     },
     "Coğrafya": {
       "Türkiye'nin Coğrafi Konumu": [
