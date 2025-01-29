@@ -518,6 +518,97 @@
           "aciklama": "Cezalandırma tekniği diye bir öğretim tekniği yoktur. Öğretim teknikleri öğrenmeyi kolaylaştırmak için kullanılır."
         }
       ],
+      "Eğitim Biliminin Temel Kavramları ve Kuramları 3": [
+  {
+    "soru": "Öğrencilerin önceden edindikleri bilgiler üzerine yeni bilgiler inşa etmesini sağlayan ve öğretmenin rehber rol üstlendiği yaklaşım aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Davranışçı Yaklaşım",
+      "Yapılandırmacı Yaklaşım",
+      "Klasik Koşullanma",
+      "Bilgi İşleme Kuramı"
+    ],
+    "dogruCevap": "Yapılandırmacı Yaklaşım",
+    "aciklama": "Yapılandırmacı yaklaşım, öğrencinin aktif olduğu ve bilgiyi kendi deneyimleriyle oluşturduğu bir süreci temsil eder. Öğretmen burada bilgiyi direkt aktarmak yerine rehberlik eder."
+  },
+  {
+    "soru": "Bir öğrenci, sınavda yüksek not aldığında öğretmeninden övgü alıyor. Bu durumda övgü, edimsel koşullanmada hangi kavramla ifade edilir?",
+    "secenekler": [
+      "Olumlu Pekiştireç",
+      "Olumsuz Pekiştireç",
+      "Ceza",
+      "Nötr Uyarıcı"
+    ],
+    "dogruCevap": "Olumlu Pekiştireç",
+    "aciklama": "Övgü, öğrencinin davranışını artırmak için kullanılan bir olumlu pekiştireç örneğidir."
+  },
+  {
+    "soru": "Piaget'nin bilişsel gelişim kuramına göre, çocuğun 'korunum' kavramını kazandığı dönem aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Duyusal-Motor Dönem",
+      "İşlem Öncesi Dönem",
+      "Somut İşlemler Dönemi",
+      "Soyut İşlemler Dönemi"
+    ],
+    "dogruCevap": "Somut İşlemler Dönemi",
+    "aciklama": "Korunum (nesnelerin görünümü değişse bile miktarının değişmediğini anlama) somut işlemler döneminde (7-11 yaş) kazanılır."
+  },
+  {
+    "soru": "Vygotsky'nin 'Yakınsal Gelişim Alanı' kavramıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": [
+      "Çocuğun tek başına yapamadığı ancak rehberle yapabildiği görevleri kapsar",
+      "Öğretmenlerin, öğrencilerin potansiyelini ortaya çıkarmasına odaklanır",
+      "Bireyin biyolojik olgunlaşma düzeyiyle sınırlıdır",
+      "Sosyal etkileşim ve dil bu süreçte kritiktir"
+    ],
+    "dogruCevap": "Bireyin biyolojik olgunlaşma düzeyiyle sınırlıdır",
+    "aciklama": "Vygotsky, biyolojik olgunlaşmadan ziyade sosyal çevre ve rehberli öğrenme üzerinde durur."
+  },
+  {
+    "soru": "Gardner'ın Çoklu Zeka Kuramı'na göre aşağıdakilerden hangisi bir zeka türü değildir?",
+    "secenekler": [
+      "Mantıksal-Matematiksel Zeka",
+      "Varoluşsal Zeka",
+      "Duygusal Zeka",
+      "Müziksel-Ritmik Zeka"
+    ],
+    "dogruCevap": "Duygusal Zeka",
+    "aciklama": "Gardner'ın kuramında 'duygusal zeka' yer almaz. Bu kavram, Daniel Goleman tarafından geliştirilmiştir. Gardner'ın zeka türleri arasında 'varoluşsal zeka' (yaşamın anlamı üzerine düşünme) da vardır."
+  },
+  {
+    "soru": "Bir öğretmen, öğrencilerine 'İklim değişikliğinin etkilerini nasıl azaltabiliriz?' sorusunu yöneltip grup tartışması yaptırıyor. Bu yöntem hangi öğrenme yaklaşımına örnektir?",
+    "secenekler": [
+      "Proje Tabanlı Öğrenme",
+      "Probleme Dayalı Öğrenme",
+      "İşbirlikli Öğrenme",
+      "Tümü"
+    ],
+    "dogruCevap": "Tümü",
+    "aciklama": "Probleme dayalı öğrenme, işbirlikli çalışma ve proje tabanlı aktiviteler birbiriyle iç içedir. Bu durumda üç yaklaşım da söz konusudur."
+  },
+  {
+    "soru": "Maslow'un İhtiyaçlar Hiyerarşisi'ne göre, 'sevgi ve ait olma' ihtiyacı hangi basamakta yer alır?",
+    "secenekler": [
+      "Fizyolojik İhtiyaçlar",
+      "Güvenlik İhtiyacı",
+      "Sosyal İhtiyaçlar",
+      "Kendini Gerçekleştirme"
+    ],
+    "dogruCevap": "Sosyal İhtiyaçlar",
+    "aciklama": "Maslow'un hiyerarşisinde sosyal ihtiyaçlar (sevgi, arkadaşlık, aidiyet) üçüncü basamaktır."
+  },
+  {
+    "soru": "Bruner'in 'keşfederek öğrenme' yaklaşımı için aşağıdakilerden hangisi söylenemez?",
+    "secenekler": [
+      "Öğrenci merkezlidir",
+      "Öğretmen bilgiyi doğrudan aktarır",
+      "Kavram haritaları ve somut materyaller kullanılır",
+      "Öğrencilerin hipotez kurması teşvik edilir"
+    ],
+    "dogruCevap": "Öğretmen bilgiyi doğrudan aktarır",
+    "aciklama": "Bruner'de öğretmen rehberdir, bilgiyi keşfetme sürecini yönetir, direkt aktarmaz."
+  }
+],
+
       "Eğitimin Temelleri": [
         {
           "soru": "Antik Yunan'da 'paideia' kavramı neyi ifade eder?",
@@ -982,6 +1073,119 @@
           "aciklama": "Kültürel değerler eğitimin toplumsal temellerinin inceleme alanıdır."
         }
       ],
+      "Eğitimin Temelleri 3": [
+  {
+    "soru": "Osmanlı İmparatorluğu'nda modern eğitim sisteminin temellerini atan ve 19. yüzyılda açılan ilk modern okullar hangi dönemde kurulmuştur?",
+    "secenekler": [
+      "Lale Devri",
+      "Tanzimat Dönemi",
+      "Meşrutiyet Dönemi",
+      "Islahat Fermanı"
+    ],
+    "dogruCevap": "Tanzimat Dönemi",
+    "aciklama": "Tanzimat Dönemi'nde (1839-1876) modern okullar (rüştiye, idadi) açılmış ve eğitimde batılılaşma hareketleri başlamıştır."
+  },
+  {
+    "soru": "John Dewey'in 'Demokrasi ve Eğitim' kitabında savunduğu, öğrencinin deneyimlerini merkeze alan eğitim felsefesi hangisidir?",
+    "secenekler": [
+      "İdealizm",
+      "Esasicilik (Essentialism)",
+      "Pragmatizm",
+      "Daimicilik (Perennialism)"
+    ],
+    "dogruCevap": "Pragmatizm",
+    "aciklama": "Dewey, pragmatizm felsefesini benimser. Öğrenme sürecinde deneyim ve problem çözme ön plandadır."
+  },
+  {
+    "soru": "Eğitimin toplumsal işlevleri arasında aşağıdakilerden hangisi doğrudan yer almaz?",
+    "secenekler": [
+      "Kültürel mirası aktarma",
+      "Ekonomik kalkınmayı destekleme",
+      "Bireysel yetenekleri geliştirme",
+      "Sosyal statüyü kalıplaştırma"
+    ],
+    "dogruCevap": "Sosyal statüyü kalıplaştırma",
+    "aciklama": "Eğitim, sosyal statüyü kalıplaştırmak yerine hareketliliği sağlamalıdır. Diğer seçenekler eğitimin temel işlevleridir."
+  },
+  {
+    "soru": "Piaget'nin bilişsel gelişim kuramına göre, 'somut işlemler dönemi'nde kazanılan temel beceri aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Soyut problem çözme",
+      "Nesne devamlılığı",
+      "Korunum ilkesini anlama",
+      "Sembolik oyun"
+    ],
+    "dogruCevap": "Korunum ilkesini anlama",
+    "aciklama": "Somut işlemler döneminde (7-11 yaş) çocuk, korunum (miktarın değişmezliği) kavramını kazanır."
+  },
+  {
+    "soru": "Beşeri sermaye teorisine göre, eğitimin ekonomiye en önemli katkısı nedir?",
+    "secenekler": [
+      "Gelir eşitsizliğini artırmak",
+      "İşgücünün niteliğini yükseltmek",
+      "Tüketim alışkanlıklarını değiştirmek",
+      "Devlet bütçesini daraltmak"
+    ],
+    "dogruCevap": "İşgücünün niteliğini yükseltmek",
+    "aciklama": "Beşeri sermaye teorisi (Schultz, Becker), eğitimi üretkenlik artışı sağlayan bir yatırım olarak görür."
+  },
+  {
+    "soru": "Eğitim politikalarının oluşturulmasında aşağıdakilerden hangisi en az etkilidir?",
+    "secenekler": [
+      "Ulusal güvenlik ihtiyaçları",
+      "Siyasi partilerin ideolojisi",
+      "Öğretmen sendikalarının görüşleri",
+      "Öğrencilerin beslenme alışkanlıkları"
+    ],
+    "dogruCevap": "Öğrencilerin beslenme alışkanlıkları",
+    "aciklama": "Beslenme alışkanlıkları, eğitim politikalarıyla dolaylı ilişkilidir. Diğerleri doğrudan etkendir."
+  },
+  {
+    "soru": "Realizm felsefesine dayanan bir eğitim sisteminde aşağıdaki öğretim yöntemlerinden hangisi öncelikli kullanılır?",
+    "secenekler": [
+      "Öğrenci merkezli tartışmalar",
+      "Deney ve gözlem",
+      "Ezber ve disiplin",
+      "Sanatsal aktiviteler"
+    ],
+    "dogruCevap": "Deney ve gözlem",
+    "aciklama": "Realizm, bilimsel yöntem ve gözleme dayanır. Öğrenciler gerçek dünya verilerini analiz eder."
+  },
+  {
+    "soru": "Rönesans döneminde Avrupa'da eğitimdeki yenilikler arasında aşağıdakilerden hangisi yer almaz?",
+    "secenekler": [
+      "Hümanist değerlerin ön plana çıkması",
+      "Skolastik düşüncenin tamamen terk edilmesi",
+      "Fen bilimlerine ilginin artması",
+      "Latince yerine ulusal dillerin kullanılması"
+    ],
+    "dogruCevap": "Skolastik düşüncenin tamamen terk edilmesi",
+    "aciklama": "Skolastik düşünce yavaş yavaş etkisini kaybetmiştir, ancak tamamen terk edilmemiştir."
+  },
+  {
+    "soru": "Türkiye'de 1924 yılında çıkarılan 'Tevhid-i Tedrisat Kanunu'nun temel amacı nedir?",
+    "secenekler": [
+      "Kız çocuklarının eğitimini zorunlu kılmak",
+      "Eğitim sistemini laikleştirmek ve birleştirmek",
+      "Mesleki eğitimi yaygınlaştırmak",
+      "Üniversitelerin özerkliğini artırmak"
+    ],
+    "dogruCevap": "Eğitim sistemini laikleştirmek ve birleştirmek",
+    "aciklama": "Tevhid-i Tedrisat Kanunu, eğitimi laik ve merkezi bir yapıya kavuşturmuştur."
+  },
+  {
+    "soru": "Bir ülkede eğitim harcamalarının GSYİH içindeki payının artması, aşağıdakilerden hangisinin göstergesi olamaz?",
+    "secenekler": [
+      "İnsan sermayesine yatırım",
+      "Sosyal refah seviyesinin düşüşü",
+      "Teknolojik yenilik kapasitesi",
+      "Uzun vadeli ekonomik büyüme beklentisi"
+    ],
+    "dogruCevap": "Sosyal refah seviyesinin düşüşü",
+    "aciklama": "Eğitim harcamalarının artması, sosyal refahın yükseldiğine işaret eder."
+  }
+],
+
       "Eğitimin Tarihsel Gelişimi": [
         {
           "soru": "İlk formal eğitim kurumları, hangi medeniyetler tarafından kurulmuştur?",
@@ -2736,6 +2940,160 @@
       ]
     },
     "Türk Millî Eğitim Sistemi": {
+      "Türk Milli Eğitiminin Temel İlkeleri": [
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre Türk Milli Eğitiminin temel ilkeleri arasında aşağıdakilerden hangisi yer almaz?",
+          "secenekler": [
+            "Genellik ve eşitlik",
+            "Ferdin ve toplumun ihtiyaçları",
+            "Yöneltme",
+            "Sınıf tekrarı"
+          ],
+          "dogruCevap": "Sınıf tekrarı"
+        },
+        {
+          "soru": "1739 sayılı Kanun'a göre, 'Her yurttaşın ilgi, istidat ve kabiliyetleri ölçüsünde eğitim hizmetlerinden faydalanması' hangi temel ilkeyi ifade eder?",
+          "secenekler": [
+            "Fırsat ve imkan eşitliği",
+            "Genellik ve eşitlik",
+            "Yöneltme",
+            "Her yerde eğitim"
+          ],
+          "dogruCevap": "Fırsat ve imkan eşitliği"
+        },
+        {
+          "soru": "1739 sayılı Kanun'da belirtilen 'Türk Milli Eğitiminin Genel Amaçları' arasında aşağıdakilerden hangisi yer alır?",
+          "secenekler": [
+            "Atatürk inkılap ve ilkelerine bağlı, demokratik, laik ve sosyal bir hukuk devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen vatandaşlar yetiştirmek",
+            "Sadece akademik başarıya odaklanan bireyler yetiştirmek",
+            "Yalnızca mesleki becerileri olan bireyler yetiştirmek",
+            "Sadece spor ve sanat alanında başarılı bireyler yetiştirmek"
+          ],
+          "dogruCevap": "Atatürk inkılap ve ilkelerine bağlı, demokratik, laik ve sosyal bir hukuk devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen vatandaşlar yetiştirmek"
+        },
+        {
+          "soru": "1739 sayılı Kanun'a göre, eğitim kurumlarının aşağıdaki niteliklerden hangisine açık olması zorunludur?",
+          "secenekler": [
+            "Dil, ırk, cinsiyet, engellilik ve din ayırımı gözetilmeksizin herkese açık olma",
+            "Sadece başarılı öğrencilere açık olma",
+            "Sadece belirli bölgelerdeki öğrencilere açık olma",
+            "Sadece maddi durumu iyi olan ailelerin çocuklarına açık olma"
+          ],
+          "dogruCevap": "Dil, ırk, cinsiyet, engellilik ve din ayırımı gözetilmeksizin herkese açık olma"
+        },
+        {
+          "soru": "1739 sayılı Kanun'a göre, 'Laiklik' ilkesi eğitimde neyi ifade eder?",
+          "secenekler": [
+            "Din eğitim ve öğretiminin devletin gözetim ve denetimi altında yapılması",
+            "Din eğitiminin tamamen yasaklanması",
+            "Din eğitiminin sadece özel kurumlarda verilmesi",
+            "Din eğitiminin ailelere bırakılması"
+          ],
+          "dogruCevap": "Din eğitim ve öğretiminin devletin gözetim ve denetimi altında yapılması"
+        },
+        {
+          "soru": "1739 sayılı Kanun'a göre, öğretmenlik mesleği ile ilgili aşağıdakilerden hangisi doğrudur?",
+          "secenekler": [
+            "Öğretmenlik, devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir",
+            "Öğretmenlik sadece ders anlatma görevini içeren bir meslektir",
+            "Öğretmenlik herkesin yapabileceği bir meslektir",
+            "Öğretmenlik için özel bir eğitim gerekmez"
+          ],
+          "dogruCevap": "Öğretmenlik, devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir"
+        },
+        {
+          "soru": "1739 sayılı Kanun'a göre, 'Her yerde eğitim' ilkesi neyi ifade eder?",
+          "secenekler": [
+            "Milli eğitim hizmetinin, ekonomik, sosyal ve kültürel kalkınma hedeflerine uygun olarak eğitim kurumları dışında da her yerde ve her fırsatta verilmesi",
+            "Sadece okul binalarında eğitim verilmesi",
+            "Eğitimin sadece büyük şehirlerde verilmesi",
+            "Eğitimin sadece resmi kurumlarda verilmesi"
+          ],
+          "dogruCevap": "Milli eğitim hizmetinin, ekonomik, sosyal ve kültürel kalkınma hedeflerine uygun olarak eğitim kurumları dışında da her yerde ve her fırsatta verilmesi"
+        }
+      ],
+      "Türk Milli Eğitim Sisteminin Genel Yapısı": [
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre Türk Milli Eğitim Sistemi hangi iki ana bölümden oluşur?",
+          "secenekler": [
+            "Örgün eğitim ve yaygın eğitim",
+            "İlköğretim ve ortaöğretim",
+            "Resmi eğitim ve özel eğitim",
+            "Zorunlu eğitim ve isteğe bağlı eğitim"
+          ],
+          "dogruCevap": "Örgün eğitim ve yaygın eğitim"
+        },
+        {
+          "soru": "1739 sayılı Kanun'a göre, örgün eğitim hangi kurumları kapsar?",
+          "secenekler": [
+            "Okul öncesi, ilköğretim, ortaöğretim ve yükseköğretim kurumları",
+            "Sadece ilköğretim ve ortaöğretim kurumları",
+            "Sadece yükseköğretim kurumları",
+            "Sadece mesleki eğitim kurumları"
+          ],
+          "dogruCevap": "Okul öncesi, ilköğretim, ortaöğretim ve yükseköğretim kurumları"
+        },
+        {
+          "soru": "1739 sayılı Kanun'a göre, Türk Milli Eğitim Sisteminin genel yapısı içinde zorunlu eğitim kaç yıldır?",
+          "secenekler": [
+            "8 yıl",
+            "5 yıl",
+            "12 yıl",
+            "4 yıl"
+          ],
+          "dogruCevap": "12 yıl"
+        },
+        {
+          "soru": "1739 sayılı Kanun'a göre, Türk Milli Eğitim Sisteminin yönetiminde temel sorumluluk hangi kuruma aittir?",
+          "secenekler": [
+            "Milli Eğitim Bakanlığı",
+            "Yükseköğretim Kurulu",
+            "Valilikler",
+            "İl Milli Eğitim Müdürlükleri"
+          ],
+          "dogruCevap": "Milli Eğitim Bakanlığı"
+        },
+        {
+          "soru": "1739 sayılı Kanun'a göre, eğitim kurumlarının açılması, geliştirilmesi ve kapanması ile ilgili kararları hangi kurum verir?",
+          "secenekler": [
+            "Milli Eğitim Bakanlığı",
+            "Yerel yönetimler",
+            "Okul müdürlükleri",
+            "İl Milli Eğitim Müdürlükleri"
+          ],
+          "dogruCevap": "Milli Eğitim Bakanlığı"
+        },
+        {
+          "soru": "1739 sayılı Kanun'a göre, örgün ve yaygın eğitim kurumlarının eğitim, öğretim ve yönetim görevlerini yerine getirmekle yükümlü olan meslek kimdir?",
+          "secenekler": [
+            "Öğretmenler",
+            "Okul müdürleri",
+            "Eğitim uzmanları",
+            "Milli Eğitim müfettişleri"
+          ],
+          "dogruCevap": "Öğretmenler"
+        },
+        {
+          "soru": "1739 sayılı Kanun'a göre, eğitim sisteminin temel özelliklerinden biri nedir?",
+          "secenekler": [
+            "Türk Milli Eğitiminin genel amacına ve temel ilkelerine uygun olması",
+            "Sadece akademik başarıya odaklanması",
+            "Yerel yönetimlerin kontrolünde olması",
+            "Özel sektör tarafından yönetilmesi"
+          ],
+          "dogruCevap": "Türk Milli Eğitiminin genel amacına ve temel ilkelerine uygun olması"
+        },
+        {
+          "soru": "1739 sayılı Kanun'a göre, eğitim kurumlarının denetimi hangi kurumun sorumluluğundadır?",
+          "secenekler": [
+            "Milli Eğitim Bakanlığı",
+            "Yerel yönetimler",
+            "Okul aile birlikleri",
+            "Sivil toplum kuruluşları"
+          ],
+          "dogruCevap": "Milli Eğitim Bakanlığı"
+        }
+      ],
       "Türk Eğitim Sisteminin Yapısı": [
         {
           "soru": "Türk eğitim sisteminde ilkokul, ortaokul ve lise eğitimi kaç yıl sürer?",
@@ -5479,160 +5837,175 @@
                         "dogruCevap": "Atatürk inkılap ve ilkelerine bağlı, demokratik, laik ve sosyal bir hukuk devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen vatandaşlar yetiştirmek"
                       }
                     ],
-      "Türk Milli Eğitiminin Temel İlkeleri": [
-        {
-          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre Türk Milli Eğitiminin temel ilkeleri arasında aşağıdakilerden hangisi yer almaz?",
-          "secenekler": [
-            "Genellik ve eşitlik",
-            "Ferdin ve toplumun ihtiyaçları",
-            "Yöneltme",
-            "Sınıf tekrarı"
-          ],
-          "dogruCevap": "Sınıf tekrarı"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, 'Her yurttaşın ilgi, istidat ve kabiliyetleri ölçüsünde eğitim hizmetlerinden faydalanması' hangi temel ilkeyi ifade eder?",
-          "secenekler": [
-            "Fırsat ve imkan eşitliği",
-            "Genellik ve eşitlik",
-            "Yöneltme",
-            "Her yerde eğitim"
-          ],
-          "dogruCevap": "Fırsat ve imkan eşitliği"
-        },
-        {
-          "soru": "1739 sayılı Kanun'da belirtilen 'Türk Milli Eğitiminin Genel Amaçları' arasında aşağıdakilerden hangisi yer alır?",
-          "secenekler": [
-            "Atatürk inkılap ve ilkelerine bağlı, demokratik, laik ve sosyal bir hukuk devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen vatandaşlar yetiştirmek",
-            "Sadece akademik başarıya odaklanan bireyler yetiştirmek",
-            "Yalnızca mesleki becerileri olan bireyler yetiştirmek",
-            "Sadece spor ve sanat alanında başarılı bireyler yetiştirmek"
-          ],
-          "dogruCevap": "Atatürk inkılap ve ilkelerine bağlı, demokratik, laik ve sosyal bir hukuk devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen vatandaşlar yetiştirmek"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, eğitim kurumlarının aşağıdaki niteliklerden hangisine açık olması zorunludur?",
-          "secenekler": [
-            "Dil, ırk, cinsiyet, engellilik ve din ayırımı gözetilmeksizin herkese açık olma",
-            "Sadece başarılı öğrencilere açık olma",
-            "Sadece belirli bölgelerdeki öğrencilere açık olma",
-            "Sadece maddi durumu iyi olan ailelerin çocuklarına açık olma"
-          ],
-          "dogruCevap": "Dil, ırk, cinsiyet, engellilik ve din ayırımı gözetilmeksizin herkese açık olma"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, 'Laiklik' ilkesi eğitimde neyi ifade eder?",
-          "secenekler": [
-            "Din eğitim ve öğretiminin devletin gözetim ve denetimi altında yapılması",
-            "Din eğitiminin tamamen yasaklanması",
-            "Din eğitiminin sadece özel kurumlarda verilmesi",
-            "Din eğitiminin ailelere bırakılması"
-          ],
-          "dogruCevap": "Din eğitim ve öğretiminin devletin gözetim ve denetimi altında yapılması"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, öğretmenlik mesleği ile ilgili aşağıdakilerden hangisi doğrudur?",
-          "secenekler": [
-            "Öğretmenlik, devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir",
-            "Öğretmenlik sadece ders anlatma görevini içeren bir meslektir",
-            "Öğretmenlik herkesin yapabileceği bir meslektir",
-            "Öğretmenlik için özel bir eğitim gerekmez"
-          ],
-          "dogruCevap": "Öğretmenlik, devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, 'Her yerde eğitim' ilkesi neyi ifade eder?",
-          "secenekler": [
-            "Milli eğitim hizmetinin, ekonomik, sosyal ve kültürel kalkınma hedeflerine uygun olarak eğitim kurumları dışında da her yerde ve her fırsatta verilmesi",
-            "Sadece okul binalarında eğitim verilmesi",
-            "Eğitimin sadece büyük şehirlerde verilmesi",
-            "Eğitimin sadece resmi kurumlarda verilmesi"
-          ],
-          "dogruCevap": "Milli eğitim hizmetinin, ekonomik, sosyal ve kültürel kalkınma hedeflerine uygun olarak eğitim kurumları dışında da her yerde ve her fırsatta verilmesi"
-        }
-      ],
-      "Türk Milli Eğitim Sisteminin Genel Yapısı": [
-        {
-          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre Türk Milli Eğitim Sistemi hangi iki ana bölümden oluşur?",
-          "secenekler": [
-            "Örgün eğitim ve yaygın eğitim",
-            "İlköğretim ve ortaöğretim",
-            "Resmi eğitim ve özel eğitim",
-            "Zorunlu eğitim ve isteğe bağlı eğitim"
-          ],
-          "dogruCevap": "Örgün eğitim ve yaygın eğitim"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, örgün eğitim hangi kurumları kapsar?",
-          "secenekler": [
-            "Okul öncesi, ilköğretim, ortaöğretim ve yükseköğretim kurumları",
-            "Sadece ilköğretim ve ortaöğretim kurumları",
-            "Sadece yükseköğretim kurumları",
-            "Sadece mesleki eğitim kurumları"
-          ],
-          "dogruCevap": "Okul öncesi, ilköğretim, ortaöğretim ve yükseköğretim kurumları"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, Türk Milli Eğitim Sisteminin genel yapısı içinde zorunlu eğitim kaç yıldır?",
-          "secenekler": [
-            "8 yıl",
-            "5 yıl",
-            "12 yıl",
-            "4 yıl"
-          ],
-          "dogruCevap": "12 yıl"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, Türk Milli Eğitim Sisteminin yönetiminde temel sorumluluk hangi kuruma aittir?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Yükseköğretim Kurulu",
-            "Valilikler",
-            "İl Milli Eğitim Müdürlükleri"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, eğitim kurumlarının açılması, geliştirilmesi ve kapanması ile ilgili kararları hangi kurum verir?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Yerel yönetimler",
-            "Okul müdürlükleri",
-            "İl Milli Eğitim Müdürlükleri"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, örgün ve yaygın eğitim kurumlarının eğitim, öğretim ve yönetim görevlerini yerine getirmekle yükümlü olan meslek kimdir?",
-          "secenekler": [
-            "Öğretmenler",
-            "Okul müdürleri",
-            "Eğitim uzmanları",
-            "Milli Eğitim müfettişleri"
-          ],
-          "dogruCevap": "Öğretmenler"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, eğitim sisteminin temel özelliklerinden biri nedir?",
-          "secenekler": [
-            "Türk Milli Eğitiminin genel amacına ve temel ilkelerine uygun olması",
-            "Sadece akademik başarıya odaklanması",
-            "Yerel yönetimlerin kontrolünde olması",
-            "Özel sektör tarafından yönetilmesi"
-          ],
-          "dogruCevap": "Türk Milli Eğitiminin genel amacına ve temel ilkelerine uygun olması"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, eğitim kurumlarının denetimi hangi kurumun sorumluluğundadır?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Yerel yönetimler",
-            "Okul aile birlikleri",
-            "Sivil toplum kuruluşları"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        }
-      ],
+                    "7528 sayılı Öğretmenlik Mesleği Kanunu": [
+  {
+    "soru": "7528 Sayılı Öğretmenlik Meslek Kanunu'na göre öğretmenlik kariyer basamakları kaç aşamadan oluşmaktadır?",
+    "secenekler": [
+      "2 – Öğretmen ve Uzman Öğretmen",
+      "3 – Öğretmen, Uzman Öğretmen ve Başöğretmen",
+      "4 – Stajyer Öğretmen, Öğretmen, Uzman Öğretmen ve Başöğretmen",
+      "5 – Stajyer, Kıdemli Öğretmen, Uzman Öğretmen, Başöğretmen ve Eğitim Lideri"
+    ],
+    "dogruCevap": "3 – Öğretmen, Uzman Öğretmen ve Başöğretmen",
+    "aciklama": "Kanun, öğretmenlik mesleğini üç basamaklı bir kariyer yapısına oturtmuştur."
+  },
+  {
+    "soru": "7528 Sayılı Kanun'a göre Uzman Öğretmen olabilmek için aşağıdakilerden hangisi gereklidir?",
+    "secenekler": [
+      "En az 5 yıl öğretmenlik yapmak",
+      "En az 10 yıl öğretmenlik yapmak, mesleki gelişim programını tamamlamak ve sınavı geçmek",
+      "En az 15 yıl öğretmenlik yapmak ve yüksek lisans yapmış olmak",
+      "En az 20 yıl öğretmenlik yapmak ve sınavda en az 80 puan almak"
+    ],
+    "dogruCevap": "En az 10 yıl öğretmenlik yapmak, mesleki gelişim programını tamamlamak ve sınavı geçmek",
+    "aciklama": "Uzman Öğretmenlik için en az 10 yıl öğretmenlik ve MEB'in mesleki gelişim programını tamamlayarak sınavda başarılı olmak gereklidir."
+  },
+  {
+    "soru": "7528 Sayılı Kanuna göre, aşağıdakilerden hangisi öğretmenlik kariyer basamaklarına dâhil değildir?",
+    "secenekler": [
+      "Uzman Öğretmen",
+      "Başöğretmen",
+      "Eğitim Müfettişi",
+      "Öğretmen"
+    ],
+    "dogruCevap": "Eğitim Müfettişi",
+    "aciklama": "Eğitim müfettişliği, öğretmenlik kariyer basamaklarına dâhil değildir. Kariyer basamakları: Öğretmen, Uzman Öğretmen ve Başöğretmen olarak belirlenmiştir."
+  },
+  {
+    "soru": "7528 Sayılı Kanun'a göre, öğretmenlerin maaşlarında yapılan değişikliklerden hangisi doğrudur?",
+    "secenekler": [
+      "Uzman ve Başöğretmenler ek tazminat alır",
+      "Tüm öğretmenlere maaş farkı olmaksızın eşit ücret ödenir",
+      "Sadece kıdemli öğretmenlere maaş artışı sağlanmıştır",
+      "Ek ders ücretleri tamamen kaldırılmıştır"
+    ],
+    "dogruCevap": "Uzman ve Başöğretmenler ek tazminat alır",
+    "aciklama": "Uzman ve Başöğretmenlere ek tazminat hakkı tanınmıştır, ancak diğer maddeler yanlıştır."
+  },
+  {
+    "soru": "7528 Sayılı Kanuna göre öğretmenlerin mesleki gelişimi için yapılan düzenlemelerden hangisi yanlıştır?",
+    "secenekler": [
+      "Öğretmenlerin sürekli eğitim programlarına katılması teşvik edilmiştir",
+      "Uzman ve Başöğretmenlik için mesleki gelişim programları zorunlu hale getirilmiştir",
+      "Öğretmenler için yurtdışı eğitim zorunlu tutulmuştur",
+      "Mesleki gelişim eğitimleri, hizmet içi eğitim programlarıyla desteklenmektedir"
+    ],
+    "dogruCevap": "Öğretmenler için yurtdışı eğitim zorunlu tutulmuştur",
+    "aciklama": "Kanun, mesleki gelişimi teşvik etse de yurtdışı eğitim zorunlu değildir."
+  },
+  {
+    "soru": "7528 Sayılı Kanuna göre, öğretmenlik mesleğinde disiplin cezalarına karşı öğretmenlere savunma hakkı verilmiştir. Öğretmenlere disiplin cezalarında savunma hakkı için tanınan süre en az kaç gündür?",
+    "secenekler": [
+      "7 gün",
+      "15 gün",
+      "30 gün",
+      "45 gün"
+    ],
+    "dogruCevap": "15 gün",
+    "aciklama": "Kanuna göre, öğretmenlere en az 15 gün savunma süresi tanınmalıdır."
+  },
+  {
+    "soru": "7528 Sayılı Kanun'a göre, öğretmenlerin yer değiştirme işlemleri hangi kurallar çerçevesinde gerçekleştirilir?",
+    "secenekler": [
+      "Tamamen öğretmenlerin isteğine bağlıdır",
+      "Hizmet puanı esasına göre belirlenir",
+      "Okul yöneticisinin onayı ile gerçekleştirilir",
+      "Sadece eş durumu mazeretine bağlıdır"
+    ],
+    "dogruCevap": "Hizmet puanı esasına göre belirlenir",
+    "aciklama": "Öğretmenlerin yer değiştirme işlemleri, hizmet puanına dayalı olarak yapılır. Ancak eş durumu, sağlık durumu ve diğer özel durumlar da dikkate alınır."
+  },
+  {
+    "soru": "Öğretmenlerin mesleki gelişimi için 7528 Sayılı Kanun ile zorunlu hale getirilen uygulamalardan biri aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Yılda en az bir defa yurtdışı eğitime katılma zorunluluğu",
+      "Uzaktan eğitimle pedagojik formasyon alma şartı",
+      "Belirli aralıklarla mesleki gelişim eğitimlerine katılma yükümlülüğü",
+      "Yüksek lisans yapma zorunluluğu"
+    ],
+    "dogruCevap": "Belirli aralıklarla mesleki gelişim eğitimlerine katılma yükümlülüğü",
+    "aciklama": "Kanuna göre öğretmenler, belirli aralıklarla mesleki gelişim programlarına katılmak zorundadır. Ancak yüksek lisans ve yurtdışı eğitim zorunlu değildir."
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi 7528 Sayılı Öğretmenlik Meslek Kanunu'nda öğretmenlere sağlanan haklardan biri değildir?",
+    "secenekler": [
+      "Mesleki gelişim programlarına katılma hakkı",
+      "Eğitim öğretim desteği alma hakkı",
+      "Eğitim müfettişi olma hakkı",
+      "Kariyer basamaklarında yükselme hakkı"
+    ],
+    "dogruCevap": "Eğitim müfettişi olma hakkı",
+    "aciklama": "Kanun, öğretmenlerin kariyer basamaklarında yükselmesini sağlar ancak eğitim müfettişi olmayı garanti etmez. Müfettişlik farklı bir statüdür."
+  },
+  {
+    "soru": "7528 Sayılı Kanun'a göre, öğretmenlerin atama ve yer değiştirme işlemleri hangi kurum tarafından yürütülür?",
+    "secenekler": [
+      "Milli Eğitim Bakanlığı (MEB)",
+      "Yükseköğretim Kurulu (YÖK)",
+      "Kamu Görevlileri Hakem Kurulu",
+      "Türkiye Büyük Millet Meclisi (TBMM)"
+    ],
+    "dogruCevap": "Milli Eğitim Bakanlığı (MEB)",
+    "aciklama": "Öğretmenlerin atama ve yer değiştirme süreçlerini MEB yürütür."
+  },
+  {
+    "soru": "7528 Sayılı Öğretmenlik Meslek Kanunu'na göre, öğretmenler hangi hallerde görevden uzaklaştırılabilir?",
+    "secenekler": [
+      "Disiplin soruşturması açıldığında",
+      "Sadece öğrenci velilerinin şikayeti üzerine",
+      "Herhangi bir yöneticinin keyfi isteğiyle",
+      "Hiçbir şekilde görevden uzaklaştırılamaz"
+    ],
+    "dogruCevap": "Disiplin soruşturması açıldığında",
+    "aciklama": "Öğretmenler, ancak haklarında yürütülen disiplin soruşturması kapsamında geçici olarak görevden uzaklaştırılabilirler."
+  },
+  {
+    "soru": "7528 Sayılı Kanun'a göre, öğretmenlerin ödüllendirilmesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "secenekler": [
+      "Sadece uzman öğretmenler ödül alabilir",
+      "Sadece meslekte 20 yılını dolduran öğretmenler ödüllendirilir",
+      "Başarı gösteren öğretmenlere ödüller verilebilir",
+      "Ödüller sadece okul yöneticileri için geçerlidir"
+    ],
+    "dogruCevap": "Başarı gösteren öğretmenlere ödüller verilebilir",
+    "aciklama": "Kanuna göre, mesleğinde başarı gösteren öğretmenlere ödüller verilebilir."
+  },
+  {
+    "soru": "7528 Sayılı Kanun'a göre, öğretmenlerin hizmet süresi içinde zorunlu olarak katılmaları gereken etkinliklerden biri aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Uluslararası sempozyumlara katılma",
+      "Hizmet içi eğitim programlarına katılma",
+      "Bakanlık tarafından belirlenen yurt dışı eğitimlerine gitme",
+      "Okulun bulunduğu bölgenin geleneksel festivallerine katılma"
+    ],
+    "dogruCevap": "Hizmet içi eğitim programlarına katılma",
+    "aciklama": "Kanuna göre öğretmenlerin mesleki gelişimi için hizmet içi eğitimlere katılmaları zorunludur."
+  },
+  {
+    "soru": "Uzman Öğretmenlik unvanına sahip bir öğretmenin maaşında ne tür bir değişiklik olur?",
+    "secenekler": [
+      "Hiçbir değişiklik olmaz",
+      "Sadece ek ders ücretleri artırılır",
+      "Ek tazminat ödemesi yapılır",
+      "Maaşına zam yerine prim ödenir"
+    ],
+    "dogruCevap": "Ek tazminat ödemesi yapılır",
+    "aciklama": "Uzman Öğretmenler ek tazminat almaya hak kazanırlar."
+  },
+  {
+    "soru": "7528 Sayılı Kanun'un öğretmenlik mesleğine getirdiği yeniliklerden biri aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Öğretmenlerin zorunlu rotasyon sistemine tabi tutulması",
+      "Öğretmenlik kariyer basamaklarının oluşturulması",
+      "Her öğretmenin doktora yapma zorunluluğu",
+      "Okul müdürlerinin atanmasının tamamen öğretmenler tarafından yapılması"
+    ],
+    "dogruCevap": "Öğretmenlik kariyer basamaklarının oluşturulması",
+    "aciklama": "Kanunun en önemli yeniliklerinden biri, öğretmenlik kariyer basamaklarının (Öğretmen, Uzman Öğretmen, Başöğretmen) oluşturulmasıdır."
+  }
+ 
+],
+     
       "Yaygın Eğitim, Okul Binaları ve Tesisleri, Eğitim Araç ve Gereçleri": [
         {
           "soru": "1739 sayılı Kanun'a göre yaygın eğitim nedir?",
@@ -5869,208 +6242,6 @@
           "dogruCevap": "Okul idaresince velisi çağrılır"
         }
       ],
-      "Okul Öncesi Eğitim ve Öğretim Kurumları ile İlköğretim Okullarının Açılma, Kapanma ve Öğretime Ara Verme Zamanları": [
-        {
-          "soru": "Okul öncesi eğitim kurumlarının eğitim yılı başlangıcı hangi tarihte başlar?",
-          "secenekler": [
-            "Eylül ayının ilk pazartesi günü",
-            "Okul açılışından önceki haftada",
-            "Temmuz ayının birinci haftasında",
-            "Ağustos ayının son haftasında"
-          ],
-          "dogruCevap": "Eylül ayının ilk pazartesi günü"
-        },
-        {
-          "soru": "İlköğretim okullarının açılış tarihi hangi tarihlerde başlar?",
-          "secenekler": [
-            "Eylül ayının 15'i",
-            "Eylül ayının ilk pazartesi günü",
-            "Ekim ayının 1'i",
-            "Kasım ayının 10'u"
-          ],
-          "dogruCevap": "Eylül ayının ilk pazartesi günü"
-        },
-        {
-          "soru": "Okul öncesi eğitim kurumlarında, öğretim yılı süresi en fazla kaç gündür?",
-          "secenekler": [
-            "180 gün",
-            "200 gün",
-            "240 gün",
-            "260 gün"
-          ],
-          "dogruCevap": "180 gün"
-        },
-        {
-          "soru": "İlköğretim okullarında öğretim yılı süresi en fazla kaç gündür?",
-          "secenekler": [
-            "180 gün",
-            "200 gün",
-            "210 gün",
-            "230 gün"
-          ],
-          "dogruCevap": "180 gün"
-        },
-        {
-          "soru": "Okul öncesi eğitim kurumlarında öğretime ara verilmesi hangi sebeplerle yapılır?",
-          "secenekler": [
-            "Hava şartları nedeniyle",
-            "Sosyal etkinlikler nedeniyle",
-            "Tatil günlerinde",
-            "Sadece eğitim yılının sonunda"
-          ],
-          "dogruCevap": "Hava şartları nedeniyle"
-        },
-        {
-          "soru": "İlköğretim okullarında öğretime ara verilebilmesi için hangi şartlar gereklidir?",
-          "secenekler": [
-            "Müdürün kararı",
-            "Milli Eğitim Bakanlığının onayı",
-            "Yerel yönetim kararı",
-            "Öğrencilerin talebi"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığının onayı"
-        },
-        {
-          "soru": "Okul öncesi eğitim kurumları hangi tarihte kapanır?",
-          "secenekler": [
-            "Haziran ayının son günü",
-            "Mayıs ayının son haftasında",
-            "Temmuz ayının başında",
-            "Eylül ayında"
-          ],
-          "dogruCevap": "Haziran ayının son günü"
-        },
-        {
-          "soru": "İlköğretim okulları hangi tarihte kapanır?",
-          "secenekler": [
-            "Temmuz ayının 1'inde",
-            "Haziran ayının 15'inde",
-            "Haziran ayının 30'unda",
-            "Eylül ayında"
-          ],
-          "dogruCevap": "Haziran ayının 30'unda"
-        },
-        {
-          "soru": "Okul öncesi eğitim kurumlarında eğitim öğretim yılı başlamadan önce hangi durumlar göz önünde bulundurulur?",
-          "secenekler": [
-            "Hava durumu raporları",
-            "Öğretmen kadrosu ve öğrenci sayısı",
-            "İhtiyaç duyulan eğitim materyalleri",
-            "Tüm yukarıdakiler"
-          ],
-          "dogruCevap": "Tüm yukarıdakiler"
-        },
-        {
-          "soru": "İlköğretim okullarında öğretim yılı başlangıcı hangi tarihte planlanır?",
-          "secenekler": [
-            "Okulun açılmasından bir hafta önce",
-            "Milli Eğitim Bakanlığının belirlediği tarihte",
-            "Yerel yönetimin belirlediği tarihte",
-            "Eylül ayında"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığının belirlediği tarihte"
-        },
-        {
-          "soru": "Okul öncesi eğitimde yaz tatili süresi ne kadar olabilir?",
-          "secenekler": [
-            "2 hafta",
-            "1 ay",
-            "2 ay",
-            "3 ay"
-          ],
-          "dogruCevap": "2 ay"
-        },
-        {
-          "soru": "İlköğretim okullarında eğitim süresi 180 günü doldurmak için hangi durumlar göz önünde bulundurulur?",
-          "secenekler": [
-            "Okulun fiziki yapısı",
-            "Hava koşulları",
-            "Milli Eğitim Bakanlığı onayı",
-            "Öğrencilerin isteği"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı onayı"
-        },
-        {
-          "soru": "İlköğretim okullarında öğretime ara verme kararı nasıl alınır?",
-          "secenekler": [
-            "Okul müdürünün onayıyla",
-            "Yerel yönetim kararına göre",
-            "Milli Eğitim Bakanlığının onayı ile",
-            "Eğitim görevlilerinin kararına göre"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığının onayı ile"
-        },
-        {
-          "soru": "Okul öncesi eğitim kurumlarında öğretim yılı içerisinde yapılan tatiller hangi aralıklarla yapılır?",
-          "secenekler": [
-            "Her ayın 15'inde",
-            "Hafta sonları",
-            "Yaz tatilinde",
-            "Milli tatillerde"
-          ],
-          "dogruCevap": "Milli tatillerde"
-        },
-        {
-          "soru": "İlköğretim okullarında eğitim ve öğretime ara verilebilmesi için hangi koşul gereklidir?",
-          "secenekler": [
-            "Öğrencilerin talebi",
-            "Hava koşullarının olumsuz olması",
-            "Okul müdürlüğünün kararı",
-            "Öğretmenlerin onayı"
-          ],
-          "dogruCevap": "Hava koşullarının olumsuz olması"
-        },
-        {
-          "soru": "Okul öncesi eğitim kurumları için öğretim yılı sonunda hangi rapor hazırlanır?",
-          "secenekler": [
-            "Öğrencilerin gelişim raporu",
-            "Okulun bütçe raporu",
-            "Öğretmenlerin görev raporu",
-            "Eğitim yılı raporu"
-          ],
-          "dogruCevap": "Eğitim yılı raporu"
-        },
-        {
-          "soru": "İlköğretim okullarında öğretim yılı ne zaman biter?",
-          "secenekler": [
-            "Haziran ayının ilk haftasında",
-            "Haziran ayının sonunda",
-            "Temmuz ayının 10'unda",
-            "Mayıs ayının 30'unda"
-          ],
-          "dogruCevap": "Haziran ayının sonunda"
-        },
-        {
-          "soru": "Okul öncesi eğitimde öğretim yılı süresi sonunda hangi tatil yapılır?",
-          "secenekler": [
-            "Yaz tatili",
-            "Kış tatili",
-            "Okul tatili",
-            "Sömestr tatili"
-          ],
-          "dogruCevap": "Yaz tatili"
-        },
-        {
-          "soru": "Okul öncesi eğitimde öğretim yılı içerisinde hangi dönemlerde tatil yapılır?",
-          "secenekler": [
-            "Yaz ve kış",
-            "Sadece yaz",
-            "Sömestr ve yaz tatili",
-            "Kış tatili"
-          ],
-          "dogruCevap": "Sömestr ve yaz tatili"
-        },
-        {
-          "soru": "İlköğretim okullarında eğitim öğretim yılı sonunda hangi faaliyetler yapılır?",
-          "secenekler": [
-            "Sosyal etkinlikler",
-            "Öğrenci yerleştirme",
-            "Kapanış töreni",
-            "Hizmet içi eğitim"
-          ],
-          "dogruCevap": "Kapanış töreni"
-        }
-      ],
       "Kayıt ve Kabul ve Okula Devam": [
         {
           "soru": "İlköğretim okullarına kayıt için öğrencinin hangi şartı sağlaması gerekir?",
@@ -6251,178 +6422,6 @@
             "Sadece çocukların kaydının yapılmaması"
           ],
           "dogruCevap": "Çocukların kayıtlı okula gitmemesi"
-        }
-      ],
-      "Okulların Arsa ve Arazi İşleri, İlköğretim Okulu Yapımı ve Donatımı": [
-        {
-          "soru": "Milli Eğitim Bakanlığı, ilköğretim okulları için hangi işlerin yapılmasından sorumludur?",
-          "secenekler": [
-            "Okul arsa ve arazisinin temini",
-            "Okul öğretmenlerinin atanması",
-            "Okul yöneticilerinin belirlenmesi",
-            "Okulun öğrenci kapasitesinin artırılması"
-          ],
-          "dogruCevap": "Okul arsa ve arazisinin temini"
-        },
-        {
-          "soru": "İlköğretim okullarının yapımı ve donatımı hangi düzeydeki yetkili birimler tarafından yapılır?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı ve yerel yönetimler",
-            "Yerel yönetimler ve özel sektör",
-            "Belediyeler ve vakıflar",
-            "İlçe milli eğitim müdürlükleri ve özel sektör"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı ve yerel yönetimler"
-        },
-        {
-          "soru": "Okul yapımı için tahsis edilen arsaların amacı nedir?",
-          "secenekler": [
-            "Yalnızca öğretim süreçleri için kullanımı",
-            "Öğrencilerin eğitim aldığı alanlar",
-            "Eğitim hizmetlerinin etkin sağlanması",
-            "Öğrencilerin fiziksel aktiviteleri için"
-          ],
-          "dogruCevap": "Eğitim hizmetlerinin etkin sağlanması"
-        },
-        {
-          "soru": "İlköğretim okullarının inşa edilmesinde hangi kurallar dikkate alınır?",
-          "secenekler": [
-            "Bakanlık onayı ve yerel yönetim düzenlemeleri",
-            "İlçe belediye başkanının onayı",
-            "Sadece okul müdürlüğünün raporu",
-            "Öğretmenler odasının onayı"
-          ],
-          "dogruCevap": "Bakanlık onayı ve yerel yönetim düzenlemeleri"
-        },
-        {
-          "soru": "Okul binalarının yapılmasında yerel yönetimlerin rolü nedir?",
-          "secenekler": [
-            "Yerel yönetimler yalnızca okul binası için arsa tahsis eder",
-            "Okul binasının tamamını inşa eder",
-            "Eğitimde kullanılacak tüm materyalleri temin eder",
-            "Öğretmen atamalarını gerçekleştirir"
-          ],
-          "dogruCevap": "Yerel yönetimler yalnızca okul binası için arsa tahsis eder"
-        },
-        {
-          "soru": "İlköğretim okullarının yapımı için ayrılan bütçe kim tarafından belirlenir?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Belediye Başkanlığı",
-            "İl Milli Eğitim Müdürlükleri",
-            "Eğitim Şurası"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Okul binalarının yapılmasında kullanılan arsaların hukuki durumu nedir?",
-          "secenekler": [
-            "Özel mülkiyettir",
-            "Devlete ait olmalıdır",
-            "Belediyelere devredilebilir",
-            "Herhangi bir mülkiyet durumu söz konusu değildir"
-          ],
-          "dogruCevap": "Devlete ait olmalıdır"
-        },
-        {
-          "soru": "İlköğretim okullarının inşa edilmesinde dikkat edilmesi gereken temel unsur nedir?",
-          "secenekler": [
-            "İç mekan tasarımı",
-            "Okul arsasının büyüklüğü",
-            "Öğrencilerin yerleşim yerlerine yakınlık",
-            "Okulun tek katlı olması"
-          ],
-          "dogruCevap": "Öğrencilerin yerleşim yerlerine yakınlık"
-        },
-        {
-          "soru": "Okul binalarının yapımı için hangi kurumlar arasında işbirliği gereklidir?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı, belediyeler ve özel sektör",
-            "Milli Eğitim Bakanlığı, yerel yönetimler ve özel sektör",
-            "Yerel yönetimler ve işadamları",
-            "Belediye başkanlıkları ve sivil toplum kuruluşları"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı, belediyeler ve özel sektör"
-        },
-        {
-          "soru": "İlköğretim okullarının yapımı için gerekli olan projeler kimler tarafından hazırlanır?",
-          "secenekler": [
-            "İl Milli Eğitim Müdürlükleri",
-            "İnşaat mühendisleri ve şehir plancıları",
-            "Yerel belediyeler",
-            "Okul müdürlükleri"
-          ],
-          "dogruCevap": "İnşaat mühendisleri ve şehir plancıları"
-        },
-        {
-          "soru": "Okul yapımında kullanılan arsaların ölçülmesi ve planlaması kimler tarafından yapılır?",
-          "secenekler": [
-            "İnşaat firmaları",
-            "İlçe belediye başkanları",
-            "Şehir planlamacıları ve mühendisler",
-            "Eğitim uzmanları"
-          ],
-          "dogruCevap": "Şehir planlamacıları ve mühendisler"
-        },
-        {
-          "soru": "Okul yapımında yerel yönetimlerin sorumluluğu nedir?",
-          "secenekler": [
-            "Okul yapımını üstlenmek",
-            "Eğitim araç-gereçlerini temin etmek",
-            "Arsa tahsisi ve okul yapımı için yer seçmek",
-            "Okul yöneticilerini belirlemek"
-          ],
-          "dogruCevap": "Arsa tahsisi ve okul yapımı için yer seçmek"
-        },
-        {
-          "soru": "Okul arsalarının tahsisi ile ilgili kararların alınmasında hangi bakanlık yetkilidir?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Çevre ve Şehircilik Bakanlığı",
-            "İçişleri Bakanlığı",
-            "Tarım ve Orman Bakanlığı"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Okul yapımı için gerekli olan izinleri hangi kurumlar verir?",
-          "secenekler": [
-            "Belediyeler ve İl Milli Eğitim Müdürlükleri",
-            "Milli Eğitim Bakanlığı ve Çevre ve Şehircilik Bakanlığı",
-            "Yerel hükümetler ve özel sektör",
-            "Eğitim Bakanlığı ve İl Sağlık Müdürlükleri"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı ve Çevre ve Şehircilik Bakanlığı"
-        },
-        {
-          "soru": "Okul yapımında çevresel faktörler göz önünde bulundurulmalı mıdır?",
-          "secenekler": [
-            "Hayır, sadece bina yapısı önemlidir",
-            "Evet, okulun çevresi eğitimin verimliliği için önemli faktördür",
-            "Hayır, sadece yerel yönetimlerin kararı geçerlidir",
-            "Evet, fakat sadece okul içi alanlar dikkate alınır"
-          ],
-          "dogruCevap": "Evet, okulun çevresi eğitimin verimliliği için önemli faktördür"
-        },
-        {
-          "soru": "İlköğretim okulu yapımında en önemli kriter nedir?",
-          "secenekler": [
-            "Okulun dekorasyonunun şık olması",
-            "Eğitim hizmetinin sağlanabileceği güvenli ve uygun ortamın oluşturulması",
-            "Okul binasının sadece kalıcı olması",
-            "Okul öğretmenlerinin beklentilerine göre inşa edilmesi"
-          ],
-          "dogruCevap": "Eğitim hizmetinin sağlanabileceği güvenli ve uygun ortamın oluşturulması"
-        },
-        {
-          "soru": "Okul yapımında her hangi bir çevre düzenlemesi yapılırken hangi kriter göz önünde bulundurulur?",
-          "secenekler": [
-            "Okulun kapasitesi ve güvenlik önlemleri",
-            "Öğretmen sayısı",
-            "Sadece öğrencilerin sayısı",
-            "Okul dışı etkinlikler için alan yaratılması"
-          ],
-          "dogruCevap": "Okulun kapasitesi ve güvenlik önlemleri"
         }
       ],
       "İlköğretimin Gelir, Giderleri ve Planlama": [
@@ -12238,17 +12237,6 @@
           ],
           "dogruCevap": "Tersane Hendesehanesi",
           "aciklama": "1773'te III. Mustafa döneminde Tersane Hendesehanesi kurulmuştur."
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Pasarofça Antlaşması'nın sonuçlarından biri değildir?",
-          "secenekler": [
-            "Mora Yarımadası Osmanlılarda kaldı",
-            "Belgrad Osmanlılarda kaldı",
-            "Dalmaçya kıyıları Venedik'e verildi",
-            "Temeşvar Avusturya'ya bırakıldı"
-          ],
-          "dogruCevap": "Belgrad Osmanlılarda kaldı",
-          "aciklama": "Pasarofça Antlaşması ile Belgrad Avusturya'ya bırakılmıştır."
         },
         {
           "soru": "Osmanlı Devleti'nin batıda en geniş sınırlarına ulaştığı ve son kez toprak kazandığı antlaşma hangisidir?",
