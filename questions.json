@@ -72,18 +72,6 @@
     "aciklama": "Yetinmek, bir şeyi kendisi için yeter bularak daha fazlasını istememek anlamına gelir. Verilen cümlede böyle bir anlam yoktur."
   },
   {
-    "soru": "Aşağıdaki cümlelerde altı çizili sözcüklerden hangisi mecaz anlamlıdır?",
-    "secenekler": [
-      "Sağda, solda, kaldırımda, bu tarafta yürüyen kimse yoktu",
-      "Bu fikre katılmamak olanaksız gibi görünüyor",
-      "Yazar, romanın olay örgüsünü son derece akıcı bir şekilde dokur",
-      "Çeviri yazılarında hem iç hem de dış etkenler kaynak metnin sağlamlığına bağlıdır",
-      "Bir dilin söz dağarcığı, başka bir dilin söz dağarcığından farklıdır"
-    ],
-    "dogruCevap": "Yazar, romanın olay örgüsünü son derece akıcı bir şekilde dokur",
-    "aciklama": "'Örgü' sözcüğü gerçek anlamından tamamen koparak başka bir anlama karşılık gelecek şekilde kullanılmıştır."
-  },
-  {
     "soru": "Aşağıdaki dizelerin hangisinde yakın anlamlı iki sözcük vardır?",
     "secenekler": [
       "Her şey sağır içimde ne şiir ne musiki / Dünyadan bezginliğim dünyalar kadar eski",
@@ -119,18 +107,7 @@
     "dogruCevap": "5",
     "aciklama": "1.Giymek 2.Suçu başkasına yıkmak 3.Kullanımdan kaldırmak 4.Ertelemek 5.İlave etmek anlamlarında kullanılmıştır."
   },
-  {
-    "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcüğün yerine ayraç içindeki sözcük getirilemez?",
-    "secenekler": [
-      "Doktora gitmekten korkuyordum (çekiniyordum) ancak sonunda gitmeye mecbur kaldım",
-      "Eğer (şayet) böyle yapmazsa edebiyatın dışına çıkar",
-      "Erkeklerin bazıları pantolonla, bazıları yöresel kıyafetleri olan etekle dolaşıyor (geziyor)",
-      "Evimden, ailemden ayrı kalmak beni huzursuz (keyifsiz) ediyordu",
-      "Evlerin arasında gizlenmiş (saklanmış) bu lokantanın önünde küçük masalar vardı"
-    ],
-    "dogruCevap": "Evimden, ailemden ayrı kalmak beni huzursuz (keyifsiz) ediyordu",
-    "aciklama": "'Huzursuz' kelimesi yerine 'keyifsiz' getirildiğinde cümlenin anlamında daralma olur."
-  },
+ 
   {
     "soru": "Aşağıdaki cümlelerin hangisinde yakın anlamlı sözcükler kullanılmıştır?",
     "secenekler": [
@@ -142,18 +119,6 @@
     ],
     "dogruCevap": "Soran, sorgulayan ve aydınlığı arayan bir kişiliği vardır onun",
     "aciklama": "'Sormak' ve 'sorgulamak' yakın anlamlı sözcüklerdir."
-  },
-  {
-    "soru": "Aşağıdaki cümlelerde altı çizili sözcüklerden hangisi mecaz anlamlıdır?",
-    "secenekler": [
-      "Bunlar, çoğu insan için boşuna bir çaba olarak görülebilir",
-      "Nesnellik makalenin bir özelliğidir, denemenin değil",
-      "Çeviri yazısı kaynak metinle sağlam bir ilişki içinde olmalıdır",
-      "Ara sıra eğlenerek yaşamanın tadına varmalı idi",
-      "Hastalık, insanı en güçsüz anında yakalar çoğu zaman"
-    ],
-    "dogruCevap": "Çeviri yazısı kaynak metinle sağlam bir ilişki içinde olmalıdır",
-    "aciklama": "'Sağlam' sözcüğü gerçek anlamından uzaklaşarak 'tutarlı' anlamında kullanılmıştır."
   },
   {
     "soru": "Aşağıdakilerin hangisinde 'koşmak' sözcüğü ayraç içindeki anlamına uygun kullanılmamıştır?",
@@ -178,18 +143,6 @@
     ],
     "dogruCevap": "Acaba bizim taşıp köpürmelerimizi pek mi çocukça bulmuştu?",
     "aciklama": "'Taşıp köpürmek' deyimi 'sinirlenmek' anlamında mecaz olarak kullanılmıştır."
-  },
-  {
-    "soru": "Aşağıdaki cümlelerdeki altı çizili sözcüklerden hangisi terim anlamıyla kullanılmıştır?",
-    "secenekler": [
-      "Bu konuya farklı açılardan yaklaşmak mümkündür",
-      "Türkçede p, ç, t, k seslerinden sonra ünlü gelirse bu sesler yumuşar",
-      "Adamın burnu o kadar iyi koku alıyor ki şaşırıp kalırsın",
-      "Konuşmaya son noktayı koyan yine sen oldun",
-      "Onda bu boğaz varken hayatta rejim yapamaz o"
-    ],
-    "dogruCevap": "Türkçede p, ç, t, k seslerinden sonra ünlü gelirse bu sesler yumuşar",
-    "aciklama": "'Ses' sözcüğü dilbilgisi terimi olarak kullanılmıştır."
   },
   {
     "soru": "Aşağıdaki cümlelerin hangisinde 'bakmak' sözcüğü ayraç içindeki anlamıyla kullanılmamıştır?",
@@ -935,17 +888,7 @@
           "dogruCevap": "sararıyordu",
           "aciklama": "sararıyordu: ünlü daralması ve kaynaştırma ünsüzü"
         },
-        {
-          "soru": "Aşağıdaki altı çizili sözcüklerden hangisinde görülen ses olayları diğerlerinden farklıdır?",
-          "secenekler": [
-            "Küçük çocuk parkta oynuyordu.",
-            "Akşam yemeğini hazırlıyorum.",
-            "Kitabı okumaya başlıyorum.",
-            "Yarın okula gidiyorum."
-          ],
-          "dogruCevap": "Küçük çocuk parkta oynuyordu.",
-          "aciklama": "'oynuyordu' sözcüğünde sadece ünlü daralması varken, diğerlerinde hem ünlü daralması hem kaynaştırma ünsüzü vardır."
-        },
+        
         {
           "soru": "'Bahçemizdeki ağaçlar çiçek açtı.' cümlesinde kaç ünsüz harfin yumuşak karşılığı vardır?",
           "secenekler": [
@@ -1204,16 +1147,7 @@
           "dogruCevap": "Sıfat - zarf - isim - sıfat",
           "aciklama": "I'de güzel gün (sıfat), II'de güzel konuşmak (zarf), III'te bu güzel (isim), IV'te güzel yazı (sıfat)"
         },
-        {
-          "soru": "'Bazı insanlar hiç kimseyi beğenmez.' cümlesindeki altı çizili sözcüklerin türü hangi seçenekte doğru verilmiştir?",
-          "secenekler": [
-            "Belgisiz zamir - belgisiz zamir",
-            "Belgisiz sıfat - belgisiz zamir",
-            "Belgisiz sıfat - olumsuzluk zarfı",
-            "Belgisiz zamir - olumsuzluk sıfatı"
-          ],
-          "dogruCevap": "Belgisiz sıfat - belgisiz zamir"
-        },
+        
         {
           "soru": "Aşağıdaki cümlelerin hangisinde isim tamlamasının sıfat tamlamasını nitelediği bir kullanım vardır?",
           "secenekler": [
@@ -1224,17 +1158,6 @@
           ],
           "dogruCevap": "Bahçenin güzel çiçekleri açmış.",
           "aciklama": "'Bahçenin çiçekleri' isim tamlaması, 'güzel çiçekler' sıfat tamlamasını nitelemektedir."
-        },
-        {
-          "soru": "I. Okula giderken arkadaşımı gördüm.\nII. Yorulunca dinleniriz.\nIII. Çalıştığı için başarılı oldu.\nIV. Eve geldiğimde uyuyordu.\n\nYukarıdaki cümlelerde altı çizili sözcüklerden hangisi zarf-fiil değildir?",
-          "secenekler": [
-            "I",
-            "II",
-            "III",
-            "IV"
-          ],
-          "dogruCevap": "IV",
-          "aciklama": "IV'teki 'geldiğimde' sıfat-fiildir, diğerleri zarf-fiildir."
         },
         {
           "soru": "'Bugün hava oldukça soğuktu.' cümlesindeki sözcüklerin türleri sırasıyla hangi seçenekte doğru verilmiştir?",
@@ -1257,16 +1180,7 @@
           "dogruCevap": "Bu güzel kitabı dün aldım.",
           "aciklama": "'Bu' işaret sıfatı (belirtme), 'güzel' niteleme sıfatıdır."
         },
-        {
-          "soru": "'Onun kadar güzel konuşan birini görmedim.' cümlesindeki altı çizili sözcüklerin türü hangi seçenekte doğru verilmiştir?",
-          "secenekler": [
-            "Zamir - edat - sıfat - sıfat-fiil - zamir",
-            "Zamir - edat - zarf - sıfat-fiil - zamir",
-            "Sıfat - zarf - sıfat - zarf-fiil - zamir",
-            "Zamir - edat - sıfat - zarf-fiil - sıfat"
-          ],
-          "dogruCevap": "Zamir - edat - zarf - sıfat-fiil - zamir"
-        },
+        
         {
           "soru": "Aşağıdaki cümlelerin hangisinde 'ki' bağlaç değildir?",
           "secenekler": [
@@ -1299,16 +1213,7 @@
           "dogruCevap": "Koşarak geldi.",
           "aciklama": "'Koşarak' zarf-fiildir."
         },
-        {
-          "soru": "'Herkes kendini düşünüyor.' cümlesindeki altı çizili sözcüklerin türü hangi seçenekte doğru verilmiştir?",
-          "secenekler": [
-            "Belgisiz zamir - dönüşlülük zamiri",
-            "Belgisiz sıfat - kişi zamiri",
-            "Belgisiz zamir - kişi zamiri",
-            "Belgisiz sıfat - dönüşlülük zamiri"
-          ],
-          "dogruCevap": "Belgisiz zamir - dönüşlülük zamiri"
-        },
+        
         {
           "soru": "Aşağıdaki cümlelerin hangisinde 'gibi' edatı benzetme anlamı katmamıştır?",
           "secenekler": [
@@ -1393,17 +1298,6 @@
             "İsim"
           ],
           "dogruCevap": "Edat"
-        },
-        {
-          "soru": "Aşağıdaki altı çizili sözcüklerden hangisi farklı bir türdedir?",
-          "secenekler": [
-            "Hızlı koşuyordu.",
-            "Güzel konuştu.",
-            "Yavaş yürüdü.",
-            "Akıllı çocuk."
-          ],
-          "dogruCevap": "Akıllı çocuk.",
-          "aciklama": "'Akıllı' sıfat, diğerleri zarftır."
         }
       ],
       "Cümle Bilgisi": [
