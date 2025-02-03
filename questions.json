@@ -144,18 +144,7 @@
           "dogruCevap": "Acaba bizim taşıp köpürmelerimizi pek mi çocukça bulmuştu?",
           "aciklama": "'Taşıp köpürmek' deyimi 'sinirlenmek' anlamında mecaz olarak kullanılmıştır."
         },
-        {
-          "soru": "Aşağıdaki cümlelerdeki altı çizili sözcüklerden hangisi terim anlamıyla kullanılmıştır?",
-          "secenekler": [
-            "Bu konuya farklı açılardan yaklaşmak mümkündür",
-            "Türkçede p, ç, t, k seslerinden sonra ünlü gelirse bu sesler yumuşar",
-            "Adamın burnu o kadar iyi koku alıyor ki şaşırıp kalırsın",
-            "Konuşmaya son noktayı koyan yine sen oldun",
-            "Onda bu boğaz varken hayatta rejim yapamaz o"
-          ],
-          "dogruCevap": "Türkçede p, ç, t, k seslerinden sonra ünlü gelirse bu sesler yumuşar",
-          "aciklama": "'Ses' sözcüğü dilbilgisi terimi olarak kullanılmıştır."
-        },
+        
         {
           "soru": "Aşağıdaki cümlelerin hangisinde 'bakmak' sözcüğü ayraç içindeki anlamıyla kullanılmamıştır?",
           "secenekler": [
@@ -900,17 +889,7 @@
           "dogruCevap": "sararıyordu",
           "aciklama": "sararıyordu: ünlü daralması ve kaynaştırma ünsüzü"
         },
-        {
-          "soru": "Aşağıdaki altı çizili sözcüklerden hangisinde görülen ses olayları diğerlerinden farklıdır?",
-          "secenekler": [
-            "Küçük çocuk parkta oynuyordu.",
-            "Akşam yemeğini hazırlıyorum.",
-            "Kitabı okumaya başlıyorum.",
-            "Yarın okula gidiyorum."
-          ],
-          "dogruCevap": "Küçük çocuk parkta oynuyordu.",
-          "aciklama": "'oynuyordu' sözcüğünde sadece ünlü daralması varken, diğerlerinde hem ünlü daralması hem kaynaştırma ünsüzü vardır."
-        },
+        
         {
           "soru": "'Bahçemizdeki ağaçlar çiçek açtı.' cümlesinde kaç ünsüz harfin yumuşak karşılığı vardır?",
           "secenekler": [
@@ -1160,16 +1139,6 @@
           "aciklama": "I'de güzel gün (sıfat), II'de güzel konuşmak (zarf), III'te bu güzel (isim), IV'te güzel yazı (sıfat)"
         },
         {
-          "soru": "'Bazı insanlar hiç kimseyi beğenmez.' cümlesindeki altı çizili sözcüklerin türü hangi seçenekte doğru verilmiştir?",
-          "secenekler": [
-            "Belgisiz zamir - belgisiz zamir",
-            "Belgisiz sıfat - belgisiz zamir",
-            "Belgisiz sıfat - olumsuzluk zarfı",
-            "Belgisiz zamir - olumsuzluk sıfatı"
-          ],
-          "dogruCevap": "Belgisiz sıfat - belgisiz zamir"
-        },
-        {
           "soru": "Aşağıdaki cümlelerin hangisinde isim tamlamasının sıfat tamlamasını nitelediği bir kullanım vardır?",
           "secenekler": [
             "Bahçenin güzel çiçekleri açmış.",
@@ -1179,17 +1148,6 @@
           ],
           "dogruCevap": "Bahçenin güzel çiçekleri açmış.",
           "aciklama": "'Bahçenin çiçekleri' isim tamlaması, 'güzel çiçekler' sıfat tamlamasını nitelemektedir."
-        },
-        {
-          "soru": "I. Okula giderken arkadaşımı gördüm.\nII. Yorulunca dinleniriz.\nIII. Çalıştığı için başarılı oldu.\nIV. Eve geldiğimde uyuyordu.\n\nYukarıdaki cümlelerde altı çizili sözcüklerden hangisi zarf-fiil değildir?",
-          "secenekler": [
-            "I",
-            "II",
-            "III",
-            "IV"
-          ],
-          "dogruCevap": "IV",
-          "aciklama": "IV'teki 'geldiğimde' sıfat-fiildir, diğerleri zarf-fiildir."
         },
         {
           "soru": "'Bugün hava oldukça soğuktu.' cümlesindeki sözcüklerin türleri sırasıyla hangi seçenekte doğru verilmiştir?",
@@ -1211,16 +1169,6 @@
           ],
           "dogruCevap": "Bu güzel kitabı dün aldım.",
           "aciklama": "'Bu' işaret sıfatı (belirtme), 'güzel' niteleme sıfatıdır."
-        },
-        {
-          "soru": "'Onun kadar güzel konuşan birini görmedim.' cümlesindeki altı çizili sözcüklerin türü hangi seçenekte doğru verilmiştir?",
-          "secenekler": [
-            "Zamir - edat - sıfat - sıfat-fiil - zamir",
-            "Zamir - edat - zarf - sıfat-fiil - zamir",
-            "Sıfat - zarf - sıfat - zarf-fiil - zamir",
-            "Zamir - edat - sıfat - zarf-fiil - sıfat"
-          ],
-          "dogruCevap": "Zamir - edat - zarf - sıfat-fiil - zamir"
         },
         {
           "soru": "Aşağıdaki cümlelerin hangisinde 'ki' bağlaç değildir?",
@@ -1253,16 +1201,6 @@
           ],
           "dogruCevap": "Koşarak geldi.",
           "aciklama": "'Koşarak' zarf-fiildir."
-        },
-        {
-          "soru": "'Herkes kendini düşünüyor.' cümlesindeki altı çizili sözcüklerin türü hangi seçenekte doğru verilmiştir?",
-          "secenekler": [
-            "Belgisiz zamir - dönüşlülük zamiri",
-            "Belgisiz sıfat - kişi zamiri",
-            "Belgisiz zamir - kişi zamiri",
-            "Belgisiz sıfat - dönüşlülük zamiri"
-          ],
-          "dogruCevap": "Belgisiz zamir - dönüşlülük zamiri"
         },
         {
           "soru": "Aşağıdaki cümlelerin hangisinde 'gibi' edatı benzetme anlamı katmamıştır?",
@@ -1348,17 +1286,6 @@
             "İsim"
           ],
           "dogruCevap": "Edat"
-        },
-        {
-          "soru": "Aşağıdaki altı çizili sözcüklerden hangisi farklı bir türdedir?",
-          "secenekler": [
-            "Hızlı koşuyordu.",
-            "Güzel konuştu.",
-            "Yavaş yürüdü.",
-            "Akıllı çocuk."
-          ],
-          "dogruCevap": "Akıllı çocuk.",
-          "aciklama": "'Akıllı' sıfat, diğerleri zarftır."
         }
       ],
       "Cümle Bilgisi": [
@@ -4314,17 +4241,6 @@
           ],
           "dogruCevap": "Küçük Kaynarca Antlaşması",
           "aciklama": "1774'te imzalanan Küçük Kaynarca Antlaşması, Osmanlı'nın Rusya karşısında büyük kayıplar verdiği önemli bir antlaşmadır."
-        },
-        {
-          "soru": "Osmanlı'da ilk Batı tarzı askeri okul hangisidir ve ne zaman açılmıştır?",
-          "secenekler": [
-            "Mühendishane-i Bahri-i Hümayun (1773)",
-            "Mekteb-i Harbiye (1834)",
-            "Hendesehane (1734)",
-            "Mühendishane-i Berri-i Hümayun (1795)"
-          ],
-          "dogruCevap": "Mühendishane-i Bahri-i Hümayun (1773)",
-          "aciklama": "İlk Batı tarzı askeri okul olan Mühendishane-i Bahri-i Hümayun, I. Abdülhamid döneminde 1773'te açılmıştır."
         },
         {
           "soru": "Yeniçeri Ocağı'na karşı ilk ciddi ıslahat hareketi hangi padişah döneminde başlamıştır?",
