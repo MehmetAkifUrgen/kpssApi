@@ -1,6 +1,531 @@
 {
   "soruCozumu": {
     "Eğitim Temelleri": {
+      
+        "Eğitim Bilimleri Çıkmış Sorular": [
+          {
+            "soru": "Öğretim üyesi Kerem Bey; öğrencilerine, bir köyde öğretmenlik yaptığı yıllarda başından geçen aşağıdaki anıyı anlatır: \"Yıllar önce bir pazartesi günü öğrencilerime hafta sonu ne yaptıklarını sorduğumda öğrencilerimin çoğu 'Çimdik, yattık.' dediler. Ben 'çimmek' sözcüğünün ne anlama geldiğini bilmediğimden onlara bakakaldım.\" Ardından \"Eğer siz de derslerinizde öğrencilerinizin bilmediği kavramları ve terimleri kullanırsanız, onlar da benim gibi hiçbir şey anlayamaz.\" diye öğrencilerini uyarır. Buna göre Kerem Bey'in uyarısı aşağıdaki öğretim ilkelerinden hangisine örnektir?",
+            "secenekler": [
+              "Bilimsellik",
+              "Somuttan soyuta",
+              "Yakından uzağa",
+              "Açıklık",
+              "Bilinenden bilinmeyene"
+            ],
+            "dogruCevap": "Açıklık",
+            "aciklama": "Açıklık ilkesi, öğretimde kullanılan dilin ve kavramların öğrenciler tarafından anlaşılır olması gerektiğini vurgular."
+          },
+          {
+            "soru": "Öğretme-öğrenme sürecinde \"öğretmenin öğrencilerini kazanımlarla ilgili bilgilendirmesi, kazanım ve içerik ilişkisini kurması, neyi nasıl kazanacaklarını onlara açıklaması\" aşağıdaki öğretim basamaklarından hangisinde gerçekleştirilir?",
+            "secenekler": [
+              "Geçiş",
+              "Gözden geçirme",
+              "Güdüleme",
+              "Dikkat çekme",
+              "Geliştirme"
+            ],
+            "dogruCevap": "Gözden geçirme",
+            "aciklama": "Gözden geçirme basamağında öğretmen, öğrencilere kazanımları ve içeriği tanıtır, öğrenme sürecini planlar."
+          },
+          {
+            "soru": "Bir öğretmen, (I) derste teknolojinin topluma etkisi konusunda beyin fırtınası tekniği uygulayarak öğrencilerin özgün görüşler ortaya koymalarını sağlamaya çalışmıştır. (II) Seçilen bazı görüşlere ilişkin öğrencilerden bilgiler toplayarak o görüşlerin uygulanabilirlikleri hakkında bir değerlendirmede bulunmalarını istemiştir. Buna göre öğretmen, öğrencilerine aşağıdaki becerilerden sırasıyla hangilerini kazandırmaya çalışmıştır?",
+            "secenekler": [
+              "Yaratıcı düşünme - Yansıtıcı düşünme",
+              "Üstbilişsel düşünme - Problem çözme",
+              "Üstbilişsel düşünme - Yansıtıcı düşünme",
+              "Eleştirel düşünme - Üstbilişsel düşünme",
+              "Yaratıcı düşünme - Eleştirel düşünme"
+            ],
+            "dogruCevap": "Yaratıcı düşünme - Eleştirel düşünme",
+            "aciklama": "Beyin fırtınası yaratıcı düşünmeyi, fikirlerin uygulanabilirliğini değerlendirme ise eleştirel düşünmeyi gerektirir."
+          },
+          {
+            "soru": "Bir öğretmen öğrencilerine, insanların herhangi bir alanda hâlihazırda kullandıkları eşyalar dışında ihtiyaç duyabilecekleri bir ürün düşünmelerini, düşündükleri ürünün neden gerekli olduğunu yazmalarını söylemiştir. Ayrıca, bu ürünün nasıl üretilebileceğini ve pazarlanabileceğini de hayal etmelerini istemiştir. Öğrencilerden biri yazısında; insanların mutfakta ihtiyaç duyabilecekleri bir üründen bahsetmiş, bu ürünün gerekliliğini anlatmış ve \"Bu ürün satılmayacak olsa bile fırsatım olursa yine de üretmeyi denerim.\" demiştir. Bu öğrencinin düşünceleri aşağıdaki becerilerden hangisine örnektir?",
+            "secenekler": [
+              "Girişimcilik",
+              "Bilgi teknolojilerini kullanma",
+              "Problem çözme",
+              "Yansıtıcı düşünme",
+              "Eleştirel düşünme"
+            ],
+            "dogruCevap": "Girişimcilik",
+            "aciklama": "Öğrencinin yeni bir ürün geliştirme, üretme ve pazarlama konusundaki düşünceleri girişimcilik becerisini gösterir."
+          },
+          {
+            "soru": "Cansu Öğretmen, öğrencisinden Cumhuriyet Bayramı nedeniyle Cumhuriyet tarihiyle ilgili sunum hazırlamasını ve bir uzman gibi arkadaşlarına sunmasını ister. Öğrencisini konuyla ilgili anektodlar, hikâyeler ve bilimsel araştırmalar gibi çeşitli kaynaklardan yararlanmaya yönlendirir. Buna göre Cansu Öğretmen'in uygulamak istediği öğretim yöntem ve tekniği aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Panel",
+              "Münazara",
+              "Konferans",
+              "Açık oturum",
+              "Forum"
+            ],
+            "dogruCevap": "Konferans",
+            "aciklama": "Bir kişinin uzmanlık alanıyla ilgili bir konuyu dinleyicilere aktarması konferans yöntemidir."
+          },
+          {
+            "soru": "Adem Öğretmen, tarih derslerinde zaman zaman öğrencilerin çok iyi bildiklerine inandıkları konuları gündeme getirmekte, bilgilerinin güvenilir olup olmadığını düşünmelerini sağlayıcı sorular sorarak öğrencilerin şüpheye düşmelerini istemektedir. Böylece zihinlerindeki yanlış bilgilerin ortaya çıkmasını sağlayarak öğrencilerin gerçek bilgiye ulaşmalarını hedeflemektedir. Buna göre Adem Öğretmen'in kullandığı öğretim yöntem ve tekniği aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Sokratik tartışma",
+              "Fikir taraması",
+              "Görüş geliştirme",
+              "Küçük grup tartışması",
+              "Panel"
+            ],
+            "dogruCevap": "Sokratik tartışma",
+            "aciklama": "Sokratik tartışma, öğrencilerin var olan bilgilerini sorgulamalarını sağlayan bir yöntemdir."
+          },
+          {
+            "soru": "Çınar o gün eve neşeyle gelir ve annesine \"Bugün neler oldu inanamazsın!\" diyerek uçak kullandığını anlatır. Annesi şaşkınlıkla \"Nasıl olur?\" diye sorduğunda Çınar, annesine Türk Hava Kurumunun eğitim kamyonunun okullarına geldiğini ve tıpkı bir uçaktaki pilot kabini gibi tasarlanmış olan model üzerinde sırayla uçak kullandıklarını söyler. Öğrencilerin uçma deneyimi yaşamaları için kullanılan bu yöntem veya teknik aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Örnek olay",
+              "Metafor",
+              "Gösteri",
+              "İstasyon",
+              "Benzetim"
+            ],
+            "dogruCevap": "Benzetim",
+            "aciklama": "Benzetim (simülasyon), gerçek durumların model üzerinde canlandırılmasıdır."
+          },
+          {
+            "soru": "Mert Öğretmen, öğrencilerinin dikkatini iklim değişikliği konusuna çekmek için konu hakkında bir sunum yapar. Ardından sınıfındaki otuz öğrenciyi her grupta aynı sayıda öğrenci olacak şekilde beş gruba ayırır. Her gruptan kendi içinde bir başkan ile bir yazıcı seçmesini ve iklim değişikliği sorununun, çözümü için öneriler geliştirmesini ister. Sonrasında gruplara kendi aralarında tartışmaları için gruptaki üye sayısı kadar dakika tanır. Mert Öğretmen'in uyguladığı bu öğretim yöntem ve tekniği aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Beyin fırtınası",
+              "Fikir taraması",
+              "Görüş geliştirme",
+              "Philips 66",
+              "İstasyon"
+            ],
+            "dogruCevap": "Philips 66",
+            "aciklama": "Philips 66, 6 kişilik grupların 6 dakika süreyle tartıştığı bir tekniktir. Burada grup sayısı ve süre farklı olsa da aynı mantıkla uygulanmıştır."
+          },
+          {
+            "soru": "Sezer Öğretmen, matematik dersinde öğrencilerinin problem çözme becerilerini geliştirmek için onlara bilgiye nasıl ulaşacaklarını, bilgiyi nasıl kullanacaklarını ve uygulayacaklarını öğretmeyi hedefler. Bunun için öncelikle kendisi model olarak süreci başlatır, öğrencilere etkinlikler yaptırır, rehberlik eder ve onları yönlendirir. Sonunda, öğrencilerin problem çözme becerilerini bireysel olarak uygulayabilir hâle geldiklerini gözlemler. Buna göre Sezer Öğretmen'in kullandığı öğretim yöntem veya tekniği aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Görüş geliştirme",
+              "Kuantum öğrenme",
+              "Beyin eseri",
+              "Bilişsel çıraklık",
+              "Gösterip yaptırma"
+            ],
+            "dogruCevap": "Bilişsel çıraklık",
+            "aciklama": "Bilişsel çıraklık, öğretmenin model olduğu, rehberlik ettiği ve öğrencilerin zamanla bağımsız hale geldiği bir öğretim yöntemidir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi akran öğretimi tekniğinin kullanılma gerekçesi olamaz?",
+            "secenekler": [
+              "Benzer bilişsel özelliklere sahip akranların birlikte daha iyi öğrenmesi",
+              "Öğrencilerin rekabet ederek daha iyi öğrenmelerine olanak sağlaması",
+              "Öğrencilere daha fazla dikkat ve duygusal destek sunması",
+              "Öğrencilere kendi öğrenme stillerine uygun yaşantılar sağlaması",
+              "Öğrenenle birlikte öğretilerin de öğrenmesi"
+            ],
+            "dogruCevap": "Öğrencilerin rekabet ederek daha iyi öğrenmelerine olanak sağlaması",
+            "aciklama": "Akran öğretimi işbirlikli öğrenmeyi temel alır, rekabeti değil. Rekabet akran öğretiminin amacı ve gerekçesi olamaz."
+          }
+        ],
+          "Eğitim Bilimleri Çıkmış Sorular 2": [
+            {
+              "soru": "Eğitim fakültesi öğrencisi Ayşe, tartışma yöntem veya tekniklerini birbirine karıştırdığı için televizyondaki tartışma programlarını izlemeye karar vermiştir. Bir programda bir yöneticinin başkanlığında, dört katılımcının bir seyirci topluluğuyla birlikte, güncel siyasi bir olay üzerindeki tartışmalarını izlemiştir. Buna göre Ayşe'nin televizyonda izlediği programda, aşağıdaki öğretim yöntem veya tekniklerinden hangisi kullanılmıştır?",
+              "secenekler": [
+                "Sempozyum",
+                "Konferans",
+                "Açık oturum",
+                "Zıt panel",
+                "Münazara"
+              ],
+              "dogruCevap": "Açık oturum",
+              "aciklama": "Açık oturum, bir başkan yönetiminde uzmanların bir konuyu tartıştığı ve dinleyicilerin de katılabildiği bir tekniktir."
+            },
+            {
+              "soru": "Bir okul öncesi öğretmeni, çocukların empati becerilerini geliştirmek için sınıfta bir oyun canlandırır. Oyun bittikten sonra çocukların kendilerini oyundaki karakterlerden birinin yerine koyarak görüş ve düşüncelerini belirtmelerini ister. Böylece, çocukların hem empati hem de sözel iletişim becerilerinin gelişimine katkı sağlamış olur. Buna göre öğretmen, aşağıdaki öğretim yöntem veya tekniklerinden hangisini kullanmıştır?",
+              "secenekler": [
+                "Konuşma halkası",
+                "Görüş geliştirme",
+                "Kartopu",
+                "Eğitsel oyun",
+                "İstasyon"
+              ],
+              "dogruCevap": "Konuşma halkası",
+              "aciklama": "Konuşma halkası, öğrencilerin empati kurarak düşüncelerini ifade ettikleri bir tekniktir."
+            },
+            {
+              "soru": "Büşra Öğretmen, dersinde öğrencilerden iç içe iki çember oluşturmuştur. İç çemberdeki öğrencileri tartışmaya katarken dış çemberdeki öğrencilerin tartışmayı izlemelerini ve gerekirse iç çemberdeki öğrencilere soru sorabileceklerini söylemiştir. Buna göre Büşra Öğretmen, derste aşağıdaki öğretim yöntem veya tekniklerinden hangisini kullanmıştır?",
+              "secenekler": [
+                "Açık oturum",
+                "Akvaryum",
+                "Kartopu",
+                "Zıt panel",
+                "Konuşma halkası"
+              ],
+              "dogruCevap": "Akvaryum",
+              "aciklama": "Akvaryum tekniğinde, iç ve dış çember şeklinde oturan öğrencilerden iç çemberdekiler tartışırken dış çemberdekiler gözlem yapar."
+            },
+            {
+              "soru": "Sema Öğretmen, seçtiği öğretim yönteminin olumsuzluklarını azaltmak için kendisini dinleyen öğrencilere sık sık tekrarlar yapmaktadır. Yeni öğrenilen bilginin uzun süreli hafızaya geçiş sürecini kolaylaştırmak ve zihinsel kodlamayı desteklemek için konuyla ilgili kavramları içeren kısa hikâyeler ve görseller kullanmaktadır. Ayrıca aralıksız konuşma süresini 15 dakikadan fazla tutmamaktadır. Sema Öğretmen'in seçtiği bu öğretim yöntem veya tekniği aşağıdakilerden hangisidir?",
+              "secenekler": [
+                "Anlatım",
+                "Soru-cevap",
+                "Çember",
+                "Örnek olay",
+                "Büyük grup tartışması"
+              ],
+              "dogruCevap": "Anlatım",
+              "aciklama": "Anlatım yönteminin dezavantajlarını azaltmak için tekrar, görsel kullanımı ve süre sınırlaması gibi önlemler alınmıştır."
+            },
+            {
+              "soru": "Bilge Öğretmen'in hazırladığı programlı öğretim materyalinde hangi ilkede eksiklik vardır?",
+              "secenekler": [
+                "Öğrenme adımlarının küçük birimler halinde analiz edilmesi",
+                "Her adımda öğrencinin ne yapacağının belirtilmesi",
+                "Soruların öğrencinin başarılı olmasına fırsat verecek düzeyde olması",
+                "Cevapların kontrolü ve bir sonraki adıma geçiş",
+                "Öğrencinin kendi hızında çalışabilmesi"
+              ],
+              "dogruCevap": "Cevapların kontrolü ve bir sonraki adıma geçiş",
+              "aciklama": "Programlı öğretimde öğrenci, cevapları kontrol ettikten sonra doğru cevap vermişse bir sonraki adıma geçmeli, yanlış cevap vermişse aynı adımı tekrar çalışmalıdır."
+            },
+            {
+              "soru": "Öğrencilerine, aralarındaki rekabet duygusunu ortadan kaldırıp birlikte çalışma becerisini kazandırmayı amaçlayan bir öğretmen aşağıdaki öğretim yöntemlerinden hangisini kullanamaz?",
+              "secenekler": [
+                "Probleme dayalı öğrenme",
+                "Araştırma incelemeye dayalı öğretim",
+                "İşbirliğine dayalı öğrenme",
+                "Proje tabanlı öğretim",
+                "Programlı öğretim uygulaması"
+              ],
+              "dogruCevap": "Programlı öğretim uygulaması",
+              "aciklama": "Programlı öğretim bireysel öğrenmeye dayalıdır ve işbirliğini desteklemez."
+            },
+            {
+              "soru": "Tam öğrenme modelini uygulayan Melike Öğretmen'in göz ardı ettiği temel ilke hangisidir?",
+              "secenekler": [
+                "Öğrenci katılımını sağlama",
+                "Giriş davranışlarını tamamlama",
+                "Dönüt verme",
+                "İpucu verme",
+                "Düzeltme yapma"
+              ],
+              "dogruCevap": "Giriş davranışlarını tamamlama",
+              "aciklama": "Tam öğrenmede, yeni öğrenmelerin gerçekleşebilmesi için gerekli ön öğrenmelerin tamamlanması şarttır."
+            },
+            {
+              "soru": "Sınıf yönetiminde 'öğretmenlerin, öğrencilerinden gelecekte neleri yapıp neleri yapmayacakları konusundaki beklentilerine ilişkin alınmış hazır kararlar' olarak bilinen sınıf içi kurallar, aşağıdaki sınıf yönetimi yaklaşımlarından hangisinin anlayışıdır?",
+              "secenekler": [
+                "Önlemsel",
+                "Davranışsal",
+                "Gelişimsel",
+                "Bütünsel",
+                "Tepkisel"
+              ],
+              "dogruCevap": "Önlemsel",
+              "aciklama": "Önlemsel yaklaşım, sorunlar ortaya çıkmadan önce önlem almayı amaçlar."
+            },
+            {
+              "soru": "Yelda Öğretmen ödevlerini yapmayan öğrencisine 'ben dili' kullanarak mesaj vermek istediğinde hangi ifadeleri kullanmalıdır?",
+              "secenekler": [
+                "I ve II",
+                "I ve III",
+                "I ve IV",
+                "II ve IV",
+                "I, III ve IV"
+              ],
+              "dogruCevap": "I ve IV",
+              "aciklama": "'Ben dili' mesajları, kişinin kendi duygu ve düşüncelerini ifade etmelidir."
+            },
+            {
+              "soru": "İlkokul birinci sınıf öğrencisi Aydın'ın derste uyuklaması durumunda öğretmenin kullanacağı en uygun yöntem hangisidir?",
+              "secenekler": [
+                "Öğrencinin her teneffüste yüzünü yıkamasını sağlamak",
+                "Öğrencinin velisini bilgilendirerek iş birliği istemek",
+                "Derste öğrenciyi sık sık tahtaya kaldırmak",
+                "Öğrenciyi en arka sıraya oturtmak",
+                "Öğrenciye teneffüslerde hareket etmesini söylemek"
+              ],
+              "dogruCevap": "Öğrencinin velisini bilgilendirerek iş birliği istemek",
+              "aciklama": "Uyku sorununun temelinde yatan nedenleri anlamak ve çözmek için aile ile işbirliği yapmak en etkili yöntemdir."
+            }
+          ],
+            "Eğitim Bilimleri Çıkmış Sorular 3": [
+              {
+                "soru": "Ali Öğretmen, iskelet sistemi sağlığını korumak için neler yapılması gerektiğini öğrencileriyle tartıştığı derste, doğru ve yanlış biçimde çanta taşıyan, çantayı yanlış taşıdıkları için duruşları bozuk olan öğrenci fotoğraflarını sınıfa gösterir. Ali Öğretmen'in fotoğraflar yerine aşağıdaki yaşantılardan hangisini tercih etmesi daha etkilidir?",
+                "secenekler": [
+                  "Hareketli resimlerle gözlemlenen",
+                  "Modellerle deneyimlenen",
+                  "Doğrudan ve amaçlı yapılan",
+                  "Gezi-gözlem yoluyla edinilen",
+                  "Sözel sembollerle kazanılan"
+                ],
+                "dogruCevap": "Doğrudan ve amaçlı yapılan",
+                "aciklama": "Dale'in yaşantı konisine göre, doğrudan ve amaçlı yaşantılar en etkili öğrenme yaşantılarıdır."
+              },
+              {
+                "soru": "Bir öğretim materyalinin geliştirilmesinde yapılacak işlemlerin doğru sıralaması hangisidir?",
+                "secenekler": [
+                  "I, IV, II, III",
+                  "I, IV, III, II",
+                  "IV, I, III, II",
+                  "IV, I, II, III",
+                  "II, IV, I, III"
+                ],
+                "dogruCevap": "I, IV, II, III",
+                "aciklama": "Materyal geliştirmede sırasıyla hedeflerin analizi, öğretim yönteminin belirlenmesi, teknoloji seçimi ve materyalin hazırlanması adımları izlenir."
+              },
+              {
+                "soru": "Fen bilimleri dersinde kavram haritası hazırlanırken listede aşağıdakilerden hangisinin yer alması beklenmez?",
+                "secenekler": [
+                  "Kavramlar arasındaki ilişkiyi gösteren çizgilerin yön belirtmesi",
+                  "Kavramlarla ilgili geniş açıklamalara yer verilmesi",
+                  "Konuyla ilgili kavramların listelenmesi",
+                  "Kavramların genelden özele doğru bir sıra izlenerek yazılması",
+                  "Tekrar yazılması gereken kavramların çapraz çizgiyle birinciye bağlanması"
+                ],
+                "dogruCevap": "Kavramlarla ilgili geniş açıklamalara yer verilmesi",
+                "aciklama": "Kavram haritalarında kavramlar kısa ve öz olarak yazılır, geniş açıklamalara yer verilmez."
+              },
+              {
+                "soru": "Aysel Öğretmen'in öğrencilerle birlikte hafta sonları gezi, sinema, tiyatro, spor müsabakaları gibi etkinliklere gitmesi hangi program türüne örnektir?",
+                "secenekler": [
+                  "İhmal edilen",
+                  "Resmî",
+                  "Örtük",
+                  "Ekstra",
+                  "Kübik"
+                ],
+                "dogruCevap": "Ekstra",
+                "aciklama": "Ekstra program, ders dışı etkinlikleri kapsayan program türüdür."
+              },
+              {
+                "soru": "Okul Müdürü Fırat Bey'in toplantısında öğretmenlerin sundukları öneriler hangi eğitim felsefesini yansıtmaktadır?",
+                "secenekler": [
+                  "Daimîcilik",
+                  "Esasicilik",
+                  "Varoluşçuluk",
+                  "Yeniden kurmacılık",
+                  "İlerlemecilik"
+                ],
+                "dogruCevap": "İlerlemecilik",
+                "aciklama": "İlerlemecilik, problem çözme, işbirliği, üst düzey düşünme ve alternatif çözümler üretmeyi vurgular."
+              },
+              {
+                "soru": "Program geliştirme komisyonunun kullandığı ihtiyaç analizi yaklaşımları sırasıyla hangileridir?",
+                "secenekler": [
+                  "Analitik - Farklar",
+                  "Demokratik - Farklar",
+                  "Demokratik - Analitik",
+                  "Analitik - Demokratik",
+                  "Farklar - Demokratik"
+                ],
+                "dogruCevap": "Analitik - Farklar",
+                "aciklama": "Önce analitik yaklaşımla kaynak ve raporlar incelenmiş, sonra farklar yaklaşımıyla mevcut durum analiz edilmiştir."
+              },
+              {
+                "soru": "Müzik dersinde 'Bir besteyi kurallarına uygun icra eder.' şeklinde ifade edilen kazanım hangi devinişsel alan basamağına örnektir?",
+                "secenekler": [
+                  "Uyarılma",
+                  "Kılavuz denetiminde yapma",
+                  "Beceri hâline getirme",
+                  "Duruma uydurma",
+                  "Yaratma"
+                ],
+                "dogruCevap": "Beceri hâline getirme",
+                "aciklama": "Besteyi kurallarına uygun icra etmek, beceri haline getirme basamağına örnektir."
+              },
+              {
+                "soru": "Program geliştirme dersinde öğretim üyesinin vurguladığı içerik düzenleme ilkesi hangisidir?",
+                "secenekler": [
+                  "Soyutlama",
+                  "Vardama",
+                  "Düzey",
+                  "Şema",
+                  "Alıştırma"
+                ],
+                "dogruCevap": "Alıştırma",
+                "aciklama": "Ünite başlarında veya sonlarında sorular sorulması alıştırma ilkesiyle ilgilidir."
+              },
+              {
+                "soru": "Ezgi Öğretmen'in yaptığı değerlendirmenin amacına ve ölçütüne göre türleri hangileridir?",
+                "secenekler": [
+                  "Tanıma ve yerleştirme - Bağıl",
+                  "Değer biçme - Bağıl",
+                  "Tanıma ve yerleştirme - Mutlak",
+                  "Değer biçme - Mutlak",
+                  "Biçimlendirme ve yetiştirme - Bağıl"
+                ],
+                "dogruCevap": "Tanıma ve yerleştirme - Bağıl",
+                "aciklama": "Olimpiyat seçmeleri için yapılan değerlendirme, tanıma-yerleştirme amacı taşır ve bağıl değerlendirmedir."
+              },
+              {
+                "soru": "Öğretmenlerin gerçekleştirdikleri değerlendirme durumlarından hangileri değer biçmeyi hedefler?",
+                "secenekler": [
+                  "Yalnız I",
+                  "Yalnız II",
+                  "Yalnız III",
+                  "I ve II",
+                  "II ve III"
+                ],
+                "dogruCevap": "Yalnız II",
+                "aciklama": "Final sınavıyla başarının belirlenmesi değer biçme amacı taşır."
+              }
+            ],
+              "Eğitim Bilimleri Çıkmış Sorular 4": [
+                {
+                  "soru": "Bir ölçme aracından elde edilen puanların güvenirliği, test-tekrar test uygulaması ile hesaplanmış ve yüksek bir güvenirlik katsayısı elde edilmiştir. Bu bilgiye dayalı olarak hangi çıkarımlar doğrudur?",
+                  "secenekler": [
+                    "Yalnız I",
+                    "Yalnız II",
+                    "I ve II",
+                    "I ve III",
+                    "II ve III"
+                  ],
+                  "dogruCevap": "Yalnız I",
+                  "aciklama": "Yüksek güvenirlik katsayısı sadece test-tekrar test uygulamasında sıralamanın benzer olacağını gösterir."
+                },
+                {
+                  "soru": "Başarının ölçüldüğü bir sınavda yer alan çoktan seçmeli bir maddedeki nitelikli bir çeldiriciyi, hangi öğrenci grubunun seçmesi istenir?",
+                  "secenekler": [
+                    "Kopya çekenlerin",
+                    "Ortalama civarındakilerin",
+                    "Çoğunluğun",
+                    "Dikkatsizlerin",
+                    "Konuyu bilmeyenlerin"
+                  ],
+                  "dogruCevap": "Konuyu bilmeyenlerin",
+                  "aciklama": "Nitelikli çeldiriciler, konuyu tam olarak bilmeyen öğrencileri çekmelidir."
+                },
+                {
+                  "soru": "Aşağıdaki kazanımlardan hangisi, yenilenmiş Bloom taksonomisinin değerlendirme boyutundadır?",
+                  "secenekler": [
+                    "Testten elde edilen verilere göre madde ayırt edicilik indekslerini hesaplar.",
+                    "Verilen bir maddenin ölçtüğü beceri alanını belirler.",
+                    "Bir testin, belirtke tablosuna uygun olup olmadığına karar verir.",
+                    "Ölçek türlerinin özelliklerini açıklar.",
+                    "Verilen bir belirtke tablosuna göre uygun maddeler yazar."
+                  ],
+                  "dogruCevap": "Bir testin, belirtke tablosuna uygun olup olmadığına karar verir.",
+                  "aciklama": "Değerlendirme boyutu, ölçütlere göre karar vermeyi içerir."
+                },
+                {
+                  "soru": "Normal dağılıma sahip matematik ve fizik testlerinden elde edilen puanların karşılaştırılması için hangi bilgi tek başına yeterlidir?",
+                  "secenekler": [
+                    "Öğrencinin ham puanları",
+                    "Öğrencinin standart puanları",
+                    "Dağılımların varyansları",
+                    "Dağılımların ortalamaları",
+                    "Dağılımların ranjları"
+                  ],
+                  "dogruCevap": "Öğrencinin standart puanları",
+                  "aciklama": "Standart puanlar, farklı testlerden alınan puanları karşılaştırmak için kullanılabilir."
+                },
+                {
+                  "soru": "Öğretmenin yaptığı açıklamaların ilişkili olduğu öğrenmeyi etkileyen faktörler hangileridir?",
+                  "secenekler": [
+                    "Olgunlaşma - Güdülenme - Transfer",
+                    "Büyüme - Etkin katılım - Kaygı",
+                    "Olgunlaşma - Dikkat - Öğrenmeye ayrılan zaman",
+                    "Büyüme - Kaygı - Etkin katılım",
+                    "Güdülenme - Etkin katılım - Dikkat"
+                  ],
+                  "dogruCevap": "Olgunlaşma - Dikkat - Öğrenmeye ayrılan zaman",
+                  "aciklama": "Kalem tutma olgunlaşma, başka şeylerle ilgilenme dikkat, ödev yapmama öğrenmeye ayrılan zamanla ilgilidir."
+                },
+                {
+                  "soru": "Beril'in kedisini eğitme denemesiyle ilgili hangi ifadeler doğrudur?",
+                  "secenekler": [
+                    "Yalnız I",
+                    "Yalnız II",
+                    "I ve II",
+                    "I ve III",
+                    "II ve III"
+                  ],
+                  "dogruCevap": "I ve II",
+                  "aciklama": "Limon spreyiyle I. tip ceza uygulanmış ve tutarsız davranıldığı için başarısız olunmuştur."
+                },
+                {
+                  "soru": "Ömer'in kopya çekme girişimine yönelik öğretmenin uygulaması hangi kavramla açıklanır?",
+                  "secenekler": [
+                    "I. tip ceza",
+                    "Dolaylı ceza",
+                    "Olumsuz pekiştireç",
+                    "II. tip ceza",
+                    "Premack ilkesi"
+                  ],
+                  "dogruCevap": "II. tip ceza",
+                  "aciklama": "Var olan bir ödülün geri alınması II. tip cezadır."
+                },
+                {
+                  "soru": "Nermin Hanım köpeğine gazete getirme davranışını öğretirken hangi ilkeyi göz ardı etmiştir?",
+                  "secenekler": [
+                    "Bir tepkinin sürekli pekiştirilmesi, aralıklı pekiştirilmesine oranla o tepkinin daha hızlı kazanılmasını sağlar.",
+                    "Koşulsuz uyarıcı ortamda yokken koşullu uyarıcı tekrar tekrar verilirse koşullu tepki azalır ve zamanla yok olabilir.",
+                    "Birincil ve ikincil pekiştireçlerden hangisinin etkili olacağı koşullara göre değişir.",
+                    "Davranışın kazanılmasında pekiştirme tarifesi kadar pekiştirecin türü de önemlidir.",
+                    "İstenilen davranış değişikliği sağladıktan sonra sönmemesi için aralıklı pekiştirilmenin sürdürülmesi gerekir."
+                  ],
+                  "dogruCevap": "İstenilen davranış değişikliği sağladıktan sonra sönmemesi için aralıklı pekiştirilmenin sürdürülmesi gerekir.",
+                  "aciklama": "Davranışın kalıcılığı için sürekli pekiştirmeden aralıklı pekiştirmeye geçilmesi gerekirdi."
+                },
+                {
+                  "soru": "Melike Hanım'ın kullandığı yöntem hangisidir?",
+                  "secenekler": [
+                    "Benzeterek tepkide bulunma",
+                    "Çağrışımsal geçiş",
+                    "Tepki çeşitliliği",
+                    "Dolaylı öğrenme",
+                    "Etkinin yayılması"
+                  ],
+                  "dogruCevap": "Çağrışımsal geçiş",
+                  "aciklama": "İki soyadının aynı kişiye ait olduğunun öğrenilmesi çağrışımsal geçiş ile sağlanmıştır."
+                },
+                {
+                  "soru": "Hangisi öz yeterlik düzeyi düşük olan bir öğrenci yaklaşımıdır?",
+                  "secenekler": [
+                    "Barış, kimya sınavından yüksek puan alamayınca üniversitede kimya bölümü dışında tercih yapmayı düşünmektedir.",
+                    "Pınar, coğrafya dersinde zorlandığı hâlde düzenli çalışarak başarılı olabileceğine inanmaktadır.",
+                    "Sinem, fizik sınavında daha fazla sayıda soru çözebilmek için fizik dersinden bireysel ders almak istemektedir.",
+                    "Müge, tarih sınavından düşük puan aldığı için bir sonraki sınava daha uzun süre çalışmayı planlamaktadır.",
+                    "Kemal, geometri sınavından düşük puan aldığı için öğretmeninden etkili çalışma yöntemleriyle ilgili bilgi almayı hedeflemektedir."
+                  ],
+                  "dogruCevap": "Barış, kimya sınavından yüksek puan alamayınca üniversitede kimya bölümü dışında tercih yapmayı düşünmektedir.",
+                  "aciklama": "Öz yeterliği düşük bireyler başarısızlık durumunda hemen vazgeçme eğilimindedir."
+                },
+                {
+                  "soru": "Çetin'in örümceklerden korkmaya başlaması hangi kavramla açıklanır?",
+                  "secenekler": [
+                    "Dolaylı pekiştirme",
+                    "Kendini düzenleme",
+                    "Dolaylı duygu",
+                    "Dolaylı ceza",
+                    "Kendini yargılama"
+                  ],
+                  "dogruCevap": "Dolaylı duygu",
+                  "aciklama": "Başkasının duygusal tepkisini gözleyerek benzer duyguyu geliştirme dolaylı duygudur."
+                },
+                {
+                  "soru": "Şükran Öğretmen'in verdiği dönüt Gestalt kuramının hangi algı yasasını vurgulamıştır?",
+                  "secenekler": [
+                    "Devamlılık",
+                    "Yakınlık",
+                    "Tamamlama",
+                    "Şekil-zemin",
+                    "Benzerlik"
+                  ],
+                  "dogruCevap": "Şekil-zemin",
+                  "aciklama": "Sunumda anlatımın ön planda (şekil), bilgisayarın arka planda (zemin) olması gerektiği vurgulanmıştır."
+                },
+                {
+                  "soru": "Emine'nin anneannesinin kullandığı bellek türü hangisidir?",
+                  "secenekler": [
+                    "Anlamsal",
+                    "Anısal",
+                    "Kısa süreli",
+                    "Duyusal",
+                    "İşlemsel"
+                  ],
+                  "dogruCevap": "Anısal",
+                  "aciklama": "Kişisel yaşantıların ayrıntılarıyla hatırlanması anısal bellek özelliğidir."
+                }
+              ],
       "Eğitime İlişkin Temel Kavramlar": [
         {
           "soru": "Eğitim hangi süreçle bireyde davranış değişikliği meydana getirir?",
@@ -15396,6 +15921,299 @@
           "dogruCevap": "Saltanatın kaldırılması"
         }
       ],
+      
+        "2013 Kpss Çıkmış Sorular": [
+          {
+            "soru": "Orta Asya'da kurulan ilk Türk devletleriyle ilgili olarak, I. Ülke; töre adı verilen, yazılı olmayan hukuk kurallarına göre yönetilmiştir. II. Toprak, yurt olarak adlandırılmıştır. III. Hükümdara devlet yönetimiyle ilgili konularda yardımcı olmak üzere danışma meclisleri kurulmuştur. yargılarından hangileri doğrudur?",
+            "secenekler": [
+              "Yalnız I",
+              "Yalnız III", 
+              "I ve II",
+              "II ve III",
+              "I, II ve III"
+            ],
+            "dogruCevap": "I, II ve III",
+            "aciklama": "Öncüllerdeki bilgilerin üçü de yani ülkenin töre adı verilen yazılı olmayan hukuk kurallarına göre yönetilmesi, toprağın yurt olarak adlandırılması ve hükümdara devlet yönetimiyle ilgili konularda yardımcı olmak üzere Kurultay adı verilen danışma meclislerinin kurulması Orta Asya'da kurulan ilk Türk devletleriyle ilişkilidir."
+          },
+          {
+            "soru": "Kayseri'deki Gevher Nesibe Hatun, Aksaray'daki Alaeddin Keykubat ve Divriği'deki Turan Melek adlı Türkiye Selçukluları Dönemi'ne ait eserler aşağıdaki yapı türlerinden hangisine girer?",
+            "secenekler": [
+              "Kervansaray",
+              "İmarethane", 
+              "Darüşşifa",
+              "Medrese",
+              "Külliye"
+            ],
+            "dogruCevap": "Darüşşifa",
+            "aciklama": "Kayseri'deki Gevher Nesibe Hatun, Aksaray'daki Alaeddin Keykubat ve Divriği'deki Turan Melek adlı Türkiye Selçukluları Dönemi'ne ait eserler darüşşifa (Bimarhane) türünde verilen eserler arasında yer almaktadır."
+          },
+          {
+            "soru": "Anadolu'da kurulan ilk beyliklerden biri olan ve 1072-1202 yılları arasında Erzurum ve çevresinde hüküm süren; Üç Kümbetler ve Mama Hatun Türbesi gibi eserleri günümüze ulaşan beylik aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Danişmentliler",
+              "Saltuklular",
+              "Artuklular", 
+              "Mengücekler",
+              "Sökmenliler"
+            ],
+            "dogruCevap": "Saltuklular",
+            "aciklama": "Anadolu'da kurulan ilk beyliklerden biri olan Saltuklular 1072-1202 yılları arasında Erzurum ve çevresinde hüküm sürmüş ve günümüze kadar gelen Üç Kümbetler, Mama Hatun Türbesi gibi eserler bırakmışlardır."
+          },
+          {
+            "soru": "Osmanlı Beyliği'nin Rumeli'ye geçişinde aşağıdakilerden hangisi etkili olmamıştır?",
+            "secenekler": [
+              "Bizans İmparatorluğu'ndaki taht mücadeleleri",
+              "Karesioğulları Beyliği'nin Osmanlı egemenliğine geçmesi",
+              "Karamanoğulları Beyliği'nin desteği",
+              "Gaza düşüncesi ile hareket edilmesi",
+              "Uçlarda Bizans İmparatorluğu'na en yakın bölgede bulunması"
+            ],
+            "dogruCevap": "Karamanoğulları Beyliği'nin desteği",
+            "aciklama": "Osmanlı Beyliği'nin Rumeli'ye geçişinde Bizans İmparatorluğu'na yakın olunması ve bu imparatorlukta taht mücadeleleri nedeniyle güçlü bir yönetimin olmaması, Karesioğulları Beyliği'nin Osmanlı egemenliğine geçmesiyle birlikte Osmanlı Beyliğinin Rumeli'ye geçişinde etkili olan bir donanmaya sahip olunması, gaza düşüncesi ve cihat anlayışlarının etkisiyle, kitleleri Rumeli'nin fethine daha rahat yönlendirebilme gibi unsurlar etkili olmuştur. Anadolu beyliklerinden biri olan Karamanoğulları Anadolu hâkimiyeti noktasında Osmanlı Beyliği'ne rakiptir. Bu nedenle Rumeli'ye geçişte Osmanlı Beyliği'ne bir katkısı olmamıştır."
+          },
+          {
+            "soru": "Osmanlı Devleti'nin kuruluş ve yükseliş döneminde oluşturduğu kültürde; I. Orta Asya Türklerinin, II. Müslümanların, III. fethedilen yerlerin ahalisinin yaşam tarzı ve inanışlarından hangilerinin etkili olduğu savunulabilir?",
+            "secenekler": [
+              "Yalnız I",
+              "Yalnız II",
+              "Yalnız III",
+              "I ve II",
+              "I, II ve III"
+            ],
+            "dogruCevap": "I, II ve III",
+            "aciklama": "Osmanlı kültürünün bilhassa kuruluş ve yükseliş dönemlerinde oluşmasında Orta Asya Türk kültürünün etkisi, İslamiyetin kabulü ile birlikte Müslümanların katkısı ve fethedilen topraklardaki ahalinin yaşam tarzı ve inanışları etkili olmuştur."
+          },
+          {
+            "soru": "Osmanlı Devleti'nde Divanıhümayun'un üyelerinden reisülküttap, zamanla aşağıdakilerden hangisine dönüşmüştür?",
+            "secenekler": [
+              "Hariciye nazırı",
+              "Maarif nazırı",
+              "Maliye nazırı",
+              "Serasker",
+              "Dahiliye nazırı"
+            ],
+            "dogruCevap": "Hariciye nazırı",
+            "aciklama": "Osmanlı Devleti'nde Divanıhümayun'un üyelerinden olan reisülküttap 19. yüzyılda Babıali'nin kurulmasıyla birlikte dışişlerinden sorumlu bakanlığa (hariciye nazırlığına) dönüşmüştür."
+          },
+          {
+            "soru": "Osmanlı Devleti'nde esnaf teşkilatının usta sayısını sınırlı tutmasının nedeni aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "İhracatın teşvik edilmesi",
+              "Ürün arzının talebe göre ayarlanması",
+              "Para ekonomisine kısa zamanda geçilmek istenmesi",
+              "Tarım ürünlerinin ön plana çıkarılması",
+              "Askerlik hizmetinin gözetilmesi"
+            ],
+            "dogruCevap": "Ürün arzının talebe göre ayarlanması",
+            "aciklama": "Yorum gücüne dayalı çözümü gerektiren soru tarzında hazırlanmış bu soruda esnaf teşkilatının usta sayısını sınırlı tutmasında ürün arzının talebe göre ayarlanması düşüncesi etkili olmuştur."
+          },
+          {
+            "soru": "Osmanlı toplumunda uzun yıllar Millet-i Sadıka olarak bilinen Ermeni toplumunun isteklerinin zamanla bir soruna dönüşmesinde aşağıdakilerden hangisinin etkili olduğu savunulamaz?",
+            "secenekler": [
+              "Avrupa devletlerinin kışkırtmacı politikası",
+              "Fransız ihtilalıyla gelişen milliyetçilik düşüncesi",
+              "Balkanlarda oturan Hristiyan toplulukların bağımsızlıklarını kazanması",
+              "Rusya ve İngiltere'nin, Ermenilerle ilgili ıslahat yapılması için Osmanlı Devleti'ne baskı yapması",
+              "Osmanlı Devleti'nin, Osmanlıcılık fikrini uygulamaya koyması"
+            ],
+            "dogruCevap": "Osmanlı Devleti'nin, Osmanlıcılık fikrini uygulamaya koyması",
+            "aciklama": "Osmanlı yönetiminde yaşayan Ermenilerin ayaklanmasında Avrupa devletlerinin kışkırtmacı politikaları, Fransız ihtilaliyle gelişen milliyetçilik düşüncesinin Ermenileri harekete geçirmesi, Sırp ve Yunan isyanlarının Ermenileri etkilemesi ve harekete geçirmesi ile Rusya ve İngiltere'nin, Ermenilerle ilgili ıslahat yapılması için Osmanlı Devleti'ne baskı yapması gelişmeleri etkili olmuştur. Osmanlı Devleti Ermeni isyanından daha önce Osmanlıcılık fikrini uygulamaya koymuştur. Osmanlıcılık düşüncesi doğrultusunda atılan ilk somut adım 1839 tarihli Tanzimat Fermanı'dır."
+          },
+          {
+            "soru": "Aşağıdaki padişah - gerçekleştirdiği yenilik eşleştirmelerinden hangisi yanlıştır?",
+            "secenekler": [
+              "III. Selim - Nizam-ı Cedid",
+              "II. Mahmut - Sened-i İttifak",
+              "Abdülmecit - Tanzimat Fermanı",
+              "Abdülaziz - Islahat Fermanı",
+              "II. Abdülhamit - Kanunuesasi"
+            ],
+            "dogruCevap": "Abdülaziz - Islahat Fermanı",
+            "aciklama": "Padişah yenilik eşleştirmelerine göz atıldığında III. Selim - Nizam-ı Cedid, II. Mahmut - Sened-i İttifak, Abdülmecit - Tanzimat Fermanı ile II. Abdülhamit – Kanunuesasi eşleştirmeleri doğrudur. Islahat Fermanı ise 1856 yılında Abdülmecit zamanında ilan edilmiştir."
+          },
+          {
+            "soru": "II. Mahmut Dönemi'nde eğitim alanında gerçekleştirilen yeniliklerden bazıları şunlardır: Medresenin yanında modern askerî ve sivil okullar açıldı. İstanbul'da kız ve erkek çocuklara ilköğretim zorunlu hâle getirildi. Yurt dışına öğrenci gönderilmeye devam edildi. Yalnız bu bilgilerle II. Mahmut Dönemi ile ilgili olarak aşağıdakilerden hangisi savunulamaz?",
+            "secenekler": [
+              "Okuryazarlık oranında artış olmuştur",
+              "Eğitimde ikilik ortaya çıkmıştır",
+              "Karma eğitime geçilmiştir",
+              "Batıdan yeni yöntem ve kurumlar alınmıştır",
+              "Orduda yenileşme süreci hızlanmıştır"
+            ],
+            "dogruCevap": "Karma eğitime geçilmiştir",
+            "aciklama": "Soru açıklamasındaki medresenin yanında modern askerî ve sivil okulların açılması bilgisi seçeneklerdeki eğitimde ikiliklerin ortaya çıkması, Batıdan yeni yöntem ve kurumların alınması ve orduda yenileşme sürecinin hızlanması ifadesiyle eşleşmektedir. İstanbul'da kız ve erkek çocuklara ilköğretimin zorunlu hâle getirilmesi okuryazarlık oranında artış olduğu ifadesiyle eşleşmektedir. Ancak soru açıklamasındaki bilgilerden karma eğitime geçildiği yönünde bir çıkarımda bulunulamaz."
+          },
+          {
+            "soru": "Osmanlı Devleti'nde XIX. yüzyılda savunulan İslamcılık fikriyle ilgili olarak aşağıdakilerden hangisi söylenemez?",
+            "secenekler": [
+              "Devletin bütünlüğünün dinî esaslara uyulmakla sağlanacağı fikrini savunmuştur",
+              "Din ve ümmet birdir, düşüncesiyle halifelik makamı ön plana çıkarılmıştır",
+              "Osmanlıcılık fikrini uygulanamayacağı düşüncesiyle gündeme gelmiştir",
+              "II. Abdülhamit Dönemi'nde devlet politikası hâline gelmiştir",
+              "I. Meşrutiyet'in ilanı ile etkisini yitirmiştir"
+            ],
+            "dogruCevap": "I. Meşrutiyet'in ilanı ile etkisini yitirmiştir",
+            "aciklama": "Osmanlı Devleti'nde XIX. yüzyılda Osmanlıcılık fikrini uygulanamayacağı düşüncesiyle gündeme gelen İslamcılık düşüncesinde devletin bütünlüğünün dinî esaslara uyulmakla sağlanacağı fikri savunulmuştur. Bu düşüncede din ve ümmet birdir, anlayışıyla halifelik makamı ön plana çıkarılmıştır. II. Abdülhamit Dönemi'nde devlet politikası hâline gelen İslamcılığın Meşrutiyet'in ilanı ile etkisini yitirdiği bilgisi doğru değildir. Aksine İslamcılık düşüncesi Meşrutiyet'in ilanından sonra etkili olmuştur."
+          }
+        ],
+          "2013 Kpss Çıkmış Sorular 2": [
+            {
+              "soru": "Osmanlı Devleti'nde XX. yüzyılın başlarında görülen; I. İkinci Meşrutiyet'in ilanı, II. Babıali Baskını, III. 31 Mart Vakası olaylarının kronolojik sıralaması aşağıdakilerden hangisidir?",
+              "secenekler": [
+                "I, II, III",
+                "I, III, II",
+                "II, I, III",
+                "III, I, II",
+                "III, II, I"
+              ],
+              "dogruCevap": "I, III, II",
+              "aciklama": "Osmanlı Devleti'nde XX. yüzyılın başlarında görülen; İkinci Meşrutiyet'in ilanı 1908, 31 Mart Vakası 1909, Babıali Baskını, 1913 yılı gelişmeleridir."
+            },
+            {
+              "soru": "Mondros Ateşkes Anlaşması'nın 7. maddesine işlerlik kazandırmak amacıyla; I. Mavri Mira, II. Pontus Rum, III. Hürriyet ve İtilaf, IV. İngiliz Muhipleri kuruluşlarından hangileri, fiilî hareketlerde bulunmuştur?",
+              "secenekler": [
+                "I ve II",
+                "II ve IV",
+                "III ve IV",
+                "I, II ve III",
+                "II, III ve IV"
+              ],
+              "dogruCevap": "I ve II",
+              "aciklama": "Mavri Mira Cemiyeti ile Pontus Rum Cemiyeti Rumlar tarafından kurulmuş, Mondros Ateşkes Anlaşması'nın 7. maddesine dayanarak Anadolu topraklarını işgal etmek amacıyla faaliyetlerde bulunmuştur. Hürriyet ve İtilaf Partisi ile İngiliz Muhipleri Cemiyeti ise Türkler tarafından kurulan zararlı cemiyetlerdir. Ancak Anadolu'yu işgal etmek gibi bir amaç gütmemektedir."
+            },
+            {
+              "soru": "İzmir'in Yunan askerleri tarafından işgal edilmesinin öncelikle aşağıdakilerden hangisine neden olduğu savunulabilir?",
+              "secenekler": [
+                "Müdafaa-i Hukuk Cemiyetlerinin birleştirilmesine",
+                "İsmet Paşa'nın Batı Cephesi komutanlığına atanmasına",
+                "Redd-i İlhak Cemiyeti'nin kurulmasına",
+                "Tekâlif-i Milliye Emirlerinin yayımlanmasına",
+                "Hıyanet-i Vataniye Kanunu'nun çıkarılmasına"
+              ],
+              "dogruCevap": "Redd-i İlhak Cemiyeti'nin kurulmasına",
+              "aciklama": "15 Mayıs 1919'da İzmir'in Yunan askerleri tarafından işgal edilmesi üzerine öncelikle işgal edilen yerleri kurtarma amacıyla Redd-i İlhak Cemiyeti kurulmuştur."
+            },
+            {
+              "soru": "TBMM'nin birinci döneminde milletvekilleri sekiz ay maaşsız çalışmışlar, bir yıl sonra da 100 lira olan maaşlarının % 20'sini, bütçe açığını kapatmak amacıyla iade etmişlerdir. Bu durumun, aşağıdakilerden hangisini gösterdiği savunulabilir?",
+              "secenekler": [
+                "Ülke çıkarlarını her şeyin üstünde gördüklerini",
+                "TBMM'nin, farklı düşüncedeki kişilerden oluştuğunu",
+                "Kişisel çıkar ve ideolojilerin ön planda tutulduğunu",
+                "TBMM'nin üstünde bir gücün tanınmadığını",
+                "Anayasal düzenin uygulanmaya başladığını"
+              ],
+              "dogruCevap": "Ülke çıkarlarını her şeyin üstünde gördüklerini",
+              "aciklama": "Yoruma dayalı çözümü gerektiren bir soru tarzıdır. Soru açıklamasında milletvekillerinin yaptığı fedakârlıklardan söz edilmektedir. Bu da gösterir ki ülke çıkarları her şeyin üstünde görülmektedir."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi, Yeni Türk Devleti'nin kuruluşuna işaret eden gelişme olarak kabul edilebilir?",
+              "secenekler": [
+                "Takrir-i Sükûn Kanunu'nun çıkarılması",
+                "Halifeliğin kaldırılması",
+                "Başkomutanlık Kanunu'nun kabul edilmesi",
+                "TBMM'nin açılması",
+                "Tevhid-i Tedrisat Kanunu'nun çıkarılması"
+              ],
+              "dogruCevap": "TBMM'nin açılması",
+              "aciklama": "Bir seçeneğin devletin kuruluşunu işaret etmesi için devlete ilişkin kurumsallaşma sürecini vurgulaması gerekir. Seçeneklere göz atıldığında TBMM'nin açılması Yeni Türk Devleti'nin yönetildiği çatı olması dolayısıyla seçenekler arasında devletin kuruluşuna işaret eden tek seçenektir."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi, Türkiye Cumhuriyeti'nin, ekonomik ve mali bağımsızlığını sınırlandıran engellerden kurtulduğu savunulamaz?",
+              "secenekler": [
+                "Türkiye Cumhuriyet Merkez Bankasının kurulmasıyla",
+                "Tekâlif-i Milliye Emirlerinin yayımlanmasıyla",
+                "Kapitülasyonların kaldırılmasıyla",
+                "Düyun-ı Umumiye İdaresinin yetkisinin borçlarla sınırlandırılmasıyla",
+                "Kabotaj Kanunu'nun kabul edilmesiyle"
+              ],
+              "dogruCevap": "Tekâlif-i Milliye Emirlerinin yayımlanmasıyla",
+              "aciklama": "Türkiye Cumhuriyet Merkez Bankasının kurulması, kapitülasyonların kaldırılması ve Düyun-ı Umumiye İdaresinin yetkisinin borçlarla sınırlandırılması ve Kabotaj Kanunu'nun kabul edilmesi Türkiye'nin ekonomik ve mali bağımsızlığını sağlayan gelişmelerdir. Tekâlif-i Milliye Emirlerinin yayımlanması ise Kurtuluş Savaşı'nda ordunun ihtiyaçlarının halk tarafından karşılanmasını sağlamak amacına yöneliktir. Kaldı ki 1921 yılında çıkarılan bu emirlerin Türkiye Cumhuriyeti'nde diye başlayan bir sorunun gelişmelerinden biri sayılması tarihsel tutarlılık açısından da mümkün değildir."
+            },
+            {
+              "soru": "Atatürk, vasiyetinde Türkiye İş Bankasında kendisine ait hisse gelirlerinin bir kısmını Türk Tarih Kurumu ve Türk Dil Kurumuna bırakmıştır. Atatürk'ün, bu uygulamayla aşağıdakilerden hangisini amaçladığı savunulamaz?",
+              "secenekler": [
+                "Kurumların maddi bağımsızlığını garanti altına almayı",
+                "Bilimsel çalışmalar yapılmasına imkân sağlamayı",
+                "Kurumların, varlıklarını uzun süre koruyabilmelerini",
+                "Millî bilinç oluşumuna yönelik faaliyetleri desteklemeyi",
+                "Kurumları siyasi iktidarın bir parçası hâline getirmeyi"
+              ],
+              "dogruCevap": "Kurumları siyasi iktidarın bir parçası hâline getirmeyi",
+              "aciklama": "Yoruma dayalı çözümü gerektiren bir soru tarzıdır. Soru açıklamasında verilen bilgiden seçeneklerdeki kurumların maddi bağımsızlığını garanti altına alma, bilimsel çalışmalar yapılmasına imkân sağlama, kurumların varlıklarını uzun süre koruyabilmelerini sağlama ve millî bilinç oluşumuna yönelik faaliyetleri destekleme ifadelerine ulaşılabilir. Ancak Atatürk'ün bu kurumları desteklemesi, kurumları siyasi iktidarın bir parçası hâline getirmek olarak yorumlanamaz."
+            },
+            {
+              "soru": "I. Cumhuriyet Halk Partisi II. Terakkiperver Cumhuriyet Partisi III. Serbest Cumhuriyet Partisi Yukarıdakilerden hangilerinin kuruluşunda Atatürk'ün rolü ve katkısı vardır?",
+              "secenekler": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "I, II ve III"
+              ],
+              "dogruCevap": "I ve III",
+              "aciklama": "Cumhuriyet Halk Partisi bizzat Atatürk'ün çalışmalarıyla kurulmuştur. Serbest Cumhuriyet Partisi Atatürk'ün direktifi ile Ali Fethi Bey tarafından kurulmuştur. Terakkiperver Cumhuriyet Partisi ise Atatürk'e muhalif isimler tarafından kurulmuş Türkiye'nin ilk muhalefet partisidir."
+            },
+            {
+              "soru": "1929 yılından itibaren Türk-İngiliz ilişkileri; I. Almanya, II. İtalya, III. Fransa devletlerinden hangilerinin, Orta Doğu'daki siyasi ve ekonomik nüfuzlarını artırma çabalarının etkisi altında gelişmiştir?",
+              "secenekler": [
+                "Yalnız I",
+                "Yalnız II",
+                "Yalnız III",
+                "I ve II",
+                "II ve III"
+              ],
+              "dogruCevap": "I ve II",
+              "aciklama": "Almanya'nın ve İtalya'nın siyasi birliğini sağladıktan bir süre sonra yayılmacı faaliyetlere başlamaları ve dünya barışını tehdit etmeleri üzerine bu iki devletin saldırgan tutumuna karşılık 1929 yılından itibaren Türk-İngiliz ilişkileri gelişme kaydetmiştir."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi, Mustafa Kemal Atatürk'ün hayatını anlatan biyografik bir eserdir?",
+              "secenekler": [
+                "Ankara",
+                "Tek Adam",
+                "Üç Devirde Bir Adam",
+                "Onlar da Çocuktu",
+                "Türk'ün Ateşle İmtihanı"
+              ],
+              "dogruCevap": "Tek Adam",
+              "aciklama": "Bilgiye dayalı çözümü gerektiren bir soru tarzıdır. Şevket Süreyya Aydemir'in eseri olan Tek Adam Mustafa Kemal Atatürk'ün hayatını anlatan biyografik bir eserdir."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi, Demokrat Parti Dönemi'nde Atatürk ile ilgili olarak yapılan çalışmalardan biri değildir?",
+              "secenekler": [
+                "Atatürk'ün hazineye devrettiği Atatürk Orman Çiftliği arazisinin parçalanmasını, yasayla önlemek",
+                "Atatürk aleyhine işlenen suçlara ilişkin özel bir yasa çıkarmak",
+                "Anıtkabir'i tamamlayarak Atatürk'ün naaşını buraya taşımak",
+                "Devlet dairelerine, yalnızca Atatürk'ün resminin asılmasını sağlayacak bir genelge yayımlamak",
+                "Atatürk'ün öngördüğü üniversiteyi, ona ithafen Erzurum'da kurmak"
+              ],
+              "dogruCevap": "Atatürk'ün hazineye devrettiği Atatürk Orman Çiftliği arazisinin parçalanmasını, yasayla önlemek",
+              "aciklama": "TBMM 1937'de Atatürk'ün hazineye devrettiği Atatürk Orman Çiftliği arazisinin parçalanmasını önlemek amacıyla yasa çıkarmıştır. Demokrat Parti Dönemi'nde 1951 yılında Atatürk aleyhine işlenen suçlara ilişkin özel bir yasa çıkarılmıştır. 1952 yılında devlet dairelerine, yalnızca Atatürk'ün resminin asılmasını sağlayacak bir genelge yayımlanmıştır. 1953 yılında Anıtkabir tamamlanarak Atatürk'ün naaşı buraya taşınmıştır. 1957 yılında ise Atatürk'ün öngördüğü üniversite, ona ithafen Erzurum'da kurulmuştur."
+            },
+            {
+              "soru": "İkinci Dünya Savaşı'nın ardından; I. Almanya, II. Kore, III. Japonya topraklarının hangilerinde farklı rejimlerle yönetilen iki ayrı devlet kurulmuştur?",
+              "secenekler": [
+                "Yalnız I",
+                "Yalnız II", 
+                "Yalnız III",
+                "I ve II",
+                "II ve III"
+              ],
+              "dogruCevap": "I ve II",
+              "aciklama": "II. Dünya Savaşı'nın ardından Almanya, Doğu ve Batı Almanya olarak ikiye bölünmüştür. Kore de Kuzey ve Güney Kore olarak ikiye bölünmüştür. Japonya ise bölünmemiş, tek devlet olarak varlığını sürdürmüştür."
+            },
+            {
+              "soru": "1950'li yılların başlarında Kıbrıs'ın Yunanistan'a bağlanması amacı ile Yorgo Grivas liderliğinde kurulmuş Rum örgütü aşağıdakilerden hangisidir?",
+              "secenekler": [
+                "EOKA",
+                "IMRO",
+                "Mavri Mira",
+                "Etniki Eterya",
+                "Pontus"
+              ],
+              "dogruCevap": "EOKA",
+              "aciklama": "EOKA (Kıbrıslıların Millî Mücadele Örgütü), 1955'te Yorgo Grivas liderliğinde Kıbrıs'ın Yunanistan'a bağlanması (ENOSİS) amacıyla kurulmuş bir Rum terör örgütüdür."
+            }
+          ],
       "2014 Kpss Çıkmış Sorular": [
         {
           "soru": "Aşağıdakilerden hangisi Uygurların, kağanlarının gücünü Ay'dan aldıklarına inanmalarından dolayı unvanlarının başına 'Ay' kelimesini eklemelerinde etkili olan dindir?",
