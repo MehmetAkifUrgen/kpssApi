@@ -2,211 +2,223 @@
   "soruCozumu": {
     "Türkçe": {
       "Sözel Mantık 2015 Kpss Çıkmış Sorular": [
-  {
-    "soru": "Aynı bölümde görev yapan Kemal, Leyla, Mine, Nermin, Osman, Özkan'ın yıl sonunda A, B ve C düzeyinde dergilerde yayımlanan makaleleri incelenmiştir.\n- Her öğretim elemanının en az bir makalesi var (toplam 9 makale)\n- A düzeyi dergi makale sayısı en az\n- B düzeyi dergi makale sayısı üç\n- Özkan'ın yalnızca C düzeyi dergide bir makalesi var\n- A düzeyi dergide makalesi olan iki kişinin C düzeyinde de makalesi var\n- Leyla'nın iki makalesinden biri B düzeyi dergide\n- Kemal'in iki, Osman'ın bir makalesi var\nBuna göre, I. Kemal, II. Mine, III. Nermin'den hangilerinin B düzeyindeki dergide makalesi olabilir?",
-    "secenekler": [
-      "Yalnız I",
-      "Yalnız II",
-      "Yalnız III",
-      "I ve II",
-      "II ve III"
-    ],
-    "dogruCevap": "II ve III"
-  },
-  {
-    "soru": "Aynı bilgilere göre, aşağıdakilerden hangisi kesinlikle yanlıştır?",
-    "secenekler": [
-      "Kemal'in makalelerinden biri A düzeyi dergide yayımlanmıştır",
-      "Mine'nin yayımlanan birden çok makalesi bulunmaktadır",
-      "Osman'ın makalesi C düzeyi dergide yayımlanmıştır",
-      "Leyla'nın makalelerinden biri, C düzeyi dergide yayımlanmıştır",
-      "Nermin'in A düzeyi dergide yayımlanan makalesi bulunmaktadır"
-    ],
-    "dogruCevap": "Osman'ın makalesi C düzeyi dergide yayımlanmıştır"
-  },
-  {
-    "soru": "Aynı bilgilere göre, Mine'nin C düzeyinde makalesi olduğu biliniyorsa aşağıdakilerden hangisi doğrudur?",
-    "secenekler": [
-      "Leyla ile Nermin'in aynı düzey dergide yayımlanan bir makalesi vardır",
-      "Mine ile Osman'ın aynı düzey dergide yayımlanan bir makalesi vardır",
-      "Kemal ile Nermin'in makaleleri aynı düzey dergide yayımlanmıştır",
-      "Mine ile Nermin'in makaleleri aynı düzey dergide yayımlanmıştır",
-      "Kemal ile Osman'ın makaleleri aynı düzey dergide yayımlanmıştır"
-    ],
-    "dogruCevap": "Leyla ile Nermin'in aynı düzey dergide yayımlanan bir makalesi vardır"
-  },
-  {
-    "soru": "Aynı bilgilere göre, makaleler yayımlandığı dergi düzeyine göre A düzeyi dergide 3, B düzeyi dergide 2, C düzeyi dergide 1 puan alıyorsa öğretim elemanlarınca alınan en yüksek puan kaçtır?",
-    "secenekler": [
-      "4",
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "dogruCevap": "4"
-  }],
-     "Sözcükte Anlam": [
-  {
-    "soru": "Günümüzde bilinen tarihî çanak çömlek örnekleri, Anadolu'da Çatalhöyük'te ele geçen seramiklerdir.\nBu cümleyle ilgili olarak aşağıdaki açıklamalardan hangisi yanlıştır?",
-    "secenekler": [
-      "Deyim kullanılmıştır",
-      "Gerçek anlamlı sözcüklere yer verilmiştir",
-      "'Günümüzde' sözcüğü 'şu zamanda' anlamını vermiştir",
-      "Pekiştirilmiş sözcük kullanılmıştır",
-      "İkileme kullanılmıştır"
-    ],
-    "dogruCevap": "Pekiştirilmiş sözcük kullanılmıştır",
-    "aciklama": "Cümlede pekiştirilmiş sözcük bulunmamaktadır. 'Ele geçmek' deyimdir, 'çanak çömlek' ikilemedir ve sözcükler gerçek anlamda kullanılmıştır."
-  },
-  {
-    "soru": "Aşağıdaki cümlelerden hangisi birlikte verilen sözün anlamını içermemektedir?",
-    "secenekler": [
-      "Öğrenme isteği: Ona bu merak nereden geldi, anlayamadım",
-      "Soyutlanmak: Sınıfta arkadaşlarından ayrı tutulmasına çok üzülmüştü",
-      "Zorlukla: Yaşamlarını binbir sıkıntı içinde sürdürüyorlardı",
-      "Önem vermek: O, ünlü olmayı değil, yalnızca para kazanmayı amaçlıyordu",
-      "Yetinmek: Babasından ona yalnızca bu çiftliğin kaldığını söylüyordu"
-    ],
-    "dogruCevap": "Yetinmek: Babasından ona yalnızca bu çiftliğin kaldığını söylüyordu",
-    "aciklama": "Yetinmek, bir şeyi kendisi için yeter bularak daha fazlasını istememek anlamına gelir. Verilen cümlede böyle bir anlam yoktur."
-  },
-  {
-    "soru": "Aşağıdaki dizelerin hangisinde yakın anlamlı iki sözcük vardır?",
-    "secenekler": [
-      "Her şey sağır içimde ne şiir ne musiki / Dünyadan bezginliğim dünyalar kadar eski",
-      "Vazgeç dünyanın köhne saltanatından / Yetişir bunca keder bunca elem diyorum",
-      "Güneşler doğardı ve batardı belli belirsiz / Öyle yalnızdık anlatılmaz huzursuz, tesellisiz",
-      "Baksana denizlerin maviliğine / Martıların kanatlarına baksana",
-      "Ne zaman elime bir ayna alsam / Gözlerimden korkuyorum, bakışlarımdan"
-    ],
-    "dogruCevap": "Vazgeç dünyanın köhne saltanatından / Yetişir bunca keder bunca elem diyorum",
-    "aciklama": "'Keder' ve 'elem' yakın anlamlı sözcüklerdir."
-  },
-  {
-    "soru": "'Aramak' sözcüğü aşağıdaki cümlelerin hangisinde 'önem vermek, önemsemek' anlamında kullanılmıştır?",
-    "secenekler": [
-      "Bütün civar köylerde onu aradık",
-      "Beni buralarda çok arayacaksınız",
-      "O, böyle şeyleri aramaz; kendinizi üzmeyin boş yere",
-      "Dün akşam seni çok aradık ama telefonun sürekli kapalıydı",
-      "Bu sorunu çözmek için bir yol arıyoruz şu an"
-    ],
-    "dogruCevap": "O, böyle şeyleri aramaz; kendinizi üzmeyin boş yere",
-    "aciklama": "Bu cümlede 'aramaz' sözcüğü 'önemsemez' anlamında kullanılmıştır."
-  },
-  {
-    "soru": "'Atmak' sözcüğü verilen cümlelerde kaç farklı anlamda kullanılmıştır?\nI. Sırtına oldukça güzel bir şal attı.\nII. Suçu onun üzerine attılar.\nIII. Şapka inkılabıyla fesi attık.\nIV. Bu konunun tartışılmasını gelecek haftaya attılar.\nV. Yemeklerimize biber atmayı âdet edinmişiz.",
-    "secenekler": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "dogruCevap": "5",
-    "aciklama": "1.Giymek 2.Suçu başkasına yıkmak 3.Kullanımdan kaldırmak 4.Ertelemek 5.İlave etmek anlamlarında kullanılmıştır."
-  },
- 
-  {
-    "soru": "Aşağıdaki cümlelerin hangisinde yakın anlamlı sözcükler kullanılmıştır?",
-    "secenekler": [
-      "Soran, sorgulayan ve aydınlığı arayan bir kişiliği vardır onun",
-      "Avustralya yerlileri ölümden sonra yeniden doğuşun mümkün olduğuna inanıyorlardı",
-      "Sanırsınız ki yazar hep kendi içini dinliyor, izlenimlerini anlatıyor",
-      "Gökyüzü, çiftçiye olan borcunu bereketli bir yağmurla ödüyordu",
-      "Salonda oturan izleyici, artık kendi hayal gücüyle algılar dekoru"
-    ],
-    "dogruCevap": "Soran, sorgulayan ve aydınlığı arayan bir kişiliği vardır onun",
-    "aciklama": "'Sormak' ve 'sorgulamak' yakın anlamlı sözcüklerdir."
-  },
-  {
-    "soru": "Aşağıdakilerin hangisinde 'koşmak' sözcüğü ayraç içindeki anlamına uygun kullanılmamıştır?",
-    "secenekler": [
-      "Gencecik çocuğu böyle bir işe koşmak iyi cesaret (birini bir işte görevlendirmek)",
-      "İki yıldır bu işin peşinden koşuyorum (üstüne düşmek)",
-      "Akşamdan beri ben koştum, biraz da onlar yorulsunlar, dedi (bir işle çok ilgilenmek, koşuşturmak)",
-      "Atımız Doru, bugünkü yarışta koşmayacak (hayvanı çekeceği arabaya bağlamak)",
-      "Ben kaçıyordum, abim de arkamdan koşuyordu (hızla gitmek)"
-    ],
-    "dogruCevap": "Atımız Doru, bugünkü yarışta koşmayacak (hayvanı çekeceği arabaya bağlamak)",
-    "aciklama": "Bu cümlede 'koşmak' sözcüğü 'yarışmak' anlamında kullanılmıştır, verilen anlamla uyuşmamaktadır."
-  },
-  {
-    "soru": "Aşağıdaki cümlelerin hangisinde 'taşmak' sözcüğü mecaz anlamda kullanılmıştır?",
-    "secenekler": [
-      "Hayvanın ağzından taşan beyaz köpüklere biraz da kan karıştı",
-      "Acaba bizim taşıp köpürmelerimizi pek mi çocukça bulmuştu?",
-      "Yoğun yağmurlar nedeniyle akarsu yine taşmış",
-      "Kasketinden taşmış siyah saçları yakına gelince çok kırçıllaştı",
-      "Gösteri o kadar güzeldi ki seyirciler salondan taşmıştı"
-    ],
-    "dogruCevap": "Acaba bizim taşıp köpürmelerimizi pek mi çocukça bulmuştu?",
-    "aciklama": "'Taşıp köpürmek' deyimi 'sinirlenmek' anlamında mecaz olarak kullanılmıştır."
-  },
-  {
-    "soru": "Aşağıdaki cümlelerin hangisinde 'bakmak' sözcüğü ayraç içindeki anlamıyla kullanılmamıştır?",
-    "secenekler": [
-      "Git bak bakalım, yeni komşularımız evdeler mi? (yoklamak)",
-      "Şu hesaplara sen de bir bak, ne durumdayız bilelim (incelemek)",
-      "Bazı akşamlar bakarım, Halil gizlice savuşur (denemek)",
-      "Limana bakan penceresinden deniz görünürdü (bir şeyin yüzü bir yöne doğru olmak)",
-      "Bu kumaşın rengi yeşile bakıyor (benzemek, andırmak)"
-    ],
-    "dogruCevap": "Bazı akşamlar bakarım, Halil gizlice savuşur (denemek)",
-    "aciklama": "Bu cümlede 'bakmak' sözcüğü 'görmek, fark etmek' anlamında kullanılmıştır, verilen anlamla uyuşmamaktadır."
-  }
-],
-     "Cümlede Anlam": [
-  {
-    "soru": "I. Sınavda başarılı olmak için çok çalışıyor.\nII. Yağmur yağdığından sokaklar ıslanmış.\nIII. Hava soğuk olduğu halde üşümüyorum.\nIV. Erken kalktım ki işe geç kalmayayım.\nV. Öyle yorgunum ki gözlerimi açamıyorum.\nYukarıdaki cümlelerde aşağıdaki anlam ilişkilerinden hangisi yoktur?",
-    "secenekler": [
-      "Amaç-sonuç",
-      "Neden-sonuç",
-      "Karşıtlık",
-      "Koşul-sonuç",
-      "Abartma"
-    ],
-    "dogruCevap": "Koşul-sonuç",
-    "aciklama": "Cümlelerde amaç-sonuç (I), neden-sonuç (II), karşıtlık (III) ve abartma (V) ilişkileri vardır fakat koşul-sonuç ilişkisi bulunmamaktadır."
-  },
-  {
-    "soru": "I. Yarın hava güzel olursa pikniğe gideriz.\nII. Keşke bu sözleri söylemeseydin.\nIII. Belki de bir daha hiç görüşemeyeceğiz.\nIV. Akşama kadar bu işi bitirmeliyim.\nV. Sen de bizimle gelseydin çok eğlenirdin.\nYukarıdaki cümlelerde kaç farklı kiplik anlamı (kesinlik, olasılık, pişmanlık, gereklilik, dilek-şart) vardır?",
-    "secenekler": [
-      "2",
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "dogruCevap": "5",
-    "aciklama": "Dilek-şart (I), pişmanlık (II), olasılık (III), gereklilik (IV) ve koşula bağlı pişmanlık (V) olmak üzere 5 farklı kiplik anlamı vardır."
-  },
-  {
-    "soru": "I. Bu konuda sana katılmıyorum.\nII. Senin düşüncelerini desteklemiyorum.\nIII. Bu fikre karşı çıkıyorum.\nIV. Söylediklerin bana mantıklı gelmiyor.\nV. Bu görüşe farklı açıdan bakıyorum.\nYukarıdaki cümlelerden hangileri anlamca aynı doğrultudadır?",
-    "secenekler": [
-      "I, II ve III",
-      "II, III ve IV",
-      "III, IV ve V",
-      "I, III ve V",
-      "II, IV ve V"
-    ],
-    "dogruCevap": "I, II ve III",
-    "aciklama": "I, II ve III. cümleler 'karşı çıkma/reddetme' anlamı taşırken, IV. cümle 'inanmama', V. cümle ise 'farklı perspektiften değerlendirme' anlamı taşır."
-  },
-  {
-    "soru": "I. Yüreğim ağzıma geldi.\nII. İçim içime sığmıyor.\nIII. Gözlerim fal taşı gibi açıldı.\nIV. Dilim tutuldu.\nV. Beynimden vurulmuşa döndüm.\nYukarıdaki deyimlerden hangileri 'şaşırma' anlamı dışında kullanılabilir?",
-    "secenekler": [
-      "I ve II",
-      "II ve III",
-      "III ve IV",
-      "IV ve V",
-      "I ve V"
-    ],
-    "dogruCevap": "I ve II",
-    "aciklama": "I. deyim 'korku', II. deyim 'sevinç/heyecan' anlamında da kullanılabilir. Diğerleri sadece şaşırma anlamı taşır."
-  }
-],
+        {
+          "soru": "Aynı bölümde görev yapan Kemal, Leyla, Mine, Nermin, Osman, Özkan'ın yıl sonunda A, B ve C düzeyinde dergilerde yayımlanan makaleleri incelenmiştir.\n- Her öğretim elemanının en az bir makalesi var (toplam 9 makale)\n- A düzeyi dergi makale sayısı en az\n- B düzeyi dergi makale sayısı üç\n- Özkan'ın yalnızca C düzeyi dergide bir makalesi var\n- A düzeyi dergide makalesi olan iki kişinin C düzeyinde de makalesi var\n- Leyla'nın iki makalesinden biri B düzeyi dergide\n- Kemal'in iki, Osman'ın bir makalesi var\nBuna göre, I. Kemal, II. Mine, III. Nermin'den hangilerinin B düzeyindeki dergide makalesi olabilir?",
+          "secenekler": [
+            "Yalnız I",
+            "Yalnız II",
+            "Yalnız III",
+            "I ve II",
+            "II ve III"
+          ],
+          "dogruCevap": "II ve III"
+        },
+        {
+          "soru": "Aynı bilgilere göre, aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": [
+            "Kemal'in makalelerinden biri A düzeyi dergide yayımlanmıştır",
+            "Mine'nin yayımlanan birden çok makalesi bulunmaktadır",
+            "Osman'ın makalesi C düzeyi dergide yayımlanmıştır",
+            "Leyla'nın makalelerinden biri, C düzeyi dergide yayımlanmıştır",
+            "Nermin'in A düzeyi dergide yayımlanan makalesi bulunmaktadır"
+          ],
+          "dogruCevap": "Osman'ın makalesi C düzeyi dergide yayımlanmıştır"
+        },
+        {
+          "soru": "Aynı bilgilere göre, Mine'nin C düzeyinde makalesi olduğu biliniyorsa aşağıdakilerden hangisi doğrudur?",
+          "secenekler": [
+            "Leyla ile Nermin'in aynı düzey dergide yayımlanan bir makalesi vardır",
+            "Mine ile Osman'ın aynı düzey dergide yayımlanan bir makalesi vardır",
+            "Kemal ile Nermin'in makaleleri aynı düzey dergide yayımlanmıştır",
+            "Mine ile Nermin'in makaleleri aynı düzey dergide yayımlanmıştır",
+            "Kemal ile Osman'ın makaleleri aynı düzey dergide yayımlanmıştır"
+          ],
+          "dogruCevap": "Leyla ile Nermin'in aynı düzey dergide yayımlanan bir makalesi vardır"
+        },
+        {
+          "soru": "Aynı bilgilere göre, makaleler yayımlandığı dergi düzeyine göre A düzeyi dergide 3, B düzeyi dergide 2, C düzeyi dergide 1 puan alıyorsa öğretim elemanlarınca alınan en yüksek puan kaçtır?",
+          "secenekler": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "dogruCevap": "4"
+        }
+      ],
+      "Sözcükte Anlam": [
+        {
+          "soru": "Günümüzde bilinen tarihî çanak çömlek örnekleri, Anadolu'da Çatalhöyük'te ele geçen seramiklerdir.\nBu cümleyle ilgili olarak aşağıdaki açıklamalardan hangisi yanlıştır?",
+          "secenekler": [
+            "Deyim kullanılmıştır",
+            "Gerçek anlamlı sözcüklere yer verilmiştir",
+            "'Günümüzde' sözcüğü 'şu zamanda' anlamını vermiştir",
+            "Pekiştirilmiş sözcük kullanılmıştır",
+            "İkileme kullanılmıştır"
+          ],
+          "dogruCevap": "Pekiştirilmiş sözcük kullanılmıştır",
+          "aciklama": "Cümlede pekiştirilmiş sözcük bulunmamaktadır. 'Ele geçmek' deyimdir, 'çanak çömlek' ikilemedir ve sözcükler gerçek anlamda kullanılmıştır."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerden hangisi birlikte verilen sözün anlamını içermemektedir?",
+          "secenekler": [
+            "Öğrenme isteği: Ona bu merak nereden geldi, anlayamadım",
+            "Soyutlanmak: Sınıfta arkadaşlarından ayrı tutulmasına çok üzülmüştü",
+            "Zorlukla: Yaşamlarını binbir sıkıntı içinde sürdürüyorlardı",
+            "Önem vermek: O, ünlü olmayı değil, yalnızca para kazanmayı amaçlıyordu",
+            "Yetinmek: Babasından ona yalnızca bu çiftliğin kaldığını söylüyordu"
+          ],
+          "dogruCevap": "Yetinmek: Babasından ona yalnızca bu çiftliğin kaldığını söylüyordu",
+          "aciklama": "Yetinmek, bir şeyi kendisi için yeter bularak daha fazlasını istememek anlamına gelir. Verilen cümlede böyle bir anlam yoktur."
+        },
+        {
+          "soru": "Aşağıdaki dizelerin hangisinde yakın anlamlı iki sözcük vardır?",
+          "secenekler": [
+            "Her şey sağır içimde ne şiir ne musiki / Dünyadan bezginliğim dünyalar kadar eski",
+            "Vazgeç dünyanın köhne saltanatından / Yetişir bunca keder bunca elem diyorum",
+            "Güneşler doğardı ve batardı belli belirsiz / Öyle yalnızdık anlatılmaz huzursuz, tesellisiz",
+            "Baksana denizlerin maviliğine / Martıların kanatlarına baksana",
+            "Ne zaman elime bir ayna alsam / Gözlerimden korkuyorum, bakışlarımdan"
+          ],
+          "dogruCevap": "Vazgeç dünyanın köhne saltanatından / Yetişir bunca keder bunca elem diyorum",
+          "aciklama": "'Keder' ve 'elem' yakın anlamlı sözcüklerdir."
+        },
+        {
+          "soru": "'Aramak' sözcüğü aşağıdaki cümlelerin hangisinde 'önem vermek, önemsemek' anlamında kullanılmıştır?",
+          "secenekler": [
+            "Bütün civar köylerde onu aradık",
+            "Beni buralarda çok arayacaksınız",
+            "O, böyle şeyleri aramaz; kendinizi üzmeyin boş yere",
+            "Dün akşam seni çok aradık ama telefonun sürekli kapalıydı",
+            "Bu sorunu çözmek için bir yol arıyoruz şu an"
+          ],
+          "dogruCevap": "O, böyle şeyleri aramaz; kendinizi üzmeyin boş yere",
+          "aciklama": "Bu cümlede 'aramaz' sözcüğü 'önemsemez' anlamında kullanılmıştır."
+        },
+        {
+          "soru": "'Atmak' sözcüğü verilen cümlelerde kaç farklı anlamda kullanılmıştır?\nI. Sırtına oldukça güzel bir şal attı.\nII. Suçu onun üzerine attılar.\nIII. Şapka inkılabıyla fesi attık.\nIV. Bu konunun tartışılmasını gelecek haftaya attılar.\nV. Yemeklerimize biber atmayı âdet edinmişiz.",
+          "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "dogruCevap": "5",
+          "aciklama": "1.Giymek 2.Suçu başkasına yıkmak 3.Kullanımdan kaldırmak 4.Ertelemek 5.İlave etmek anlamlarında kullanılmıştır."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde yakın anlamlı sözcükler kullanılmıştır?",
+          "secenekler": [
+            "Soran, sorgulayan ve aydınlığı arayan bir kişiliği vardır onun",
+            "Avustralya yerlileri ölümden sonra yeniden doğuşun mümkün olduğuna inanıyorlardı",
+            "Sanırsınız ki yazar hep kendi içini dinliyor, izlenimlerini anlatıyor",
+            "Gökyüzü, çiftçiye olan borcunu bereketli bir yağmurla ödüyordu",
+            "Salonda oturan izleyici, artık kendi hayal gücüyle algılar dekoru"
+          ],
+          "dogruCevap": "Soran, sorgulayan ve aydınlığı arayan bir kişiliği vardır onun",
+          "aciklama": "'Sormak' ve 'sorgulamak' yakın anlamlı sözcüklerdir."
+        },
+        {
+          "soru": "Aşağıdakilerin hangisinde 'koşmak' sözcüğü ayraç içindeki anlamına uygun kullanılmamıştır?",
+          "secenekler": [
+            "Gencecik çocuğu böyle bir işe koşmak iyi cesaret (birini bir işte görevlendirmek)",
+            "İki yıldır bu işin peşinden koşuyorum (üstüne düşmek)",
+            "Akşamdan beri ben koştum, biraz da onlar yorulsunlar, dedi (bir işle çok ilgilenmek, koşuşturmak)",
+            "Atımız Doru, bugünkü yarışta koşmayacak (hayvanı çekeceği arabaya bağlamak)",
+            "Ben kaçıyordum, abim de arkamdan koşuyordu (hızla gitmek)"
+          ],
+          "dogruCevap": "Atımız Doru, bugünkü yarışta koşmayacak (hayvanı çekeceği arabaya bağlamak)",
+          "aciklama": "Bu cümlede 'koşmak' sözcüğü 'yarışmak' anlamında kullanılmıştır, verilen anlamla uyuşmamaktadır."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde 'taşmak' sözcüğü mecaz anlamda kullanılmıştır?",
+          "secenekler": [
+            "Hayvanın ağzından taşan beyaz köpüklere biraz da kan karıştı",
+            "Acaba bizim taşıp köpürmelerimizi pek mi çocukça bulmuştu?",
+            "Yoğun yağmurlar nedeniyle akarsu yine taşmış",
+            "Kasketinden taşmış siyah saçları yakına gelince çok kırçıllaştı",
+            "Gösteri o kadar güzeldi ki seyirciler salondan taşmıştı"
+          ],
+          "dogruCevap": "Acaba bizim taşıp köpürmelerimizi pek mi çocukça bulmuştu?",
+          "aciklama": "'Taşıp köpürmek' deyimi 'sinirlenmek' anlamında mecaz olarak kullanılmıştır."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerdeki altı çizili sözcüklerden hangisi terim anlamıyla kullanılmıştır?",
+          "secenekler": [
+            "Bu konuya farklı açılardan yaklaşmak mümkündür",
+            "Türkçede p, ç, t, k seslerinden sonra ünlü gelirse bu sesler yumuşar",
+            "Adamın burnu o kadar iyi koku alıyor ki şaşırıp kalırsın",
+            "Konuşmaya son noktayı koyan yine sen oldun",
+            "Onda bu boğaz varken hayatta rejim yapamaz o"
+          ],
+          "dogruCevap": "Türkçede p, ç, t, k seslerinden sonra ünlü gelirse bu sesler yumuşar",
+          "aciklama": "'Ses' sözcüğü dilbilgisi terimi olarak kullanılmıştır."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde 'bakmak' sözcüğü ayraç içindeki anlamıyla kullanılmamıştır?",
+          "secenekler": [
+            "Git bak bakalım, yeni komşularımız evdeler mi? (yoklamak)",
+            "Şu hesaplara sen de bir bak, ne durumdayız bilelim (incelemek)",
+            "Bazı akşamlar bakarım, Halil gizlice savuşur (denemek)",
+            "Limana bakan penceresinden deniz görünürdü (bir şeyin yüzü bir yöne doğru olmak)",
+            "Bu kumaşın rengi yeşile bakıyor (benzemek, andırmak)"
+          ],
+          "dogruCevap": "Bazı akşamlar bakarım, Halil gizlice savuşur (denemek)",
+          "aciklama": "Bu cümlede 'bakmak' sözcüğü 'görmek, fark etmek' anlamında kullanılmıştır, verilen anlamla uyuşmamaktadır."
+        }
+      ],
+      "Cümlede Anlam": [
+        {
+          "soru": "I. Sınavda başarılı olmak için çok çalışıyor.\nII. Yağmur yağdığından sokaklar ıslanmış.\nIII. Hava soğuk olduğu halde üşümüyorum.\nIV. Erken kalktım ki işe geç kalmayayım.\nV. Öyle yorgunum ki gözlerimi açamıyorum.\nYukarıdaki cümlelerde aşağıdaki anlam ilişkilerinden hangisi yoktur?",
+          "secenekler": [
+            "Amaç-sonuç",
+            "Neden-sonuç",
+            "Karşıtlık",
+            "Koşul-sonuç",
+            "Abartma"
+          ],
+          "dogruCevap": "Koşul-sonuç",
+          "aciklama": "Cümlelerde amaç-sonuç (I), neden-sonuç (II), karşıtlık (III) ve abartma (V) ilişkileri vardır fakat koşul-sonuç ilişkisi bulunmamaktadır."
+        },
+        {
+          "soru": "I. Yarın hava güzel olursa pikniğe gideriz.\nII. Keşke bu sözleri söylemeseydin.\nIII. Belki de bir daha hiç görüşemeyeceğiz.\nIV. Akşama kadar bu işi bitirmeliyim.\nV. Sen de bizimle gelseydin çok eğlenirdin.\nYukarıdaki cümlelerde kaç farklı kiplik anlamı (kesinlik, olasılık, pişmanlık, gereklilik, dilek-şart) vardır?",
+          "secenekler": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "dogruCevap": "5",
+          "aciklama": "Dilek-şart (I), pişmanlık (II), olasılık (III), gereklilik (IV) ve koşula bağlı pişmanlık (V) olmak üzere 5 farklı kiplik anlamı vardır."
+        },
+        {
+          "soru": "I. Bu konuda sana katılmıyorum.\nII. Senin düşüncelerini desteklemiyorum.\nIII. Bu fikre karşı çıkıyorum.\nIV. Söylediklerin bana mantıklı gelmiyor.\nV. Bu görüşe farklı açıdan bakıyorum.\nYukarıdaki cümlelerden hangileri anlamca aynı doğrultudadır?",
+          "secenekler": [
+            "I, II ve III",
+            "II, III ve IV",
+            "III, IV ve V",
+            "I, III ve V",
+            "II, IV ve V"
+          ],
+          "dogruCevap": "I, II ve III",
+          "aciklama": "I, II ve III. cümleler 'karşı çıkma/reddetme' anlamı taşırken, IV. cümle 'inanmama', V. cümle ise 'farklı perspektiften değerlendirme' anlamı taşır."
+        },
+        {
+          "soru": "I. Yüreğim ağzıma geldi.\nII. İçim içime sığmıyor.\nIII. Gözlerim fal taşı gibi açıldı.\nIV. Dilim tutuldu.\nV. Beynimden vurulmuşa döndüm.\nYukarıdaki deyimlerden hangileri 'şaşırma' anlamı dışında kullanılabilir?",
+          "secenekler": [
+            "I ve II",
+            "II ve III",
+            "III ve IV",
+            "IV ve V",
+            "I ve V"
+          ],
+          "dogruCevap": "I ve II",
+          "aciklama": "I. deyim 'korku', II. deyim 'sevinç/heyecan' anlamında da kullanılabilir. Diğerleri sadece şaşırma anlamı taşır."
+        }
+      ],
       "Anlatımın Oluşması": [
         {
           "paragraf": "Kahve, koyu kahverengi renkli, kendine has kokusu olan, acımsı bir içecektir. Kavrulmuş kahve çekirdeklerinin öğütülmesi ve sıcak su ile demlenmesiyle hazırlanır. İçine şeker, süt veya krema eklenebilir.",
@@ -689,7 +701,7 @@
         },
         {
           "paragraf": "Dil, sadece iletişim aracı değil, aynı zamanda bir kültür taşıyıcısıdır. Her dil, ait olduğu toplumun düşünce yapısını, yaşam biçimini ve değerlerini yansıtır. Bu nedenle bir dilin yok olması, sadece bir iletişim aracının değil, bir kültürün de yok olması anlamına gelir. Günümüzde birçok yerel dil yok olma tehlikesiyle karşı karşıya. Bu durum, insanlığın kültürel mirasının da tehdit altında olduğunu gösteriyor.",
-         "soru": "Dil, sadece iletişim aracı değil, aynı zamanda bir kültür taşıyıcısıdır. Her dil, ait olduğu toplumun düşünce yapısını, yaşam biçimini ve değerlerini yansıtır. Bu nedenle bir dilin yok olması, sadece bir iletişim aracının değil, bir kültürün de yok olması anlamına gelir. Günümüzde birçok yerel dil yok olma tehlikesiyle karşı karşıya. Bu durum, insanlığın kültürel mirasının da tehdit altında olduğunu gösteriyor. /n Bu parçaya göre, dillerin yok olması neden önemli bir sorundur?",
+          "soru": "Dil, sadece iletişim aracı değil, aynı zamanda bir kültür taşıyıcısıdır. Her dil, ait olduğu toplumun düşünce yapısını, yaşam biçimini ve değerlerini yansıtır. Bu nedenle bir dilin yok olması, sadece bir iletişim aracının değil, bir kültürün de yok olması anlamına gelir. Günümüzde birçok yerel dil yok olma tehlikesiyle karşı karşıya. Bu durum, insanlığın kültürel mirasının da tehdit altında olduğunu gösteriyor. /n Bu parçaya göre, dillerin yok olması neden önemli bir sorundur?",
           "secenekler": [
             "İletişim zorlaşacağı için",
             "Ekonomik kayıplar yaşanacağı için",
@@ -888,7 +900,17 @@
           "dogruCevap": "sararıyordu",
           "aciklama": "sararıyordu: ünlü daralması ve kaynaştırma ünsüzü"
         },
-        
+        {
+          "soru": "Aşağıdaki altı çizili sözcüklerden hangisinde görülen ses olayları diğerlerinden farklıdır?",
+          "secenekler": [
+            "Küçük çocuk parkta oynuyordu.",
+            "Akşam yemeğini hazırlıyorum.",
+            "Kitabı okumaya başlıyorum.",
+            "Yarın okula gidiyorum."
+          ],
+          "dogruCevap": "Küçük çocuk parkta oynuyordu.",
+          "aciklama": "'oynuyordu' sözcüğünde sadece ünlü daralması varken, diğerlerinde hem ünlü daralması hem kaynaştırma ünsüzü vardır."
+        },
         {
           "soru": "'Bahçemizdeki ağaçlar çiçek açtı.' cümlesinde kaç ünsüz harfin yumuşak karşılığı vardır?",
           "secenekler": [
@@ -899,16 +921,6 @@
           ],
           "dogruCevap": "4",
           "aciklama": "ç>c, k>g, ç>c, k>g (bahçe, -deki, çiçek, açtı)"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde ulama yoktur?",
-          "secenekler": [
-            "Ak akçe kara gün içindir.",
-            "Mart ayı bahar demektir.",
-            "Yürek acısı kolay geçmez.",
-            "Kış uykusuna yatmış ayı."
-          ],
-          "dogruCevap": "Kış uykusuna yatmış ayı."
         },
         {
           "soru": "'Seyretmek' sözcüğünün farklı çekimlerinde görülebilecek ses olayları hangi seçenekte doğru verilmiştir?",
@@ -1147,7 +1159,16 @@
           "dogruCevap": "Sıfat - zarf - isim - sıfat",
           "aciklama": "I'de güzel gün (sıfat), II'de güzel konuşmak (zarf), III'te bu güzel (isim), IV'te güzel yazı (sıfat)"
         },
-        
+        {
+          "soru": "'Bazı insanlar hiç kimseyi beğenmez.' cümlesindeki altı çizili sözcüklerin türü hangi seçenekte doğru verilmiştir?",
+          "secenekler": [
+            "Belgisiz zamir - belgisiz zamir",
+            "Belgisiz sıfat - belgisiz zamir",
+            "Belgisiz sıfat - olumsuzluk zarfı",
+            "Belgisiz zamir - olumsuzluk sıfatı"
+          ],
+          "dogruCevap": "Belgisiz sıfat - belgisiz zamir"
+        },
         {
           "soru": "Aşağıdaki cümlelerin hangisinde isim tamlamasının sıfat tamlamasını nitelediği bir kullanım vardır?",
           "secenekler": [
@@ -1158,6 +1179,17 @@
           ],
           "dogruCevap": "Bahçenin güzel çiçekleri açmış.",
           "aciklama": "'Bahçenin çiçekleri' isim tamlaması, 'güzel çiçekler' sıfat tamlamasını nitelemektedir."
+        },
+        {
+          "soru": "I. Okula giderken arkadaşımı gördüm.\nII. Yorulunca dinleniriz.\nIII. Çalıştığı için başarılı oldu.\nIV. Eve geldiğimde uyuyordu.\n\nYukarıdaki cümlelerde altı çizili sözcüklerden hangisi zarf-fiil değildir?",
+          "secenekler": [
+            "I",
+            "II",
+            "III",
+            "IV"
+          ],
+          "dogruCevap": "IV",
+          "aciklama": "IV'teki 'geldiğimde' sıfat-fiildir, diğerleri zarf-fiildir."
         },
         {
           "soru": "'Bugün hava oldukça soğuktu.' cümlesindeki sözcüklerin türleri sırasıyla hangi seçenekte doğru verilmiştir?",
@@ -1180,7 +1212,16 @@
           "dogruCevap": "Bu güzel kitabı dün aldım.",
           "aciklama": "'Bu' işaret sıfatı (belirtme), 'güzel' niteleme sıfatıdır."
         },
-        
+        {
+          "soru": "'Onun kadar güzel konuşan birini görmedim.' cümlesindeki altı çizili sözcüklerin türü hangi seçenekte doğru verilmiştir?",
+          "secenekler": [
+            "Zamir - edat - sıfat - sıfat-fiil - zamir",
+            "Zamir - edat - zarf - sıfat-fiil - zamir",
+            "Sıfat - zarf - sıfat - zarf-fiil - zamir",
+            "Zamir - edat - sıfat - zarf-fiil - sıfat"
+          ],
+          "dogruCevap": "Zamir - edat - zarf - sıfat-fiil - zamir"
+        },
         {
           "soru": "Aşağıdaki cümlelerin hangisinde 'ki' bağlaç değildir?",
           "secenekler": [
@@ -1213,7 +1254,16 @@
           "dogruCevap": "Koşarak geldi.",
           "aciklama": "'Koşarak' zarf-fiildir."
         },
-        
+        {
+          "soru": "'Herkes kendini düşünüyor.' cümlesindeki altı çizili sözcüklerin türü hangi seçenekte doğru verilmiştir?",
+          "secenekler": [
+            "Belgisiz zamir - dönüşlülük zamiri",
+            "Belgisiz sıfat - kişi zamiri",
+            "Belgisiz zamir - kişi zamiri",
+            "Belgisiz sıfat - dönüşlülük zamiri"
+          ],
+          "dogruCevap": "Belgisiz zamir - dönüşlülük zamiri"
+        },
         {
           "soru": "Aşağıdaki cümlelerin hangisinde 'gibi' edatı benzetme anlamı katmamıştır?",
           "secenekler": [
@@ -1298,6 +1348,17 @@
             "İsim"
           ],
           "dogruCevap": "Edat"
+        },
+        {
+          "soru": "Aşağıdaki altı çizili sözcüklerden hangisi farklı bir türdedir?",
+          "secenekler": [
+            "Hızlı koşuyordu.",
+            "Güzel konuştu.",
+            "Yavaş yürüdü.",
+            "Akıllı çocuk."
+          ],
+          "dogruCevap": "Akıllı çocuk.",
+          "aciklama": "'Akıllı' sıfat, diğerleri zarftır."
         }
       ],
       "Cümle Bilgisi": [
@@ -1755,7 +1816,6 @@
           "dogruCevap": "Anav",
           "aciklama": "Anav Kültürü."
         },
-       
         {
           "soru": "Türklerin bilinen ilk topluluğu hangisidir?",
           "secenekler": [
@@ -1884,17 +1944,6 @@
             "Ho-han Antlaşması",
             "An-shi Antlaşması",
             "Şuan-tung Antlaşması"
-          ],
-          "dogruCevap": "Kuzey Şansi Antlaşması",
-          "aciklama": "Kuzey Şansi Antlaşması."
-        },
-        {
-          "soru": "Türk adının geçtiği ilk belge nedir?",
-          "secenekler": [
-            "Kuzey Şansi Antlaşması",
-            "Orhun Yazıtları",
-            "Kutadgu Bilig",
-            "Divan-ı Lügati't Türk"
           ],
           "dogruCevap": "Kuzey Şansi Antlaşması",
           "aciklama": "Kuzey Şansi Antlaşması."
@@ -2200,7 +2249,6 @@
         }
       ],
       "İlk Türk-İslam Devletleri": [
-   
         {
           "soru": "Talas Savaşı (751) kimler arasında yapılmıştır?",
           "secenekler": [
@@ -2222,17 +2270,6 @@
           ],
           "dogruCevap": "Türklerin İslamiyet'i yakından tanıması ve İslamiyet'in Türkler arasında yayılması",
           "aciklama": "Türklerin İslamiyet'i yakından tanımasına ve İslamiyet'in Türkler arasında yayılmasına neden olmuştur."
-        },
-        {
-          "soru": "Talas Savaşı sonrası Müslümanlar hangi Çin icatlarını öğrenerek dünyaya yaymıştır?",
-          "secenekler": [
-            "Kâğıt, matbaa, barut ve pusula",
-            "Sadece kağıt ve matbaa",
-            "Sadece barut ve pusula",
-            "Sadece kağıt ve barut"
-          ],
-          "dogruCevap": "Kâğıt, matbaa, barut ve pusula",
-          "aciklama": "Kâğıt, matbaa, barut ve pusula."
         },
         {
           "soru": "İslamiyet'i kabul eden ilk Türk boyu hangisidir?",
@@ -3690,16 +3727,6 @@
           "dogruCevap": "Vergi toplama işinin şahıslara devredilmesi"
         },
         {
-          "soru": "Osmanlı'da ilk defa parayı bastıran hükümdar kimdir?",
-          "secenekler": [
-            "Yıldırım Bayezid",
-            "II. Mehmet",
-            "I. Abdülhamit",
-            "III. Mehmet"
-          ],
-          "dogruCevap": "Yıldırım Bayezid"
-        },
-        {
           "soru": "Osmanlı Devleti'nde sancak sisteminin kaldırılmasının ardından hangi sistem gelmiştir?",
           "secenekler": [
             "Şimşirlik",
@@ -4221,17 +4248,6 @@
           "aciklama": "1773'te III. Mustafa döneminde Tersane Hendesehanesi kurulmuştur."
         },
         {
-          "soru": "Aşağıdakilerden hangisi Pasarofça Antlaşması'nın sonuçlarından biri değildir?",
-          "secenekler": [
-            "Mora Yarımadası Osmanlılarda kaldı",
-            "Belgrad Osmanlılarda kaldı",
-            "Dalmaçya kıyıları Venedik'e verildi",
-            "Temeşvar Avusturya'ya bırakıldı"
-          ],
-          "dogruCevap": "Belgrad Osmanlılarda kaldı",
-          "aciklama": "Pasarofça Antlaşması ile Belgrad Avusturya'ya bırakılmıştır."
-        },
-        {
           "soru": "Osmanlı Devleti'nin batıda en geniş sınırlarına ulaştığı ve son kez toprak kazandığı antlaşma hangisidir?",
           "secenekler": [
             "Vasvar Antlaşması",
@@ -4667,7 +4683,7 @@
           "aciklama": "1804'te başlayan Sırp isyanı ilk milliyetçi ayaklanmadır."
         },
         {
-          "soru": "1829 Edirne Antlaşması ile Osmanlı Devleti hangi devlete özerklik vermiştir?",
+          "soru": "1829 Edirne Antlaşması ile hangi devlet bağımsızlık kazanmıştır?",
           "secenekler": [
             "Sırbistan",
             "Yunanistan",
@@ -7147,309 +7163,902 @@
       "İnkılap Dönemi Karışık Sorular": [
         {
           "soru": "Osmanlı Devleti Kuzey Afrika'daki son topraklarını hangi anlaşma ile kaybetmiştir?",
-          "secenekler": ["Londra Antlaşması", "Uşi Antlaşması", "Bükreş Antlaşması", "İstanbul Antlaşması"],
+          "secenekler": [
+            "Londra Antlaşması",
+            "Uşi Antlaşması",
+            "Bükreş Antlaşması",
+            "İstanbul Antlaşması"
+          ],
           "dogruCevap": "Uşi Antlaşması"
         },
         {
           "soru": "I. Balkan Savaşı'ndan sonra en büyük payı alarak diğer Balkan devletlerinin tepkisini çeken ülke aşağıdakilerden hangisidir?",
-          "secenekler": ["Bulgaristan", "Karadağ", "Yunanistan", "Sırbistan"],
+          "secenekler": [
+            "Bulgaristan",
+            "Karadağ",
+            "Yunanistan",
+            "Sırbistan"
+          ],
           "dogruCevap": "Bulgaristan"
         },
         {
           "soru": "13 Nisan 1909'da gerçekleşen ve tarihimizde '31 Mart Vakası' olarak bilinen ayaklanma neye karşı yapılmıştır?",
-          "secenekler": ["İkinci Meşrutiyet", "Birinci Meşrutiyet", "Islahat Fermanı", "Tanzimat Fermanı"],
+          "secenekler": [
+            "İkinci Meşrutiyet",
+            "Birinci Meşrutiyet",
+            "Islahat Fermanı",
+            "Tanzimat Fermanı"
+          ],
           "dogruCevap": "İkinci Meşrutiyet"
         },
         {
           "soru": "Mustafa Kemal'in I. Dünya Savaşı'nda Yıldırım Orduları Grubu Komutanı olarak İngiltere'ye karşı başarılar kazandığı cephe aşağıdakilerden hangisidir?",
-          "secenekler": ["Galiçya Cephesi", "Çanakkale Cephesi", "Suriye - Filistin Cephesi", "Kanal Cephesi"],
+          "secenekler": [
+            "Galiçya Cephesi",
+            "Çanakkale Cephesi",
+            "Suriye - Filistin Cephesi",
+            "Kanal Cephesi"
+          ],
           "dogruCevap": "Suriye - Filistin Cephesi"
         },
         {
           "soru": "Aşağıdakilerden hangisi I. Dünya Savaşı'nın sonuçları arasında yer almaz?",
-          "secenekler": ["Milli devletlerin kurulması", "İmparatorlukların yıkılması", "Almanya'nın büyük bir güç haline gelmesi", "Yeni rejimlerle yönetilen devletlerin kurulması"],
+          "secenekler": [
+            "Milli devletlerin kurulması",
+            "İmparatorlukların yıkılması",
+            "Almanya'nın büyük bir güç haline gelmesi",
+            "Yeni rejimlerle yönetilen devletlerin kurulması"
+          ],
           "dogruCevap": "Almanya'nın büyük bir güç haline gelmesi"
         },
         {
           "soru": "Aşağıdakilerden hangisi Türk inkılabını en kapsamlı biçimde açıklar?",
-          "secenekler": ["Ulusal egemenlik savaşıdır.", "Ulusal bağımsızlık savaşıdır.", "Bağımsızlık, egemenlik ve çağdaşlaşma savaşıdır.", "Düşmanı yurttan atmak için yapılan kurtuluş savaşıdır."],
+          "secenekler": [
+            "Ulusal egemenlik savaşıdır.",
+            "Ulusal bağımsızlık savaşıdır.",
+            "Bağımsızlık, egemenlik ve çağdaşlaşma savaşıdır.",
+            "Düşmanı yurttan atmak için yapılan kurtuluş savaşıdır."
+          ],
           "dogruCevap": "Bağımsızlık, egemenlik ve çağdaşlaşma savaşıdır."
         },
         {
           "soru": "Milli Mücadele sırasında İstanbul Hükümetinin yetersizliği karşısında ilk defa geçici bir hükümet oluşturulması fikri aşağıdakilerden hangisinde belirtilmiştir?",
-          "secenekler": ["Amasya Genelgesi", "Erzurum Kongresi", "Sivas Kongresi", "Amasya Mülakatı"],
+          "secenekler": [
+            "Amasya Genelgesi",
+            "Erzurum Kongresi",
+            "Sivas Kongresi",
+            "Amasya Mülakatı"
+          ],
           "dogruCevap": "Erzurum Kongresi"
         },
         {
           "soru": "Osmanlı Devleti, I. Dünya Savaşı'nda aşağıdaki cephelerden hangisinde aktif olarak rol almamıştır?",
-          "secenekler": ["Galiçya Cephesi", "Batı Cephesi", "Kanal Cephesi", "Kafkas Cephesi"],
+          "secenekler": [
+            "Galiçya Cephesi",
+            "Batı Cephesi",
+            "Kanal Cephesi",
+            "Kafkas Cephesi"
+          ],
           "dogruCevap": "Batı Cephesi"
         },
         {
           "soru": "Aşağıdaki maddelerden hangisi Mondros Ateşkes Antlaşması’nın hükümlerinden değildir?",
-          "secenekler": ["Silah ve cephanenin teslim edilmesi", "Demiryollarının teslim edilmesi", "Askerlerin terhis edilmesi", "Ege adalarının silahsızlandırılması"],
+          "secenekler": [
+            "Silah ve cephanenin teslim edilmesi",
+            "Demiryollarının teslim edilmesi",
+            "Askerlerin terhis edilmesi",
+            "Ege adalarının silahsızlandırılması"
+          ],
           "dogruCevap": "Ege adalarının silahsızlandırılması"
         },
         {
           "soru": "Aşağıdakilerden hangisi ilk TBMM'nin açılışından önce olmuştur?",
-          "secenekler": ["İstiklal Mahkemelerinin kurulması", "Takrir-i Sükûn Kanunu'nun çıkarılması", "Hıyanet-i Vataniye Kanunu'nun çıkarılması", "Misak-ı Milli'nin ilan edilmesi"],
+          "secenekler": [
+            "İstiklal Mahkemelerinin kurulması",
+            "Takrir-i Sükûn Kanunu'nun çıkarılması",
+            "Hıyanet-i Vataniye Kanunu'nun çıkarılması",
+            "Misak-ı Milli'nin ilan edilmesi"
+          ],
           "dogruCevap": "Misak-ı Milli'nin ilan edilmesi"
         },
         {
           "soru": "İlk TBMM'de aşağıdakilerden hangisi diğerlerinden daha önce gerçekleştirilmiştir?",
-          "secenekler": ["Yeni Türk Devleti'nin Anayasası'nın kabulü", "Mudanya Ateşkes Antlaşması'nın onaylanması", "Gümrü Barış Antlaşması'nın imzalanması", "Saltanatın kaldırılması"],
+          "secenekler": [
+            "Yeni Türk Devleti'nin Anayasası'nın kabulü",
+            "Mudanya Ateşkes Antlaşması'nın onaylanması",
+            "Gümrü Barış Antlaşması'nın imzalanması",
+            "Saltanatın kaldırılması"
+          ],
           "dogruCevap": "Gümrü Barış Antlaşması'nın imzalanması"
         },
         {
           "soru": "Aşağıdakilerden hangisi ilk TBMM tarafından gerçekleştirilmiştir?",
-          "secenekler": ["Anayasanın laikleştirilmesi", "Halifeliğin kaldırılması", "Saltanatın kaldırılması", "Eğitim-öğretimin birleştirilmesi"],
+          "secenekler": [
+            "Anayasanın laikleştirilmesi",
+            "Halifeliğin kaldırılması",
+            "Saltanatın kaldırılması",
+            "Eğitim-öğretimin birleştirilmesi"
+          ],
           "dogruCevap": "Saltanatın kaldırılması"
         },
         {
           "soru": "Anadolu'da yabancı işgallere karşı oluşan Kuvay-i Milliye birlikleri hangi olayla tek çatı altında toplanmıştır?",
-          "secenekler": ["Amasya Görüşmesinde", "Sivas Kongresinde", "Erzurum Kongresinde", "TBMM'nin açılması ile"],
+          "secenekler": [
+            "Amasya Görüşmesinde",
+            "Sivas Kongresinde",
+            "Erzurum Kongresinde",
+            "TBMM'nin açılması ile"
+          ],
           "dogruCevap": "Sivas Kongresinde"
         },
         {
           "soru": "Sivas Kongresi'nin aşağıdaki özelliklerinden hangisi Milli Mücadele hareketinin ulusal iradeye dayandırılmak istendiğinin en önemli kanıtıdır?",
-          "secenekler": ["Kongreye yurt genelinde seçilmiş temsilcilerin katılması", "Kongrede manda ve himaye konularının tartışılması", "Kongre başkanlığına Mustafa Kemal'in seçilmesi", "Kongre sonunda temsil heyetinin oluşturulması"],
+          "secenekler": [
+            "Kongreye yurt genelinde seçilmiş temsilcilerin katılması",
+            "Kongrede manda ve himaye konularının tartışılması",
+            "Kongre başkanlığına Mustafa Kemal'in seçilmesi",
+            "Kongre sonunda temsil heyetinin oluşturulması"
+          ],
           "dogruCevap": "Kongreye yurt genelinde seçilmiş temsilcilerin katılması"
         },
         {
           "soru": "Mustafa Kemal Paşa tüm Türk ulusundan Milli Mücadele’yi başlatma yetkisini ilk kez nerede almıştır?",
-          "secenekler": ["Amasya Genelgesinde", "Sivas Kongresinde", "Erzurum Kongresinde", "Misak-ı Milli ile"],
+          "secenekler": [
+            "Amasya Genelgesinde",
+            "Sivas Kongresinde",
+            "Erzurum Kongresinde",
+            "Misak-ı Milli ile"
+          ],
           "dogruCevap": "Sivas Kongresinde"
         },
         {
           "soru": "TBMM ilk olarak meşruiyetini tanıtmak ve kendisini güvence altına almak amacıyla aşağıdaki kanunlardan hangisini çıkarmıştır?",
-          "secenekler": ["Tekâlif-i Milliye Emirleri", "Takrir-i Sükûn Kanunu", "Hıyanet-i Vataniye Kanunu", "Teşkilat-ı Esasiye Kanunu"],
+          "secenekler": [
+            "Tekâlif-i Milliye Emirleri",
+            "Takrir-i Sükûn Kanunu",
+            "Hıyanet-i Vataniye Kanunu",
+            "Teşkilat-ı Esasiye Kanunu"
+          ],
           "dogruCevap": "Hıyanet-i Vataniye Kanunu"
         },
         {
           "soru": "TBMM, 'kuvvetler birliği' ilkesi çerçevesinde, yargı yetkisini hangi kuruluş aracılığı ile kullanmıştır?",
-          "secenekler": ["Hukuk mahkemeleri", "Bağımsız mahkemeler", "Ağır Ceza Mahkemeleri", "İstiklal Mahkemeleri"],
+          "secenekler": [
+            "Hukuk mahkemeleri",
+            "Bağımsız mahkemeler",
+            "Ağır Ceza Mahkemeleri",
+            "İstiklal Mahkemeleri"
+          ],
           "dogruCevap": "İstiklal Mahkemeleri"
         }
       ],
       "İnkılap Dönemi Karışık Sorular 2": [
         {
           "soru": "Aşağıdakilerden hangisi yararlı cemiyetlerden değildir?",
-          "secenekler": ["Teali İslam Cemiyeti", "İzmir Müdafaa-i Hukuk cemiyeti", "Kilikyalılar Cemiyeti", "Milli Kongre Cemiyeti"],
+          "secenekler": [
+            "Teali İslam Cemiyeti",
+            "İzmir Müdafaa-i Hukuk cemiyeti",
+            "Kilikyalılar Cemiyeti",
+            "Milli Kongre Cemiyeti"
+          ],
           "dogruCevap": "Teali İslam Cemiyeti"
         },
         {
           "soru": "Birinci Dünya Savaşı’nın başlamasına sebep olan olay aşağıdakilerden hangisidir?",
-          "secenekler": ["Goben ve Breslav adlı savaş gemilerinin Osmanlı Devleti'ne sığınması", "Avusturya-Macaristan veliahdının bir Sırp tarafından öldürülmesi", "Almanya'nın Alsace-Lorraine (Alsas-Loren) bölgesini ele geçirmesi", "Üçlü Ittifak'ın kurulması"],
+          "secenekler": [
+            "Goben ve Breslav adlı savaş gemilerinin Osmanlı Devleti'ne sığınması",
+            "Avusturya-Macaristan veliahdının bir Sırp tarafından öldürülmesi",
+            "Almanya'nın Alsace-Lorraine (Alsas-Loren) bölgesini ele geçirmesi",
+            "Üçlü Ittifak'ın kurulması"
+          ],
           "dogruCevap": "Avusturya-Macaristan veliahdının bir Sırp tarafından öldürülmesi"
         },
         {
           "soru": "Aşağıdakilerden hangisi Türkiye ile birlikte Balkan Antantı'nı imzalayan devletlerden değildir?",
-          "secenekler": ["Romanya", "Yunanistan", "Bulgaristan", "Yugoslavya"],
+          "secenekler": [
+            "Romanya",
+            "Yunanistan",
+            "Bulgaristan",
+            "Yugoslavya"
+          ],
           "dogruCevap": "Bulgaristan"
         },
         {
           "soru": "30 Kasım 1925'te kabul edilen bir kanunla tekke, zaviye ve türbeler kapatılırken, toplumsal yaşamda ayrıcalık ifade eden şeyhlik, dervişlik, dedelik, müritlik gibi unvan ve lakapların kullanılması da yasaklanmıştır. Yapılan bu düzenlemelerle aşağıdakilerden hangisinin amaçlandığı söylenebilir?",
-          "secenekler": ["Kamu hizmetlerinden herkesin yararlanması", "Eğitimde ve öğretimde birliğin sağlanması", "Kanun önünde eşitliğin sağlanması", "Dini duyguların sömürülmesinin engellenmesi"],
+          "secenekler": [
+            "Kamu hizmetlerinden herkesin yararlanması",
+            "Eğitimde ve öğretimde birliğin sağlanması",
+            "Kanun önünde eşitliğin sağlanması",
+            "Dini duyguların sömürülmesinin engellenmesi"
+          ],
           "dogruCevap": "Dini duyguların sömürülmesinin engellenmesi"
         },
         {
           "soru": "Aşağıdakilerden hangisi Milli Mücadele'ye karşı olan cemiyetlerdendir?",
-          "secenekler": ["Vilayât-ı Şarkiye Müdafaa-i Hukuk Cemiyeti", "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti", "Kilikyalılar Cemiyeti", "Mavri Mira Derneği"],
+          "secenekler": [
+            "Vilayât-ı Şarkiye Müdafaa-i Hukuk Cemiyeti",
+            "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+            "Kilikyalılar Cemiyeti",
+            "Mavri Mira Derneği"
+          ],
           "dogruCevap": "Mavri Mira Derneği"
         },
         {
           "soru": "'Manda ve himaye kabul olunamaz.' kararı ilk kez aşağıdaki kongrelerden hangisinde alınmıştır?",
-          "secenekler": ["Sivas Kongresi", "Alaşehir Kongresi", "Balıkesir Kongresi", "Erzurum Kongresi"],
+          "secenekler": [
+            "Sivas Kongresi",
+            "Alaşehir Kongresi",
+            "Balıkesir Kongresi",
+            "Erzurum Kongresi"
+          ],
           "dogruCevap": "Erzurum Kongresi"
         },
         {
           "soru": "Mustafa Kemal, 'Siyasi başarılar ekonomik başarılar ile taçlandırılmazsa sönmeye mahkûmdur.' sözüyle ekonomik yöndeki girişimleri teşvik etmiştir. Aşağıdakilerden hangisi bu amaçla yapılan çalışmalardan birisi değildir?",
-          "secenekler": ["I. İzmir İktisat Kongresi'nin toplanması", "Aşar vergisinin kaldırılması", "Soyadı Kanunu'nun çıkarılması", "Teşvik-i Sanayi Kanunu'nun çıkarılması"],
+          "secenekler": [
+            "I. İzmir İktisat Kongresi'nin toplanması",
+            "Aşar vergisinin kaldırılması",
+            "Soyadı Kanunu'nun çıkarılması",
+            "Teşvik-i Sanayi Kanunu'nun çıkarılması"
+          ],
           "dogruCevap": "Soyadı Kanunu'nun çıkarılması"
         },
         {
           "soru": "Saltanat hangi tarihte kaldırılmıştır?",
-          "secenekler": ["29 Ekim 1923", "19 Mayıs 1919", "23 Nisan 1920", "1 Kasım 1922"],
+          "secenekler": [
+            "29 Ekim 1923",
+            "19 Mayıs 1919",
+            "23 Nisan 1920",
+            "1 Kasım 1922"
+          ],
           "dogruCevap": "1 Kasım 1922"
         },
         {
           "soru": "11 Ağustos 1923 tarihinde açılan II. TBMM aşağıdaki gelişmelerden hangisini gerçekleştirmemiştir?",
-          "secenekler": ["Hilafetin kaldırılması", "Saltanatın kaldırılması", "Lozan Antlaşması’nın onaylanması", "Tevhid-i Tedrisat Kanunu"],
+          "secenekler": [
+            "Hilafetin kaldırılması",
+            "Saltanatın kaldırılması",
+            "Lozan Antlaşması’nın onaylanması",
+            "Tevhid-i Tedrisat Kanunu"
+          ],
           "dogruCevap": "Saltanatın kaldırılması"
         },
         {
           "soru": "Atatürk ilkeleri hangi tarihte Anayasa'ya dahil edilmiştir?",
-          "secenekler": ["1921", "1924", "1928", "1937"],
+          "secenekler": [
+            "1921",
+            "1924",
+            "1928",
+            "1937"
+          ],
           "dogruCevap": "1937"
         },
         {
           "soru": "Mondros Ateşkes Antlaşması'nı imzalayan heyetin başında aşağıdakilerden hangisi vardı?",
-          "secenekler": ["İsmet Bey", "Kâzım Bey", "Talat Paşa", "Rauf Bey"],
+          "secenekler": [
+            "İsmet Bey",
+            "Kâzım Bey",
+            "Talat Paşa",
+            "Rauf Bey"
+          ],
           "dogruCevap": "Rauf Bey"
         },
         {
           "soru": "'Misak-ı Milli' hangi tarihte kabul edilmiştir?",
-          "secenekler": ["10 Ocak 1920", "12 Kasım 1919", "25 Ekim 1920", "28 Ocak 1920"],
+          "secenekler": [
+            "10 Ocak 1920",
+            "12 Kasım 1919",
+            "25 Ekim 1920",
+            "28 Ocak 1920"
+          ],
           "dogruCevap": "28 Ocak 1920"
         },
         {
           "soru": "Aşağıdaki gelişmelerden hangisi laik düzene geçişin bir aşaması olarak görülemez?",
-          "secenekler": ["Latin alfabesinin kabulü", "Saltanatın kaldırılması", "Cumhuriyetin ilanı", "Medeni Kanun'un kabulü"],
+          "secenekler": [
+            "Latin alfabesinin kabulü",
+            "Saltanatın kaldırılması",
+            "Cumhuriyetin ilanı",
+            "Medeni Kanun'un kabulü"
+          ],
           "dogruCevap": "Latin alfabesinin kabulü"
         },
         {
           "soru": "Türk kadınına toplumda eşitlik hakkı ilk defa hangi kanunla verilmiştir?",
-          "secenekler": ["Medeni Kanun", "Teşkilat-ı Esasiye Kanunu", "Kanun-i Esasi", "Ceza Kanunu"],
+          "secenekler": [
+            "Medeni Kanun",
+            "Teşkilat-ı Esasiye Kanunu",
+            "Kanun-i Esasi",
+            "Ceza Kanunu"
+          ],
           "dogruCevap": "Medeni Kanun"
         },
         {
           "soru": "Atatürk döneminde aşağıdaki antlaşmalardan hangisi imzalanmamıştır?",
-          "secenekler": ["Balkan Antantı", "Sadâbad Paktı", "Montreux (Montrö) Boğazlar Sözleşmesi", "NATO"],
+          "secenekler": [
+            "Balkan Antantı",
+            "Sadâbad Paktı",
+            "Montreux (Montrö) Boğazlar Sözleşmesi",
+            "NATO"
+          ],
           "dogruCevap": "NATO"
         },
         {
           "soru": "Türkiye I. İktisat Kongresi İzmir'de hangi tarihte başlamıştır?",
-          "secenekler": ["17 Şubat 1923", "11 Ekim 1922", "28 Ocak 1920", "30 Kasım 1925"],
+          "secenekler": [
+            "17 Şubat 1923",
+            "11 Ekim 1922",
+            "28 Ocak 1920",
+            "30 Kasım 1925"
+          ],
           "dogruCevap": "17 Şubat 1923"
         },
         {
           "soru": "Cumhuriyet yönetimine geçişte aşağıda verilen olaylardan hangisinin rolü olmamıştır?",
-          "secenekler": ["Saltanatın kaldırılması", "TBMM'nin açılması", "Erzurum Kongresi", "Halifeliğin kaldırılması"],
+          "secenekler": [
+            "Saltanatın kaldırılması",
+            "TBMM'nin açılması",
+            "Erzurum Kongresi",
+            "Halifeliğin kaldırılması"
+          ],
           "dogruCevap": "Erzurum Kongresi"
         },
         {
           "soru": "Mustafa Kemal Paşa'ya hangi savaşta Türkiye Büyük Millet Meclisi tarafından 'Başkomutan' unvanı verilmiştir?",
-          "secenekler": ["Sakarya Meydan Muharebesi", "İkinci İnönü Meydan Muharebesi", "Dumlupınar Meydan Muharebesi", "Birinci İnönü Meydan Muharebesi"],
+          "secenekler": [
+            "Sakarya Meydan Muharebesi",
+            "İkinci İnönü Meydan Muharebesi",
+            "Dumlupınar Meydan Muharebesi",
+            "Birinci İnönü Meydan Muharebesi"
+          ],
           "dogruCevap": "Sakarya Meydan Muharebesi"
         },
         {
           "soru": "Mudanya Ateşkes Antlaşması'nın tarihi aşağıdakilerden hangisidir?",
-          "secenekler": ["3 Eylül 1922", "11 Ekim 1922", "18 Eylül 1920", "27 Ekim 1920"],
+          "secenekler": [
+            "3 Eylül 1922",
+            "11 Ekim 1922",
+            "18 Eylül 1920",
+            "27 Ekim 1920"
+          ],
           "dogruCevap": "11 Ekim 1922"
         },
         {
           "soru": "Lozan Antlaşması'nda 'İstanbul ve Çanakkale Boğazları'nın iki yanında dar bir bölge silahlandırılmayacaktır.' Maddesi ile Türkiye'nin boğazlar üzerindeki egemenlik hakları zedelenmiştir. Aşağıdakilerden hangisiyle bu durum düzeltilerek bağımsızlığımız tam olarak sağlanmıştır?",
-          "secenekler": ["Londra Konferansı", "Paris Antlaşması", "Montrö Antlaşması", "Mudanya Antlaşması"],
+          "secenekler": [
+            "Londra Konferansı",
+            "Paris Antlaşması",
+            "Montrö Antlaşması",
+            "Mudanya Antlaşması"
+          ],
           "dogruCevap": "Montrö Antlaşması"
         },
         {
           "soru": "I. Samsun’a çıkış II. Erzurum Kongresi III. Sivas Kongresi IV. Amasya Genelgesi Yukarıdaki olayların kronolojik sırası aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?",
-          "secenekler": ["l-ll-lll-IV", "l-IV-ll-lll", "IV-II-I-III", "l-lll-IV-ll"],
+          "secenekler": [
+            "l-ll-lll-IV",
+            "l-IV-ll-lll",
+            "IV-II-I-III",
+            "l-lll-IV-ll"
+          ],
           "dogruCevap": "l-IV-ll-lll"
         },
         {
           "soru": "Millî Mücadele sırasında yapılan hangi antlaşma güney sınırlarımızı belirlemiştir?",
-          "secenekler": ["Ankara Antlaşması", "Kars Antlaşması", "Moskova Antlaşması", "Gümrü Antlaşması"],
+          "secenekler": [
+            "Ankara Antlaşması",
+            "Kars Antlaşması",
+            "Moskova Antlaşması",
+            "Gümrü Antlaşması"
+          ],
           "dogruCevap": "Ankara Antlaşması"
         },
         {
           "soru": "Atatürk'ün subay olarak gittiği ilk görev yeri neresidir?",
-          "secenekler": ["Tahran", "Trablusgarp", "Çanakkale", "Şam"],
+          "secenekler": [
+            "Tahran",
+            "Trablusgarp",
+            "Çanakkale",
+            "Şam"
+          ],
           "dogruCevap": "Şam"
         },
         {
           "soru": "1924 Anayasası'nın özellikleri arasında aşağıdakilerden hangisi yoktur?",
-          "secenekler": ["Tek meclis", "Meclisin üstünlüğü", "Halifeye bağlılık", "Millet egemenliği"],
+          "secenekler": [
+            "Tek meclis",
+            "Meclisin üstünlüğü",
+            "Halifeye bağlılık",
+            "Millet egemenliği"
+          ],
           "dogruCevap": "Halifeye bağlılık"
         },
         {
           "soru": "Takrir-i Sükûn Kanunu hangi olayın sonucunda çıkarılmıştır?",
-          "secenekler": ["Anadolu'nun işgali", "TBMM'ye karşı ayaklanmalar", "Şeyh Sait isyanı", "Menemen Olayı"],
+          "secenekler": [
+            "Anadolu'nun işgali",
+            "TBMM'ye karşı ayaklanmalar",
+            "Şeyh Sait isyanı",
+            "Menemen Olayı"
+          ],
           "dogruCevap": "Şeyh Sait isyanı"
         },
         {
           "soru": "Kişilerin ve grupların ayrıcalıklarının reddedilmesi ve herkesin eşit olarak kabul edilmesi Atatürk ilkelerinin hangisinin bir gereğidir?",
-          "secenekler": ["Milliyetçilik", "Halkçılık", "Cumhuriyetçilik", "Laiklik"],
+          "secenekler": [
+            "Milliyetçilik",
+            "Halkçılık",
+            "Cumhuriyetçilik",
+            "Laiklik"
+          ],
           "dogruCevap": "Halkçılık"
         }
       ],
       "İnkılap Dönemi Karışık Sorular 3": [
         {
           "soru": "Erzurum Kongresi'nde alınan kararlardan olan 'Millî iradeyi egemen kılmak esastır.' ifadesi aşağıdakilerden hangisiyle yakından ilgilidir?",
-          "secenekler": ["Millî egemenlik", "Ülke bütünlüğü", "Barışçılık", "Millî bağımsızlık"],
+          "secenekler": [
+            "Millî egemenlik",
+            "Ülke bütünlüğü",
+            "Barışçılık",
+            "Millî bağımsızlık"
+          ],
           "dogruCevap": "Millî egemenlik"
         },
         {
           "soru": "Laik düzene geçişte aşağıdakilerden hangisi en etkin rolü oynamıştır?",
-          "secenekler": ["Saltanatın kaldırılması", "Halifeliğin kaldırılması", "Kılık kıyafet inkılâbı", "Uluslararası ölçülerin kabulü"],
+          "secenekler": [
+            "Saltanatın kaldırılması",
+            "Halifeliğin kaldırılması",
+            "Kılık kıyafet inkılâbı",
+            "Uluslararası ölçülerin kabulü"
+          ],
           "dogruCevap": "Halifeliğin kaldırılması"
         },
         {
           "soru": "Mondros ateşkes antlaşmasından sonra terhis edilmeyen ve Doğu Anadolu'da Ermenilere karşı mücadele eden 15. Kolordu Komutanı kimdir?",
-          "secenekler": ["Mustafa Kemal", "ismet inönü", "Fevzi Çakmak", "Kazım Karabekir"],
+          "secenekler": [
+            "Mustafa Kemal",
+            "ismet inönü",
+            "Fevzi Çakmak",
+            "Kazım Karabekir"
+          ],
           "dogruCevap": "Kazım Karabekir"
         },
         {
           "soru": "Lozan görüşmelerine Sovyetler Birliği hangi konuda taraf olarak katılmıştır?",
-          "secenekler": ["Osmanlı Borçları", "Kapitülasyonlar", "Musul", "Boğazlar"],
+          "secenekler": [
+            "Osmanlı Borçları",
+            "Kapitülasyonlar",
+            "Musul",
+            "Boğazlar"
+          ],
           "dogruCevap": "Boğazlar"
         },
         {
           "soru": "Kapitülasyonlar hangi antlaşmayla kaldırılmıştır?",
-          "secenekler": ["Lozan Barış Antlaşması", "Mudanya Ateşkes Antlaşması", "Sevr Antlaşması", "Londra Konferansı"],
+          "secenekler": [
+            "Lozan Barış Antlaşması",
+            "Mudanya Ateşkes Antlaşması",
+            "Sevr Antlaşması",
+            "Londra Konferansı"
+          ],
           "dogruCevap": "Lozan Barış Antlaşması"
         },
         {
           "soru": "Yeni Türk Devleti'nin dış politikası 'Yurtta sulh cihanda sulh' anlayışına uygun olarak düzenlenmeye çalışılmıştır. Aşağıdakilerden hangisi bu anlayışa uygun olarak gerçekleştirilmiştir?",
-          "secenekler": ["Öğretim Birliği Yasası", "Laiklik ilkesinin benimsenmesi", "Türkiye'nin Milletler Cemiyeti'ne üye olması", "Ölçü ve tartı alanında yenilikler"],
+          "secenekler": [
+            "Öğretim Birliği Yasası",
+            "Laiklik ilkesinin benimsenmesi",
+            "Türkiye'nin Milletler Cemiyeti'ne üye olması",
+            "Ölçü ve tartı alanında yenilikler"
+          ],
           "dogruCevap": "Türkiye'nin Milletler Cemiyeti'ne üye olması"
         },
         {
           "soru": "Aşağıdakilerden hangisi Atatürk'ün altı ilkesinden biri değildir?",
-          "secenekler": ["Milliyetçilik", "Cumhuriyetçilik", "Meşrutiyetçilik", "Laiklik"],
+          "secenekler": [
+            "Milliyetçilik",
+            "Cumhuriyetçilik",
+            "Meşrutiyetçilik",
+            "Laiklik"
+          ],
           "dogruCevap": "Meşrutiyetçilik"
         },
         {
           "soru": "Serbest Cumhuriyet Fırkası ile Cumhuriyet Halk Fırkası arasındaki fark, hangi konuya bakış açılarından kaynaklanıyordu?",
-          "secenekler": ["Askeri", "Ekonomik", "Dini", "Siyasi"],
+          "secenekler": [
+            "Askeri",
+            "Ekonomik",
+            "Dini",
+            "Siyasi"
+          ],
           "dogruCevap": "Ekonomik"
         },
         {
           "soru": "1925 yılında Atatürk'ün şapka ile halkı selamladığı şehir aşağıdakilerden hangisidir?",
-          "secenekler": ["Rize", "Eskişehir", "Kastamonu", "Ordu"],
+          "secenekler": [
+            "Rize",
+            "Eskişehir",
+            "Kastamonu",
+            "Ordu"
+          ],
           "dogruCevap": "Kastamonu"
         },
         {
           "soru": "Misak-ı Millî nerede kabul edilmiştir?",
-          "secenekler": ["Amasya Görüşmesinde", "Sivas Kongresinde", "TBMM'de", "Osmanlı Mebusan Meclisi’nde"],
+          "secenekler": [
+            "Amasya Görüşmesinde",
+            "Sivas Kongresinde",
+            "TBMM'de",
+            "Osmanlı Mebusan Meclisi’nde"
+          ],
           "dogruCevap": "Osmanlı Mebusan Meclisi’nde"
         },
         {
           "soru": "Millet mektepleri hangi inkılâbın destekleyicisi olarak açılmıştır?",
-          "secenekler": ["Harf devrimi", "Tekke ve zaviyelerin kaldırılması", "Tevhid-i Tedrisat Kanunu", "Cumhuriyetin ilanı"],
+          "secenekler": [
+            "Harf devrimi",
+            "Tekke ve zaviyelerin kaldırılması",
+            "Tevhid-i Tedrisat Kanunu",
+            "Cumhuriyetin ilanı"
+          ],
           "dogruCevap": "Harf devrimi"
         },
         {
           "soru": "Türkçenin bir bilim dili olması için araştırmalar yapmak amacıyla 1932 yılında Atatürk tarafından hangi bilimsel kurum kurulmuştur?",
-          "secenekler": ["Türk Tarih Kurumu", "Dil ve Tarih Coğrafya Fakültesi", "Türk Dil Kurumu", "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu"],
+          "secenekler": [
+            "Türk Tarih Kurumu",
+            "Dil ve Tarih Coğrafya Fakültesi",
+            "Türk Dil Kurumu",
+            "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu"
+          ],
           "dogruCevap": "Türk Dil Kurumu"
         },
         {
           "soru": "31 Mayıs 1933'te çıkarılan 'İstanbul Üniversitesi’nin Kurulması Hakkında Kanun' ile aşağıdakilerden hangisi gerçekleşmiştir?",
-          "secenekler": ["İstanbul şehrinin adının duyulması", "'Darülfünun”un kaldırılarak yerine 'Üniversite'nin kurulması", "'Darülfünun”un geliştirilmesi", "Eğitim ve öğretimin birleştirilmesi"],
+          "secenekler": [
+            "İstanbul şehrinin adının duyulması",
+            "'Darülfünun”un kaldırılarak yerine 'Üniversite'nin kurulması",
+            "'Darülfünun”un geliştirilmesi",
+            "Eğitim ve öğretimin birleştirilmesi"
+          ],
           "dogruCevap": "'Darülfünun”un kaldırılarak yerine 'Üniversite'nin kurulması"
         },
         {
           "soru": "Londra Konferansı aşağıdakilerden hangisi sonucunda toplanmıştır?",
-          "secenekler": ["Sakarya Meydan Muharebesi", "Birinci İnönü Muharebesi", "İkinci İnönü Muharebesi", "Başkumandanlık Meydan Muharebesi"],
+          "secenekler": [
+            "Sakarya Meydan Muharebesi",
+            "Birinci İnönü Muharebesi",
+            "İkinci İnönü Muharebesi",
+            "Başkumandanlık Meydan Muharebesi"
+          ],
           "dogruCevap": "Birinci İnönü Muharebesi"
         },
         {
           "soru": "Aşağıdaki sorunlardan hangisi Lozan Konferansı'nda halledilememiştir?",
-          "secenekler": ["Hatay sorunu", "Kapitülasyonlar", "Doğu Trakya sorunu", "Yunan sınırı"],
+          "secenekler": [
+            "Hatay sorunu",
+            "Kapitülasyonlar",
+            "Doğu Trakya sorunu",
+            "Yunan sınırı"
+          ],
           "dogruCevap": "Hatay sorunu"
         },
         {
           "soru": "Aşağıdakilerden hangisi ile İtilaf Devletleri Sevr Antlaşması'nın maddelerini biraz yumuşatıp kabul ettirmek istemişlerdir?",
-          "secenekler": ["Lozan Antlaşması", "Londra Konferansı", "Moskova Antlaşması", "Ankara Antlaşması"],
+          "secenekler": [
+            "Lozan Antlaşması",
+            "Londra Konferansı",
+            "Moskova Antlaşması",
+            "Ankara Antlaşması"
+          ],
           "dogruCevap": "Londra Konferansı"
         },
         {
           "soru": "Aşağıdakilerden hangisi siyasal alanda yapılan bir inkılâptır?",
-          "secenekler": ["Kılık kıyafet devrimi", "Medeni Kanun'un kabulü", "Öğretim birliğinin sağlanması", "Saltanatın kaldırılması"],
+          "secenekler": [
+            "Kılık kıyafet devrimi",
+            "Medeni Kanun'un kabulü",
+            "Öğretim birliğinin sağlanması",
+            "Saltanatın kaldırılması"
+          ],
           "dogruCevap": "Saltanatın kaldırılması"
         }
       ],
+      
+        "2013 Kpss Çıkmış Sorular": [
+          {
+            "soru": "Orta Asya'da kurulan ilk Türk devletleriyle ilgili olarak, I. Ülke; töre adı verilen, yazılı olmayan hukuk kurallarına göre yönetilmiştir. II. Toprak, yurt olarak adlandırılmıştır. III. Hükümdara devlet yönetimiyle ilgili konularda yardımcı olmak üzere danışma meclisleri kurulmuştur. yargılarından hangileri doğrudur?",
+            "secenekler": [
+              "Yalnız I",
+              "Yalnız III", 
+              "I ve II",
+              "II ve III",
+              "I, II ve III"
+            ],
+            "dogruCevap": "I, II ve III",
+            "aciklama": "Öncüllerdeki bilgilerin üçü de yani ülkenin töre adı verilen yazılı olmayan hukuk kurallarına göre yönetilmesi, toprağın yurt olarak adlandırılması ve hükümdara devlet yönetimiyle ilgili konularda yardımcı olmak üzere Kurultay adı verilen danışma meclislerinin kurulması Orta Asya'da kurulan ilk Türk devletleriyle ilişkilidir."
+          },
+          {
+            "soru": "Kayseri'deki Gevher Nesibe Hatun, Aksaray'daki Alaeddin Keykubat ve Divriği'deki Turan Melek adlı Türkiye Selçukluları Dönemi'ne ait eserler aşağıdaki yapı türlerinden hangisine girer?",
+            "secenekler": [
+              "Kervansaray",
+              "İmarethane", 
+              "Darüşşifa",
+              "Medrese",
+              "Külliye"
+            ],
+            "dogruCevap": "Darüşşifa",
+            "aciklama": "Kayseri'deki Gevher Nesibe Hatun, Aksaray'daki Alaeddin Keykubat ve Divriği'deki Turan Melek adlı Türkiye Selçukluları Dönemi'ne ait eserler darüşşifa (Bimarhane) türünde verilen eserler arasında yer almaktadır."
+          },
+          {
+            "soru": "Anadolu'da kurulan ilk beyliklerden biri olan ve 1072-1202 yılları arasında Erzurum ve çevresinde hüküm süren; Üç Kümbetler ve Mama Hatun Türbesi gibi eserleri günümüze ulaşan beylik aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Danişmentliler",
+              "Saltuklular",
+              "Artuklular", 
+              "Mengücekler",
+              "Sökmenliler"
+            ],
+            "dogruCevap": "Saltuklular",
+            "aciklama": "Anadolu'da kurulan ilk beyliklerden biri olan Saltuklular 1072-1202 yılları arasında Erzurum ve çevresinde hüküm sürmüş ve günümüze kadar gelen Üç Kümbetler, Mama Hatun Türbesi gibi eserler bırakmışlardır."
+          },
+          {
+            "soru": "Osmanlı Beyliği'nin Rumeli'ye geçişinde aşağıdakilerden hangisi etkili olmamıştır?",
+            "secenekler": [
+              "Bizans İmparatorluğu'ndaki taht mücadeleleri",
+              "Karesioğulları Beyliği'nin Osmanlı egemenliğine geçmesi",
+              "Karamanoğulları Beyliği'nin desteği",
+              "Gaza düşüncesi ile hareket edilmesi",
+              "Uçlarda Bizans İmparatorluğu'na en yakın bölgede bulunması"
+            ],
+            "dogruCevap": "Karamanoğulları Beyliği'nin desteği",
+            "aciklama": "Osmanlı Beyliği'nin Rumeli'ye geçişinde Bizans İmparatorluğu'na yakın olunması ve bu imparatorlukta taht mücadeleleri nedeniyle güçlü bir yönetimin olmaması, Karesioğulları Beyliği'nin Osmanlı egemenliğine geçmesiyle birlikte Osmanlı Beyliğinin Rumeli'ye geçişinde etkili olan bir donanmaya sahip olunması, gaza düşüncesi ve cihat anlayışlarının etkisiyle, kitleleri Rumeli'nin fethine daha rahat yönlendirebilme gibi unsurlar etkili olmuştur. Anadolu beyliklerinden biri olan Karamanoğulları Anadolu hâkimiyeti noktasında Osmanlı Beyliği'ne rakiptir. Bu nedenle Rumeli'ye geçişte Osmanlı Beyliği'ne bir katkısı olmamıştır."
+          },
+          {
+            "soru": "Osmanlı Devleti'nin kuruluş ve yükseliş döneminde oluşturduğu kültürde; I. Orta Asya Türklerinin, II. Müslümanların, III. fethedilen yerlerin ahalisinin yaşam tarzı ve inanışlarından hangilerinin etkili olduğu savunulabilir?",
+            "secenekler": [
+              "Yalnız I",
+              "Yalnız II",
+              "Yalnız III",
+              "I ve II",
+              "I, II ve III"
+            ],
+            "dogruCevap": "I, II ve III",
+            "aciklama": "Osmanlı kültürünün bilhassa kuruluş ve yükseliş dönemlerinde oluşmasında Orta Asya Türk kültürünün etkisi, İslamiyetin kabulü ile birlikte Müslümanların katkısı ve fethedilen topraklardaki ahalinin yaşam tarzı ve inanışları etkili olmuştur."
+          },
+          {
+            "soru": "Osmanlı Devleti'nde Divanıhümayun'un üyelerinden reisülküttap, zamanla aşağıdakilerden hangisine dönüşmüştür?",
+            "secenekler": [
+              "Hariciye nazırı",
+              "Maarif nazırı",
+              "Maliye nazırı",
+              "Serasker",
+              "Dahiliye nazırı"
+            ],
+            "dogruCevap": "Hariciye nazırı",
+            "aciklama": "Osmanlı Devleti'nde Divanıhümayun'un üyelerinden olan reisülküttap 19. yüzyılda Babıali'nin kurulmasıyla birlikte dışişlerinden sorumlu bakanlığa (hariciye nazırlığına) dönüşmüştür."
+          },
+          {
+            "soru": "Osmanlı Devleti'nde esnaf teşkilatının usta sayısını sınırlı tutmasının nedeni aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "İhracatın teşvik edilmesi",
+              "Ürün arzının talebe göre ayarlanması",
+              "Para ekonomisine kısa zamanda geçilmek istenmesi",
+              "Tarım ürünlerinin ön plana çıkarılması",
+              "Askerlik hizmetinin gözetilmesi"
+            ],
+            "dogruCevap": "Ürün arzının talebe göre ayarlanması",
+            "aciklama": "Yorum gücüne dayalı çözümü gerektiren soru tarzında hazırlanmış bu soruda esnaf teşkilatının usta sayısını sınırlı tutmasında ürün arzının talebe göre ayarlanması düşüncesi etkili olmuştur."
+          },
+          {
+            "soru": "Osmanlı toplumunda uzun yıllar Millet-i Sadıka olarak bilinen Ermeni toplumunun isteklerinin zamanla bir soruna dönüşmesinde aşağıdakilerden hangisinin etkili olduğu savunulamaz?",
+            "secenekler": [
+              "Avrupa devletlerinin kışkırtmacı politikası",
+              "Fransız ihtilalıyla gelişen milliyetçilik düşüncesi",
+              "Balkanlarda oturan Hristiyan toplulukların bağımsızlıklarını kazanması",
+              "Rusya ve İngiltere'nin, Ermenilerle ilgili ıslahat yapılması için Osmanlı Devleti'ne baskı yapması",
+              "Osmanlı Devleti'nin, Osmanlıcılık fikrini uygulamaya koyması"
+            ],
+            "dogruCevap": "Osmanlı Devleti'nin, Osmanlıcılık fikrini uygulamaya koyması",
+            "aciklama": "Osmanlı yönetiminde yaşayan Ermenilerin ayaklanmasında Avrupa devletlerinin kışkırtmacı politikaları, Fransız ihtilaliyle gelişen milliyetçilik düşüncesinin Ermenileri harekete geçirmesi, Sırp ve Yunan isyanlarının Ermenileri etkilemesi ve harekete geçirmesi ile Rusya ve İngiltere'nin, Ermenilerle ilgili ıslahat yapılması için Osmanlı Devleti'ne baskı yapması gelişmeleri etkili olmuştur. Osmanlı Devleti Ermeni isyanından daha önce Osmanlıcılık fikrini uygulamaya koymuştur. Osmanlıcılık düşüncesi doğrultusunda atılan ilk somut adım 1839 tarihli Tanzimat Fermanı'dır."
+          },
+          {
+            "soru": "Aşağıdaki padişah - gerçekleştirdiği yenilik eşleştirmelerinden hangisi yanlıştır?",
+            "secenekler": [
+              "III. Selim - Nizam-ı Cedid",
+              "II. Mahmut - Sened-i İttifak",
+              "Abdülmecit - Tanzimat Fermanı",
+              "Abdülaziz - Islahat Fermanı",
+              "II. Abdülhamit - Kanunuesasi"
+            ],
+            "dogruCevap": "Abdülaziz - Islahat Fermanı",
+            "aciklama": "Padişah yenilik eşleştirmelerine göz atıldığında III. Selim - Nizam-ı Cedid, II. Mahmut - Sened-i İttifak, Abdülmecit - Tanzimat Fermanı ile II. Abdülhamit – Kanunuesasi eşleştirmeleri doğrudur. Islahat Fermanı ise 1856 yılında Abdülmecit zamanında ilan edilmiştir."
+          },
+          {
+            "soru": "II. Mahmut Dönemi'nde eğitim alanında gerçekleştirilen yeniliklerden bazıları şunlardır: Medresenin yanında modern askerî ve sivil okullar açıldı. İstanbul'da kız ve erkek çocuklara ilköğretim zorunlu hâle getirildi. Yurt dışına öğrenci gönderilmeye devam edildi. Yalnız bu bilgilerle II. Mahmut Dönemi ile ilgili olarak aşağıdakilerden hangisi savunulamaz?",
+            "secenekler": [
+              "Okuryazarlık oranında artış olmuştur",
+              "Eğitimde ikilik ortaya çıkmıştır",
+              "Karma eğitime geçilmiştir",
+              "Batıdan yeni yöntem ve kurumlar alınmıştır",
+              "Orduda yenileşme süreci hızlanmıştır"
+            ],
+            "dogruCevap": "Karma eğitime geçilmiştir",
+            "aciklama": "Soru açıklamasındaki medresenin yanında modern askerî ve sivil okulların açılması bilgisi seçeneklerdeki eğitimde ikiliklerin ortaya çıkması, Batıdan yeni yöntem ve kurumların alınması ve orduda yenileşme sürecinin hızlanması ifadesiyle eşleşmektedir. İstanbul'da kız ve erkek çocuklara ilköğretimin zorunlu hâle getirilmesi okuryazarlık oranında artış olduğu ifadesiyle eşleşmektedir. Ancak soru açıklamasındaki bilgilerden karma eğitime geçildiği yönünde bir çıkarımda bulunulamaz."
+          },
+          {
+            "soru": "Osmanlı Devleti'nde XIX. yüzyılda savunulan İslamcılık fikriyle ilgili olarak aşağıdakilerden hangisi söylenemez?",
+            "secenekler": [
+              "Devletin bütünlüğünün dinî esaslara uyulmakla sağlanacağı fikrini savunmuştur",
+              "Din ve ümmet birdir, düşüncesiyle halifelik makamı ön plana çıkarılmıştır",
+              "Osmanlıcılık fikrini uygulanamayacağı düşüncesiyle gündeme gelmiştir",
+              "II. Abdülhamit Dönemi'nde devlet politikası hâline gelmiştir",
+              "I. Meşrutiyet'in ilanı ile etkisini yitirmiştir"
+            ],
+            "dogruCevap": "I. Meşrutiyet'in ilanı ile etkisini yitirmiştir",
+            "aciklama": "Osmanlı Devleti'nde XIX. yüzyılda Osmanlıcılık fikrini uygulanamayacağı düşüncesiyle gündeme gelen İslamcılık düşüncesinde devletin bütünlüğünün dinî esaslara uyulmakla sağlanacağı fikri savunulmuştur. Bu düşüncede din ve ümmet birdir, anlayışıyla halifelik makamı ön plana çıkarılmıştır. II. Abdülhamit Dönemi'nde devlet politikası hâline gelen İslamcılığın Meşrutiyet'in ilanı ile etkisini yitirdiği bilgisi doğru değildir. Aksine İslamcılık düşüncesi Meşrutiyet'in ilanından sonra etkili olmuştur."
+          }
+        ],
+          "2013 Kpss Çıkmış Sorular 2": [
+            {
+              "soru": "Osmanlı Devleti'nde XX. yüzyılın başlarında görülen; I. İkinci Meşrutiyet'in ilanı, II. Babıali Baskını, III. 31 Mart Vakası olaylarının kronolojik sıralaması aşağıdakilerden hangisidir?",
+              "secenekler": [
+                "I, II, III",
+                "I, III, II",
+                "II, I, III",
+                "III, I, II",
+                "III, II, I"
+              ],
+              "dogruCevap": "I, III, II",
+              "aciklama": "Osmanlı Devleti'nde XX. yüzyılın başlarında görülen; İkinci Meşrutiyet'in ilanı 1908, 31 Mart Vakası 1909, Babıali Baskını, 1913 yılı gelişmeleridir."
+            },
+            {
+              "soru": "Mondros Ateşkes Anlaşması'nın 7. maddesine işlerlik kazandırmak amacıyla; I. Mavri Mira, II. Pontus Rum, III. Hürriyet ve İtilaf, IV. İngiliz Muhipleri kuruluşlarından hangileri, fiilî hareketlerde bulunmuştur?",
+              "secenekler": [
+                "I ve II",
+                "II ve IV",
+                "III ve IV",
+                "I, II ve III",
+                "II, III ve IV"
+              ],
+              "dogruCevap": "I ve II",
+              "aciklama": "Mavri Mira Cemiyeti ile Pontus Rum Cemiyeti Rumlar tarafından kurulmuş, Mondros Ateşkes Anlaşması'nın 7. maddesine dayanarak Anadolu topraklarını işgal etmek amacıyla faaliyetlerde bulunmuştur. Hürriyet ve İtilaf Partisi ile İngiliz Muhipleri Cemiyeti ise Türkler tarafından kurulan zararlı cemiyetlerdir. Ancak Anadolu'yu işgal etmek gibi bir amaç gütmemektedir."
+            },
+            {
+              "soru": "İzmir'in Yunan askerleri tarafından işgal edilmesinin öncelikle aşağıdakilerden hangisine neden olduğu savunulabilir?",
+              "secenekler": [
+                "Müdafaa-i Hukuk Cemiyetlerinin birleştirilmesine",
+                "İsmet Paşa'nın Batı Cephesi komutanlığına atanmasına",
+                "Redd-i İlhak Cemiyeti'nin kurulmasına",
+                "Tekâlif-i Milliye Emirlerinin yayımlanmasına",
+                "Hıyanet-i Vataniye Kanunu'nun çıkarılmasına"
+              ],
+              "dogruCevap": "Redd-i İlhak Cemiyeti'nin kurulmasına",
+              "aciklama": "15 Mayıs 1919'da İzmir'in Yunan askerleri tarafından işgal edilmesi üzerine öncelikle işgal edilen yerleri kurtarma amacıyla Redd-i İlhak Cemiyeti kurulmuştur."
+            },
+            {
+              "soru": "TBMM'nin birinci döneminde milletvekilleri sekiz ay maaşsız çalışmışlar, bir yıl sonra da 100 lira olan maaşlarının % 20'sini, bütçe açığını kapatmak amacıyla iade etmişlerdir. Bu durumun, aşağıdakilerden hangisini gösterdiği savunulabilir?",
+              "secenekler": [
+                "Ülke çıkarlarını her şeyin üstünde gördüklerini",
+                "TBMM'nin, farklı düşüncedeki kişilerden oluştuğunu",
+                "Kişisel çıkar ve ideolojilerin ön planda tutulduğunu",
+                "TBMM'nin üstünde bir gücün tanınmadığını",
+                "Anayasal düzenin uygulanmaya başladığını"
+              ],
+              "dogruCevap": "Ülke çıkarlarını her şeyin üstünde gördüklerini",
+              "aciklama": "Yoruma dayalı çözümü gerektiren bir soru tarzıdır. Soru açıklamasında milletvekillerinin yaptığı fedakârlıklardan söz edilmektedir. Bu da gösterir ki ülke çıkarları her şeyin üstünde görülmektedir."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi, Yeni Türk Devleti'nin kuruluşuna işaret eden gelişme olarak kabul edilebilir?",
+              "secenekler": [
+                "Takrir-i Sükûn Kanunu'nun çıkarılması",
+                "Halifeliğin kaldırılması",
+                "Başkomutanlık Kanunu'nun kabul edilmesi",
+                "TBMM'nin açılması",
+                "Tevhid-i Tedrisat Kanunu'nun çıkarılması"
+              ],
+              "dogruCevap": "TBMM'nin açılması",
+              "aciklama": "Bir seçeneğin devletin kuruluşunu işaret etmesi için devlete ilişkin kurumsallaşma sürecini vurgulaması gerekir. Seçeneklere göz atıldığında TBMM'nin açılması Yeni Türk Devleti'nin yönetildiği çatı olması dolayısıyla seçenekler arasında devletin kuruluşuna işaret eden tek seçenektir."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi, Türkiye Cumhuriyeti'nin, ekonomik ve mali bağımsızlığını sınırlandıran engellerden kurtulduğu savunulamaz?",
+              "secenekler": [
+                "Türkiye Cumhuriyet Merkez Bankasının kurulmasıyla",
+                "Tekâlif-i Milliye Emirlerinin yayımlanmasıyla",
+                "Kapitülasyonların kaldırılmasıyla",
+                "Düyun-ı Umumiye İdaresinin yetkisinin borçlarla sınırlandırılmasıyla",
+                "Kabotaj Kanunu'nun kabul edilmesiyle"
+              ],
+              "dogruCevap": "Tekâlif-i Milliye Emirlerinin yayımlanmasıyla",
+              "aciklama": "Türkiye Cumhuriyet Merkez Bankasının kurulması, kapitülasyonların kaldırılması ve Düyun-ı Umumiye İdaresinin yetkisinin borçlarla sınırlandırılması ve Kabotaj Kanunu'nun kabul edilmesi Türkiye'nin ekonomik ve mali bağımsızlığını sağlayan gelişmelerdir. Tekâlif-i Milliye Emirlerinin yayımlanması ise Kurtuluş Savaşı'nda ordunun ihtiyaçlarının halk tarafından karşılanmasını sağlamak amacına yöneliktir. Kaldı ki 1921 yılında çıkarılan bu emirlerin Türkiye Cumhuriyeti'nde diye başlayan bir sorunun gelişmelerinden biri sayılması tarihsel tutarlılık açısından da mümkün değildir."
+            },
+            {
+              "soru": "Atatürk, vasiyetinde Türkiye İş Bankasında kendisine ait hisse gelirlerinin bir kısmını Türk Tarih Kurumu ve Türk Dil Kurumuna bırakmıştır. Atatürk'ün, bu uygulamayla aşağıdakilerden hangisini amaçladığı savunulamaz?",
+              "secenekler": [
+                "Kurumların maddi bağımsızlığını garanti altına almayı",
+                "Bilimsel çalışmalar yapılmasına imkân sağlamayı",
+                "Kurumların, varlıklarını uzun süre koruyabilmelerini",
+                "Millî bilinç oluşumuna yönelik faaliyetleri desteklemeyi",
+                "Kurumları siyasi iktidarın bir parçası hâline getirmeyi"
+              ],
+              "dogruCevap": "Kurumları siyasi iktidarın bir parçası hâline getirmeyi",
+              "aciklama": "Yoruma dayalı çözümü gerektiren bir soru tarzıdır. Soru açıklamasında verilen bilgiden seçeneklerdeki kurumların maddi bağımsızlığını garanti altına alma, bilimsel çalışmalar yapılmasına imkân sağlama, kurumların varlıklarını uzun süre koruyabilmelerini sağlama ve millî bilinç oluşumuna yönelik faaliyetleri destekleme ifadelerine ulaşılabilir. Ancak Atatürk'ün bu kurumları desteklemesi, kurumları siyasi iktidarın bir parçası hâline getirmek olarak yorumlanamaz."
+            },
+            {
+              "soru": "I. Cumhuriyet Halk Partisi II. Terakkiperver Cumhuriyet Partisi III. Serbest Cumhuriyet Partisi Yukarıdakilerden hangilerinin kuruluşunda Atatürk'ün rolü ve katkısı vardır?",
+              "secenekler": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "I, II ve III"
+              ],
+              "dogruCevap": "I ve III",
+              "aciklama": "Cumhuriyet Halk Partisi bizzat Atatürk'ün çalışmalarıyla kurulmuştur. Serbest Cumhuriyet Partisi Atatürk'ün direktifi ile Ali Fethi Bey tarafından kurulmuştur. Terakkiperver Cumhuriyet Partisi ise Atatürk'e muhalif isimler tarafından kurulmuş Türkiye'nin ilk muhalefet partisidir."
+            },
+            {
+              "soru": "1929 yılından itibaren Türk-İngiliz ilişkileri; I. Almanya, II. İtalya, III. Fransa devletlerinden hangilerinin, Orta Doğu'daki siyasi ve ekonomik nüfuzlarını artırma çabalarının etkisi altında gelişmiştir?",
+              "secenekler": [
+                "Yalnız I",
+                "Yalnız II",
+                "Yalnız III",
+                "I ve II",
+                "II ve III"
+              ],
+              "dogruCevap": "I ve II",
+              "aciklama": "Almanya'nın ve İtalya'nın siyasi birliğini sağladıktan bir süre sonra yayılmacı faaliyetlere başlamaları ve dünya barışını tehdit etmeleri üzerine bu iki devletin saldırgan tutumuna karşılık 1929 yılından itibaren Türk-İngiliz ilişkileri gelişme kaydetmiştir."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi, Mustafa Kemal Atatürk'ün hayatını anlatan biyografik bir eserdir?",
+              "secenekler": [
+                "Ankara",
+                "Tek Adam",
+                "Üç Devirde Bir Adam",
+                "Onlar da Çocuktu",
+                "Türk'ün Ateşle İmtihanı"
+              ],
+              "dogruCevap": "Tek Adam",
+              "aciklama": "Bilgiye dayalı çözümü gerektiren bir soru tarzıdır. Şevket Süreyya Aydemir'in eseri olan Tek Adam Mustafa Kemal Atatürk'ün hayatını anlatan biyografik bir eserdir."
+            },
+            {
+              "soru": "Aşağıdakilerden hangisi, Demokrat Parti Dönemi'nde Atatürk ile ilgili olarak yapılan çalışmalardan biri değildir?",
+              "secenekler": [
+                "Atatürk'ün hazineye devrettiği Atatürk Orman Çiftliği arazisinin parçalanmasını, yasayla önlemek",
+                "Atatürk aleyhine işlenen suçlara ilişkin özel bir yasa çıkarmak",
+                "Anıtkabir'i tamamlayarak Atatürk'ün naaşını buraya taşımak",
+                "Devlet dairelerine, yalnızca Atatürk'ün resminin asılmasını sağlayacak bir genelge yayımlamak",
+                "Atatürk'ün öngördüğü üniversiteyi, ona ithafen Erzurum'da kurmak"
+              ],
+              "dogruCevap": "Atatürk'ün hazineye devrettiği Atatürk Orman Çiftliği arazisinin parçalanmasını, yasayla önlemek",
+              "aciklama": "TBMM 1937'de Atatürk'ün hazineye devrettiği Atatürk Orman Çiftliği arazisinin parçalanmasını önlemek amacıyla yasa çıkarmıştır. Demokrat Parti Dönemi'nde 1951 yılında Atatürk aleyhine işlenen suçlara ilişkin özel bir yasa çıkarılmıştır. 1952 yılında devlet dairelerine, yalnızca Atatürk'ün resminin asılmasını sağlayacak bir genelge yayımlanmıştır. 1953 yılında Anıtkabir tamamlanarak Atatürk'ün naaşı buraya taşınmıştır. 1957 yılında ise Atatürk'ün öngördüğü üniversite, ona ithafen Erzurum'da kurulmuştur."
+            },
+            {
+              "soru": "İkinci Dünya Savaşı'nın ardından; I. Almanya, II. Kore, III. Japonya topraklarının hangilerinde farklı rejimlerle yönetilen iki ayrı devlet kurulmuştur?",
+              "secenekler": [
+                "Yalnız I",
+                "Yalnız II", 
+                "Yalnız III",
+                "I ve II",
+                "II ve III"
+              ],
+              "dogruCevap": "I ve II",
+              "aciklama": "II. Dünya Savaşı'nın ardından Almanya, Doğu ve Batı Almanya olarak ikiye bölünmüştür. Kore de Kuzey ve Güney Kore olarak ikiye bölünmüştür. Japonya ise bölünmemiş, tek devlet olarak varlığını sürdürmüştür."
+            },
+            {
+              "soru": "1950'li yılların başlarında Kıbrıs'ın Yunanistan'a bağlanması amacı ile Yorgo Grivas liderliğinde kurulmuş Rum örgütü aşağıdakilerden hangisidir?",
+              "secenekler": [
+                "EOKA",
+                "IMRO",
+                "Mavri Mira",
+                "Etniki Eterya",
+                "Pontus"
+              ],
+              "dogruCevap": "EOKA",
+              "aciklama": "EOKA (Kıbrıslıların Millî Mücadele Örgütü), 1955'te Yorgo Grivas liderliğinde Kıbrıs'ın Yunanistan'a bağlanması (ENOSİS) amacıyla kurulmuş bir Rum terör örgütüdür."
+            }
+          ],
       "2014 Kpss Çıkmış Sorular": [
         {
           "soru": "Aşağıdakilerden hangisi Uygurların, kağanlarının gücünü Ay'dan aldıklarına inanmalarından dolayı unvanlarının başına 'Ay' kelimesini eklemelerinde etkili olan dindir?",
@@ -7633,174 +8242,153 @@
         }
       ],
       "2014 Kpss Çıkmış Sorular 2": [
-  {
-    "soru": "Misakımillî aşağıdaki Avrupa devletlerinden hangisi tarafından ilk kez kabul edilmiştir?",
-    "secenekler": [
-      "Yunanistan",
-      "İngiltere", 
-      "Fransa",
-      "Rusya",
-      "İtalya"
-    ],
-    "dogruCevap": "Rusya"
-  },
-  {
-    "soru": "Lozan Antlaşması'nda aşağıdakilerden hangileri mübadele dışında bırakılmıştır?\nI. Batı Anadolu'da yaşayan Rumlar\nII. Gümülcine ve İskeçe'de yaşayan Türkler\nIII. İstanbul'da yaşayan Rumlar",
-    "secenekler": [
-      "Yalnız I",
-      "I ve II",
-      "I ve III", 
-      "II ve III",
-      "I, II ve III"
-    ],
-    "dogruCevap": "II ve III"
-  },
-  {
-    "soru": "'İstiklal Harbimiz' adlı eser aşağıdaki Millî Mücadele komutanlarından hangisinin anılarını içermektedir?",
-    "secenekler": [
-      "Kâzım Özalp",
-      "Kâzım Karabekir",
-      "Ali Fuat Cebesoy",
-      "İsmet İnönü",
-      "Fevzi Çakmak"
-    ],
-    "dogruCevap": "Kâzım Karabekir"
-  },
-  {
-    "soru": "Atatürk Dönemi'nde, incelemeler yapmak ve raporlar hazırlamak üzere İsviçre'den davet edilen Prof. Malche tarafından verilen raporun ardından, devamına karar verilen kurum aşağıdakilerden hangisidir?",
-    "secenekler": [
-      "İstanbul Üniversitesi",
-      "Maden Tetkik Arama Enstitüsü",
-      "Türk Tarih Kurumu",
-      "Türk Hava Kurumu", 
-      "Merkez Bankası"
-    ],
-    "dogruCevap": "İstanbul Üniversitesi"
-  },
-  {
-    "soru": "Aşağıdakilerden hangisi Falih Rıfkı Atay'ın, I. Dünya Savaşı'nda Suriye ve Kanal cephelerinde geçen olayların konu edildiği eseridir?",
-    "secenekler": [
-      "Çankaya",
-      "Zeytin Dağı",
-      "Atatürk'ten Hatıralar",
-      "Medine Müdafaası",
-      "Ateşten Gömlek"
-    ],
-    "dogruCevap": "Zeytin Dağı"
-  },
-  {
-    "soru": "Aşağıdakilerden hangisi, 1923-1938 yılları arasında tamamlanmış demir yolu hatlarından biri değildir?",
-    "secenekler": [
-      "Samsun-Sivas",
-      "Sivas-Erzurum",
-      "Malatya-Diyarbakır",
-      "Zonguldak-Ankara",
-      "Eskişehir-Ankara"
-    ],
-    "dogruCevap": "Eskişehir-Ankara"
-  },
-  {
-    "soru": "II. Dünya Savaşı sonrası çok partili hayata geçiş sürecinde kurulan ilk siyasi parti aşağıdakilerden hangisidir?",
-    "secenekler": [
-      "Hürriyet Partisi",
-      "Millî Nizam Partisi",
-      "Demokrat Parti",
-      "Millet Partisi",
-      "Ahali Partisi"
-    ],
-    "dogruCevap": "Millî Kalkınma Partisi"
-  },
-  {
-    "soru": "Türkiye'nin de içinde bulunduğu ve antlaşmayı imzalayan devletlerden birinin ayrılmasından sonra CENTO adını alan pakt aşağıdakilerden hangisidir?",
-    "secenekler": [
-      "Bağdat",
-      "Balkan",
-      "Akdeniz",
-      "Sadabat",
-      "Briand-Kellogg"
-    ],
-    "dogruCevap": "Bağdat"
-  },
-  {
-    "soru": "Aşağıdakilerden hangisi Kurtuluş Savaşı Dönemi'nde Anadolu'nun dışa açılan en önemli ikmal limanı olmuştur?",
-    "secenekler": [
-      "İzmir",
-      "Trabzon",
-      "Samsun",
-      "İnebolu",
-      "Antalya"
-    ],
-    "dogruCevap": "İnebolu"
-  },
-  {
-    "soru": "Aşağıda belirtilen işleri yapmak için kurulan kurum hangisidir?\n• Türk dilinin halk arasında yaşayan sözcüklerini araştırmak\n• Folklor üzerinde çalışmak\n• Ulusal tarihin yerel olaylarına ilişkin belgeleri araştırmak\n• Güzel sanatlar dallarında kurslar açmak\n• Köylülerin sağlık ve sosyal alanlarda gelişmelerine yardımcı olmak",
-    "secenekler": [
-      "Halkevleri",
-      "Türk İnkılap Tarihi Enstitüsü",
-      "Türk Dil Kurumu",
-      "Türk Tarih Kurumu",
-      "Dil ve Tarih-Coğrafya Fakültesi"
-    ],
-    "dogruCevap": "Halkevleri"
-  },
-  {
-    "soru": "1991-2013 yılları arasında Kırım Tatar Millî Meclisi Başkanlığı görevini yapan Kırımlıoğlu soy isimli siyasetçi ve halk kahramanı aşağıdakilerden hangisidir?",
-    "secenekler": [
-      "İsa Yusuf",
-      "Mustafa Abdülcemil",
-      "İsmail Gaspıralı",
-      "Remzi İlyasov",
-      "Refat Çubarov"
-    ],
-    "dogruCevap": "Mustafa Abdülcemil"
-  },
-  {
-    "soru": "Aşağıdakilerden hangisi Türkiye'de 1993 yılında ilk resmî internet bağlantısının kurulduğu kurumdur?",
-    "secenekler": [
-      "İstanbul Teknik Üniversitesi",
-      "Türkiye Büyük Millet Meclisi",
-      "Ankara Üniversitesi", 
-      "Boğaziçi Üniversitesi",
-      "Orta Doğu Teknik Üniversitesi"
-    ],
-    "dogruCevap": "Orta Doğu Teknik Üniversitesi"
-  },
-  {
-    "soru": "1992 yılında Türkiye'nin öncülüğünde İstanbul'da kurulan ve üyeleri arasında ekonomik, teknolojik ve sosyal ilişkileri geliştirmeyi amaçlayan uluslararası örgüt aşağıdakilerden hangisidir?",
-    "secenekler": [
-      "TÜRKSOY",
-      "D8",
-      "AGİT",
-      "KEİ",
-      "BDT"
-    ],
-    "dogruCevap": "KEİ"
-  }
-]
+        {
+          "soru": "Misakımillî aşağıdaki Avrupa devletlerinden hangisi tarafından ilk kez kabul edilmiştir?",
+          "secenekler": [
+            "Yunanistan",
+            "İngiltere",
+            "Fransa",
+            "Rusya",
+            "İtalya"
+          ],
+          "dogruCevap": "Rusya"
+        },
+        {
+          "soru": "Lozan Antlaşması'nda aşağıdakilerden hangileri mübadele dışında bırakılmıştır?\nI. Batı Anadolu'da yaşayan Rumlar\nII. Gümülcine ve İskeçe'de yaşayan Türkler\nIII. İstanbul'da yaşayan Rumlar",
+          "secenekler": [
+            "Yalnız I",
+            "I ve II",
+            "I ve III",
+            "II ve III",
+            "I, II ve III"
+          ],
+          "dogruCevap": "II ve III"
+        },
+        {
+          "soru": "'İstiklal Harbimiz' adlı eser aşağıdaki Millî Mücadele komutanlarından hangisinin anılarını içermektedir?",
+          "secenekler": [
+            "Kâzım Özalp",
+            "Kâzım Karabekir",
+            "Ali Fuat Cebesoy",
+            "İsmet İnönü",
+            "Fevzi Çakmak"
+          ],
+          "dogruCevap": "Kâzım Karabekir"
+        },
+        {
+          "soru": "Atatürk Dönemi'nde, incelemeler yapmak ve raporlar hazırlamak üzere İsviçre'den davet edilen Prof. Malche tarafından verilen raporun ardından, devamına karar verilen kurum aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "İstanbul Üniversitesi",
+            "Maden Tetkik Arama Enstitüsü",
+            "Türk Tarih Kurumu",
+            "Türk Hava Kurumu",
+            "Merkez Bankası"
+          ],
+          "dogruCevap": "İstanbul Üniversitesi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Falih Rıfkı Atay'ın, I. Dünya Savaşı'nda Suriye ve Kanal cephelerinde geçen olayların konu edildiği eseridir?",
+          "secenekler": [
+            "Çankaya",
+            "Zeytin Dağı",
+            "Atatürk'ten Hatıralar",
+            "Medine Müdafaası",
+            "Ateşten Gömlek"
+          ],
+          "dogruCevap": "Zeytin Dağı"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi, 1923-1938 yılları arasında tamamlanmış demir yolu hatlarından biri değildir?",
+          "secenekler": [
+            "Samsun-Sivas",
+            "Sivas-Erzurum",
+            "Malatya-Diyarbakır",
+            "Zonguldak-Ankara",
+            "Eskişehir-Ankara"
+          ],
+          "dogruCevap": "Eskişehir-Ankara"
+        },
+        {
+          "soru": "II. Dünya Savaşı sonrası çok partili hayata geçiş sürecinde kurulan ilk siyasi parti aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Hürriyet Partisi",
+            "Millî Nizam Partisi",
+            "Demokrat Parti",
+            "Millet Partisi",
+            "Ahali Partisi"
+          ],
+          "dogruCevap": "Millî Kalkınma Partisi"
+        },
+        {
+          "soru": "Türkiye'nin de içinde bulunduğu ve antlaşmayı imzalayan devletlerden birinin ayrılmasından sonra CENTO adını alan pakt aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Bağdat",
+            "Balkan",
+            "Akdeniz",
+            "Sadabat",
+            "Briand-Kellogg"
+          ],
+          "dogruCevap": "Bağdat"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Kurtuluş Savaşı Dönemi'nde Anadolu'nun dışa açılan en önemli ikmal limanı olmuştur?",
+          "secenekler": [
+            "İzmir",
+            "Trabzon",
+            "Samsun",
+            "İnebolu",
+            "Antalya"
+          ],
+          "dogruCevap": "İnebolu"
+        },
+        {
+          "soru": "Aşağıda belirtilen işleri yapmak için kurulan kurum hangisidir?\n• Türk dilinin halk arasında yaşayan sözcüklerini araştırmak\n• Folklor üzerinde çalışmak\n• Ulusal tarihin yerel olaylarına ilişkin belgeleri araştırmak\n• Güzel sanatlar dallarında kurslar açmak\n• Köylülerin sağlık ve sosyal alanlarda gelişmelerine yardımcı olmak",
+          "secenekler": [
+            "Halkevleri",
+            "Türk İnkılap Tarihi Enstitüsü",
+            "Türk Dil Kurumu",
+            "Türk Tarih Kurumu",
+            "Dil ve Tarih-Coğrafya Fakültesi"
+          ],
+          "dogruCevap": "Halkevleri"
+        },
+        {
+          "soru": "1991-2013 yılları arasında Kırım Tatar Millî Meclisi Başkanlığı görevini yapan Kırımlıoğlu soy isimli siyasetçi ve halk kahramanı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "İsa Yusuf",
+            "Mustafa Abdülcemil",
+            "İsmail Gaspıralı",
+            "Remzi İlyasov",
+            "Refat Çubarov"
+          ],
+          "dogruCevap": "Mustafa Abdülcemil"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye'de 1993 yılında ilk resmî internet bağlantısının kurulduğu kurumdur?",
+          "secenekler": [
+            "İstanbul Teknik Üniversitesi",
+            "Türkiye Büyük Millet Meclisi",
+            "Ankara Üniversitesi",
+            "Boğaziçi Üniversitesi",
+            "Orta Doğu Teknik Üniversitesi"
+          ],
+          "dogruCevap": "Orta Doğu Teknik Üniversitesi"
+        },
+        {
+          "soru": "1992 yılında Türkiye'nin öncülüğünde İstanbul'da kurulan ve üyeleri arasında ekonomik, teknolojik ve sosyal ilişkileri geliştirmeyi amaçlayan uluslararası örgüt aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "TÜRKSOY",
+            "D8",
+            "AGİT",
+            "KEİ",
+            "BDT"
+          ],
+          "dogruCevap": "KEİ"
+        }
+      ]
     },
     "Coğrafya": {
       "Türkiye'nin Coğrafi Konumu": [
-        {
-          "soru": "Türkiye'nin;\nI. Üç tarafının denizlerle çevrili olması\nII. Önemli boğazlara sahip olması\nIII. İki kıta arasında yer alması\nÖzelliklerinden hangileri, jeopolitik önemini artıran faktörlerdendir?",
-          "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "II ve III",
-            "I, II ve III"
-          ],
-          "dogruCevap": "I, II ve III",
-          "aciklama": "Bu özellikler Türkiye'nin stratejik önemini artıran temel faktörlerdir."
-        },
-        {
-          "soru": "Türkiye'nin matematik konumu ile ilgili;\nI. Orta kuşakta yer alması\nII. Dört mevsimin belirgin yaşanması\nIII. Gece-gündüz süre farklarının fazla olması\nDurumlarından hangileri doğrudan enlem etkisine bağlıdır?",
-          "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "II ve III",
-            "I, II ve III"
-          ],
-          "dogruCevap": "I, II ve III"
-        },
         {
           "soru": "Aşağıdakilerden hangisi Türkiye'nin özel konumunun sonuçlarından biri değildir?",
           "secenekler": [
@@ -8015,16 +8603,6 @@
           "dogruCevap": "I, II ve III"
         },
         {
-          "soru": "Aşağıdakilerden hangisi Türkiye'nin tektonik oluşumlu göllerinden biridir?",
-          "secenekler": [
-            "Van Gölü",
-            "Tuz Gölü",
-            "Burdur Gölü",
-            "Meke Gölü"
-          ],
-          "dogruCevap": "Van Gölü"
-        },
-        {
           "soru": "Türkiye'deki akarsuların;\nI. Rejimlerinin düzensiz olması\nII. Boylarının kısa olması\nIII. Taşımacılığa elverişli olmaması\nÖzelliklerinden hangileri, yerşekillerinin engebeli olmasının sonucudur?",
           "secenekler": [
             "Yalnız II",
@@ -8076,17 +8654,6 @@
         }
       ],
       "Türkiye'nin Yerşekilleri 2": [
-        {
-          "soru": "Türkiye'de;\nI. Kıyı ovaları\nII. Delta ovaları\nIII. Tektonik ovalar\nYukarıdaki ova tiplerinden hangileri, akarsuların biriktirme faaliyetleri sonucu oluşmuştur?",
-          "secenekler": [
-            "Yalnız I",
-            "Yalnız II",
-            "I ve II",
-            "II ve III"
-          ],
-          "dogruCevap": "Yalnız II",
-          "aciklama": "Delta ovaları akarsuların denize döküldükleri yerde biriktirme yapmasıyla oluşur."
-        },
         {
           "soru": "Aşağıdakilerden hangisi Türkiye'nin III. Jeolojik zamanda oluşmasının sonuçlarından biri değildir?",
           "secenekler": [
