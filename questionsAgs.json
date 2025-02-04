@@ -198,18 +198,6 @@
               "aciklama": "Programlı öğretim bireysel öğrenmeye dayalıdır ve işbirliğini desteklemez."
             },
             {
-              "soru": "Tam öğrenme modelini uygulayan Melike Öğretmen'in göz ardı ettiği temel ilke hangisidir?",
-              "secenekler": [
-                "Öğrenci katılımını sağlama",
-                "Giriş davranışlarını tamamlama",
-                "Dönüt verme",
-                "İpucu verme",
-                "Düzeltme yapma"
-              ],
-              "dogruCevap": "Giriş davranışlarını tamamlama",
-              "aciklama": "Tam öğrenmede, yeni öğrenmelerin gerçekleşebilmesi için gerekli ön öğrenmelerin tamamlanması şarttır."
-            },
-            {
               "soru": "Sınıf yönetiminde 'öğretmenlerin, öğrencilerinden gelecekte neleri yapıp neleri yapmayacakları konusundaki beklentilerine ilişkin alınmış hazır kararlar' olarak bilinen sınıf içi kurallar, aşağıdaki sınıf yönetimi yaklaşımlarından hangisinin anlayışıdır?",
               "secenekler": [
                 "Önlemsel",
@@ -220,18 +208,6 @@
               ],
               "dogruCevap": "Önlemsel",
               "aciklama": "Önlemsel yaklaşım, sorunlar ortaya çıkmadan önce önlem almayı amaçlar."
-            },
-            {
-              "soru": "Yelda Öğretmen ödevlerini yapmayan öğrencisine 'ben dili' kullanarak mesaj vermek istediğinde hangi ifadeleri kullanmalıdır?",
-              "secenekler": [
-                "I ve II",
-                "I ve III",
-                "I ve IV",
-                "II ve IV",
-                "I, III ve IV"
-              ],
-              "dogruCevap": "I ve IV",
-              "aciklama": "'Ben dili' mesajları, kişinin kendi duygu ve düşüncelerini ifade etmelidir."
             },
             {
               "soru": "İlkokul birinci sınıf öğrencisi Aydın'ın derste uyuklaması durumunda öğretmenin kullanacağı en uygun yöntem hangisidir?",
@@ -258,18 +234,6 @@
                 ],
                 "dogruCevap": "Doğrudan ve amaçlı yapılan",
                 "aciklama": "Dale'in yaşantı konisine göre, doğrudan ve amaçlı yaşantılar en etkili öğrenme yaşantılarıdır."
-              },
-              {
-                "soru": "Bir öğretim materyalinin geliştirilmesinde yapılacak işlemlerin doğru sıralaması hangisidir?",
-                "secenekler": [
-                  "I, IV, II, III",
-                  "I, IV, III, II",
-                  "IV, I, III, II",
-                  "IV, I, II, III",
-                  "II, IV, I, III"
-                ],
-                "dogruCevap": "I, IV, II, III",
-                "aciklama": "Materyal geliştirmede sırasıyla hedeflerin analizi, öğretim yönteminin belirlenmesi, teknoloji seçimi ve materyalin hazırlanması adımları izlenir."
               },
               {
                 "soru": "Fen bilimleri dersinde kavram haritası hazırlanırken listede aşağıdakilerden hangisinin yer alması beklenmez?",
@@ -369,18 +333,6 @@
               }
             ],
               "Eğitim Bilimleri Çıkmış Sorular 4": [
-                {
-                  "soru": "Bir ölçme aracından elde edilen puanların güvenirliği, test-tekrar test uygulaması ile hesaplanmış ve yüksek bir güvenirlik katsayısı elde edilmiştir. Bu bilgiye dayalı olarak hangi çıkarımlar doğrudur?",
-                  "secenekler": [
-                    "Yalnız I",
-                    "Yalnız II",
-                    "I ve II",
-                    "I ve III",
-                    "II ve III"
-                  ],
-                  "dogruCevap": "Yalnız I",
-                  "aciklama": "Yüksek güvenirlik katsayısı sadece test-tekrar test uygulamasında sıralamanın benzer olacağını gösterir."
-                },
                 {
                   "soru": "Başarının ölçüldüğü bir sınavda yer alan çoktan seçmeli bir maddedeki nitelikli bir çeldiriciyi, hangi öğrenci grubunun seçmesi istenir?",
                   "secenekler": [
@@ -8192,18 +8144,6 @@
       ],
       "Sözcükte Anlam": [
         {
-          "soru": "Günümüzde bilinen tarihî çanak çömlek örnekleri, Anadolu'da Çatalhöyük'te ele geçen seramiklerdir.\nBu cümleyle ilgili olarak aşağıdaki açıklamalardan hangisi yanlıştır?",
-          "secenekler": [
-            "Deyim kullanılmıştır",
-            "Gerçek anlamlı sözcüklere yer verilmiştir",
-            "'Günümüzde' sözcüğü 'şu zamanda' anlamını vermiştir",
-            "Pekiştirilmiş sözcük kullanılmıştır",
-            "İkileme kullanılmıştır"
-          ],
-          "dogruCevap": "Pekiştirilmiş sözcük kullanılmıştır",
-          "aciklama": "Cümlede pekiştirilmiş sözcük bulunmamaktadır. 'Ele geçmek' deyimdir, 'çanak çömlek' ikilemedir ve sözcükler gerçek anlamda kullanılmıştır."
-        },
-        {
           "soru": "Aşağıdaki cümlelerden hangisi birlikte verilen sözün anlamını içermemektedir?",
           "secenekler": [
             "Öğrenme isteği: Ona bu merak nereden geldi, anlayamadım",
@@ -9133,16 +9073,6 @@
           "aciklama": "-ler (çoğul eki), -den (ayrılma hal eki), -miş (bildirme eki)"
         },
         {
-          "soru": "I. Açık-göz\nII. Baş-bakan\nIII. Bil-gi-say-ar\nIV. Kız-ıl-ay\n\nYukarıdaki birleşik sözcüklerden hangileri sıfat tamlaması yoluyla oluşmuştur?",
-          "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "II ve III",
-            "III ve IV"
-          ],
-          "dogruCevap": "Yalnız I"
-        },
-        {
           "soru": "Aşağıdaki cümlelerin hangisinde hem yapım hem çekim eki almış sözcük yoktur?",
           "secenekler": [
             "Bahçedeki çiçekleri suladım.",
@@ -9976,17 +9906,6 @@
         },
         {
           "soru": "İlk düzenli Türk kara ordusunu kim kurmuştur?",
-          "secenekler": [
-            "Mete Han",
-            "Teoman",
-            "Attila",
-            "Bumin Kağan"
-          ],
-          "dogruCevap": "Mete Han",
-          "aciklama": "Mete Han."
-        },
-        {
-          "soru": "İlk Türk siyasi birliğini kim sağlamıştır?",
           "secenekler": [
             "Mete Han",
             "Teoman",
