@@ -6042,6 +6042,322 @@
           "dogruCevap": "Atatürk inkılap ve ilkelerine bağlı, demokratik, laik ve sosyal bir hukuk devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen vatandaşlar yetiştirmek"
         }
       ],
+      "222 Sayılı İlköğretim ve Eğitim Kanunu 4": [
+        {
+          "soru": "Madde 1'e göre, ilköğretim hangi amaçlara hizmet eder?",
+          "secenekler": [
+            "Yalnızca zihinsel gelişime",
+            "Beden, zihinsel ve ahlaki gelişim ile yetişmeye",
+            "Yalnızca bedensel gelişime",
+            "Mesleki ve teknik becerilerin geliştirilmesine"
+          ],
+          "dogruCevap": "Beden, zihinsel ve ahlaki gelişim ile yetişmeye"
+        },
+        {
+          "soru": "Madde 2'ye göre, ilköğretim hangi özellikte düzenlenmiştir?",
+          "secenekler": [
+            "Mecburi, özel okullarda ve ücretlidir",
+            "Mecburi, devlet okullarında ve parasızdır",
+            "Seçmeli, devlet okullarında ve parasızdır",
+            "Mecburi, devlet okullarında fakat ücretlidir"
+          ],
+          "dogruCevap": "Mecburi, devlet okullarında ve parasızdır"
+        },
+        {
+          "soru": "Madde 3'e göre, mecburi ilköğretim çağı hangi yaş grubunu kapsar?",
+          "secenekler": [
+            "4-12 yaş",
+            "6-14 yaş",
+            "7-15 yaş",
+            "5-13 yaş"
+          ],
+          "dogruCevap": "6-14 yaş"
+        },
+        {
+          "soru": "Madde 7'ye göre, ilköğretim kurumu hangi yapıyı oluşturur?",
+          "secenekler": [
+            "Yalnızca dört yıl ilkokuldan oluşur",
+            "Yalnızca dört yıl ortaokuldan oluşur",
+            "Dört yıl ilkokul ve dört yıl ortaokuldan oluşur",
+            "Dört yıl ilkokul ve ardından yükseköğretime geçilir"
+          ],
+          "dogruCevap": "Dört yıl ilkokul ve dört yıl ortaokuldan oluşur"
+        },
+        {
+          "soru": "Madde 9’a göre, ilköğretim kurumlarının kuruluş biçimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+          "secenekler": [
+            "İlköğretim kurumları sadece bağımsız okullar şeklinde kurulmak zorundadır.",
+            "İlköğretim kurumları ilkokul ve ortaokul olarak bağımsız kurulması esas olmakla, imkan dahilinde birlikte de kurulabilir.",
+            "İlköğretim kurumları sadece ilkokul şeklinde kurulabilir.",
+            "İlköğretim kurumları, liselerle birlikte kurulmak zorundadır."
+          ],
+          "dogruCevap": "İlköğretim kurumları ilkokul ve ortaokul olarak bağımsız kurulması esas olmakla, imkan dahilinde birlikte de kurulabilir."
+        },
+        {
+          "soru": "Madde 46’ya göre, mecburi ilköğretim çağındaki çocukların kayıt işlemi ne zaman yapılır?",
+          "secenekler": [
+            "Yaz tatili sonunda",
+            "Öğretim yılı başında",
+            "Derslerin başlamasından bir hafta sonra",
+            "Okul müdürü tarafından belirlenen tarihte"
+          ],
+          "dogruCevap": "Öğretim yılı başında"
+        },
+        {
+          "soru": "Madde 44’e göre, öğretmenlere hangi ek görevler yüklenemez?",
+          "secenekler": [
+            "Kanunlarla verilen ek görevler",
+            "Cumhurbaşkanlığı kararnameleriyle verilen görevler",
+            "Meslek dışı ek görevler",
+            "Okul içi idari görevler"
+          ],
+          "dogruCevap": "Meslek dışı ek görevler"
+        },
+        {
+          "soru": "Madde 61’e göre, okul binalarının yakınında bulunması yasak olan yerlerin en az kaç metre uzaklıkta olması gerekir?",
+          "secenekler": [
+            "50 metre",
+            "75 metre",
+            "100 metre",
+            "150 metre"
+          ],
+          "dogruCevap": "100 metre"
+        },
+        {
+          "soru": "Madde 42'ye göre, ilköğretim kurumlarının açılma, kapanma ve öğretime ara verme zamanları hangi kurum tarafından düzenlenir?",
+          "secenekler": [
+            "Milli Eğitim Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir.",
+            "Devlet bütçesi tarafından belirlenir.",
+            "Okul müdürlerinin kararıyla belirlenir.",
+            "İlçe eğitim müdürlüğü tarafından tespit edilir."
+          ],
+          "dogruCevap": "Milli Eğitim Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir."
+        },
+        {
+          "soru": "Madde 43'e göre, ilköğretim okullarının yaz tatili hangi zaman diliminde gerçekleşir?",
+          "secenekler": [
+            "Öğretim yılı başında başlayıp sonuna kadar sürer.",
+            "Sınavların bitimi tarihinden, yeni öğretim yılının başına kadar sürer.",
+            "Yaz sezonu başında başlayıp sonbaharda biter.",
+            "Okul açılmadan 15 gün önce başlar ve açılış gününde sona erer."
+          ],
+          "dogruCevap": "Sınavların bitimi tarihinden, yeni öğretim yılının başına kadar sürer."
+        },
+        {
+          "soru": "Madde 56'ya göre, tebliğe rağmen çocuğunu okula göndermeyen veli veya vasiye her tespit edilen gün için verilecek idari para cezası kaç Türk Lirasıdır?",
+          "secenekler": [
+            "10 TL",
+            "15 TL",
+            "20 TL",
+            "25 TL"
+          ],
+          "dogruCevap": "15 TL"
+        },
+        {
+          "soru": "Madde 80'e göre, Milli Eğitim Bakanlığı'nın yükümlülükleri arasında aşağıdakilerden hangisi yer almaz?",
+          "secenekler": [
+            "Yeniden açılacak ilköğretim kurumları için öğretmen ihtiyacını karşılayacak tedbirleri almak.",
+            "Mevcut okullarda öğretmen ihtiyacına yönelik planlamalar yapmak.",
+            "Öğretmen yetiştirmek üzere gerekli tedbirleri zamanında uygulamak.",
+            "Okul binalarının düzenli bakım ve onarımını gerçekleştirmek."
+          ],
+          "dogruCevap": "Okul binalarının düzenli bakım ve onarımını gerçekleştirmek."
+        },
+        {
+          "soru": "Madde 62'ye göre, ilköğretim okuluna tahsis edilmek üzere seçilen arazilerin tahsisi hangi esasla gerçekleştirilir?",
+          "secenekler": [
+            "Özel idare tarafından kiraya verilerek.",
+            "Ücretli alım yoluyla.",
+            "Parasal ödeme yapılmadan, parasız tahsis esasına göre.",
+            "Öğrenci hanehalkı katkıları ile."
+          ],
+          "dogruCevap": "Parasal ödeme yapılmadan, parasız tahsis esasına göre."
+        },
+        {
+          "soru": "Madde 82’ye göre, ilköğretim gelir ve ödenekleri hangi hesap adı altında toplanır?",
+          "secenekler": [
+            "Milli Eğitim Bakanlığı bütçesi",
+            "Özel idarelerin genel hesabı",
+            "İlköğretim gelir ve ödenekleri hesabı",
+            "Köy bütçeleri"
+          ],
+          "dogruCevap": "İlköğretim gelir ve ödenekleri hesabı"
+        },
+        {
+          "soru": "Madde 83'e göre, ilköğretimin bütün gelirleri ve 78. maddede belirtilen giderleri hangi harç, resim ve vergiden muaftır?",
+          "secenekler": [
+            "Tüm harç ve vergilerden muaftır.",
+            "Sadece bina onarım giderlerine uygulanan vergilerden muaftır.",
+            "Personel masrafları hariç her türlü vergi, resim ve harçtan muaftır.",
+            "İdari para cezaları hariç tüm vergilerden muaftır."
+          ],
+          "dogruCevap": "Personel masrafları hariç her türlü vergi, resim ve harçtan muaftır."
+        }
+      ],
+      "222 Sayılı İlköğretim ve Eğitim Kanunu 5": [
+        {
+          "soru": "Madde 50’ye göre, bir öğretmene düşen öğrenci sayısı en fazla kaçtır?",
+          "secenekler": [
+            "30",
+            "35",
+            "40",
+            "45"
+          ],
+          "dogruCevap": "40"
+        },
+        {
+          "soru": "Madde 51’e göre, ilköğretim haftası hangi ayın hangi haftasında gerçekleşir?",
+          "secenekler": [
+            "Eylül ayının ilk haftası",
+            "Eylül ayının ikinci haftası",
+            "Eylül ayının üçüncü haftası",
+            "Eylül ayının dördüncü haftası"
+          ],
+          "dogruCevap": "Eylül ayının üçüncü haftası"
+        },
+        {
+          "soru": "Madde 52’ye göre, öğrenci devamının sağlanmasından kimler sorumludur?",
+          "secenekler": [
+            "Öğretmenler",
+            "İlçe eğitim müdürlüğü",
+            "Veliler, vasiler veya aile başkanları",
+            "Okul idareleri"
+          ],
+          "dogruCevap": "Veliler, vasiler veya aile başkanları"
+        },
+        {
+          "soru": "Madde 55’e göre, hangi durumdaki öğrenciler izinli sayılır?",
+          "secenekler": [
+            "Ailevi sorunlar nedeniyle",
+            "Ulaşım aksaklıkları nedeniyle",
+            "Hastalık, sel, kar, deprem ve yangın gibi durumlarda",
+            "Sınav dönemi nedeniyle"
+          ],
+          "dogruCevap": "Hastalık, sel, kar, deprem ve yangın gibi durumlarda"
+        },
+        {
+          "soru": "Madde 87’ye göre, köylerde bulunan öğretmen konutları ile ilgili aşağıdakilerden hangisi doğrudur?",
+          "secenekler": [
+            "Öğretmenlere ücretsiz tahsis edilir ve başka amaçla kullanılamaz",
+            "Öğretmen konutları sadece müdürlere tahsis edilir",
+            "Köy konutları kiraya verilir",
+            "Köy konutları devlet memurlarına tahsis edilir"
+          ],
+          "dogruCevap": "Öğretmenlere ücretsiz tahsis edilir ve başka amaçla kullanılamaz"
+        },
+        {
+          "soru": "Madde 90’a göre, 222 sayılı Kanunun mali hükümleri hangi tarihte yürürlüğe girmiştir?",
+          "secenekler": [
+            "1 Ocak 1961",
+            "28 Şubat 1961",
+            "1 Mart 1961",
+            "15 Mart 1961"
+          ],
+          "dogruCevap": "1 Mart 1961"
+        },
+        {
+          "soru": "Madde 91’e göre, 222 sayılı Kanun’u kim yürütür?",
+          "secenekler": [
+            "Milli Eğitim Bakanlığı",
+            "Bakanlar Kurulu",
+            "Meclis",
+            "Cumhurbaşkanlığı"
+          ],
+          "dogruCevap": "Bakanlar Kurulu"
+        },
+        {
+          "soru": "Ek Madde 1’e göre, 222 sayılı Kanunda yer alan 'ilköğretim müdürü' ifadesi hangi ifade ile değiştirilmiştir?",
+          "secenekler": [
+            "İlköğretim öğretmeni",
+            "İlçe eğitim müdürü",
+            "Öğretmen lojmanı",
+            "Özel eğitim müdürü"
+          ],
+          "dogruCevap": "İlçe eğitim müdürü"
+        }
+      ],
+      "222 Sayılı İlköğretim ve Eğitim Kanunu 6": [
+        {
+          "soru": "Madde 6’ya göre, aşağıdakilerden hangisi mecburi ilköğretim kurumlarından değildir?",
+          "secenekler": [
+            "İlköğretim okulları (gündüzlü, pansiyonlu, yatılı ve gezici okullar)",
+            "Yetiştirici ve tamamlayıcı sınıflar ve kurslar",
+            "Özel eğitime muhtaç çocuklar için kurulacak okullar ve sınıflar",
+            "Okul öncesi eğitim kurumları"
+          ],
+          "dogruCevap": "Okul öncesi eğitim kurumları"
+        },
+        {
+          "soru": "Madde 47’ye göre, bir öğretim yılı hangi tarihler arasında sayılır?",
+          "secenekler": [
+            "Derslerin başlaması ile derslerin bitmesi arasında",
+            "Derslerin başlamasından bir hafta önceki tarih ile son sınıf sınavlarının bittiği gün arasında",
+            "Öğretim yılının ilk günü ile yeni öğretim yılının başlangıcı arasında",
+            "Son sınıf sınavlarının bitişi ile yaz tatilinin bitişi arasında"
+          ],
+          "dogruCevap": "Derslerin başlamasından bir hafta önceki tarih ile son sınıf sınavlarının bittiği gün arasında"
+        },
+        {
+          "soru": "Madde 49’a göre, nüfus hüviyet cüzdanı bulunmayan veya henüz nüfus kaydı yaptırılmamış çocukların yaşları nasıl tespit edilir?",
+          "secenekler": [
+            "Nüfus müdürlüğü tarafından belgelendirilir",
+            "Okul müdürü kararıyla değerlendirilir",
+            "İhtiyar kurulları tarafından tayin ve tesbit edilerek çizelgeye yazılır",
+            "Velilerin sunduğu belgelerle tespit edilir"
+          ],
+          "dogruCevap": "İhtiyar kurulları tarafından tayin ve tesbit edilerek çizelgeye yazılır"
+        },
+        {
+          "soru": "Madde 53’e göre, okula devam etmeyen öğrencilerle ilgili hangi adım uygulanmaz?",
+          "secenekler": [
+            "Okul idarelerinin devamsızlık sebeplerini araştırması ve maddi-manevi engelleri gidermeye çalışması",
+            "Okul idarelerinin durumun köylerde muhtara veya diğer yerlerde mülki amirlere bildirilmesi",
+            "Gerekli tedbirlerin alınarak devamsızlığın engellenmeye çalışılması",
+            "Öğrencilere otomatik olarak idari ceza kesilmesi"
+          ],
+          "dogruCevap": "Öğrencilere otomatik olarak idari ceza kesilmesi"
+        },
+        {
+          "soru": "Ek Madde 2’ye göre, 222 sayılı Kanunun yedinci bölümünde yer alan aşağıdaki başlıklardan hangileri ilköğretim okulları için de uygulanır?",
+          "secenekler": [
+            "Okulların arsa ve arazi işleri, ilköğretim okulu yapımı ve donatım işleri, ilköğretimin gelir, giderleri ve planlama",
+            "Öğretmen atama ve yer değiştirme usul ve esasları",
+            "Öğrenci kayıt ve devam işlemleri",
+            "Devamsızlık ve disiplin uygulamaları"
+          ],
+          "dogruCevap": "Okulların arsa ve arazi işleri, ilköğretim okulu yapımı ve donatım işleri, ilköğretimin gelir, giderleri ve planlama"
+        },
+        {
+          "soru": "Geçici Madde 2’ye göre, geçici öğretmen atamasında aranacak şartlardan hangisi doğrudur?",
+          "secenekler": [
+            "Yalnızca yükseköğretim mezunu olmak",
+            "En az ilköğretim okulu ve dengi okullar mezunu olmak, 18 yaşını tamamlamış olmak ve açılan kurslarda başarı göstermek",
+            "Sadece deneyimsiz aday olmayı gerektirmek",
+            "Velilerin onayını almak şarttır"
+          ],
+          "dogruCevap": "En az ilköğretim okulu ve dengi okullar mezunu olmak, 18 yaşını tamamlamış olmak ve açılan kurslarda başarı göstermek"
+        },
+        {
+          "soru": "Geçici Madde 3’e göre, Milli Eğitim Bakanlığı'nın mecburi öğrenim çağındaki öğrencileri tamamen okula kazandırma süresi en geç kaç yıldır?",
+          "secenekler": [
+            "5 yıl",
+            "10 yıl",
+            "15 yıl",
+            "20 yıl"
+          ],
+          "dogruCevap": "10 yıl"
+        },
+        {
+          "soru": "Geçici Madde 10’a göre, hangi öğrenci grubu eğitimlerini ortaöğretim kurumları bünyesinde tamamlar?",
+          "secenekler": [
+            "Sadece altı ve yedi. sınıf öğrencileri",
+            "Sadece sekizinci sınıf öğrencileri",
+            "Altı, yedi ve sekizinci sınıf öğrencileri ile çıraklık eğitim merkezlerindeki öğrenciler",
+            "Tüm mecburi ilköğretim çağındaki öğrenciler"
+          ],
+          "dogruCevap": "Altı, yedi ve sekizinci sınıf öğrencileri ile çıraklık eğitim merkezlerindeki öğrenciler"
+        }
+      ],
       "7528 sayılı Öğretmenlik Mesleği Kanunu": [
         {
           "soru": "7528 Sayılı Öğretmenlik Meslek Kanunu'na göre öğretmenlik kariyer basamakları kaç aşamadan oluşmaktadır?",
@@ -6197,1890 +6513,6 @@
           ],
           "dogruCevap": "Öğretmenlik kariyer basamaklarının oluşturulması",
           "aciklama": "Kanunun en önemli yeniliklerinden biri, öğretmenlik kariyer basamaklarının (Öğretmen, Uzman Öğretmen, Başöğretmen) oluşturulmasıdır."
-        }
-      ],
-      "Yaygın Eğitim, Okul Binaları ve Tesisleri, Eğitim Araç ve Gereçleri": [
-        {
-          "soru": "1739 sayılı Kanun'a göre yaygın eğitim nedir?",
-          "secenekler": [
-            "Örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetlerinin tümüdür",
-            "Sadece halk eğitim merkezlerinde verilen eğitimdir",
-            "Sadece mesleki kursları kapsar",
-            "Sadece örgün eğitim dışındaki eğitimlerdir"
-          ],
-          "dogruCevap": "Örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetlerinin tümüdür"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre yaygın eğitimin amacı nedir?",
-          "secenekler": [
-            "Vatandaşlara milli birlik ve beraberlik anlayışı içinde ekonomik, sosyal ve kültürel kalkınmayı destekleyici eğitim vermek",
-            "Sadece mesleki beceri kazandırmak",
-            "Sadece okuma yazma öğretmek",
-            "Sadece boş zamanları değerlendirmek"
-          ],
-          "dogruCevap": "Vatandaşlara milli birlik ve beraberlik anlayışı içinde ekonomik, sosyal ve kültürel kalkınmayı destekleyici eğitim vermek"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre okul binalarının yapımında uyulması gereken temel ilke nedir?",
-          "secenekler": [
-            "Sağlık ve eğitim-öğretim esaslarına ve çevrenin ihtiyaçlarına göre uygun olarak yapılması",
-            "Sadece ekonomik olması",
-            "Sadece mimari açıdan güzel olması",
-            "Sadece büyük olması"
-          ],
-          "dogruCevap": "Sağlık ve eğitim-öğretim esaslarına ve çevrenin ihtiyaçlarına göre uygun olarak yapılması"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre eğitim araç ve gereçlerinin geliştirilmesi ve yaygınlaştırılmasından kim sorumludur?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Okul müdürlükleri",
-            "Öğretmenler",
-            "Yerel yönetimler"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre yaygın eğitim faaliyetlerinin düzenlenmesindeki temel ilke nedir?",
-          "secenekler": [
-            "Örgün eğitim ile birbirini tamamlayacak şekilde planlanması",
-            "Sadece yetişkinlere yönelik olması",
-            "Sadece mesleki eğitime yönelik olması",
-            "Sadece boş zamanları değerlendirmeye yönelik olması"
-          ],
-          "dogruCevap": "Örgün eğitim ile birbirini tamamlayacak şekilde planlanması"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre eğitim araç ve gereçlerinin seçiminde dikkat edilmesi gereken en önemli husus nedir?",
-          "secenekler": [
-            "Eğitim-öğretim programlarının uygulanmasında verimliliği artırması",
-            "Sadece teknolojik olması",
-            "Sadece ucuz olması",
-            "Sadece yerli üretim olması"
-          ],
-          "dogruCevap": "Eğitim-öğretim programlarının uygulanmasında verimliliği artırması"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre yaygın eğitim kurumlarının görevlerinden biri nedir?",
-          "secenekler": [
-            "Toplumun ihtiyaçlarına ve şartlarına göre eğitim imkanı sağlamak",
-            "Sadece diploma vermek",
-            "Sadece meslek edindirmek",
-            "Sadece kurs düzenlemek"
-          ],
-          "dogruCevap": "Toplumun ihtiyaçlarına ve şartlarına göre eğitim imkanı sağlamak"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre okul binalarının kullanımında temel sorumluluk kimdedir?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Belediyeler",
-            "Okul aile birlikleri",
-            "Özel idareler"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        }
-      ],
-      "Eğitim ve Öğretim Alanındaki Görev ve Sorumluluk": [
-        {
-          "soru": "1739 sayılı Kanun'a göre öğretmenlik mesleği nasıl tanımlanmıştır?",
-          "secenekler": [
-            "Devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir",
-            "Sadece ders veren bir meslektir",
-            "Okul yönetimine yardımcı olan bir meslektir",
-            "Öğrencilere rehberlik yapan bir meslektir"
-          ],
-          "dogruCevap": "Devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre öğretmenlerin nitelikleri ile ilgili temel esas nedir?",
-          "secenekler": [
-            "Özel bir meslek olarak öğretmenliğin gerektirdiği bilgi, beceri, tutum ve davranışlara sahip olma",
-            "Sadece alan bilgisine sahip olma",
-            "Sadece pedagojik formasyon almış olma",
-            "Sadece yükseköğrenim görmüş olma"
-          ],
-          "dogruCevap": "Özel bir meslek olarak öğretmenliğin gerektirdiği bilgi, beceri, tutum ve davranışlara sahip olma"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, öğretmenlik mesleğine hazırlık hangi genel kültür dallarını kapsar?",
-          "secenekler": [
-            "Özel alan eğitimi, pedagojik formasyon ve genel kültür",
-            "Sadece özel alan eğitimi",
-            "Sadece pedagojik formasyon",
-            "Sadece genel kültür"
-          ],
-          "dogruCevap": "Özel alan eğitimi, pedagojik formasyon ve genel kültür"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, öğretmenlerin atanmalarında aranan temel şart nedir?",
-          "secenekler": [
-            "Devlet memuru olma şartlarına ek olarak, öğretmenlik formasyonuna sahip olmak",
-            "Sadece yükseköğrenim mezunu olmak",
-            "Sadece devlet memuru olmak",
-            "Sadece alan bilgisine sahip olmak"
-          ],
-          "dogruCevap": "Devlet memuru olma şartlarına ek olarak, öğretmenlik formasyonuna sahip olmak"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, öğretmenlerin hizmet içi eğitimlerinin amacı nedir?",
-          "secenekler": [
-            "Öğretmenlerin mesleki yeterliliklerini artırmak ve eğitim alanındaki gelişmeleri takip etmelerini sağlamak",
-            "Sadece maaş artışı sağlamak",
-            "Sadece yöneticilik pozisyonuna hazırlamak",
-            "Sadece kıdem ilerlemesi sağlamak"
-          ],
-          "dogruCevap": "Öğretmenlerin mesleki yeterliliklerini artırmak ve eğitim alanındaki gelişmeleri takip etmelerini sağlamak"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, öğretmenlerin görev ve sorumluluklarının temelini ne oluşturur?",
-          "secenekler": [
-            "Türk Milli Eğitiminin amaçları ve temel ilkeleri",
-            "Okul yönetiminin istekleri",
-            "Veli talepleri",
-            "Öğrenci istekleri"
-          ],
-          "dogruCevap": "Türk Milli Eğitiminin amaçları ve temel ilkeleri"
-        },
-        {
-          "soru": "1739 sayılı Kanun'a göre, öğretmenlerin mesleki gelişimleri için hangi imkanlar sağlanır?",
-          "secenekler": [
-            "Yurt içinde ve yurt dışında yetişme imkanları",
-            "Sadece hizmet içi eğitimler",
-            "Sadece uzaktan eğitim imkanları",
-            "Sadece okul içi seminerler"
-          ],
-          "dogruCevap": "Yurt içinde ve yurt dışında yetişme imkanları"
-        }
-      ],
-      "İlköğretim ve Eğitim Kanunu": [
-        {
-          "soru": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre mecburi ilköğretim çağı hangi yaş grubunu kapsar?",
-          "secenekler": [
-            "5-13 yaş grubundaki çocukları",
-            "6-14 yaş grubundaki çocukları",
-            "7-15 yaş grubundaki çocukları",
-            "8-16 yaş grubundaki çocukları"
-          ],
-          "dogruCevap": "6-14 yaş grubundaki çocukları"
-        },
-        {
-          "soru": "222 sayılı Kanun'a göre, bir öğretim yılı en az kaç iş gününü kapsar?",
-          "secenekler": [
-            "150 iş günü",
-            "160 iş günü",
-            "170 iş günü",
-            "180 iş günü"
-          ],
-          "dogruCevap": "180 iş günü"
-        },
-        {
-          "soru": "222 sayılı Kanun'a göre, özürsüz olarak bir öğretim yılı içinde toplam kaç gün devamsızlık yapan öğrencilerin velilerine yasal işlem yapılır?",
-          "secenekler": [
-            "20 gün",
-            "25 gün",
-            "30 gün",
-            "35 gün"
-          ],
-          "dogruCevap": "30 gün"
-        },
-        {
-          "soru": "222 sayılı Kanun'a göre, ilköğretim kurumlarının açılış ve kapanış tarihleri hangi makam tarafından belirlenir?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Valilik",
-            "İl Milli Eğitim Müdürlüğü",
-            "Okul Müdürlüğü"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "222 sayılı Kanun'a göre, mecburi öğrenim çağını bitirdiği öğretim yılı sonuna kadar ilköğretim okulunu bitiremeyen çocuklar için ne yapılır?",
-          "secenekler": [
-            "İlköğretimden çıkarılırlar",
-            "15 yaşını bitirene kadar devam ederler",
-            "Yaş sınırı olmaksızın eğitimlerine devam ederler",
-            "Açık öğretime yönlendirilirler"
-          ],
-          "dogruCevap": "15 yaşını bitirene kadar devam ederler"
-        },
-        {
-          "soru": "222 sayılı Kanun'a göre, özel eğitime muhtaç çocukların eğitimi için ne yapılır?",
-          "secenekler": [
-            "Normal okullarda kaynaştırma eğitimine alınırlar",
-            "Özel okul ve sınıflar açılır",
-            "Evde eğitim verilir",
-            "Eğitimden muaf tutulurlar"
-          ],
-          "dogruCevap": "Özel okul ve sınıflar açılır"
-        },
-        {
-          "soru": "222 sayılı Kanun'a göre, ilköğretim kurumlarında hangi hizmetler parasızdır?",
-          "secenekler": [
-            "Sadece öğretim",
-            "Sadece ders kitapları",
-            "Öğretim, tesis, kitap ve diğer öğrenim materyalleri",
-            "Sadece öğrenci servisleri"
-          ],
-          "dogruCevap": "Öğretim, tesis, kitap ve diğer öğrenim materyalleri"
-        },
-        {
-          "soru": "222 sayılı Kanun'a göre, okula devam etmeyen öğrenciler için ilk olarak ne yapılır?",
-          "secenekler": [
-            "Hemen ceza uygulanır",
-            "Okul idaresince velisi çağrılır",
-            "Öğrenci okuldan uzaklaştırılır",
-            "Sınıf tekrarı yaptırılır"
-          ],
-          "dogruCevap": "Okul idaresince velisi çağrılır"
-        }
-      ],
-      "Kayıt ve Kabul ve Okula Devam": [
-        {
-          "soru": "İlköğretim okullarına kayıt için öğrencinin hangi şartı sağlaması gerekir?",
-          "secenekler": [
-            "Okulun belirlediği sınavı geçmek",
-            "Yaş sınırını geçmemek",
-            "Yabancı dil yeterliliğine sahip olmak",
-            "Aile gelirinin belirli bir düzeyde olması"
-          ],
-          "dogruCevap": "Yaş sınırını geçmemek"
-        },
-        {
-          "soru": "İlköğretim okuluna başvuran öğrenciler için hangi belge gereklidir?",
-          "secenekler": [
-            "Kimlik belgesi",
-            "Vize belgesi",
-            "Aile sağlık raporu",
-            "Kayıt ücreti dekontu"
-          ],
-          "dogruCevap": "Kimlik belgesi"
-        },
-        {
-          "soru": "Okul öncesi eğitime kayıt için öğrencinin hangi yaş aralığında olması gerekmektedir?",
-          "secenekler": [
-            "4-6 yaş",
-            "5-7 yaş",
-            "3-5 yaş",
-            "6-8 yaş"
-          ],
-          "dogruCevap": "4-6 yaş"
-        },
-        {
-          "soru": "Okula kayıt için hangi belge gerekmemektedir?",
-          "secenekler": [
-            "Sağlık raporu",
-            "Doğum belgesi",
-            "Kimlik fotokopisi",
-            "Askerlik durum belgesi"
-          ],
-          "dogruCevap": "Askerlik durum belgesi"
-        },
-        {
-          "soru": "Okula kaydını yaptıran öğrencilerin eğitim yılına başlama hakkı ne zaman kazanılır?",
-          "secenekler": [
-            "Kayıt tamamlandığı gün",
-            "Eğitim yılı başlangıcında",
-            "Öğrencinin sınavı geçmesiyle",
-            "Okulun başlama tarihine göre"
-          ],
-          "dogruCevap": "Eğitim yılı başlangıcında"
-        },
-        {
-          "soru": "Okul öncesi eğitim kurumlarında, 6 yaşındaki çocukların eğitime devam zorunluluğu hangi kanuna dayanmaktadır?",
-          "secenekler": [
-            "Milli Eğitim Temel Kanunu",
-            "İlköğretim ve Eğitim Kanunu",
-            "Çocuk Hakları Sözleşmesi",
-            "Eğitimde Yönetsel Düzenleme Kanunu"
-          ],
-          "dogruCevap": "Milli Eğitim Temel Kanunu"
-        },
-        {
-          "soru": "Okul öncesi eğitimde, okul öncesi eğitim kurumlarına kayıt ve kabul işlemleri ne zaman yapılır?",
-          "secenekler": [
-            "Eylül ayında",
-            "Eğitim öğretim yılı başında",
-            "Yaz tatilinin sonunda",
-            "Okul açıldıktan sonra"
-          ],
-          "dogruCevap": "Eğitim öğretim yılı başında"
-        },
-        {
-          "soru": "İlköğretim okullarında okula devam etme zorunluluğu hangi yaş aralığı için geçerlidir?",
-          "secenekler": [
-            "6-14 yaş",
-            "7-16 yaş",
-            "5-12 yaş",
-            "10-14 yaş"
-          ],
-          "dogruCevap": "6-14 yaş"
-        },
-        {
-          "soru": "İlköğretim okullarında eğitim-öğretim yılının sonunda okuldan devam edemeyen öğrenciler hangi durumda okuldan ayrılabilir?",
-          "secenekler": [
-            "Başarı durumu kötüse",
-            "Yaş sınırını aşmışsa",
-            "Aile talebi varsa",
-            "Daha yüksek not alması durumunda"
-          ],
-          "dogruCevap": "Yaş sınırını aşmışsa"
-        },
-        {
-          "soru": "Okul öncesi eğitimde, okula kayıt için hangi durum geçerlidir?",
-          "secenekler": [
-            "Yaşı uygun olmayan çocuklar kayıt olamaz",
-            "Çocukların birinci sınıfa başlamış olması gerekir",
-            "Her çocuk okula kabul edilir",
-            "Öğrencilerin yabancı dil bilgisi"
-          ],
-          "dogruCevap": "Yaşı uygun olmayan çocuklar kayıt olamaz"
-        },
-        {
-          "soru": "İlköğretim okullarında devamlılık zorunluluğu ne kadar süreyle sağlanır?",
-          "secenekler": [
-            "Bir yıl süreyle",
-            "Sürekli",
-            "Okul birinciliği ile",
-            "Sadece sınav zamanlarında"
-          ],
-          "dogruCevap": "Sürekli"
-        },
-        {
-          "soru": "Okulda devamsızlık yapan bir öğrenciye hangi işlem yapılır?",
-          "secenekler": [
-            "Kayıt silinir",
-            "Uyarı yapılır",
-            "Öğrencinin durumu izlenir",
-            "Sınıf geçişi yapılmaz"
-          ],
-          "dogruCevap": "Öğrencinin durumu izlenir"
-        },
-        {
-          "soru": "İlköğretim okullarında hangi durumda okuldan ayrılma kararı alınabilir?",
-          "secenekler": [
-            "Öğrencinin yaşının geçmesi",
-            "Devamsızlık durumu",
-            "Okulun fiziksel sorunları",
-            "Eğitimdeki başarı düşüşü"
-          ],
-          "dogruCevap": "Devamsızlık durumu"
-        },
-        {
-          "soru": "Okula kabulde yaş sınırı ne kadardır?",
-          "secenekler": [
-            "5 yaş",
-            "6 yaş",
-            "7 yaş",
-            "8 yaş"
-          ],
-          "dogruCevap": "6 yaş"
-        },
-        {
-          "soru": "Okul öncesi eğitimde devamlılık zorunluluğu hangi kanuna dayanır?",
-          "secenekler": [
-            "Türk Milli Eğitim Kanunu",
-            "Eğitim Temel Kanunu",
-            "İlköğretim Kanunu",
-            "Eğitim Yönetmelikleri"
-          ],
-          "dogruCevap": "Türk Milli Eğitim Kanunu"
-        },
-        {
-          "soru": "Okul öncesi eğitim kurumlarına kabul edilen öğrenciler ne kadar süreyle eğitim alabilir?",
-          "secenekler": [
-            "2 yıl",
-            "3 yıl",
-            "4 yıl",
-            "5 yıl"
-          ],
-          "dogruCevap": "3 yıl"
-        },
-        {
-          "soru": "İlköğretim okullarında devamsızlık süresi hangi durumlarda geçerlidir?",
-          "secenekler": [
-            "Okulun kapanması durumunda",
-            "Öğrencinin yaşı uygun olduğunda",
-            "Öğrencinin rapor alması durumunda",
-            "Eğitim seviyesinin yükselmesi durumunda"
-          ],
-          "dogruCevap": "Öğrencinin rapor alması durumunda"
-        },
-        {
-          "soru": "Okul öncesi eğitimde, öğretim yılı sonunda hangi durumlar devamsızlık sayılabilir?",
-          "secenekler": [
-            "Çocukların hasta olması",
-            "Çocukların kayıtlı okula gitmemesi",
-            "Devamlılıkta sorun olursa",
-            "Sadece çocukların kaydının yapılmaması"
-          ],
-          "dogruCevap": "Çocukların kayıtlı okula gitmemesi"
-        }
-      ],
-      "İlköğretimin Gelir, Giderleri ve Planlama": [
-        {
-          "soru": "İlköğretim okullarının gelirleri nasıl sağlanır?",
-          "secenekler": [
-            "Devlet bütçesinden ayrılan paylarla",
-            "Okul tarafından yapılan etkinliklerden elde edilen gelirlerle",
-            "Öğrencilerden alınan ücretlerle",
-            "Okulun arsa satışlarından"
-          ],
-          "dogruCevap": "Devlet bütçesinden ayrılan paylarla"
-        },
-        {
-          "soru": "İlköğretim okullarının giderleri hangi unsurlardan oluşur?",
-          "secenekler": [
-            "Öğrenci sayısına göre öğretmen maaşları",
-            "Okul binasının inşaat giderleri",
-            "Öğrenci taşımacılığı giderleri",
-            "Bütün okul giderleri, eğitim materyalleri ve öğretmen maaşları"
-          ],
-          "dogruCevap": "Bütün okul giderleri, eğitim materyalleri ve öğretmen maaşları"
-        },
-        {
-          "soru": "İlköğretim okullarının gelir ve gider planlaması kim tarafından yapılır?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Okul müdürlüğü ve yerel yönetimler",
-            "Belediyeler",
-            "Eğitim-öğretim komitesi"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "İlköğretim okullarının gelirlerinin yönetimiyle ilgili hangi kurum sorumludur?",
-          "secenekler": [
-            "İl Milli Eğitim Müdürlükleri",
-            "Belediye Başkanlıkları",
-            "Okul aile birlikleri",
-            "Milli Eğitim Bakanlığı"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "İlköğretim okullarının gelirlerinin nasıl kullanılması gerektiği ile ilgili kararları kim alır?",
-          "secenekler": [
-            "Okul yönetimi",
-            "İlçe Milli Eğitim Müdürlükleri",
-            "Milli Eğitim Bakanlığı",
-            "Okul aile birlikleri"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "İlköğretim okullarının eğitim giderlerini belirleyen esas nedir?",
-          "secenekler": [
-            "Öğrencilerin sayısı",
-            "Okulun eğitsel faaliyetleri",
-            "Okul binasının maliyeti",
-            "Devlet bütçesinin belirlediği ödenek"
-          ],
-          "dogruCevap": "Devlet bütçesinin belirlediği ödenek"
-        },
-        {
-          "soru": "İlköğretim okullarının finansmanında hangi kaynaklardan yararlanılır?",
-          "secenekler": [
-            "Yalnızca devlet bütçesi",
-            "Okul aile birliklerinin katkıları",
-            "Yerel yönetimler ve bağışlar",
-            "Devlet, yerel yönetimler ve okul aile birlikleri"
-          ],
-          "dogruCevap": "Devlet, yerel yönetimler ve okul aile birlikleri"
-        },
-        {
-          "soru": "İlköğretim okullarının gelir kaynaklarından biri olan okul aile birliklerinin görevi nedir?",
-          "secenekler": [
-            "Okulun yapım masraflarını karşılamak",
-            "Okulda eğitim veren öğretmenleri seçmek",
-            "Öğrencilere burs vermek",
-            "Okulda sosyal etkinlikler düzenlemek ve finansal katkı sağlamak"
-          ],
-          "dogruCevap": "Okulda sosyal etkinlikler düzenlemek ve finansal katkı sağlamak"
-        },
-        {
-          "soru": "İlköğretim okullarının giderleri hangi unsurları içerir?",
-          "secenekler": [
-            "Okul binasının inşaat giderleri ve bakım masrafları",
-            "Öğretmen maaşları, eğitim materyalleri, ulaşım ve hizmetler",
-            "Eğitimde kullanılacak bilgisayarların alımı",
-            "Sadece okulun inşaat ve bakım giderleri"
-          ],
-          "dogruCevap": "Öğretmen maaşları, eğitim materyalleri, ulaşım ve hizmetler"
-        },
-        {
-          "soru": "İlköğretim okullarında yapılan giderlerin raporlanmasında hangi kurum yetkilidir?",
-          "secenekler": [
-            "Okul aile birlikleri",
-            "İlçe milli eğitim müdürlükleri",
-            "Milli Eğitim Bakanlığı",
-            "Okul müdürlüğü"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "İlköğretim okullarında, okul yapımında kullanılan ödeneklerin belirlenmesinde hangi kriterler dikkate alınır?",
-          "secenekler": [
-            "Öğrenci sayısı ve okulun bölgesel ihtiyaçları",
-            "Okulun öğretim kadrosu",
-            "Okulun eğitim materyalleri",
-            "Yerel yönetimlerin kararları"
-          ],
-          "dogruCevap": "Öğrenci sayısı ve okulun bölgesel ihtiyaçları"
-        },
-        {
-          "soru": "Okul giderlerinin en etkin şekilde yönetilebilmesi için hangi stratejinin izlenmesi gerekir?",
-          "secenekler": [
-            "Okul bütçesinin milli eğitim politikaları doğrultusunda belirlenmesi",
-            "Okul giderlerinin her yıl artırılması",
-            "Öğrenci sayılarına göre giderlerin belirlenmesi",
-            "Öğretmen maaşlarının sürekli artması"
-          ],
-          "dogruCevap": "Okul bütçesinin milli eğitim politikaları doğrultusunda belirlenmesi"
-        },
-        {
-          "soru": "İlköğretim okullarının gelirlerinin denetimini kim yapar?",
-          "secenekler": [
-            "İl Milli Eğitim Müdürlükleri",
-            "Milli Eğitim Bakanlığı ve mali denetim birimleri",
-            "Okul aile birlikleri",
-            "Yerel belediyeler"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı ve mali denetim birimleri"
-        },
-        {
-          "soru": "İlköğretim okullarında eğitim ve öğretim giderlerini etkileyen faktörler nelerdir?",
-          "secenekler": [
-            "Öğrenci sayısı ve okulun donanım ihtiyacı",
-            "Okulun bulunduğu yerin ekonomik durumu",
-            "Eğitim kadrosu ve derslik sayısı",
-            "Tüm seçenekler"
-          ],
-          "dogruCevap": "Tüm seçenekler"
-        },
-        {
-          "soru": "Okul gelirleri ve giderleri ile ilgili yıllık planlamayı kim yapar?",
-          "secenekler": [
-            "Okul müdürlüğü",
-            "İl Milli Eğitim Müdürlüğü",
-            "Milli Eğitim Bakanlığı",
-            "Yerel yönetimler"
-          ],
-          "dogruCevap": "Okul müdürlüğü"
-        },
-        {
-          "soru": "İlköğretim okullarının gelir ve giderlerinin denetiminde hangi ilkeler gözetilir?",
-          "secenekler": [
-            "Yazılı raporlar ve şeffaflık",
-            "Yalnızca yerel yönetimler karar alır",
-            "Sadece okul aile birliklerinin denetimi",
-            "Gizlilik ve sınırlı denetim"
-          ],
-          "dogruCevap": "Yazılı raporlar ve şeffaflık"
-        },
-        {
-          "soru": "Okul giderlerinin planlanmasında yerel yönetimlerin rolü nedir?",
-          "secenekler": [
-            "Sadece arsa tahsisi yapmak",
-            "Okulun eğitsel faaliyetlerini düzenlemek",
-            "Okul binasının inşa edilmesini sağlamak",
-            "Okulun giderlerinin yönetiminde aktif rol almak"
-          ],
-          "dogruCevap": "Okul binasının inşa edilmesini sağlamak"
-        }
-      ],
-      "Öğretmenlik Mesleği Kanunu Başlangıç Hükümleri": [
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'nun amacı nedir?",
-          "secenekler": [
-            "Öğretmenlerin çalışma koşullarını düzenlemek",
-            "Öğretmenlerin haklarını güvence altına almak",
-            "Eğitim sisteminde kaliteyi artırmak",
-            "Tüm seçenekler"
-          ],
-          "dogruCevap": "Tüm seçenekler"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'nun kabul edilmesindeki en önemli gerekçe nedir?",
-          "secenekler": [
-            "Öğretmenlerin mesleki yeterliliklerinin arttırılması",
-            "Eğitim sisteminde eşitliğin sağlanması",
-            "Öğretmenlerin çalışma şartlarının iyileştirilmesi",
-            "Öğretmenlerin daha fazla maaş alması"
-          ],
-          "dogruCevap": "Öğretmenlerin mesleki yeterliliklerinin arttırılması"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenler hangi meslek grubuna dahil edilir?",
-          "secenekler": [
-            "Kamu görevlisi",
-            "Özel sektör çalışanı",
-            "Eğitim görevlisi",
-            "Bürokratik personel"
-          ],
-          "dogruCevap": "Kamu görevlisi"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu hangi kanunla ilişkilidir?",
-          "secenekler": [
-            "Milli Eğitim Temel Kanunu",
-            "Kamu Görevlileri Kanunu",
-            "Eğitim Bilimleri Kanunu",
-            "Çalışma ve Sosyal Güvenlik Kanunu"
-          ],
-          "dogruCevap": "Milli Eğitim Temel Kanunu"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenler hangi hakka sahiptir?",
-          "secenekler": [
-            "Eğitimde özel pozisyonlar",
-            "Eğitimde denetim görevi",
-            "Sosyal güvenlik hakları",
-            "Öğrencilere disiplin cezası verme yetkisi"
-          ],
-          "dogruCevap": "Sosyal güvenlik hakları"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenlerin görevleri nelerdir?",
-          "secenekler": [
-            "Öğrencilere ders vermek ve rehberlik yapmak",
-            "Okul idaresinin her kararını onaylamak",
-            "Yalnızca sınav yaparak öğrenci başarısını ölçmek",
-            "Okulda temizlik işlerini yürütmek"
-          ],
-          "dogruCevap": "Öğrencilere ders vermek ve rehberlik yapmak"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenlerin görev süreleri ile ilgili hangi ifade doğrudur?",
-          "secenekler": [
-            "Öğretmenlerin görev süreleri 5 yıl olarak belirlenmiştir",
-            "Öğretmenlerin görev süreleri tamamen kendi takdirlerine bırakılmıştır",
-            "Öğretmenlerin görev süreleri, atama yönetmelikleriyle belirlenir",
-            "Öğretmenler sadece sözleşmeli olarak çalıştırılabilir"
-          ],
-          "dogruCevap": "Öğretmenlerin görev süreleri, atama yönetmelikleriyle belirlenir"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenlerin mesleki gelişimlerini desteklemek için hangi uygulama yapılır?",
-          "secenekler": [
-            "Sürekli sınavlar",
-            "Mesleki gelişim eğitimleri",
-            "Yalnızca uygulamalı eğitimler",
-            "Sadece okuldaki yönetici denetimi"
-          ],
-          "dogruCevap": "Mesleki gelişim eğitimleri"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenlerin etik sorumlulukları nelerdir?",
-          "secenekler": [
-            "Öğrencilere karşı dürüst ve adil olmak",
-            "Öğrencilerle ilişkilerde aşırı yakınlık kurmak",
-            "Öğrencilere ceza verme yetkisini kullanmak",
-            "Yalnızca dersle ilgili sorumluluk taşımak"
-          ],
-          "dogruCevap": "Öğrencilere karşı dürüst ve adil olmak"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenlerin mesleki yeterliliklerini artırmak için hangi düzenleme yapılır?",
-          "secenekler": [
-            "Meslek içi eğitimler ve seminerler",
-            "Yalnızca öğretmenlerin eğitim alanında deneyim kazanmaları",
-            "Sadece okullarda yapılan denetimler",
-            "Meslekten ihraç olan öğretmenlerin yeniden atanması"
-          ],
-          "dogruCevap": "Meslek içi eğitimler ve seminerler"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenlerin eğitimdeki rolü nedir?",
-          "secenekler": [
-            "Sadece ders verme",
-            "Öğrencilerin sosyal gelişimlerine de katkı sağlamak",
-            "Okul yönetimi ile kararlar almak",
-            "Yalnızca öğretmenlik dışı faaliyetlerde bulunmak"
-          ],
-          "dogruCevap": "Öğrencilerin sosyal gelişimlerine de katkı sağlamak"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenlerin meslekten men edilmesi durumunda hangi hakları söz konusudur?",
-          "secenekler": [
-            "İhbar edilen öğretmenlerin itiraz hakkı",
-            "Meslekten men edilen öğretmenlerin hiçbir hakkı yoktur",
-            "Meslekten men edilen öğretmenlerin tekrar göreve başlama hakkı",
-            "Meslekten men edilen öğretmenlerin yıllık izin hakları saklıdır"
-          ],
-          "dogruCevap": "İhbar edilen öğretmenlerin itiraz hakkı"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenlerin çalışma şartlarını iyileştirme amacıyla hangi düzenlemeler yapılır?",
-          "secenekler": [
-            "Okullarda daha fazla öğretmen istihdamı",
-            "Öğretmenlerin çalışma saatleri düzenlenir",
-            "Yalnızca maaş artışı sağlanır",
-            "Eğitim kurumları dışında görev verilmez"
-          ],
-          "dogruCevap": "Öğretmenlerin çalışma saatleri düzenlenir"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenlerin toplumsal sorumlulukları nelerdir?",
-          "secenekler": [
-            "Sadece eğitim vermek ve öğretmek",
-            "Öğrencilerin gelişimine katkı sağlamak",
-            "Eğitim dışında herhangi bir sorumlulukları yoktur",
-            "Öğrencileri yalnızca sınavlarda başarılı kılmak"
-          ],
-          "dogruCevap": "Öğrencilerin gelişimine katkı sağlamak"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenlerin hakları hangi yönde genişletilmiştir?",
-          "secenekler": [
-            "Mesleklerini icra ederken adil ve eşit muamele görme",
-            "Öğrencilerin davranışlarını denetleme",
-            "Sürekli olarak eğitim almak",
-            "Okulda denetim yapma"
-          ],
-          "dogruCevap": "Mesleklerini icra ederken adil ve eşit muamele görme"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenlerin hangi hakları korunur?",
-          "secenekler": [
-            "Çalışma koşulları ve sosyal güvenlik hakları",
-            "Okulda belirli gün ve saatlerde çalıştırılmaları",
-            "Sadece ders saatlerinin belirlenmesi",
-            "Okul dışında görev verilmesi"
-          ],
-          "dogruCevap": "Çalışma koşulları ve sosyal güvenlik hakları"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'na göre öğretmenler hangi durumlarda meslekten men edilebilir?",
-          "secenekler": [
-            "Eğitimde başarısızlık",
-            "Meslek etiğine aykırı davranışlar",
-            "Okulda sürekli devamsızlık",
-            "Öğrencilerle arkadaşlık ilişkisi kurmak"
-          ],
-          "dogruCevap": "Meslek etiğine aykırı davranışlar"
-        },
-        {
-          "soru": "Öğretmenlik Mesleği Kanunu'nda öğretmenlerin görevleriyle ilgili hangi hüküm yer alır?",
-          "secenekler": [
-            "Öğretmenler sadece ders anlatır",
-            "Öğretmenler her türlü öğretim faaliyetinde yer alır",
-            "Öğretmenler yalnızca sınav yapar",
-            "Öğretmenler eğitim dışında hiçbir faaliyette bulunmaz"
-          ],
-          "dogruCevap": "Öğretmenler her türlü öğretim faaliyetinde yer alır"
-        }
-      ],
-      "Hak, Ödev ve Sorumluluklar": [
-        {
-          "soru": "Öğretmenlerin mesleki hakları arasında aşağıdakilerden hangisi yer almaz?",
-          "secenekler": [
-            "Eğitimde eşitlik hakkı",
-            "Öğrencilere rehberlik etme hakkı",
-            "Öğrencilerin sınav sonuçlarını belirleme hakkı",
-            "Kariyer gelişim programlarına katılma hakkı"
-          ],
-          "dogruCevap": "Öğrencilerin sınav sonuçlarını belirleme hakkı"
-        },
-        {
-          "soru": "Öğretmenlerin görevleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-          "secenekler": [
-            "Öğretmenler, eğitim ve öğretim faaliyetlerini yürütmekle yükümlüdür.",
-            "Öğretmenler, sadece ders anlatmakla sorumludur.",
-            "Öğretmenler, öğrencilerin gelişimini takip etmekle yükümlüdür.",
-            "Öğretmenler, öğrencilerine örnek olma sorumluluğuna sahiptir."
-          ],
-          "dogruCevap": "Öğretmenler, sadece ders anlatmakla sorumludur."
-        },
-        {
-          "soru": "Öğretmenlerin sosyal güvenlik hakları hangi kanunla düzenlenmiştir?",
-          "secenekler": [
-            "Milli Eğitim Temel Kanunu",
-            "Öğretmenlik Mesleği Kanunu",
-            "Kamu Görevlileri Kanunu",
-            "Çalışma ve Sosyal Güvenlik Kanunu"
-          ],
-          "dogruCevap": "Çalışma ve Sosyal Güvenlik Kanunu"
-        },
-        {
-          "soru": "Öğretmenlerin hangi durumu mesleki sorumluluğa aykırıdır?",
-          "secenekler": [
-            "Öğrencileri doğru bir şekilde eğitmek",
-            "Öğrencilerin kişisel gelişimlerine katkı sağlamak",
-            "Meslek etiğine aykırı davranışlar sergilemek",
-            "Eğitimde eşitliği sağlamak"
-          ],
-          "dogruCevap": "Meslek etiğine aykırı davranışlar sergilemek"
-        },
-        {
-          "soru": "Öğretmenlerin görevleri arasında yer alan aşağıdaki seçeneklerden hangisi yanlıştır?",
-          "secenekler": [
-            "Öğrencilere eğitim vermek",
-            "Öğrencilerin psikolojik gelişimini takip etmek",
-            "Yalnızca ders materyalleri hazırlamak",
-            "Öğrencilerle bireysel ilişkiler kurmak"
-          ],
-          "dogruCevap": "Yalnızca ders materyalleri hazırlamak"
-        },
-        {
-          "soru": "Öğretmenlerin hangi hakkı, öğrencilerin eğitim-öğretim süreçlerinde karşılaştıkları zorlukları aşmalarını sağlamak amacıyla sunulmuştur?",
-          "secenekler": [
-            "Eğitimde eşitlik hakkı",
-            "Öğrencilerle bireysel ilişkiler kurma hakkı",
-            "Öğretmenlerin meslek içi eğitim hakkı",
-            "Öğrencilere rehberlik etme hakkı"
-          ],
-          "dogruCevap": "Öğrencilere rehberlik etme hakkı"
-        },
-        {
-          "soru": "Öğretmenlerin hakları arasında aşağıdakilerden hangisi yer almaz?",
-          "secenekler": [
-            "Eğitimde eşit muamele görme",
-            "Öğrencilerden bireysel destek talep etme",
-            "Meslek içi eğitim alma",
-            "Öğrencileri cezalandırma hakkı"
-          ],
-          "dogruCevap": "Öğrencileri cezalandırma hakkı"
-        },
-        {
-          "soru": "Öğretmenlerin çalışma koşullarını düzenleyen kanun hangisidir?",
-          "secenekler": [
-            "Öğretmenlik Mesleği Kanunu",
-            "Milli Eğitim Temel Kanunu",
-            "Çalışma Kanunu",
-            "Kamu Görevlileri Kanunu"
-          ],
-          "dogruCevap": "Öğretmenlik Mesleği Kanunu"
-        },
-        {
-          "soru": "Öğretmenlerin etik sorumlulukları arasında hangi durum yer almaz?",
-          "secenekler": [
-            "Öğrencilerin kişisel verilerini koruma",
-            "Öğrencilere karşı adil ve dürüst olma",
-            "Öğrencilerin ailelerine danışmanlık yapma",
-            "Öğrencilere zarar vermemek"
-          ],
-          "dogruCevap": "Öğrencilere zarar vermemek"
-        },
-        {
-          "soru": "Öğretmenlerin çalışma süreleri nasıl düzenlenir?",
-          "secenekler": [
-            "Her öğretmenin çalışma saati aynı olmalıdır",
-            "Öğretmenler kendi çalışma saatlerini belirler",
-            "Çalışma saatleri Milli Eğitim Bakanlığı tarafından belirlenir",
-            "Okul müdürleri çalışma saatlerini belirler"
-          ],
-          "dogruCevap": "Çalışma saatleri Milli Eğitim Bakanlığı tarafından belirlenir"
-        },
-        {
-          "soru": "Öğretmenlerin hangi durumları, görevlerini yerine getirme açısından sorumluluk taşımaz?",
-          "secenekler": [
-            "Öğrencilerle ilgili resmi belgeleri düzenleme",
-            "Eğitimde eşitlik sağlama",
-            "Okulda yapılan idari işleri yönetme",
-            "Okul içi disiplin önlemleri almak"
-          ],
-          "dogruCevap": "Okulda yapılan idari işleri yönetme"
-        },
-        {
-          "soru": "Öğretmenlerin eğitimdeki sorumlulukları arasında hangi durum yer almaz?",
-          "secenekler": [
-            "Öğrencilerin eğitim ve öğretim süreçlerini yönlendirmek",
-            "Öğrencilere karar alma süreçlerinde yardımcı olmak",
-            "Öğrencilerin kişisel haklarını ihlal etmek",
-            "Eğitimde eşit fırsatlar sunmak"
-          ],
-          "dogruCevap": "Öğrencilerin kişisel haklarını ihlal etmek"
-        },
-        {
-          "soru": "Öğretmenlerin görevlerini yerine getirmedikleri takdirde hangi yaptırımlar uygulanabilir?",
-          "secenekler": [
-            "Sözleşmelerinin fesh edilmesi",
-            "Süresiz izin verilmesi",
-            "Maaşlarının artırılması",
-            "Yıllık izinlerinin kaldırılması"
-          ],
-          "dogruCevap": "Sözleşmelerinin fesh edilmesi"
-        },
-        {
-          "soru": "Öğretmenlerin hangi sorumluluğu eğitimde en önemli olanıdır?",
-          "secenekler": [
-            "Öğrencilere karşı dürüst ve adil olma",
-            "Öğrencilere sınav yapma yetkisini kullanma",
-            "Öğrencilere kişisel hakları ihlal etme",
-            "Okul yönetimiyle sürekli olarak tartışma"
-          ],
-          "dogruCevap": "Öğrencilere karşı dürüst ve adil olma"
-        },
-        {
-          "soru": "Öğretmenler için meslek içi eğitim programları hangi amaçla düzenlenir?",
-          "secenekler": [
-            "Öğretmenlerin görevlerini yerine getirebilmesi",
-            "Eğitimde fırsat eşitliği sağlanması",
-            "Öğretmenlerin iş güvencesinin sağlanması",
-            "Sadece öğretmenlerin haklarını savunmak"
-          ],
-          "dogruCevap": "Öğretmenlerin görevlerini yerine getirebilmesi"
-        },
-        {
-          "soru": "Öğretmenlerin sorumlulukları arasında yer alan hangi durum, eğitimdeki temel hedeflere hizmet eder?",
-          "secenekler": [
-            "Öğrencilere adil ve eşit davranmak",
-            "Sürekli olarak sınavlar düzenlemek",
-            "Öğrencilerin başarısızlıklarını arttırmak",
-            "Eğitimde fırsat eşitliği sağlamamak"
-          ],
-          "dogruCevap": "Öğrencilere adil ve eşit davranmak"
-        },
-        {
-          "soru": "Öğretmenlerin hangi durumda etik sorumlulukları ihlal edilmiş olur?",
-          "secenekler": [
-            "Öğrencilere adil davranmamak",
-            "Öğrencilerin gelişimlerini takip etmek",
-            "Mesleki yeterlilikleri artırmak için eğitimlere katılmak",
-            "Okulda ders dışında aktiviteler düzenlemek"
-          ],
-          "dogruCevap": "Öğrencilere adil davranmamak"
-        },
-        {
-          "soru": "Öğretmenlerin çalışma şartlarını iyileştirmeye yönelik yapılan düzenlemeler hangi kanunla belirlenir?",
-          "secenekler": [
-            "Milli Eğitim Temel Kanunu",
-            "Öğretmenlik Mesleği Kanunu",
-            "Çalışma Kanunu",
-            "Eğitim Reformu Kanunu"
-          ],
-          "dogruCevap": "Öğretmenlik Mesleği Kanunu"
-        }
-      ],
-      "Öğretmenlerin Nitelikleri, Seçimi, Hazırlık Eğitimi, Öğretmenliğe Atama ve Yer Değiştirme": [
-        {
-          "soru": "Öğretmenlik mesleği için gerekli olan en temel nitelik aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Lisans diplomasına sahip olmak",
-            "Yabancı dil bilmek",
-            "Eğitimde yüksek lisans yapmış olmak",
-            "İleri düzeyde bilgisayar bilgisi"
-          ],
-          "dogruCevap": "Lisans diplomasına sahip olmak"
-        },
-        {
-          "soru": "Öğretmenlerin seçimi ile ilgili hangi kurum sorumludur?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Cumhurbaşkanlığı",
-            "İçişleri Bakanlığı",
-            "Yükseköğretim Kurulu"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Öğretmen adaylarının hangi eğitim sürecine tabi tutulması gerekmektedir?",
-          "secenekler": [
-            "Pedagojik formasyon eğitimi",
-            "Yabancı dil yeterlilik sınavı",
-            "Uzmanlık alanı eğitimi",
-            "Eğitim programlarına katılım"
-          ],
-          "dogruCevap": "Pedagojik formasyon eğitimi"
-        },
-        {
-          "soru": "Öğretmenliğe atama işlemleri hangi başvuru ile yapılır?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı'nın ilanı ve KPSS sonuçları",
-            "Açık ilan ile başvuru",
-            "Doğrudan okul müdürlükleri tarafından yapılan seçim",
-            "İl milli eğitim müdürlükleri tarafından belirlenen liste"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı'nın ilanı ve KPSS sonuçları"
-        },
-        {
-          "soru": "Öğretmenlerin atamalarında dikkate alınacak kriterler arasında aşağıdakilerden hangisi yer almaz?",
-          "secenekler": [
-            "KPSS sonuçları",
-            "Lisans mezuniyeti",
-            "Yabancı dil bilgisi",
-            "Sosyal güvenlik durumu"
-          ],
-          "dogruCevap": "Sosyal güvenlik durumu"
-        },
-        {
-          "soru": "Öğretmenlerin atama işlemleri hangi kanuna dayanarak yapılır?",
-          "secenekler": [
-            "Milli Eğitim Temel Kanunu",
-            "Öğretmenlik Mesleği Kanunu",
-            "Kamu Görevlileri Kanunu",
-            "Eğitim ve Öğretim Kanunu"
-          ],
-          "dogruCevap": "Öğretmenlik Mesleği Kanunu"
-        },
-        {
-          "soru": "Öğretmenlerin atama ve yer değiştirme işlemleri hangi bakanlık tarafından yapılır?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Aile ve Sosyal Hizmetler Bakanlığı",
-            "Çalışma ve Sosyal Güvenlik Bakanlığı",
-            "İçişleri Bakanlığı"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Öğretmenlerin yer değiştirme talepleri hangi durumda geçerli olabilir?",
-          "secenekler": [
-            "Zorunlu hizmet bölgesine tayin talebi",
-            "Ailevi sebeplerle yer değişikliği talebi",
-            "Okulda boş pozisyon olması",
-            "Kariyer geliştirme talepleri"
-          ],
-          "dogruCevap": "Ailevi sebeplerle yer değişikliği talebi"
-        },
-        {
-          "soru": "Öğretmenlerin hazırlık eğitimi sırasında hangi konuya ağırlık verilir?",
-          "secenekler": [
-            "Pedagojik formasyon",
-            "Akademik çalışmalar",
-            "Yabancı dil eğitimi",
-            "Eğitim teknolojileri"
-          ],
-          "dogruCevap": "Pedagojik formasyon"
-        },
-        {
-          "soru": "Öğretmen adaylarının mesleki yeterlilikleri hangi sınavla ölçülür?",
-          "secenekler": [
-            "KPSS",
-            "ALES",
-            "YDS",
-            "Öğretmenlik Alan Bilgisi Sınavı"
-          ],
-          "dogruCevap": "KPSS"
-        },
-        {
-          "soru": "Öğretmenlerin atama için başvurdukları iller arasında hangi kriter dikkate alınmaz?",
-          "secenekler": [
-            "KPSS puanı",
-            "İl içindeki okul ihtiyaçları",
-            "Ailevi durum",
-            "Yaş kriteri"
-          ],
-          "dogruCevap": "Yaş kriteri"
-        },
-        {
-          "soru": "Öğretmenler, hangi sebeplerle yer değiştirme talebinde bulunabilirler?",
-          "secenekler": [
-            "Hizmet süresi tamamlandığında",
-            "Okul kapandığında",
-            "Kariyer planlaması için",
-            "Yüksek lisans yapmak istediklerinde"
-          ],
-          "dogruCevap": "Okul kapandığında"
-        },
-        {
-          "soru": "Öğretmenlerin yer değiştirme talepleri hangi zaman diliminde yapılır?",
-          "secenekler": [
-            "Eylül ayı sonuna kadar",
-            "Yılın her döneminde",
-            "Her yaz tatilinde",
-            "Yalnızca öğretim yılı başında"
-          ],
-          "dogruCevap": "Yılın her döneminde"
-        },
-        {
-          "soru": "Öğretmenler hangi durumda, zorunlu hizmet bölgesinde görev yapmaya mecbur tutulur?",
-          "secenekler": [
-            "Görev sürelerinin dolması",
-            "Yer değiştirme talep etmeleri",
-            "Zorunlu hizmet bölgelerine atanmış olmaları",
-            "Yaşadıkları ilin dışına çıkmamaları"
-          ],
-          "dogruCevap": "Zorunlu hizmet bölgelerine atanmış olmaları"
-        },
-        {
-          "soru": "Öğretmenlerin atama işlemleri, hangi durumda yeniden değerlendirilebilir?",
-          "secenekler": [
-            "Ailevi nedenlerle başvuru yapılırsa",
-            "Hizmet süresi biterse",
-            "Eğitimdeki başarıları ölçülürse",
-            "Bakanlık kararıyla"
-          ],
-          "dogruCevap": "Bakanlık kararıyla"
-        },
-        {
-          "soru": "Öğretmenlerin mesleki yeterlilikleri hangi eğitimle artırılır?",
-          "secenekler": [
-            "Hizmet içi eğitimler",
-            "Yüksek lisans programları",
-            "Ders içeriklerinin güncellenmesi",
-            "Okul içi seminerler"
-          ],
-          "dogruCevap": "Hizmet içi eğitimler"
-        },
-        {
-          "soru": "Öğretmenlerin yer değiştirmesi için hangi koşul sağlanmalıdır?",
-          "secenekler": [
-            "Öğrencilerin başarılı olması",
-            "Okulda görevli öğretmen sayısının artması",
-            "İl içi ya da il dışı tayin başvurusu yapılması",
-            "Okulun eğitim-öğretim dönemine başlaması"
-          ],
-          "dogruCevap": "İl içi ya da il dışı tayin başvurusu yapılması"
-        },
-        {
-          "soru": "Öğretmenler için hazırlık eğitimi süreci hangi koşullarda geçerlidir?",
-          "secenekler": [
-            "Pedagojik formasyon eğitimi tamamlandığında",
-            "KPSS sınavı başarıyla geçildiğinde",
-            "Okulun eğitim dönemi bitiminde",
-            "İlk yer değiştirme talebinde bulunulduğunda"
-          ],
-          "dogruCevap": "Pedagojik formasyon eğitimi tamamlandığında"
-        },
-        {
-          "soru": "Öğretmenlerin yer değiştirmesinde dikkate alınmayan bir faktör hangisidir?",
-          "secenekler": [
-            "Meslek içi eğitim",
-            "Zorunlu hizmet bölgesinde görev yapma durumu",
-            "Okul yönetimiyle ilişki",
-            "Ailevi durum"
-          ],
-          "dogruCevap": "Okul yönetimiyle ilişki"
-        }
-      ],
-      "Mesleki Gelişim, Kariyer ve Yönetici Görevlendirme": [
-        {
-          "soru": "Öğretmenlerin mesleki gelişimleri için aşağıdakilerden hangisi gereklidir?",
-          "secenekler": [
-            "Hizmet içi eğitim programlarına katılmak",
-            "Yüksek lisans yapmış olmak",
-            "Kariyer planlaması için yurtdışına çıkmak",
-            "Gönüllü eğitim programlarına katılmak"
-          ],
-          "dogruCevap": "Hizmet içi eğitim programlarına katılmak"
-        },
-        {
-          "soru": "Öğretmenlerin kariyer basamaklarına geçişi hangi şartlara bağlıdır?",
-          "secenekler": [
-            "Yüksek lisans yapmış olmak",
-            "İki yıl görevde bulunmak ve yeterlilik almak",
-            "Hizmet içi eğitim programlarına katılmak",
-            "Okulda öğrencileri başarıyla tamamlamak"
-          ],
-          "dogruCevap": "İki yıl görevde bulunmak ve yeterlilik almak"
-        },
-        {
-          "soru": "Mesleki gelişim için öğretmenlere hangi desteğin sağlanması gereklidir?",
-          "secenekler": [
-            "Hizmet içi eğitim",
-            "Kariyer gelişim kredisi",
-            "Yabancı dil eğitim desteği",
-            "Hedef belirleme kursları"
-          ],
-          "dogruCevap": "Hizmet içi eğitim"
-        },
-        {
-          "soru": "Öğretmenlerin kariyer basamağına geçiş için hangi belgeyi alması gerekir?",
-          "secenekler": [
-            "Eğitim sertifikası",
-            "Kariyer yeterlilik belgesi",
-            "Hizmet içi eğitim tamamlanma belgesi",
-            "Yeterlilik belgesi"
-          ],
-          "dogruCevap": "Yeterlilik belgesi"
-        },
-        {
-          "soru": "Yönetici görevlendirmeleri, hangi bakanlık tarafından yapılır?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "İçişleri Bakanlığı",
-            "Çalışma ve Sosyal Güvenlik Bakanlığı",
-            "Gençlik ve Spor Bakanlığı"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Öğretmenlerin yönetici olarak görevlendirilebilmesi için hangi koşul sağlanmalıdır?",
-          "secenekler": [
-            "En az 5 yıl öğretmenlik yapmış olmak",
-            "Yüksek lisans yapmış olmak",
-            "Yönetici yeterlilik sınavını geçmek",
-            "En az 10 yıl görevde bulunmak"
-          ],
-          "dogruCevap": "Yönetici yeterlilik sınavını geçmek"
-        },
-        {
-          "soru": "Yönetici görevlendirmelerinde en fazla hangi faktör göz önünde bulundurulur?",
-          "secenekler": [
-            "Yönetici adayı adaylarının başarı puanı",
-            "Adayların yaş durumu",
-            "Eğitim durumu ve deneyimi",
-            "Adayların eğitimdeki sertifikaları"
-          ],
-          "dogruCevap": "Eğitim durumu ve deneyimi"
-        },
-        {
-          "soru": "Öğretmenlerin kariyer gelişimi hangi düzeyde izlenir?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "İl Milli Eğitim Müdürlüğü",
-            "Okul Müdürlükleri",
-            "Bakanlıklararası Eğitim Kurulu"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Yönetici görevlendirmesinde adayların hangi özelliği göz önünde bulundurulmaz?",
-          "secenekler": [
-            "Yöneticilik deneyimi",
-            "Adayın yaş durumu",
-            "Yönetici adayı başarı puanı",
-            "Adayın öğretmenlik deneyimi"
-          ],
-          "dogruCevap": "Adayın yaş durumu"
-        },
-        {
-          "soru": "Yönetici görevlendirmelerinde hangi tür eğitim gereklidir?",
-          "secenekler": [
-            "Yönetici yeterlilik eğitimleri",
-            "Eğitimde liderlik kursları",
-            "Yabancı dil eğitimleri",
-            "Pedagojik formasyon eğitimleri"
-          ],
-          "dogruCevap": "Yönetici yeterlilik eğitimleri"
-        },
-        {
-          "soru": "Öğretmenlerin mesleki gelişimlerinde hangi faktör daha ön planda tutulur?",
-          "secenekler": [
-            "Yabancı dil bilgisi",
-            "Hizmet içi eğitim programları",
-            "Kariyer planlaması",
-            "Derslerdeki başarı oranı"
-          ],
-          "dogruCevap": "Hizmet içi eğitim programları"
-        },
-        {
-          "soru": "Yönetici görevlendirme işlemi hangi süreci kapsar?",
-          "secenekler": [
-            "Yönetici seçme ve yerleştirme",
-            "Yönetici eğitimi ve sınav",
-            "Yönetici görevlendirme ve denetim",
-            "Yönetici atama ve görevlendirme"
-          ],
-          "dogruCevap": "Yönetici seçme ve yerleştirme"
-        },
-        {
-          "soru": "Öğretmenlerin mesleki gelişiminde hangi eğitim türü yaygın olarak kullanılır?",
-          "secenekler": [
-            "Uzaktan eğitim",
-            "Seminerler",
-            "Kurslar",
-            "Sosyal etkinlikler"
-          ],
-          "dogruCevap": "Seminerler"
-        },
-        {
-          "soru": "Yönetici adayları için hangi sınav türü uygulanır?",
-          "secenekler": [
-            "Yönetici yeterlilik sınavı",
-            "Yüksek lisans sınavı",
-            "Pedagojik formasyon sınavı",
-            "KPSS sınavı"
-          ],
-          "dogruCevap": "Yönetici yeterlilik sınavı"
-        },
-        {
-          "soru": "Öğretmenlerin kariyerinde hangi adım, eğitim süreçleriyle ilgilidir?",
-          "secenekler": [
-            "Yönetici olarak atanmak",
-            "Yüksek lisans yapmak",
-            "Kariyer planlaması yapmak",
-            "Hizmet içi eğitimlere katılmak"
-          ],
-          "dogruCevap": "Hizmet içi eğitimlere katılmak"
-        },
-        {
-          "soru": "Yönetici görevlendirmelerinde hangi öğreti türü en önemli faktördür?",
-          "secenekler": [
-            "Yönetici adaylarının mesleki deneyimi",
-            "Öğrencilerin başarı puanları",
-            "Yönetici adaylarının kültürel birikimi",
-            "Yönetici adaylarının ailevi durumu"
-          ],
-          "dogruCevap": "Yönetici adaylarının mesleki deneyimi"
-        },
-        {
-          "soru": "Mesleki gelişim eğitimlerinin en temel amacı nedir?",
-          "secenekler": [
-            "Öğretmenlerin pedagojik yeterliliklerini artırmak",
-            "Öğretmenlerin sınav başarısını artırmak",
-            "Öğretmenlere yabancı dil öğretmek",
-            "Okul müdürlerine liderlik eğitimi sağlamak"
-          ],
-          "dogruCevap": "Öğretmenlerin pedagojik yeterliliklerini artırmak"
-        },
-        {
-          "soru": "Mesleki gelişim sürecinde öğretmenlerin hangi görevi yerine getirmeleri beklenir?",
-          "secenekler": [
-            "Yönetici olarak görevlendirilmek",
-            "Yabancı dil bilmek",
-            "Okulda sosyal sorumluluk projeleri düzenlemek",
-            "Hizmet içi eğitim programlarına katılmak"
-          ],
-          "dogruCevap": "Hizmet içi eğitim programlarına katılmak"
-        }
-      ],
-      "Ödül ve Disiplin": [
-        {
-          "soru": "Öğretmenlere ödül verilmesinde aşağıdakilerden hangisi dikkate alınmaz?",
-          "secenekler": [
-            "Öğretmenin yıllık performansı",
-            "Öğretmenin öğrencilerle iletişimi",
-            "Öğretmenin ders başarı oranı",
-            "Öğretmenin sosyal etkinliklerdeki katılımı"
-          ],
-          "dogruCevap": "Öğretmenin sosyal etkinliklerdeki katılımı"
-        },
-        {
-          "soru": "Öğretmenlere ödül verilmesi hangi şartlarda yapılır?",
-          "secenekler": [
-            "Öğretmenin disiplin cezası almamış olması",
-            "Öğretmenin eğitimdeki başarıları",
-            "Öğretmenin yılsonu raporları",
-            "Öğretmenin meslek içi eğitimdeki başarısı"
-          ],
-          "dogruCevap": "Öğretmenin eğitimdeki başarıları"
-        },
-        {
-          "soru": "Aşağıdaki durumlardan hangisi öğretmen için disiplin cezası gerektirir?",
-          "secenekler": [
-            "Öğretmenin öğrencilerine eşit davranmaması",
-            "Öğretmenin ders saatlerini aksatması",
-            "Öğretmenin eğitimde yenilikçi yöntemler kullanması",
-            "Öğretmenin ders dışı etkinliklerde başarılı olması"
-          ],
-          "dogruCevap": "Öğretmenin ders saatlerini aksatması"
-        },
-        {
-          "soru": "Öğretmene hangi durumda ödül verilebilir?",
-          "secenekler": [
-            "Yüksek performans gösterdiği takdirde",
-            "Disiplin cezası almadan önce",
-            "Tüm öğrencilere eşit davranmadığında",
-            "Öğrencilerine karşı olumsuz tutum sergilediğinde"
-          ],
-          "dogruCevap": "Yüksek performans gösterdiği takdirde"
-        },
-        {
-          "soru": "Öğretmene verilecek ödüller hangi kriterlere göre belirlenir?",
-          "secenekler": [
-            "Eğitimdeki başarıları, mesleki davranışları",
-            "Öğrencilerle iletişim becerisi",
-            "İlgi alanları ve hobileri",
-            "Okul müdürünün kişisel tercihi"
-          ],
-          "dogruCevap": "Eğitimdeki başarıları, mesleki davranışları"
-        },
-        {
-          "soru": "Öğretmenin disiplin cezası almasına neden olan davranışlardan biri aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Öğrencilere karşı saygılı olmak",
-            "Okulda düzeni sağlamak",
-            "Öğrencilerine aşırı sert davranmak",
-            "Okul dışı etkinliklere katılmak"
-          ],
-          "dogruCevap": "Öğrencilerine aşırı sert davranmak"
-        },
-        {
-          "soru": "Öğretmenin ödül alması için hangi davranışı sergilemesi beklenir?",
-          "secenekler": [
-            "Öğrencilere karşı anlayışlı ve sabırlı olmak",
-            "Dersleri zamanında tamamlamamak",
-            "Öğrencilere düşük notlar vermek",
-            "Kendi mesleki gelişimini ihmal etmek"
-          ],
-          "dogruCevap": "Öğrencilere karşı anlayışlı ve sabırlı olmak"
-        },
-        {
-          "soru": "Öğretmenin eğitim sürecindeki davranışları hangi makam tarafından izlenir?",
-          "secenekler": [
-            "İl Milli Eğitim Müdürlüğü",
-            "Okul Yönetimi",
-            "Öğrencilerin velileri",
-            "Bakanlık"
-          ],
-          "dogruCevap": "Okul Yönetimi"
-        },
-        {
-          "soru": "Disiplin cezaları için hangi makamlar yetkilidir?",
-          "secenekler": [
-            "Okul müdürü",
-            "İl Milli Eğitim Müdürü",
-            "Milli Eğitim Bakanı",
-            "Eğitim uzmanları"
-          ],
-          "dogruCevap": "Okul müdürü"
-        },
-        {
-          "soru": "Öğretmenlere hangi tür ödüller verilebilir?",
-          "secenekler": [
-            "Yüksek maaş artışı",
-            "Başarı belgesi ve ödüller",
-            "Aylık ödüller",
-            "Özel tatil izinleri"
-          ],
-          "dogruCevap": "Başarı belgesi ve ödüller"
-        },
-        {
-          "soru": "Öğretmenin disiplin cezası alması halinde hangi işlem yapılır?",
-          "secenekler": [
-            "Cezası okul müdürü tarafından uygulanır",
-            "İl Milli Eğitim Müdürü cezayı verir",
-            "Cezayı Bakanlık onaylar",
-            "Eğitim uzmanları tarafından gözden geçirilir"
-          ],
-          "dogruCevap": "Cezası okul müdürü tarafından uygulanır"
-        },
-        {
-          "soru": "Öğretmenlere ödül verilmesinde hangi kriterler göz önünde bulundurulmaz?",
-          "secenekler": [
-            "Yıllık performans raporları",
-            "Öğrencilerine karşı davranışları",
-            "Öğretmenin eğitimdeki başarıları",
-            "Öğretmenin yaş durumu"
-          ],
-          "dogruCevap": "Öğretmenin yaş durumu"
-        },
-        {
-          "soru": "Aşağıdaki durumlardan hangisi öğretmenin ödül almasına engel olabilir?",
-          "secenekler": [
-            "Öğrencilerle etkili iletişim kurmak",
-            "İyi ders planlamaları yapmak",
-            "Disiplin cezası almak",
-            "Eğitimde yenilikçi yaklaşımlar kullanmak"
-          ],
-          "dogruCevap": "Disiplin cezası almak"
-        },
-        {
-          "soru": "Öğretmenler için ödüller, hangi amaçla verilir?",
-          "secenekler": [
-            "Öğretmenleri cesaretlendirmek",
-            "Öğretmenlerin eğitim başarılarını arttırmak",
-            "Eğitimdeki kaliteyi artırmak",
-            "Öğretmenlerin sosyal yaşamını desteklemek"
-          ],
-          "dogruCevap": "Öğretmenlerin eğitim başarılarını arttırmak"
-        },
-        {
-          "soru": "Aşağıdaki ödüllerden hangisi öğretmenlere verilen ödüller arasında yer almaz?",
-          "secenekler": [
-            "Başarı belgesi",
-            "Teşekkür plaketi",
-            "Yüksek maaş artışı",
-            "Başarı ödülü"
-          ],
-          "dogruCevap": "Yüksek maaş artışı"
-        },
-        {
-          "soru": "Öğretmenin disiplin cezası almasını gerektiren durumlar için hangi süreç takip edilir?",
-          "secenekler": [
-            "İl Milli Eğitim Müdürlüğü rapor hazırlar",
-            "Okul müdürü uyarı verir",
-            "İlgili disiplin kuruluna başvurulur",
-            "Öğretmenin görevden alınması için başvuru yapılır"
-          ],
-          "dogruCevap": "İlgili disiplin kuruluna başvurulur"
-        },
-        {
-          "soru": "Öğretmenler ödüllerini genellikle hangi kriterlere göre alır?",
-          "secenekler": [
-            "Öğrencilerin ders başarıları",
-            "Okul yönetiminin değerlendirmesi",
-            "Okul dışı etkinliklerdeki başarıları",
-            "Mesleki gelişimlere katılım"
-          ],
-          "dogruCevap": "Okul yönetiminin değerlendirmesi"
-        },
-        {
-          "soru": "Öğretmenin ödüllendirilmesinde hangi husus dikkate alınmaz?",
-          "secenekler": [
-            "Öğrencilerle uyumlu çalışma",
-            "Mesleki eğitim başarıları",
-            "Kariyer planlaması",
-            "Okul dışında yaptığı sosyal etkinlikler"
-          ],
-          "dogruCevap": "Okul dışında yaptığı sosyal etkinlikler"
-        }
-      ],
-      "Millî Eğitim Akademisinin Kuruluşu ve Görevleri": [
-        {
-          "soru": "Millî Eğitim Akademisi, aşağıdaki hangi bakanlıkla bağlıdır?",
-          "secenekler": [
-            "Kültür ve Turizm Bakanlığı",
-            "Millî Eğitim Bakanlığı",
-            "Çalışma ve Sosyal Güvenlik Bakanlığı",
-            "Sağlık Bakanlığı"
-          ],
-          "dogruCevap": "Millî Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi'nin kuruluş amacı nedir?",
-          "secenekler": [
-            "Eğitim hizmetlerinin kalitesini arttırmak",
-            "Öğrenciler için yeni eğitim yöntemleri geliştirmek",
-            "Öğretmenlere mesleki gelişim imkânları sunmak",
-            "Eğitimde teknoloji kullanımını yaygınlaştırmak"
-          ],
-          "dogruCevap": "Öğretmenlere mesleki gelişim imkânları sunmak"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi'nin kuruluş tarihi nedir?",
-          "secenekler": [
-            "2006",
-            "2010",
-            "2014",
-            "2018"
-          ],
-          "dogruCevap": "2010"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi hangi tür eğitim faaliyetlerini yürütür?",
-          "secenekler": [
-            "Öğretmenlerin mesleki gelişimi için eğitim programları",
-            "Yönetici eğitim programları",
-            "Eğitim materyali üretimi",
-            "Okul kitapları basımı"
-          ],
-          "dogruCevap": "Öğretmenlerin mesleki gelişimi için eğitim programları"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi'nin görevlerinden biri aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Okul inşaatlarının denetimi",
-            "Eğitimde kullanılan araç ve gereçlerin temini",
-            "Öğretmen adaylarının seçim ve yerleştirilmesi",
-            "Eğitim politikalarının belirlenmesi"
-          ],
-          "dogruCevap": "Eğitim politikalarının belirlenmesi"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi hangi konuda öğretmenlere eğitim vermekle sorumludur?",
-          "secenekler": [
-            "Mesleki gelişim ve pedagojik formasyon",
-            "Eğitim araçlarının temini",
-            "Okul yapılarının denetimi",
-            "Müfredatın güncellenmesi"
-          ],
-          "dogruCevap": "Mesleki gelişim ve pedagojik formasyon"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi, hangi tür projelere katkı sağlar?",
-          "secenekler": [
-            "Öğrencilerin sosyal etkinlik projeleri",
-            "Okul binalarının yapım projeleri",
-            "Öğretmenlerin mesleki gelişim projeleri",
-            "Okul çevresinin düzenlenmesi projeleri"
-          ],
-          "dogruCevap": "Öğretmenlerin mesleki gelişim projeleri"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi'nin faaliyetleri hangi düzeyde yürütülür?",
-          "secenekler": [
-            "Ulusal ve uluslararası düzeyde",
-            "Yerel düzeyde",
-            "Sadece il düzeyinde",
-            "Bölgesel düzeyde"
-          ],
-          "dogruCevap": "Ulusal ve uluslararası düzeyde"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi'nin öğretmenlere yönelik düzenlediği eğitimlerde, hangi konu başlıkları yer alır?",
-          "secenekler": [
-            "Mesleki gelişim ve pedagojik formasyon",
-            "Eğitim materyali üretimi",
-            "Eğitim araç gereçlerinin temini",
-            "Okul yönetimi ve denetimi"
-          ],
-          "dogruCevap": "Mesleki gelişim ve pedagojik formasyon"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi'nin bir diğer önemli görevi nedir?",
-          "secenekler": [
-            "Okul inşaatlarını denetlemek",
-            "Okul kitaplarını basmak",
-            "Eğitimde kaliteyi yükseltmek için araştırmalar yapmak",
-            "Öğrencilere burs sağlamak"
-          ],
-          "dogruCevap": "Eğitimde kaliteyi yükseltmek için araştırmalar yapmak"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi hangi eğitim düzeyine hizmet verir?",
-          "secenekler": [
-            "Sadece ilkokul",
-            "Sadece ortaokul",
-            "İlköğretim ve ortaöğretim",
-            "Sadece öğretmenlere"
-          ],
-          "dogruCevap": "Sadece öğretmenlere"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi'nin öncelikli amacı nedir?",
-          "secenekler": [
-            "Okul binalarını yapma",
-            "Eğitim materyallerini sağlama",
-            "Öğretmenlerin mesleki gelişimini sağlamak",
-            "Öğrencilere burs sağlamak"
-          ],
-          "dogruCevap": "Öğretmenlerin mesleki gelişimini sağlamak"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi, hangi alanda çalışmalar yapmaktadır?",
-          "secenekler": [
-            "Eğitim yönetimi ve öğretmen yetiştirme",
-            "Okul inşaatı ve denetimi",
-            "Eğitim materyallerinin üretimi",
-            "Öğrencilere yönelik sosyal aktiviteler"
-          ],
-          "dogruCevap": "Eğitim yönetimi ve öğretmen yetiştirme"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi, öğretmenlerin hangi becerilerini geliştirmeyi amaçlar?",
-          "secenekler": [
-            "Pedagojik bilgi ve becerileri",
-            "Okul yönetimi becerileri",
-            "Eğitim araç gereçleri kullanma becerileri",
-            "Okul inşaatı yönetme becerileri"
-          ],
-          "dogruCevap": "Pedagojik bilgi ve becerileri"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi'nin faaliyetleri hangi organ tarafından denetlenir?",
-          "secenekler": [
-            "Millî Eğitim Bakanlığı",
-            "Yüksek Öğretim Kurulu",
-            "Çalışma ve Sosyal Güvenlik Bakanlığı",
-            "Yerel Eğitim Kurulları"
-          ],
-          "dogruCevap": "Millî Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi, öğretmenlerin hangi yönlerine katkı sağlar?",
-          "secenekler": [
-            "Mesleki bilgi ve pedagojik beceriler",
-            "Öğrencilerin ders notları",
-            "Okul yapılarının denetimi",
-            "Eğitim materyali üretimi"
-          ],
-          "dogruCevap": "Mesleki bilgi ve pedagojik beceriler"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi, öğretmenlere yönelik hangi tür eğitimler düzenler?",
-          "secenekler": [
-            "Kariyer gelişim ve mesleki bilgi artırıcı eğitimler",
-            "Okul yönetimi eğitimleri",
-            "Sosyal sorumluluk projeleri",
-            "Okul dışı etkinlikler"
-          ],
-          "dogruCevap": "Kariyer gelişim ve mesleki bilgi artırıcı eğitimler"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi tarafından verilen mesleki gelişim eğitimleri için hangi şartlar aranmaktadır?",
-          "secenekler": [
-            "Öğretmenlerin gönüllü katılımı",
-            "Öğretmenlerin belirli bir süre çalışmış olması",
-            "Öğretmenlerin eğitime katılmaya uygun olması",
-            "Öğretmenlerin yeterli puan almış olması"
-          ],
-          "dogruCevap": "Öğretmenlerin eğitime katılmaya uygun olması"
-        },
-        {
-          "soru": "Millî Eğitim Akademisi'nin bir diğer görevi hangi alanla ilgilidir?",
-          "secenekler": [
-            "Okul inşaatlarının planlanması",
-            "Eğitimde kullanılan araç ve gereçlerin geliştirilmesi",
-            "Eğitim materyali üretimi",
-            "Meslek içi eğitim ve gelişim"
-          ],
-          "dogruCevap": "Meslek içi eğitim ve gelişim"
-        }
-      ],
-      "Çeşitli ve Son Hükümler": [
-        {
-          "soru": "Aşağıdakilerden hangisi öğretmenlerin görevleri arasında yer almaz?",
-          "secenekler": [
-            "Öğrencilere eğitim vermek",
-            "Eğitim öğretim faaliyetlerini denetlemek",
-            "Sosyal sorumluluk projeleri hazırlamak",
-            "Okul içi etkinliklere katılmak"
-          ],
-          "dogruCevap": "Eğitim öğretim faaliyetlerini denetlemek"
-        },
-        {
-          "soru": "Öğretmenlerin mesleki sorumlulukları arasında aşağıdakilerden hangisi bulunur?",
-          "secenekler": [
-            "Yönetici atamalarını yapmak",
-            "Eğitimde yeni metodlar geliştirmek",
-            "Öğrencilerin eğitimine katkı sağlamak",
-            "Okul müdürüne rapor sunmak"
-          ],
-          "dogruCevap": "Öğrencilerin eğitimine katkı sağlamak"
-        },
-        {
-          "soru": "Öğretmenler, hangi durumda görevden uzaklaştırılabilir?",
-          "secenekler": [
-            "Ders saatlerini geçirdiğinde",
-            "Devamsızlık yaptığında",
-            "Halkı tahrik edici konuşmalar yaptığında",
-            "Öğrencilere fazla ödev verdiğinde"
-          ],
-          "dogruCevap": "Halkı tahrik edici konuşmalar yaptığında"
-        },
-        {
-          "soru": "Öğretmenler, hangi konuda eğitim alabilirler?",
-          "secenekler": [
-            "Yönetim becerileri",
-            "Mesleki gelişim ve pedagojik formasyon",
-            "Tartışma ve grup dinamikleri",
-            "Yabancı dil öğrenme"
-          ],
-          "dogruCevap": "Mesleki gelişim ve pedagojik formasyon"
-        },
-        {
-          "soru": "Öğretmenler, hangi koşullarda görevlerinden alınabilir?",
-          "secenekler": [
-            "Yasaya aykırı hareket ettiklerinde",
-            "Ders dışı etkinliklere katılmadıklarında",
-            "Eğitim sistemine zarar verdiklerinde",
-            "Sadece devamsızlık yaptıklarında"
-          ],
-          "dogruCevap": "Yasaya aykırı hareket ettiklerinde"
-        },
-        {
-          "soru": "Öğretmenlerin, görevden alınmalarının ardından hangi süre zarfında dava açma hakları vardır?",
-          "secenekler": [
-            "30 gün",
-            "60 gün",
-            "90 gün",
-            "120 gün"
-          ],
-          "dogruCevap": "60 gün"
-        },
-        {
-          "soru": "Öğretmenler, hangi durumda tayin isteyebilirler?",
-          "secenekler": [
-            "Eğitim yılı sonunda",
-            "Belli bir süre görev yaptıktan sonra",
-            "Okul içinde terfi aldıklarında",
-            "Mesleki gelişim eğitimini tamamladıklarında"
-          ],
-          "dogruCevap": "Belli bir süre görev yaptıktan sonra"
-        },
-        {
-          "soru": "Öğretmenlerin görevdeki başarılarına göre hangi tür ödüller verilebilir?",
-          "secenekler": [
-            "Başarı belgesi",
-            "Maaş artışı",
-            "Ödüllü tatil",
-            "Emeklilikte ek ödeme"
-          ],
-          "dogruCevap": "Başarı belgesi"
-        },
-        {
-          "soru": "Öğretmenlerin görevdeki başarısızlıkları hangi tür cezaları gerektirir?",
-          "secenekler": [
-            "Kınama ve uyarı",
-            "Maaş kesintisi",
-            "Görevden uzaklaştırma",
-            "Yer değiştirme"
-          ],
-          "dogruCevap": "Kınama ve uyarı"
-        },
-        {
-          "soru": "Öğretmenlerin, öğretim yılı sonunda hangi raporları hazırlamaları gereklidir?",
-          "secenekler": [
-            "Öğrenci değerlendirme raporu",
-            "Öğretim süresi raporu",
-            "Okul yönetim raporu",
-            "Okul başarı raporu"
-          ],
-          "dogruCevap": "Öğrenci değerlendirme raporu"
-        },
-        {
-          "soru": "Öğretmenler, hangi tür hizmet içi eğitimlere katılmak zorundadır?",
-          "secenekler": [
-            "Okul içi yönetim seminerleri",
-            "Pedagojik formasyon eğitimi",
-            "Yabancı dil seminerleri",
-            "Eğitim politikası seminerleri"
-          ],
-          "dogruCevap": "Pedagojik formasyon eğitimi"
-        },
-        {
-          "soru": "Öğretmenler, hangi durumda eğitim programına katkı sağlamak için görevlendirilebilir?",
-          "secenekler": [
-            "Okul dışı etkinlikler",
-            "Eğitimde yeni metodlar geliştirme",
-            "Sosyal hizmet projeleri",
-            "Devlet okulunda çalışmak"
-          ],
-          "dogruCevap": "Eğitimde yeni metodlar geliştirme"
-        },
-        {
-          "soru": "Öğretmenlerin tatil hakları hangi duruma göre değişebilir?",
-          "secenekler": [
-            "Öğretmenlerin yıllık izin hakları ile",
-            "Okul dönemi sürelerine göre",
-            "Mesleki gelişim eğitimlerinin tamamlanması ile",
-            "Sosyal etkinliklere katılım ile"
-          ],
-          "dogruCevap": "Okul dönemi sürelerine göre"
-        },
-        {
-          "soru": "Öğretmenler hangi durumda görev yerinden başka bir yere tayin edilebilir?",
-          "secenekler": [
-            "Ailevi nedenlerle",
-            "Mesleki gelişim eğitimini tamamladıklarında",
-            "Görevdeki başarılarına göre",
-            "Sadece okul yönetimi tarafından talep edildiğinde"
-          ],
-          "dogruCevap": "Görevdeki başarılarına göre"
-        },
-        {
-          "soru": "Öğretmenler, hangi durumda eğitim öğretim süreçlerine katılmak zorundadır?",
-          "secenekler": [
-            "Yönetici görevlendirmesi ile",
-            "Ders saatleri dışında kalan zamanlarda",
-            "Okul tatilinde",
-            "Eğitim döneminde"
-          ],
-          "dogruCevap": "Eğitim döneminde"
-        },
-        {
-          "soru": "Öğretmenlerin disiplin cezaları hangi durumda uygulanabilir?",
-          "secenekler": [
-            "Ders dışı etkinliklerdeki başarısızlıklar",
-            "Öğrencilere yönelik olumsuz tutumlar",
-            "Meslektaşlarıyla iletişim sorunları",
-            "Ders planlarını zamanında hazırlamamak"
-          ],
-          "dogruCevap": "Öğrencilere yönelik olumsuz tutumlar"
-        },
-        {
-          "soru": "Öğretmenlerin görev süresi hangi durumlarda uzatılabilir?",
-          "secenekler": [
-            "Eğitim yılı sonunda",
-            "Sosyal hizmet projeleri ile",
-            "Meslek içi gelişim eğitimlerinde",
-            "Hastalık nedeniyle"
-          ],
-          "dogruCevap": "Eğitim yılı sonunda"
-        },
-        {
-          "soru": "Öğretmenlerin görevdeki etkinlikleri izlemek amacıyla hangi tür denetimler yapılır?",
-          "secenekler": [
-            "Okul dışı denetim",
-            "Yerel eğitim müfettişi denetimi",
-            "Mesleki denetimler",
-            "Okul yöneticisi denetimi"
-          ],
-          "dogruCevap": "Mesleki denetimler"
         }
       ]
     },
