@@ -6358,7 +6358,7 @@
           "dogruCevap": "Altı, yedi ve sekizinci sınıf öğrencileri ile çıraklık eğitim merkezlerindeki öğrenciler"
         }
       ],
-      "7528 sayılı Öğretmenlik Mesleği Kanunu": [
+      "7528 Sayılı Öğretmenlik Mesleği Kanunu": [
         {
           "soru": "7528 Sayılı Öğretmenlik Meslek Kanunu'na göre öğretmenlik kariyer basamakları kaç aşamadan oluşmaktadır?",
           "secenekler": [
@@ -6513,6 +6513,118 @@
           ],
           "dogruCevap": "Öğretmenlik kariyer basamaklarının oluşturulması",
           "aciklama": "Kanunun en önemli yeniliklerinden biri, öğretmenlik kariyer basamaklarının (Öğretmen, Uzman Öğretmen, Başöğretmen) oluşturulmasıdır."
+        }
+      ],
+      "7528 Sayılı Öğretmenlik Mesleği Kanunu 2": [
+        {
+          "soru": "7528 Sayılı Öğretmenlik Meslek Kanunu'nun amacı nedir?",
+          "secenekler": [
+            "Sadece öğretmenlerin hak ve ödevlerini düzenlemek",
+            "Öğretmenlerin seçilmesi, yetiştirilmesi, atanması, hak, ödev ve sorumluluklarının düzenlenmesi ile Millî Eğitim Akademisi’nin kurulması, görevleri, teşkilat yapısı ve personelinin düzenlenmesi",
+            "Sadece öğretmen atamalarını yapmak",
+            "Öğretmenlerin disiplin cezalarını belirlemek"
+          ],
+          "dogruCevap": "Öğretmenlerin seçilmesi, yetiştirilmesi, atanması, hak, ödev ve sorumluluklarının düzenlenmesi ile Millî Eğitim Akademisi’nin kurulması, görevleri, teşkilat yapısı ve personelinin düzenlenmesi",
+          "aciklama": "Kanunun amacı, öğretmenlerin mesleki süreçlerini ve Akademi’nin işleyişini kapsamlı şekilde düzenlemektir."
+        },
+        {
+          "soru": "7528 Sayılı Öğretmenlik Meslek Kanunu'nun kapsamına aşağıdakilerden hangisi girmez?",
+          "secenekler": [
+            "Millî Eğitim Bakanlığına bağlı resmî eğitim kurumlarında görev yapan öğretmenler",
+            "Özel öğretim kurumlarında görev yapan öğretmenler",
+            "Bakanlığa bağlı olmayan kamu kurum ve kuruluşlarında görev yapan tüm memurlar",
+            "Millî Eğitim Akademisi personeli"
+          ],
+          "dogruCevap": "Bakanlığa bağlı olmayan kamu kurum ve kuruluşlarında görev yapan tüm memurlar",
+          "aciklama": "Kanun, belirli öğretmen, yönetici ve Akademi personelini düzenlemekte olup tüm kamu memurlarını kapsamamaktadır."
+        },
+        {
+          "soru": "MADDE 3'e göre 'Akademi' terimi neyi ifade eder?",
+          "secenekler": [
+            "Akademi Üniversitesi",
+            "Millî Eğitim Akademisi",
+            "Öğretmen yetiştirme kurumunu",
+            "Devlet memurları kanunu kapsamındaki tüm kurumları"
+          ],
+          "dogruCevap": "Millî Eğitim Akademisi",
+          "aciklama": "Tanımlar bölümünde 'Akademi' ifadesi Millî Eğitim Akademisi olarak tanımlanmıştır."
+        },
+        {
+          "soru": "MADDE 8'e göre hazırlık eğitiminin süresi kaç dönemdir?",
+          "secenekler": [
+            "2 dönem",
+            "3 dönem",
+            "4 dönem",
+            "5 dönem"
+          ],
+          "dogruCevap": "4 dönem",
+          "aciklama": "Hazırlık eğitiminin süresi temel olarak dört dönemdir; bazı yükseköğretim programlarına göre üç dönem uygulanabilir."
+        },
+        {
+          "soru": "Hazırlık eğitiminde her teorik dersten en az kaç yazılı sınav yapılır?",
+          "secenekler": [
+            "Bir",
+            "İki",
+            "Üç",
+            "Dört"
+          ],
+          "dogruCevap": "İki",
+          "aciklama": "MADDE 10 kapsamında, her teorik dersten en az iki yazılı sınav uygulanmaktadır."
+        },
+        {
+          "soru": "Hazırlık eğitiminde teorik derslerden başarılı sayılabilmek için alınması gereken en düşük not ortalaması nedir?",
+          "secenekler": [
+            "50",
+            "55",
+            "60",
+            "65"
+          ],
+          "dogruCevap": "60",
+          "aciklama": "Her bir teorik dersten başarılı sayılabilmek için not ortalamasının en az 60 (yüz üzerinden altmış) olması gerekmektedir."
+        },
+        {
+          "soru": "Öğretmen adaylarına verilebilecek disiplin cezalarından hangisi kanunda yer almaz?",
+          "secenekler": [
+            "Kınama",
+            "Ödeme kesintisi",
+            "Akademiden çıkarma",
+            "Adli kovuşturma"
+          ],
+          "dogruCevap": "Adli kovuşturma",
+          "aciklama": "Disiplin cezaları arasında kınama, ödeme kesintisi ve Akademiden çıkarma yer alırken, adli kovuşturma disiplin cezası kapsamında değildir."
+        },
+        {
+          "soru": "MADDE 27’ye göre Millî Eğitim Akademisi'nin görevleri arasında aşağıdakilerden hangisi bulunmaz?",
+          "secenekler": [
+            "Öğretmenlik mesleğine hazırlık eğitim programlarını hazırlamak ve uygulamak",
+            "Yönetici yetiştirme programlarını hazırlamak ve uygulamak",
+            "Öğretmen atamalarını doğrudan gerçekleştirmek",
+            "Eğitim öğretim alanında bilimsel ve teknolojik gelişmeleri takip etmek"
+          ],
+          "dogruCevap": "Öğretmen atamalarını doğrudan gerçekleştirmek",
+          "aciklama": "Öğretmen atamaları Bakan tarafından yapılmakta, bu işlem Akademi’nin görevleri arasında yer almamaktadır."
+        },
+        {
+          "soru": "MADDE 29’a göre Akademik Kurul'un görevlerinden hangisi doğrudur?",
+          "secenekler": [
+            "Akademinin görev alanına giren konularda politikaları belirler ve uygular",
+            "Akademinin yıllık çalışma planını hazırlamak ve Bakan onayına sunmak",
+            "Telefon görüşmelerini gerçekleştirmek",
+            "Tüm disiplin cezalarını bizzat karara bağlamak"
+          ],
+          "dogruCevap": "Akademinin yıllık çalışma planını hazırlamak ve Bakan onayına sunmak",
+          "aciklama": "Akademik Kurul, Akademinin görev alanına giren konularda çalışma planı hazırlamak ve Bakan onayına sunmaktan sorumludur."
+        },
+        {
+          "soru": "7528 Sayılı Öğretmenlik Meslek Kanunu'na göre öğretmenlik kariyer basamakları kaç aşamadan oluşmaktadır?",
+          "secenekler": [
+            "2 – Öğretmen ve Uzman Öğretmen",
+            "3 – Öğretmen, Uzman Öğretmen ve Başöğretmen",
+            "4 – Stajyer Öğretmen, Öğretmen, Uzman Öğretmen ve Başöğretmen",
+            "5 – Stajyer, Kıdemli Öğretmen, Uzman Öğretmen, Başöğretmen ve Eğitim Lideri"
+          ],
+          "dogruCevap": "3 – Öğretmen, Uzman Öğretmen ve Başöğretmen",
+          "aciklama": "Kanun, öğretmenlik mesleğini üç basamaklı bir kariyer yapısına oturtmuştur."
         }
       ]
     },
@@ -10526,17 +10638,6 @@
           "aciklama": "Küçük Kaynarca Antlaşması ile Karadeniz Türk gölü olmaktan çıkmıştır."
         },
         {
-          "soru": "II. Viyana Kuşatması'nın başarısız olmasının sebeplerinden biri değildir?",
-          "secenekler": [
-            "Merzifonlu'nun son yürüyüşü geciktirmesi",
-            "Kırım Hanı'nın görevini yapmaması",
-            "Lehistan ordusunun yardıma gelmesi",
-            "Osmanlı ordusunun teknolojik üstünlüğü"
-          ],
-          "dogruCevap": "Osmanlı ordusunun teknolojik üstünlüğü",
-          "aciklama": "II. Viyana Kuşatması'nda Osmanlı ordusu teknolojik açıdan gerideydi."
-        },
-        {
           "soru": "Osmanlı Devleti ile Rusya arasında imzalanan ilk dostluk antlaşması hangisidir?",
           "secenekler": [
             "Prut Antlaşması",
@@ -10546,17 +10647,6 @@
           ],
           "dogruCevap": "İstanbul Antlaşması (1724)",
           "aciklama": "1724 İstanbul Antlaşması (İran Mukasemenamesi), Osmanlı-Rusya arasındaki ilk dostluk antlaşmasıdır."
-        },
-        {
-          "soru": "Osmanlı donanmasının tarihindeki en büyük felaketlerden biri olan Çeşme Vakası hangi yıl gerçekleşmiştir?",
-          "secenekler": [
-            "1768",
-            "1769",
-            "1770",
-            "1771"
-          ],
-          "dogruCevap": "1770",
-          "aciklama": "1770'te Çeşme'de demirli bulunan Osmanlı donanması Ruslar tarafından yakılmıştır."
         },
         {
           "soru": "Kırım'ın Rusya'ya bağlanma sürecinde aşağıdaki antlaşmalardan hangisi kronolojik olarak en son gerçekleşmiştir?",
@@ -10601,17 +10691,6 @@
           ],
           "dogruCevap": "Kalyon",
           "aciklama": "Kalyon, 17. yy ortalarından 19. yy ortalarına kadar kullanılan yelkenli gemilerdir."
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Westphelia Barışı'nın sonuçlarından biri değildir?",
-          "secenekler": [
-            "Modern Devletler Hukukunun temelleri atılmıştır",
-            "Kilisenin gücü sınırlandırılmıştır",
-            "Osmanlı İmparatorluğu Avrupa'da söz sahibi olmuştur",
-            "Fransa Avrupa siyasetine yön veren devlet konumuna yükselmiştir"
-          ],
-          "dogruCevap": "Osmanlı İmparatorluğu Avrupa'da söz sahibi olmuştur",
-          "aciklama": "Westphelia Barışı'nda Osmanlı İmparatorluğu yer almamıştır."
         },
         {
           "soru": "Rusya'nın Karadeniz'e ilk kez çıkmasını sağlayan antlaşma hangisidir?",
