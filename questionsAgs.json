@@ -1,6 +1,502 @@
 {
   "soruCozumu": {
     "Eğitim Temelleri": {
+      "2017 Kpss Eğitim Bilimleri Çıkmış Sorular": [
+        {
+          "soru": "Öğretim üyesi Kerem Bey; öğrencilerine, bir köyde öğretmenlik yaptığı yıllarda başından geçen aşağıdaki anıyı anlatır:\n“Yıllar önce bir pazartesi günü öğrencilerime hafta sonu ne yaptıklarını sorduğumda öğrencilerimin çoğu “Çimdik, yattık.” dediler. Ben “çimmek” sözcüğünün ne anlama geldiğini bilmediğimden onlara bakakaldım.”\nArdından “Eğer siz de derslerinizde öğrencilerinizin bilmediği kavramları ve terimleri kullanırsanız, onlar da benim gibi hiçbir şey anlayamaz.” diye öğrencilerini uyarır.\nBuna göre Kerem Bey’in uyarısı aşağıdaki öğretim ilkelerinden hangisine örnektir?",
+          "secenekler": [
+            "Bilimsellik",
+            "Somuttan soyuta",
+            "Yakından uzağa",
+            "Açıklık",
+            "Bilinenden bilinmeyene"
+          ],
+          "dogruCevap": "Açıklık"
+        },
+        {
+          "soru": "Öğretme-öğrenme sürecinde “öğretmenin öğrencilerini kazanımlarla ilgili bilgilendirmesi, kazanım ve içerik ilişkisini kurması, neyi nasıl kazanacaklarını onlara açıklaması” aşağıdaki öğretim basamaklarından hangisinde gerçekleştirilir?",
+          "secenekler": [
+            "Geçiş",
+            "Gözden geçirme",
+            "Güdüleme",
+            "Dikkat çekme",
+            "Geliştirme"
+          ],
+          "dogruCevap": "Gözden geçirme"
+        },
+        {
+          "soru": "Bir öğretmen, (I) derste teknolojinin topluma etkisi konusunda beyin fırtınası tekniği uygulayarak öğrencilerin özgün görüşler ortaya koymalarını sağlamaya çalışmıştır.\n(II) Seçilen bazı görüşlere ilişkin öğrencilerden bilgiler toplayarak o görüşlerin uygulanabilirlikleri hakkında bir değerlendirmede bulunmalarını istemiştir.\nBuna göre öğretmen, öğrencilerine aşağıdaki becerilerden sırasıyla hangilerini kazandırmaya çalışmıştır?",
+          "secenekler": [
+            "Yaratıcı düşünme - Yansıtıcı düşünme",
+            "Üstbilişsel düşünme - Problem çözme",
+            "Üstbilişsel düşünme - Yansıtıcı düşünme",
+            "Eleştirel düşünme - Üstbilişsel düşünme",
+            "Yaratıcı düşünme - Eleştirel düşünme"
+          ],
+          "dogruCevap": "Yaratıcı düşünme - Eleştirel düşünme"
+        },
+        {
+          "soru": "Bir öğretmen, öğrencilerine, insanların herhangi bir alanda hâlihazırda kullandıkları eşyalar dışında ihtiyaç duyabilecekleri bir ürün düşünmelerini, düşündükleri ürünün neden gerekli olduğunu yazmalarını söylemiştir. Ayrıca, bu ürünün nasıl üretilebileceğini ve pazarlanabileceğini de hayal etmelerini istemiştir. Öğrencilerden biri yazısında; insanların mutfakta ihtiyaç duyabilecekleri bir üründen bahsetmiş, bu ürünün gerekliliğini anlatmış ve “Bu ürün satılmayacak olsa bile fırsatım olursa yine de üretmeyi denerim.” demiştir.\nBu öğrencinin düşünceleri aşağıdaki becerilerden hangisine örnektir?",
+          "secenekler": [
+            "Girişimcilik",
+            "Bilgi teknolojilerini kullanma",
+            "Problem çözme",
+            "Yansıtıcı düşünme",
+            "Eleştirel düşünme"
+          ],
+          "dogruCevap": "Girişimcilik"
+        },
+        {
+          "soru": "Cansu Öğretmen, öğrencisinden Cumhuriyet Bayramı nedeniyle Cumhuriyet tarihiyle ilgili sunum hazırlamasını ve bir uzman gibi arkadaşlarına sunmasını ister. Öğrencisini konuyla ilgili anektodlar, hikâyeler ve bilimsel araştırmalar gibi çeşitli kaynaklardan yararlanmaya yönlendirir.\nBuna göre Cansu Öğretmen’in uygulamak istediği öğretim yöntemi ve tekniği aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Panel",
+            "Münazara",
+            "Konferans",
+            "Açık oturum",
+            "Forum"
+          ],
+          "dogruCevap": "Konferans"
+        },
+        {
+          "soru": "Adem Öğretmen, tarih derslerinde zaman zaman öğrencilerin çok iyi bildiklerine inandıkları konuları gündeme getirmekte, bilgilerinin güvenilir olup olmadığını düşünmelerini sağlayıcı sorular sorarak öğrencilerin şüpheye düşmelerini istemektedir. Böylece zihinlerindeki yanlış bilgilerin ortaya çıkmasını sağlayarak öğrencilerin gerçek bilgiye ulaşmalarını hedeflemektedir.\nBuna göre Adem Öğretmen’in kullandığı öğretim yöntem ve tekniği aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Sokratik tartışma",
+            "Fikir taraması",
+            "Görüş geliştirme",
+            "Küçük grup tartışması",
+            "Panel"
+          ],
+          "dogruCevap": "Sokratik tartışma"
+        },
+        {
+          "soru": "Çınar o gün eve neşeyle gelir ve annesine “Bugün neler oldu inanamazsın!” diyerek uçak kullandığını anlatır. Annesi şaşkınlıkla “Nasıl olur?” diye sorduğunda Çınar, annesine Türk Hava Kurumunun eğitim kamyonunun okullarına geldiğini ve tıpkı bir uçaktaki pilot kabini gibi tasarlanmış olan model üzerinde sırayla uçak kullandıklarını söyler.\nÖğrencilerin uçma deneyimi yaşamaları için kullanılan bu yöntem veya teknik aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Örnek olay",
+            "Metafor",
+            "Gösteri",
+            "İstasyon",
+            "Benzetim"
+          ],
+          "dogruCevap": "Benzetim"
+        },
+        {
+          "soru": "Mert Öğretmen, öğrencilerinin dikkatini iklim değişikliği konusuna çekmek için konu hakkında bir sunum yapar. Ardından sınıfındaki otuz öğrenciyi, her grupta aynı sayıda öğrenci olacak şekilde beş gruba ayırır. Her gruptan kendi içinde bir başkan ile bir yazıcı seçmesini ve iklim değişikliği sorununun çözümü için öneriler geliştirmesini ister. Sonrasında gruplara, kendi aralarında tartışmaları için gruptaki üye sayısı kadar dakika tanır.\nMert Öğretmen’in uyguladığı bu öğretim yöntem ve tekniği aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Beyin fırtınası",
+            "Fikir taraması",
+            "Görüş geliştirme",
+            "Philips 66",
+            "İstasyon"
+          ],
+          "dogruCevap": "Philips 66"
+        },
+        {
+          "soru": "Sezer Öğretmen, matematik dersinde öğrencilerinin problem çözme becerilerini geliştirmek için onlara bilgiye nasıl ulaşacaklarını, bilgiyi nasıl kullanacaklarını ve uygulayacaklarını öğretmeyi hedefler. Bunun için öncelikle kendisi model olarak süreci başlatır, öğrencilere etkinlikler yaptırır, rehberlik eder ve onları yönlendirir. Sonunda, öğrencilerin problem çözme becerilerini bireysel olarak uygulayabilir hâle geldiklerini gözlemler.\nBuna göre Sezer Öğretmen’in kullandığı öğretim yöntem veya tekniği aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Görüş geliştirme",
+            "Kuantum öğrenme",
+            "Beyin eseri",
+            "Bilişsel çıraklık",
+            "Gösterip yaptırma"
+          ],
+          "dogruCevap": "Bilişsel çıraklık"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi akran öğretimi tekniğinin kullanılma gerekçesi olamaz?",
+          "secenekler": [
+            "Benzer bilişsel özelliklere sahip akranların birlikte daha iyi öğrenmesi",
+            "Öğrencilerin rekabet ederek daha iyi öğrenmelerine olanak sağlaması",
+            "Öğrencilere daha fazla dikkat ve duygusal destek sunması",
+            "Öğrencilere kendi öğrenme stillerine uygun yaşantılar sağlaması",
+            "Öğrenenle birlikte öğretmenlerin de öğrenmesi"
+          ],
+          "dogruCevap": "Öğrencilerin rekabet ederek daha iyi öğrenmelerine olanak sağlaması"
+        },
+        {
+          "soru": "Eğitim fakültesi öğrencisi Ayşe, tartışma yöntem veya tekniklerini birbirine karıştırdığı için televizyondaki tartışma programlarını izlemeye karar vermiştir. Bir programda bir yöneticinin başkanlığında, dört katılımcının bir seyirci topluluğuyla birlikte, güncel siyasi bir olay üzerindeki tartışmalarını izlemiştir.\nBuna göre Ayşe’nin televizyonda izlediği programda, aşağıdaki öğretim yöntem veya tekniklerinden hangisi kullanılmıştır?",
+          "secenekler": [
+            "Sempozyum",
+            "Konferans",
+            "Açık oturum",
+            "Zıt panel",
+            "Münazara"
+          ],
+          "dogruCevap": "Açık oturum"
+        }
+
+      ],
+      "2017 Kpss Eğitim Bilimleri Çıkmış Sorular 2": [
+        {
+          "soru": "Bir okul öncesi öğretmeni, çocukların empati becerilerini geliştirmek için sınıfta bir oyun canlandırır. Oyun bittikten sonra çocukların kendilerini oyundaki karakterlerden birinin yerine koyarak görüş ve düşüncelerini belirtmelerini ister. Böylece, çocukların hem empati hem de sözel iletişim becerilerinin gelişimine katkı sağlamış olur.\nBuna göre öğretmen, aşağıdaki öğretim yöntem veya tekniklerinden hangisini kullanmıştır?",
+          "secenekler": [
+            "Konuşma halkası",
+            "Görüş geliştirme",
+            "Kartopu",
+            "Eğitsel oyun",
+            "İstasyon"
+          ],
+          "dogruCevap": "Konuşma halkası"
+        },
+        {
+          "soru": "Büşra Öğretmen, dersinde öğrencilerden iç içe iki çember oluşturmuştur. İç çemberdeki öğrencileri tartışmaya katarken dış çemberdeki öğrencilerin tartışmayı izlemelerini ve gerekirse iç çemberdeki öğrencilere soru sorabileceklerini söylemiştir.\nBuna göre Büşra Öğretmen, derste aşağıdaki öğretim yöntem veya tekniklerinden hangisini kullanmıştır?",
+          "secenekler": [
+            "Açık oturum",
+            "Akvaryum",
+            "Kartopu",
+            "Zıt panel",
+            "Konuşma halkası"
+          ],
+          "dogruCevap": "Akvaryum"
+        },
+        {
+          "soru": "Sema Öğretmen, seçtiği öğretim yönteminin olumsuzluklarını azaltmak için kendisini dinleyen öğrencilere sık sık tekrarlar yapmaktadır. Yeni öğrenilen bilginin uzun süreli hafızaya geçiş sürecini kolaylaştırmak ve zihinsel kodlamayı desteklemek için konuyla ilgili kavramları içeren kısa hikâyeler ve görseller kullanmaktadır. Ayrıca aralıksız konuşma süresini 15 dakikadan fazla tutmamaktadır.\nBuna göre Sema Öğretmen’in seçtiği bu öğretim yöntem veya tekniği aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Anlatım",
+            "Soru-cevap",
+            "Çember",
+            "Örnek olay",
+            "Büyük grup tartışması"
+          ],
+          "dogruCevap": "Anlatım"
+        },
+        {
+          "soru": "Bilge Öğretmen, bölme işlemini öğrenemeyen öğrencisi için bir programlı öğretim materyali ve materyalin kullanımı için aşağıdaki yönergeyi hazırlar:\nI. Çıkarma, çarpma ve bölme öğrenme adımları vardır. Her öğrenme adımı küçük birimler hâlinde analiz edilmiştir.\nII. Her öğrenme adımında öğrencinin ne yapacağı belirtilmiştir.\nIII. Her öğrenme adımında öğrencinin cevaplaması gereken sorular vardır ve bu sorular öğrencinin başarılı olmasına fırsat verecek düzeydedir.\nIV. Öğrenciden soruları cevapladıktan sonra bir sonraki sayfada verilen cevaplara bakması, doğru ve yanlışlarını belirlemesi istenir. Ardından öğrenci bir sonraki öğrenme adımına geçer.\nV. Öğrenci kendi isteğine göre hızlı veya yavaş çalışabilir.\nProgramlı öğretimin temel ilkeleri düşünüldüğünde yukarıdaki ifadelerden hangisinde bir eksiklik bulunmaktadır?",
+          "secenekler": [
+            "I",
+            "II",
+            "III",
+            "IV",
+            "V"
+          ],
+          "dogruCevap": "IV"
+        },
+        {
+          "soru": "Öğrencilerine, aralarındaki rekabet duygusunu ortadan kaldırıp birlikte çalışma becerisini kazandırmayı amaçlayan bir öğretmen aşağıdaki öğretim yöntemlerinden hangisini kullanamaz?",
+          "secenekler": [
+            "Probleme dayalı öğrenme",
+            "Araştırma incelemeye dayalı öğretim",
+            "İşbirliğine dayalı öğrenme",
+            "Proje tabanlı öğretim",
+            "Programlı öğretim uygulaması"
+          ],
+          "dogruCevap": "Programlı öğretim uygulaması"
+        },
+        {
+          "soru": "Bir ünitede tam öğrenme modelini uygulayan Melike Öğretmen, kazanımlara göre öğretim etkinliklerine başlamıştır. Derslerde öncelikle öğrencileri küçük gruplara ayırmış, onlara çeşitli sorular sormuş, verilen doğru cevapları \"Aferin, çok güzel!\" gibi sözlerle karşılarken yanlış cevap veren öğrencileri doğru cevaba yöneltecek bazı sözel işaretler kullanmıştır. Daha sonra eksik ve yanlışları belirtmiş, cevapların nasıl olması gerektiğini de açıklamıştır. Bütün bunlara rağmen ünite sonunda yaptığı düzey belirleme testi sonucunda beklediği tam öğrenmenin gerçekleşmediğini görmüştür.\nBuna göre Melike Öğretmen, tam öğrenme modelinin aşağıdaki temel ilkelerinden hangisini göz ardı etmiştir?",
+          "secenekler": [
+            "Öğrenci katılımını sağlama",
+            "Giriş davranışlarını tamamlama",
+            "Dönüt verme",
+            "İpucu verme",
+            "Düzeltme yapma"
+          ],
+          "dogruCevap": "Giriş davranışlarını tamamlama"
+        },
+        {
+          "soru": "Sınıf yönetiminde “öğretmenlerin, öğrencilerinden gelecekte neleri yapıp neleri yapmayacakları konusundaki beklentilerine ilişkin alınmış hazır kararlar” olarak bilinen sınıf içi kurallar, aşağıdaki sınıf yönetimi yaklaşımlarından hangisinin anlayışıdır?",
+          "secenekler": [
+            "Önlemsel",
+            "Davranışsal",
+            "Gelişimsel",
+            "Bütünsel",
+            "Tepkisel"
+          ],
+          "dogruCevap": "Önlemsel"
+        },
+        {
+          "soru": "Yelda Öğretmen ödevlerini yapmayan öğrencisine “ben dili” kullanarak mesaj vermek istediğinde;\nI. Ödevlerini yapmadığında zor ödev mi veriyorum acaba diye düşünüyorum.\nII. Daha iyi öğrenmen için ödevlerini yaparak gelmen gerekiyor.\nIII. Ödevlerini yapmadığında dersten geri kalıyorsun.\nIV. Ödevlerini yapmadığında öğrenemediğini görüyor ve üzüyorum.\nifadelerinden hangilerini kullanmalıdır?",
+          "secenekler": [
+            "I ve II",
+            "I ve III",
+            "I ve IV",
+            "II ve IV",
+            "I, III ve IV"
+          ],
+          "dogruCevap": "I ve IV"
+        },
+        {
+          "soru": "İlkokul birinci sınıf öğrencisi Aydın, derslerde sık sık uyuklamakta ve bu durum sınıf arkadaşlarının dikkatini dağıtmaktadır. Aydın uyukladığında öğrenciler, “Aydın yine uyudu.” diye öğretmene seslenmektedirler.\nÖğretmenin bu durumla baş etmek için kullanacağı en uygun yöntem aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Öğrencinin her teneffüste yüzünü yıkamasını sağlamak",
+            "Öğrencinin velisini bilgilendirerek iş birliği istemek",
+            "Derste öğrenciyi sık sık tahtaya kaldırmak",
+            "Öğrenciyi en arka sıraya oturtmak",
+            "Öğrenciye teneffüslerde hareket etmesini söylemek"
+          ],
+          "dogruCevap": "Öğrencinin velisini bilgilendirerek iş birliği istemek"
+        },
+        {
+          "soru": "Ali Öğretmen, iskelet sistemi sağlığını korumak için neler yapılması gerektiğini öğrencileriyle tartıştığı derste, doğru ve yanlış biçimde çanta taşıyan, çantayı yanlış taşıdıkları için duruşları bozuk olan öğrenci fotoğraflarını sınıfa gösterir.\nAli Öğretmen’in fotoğraflar yerine aşağıdaki yaşantılardan hangisini tercih etmesi daha etkilidir?",
+          "secenekler": [
+            "Hareketli resimlerle gözlemlenen",
+            "Modellerle deneyimlenen",
+            "Doğrudan ve amaçlı yapılan",
+            "Gezi-gözlem yoluyla edinilen",
+            "Sözel sembollerle kazanılan"
+          ],
+          "dogruCevap": "Doğrudan ve amaçlı yapılan"
+        },
+        {
+          "soru": "Bir öğretim materyalinin geliştirilmesinde yapılacak işlemler aşağıda verilmiştir:\nI. Hedeflerin analiz edilmesi\nII. Teknoloji, araç-gerecin seçilmesi\nIII. Materyalin hazırlanması\nIV. Öğretim yönteminin belirlenmesi\nBu işlemlerin doğru sıralaması aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "I, IV, II, III",
+            "I, IV, III, II",
+            "IV, I, III, II",
+            "IV, I, II, III",
+            "II, IV, I, III"
+          ],
+          "dogruCevap": "I, IV, II, III"
+        },
+        {
+          "soru": "Fen bilimleri dersinde destek ve hareket konusunu işleyen Hatice Öğretmen, konu tamamlandıktan sonra öğrencilerden konuya ilişkin birer kavram haritası hazırlamalarını istemiştir. Öğrencilere yol göstermek amacıyla kavram haritası için yerine getirilmesi gereken işlemlerle ilgili bir liste hazırlayıp dağıtmıştır.\nBuna göre listede aşağıdakilerden hangisinin yer alması beklenmez?",
+          "secenekler": [
+            "Kavramlar arasındaki ilişkiyi gösteren çizgilerin yön belirtmesi",
+            "Kavramlarla ilgili geniş açıklamalara yer verilmesi",
+            "Konuyla ilgili kavramların listelenmesi",
+            "Kavramların genelden özele doğru bir sıra izlenerek yazılması",
+            "Tekrar yazılması gereken kavramların çapraz çizgiyle birinciye bağlanması"
+          ],
+          "dogruCevap": "Kavramlarla ilgili geniş açıklamalara yer verilmesi"
+        }
+      ],
+      "2017 Kpss Eğitim Bilimleri Çıkmış Sorular 3": [
+        
+          {
+            "soru": "Aysel Öğretmen, öğrencileri arasındaki iletişim sorunlarını çözmek için onlarla birlikte hafta sonları gezi, sinema, tiyatro, spor müsabakaları gibi etkinliklere gitmeyi planlayarak bu etkinlikleri dönem boyunca sürdürmüştür.\nBuna göre Aysel Öğretmen’in planladığı etkinlikler aşağıdaki program türlerinden hangisine örnektir?",
+            "secenekler": [
+              "İhmal edilen",
+              "Resmî",
+              "Örtük",
+              "Ekstra",
+              "Kübik"
+            ],
+            "dogruCevap": "Ekstra"
+          },
+          {
+            "soru": "Okul Müdürü Fırat Bey öğretmenlerle yaptığı yıl sonu değerlendirme toplantısında \"Arkadaşlar, öğrencilerimizin problem çözme becerilerini geliştirmek için önümüzdeki yıl derslerde nasıl bir yol izlemeliyiz?\" diye sorar. Bunun üzerine öğretmenler, derslerde özellikle araştarma-inceleme stratejisi, işbirliğine dayalı öğrenme ve proje tabanlı öğrenme gibi yaklaşımların kullanılması gerektiğini söylerler. Ayrıca, öğrencilerde üst düzey düşünme becerilerinin geliştirilmesi için bilginin mutlak doğru olmadığı fikrinin vurgulanmasını ve problem çözerken tek bir çözüm yolu yerine alternatif çözüm yollarının denenebileceği konusunda öğrencilerin cesaretlendirilmesini önerirler.\nBu önerileri sunan öğretmenlerin eğitim felsefesi aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Daimîcilik",
+              "Esasicilik",
+              "Varoluşçuluk",
+              "Yeniden kurmacılık",
+              "İlerlemecilik"
+            ],
+            "dogruCevap": "İlerlemecilik"
+          },
+          {
+            "soru": "Bir dersin programını geliştirmek amacıyla kurulan komisyon, ilk olarak ulusal ve uluslararası kaynak ve raporları inceleyerek o dersle ilgili bilgi, değer ve beceri boyutlarına ilişkin eğilimleri tespit etmiştir. Sonra bu bilgileri bir ölçme aracına dönüştürerek ülke çapında öğrencilerden beklenen bilgi; değer ve becerileri mevcut durumları göz önünde bulundurarak belirlemiştir.\nBuna göre program geliştirme komisyonunun kullandığı ihtiyaç analizi yaklaşımları, aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+            "secenekler": [
+              "Analitik - Farklar",
+              "Demokratik - Farklar",
+              "Demokratik - Analitik",
+              "Analitik - Demokratik",
+              "Farklar - Demokratik"
+            ],
+            "dogruCevap": "Analitik - Farklar"
+          },
+          {
+            "soru": "Müzik dersinde “Bir besteyi kurallarına uygun icra eder.” şeklinde ifade edilen bir kazanım aşağıdaki devinişsel alan basamaklarından hangisine örnektir?",
+            "secenekler": [
+              "Uyarılma",
+              "Kılavuz denetiminde yapma",
+              "Beceri hâline getirme",
+              "Duruma uydurma",
+              "Yaratma"
+            ],
+            "dogruCevap": "Beceri hâline getirme"
+          },
+          {
+            "soru": "Bir öğretim üyesi, program geliştirme dersinde öğrencilere içerik düzenlemenin ilkeleriyle ilgili bilgi verirken ünite başlarında veya sonlarında sorular sorulması gerektiğini vurgulamıştır.\nBuna göre öğretim üyesinin vurguladığı içerik düzenleme ilkesi aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Soyutlama",
+              "Vardama",
+              "Düzey",
+              "Şema",
+              "Alıştırma"
+            ],
+            "dogruCevap": "Alıştırma"
+          },
+          {
+            "soru": "Öğretmenlerin;\nI. Mesleki yönelim envanteri sonuçlarını kullanarak mesleki rehberlik hizmeti sağlamak,\nII. Öğrencilerin bir derste başarılı olup olmadıklarını final sınavıyla belirlemek,\nIII. Öğretimi düzenlemek amacıyla öğrencilerin kavram yanılgılarını ortaya çıkarmak\namacıyla gerçekleştirdikleri değerlendirme durumlarından hangileri değer biçmeyi hedefler?",
+            "secenekler": [
+              "Yalnız I",
+              "Yalnız II",
+              "Yalnız III",
+              "I ve II",
+              "II ve III"
+            ],
+            "dogruCevap": "Yalnız II"
+          },
+          {
+            "soru": "Çoktan seçmeli sorulardan oluşan bir sınavda, doğru cevaplar tüm seçeneklere eşit olacak şekilde rastgele dağıtılmış ve öğrencilere bu durum bildirilmiştir. Öğrencilerin, doğruluğundan emin olmadıkları sorulara cevap verirken emin olarak işaretledikleri seçeneklerden sayıca az olanlarına gittikleri ve tüm sorularda işaretleme yaptıkları görülmüştür. Daha sonra aynı testteki doğru cevaplar, seçeneklere tam olarak eşit olmayacak şekilde dağıtılıp eşdeğer bir gruba bu durum bildirilerek sınav yeniden uygulanmıştır. Bu durumda öğrencilerin soruları boş bırakma davranışlarında artış görülmüştür.\nBuna göre, öğrencilerin soruları boş bırakma davranışındaki artışın nedeni aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Testin objektifliğinin düşmesi",
+              "Aynı seçeneğe denk gelen doğru sayısının art arda olma ihtimalinin azalmış olması",
+              "Sınavdan alınan ham puanların standart sapmasının düşmesi",
+              "Doğru cevapların yerinin belirli bir örüntü göstermiyor olması",
+              "Doğru cevabı tahmin etme olasılığının düşmesi"
+            ],
+            "dogruCevap": "Doğru cevabı tahmin etme olasılığının düşmesi"
+          },
+          {
+            "soru": "Bir ölçme aracından elde edilen puanların güvenirliği, test-tekrar test uygulaması ile hesaplanmış ve yüksek bir güvenirlik katsayısı elde edilmiştir.\nBu bilgiye dayalı olarak;\nI. Test ikinci kez uygulandığında başarı sıralaması yaklaşık olarak aynı kalır.\nII. Bu ölçme aracı, kullanım amacına yeterince uygundur.\nIII. Amaç göz önüne alındığında, bu ölçme işlemi için harcanan kaynaklar makuldür.\nçıkarımlarından hangileri doğrudur?",
+            "secenekler": [
+              "Yalnız I",
+              "Yalnız II",
+              "I ve II",
+              "I ve III",
+              "II ve III"
+            ],
+            "dogruCevap": "Yalnız I"
+          },
+          {
+            "soru": "Başarının ölçüldüğü bir sınavda yer alan çoktan seçmeli bir maddedeki nitelikli bir çeldiriciyi, aşağıdaki öğrenci gruplarından hangisinin seçmesi istenir?",
+            "secenekler": [
+              "Kopya çekenlerin",
+              "Ortalama civarındakilerin",
+              "Çoğunluğun",
+              "Dikkatsizlerin",
+              "Konuyu bilmeyenlerin"
+            ],
+            "dogruCevap": "Konuyu bilmeyenlerin"
+          },
+          {
+            "soru": "Aşağıdaki kazanımlardan hangisi, yenilenmiş Bloom taksonomisinin değerlendirme boyutundadır?\nA) Testten elde edilen verilere göre madde ayırt edicilik indekslerini hesaplar.\nB) Verilen bir maddenin ölçtüğü beceri alanını belirler.\nC) Bir testin, belirtke tablosuna uygun olup olmadığına karar verir.\nD) Ölçek türlerinin özelliklerini açıklar.\nE) Verilen bir belirtke tablosuna göre uygun maddeler yazar.",
+            "secenekler": [
+              "Testten elde edilen verilere göre madde ayırt edicilik indekslerini hesaplar.",
+              "Verilen bir maddenin ölçtüğü beceri alanını belirler.",
+              "Bir testin, belirtke tablosuna uygun olup olmadığına karar verir.",
+              "Ölçek türlerinin özelliklerini açıklar.",
+              "Verilen bir belirtke tablosuna göre uygun maddeler yazar."
+            ],
+            "dogruCevap": "Bir testin, belirtke tablosuna uygun olup olmadığına karar verir."
+          },
+          {
+            "soru": "Hasan ve sınıf arkadaşlarına, matematik ve fizik derslerinden birer test uygulanmıştır. Hasan’ın matematik ve fizik testi puanlarının sınıf arkadaşlarının aldığı puanlarla karşılaştırılması amaçlanmaktadır.\nMatematik ve fizik testlerinden elde edilen puanlar normal dağılıma sahip olduğuna göre, bu karşılaştırmanın yapılabilmesi için aşağıdaki bilgilerden hangisi tek başına yeterlidir?\nA) Öğrencinin ham puanları\nB) Öğrencinin standart puanları\nC) Dağılımların varyansları\nD) Dağılımların ortalamaları\nE) Dağılımların ranjları",
+            "secenekler": [
+              "Öğrencinin ham puanları",
+              "Öğrencinin standart puanları",
+              "Dağılımların varyansları",
+              "Dağılımların ortalamaları",
+              "Dağılımların ranjları"
+            ],
+            "dogruCevap": "Öğrencinin standart puanları"
+          },
+          {
+            "soru": "Sınıf öğretmeni, ilkokul ikinci sınıfa devam eden Emel’in annesine yaptığı açıklamada \"(I) Kalemi geçen seneye göre artık çok daha düzgün tutuyor ve yazarken zorlanmıyor. Fakat (II) derste genellikle başka şeylerle ilgileniyor ve (III) çoğunlukla, ev ödevlerini bitirmeden geliyor.\" demiştir.\nÖğretmenin yaptığı bu açıklamaların ilişkili olduğu öğrenmeyi etkileyen faktörler, aşağıdakilerden hangisinde sırasıyla verilmiştir?\nA) Olgunlaşma - Güdülenme - Transfer\nB) Büyüme - Etkin katılım - Kaygı\nC) Olgunlaşma - Dikkat - Öğrenmeye ayrılan zaman\nD) Büyüme - Kaygı - Etkin katılım\nE) Güdülenme - Etkin katılım - Dikkat",
+            "secenekler": [
+              "Olgunlaşma - Güdülenme - Transfer",
+              "Büyüme - Etkin katılım - Kaygı",
+              "Olgunlaşma - Dikkat - Öğrenmeye ayrılan zaman",
+              "Büyüme - Kaygı - Etkin katılım",
+              "Güdülenme - Etkin katılım - Dikkat"
+            ],
+            "dogruCevap": "Olgunlaşma - Dikkat - Öğrenmeye ayrılan zaman"
+          }
+        
+      ],
+      "2017 Kpss Eğitim Bilimleri Çıkmış Sorular 4": [
+        {
+          "soru": "Onuncu sınıf öğrencisi Ömer, İngilizce sınavında kopya çekme girişiminde bulunmuştur. Bu girişimi fark eden öğretmen, dönem başında Ömer’e verdiği ve Ömer’in de sahip olmaktan gurur duyduğu ders asistanı unvanını ondan geri aldığını söylemiştir.\nÖmer’in kopya çekme girişimine yönelik, öğretmenin bu uygulaması aşağıdaki kavramlardan hangisiyle açıklanır?",
+          "secenekler": [
+            "I. tip ceza",
+            "Dolaylı ceza",
+            "Olumsuz pekiştireç",
+            "II. tip ceza",
+            "Premack ilkesi"
+          ],
+          "dogruCevap": "II. tip ceza"
+        },
+        {
+          "soru": "Tanınmış bir öykü yazarı olan Melike Derin’in soyadı, evlendikten sonra Tunç olur. Melike Hanım, okurlarının Melike Derin ile Melike Tunç’un aynı kişi olduğunu öğrenmeleri için yeni kitaplarında adını bir süre Melike Derin Tunç, sonra sadece Melike Tunç olarak kullanılır. Okurlar, Melike Derin ile Melike Tunç’un aynı kişi olduğunu öğrenir.\nBuna göre okurların, Derin ve Tunç soyadlarının aynı kişiye ait olduğunu öğrenmeleri için Melike Hanım’ın kullandığı yöntem aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Benzeterek tepkide bulunma",
+            "Çağrışımsal geçiş",
+            "Tepki çeşitliliği",
+            "Dolaylı öğrenme",
+            "Etkinin yayılması"
+          ],
+          "dogruCevap": "Çağrışımsal geçiş"
+        },
+        {
+          "soru": "Nermin Hanım, köpeğine her sabah kapıya bırakılan gazeteyi alıp eve getirmesini öğretmek istemektedir. Bu davranışı köpeğine öğretmek için onu çok sevdiği kemik şeklindeki küçük krakerlerle ödüllendirmeye karar vermiştir. İlk birkaç hafta köpeğinin gazeteyi kapıdan alıp eve getirdiğinde bu krakerden köpeğine vererek onu ödüllendirmiştir, köpeği de bu davranışı kazanmış görünmektedir. Ancak, sonraki günlerde eve kraker almayı unuttuğu için köpeği gazeteyi kapıdan alıp eve getirse de ona kraker verememiştir. Sonuç olarak Nermin Hanım, köpeğinin kazandığı bu davranışın devamlılığını sağlayamamıştır.\nNermin Hanım bu uygulamasında koşullamayla ilgili aşağıdakilerden hangisini göz ardı etmiştir?",
+          "secenekler": [
+            "Bir tepkinin sürekli pekiştirilmesi, aralıklı pekiştirilmesine oranla o tepkinin daha hızlı kazanılmasını sağlar.",
+            "Koşulsuz uyarıcı ortamda yokken koşullu uyarıcı tekrar tekrar verilirse koşullu tepki azalır ve zamanla yok olabilir.",
+            "Birincil ve ikincil pekiştireçlerden hangisinin etkili olacağı koşullara göre değişir.",
+            "Davranışın kazanılmasında pekiştirme tarifesi kadar pekiştirecin türü de önemlidir.",
+            "İstenilen davranış değişikliği sağladıktan sonra sönmemesi için aralıklı pekiştirilmenin sürdürülmesi gerekir."
+          ],
+          "dogruCevap": "İstenilen davranış değişikliği sağladıktan sonra sönmemesi için aralıklı pekiştirilmenin sürdürülmesi gerekir."
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi öz yeterlik düzeyi düşük olan bir öğrenci yaklaşımıdır?\nA) Barış, kimya sınavından yüksek puan alamayınca üniversitede kimya bölümü dışında tercih yapmayı düşünmektedir.\nB) Pınar, coğrafya dersinde zorlandığı hâlde düzenli çalışarak başarılı olabileceğine inanmaktadır.\nC) Sinem, fizik sınavında daha fazla sayıda soru çözebilmek için fizik dersinden bireysel ders almak istemektedir.\nD) Müge, tarih sınavından düşük puan aldığı için bir sonraki sınava daha uzun süre çalışmayı planlamaktadır.\nE) Kemal, geometri sınavından düşük puan aldığı için öğretmeninden etkili çalışma yöntemleriyle ilgili bilgi almaya hedeflemektedir.",
+          "secenekler": [
+            "Barış, kimya sınavından yüksek puan alamayınca üniversitede kimya bölümü dışında tercih yapmayı düşünmektedir.",
+            "Pınar, coğrafya dersinde zorlandığı hâlde düzenli çalışarak başarılı olabileceğine inanmaktadır.",
+            "Sinem, fizik sınavında daha fazla sayıda soru çözebilmek için fizik dersinden bireysel ders almak istemektedir.",
+            "Müge, tarih sınavından düşük puan aldığı için bir sonraki sınava daha uzun süre çalışmayı planlamaktadır.",
+            "Kemal, geometri sınavından düşük puan aldığı için öğretmeninden etkili çalışma yöntemleriyle ilgili bilgi almaya hedeflemektedir."
+          ],
+          "dogruCevap": "Barış, kimya sınavından yüksek puan alamayınca üniversitede kimya bölümü dışında tercih yapmayı düşünmektedir."
+        },
+        {
+          "soru": "Çetin ve Mehmet evlerinin bahçesinde birlikte oynarlarken duvarda büyük bir örümcek görmüşlerdir. Önceleri örümcekten korkmayan Çetin, Mehmet’in çığlık atarak eve doğru koştuğunu görünce bir süre duraklamış ve ardından o da çığlık atarak eve koşmuştur. O günden sonra Çetin ne zaman örümcek görse ortamdan koşarak uzaklaşmıştır.\nÇetin’in örümceklerden korkmaya başlaması, sosyal öğrenme kuramının aşağıdaki kavramlarından hangisiyle açıklanır?",
+          "secenekler": [
+            "Dolaylı pekiştirme",
+            "Kendini düzenleme",
+            "Dolaylı duygu",
+            "Dolaylı ceza",
+            "Kendini yargılama"
+          ],
+          "dogruCevap": "Dolaylı duygu"
+        },
+        {
+          "soru": "Şükran Öğretmen, öğrencilerine yaptıkları sunumlarla ilgili dönüt verirken \"Sunumunuz sırasında bilgisayardaki ses ve görüntüler çok dikkat çekiciydi, bu da sizin anlatımınızın geride kalmasına neden oldu. Oysa ders anlatırken bilgisayarı yalnızca bir araç olarak kullanmalısınız, sunumda ön planda olan sizin anlattıklarınız olmalı.\" demiştir.\nŞükran Öğretmen verdiği bu dönütle, Gestalt kuramının aşağıdaki algı yasalarından hangisini vurgulamıştır?",
+          "secenekler": [
+            "Devamlılık",
+            "Yakınlık",
+            "Tamamlama",
+            "Şekil-zemin",
+            "Benzerlik"
+          ],
+          "dogruCevap": "Şekil-zemin"
+        },
+        {
+          "soru": "Emine’nin anneannesi, eski günlerden bahsederken bazen Emine’nin doğduğu günü de anlatmaktadır. Saat kaçta doğduğunu, o gün havanın nasıl olduğunu, ona hangi renk kıyafetler giydirdiğini en ince ayrıntısına kadar hatırlamaktadır. Bilgiyi işleme modeline göre, Emine’nin anneannesinin kullandığı bellek türü aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Anlamsal",
+            "Anısal",
+            "Kısa süreli",
+            "Duyusal",
+            "İşlemsel"
+          ],
+          "dogruCevap": "Anısal"
+        },
+        {
+          "soru": "Dört yaşındaki Ayça, annesiyle gittiği bir oyuncakçıda gördüğü bebeği almak ister. Annesi, bebeği istiyorsa kendi parasıyla alabileceğini söyleyince Ayça eve gidip kumbarasından ödemek üzere annesinden borç ister. Eve döndüklerinde, Ayça bebeğin ödenen 14 lirasını kumbarasından çıkardığı 1’er liralık demir paralarla annesine verirken, annesi kumbaradaki kâğıt 10 lirayı görüp, \"Ayça ben bu 10 lirayı ve 4 tane de demir parayı alsam olur mu?\" diye sorar. Bunun üzerine Ayça, \"Yaşasın! Olur tabi, böylece kumbaradan daha az param gider.\" diyerek sevinir.\nPiaget’nin bilişsel gelişim kuramına göre, Ayça’nın bu sevinci aşağıdaki bilişsel gelişim özelliklerinden hangisini henüz kazanamadığını gösterir?",
+          "secenekler": [
+            "Benmerkezcilik",
+            "Nesne sürekliliği",
+            "Korunum",
+            "Tersine çevirme",
+            "Hipotetik düşünme"
+          ],
+          "dogruCevap": "Korunum"
+        },
+        {
+          "soru": "Dil gelişimiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?\nA) Chomsky’e göre insanlar doğuştan bütün dilleri öğrenebilecek kapasiteye sahiptir.\nB) Davranışçı kurama göre dil öğrenme, tekrar ve pekiştirme sonucu gerçekleşir.\nC) Normal gelişim gösteren çocuklar genel olarak bir yaş civarında ilk anlamlı sözcükleri kullanmaya başlarlar.\nD) Çocukların tek bir kelimeyi farklı anlam içeren cümleler yerine kullanmasına morgem denir.\nE) Bebeğin babıldama evresinde çıkardığı sesler ana diline özgüdür.",
+          "secenekler": [
+            "Chomsky’e göre insanlar doğuştan bütün dilleri öğrenebilecek kapasiteye sahiptir.",
+            "Davranışçı kurama göre dil öğrenme, tekrar ve pekiştirme sonucu gerçekleşir.",
+            "Normal gelişim gösteren çocuklar genel olarak bir yaş civarında ilk anlamlı sözcükleri kullanmaya başlarlar.",
+            "Çocukların tek bir kelimeyi farklı anlam içeren cümleler yerine kullanmasına morgem denir.",
+            "Bebeğin babıldama evresinde çıkardığı sesler ana diline özgüdür."
+          ],
+          "dogruCevap": "Bebeğin babıldama evresinde çıkardığı sesler ana diline özgüdür."
+        }
+      ],
+
       "Eğitime İlişkin Temel Kavramlar": [
         {
           "soru": "Eğitim hangi süreçle bireyde davranış değişikliği meydana getirir?",
