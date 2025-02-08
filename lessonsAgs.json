@@ -204,8 +204,8 @@
         }
       ]
     },
-    "Türk Millî Eğitim Sistemi" : {
-      "Türk Eğitim Sisteminin Yapısı" : [
+    "Türk Millî Eğitim Sistemi": {
+      "Türk Eğitim Sisteminin Yapısı": [
         {
           "baslik": "Türk Millî Eğitim Sisteminin Genel Yapısı",
           "metin": "Türkiye’de eğitim, devletin temel işlevlerinden biri olup devletin denetimi ve gözetimi altında yapılmaktadır. Türk Millî Eğitim Bakanlığı; merkez örgütü, taşra örgütü ve yurtdışı örgütü olarak üç ana bölümden oluşur."
@@ -231,7 +231,7 @@
           "metin": "Bu KHK, Millî Eğitim Bakanlığının taşra teşkilâtı, inşaat ve emlak işleri ile personel atamalarına ilişkin düzenlemeleri kapsamaktadır."
         }
       ],
-      "Öğretimin Basamaklandırılması" : [
+      "Öğretimin Basamaklandırılması": [
         {
           "baslik": "Türk Millî Eğitim Sisteminin Genel Yapısı",
           "metin": "Türkiye'de eğitim, devletin temel işlevlerinden biri olup devletin denetimi ve gözetimi altında yapılmaktadır. Millî Eğitim Bakanlığı merkez örgütü, taşra örgütü ve yurtdışı örgütü biçiminde yapılanmıştır. Millî Eğitim Bakanlığı yapısına bugünkü biçimini veren Cumhurbaşkanlığı Kararnamesi No. 1, No. 2 ve No. 3 ile 652 sayılı KHK bulunmaktadır."
@@ -295,13 +295,249 @@
           "metin": "Devlet, belirli işlevlerin yürütülmesini gönüllü örgütlere vakıf, dernek, sendika vb. kuruluşlara ya da özel bir girişimciye devreder."
         }
       ]
-      
-      
-      
-    
     },
-    "Mevzuat" : {
-      "Türk Milli Eğitiminin Amaçları" : [
+    "Mevzuat": {
+      "1739 sayılı Millî Eğitim Temel Kanunu - Birinci Kısım": [
+        {
+          "baslik": "MADDE 1",
+          "metin": "Bu kanun, Türk milli eğitiminin düzenlenmesinde esas olan amaç ve ilkeler, eğitim sisteminin genel yapısı, öğretmenlik mesleği, okul bina ve tesisleri, eğitim araç ve gereçleri ve Devletin eğitim ve öğretim alanındaki görev ve sorumluluğu ile ilgili temel hükümleri bir sistem bütünlüğü içinde kapsar."
+        },
+        {
+          "baslik": "MADDE 2 - Genel Amaçlar",
+          "metin": "Türk Millî Eğitiminin genel amacı, Türk Milletinin bütün fertlerini:\n\n1. Atatürk inkılâplarına ve Anayasanın başlangıcında ifadesini bulan Türk milliyetçiliğine bağlı; Türk Milletinin milli, ahlâkî, insani, manevi ve kültürel değerlerini benimseyen, koruyan ve geliştiren; ailesini, vatanını, milletini seven ve daima yüceltmeye çalışan; insan haklarına ve Anayasanın başlangıcındaki temel ilkelere dayanan millî, demokratik, lâik, sosyal bir hukuk devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen ve bunları davranış haline getirmiş yurttaşlar olarak yetiştirmek;\n\n2. Beden, zihin, ahlâk, ruh ve duygu bakımlarından dengeli ve sağlıklı şekilde gelişmiş bir kişiliğe ve karaktere, hür ve bilimsel düşünme gücüne, geniş bir dünya görüşüne sahip, insan haklarına saygılı, kişilik ve teşebbüse değer veren, topluma karşı sorumluluk duyan; yapıcı, yaratıcı ve verimli kişiler olarak yetiştirmek;\n\n3. İlgi, istidat ve kabiliyetlerini geliştirerek gerekli bilgi, beceri, davranışlar ve birlikte iş görme alışkanlığı kazandırmak suretiyle hayata hazırlamak ve onların, kendilerini mutlu kılacak ve toplumun mutluluğuna katkıda bulunacak bir meslek sahibi olmalarını sağlamak;"
+        },
+        {
+          "baslik": "MADDE 3 - Özel Amaçlar",
+          "metin": "Türk eğitim ve öğretim sistemi, bu genel amaçları gerçekleştirecek şekilde düzenlenir ve çeşitli derece ve türdeki eğitim kurumlarının özel amaçları, genel amaçlara ve temel ilkelere uygun olarak tespit edilir."
+        },
+        {
+          "baslik": "MADDE 4 - Genellik ve Eşitlik",
+          "metin": "Eğitim kurumları dil, ırk, cinsiyet ve din ayırımı gözetilmeksizin herkese açıktır. Eğitimde hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz."
+        },
+        {
+          "baslik": "MADDE 5 - Ferdin ve Toplumun İhtiyaçları",
+          "metin": "Milli eğitim hizmeti, Türk vatandaşlarının istek ve kabiliyetleri ile Türk toplumunun ihtiyaçlarına göre düzenlenir."
+        },
+        {
+          "baslik": "MADDE 6 - Yöneltme",
+          "metin": "Fertler, eğitimleri süresince, ilgi, istidat ve kabiliyetleri ölçüsünde ve doğrultusunda çeşitli programlara veya okullara yöneltilerek yetiştirilirler. Milli Eğitim sistemi, her bakımdan, bu yöneltmeyi gerçekleştirecek biçimde düzenlenir. Yöneltmede ve başarının ölçülmesinde rehberlik hizmetlerinden ve objektif ölçme ve değerlendirme metotlarından yararlanılır."
+        },
+        {
+          "baslik": "MADDE 7 - Eğitim Hakkı",
+          "metin": "Temel eğitim görmek her Türk vatandaşının hakkıdır. Temel eğitim kurumlarından sonraki eğitim kurumlarından vatandaşlar ilgi, istidat ve kabiliyetleri ölçüsünde yararlanırlar."
+        },
+        {
+          "baslik": "MADDE 8 - Fırsat ve İmkan Eşitliği",
+          "metin": "Eğitimde kadın, erkek herkese fırsat ve imkân eşitliği sağlanır. Maddi imkânlardan yoksun başarılı öğrencilerin en yüksek eğitim kademelerine kadar öğrenim görmelerini sağlamak amacıyla parasız yatılılık, burs, kredi ve başka yollarla gerekli yardımlar yapılır. Özel eğitime ve korunmaya muhtaç çocukları yetiştirmek için özel tedbirler alınır."
+        },
+        {
+          "baslik": "MADDE 9 - Süreklilik",
+          "metin": "Fertlerin genel ve meslekî eğitimlerinin hayat boyunca devam etmesi esastır. Gençlerin eğitimi yanında, hayata ve iş alanlarına olumlu bir şekilde uymalarına yardımcı olmak üzere, yetişkinlerin sürekli eğitimini sağlamak için gerekli tedbirleri almak da bir eğitim görevidir."
+        },
+        {
+          "baslik": "MADDE 10 - Atatürk İnkılâpları ve Türk Milliyetçiliği",
+          "metin": "Eğitim sistemimizin her derece ve türü ile ilgili ders programlarının hazırlanıp uygulanmasında ve her türlü eğitim faaliyetlerinde Atatürk İnkılâpları ve Anayasanın başlangıcında ifadesini bulmuş olan Türk milliyetçiliği temel olarak alınır. Millî ahlâk ve millî kültürün bozulup yozlaşmadan kendimize has şekli ile evrensel kültür içinde korunup geliştirilmesine önem verilir. Millî birlik ve bütünlüğün temel unsurlarından biri olarak Türk dilinin, eğitimin her kademesinde, özellikleri bozulmadan ve aşırılığa kaçılmadan öğretilmesine önem verilir; çağdaş eğitim ve bilim dili halinde zenginleşmesine çalışılır ve bu maksatla Milli Eğitim Bakanlığınca gereken tedbirler alınır."
+        },
+        {
+          "baslik": "MADDE 11 - Demokrasi Eğitimi",
+          "metin": "Güçlü ve istikrarlı, hür ve demokratik bir toplum düzeninin gerçekleşmesi ve devamı için yurttaşların sahip olmaları gereken demokrasi bilincinin, yurt yönetimine ait bilgi, anlayış ve davranışlarla sorumluluk duygusunun ve manevî değerlere saygının, her türlü eğitim çalışmalarında öğrencilere kazandırılıp geliştirilmesine çalışılır; ancak, eğitim kurumlarında Anayasada ifadesini bulan Türk milliyetçiliğine aykırı siyasi ve ideolojik telkinler yapılmasına ve bu nitelikteki günlük siyasî olay ve tartışmalara karışılmasına hiçbir şekilde meydan verilmez."
+        },
+        {
+          "baslik": "MADDE 12 - Lâiklik",
+          "metin": "Türk eğitiminde lâiklik esastır. Din eğitimi ve öğrenimi ancak kişilerin kendi isteği ve küçüklerin de kanunî temsilcilerinin isteğine bağlı olarak verilir. Bu istek kayıt esnasında veliler tarafından okul idaresine yazılı olarak bildirilir."
+        },
+        {
+          "baslik": "MADDE 13 - Bilimsellik",
+          "metin": "Her derece ve türdeki ders programları ve eğitim metodlarıyla ders araç ve gereçleri, bilimsel ve teknolojik esaslara ve yeniliklere, çevre ve ülke ihtiyaçlarına göre sürekli olarak geliştirilir. Eğitimde verimliliğin artırılması ve sürekli olarak gelişme ve yenileşmenin sağlanması bilimsel araştırma ve değerlendirmelere dayalı olarak yapılır. Bilgi ve teknoloji üretmek ve kültürümüzü geliştirmekle görevli eğitim kurumları gereğince donatılıp güçlendirilir; bu yöndeki çalışmalar maddi ve manevî bakımdan teşvik edilir ve desteklenir."
+        },
+        {
+          "baslik": "MADDE 14 - Planlılık",
+          "metin": "Millî eğitimin gelişmesi iktisadi, sosyal ve kültürel kalkınma hedeflerine uygun olarak eğitim - insan gücü - istihdam ilişkileri dikkate alınmak suretiyle, sanayileşme ve tarımda modernleşmede gerekli teknolojik gelişmeyi sağlayacak meslekî ve teknik eğitime ağırlık verecek biçimde planlanır ve gerçekleştirilir. Mesleklerin kademeleri ve her kademenin unvan, yetki ve sorumlulukları kanunla tespit edilir ve her derece ve türdeki örgün ve yaygın mesleki eğitim kurumlarının kuruluş ve programları bu kademelere uygun olarak düzenlenir. Eğitim kurumlarının yer, personel, bina, tesis ve ekleri, donatım, araç, gereç ve kapasiteleri ile ilgili standartlar önceden tespit edilir ve kurumların bu standartlara göre optimal büyüklükte kurulması ve verimli olarak işletilmesi sağlanır."
+        },
+        {
+          "baslik": "MADDE 15 - Karma Eğitim",
+          "metin": "Okullarda kız ve erkek karma eğitim yapılması esastır. Ancak eğitimin türüne, imkân ve zorunluluklara göre bazı okullar yalnızca kız veya yalnızca erkek öğrencilere ayrılabilir."
+        },
+        {
+          "baslik": "MADDE 16 - Okul ile Ailenin İşbirliği",
+          "metin": "Eğitim kurumlarının amaçlarının gerçekleştirilmesine katkıda bulunmak için okul ile aile arasında işbirliği sağlanır. Bu maksatla kurulacak okul - aile birlikleri, maddî imkânlardan yoksun öğrenciler ile okulun veya okul tarafından seçilecek kardeş okulların zaruri ihtiyaçlarına sarf edilmek üzere her çeşit yardım ve bağış kabul edebilir. Yardım ve bağışların alınma, sarfedilme ve denetlenme şekil ve esasları Milli Eğitim Bakanlığınca hazırlanacak yönetmelikle düzenlenir."
+        },
+        {
+          "baslik": "MADDE 17 - Her Yerde Eğitim",
+          "metin": "Millî eğitimin amaçları yalnız resmî ve özel eğitim kurumlarında değil, aynı zamanda evde, çevrede, işyerlerinde, her yerde ve her fırsatta gerçekleştirilmeye çalışılır. Resmî, özel ve gönüllü her kuruluşun eğitimle ilgili faaliyetleri, Millî Eğitim amaçlarına uygunluğu bakımından Millî Eğitim Bakanlığının denetimine tabidir."
+        }
+      ],
+      "1739 sayılı Millî Eğitim Temel Kanunu - İkinci Kısım": [
+        {
+          "baslik": "MADDE 18 - Sistemin Genel Yapısı",
+          "metin": "Türk millî eğitim sistemi, örgün eğitim ve yaygın eğitim olmak üzere, iki anabölümden kurulur. Örgün eğitim, okul öncesi eğitimi, temel eğitim, ortaöğretim ve yükseköğretim kurumlarını kapsar. Yaygın eğitim, örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetlerinin tümünü kapsar."
+        },
+        {
+          "baslik": "MADDE 19 - Kapsam",
+          "metin": "Okul öncesi eğitimi, mecburî ilköğrenim çağına gelmemiş çocukların eğitimini kapsar. Bu eğitim isteğe bağlıdır."
+        },
+        {
+          "baslik": "MADDE 20 - Amaç ve Görevler",
+          "metin": "Okul öncesi eğitiminin amaç ve görevleri, millî eğitimin genel amaçlarına ve temel ilkelerine uygun olarak:\n1. Çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak;\n2. Onları temel eğitime hazırlamak;\n3. Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak;\n4. Çocukların Türkçeyi doğru ve güzel konuşmalarını sağlamaktır."
+        },
+        {
+          "baslik": "MADDE 21 - Kuruluş",
+          "metin": "Okul öncesi eğitim kurumları, bağımsız anaokulları olarak kurulabileceği gibi, gerekli görülen yerlerdeki temel eğitim kurumlarının birinci devresine bağlı anasınıfları halinde veya ilgili diğer öğretim kurumlarına bağlı uygulama sınıfları olarak da açılabilir."
+        },
+        {
+          "baslik": "MADDE 22 - Kapsam",
+          "metin": "Temel eğitim genel olarak 7-14 yaşlarındaki çocukların eğitimini kapsar."
+        },
+        {
+          "baslik": "MADDE 23 - Amaç ve Görevler",
+          "metin": "Temel eğitimin amaç ve görevleri:\n1. Her Türk çocuğuna iyi bir vatandaş olmak için gerekli temel bilgi, beceri, davranış ve alışkanlıkları kazandırmak; onu milli ahlâk anlayışına uygun olarak yetiştirmek;\n2. Her Türk çocuğunu ilgi, istidat ve kabiliyetleri yönünden yetiştirerek hayata ve üst öğrenime hazırlamaktır."
+        },
+        {
+          "baslik": "MADDE 24 - Kuruluş",
+          "metin": "Temel eğitim okulları beş yıllık birinci kademe ile üç yıllık ikinci kademe eğitim kurumlarından meydana gelir. Birinci kademe sonunda ilkokul, ikinci kademe sonunda temel eğitim diploması (ortaokul diploması) verilir."
+        },
+        {
+          "baslik": "MADDE 25 - Kuruluş Şekilleri",
+          "metin": "Temel eğitim kurumlarının birinci ve ikinci kademeleri, bağımsız okullar halinde kurulabileceği gibi, imkân ve şartlara göre, birlikte de kurulabilir. Nüfusu az ve dağınık olan yerlerde, köyler gruplaştırılarak, merkezi durumda olan köylerde temel eğitim bölge okulları ve bunlara bağlı pansiyonlar, gruplaştırmanın mümkün olmadığı yerlerde temel eğitim yatılı bölge okulları kurulur."
+        },
+        {
+          "baslik": "MADDE 26 - Kapsam",
+          "metin": "Ortaöğretim, temel eğitime dayalı, en az üç yıllık öğrenim veren genel, meslekî ve teknik öğretim kurumlarının tümünü kapsar."
+        },
+        {
+          "baslik": "MADDE 27 - Ortaöğretimden Yararlanma Hakkı",
+          "metin": "Temel eğitimini tamamlayan ve ortaöğretime girmeye hak kazanmış olan her öğrenci, ortaöğretime devam etmek ve ortaöğretim imkânlarından ilgi, istidat ve kabiliyetleri ölçüsünde yararlanmak hakkına sahiptir."
+        },
+        {
+          "baslik": "MADDE 28 - Amaç ve Görevler",
+          "metin": "Ortaöğretimin amaç ve görevleri:\n1. Bütün öğrencilere ortaöğretim seviyesinde asgarî ortak bir genel kültür vermek suretiyle onlara kişi ve toplum sorunlarını tanımak, çözüm yolları aramak ve yurdun iktisadî sosyal ve kültürel kalkınmasına katkıda bulunmak bilincini ve gücünü kazandırmak,\n2. Öğrencileri, çeşitli program ve okullarla ilgi, istidat ve kabiliyetleri ölçüsünde ve doğrultusunda yüksek öğretime veya hem mesleğe hem de yüksek öğretime veya hayata ve iş alanlarına hazırlamaktır."
+        },
+        {
+          "baslik": "MADDE 29 - Kuruluş",
+          "metin": "Ortaöğretim, çeşitli programlar uygulayan liselerden meydana gelir. Belli bir programa ağırlık veren okullara lise, teknik lise ve tarım meslek lisesi gibi eğitim dallarını belirleyen adlar verilir. Nüfusu az ve dağınık olan ve Millî Eğitim Bakanlığınca gerekli görülen yerlerde, ortaöğretimin, genel, mesleki ve teknik öğretim programlarını bir yönetim altında uygulayan çok programlı liseler kurulabilir. Ortaöğretim kurumlarının öğrenim süresi, uygulanan programın özelliğine göre, Millî Eğitim Bakanlığınca tespit edilir."
+        },
+        {
+          "baslik": "MADDE 30 - Ortaöğretimde Yöneltme",
+          "metin": "Yöneltme temel eğitimde başlar; yanılmaları önlemek ve muhtemel gelişmelere göre yeniden yöneltmeyi sağlamak için ortaöğretimde de devam eder. Yöneltme esasları ve çeşitli programlar veya ortaöğretim okulları arasında yapılacak yatay ve dikey geçiş şartları, Millî Eğitim Bakanlığınca düzenlenir."
+        },
+        {
+          "baslik": "MADDE 31 - Yüksek Öğrenime Geçiş",
+          "metin": "Ortaöğretimin yüksek öğretime veya hem mesleğe hem de yüksek öğretime hazırlayan programlarını bitiren öğrencilere, yetiştirildikleri yönde, üniversitelere, akademilere ve yüksek okullara girmek için aday olma hakkı tanınır. Hangi fakülte, akademi ve yüksek okullara hangi programları bitirenlerin nasıl girecekleri ilgili kurumlarca kararlaştırılır. Giriş şartlarının tespitinde ve uygulamada Millî Eğitim Bakanlığı ile ilgili kurumlar arasında işbirliği yapılır. Giriş, ya yalnızca diplomadaki derecelere ve notlara göre, ya merkezi müsabaka imtihanları sistemiyle, ya da her kurum tarafından münferit olarak düzenlenebilir."
+        },
+        {
+          "baslik": "MADDE 32 - İmam-Hatip Liseleri",
+          "metin": "İmam-hatip liseleri, imamlık, hatiplik ve Kur'an kursu öğreticiliği gibi dinî hizmetlerin yerine getirilmesi ile görevli elemanları yetiştirmek üzere, Millî Eğitim Bakanlığınca açılan ortaöğretim sistemi içinde, hem mesleğe hem yüksek öğrenime hazırlayıcı programlar uygulayan öğretim kurumlarıdır."
+        },
+        {
+          "baslik": "MADDE 33 - Güzel Sanatlar Eğitimi",
+          "metin": "Güzel sanatlar alanlarında özel istidat ve kabiliyetleri beliren çocukları küçük yaşlardan itibaren yetiştirmek üzere temel eğitim ve orta öğretim seviyesinde ayrı okullar açılabilir veya ayrı yetiştirme tedbirleri alınabilir. Özellikleri dolayısıyla bunların kuruluş, işleyiş ve yetiştirme ile ilgili esasları ayrı bir yönetmelikle düzenlenir."
+        },
+        {
+          "baslik": "MADDE 34 - Kapsam",
+          "metin": "Yüksek öğretim, orta öğretime dayalı en az iki yıllık yüksek öğrenim veren eğitim kurumlarının tümünü kapsar."
+        },
+        {
+          "baslik": "MADDE 35 - Amaç ve Görevler",
+          "metin": "Yüksek öğretimin amaç ve görevleri:\n1. Öğrencileri ilgi, istidat ve kabiliyetleri ölçüsünde ve doğrultusunda yurdumuzun bilim politikasına ve toplumun yüksek seviyede ve çeşitli kademelerdeki insan gücü ihtiyaçlarına göre yetiştirmek;\n2. Çeşitli kademelerde bilimsel öğretim yapmak;\n3. Yurdumuzu ilgilendirenler başta olmak üzere, bütün bilimsel, teknik ve kültürel sorunları çözmek için bilimleri genişletip derinleştirecek inceleme ve araştırmalarda bulunmak;\n4. Yurdumuzun türlü yönde ilerleme ve gelişmesini ilgilendiren bütün sorunları, Hükümet ve kurumlarla da elbirliği etmek suretiyle öğretim ve araştırma konusu yaparak sonuçlarını toplumun yararlanmasına sunmak;\n5. Araştırma ve incelemelerinin sonuçlarını gösteren, bilim ve tekniğin ilerlemesini sağlayan her türlü yayınları yapmak;\n6. Türk toplumunun genel seviyesini yükseltici ve kamuoyunu aydınlatıcı bilim verilerini sözle, yazı ile halka yaymak ve yaygın eğitim hizmetlerinde bulunmaktır."
+        },
+        {
+          "baslik": "MADDE 36 - Yükseköğretim Kurumları",
+          "metin": "Yüksek öğretim kurumları şunlardır:\n1. Üniversiteler,\n2. Akademiler,\n3. Yüksek okullar,\nYüksek öğretim kurumlarının amaçları ve açılış, kuruluş, işleyiş ve öğretim üye ve yardımcıları ile ilgili esasları, üniversiteler, akademiler ve yüksek okullar kanunlarında düzenlenir."
+        },
+        {
+          "baslik": "MADDE 37 - Yükseköğretimin Düzenlenmesi",
+          "metin": "Yüksek öğretim, millî eğitim sistemi çerçevesinde, öğrencileri lisans öncesi, lisans ve lisans üstü seviyelerinde yetiştiren bir bütünlük içinde düzenlenir. Bu bütünlük içinde çeşitli görevleri yerine getiren ve farklı seviyelerde öğretim yapan kuruluşlar bulunur. Farklı seviyeler ve kuruluşlar arasında öğrencilere kabiliyetlerine göre, yatay ve dikey geçiş yolları açık tutulur."
+        },
+        {
+          "baslik": "MADDE 38 - Yükseköğretimin Paralı Oluşu",
+          "metin": "Yüksek öğretim paralıdır. Başarılı olan fakat maddi imkânları elverişli olmayan öğrencilerin kayıt ücreti, imtihan harcı gibi her türlü öğrenim giderleri burs, kredi yatılılık ve benzeri yollarla sağlanır. Öğrenim harç ve ücretlerinin tutarları ve bunların ödenme tarzları ile burs ve kredilerin tutarları ve bunların veriliş esasları, Maliye Bakanlığı ile birlikte hazırlanacak yönetmelikle tespit edilir. Bazı alanlar için mecburî hizmet karşılığı öğrenci yetiştirilmesi hakkındaki hükümler saklıdır."
+        },
+        {
+          "baslik": "MADDE 39 - Yüksek Öğretim Planlaması",
+          "metin": "Yüksek öğretimde, öğretim elemanlarından, tesislerden ve öğrencinin zamanından en verimli bir şekilde yararlanmayı mümkün kılacak ve çeşitli bölgelerdeki yüksek öğretim kurumlarının dengeli bir şekilde gelişmesini sağlayacak tedbirler alınır; yüksek öğretimin bütününü kapsayan ve orta öğretimle ilgisini sağlayan bir planlama düzeni kurulur."
+        },
+        {
+          "baslik": "MADDE 40 - Yaygın Eğitimin Özel Amacı",
+          "metin": "Yaygın eğitimin özel amacı, milli eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, örgün eğitim sistemine hiç girmemiş yahut, herhangi bir kademesinde bulunan veya bu kademeden çıkmış vatandaşlara, örgün eğitimin yanında veya dışında:\n1. Okuma - yazma öğretmek, eksik eğitimlerini tamamlamaları için sürekli eğitim imkânları hazırlamak,\n2. Çağımızın bilimsel, teknolojik, iktisadi, sosyal ve kültürel gelişmelerine uymalarını sağlayıcı eğitim imkânları hazırlamak,\n3. Millî kültür değerlerimizi koruyucu, geliştirici, tanıtıcı, benimsetici nitelikte eğitim yapmak,\n4. Toplu yaşama, dayanışma, yardımlaşma, birlikte çalışma ve örgütlenme anlayış ve alışkanlıkları kazandırmak,\n5. İktisadi gücün arttırılması için gerekli beslenme ve sağlıklı yaşama şekil ve usullerini benimsetmek,\n6. Boş zamanları iyi bir şekilde değerlendirme ve kullanma alışkanlıkları kazandırmak,\n7. Kısa süreli ve kademeli eğitim uygulayarak ekonomimizin gelişmesi doğrultusunda ve istihdam politikasına uygun meslekleri edinmelerini sağlayıcı imkânlar hazırlamak,\n8. Çeşitli mesleklerde çalışmakta olanların hizmet içinde ve mesleklerinde gelişmeleri için gerekli bilgi ve becerileri kazandırmaktır."
+        },
+        {
+          "baslik": "MADDE 41 - Kuruluş",
+          "metin": "Yaygın eğitim, örgün eğitim ile birbirini tamamlayacak, gereğinde aynı vasıfları kazandırabilecek ve birbirinin her türlü imkânlarından yararlanacak biçimde bir bütünlük içinde düzenlenir. Yaygın eğitim, genel ve meslekî - teknik olmak üzere iki temel bölümden meydana gelir. Bu bölümler birbirini destekleyici biçimde hazırlanır."
+        },
+        {
+          "baslik": "MADDE 42 - Koordinasyon",
+          "metin": "Genel, mesleki ve teknik yaygın eğitim alanında görev alan resmi, özel ve gönüllü kuruluşların çalışmaları arasındaki koordinasyon Millî Eğitim Bakanlığınca sağlanır. Genel yaygın eğitim programlarının düzenleniş şekli yönetmelikle tespit edilir. Meslekî ve teknik yaygın eğitim faaliyetlerini yürüten Bakanlıklar ile özerk eğitim kurumları ve resmî ve özel işletmeler arasında Millî Eğitim Bakanlığınca sağlanacak koordinasyon ve işbirliğinin esasları kanunla düzenlenir."
+        }
+      ],
+      "1739 sayılı Milli Eğitim Kanunu - Üçüncü Kısım": [
+        {
+          "baslik": "MADDE 43 - Öğretmenlik",
+          "metin": "Öğretmenlik, Devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir. Öğretmenler bu görevlerini Türk Millî Eğitiminin amaçlarına ve temel ilkelerine uygun olarak ifa etmekle yükümlüdürler.\n\nÖğretmenlik mesleğine hazırlık genel kültür, özel alan eğitimi ve pedagojik formasyon ile sağlanır.\n\nYukarıda belirtilen nitelikleri kazanabilmeleri için, hangi öğretim kademesinde olursa olsun, öğretmen adaylarının yüksek öğrenim görmelerinin sağlanması esastır. Bu öğrenim lisans öncesi, lisans ve lisans üstü seviyelerde yatay ve dikey geçişlere de imkân verecek biçimde düzenlenir."
+        },
+        {
+          "baslik": "MADDE 44 - Öğretmen Yetiştiren Kurumları Açma Yetkisi",
+          "metin": "Öğretmenlik formasyonu veren üniversite ve akademiler dışındaki öğretmen yetiştiren kurumlar Milli Eğitim Bakanlığınca açılır ve yönetilir."
+        },
+        {
+          "baslik": "MADDE 45 - Öğretmenlerin Nitelikleri ve Seçimi",
+          "metin": "Öğretmen adaylarında genel kültür, özel alan eğitimi ve pedagojik formasyon bakımından aranacak nitelikler Milli Eğitim Bakanlığınca tespit olunur.\n\nÖğretmenler, öğretmen yetiştiren kurumlardan, akademilerden ve Üniversitelerin ilgili fakülte, enstitü ve bölümlerinden ve bunlara denkliği Millî Eğitim Bakanlığınca kabul edilen yurt dışı kurumlardan mezun olanlar arasından Milli Eğitim Bakanlığınca seçilirler.\n\nYüksek öğrenimleri sırasında pedagojik formasyon kazanmamış olanların ihtiyaç duyulan alanlarda, öğretmenliğe atanmaları halinde bu gibilerin adaylık dönemi içinde yetişmeleri için Millî Eğitim Bakanlığınca gerekli tedbirler alınır.\n\nHangi derece ve türdeki eğitim, öğretim, teftiş ve yönetim görevlerine, hangi seviye ve alanda öğrenim görmüş olanların ne gibi şartlarla seçilebilecekleri yönetmelikle düzenlenir."
+        },
+        {
+          "baslik": "MADDE 46 - Öğretmenlerin Bölge Hizmeti",
+          "metin": "Öğretmenlikte yurdun çeşitli bölgelerinde görev yapmak esastır.\n\nHizmet bölgeleri ve ihtiyaçlara göre bu bölgelerarası yer değiştirme esasları yönetmelikle düzenlenir."
+        },
+        {
+          "baslik": "MADDE 47 - Uzman ve Usta Öğreticiler",
+          "metin": "Örgün ve yaygın eğitim kurumlarında ve hizmet içi yetiştirme kurs, seminer ve konferanslarında uzman ve usta öğreticiler de geçici olarak görevlendirilebilir.\n\nÖğretimin tür ve seviyelerine göre uzman ve usta öğreticilerin seçimlerinde aranacak şartlar, görev ve yetkileri yönetmelikle tespit edilir."
+        },
+        {
+          "baslik": "MADDE 48 - Öğretmenlerin Hizmet İçi Yetiştirilmesi",
+          "metin": "Öğretmenlerin daha üst öğrenim görmelerini sağlamak üzere yaz ve akşam okulları açılır veya hizmet içinde yetiştirilmeleri maksadıyla kurslar ve seminerler düzenlenir.\n\nYaz ve akşam okulları öğretmen yetiştiren kurumlarca açılır; bunlara devam ederek yeterli krediyi dolduran öğretmenlere o kurumun belge veya diploması verilir.\n\nMilli Eğitim Bakanlığınca açılan kurs ve seminerlere devam edenlerden başarı sağlayanlara belge verilir. Bu belgelerin, öğretmenlerin atama, yükselme ve nakillerinde ne ölçüde ve nasıl değerlendirileceği yönetmelikle düzenlenir."
+        },
+        {
+          "baslik": "MADDE 49 - Yurt İçi ve Yurt Dışı Yetişme İmkânları",
+          "metin": "Yurt içinde ve dışında daha üst öğrenim yapmak veya bilgi, görgü ve ihtisaslarını arttırmak isteyen öğretmenlerin belli şartlarla, aylıklı veya aylıksız izinli sayılmaları sağlanır; bu şartlar, milli eğitimin ihtiyaçları gözönünde tutularak, hazırlanacak yönetmelikle belirtilir."
+        },
+        {
+          "baslik": "MADDE 50 - Öğretmen Konutları",
+          "metin": "Millî Eğitim Bakanlığınca gerekli görülen yerlerde, özellikle mahrumiyet bölgelerinde görevli öğretmenlere konut sağlanır.\n\nKonutlar okul binaları ile birlikte planlanır ve yapılır.\n\nEski eğitim kurumlarının konut ihtiyacı bir plana bağlanır ve bu konutların yapımı için, her yıl Milli Eğitim Bakanlığı Bütçesine gerekli ödenek konur."
+        }
+      ],
+      "1739 sayılı Milli Eğitim Kanunu - 4. ,5. ,6. ,7. Kısımları": [
+        {
+          "baslik": "MADDE 51 - Okul Yapıları",
+          "metin": "Her derece ve türdeki eğitim kurumlarına ait bina ve tesisler çevrenin ihtiyaçlarına ve uygulanacak programların özelliklerine göre Milli Eğitim Bakanlığınca planlanır ve yaptırılır.\n\nBu maksatla her yıl Millî Eğitim Bakanlığı bütçesine gerekli ödenek konur.\n\nArsa temini ile okul bina ve tesislerin yapım ve donatımında, Devletin azami imkânlarının kullanılması yanında vatandaşların her türlü yardımlarından da yararlanılır ve yardımlar teşvik edilir ve değerlendirilir."
+        },
+        {
+          "baslik": "MADDE 52 - Eğitim Araç ve Gereçleri Kapsamı",
+          "metin": "Eğitim araç ve gereçleri, eğitim kurumlarında kullanılacak ders kitapları ile öğretmen ve öğrencilere kaynak ve yardımcı olacak basılı eğitim malzemesini, milli eğitimin genel amaçlarının gerçekleşmesine yararlı olacak diğer eserleri ve eğitim araç ve gereçlerini kapsar."
+        },
+        {
+          "baslik": "MADDE 53-54-55 - Eğitim Araç Gereçleri ile İlgili Görevler",
+          "metin": "Milli Eğitim Bakanlığı, eğitim araç ve gereçlerini sağlamak, geliştirmek, standartlaştırmak ve kullanıma sunmakla görevlidir. Bu görev hazırlama, imal etme, satın alma veya özel kesimden seçme yoluyla yerine getirilir. Hazırlama ve inceleme işlerinde görevlendirilenlere ücret ödenir."
+        },
+        {
+          "baslik": "MADDE 56-57-58 - Eğitim Hizmetlerinin Yürütülmesi",
+          "metin": "Eğitim ve öğretim hizmetlerinin yürütülmesi, gözetimi ve denetiminden Milli Eğitim Bakanlığı sorumludur. Askeri okullar hariç hiçbir eğitim faaliyeti bu kanuna aykırı olamaz. Hiçbir örgün eğitim kurumu Bakanlığın izni olmadan açılamaz. Diğer bakanlıklara bağlı okulların dereceleri ve programları Milli Eğitim Bakanlığı ile birlikte belirlenir."
+        },
+        {
+          "baslik": "MADDE 59 - Yurt Dışı Eğitim",
+          "metin": "Türk vatandaşlarının yurt dışında eğitim, öğrenim ve ihtisas görmeleri ile ilgili Devlet hizmetlerinin düzenlenmesinden (askeri öğrenciler hariç), Millî Eğitim Bakanlığı sorumludur."
+        },
+        {
+          "baslik": "MADDE 60-61-62 - Son Hükümler",
+          "metin": "Kanunun madde kenar başlıkları metin dışıdır. Önceki kanunların bu kanuna aykırı hükümleri yürürlükten kalkar. Yönetmelikler bir yıl içinde çıkarılır."
+        },
+        {
+          "baslik": "GEÇİCİ MADDE 1",
+          "metin": "Bu kanunun yürürlüğe girdiği tarihte, yüksek öğrenim kurumlarında öğrenci bulunanlar hakkında 38 inci madde hükmü uygulanmaz."
+        },
+        {
+          "baslik": "MADDE 63-64 - Yürürlük ve Yürütme",
+          "metin": "Bu kanun yayımı tarihinde yürürlüğe girer ve Bakanlar Kurulu tarafından yürütülür."
+        }
+      ],
+      "Türk Milli Eğitiminin Amaçları": [
         {
           "baslik": "Türk Milli Eğitiminin Genel Amaçları",
           "metin": "Türk Milli Eğitimi, şu genel amaçları gütmektedir:\n\n1. Milli ve Ahlaki Değerler: Atatürk inkılaplarına ve milliyetçiliğine bağlı, Türk milletinin değerlerini benimseyen ve geliştiren, vatanına ve milletine saygılı yurttaşlar yetiştirmek.\n2. Bireysel Gelişim: Beden, zihin ve ruh sağlığı açısından dengeli bir kişilik geliştiren, bilimsel düşünme gücüne sahip, insan haklarına saygılı bireyler yetiştirmek.\n3. Mesleki Hazırlık: İlgi ve yeteneklerine göre bilgi ve beceri kazandırarak gençleri mutlu bir hayat ve meslek sahibi yapmak."
@@ -311,7 +547,7 @@
           "metin": "Türk Milli Eğitiminde yer alan temel ilkeler şu şekildedir:\n\n1. Genellik ve Eşitlik: Eğitim herkes için açıktır; hiçbir kişi, aile veya sınıfa imtiyaz tanınamaz.\n2. Ferdin ve Toplumun İhtiyaçları: Eğitim, bireylerin istek ve toplumun ihtiyaçlarına göre düzenlenir.\n3. Yöneltme: Öğrenciler, yeteneklerine göre doğru programlara yönlendirilir.\n4. Eğitim Hakkı: İlköğretim, her Türk vatandaşının hakkıdır.\n5. Fırsat ve İmkan Eşitliği: Eğitimde kadın-erkek fırsat eşitliği sağlanır ve maddi imkanlardan yoksun öğrenciler için çeşitli yardımlar yapılır.\n6. Süreklilik: Eğitim, hayat boyu devam eder, bu da gençlerin yanı sıra yetişkinlere de eğitim fırsatları sunulmasını sağlar.\n7. Atatürk İnkılap ve İlkeleri: Eğitim, Atatürk’ün inkılaplarına ve milliyetçiliğine dayalı olarak verilir.\n8. Demokrasi Eğitimi: Demokratik toplumun temellerini güçlendirecek eğitim verilir.\n9. Laiklik: Eğitim, laiklik ilkesine uygun olarak verilir.\n10. Bilimsellik: Eğitim programları, bilimsel esaslara ve yeniliklere dayalı olarak geliştirilir.\n11. Planlılık: Eğitim, ülkenin ekonomik ve sosyal kalkınma hedeflerine uygun olarak planlanır.\n12. Karma Eğitim: Kız ve erkek öğrenciler karma eğitim alır, ancak belirli durumlarda ayrılabilirler.\n13. Okul ve Aile İşbirliği: Okul-aile işbirliği, eğitim kalitesini artırmak için sağlanır."
         }
       ],
-      "Türk Milli Eğitim Sisteminin Genel Yapısı" : [
+      "Türk Milli Eğitim Sisteminin Genel Yapısı": [
         {
           "baslik": "Örgün ve Yaygın Eğitim",
           "metin": "Türk milli eğitim sistemi, örgün eğitim ve yaygın eğitim olmak üzere iki ana bölümden oluşur. Örgün eğitim, okul öncesi eğitim, ilköğretim, ortaöğretim ve yükseköğretimi kapsar. Yaygın eğitim ise örgün eğitim dışında düzenlenen eğitim faaliyetlerini içerir."
@@ -428,7 +664,7 @@
           "metin": "Öğretmenler, yaz tatili içinde aralıksız iki ay izinlidirler. Ancak bu iki aylık izin sürelerine dokunulmadan kalan tatil zamanlarında yönetmelikle belirlenecek meslekle ilgili çalışmalara katılmakla yükümlüdürler. Rehberlik öğretmenleri tercih danışmanlığı, alan ve ders seçimi, öğrenci tanılama sürecine bağlı olarak yapılacak çalışmalarda ihtiyaç duyulması halinde izin ve tatil dönemlerinde de görevlendirilebilir. Bu durumda rehberlik öğretmenlerinin izinleri bir aydan az olamaz. İlçe, il veya ülke genelinde genel hayatı etkileyen salgın hastalık, doğal afet, elverişsiz hava koşulları gibi nedenlerle eğitim ve öğretim faaliyetinin iki haftadan fazla süreyle yapılamaması halinde uygulanacak telafi programlarının ders yılı içerisinde tamamlanamadığı durumlarda yaz tatilinde yapılacak eğitim ve öğretim faaliyetleri nedeniyle Milli Eğitim Bakanlığınca öğretmenlerin izinleri kısaltılabilir. Bu durumda öğretmenlerin izinleri bir aydan az olamaz. Kendilerine ikinci görev olarak okul/kurum yöneticiliği verilenler ve yüz yüze eğitim yapılmayan eğitim kurumlarında görevli öğretmenler ile Bakanlık merkez teşkilatı ve il/ilçe milli eğitim müdürlüklerinde görevlendirilen (yöneticilik dahil) öğretmenler yıllık izinlerini 657 sayılı Devlet Memurları Kanununun 102 nci maddesi ve 103 üncü maddesinin birinci fıkrası hükümlerine göre kullanır. Okul müdürleriyle müdür yardımcıları tatil aylarında okul işlerini ayarlamak ve düzenlemek şartı ile, sıra ile izinlerini kullanırlar."
         }
       ],
-      "Okul Binaları ve Tesisleri" : [
+      "Okul Binaları ve Tesisleri": [
         {
           "baslik": "Her derece ve türdeki eğitim kurumlarına ait bina ve tesisler, çevrenin ihtiyaçlarına ve uygulanacak programların özelliklerine göre Milli Eğitim Bakanlığınca planlanır ve yaptırılır.",
           "metin": "Bu amaçla her yıl Milli Eğitim Bakanlığı bütçesine gerekli ödenek konur. Arsa temini ile okul bina ve tesislerin yapım ve donatımında, devletin azami imkanlarının kullanılması yanında, vatandaşların her türlü yardımlarından da yararlanılır ve yardımlar teşvik edilir ve değerlendirilir."
@@ -442,7 +678,7 @@
           "metin": "Bu taşınmazların satışından elde edilen gelirleri, bir yandan genel bütçenin (B) işaretli cetveline gelir, diğer yandan ihtiyaç duyulan yerlerde okul yapımı ve onarımı amacıyla kullanılmak üzere Milli Eğitim Bakanlığı bütçesine ödenek kaydetmeye Maliye Bakanı yetkilidir. Sermaye ödenekleri yılı yatırım programıyla ilişkilendirilir."
         }
       ],
-      "Eğitim Araç ve Gereçleri" : [
+      "Eğitim Araç ve Gereçleri": [
         {
           "baslik": "Kapsam",
           "metin": "Eğitim araç ve gereçleri, eğitim kurumlarında kullanılacak ders kitapları ile öğretmen ve öğrencilere kaynak ve yardımcı olacak basılı eğitim malzemesini, milli eğitimin genel amaçlarının gerçekleşmesine yararlı olacak diğer eserleri ve eğitim araç ve gereçlerini kapsar."
@@ -460,7 +696,7 @@
           "metin": "(Değişik: 3/12/2003 - 5005/2 md.) (İptal birinci fıkra: Anayasa Mahkemesi’nin 15/5/2008 tarihli, E.: 2004/1, K.: 2008/106 sayılı Kararı ile.) Millî Eğitim Bakanlığınca hazırlanacak veya hazırlatılacak kitaplar ile eğitim araç ve gereçlerini hazırlama, inceleme ve redaksiyonunda görevlendirilenlere ücret ödenir. Ders kitaplarına ilişkin yarışmalarda derece alanlara verilecek ödülün ödeme, usul ve esasları ile miktarı yönetmelikle belirlenir. Özel kesimce hazırlanan ve okullarda ders kitabı olarak okutulmak üzere Millî Eğitim Bakanlığına gönderilen eserler ücret karşılığı incelenir. Ders kitaplarının kabulü, uygunluk süresi, telif hakkı ve ücretlerle ilgili esaslar; inceleme işlemleri ve alınacak inceleme ücreti miktarı; Millî Eğitim Bakanlığınca incelettirilecek eserler için ödenecek ücret miktarı; ders kitaplarının hazırlanması ve incelenmesinde aranacak kriterler ile ders kitabı üreten yayın evlerinde aranacak kriterler; ders kitabı dışındaki diğer kitap ve eğitim araçlarının kullanımı ve bunlardan hangileri için inceleme ücreti alınacağı ve ödeneceği ile ilgili esas ve usuller Millî Eğitim Bakanlığınca çıkarılacak yönetmelikle düzenlenir."
         }
       ],
-      "Eğitim ve Öğretim Alanındaki Görev ve Sorumluluk" : [
+      "Eğitim ve Öğretim Alanındaki Görev ve Sorumluluk": [
         {
           "baslik": "Yürütme, gözetim ve denetim",
           "metin": "Eğitim ve öğretim hizmetinin, bu kanun hükümlerine göre Devlet adına yürütülmesinden, gözetim ve denetiminden Milli Eğitim Bakanlığı sorumludur."
@@ -516,7 +752,7 @@
           "metin": "Bu Kanunu Bakanlar Kurulu yürütür."
         }
       ],
-      "İlköğretim ve Eğitim Kanunu" : [
+      "İlköğretim ve Eğitim Kanunu": [
         {
           "baslik": "Madde 1",
           "metin": "İlköğretim, kadın erkek bütün Türklerin milli gayelere uygun olarak bedeni, zihni ve ahlaki gelişmelerine ve yetişmelerine hizmet eden temel eğitim ve öğretimdir."
@@ -566,14 +802,13 @@
           "metin": "Okul öncesi kurumlarında mecburi öğrenim çağına gelmemiş olan çocuklar eğitilir. İsteğe bağlı tamamlayıcı sınıflarda ve kurslarda, ilköğrenim çağı dışına çıkmış olup da üst dereceli öğrenim kurumlarına gidememiş olan yurtdaşlardan genel bilgilerini artırmak ve kendilerinin daha iyi bir iş ve üretim unsuru olarak yetiştirilmeleri amacıyla öğretim yapılır. Bu kurumlar gerçek ve tüzel kişilerle belediyeler, özel idareler ve Devlet tarafından açılabilir."
         }
       ],
-      "İlde İlköğretim Görevlileri" : [
+      "İlde İlköğretim Görevlileri": [
         {
           "baslik": "Madde 14",
           "metin": "(Değişik: 12/10/1983 - 2917/4 md.) İlkokullar ve ortaokullar birlikte veya ayrı oluşlarına, büyüklüğüne, anasınıfları ve özel eğitim sınıflarının bulunuşuna göre, ilköğretim kurumlarında aşağıdaki görevliler bulunur: a) Müdür ve müdür yardımcıları, b) Öğretmenler; sınıf, branş, okul öncesi eğitim, özel eğitim öğretmenleri ile gezici öğretmenler ve usta öğreticiler, c) Rehberlik uzmanları, d) Sağlık, teknik, genel idare ve yardımcı hizmetler sınıflarına dahil personel ile eğitim faaliyetlerinin gerektirdiği diğer personel. İlköğretim kurumlarındaki görevlilerin nitelikleri, görev ve yetkileri ile atanma usul ve esasları yönetmelikle tespit edilir."
         }
-        
       ],
-      "Okul Öncesi Eğitim ve Öğretim Kurumları ile İlköğretim Okullarının Açılma, Kapanma ve Öğretime Ara Verme Zamanları" : [
+      "Okul Öncesi Eğitim ve Öğretim Kurumları ile İlköğretim Okullarının Açılma, Kapanma ve Öğretime Ara Verme Zamanları": [
         {
           "baslik": "Madde 42",
           "metin": "(Değişik: 12/10/1983 - 2917/6 md.) İlköğretim kurumlarının açılma, kapanma ve öğretime ara verme zamanları Milli Eğitim Bakanlığınca çıkarılacak yönetmelikle düzenlenir."
@@ -587,7 +822,7 @@
           "metin": "Öğretmenler kanunlarla veya Cumhurbaşkanlığı kararnameleriyle kendilerine verilen işlerden başka, meslek dışı her hangi bir görevle yükümlü tutulamazlar."
         }
       ],
-      "Kayıt ve Kabul" : [
+      "Kayıt ve Kabul": [
         {
           "baslik": "Madde 46",
           "metin": "Her çocuk, mecburi ilköğrenim çağına girdiği öğretim yılı başında 3 üncü madde gereğince ilköğretim okuluna kayıt ve kabul edilir. Her veli yahut vasi veya aile başkanı, çocuğunu zamanında ilköğretim okuluna yazdırmakla yükümlüdür. Bu kanunda sözü geçen \"aile başkanı\" deyiminden maksat, veli veya vasi durumunda bulunmadığı halde ilköğretime devama mecbur olan çocukları sürekli olarak yanında bulunduran veya barındıran, yahut da çalıştırandır. Mecburi öğrenim çağını bitirdiği öğretim yılı sonuna kadar ilköğretim okulunu bitiremiyen çocukların ilköğrenimlerini tamamlamak üzere en çok iki öğretim yılı daha okula devamlarına izin verilir. Bu iki yıllık uzatma sonunda da okulu bitiremiyen çocuklara tasdikname verilerek, kayıtları silinir."
@@ -613,7 +848,7 @@
           "metin": "Her yıl Eylül ayının üçüncü haftası \"İlköğretim haftası\" dır. Milli Eğitim Bakanlığınca hazırlanacak programa göre hafta içinde türlü yollarla ilköğretimin önemi belirtilir."
         }
       ],
-      "Okula Devam" : [
+      "Okula Devam": [
         {
           "baslik": "Madde 52",
           "metin": "Her öğrenci velisi yahut vasisi veya aile başkanı çocuğunun mecburi ilköğretim kurumuna muntazaman devamını sağlamakla ve özrü yüzünden okula gidemiyen çocuğun durumunu en geç üç gün içinde okul idaresine bildirmekle yükümlüdür. Mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı ilköğrenim çağındaki çocukların mecburi ilköğretim kurumlarına devamlarını sağlamakla veli yahut vasi veya aile başkanlarına ve okul idarelerine yardımla ve her türlü tedbiri almakla vazifelidirler."
@@ -647,7 +882,7 @@
           "metin": "İlköğrenim çağında olup da mecburi ilköğretim kurumlarına devam etmiyenler, hiçbir resmi ve özel iş yerinde veya her ne surette olursa olsun çalışmayı gerektiren başka yerlerde ücretli veya ücretsiz çalıştırılamazlar. İlköğretim kurumlarına devam ettiklerini belgeliyenler ise, çocukların çalıştırılmasını düzenliyen kanun hükumleri uygulanmak şartiyle ancak ders zamanları dışında bu gibi yerlerde çalıştırılabilirler. İlköğretim çağında bulunan ve mecburi ilköğretim kurumlarına devam eden çocukların bu kanunda gösterilen ve Milli Eğitim Bakanlığınca açılmasına izin verilmiş olunanlar dışında, her ne ad altında kurulmuş olursa olsun, özel kurs ve dersanelere kabulü yasaktır. Yukarıdaki hükümlere aykırı davrananlara dörtyüz Türk Lirasından bin Türk Lirasına kadar idarî para cezası verilir. Bu Kanunda yazılı olan idarî para cezaları mahallî mülkî amir tarafından verilir."
         }
       ],
-      "Okulların Arsa ve Arazi İşleri" : [
+      "Okulların Arsa ve Arazi İşleri": [
         {
           "baslik": "Şehir, kasaba ve köy okulları arsalarıyla köy okullarına gelir sağlıyacak arazi ve uygulama bahçeleri için lüzumlu topraklar",
           "metin": "Şehir, kasaba ve köy okulları arsalarıyla köy okullarına gelir sağlıyacak arazi ve uygulama bahçeleri için lüzumlu topraklar, il ve ilçelerde bölge ilköğretim müfettişlerinin veya ilçe eğitim müdürünün başkanlığında Tarım, Tapu, Maliye dairelerinden görevlendirilecek birer eleman ile mahalle veya köy muhtarından teşekkül edecek komisyon tarafından seçilir."
@@ -672,9 +907,8 @@
           "baslik": "Okul için tahsis edilen topraklar ve tesisler",
           "metin": "Okullar için tahsis, satınalma veya kamulaştırma yoliyle sağlanan topraklarla bu topraklar üzerinde yapılacak bina veya tesisler, bulundukları yerlere göre köy veya özel idareler adına tapuya tescil edilir. Bunların ve bu Kanunun yürürlüğe girdiği tarihten önce yapılmış olan okul binaları ile tesislerinin daimi bakım ve onarım giderleri, bulundukları yerlere göre özel idare veya köy bütçelerinden karşılanır."
         }
-        
       ],
-      "İlköğretim Okulu Yapımı ve Donatımı İşleri" : [
+      "İlköğretim Okulu Yapımı ve Donatımı İşleri": [
         {
           "baslik": "Köy okulları ve öğretmen lojmanları için inşaat malzemesi temini",
           "metin": "Köy okulları ile öğretmen lojmanlarının şehir ve kasabalarda yaptırılacak ilköğretim okullarının her türlü ihtiyaçları için köy veya kasaba içinde veya civarındaki araziden şahsi haklar mahfuz kalmak şartiyle, tedarik edilecek taş, kum ve kireç gibi yapı gereçlerinden hiçbir resim alınmaz. İlköğretim kurumları için yaptırılacak bina ve tesislerle öğretmen lojmanları ve onarma işlerinde gerekli tuğla yapmak, kireç yakmak ve söndürmek, taş çıkarmak, iskele kurmak, kaldırımları işgal etmek gibi hususlarda girişilen işler serbest ve hiçbir resme tabi olmaksızın yapılır. Bu maksatla açılan çukurlar iş bitince kapatılır. Ormanlardan çıkarılacak bu gibi gereçler hakkında 6831 sayılı Orman Kanununun 18 inci maddesine göre hareket olunur."
@@ -700,7 +934,7 @@
           "metin": "Okul yapımı ve donatımı işlerinde yardım ve hizmetleri değerlendirmek, inşaatın ucuza maledilmesi amacıyla; a) Yurttaşların istiyerek yapacakları, taş, kum, çakıl, kerpiç, kireç ve tuğla gibi ayni yardımlar, b) Yurttaşlar, kurumlar ve yardım derneklerince yapılacak nakdi yardımlar, kabul edilir ve değerlendirilir. c) Emaneten inşa edilecek okul yapımı ve onarımı işlerinde halk ve gençlerden gönüllü olarak bedenen çalışacakların hizmetleri kabul edilir."
         }
       ],
-      "İlköğretimin Gelir, Giderleri ve Planlama" : [
+      "İlköğretimin Gelir, Giderleri ve Planlama": [
         {
           "baslik": "Madde 76",
           "metin": "İlköğretim için gelir kaynakları ve bunların nasıl kullanılacağına dair çeşitli düzenlemeler yer almaktadır. Bu maddede belirtilen gelir kaynakları şunlardır: Devlet Bütçesinden Yapılacak Yardımlar, Özel İdare Bütçeleri, Mahkemelerce Hükmolunan Para Cezaları, Vakıf Gelirleri, Bağışlar ve Vasiyetler, Okul Eşyalarının ve Tesislerinin Satışı, Müteahhitlerden Alınacak Tazminatlar."
@@ -738,7 +972,7 @@
           "metin": "Okul yapım ve onarım standartlarının belirlenmesi ve bu işlerin üç yıllık planlara göre yapılması gerektiğini vurgular."
         }
       ],
-      "Öğretmenlik Mesleği Kanunu Başlangıç Hükümleri" : [
+      "Öğretmenlik Mesleği Kanunu Başlangıç Hükümleri": [
         {
           "baslik": "Amaç",
           "metin": "Bu Kanunun amacı; eğitim öğretim hizmetlerini yürüten öğretmenlerin seçilmelerini, yetiştirilmelerini, atanmalarını, haklarını, ödev ve sorumluluklarını, ödül ve cezalarını, kariyer basamaklarında ilerlemelerini ve öğretmenlik mesleğine ilişkin diğer hususlar ile Millî Eğitim Akademisinin kurulması, görevleri, teşkilat yapısı ve personeline ilişkin konuları düzenlemektir."
@@ -756,7 +990,7 @@
           "metin": "Öğretmen ve yöneticilerin; nitelikleri ile görev, yetki ve sorumluluklarının öğretmenlik mesleğinin gereklerine uygun olarak belirlenmesi, atama, görevlendirme ve meslek içinde ilerlemelerinde liyakat ve kariyer esaslarına uyulması, eğitim öğretim faaliyetleri ve meslekleriyle ilgili kararlara katılımlarının teşvik edilmesi ve bunun için uygun ortamların sağlanması, mesleğe giriş öncesinde yetiştirilmelerinin ve meslek içinde sürekli gelişimlerinin sağlanması esastır."
         }
       ],
-      "Hak, Ödev ve Sorumluluklar" : [
+      "Hak, Ödev ve Sorumluluklar": [
         {
           "baslik": "Öğretmenlerin hak, ödev ve sorumlulukları",
           "metin": "Öğretmenler; öğrencilerini Atatürk inkılap ve ilkelerine ve Anayasada ifadesini bulan Atatürk milliyetçiliğine bağlı, Türk Milletinin millî, ahlaki, insani, manevi ve kültürel değerlerini benimseyen, koruyan ve geliştiren; ailesini, vatanını, milletini seven ve daima yüceltmeye çalışan, insan haklarına ve Anayasanın başlangıcındaki temel ilkelere dayanan demokratik, laik ve sosyal bir hukuk Devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen ve bunları davranış hâline getirmiş erdemli insanlar olarak yetiştirir. Öğrencilerin bedensel, zihinsel, duygusal, sosyal ve ahlaki bakımdan gelişimi için çaba gösterir, bu doğrultuda meslektaşları, aile ve veli ile iş birliği yapar. Öğrencilerin öğrenme biçimleri ile ilgi ve yeteneklerini dikkate alır ve kişilik haklarına saygı gösterir. Öğrencilerin, eğitim öğretim ortamında her türlü olumsuz söz, tavır ve davranışlardan korunmaları için çaba gösterir. Bakanlıkça belirlenen öğretim programları çerçevesinde öğrencilerin gelişim özelliklerine ve öğrenme ihtiyaçlarına uygun eğitim araç ve gereçlerini seçer, bu özellik ve ihtiyaçlara uygun öğretim yöntem ve tekniklerini uygular. Eğitim öğretim faaliyetlerini, 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununda düzenlenen Türk millî eğitiminin genel amaçları ve temel ilkeleri ile Bakanlıkça belirlenen öğretim programlarına uygun olarak planlar ve yürütür. Eğitim öğretim faaliyetlerinin etkili bir şekilde yürütülebilmesi için okul içi ve okul dışı imkânları kullanır. Eğitim öğretim faaliyetlerinin niteliğinin artırılması için meslektaşlarıyla iş birliği yapar ve eğitim kurumu yönetimine destek verir. Görev yaptığı eğitim kurumundaki eğitim öğretim faaliyetlerini ve sorumluluklarını aksatmadan mesleki açıdan kendini geliştirir."
@@ -778,7 +1012,7 @@
           "metin": "Yöneticilerin bu maddede belirtilen ödev ve sorumluluklarına ilişkin hususlar okul tür ve kademelerine göre Bakanlıkça çıkarılacak yönetmelikle belirlenir."
         }
       ],
-      "Öğretmenlerin Nitelikleri, Seçimi, Hazırlık Eğitimi, Öğretmenliğe Atama ve Yer Değiştirme" : [
+      "Öğretmenlerin Nitelikleri, Seçimi, Hazırlık Eğitimi, Öğretmenliğe Atama ve Yer Değiştirme": [
         {
           "baslik": "Öğretmenlerin Seçimi ve Nitelikleri",
           "metin": "Öğretmenlerin nitelikleri ve seçimi ile ilgili düzenlemeler, öğretmenlerin yetkinliklerinin arttırılması, öğretmenlik mesleğine uygun bireylerin seçilmesi amacıyla oldukça ayrıntılıdır. Bu metinde, öğretmen adaylarının seçiminde aranan şartlar, hazırlık eğitiminin düzenlenmesi ve eğitimde başarı kriterleri açıkça belirtilmiştir. Öğretmenlik mesleği, belirli bir eğitim süreci gerektiren bir ihtisas mesleği olarak tanımlanmıştır. Adaylar, lisans düzeyinde veya denkliği kabul edilen bir yurt dışı programından mezun olmalı ve belirli alanlarda başarılı olmalıdır. Bakanlık, öğretmenlik alanlarında gerekli nitelikleri ve bu alanlara ait eğitim programlarını belirler. Öğretmen olarak istihdam edilecekler için, devletin güvenliği ve temel haklar açısından geçmişte herhangi bir suç işlemiş olmamaları ve öğretmenlik görevini engelleyen bir sağlık durumu olmaması gerekmektedir."
@@ -816,7 +1050,7 @@
           "metin": "MADDE 18- (1) Öğretmenlerin yer değiştirme suretiyle atamaları, her yıl yapılan atama plan ve programları çerçevesinde eğitim öğretim faaliyetlerini etkilemeyecek şekilde sonuçlandırılır. (2) Öğretmenlerin sağlık ve can güvenliği mazeretlerine bağlı yer değiştirmeleri yıl içinde yer değiştirme takvimine tabi olmaksızın, diğer mazeretlere bağlı yer değiştirmeleri ise yarıyıl ve/veya yaz tatilinde yapılır. (3) Öğretmenlerin mazeret durumlarına ve isteğe bağlı yer değiştirmeleri, Bakanlığın öğretmen ihtiyacı ve öğretmenin tercihi dikkate alınarak hizmet puanı üstünlüğüne göre yapılır. (4) Mazeret durumlarına bağlı yer değiştirme istekleri hizmet puanı yetersizliği nedeniyle yerine getirilemeyenlere, 657 sayılı Kanunun 72 nci maddesi kapsamına girenlerin hakları saklı kalmak kaydıyla, talepleri hâlinde istekte bulundukları yere atanmaya hak kazanıncaya kadar aylıksız izin verilebilir. Bu şekilde aylıksız izin verilen öğretmenler, bağlı bulundukları il/ilçe millî eğitim müdürlüklerine bu amaçla tahsis edilmiş bulunan boş öğretmen kadrolarına aylıksız izinli olmak şartıyla atanır. Bunların atandıkları bu kadrolar aylıksız izin süresiyle sınırlı olarak saklı tutulur. Ancak aylıksız izne ayrılan öğretmenler, üçüncü yılın sonuna kadar istedikleri yere atamalarının yapılamaması hâlinde durumlarına uygun boş öğretmen kadrolarına öncelikle atanır. (5) Öğretmenlerin atamaları, Bakanlıkça il/ilçe emrine veya doğrudan eğitim kurumuna yapılır. Bakanlıkça il/ilçe emrine atama yapılması hâlinde öğretmenlerin atandıkları ildeki görev yerleri, hizmet puanları dikkate alınarak il millî eğitim müdürünün teklifine göre valilerce belirlenir. (6) Kadrolarının bulunduğu eğitim kurumlarında norm kadro fazlası olan öğretmenler, il içerisinde boş norm kadrosu bulunan eğitim kurumlarına yer değiştirme talebinde bulunabilir. Hizmet puanı yetersizliği nedeniyle talepte bulundukları eğitim kurumlarına atanamayanlar ile talepte bulunmayanların atamaları, öncelikle aynı ilçe grubu içerisinde boş norm kadrosu bulunan eğitim kurumlarına olmak üzere ilgili valilerce il içerisinde resen yapılabilir. (7) Öğretmenlerin isteğe ve mazeret durumlarına bağlı yer değiştirme suretiyle atamaları ile hizmet bölgeleri, hizmet alanları, ilçe grupları ve bu maddenin uygulanmasına ilişkin diğer hususlar Bakanlıkça çıkarılacak yönetmelikle belirlenir."
         }
       ],
-      "Mesleki Gelişim, Kariyer ve Yönetici Görevlendirme" : [
+      "Mesleki Gelişim, Kariyer ve Yönetici Görevlendirme": [
         {
           "baslik": "Mesleki Gelişim",
           "metin": "Benzetme yoluyla öğretmen ve yöneticilerin mesleki gelişimlerinin sürekliliği sağlanır. Bakanlıkça düzenlenen faaliyetlerle, öğretmenlerin kişisel ve mesleki gelişim süreçleri izlenebilir ve planlanabilir hale gelir."
@@ -834,7 +1068,7 @@
           "metin": "Özel projelerde görev alacak öğretmen ve yöneticilerin atamaları, Bakan onayı ile yapılır ve bu görevler, özlük hakları ve terfi yönünden kazanılmış hak doğurmaz."
         }
       ],
-      "Ödül ve Disiplin" : [
+      "Ödül ve Disiplin": [
         {
           "baslik": "Başarı ve Üstün Başarı Belgesi ile Ödül",
           "metin": "Öğretmen ve yöneticilere 657 sayılı Kanunun 122. maddesi kapsamında başarı belgesi, üstün başarı belgesi ve ödül verilebilir."
@@ -848,7 +1082,7 @@
           "metin": "Uyuşturucu, uyarıcı madde imal ve ticareti, müstehcenlik ve fuhuş suçları gibi ağır suçlardan mahkûm olanların öğretmenlik görevleri sona erer."
         }
       ],
-      "Millî Eğitim Akademisinin Kuruluşu ve Görevleri" : [
+      "Millî Eğitim Akademisinin Kuruluşu ve Görevleri": [
         {
           "baslik": "Kuruluş",
           "metin": "MADDE 26- (1) Öğretmen adaylarının mesleğe hazırlanması, öğretmen, yönetici ve diğer personelin mesleki gelişimi, kariyer basamaklarında ilerlemeleri ve görevde yükselmeleri için eğitim programları hazırlamak, uygulamak ve değerlendirmek üzere Bakanlığa bağlı Millî Eğitim Akademisi kurulmuştur. (2) Gerekli görülen yerlerde Akademi bünyesinde eğitim ve uygulama merkezleri açılabilir. (3) Akademinin personel, denetim, bakım ve onarım, koruma ve güvenlik, taşınır ve taşınmaz, araç, gereç, malzeme, demirbaş ve taşıtlar ile benzeri ihtiyaçları için gerekli iş ve işlemler Bakanlığın ilgili birimleri tarafından yerine getirilir. Akademinin giderleri için öngörülen ödenekler Bakanlık bütçesinde yer alır."
@@ -865,9 +1099,8 @@
           "baslik": "Akademi Başkanlığı ve Akademik Kurul",
           "metin": "MADDE 29- (1) Akademi Başkanlığı; Akademi Başkanı, Akademik Kurul ve sayısı onu geçmemek üzere hizmet birimlerinden oluşur. (2) Akademi Başkanı, Akademinin en üst amiri olup doğrudan Bakana bağlı olarak görev yapar. (3) Akademi Başkanı, Akademinin temsil ve yönetiminden, Akademi faaliyetlerinin yürütülmesi ve denetiminden sorumludur. (4) Akademik Kurula Akademi Başkanı başkanlık eder. Akademik Kurul bir başkan ve on üyeden oluşur. (5) Akademik Kurul, Akademinin görev alanına giren konularda Akademi İzleme ve Yönlendirme Kurulu tarafından belirlenen politikaların uygulanmasına ilişkin standartları, öğretmen, yönetici ve diğer personelin sahip olması gereken yeterlikleri, Akademi tarafından düzenlenecek eğitimlerin programlarını ve Akademinin yıllık çalışma planını hazırlar ve Bakan onayına sunar. (6) Akademik Kurul, Akademiden çıkarma cezalarına karşı yapılan itirazları inceleyerek karara bağlar."
         }
-        
       ],
-      "Çeşitli ve Son Hükümler" : [
+      "Çeşitli ve Son Hükümler": [
         {
           "baslik": "Eğitim Çalışanlarının Şiddetten Korunması",
           "metin": "Bakanlığa bağlı resmî eğitim kurumlarında yönetici, öğretmen, usta öğretici, yabancı uyruklu öğrencilerin eğitimine yönelik Bakanlık tarafından yürütülen projelerde öğretici/öğretmen veya rehber danışman; özel öğretim kurumlarında yönetici, öğretmen, uzman öğretici ve usta öğretici olarak görev yapanlar ile Bakanlığa bağlı resmî eğitim kurumları ve özel öğretim kurumlarında ders ücreti karşılığı ders okutanlara ve diğer kamu kurum ve kuruluşlarında görev yapan öğretmenlere karşı görevleri sebebiyle işlenen 5237 sayılı Kanunun 86 ncı maddesi kapsamındaki kasten yaralama, 106 ncı maddesi kapsamındaki tehdit, 125 inci maddesi kapsamındaki hakaret ve 265 inci maddesi kapsamındaki görevi yaptırmamak için direnme suçlarında; a) İlgili maddelere göre tayin edilecek cezalar yarı oranında artırılır. b) 5237 sayılı Kanunun 51 inci maddesinde düzenlenen hapis cezasının ertelenmesi hükümleri uygulanmaz."
@@ -905,22 +1138,6 @@
           "metin": "Bu Kanun hükümlerini Cumhurbaşkanı yürütür."
         }
       ]
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
     },
     "Türkçe": {
       "Sözcükte Anlam": [
