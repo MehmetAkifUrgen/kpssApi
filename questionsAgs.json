@@ -13942,6 +13942,128 @@
           "dogruCevap": "II ve III"
         }
       ],
+      "Türkiye'nin Coğrafi Konumu 2":[
+      
+        {
+          "soru": "45° doğu meridyeni Iğdır’da yerel saat 16.00 olduğunda 30° İzmit’te yerel saat kaçtır?",
+          "secenekler": [
+            "15.00",
+            "17.00",
+            "18.00",
+            "12.00",
+            "13.00"
+          ],
+          "dogruCevap": "15.00",
+          "aciklama": ""
+        },
+        {
+          "soru": "Ekvatordan uzaklaştıkça paralel boyları kısalır. En uzun paralel dairesi Ekvator’dur. Yukarıdaki açıklamaya göre aşağıdaki illerimizden hangisi en uzun paralel dairesi üzerinde yer almaktadır?",
+          "secenekler": [
+            "Samsun",
+            "Ankara",
+            "Adana",
+            "Hatay",
+            "İzmir"
+          ],
+          "dogruCevap": "Hatay",
+          "aciklama": ""
+        },
+        {
+          "soru": "Türkiye’de gündüz süresinin en uzun olduğu tarih aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "21 Haziran",
+            "21 Aralık",
+            "21 Mart",
+            "23 Eylül",
+            "3 Ocak"
+          ],
+          "dogruCevap": "21 Haziran",
+          "aciklama": ""
+        },
+        {
+          "soru": "Aşağıda verilen hangi iki şehir merkezi arasında yerel saat farkı daha fazladır?",
+          "secenekler": [
+            "Tekirdağ-Ardahan",
+            "Konya-Siirt",
+            "Balıkesir-rzurum",
+            "Aydın-Diyarbakır",
+            "İzmir- Mardin"
+          ],
+          "dogruCevap": "Tekirdağ-Ardahan",
+          "aciklama": ""
+        },
+        {
+          "soru": "21 haziran tarihinde aşağıdaki olaylardan hangisi Türkiye’de yaşanır?",
+          "secenekler": [
+            "Güneyden kuzeye doğru gece süresi uzar",
+            "Bu tarihten sonra gündüzler kısalmaya başlar",
+            "Aynı meridyen üzerindeki notalarda güneş aynı anda doğar",
+            "en uzun gece yaşanır",
+            "Kış başlangıcıdır."
+          ],
+          "dogruCevap": "Bu tarihten sonra gündüzler kısalmaya başlar",
+          "aciklama": ""
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye’nin Matematik konumu ile ilgili değildir?",
+          "secenekler": [
+            "Kuzeyi ve güneyi arası kuş uçuşu uzaklık 666 km'dir.",
+            "Kuzeyinden güneyine doğru sıcaklık azalır.",
+            "Güneyden esen rüzgarlar sıcaklığı arttırır.",
+            "Kısa mesafede iklim değişikliği yaşanır.",
+            "Türkiye’nin doğusu ve batısı arası zaman farkı 76 dk’dır."
+          ],
+          "dogruCevap": "Kısa mesafede iklim değişikliği yaşanır.",
+          "aciklama": ""
+        },
+        {
+          "soru": "Türkiye 36° − 42° kuzey paralelleri arasında yer alır. Bu bilgiden hareketle Türkiye’nin konumu ile ilgili hangisi söylenemez?",
+          "secenekler": [
+            "Türkiye Kuzey Yarım Küre’de yer alır.",
+            "Türkiye’nin en kuzeyinde 42° kuzey paraleli bulunur.",
+            "Türkiye’nin en güneyinde 36° kuzey paraleli bulunur.",
+            "Türkiye Güney Kutup Noktası’na, Kuzey Kutup Noktası’ndan daha yakındır",
+            "Kuzeyden esen rüzgarlar sıcaklığı düşürür."
+          ],
+          "dogruCevap": "Türkiye Güney Kutup Noktası’na, Kuzey Kutup Noktası’ndan daha yakındır",
+          "aciklama": ""
+        },
+        {
+          "soru": "Bir yerin mutlak (matematik) konum özellikleri, paralel ve meridyen dereceleri dikkate alınarak belirlenir. Buna göre Türkiye’nin aşağıdaki özelliklerinden hangisi mutlak konum ile ilgili değildir?",
+          "secenekler": [
+            "ekvatorun kuzeyinde yer alması",
+            "Başlangıç meridyeninin doğusunda yer alması",
+            "Asya ve Avrupa kıtaları arasında yer alması",
+            "Güney kıyılarının kuzey kıyılarından daha sıcak olması",
+            "Kuzeyden esen rüzgarların sıcaklığı düşürmesi"
+          ],
+          "dogruCevap": "Asya ve Avrupa kıtaları arasında yer alması",
+          "aciklama": ""
+        },
+        {
+          "soru": "Buna göre aşağıdakilerden hangisini Türkiye’nin özel konumuyla ilgili değildir?",
+          "secenekler": [
+            "Farklı iklimlerin görülmesi",
+            "Üç tarafının denizlerle çevrili olması",
+            "Kuzeyden, güneye gidildikçe sıcaklığın artması",
+            "Petrol ve doğalgaz zengini ülkelere komşu olması",
+            "Asya, Avrupa ve Afrika kıtalarının birleştiği yerde yer alması"
+          ],
+          "dogruCevap": "Kuzeyden, güneye gidildikçe sıcaklığın artması",
+          "aciklama": ""
+        },
+        {
+          "soru": "Buna göre aşağıdakilerden hangisi Türkiye’nin göreceli konumunun sonuçlarından biri değildir?",
+          "secenekler": [
+            "Üç tarafının denizlerle çevrili olması",
+            "Ortalama yükseltisinin fazla olması",
+            "Yer altı kaynakları bakımından zengin olması",
+            "Güneyden kuzeye sıcaklık değerlerinin azalması"
+          ],
+          "dogruCevap": "Güneyden kuzeye sıcaklık değerlerinin azalması",
+          "aciklama": ""
+        }
+      ],
       "Türkiye'nin Yerşekilleri": [
         {
           "soru": "Türkiye'nin yerşekilleri ile ilgili;\nI. Ortalama yükseltinin fazla olması\nII. Dağların kıyıya paralel uzanması\nIII. Akarsuların hidroelektrik potansiyelinin yüksek olması\nÖzelliklerinden hangileri, genç oluşumlu bir ülke olmasının sonucudur?",
