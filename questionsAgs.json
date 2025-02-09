@@ -3400,16 +3400,6 @@
           "dogruCevap": "Milli Eğitim Bakanlığı"
         },
         {
-          "soru": "1739 sayılı Kanun'a göre, örgün ve yaygın eğitim kurumlarının eğitim, öğretim ve yönetim görevlerini yerine getirmekle yükümlü olan meslek kimdir?",
-          "secenekler": [
-            "Öğretmenler",
-            "Okul müdürleri",
-            "Eğitim uzmanları",
-            "Milli Eğitim müfettişleri"
-          ],
-          "dogruCevap": "Öğretmenler"
-        },
-        {
           "soru": "1739 sayılı Kanun'a göre, eğitim kurumlarının denetimi hangi kurumun sorumluluğundadır?",
           "secenekler": [
             "Milli Eğitim Bakanlığı",
@@ -5480,16 +5470,6 @@
           "dogruCevap": "Mahallî Mülki Amir"
         },
         {
-          "soru": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre ilköğretimin başlamasına ilişkin aşağıdakilerden hangisi doğrudur?",
-          "secenekler": [
-            "Çocuğun 5 yaşını bitirdiği yılın Haziran ayı sonunda başlar",
-            "Çocuğun 6 yaşını bitirdiği yılın Aralık ayı sonunda başlar",
-            "Çocuğun 5 yaşını bitirdiği yılın Eylül ayı başında başlar",
-            "Çocuğun 6 yaşını bitirdiği yılın Eylül ayı sonunda başlar"
-          ],
-          "dogruCevap": "Çocuğun 6 yaşını bitirdiği yılın Aralık ayı sonunda başlar"
-        },
-        {
           "soru": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre öğretim yılı hangi sürelerden oluşur?",
           "secenekler": [
             "Derslerin başlamasından bir hafta önceki tarihten, karnelerin verildiği güne kadarki süredir",
@@ -5584,16 +5564,6 @@
             "Köy okullarına bitişik öğretmen lojmanlarıyla müstakil öğretmen lojmanlarının dolayında her ev için 100 ila 200 metre karelik bir arazi, öğretmen bahçesi olmak üzere okul arsasından veya uygulama bahçesinden yahut okula gelir sağlayacak araziden ayrılır"
           ],
           "dogruCevap": "Köy okullarına bitişik öğretmen lojmanlarıyla müstakil öğretmen lojmanlarının dolayında her ev için 100 ila 200 metre karelik bir arazi, öğretmen bahçesi olmak üzere okul arsasından veya uygulama bahçesinden yahut okula gelir sağlayacak araziden ayrılır"
-        },
-        {
-          "soru": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre her yıl derslere başlamadan en az kaç gün önce, muhtarlar okul müdürüyle iş birliği yaparak köy ve mahallelerindeki mecburi öğrenim çağında bulunan çocukların künyelerini gösterir çizelge hazırlarlar?",
-          "secenekler": [
-            "5",
-            "7",
-            "10",
-            "15"
-          ],
-          "dogruCevap": "15"
         }
       ],
       "222 Sayılı İlköğretim ve Eğitim Kanunu 2": [
@@ -14167,16 +14137,6 @@
     "dogruCevap": "I, II ve III"
   },
   {
-    "soru": "Aşağıdakilerden hangisi Türkiye'deki platoların özelliklerinden biri değildir?",
-    "secenekler": [
-      "Yükseltilerinin fazla olması",
-      "Eğimli yüzeylere sahip olması",
-      "Akarsu vadileriyle parçalanmış olması",
-      "Düz ve geniş yüzeylere sahip olması"
-    ],
-    "dogruCevap": "Düz ve geniş yüzeylere sahip olması"
-  },
-  {
     "soru": "Türkiye'de akarsuların;\nI. Enerji potansiyeli\nII. Akış hızı\nIII. Aşındırma gücü\nÖzelliklerinden hangilerinin fazla olmasında, yerşekillerinin engebeli olması etkilidir?",
     "secenekler": [
       "Yalnız I",
@@ -14338,16 +14298,6 @@
             "Çayır"
           ],
           "dogruCevap": "Maki"
-        },
-        {
-          "soru": "Türkiye'de;\nI. Yükselti\nII. Boylam\nIII. Enlem\nFaktörlerinden hangileri sıcaklık dağılışını etkiler?",
-          "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "II ve III",
-            "I, II ve III"
-          ],
-          "dogruCevap": "I, II ve III"
         },
         {
           "soru": "Aşağıdakilerden hangisi Türkiye'de görülen karasal iklimin özelliklerinden biri değildir?",
@@ -14531,17 +14481,6 @@
             "Denizellik"
           ],
           "dogruCevap": "Nüfus yoğunluğu"
-        },
-        {
-          "soru": "Türkiye'de en düşük sıcaklıkların görüldüğü il hangisidir?",
-          "secenekler": [
-            "Kars",
-            "Ağrı",
-            "Erzurum",
-            "Ardahan",
-            "Van"
-          ],
-          "dogruCevap": "Ardahan"
         },
         {
           "soru": "Aşağıdakilerden hangisi Akdeniz iklim bölgesinde yetişen tarım ürünlerinden biri değildir?",
@@ -15551,16 +15490,6 @@
           ],
           "dogruCevap": "Palandöken",
           "aciklama": "Palandöken Dağı, Türkiye'nin en önemli kış turizm merkezlerinden biridir."
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Türkiye'deki önemli tarihi turistik alanlardan biridir?",
-          "secenekler": [
-            "Nemrut Harabeleri",
-            "Perge",
-            "Efes",
-            "Hasankeyf"
-          ],
-          "dogruCevap": "Nemrut Harabeleri"
         },
         {
           "soru": "Türkiye'de en fazla hangi tür turizm türü gelişmiştir?",
