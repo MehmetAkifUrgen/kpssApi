@@ -1,16 +1,35 @@
 {
     "horizontalTeams": [
       {
-        "team1": "Barcelona",
-        "team2": "Real Madrid",
-        "team3": "Atletico Madrid"
+        "team1":{
+            "name":"Barcelona",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png"
+        },
+        "team2": {
+            "name": "Real Madrid",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png"
+        },
+        
+        "team3": {
+            "name": "Atletico Madrid",
+            "logo": "https://upload.wikimedia.org/wikipedia/tr/1/1a/Atl%C3%A9tico_Madrid_logo.png"
       }
+    }
     ],
     "verticalTeams": [
       {
-        "team1": "Manchester United",
-        "team2": "Chelsea",
-        "team3": "Arsenal"
+        "team1": {
+            "name": "Manchester United",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
+        },
+        "team2": {
+            "name": "Chelsea",
+            "logo": "https://upload.wikimedia.org/wikipedia/tr/0/0d/Chelsea_FC.png"
+        },
+        "team3": {
+            "name": "Arsenal",
+            "logo": "https://upload.wikimedia.org/wikipedia/tr/9/92/Arsenal_Football_Club.png"
+        }
       }
     ]
   }
