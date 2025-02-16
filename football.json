@@ -1,98 +1,127 @@
 {
-    "players": [
-        {
-            "name": "Cristiano Ronaldo",
-            "image": "https://w7.pngwing.com/pngs/223/934/png-transparent-cristiano-ronaldo-thumbnail.png"
-        }   ,
-        {
-            "name": "Cole Palmer",
-            "image": "https://uniqrenders.com/Uploads/11-11-2024/6146/preview-cole-palmer-chelsea-premier-league-england-english-footballers-render.jpg"
+    "players": {
+        "Premier League": {
+            "easy": [
+                {
+                    "name": "Cole Palmer",
+                    "image": "https://cdn.prod.website-files.com/62fe3f004c3de985c9e10052/675c53caf2ec0f9824652ac2_GettyImages-2189034330%20(1).jpg"
+                },
+                {
+                    "name": "Kevin De Bruyne",
+                    "image": "https://w7.pngwing.com/pngs/146/417/png-transparent-man-in-blue-nike-soccer-shirt-kevin-de-bruyne-manchester-city-f-c-belgium-national-football-team-thonon-evian-savoie-f-c-lb-chateauroux-de-bruyne-tshirt-sport-team-thumbnail.png"
+                },
+                {
+                    "name": "Erling Haaland",
+                    "image": "https://i.pinimg.com/564x/e5/0c/95/e50c9506a1700d2af9b7488449bb696e.jpg"
+                },
+                {
+                    "name": "Mohamed Salah",
+                    "image": "https://w7.pngwing.com/pngs/303/328/png-transparent-man-playing-soccer-mohamed-salah-iran-national-football-team-liverpool-f-c-sport-muhammed-salah-tshirt-jersey-shoe-thumbnail.png"
+                },
+                {
+                    "name": "Alexander Isak",
+                    "image": "https://uniqrenders.com/Uploads/31-12-2022/1190/preview-alexander-isak-newcastle-united-premier-league-sweden-swedish-footballers-render.jpg"
+                }
+            ],
+            "medium": [
+                {
+                    "name": "Caicedo",
+                    "image": "https://s.hs-data.com/bilder/spieler/gross/478351.jpg"
+                },
+                {
+                    "name": "Ferdi Kadioglu",
+                    "image": "https://i.tgrthaber.com/images/haberler/24-09/18/ferdi-kadioglu-brightonda-ilk-macinda-ilk-golunu-atti-17266926466418_1.jpg"
+                },
+                {
+                    "name": "James Maddison",
+                    "image": "https://s.hs-data.com/bilder/spieler/gross/279837.jpg"
+                },
+                {
+                    "name": "Mason Mount",
+                    "image": "https://s.hs-data.com/bilder/spieler/gross/337447.jpg"
+                }
+            ],
+            "hard": [
+                {
+                    "name": "Amad Diallo",
+                    "image": "https://pbs.twimg.com/media/GT4j7LtWAAA6lAS?format=jpg&name=4096x4096"
+                },
+                {
+                    "name": "Nelsen Semedo",
+                    "image": "https://s.hs-data.com/bilder/spieler/gross/231910.jpg"
+                },
+                {
+                    "name": "Ross Barkley",
+                    "image": "https://s.hs-data.com/bilder/spieler/gross/173944.jpg"
+                }
+            ]
         },
-        {
-            "name": "Erling Haaland",
-            "image" : "https://i.pinimg.com/564x/e5/0c/95/e50c9506a1700d2af9b7488449bb696e.jpg"
-        },
-        {
-            "name": "Kevin De Bruyne",
-            "image" : "https://w7.pngwing.com/pngs/146/417/png-transparent-man-in-blue-nike-soccer-shirt-kevin-de-bruyne-manchester-city-f-c-belgium-national-football-team-thonon-evian-savoie-f-c-lb-chateauroux-de-bruyne-tshirt-sport-team-thumbnail.png"
-        },
-        {
-            "name": "Mbappe",
-            "image" : "https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-kylian-mbappe-real-madrid-football-club-transparent-png-701751712069430k8zky8aqro.png"
-        },
-        {
-            "name": "Mohamed Salah",
-            "image" : "https://w7.pngwing.com/pngs/303/328/png-transparent-man-playing-soccer-mohamed-salah-iran-national-football-team-liverpool-f-c-sport-muhammed-salah-tshirt-jersey-shoe-thumbnail.png"
-        },
-        {
-            "name": "Neymar",
-            "image" : "https://w7.pngwing.com/pngs/121/891/png-transparent-neymar-brazil-paris-saint-germain-f-c-real-madrid-c-f-2014-fifa-world-cup-neymar-football-render-neymar-tshirt-celebrities-sport-thumbnail.png"
-        },
-        {
-            "name": "Alexander Isak",
-            "image": "https://uniqrenders.com/Uploads/31-12-2022/1190/preview-alexander-isak-newcastle-united-premier-league-sweden-swedish-footballers-render.jpg"
-        },
-        {
-            "name": "Jude Bellingham",
-            "image": "https://uniqrenders.com/Uploads/16-12-2024/6496/preview-jude-bellingham-real-madrid-la-liga-england-english-footballers-render.jpg"
-        },
-        {
-            "name": "Icardi",
-            "image": "https://i.pinimg.com/564x/cb/16/b4/cb16b4580ae35708b1a87b50ff9993f1.jpg"
-        },
-        {
-            "name": "Romelu Lukaku",
-            "image": "https://w7.pngwing.com/pngs/865/866/png-transparent-romelu-lukaku-2018-world-cup-belgium-national-football-team-france-national-football-team-2014-fifa-world-cup-belgium-lukaku-tshirt-jersey-world-cup-thumbnail.png"
-        },
-        {
-            "name": "Harry Kane",
-            "image": "https://i.pinimg.com/564x/1d/9b/37/1d9b3751da54a51c3394be2c9439fc4e.jpg"
+        "Turkish Super League": {
+            "easy": [
+                {
+                    "name": "Yunus Akgun",
+                    "image": "https://img.piri.net/mnresize/712/-/piri/upload/3/2025/1/6/39cce0c4-kie71ey4gdj7h7m498h4qt.jpeg"
+                },
+                {
+                    "name": "Youssef En Nesyri",
+                    "image": "https://img.kontraspor.com/storage/files/images/2024/11/18/depophotos-18490128-7g2t.jpg"
+                },
+                {
+                    "name":"Rafa Silva",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rafa_Silva_20240803_%28cropped%29_wide.jpg/640px-Rafa_Silva_20240803_%28cropped%29_wide.jpg"
+                }
+            ],
+            "medium": [
+                {
+                    "name":"Romulo",
+                    "image": "https://www.marmarisyenisayfa.com/files/uploads/news/default/goztepeli-romulo-3-buyukler-karsisinda-dikkatleri-cekti-36162.webp"
+                }
+
+            ],
+            "hard": [
+                {
+                    "name":"Deniz Türüç",
+                    "image":"https://s.hs-data.com/bilder/spieler/gross/217345.jpg"
+                }
+            ]
         }
-    ],
-    "teams": [
-        {
-            "name": "Real Betis",
-            "image": "https://w7.pngwing.com/pngs/72/188/png-transparent-real-betis-real-madrid-c-f-2017-18-la-liga-sevilla-fc-seville-derby-betis-thumbnail.png"
-        },
-        {
+    },
+    "teams": {
+        "Premier League": [{
             "name": "Sunderland",
             "image": "https://w7.pngwing.com/pngs/903/355/png-transparent-sunderland-a-f-c-premier-league-efl-championship-reading-f-c-arsenal-f-c-sport-logo-sports-thumbnail.png"
-        },
-        {
-            "name": "Celtic",
-            "image": "https://w7.pngwing.com/pngs/30/774/png-transparent-celtic-park-celtic-f-c-dundee-f-c-old-firm-rangers-f-c-others-leaf-logo-scotland-thumbnail.png"
-        },
-        {
-            "name": "Lyon",
-            "image": "https://w7.pngwing.com/pngs/29/154/png-transparent-olympique-lyonnais-groupama-stadium-football-borussia-dortmund-football-text-label-city-thumbnail.png"
-        },
-        {
+        }],
+        "Turkish Super League": [
+            {
+                "name": "Sivasspor",
+                "image": "https://w7.pngwing.com/pngs/567/562/png-transparent-sivasspor-hd-logo.png"
+            }
+        ],
+        "La Liga": [
+            {
+                "name": "Real Betis",
+                "image": "https://w7.pngwing.com/pngs/72/188/png-transparent-real-betis-real-madrid-c-f-2017-18-la-liga-sevilla-fc-seville-derby-betis-thumbnail.png"
+            }
+        ],
+        "Bundesliga": [{
             "name": "Borussia Dortmund",
             "image": "https://w7.pngwing.com/pngs/557/363/png-transparent-borussia-dortmund-hd-logo-thumbnail.png"
-        },
-        {
-            "name": "Sivasspor",
-            "image": "https://w7.pngwing.com/pngs/567/562/png-transparent-sivasspor-hd-logo.png"
-        },
-        {
-            "name": "Aek Athens",
-            "image": "https://w7.pngwing.com/pngs/212/615/png-transparent-aek-athens-f-c-superleague-greece-paok-fc-aek-b-c-football-logo-black-sports-thumbnail.png"
-        },
-        {
+        }],
+        "Serie A": [{
             "name": "Atalanta",
             "image": "https://w7.pngwing.com/pngs/770/754/png-transparent-atalanta-thumbnail.png"
-        },
-        {
-            "name": "Sporting Braga",
-            "image": "https://w7.pngwing.com/pngs/397/301/png-transparent-sporting-clube-de-braga-hd-logo.png"
-        },
-        {
-            "name": "Gent",
-            "image": "https://w7.pngwing.com/pngs/509/945/png-transparent-ghelamco-arena-k-a-a-gent-belgian-first-division-a-club-brugge-kv-k-v-kortrijk-football-blue-logo-football-team-thumbnail.png"
-        },
-        {
+        }],
+        "Ligue 1": [ {
+            "name": "Lyon",
+            "image": "https://w7.pngwing.com/pngs/29/154/png-transparent-olympique-lyonnais-groupama-stadium-football-borussia-dortmund-football-text-label-city-thumbnail.png"
+        }],
+        "Eredivisie": [{
             "name": "Psv Eindhoven",
             "image": "https://w7.pngwing.com/pngs/138/623/png-transparent-psv-hd-logo.png"
-        }
-    ]
+        }],
+        "Liga Portugal": [{
+            "name": "Sporting Braga",
+            "image": "https://w7.pngwing.com/pngs/397/301/png-transparent-sporting-clube-de-braga-hd-logo.png"
+        }]
+    }
 }
