@@ -47,21 +47,19 @@
           "dogruCevap": "4"
         }
       ],
-      "Sözel Mantık 2020 Kpss Çıkmış Sorular" : [
-        
-          {
-            "soru": "Alp, Buket, Caner, Duygu, Emin, Funda ve Gamze adlı hastalar; hâlsizlik, mide ağrısı ve uykusuzluk şikâyetleriyle aile hekimine belli bir sırada muayene olmuşlardır. Hastaların şikâyetleri ve muayene olma sıralarına ilişkin bilgileri şu şekildedir:\n\n• Her hastanın sadece bir şikâyeti vardır.\n• Hastalardan üçünün hâlsizlik, ikisinin uykusuzluk şikâyeti vardır.\n• Mide ağrısı şikâyeti olan Gamze, ikinci sırada muayene olmuştur.\n• Beşinci ve altıncı sırada muayene olan hastaların şikâyetleri aynıdır.\n• Caner’den hemen önce Alp, hemen sonra Funda muayene olmuştur ve üçünün de şikâyeti birbirinden farklıdır.\n• Funda’nın şikâyeti uykusuzluktur.\n• Buket ve Emin art arda muayene olmuştur.\n\nBuna göre; I. Alp, II. Duygu, III. Emin adlı hastalardan hangilerinin muayene sırası kesin olarak bilinmektedir?",
-            "secenekler": [
-              "Yalnız I",
-              "Yalnız II",
-              "Yalnız III",
-              "I ve II",
-              "I ve III"
-            ],
-            "dogruCevap": "I ve II",
-            "aciklama": ""
-          },
-        
+      "Sözel Mantık 2020 Kpss Çıkmış Sorular": [
+        {
+          "soru": "Alp, Buket, Caner, Duygu, Emin, Funda ve Gamze adlı hastalar; hâlsizlik, mide ağrısı ve uykusuzluk şikâyetleriyle aile hekimine belli bir sırada muayene olmuşlardır. Hastaların şikâyetleri ve muayene olma sıralarına ilişkin bilgileri şu şekildedir:\n\n• Her hastanın sadece bir şikâyeti vardır.\n• Hastalardan üçünün hâlsizlik, ikisinin uykusuzluk şikâyeti vardır.\n• Mide ağrısı şikâyeti olan Gamze, ikinci sırada muayene olmuştur.\n• Beşinci ve altıncı sırada muayene olan hastaların şikâyetleri aynıdır.\n• Caner’den hemen önce Alp, hemen sonra Funda muayene olmuştur ve üçünün de şikâyeti birbirinden farklıdır.\n• Funda’nın şikâyeti uykusuzluktur.\n• Buket ve Emin art arda muayene olmuştur.\n\nBuna göre; I. Alp, II. Duygu, III. Emin adlı hastalardan hangilerinin muayene sırası kesin olarak bilinmektedir?",
+          "secenekler": [
+            "Yalnız I",
+            "Yalnız II",
+            "Yalnız III",
+            "I ve II",
+            "I ve III"
+          ],
+          "dogruCevap": "I ve II",
+          "aciklama": ""
+        },
         {
           "soru": "Buna göre; I. Alp, II. Buket, III. Caner adlı hastalardan hangilerinin şikâyeti uykusuzluk olabilir?",
           "secenekler": [
@@ -184,7 +182,6 @@
           "dogruCevap": "Acaba bizim taşıp köpürmelerimizi pek mi çocukça bulmuştu?",
           "aciklama": "'Taşıp köpürmek' deyimi 'sinirlenmek' anlamında mecaz olarak kullanılmıştır."
         },
-        
         {
           "soru": "Aşağıdaki cümlelerin hangisinde 'bakmak' sözcüğü ayraç içindeki anlamıyla kullanılmamıştır?",
           "secenekler": [
@@ -929,7 +926,6 @@
           "dogruCevap": "sararıyordu",
           "aciklama": "sararıyordu: ünlü daralması ve kaynaştırma ünsüzü"
         },
-        
         {
           "soru": "'Bahçemizdeki ağaçlar çiçek açtı.' cümlesinde kaç ünsüz harfin yumuşak karşılığı vardır?",
           "secenekler": [
@@ -2451,17 +2447,6 @@
           "aciklama": "Emir ve Sultan."
         },
         {
-          "soru": "İlk Türk-İslam devletlerinde hükümdarlar özel giysilerine ne ad vermişlerdir?",
-          "secenekler": [
-            "Tıraz",
-            "Kaftan",
-            "Hilat",
-            "Çapan"
-          ],
-          "dogruCevap": "Tıraz",
-          "aciklama": "Tıraz."
-        },
-        {
           "soru": "İlk Türk-İslam devletlerinde resmi belgelerde kullanılan mühürlere ne ad verilmiştir?",
           "secenekler": [
             "Tuğra veya Tevki",
@@ -2995,17 +2980,6 @@
         }
       ],
       "Osmanlı Yükselme Dönemi": [
-        {
-          "soru": "Osmanlı Devleti'nin ilk yazılı kanunları aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Kanunname-i Ali Osman",
-            "Teşkilat-ı Esasiye",
-            "Mecelle",
-            "Kanun-i Kadim"
-          ],
-          "dogruCevap": "Kanunname-i Ali Osman",
-          "aciklama": "Osmanlı Devleti'nin ilk yazılı kanunları Kanunname-i Ali Osman'dır."
-        },
         {
           "soru": "Osmanlı Devleti'nde şehzadelerin yönetim tecrübesi kazanması için uygulanan sistemin adı nedir?",
           "secenekler": [
@@ -3858,8 +3832,8 @@
           "secenekler": [
             "Yıldırım Bayezid",
             "Fatih Sultan Mehmet",
-            "II. Mehmet",
-            "Süleyman Şah"
+            "I. Murat",
+            "Orhan Bey"
           ],
           "dogruCevap": "Yıldırım Bayezid"
         },
@@ -4195,17 +4169,6 @@
           ],
           "dogruCevap": "Macaristan, Mora, Dalmaçya ve Podolya",
           "aciklama": "Karlofça Antlaşması ile Osmanlı Devleti ilk kez büyük çapta toprak kaybetmiş ve Macaristan, Mora, Dalmaçya ve Podolya'yı kaybetmiştir."
-        },
-        {
-          "soru": "XVIII. yüzyılda Osmanlı Devleti'nde Batı Avrupa ile imzalanan en önemli antlaşmalardan biri hangisidir?",
-          "secenekler": [
-            "Küçük Kaynarca Antlaşması",
-            "Zohab Antlaşması",
-            "Pasarofça Antlaşması",
-            "Belgrad Antlaşması"
-          ],
-          "dogruCevap": "Küçük Kaynarca Antlaşması",
-          "aciklama": "1774'te imzalanan Küçük Kaynarca Antlaşması, Osmanlı'nın Rusya karşısında büyük kayıplar verdiği önemli bir antlaşmadır."
         },
         {
           "soru": "Yeniçeri Ocağı'na karşı ilk ciddi ıslahat hareketi hangi padişah döneminde başlamıştır?",
@@ -5794,17 +5757,6 @@
         }
       ],
       "I. TBMM Dönemi": [
-        {
-          "soru": "Aşağıdakilerden hangisi I. TBMM için düşünülen isimlerden biri değildir?",
-          "secenekler": [
-            "Kurultay",
-            "Meclis-i Kebir",
-            "Meclis-i Mebusan",
-            "Meclis-i Müessesian"
-          ],
-          "dogruCevap": "Meclis-i Mebusan",
-          "aciklama": "Meclis-i Mebusan, Osmanlı parlamentosunun adıdır. I. TBMM için düşünülen isimler arasında yer almaz."
-        },
         {
           "soru": "I. TBMM'nin çıkardığı ilk kanun hangisidir?",
           "secenekler": [
@@ -8255,7 +8207,335 @@
           "dogruCevap": "KEİ"
         }
       ],
-      "2020 Kpss Çıkmış Sorular" : [
+      "2019 Kpss Çıkmış Sorular ": [
+        {
+          "soru": "Aşağıdakilerden hangisi Türk tarihinde önemli bir yeri olan Uygurlarla ilgili değildir?",
+          "secenekler": [
+            "Yerleşik hayat tarzını yaygınlaştırmışlardır.",
+            "Maniheizm dinini benimsemişlerdir.",
+            "Yazılı hukuk belgeleri düzenlemişlerdir.",
+            "Kalıp baskı yöntemiyle kitap çoğaltmışlardır.",
+            "Tarihlerini Manas Destanı'yla anlatmışlardır."
+          ],
+          "dogruCevap": "Tarihlerini Manas Destanı'yla anlatmışlardır.",
+          "aciklama": "Manas Destanı, Kırgızlara ait bir destandır, Uygurlarla ilgili değildir."
+        },
+        {
+          "soru": "Eski Türklerin 'Güneş bayrağımız, gökyüzü çadırımız.' sözüyle aşağıdakilerden hangisi vurgulanmaktadır?",
+          "secenekler": [
+            "Kut",
+            "İkili yönetim",
+            "Ordu-millet",
+            "Töre",
+            "Cihan hâkimiyeti"
+          ],
+          "dogruCevap": "Cihan hâkimiyeti",
+          "aciklama": "Bu söz, Türklerin dünya hakimiyeti idealini ifade etmektedir."
+        },
+        {
+          "soru": "Anadolu Selçuklu Devleti'yle ilgili,\nI. Nizamiye medreseleri adı altında ilk medreseleri kurmuşlardır.\nII. Haçlı seferlerine karşı mücadele etmişlerdir.\nIII. Kervansaraylar yaparak ticari hayatın canlanmasına yardımcı olmuşlardır.\nyargılarından hangileri söylenebilir?",
+          "secenekler": [
+            "Yalnız I",
+            "Yalnız II",
+            "I ve II",
+            "II ve III",
+            "I, II ve III"
+          ],
+          "dogruCevap": "II ve III",
+          "aciklama": "Nizamiye medreseleri Büyük Selçuklu Devleti'ne aittir. Diğer iki madde doğrudur."
+        },
+        {
+          "soru": "Osmanlı Devleti'nde mirî toprak rejimi çerçevesinde köylünün; toprağı habersiz terk etmemesi, sebepsiz olarak üç yıl boş bırakmaması ve ürettiği ürünün vergilerini ödemesi beklenirdi. Köylü toprağı satamaz, vakfedemez ve devredemezdi. Ölen kişinin toprakları oğullarına geçerdi.\n\nBuna göre mirî toprak rejimiyle aşağıdakilerden hangisinin amaçlandığı söylenemez?",
+          "secenekler": [
+            "Özel mülkiyetin yaygınlaştırılması",
+            "Üretimde sürekliliğin sağlanması",
+            "Nüfus hareketlerinin denetlenmesi",
+            "Devlet gelirlerinin tahmin edilebilir kılınması",
+            "Merkezî otoritenin güçlendirilmesi"
+          ],
+          "dogruCevap": "Özel mülkiyetin yaygınlaştırılması",
+          "aciklama": "Mirî toprak rejimi özel mülkiyeti sınırlandırmayı amaçlamıştır, yaygınlaştırmayı değil."
+        },
+        {
+          "soru": "Veziriazam Osman Paşa, 1584 yılında İran üzerine düzenlenecek sefer için, Anadolu'dan kapıkulu ocaklarında istihdam edilmek vaadiyle asker toplamıştır.\n\nBu bilgi de dikkate alınarak Osmanlı ordusuyla ilgili aşağıdakilerden hangisine ulaşılabilir?",
+          "secenekler": [
+            "Yeniçeri Ocağının Türk kökenlilere açıldığına",
+            "Timar sisteminin yeniden düzenlendiğine",
+            "Devşirme sisteminin ortadan kalktığına",
+            "Eyalet ordularının güçlendiğine",
+            "Askerî harcamaların azaldığına"
+          ],
+          "dogruCevap": "Yeniçeri Ocağının Türk kökenlilere açıldığına",
+          "aciklama": "Anadolu'dan asker toplanması, daha önce sadece devşirme sistemiyle gayrimüslim tebaadan alınan Yeniçeri Ocağı'nın artık Türk kökenlilere de açıldığını gösterir."
+        },
+        {
+          "soru": "I. Tereke defterlerinde; büyük miktarda nakit parası, borcu ve alacağı olan kadınların bulunması\nII. Zenginlerin haremlerine kumaş ve mücevherat satan kadınların olması\nIII. Nikah sözleşmelerinde yüksek miktarda mehir takdir edilmiş kadınlara rastlanması\n\nYukarıdakilerden hangileri Klasik Dönem Osmanlı ekonomik hayatında kadınların da aktif olduğunu göstermektedir?",
+          "secenekler": [
+            "Yalnız I",
+            "Yalnız II",
+            "I ve II",
+            "II ve III",
+            "I, II ve III"
+          ],
+          "dogruCevap": "I, II ve III",
+          "aciklama": "Verilen üç madde de kadınların ekonomik hayatta aktif rol aldıklarını gösteren kanıtlardır."
+        },
+        {
+          "soru": "Askerî yenilgiler sonrasında Batı dünyasıyla siyasi ilişkiler dışında teknik ve kültürel alanlarda da temasa geçilmesi gerekliliği, aşağıdakilerin hangisinde ilk kez ortaya çıkmıştır?",
+          "secenekler": [
+            "II. Meşrutiyet Devri",
+            "Lale Devri",
+            "Nizam-ı Cedit Devri",
+            "Tanzimat Devri",
+            "I. Meşrutiyet Devri"
+          ],
+          "dogruCevap": "Lale Devri",
+          "aciklama": "Lale Devri (1718-1730), Osmanlı Devleti'nin Batı'ya açılmasının başlangıcı olarak kabul edilir."
+        },
+        {
+          "soru": "Osmanlı Devleti ilk daimî elçiliğini aşağıdaki Avrupa başkentlerinin hangisinde açmıştır?",
+          "secenekler": [
+            "Berlin",
+            "Viyana",
+            "Paris",
+            "Londra",
+            "Moskova"
+          ],
+          "dogruCevap": "Londra",
+          "aciklama": "Osmanlı Devleti'nin ilk daimi elçiliği 1793'te Londra'da açılmıştır."
+        },
+        {
+          "soru": "Tarih Öğretmeni Yasemin: 'II. Mahmut, Osmanlı merkez teşkilatında köklü idari değişiklikler yapmıştır.' diyerek öğrencilerinden bu duruma örnek vermelerini istemiştir.\n\nAşağıdakilerden hangisi Yasemin Öğretmen'in öğrencilerinden istediği bu örneklerden biridir?",
+          "secenekler": [
+            "Sekban-ı Cedit Ocağının kurulması",
+            "Heyet-i Vükelanın oluşturulması",
+            "Mekteb-i Harbiyenin açılması",
+            "Yeniçeri Ocağının kaldırılması",
+            "Muzika-i Hümayunun kurulması"
+          ],
+          "dogruCevap": "Heyet-i Vükelanın oluşturulması",
+          "aciklama": "Heyet-i Vükela (Bakanlar Kurulu), II. Mahmut döneminde merkez teşkilatında yapılan en önemli idari değişikliklerden biridir."
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi, Osmanlı Devleti'nde İslamcılık düşüncesini savunan yayın organlarından biridir?",
+          "secenekler": [
+            "Sebilürreşat",
+            "Tercüman-ı Ahval",
+            "Genç Kalemler",
+            "İçtihat",
+            "Öğüt"
+          ],
+          "dogruCevap": "Sebilürreşat",
+          "aciklama": "Sebilürreşat dergisi, Osmanlı Devleti'nde İslamcılık akımının en önemli yayın organlarından biriydi."
+        },
+        {
+          "soru": "Birinci Dünya Savaşı sırasında Medine'yi müdafaa eden Osmanlı kuvvetlerinin komutanı, aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Cemal Paşa",
+            "Fahrettin Paşa",
+            "Halil Paşa",
+            "Cevat Paşa",
+            "Sakallı Nurettin Paşa"
+          ],
+          "dogruCevap": "Fahrettin Paşa",
+          "aciklama": "Fahrettin Paşa (Fahrettin Türkkan), Medine Müdafii olarak tarihe geçmiştir. Medine'yi 2.5 yıl boyunca savunmuştur."
+        },
+        {
+          "soru": "Birinci Dünya Savaşı sonunda toplanan Paris Barış Konferansı'na katılarak Osmanlı Devleti'nden ayrılma isteklerini belirten Müslüman ve gayrimüslim unsurların temsilcileri, Wilson İlkeleri'ne dayanarak bağımsızlık taleplerini aşağıdaki etkenlerden hangisi üzerine inşa etmişlerdir?",
+          "secenekler": [
+            "Din",
+            "Nüfus",
+            "Ekonomi",
+            "Sosyal sınıf",
+            "Rejim"
+          ],
+          "dogruCevap": "Nüfus",
+          "aciklama": "Wilson İlkeleri'nin self-determinasyon (milletlerin kendi kaderini tayin hakkı) ilkesi gereğince, azınlıklar nüfus çoğunluğuna dayanarak bağımsızlık talebinde bulunmuşlardır."
+        },
+        {
+          "soru": "Mustafa Kemal Paşa aşağıdakilerden hangisinin hazırlıkları sırasında, Osmanlı Hükûmeti tarafından IX. Ordu Müfettişliği görevinden alınması üzerine bütün görevlerinden istifa ederek sineyimillete dönmüştür?",
+          "secenekler": [
+            "Havza Bildirisi",
+            "Erzurum Kongresi",
+            "Amasya Görüşmeleri",
+            "Amasya Genelgesi",
+            "TBMM'nin açılması"
+          ],
+          "dogruCevap": "Erzurum Kongresi",
+          "aciklama": "Mustafa Kemal Paşa, Erzurum Kongresi hazırlıkları sırasında 8-9 Temmuz 1919 gecesi görevinden azledilmiş ve bütün resmi görevlerinden istifa ederek milli mücadeleye sivil olarak devam etmiştir."
+        },
+        {
+          "soru": "4 Eylül 1919'da toplanan Sivas Kongresi'yle ilgili aşağıdakilerden hangisi yanlıştır?",
+          "secenekler": [
+            "Delegeler, ittihatçı olmadıklarını ispat etmeye çalışmışlardır.",
+            "Kongre başkanlığı konusunda tartışmalar yaşanmıştır.",
+            "Bolşevik propagandası, görüşmelere damga vurmuştur.",
+            "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti kurulmuştur.",
+            "Erzurum Kongresi'nde alınan kararlar kabul edilmiştir."
+          ],
+          "dogruCevap": "Bolşevik propagandası, görüşmelere damga vurmuştur.",
+          "aciklama": "Sivas Kongresi'nde Bolşevik propagandası etkili olmamıştır. Kongrede daha çok milli birlik ve beraberlik, vatanın bütünlüğü ve bağımsızlık konuları üzerinde durulmuştur."
+        }
+      ],
+      "2019 Kpss Çıkmış Sorular 2": [
+        {
+          "soru": "Damat Ferit Paşa Hükûmetinin Anadolu’dan gelen baskılar sonucunda istifa etmesinden sonra, Ali Rıza Paşa Hükûmeti kurulmuş ve bu yeni kabinenin Temsil Heyetinden bazı istekleri olmuştur.\nAşağıdakilerden hangisi bu istekler arasında yer almaz?",
+          "secenekler": [
+            "El konulan resmî dairelerin boşaltılması",
+            "İstanbul ve Anadolu arasındaki iletişimin yeniden kurulması",
+            "Hükûmet uygulamalarına saygı gösterilmesi",
+            "Seçimlere müdahale edilmemesi",
+            "Ülkenin birlikte yönetilmesi"
+          ],
+          "dogruCevap": "Hükûmet uygulamalarına saygı gösterilmesi",
+          "aciklama": "Temsil Heyeti talepleri arasında, resmi dairelerin boşaltılması, İstanbul ile Anadolu arasındaki iletişimin yeniden sağlanması, seçimlere müdahale edilmemesi ve ülkenin birlikte yönetilmesi yer alırken; 'Hükûmet uygulamalarına saygı gösterilmesi' talebi bulunmamaktadır."
+        },
+        {
+          "soru": "İtilaf Devletleri’nin Haziran 1920’de Yunanlılara Milne Hattı’nı aşarak Batı Anadolu’da işgallerini genişletmesi konusunda izin vermesi, aşağıdakilerden hangisiyle ilişkilendirilebilir?",
+          "secenekler": [
+            "Osmanlı Hükûmetini barış antlaşması imzalamaya zorlamak",
+            "Padişahın cihat çağrısını etkisiz kılmak",
+            "Sivas'ta ulusal bir kongrenin toplanmasını önlemek",
+            "Mebusan Meclisinde Misakımillî’nin kabul edilmesini engellemek",
+            "Cemiyetlerin tek çatı altında birleşmesinin önüne geçmek"
+          ],
+          "dogruCevap": "Mebusan Meclisinde Misakımillî’nin kabul edilmesini engellemek",
+          "aciklama": "İtilaf Devletleri, Yunanlılara verilen genişleme izni ile Osmanlı’nın milli iradesinin ve Mebusan Meclisi’nde kurulması beklenen Misak-ı Millî’nin kabulünü engellemeyi amaçlamıştır."
+        },
+        {
+          "soru": "Mustafa Kemal Paşa’nın 26 Ağustos 1922’de başlayan Büyük Taarruz sırasında bizzat yönettiği 'Başkumandan Meydan Muharebesi', savaşın geçtiği yer nedeniyle aşağıdaki isimlerden hangisiyle de anılmaktadır?",
+          "secenekler": [
+            "İnönü",
+            "Sakarya",
+            "Dumlupınar",
+            "Eskişehir-Kütahya",
+            "Gediz"
+          ],
+          "dogruCevap": "Dumlupınar",
+          "aciklama": "Büyük Taarruz'un son aşamasında gerçekleştirilen bu meydan muharebesi, savaşın yapıldığı bölge nedeniyle 'Dumlupınar' olarak da adlandırılmaktadır."
+        },
+        {
+          "soru": "23 Nisan 1920’de toplanan Birinci TBMM’de farklı görüş ve düşüncelere mensup milletvekilleri bulunmuştur. Görüşleri birbirine yakın milletvekilleri zamanla çeşitli gruplar oluşturmuştur.\nAşağıdakilerden hangisi bu gruplardan biri değildir?",
+          "secenekler": [
+            "İstiklal Grubu",
+            "Halk Zümresi",
+            "Islahat Grubu",
+            "Mim Mim Grubu",
+            "Tesanüt Grubu"
+          ],
+          "dogruCevap": "Mim Mim Grubu",
+          "aciklama": "Bilinen TBMM grupları arasında 'Mim Mim Grubu' yer almamaktadır."
+        },
+        {
+          "soru": "1923 yılında İzmir’de toplanan Türkiye İktisat Kongresi’nde alınan kararlardan hangisinin, ülkede üretim ve sanayi altyapısından çok, tüketim alışkanlıklarını düzenleme niteliği taşıdığı söylenebilir?",
+          "secenekler": [
+            "Ham maddesi yurt içinden temin edilen sanayi dalları kurulmalıdır.",
+            "El işçiliğinden ve küçük imalattan süratle fabrikaya ve büyük işletmeye geçilmelidir.",
+            "Devlet, özel sektör tarafından gerçekleştirilemeyen yatırımlara öncülük etmelidir.",
+            "İşletmelere kredi sağlayacak bankalar kurulmalıdır.",
+            "Yerli malı kullanımı ve tasarruf özendirilmelidir."
+          ],
+          "dogruCevap": "Yerli malı kullanımı ve tasarruf özendirilmelidir.",
+          "aciklama": "Bu karar, ülkenin sanayi ve üretim altyapısına yönelik değil, tüketim alışkanlıklarını düzenleyip yerli üretimi teşvik etmeyi amaçladığı için öne çıkmaktadır."
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi, Lozan Görüşmeleri’nin kesintiye uğradığı 4 Şubat-23 Nisan 1923 tarihleri arasında Türk iç politikasında yaşanan gelişmelerden biridir?",
+          "secenekler": [
+            "TBMM’de seçim kararı alınması",
+            "Saltanatın kaldırılması",
+            "Ankara’nın başkent olması",
+            "İsmet Paşa’nın Dışişleri Bakanlığına getirilmesi",
+            "Takrir-i Sükûn Kanunu’nun çıkarılması"
+          ],
+          "dogruCevap": "TBMM’de seçim kararı alınması",
+          "aciklama": "Bu dönemde Lozan Görüşmeleri sürerken, TBMM’de seçim kararı alınması Türk iç politikasındaki önemli gelişmelerden biri olarak öne çıkmaktadır. Diğer seçenekler farklı zamanlarda gerçekleşen olaylardır."
+        },
+        {
+          "soru": "Aşağıdaki gelişmelerden hangisi, Sivas Mebusu Rauf Bey tarafından 2 Kasım 1922 tarihinde sunulan önergenin 24 Ekim 1923’te yasalaşmasıyla 1935 yılına kadar “Hâkimiyet Bayramı” olarak kutlanmıştır?",
+          "secenekler": [
+            "Cumhuriyet’in ilan edilmesi",
+            "Halifeliğin kaldırılması",
+            "Misakımillî’nin ilan edilmesi",
+            "Saltanatın kaldırılması",
+            "Lozan Antlaşması’nın imzalanması"
+          ],
+          "dogruCevap": "Cumhuriyet’in ilan edilmesi",
+          "aciklama": "Rauf Bey'in önergesiyle yasalaşan düzenleme, millet egemenliğinin teminine işaret etmekte ve 1935 yılına kadar “Hâkimiyet Bayramı” olarak kutlanmıştır. Bu durum, Cumhuriyet’in ilan edilmesi kavramıyla ilişkilendirilmektedir."
+        },
+        {
+          "soru": "Mustafa Kemal Atatürk, “Din, bir vicdan meselesidir. Herkes, vicdanının emrine uymakta serbesttir. Biz dine saygı gösteririz. Düşünüşe karşı değiliz. Biz sadece, din işlerini millet ve devlet işleriyle karıştırmamaya çalışıyor, kaste ve fiile dayanan taassupkâr hareketlerden sakınıyoruz.” demiştir.\n\nBu ifade;\nI. Halifeliğin kaldırılması,\nII. Tekke, zaviye ve türbelerin kapatılması,\nIII. Türk Medeni Kanunu'nun kabul edilmesi\n\ngelişmelerinden hangileriyle ilişkilendirilebilir?",
+          "secenekler": [
+            "Yalnız I",
+            "Yalnız III",
+            "I ve III",
+            "II ve III",
+            "I, II ve III"
+          ],
+          "dogruCevap": "I, II ve III",
+          "aciklama": "Atatürk’ün ifadesinde, din ile devlet işlerinin ayrılması hedeflenmektedir. Bu kapsamda halifeliğin kaldırılması, dini kurumların (tekke, zaviye ve türbelerin kapatılması) ve medeni hukuk alanında yapılan reformlar (Türk Medeni Kanunu'nun kabul edilmesi) bu düşünceyle ilişkilendirilebilir."
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Atatürk Dönemi’nde eğitim alanında yapılan yeniliklerden biri değildir?",
+          "secenekler": [
+            "Maarif Teşkilatıyla ilgili bir kanun çıkarılması",
+            "Yeni Türk harflerinin kabul edilmesi",
+            "Üniversite Reformu’nun gerçekleştirilmesi",
+            "Millet Mekteplerinin açılması",
+            "Türk Ocaklarının kurulması"
+          ],
+          "dogruCevap": "Türk Ocaklarının kurulması",
+          "aciklama": "Atatürk Dönemi’nde eğitim alanındaki yenilikler arasında maarif kanunları, harf devrimi, üniversite reformu ve millet mekteplerinin açılması yer alırken; Türk Ocakları daha çok kültürel ve milli yapıyı güçlendirmeye yönelik olup, doğrudan eğitim alanında bir yenilik olarak değerlendirilemez."
+        },
+        {
+          "soru": "Türk İnkılabı’nın temelini oluşturan Atatürk İlkeleri’yle ilgili aşağıdakilerden hangisi söylenemez?",
+          "secenekler": [
+            "Devletçilik, diğerlerinden sonra uygulama alanı bulmuştur.",
+            "Fransız Devrimi’nden etkilenmiştir.",
+            "Atatürk’ün ölümünden sonra CHP’nin programına girmiştir.",
+            "1937 yılında Anayasa hükmü hâline getirilmiştir.",
+            "Kemalizmin Prensipleri olarak da tanımlanmıştır."
+          ],
+          "dogruCevap": "Atatürk’ün ölümünden sonra CHP’nin programına girmiştir.",
+          "aciklama": "Atatürk İlkeleri, Atatürkün yaşamı boyunca belirlenen temel ilkelerdir. CHP’nin programına entegrasyonu, onun ölümünden önceki dönemde gerçekleşmiştir; dolayısıyla bu ifade ilkelerin doğasıyla örtüşmez."
+        },
+        {
+          "soru": "Almanya’nın Avusturya ve Çekoslovakya’yı işgal ederek yayılmacı ve saldırgan bir politika izlemesi karşısında, İngiltere’nin geliştirdiği ve Başbakan Chamberlain ile özdeşleşen politika aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Yalnızlık",
+            "Aktif tarafsızlık",
+            "Mekik diplomasisi",
+            "Yatıştırma",
+            "Yumuşama"
+          ],
+          "dogruCevap": "Yatıştırma",
+          "aciklama": "Chamberlain’in politikası, Almanya’nın saldırgan tutumuna karşı yapılan tavizler ve müzakereler çerçevesinde izlenen 'yatıştırma (appeasement)' politikasıdı­r."
+        },
+        {
+          "soru": "Demokrat Parti Dönemi’nde, ABD üniversiteleri modeline uygun olarak kurulan yükseköğretim kurumu aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "İstanbul Teknik Üniversitesi",
+            "Orta Doğu Teknik Üniversitesi",
+            "Hacettepe Üniversitesi",
+            "Ankara Üniversitesi",
+            "Ege Üniversitesi"
+          ],
+          "dogruCevap": "Orta Doğu Teknik Üniversitesi",
+          "aciklama": "Orta Doğu Teknik Üniversitesi, Demokrat Parti Dönemi’nde Amerikan üniversite modeli esas alınarak kurulmuş, özellikle bilimsel ve teknik eğitimde öncü bir kurum olarak yapılandırılmıştır."
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi SSCB’nin Soğuk Savaş Dönemi’nde izlediği politikalardan biri değildir?",
+          "secenekler": [
+            "Avrupa’nın önemli bir bölümünü nüfuzu altına alma",
+            "Ordusunu güçlendirerek savaş sanayisini geliştirme",
+            "Türk Cumhuriyetlerine bağımsızlık verme",
+            "Afganistan’ı işgal etme",
+            "Uzay çalışmalarına başlama"
+          ],
+          "dogruCevap": "Türk Cumhuriyetlerine bağımsızlık verme",
+          "aciklama": "SSCB, Soğuk Savaş döneminde bölgesel nüfuzunu genişletmek amacıyla kontrol ettiği ülkelerde bağımsızlık hareketlerini desteklememiştir; bu ifade SSCB’nin izlediği politikalardan biri olarak değerlendirilemez."
+        }
+      ],
+      "2020 Kpss Çıkmış Sorular": [
         {
           "soru": "İslamiyet öncesi Türk devletlerinde kullanılan bazı terimler ile bunların günümüzdeki karşılıkları arasında yapılan aşağıdaki eşleştirmelerden hangisi yanlıştır?",
           "secenekler": [
@@ -8425,19 +8705,7 @@
           "aciklama": ""
         }
       ],
-      "2020 Kpss Çıkmış Sorular 2" : [
-        {
-          "soru": "Aşağıdakilerden hangisi Heyet-i Temsiliyenin yetkili olduğu dönemde gerçekleşen olaylardan biri değildir?\nA) Hıyanet-i Vataniye Kanunu’nun kabul edilmesi\nB) Sivas’ta Komutanlar Toplantısı’nın yapılması\nC) Amasya Protokolleri’nin imzalanması\nD) Ali Fuat Paşa’nın Batı Cephesi’nde görevlendirilmesi\nE) Ankara’nın Millî Mücadele’nin merkezi olarak seçilmesi",
-          "secenekler": [
-            "Hıyanet-i Vataniye Kanunu’nun kabul edilmesi",
-            "Sivas’ta Komutanlar Toplantısı’nın yapılması",
-            "Amasya Protokolleri’nin imzalanması",
-            "Ali Fuat Paşa’nın Batı Cephesi’nde görevlendirilmesi",
-            "Ankara’nın Millî Mücadele’nin merkezi olarak seçilmesi"
-          ],
-          "dogruCevap": "Hıyanet-i Vataniye Kanunu’nun kabul edilmesi",
-          "aciklama": ""
-        },
+      "2020 Kpss Çıkmış Sorular 2": [
         {
           "soru": "16 Mart 1920’de İstanbul’un İtilaf Devletleri tarafından işgal edilmesi üzerine Ankara’ya gelen Mebusan Meclisi başkanı aşağıdakilerden hangisidir?\nA) Rauf Bey\nB) Celalettin Arif Bey\nC) Yunus Nadi Bey\nD) Cafer Tayyar Paşa\nE) Ali Fuat Paşa",
           "secenekler": [
@@ -8913,36 +9181,6 @@
     "Coğrafya": {
       "Türkiye'nin Coğrafi Konumu": [
         {
-          "soru": "Aşağıdakilerden hangisi Türkiye'nin özel konumunun sonuçlarından biri değildir?",
-          "secenekler": [
-            "Farklı iklim tiplerinin görülmesi",
-            "Yer şekillerinin çeşitlilik göstermesi",
-            "Gece-gündüz süre farklarının oluşması",
-            "Kıtalar arası geçiş noktasında olması"
-          ],
-          "dogruCevap": "Gece-gündüz süre farklarının oluşması"
-        },
-        {
-          "soru": "Türkiye'nin;\nI. Petrol boru hatlarının geçiş güzergahında olması\nII. Enerji kaynaklarına yakın olması\nIII. Su kaynaklarına sahip olması\nÖzelliklerinden hangileri, bölgesel güç olmasında etkilidir?",
-          "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "II ve III",
-            "I, II ve III"
-          ],
-          "dogruCevap": "I, II ve III"
-        },
-        {
-          "soru": "Türkiye'nin coğrafi konumu nedeniyle;\nI. Ulaşım yollarının kesişim noktasında olması\nII. Farklı kültürlerin etkileşim alanında bulunması\nIII. Stratejik öneme sahip olması\nÖzelliklerinden hangileri, tarih boyunca önemini korumasını sağlamıştır?",
-          "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "II ve III",
-            "I, II ve III"
-          ],
-          "dogruCevap": "I, II ve III"
-        },
-        {
           "soru": "Aşağıdakilerden hangisi Türkiye'nin matematik konumunun sonuçlarından biri değildir?",
           "secenekler": [
             "Deniz ticaretinin gelişmesi",
@@ -9013,8 +9251,7 @@
           "dogruCevap": "II ve III"
         }
       ],
-      "Türkiye'nin Coğrafi Konumu 2":[
-      
+      "Türkiye'nin Coğrafi Konumu 2": [
         {
           "soru": "45° doğu meridyeni Iğdır’da yerel saat 16.00 olduğunda 30° İzmit’te yerel saat kaçtır?",
           "secenekler": [
@@ -9073,30 +9310,6 @@
             "Kış başlangıcıdır."
           ],
           "dogruCevap": "Bu tarihten sonra gündüzler kısalmaya başlar",
-          "aciklama": ""
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Türkiye’nin Matematik konumu ile ilgili değildir?",
-          "secenekler": [
-            "Kuzeyi ve güneyi arası kuş uçuşu uzaklık 666 km'dir.",
-            "Kuzeyinden güneyine doğru sıcaklık azalır.",
-            "Güneyden esen rüzgarlar sıcaklığı arttırır.",
-            "Kısa mesafede iklim değişikliği yaşanır.",
-            "Türkiye’nin doğusu ve batısı arası zaman farkı 76 dk’dır."
-          ],
-          "dogruCevap": "Kısa mesafede iklim değişikliği yaşanır.",
-          "aciklama": ""
-        },
-        {
-          "soru": "Türkiye 36° − 42° kuzey paralelleri arasında yer alır. Bu bilgiden hareketle Türkiye’nin konumu ile ilgili hangisi söylenemez?",
-          "secenekler": [
-            "Türkiye Kuzey Yarım Küre’de yer alır.",
-            "Türkiye’nin en kuzeyinde 42° kuzey paraleli bulunur.",
-            "Türkiye’nin en güneyinde 36° kuzey paraleli bulunur.",
-            "Türkiye Güney Kutup Noktası’na, Kuzey Kutup Noktası’ndan daha yakındır",
-            "Kuzeyden esen rüzgarlar sıcaklığı düşürür."
-          ],
-          "dogruCevap": "Türkiye Güney Kutup Noktası’na, Kuzey Kutup Noktası’ndan daha yakındır",
           "aciklama": ""
         },
         {
@@ -9215,16 +9428,6 @@
             "I, II ve III"
           ],
           "dogruCevap": "I, II ve III"
-        },
-        {
-          "soru": "Türkiye'deki akarsuların;\nI. Rejimlerinin düzensiz olması\nII. Boylarının kısa olması\nIII. Taşımacılığa elverişli olmaması\nÖzelliklerinden hangileri, yerşekillerinin engebeli olmasının sonucudur?",
-          "secenekler": [
-            "Yalnız II",
-            "I ve II",
-            "II ve III",
-            "I, II ve III"
-          ],
-          "dogruCevap": "II ve III"
         },
         {
           "soru": "Türkiye'de karstik arazilerin yaygın olduğu bölgelerde aşağıdakilerden hangisi görülmez?",
@@ -9412,16 +9615,6 @@
           "dogruCevap": "Yaz mevsiminin kurak geçmesi"
         },
         {
-          "soru": "Türkiye'de;\nI. Yaz kuraklığının görülmesi\nII. Yıllık sıcaklık farkının fazla olması\nIII. Yağış rejiminin düzensiz olması\nÖzelliklerinden hangileri, Akdeniz ikliminin karakteristik özelliklerindendir?",
-          "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "I ve III",
-            "II ve III"
-          ],
-          "dogruCevap": "I ve III"
-        },
-        {
           "soru": "Aşağıdakilerden hangisi karasal iklimin görüldüğü yerlerin özelliklerinden biri değildir?",
           "secenekler": [
             "Yıllık sıcaklık farkının fazla olması",
@@ -9450,16 +9643,6 @@
             "Yer altı kaynakları zenginliği"
           ],
           "dogruCevap": "Yer altı kaynakları zenginliği"
-        },
-        {
-          "soru": "Türkiye'de;\nI. Yağış miktarının doğudan batıya artması\nII. Sıcaklığın güneyden kuzeye azalması\nIII. Nem oranının kıyılardan iç kesimlere azalması\nDurumlarından hangileri genel bir kuraldır?",
-          "secenekler": [
-            "Yalnız II",
-            "Yalnız III",
-            "I ve II",
-            "II ve III"
-          ],
-          "dogruCevap": "Yalnız III"
         },
         {
           "soru": "Aşağıdakilerden hangisi Akdeniz iklim bölgesinde görülen doğal bitki örtüsüdür?",
@@ -9756,16 +9939,6 @@
           "aciklama": "Bu faktörler bitki örtüsünün dağılışını belirleyen temel etkenlerdir."
         },
         {
-          "soru": "Aşağıdakilerden hangisi Akdeniz Bölgesi'nin doğal bitki örtüsünün özelliklerinden biri değildir?",
-          "secenekler": [
-            "Kızılçam ormanlarının yaygın olması",
-            "Maki topluluklarının görülmesi",
-            "Her mevsim yeşil kalması",
-            "Geniş yapraklı ağaçların çoğunlukta olması"
-          ],
-          "dogruCevap": "Geniş yapraklı ağaçların çoğunlukta olması"
-        },
-        {
           "soru": "Türkiye'de;\nI. Karadeniz kıyıları\nII. İç Anadolu\nIII. Akdeniz kıyıları\nYörelerinden hangilerinde orman tahribatı daha azdır?",
           "secenekler": [
             "Yalnız I",
@@ -9794,16 +9967,6 @@
             "I, II ve III"
           ],
           "dogruCevap": "I ve III"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Karadeniz Bölgesi'nin bitki örtüsünün özelliklerinden biri değildir?",
-          "secenekler": [
-            "Her mevsim yeşil kalması",
-            "Karışık ormanların bulunması",
-            "Yükseklerde iğne yapraklı ağaçların görülmesi",
-            "Kurakçıl bitkilerin yaygın olması"
-          ],
-          "dogruCevap": "Kurakçıl bitkilerin yaygın olması"
         },
         {
           "soru": "Türkiye'de;\nI. Orman üst sınırının doğudan batıya yükselmesi\nII. Bitki tür çeşitliliğinin fazla olması\nIII. Endemik bitki türlerinin bulunması\nÖzelliklerinden hangileri, coğrafi konumun sonucudur?",
@@ -10101,18 +10264,6 @@
           "aciklama": ""
         },
         {
-          "soru": "Ülkemizde görülen Akdeniz ikliminin özellikleri (yazların sıcak ve kurak, kışların ılık ve yağışlı olması) göz önüne alındığında, Akdeniz ikliminin hakim olduğu kıyı bölgelerde aşağıdaki faaliyetlerden hangisinin gelişmesi beklenemez?",
-          "secenekler": [
-            "Yaz turizmi",
-            "Kış turizmi",
-            "Seracılık",
-            "Tarım",
-            "Zeytin yağı fabrikaları"
-          ],
-          "dogruCevap": "Kış turizmi",
-          "aciklama": ""
-        },
-        {
           "soru": "Türkiye’deki bitki örtüsünün çeşitli olmasının temel nedeni aşağıdakilerden hangisidir?",
           "secenekler": [
             "Dağların Doğu−batı yönüne uzanması",
@@ -10195,16 +10346,6 @@
           "dogruCevap": "Ulaşım imkanları"
         },
         {
-          "soru": "Aşağıdakilerden hangisi Türkiye'de iç göçlerin nedenlerinden biri değildir?",
-          "secenekler": [
-            "Eğitim imkanları",
-            "İklim koşulları",
-            "Sanayileşme",
-            "Doğal afetler"
-          ],
-          "dogruCevap": "İklim koşulları"
-        },
-        {
           "soru": "Türkiye'de;\nI. Kırsal kesimden kentlere göç\nII. Doğum oranlarının azalması\nIII. Sağlık hizmetlerinin gelişmesi\nDurumlarından hangileri kentleşme hızını artırır?",
           "secenekler": [
             "Yalnız I",
@@ -10263,16 +10404,6 @@
             "Geleneksel yaşam tarzının hakim olması"
           ],
           "dogruCevap": "Sosyal imkanların gelişmiş olması"
-        },
-        {
-          "soru": "Türkiye'de;\nI. Eğitim seviyesinin yükselmesi\nII. Sağlık hizmetlerinin gelişmesi\nIII. Kentleşmenin artması\nDurumlarından hangileri doğum oranlarının azalmasında etkilidir?",
-          "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "II ve III",
-            "I, II ve III"
-          ],
-          "dogruCevap": "I, II ve III"
         },
         {
           "soru": "Aşağıdakilerden hangisi Türkiye'de nüfus politikalarının amaçlarından biri değildir?",
@@ -10468,7 +10599,7 @@
           "dogruCevap": "I ve II"
         }
       ],
-      "Türkiye'de Nüfus ve Yerleşme 3":[
+      "Türkiye'de Nüfus ve Yerleşme 3": [
         {
           "soru": "Aşağıdakilerden hangisi göçlerin doğal nedenlerindendir?",
           "secenekler": [
@@ -10521,12 +10652,12 @@
           "soru": "Aşağıdaki yerleşim bölgelerinden hangisi Türkiye’de seyrek nüfuslu yerlerden değildir?",
           "secenekler": [
             "Biga Yöresi",
-            "Akkari Yöresi",
+            "Hakkari Yöresi",
             "Teke Yöresi",
-            "Bursa YAlova çevresi",
+            "Bursa Yalova çevresi",
             "Menteşe Yöresi"
           ],
-          "dogruCevap": "Bursa Alova çevresi",
+          "dogruCevap": "Bursa Yalova çevresi",
           "aciklama": ""
         },
         {
@@ -10637,18 +10768,6 @@
           "aciklama": ""
         },
         {
-          "soru": "Yukarıda verilen yerlerin göç vermesinde; yükseltinin fazla olması, ılıman iklim görülmesi, gür bitki örtüsü bulunması gibi faktörlerden hangisi etkilidir?",
-          "secenekler": [
-            "Yalnız yükseltinin fazla olması",
-            "Yalnız ılıman iklim görülmesi",
-            "Yükseltinin fazla olması ve ılıman iklim görülmesi",
-            "Yükseltinin fazla olması ve gür bitki örtüsünün bulunması",
-            "İliftik iklim görülmesi ve gür bitki örtüsü bulunması"
-          ],
-          "dogruCevap": "Yalnız yükseltinin fazla olması",
-          "aciklama": ""
-        },
-        {
           "soru": "Bir ülkede iç göçün artmasının sonucu olarak; ülke nüfusunun dengesiz dağılması, çarpık kentleşme ve alt yapı sorunlarının yaşanması gibi problemlerin ortaya çıkması beklenir. Aşağıdakilerden hangileri bu sorunların birlikte görülmesiyle açıklanır?",
           "secenekler": [
             "Sadece ülke nüfusunun dengesiz dağılması",
@@ -10674,17 +10793,6 @@
         }
       ],
       "Türkiye'de Tarım, Hayvancılık ve Ormancılık": [
-        {
-          "soru": "Türkiye'de tarımsal üretimi etkileyen;\nI. İklim özellikleri\nII. Sulama imkanları\nIII. Pazarlama olanakları\nFaktörlerinden hangileri beşeri faktörlerdir?",
-          "secenekler": [
-            "Yalnız I",
-            "Yalnız II",
-            "II ve III",
-            "I, II ve III"
-          ],
-          "dogruCevap": "II ve III",
-          "aciklama": "İklim doğal faktör, sulama ve pazarlama beşeri faktörlerdir."
-        },
         {
           "soru": "Aşağıdakilerden hangisi Türkiye'de tarımın gelişmesini engelleyen faktörlerden biri değildir?",
           "secenekler": [
@@ -11133,17 +11241,6 @@
         }
       ],
       "Türkiye'de Ulaşım, Ticaret ve Turizm": [
-        {
-          "soru": "Kış turizmi potansiyelinin en yüksek olduğu dağ aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Erciyes",
-            "Uludağ",
-            "Kartalkaya",
-            "Palandöken"
-          ],
-          "dogruCevap": "Palandöken",
-          "aciklama": "Palandöken Dağı, Türkiye'nin en önemli kış turizm merkezlerinden biridir."
-        },
         {
           "soru": "Türkiye'de en fazla hangi tür turizm türü gelişmiştir?",
           "secenekler": [
@@ -11761,6 +11858,274 @@
           "aciklama": "Konya Ovası karstik bir ovadır, diğerleri tektonik kökenli ovalardır."
         }
       ],
+      "Kpss 2019 Çıkmış Sorular": [
+        {
+          "soru": "Aşağıdaki ağaç türlerinden hangisi Türkiye ormanları içerisinde daha sınırlı bir yayılım gösterir?",
+          "secenekler": [
+            "Kızılçam",
+            "Sığla",
+            "Karaçam",
+            "Meşe",
+            "Sarıçam"
+          ],
+          "dogruCevap": "Sığla",
+          "aciklama": "Sığla, Türkiye ormanlarında daha sınırlı bir coğrafi yayılışa sahiptir; diğer ağaç türleri ise geniş alanlara yayılmıştır."
+        },
+        {
+          "soru": "Karadeniz’de tuzluluk oranının Akdeniz’den daha az olmasında;\nI. Büyük akarsularla beslenmesi,\nII. Buharlaşmanın daha az olması,\nIII. Derinliğin fazla olması,\nIV. Kirliliğin yüksek olması\nfaktörlerinden hangileri etkili olmuştur?",
+          "secenekler": [
+            "I ve II",
+            "I ve III",
+            "II ve III",
+            "II ve IV",
+            "III ve IV"
+          ],
+          "dogruCevap": "I ve II",
+          "aciklama": "Karadeniz, bol akarsu beslemesi ve düşük buharlaşma oranı nedeniyle Akdeniz’e kıyasla daha az tuzlanır."
+        },
+        {
+          "soru": "Türkiye’nin bazı alanlarındaki eğimli yamaçlarda ormanlar toprağı tutar ve bol miktarda organik madde sağlar. Bu yamaçlardaki organik maddelerin ayrışmasıyla oluşan organik asitler, ayrışma süreçlerini hızlandırır. Ayrıca, yağış miktarının fazla olması topraktaki yıkanmayı artırarak bitki besin maddelerinin bir kısmının topraktan uzaklaşmasına neden olur. Bu süreç, asit reaksiyonu gösteren, organik madde yönünden zengin koyu renkli toprakların oluşmasını sağlar. Aşağıdakilerin hangisinde bu tür toprakların yaygın olarak görülmesi beklenir?",
+          "secenekler": [
+            "Kuzey Anadolu Dağlarının kuzeye bakan yamaçlarında",
+            "Toros Dağlarının İç Anadolu’ya bakan yamaçlarında",
+            "Batı Anadolu’daki dağların güney yamaçlarında",
+            "Ergene Havzası’ndaki plato sahalarında",
+            "Orta Anadolu’nun Tuz Gölü ve çevresindeki alçak sahalarında"
+          ],
+          "dogruCevap": "Kuzey Anadolu Dağlarının kuzeye bakan yamaçlarında",
+          "aciklama": "Yüksek yağış miktarı ve orman örtüsünün etkisiyle, kuzeye bakan yamaçlarda asidik, organik madde yönünden zengin koyu renkli topraklar oluşur."
+        },
+        {
+          "soru": "Türkiye’de, birbirine çok yakın alanlarda farklı iklim özellikleri görülebilir. Çevresinden farklı iklim özelliklerinin gözlemlendiği bu alanlara mikroklima denir. Mikroklima alanlarında, normalde o bölgede yetişmesi beklenmeyen bitkiler de üretilebilmektedir. Buna göre;\nI. Iğdır Ovası’nda pamuk yetiştirilmesi,\nII. Çukurova’da mısır yetiştirilmesi,\nIII. Çoruh Vadisi’nde zeytin yetiştirilmesi,\nIV. Meriç Vadisi’nde çeltik yetiştirilmesi\nuygulamalarından hangileri mikroklimaya örnek gösterilebilir?",
+          "secenekler": [
+            "I ve II",
+            "I ve III",
+            "II ve III",
+            "II ve IV",
+            "III ve IV"
+          ],
+          "dogruCevap": "I ve III",
+          "aciklama": "Iğdır Ovası’nın beklenmedik derecede ılıman iklimi pamuk üretimine olanak sağlarken; Çoruh Vadisi’nde, normalde o bölgede yetişmemesi gereken zeytin, mikroklima etkisinin göstergesidir."
+        },
+        {
+          "soru": "Yerleşim tarihi açısından öneme sahip aşağıdaki yerler ile bulundukları il eşleştirmelerinden hangisi yanlıştır?",
+          "secenekler": [
+            "Karain - Antalya",
+            "Çatalhöyük - Konya",
+            "Alacahöyük - Çorum",
+            "Hattuşa - Yozgat",
+            "Truva - Çanakkale"
+          ],
+          "dogruCevap": "Hattuşa - Yozgat",
+          "aciklama": "Hattuşa, günümüzde Çorum il sınırları içerisinde yer alırken, Yozgat ile eşleştirilmesi yanlıştır."
+        },
+        {
+          "soru": "Türkiye’nin yıllık nüfus artış hızında önemli değişiklikler olmuştur. 1960’da binde 28 olan artış hızı, 2014’te binde 13’e gerilemiştir. Bu durum ışığında, Türkiye’nin nüfus özellikleriyle ilgili;\nI. Doğum oranları azalmıştır.\nII. Nüfusun cinsiyet oranı değişmiştir.\nIII. Toplam nüfus miktarı giderek azalmıştır.\nyargılarından hangilerine ulaşılabilir?",
+          "secenekler": [
+            "Yalnız I",
+            "Yalnız II",
+            "Yalnız III",
+            "I ve II",
+            "II ve III"
+          ],
+          "dogruCevap": "Yalnız I",
+          "aciklama": "Doğum oranları azalmış olmakla birlikte, cinsiyet oranında belirgin bir değişiklik gözlenmemiş ve toplam nüfus hızla artmaya devam etmektedir."
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye’de yoğun iç göç alan kentlerde yaşanan sorunlardan biri değildir?",
+          "secenekler": [
+            "Çarpık kentleşme",
+            "Altyapı yetersizliği",
+            "Ticaret hacminin düşmesi",
+            "Ulaşım olanaklarının yetersizliği",
+            "Gürültü kirliliği"
+          ],
+          "dogruCevap": "Ticaret hacminin düşmesi",
+          "aciklama": "Yoğun iç göç, kentsel canlılığı artırarak ticaret hacminin düşmesine neden olmaz; diğer seçeneklerde belirtilen sorunlar genellikle yaşanmaktadır."
+        },
+        {
+          "soru": "Tungsten olarak da bilinir.\n• Özellikle uzay ve savaş endüstrisinde kullanılır.\n• Metalinden özel sanayi çeliği üretilir.\n• Bursa-Uludağ’da rezervleri bulunmaktadır.\nBazı özellikleri verilen bu maden aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Molibden",
+            "Manganez",
+            "Nikel",
+            "Volfram",
+            "Çinko"
+          ],
+          "dogruCevap": "Volfram",
+          "aciklama": "Tungsten, yani volfram, uzay ve savunma sanayinde kullanılan, özel çelik üretiminde yer alan ve Bursa-Uludağ çevresinde rezervleri bulunan önemli bir maden türüdür."
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye’deki ham petrol nakil hatlarından biri değildir?",
+          "secenekler": [
+            "Kerkük - Yumurtalık",
+            "Bakü - Tiflis - Ceyhan",
+            "Batman - Dörtyol",
+            "Bakü - Tiflis - Erzurum",
+            "Ceyhan - Kırıkkale"
+          ],
+          "dogruCevap": "Bakü - Tiflis - Erzurum",
+          "aciklama": "Türkiye’de ham petrol nakil hattı olarak kullanılan güzergahlar arasında Bakü - Tiflis - Erzurum bulunmamaktadır; doğru güzergah, Bakü - Tiflis - Ceyhan şeklindedir."
+        },
+        {
+          "soru": "Türkiye’de son yıllarda gelişme gösteren turizm türlerinden biri de kongre turizmidir. Kongre turizminin geliştiği yerlerin en önemli özelliği; konaklama olanaklarının bolluğu, çeşitliliği ve turistik çekiciliklerin varlığıdır. Buna göre, aşağıdaki illerden hangisinde kongre turizmi daha fazla gelişmiştir?",
+          "secenekler": [
+            "Antalya",
+            "Balıkesir",
+            "Sinop",
+            "Rize",
+            "Mersin"
+          ],
+          "dogruCevap": "Antalya",
+          "aciklama": "Gelişmiş turizm altyapısı ve zengin konaklama olanakları sayesinde, kongre turizmi Antalya’da diğer illere göre daha fazla gelişmiştir."
+        },
+        {
+          "soru": "Yetişme şartları uygun olmasına karşın, Akdeniz kıyı kuşağında zeytin üretimi Batı Anadolu’ya göre daha azdır. Bu durumun ortaya çıkmasında aşağıdakilerden hangisi etkilidir?",
+          "secenekler": [
+            "Zeytinyağı fabrikalarının yetersiz olması",
+            "Pazarlama olanaklarının yetersiz olması",
+            "Fazla gelir getiren ürünlerin tercih ediliyor olması",
+            "Kış sıcaklık koşullarının yüksek olması",
+            "Mevsimlik iş gücü ihtiyacının fazla olması"
+          ],
+          "dogruCevap": "Fazla gelir getiren ürünlerin tercih ediliyor olması",
+          "aciklama": "Çiftçiler, ekonomik getirisi daha yüksek olan ürünleri tercih ettikleri için, zeytin üretimi beklenenden düşük kalmaktadır."
+        },
+        {
+          "soru": "Aşağıdaki illerden hangisinin komşu ülkelerle sınırı yoktur?",
+          "secenekler": [
+            "Edirne",
+            "Artvin",
+            "Kars",
+            "Mardin",
+            "Siirt"
+          ],
+          "dogruCevap": "Siirt",
+          "aciklama": "Edirne, Artvin, Kars ve Mardin, komşu ülkelerle sınır paylaşırken; Siirt doğrudan bir komşu ülke ile sınır paylaşmamaktadır."
+        }
+      ],
+      "Kpss 2020 Çıkmış Sorular": [
+        {
+          "soru": "I. İstanbul ve Çanakkale boğazları\nII. Kuzey Anadolu ve Toros dağları\nIII. Çukurova, Bafra ve Çarşamba deltaları\n\nYukarıdakilerden hangilerinin oluşumunda orojenik hareketler etkili olmuştur?",
+          "secenekler": [
+            "Yalnız I",
+            "Yalnız II",
+            "Yalnız III",
+            "I ve II",
+            "II ve III"
+          ],
+          "dogruCevap": "Yalnız II",
+          "aciklama": ""
+        },
+        {
+          "soru": "Volkanik faaliyet sonucu yüzeye çıkan lavlardan oluşan arazi'nin akarsular tarafından aşındırılmasıyla lav platoları oluşur. Aşağıdaki platolardan hangisi bu tür oluşum özelliğine sahiptir?",
+          "secenekler": [
+            "Çatalca-Kocaeli",
+            "Cihanbeyli",
+            "Haymana",
+            "Taşeli",
+            "Erzurum-Kars"
+          ],
+          "dogruCevap": "Erzurum-Kars",
+          "aciklama": ""
+        },
+        {
+          "soru": "Aşağıdaki illerin hangisinde jips karstına ait yer şekilleri daha yaygındır?",
+          "secenekler": [
+            "Yozgat",
+            "Diyarbakır",
+            "Giresun",
+            "Kastamonu",
+            "Sivas"
+          ],
+          "dogruCevap": "Sivas",
+          "aciklama": ""
+        },
+        {
+          "soru": "Türkiye’nin 1927-2017 yılları arasındaki nüfusu incelendiğinde yıllık nüfus artış hızının en düşük olduğu dönemin 1940-1945 yılları arasında olduğu görülür. Bu durum üzerinde aşağıdakilerden hangisinin etkisi daha fazla olmuştur?",
+          "secenekler": [
+            "Seferberlik ilan edilerek asker sayısının artırılması",
+            "Ülke genelinde ekonomik sorunların yaşanması",
+            "Ülke dışına göçlerin yaşanması",
+            "Uygulanan nüfus politikaları",
+            "Eğitim seviyesinin yükselmesi"
+          ],
+          "dogruCevap": "Ülke genelinde ekonomik sorunların yaşanması",
+          "aciklama": ""
+        },
+        {
+          "soru": "Türkiye’nin Karadeniz kıyı kuşağında, dağınık yerleşmeye neden olan faktörlerle ilgili aşağıdakilerden hangisi söylenemez?",
+          "secenekler": [
+            "Su kaynaklarının fazla ve yaygın olması",
+            "Eğim değerlerinin yüksek olması",
+            "Platoların geniş yer kaplaması",
+            "Arazinin akarsularla parçalanmış olması",
+            "Dağlık ve engebeli arazi yapısı"
+          ],
+          "dogruCevap": "Su kaynaklarının fazla ve yaygın olması",
+          "aciklama": ""
+        },
+        {
+          "soru": "Türkiye’de su ürünleri avcılığı ve yetiştiriciliğiyle ilgili aşağıdakilerden hangisi söylenemez?",
+          "secenekler": [
+            "Su ürünleri üretimi içerisinde balık en fazla paya sahiptir.",
+            "Dalyan balıkçılığı açık ve derin denizlerde yapılmaktadır.",
+            "Balık avcılığı çoğunlukla Türk karasularında yapılmaktadır.",
+            "Denizlerdeki kirlilik balıkçılığı olumsuz etkilemektedir.",
+            "Su ürünleri tüketiminin çoğunluğu ülke içinde gerçekleşmektedir."
+          ],
+          "dogruCevap": "Dalyan balıkçılığı açık ve derin denizlerde yapılmaktadır.",
+          "aciklama": ""
+        },
+        {
+          "soru": "Türkiye’de çay tarımı ekonomik anlamda Doğu Karadeniz kıyı kuşağında yapılabilmektedir. Bu durum;\nI. iklim koşulları,\nII. toprak özellikleri,\nIII. su kaynakları\nfaktörlerinden hangileriyle doğrudan ilişkilidir?",
+          "secenekler": [
+            "Yalnız I",
+            "Yalnız II",
+            "Yalnız III",
+            "I ve II",
+            "II ve III"
+          ],
+          "dogruCevap": "I ve II",
+          "aciklama": ""
+        },
+        {
+          "soru": "Türkiye’de kıyı turizmi sezonunun en uzun olduğu alan Akdeniz kıyılarıdır. Bu durumun temel nedeni aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Güneşli gün sayısının fazla olması",
+            "Geniş kumsalların varlığı",
+            "Tarihî ve doğal güzelliklerin yer alması",
+            "Ulaşım ve konaklama imkânlarının gelişmişliği",
+            "Uzun kıyı şeridine sahip olması"
+          ],
+          "dogruCevap": "Güneşli gün sayısının fazla olması",
+          "aciklama": ""
+        },
+        {
+          "soru": "Türkiye’de pamuk üretiminin coğrafi dağılışı üzerinde aşağıdakilerden hangisinin etkisi daha fazladır?",
+          "secenekler": [
+            "Sıcaklık",
+            "Nüfus",
+            "Ulaştırma",
+            "Yükselti",
+            "Sanayi"
+          ],
+          "dogruCevap": "Sıcaklık",
+          "aciklama": ""
+        },
+        {
+          "soru": "Aşağıdaki yerleşmelerden hangisi Türkiye’nin önemli taş kömürü yataklarının bulunduğu alanda yer alır?",
+          "secenekler": [
+            "Soma",
+            "Elbistan",
+            "Kozlu",
+            "Tunçbilek",
+            "Yatağan"
+          ],
+          "dogruCevap": "Kozlu",
+          "aciklama": ""
+        }
+      ],
       "Kpss 2021 Çıkmış Sorular": [
         {
           "soru": "Türkiye'de güneşin doğuş ve batış saatleri yaz ile kış mevsimlerinde değişiklik gösterir. Ortalama güneşlenme süresi kış aylarında daha kısa iken yaz aylarında daha uzundur. Bu süre farkının temel nedeni aşağıdakilerden hangisidir?",
@@ -11940,145 +12305,6 @@
             "Sinop Havalimanı"
           ],
           "dogruCevap": "Ordu-Giresun Havalimanı",
-          "aciklama": ""
-        }
-      ],
-      "Kpss 2020 Çıkmış Sorular": [
-        {
-          "soru": "Aşağıdakilerin hangisinde 21 Haziran’da belirtilen doğrultuda hareket edildiğinde hem gündüz süresi uzar hem de yerel saat daha geri olur?",
-          "secenekler": [
-            "İzmir’den",
-            "Van’a",
-            "Sinop’tan",
-            "Muğla’ya",
-            "Adana’dan",
-            "Edirne’ye",
-            "Antalya’dan",
-            "Ardahan’a",
-            "Samsun’dan",
-            "Adıyaman’a"
-          ],
-          "dogruCevap": "Edirne’ye",
-          "aciklama": ""
-        },
-        {
-          "soru": "I. İstanbul ve Çanakkale boğazları\nII. Kuzey Anadolu ve Toros dağları\nIII. Çukurova, Bafra ve Çarşamba deltaları\n\nYukarıdakilerden hangilerinin oluşumunda orojenik hareketler etkili olmuştur?",
-          "secenekler": [
-            "Yalnız I",
-            "Yalnız II",
-            "Yalnız III",
-            "I ve II",
-            "II ve III"
-          ],
-          "dogruCevap": "Yalnız II",
-          "aciklama": ""
-        },
-        {
-          "soru": "Volkanik faaliyet sonucu yüzeye çıkan lavlardan oluşan arazi'nin akarsular tarafından aşındırılmasıyla lav platoları oluşur. Aşağıdaki platolardan hangisi bu tür oluşum özelliğine sahiptir?",
-          "secenekler": [
-            "Çatalca-Kocaeli",
-            "Cihanbeyli",
-            "Haymana",
-            "Taşeli",
-            "Erzurum-Kars"
-          ],
-          "dogruCevap": "Cihanbeyli",
-          "aciklama": ""
-        },
-        {
-          "soru": "Aşağıdaki illerin hangisinde jips karstına ait yer şekilleri daha yaygındır?",
-          "secenekler": [
-            "Yozgat",
-            "Diyarbakır",
-            "Giresun",
-            "Kastamonu",
-            "Sivas"
-          ],
-          "dogruCevap": "Sivas",
-          "aciklama": ""
-        },
-        {
-          "soru": "Türkiye’nin 1927-2017 yılları arasındaki nüfusu incelendiğinde yıllık nüfus artış hızının en düşük olduğu dönemin 1940-1945 yılları arasında olduğu görülür. Bu durum üzerinde aşağıdakilerden hangisinin etkisi daha fazla olmuştur?",
-          "secenekler": [
-            "Seferberlik ilan edilerek asker sayısının artırılması",
-            "Ülke genelinde ekonomik sorunların yaşanması",
-            "Ülke dışına göçlerin yaşanması",
-            "Uygulanan nüfus politikaları",
-            "Eğitim seviyesinin yükselmesi"
-          ],
-          "dogruCevap": "Ülke genelinde ekonomik sorunların yaşanması",
-          "aciklama": ""
-        },
-        {
-          "soru": "Türkiye’nin Karadeniz kıyı kuşağında, dağınık yerleşmeye neden olan faktörlerle ilgili aşağıdakilerden hangisi söylenemez?",
-          "secenekler": [
-            "Su kaynaklarının fazla ve yaygın olması",
-            "Eğim değerlerinin yüksek olması",
-            "Platoların geniş yer kaplaması",
-            "Arazinin akarsularla parçalanmış olması",
-            "Dağlık ve engebeli arazi yapısı"
-          ],
-          "dogruCevap": "Su kaynaklarının fazla ve yaygın olması",
-          "aciklama": ""
-        },
-        {
-          "soru": "Türkiye’de su ürünleri avcılığı ve yetiştiriciliğiyle ilgili aşağıdakilerden hangisi söylenemez?",
-          "secenekler": [
-            "Su ürünleri üretimi içerisinde balık en fazla paya sahiptir.",
-            "Dalyan balıkçılığı açık ve derin denizlerde yapılmaktadır.",
-            "Balık avcılığı çoğunlukla Türk karasularında yapılmaktadır.",
-            "Denizlerdeki kirlilik balıkçılığı olumsuz etkilemektedir.",
-            "Su ürünleri tüketiminin çoğunluğu ülke içinde gerçekleşmektedir."
-          ],
-          "dogruCevap": "Dalyan balıkçılığı açık ve derin denizlerde yapılmaktadır.",
-          "aciklama": ""
-        },
-        {
-          "soru": "Türkiye’de çay tarımı ekonomik anlamda Doğu Karadeniz kıyı kuşağında yapılabilmektedir. Bu durum;\nI. iklim koşulları,\nII. toprak özellikleri,\nIII. su kaynakları\nfaktörlerinden hangileriyle doğrudan ilişkilidir?",
-          "secenekler": [
-            "Yalnız I",
-            "Yalnız II",
-            "Yalnız III",
-            "I ve II",
-            "II ve III"
-          ],
-          "dogruCevap": "I ve II",
-          "aciklama": ""
-        },
-        {
-          "soru": "Türkiye’de kıyı turizmi sezonunun en uzun olduğu alan Akdeniz kıyılarıdır. Bu durumun temel nedeni aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Güneşli gün sayısının fazla olması",
-            "Geniş kumsalların varlığı",
-            "Tarihî ve doğal güzelliklerin yer alması",
-            "Ulaşım ve konaklama imkânlarının gelişmişliği",
-            "Uzun kıyı şeridine sahip olması"
-          ],
-          "dogruCevap": "Güneşli gün sayısının fazla olması",
-          "aciklama": ""
-        },
-        {
-          "soru": "Türkiye’de pamuk üretiminin coğrafi dağılışı üzerinde aşağıdakilerden hangisinin etkisi daha fazladır?",
-          "secenekler": [
-            "Sıcaklık",
-            "Nüfus",
-            "Ulaştırma",
-            "Yükselti",
-            "Sanayi"
-          ],
-          "dogruCevap": "Sıcaklık",
-          "aciklama": ""
-        },
-        {
-          "soru": "Aşağıdaki yerleşmelerden hangisi Türkiye’nin önemli taş kömürü yataklarının bulunduğu alanda yer alır?",
-          "secenekler": [
-            "Soma",
-            "Elbistan",
-            "Kozlu",
-            "Tunçbilek",
-            "Yatağan"
-          ],
-          "dogruCevap": "Kozlu",
           "aciklama": ""
         }
       ]
@@ -14216,7 +14442,7 @@
           "dogruCevap": "Milli egemenlik"
         }
       ],
-      "2021 Kpss Çıkmış Sorular" : [
+      "2021 Kpss Çıkmış Sorular": [
         {
           "soru": "1982 Anayasası’na göre milletlerarası antlaşmaların onaylanmasını uygun bulma görev ve yetkisi aşağıdakilerden hangisine aittir?",
           "secenekler": [
