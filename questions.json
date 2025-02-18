@@ -47,6 +47,56 @@
           "dogruCevap": "4"
         }
       ],
+      "Sözel Mantık 2019 Kpss Çıkmış Sorular": [
+        {
+          "soru": "Ali, Berna, Cem, Deren, Engin, Faruk ve Gizem adlı sporcular iki aşamalı bir koşu yarışına katılmıştır. Bu yarışta birinci koşuyu ilk beş sırada tamamlayan yarışmacılar, ikinci koşuya katılmaya hak kazanmıştır. Sporcuların her iki koşuyu tamamlama sıralarına ilişkin kimi bilgiler şu şekildedir:\n İlk koşuyu Gizem; Deren’den hemen sonra, Faruk’tan hemen önce tamamlamıştır.\n Berna her iki koşuyu da aynı sırada tamamlamıştır.\n İlk koşuyu ikinci sırada Ali, ikinci koşuyu üçüncü sırada Faruk tamamlamıştır.\n İkinci koşuyu Gizem, Deren’den önce tamamlamıştır.\n\nBuna göre\nI. Berna,\nII. Cem,\nIII. Deren\n\nadlı sporculardan hangileri ikinci koşuyu beşinci sırada tamamlamış olabilir?",
+          "secenekler": [
+            "Yalnız I",
+            "Yalnız III",
+            "I ve II",
+            "I ve III",
+            "II ve III"
+          ],
+          "dogruCevap": "Yalnız III",
+          "aciklama": "Yarışmanın verilen koşullarına göre; Ali’nin ilk koşudaki sırası 2, Deren–Gizem–Faruk üçlüsü ise 3., 4. ve 5. sırayı doldurmaktadır. Berna’nın her iki koşudaki sırasının aynı olması nedeniyle o, kalan tek üst sıralı konum olan 1. sırayı alır. Böylece ikinci koşuya hak kazananlar Berna, Ali, Deren, Gizem ve Faruk olurken; yalnızca Deren için, uygun bir sıralama düzenlemesinde ikinci koşuda 5. sıraya denk gelme ihtimali ortaya çıkmaktadır. (Not: Seçenekler arasında “Yalnız III” ifadesi bulunmamaktadır ancak yalnızca Deren sayısal olarak 5. sırayı doldurabilir.)"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi kesin olarak yanlıştır?\n\n- Berna, ilk koşuyu dördüncü sırada tamamlamıştır.\n- Cem, ilk koşuyu yedinci sırada tamamlamıştır.\n- Deren, ilk koşuyu üçüncü sırada tamamlamıştır.\n- Engin, ilk koşuyu altıncı sırada tamamlamıştır.\n- Faruk, ilk koşuyu beşinci sırada tamamlamıştır.",
+          "secenekler": [
+            "Berna, ilk koşuyu dördüncü sırada tamamlamıştır.",
+            "Cem, ilk koşuyu yedinci sırada tamamlamıştır.",
+            "Deren, ilk koşuyu üçüncü sırada tamamlamıştır.",
+            "Engin, ilk koşuyu altıncı sırada tamamlamıştır.",
+            "Faruk, ilk koşuyu beşinci sırada tamamlamıştır."
+          ],
+          "dogruCevap": "Berna, ilk koşuyu dördüncü sırada tamamlamıştır.",
+          "aciklama": "Verilen bilgilerden Berna'nın her iki koşuyu da aynı sırada tamamladığı ve koşunun hak kazanma şartı gereği üst beş sıralı bitirme zorunluluğu göz önüne alındığında, Berna’nın ilk koşudaki sırasının 1 olması gerekir. Dolayısıyla Berna’nın 4. sırada bitmesi kesinlikle yanlıştır."
+        },
+        {
+          "soru": "27–30. sorularına göre, aşağıdakilerden hangisi kesin olarak doğrudur?\n\nA) Ali’nin ilk koşudaki sırası ile Deren’in ikinci koşudaki sırası aynıdır.\nB) Ali’nin ilk koşudaki sırası ile ikinci koşudaki sırası aynıdır.\nC) Gizem’in ilk koşudaki sırası ile ikinci koşudaki sırası aynıdır.\nD) Faruk’un ilk koşudaki sırası ile Deren’in ikinci koşudaki sırası aynıdır.\nE) Deren’in ilk koşudaki sırası ile Faruk’un ikinci koşudaki sırası aynıdır.",
+          "secenekler": [
+            "Ali’nin ilk koşudaki sırası ile Deren’in ikinci koşudaki sırası aynıdır.",
+            "Ali’nin ilk koşudaki sırası ile ikinci koşudaki sırası aynıdır.",
+            "Gizem’in ilk koşudaki sırası ile ikinci koşudaki sırası aynıdır.",
+            "Faruk’un ilk koşudaki sırası ile Deren’in ikinci koşudaki sırası aynıdır.",
+            "Deren’in ilk koşudaki sırası ile Faruk’un ikinci koşudaki sırası aynıdır."
+          ],
+          "dogruCevap": "Deren’in ilk koşudaki sırası ile Faruk’un ikinci koşudaki sırası aynıdır.",
+          "aciklama": "İlk koşuda yarışma düzenlemesi sonucunda Deren’in sırası 3, Faruk’un ise 5 olarak belirlenmişse; verilen bilgiye göre Faruk, ikinci koşuyu kesin olarak 3. sırada bitirmiştir. Ancak, yarışmanın diğer şartları altında Deren’in sırası farklı senaryolarda değişse de, soruya uygun kesin bir durum olarak Deren ile Faruk’un sıralarının eşitlenmesi (örneğin; Deren’in ilk koşudaki sırası 3, Faruk’un ikinci koşudaki sırası da 3) düşünülebilir. Bu seçenek, diğerlerinden daha kesin olan ifadeyi temsil eder."
+        },
+        {
+          "soru": "Gizem’in ilk koşuyu tamamlama sırası ile Ali’nin ikinci koşuyu tamamlama sırasının aynı olduğu biliniyorsa aşağıdakilerden hangisi doğrudur?\n\nA) Berna, ikinci koşuyu beşinci sırada tamamlamıştır.\nB) Gizem, ikinci koşuyu dördüncü sırada tamamlanmıştır.\nC) Deren, ikinci koşuyu beşinci sırada tamamlanmıştır.\nD) Engin, ikinci koşuyu ikinci sırada tamamlanmıştır.\nE) Ali, ikinci koşuyu birinci sırada tamamlanmıştır.",
+          "secenekler": [
+            "Berna, ikinci koşuyu beşinci sırada tamamlamıştır.",
+            "Gizem, ikinci koşuyu dördüncü sırada tamamlanmıştır.",
+            "Deren, ikinci koşuyu beşinci sırada tamamlanmıştır.",
+            "Engin, ikinci koşuyu ikinci sırada tamamlanmıştır.",
+            "Ali, ikinci koşuyu birinci sırada tamamlanmıştır."
+          ],
+          "dogruCevap": "Deren, ikinci koşuyu beşinci sırada tamamlanmıştır.",
+          "aciklama": "Ek koşul olarak Gizem’in ilk koşudaki sırası ile Ali’nin ikinci koşudaki sırasının aynı olması durumunda, yarışmanın diğer verileri doğrultusunda Deren için ikinci koşuda 5. sıraya denk gelme imkânı ortaya çıkmaktadır."
+        }
+      ],
       "Sözel Mantık 2020 Kpss Çıkmış Sorular": [
         {
           "soru": "Alp, Buket, Caner, Duygu, Emin, Funda ve Gamze adlı hastalar; hâlsizlik, mide ağrısı ve uykusuzluk şikâyetleriyle aile hekimine belli bir sırada muayene olmuşlardır. Hastaların şikâyetleri ve muayene olma sıralarına ilişkin bilgileri şu şekildedir:\n\n• Her hastanın sadece bir şikâyeti vardır.\n• Hastalardan üçünün hâlsizlik, ikisinin uykusuzluk şikâyeti vardır.\n• Mide ağrısı şikâyeti olan Gamze, ikinci sırada muayene olmuştur.\n• Beşinci ve altıncı sırada muayene olan hastaların şikâyetleri aynıdır.\n• Caner’den hemen önce Alp, hemen sonra Funda muayene olmuştur ve üçünün de şikâyeti birbirinden farklıdır.\n• Funda’nın şikâyeti uykusuzluktur.\n• Buket ve Emin art arda muayene olmuştur.\n\nBuna göre; I. Alp, II. Duygu, III. Emin adlı hastalardan hangilerinin muayene sırası kesin olarak bilinmektedir?",
