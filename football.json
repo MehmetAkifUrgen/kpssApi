@@ -87,41 +87,193 @@
         }
     },
     "teams": {
-        "Premier League": [{
-            "name": "Sunderland",
-            "image": "https://w7.pngwing.com/pngs/903/355/png-transparent-sunderland-a-f-c-premier-league-efl-championship-reading-f-c-arsenal-f-c-sport-logo-sports-thumbnail.png"
-        }],
+        "Premier League": [
+            {
+                "name": "Sunderland",
+                "image": "https://w7.pngwing.com/pngs/903/355/png-transparent-sunderland-a-f-c-premier-league-efl-championship-reading-f-c-arsenal-f-c-sport-logo-sports-thumbnail.png"
+            },
+            {
+                "name": "Manchester City",
+                "image": "https://w7.pngwing.com/pngs/874/5/png-transparent-manchester-city-f-c-premier-league-manchester-united-f-c-manchester-city-w-f-c-manchester-city-fc-logo-sports-team-thumbnail.png"
+            },
+            {
+                "name": "Liverpool",
+                "image": "https://w7.pngwing.com/pngs/674/324/png-transparent-liverpool-f-c-anfield-premier-league-fa-cup-liverpool-fc-logo-sports-team-thumbnail.png"
+            },
+            {
+                "name": "Arsenal",
+                "image": "https://w7.pngwing.com/pngs/761/901/png-transparent-arsenal-f-c-premier-league-emirates-stadium-chelsea-f-c-arsenal-ladies-f-c-arsenal-sport-logo-sports-thumbnail.png"
+            },
+            {
+                "name": "Chelsea",
+                "image": "https://w7.pngwing.com/pngs/517/415/png-transparent-chelsea-f-c-stamford-bridge-premier-league-fa-cup-chelsea-fc-blue-text-trademark-thumbnail.png"
+            },
+            {
+                "name": "Manchester United",
+                "image": "https://w7.pngwing.com/pngs/398/752/png-transparent-manchester-united-f-c-old-trafford-premier-league-manchester-city-f-c-manchester-united-logo-sports-team-thumbnail.png"
+            },
+            {
+                "name": "Tottenham Hotspur",
+                "image": "https://w7.pngwing.com/pngs/534/534/png-transparent-tottenham-hotspur-f-c-premier-league-wembley-stadium-west-ham-united-f-c-tottenham-hotspur-sport-logo-sports-thumbnail.png"
+            },
+            {
+                "name": "Newcastle United",
+                "image": "https://w7.pngwing.com/pngs/1022/765/png-transparent-newcastle-united-f-c-premier-league-st-james-park-championship-sunderland-a-f-c-newcastle-united-sport-logo-sports-thumbnail.png"
+            }
+        ],
         "Turkish Super League": [
             {
                 "name": "Sivasspor",
                 "image": "https://w7.pngwing.com/pngs/567/562/png-transparent-sivasspor-hd-logo.png"
+            },
+            {
+                "name": "Galatasaray",
+                "image": "https://w7.pngwing.com/pngs/777/220/png-transparent-galatasaray-s-k-galatasaray-high-school-uefa-champions-league-fenerbahce-s-k-football-galatasaray-logo-sports-team-thumbnail.png"
+            },
+            {
+                "name": "Fenerbahçe",
+                "image": "https://w7.pngwing.com/pngs/909/574/png-transparent-fenerbahce-s-k-sukru-saracoglu-stadium-fenerbahce-men-s-basketball-galatasaray-s-k-fenerbahce-women-s-basketball-fenerbahce-sport-logo-sports-thumbnail.png"
+            },
+            {
+                "name": "Beşiktaş",
+                "image": "https://w7.pngwing.com/pngs/421/402/png-transparent-besiktas-j-k-vodafone-park-uefa-champions-league-fenerbahce-s-k-galatasaray-s-k-besiktas-sport-logo-sports-thumbnail.png"
+            },
+            {
+                "name": "Trabzonspor",
+                "image": "https://w7.pngwing.com/pngs/1023/287/png-transparent-trabzonspor-turkish-super-lig-akyazi-stadium-football-trabzonspor-sport-logo-sports-thumbnail.png"
+            },
+            {
+                "name": "Başakşehir",
+                "image": "https://w7.pngwing.com/pngs/1016/964/png-transparent-istanbul-basaksehir-f-k-turkish-super-lig-basaksehir-fatih-terim-stadium-football-football-sport-logo-sports-thumbnail.png"
             }
         ],
         "La Liga": [
             {
                 "name": "Real Betis",
                 "image": "https://w7.pngwing.com/pngs/72/188/png-transparent-real-betis-real-madrid-c-f-2017-18-la-liga-sevilla-fc-seville-derby-betis-thumbnail.png"
+            },
+            {
+                "name": "Real Madrid",
+                "image": "https://w7.pngwing.com/pngs/806/545/png-transparent-real-madrid-c-f-la-liga-uefa-champions-league-santiago-bernabeu-stadium-barcelona-real-madrid-sport-logo-sports-thumbnail.png"
+            },
+            {
+                "name": "Barcelona",
+                "image": "https://w7.pngwing.com/pngs/452/752/png-transparent-fc-barcelona-camp-nou-la-liga-real-madrid-c-f-barcelona-sport-logo-sports-thumbnail.png"
+            },
+            {
+                "name": "Atletico Madrid",
+                "image": "https://w7.pngwing.com/pngs/739/688/png-transparent-atletico-madrid-wanda-metropolitano-la-liga-uefa-champions-league-real-madrid-c-f-atletico-madrid-sport-logo-sports-thumbnail.png"
+            },
+            {
+                "name": "Sevilla",
+                "image": "https://w7.pngwing.com/pngs/1022/322/png-transparent-sevilla-fc-uefa-europa-league-la-liga-ramon-sanchez-pizjuan-stadium-real-betis-sevilla-sport-logo-sports-thumbnail.png"
+            },
+            {
+                "name": "Valencia",
+                "image": "https://w7.pngwing.com/pngs/1001/341/png-transparent-valencia-cf-mestalla-la-liga-villarreal-cf-levante-ud-valencia-sport-logo-sports-thumbnail.png"
             }
         ],
-        "Bundesliga": [{
-            "name": "Borussia Dortmund",
-            "image": "https://w7.pngwing.com/pngs/557/363/png-transparent-borussia-dortmund-hd-logo-thumbnail.png"
-        }],
-        "Serie A": [{
-            "name": "Atalanta",
-            "image": "https://w7.pngwing.com/pngs/770/754/png-transparent-atalanta-thumbnail.png"
-        }],
-        "Ligue 1": [ {
-            "name": "Lyon",
-            "image": "https://w7.pngwing.com/pngs/29/154/png-transparent-olympique-lyonnais-groupama-stadium-football-borussia-dortmund-football-text-label-city-thumbnail.png"
-        }],
-        "Eredivisie": [{
-            "name": "Psv Eindhoven",
-            "image": "https://w7.pngwing.com/pngs/138/623/png-transparent-psv-hd-logo.png"
-        }],
-        "Liga Portugal": [{
-            "name": "Sporting Braga",
-            "image": "https://w7.pngwing.com/pngs/397/301/png-transparent-sporting-clube-de-braga-hd-logo.png"
-        }]
+        "Bundesliga": [
+            {
+                "name": "Borussia Dortmund",
+                "image": "https://w7.pngwing.com/pngs/557/363/png-transparent-borussia-dortmund-hd-logo-thumbnail.png"
+            },
+            {
+                "name": "Bayern Munich",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/640px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png"
+            },
+            {
+                "name": "RB Leipzig",
+                "image": "https://upload.wikimedia.org/wikipedia/tr/f/fd/RB_Leipzig.pngg"
+            },
+            {
+                "name": "Bayer Leverkusen",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png"
+            }
+        ],
+        "Serie A": [
+            {
+                "name": "Atalanta",
+                "image": "https://w7.pngwing.com/pngs/770/754/png-transparent-atalanta-thumbnail.png"
+            },
+            {
+                "name": "Juventus",
+                "image": "https://upload.wikimedia.org/wikipedia/tr/3/39/Juventus_FC_logo.png"
+            },
+            {
+                "name": "Inter Milan",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/800px-FC_Internazionale_Milano_2021.svg.png"
+            },
+            {
+                "name": "AC Milan",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png"
+            },
+            {
+                "name": "Napoli",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDYH_vR7azQimMDmhJOMk3dTt7mqz3GN3w1w&s"
+            },
+            {
+                "name": "Roma",
+                "image": "https://upload.wikimedia.org/wikipedia/tr/1/13/AS_Roma_Logo_2017.png"
+            }
+        ],
+        "Ligue 1": [
+            {
+                "name": "Lyon",
+                "image": "https://w7.pngwing.com/pngs/29/154/png-transparent-olympique-lyonnais-groupama-stadium-football-borussia-dortmund-football-text-label-city-thumbnail.png"
+            },
+            {
+                "name": "Paris Saint-Germain",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqffU73ciEsH8d25KHSF9XfZJRqBV1mqz6ww&s"
+            },
+            {
+                "name": "Marseille",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png"
+            },
+            {
+                "name": "Monaco",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/1200px-LogoASMonacoFC2021.svg.png"
+            },
+            {
+                "name": "Lille",
+                "image": "https://upload.wikimedia.org/wikipedia/tr/a/a3/Lilleoscyeni.png"
+            }
+        ],
+        "Eredivisie": [
+            {
+                "name": "PSV Eindhoven",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/PSV_Eindhoven_-_Philips_Stadion_-_Kleedkamer_Welkom_-_Cropped_Logo.jpg"
+            },
+            {
+                "name": "Ajax",
+                "image": "https://upload.wikimedia.org/wikipedia/tr/6/68/AFC_Ajax_logo.png"
+            },
+            {
+                "name": "Feyenoord",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Feyenoord_logo_since_2009.svg/1200px-Feyenoord_logo_since_2009.svg.png"
+            },
+            {
+                "name": "AZ Alkmaar",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AZ_Alkmaar.svg/2560px-AZ_Alkmaar.svg.png"
+            }
+        ],
+        "Liga Portugal": [
+            {
+                "name": "Sporting Braga",
+                "image": "https://w7.pngwing.com/pngs/397/301/png-transparent-sporting-clube-de-braga-hd-logo.png"
+            },
+            {
+                "name": "Benfica",
+                "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/d/dc/SL_Benfica.png/420px-SL_Benfica.png"
+            },
+            {
+                "name": "FC Porto",
+                "image": "https://upload.wikimedia.org/wikipedia/tr/5/52/FC.Porto.png"
+            },
+            {
+                "name": "Sporting CP",
+                "image": "https://upload.wikimedia.org/wikipedia/tr/6/61/Sporting_Lizbon_logo.png"
+            }
+        ]
     }
 }
