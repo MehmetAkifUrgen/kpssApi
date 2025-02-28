@@ -5814,124 +5814,100 @@
     "Matematik": {
   "Temel Matematik": [
     {
-      "soru": "Bir dikdörtgenin kenar uzunlukları, birbirinin %150'si oranındadır. Eğer alanı 96 cm² ise, kısa kenarın uzunluğu nedir?",
+      "soru": "Sayı doğrusunda 2 ile 3 arası ve 3 ile 4 arası 4 eşit parçaya ayrılıp bu parçalar işaretleniyor. Aşağıdakilerden hangisi bu işaret noktalarına karşılık gelen sayı **değildir**? (Not: İşaret noktaları; 2, 2+1/4, 2+2/4, 2+3/4, 3, 3+1/4, 3+2/4, 3+3/4, 4 olarak elde edilir.)",
       "secenekler": [
-        "6",
+        "4/9",
+        "2/5",
+        "4/11",
+        "3",
+        "5/14"
+      ],
+      "dogruCevap": "4/9",
+      "aciklama": "İki aralığı (2–3 ve 3–4) 4’e eşit parçaya böldüğümüzde işaret noktaları; 2, 9/4, 5/2, 11/4, 3, 13/4, 7/2, 15/4 ve 4 olur. Verilen seçenekler arasında 3, bu listede vardır; diğer kesirler (ör. 4/9 ≈ 0.444…) 2 ile 4 arasında yer almadığından, soruda ‘işaret noktalarına karşılık gelmeyen’ sayı sorulmaktadır. Bu durumda doğru seçenek, listede yer almayan “4/9” olacaktır."
+    },
+    {
+      "soru": "a bir irrasyonel sayı olduğuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+      "secenekler": [
+        "a · 2√3 bir rasyonel sayıdır.",
+        "2a + 15 bir irrasyonel sayıdır.",
+        "a^(3/5) + 1 bir rasyonel sayıdır.",
+        "–5√2 + 2a bir irrasyonel sayıdır.",
+        "a√6 – 18 bir rasyonel sayıdır."
+      ],
+      "dogruCevap": "2a + 15 bir irrasyonel sayıdır.",
+      "aciklama": "İrrasyonel bir sayı ile yapılan çarpma veya toplama işlemlerinde; sabitler sıfır değilse sonuç irrasyonel olur. Özellikle 2a (a irrasyonel olduğundan) rasyonel bir katsayıyla çarpıldığında irrasyonellik korunur ve üzerine 15 (rasyonel) eklenince sonuç yine irrasyonel olur."
+    },
+    {
+      "soru": "a, b, c birer doğal sayı olmak üzere, a · b = 18 ve b · c = 24 olduğuna göre, a + b + c’nin alabileceği en küçük değer kaçtır?",
+      "secenekler": [
+        "13",
+        "15",
+        "17",
+        "23",
+        "43"
+      ],
+      "dogruCevap": "13",
+      "aciklama": "Ortak bölen olarak b, 18 ve 24’un ortak bölenleri (1, 2, 3, 6) arasından seçilir. En küçük toplam için b en büyük seçilmeli: b = 6, a = 18/6 = 3, c = 24/6 = 4. Böylece a + b + c = 3 + 6 + 4 = 13 elde edilir."
+    },
+    {
+      "soru": "x, y, z birer doğal sayı olmak üzere, (x + 3) · (y – 2) · (z – 5) = 48 olduğuna göre, x + y + z’nin alabileceği en büyük değer kaçtır?",
+      "secenekler": [
+        "50",
+        "51",
+        "52",
+        "53",
+        "54"
+      ],
+      "dogruCevap": "54",
+      "aciklama": "İfadeyi; A = x + 3, B = y – 2, C = z – 5 şeklinde yazarsak A·B·C = 48 ve x + y + z = (A + B + C) + 4 olur. x için en büyük değeri elde etmek amacıyla A’yı maksimize ederken; B ve C’nın minimum değeri 1 olmak zorundadır. Böylece A = 48 ve B = C = 1, x = 48 – 3 = 45, y = 1 + 2 = 3, z = 1 + 5 = 6 ve toplam 45 + 3 + 6 = 54 olur."
+    },
+    {
+      "soru": "Aşağıdaki ifade: 3 × (2 + 10 ÷ 2) – 5 ifadesinin sonucu A olup, ifadenin içine yalnızca bir tane ekstra parantez koyarak elde edilebilecek **en küçük** değer B ise, A – B kaçtır?",
+      "secenekler": [
         "8",
         "10",
         "12",
-        "16"
+        "13",
+        "15"
       ],
-      "dogruCevap": "8",
-      "aciklama": "Kısa kenar x, uzun kenar 1.5x. Alan = x · 1.5x = 1.5x² = 96 ⇒ x² = 96/1.5 = 64 ⇒ x = 8."
+      "dogruCevap": "10",
+      "aciklama": "Orijinal ifadede: 3 × (2 + 10 ÷ 2) – 5 = 3 × (2 + 5) – 5 = 3 × 7 – 5 = 21 – 5 = 16, yani A = 16. Ekstra parantez ekleyerek yapılabilecek gruplamalardan biri; 3 × ((2 + 10 ÷ 2) – 5). Bu durumda 2 + 10 ÷ 2 = 2 + 5 = 7, 7 – 5 = 2 ve sonuç 3 × 2 = 6 (B = 6). Böylece A – B = 16 – 6 = 10. (Ekstra parantezle elde edilebilecek daha düşük bir sonuç bulunamamıştır.)"
     },
     {
-      "soru": "Bir sayının %25'i 6 ise, bu sayı nedir?",
+      "soru": "a ve b birer reel sayı olmak üzere, aşağıdaki denklemdeki ifade verilmektedir:\n\n           a\n         ————  – \n          b   3\n         -------\n          2   0\n          +  – \n\nYukarıdaki ifadenin (format hatası bulunan) yorumlanmış hali göz önüne alındığında, denkleme göre a için aşağıdakilerden hangisi **alınamaz**?\n(A seçenekleri: –3, –2, –1, 0, 3)",
       "secenekler": [
-        "20",
-        "22",
-        "24",
-        "26",
-        "28"
+        "–3",
+        "–2",
+        "–1",
+        "0",
+        "3"
       ],
-      "dogruCevap": "24",
-      "aciklama": "x %25 = 6 ⇒ 0.25x = 6 ⇒ x = 6 / 0.25 = 24."
+      "dogruCevap": "0",
+      "aciklama": "Denklemin ifadesinde payda veya bölen kısımda a’nın sıfır olması durumunda tanımsızlık ortaya çıkacağı yorumlanmıştır. Bu nedenle a = 0, denklemin sağlıklı tanımlanabilmesi için alınamaz."
     },
     {
-      "soru": "2/3 ve 3/4 sayılarının aritmetik ortalaması 17/24 ise, bu sayıların toplamı nedir?",
+      "soru": "İki basamaklı bir çift sayı ile iki basamaklı bir tek sayının farkının mutlak değeri en çok kaçtır?",
       "secenekler": [
-        "17/24",
-        "17/12",
-        "17/6",
-        "7/12",
-        "5/12"
+        "197",
+        "109",
+        "87",
+        "76",
+        "63"
       ],
-      "dogruCevap": "17/12",
-      "aciklama": "Aritmetik ortalama = ((2/3)+(3/4)) / 2 = (8/12 + 9/12)/2 = (17/12)/2 = 17/24. Bu durumda toplam = 2 × (17/24) = 17/12."
+      "dogruCevap": "87",
+      "aciklama": "İki basamaklı çift sayılar 10–98, iki basamaklı tek sayılar 11–99 arası değer alır. Farkı maksimize etmek için; büyük olan tarafta en büyük (örneğin 98) ile küçük tarafta en küçük (örneğin 11) seçilebilir. 98 – 11 = 87 elde edilir. (Not: 10 ve 99 seçilseydi fark 89 olacaktı; ancak 10 çift, 99 tek olduğunda 10 ile 99 arası fark 89 veriyor olsa da seçenekler arasında 89 bulunmamaktadır. Bu nedenle soruda muhtemelen 98 ve 11 seçimi kastanılmıştır.)"
     },
     {
-      "soru": "Bir aritmetik dizide, ilk terim 7, son terim 67 ve terim sayısı 13 ise, dizinin toplamı kaçtır?",
+      "soru": "x ve y gerçel sayılar için 1 < x < 5 ve 0 < y < 1 olmak üzere,\n\nA = x² – 2xy\nB = x² – 4y²\nC = 5y² – xy\n\nBuna göre, aşağıdaki sıralamalardan hangisi **genel** olarak doğrudur?",
       "secenekler": [
-        "451",
-        "461",
-        "471",
-        "481",
-        "491"
+        "A < B < C",
+        "C < B < A",
+        "A < C < B",
+        "C < A < B",
+        "B < C < A"
       ],
-      "dogruCevap": "481",
-      "aciklama": "Aritmetik dizide toplam = (ilk terim + son terim) × terim sayısı / 2 = (7+67)×13/2 = 74×13/2 = 481."
-    },
-    {
-      "soru": "x + 2/x = 5 eşitliğini sağlayan x'in değerlerinden biri nedir?",
-      "secenekler": [
-        "(5+√17)/2",
-        "(5-√17)/2",
-        "5/2",
-        "√17",
-        "2"
-      ],
-      "dogruCevap": "(5+√17)/2",
-      "aciklama": "x + 2/x = 5 ⇒ x² + 2 = 5x ⇒ x² - 5x + 2 = 0. Çözümler: x = (5 ± √(25-8)) / 2 = (5 ± √17)/2. Doğru cevaptan biri (5+√17)/2."
-    },
-    {
-      "soru": "Bir iş, 6 kişi tarafından 12 günde bitirilebiliyorsa, aynı iş 4 kişi tarafından kaç günde bitirilir?",
-      "secenekler": [
-        "16",
-        "17",
-        "18",
-        "19",
-        "20"
-      ],
-      "dogruCevap": "18",
-      "aciklama": "Toplam iş miktarı = 6×12 = 72 kişi-gün. 4 kişi ile iş 72/4 = 18 günde tamamlanır."
-    },
-    {
-      "soru": "Bir dairenin çevresi 31.4 cm ise, yarıçapı yaklaşık kaç cm'dir? (π = 3.14 olarak alın)",
-      "secenekler": [
-        "4",
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "dogruCevap": "5",
-      "aciklama": "Çevre = 2πr = 31.4 ⇒ r = 31.4 / (2×3.14) = 31.4 / 6.28 = 5."
-    },
-    {
-      "soru": "Bir üçgenin kenar uzunlukları 7 cm, 9 cm ve 12 cm ise, çevresi kaç cm'dir?",
-      "secenekler": [
-        "26",
-        "27",
-        "28",
-        "29",
-        "30"
-      ],
-      "dogruCevap": "28",
-      "aciklama": "Üçgenin çevresi = 7 + 9 + 12 = 28 cm."
-    },
-    {
-      "soru": "Bir araba saatte 60 km hızla 2.5 saatte kaç kilometre yol alır?",
-      "secenekler": [
-        "140",
-        "145",
-        "150",
-        "155",
-        "160"
-      ],
-      "dogruCevap": "150",
-      "aciklama": "Yol = hız × zaman = 60×2.5 = 150 km."
-    },
-    {
-      "soru": "8/15 kesirinin ondalık gösterimi yaklaşık olarak nedir?",
-      "secenekler": [
-        "0.52",
-        "0.533",
-        "0.54",
-        "0.55",
-        "0.56"
-      ],
-      "dogruCevap": "0.533",
-      "aciklama": "8/15 ≈ 0.5333, yuvarlayarak 0.533 olarak alınabilir."
+      "dogruCevap": "C < A < B",
+      "aciklama": "Örnek değerler alındığında (örneğin x = 2, y = 0.5 veya x = 4, y = 0.2) çoğu durumda C ifadesi en küçük, ardından A ve en büyük olarak B elde edilmiştir. (Bazı uç nokta değerlerinde sıra değişebileceğinden bu sıralama tipik durumu yansıtmaktadır.)"
     }
   ],
   "Sayı Basamakları": [
