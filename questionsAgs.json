@@ -7117,6 +7117,238 @@
       "dogruCevap": "x = 0 veya x = 2",
       "aciklama": "Öncelikle 4ˣ ifadesi (2²)ˣ olarak yazılarak 2^(2x) elde edilir. Değişken dönüşümü olarak y = 2ˣ yaparsak: y² - 5y + 4 = 0; faktörize edilerek (y - 1)(y - 4) = 0 bulunur. y = 1 veya y = 4 olduğundan sırasıyla 2ˣ = 1 (x = 0) ve 2ˣ = 4 (x = 2) sonucuna ulaşılır."
     }
+  ],
+  "Fonksiyonlar": [
+    {
+      "soru": "f(3x + 1) = x² - 3x olduğuna göre, f(7) değeri kaçtır?",
+      "secenekler": [
+        "-4",
+        "-2",
+        "6",
+        "16",
+        "28"
+      ],
+      "dogruCevap": "-2",
+      "aciklama": "f(3x+1) ifadesinde içine 7 yazdırmak için 3x+1=7 denklemini çözeriz: x = 2. Ardından f(7) = 2² - 3×2 = 4 - 6 = -2."
+    },
+    {
+      "soru": "f(x) = x² - 3 ve g(x) = x² + x - 5 fonksiyonları veriliyor. Buna göre f(4) + g(-1) toplamı kaçtır?",
+      "secenekler": [
+        "3",
+        "5",
+        "7",
+        "8",
+        "11"
+      ],
+      "dogruCevap": "8",
+      "aciklama": "f(4)= 4² - 3 = 16 - 3 = 13; g(-1)= (-1)² + (-1) - 5 = 1 - 1 - 5 = -5. Toplam: 13 + (-5) = 8."
+    },
+    {
+      "soru": "f: A → B, f(x) = x³ + 5 ve f(A) = {4, 5, 13} olduğuna göre, A kümesi aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "{-2, -1, 0}",
+        "{-1, 0, 1}",
+        "{-2, -1, 1}",
+        "{-1, 0, 2}",
+        "{-1, 0, 1, 2}"
+      ],
+      "dogruCevap": "{-1, 0, 2}",
+      "aciklama": "f(x)= x³+5. f(x)=4 ⇒ x³ = -1 (x = -1); f(x)=5 ⇒ x³ = 0 (x = 0); f(x)=13 ⇒ x³ = 8 (x = 2). Dolayısıyla A = {-1, 0, 2}."
+    },
+    {
+      "soru": "f : [-5, 3) → ℝ, f(x) = 9 - 4x fonksiyonunun görüntü kümesi aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "[-3, 29)",
+        "(-3, 29]",
+        "(-3, 25]",
+        "[-3, 25)",
+        "[-7, 21)"
+      ],
+      "dogruCevap": "(-3, 29]",
+      "aciklama": "f(x)= 9-4x, tanım kümesi [-5,3) olduğundan; x = -5 için f(-5)= 29 (maksimum, dahil) ve x → 3⁻ için f(x) → -3 (elde edilmez). Bu yüzden görüntü kümesi (-3, 29] olur."
+    },
+    {
+      "soru": "f(x) = x² + x - 4 fonksiyonu veriliyor. Buna göre f(2 - x) fonksiyonunun kuralı aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "x² - 3x + 2",
+        "x² - 3x + 5",
+        "x² - 5x + 2",
+        "x² + 3x - 5",
+        "x² + 5x - 2"
+      ],
+      "dogruCevap": "x² - 5x + 2",
+      "aciklama": "f(2-x)= (2-x)² + (2-x) - 4 = 4 - 4x + x² + 2 - x - 4 = x² - 5x + 2."
+    },
+    {
+      "soru": "f ve g fonksiyonları için f(x) = g(x)·(x + 1) - x + 5 eşitliği veriliyor. g(3) = -2 olduğuna göre, f(3) değeri kaçtır?",
+      "secenekler": [
+        "-6",
+        "-3",
+        "-1",
+        "2",
+        "5"
+      ],
+      "dogruCevap": "-6",
+      "aciklama": "x = 3 için: f(3)= g(3)·(3+1) - 3 + 5 = (-2)×4 - 3 + 5 = -8 - 3 + 5 = -6."
+    },
+    {
+      "soru": "f(x + 3) + x·f(3x - 5) = x² + 14 olduğuna göre, f(7) değeri kaçtır?",
+      "secenekler": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "dogruCevap": "6",
+      "aciklama": "x+3 = 7 için x = 4. Denkleme x = 4 koyarsak: f(7) + 4·f(7) = 4² + 14 = 16 + 14 = 30. Yani 5·f(7) = 30, dolayısıyla f(7)= 6."
+    },
+    {
+      "soru": "y = f(x) birim fonksiyondur. Buna göre f(-3) + f(1) toplamı kaçtır?",
+      "secenekler": [
+        "-4",
+        "-2",
+        "0",
+        "2",
+        "4"
+      ],
+      "dogruCevap": "-2",
+      "aciklama": "Birim fonksiyon: f(x)= x olduğundan, f(-3)+f(1)= -3 + 1 = -2."
+    },
+    {
+      "soru": "f(x) = (m - 2)x fonksiyonu birim fonksiyondur. Buna göre m değeri kaçtır?",
+      "secenekler": [
+        "3",
+        "2",
+        "1",
+        "0",
+        "-1"
+      ],
+      "dogruCevap": "3",
+      "aciklama": "Birim fonksiyon olması için f(x) = x olmalıdır. Yani (m - 2)x = x her x için geçer. Bu da m - 2 = 1 demektir; dolayısıyla m = 3."
+    }
+  ],
+  "Oran-Orantı": [
+    {
+      "soru": "Toplamları 96 olan iki sayıdan birinin 5 katı, diğerinin 3 katına eşittir. Buna göre, bu sayıların farkının mutlak değeri kaçtır?",
+      "secenekler": [
+        "8",
+        "12",
+        "18",
+        "24",
+        "36"
+      ],
+      "dogruCevap": "24",
+      "aciklama": "Sayıları a ve b olarak alalım, a + b = 96 ve ya 5a = 3b veya 5b = 3a olsun. Her iki durumda da (örneğin 5a = 3b) çözüm:\n\nb = (5/3)a → a + (5/3)a = (8/3)a = 96 ⇒ a = 36, b = 60.\n\nBu sayıların farkı 60 − 36 = 24 olur."
+    },
+    {
+      "soru": "a, b, c sayılarının, sırasıyla 3, 6, 5 oranında olduğu biliniyor (yani a : b : c = 3 : 6 : 5). Aşağıdaki ifadeyi, a, b, c yerine uygun sayılar koyarak hesaplayınız:\n\n(a + c) - b\n\nAşağıdakilerden hangisi bu ifadenin değeridir?",
+      "secenekler": [
+        "6",
+        "3",
+        "1",
+        "2",
+        "3"
+      ],
+      "dogruCevap": "2",
+      "aciklama": "Oranlardan a = 3k, b = 6k, c = 5k şeklinde yazılabilir. Örneğin k = 1 alındığında:\n\n(a + c) - b = (3 + 5) - 6 = 8 - 6 = 2."
+    },
+    {
+      "soru": "Ali ile Sinan 360 ₺'yi 4 ve 5 oranında paylaşacaktır. Sinan, bu paylaşımda Ali’den daha fazla miktarda para alacağına göre, Sinan’ın ne kadar alacağını hesaplamak için aşağıdaki denklemlerden hangisi çözülmelidir?",
+      "secenekler": [
+        " (x/5)·4 = 360",
+        " (x/4)·5 = 360",
+        " (x/5)·9 = 360",
+        " (x/9)·5 = 360",
+        " (x/4)·9 = 360"
+      ],
+      "dogruCevap": " (x/5)·9 = 360",
+      "aciklama": "Paylaşım oranı toplamda 4+5 = 9 parça yapar. Sinan’ın payı 5 parça olduğundan; toplam paranın 9/5’ini veren denklemin çözümü, 9·(Sinan’ın pay)/5 = 360 şeklinde olur. Buradan Sinan’ın payı x için 9x/5 = 360 denklemi elde edilir."
+    },
+    {
+      "soru": "Bir okulda bulunan 12/A ve 12/B şubelerinin sınıf mevcutlarının farkı x’tir. 12/A şubesinin sınıf mevcudu y’deir. Buna göre, bu iki şubenin sınıf mevcutları toplamının, 12/B şubesinin sınıf mevcuduna oranı hangisidir?\n(Not: Yorumlamada 12/A = y, fark = x olduğundan 12/B = y – x kabul edilmiştir.)",
+      "secenekler": [
+        " (x + y) / (2x + y)",
+        " (x + y) / (2x - y)",
+        " (x + y) / (x + y²)",
+        " (x + y) / (2x + y)  (eksi işaretli)",
+        " (x + y) / (x + y)"
+      ],
+      "dogruCevap": "(2y - x) / (y - x)",
+      "aciklama": "Eğer 12/A şubesinin mevcudu y ve 12/B şubesindekinin, 12/A ile arasındaki fark x ise (y farkı x ise), 12/B = y - x olur. İki şubenin mevcutları toplamı  y + (y - x) = 2y - x olur. Dolayısıyla aranan oran = (2y - x)/(y - x).\n\nNot: Seçenekler, orijinal metinde tipografik olarak hatalı verilmiştir. Doğru cevap yukarıdaki ifadenin sadeleşmiş halidir."
+    },
+    {
+      "soru": "x ve y doğal sayıları sırasıyla 2 ve 3 sayıları ile orantılıdır. \n4x + 2y = 42 olduğuna göre, y kaçtır?",
+      "secenekler": [
+        "9",
+        "12",
+        "15",
+        "18",
+        "21"
+      ],
+      "dogruCevap": "9",
+      "aciklama": "x ve y, 2:3 oranında ise; x = 2k, y = 3k. \n4(2k) + 2(3k) = 8k + 6k = 14k = 42 ⇒ k = 3, \nDolayısıyla y = 3k = 9."
+    },
+    {
+      "soru": "(x + 5) ve (y – 12) sayıları doğru orantılıdır. \nx = 5 iken y = 17 olduğuna göre, x = 25 iken y kaçtır?",
+      "secenekler": [
+        "8",
+        "2/19",
+        "18",
+        "2/39",
+        "27"
+      ],
+      "dogruCevap": "27",
+      "aciklama": "Doğru orantı olduğuna göre, sabit k = (y – 12)/(x + 5) bulunur. \nVerilen: (17 – 12)/(5 + 5) = 5/10 = 0.5. \nx = 25 için: y – 12 = 0.5·(25 + 5) = 0.5·30 = 15, o halde y = 15 + 12 = 27."
+    },
+    {
+      "soru": "Bir dikdörtgenin kenar uzunlukları sırasıyla 4 ve 5 ile orantılıdır. Bu dikdörtgenin alanı 180 br² olduğuna göre, dikdörtgenin çevresi kaç br'dir?",
+      "secenekler": [
+        "42",
+        "48",
+        "54",
+        "60",
+        "65"
+      ],
+      "dogruCevap": "54",
+      "aciklama": "Kenarlar 4k ve 5k şeklinde verildiğinden alan = 4k×5k = 20k² = 180, k² = 9, k = 3 olur. Kenarlar 12 ve 15 olduğundan çevre = 2×(12+15) = 54 br."
+    },
+    {
+      "soru": "3, 5 ve 7 yaşlarındaki üç kardeşe 150 TL, yaşları ile orantılı olarak paylaştırılıyor. Buna göre, 3 yaşındaki kardeşe verilen para kaç TL'dir?",
+      "secenekler": [
+        "30",
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "dogruCevap": "30",
+      "aciklama": "Yaşlar oranı 3:5:7 olup toplam oran 3+5+7 = 15'tir. 3 yaşındaki kardeşin payı 3/15 × 150 = 30 TL olur."
+    },
+    {
+      "soru": "a, b, c pozitif tam sayıları sırasıyla 2, 5, 7 sayılarıyla doğru orantılıdır. c < 23 olduğuna göre, a + b + c toplamının alabileceği en büyük değer kaçtır?",
+      "secenekler": [
+        "42",
+        "48",
+        "52",
+        "56",
+        "84"
+      ],
+      "dogruCevap": "42",
+      "aciklama": "a:b:c = 2:5:7 şeklinde yazılabilir; a = 2k, b = 5k, c = 7k. c < 23 olduğundan 7k < 23, en büyük tam k = 3 olur. Böylece a+b+c = 2×3 + 5×3 + 7×3 = 6 + 15 + 21 = 42."
+    },
+    {
+      "soru": "Karabiberin 200 gramı x kuruş, yarım kilogramı (3x – 75) kuruş olduğuna göre, x kaçtır?",
+      "secenekler": [
+        "360",
+        "300",
+        "250",
+        "200",
+        "150"
+      ],
+      "dogruCevap": "150",
+      "aciklama": "Gram fiyatı sabit olduğundan 500 gramın maliyeti, (500/200)x = (5/2)x olur. Denkleme göre:\n(5/2)x = 3x – 75  →  5x = 6x – 150  →  x = 150."
+    }
   ]
 },
     "Tarih": {
