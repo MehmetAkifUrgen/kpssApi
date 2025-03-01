@@ -6094,18 +6094,6 @@
       "aciklama": "Bir sayının 9 ile tam bölünebilmesi için rakamları toplamının 9’un katı olması gerekir. 764 için rakamlar toplamı 7 + 6 + 4 = 17 olup, 17 9’un katı değildir."
     },
     {
-      "soru": "Aşağıdaki sayılardan hangisi 8 ile tam bölünür?",
-      "secenekler": [
-        "1232",
-        "1240",
-        "1264",
-        "1280",
-        "1296"
-      ],
-      "dogruCevap": "1264",
-      "aciklama": "Bir sayının 8 ile tam bölünebilmesi için son üç basamağının 8'e tam bölünmesi gerekir. 1264'ın son üç basamağı 264 olup, 264 ÷ 8 = 33 olduğundan 1264, 8 ile tam bölünür."
-    },
-    {
       "soru": "Aşağıdaki sayılardan hangisi 6 ile tam bölünür?",
       "secenekler": [
         "132",
