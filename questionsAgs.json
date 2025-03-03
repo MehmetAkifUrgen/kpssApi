@@ -1,5 +1,976 @@
 {
   "soruCozumu": {
+    "Denemeler": {
+      "Deneme 1": [
+          {
+            "soru": "Aşağıdaki cümlelerin hangisinde 'açık' sözcüğü diğerlerinden farklı anlamda kullanılmıştır?",
+            "secenekler": [
+              "Odasının açık penceresinden serin bir hava giriyordu.",
+              "Konuyu açık bir dille anlattı.",
+              "Yüzünde açık bir ifade vardı.",
+              "Bu sorunun açık bir çözümü yok.",
+              "Gökyüzü bulutsuz ve açıktı."
+            ],
+            "dogruCevap": "Bu sorunun açık bir çözümü yok.",
+            "aciklama": "Diğer seçeneklerde 'açık' sözcüğü fiziksel veya somut anlamlarda kullanılırken, bu seçenekte soyut bir anlamda ('net olmayan') kullanılmıştır."
+          },
+          {
+            "soru": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi yoktur?",
+            "secenekler": [
+              "Yağmur yağdığı için yollar kapandı.",
+              "Soğuk havadan dolayı hastalandı.",
+              "Kitabı çok beğendiği için hemen satın aldı.",
+              "Arkadaşını görmek onu mutlu etti.",
+              "Eve geç geldiğinden yemek soğumuştu."
+            ],
+            "dogruCevap": "Arkadaşını görmek onu mutlu etti.",
+            "aciklama": "Bu cümlede neden-sonuç ilişkisi yerine duygusal bir etki vurgulanmaktadır. Diğer cümlelerde ise net bir neden-sonuç bağlantısı vardır."
+          },
+          {
+            "soru": "Aşağıdaki cümlelerin hangisinde 'ancak' bağlacı yanlış kullanılmıştır?",
+            "secenekler": [
+              "Sınavı kazanmak istiyorsanız, ancak çalışmanız gerekir.",
+              "Ancak olayların sebebini bilenler, çözüm üretebilir.",
+              "Hava kararmıştı, ancak yolumuza devam ettik.",
+              "Ancak birkaç kişi toplantıya katıldı.",
+              "Bu işi ancak deneyimli bir usta yapabilir."
+            ],
+            "dogruCevap": "Sınavı kazanmak istiyorsanız, ancak çalışmanız gerekir.",
+            "aciklama": "'Ancak' bağlacı burada cümlenin anlamı ile uyumsuzdur. 'Sadece' kelimesi daha uygun olacaktır."
+          },
+          {
+            "soru": "Aşağıdaki parçada numaralanmış cümlelerin hangisinde 'öznel' bir yargı vardır?\n\nI. Türkiye'nin en güzel şehirlerinden biri İstanbul'dur.\nII. İstanbul, tarihi ve kültürel zenginlikleriyle dikkat çeker.\nIII. Haliç'in manzarası birçok sanatçının ilgisini çekmiştir.\nIV. İstanbul'da yaşayan insanlar genellikle sıcakkanlıdır.",
+            "secenekler": [
+              "I",
+              "II",
+              "III",
+              "IV",
+              "Hepsi"
+            ],
+            "dogruCevap": "I",
+            "aciklama": "I. cümlede 'Türkiye'nin en güzel şehirlerinden biri' ifadesi kişisel bir görüş olduğu için öznel bir yargıdır. Diğer cümlelerde nesnel bilgiler verilmiştir."
+          },
+          {
+            "soru": "Aşağıdaki cümlelerin hangisinde 'karşılaştırma' söz konusudur?",
+            "secenekler": [
+              "Bu yılki festival geçen yılkine göre daha kaliteliydi.",
+              "Herkes kendi yolunda emin adımlarla ilerliyor.",
+              "Onun başarısı, çabalarının sonucudur.",
+              "Yaşam, her zaman bekleneni vermez.",
+              "Bazı insanlar kitap okumayı severken bazıları tercih etmez."
+            ],
+            "dogruCevap": "Bu yılki festival geçen yılkine göre daha kaliteliydi.",
+            "aciklama": "Bu cümlede 'geçen yıla göre' ifadesiyle karşılaştırma yapılmıştır. Diğer cümlelerde karşılaştırma söz konusu değildir."
+          },
+          {
+            "soru": "Aşağıdaki paragrafın ana fikri nedir?\n\n'Tarih boyunca insanlık, yaşadığı çevreyi şekillendirmek için sürekli mücadele etmiştir. İlk çağlardan günümüze kadar teknoloji ve bilgi birikimi, insanların doğayla olan ilişkisini değiştirmiş, yaşam standartlarını yükseltmiştir. Ancak bu süreçte çevre üzerindeki baskıyı da artırmış, doğal kaynakların tükenmesine yol açmıştır.'",
+            "secenekler": [
+              "İnsanlığın teknolojik gelişmelerle ilerlemesi.",
+              "Doğal kaynakların önemini koruma gerekliliği.",
+              "İnsanlığın doğayla olan mücadelesi ve sonuçları.",
+              "Tarihsel süreçte bilgi birikiminin önemi.",
+              "Çevre sorunlarının çözüm yolları."
+            ],
+            "dogruCevap": "İnsanlığın doğayla olan mücadelesi ve sonuçları.",
+            "aciklama": "Paragrafta insanlığın doğayla olan mücadelesinin hem olumlu hem de olumsuz sonuçlarından bahsedilmektedir. Ana fikir bu mücadeleyi açıklamaktadır."
+          },
+          {
+            "soru": "Aşağıdaki cümlelerin hangisinde 'koşul' anlamı vardır?",
+            "secenekler": [
+              "Yağmur yağarsa dışarı çıkmayacağız.",
+              "Her sabah aynı saatte kalkıyorum.",
+              "Dün gece rüyamda seni gördüm.",
+              "Bu kitabı bitirdikten sonra yeni bir tane alacağım.",
+              "Arkadaşım bana yardım etti."
+            ],
+            "dogruCevap": "Yağmur yağarsa dışarı çıkmayacağız.",
+            "aciklama": "'Yağmur yağarsa' ifadesi koşul anlamını içermektedir. Diğer cümlelerde koşul anlamı yoktur."
+          },
+          {
+            "soru": "Aşağıdaki parçada numaralanmış cümlelerden hangisi parçanın akışını bozmaktadır?\n\nI. İnsanlar, sağlıklı bir yaşam sürmek için düzenli spor yapmalıdır.\nII. Spor, yalnızca fiziksel sağlığı değil, aynı zamanda ruhsal sağlığı da destekler.\nIII. Günümüzde birçok kişi teknoloji bağımlılığına düşmüştür.\nIV. Düzenli spor yapan kişilerin stres düzeyleri daha düşüktür.\nV. Bu nedenle herkes spor yapmanın önemini kavramalıdır.",
+            "secenekler": [
+              "I",
+              "II",
+              "III",
+              "IV",
+              "V"
+            ],
+            "dogruCevap": "III",
+            "aciklama": "III. cümle, parçanın akışını bozmaktadır. Çünkü parçanın konusu sporun önemi iken, bu cümle teknoloji bağımlılığından bahsetmektedir ve ana tema ile bağlantısızdır."
+          },
+          {
+            "soru": "Aşağıdaki cümlelerin hangisinde 'abartma' söz konusudur?",
+            "secenekler": [
+              "Bu kitap, dünya edebiyatının en önemli eseridir.",
+              "Yazar, roman boyunca karakterlerini derinlemesine incelemiştir.",
+              "Filmin konusu izleyicileri etkilemeye yetmiştir.",
+              "Sanatçı, yaptığı resimlerle tanındı.",
+              "Müzik dinlemek ruhani bir deneyim gibidir."
+            ],
+            "dogruCevap": "Bu kitap, dünya edebiyatının en önemli eseridir.",
+            "aciklama": "Bu cümlede 'dünya edebiyatının en önemli eseri' ifadesi abartılı bir ifadedir. Diğer cümlelerde abartma yoktur."
+          },
+          {
+            "soru": "Aşağıdaki paragrafa göre, yazarın asıl amacı nedir?\n\n'Okuma alışkanlığı, özellikle genç kuşakta giderek azalmaktadır. Bunun temel nedenlerinden biri, dijital teknolojinin yaygınlaşmasıdır. Gençler, sosyal medya ve video içeriklerle vakit geçirmeyi kitap okumaya tercih etmektedir. Ancak bu durum, uzun vadede eleştirel düşünme becerilerini zayıflatmaktadır.'",
+            "secenekler": [
+              "Dijital teknolojinin zararlarını vurgulamak.",
+              "Gençlerin okuma alışkanlığını teşvik etmek.",
+              "Eleştirel düşünmenin önemini açıklamak.",
+              "Sosyal medyanın yaygınlığını eleştirmek.",
+              "Okumanın eğlenceli yönlerini anlatmak."
+            ],
+            "dogruCevap": "Gençlerin okuma alışkanlığını teşvik etmek.",
+            "aciklama": "Paragrafta gençlerin okuma alışkanlığının azaldığı ve bunun olumsuz sonuçlarına değinilerek, okuma alışkanlığını teşvik etme amacının olduğu görülmektedir."
+          },
+          {
+            "soru": "Aşağıdaki cümlelerin hangisinde 'amaç' anlamı vardır?",
+            "secenekler": [
+              "Sağlıklı yaşamak için dengeli beslenmelisiniz.",
+              "Her sabah erken kalkmayı alışkanlık haline getirdim.",
+              "Geç kaldığımız için toplantıya katılamadık.",
+              "Arkadaşım bana yeni bir kitap önerdi.",
+              "Bu filmi izlemek beni çok etkiledi."
+            ],
+            "dogruCevap": "Sağlıklı yaşamak için dengeli beslenmelisiniz.",
+            "aciklama": "'Sağlıklı yaşamak için' ifadesi bir amaç belirtmektedir. Diğer cümlelerde amaç anlamı yoktur."
+          },
+          {
+            "soru": "Aşağıdaki parçada boş bırakılan yere hangi cümle getirilmelidir?\n\n'Edebiyat, toplumun aynasıdır. Yazarlar, eserlerinde yaşadıkları dönemin sorunlarını ve değerlerini yansıtırlar. _________. Bu nedenle edebiyat, sadece eğlence aracı değil, aynı zamanda toplumsal bilinçlenme aracıdır.'",
+            "secenekler": [
+              "Edebiyat, insanların duygularını anlatır.",
+              "Romanlar, genellikle uzun metinlerdir.",
+              "Eserler, okuyucuya farklı perspektifler sunar.",
+              "Şiir, edebiyatın en güçlü türüdür.",
+              "Her dönem kendine özgü yazarlar yetiştirmiştir."
+            ],
+            "dogruCevap": "Eserler, okuyucuya farklı perspektifler sunar.",
+            "aciklama": "Boşluk, parçanın akışına ve anlam bütünlüğüne göre doldurulmalıdır. 'Eserler, okuyucuya farklı perspektifler sunar.' cümlesi, toplumsal bilinçlenme ile bağlantılıdır."
+          },
+          {
+            "soru": "Aşağıdaki cümlelerin hangisinde 'olasılık' anlamı vardır?",
+            "secenekler": [
+              "Bu işi bitirebilmek için daha çok çalışmamız gerekebilir.",
+              "Her zaman doğruyu söylemek en iyisidir.",
+              "Sabah erkenden evden çıktım.",
+              "Bugün hava çok soğuktu.",
+              "Arkadaşım bana yardım etti."
+            ],
+            "dogruCevap": "Bu işi bitirebilmek için daha çok çalışmamız gerekebilir.",
+            "aciklama": "'Gerekebilir' ifadesi olasılık anlamını içermektedir. Diğer cümlelerde olasılık anlamı yoktur."
+          },
+          {
+            "soru": "Aşağıdaki parçada yazarın tutumu aşağıdakilerden hangisine yöneliktir?\n\n'Günümüzde insanların teknoloji bağımlılığı, hem bireysel hem de toplumsal açıdan ciddi sorunlara yol açmaktadır. Özellikle gençler, sanal dünyada kaybolup gerçek hayattan kopmaktadır. Bu durum, iletişim becerilerini zayıflatmakta ve sosyal ilişkileri olumsuz etkilemektedir.'",
+            "secenekler": [
+              "Teknolojinin faydalarını övmeye.",
+              "Teknoloji kullanımını eleştirmeye.",
+              "Gençlerin davranışlarını savunmaya.",
+              "Sosyal medyanın önemini vurgulamaya.",
+              "İletişim becerilerinin güçlendirilmesine."
+            ],
+            "dogruCevap": "Teknoloji kullanımını eleştirmeye.",
+            "aciklama": "Parçada teknoloji bağımlılığının olumsuz sonuçlarından bahsedilerek eleştiri yapılmaktadır."
+          },
+          {
+            "soru": "Aşağıdaki cümlelerin hangisinde 'neden' anlamı vardır?",
+            "secenekler": [
+              "Yorgun olduğum için erken uyudum.",
+              "Her gün aynı parktan geçiyorum.",
+              "Bu kitabı okumayı çok seviyorum.",
+              "Arkadaşım bana güzel bir hediye verdi.",
+              "Hava güneşli olduğu için dışarı çıktık."
+            ],
+            "dogruCevap": "Yorgun olduğum için erken uyudum.",
+            "aciklama": "'Yorgun olduğum için' ifadesi bir neden belirtmektedir. Diğer cümlelerde neden anlamı yoktur."
+          },
+        {
+          "soru": "a, b ve c pozitif tam sayılardır. a² + b² = c² ve a + b + c = 120 olduğuna göre, c kaçtır?",
+          "secenekler": [
+            "40",
+            "45",
+            "50",
+            "55",
+            "60"
+          ],
+          "dogruCevap": "50",
+          "aciklama": "Pisagor üçlüleriyle deneme yapalım: a = 3k, b = 4k, c = 5k ⇒ a + b + c = 12k = 120 ⇒ k = 10. c = 5k = 50."
+        },
+        {
+          "soru": "Üç basamaklı ABC sayısı ile CBA sayısının toplamı 1332 olduğuna göre, A + C toplamı kaçtır?",
+          "secenekler": [
+            "10",
+            "11",
+            "12",
+            "13",
+            "14"
+          ],
+          "dogruCevap": "13",
+          "aciklama": "ABC = 100A + 10B + C, CBA = 100C + 10B + A. Toplam: 101A + 20B + 101C = 1332 ⇒ 101(A + C) + 20B = 1332. A + C = 13 olmalıdır."
+        },
+        {
+          "soru": "Beş basamaklı 7a5b2 sayısı 12 ile tam bölünebildiğine göre, a + b toplamının alabileceği en küçük değer kaçtır?",
+          "secenekler": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "dogruCevap": "3",
+          "aciklama": "12 ile bölünebilme kuralı: 3 ve 4 ile bölünebilirlik. 4 ile bölünebilme için son iki basamak (b2) 4'ün katı olmalı ⇒ b = 0, 4, 8. 3 ile bölünebilme için rakamlar toplamı 3'ün katı olmalı: 7 + a + 5 + b + 2 = 14 + a + b. En küçük değer için a + b = 3 olmalıdır."
+        },
+        {
+          "soru": "x² - 6x + 8 < 0 eşitsizliğini sağlayan x tam sayı değerleri toplamı kaçtır?",
+          "secenekler": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "dogruCevap": "5",
+          "aciklama": "x² - 6x + 8 = (x - 2)(x - 4). Çarpanlar analizi: (x - 2)(x - 4) < 0 ⇒ 2 < x < 4. Tam sayılar: x = 3. Toplam: 3."
+        },
+        {
+          "soru": "|x - 2| + |x - 5| = 7 eşitliğini sağlayan x değerlerinin toplamı kaçtır?",
+          "secenekler": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "dogruCevap": "7",
+          "aciklama": "Mutlak değer ifadesini parçalara ayırarak çözelim: \n1. Durum (x < 2): -(x - 2) - (x - 5) = 7 ⇒ -2x + 7 = 7 ⇒ x = 0. \n2. Durum (2 ≤ x ≤ 5): (x - 2) - (x - 5) = 7 ⇒ 3 ≠ 7 (çözüm yok). \n3. Durum (x > 5): (x - 2) + (x - 5) = 7 ⇒ 2x - 7 = 7 ⇒ x = 7. \nÇözümler: x = 0 ve x = 7. Toplam: 0 + 7 = 7."
+        },
+        {
+          "soru": "2ˣ⁺¹ + 2ˣ = 96 eşitliğini sağlayan x değeri kaçtır?",
+          "secenekler": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "dogruCevap": "5",
+          "aciklama": "2ˣ⁺¹ = 2·2ˣ olduğu için: 2·2ˣ + 2ˣ = 96 ⇒ 3·2ˣ = 96 ⇒ 2ˣ = 32 ⇒ x = 5."
+        },
+        {
+          "soru": "√(x + √x) = 4 eşitliğini sağlayan x değeri kaçtır?",
+          "secenekler": [
+            "12",
+            "14",
+            "16",
+            "18",
+            "20"
+          ],
+          "dogruCevap": "12",
+          "aciklama": "Karekökten kurtulmak için her iki tarafın karesini alalım: (√(x + √x))² = 4² ⇒ x + √x = 16. √x = y olsun ⇒ x = y². Denklem: y² + y = 16 ⇒ y² + y - 16 = 0. Çözüm: y = 4 ⇒ x = 16."
+        },
+        {
+          "soru": "f(x) = 3x² - 2x + 1 fonksiyonu için f(2) - f(-1) farkı kaçtır?",
+          "secenekler": [
+            "10",
+            "12",
+            "14",
+            "16",
+            "18"
+          ],
+          "dogruCevap": "14",
+          "aciklama": "f(2) = 3(2)² - 2(2) + 1 = 12 - 4 + 1 = 9. f(-1) = 3(-1)² - 2(-1) + 1 = 3 + 2 + 1 = 6. Fark: f(2) - f(-1) = 9 - 6 = 14."
+        },
+        {
+          "soru": "log₂(x - 1) + log₂(x + 1) = 3 eşitliğini sağlayan x değeri kaçtır?",
+          "secenekler": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "dogruCevap": "5",
+          "aciklama": "Logaritma toplama kuralı: log₂((x - 1)(x + 1)) = 3 ⇒ log₂(x² - 1) = 3 ⇒ x² - 1 = 2³ ⇒ x² - 1 = 8 ⇒ x² = 9 ⇒ x = 3 veya x = -3. x > 1 olduğu için x = 5."
+        },
+        {
+          "soru": "Bir torbada 3 kırmızı, 4 mavi ve 5 yeşil top vardır. Rastgele çekilen iki topun aynı renkte olma olasılığı kaçtır?",
+          "secenekler": [
+            "1/6",
+            "1/5",
+            "1/4",
+            "1/3",
+            "1/2"
+          ],
+          "dogruCevap": "1/3",
+          "aciklama": "Toplam top sayısı: 3 + 4 + 5 = 12. Aynı renkte olma durumları: Kırmızı: C(3, 2) = 3, Mavi: C(4, 2) = 6, Yeşil: C(5, 2) = 10. Toplam: 3 + 6 + 10 = 19. Tüm durumlar: C(12, 2) = 66. Olasılık: 19/66 ≈ 1/3."
+        },
+        {
+          "soru": "Bir araç saatte 60 km hızla giderken, yolun 1/3'ünü aldıktan sonra hızını saatte 80 km'ye çıkarıyor. Toplam yol 120 km ise, araç yolculuğu kaç saatte tamamlar?",
+          "secenekler": [
+            "1,5",
+            "1,75",
+            "2",
+            "2,25",
+            "2,5"
+          ],
+          "dogruCevap": "2",
+          "aciklama": "Yolun 1/3'ü: 120/3 = 40 km. İlk kısım süresi: 40/60 = 2/3 saat. Kalan yol: 120 - 40 = 80 km. İkinci kısım süresi: 80/80 = 1 saat. Toplam süre: 2/3 + 1 = 2 saat."
+        },
+        {
+          "soru": "x² - 4x + 4 = 0 denkleminin çözüm kümesi nedir?",
+          "secenekler": [
+            "{2}",
+            "{-2}",
+            "{0, 2}",
+            "{-2, 2}",
+            "{1, 3}"
+          ],
+          "dogruCevap": "{2}",
+          "aciklama": "Denklem: x² - 4x + 4 = (x - 2)² = 0 ⇒ x = 2 (çift katlı kök). Çözüm kümesi: {2}."
+        },
+        {
+          "soru": "Bir dikdörtgenin uzun kenarı kısa kenarının 3 katıdır. Dikdörtgenin çevresi 48 cm olduğuna göre, alanı kaç cm²'dir?",
+          "secenekler": [
+            "96",
+            "108",
+            "120",
+            "132",
+            "144"
+          ],
+          "dogruCevap": "108",
+          "aciklama": "Kısa kenar: x, uzun kenar: 3x. Çevre: 2(x + 3x) = 48 ⇒ 8x = 48 ⇒ x = 6. Alan: x·3x = 6·18 = 108 cm²."
+        },
+        {
+          "soru": "A = {1, 2, 3, 4} kümesinin alt kümelerinin kaç tanesinde 2 eleman olarak bulunur?",
+          "secenekler": [
+            "4",
+            "8",
+            "12",
+            "16",
+            "32"
+          ],
+          "dogruCevap": "8",
+          "aciklama": "2 elemanı sabit tutulduğunda geriye kalan {1, 3, 4} kümesinin alt kümeleri oluşturulur. Alt küme sayısı: 2³ = 8."
+        },
+        {
+          "soru": "Bir işi A tek başına 12 günde, B tek başına 15 günde bitirebilmektedir. İkisi birlikte çalışırsa işin tamamını kaç günde bitirirler?",
+          "secenekler": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "dogruCevap": "6",
+          "aciklama": "A'nın günlük işi: 1/12, B'nin günlük işi: 1/15. Birlikte günlük iş: 1/12 + 1/15 = (5 + 4)/60 = 9/60 = 3/20. Tamamlama süresi: 20/3 ≈ 6 gün."
+        },
+          {
+            "soru": "Aşağıdakilerden hangisi Karahanlılar Dönemi'nde görülen kültürel gelişmelerden biridir?",
+            "secenekler": [
+              "Türk-İslam mimarisinin temellerinin atılması",
+              "Matbaanın ilk kez kullanılması",
+              "Osmanlıca'nın resmi dil olarak kabul edilmesi",
+              "Hristiyanlık'ın devlet dininin ilan edilmesi",
+              "Türk İslam coğrafyasında demokratik kurumların kurulması"
+            ],
+            "dogruCevap": "Türk-İslam mimarisinin temellerinin atılması",
+            "aciklama": "Karahanlılar Dönemi'nde İslamiyet'in kabulüyle birlikte Türk-İslam mimarisi ve sanatı gelişmiştir. Bu dönemde cami, medrese gibi yapılar inşa edilmiştir."
+          },
+          {
+            "soru": "Osmanlı Devleti'nin kuruluş döneminde Anadolu'da siyasi birliği sağlayabilmesinde aşağıdakilerden hangisinin etkisi olmuştur?",
+            "secenekler": [
+              "Haçlı Seferleri'nin sona ermesi",
+              "Anadolu Selçuklu Devleti'nin zayıflaması",
+              "Bizans İmparatorluğu'nun güçlenmesi",
+              "Mongol istilasının Avrupa'ya yayılması",
+              "Karesioğulları Beyliği'nin geniş topraklara sahip olması"
+            ],
+            "dogruCevap": "Anadolu Selçuklu Devleti'nin zayıflaması",
+            "aciklama": "Anadolu Selçuklu Devleti'nin zayıflaması ve Moğol baskısıyla bölgedeki siyasi boşluktan faydalanan Osmanlılar, Anadolu'da siyasi birliği sağlamıştır."
+          },
+          {
+            "soru": "Osmanlı Devleti'nde 'Timar Sistemi' ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": [
+              "Toprak askeri hizmet karşılığında verilirdi.",
+              "Timar sistemi, merkezi otoriteyi güçlendirmiştir.",
+              "Timar sahipleri vergi toplama hakkına sahipti.",
+              "Timar sistemi, tarım üretimini artırmıştır.",
+              "Timar sahipleri, toprağı miras yoluyla aktarabilirdi."
+            ],
+            "dogruCevap": "Timar sahipleri, toprağı miras yoluyla aktarabilirdi.",
+            "aciklama": "Timar sisteminde toprak miras yoluyla aktarılamazdı. Timar sahibinin ölümü halinde toprak devlete geri dönerdi."
+          },
+          {
+            "soru": "I. Dünya Savaşı sonrası imzalanan Mondros Ateşkes Antlaşması'nın sonuçları arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": [
+              "Osmanlı Devleti'nin işgal edilmesi",
+              "Anadolu'da milli mücadele hareketlerinin başlaması",
+              "Osmanlı ordusunun tamamen dağıtılması",
+              "İstanbul'un İtilaf Devletleri tarafından işgal edilmesi",
+              "Türkiye Cumhuriyeti'nin ilan edilmesi"
+            ],
+            "dogruCevap": "Türkiye Cumhuriyeti'nin ilan edilmesi",
+            "aciklama": "Mondros Ateşkes Antlaşması'nın doğrudan bir sonucu Türkiye Cumhuriyeti'nin ilanı değildir. Cumhuriyet, daha sonra Milli Mücadele sürecinde ilan edilmiştir."
+          },
+          {
+            "soru": "Atatürk Dönemi'nde gerçekleştirilen inkılaplardan hangisi 'ulusal egemenlik' ilkesini pekiştirmek amacıyla yapılmıştır?",
+            "secenekler": [
+              "Saltanatın kaldırılması",
+              "Medeni Kanun'un kabulü",
+              "Harf Devrimi",
+              "Şapka Kanunu",
+              "Tekke ve Zaviyelerin kapatılması"
+            ],
+            "dogruCevap": "Saltanatın kaldırılması",
+            "aciklama": "Saltanatın kaldırılması, ulusal egemenlik ilkesini pekiştiren en önemli adımlardan biridir. Böylece Osmanlı hanedanlığı sona ermiş ve cumhuriyet rejimi için zemin hazırlanmıştır."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi II. Mahmut Dönemi'nde yapılan reformların bir özelliği değildir?",
+            "secenekler": [
+              "Batı tarzında modernleşme çabaları içermesi",
+              "Yeniçeri Ocağı'nın kaldırılması",
+              "Nizam-ı Cedid Ordusu'nun kurulması",
+              "Meclis-i Vükela'nın oluşturulması",
+              "Cumhuriyet rejiminin ilan edilmesi"
+            ],
+            "dogruCevap": "Cumhuriyet rejiminin ilan edilmesi",
+            "aciklama": "Cumhuriyet rejimi, II. Mahmut Dönemi'nde değil, Atatürk Dönemi'nde ilan edilmiştir."
+          },
+          {
+            "soru": "Aşağıdaki antlaşmalardan hangisi Osmanlı Devleti'nin Balkanlar'daki toprak kayıplarını hızlandırmıştır?",
+            "secenekler": [
+              "Berlin Antlaşması",
+              "Karlofça Antlaşması",
+              "Bükreş Antlaşması",
+              "Uşi Antlaşması",
+              "Zitvatorok Antlaşması"
+            ],
+            "dogruCevap": "Berlin Antlaşması",
+            "aciklama": "1878 Berlin Antlaşması, Osmanlı Devleti'nin Balkanlar'daki topraklarının büyük ölçüde kaybedilmesine neden olmuştur."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Atatürk'ün 'ulusal egemenlik' anlayışını yansıtmaz?",
+            "secenekler": [
+              "Cumhuriyetin ilan edilmesi",
+              "TBMM'nin açılması",
+              "Halifeliğin kaldırılması",
+              "Saltanatın kaldırılması",
+              "Tek dereceli seçim sisteminin kabulü"
+            ],
+            "dogruCevap": "Halifeliğin kaldırılması",
+            "aciklama": "Halifeliğin kaldırılması, dinî kurumların laikleşmesi açısından önemlidir, ancak ulusal egemenlik anlayışıyla doğrudan ilişkili değildir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Soğuk Savaş Dönemi'nde Türkiye'nin Batı ile yakınlaşma politikasının bir sonucu değildir?",
+            "secenekler": [
+              "NATO'ya üyelik",
+              "Marshall Planı'ndan yararlanma",
+              "Kore Savaşı'na asker gönderme",
+              "Varşova Paktı'na katılma",
+              "OECD üyeliği"
+            ],
+            "dogruCevap": "Varşova Paktı'na katılma",
+            "aciklama": "Türkiye, Soğuk Savaş Dönemi'nde Batı bloku ile yakınlaşmış ve NATO'ya üye olmuştur. Varşova Paktı ise Doğu Bloku ülkelerinin oluşturduğu bir ittifaktır."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Osmanlı Devleti'nin ekonomik yapısında yaşanan değişimlerden biri değildir?",
+            "secenekler": [
+              "Kapitülasyonların ekonomik bağımsızlığı güçlendirmesi",
+              "Avrupa ile ticaret hacminin artması",
+              "Para ekonomisinin yaygınlaşması",
+              "Sanayi Devrimi'nin etkisiyle yeni teknolojilerin kullanılması",
+              "Devlet tekelcilik anlayışının zayıflaması"
+            ],
+            "dogruCevap": "Kapitülasyonların ekonomik bağımsızlığı güçlendirmesi",
+            "aciklama": "Kapitülasyonlar, Osmanlı Devleti'nin ekonomik bağımsızlığını zayıflatmış ve dış ticarette yabancıların üstünlüğünü sağlamıştır."
+          },
+            {
+              "soru": "Aşağıdaki ovalardan hangisi Türkiye'nin en büyük delta ovasıdır?",
+              "secenekler": [
+                "Çukurova",
+                "Bafra Ovası",
+                "Harran Ovası",
+                "Silifke Ovası",
+                "Konya Ovası"
+              ],
+              "dogruCevap": "Çukurova",
+              "aciklama": "Çukurova, Seyhan ve Ceyhan nehirlerinin oluşturduğu Türkiye'nin en büyük delta ovasıdır."
+            },
+            {
+              "soru": "Aşağıdaki dağlardan hangisi Türkiye'nin tek volkanik dağ sırasındadır?",
+              "secenekler": [
+                "Kaçkar Dağları",
+                "Toros Dağları",
+                "Küre Dağları",
+                "Erciyes Dağı",
+                "Yıldız Dağları"
+              ],
+              "dogruCevap": "Erciyes Dağı",
+              "aciklama": "Erciyes Dağı, Türkiye'nin İç Anadolu Bölgesi'nde bulunan önemli bir volkanik dağdır. Diğer seçeneklerdeki dağlar volkanik kökenli değildir."
+            },
+            {
+              "soru": "Türkiye'de aşağıdaki akarsulardan hangisi bir 'baraj gölü' oluşturmak için üzerinde baraj inşa edilmiştir?",
+              "secenekler": [
+                "Kızılırmak",
+                "Sakarya",
+                "Fırat",
+                "Gediz",
+                "Büyükmenderes"
+              ],
+              "dogruCevap": "Fırat",
+              "aciklama": "Fırat Nehri üzerinde Atatürk Barajı ve diğer barajlar inşa edilerek baraj gölleri oluşturulmuştur. Örneğin, Atatürk Baraj Gölü bu nehri beslemektedir."
+            },
+            {
+              "soru": "Türkiye'de nüfus yoğunluğunun en fazla olduğu bölge aşağıdakilerden hangisidir?",
+              "secenekler": [
+                "Marmara Bölgesi",
+                "İç Anadolu Bölgesi",
+                "Ege Bölgesi",
+                "Akdeniz Bölgesi",
+                "Karadeniz Bölgesi"
+              ],
+              "dogruCevap": "Marmara Bölgesi",
+              "aciklama": "Marmara Bölgesi, Türkiye'nin en fazla nüfus yoğunluğuna sahip bölgesidir. İstanbul, Bursa ve Kocaeli gibi büyük şehirler burada yer alır."
+            },
+            {
+              "soru": "Türkiye'de aşağıdaki illerden hangisi pamuk üretimi açısından öne çıkar?",
+              "secenekler": [
+                "Adana",
+                "Trabzon",
+                "Rize",
+                "Van",
+                "Kars"
+              ],
+              "dogruCevap": "Adana",
+              "aciklama": "Adana, Çukurova Bölümü'nde yer alan ve pamuk üretiminde öncü olan bir ildir. Çukurova, tarımın geliştiği verimli bir deltadır."
+            },
+            {
+              "soru": "Türkiye'de aşağıdaki termal kaynaklardan hangisi turizm açısından daha çok önem taşır?",
+              "secenekler": [
+                "Pamukkale (Denizli)",
+                "Kangal (Sivas)",
+                "Afyonkarahisar",
+                "Yalova",
+                "Balıklıgöl (Şanlıurfa)"
+              ],
+              "dogruCevap": "Pamukkale (Denizli)",
+              "aciklama": "Pamukkale, UNESCO Dünya Miras Listesi'nde yer alan ve hem termal kaynakları hem de travertenleriyle dünya çapında tanınan bir turizm destinasyonudur."
+            },
+            {
+              "soru": "Türkiye'de aşağıdaki bölgelerden hangisi hayvancılık faaliyetlerinde daha ön plandadır?",
+              "secenekler": [
+                "Doğu Anadolu Bölgesi",
+                "Marmara Bölgesi",
+                "Ege Bölgesi",
+                "Akdeniz Bölgesi",
+                "Güneydoğu Anadolu Bölgesi"
+              ],
+              "dogruCevap": "Doğu Anadolu Bölgesi",
+              "aciklama": "Doğu Anadolu Bölgesi, geniş yaylaları ve çayırları sayesinde hayvancılık faaliyetlerinde öne çıkar. Özellikle koyun ve sığır besiciliği yaygındır."
+            },
+            {
+              "soru": "Türkiye'de aşağıdaki limanlardan hangisi ihracat ve ithalat açısından en fazla yük taşıma kapasitesine sahiptir?",
+              "secenekler": [
+                "İzmir Limanı",
+                "Mersin Limanı",
+                "İstanbul Limanı",
+                "Samsun Limanı",
+                "Antalya Limanı"
+              ],
+              "dogruCevap": "Mersin Limanı",
+              "aciklama": "Mersin Limanı, Türkiye'nin en büyük ve en yoğun kullanılan limanlarından biridir. Özellikle ihracat ve ithalat işlemlerinde büyük bir rol oynar."
+            },
+          {
+            "soru": "Aşağıdakilerden hangisi davranışçı öğrenme kuramının temel ilkelerinden biridir?",
+            "secenekler": [
+              "Öğrenme bireysel deneyimlerle gerçekleşir.",
+              "Davranışlar pekiştirilerek kazandırılır.",
+              "Öğrenme bilinçli bir süreçtir.",
+              "Bilgi yapılandırılarak öğrenilir.",
+              "Öğrenme toplumsal etkileşimle gelişir."
+            ],
+            "dogruCevap": "Davranışlar pekiştirilerek kazandırılır.",
+            "aciklama": "Davranışçı öğrenme kuramına göre, öğrenme uyarıcı-tepki ilişkisiyle gerçekleşir ve davranışlar pekiştirilerek kalıcı hale getirilir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi ilerlemecilik eğitim felsefesinin temel özelliklerinden biri değildir?",
+            "secenekler": [
+              "Öğrenci merkezli eğitim anlayışı",
+              "Deneyimsel öğrenmeye önem verme",
+              "Demokratik değerleri vurgulama",
+              "Disiplinler arası yaklaşım",
+              "Eğitimde otoriter yapıyı savunma"
+            ],
+            "dogruCevap": "Eğitimde otoriter yapıyı savunma",
+            "aciklama": "İlerlemecilik, öğrenci merkezli, deneyimsel ve demokratik bir eğitim anlayışını savunur. Otoriter yapıyı desteklemez."
+          },
+          {
+            "soru": "Türkiye Cumhuriyeti'nin kuruluş döneminde eğitim alanında yapılan ilk reform aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Tevhid-i Tedrisat Kanunu'nun kabul edilmesi",
+              "Harf Devrimi'nin gerçekleştirilmesi",
+              "Medreselerin kaldırılması",
+              "Yeni okulların açılması",
+              "Öğretmen yetiştirmek için öğretmen okullarının açılması"
+            ],
+            "dogruCevap": "Tevhid-i Tedrisat Kanunu'nun kabul edilmesi",
+            "aciklama": "1924 yılında kabul edilen Tevhid-i Tedrisat Kanunu, eğitimi laikleştirme ve tek bir sistem altında toplama amacını taşır. Bu, Türkiye Cumhuriyeti'nin ilk büyük eğitim reformudur."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Modeli'nin hedeflerinden biri değildir?",
+            "secenekler": [
+              "Bilim ve teknolojiyi entegre etmek",
+              "Toplumsal adaleti sağlamak",
+              "Eğitimi yalnızca şehirlerde yaygınlaştırmak",
+              "Bireysel yetenekleri geliştirmek",
+              "Uluslararası iş birliğini artırmak"
+            ],
+            "dogruCevap": "Eğitimi yalnızca şehirlerde yaygınlaştırmak",
+            "aciklama": "Türkiye Yüzyılı Maarif Modeli, eğitimi her kesime ve bölgeye yaygınlaştırmayı hedefler. Eğitimi yalnızca şehirlerde yaygınlaştırma bu modelin amacı değildir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Türk Milli Eğitim Sistemi'nin temel ilkelerinden biri değildir?",
+            "secenekler": [
+              "Fırsat eşitliği",
+              "Laiklik",
+              "Öğrenci seçme serbestisi",
+              "Planlılık",
+              "Genellik"
+            ],
+            "dogruCevap": "Öğrenci seçme serbestisi",
+            "aciklama": "Türk Milli Eğitim Sistemi'nin temel ilkeleri arasında fırsat eşitliği, laiklik, planlılık ve genellik yer alır. Ancak öğrenci seçme serbestisi bu ilkeler arasında değildir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi yapılandırmacı öğrenme kuramının temel özelliklerinden biridir?",
+            "secenekler": [
+              "Öğrenme doğrudan öğretimle gerçekleşir.",
+              "Öğrenciler bilgiyi aktif olarak yapılandırırlar.",
+              "Pekiştirme öğrenmeyi kalıcı hale getirir.",
+              "Öğrenme bireysel olarak gerçekleşir.",
+              "Öğretmen merkezli bir süreç izlenir."
+            ],
+            "dogruCevap": "Öğrenciler bilgiyi aktif olarak yapılandırırlar.",
+            "aciklama": "Yapılandırmacı öğrenme kuramına göre, öğrenciler bilgiyi pasif olarak almaz, aktif olarak yapılandırırlar ve anlamlandırırlar."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitimde etik ilkeler kapsamında değerlendirilmez?",
+            "secenekler": [
+              "Öğrencilere adil davranmak",
+              "Öğrenci mahremiyetini korumak",
+              "Sınıfta siyasi görüşlerini dayatmak",
+              "Eğitimde tarafsız davranmak",
+              "Öğrencilere saygı göstermek"
+            ],
+            "dogruCevap": "Sınıfta siyasi görüşlerini dayatmak",
+            "aciklama": "Eğitimde etik ilkeler, öğrencilere adil davranmayı, mahremiyeti korumayı ve saygı göstermeyi içerir. Siyasi görüşlerini dayatmak etik dışı bir davranıştır."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitim teknolojilerinin kullanım alanlarından biri değildir?",
+            "secenekler": [
+              "Uzaktan eğitim programları",
+              "Sınıf içi etkileşim araçları",
+              "Öğrenci performansını değerlendiren yazılımlar",
+              "Okul yönetimini kolaylaştıran sistemler",
+              "Öğrencilerin sosyal medya hesaplarını izleme"
+            ],
+            "dogruCevap": "Öğrencilerin sosyal medya hesaplarını izleme",
+            "aciklama": "Eğitim teknolojileri, uzaktan eğitim, sınıf içi araçlar ve değerlendirme yazılımları gibi alanlarda kullanılır. Ancak öğrencilerin sosyal medya hesaplarını izleme bu kapsamda değildir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Montessori eğitim modelinin temel özelliklerinden biridir?",
+            "secenekler": [
+              "Öğrencilere disiplinli bir eğitim sunma",
+              "Çocukların kendi kendine öğrenmesini teşvik etme",
+              "Standart testlerle başarıyı ölçme",
+              "Öğretmen merkezli bir yaklaşım benimseme",
+              "Grup çalışmalarına öncelik verme"
+            ],
+            "dogruCevap": "Çocukların kendi kendine öğrenmesini teşvik etme",
+            "aciklama": "Montessori eğitimi, çocukların kendi kendine öğrenmesini ve keşfetmesini teşvik eder. Öğretmen rehber rolündedir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitimin ekonomik temellerinden biri değildir?",
+            "secenekler": [
+              "Eğitim, insan sermayesini artırır.",
+              "Eğitim, ekonomik büyüme sağlar.",
+              "Eğitim, sosyal adaleti sağlar.",
+              "Eğitim, işgücü niteliğini geliştirir.",
+              "Eğitim, üretkenliği artırır."
+            ],
+            "dogruCevap": "Eğitim, sosyal adaleti sağlar.",
+            "aciklama": "Eğitimin ekonomik temelleri arasında insan sermayesi, işgücü niteliği ve üretkenlik yer alır. Sosyal adalet daha çok toplumsal temellerle ilişkilidir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitimde kullanılan 'proje tabanlı öğrenme' yönteminin avantajlarından biri değildir?",
+            "secenekler": [
+              "Öğrencilerin eleştirel düşünme becerilerini geliştirir.",
+              "Gerçek hayata yakın problemlerle uğraşmayı sağlar.",
+              "Öğrencilerin yaratıcılığını artırır.",
+              "Sadece bireysel çalışma imkanı sunar.",
+              "Öğrencilerin işbirliği yapmasını teşvik eder."
+            ],
+            "dogruCevap": "Sadece bireysel çalışma imkanı sunar.",
+            "aciklama": "Proje tabanlı öğrenme, hem bireysel hem de grup çalışmaları için uygundur. Sadece bireysel çalışma imkanı sunmak bu yöntemin bir özelliği değildir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitimde kullanılan 'tam öğrenme modeli'nin temel unsurlarından biri değildir?",
+            "secenekler": [
+              "Öğrencilere ön koşul bilgileri öğretilir.",
+              "Öğrencilerin öğrenme hızlarına göre ilerleme sağlanır.",
+              "Değerlendirme sürecinde sadece yazılı sınavlar kullanılır.",
+              "Öğrencilere dönüt ve düzeltme imkanı verilir.",
+              "Öğrencilerin motivasyonu artırılır."
+            ],
+            "dogruCevap": "Değerlendirme sürecinde sadece yazılı sınavlar kullanılır.",
+            "aciklama": "Tam öğrenme modelinde değerlendirme sürecinde sadece yazılı sınavlar değil, çoklu değerlendirme yöntemleri kullanılır."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitimde 'demokratik disiplin' anlayışının bir özelliğidir?",
+            "secenekler": [
+              "Öğrencilere ceza odaklı bir disiplin uygulanır.",
+              "Öğrencilerin katılımıyla kurallar belirlenir.",
+              "Öğretmen tek başına karar alır.",
+              "Kurallar esnek değildir.",
+              "Disiplin otoriter bir yapıdadır."
+            ],
+            "dogruCevap": "Öğrencilerin katılımıyla kurallar belirlenir.",
+            "aciklama": "Demokratik disiplin anlayışında, öğrencilerin katılımıyla kurallar belirlenir ve esnek bir yapı izlenir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitimde kullanılan 'diğerlemeli değerlendirme'ne bir örnektir?",
+            "secenekler": [
+              "Öğrencinin kendi performansını değerlendirmesi",
+              "Öğrencilerin birbirlerini değerlendirmesi",
+              "Öğrencinin sınıf ortalamasına göre değerlendirilmesi",
+              "Öğrencinin dönem başı ve sonu arasındaki ilerlemesinin değerlendirilmesi",
+              "Öğrencinin öğretmen tarafından değerlendirilmesi"
+            ],
+            "dogruCevap": "Öğrencinin sınıf ortalamasına göre değerlendirilmesi",
+            "aciklama": "Diğerlemeli değerlendirme, öğrencinin diğer öğrencilerle veya sınıf ortalamasıyla karşılaştırılmasıdır."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitimde kullanılan 'çoklu zeka kuramı'nın temel ilkelerinden biri değildir?",
+            "secenekler": [
+              "Her bireyin farklı zeka türleri vardır.",
+              "Zeka türleri birbirinden bağımsızdır.",
+              "Her bireyin sadece bir zeka türü vardır.",
+              "Eğitimde farklı zeka türlerine hitap edilmelidir.",
+              "Zeka türleri birbirini tamamlayabilir."
+            ],
+            "dogruCevap": "Her bireyin sadece bir zeka türü vardır.",
+            "aciklama": "Çoklu zeka kuramına göre, her birey birden fazla zeka türüne sahip olabilir. Sadece bir zeka türüne sahip olması bu kuramın bir özelliği değildir."
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi eğitimde kullanılan 'işbirlikçi öğrenme' yönteminin avantajlarından biri değildir?",
+            "secenekler": [
+              "Öğrencilerin sosyal becerilerini geliştirir.",
+              "Öğrenciler arasında rekabeti artırır.",
+              "Grup içinde sorumluluk paylaşımı sağlar.",
+              "Öğrencilerin birbirinden öğrenmesini sağlar.",
+              "İşbirliği ruhunu güçlendirir."
+            ],
+            "dogruCevap": "Öğrenciler arasında rekabeti artırır.",
+            "aciklama": "İşbirlikçi öğrenme, rekabet yerine işbirliği ve işbirliği ruhunu güçlendirir"
+          },
+      {
+        "soru": "Aşağıdakilerden hangisi eğitimde kullanılan 'gerçekçilik felsefesi'nin temel özelliklerinden biridir?",
+        "secenekler": [
+          "Eğitimde soyut düşünmeyi vurgular.",
+          "Fen bilimleri ve deneyimlere önem verir.",
+          "Toplumsal adaleti ön planda tutar.",
+          "Bireysel özgürlüğü savunur.",
+          "Dünyayı olduğu gibi değil, olması gerektiği gibi görür."
+        ],
+        "dogruCevap": "Fen bilimleri ve deneyimlere önem verir.",
+        "aciklama": "Gerçekçilik felsefesi, eğitimin fen bilimleri ve somut deneyimlere dayandırılması gerektiğini savunur. Dünyayı olduğu gibi görmeyi tercih eder."
+      },
+      {
+        "soru": "Aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Modeli'nin hedeflerinden biri değildir?",
+        "secenekler": [
+          "Dijital dönüşümü hızlandırmak",
+          "Eğitimde fırsat eşitliğini sağlamak",
+          "Yeni teknolojileri eğitimde kullanmak",
+          "Sadece kentsel bölgelerde eğitim yaygınlaştırmak",
+          "Uluslararası iş birliğini artırmak"
+        ],
+        "dogruCevap": "Sadece kentsel bölgelerde eğitim yaygınlaştırmak",
+        "aciklama": "Türkiye Yüzyılı Maarif Modeli, eğitimi her kesime ve bölgeye yaygınlaştırmayı hedefler. Eğitimi yalnızca şehirlerde yaygınlaştırma bu modelin amacı değildir."
+      },
+      {
+        "soru": "Aşağıdakilerden hangisi eğitimde kullanılan 'bloom taksonomisi'nde üst düzey düşünme becerilerinden biri değildir?",
+        "secenekler": [
+          "Analiz",
+          "Sentez",
+          "Değerlendirme",
+          "Hatırlama",
+          "Yaratma"
+        ],
+        "dogruCevap": "Hatırlama",
+        "aciklama": "Bloom Taksonomisi'nde hatırlama, alt düzey düşünme becerilerindendir. Analiz, sentez, değerlendirme ve yaratma ise üst düzey düşünme becerileridir."
+      },
+      {
+        "soru": "Aşağıdakilerden hangisi eğitimde kullanılan 'öğretmen merkezli öğretim' yönteminin dezavantajlarından biridir?",
+        "secenekler": [
+          "Öğrencilerin aktif katılımı sağlanır.",
+          "Öğrencilerin eleştirel düşünme becerileri gelişir.",
+          "Öğrenciler pasif dinleyici konumuna düşebilir.",
+          "Öğrenciler arasında işbirliği artar.",
+          "Öğrencilerin yaratıcılığı desteklenir."
+        ],
+        "dogruCevap": "Öğrenciler pasif dinleyici konumuna düşebilir.",
+        "aciklama": "Öğretmen merkezli öğretimde öğrenciler genellikle pasif dinleyici konumuna düşebilir ve katılım azalabilir."
+      },
+      {
+        "soru": "Aşağıdakilerden hangisi eğitimde kullanılan 'eğitsel oyunlaştırma' (gamification) yönteminin avantajlarından biri değildir?",
+        "secenekler": [
+          "Öğrencilerin motivasyonunu artırır.",
+          "Öğrenmeyi daha eğlenceli hale getirir.",
+          "Rekabeti tamamen ortadan kaldırır.",
+          "Öğrencilerin ilgisini çeker.",
+          "Öğrenme sürecini somutlaştırır."
+        ],
+        "dogruCevap": "Rekabeti tamamen ortadan kaldırır.",
+        "aciklama": "Eğitsel oyunlaştırma, motivasyonu artırır ve öğrenmeyi eğlenceli hale getirir ancak rekabeti tamamen ortadan kaldırmaz. Rekabeti kontrol altında tutabilir."
+      },
+      {
+        "soru": "Aşağıdakilerden hangisi eğitimde kullanılan 'diyalog tabanlı öğretim' yönteminin temel özelliklerinden biridir?",
+        "secenekler": [
+          "Öğretmen tek başına konuşur.",
+          "Öğrenciler arasında etkileşim sağlanır.",
+          "Sınıf içi tartışma kısıtlanır.",
+          "Öğrenciler pasif dinleyici konumundadır.",
+          "Değerlendirme yazılı sınavlarla yapılır."
+        ],
+        "dogruCevap": "Öğrenciler arasında etkileşim sağlanır.",
+        "aciklama": "Diyalog tabanlı öğretimde öğrenciler arasında etkileşim sağlanır ve tartışma yöntemleri kullanılır. Öğretmen rehber rolündedir."
+      },
+      {
+        "soru": "Aşağıdakilerden hangisi eğitimde kullanılan 'yansıtıcı düşünme' yönteminin temel amaçlarından biri değildir?",
+        "secenekler": [
+          "Öğrencilerin deneyimlerini değerlendirmelerini sağlamak",
+          "Öğrencilerin eleştirel düşünme becerilerini geliştirmek",
+          "Öğrencilerin sadece ezber yapmasını teşvik etmek",
+          "Öğrencilerin kendilerini anlamalarını sağlamak",
+          "Öğrencilerin öğrenme süreçlerini analiz etmelerini sağlamak"
+        ],
+        "dogruCevap": "Öğrencilerin sadece ezber yapmasını teşvik etmek",
+        "aciklama": "Yansıtıcı düşünme, öğrencilerin deneyimlerini değerlendirmelerini ve eleştirel düşünme becerilerini geliştirmelerini amaçlar. Ezber yapmayı teşvik etmez."
+      },
+      {
+        "soru": "Aşağıdakilerden hangisi eğitimde kullanılan 'probleme dayalı öğrenme' yönteminin avantajlarından biri değildir?",
+        "secenekler": [
+          "Öğrencilerin gerçek hayat problemleriyle uğraşmasını sağlar.",
+          "Öğrencilerin eleştirel düşünme becerilerini geliştirir.",
+          "Öğrencilerin bağımsız çalışma becerilerini geliştirir.",
+          "Sadece öğretmenin problemi belirlemesini sağlar.",
+          "Öğrencilerin işbirliği yapmasını teşvik eder."
+        ],
+        "dogruCevap": "Sadece öğretmenin problemi belirlemesini sağlar.",
+        "aciklama": "Probleme dayalı öğrenmede problemler genellikle öğrencilerle birlikte belirlenir. Sadece öğretmenin problemi belirlemesi bu yöntemin bir özelliği değildir."
+      },
+       
+        {
+          "soru": "1739 Sayılı Milli Eğitim Temel Kanunu'na göre, aşağıdakilerden hangisi eğitimin genel amaçlarından biri değildir?",
+          "secenekler": [
+            "Türk milletinin milli, ahlaki ve kültürel değerlerini korumak",
+            "Bireyleri sadece mesleki alanda yetiştirmek",
+            "Bireyleri demokratik vatandaş olarak yetiştirmek",
+            "Bilimsel düşünceyi geliştirmek",
+            "Fırsat eşitliğini sağlamak"
+          ],
+          "dogruCevap": "Bireyleri sadece mesleki alanda yetiştirmek",
+          "aciklama": "Milli Eğitim Temel Kanunu'na göre eğitim, bireyleri sadece mesleki alanda yetiştirmek yerine, genel kültür, ahlak, demokrasi ve bilimsel düşünce gibi alanlarda da geliştirmeyi hedefler."
+        },
+        {
+          "soru": "222 Sayılı İlköğretim ve Eğitim Kanunu'na göre, aşağıdakilerden hangisi ilköğretim çağında olan çocukların okula gitmeme durumunda uygulanacak yaptırımlardan biridir?",
+          "secenekler": [
+            "Anne-babanın para cezasına çarptırılması",
+            "Çocuğun devlete emanet edilmesi",
+            "Okul müdürüne disiplin cezası verilmesi",
+            "Öğretmenin görevden alınması",
+            "Mahkemeye sevk edilmesi"
+          ],
+          "dogruCevap": "Anne-babanın para cezasına çarptırılması",
+          "aciklama": "222 Sayılı İlköğretim ve Eğitim Kanunu'na göre, ilköğretim çağındaki çocukların okula gitmemesi halinde anne-babalarına para cezası uygulanabilir."
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, aşağıdakilerden hangisi 'eğitim ve öğretim' ile ilgili düzenlemelerden biri değildir?",
+          "secenekler": [
+            "Herkes öğrenim hakkı ve ödevindedir.",
+            "Eğitim ve öğretim serbesttir.",
+            "Eğitim ve öğretim laik olmalıdır.",
+            "Üniversite mezunlarına özel statü tanınır.",
+            "Devlet, özel öğretim kurumlarını denetler."
+          ],
+          "dogruCevap": "Üniversite mezunlarına özel statü tanınır.",
+          "aciklama": "Türkiye Cumhuriyeti Anayasası'nda üniversite mezunlarına özel statü tanınması gibi bir düzenleme bulunmamaktadır. Diğer seçenekler doğrudur."
+        },
+        {
+          "soru": "7528 Sayılı Öğretmenlik Mesleği Kanunu'na göre, öğretmenlerin 'disiplin cezaları' ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+          "secenekler": [
+            "Disiplin cezaları yalnızca idari makamlar tarafından verilir.",
+            "Uyarma ve kınama en hafif cezalardandır.",
+            "Kovuşturma sonucunda öğretmenin kadrosundan çıkarılması mümkündür.",
+            "Disiplin cezası almak için suçun işlenmesi yeterlidir.",
+            "Disiplin cezalarına karşı itiraz hakkı vardır."
+          ],
+          "dogruCevap": "Disiplin cezası almak için suçun işlenmesi yeterlidir.",
+          "aciklama": "7528 Sayılı Öğretmenlik Mesleği Kanunu'na göre, disiplin cezasının verilmesi için suçun işlenmesi yanı sıra kanuna aykırı bir davranışın olması gerekir. Sadece suçun işlenmesi yeterli değildir."
+        },
+        {
+          "soru": "1739 Sayılı Milli Eğitim Temel Kanunu'na göre, aşağıdakilerden hangisi 'eğitim sistemini' oluşturan öğelerden biri değildir?",
+          "secenekler": [
+            "Okul öncesi eğitim",
+            "Ortaöğretim",
+            "Yükseköğretim",
+            "Mesleki eğitim",
+            "Sadece askeri eğitim"
+          ],
+          "dogruCevap": "Sadece askeri eğitim",
+          "aciklama": "Milli Eğitim Temel Kanunu'na göre, eğitim sistemi okul öncesi, ortaöğretim, yükseköğretim ve mesleki eğitim gibi öğelerden oluşur. Ancak sadece askeri eğitim bu kapsamda değerlendirilmez."
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, 'eğitim ve öğretim' alanında yapılan düzenlemelerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+          "secenekler": [
+            "Eğitim ve öğretim tamamen ücretsizdir.",
+            "Devlet, özel okulları kapatma yetkisine sahiptir.",
+            "Eğitim ve öğretim dini inançlarla bağlantılıdır.",
+            "Devlet, özel öğretim kurumlarının programlarını onaylar.",
+            "Eğitim ve öğretim dilinin değiştirilmesi mümkündür."
+          ],
+          "dogruCevap": "Devlet, özel öğretim kurumlarının programlarını onaylar.",
+          "aciklama": "Türkiye Cumhuriyeti Anayasası'na göre, özel öğretim kurumlarının programları devlet tarafından onaylanır ve denetlenir."
+        },
+        {
+          "soru": "222 Sayılı İlköğretim ve Eğitim Kanunu'na göre, aşağıdakilerden hangisi 'ilköğretim çağı' olarak kabul edilen yaş aralığıdır?",
+          "secenekler": [
+            "6-12 yaş",
+            "7-13 yaş",
+            "8-14 yaş",
+            "9-15 yaş",
+            "10-16 yaş"
+          ],
+          "dogruCevap": "7-13 yaş",
+          "aciklama": "222 Sayılı İlköğretim ve Eğitim Kanunu'na göre, ilköğretim çağı 7-13 yaş aralığındadır."
+        },
+        {
+          "soru": "7528 Sayılı Öğretmenlik Mesleği Kanunu'na göre, öğretmenlerin 'hizmet içi eğitim' ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+          "secenekler": [
+            "Hizmet içi eğitim öğretmenlerin yükümlülüğüdür.",
+            "Hizmet içi eğitim katılım şarttır.",
+            "Hizmet içi eğitim ücretlidir.",
+            "Hizmet içi eğitim öğretmenlerin gelişimini sağlar.",
+            "Hizmet içi eğitim sertifikasyon gerektirir."
+          ],
+          "dogruCevap": "Hizmet içi eğitim ücretlidir.",
+          "aciklama": "7528 Sayılı Öğretmenlik Mesleği Kanunu'na göre, hizmet içi eğitim öğretmenlerin yükümlülüğüdür ve genellikle ücretsiz olarak düzenlenir. Ücretli olması yanlıştır."
+        }
+       
+      
+    
+
+          
+        
+      ]
+    },
     "Eğitim Temelleri": {
       "2017 Kpss Eğitim Bilimleri Çıkmış Sorular": [
         {
