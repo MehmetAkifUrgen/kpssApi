@@ -39,18 +39,6 @@
             "aciklama": "'Ancak' bağlacı burada cümlenin anlamı ile uyumsuzdur. 'Sadece' kelimesi daha uygun olacaktır."
           },
           {
-            "soru": "Aşağıdaki parçada numaralanmış cümlelerin hangisinde 'öznel' bir yargı vardır?\n\nI. Türkiye'nin en güzel şehirlerinden biri İstanbul'dur.\nII. İstanbul, tarihi ve kültürel zenginlikleriyle dikkat çeker.\nIII. Haliç'in manzarası birçok sanatçının ilgisini çekmiştir.\nIV. İstanbul'da yaşayan insanlar genellikle sıcakkanlıdır.",
-            "secenekler": [
-              "I",
-              "II",
-              "III",
-              "IV",
-              "Hepsi"
-            ],
-            "dogruCevap": "I",
-            "aciklama": "I. cümlede 'Türkiye'nin en güzel şehirlerinden biri' ifadesi kişisel bir görüş olduğu için öznel bir yargıdır. Diğer cümlelerde nesnel bilgiler verilmiştir."
-          },
-          {
             "soru": "Aşağıdaki cümlelerin hangisinde 'karşılaştırma' söz konusudur?",
             "secenekler": [
               "Bu yılki festival geçen yılkine göre daha kaliteliydi.",
@@ -203,31 +191,31 @@
             "13",
             "14"
           ],
-          "dogruCevap": "13",
+          "dogruCevap": "10",
           "aciklama": "ABC = 100A + 10B + C, CBA = 100C + 10B + A. Toplam: 101A + 20B + 101C = 1332 ⇒ 101(A + C) + 20B = 1332. A + C = 13 olmalıdır."
         },
         {
           "soru": "Beş basamaklı 7a5b2 sayısı 12 ile tam bölünebildiğine göre, a + b toplamının alabileceği en küçük değer kaçtır?",
           "secenekler": [
-            "2",
+            "1",
             "3",
             "4",
             "5",
             "6"
           ],
-          "dogruCevap": "3",
+          "dogruCevap": "1",
           "aciklama": "12 ile bölünebilme kuralı: 3 ve 4 ile bölünebilirlik. 4 ile bölünebilme için son iki basamak (b2) 4'ün katı olmalı ⇒ b = 0, 4, 8. 3 ile bölünebilme için rakamlar toplamı 3'ün katı olmalı: 7 + a + 5 + b + 2 = 14 + a + b. En küçük değer için a + b = 3 olmalıdır."
         },
         {
           "soru": "x² - 6x + 8 < 0 eşitsizliğini sağlayan x tam sayı değerleri toplamı kaçtır?",
           "secenekler": [
+            "3",
+            "4",
             "5",
             "6",
-            "7",
-            "8",
-            "9"
+            "7"
           ],
-          "dogruCevap": "5",
+          "dogruCevap": "3",
           "aciklama": "x² - 6x + 8 = (x - 2)(x - 4). Çarpanlar analizi: (x - 2)(x - 4) < 0 ⇒ 2 < x < 4. Tam sayılar: x = 3. Toplam: 3."
         },
         {
@@ -255,40 +243,16 @@
           "aciklama": "2ˣ⁺¹ = 2·2ˣ olduğu için: 2·2ˣ + 2ˣ = 96 ⇒ 3·2ˣ = 96 ⇒ 2ˣ = 32 ⇒ x = 5."
         },
         {
-          "soru": "√(x + √x) = 4 eşitliğini sağlayan x değeri kaçtır?",
-          "secenekler": [
-            "12",
-            "14",
-            "16",
-            "18",
-            "20"
-          ],
-          "dogruCevap": "12",
-          "aciklama": "Karekökten kurtulmak için her iki tarafın karesini alalım: (√(x + √x))² = 4² ⇒ x + √x = 16. √x = y olsun ⇒ x = y². Denklem: y² + y = 16 ⇒ y² + y - 16 = 0. Çözüm: y = 4 ⇒ x = 16."
-        },
-        {
           "soru": "f(x) = 3x² - 2x + 1 fonksiyonu için f(2) - f(-1) farkı kaçtır?",
           "secenekler": [
-            "10",
-            "12",
-            "14",
-            "16",
-            "18"
-          ],
-          "dogruCevap": "14",
-          "aciklama": "f(2) = 3(2)² - 2(2) + 1 = 12 - 4 + 1 = 9. f(-1) = 3(-1)² - 2(-1) + 1 = 3 + 2 + 1 = 6. Fark: f(2) - f(-1) = 9 - 6 = 14."
-        },
-        {
-          "soru": "log₂(x - 1) + log₂(x + 1) = 3 eşitliğini sağlayan x değeri kaçtır?",
-          "secenekler": [
+            "1",
+            "2",
             "3",
             "4",
-            "5",
-            "6",
-            "7"
+            "5"
           ],
-          "dogruCevap": "5",
-          "aciklama": "Logaritma toplama kuralı: log₂((x - 1)(x + 1)) = 3 ⇒ log₂(x² - 1) = 3 ⇒ x² - 1 = 2³ ⇒ x² - 1 = 8 ⇒ x² = 9 ⇒ x = 3 veya x = -3. x > 1 olduğu için x = 5."
+          "dogruCevap": "3",
+          "aciklama": "f(2) = 3(2)² - 2(2) + 1 = 12 - 4 + 1 = 9. f(-1) = 3(-1)² - 2(-1) + 1 = 3 + 2 + 1 = 6. Fark: f(2) - f(-1) = 9 - 6 = 14."
         },
         {
           "soru": "Bir torbada 3 kırmızı, 4 mavi ve 5 yeşil top vardır. Rastgele çekilen iki topun aynı renkte olma olasılığı kaçtır?",
@@ -427,7 +391,6 @@
             "secenekler": [
               "Batı tarzında modernleşme çabaları içermesi",
               "Yeniçeri Ocağı'nın kaldırılması",
-              "Nizam-ı Cedid Ordusu'nun kurulması",
               "Meclis-i Vükela'nın oluşturulması",
               "Cumhuriyet rejiminin ilan edilmesi"
             ],
@@ -943,12 +906,12 @@
           "soru": "222 Sayılı İlköğretim ve Eğitim Kanunu'na göre, aşağıdakilerden hangisi 'ilköğretim çağı' olarak kabul edilen yaş aralığıdır?",
           "secenekler": [
             "6-12 yaş",
-            "7-13 yaş",
+            "6-14 yaş",
             "8-14 yaş",
             "9-15 yaş",
             "10-16 yaş"
           ],
-          "dogruCevap": "7-13 yaş",
+          "dogruCevap": "6-14 yaş",
           "aciklama": "222 Sayılı İlköğretim ve Eğitim Kanunu'na göre, ilköğretim çağı 7-13 yaş aralığındadır."
         },
         {
@@ -6833,27 +6796,15 @@
       "aciklama": "Orijinal ifadede: 3 × (2 + 10 ÷ 2) – 5 = 3 × (2 + 5) – 5 = 3 × 7 – 5 = 21 – 5 = 16, yani A = 16. Ekstra parantez ekleyerek yapılabilecek gruplamalardan biri; 3 × ((2 + 10 ÷ 2) – 5). Bu durumda 2 + 10 ÷ 2 = 2 + 5 = 7, 7 – 5 = 2 ve sonuç 3 × 2 = 6 (B = 6). Böylece A – B = 16 – 6 = 10. (Ekstra parantezle elde edilebilecek daha düşük bir sonuç bulunamamıştır.)"
     },
     {
-      "soru": "a ve b birer reel sayı olmak üzere, aşağıdaki denklemdeki ifade verilmektedir:\n\n           a\n         ————  – \n          b   3\n         -------\n          2   0\n          +  – \n\nYukarıdaki ifadenin (format hatası bulunan) yorumlanmış hali göz önüne alındığında, denkleme göre a için aşağıdakilerden hangisi **alınamaz**?\n(A seçenekleri: –3, –2, –1, 0, 3)",
-      "secenekler": [
-        "–3",
-        "–2",
-        "–1",
-        "0",
-        "3"
-      ],
-      "dogruCevap": "0",
-      "aciklama": "Denklemin ifadesinde payda veya bölen kısımda a’nın sıfır olması durumunda tanımsızlık ortaya çıkacağı yorumlanmıştır. Bu nedenle a = 0, denklemin sağlıklı tanımlanabilmesi için alınamaz."
-    },
-    {
       "soru": "İki basamaklı bir çift sayı ile iki basamaklı bir tek sayının farkının mutlak değeri en çok kaçtır?",
       "secenekler": [
         "197",
         "109",
-        "87",
+        "89",
         "76",
         "63"
       ],
-      "dogruCevap": "87",
+      "dogruCevap": "89",
       "aciklama": "İki basamaklı çift sayılar 10–98, iki basamaklı tek sayılar 11–99 arası değer alır. Farkı maksimize etmek için; büyük olan tarafta en büyük (örneğin 98) ile küçük tarafta en küçük (örneğin 11) seçilebilir. 98 – 11 = 87 elde edilir. (Not: 10 ve 99 seçilseydi fark 89 olacaktı; ancak 10 çift, 99 tek olduğunda 10 ile 99 arası fark 89 veriyor olsa da seçenekler arasında 89 bulunmamaktadır. Bu nedenle soruda muhtemelen 98 ve 11 seçimi kastanılmıştır.)"
     },
     {
@@ -10157,16 +10108,6 @@
             "Harem Sistemi"
           ],
           "dogruCevap": "Şimşirlik"
-        },
-        {
-          "soru": "Sadrazamın, padişah adına seferlere katılmadığı durumlarda hangi unvanı taşıdığı doğru olur?",
-          "secenekler": [
-            "Serdar-ı Ekrem",
-            "Sadaret Kethüdası",
-            "Divan-ı Hümayun Başkanı",
-            "Yeniçeri Ağası"
-          ],
-          "dogruCevap": "Serdar-ı Ekrem"
         },
         {
           "soru": "Divan-ı Hümayun’a ilk başkanlık yapan kişi kimdir?",
@@ -15262,7 +15203,7 @@
             "Kütahya-Eskişehir Savaşı",
             "Büyük Taarruz"
           ],
-          "dogruCevap": "Gediz Taarruzu",
+          "dogruCevap": "Kütahya-Eskişehir Savaşı",
           "aciklama": ""
         },
         {
@@ -16456,16 +16397,6 @@
             "I, II ve III"
           ],
           "dogruCevap": "Yalnız I"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Türkiye'nin bitki örtüsünün genel özelliklerinden biri değildir?",
-          "secenekler": [
-            "Çeşitliliğin fazla olması",
-            "Endemik türlerin bulunması",
-            "Orman varlığının yeterli olması",
-            "İklime göre dağılış göstermesi"
-          ],
-          "dogruCevap": "Orman varlığının yeterli olması"
         },
         {
           "soru": "Türkiye'de;\nI. Yükselti\nII. Bakı\nIII. Toprak türü\nFaktörlerinden hangileri bitki örtüsünün dikey dağılışını etkiler?",
