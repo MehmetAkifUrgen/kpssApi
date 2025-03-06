@@ -1081,186 +1081,82 @@
           ],
           "dogruCevap": "Canan"
         },
-        {
-          "soru": "a, b, c pozitif tam sayılar olmak üzere; a + b + c = 15 ve 2a + 3b + 4c = 45 olduğuna göre, c'nin alabileceği en büyük değer kaçtır?",
-          "secenekler": [
-            "5",
-            "6",
-            "7",
-            "8",
-            "9"
-          ],
-          "dogruCevap": "6",
-          "konu": "Temel Kavramlar"
-        },
-        {
-          "soru": "Rakamları birbirinden farklı üç basamaklı 4AB sayısı, 5 ile bölündüğünde 3 kalanını veriyor. Buna göre, A + B toplamının alabileceği en büyük değer kaçtır?",
-          "secenekler": [
-            "12",
-            "13",
-            "14",
-            "15",
-            "16"
-          ],
-          "dogruCevap": "14",
-          "konu": "Sayı Basamakları"
-        },
-        {
-          "soru": "Beş basamaklı 23A4B sayısının 36 ile tam bölünebilmesi için A + B'nin alabileceği en küçük değer kaçtır?",
-          "secenekler": [
-            "2",
-            "3",
-            "4",
-            "5",
-            "6"
-          ],
-          "dogruCevap": "2",
-          "konu": "Bölme-Bölünebilme"
-        },
-        {
-          "soru": "5400 sayısının asal çarpanlarına ayrılmış hali aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "2³·3³·5²",
-            "2³·3³·5¹",
-            "2⁴·3³·5²",
-            "2²·3³·5²",
-            "2³·3²·5²"
-          ],
-          "dogruCevap": "2³·3³·5²",
-          "konu": "Asal Çarpanlara Ayırma"
-        },
-        {
-          "soru": "1/(x+1) + 2/(x-1) = 3/2 denklemini sağlayan x değeri kaçtır?",
-          "secenekler": [
-            "3",
-            "4",
-            "5",
-            "6",
-            "7"
-          ],
-          "dogruCevap": "5",
-          "konu": "Rasyonel Sayılar"
-        },
-        {
-          "soru": "-5 < 2x + 3 ≤ 7 eşitsizliğini sağlayan x tam sayılarının toplamı kaçtır?",
-          "secenekler": [
-            "15",
-            "12",
-            "9",
-            "6",
-            "3"
-          ],
-          "dogruCevap": "15",
-          "konu": "Basit Eşitsizlikler"
-        },
-        {
-          "soru": "|x - 4| = |2x + 1| denklemini sağlayan x değerlerinin çarpımı kaçtır?",
-          "secenekler": [
-            "-15",
-            "-10",
-            "-5",
-            "5",
-            "10"
-          ],
-          "dogruCevap": "-15",
-          "konu": "Mutlak Değer"
-        },
-        {
-          "soru": "(2¹⁵ + 2¹⁶ + 2¹⁷)/14 işleminin sonucu kaçtır?",
-          "secenekler": [
-            "2¹³",
-            "2¹⁴",
-            "2¹⁵",
-            "2¹⁶",
-            "2¹⁷"
-          ],
-          "dogruCevap": "2¹⁴",
-          "konu": "Üslü Sayılar"
-        },
-        {
-          "soru": "√(0,25) + ∛(0,027) - ∜(0,0016) işleminin sonucu kaçtır?",
-          "secenekler": [
-            "0,5",
-            "0,6",
-            "0,7",
-            "0,8",
-            "0,9"
-          ],
-          "dogruCevap": "0,7",
-          "konu": "Köklü Sayılar"
-        },
-        {
-          "soru": "x² - 5x + 1 = 0 olduğuna göre, x³ + 1/x³ ifadesinin değeri kaçtır?",
-          "secenekler": [
-            "110",
-            "115",
-            "120",
-            "125",
-            "130"
-          ],
-          "dogruCevap": "110",
-          "konu": "Çarpanlara Ayırma"
-        },
-        {
-          "soru": "3x - 4y = 12 ve 2x + 5y = 10 denklem sistemini sağlayan y değeri kaçtır?",
-          "secenekler": [
-            "-2",
-            "-1",
-            "0",
-            "1",
-            "2"
-          ],
-          "dogruCevap": "0",
-          "konu": "Denklem Çözme"
-        },
-        {
-          "soru": "f: R → R, f(x) = 3x - 2 ve g(x) = x² + 1 fonksiyonları veriliyor. Buna göre, (fog)(2) kaçtır?",
-          "secenekler": [
-            "13",
-            "15",
-            "17",
-            "19",
-            "21"
-          ],
-          "dogruCevap": "13",
-          "konu": "Fonksiyonlar"
-        },
-        {
-          "soru": "Bir miktar para 3:5:7 oranında üç kişiye paylaştırılıyor. En az para alan kişi 1200 TL aldığına göre, toplam para kaç TL'dir?",
-          "secenekler": [
-            "6000",
-            "7200",
-            "8400",
-            "9000",
-            "9600"
-          ],
-          "dogruCevap": "6000",
-          "konu": "Oran-Orantı"
-        },
-        {
-          "soru": "Bir araç gideceği yolun 1/3'ünü 60 km/s, kalanını 80 km/s hızla gidiyor. Toplam süre 5 saat olduğuna göre, yolun tamamı kaç km'dir?",
-          "secenekler": [
-            "240",
-            "280",
-            "300",
-            "320",
-            "360"
-          ],
-          "dogruCevap": "320",
-          "konu": "Problemler"
-        },
-        {
-          "soru": "Bir torbada 4 siyah, 5 beyaz ve 6 kırmızı top vardır. Torbadan rastgele çekilen iki topun farklı renkte olma olasılığı kaçtır?",
-          "secenekler": [
-            "74/105",
-            "76/105",
-            "78/105",
-            "80/105",
-            "82/105"
-          ],
-          "dogruCevap": "74/105",
-          "konu": "Permütasyon-Kombinasyon-Olasılık"
-        },
+          {
+            "soru": "a, b ve c pozitif tam sayılar olmak üzere, a/b = 2/3 ve b/c = 4/5 olduğuna göre, a/c oranı kaçtır?",
+            "secenekler": ["8/15", "2/5", "3/4", "6/5", "1/2"],
+            "dogruCevap": "8/15"
+          },
+          {
+            "soru": "Bir depodaki suyun %40'ı kullanıldıktan sonra, depoya 30 litre su ekleniyor. Son durumda depodaki su miktarı başlangıçtaki su miktarının %90'ı olduğuna göre, başlangıçta depoda kaç litre su vardır?",
+            "secenekler": ["50", "60", "70", "80", "90"],
+            "dogruCevap": "50"
+          },
+          {
+            "soru": "Bir işi Ali tek başına 15 günde, Veli ise tek başına 20 günde bitirebilmektedir. İkisi birlikte 3 gün çalıştıktan sonra Veli işi bırakıyor. Kalan işi Ali kaç günde bitirir?",
+            "secenekler": ["5", "6", "7", "8", "9"],
+            "dogruCevap": "8"
+          },
+          {
+            "soru": "√(25 + 144) - √(169 - 144) işleminin sonucu kaçtır?",
+            "secenekler": ["8", "9", "10", "11", "12"],
+            "dogruCevap": "8"
+          },
+          {
+            "soru": "|3x - 7| = 5 denklemini sağlayan x değerlerinin toplamı kaçtır?",
+            "secenekler": ["2", "3", "4", "5", "6"],
+            "dogruCevap": "4"
+          },
+          {
+            "soru": "Aşağıdaki grafikte bir şirketin 2019-2023 yılları arasındaki kâr miktarları gösterilmiştir. En az kâr hangi yılda elde edilmiştir? (Grafik: 2019: 12, 2020: 10, 2021: 8, 2022: 6, 2023: 4)",
+            "secenekler": ["2019", "2020", "2021", "2022", "2023"],
+            "dogruCevap": "2019"
+          },
+          {
+            "soru": "2021 yılındaki kâr, 2023 yılındaki kârın yüzde kaçıdır? (Grafik: 2019: 12, 2020: 10, 2021: 8, 2022: 6, 2023: 4)",
+            "secenekler": ["50", "60", "70", "80", "90"],
+            "dogruCevap": "50"
+          },
+          {
+            "soru": "Aşağıdaki tabloda bir okuldaki öğrencilerin cinsiyet ve sınıf dağılımı verilmiştir. Okuldaki toplam erkek öğrenci sayısı kaçtır? (Tablo: 9. sınıf: 35K/65E, 10. sınıf: 45K/55E, 11. sınıf: 55K/45E, 12. sınıf: 25K/75E)",
+            "secenekler": ["220", "230", "240", "250", "260"],
+            "dogruCevap": "240"
+          },
+          {
+            "soru": "9. sınıftaki kız öğrenci sayısı, okuldaki toplam öğrenci sayısının yüzde kaçıdır? (Tablo: 9. sınıf: 35K/65E, 10. sınıf: 45K/55E, 11. sınıf: 55K/45E, 12. sınıf: 25K/75E)",
+            "secenekler": ["10", "11", "12", "13", "14"],
+            "dogruCevap": "11"
+          },
+          {
+            "soru": "Bir kutuda 6 mavi, 5 kırmızı ve 4 sarı top vardır. Kutudan rastgele çekilen iki topun farklı renkte olma olasılığı kaçtır?",
+            "secenekler": ["11/15", "12/15", "13/15", "14/15", "1"],
+            "dogruCevap": "11/15"
+          },
+          {
+            "soru": "Bir yarışta Ayşe, Burcu'dan önce; Cem, Deniz'den sonra; Burcu, Cem'den önce bitirmiştir. Buna göre yarışı kim üçüncü bitirmiştir?",
+            "secenekler": ["Ayşe", "Burcu", "Cem", "Deniz", "Bilinmez"],
+            "dogruCevap": "Cem"
+          },
+          {
+            "soru": "Bir sınıftaki öğrencilerin %70'i matematikten, %80'i fizikten geçmiştir. Her iki dersten de geçenlerin sayısı 20 olduğuna göre, sadece bir dersten geçenlerin sayısı kaçtır?",
+            "secenekler": ["20", "25", "30", "35", "40"],
+            "dogruCevap": "30"
+          },
+          {
+            "soru": "Bir çiftlikte kaz ve koyunlar bulunmaktadır. Toplam hayvan sayısı 45, ayak sayısı 130 olduğuna göre, çiftlikte kaç kaz vardır?",
+            "secenekler": ["25", "30", "35", "40", "45"],
+            "dogruCevap": "35"
+          },
+          {
+            "soru": "Bir toplantıda herkes birbiriyle tokalaşmıştır. Toplam 36 tokalaşma olduğuna göre, toplantıda kaç kişi vardır?",
+            "secenekler": ["6", "7", "8", "9", "10"],
+            "dogruCevap": "9"
+          },
+          {
+            "soru": "Bir satıcı bir malı %25 kârla satmaktadır. Satış fiyatı üzerinden %20 indirim yaptığında, satıcının kârı yüzde kaç olur?",
+            "secenekler": ["0", "5", "10", "15", "20"],
+            "dogruCevap": "0"
+          }
+        ,
         {
           "soru": "Aşağıdakilerden hangisi, Köktürk Devleti'nin yıkılmasında etkili olan faktörlerden biri değildir?",
           "secenekler": [
