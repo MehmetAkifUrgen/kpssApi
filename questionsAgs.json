@@ -179,7 +179,7 @@
             "13",
             "14"
           ],
-          "dogruCevap": "13",
+          "dogruCevap": "12",
           "aciklama": "ABC = 100A + 10B + C, CBA = 100C + 10B + A. Toplam: 101A + 20B + 101C = 1332 ⇒ 101(A + C) + 20B = 1332. A + C = 13 olmalıdır."
         },
         {
@@ -1048,29 +1048,6 @@
           "aciklama": "'Ülkemizdeki doğal güzellikler' ifadesi, paragrafın akışını bozmaktadır."
         },
         {
-          "soru": "Aşağıdaki bilgilere göre soruyu cevaplayınız. - Ali, Burak, Can ve Deniz bir yarışmaya katılıyor. - Yarışma sırası şu şekildedir: Ali, Deniz’den önce; Burak, Can’dan sonra; Deniz, Burak’tan önce geliyor. Buna göre, yarışmanın sıralaması nasıl olabilir?",
-          "secenekler": [
-            "Ali - Deniz - Burak - Can",
-            "Can - Burak - Deniz - Ali",
-            "Ali - Can - Burak - Deniz",
-            "Deniz - Ali - Burak - Can",
-            "Can - Deniz - Ali - Burak"
-          ],
-          "dogruCevap": "Ali - Deniz - Burak - Can"
-        },
-        {
-          "soru": "Aşağıdaki bilgilere göre soruyu cevaplayınız. - Bir rafta A, B, C, D ve E kitapları bulunmaktadır. - A kitabı, B kitabının solundadır. - C kitabı, D kitabının sağındadır. - E kitabı, en sağdadır. Buna göre, raftaki kitapların sıralaması nasıl olabilir?",
-          "secenekler": [
-            "A - B - C - D - E",
-            "B - A - D - C - E",
-            "A - C - B - D - E",
-            "D - C - A - B - E",
-            "B - D - C - A - E"
-          ],
-          "dogruCevap": "B - A - D - C - E",
-          "aciklama": "Verilen koşullara göre sıralama 'B - A - D - C - E' olmalıdır."
-        },
-        {
           "soru": "Aşağıdaki bilgilere göre soruyu cevaplayınız. - Bir sınıfta Ayşe, Burcu, Canan, Deniz ve Emre sıralamada farklı puanlar almışlardır. - Ayşe, Burcu’dan düşük puan almıştır. - Canan, Deniz’den yüksek puan almıştır. - Emre, en düşük puana sahiptir. - Burcu, Canan’dan düşük puan almıştır. Buna göre, en yüksek puanı kim almıştır?",
           "secenekler": [
             "Ayşe",
@@ -1105,11 +1082,6 @@
             "soru": "|3x - 7| = 5 denklemini sağlayan x değerlerinin toplamı kaçtır?",
             "secenekler": ["2", "3", "4", "5", "6"],
             "dogruCevap": "4"
-          },
-          {
-            "soru": "Aşağıdaki grafikte bir şirketin 2019-2023 yılları arasındaki kâr miktarları gösterilmiştir. En az kâr hangi yılda elde edilmiştir? (Grafik: 2019: 12, 2020: 10, 2021: 8, 2022: 6, 2023: 4)",
-            "secenekler": ["2019", "2020", "2021", "2022", "2023"],
-            "dogruCevap": "2019"
           },
           {
             "soru": "2021 yılındaki kâr, 2023 yılındaki kârın yüzde kaçıdır? (Grafik: 2019: 12, 2020: 10, 2021: 8, 2022: 6, 2023: 4)",
@@ -2022,17 +1994,6 @@
             "Alıştırma"
           ],
           "dogruCevap": "Alıştırma"
-        },
-        {
-          "soru": "Öğretmenlerin;\nI. Mesleki yönelim envanteri sonuçlarını kullanarak mesleki rehberlik hizmeti sağlamak,\nII. Öğrencilerin bir derste başarılı olup olmadıklarını final sınavıyla belirlemek,\nIII. Öğretimi düzenlemek amacıyla öğrencilerin kavram yanılgılarını ortaya çıkarmak\namacıyla gerçekleştirdikleri değerlendirme durumlarından hangileri değer biçmeyi hedefler?",
-          "secenekler": [
-            "Yalnız I",
-            "Yalnız II",
-            "Yalnız III",
-            "I ve II",
-            "II ve III"
-          ],
-          "dogruCevap": "Yalnız II"
         },
         {
           "soru": "Çoktan seçmeli sorulardan oluşan bir sınavda, doğru cevaplar tüm seçeneklere eşit olacak şekilde rastgele dağıtılmış ve öğrencilere bu durum bildirilmiştir. Öğrencilerin, doğruluğundan emin olmadıkları sorulara cevap verirken emin olarak işaretledikleri seçeneklerden sayıca az olanlarına gittikleri ve tüm sorularda işaretleme yaptıkları görülmüştür. Daha sonra aynı testteki doğru cevaplar, seçeneklere tam olarak eşit olmayacak şekilde dağıtılıp eşdeğer bir gruba bu durum bildirilerek sınav yeniden uygulanmıştır. Bu durumda öğrencilerin soruları boş bırakma davranışlarında artış görülmüştür.\nBuna göre, öğrencilerin soruları boş bırakma davranışındaki artışın nedeni aşağıdakilerden hangisidir?",
@@ -7510,18 +7471,6 @@
     },
     "Matematik": {
       "Temel Matematik": [
-        {
-          "soru": "Sayı doğrusunda 2 ile 3 arası ve 3 ile 4 arası 4 eşit parçaya ayrılıp bu parçalar işaretleniyor. Aşağıdakilerden hangisi bu işaret noktalarına karşılık gelen sayı **değildir**? (Not: İşaret noktaları; 2, 2+1/4, 2+2/4, 2+3/4, 3, 3+1/4, 3+2/4, 3+3/4, 4 olarak elde edilir.)",
-          "secenekler": [
-            "4/9",
-            "2/5",
-            "4/11",
-            "3",
-            "5/14"
-          ],
-          "dogruCevap": "4/9",
-          "aciklama": "İki aralığı (2–3 ve 3–4) 4’e eşit parçaya böldüğümüzde işaret noktaları; 2, 9/4, 5/2, 11/4, 3, 13/4, 7/2, 15/4 ve 4 olur. Verilen seçenekler arasında 3, bu listede vardır; diğer kesirler (ör. 4/9 ≈ 0.444…) 2 ile 4 arasında yer almadığından, soruda ‘işaret noktalarına karşılık gelmeyen’ sayı sorulmaktadır. Bu durumda doğru seçenek, listede yer almayan “4/9” olacaktır."
-        },
         {
           "soru": "a bir irrasyonel sayı olduğuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
           "secenekler": [
