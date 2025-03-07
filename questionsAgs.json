@@ -1075,7 +1075,7 @@
           {
             "soru": "Bir çiftlikte kaz ve koyunlar bulunmaktadır. Toplam hayvan sayısı 45, ayak sayısı 130 olduğuna göre, çiftlikte kaç kaz vardır?",
             "secenekler": ["25", "30", "35", "40", "45"],
-            "dogruCevap": "35"
+            "dogruCevap": "25"
           },
           {
             "soru": "Bir toplantıda herkes birbiriyle tokalaşmıştır. Toplam 36 tokalaşma olduğuna göre, toplantıda kaç kişi vardır?",
@@ -1164,17 +1164,6 @@
             "Duyun-u Umumiye İdaresi'nin kurulması"
           ],
           "dogruCevap": "Duyun-u Umumiye İdaresi'nin kurulması"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi, Atatürk'ün inkılaplarının temel özelliklerinden biri değildir?",
-          "secenekler": [
-            "Akılcılık ve bilimsellik",
-            "Milli egemenlik",
-            "Çağdaşlaşma",
-            "Geleneksel yapıların korunması",
-            "Batı taklitçiliği"
-          ],
-          "dogruCevap": "Geleneksel yapıların korunması"
         },
         {
           "soru": "Aşağıdakilerden hangisi, II. Dünya Savaşı'nın sonuçlarından biri değildir?",
