@@ -51,18 +51,6 @@
           "aciklama": "Paragrafta insanlığın doğayla olan mücadelesinin hem olumlu hem de olumsuz sonuçlarından bahsedilmektedir. Ana fikir bu mücadeleyi açıklamaktadır."
         },
         {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'koşul' anlamı vardır?",
-          "secenekler": [
-            "Yağmur yağarsa dışarı çıkmayacağız.",
-            "Her sabah aynı saatte kalkıyorum.",
-            "Dün gece rüyamda seni gördüm.",
-            "Bu kitabı bitirdikten sonra yeni bir tane alacağım.",
-            "Arkadaşım bana yardım etti."
-          ],
-          "dogruCevap": "Yağmur yağarsa dışarı çıkmayacağız.",
-          "aciklama": "'Yağmur yağarsa' ifadesi koşul anlamını içermektedir. Diğer cümlelerde koşul anlamı yoktur."
-        },
-        {
           "soru": "Aşağıdaki parçada numaralanmış cümlelerden hangisi parçanın akışını bozmaktadır?\n\nI. İnsanlar, sağlıklı bir yaşam sürmek için düzenli spor yapmalıdır.\nII. Spor, yalnızca fiziksel sağlığı değil, aynı zamanda ruhsal sağlığı da destekler.\nIII. Günümüzde birçok kişi teknoloji bağımlılığına düşmüştür.\nIV. Düzenli spor yapan kişilerin stres düzeyleri daha düşüktür.\nV. Bu nedenle herkes spor yapmanın önemini kavramalıdır.",
           "secenekler": [
             "I",
@@ -257,14 +245,13 @@
         {
           "soru": "Bir araç saatte 60 km hızla giderken, yolun 1/3'ünü aldıktan sonra hızını saatte 80 km'ye çıkarıyor. Toplam yol 120 km ise, araç yolculuğu kaç saatte tamamlar?",
           "secenekler": [
-            "1,5",
-            "1,75",
+            "1",
+            "4/3",
+            "5/3",
             "2",
-            "2,25",
-            "2,5"
+            "7/3"
           ],
-          "dogruCevap": "2",
-          "aciklama": "Yolun 1/3'ü: 120/3 = 40 km. İlk kısım süresi: 40/60 = 2/3 saat. Kalan yol: 120 - 40 = 80 km. İkinci kısım süresi: 80/80 = 1 saat. Toplam süre: 2/3 + 1 = 2 saat."
+          "dogruCevap": "5/3"
         },
         {
           "soru": "x² - 4x + 4 = 0 denkleminin çözüm kümesi nedir?",
@@ -301,18 +288,6 @@
           ],
           "dogruCevap": "8",
           "aciklama": "2 elemanı sabit tutulduğunda geriye kalan {1, 3, 4} kümesinin alt kümeleri oluşturulur. Alt küme sayısı: 2³ = 8."
-        },
-        {
-          "soru": "Bir işi A tek başına 12 günde, B tek başına 15 günde bitirebilmektedir. İkisi birlikte çalışırsa işin tamamını kaç günde bitirirler?",
-          "secenekler": [
-            "5",
-            "6",
-            "7",
-            "8",
-            "9"
-          ],
-          "dogruCevap": "6",
-          "aciklama": "A'nın günlük işi: 1/12, B'nin günlük işi: 1/15. Birlikte günlük iş: 1/12 + 1/15 = (5 + 4)/60 = 9/60 = 3/20. Tamamlama süresi: 20/3 ≈ 6 gün."
         },
         {
           "soru": "Aşağıdakilerden hangisi Karahanlılar Dönemi'nde görülen kültürel gelişmelerden biridir?",
@@ -403,8 +378,7 @@
             "Cumhuriyetin ilan edilmesi",
             "TBMM'nin açılması",
             "Halifeliğin kaldırılması",
-            "Saltanatın kaldırılması",
-            "Tek dereceli seçim sisteminin kabulü"
+            "Saltanatın kaldırılması"
           ],
           "dogruCevap": "Halifeliğin kaldırılması",
           "aciklama": "Halifeliğin kaldırılması, dinî kurumların laikleşmesi açısından önemlidir, ancak ulusal egemenlik anlayışıyla doğrudan ilişkili değildir."
@@ -1065,13 +1039,8 @@
           },
           {
             "soru": "Bir depodaki suyun %40'ı kullanıldıktan sonra, depoya 30 litre su ekleniyor. Son durumda depodaki su miktarı başlangıçtaki su miktarının %90'ı olduğuna göre, başlangıçta depoda kaç litre su vardır?",
-            "secenekler": ["50", "60", "70", "80", "90"],
-            "dogruCevap": "50"
-          },
-          {
-            "soru": "Bir işi Ali tek başına 15 günde, Veli ise tek başına 20 günde bitirebilmektedir. İkisi birlikte 3 gün çalıştıktan sonra Veli işi bırakıyor. Kalan işi Ali kaç günde bitirir?",
-            "secenekler": ["5", "6", "7", "8", "9"],
-            "dogruCevap": "8"
+            "secenekler": ["50", "60", "70", "80", "100"],
+            "dogruCevap": "100"
           },
           {
             "soru": "√(25 + 144) - √(169 - 144) işleminin sonucu kaçtır?",
@@ -1094,19 +1063,9 @@
             "dogruCevap": "240"
           },
           {
-            "soru": "9. sınıftaki kız öğrenci sayısı, okuldaki toplam öğrenci sayısının yüzde kaçıdır? (Tablo: 9. sınıf: 35K/65E, 10. sınıf: 45K/55E, 11. sınıf: 55K/45E, 12. sınıf: 25K/75E)",
-            "secenekler": ["10", "11", "12", "13", "14"],
-            "dogruCevap": "11"
-          },
-          {
             "soru": "Bir kutuda 6 mavi, 5 kırmızı ve 4 sarı top vardır. Kutudan rastgele çekilen iki topun farklı renkte olma olasılığı kaçtır?",
             "secenekler": ["11/15", "12/15", "13/15", "14/15", "1"],
             "dogruCevap": "11/15"
-          },
-          {
-            "soru": "Bir yarışta Ayşe, Burcu'dan önce; Cem, Deniz'den sonra; Burcu, Cem'den önce bitirmiştir. Buna göre yarışı kim üçüncü bitirmiştir?",
-            "secenekler": ["Ayşe", "Burcu", "Cem", "Deniz", "Bilinmez"],
-            "dogruCevap": "Cem"
           },
           {
             "soru": "Bir sınıftaki öğrencilerin %70'i matematikten, %80'i fizikten geçmiştir. Her iki dersten de geçenlerin sayısı 20 olduğuna göre, sadece bir dersten geçenlerin sayısı kaçtır?",
