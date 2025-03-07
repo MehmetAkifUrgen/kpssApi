@@ -87,18 +87,6 @@
           "aciklama": "Paragrafta gençlerin okuma alışkanlığının azaldığı ve bunun olumsuz sonuçlarına değinilerek, okuma alışkanlığını teşvik etme amacının olduğu görülmektedir."
         },
         {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'amaç' anlamı vardır?",
-          "secenekler": [
-            "Sağlıklı yaşamak için dengeli beslenmelisiniz.",
-            "Her sabah erken kalkmayı alışkanlık haline getirdim.",
-            "Geç kaldığımız için toplantıya katılamadık.",
-            "Arkadaşım bana yeni bir kitap önerdi.",
-            "Bu filmi izlemek beni çok etkiledi."
-          ],
-          "dogruCevap": "Sağlıklı yaşamak için dengeli beslenmelisiniz.",
-          "aciklama": "'Sağlıklı yaşamak için' ifadesi bir amaç belirtmektedir. Diğer cümlelerde amaç anlamı yoktur."
-        },
-        {
           "soru": "Aşağıdaki parçada boş bırakılan yere hangi cümle getirilmelidir?\n\n'Edebiyat, toplumun aynasıdır. Yazarlar, eserlerinde yaşadıkları dönemin sorunlarını ve değerlerini yansıtırlar. _________. Bu nedenle edebiyat, sadece eğlence aracı değil, aynı zamanda toplumsal bilinçlenme aracıdır.'",
           "secenekler": [
             "Edebiyat, insanların duygularını anlatır.",
@@ -1050,17 +1038,7 @@
           {
             "soru": "|3x - 7| = 5 denklemini sağlayan x değerlerinin toplamı kaçtır?",
             "secenekler": ["2", "3", "4", "5", "6"],
-            "dogruCevap": "4"
-          },
-          {
-            "soru": "2021 yılındaki kâr, 2023 yılındaki kârın yüzde kaçıdır? (Grafik: 2019: 12, 2020: 10, 2021: 8, 2022: 6, 2023: 4)",
-            "secenekler": ["50", "60", "70", "80", "90"],
-            "dogruCevap": "50"
-          },
-          {
-            "soru": "Aşağıdaki tabloda bir okuldaki öğrencilerin cinsiyet ve sınıf dağılımı verilmiştir. Okuldaki toplam erkek öğrenci sayısı kaçtır? (Tablo: 9. sınıf: 35K/65E, 10. sınıf: 45K/55E, 11. sınıf: 55K/45E, 12. sınıf: 25K/75E)",
-            "secenekler": ["220", "230", "240", "250", "260"],
-            "dogruCevap": "240"
+            "dogruCevap": "6"
           },
           {
             "soru": "Bir kutuda 6 mavi, 5 kırmızı ve 4 sarı top vardır. Kutudan rastgele çekilen iki topun farklı renkte olma olasılığı kaçtır?",
