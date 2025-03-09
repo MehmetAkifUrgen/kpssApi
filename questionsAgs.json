@@ -123,18 +123,6 @@
           "aciklama": "Parçada teknoloji bağımlılığının olumsuz sonuçlarından bahsedilerek eleştiri yapılmaktadır."
         },
         {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'neden' anlamı vardır?",
-          "secenekler": [
-            "Yorgun olduğum için erken uyudum.",
-            "Her gün aynı parktan geçiyorum.",
-            "Bu kitabı okumayı çok seviyorum.",
-            "Arkadaşım bana güzel bir hediye verdi.",
-            "Hava güneşli olduğu için dışarı çıktık."
-          ],
-          "dogruCevap": "Yorgun olduğum için erken uyudum.",
-          "aciklama": "'Yorgun olduğum için' ifadesi bir neden belirtmektedir. Diğer cümlelerde neden anlamı yoktur."
-        },
-        {
           "soru": "a, b ve c pozitif tam sayılardır. a² + b² = c² ve a + b + c = 120 olduğuna göre, c kaçtır?",
           "secenekler": [
             "40",
@@ -217,18 +205,6 @@
           ],
           "dogruCevap": "3",
           "aciklama": "f(2) = 3(2)² - 2(2) + 1 = 12 - 4 + 1 = 9. f(-1) = 3(-1)² - 2(-1) + 1 = 3 + 2 + 1 = 6. Fark: f(2) - f(-1) = 9 - 6 = 14."
-        },
-        {
-          "soru": "Bir torbada 3 kırmızı, 4 mavi ve 5 yeşil top vardır. Rastgele çekilen iki topun aynı renkte olma olasılığı kaçtır?",
-          "secenekler": [
-            "1/6",
-            "1/5",
-            "1/4",
-            "1/3",
-            "1/2"
-          ],
-          "dogruCevap": "1/3",
-          "aciklama": "Toplam top sayısı: 3 + 4 + 5 = 12. Aynı renkte olma durumları: Kırmızı: C(3, 2) = 3, Mavi: C(4, 2) = 6, Yeşil: C(5, 2) = 10. Toplam: 3 + 6 + 10 = 19. Tüm durumlar: C(12, 2) = 66. Olasılık: 19/66 ≈ 1/3."
         },
         {
           "soru": "Bir araç saatte 60 km hızla giderken, yolun 1/3'ünü aldıktan sonra hızını saatte 80 km'ye çıkarıyor. Toplam yol 120 km ise, araç yolculuğu kaç saatte tamamlar?",
@@ -418,18 +394,6 @@
           ],
           "dogruCevap": "Erciyes Dağı",
           "aciklama": "Erciyes Dağı, Türkiye'nin İç Anadolu Bölgesi'nde bulunan önemli bir volkanik dağdır. Diğer seçeneklerdeki dağlar volkanik kökenli değildir."
-        },
-        {
-          "soru": "Türkiye'de aşağıdaki akarsulardan hangisi bir 'baraj gölü' oluşturmak için üzerinde baraj inşa edilmiştir?",
-          "secenekler": [
-            "Kızılırmak",
-            "Sakarya",
-            "Fırat",
-            "Gediz",
-            "Büyükmenderes"
-          ],
-          "dogruCevap": "Fırat",
-          "aciklama": "Fırat Nehri üzerinde Atatürk Barajı ve diğer barajlar inşa edilerek baraj gölleri oluşturulmuştur. Örneğin, Atatürk Baraj Gölü bu nehri beslemektedir."
         },
         {
           "soru": "Türkiye'de nüfus yoğunluğunun en fazla olduğu bölge aşağıdakilerden hangisidir?",
@@ -1609,17 +1573,6 @@
     },
     "Eğitim Temelleri": {
       "2017 Kpss Eğitim Bilimleri Çıkmış Sorular": [
-        {
-          "soru": "Öğretim üyesi Kerem Bey; öğrencilerine, bir köyde öğretmenlik yaptığı yıllarda başından geçen aşağıdaki anıyı anlatır:\n“Yıllar önce bir pazartesi günü öğrencilerime hafta sonu ne yaptıklarını sorduğumda öğrencilerimin çoğu “Çimdik, yattık.” dediler. Ben “çimmek” sözcüğünün ne anlama geldiğini bilmediğimden onlara bakakaldım.”\nArdından “Eğer siz de derslerinizde öğrencilerinizin bilmediği kavramları ve terimleri kullanırsanız, onlar da benim gibi hiçbir şey anlayamaz.” diye öğrencilerini uyarır.\nBuna göre Kerem Bey’in uyarısı aşağıdaki öğretim ilkelerinden hangisine örnektir?",
-          "secenekler": [
-            "Bilimsellik",
-            "Somuttan soyuta",
-            "Yakından uzağa",
-            "Açıklık",
-            "Bilinenden bilinmeyene"
-          ],
-          "dogruCevap": "Açıklık"
-        },
         {
           "soru": "Öğretme-öğrenme sürecinde “öğretmenin öğrencilerini kazanımlarla ilgili bilgilendirmesi, kazanım ve içerik ilişkisini kurması, neyi nasıl kazanacaklarını onlara açıklaması” aşağıdaki öğretim basamaklarından hangisinde gerçekleştirilir?",
           "secenekler": [
@@ -5385,18 +5338,6 @@
           "aciklama": "Model, ezbere dayalı öğrenme yerine üst düzey düşünme becerilerini geliştirmeyi hedefler."
         },
         {
-          "soru": "Aşağıdakilerden hangisi modelin yabancı dil eğitimi yaklaşımının özelliklerinden biridir?",
-          "secenekler": [
-            "Tek dil odaklı eğitim",
-            "Çok dilli eğitim yaklaşımı",
-            "Sadece gramer öğretimi",
-            "Yabancı dil eğitimini önemsememe",
-            "Dil eğitimini sınırlandırma"
-          ],
-          "dogruCevap": "Çok dilli eğitim yaklaşımı",
-          "aciklama": "Model, çok dilli ve kültürlerarası bir yaklaşımı benimser."
-        },
-        {
           "soru": "Modelin okul öncesi eğitim yaklaşımının temel özelliği nedir?",
           "secenekler": [
             "Akademik başarıya odaklanma",
@@ -6201,16 +6142,6 @@
             "Eğitim kurumlarının fiziki yapısının düzenlenmesi"
           ],
           "dogruCevap": "Eğitim süreçlerinin belirli bir düzende sıralanması"
-        },
-        {
-          "soru": "Türk eğitim sisteminde hangi basamağa kadar eğitim zorunludur?",
-          "secenekler": [
-            "İlköğretim",
-            "Ortaöğretim",
-            "Yükseköğretim",
-            "Lise"
-          ],
-          "dogruCevap": "Ortaöğretim"
         },
         {
           "soru": "Türk eğitim sistemindeki hangi basamaktan sonra üniversite eğitimi başlar?",
@@ -7616,18 +7547,6 @@
           ],
           "dogruCevap": "1",
           "aciklama": "Sayının rakamları toplamı: 7 + a + 5 + b + 2 = 14 + (a + b). Bu toplamın 3'e bölünebilmesi için 14 + (a + b) ≡ 0 (mod 3) olmalıdır. 14 mod 3 = 2 olduğundan, a + b ≡ 1 (mod 3). En küçük pozitif değer 1'dir."
-        },
-        {
-          "soru": "Aşağıdaki sayılardan hangisi 4 ile tam bölünür?",
-          "secenekler": [
-            "1236",
-            "1243",
-            "1252",
-            "1238",
-            "1245"
-          ],
-          "dogruCevap": "1236",
-          "aciklama": "Bir sayının 4 ile tam bölünebilmesi için son iki basamağının 4'e tam bölünmesi gerekir. 1236'nın son iki basamağı 36 olup, 36 ÷ 4 = 9 olduğundan 1236 4 ile tam bölünür."
         },
         {
           "soru": "Aşağıdaki sayılardan hangisi 5 ile tam bölünür?",
@@ -10586,16 +10505,6 @@
           "dogruCevap": "Bozdoğan Kemeri"
         },
         {
-          "soru": "Osmanlı Devleti’nde 'Arasta' nedir?",
-          "secenekler": [
-            "Askeri okul",
-            "Çarşı",
-            "Kütüphane",
-            "Tarımsal alan"
-          ],
-          "dogruCevap": "Çarşı"
-        },
-        {
           "soru": "Osmanlı Devleti’nde donanma komutanlarına ne ad verilirdi?",
           "secenekler": [
             "Kaptan-ı Derya",
@@ -12238,17 +12147,6 @@
           ],
           "dogruCevap": "9. Ordu Müfettişi",
           "aciklama": "Geniş yetkilerle donatılmış 9. Ordu Müfettişi olarak görevlendirilmiştir."
-        },
-        {
-          "soru": "Mustafa Kemal'in Samsun'a gönderilme amacı aşağıdakilerden hangisi değildir?",
-          "secenekler": [
-            "Mondros Ateşkes Antlaşması gereği orduları terhis etmek",
-            "Karadeniz'deki güvenliği sağlamak",
-            "Halkın elindeki silahları toplamak",
-            "Manda ve himayeyi kabul ettirmek"
-          ],
-          "dogruCevap": "Manda ve himayeyi kabul ettirmek",
-          "aciklama": "Bu amaç İstanbul Hükümeti tarafından verilmemiştir."
         },
         {
           "soru": "Mustafa Kemal'in 'Geldikleri gibi giderler.' sözünü kime söylediği bilinmektedir?",
@@ -16469,16 +16367,6 @@
           "dogruCevap": "Delta ovalarının geniş yer kaplaması"
         },
         {
-          "soru": "Türkiye'de görülen;\nI. Heyelan\nII. Çığ\nIII. Sel\nDoğal afetlerinin yaşanmasında, aşağıdakilerden hangisinin etkisi en azdır?",
-          "secenekler": [
-            "Eğim",
-            "Yükselti",
-            "Jeolojik yapı",
-            "Enlem"
-          ],
-          "dogruCevap": "Enlem"
-        },
-        {
           "soru": "Türkiye'deki dağların;\nI. Kuzey Anadolu Dağları\nII. Toros Dağları\nIII. Güneydoğu Torosları\nHangilerinin kıyıya paralel uzanması, kıyı ile iç kesimler arasındaki ulaşımı zorlaştırır?",
           "secenekler": [
             "Yalnız I",
@@ -19045,18 +18933,6 @@
             "Eğitim seviyesinin yükselmesi"
           ],
           "dogruCevap": "Ülke genelinde ekonomik sorunların yaşanması",
-          "aciklama": ""
-        },
-        {
-          "soru": "Türkiye’nin Karadeniz kıyı kuşağında, dağınık yerleşmeye neden olan faktörlerle ilgili aşağıdakilerden hangisi söylenemez?",
-          "secenekler": [
-            "Su kaynaklarının fazla ve yaygın olması",
-            "Eğim değerlerinin yüksek olması",
-            "Platoların geniş yer kaplaması",
-            "Arazinin akarsularla parçalanmış olması",
-            "Dağlık ve engebeli arazi yapısı"
-          ],
-          "dogruCevap": "Su kaynaklarının fazla ve yaygın olması",
           "aciklama": ""
         },
         {
