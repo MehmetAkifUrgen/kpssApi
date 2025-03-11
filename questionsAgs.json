@@ -905,28 +905,6 @@
           "dogruCevap": "8"
         },
         {
-          "soru": "Bir kutuda 6 mavi, 5 kırmızı ve 4 sarı top vardır. Kutudan rastgele çekilen iki topun farklı renkte olma olasılığı kaçtır?",
-          "secenekler": [
-            "11/15",
-            "12/15",
-            "13/15",
-            "14/15",
-            "1"
-          ],
-          "dogruCevap": "11/15"
-        },
-        {
-          "soru": "Bir sınıftaki öğrencilerin %70'i matematikten, %80'i fizikten geçmiştir. Her iki dersten de geçenlerin sayısı 20 olduğuna göre, sadece bir dersten geçenlerin sayısı kaçtır?",
-          "secenekler": [
-            "20",
-            "25",
-            "30",
-            "35",
-            "40"
-          ],
-          "dogruCevap": "30"
-        },
-        {
           "soru": "Bir çiftlikte kaz ve koyunlar bulunmaktadır. Toplam hayvan sayısı 45, ayak sayısı 130 olduğuna göre, çiftlikte kaç kaz vardır?",
           "secenekler": [
             "25",
@@ -12469,16 +12447,6 @@
             "Borçlar"
           ],
           "dogruCevap": "Saltanatın kaldırılması"
-        },
-        {
-          "soru": "İstanbul'un resmen işgal edilmesi üzerine Mustafa Kemal hangi açıklamayı yapmıştır?",
-          "secenekler": [
-            "Artık mücadelem padişahımızı bu hakaretten kurtarmaya yöneliktir.",
-            "İstanbul, Anadolu'ya bağlıdır.",
-            "Saltanatın kaldırılması gerekmektedir.",
-            "Misakımilli'yi yok sayamayız."
-          ],
-          "dogruCevap": "Artık mücadelem padişahımızı bu hakaretten kurtarmaya yöneliktir."
         },
         {
           "soru": "İstanbul'un işgal edildiğini Mustafa Kemal'e haber veren kişi kimdir?",
