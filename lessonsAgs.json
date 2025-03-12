@@ -574,6 +574,524 @@
         }
       ]
     },
+    "Matematik": {
+      "Temel Kavramlar": [
+        {
+          "baslik": "Temel Kavramlar Tanımı",
+          "metin": "Matematikte temel kavramlar, sayılar, işlemler, semboller ve genel kuralları kapsayan, tüm matematiksel düşüncenin zeminini oluşturan yapı taşlarıdır. Bu konular, ileri matematiksel kavramların anlaşılması için kritik öneme sahiptir."
+        },
+        {
+          "baslik": "Sayılar ve Sınıflandırmaları",
+          "metin": "Sayılar; doğal sayılar, tam sayılar, rasyonel sayılar, irrasyonel sayılar ve gerçel sayılar olarak sınıflandırılır. Her sayı tipi, kendine has özelliklere sahiptir ve matematikte farklı işlemler ve uygulamalarda kullanılır."
+        },
+        {
+          "baslik": "Aritmetik İşlemler",
+          "metin": "Toplama, çıkarma, çarpma ve bölme, matematiğin en temel aritmetik işlemleri olup günlük hayatta ve ileri matematik konularında sıklıkla kullanılır. İşlem sırası ve öncelik kuralları (örneğin, parantez içindeki işlemlerin önce yapılması) doğru sonuçlar elde etmek için esastır."
+        },
+        {
+          "baslik": "Matematiksel Semboller ve Notasyon",
+          "metin": "Matematikte ifadelerin doğru anlaşılabilmesi için +, -, ×, ÷, =, <, > gibi semboller kullanılır. Aynı zamanda, ifadelerin düzeni için parantez, köşeli parantez ve süslü parantezler önemli rol oynar. Bu semboller ve notasyon kuralları, matematiksel iletişimi netleştirir."
+        },
+        {
+          "baslik": "İşlem Önceliği ve Parantez Kullanımı",
+          "metin": "İşlem önceliği kuralları, matematiksel ifadelerde hangi işlemin önce yapılacağını belirler. Parantez içindeki işlemler her zaman ilk olarak çözülür, ardından çarpma ve bölme, son olarak toplama ve çıkarma gerçekleştirilir. Bu kural, doğru hesaplama yapabilmek için vazgeçilmezdir."
+        },
+        {
+          "baslik": "Örnek Uygulamalar",
+          "metin": "Örneğin, \\(5 + 3 \\times 2\\) ifadesinde önce \\(3 \\times 2 = 6\\) hesaplanır, sonra \\(5 + 6 = 11\\) sonucu elde edilir. Bu tarz örnekler, temel kavramların pratikte nasıl uygulanacağını gösterir."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Temel kavramların eksiksiz olarak öğrenilmesi, daha karmaşık matematiksel konuların anlaşılmasında temel rol oynar. İşlem önceliğine, doğru sembol kullanımına ve sayı sınıflandırmasına dikkat etmek, matematiksel problemlerin doğru şekilde çözülmesini sağlar."
+        },
+        {
+          "baslik": "Alıştırmalar",
+          "metin": "Öğrenciler, farklı sayı türleri, aritmetik işlemler ve işlem önceliği konularında çeşitli problemler çözerek temel kavramları pekiştirmelidir. Örneğin, \\(7 - 3 + 2 \\times 4\\) ifadesinin doğru sonucunu belirleyin."
+        }
+      ],
+      "Bölme-Bölünebilme": [
+        {
+          "baslik": "Bölme İşlemi Tanımı",
+          "metin": "Bölme işlemi, bir sayının (bölünen) eşit parçalara ayrılarak, her parçanın değerinin bulunması işlemidir. Örneğin, 12 sayısını 3'e böldüğümüzde her parçanın değeri 4 olur. Bu işlem, toplama işleminin tersidir ve a ÷ b = c şeklinde ifade edilir; burada 'a' bölünen, 'b' bölen, 'c' ise bölüm olarak adlandırılır."
+        },
+        {
+          "baslik": "Bölme İşlemi Adımları",
+          "metin": "Bölme işleminin temel adımları şu şekildedir:\n1. **Bölünen (Dividend):** İşleme başlanacak sayı belirlenir.\n2. **Bölen (Divisor):** Hangi sayıya bölüneceği seçilir.\n3. **Bölümün Hesaplanması:** Bölünen sayı, bölen sayının kaç kere içine girdiği hesaplanır.\n4. **Çarpım ve Çıkarma:** Hesaplanan bölüm değeri bölen ile çarpılır ve ürünü bölünen sayıdan çıkarılır.\n5. **Kalanın Belirlenmesi:** İşlem sonunda tam bölünmüyorsa, kalan kısmı belirlenir. İşlem, kalan 0 olduğunda veya istenen hassasiyete ulaşıldığında sona erer."
+        },
+        {
+          "baslik": "Bölünebilme Kuralları",
+          "metin": "Bölünebilme kuralları, bir sayının belirli sayılara tam bölünüp bölünmediğini hızlıca kontrol etmemizi sağlar:\n- **2 ile Bölünebilme:** Sayının son basamağı çiftse (0, 2, 4, 6, 8) bölünebilir.\n- **3 ile Bölünebilme:** Sayının rakamları toplamı 3 veya 3'ün katı ise sayının 3 ile bölünebildiği kabul edilir.\n- **4 ile Bölünebilme:** Son iki basamak oluşturduğu sayı 4’ün katı ise, sayının 4’e bölünebilirliği sağlanır.\n- **5 ile Bölünebilme:** Sayının son basamağı 0 veya 5 ise, sayı 5'e tam bölünür.\n- **6 ile Bölünebilme:** Hem 2 hem de 3 ile bölünebilme şartlarını sağlaması gerekir.\n- **9 ile Bölünebilme:** Rakamlar toplamı 9 veya 9'un katı ise, sayı 9’a bölünebilir.\n- **10 ile Bölünebilme:** Son basamağın 0 olması, sayının 10’a tam bölünebilmesini sağlar."
+        },
+        {
+          "baslik": "Örnek Uygulama: Bölünebilme",
+          "metin": "Örneğin, 144 sayısını inceleyelim:\n- Son basamağı 4 olduğundan 2 ile bölünebilir.\n- Rakamları toplamı 1+4+4 = 9 olduğundan hem 3 hem de 9 ile tam bölünebilir.\nBu kontrol adımları, sayının hangi bölenlerle tam bölünebildiğini hızlıca belirlemeye yardımcı olur."
+        },
+        {
+          "baslik": "Bölme İşleminde Kullanılan Terimler",
+          "metin": "Bölme işleminde kullanılan bazı temel terimler şunlardır:\n- **Bölünen (Dividend):** Bölme işleminde paydaş olan, bölünmek istenen sayı.\n- **Bölen (Divisor):** Bölme işleminde, bölünenin kaç eşit parçaya ayrılacağını belirten sayı.\n- **Bölüm (Quotient):** Bölme işleminin sonucunda elde edilen sayısal değer.\n- **Kalan (Remainder):** İşlem sonunda tam bölünmeyen, geri kalan miktar."
+        },
+        {
+          "baslik": "Bölme İşlemi ve Günlük Yaşam Uygulamaları",
+          "metin": "Bölme kavramı günlük yaşamda çeşitli durumlarda karşımıza çıkar. Örneğin:\n- Bir pastayı eşit dilimlere ayırmak,\n- 24 saati eşit parçalara bölmek veya\n- Bir bütçeyi, harcama kalemlerine oranlayarak dağıtmak.\nBu tür uygulamalar, bölme işleminin pratik önemini gözler önüne serer."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Bölme işlemi yapılırken aşağıdaki hususlara dikkat edilmelidir:\n- **Sıfıra Bölme:** Matematikte hiçbir sayı sıfıra bölünemez. Bu kural ihmal edilmemelidir.\n- **Sayıların Düzeni:** Uzun bölme işlemlerinde, basamakların doğru şekilde yerleştirilmesi önemlidir.\n- **Adım Adım İşlem:** Her adım dikkatlice yazılarak, hata yapmadan sonuca ulaşılmalıdır.\n- **Bölünebilme Kurallarının Kullanımı:** Bölünebilme kuralları ezberlenerek, hızlıca sayı kontrolü yapılabilir ve işlem hızlanır."
+        },
+        {
+          "baslik": "Alıştırmalar ve Problemler",
+          "metin": "Konunun pekiştirilmesi için çeşitli alıştırmalar yapılmaktadır:\n- Farklı sayı grupları (örneğin, 36, 48, 60) üzerinde uzun bölme işlemleri pratiği yapabilirsiniz.\n- Bölünebilme kurallarını uygulayarak, hangi sayıların 2, 3, 5, 10 gibi sayılara bölünebildiğini belirleyin.\n- Gerçek hayat problemleriyle, bölme kavramının nasıl kullanılacağını ve yorumlanacağını çalışın.\n- Kalanlı bölme işlemleriyle, tam bölünemeyen durumlarda doğru kalanları hesaplarken dikkat edin."
+        }
+      ],
+      "Asal Çarpanlara Ayırma": [
+        {
+          "baslik": "Asal Çarpanlara Ayırma Tanımı",
+          "metin": "Asal çarpanlara ayırma, bir sayının asal sayıların çarpımı şeklinde ifade edilmesidir. Bu işlem, sayıyı kendisinden ve 1’den başka böleni olmayan asal sayıların çarpımına indirgemek anlamına gelir. Örneğin, 12 sayısı 2 × 2 × 3 şeklinde yazılır; burada 2 ve 3 asal çarpanlardır."
+        },
+        {
+          "baslik": "Asal Sayılar ve Özellikleri",
+          "metin": "Asal sayılar, sadece kendisine ve 1’e bölünebilen pozitif tam sayılardır. Örneğin, 2, 3, 5, 7, 11 gibi sayılar asal sayılardır. Bu sayılar, asal çarpanlara ayırmada temel yapıtaşlarıdır."
+        },
+        {
+          "baslik": "Asal Çarpanlara Ayırma Yöntemleri",
+          "metin": "Asal çarpanlara ayırma işlemini gerçekleştirmenin iki temel yöntemi vardır:\n- **Bölme Yöntemi:** En küçük asal sayıdan başlanarak verilen sayı, asal sayılara bölünür. Bir asal sayı tam bölünmeye devam ederken, bölme işlemi tekrarlanır.\n- **Ağaç Yöntemi:** Sayının çarpanları dallanarak bulunur ve her seviye, asal çarpanlara kadar indirgenir."
+        },
+        {
+          "baslik": "Adım Adım Örnek: 60 Sayısının Asal Çarpanlara Ayrılması",
+          "metin": "60 sayısının asal çarpanlara ayrılması işlemi şu şekilde yapılır:\n1. 60, en küçük asal sayı olan 2’ye bölünür: 60 ÷ 2 = 30.\n2. 30 yine 2’ye tam bölünür: 30 ÷ 2 = 15.\n3. 15, 2’ye bölünemez; sıradaki asal sayı 3’ü deneyin: 15 ÷ 3 = 5.\n4. 5, asal bir sayıdır; bölme işlemine gerek yoktur.\nSonuç olarak, 60 sayısı 2 × 2 × 3 × 5 şeklinde asal çarpanlara ayrılır."
+        },
+        {
+          "baslik": "Kullanılan Teknikler ve İpuçları",
+          "metin": "Asal çarpanlara ayırma yaparken dikkat edilmesi gerekenler:\n- İşleme en küçük asal sayı olan 2’den başlanmalıdır.\n- Aynı asal sayıyı, sayının tam bölünebildiği sürece birden fazla kullanabilirsiniz.\n- İşlem sonunda elde edilen asal çarpanları kontrol etmek amacıyla, çarpımın orijinal sayıyı verip vermediği hesaplanmalıdır."
+        },
+        {
+          "baslik": "Alıştırmalar ve Uygulamalı Problemler",
+          "metin": "Konunun pekiştirilmesi için şu alıştırmalar yapılabilir:\n- 84, 90, 100 gibi farklı sayıları asal çarpanlara ayırın.\n- Ağaç yöntemi ve bölme yöntemi kullanarak aynı sayıyı farklı yöntemlerle çözün.\n- EKOK ve EBOB hesaplamalarında asal çarpanlara ayırma yöntemini uygulayın."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Asal çarpanlara ayırma sırasında göz önünde bulundurulması gereken önemli noktalar:\n- 1 sayısı hiçbir zaman asal sayı olarak kabul edilmez.\n- Her pozitif tam sayı için asal çarpanlara ayırma yapılabilir, ancak negatif sayılar ve sıfır bu işlem kapsamına alınmaz.\n- İşlem sürecinde asal çarpanların tekrarlanması durumlarına dikkat edilmelidir."
+        },
+        {
+          "baslik": "Günlük Yaşam ve Matematiksel Uygulamalar",
+          "metin": "Asal çarpanlara ayırma, EKOK (en küçük ortak kat) ve EBOB (en büyük ortak bölen) hesaplamalarında sıklıkla kullanılır. Ayrıca, kriptografi gibi ileri matematiksel konularda ve sayı teorisinde temel bir yöntem olarak yer alır."
+        }
+      ],
+      "Rasyonel Sayılar": [
+        {
+          "baslik": "Rasyonel Sayılar Tanımı",
+          "metin": "Rasyonel sayılar, iki tam sayının oranı olarak yazılabilen sayılardır. Genellikle \\(\\frac{a}{b}\\) biçiminde ifade edilir; burada \\(a\\) tam sayı (pay) ve \\(b\\) sıfırdan farklı tam sayı (payda) olarak kullanılır."
+        },
+        {
+          "baslik": "Özellikleri ve Sınıflandırma",
+          "metin": "Rasyonel sayılar, kesirler ve ondalık kesirler olarak da bilinir. Sonlu veya periyodik ondalık gösterime sahip olabilirler. Ayrıca, tam sayılar da rasyonel sayılar kümesine dahildir; çünkü her tam sayı \\(\\frac{a}{1}\\) şeklinde yazılabilir."
+        },
+        {
+          "baslik": "Temel İşlemler",
+          "metin": "Rasyonel sayılar üzerinde toplama, çıkarma, çarpma ve bölme işlemleri yapılabilir. İşlemler yaparken paydaların eşitlenmesi (ortak payda bulunması) ve sonrasında sadeleştirme işlemleri önem taşır. Örneğin, \\(\\frac{a}{b} + \\frac{c}{d} = \\frac{ad+bc}{bd}\\) formülü kullanılır."
+        },
+        {
+          "baslik": "Ondalık Gösterim ve Kesirlerin Sadeleştirilmesi",
+          "metin": "Rasyonel sayılar, sonlu ya da periyodik ondalık kesirler şeklinde ifade edilebilir. Bir kesri sadeleştirmek için pay ve paydayı, ortak bölenleri ile bölmek gereklidir. Örneğin, \\(\\frac{6}{8}\\) kesri, pay ve paydayı 2 ile bölerek \\(\\frac{3}{4}\\) haline getirilir."
+        },
+        {
+          "baslik": "Örnek Uygulama",
+          "metin": "Örnek olarak, \\(\\frac{3}{4}\\) ve \\(\\frac{5}{6}\\) rasyonel sayılarını toplayalım:\n1. Ortak payda bulunur: Ortak payda 12 olur; \\(\\frac{3}{4} = \\frac{9}{12}\\) ve \\(\\frac{5}{6} = \\frac{10}{12}\\).\n2. Toplama işlemi yapılarak, \\(\\frac{9}{12} + \\frac{10}{12} = \\frac{19}{12}\\) elde edilir.\n3. Sonuç, bileşik kesir veya ondalık gösterim olarak yorumlanabilir."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Rasyonel sayılarla işlem yaparken, özellikle paydanın sıfır olmamasına dikkat edilmelidir. İşlem adımlarında ortak payda bulma, sadeleştirme ve periyodik ondalık gösterim konularına özen gösterilmelidir."
+        },
+        {
+          "baslik": "Alıştırmalar ve Problemler",
+          "metin": "Konunun pekiştirilmesi için şu alıştırmaları yapabilirsiniz:\n- Farklı rasyonel sayıları toplayıp çıkarma işlemleri gerçekleştirin.\n- Çarpma ve bölme işlemlerinde paydaların eşitlenmesi ve sadeleştirme yaparak sonuç hesaplayın.\n- Ondalık kesirlerin rasyonel sayılar ile olan ilişkisini inceleyin."
+        },
+        {
+          "baslik": "Günlük Yaşam ve Uygulamalar",
+          "metin": "Rasyonel sayılar, oran ve orantı problemleri, finansal hesaplamalar ve gerçek hayattaki ölçüm işlemleri gibi birçok alanda kullanılır. Örneğin, tariflerde malzemelerin oranlarının ayarlanması ya da bütçe hesaplamalarında bu sayı türleri önemli rol oynar."
+        }
+      ],
+      "Basit Eşitsizlikler": [
+        {
+          "baslik": "Basit Eşitsizliklerin Tanımı",
+          "metin": "Basit eşitsizlikler, bir değişkenin diğer bir ifadeye göre büyük, küçük, büyük ya da eşit veya küçük ya da eşit olup olmadığını belirten matematiksel ifadelerdir. Örneğin, \\( x + 3 > 5 \\) ifadesi basit bir eşitsizliktir."
+        },
+        {
+          "baslik": "Genel İfade ve Özellikler",
+          "metin": "Genellikle basit eşitsizlikler \\( ax + b > c \\), \\( ax + b < c \\), \\( ax + b \\ge c \\) ya da \\( ax + b \\le c \\) şeklinde yazılır. Eşitsizliklerde toplama ve çıkarma işlemleri yapılabilir; ancak çarpma veya bölme işlemleri sırasında, kullanılan sayı negatifse eşitsizlik işareti tersine çevrilir."
+        },
+        {
+          "baslik": "Çözüm Adımları",
+          "metin": "Basit eşitsizlikleri çözmek için izlenen temel adımlar şunlardır:\n1. **Sadeleştirme:** Eşitsizlikte benzer terimler birleştirilir ve mümkün olduğunca sadeleştirilir.\n2. **Değişkenin Yalnız Bırakılması:** Terimler eşitsizliğin her iki tarafından uygun işlemlerle çıkarılır veya eklenir.\n3. **Çarpma/Bölme İşlemleri:** Değişkenin katsayısına göre eşitsizlik her iki tarafı bölünür ya da çarpılır. Negatif bir sayı ile bölme/çarpma yapılıyorsa, eşitsizlik işareti tersine çevrilir.\nÖrneğin, \\( 2x - 4 < 8 \\) eşitsizliği:\n   - Her iki taraftan 4 ekleyerek: \\( 2x < 12 \\)\n   - Sonra her iki tarafı 2'ye bölerek: \\( x < 6 \\)"
+        },
+        {
+          "baslik": "Örnek Uygulama",
+          "metin": "Örnek: \\( 3x + 2 \\le 11 \\) eşitsizliğini çözelim.\n1. Her iki taraftan 2 çıkarın: \\( 3x \\le 9 \\).\n2. Her iki tarafı 3'e bölün: \\( x \\le 3 \\).\nBu işlem, \\( x \\) değerinin 3 veya daha küçük olabileceğini gösterir."
+        },
+        {
+          "baslik": "Grafiksel Gösterim",
+          "metin": "Çözümü sayı doğrusu üzerinde göstermek, eşitsizliklerin görsel olarak anlaşılmasını sağlar. Örneğin, \\( x \\le 3 \\) için sayı doğrusunda 3 noktası dahil olarak işaretlenir ve 3'ten daha küçük tüm sayıların üzeri renkle gösterilir."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Basit eşitsizlik çözümünde şu noktalara dikkat edilmelidir:\n- Negatif sayıya çarpma veya bölme işleminde eşitsizlik işareti ters çevrilir.\n- İşlem adımlarını doğru sırayla yaparak hata riskini en aza indirin.\n- Sonuç, sayı doğrusunda gösterim ile doğrulanabilir."
+        },
+        {
+          "baslik": "Alıştırmalar ve Uygulamalar",
+          "metin": "Konunun pekiştirilmesi için aşağıdaki eşitsizlikleri çözmeyi deneyin:\n- \\( x + 5 > 10 \\)\n- \\( 4 - 2x \\le 8 \\)\n- \\( -3x \\ge 9 \\)\nBu alıştırmalar, eşitsizliklerin çözüm yöntemleri ve dikkat edilmesi gereken işlem adımlarını uygulamanıza yardımcı olacaktır."
+        }
+      ],
+      "Mutlak Değer": [
+        {
+          "baslik": "Mutlak Değer Tanımı",
+          "metin": "Mutlak değer, bir sayının sayı doğrusu üzerindeki sıfır noktasından olan uzaklığını ifade eder. Bu değer daima pozitiftir veya sıfırdır. Örneğin, \\(|-7| = 7\\) ve \\(|7| = 7\\)."
+        },
+        {
+          "baslik": "Temel Özellikler",
+          "metin": "Mutlak değerin bazı temel özellikleri şunlardır:\n- \\(|a| \\geq 0\\) her zaman geçerlidir.\n- \\(|a| = 0\\) sadece \\(a = 0\\) için doğrudur.\n- \\(|ab| = |a| \\cdot |b|\\) çarpma için.\n- \\(|a/b| = \\frac{|a|}{|b|}\\) (\\(b \\neq 0\\) koşuluyla).\n- Üçgen eşitsizliği: \\(|a + b| \\leq |a| + |b|\\)."
+        },
+        {
+          "baslik": "Mutlak Değerin Hesaplanması",
+          "metin": "Bir sayının mutlak değeri hesaplanırken şu adımlar izlenir:\n1. Sayı pozitifse, mutlak değer sayının kendisidir.\n2. Sayı negatifse, mutlak değer negatif işaret kaldırılmış hâldir.\nÖrneğin, \\(|-3| = 3\\) ve \\(|4| = 4\\)."
+        },
+        {
+          "baslik": "Mutlak Değerin Kullanıldığı Alanlar",
+          "metin": "Mutlak değer kavramı, matematiksel denklemler, eşitsizlikler ve analizde yoğun bir şekilde kullanılır. Ayrıca, fizik, mühendislik ve finans gibi alanlarda da büyüklük ölçümü veya sapma tespiti gibi konularda tercih edilir."
+        },
+        {
+          "baslik": "Örnek Uygulama ve Problemler",
+          "metin": "Örnek 1: \\(|-5 + 3|\\)\n- İlk olarak parantez içi hesaplanır: -5 + 3 = -2.\n- Daha sonra mutlak değer alınır: \\(|-2| = 2\\).\n\nÖrnek 2: \\(|3 - 7|\\)\n- İlk olarak, 3 - 7 = -4 bulunur.\n- Mutlak değer alınır: \\(|-4| = 4\\).\nBu örnekler, mutlak değerin nasıl işlendiğini ve hesaplandığını gösterir."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Mutlak değerin hesaplanmasında, işlemin sonucunun her zaman pozitif veya sıfır olacağı unutulmamalıdır. Eşitsizliklerde ve denklemlerde mutlak değer kullanımı, özel durumlar ve ek kurallar gerektirebilir."
+        },
+        {
+          "baslik": "Alıştırmalar",
+          "metin": "Konunun pekiştirilmesi için aşağıdaki alıştırmaları yapabilirsiniz:\n- \\(|-8|, |0|, |15|\\) hesaplayın.\n- \\(|7 - 10|\\) ve \\(|-2 + 5|\\) işlemlerini gerçekleştirin.\n- Mutlak değer içeren eşitsizlikleri çözerek, sayı doğrusu üzerinde grafiksel gösterim yapın."
+        }
+      ],
+      "Üslü Sayılar": [
+        {
+          "baslik": "Üslü Sayıların Tanımı",
+          "metin": "Üslü sayılar, bir sayının (taban) kendisiyle tekrarlı çarpımını ifade eden sayılardır. \\(a^n\\) ifadesinde \\(a\\) taban, \\(n\\) ise üst (veya üs) olarak adlandırılır. Örneğin, \\(2^3 = 2 \\times 2 \\times 2 = 8\\)."
+        },
+        {
+          "baslik": "Yazım ve Temel Terimler",
+          "metin": "Üslü sayı yazımında, \\(a^n\\) şeklinde ifade kullanılır. Burada:\n- \\(a\\): Taban (bir sayı veya değişken olabilir).\n- \\(n\\): Üs (pozitif, sıfır veya negatif tam sayı olabilir).\nÖrneğin, \\(3^4 = 3 \\times 3 \\times 3 \\times 3 = 81\\)."
+        },
+        {
+          "baslik": "Üslü Sayıların Yazım Kuralları ve İşlemleri",
+          "metin": "Üslü sayılar üzerinde yapılan temel işlemler ve kurallar şunlardır:\n- **Çarpma:** \\(a^m \\times a^n = a^{m+n}\\).\n- **Bölme:** \\(\\frac{a^m}{a^n} = a^{m-n}\\) (\\(a \\neq 0\\) koşuluyla).\n- **Üs Üstüne Alma:** \\((a^m)^n = a^{m \\times n}\\).\n- **Dağılma:** \\((ab)^n = a^n \\times b^n\\).\nBu kurallar, üslü sayılarla yapılan işlemlerin sadeleştirilmesinde büyük rol oynar."
+        },
+        {
+          "baslik": "Özel Durumlar",
+          "metin": "Üslü sayılarda dikkat edilmesi gereken bazı özel durumlar bulunmaktadır:\n- **Sıfır Üsü:** \\(a^0 = 1\\) (\\(a \\neq 0\\) için).\n- **Negatif Üs:** \\(a^{-n} = \\frac{1}{a^n}\\) (\\(a \\neq 0\\) koşuluyla).\n- **Sıfır Taban:** \\(0^n = 0\\) (\\(n>0\\) durumunda; \\(0^0\\) tanımsızdır).\nBu özel durumlar, üslü sayıların kullanımında dikkat edilmesi gereken önemli noktalardır."
+        },
+        {
+          "baslik": "Örnek Uygulama",
+          "metin": "Örnek 1: \\(2^3 \\times 2^4\\) işlemini düşünelim. \n- Kural: \\(a^m \\times a^n = a^{m+n}\\).\n- Uygulama: \\(2^3 \\times 2^4 = 2^{3+4} = 2^7 = 128\\).\n\nÖrnek 2: \\((3^2)^3\\) ifadesi:\n- Kural: \\((a^m)^n = a^{m \\times n}\\).\n- Uygulama: \\((3^2)^3 = 3^{2 \\times 3} = 3^6 = 729\\)."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Üslü sayıları işlerken şu noktalara dikkat edilmelidir:\n- Taban ve üst değerlerin doğru yerleştirilmesine özen gösterin.\n- Negatif üs kullanılırken, tabanın sıfır olmadığına dikkat edilmeli ve işlem kuralları doğru uygulanmalıdır.\n- İşlem sırasında parantez kullanımı, işlemin öncelik sırasını belirlemede kritik rol oynar."
+        },
+        {
+          "baslik": "Alıştırmalar ve Problemler",
+          "metin": "Konunun pekiştirilmesi için şu örnekleri çözmeyi deneyin:\n- \\(3^2 \\times 3^3 = ?\\)\n- \\((2^4)^2 = ?\\)\n- \\(5^0 = ?\\)\n- \\(4^{-2} = ?\\)\nBu alıştırmalar, üslü sayıların kurallarını ve uygulamalarını pekiştirmenize yardımcı olacaktır."
+        }
+      ],
+      "Köklü Sayılar": [
+        {
+          "baslik": "Köklü Sayılar Tanımı",
+          "metin": "Köklü sayılar, bir sayının belirli bir kök derecesine göre ifade edilmesidir. En yaygın kullanılanı karekök olup \\(\\sqrt{a}\\) şeklinde yazılır. Örneğin, \\(\\sqrt{16} = 4\\)."
+        },
+        {
+          "baslik": "Karekök ve Küpkök",
+          "metin": "Karekök, 2. dereceden kök olarak adlandırılır ve bir sayının karesi alınarak elde edilen değeri verir. Küpkök ise 3. dereceden köktür. Örneğin, \\(\\sqrt{25} = 5\\) ve \\(\\sqrt[3]{27} = 3\\)."
+        },
+        {
+          "baslik": "Köklü İfadelerin Yazım Şekli",
+          "metin": "Köklü ifadeler genellikle \\(\\sqrt[n]{a}\\) biçiminde yazılır; burada \\(n\\) kök derecesi ve \\(a\\) radikand olarak adlandırılır. Eğer \\(n=2\\) ise, genellikle \\(\\sqrt{a}\\) şeklinde sadeleştirilmiş gösterim kullanılır."
+        },
+        {
+          "baslik": "Temel İşlemler",
+          "metin": "Köklü sayılar üzerinde yapılan bazı temel işlemler şunlardır:\n- **Çarpma:** \\(\\sqrt{a} \\cdot \\sqrt{b} = \\sqrt{a \\cdot b}\\).\n- **Bölme:** \\(\\frac{\\sqrt{a}}{\\sqrt{b}} = \\sqrt{\\frac{a}{b}}\\) (\\(b \\neq 0\\)).\n- **Toplama ve Çıkarma:** Sadece aynı radikand ve derecedeki ifadeler doğrudan toplanabilir veya çıkarılabilir."
+        },
+        {
+          "baslik": "Köklü İfadelerin Sadeleştirilmesi",
+          "metin": "Köklü ifadelerin sadeleştirilmesi için radikandın asal çarpanlara ayrılması yapılır ve kare olan çarpanlar kök dışına çıkarılır. Örneğin, \\(\\sqrt{18}\\) ifadesi; 18 sayısı \\(9 \\times 2\\) şeklinde yazılarak,\n\\(\\sqrt{18} = \\sqrt{9 \\times 2} = \\sqrt{9} \\cdot \\sqrt{2} = 3\\sqrt{2}\\) olarak sadeleştirilir."
+        },
+        {
+          "baslik": "Örnek Uygulama",
+          "metin": "Örnek: \\(\\sqrt{50}\\) ifadesinin sadeleştirilmesi:\n1. 50, \\(25 \\times 2\\) şeklinde yazılır.\n2. \\(\\sqrt{50} = \\sqrt{25 \\times 2} = \\sqrt{25} \\cdot \\sqrt{2} = 5\\sqrt{2}\\).\nBu örnek, radikandın asal çarpanlara ayrılması ve kare olan bölümün kök dışına çıkarılmasının nasıl yapıldığını gösterir."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Köklü ifadeleri işlerken dikkat edilmesi gereken bazı noktalar şunlardır:\n- Negatif radikandlar, gerçek sayılar kümesinde tanımlı değildir (\\(\\sqrt{-a}\\) ifadesi, kompleks sayılar kümesinde değerlendirilir).\n- Toplama ve çıkarma işlemleri yalnızca benzer (aynı radikandlı) ifadelerle yapılabilir.\n- Rasyonelleştirme işlemi sırasında, paydadaki kök ifadenin ortadan kaldırılması gerekebilir."
+        },
+        {
+          "baslik": "Alıştırmalar ve Problemler",
+          "metin": "Konunun pekiştirilmesi için aşağıdaki alıştırmaları yapabilirsiniz:\n- \\(\\sqrt{32}\\) ifadesini sadeleştirin.\n- \\(\\sqrt{72}\\) ifadesinin sadeleştirilmesi üzerinde çalışın.\n- Aynı radikandlı ifadelerin toplama ve çıkarma işlemlerini deneyin.\nBu alıştırmalar, köklü ifadeler konusunu uygulamalı olarak pekiştirmenize yardımcı olur."
+        }
+      ],
+      "Çarpanlara Ayırma": [
+        {
+          "baslik": "Çarpanlara Ayırma Tanımı",
+          "metin": "Çarpanlara ayırma, bir sayı veya cebirsel ifadenin, ortak çarpanlarının kullanılarak daha basit çarpanlara ayrılması işlemidir. Bu yöntem, ifadelerin sadeleştirilmesi, denklemlerin çözülmesinde ve faktörizasyon gerektiren diğer matematiksel işlemlerde önemli bir rol oynar."
+        },
+        {
+          "baslik": "Ortak Çarpanların Alınması",
+          "metin": "İfadenin tüm terimlerinde ortak bulunan sayı veya değişken, parantez içine alınarak dışarı yazılır. Örneğin, \\(3x^2 + 6x\\) ifadesinde her terimde \\(3x\\) ortak çarpandır, bu nedenle ifade \\(3x(x + 2)\\) olarak yazılır."
+        },
+        {
+          "baslik": "Farkın Karesi",
+          "metin": "Farkın karesi formülü, \\(a^2 - b^2 = (a + b)(a - b)\\) şeklinde kullanılır. Bu yöntem, iki kare farkının birbirine ayrılmasında önemli bir yer tutar. Örneğin, \\(x^2 - 9\\) ifadesi, \\(x^2 - 3^2\\) olarak görülüp \\((x + 3)(x - 3)\\) şeklinde çarpanlara ayrılır."
+        },
+        {
+          "baslik": "Tam Kare İfadeler",
+          "metin": "Bir ifadenin tam kare olup olmadığını kontrol ederek, ifadenin karekarekökü alınıp çift faktörlü haline getirilmesi sağlanır. Örneğin, \\(x^2 + 6x + 9\\) ifadesi \\((x + 3)^2\\) olarak çarpanlara ayrılabilir."
+        },
+        {
+          "baslik": "Üç Terimli İfadeler (Trinomlar)",
+          "metin": "Üç terimli (trinomial) polinomların çarpanlara ayrılması için çarpım ve toplam yöntemi kullanılır. Örneğin, \\(x^2 + 5x + 6\\) ifadesi, \\(2\\) ve \\(3\\) sayılarını sağlayan iki sayı bulunarak \\((x + 2)(x + 3)\\) şeklinde faktörize edilir."
+        },
+        {
+          "baslik": "Adım Adım Örnek Uygulama",
+          "metin": "Örnek: \\(2x^2 + 8x\\) ifadesinin çarpanlara ayrılması:\n1. Ortak çarpanları belirleyin: Her iki terimde \\(2x\\) ortak çarpandır.\n2. Ortak çarpanı dışarı alın: \\(2x(x + 4)\\) elde edilir.\nBu örnek, ifadenin çarpanlara ayrılmasının temel adımlarını göstermektedir."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Çarpanlara ayırma işlemi sırasında tüm ortak çarpanların bulunması, doğru parantez kullanımının sağlanması ve özel durumların (örneğin farkın karesi, tam kare ifadeler) doğru şekilde değerlendirilmesi önemlidir."
+        },
+        {
+          "baslik": "Alıştırmalar ve Problemler",
+          "metin": "Konunun pekiştirilmesi için aşağıdaki alıştırmaları yapabilirsiniz:\n- \\(x^2 - 16\\) ifadesinin farkın karesi yöntemi kullanılarak çarpanlara ayrılması.\n- \\(4x^2 - 9\\) ifadesinin \\((2x + 3)(2x - 3)\\) şeklinde ayrılması.\n- \\(3x^2 + 12x\\) ifadesinde ortak çarpanların dışarı alınarak sadeleştirilmesi.\nBu alıştırmalar, farklı çarpanlara ayırma yöntemlerini uygulayarak pekiştirmenizi sağlar."
+        }
+      ],
+      "Denklem Çözme": [
+        {
+          "baslik": "Denklem Çözme Tanımı",
+          "metin": "Denklem çözme, bir matematiksel ifadenin eşitliğini sağlayan bilinmeyen değerin bulunması işlemidir. Bu işlemde, denklemin her iki tarafına aynı matematiksel işlemler uygulayarak, bilinmeyeni izole etmeye çalışırız."
+        },
+        {
+          "baslik": "Temel Terimler ve Kavramlar",
+          "metin": "Denklemde kullanılan temel terimler; bilinmeyen (örneğin, x, y), katsayı, sabit terim ve eşitlik işaretidir. Bu kavramlar, denklemin nasıl çözüleceğini anlamamıza yardımcı olur."
+        },
+        {
+          "baslik": "Basit Denklemlerin Çözüm Adımları",
+          "metin": "Basit denklemleri çözmek için izlenen adımlar şunlardır:\n1. Benzer terimleri birleştirin ve denklemi sadeleştirin.\n2. Bilinmeyeni izole etmek için, denklemin her iki tarafından aynı işlemler (toplama, çıkarma, çarpma, bölme) uygulayın.\n3. Elde edilen sonucu kontrol ederek doğrulayın."
+        },
+        {
+          "baslik": "Eşitliğin İşlem Kuralları",
+          "metin": "Denklem çözerken eşitliğin dengesi korunmalıdır. Yani, denklemin her iki tarafına aynı işlemin uygulanması eşitliği bozmadan ilerler. Özellikle negatif sayılarla işlem yaparken, dikkatli olunması gerekir."
+        },
+        {
+          "baslik": "Örnek Uygulama",
+          "metin": "Örnek: \\(2x + 4 = 12\\) denklemini çözelim.\n- Adım 1: Her iki taraftan 4 çıkarın: \\(2x = 12 - 4 = 8\\).\n- Adım 2: Her iki tarafı 2'ye bölün: \\(x = \\frac{8}{2} = 4\\).\nBu örnek, temel denklem çözme adımlarını göstermektedir."
+        },
+        {
+          "baslik": "Karmaşık Denklemler",
+          "metin": "Daha karmaşık denklemlerde, parantez içi işlemler önce dağıtılır, benzer terimler toplanır ve ardından izole etme adımları uygulanır. Örneğin, \\(4(x - 2) = 12\\) denkleminde önce parantez dağıtılarak \\(4x - 8 = 12\\) elde edilir, daha sonra benzer adımlar uygulanır."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Denklem çözerken;\n- İşlem adımlarında eşitlik dengesinin korunmasına,\n- Negatif sayılarla işlem yaparken işaret kurallarına,\n- Ve işlemlerin sırasına özen gösterilmelidir.\nTüm bu hususlar, doğru sonuca ulaşmak için oldukça önemlidir."
+        },
+        {
+          "baslik": "Alıştırmalar ve Problemler",
+          "metin": "Konunun pekiştirilmesi için aşağıdaki denklemleri çözmeyi deneyin:\n- \\(x + 7 = 13\\)\n- \\(3x - 5 = 10\\)\n- \\(4(x - 2) = 12\\)\nBu alıştırmalar temel denklem çözme stratejilerini uygulamanıza yardımcı olacaktır."
+        }
+      ],
+      "Kümeler": [
+        {
+          "baslik": "Kümeler Tanımı",
+          "metin": "Kümeler, belirli özellik veya kriterlere göre toplanmış nesneler koleksiyonlarıdır. Kümeler, süslü parantez { } içerisine yazılır. Örneğin, A = {1, 2, 3} ifadesinde A kümesi, 1, 2 ve 3 elemanlarını içerir."
+        },
+        {
+          "baslik": "Küme Elemanları",
+          "metin": "Bir kümedeki bireysel nesnelere eleman denir. Bir elemanın bir kümenin parçası olup olmadığını '∈' (eleman) sembolüyle gösteririz. Örneğin, eğer 2 ∈ A ise, 2 sayısı A kümesinin bir elemanıdır."
+        },
+        {
+          "baslik": "Küme Gösterimi ve Notasyonu",
+          "metin": "Kümeler, tanımlandıkları özelliklere göre gösterilebilir. Örneğin:\n- A = {x | x, 1 ile 10 arasındaki pozitif tam sayılardır}\n- B = {2, 4, 6, 8, 10}\nBu notasyon, kümelerin matematiksel ifadelerde nasıl belirtildiğini gösterir."
+        },
+        {
+          "baslik": "Küme İşlemleri",
+          "metin": "Kümeler üzerinde yapılan temel işlemler şunlardır:\n- **Birleşim (∪):** İki kümenin tüm elemanlarının toplandığı küme. Örneğin, A ∪ B, A ve B kümelerindeki tüm elemanları içerir.\n- **Kesişim (∩):** İki kümenin ortak elemanlarını içeren küme. Örneğin, A ∩ B, hem A hem de B kümesinde bulunan elemanlardır.\n- **Fark (−):** Bir kümeden diğer kümenin elemanlarının çıkarılması. Örneğin, A − B, A kümesinde olup B kümesinde olmayan elemanları verir.\n- **Tümleyen:** Evrensel küme içindeki, belirli bir kümede bulunmayan elemanları ifade eder (örneğin, A')."
+        },
+        {
+          "baslik": "Venn Diyagramları",
+          "metin": "Küme operasyonlarını ve kümeler arası ilişkileri görsel olarak ifade etmek için Venn diyagramları kullanılır. Venn diyagramları, kümelerin kesişimlerini, birleşimlerini ve farklarını grafiksel olarak göstermeyi sağlar."
+        },
+        {
+          "baslik": "Örnek Uygulama",
+          "metin": "Örnek: A = {1, 2, 3, 4} ve B = {3, 4, 5, 6} kümeleri için:\n- Birleşim: A ∪ B = {1, 2, 3, 4, 5, 6}\n- Kesişim: A ∩ B = {3, 4}\n- Fark: A − B = {1, 2}\nBu örnek, kümelerin temel işlemlerini açıklar."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Kümelerde:\n- Elemanların sırası önemli değildir; \\(\\{1, 2, 3\\} = \\{3, 2, 1\\}\\) olarak kabul edilir.\n- Aynı eleman bir kümede tekrarlanmaz, her eleman yalnızca bir kez sayılır.\n- Evrensel küme ve boş küme (\\(\\varnothing\\)) kavramlarına da aşina olunmalıdır."
+        },
+        {
+          "baslik": "Alıştırmalar ve Problemler",
+          "metin": "Konunun pekiştirilmesi için aşağıdaki alıştırmalar yapılabilir:\n- Verilen A = {a, b, c} ve B = {b, c, d} kümeleri için A ∪ B, A ∩ B ve A − B kümelerini bulun.\n- Evrensel küme tanımlandıktan sonra, bir kümenin tümleyenini (A') belirleyin.\n- Venn diyagramı çizerek kümeler arasındaki ilişkileri görselleştirin."
+        }
+      ],
+      "Fonksiyonlar": [
+        {
+          "baslik": "Fonksiyon Tanımı",
+          "metin": "Fonksiyon, her elemanın belirli bir kural veya eşleştirme ile başka bir elemanla eşleştiği ilişkidir. Genellikle \\(f: A \\rightarrow B\\) şeklinde ifade edilir; burada A tanım kümesi, B ise değer kümesidir."
+        },
+        {
+          "baslik": "Tanım Kümesi ve Değer Kümesi",
+          "metin": "Tanım kümesi, fonksiyonun üzerinde tanımlı olduğu tüm girdileri ifade eder. Değer kümesi ise bu girdilere karşılık gelen çıktıların kümesidir. Örneğin, \\(f(x) = x^2\\) fonksiyonunda tanım kümesi \\(\\mathbb{R}\\) iken değer kümesi \\(\\mathbb{R}^+\\) (sıfır ve pozitif sayılar) olabilir."
+        },
+        {
+          "baslik": "Fonksiyonun Grafiksel Gösterimi",
+          "metin": "Fonksiyonların grafiği, koordinat düzleminde x ekseninde tanım kümesini ve y ekseninde değer kümesini gösterecek şekilde çizilir. Örneğin, \\(f(x) = x^2\\) fonksiyonunun grafiği paraboldür."
+        },
+        {
+          "baslik": "Fonksiyon Türleri ve Özellikleri",
+          "metin": "Fonksiyonlar çeşitli türlere ayrılır:\n- **Doğrusal Fonksiyonlar:** \\(f(x)=ax+b\\) formunda olup grafiği doğrusal bir çizgidir.\n- **Quadratik Fonksiyonlar:** \\(f(x)=ax^2+bx+c\\) şeklinde tanımlanır ve grafiği parabol şeklindedir.\n- **Polinom Fonksiyonlar:** Daha yüksek dereceli polinom ifadeleri içerir.\n- **Trigonometri Fonksiyonları:** \\(\\sin(x)\\), \\(\\cos(x)\\) gibi periyodik fonksiyonlardır.\n- **Üstel ve Logaritmik Fonksiyonlar:** Sırasıyla \\(f(x)=a^x\\) ve \\(f(x)=\\log_a(x)\\) şeklinde tanımlanır."
+        },
+        {
+          "baslik": "Fonksiyonlarda İşlemler ve Dönüşümler",
+          "metin": "Fonksiyonlar üzerinde toplama, çarpma, bileşke (kompozisyon) gibi işlemler yapılabilir. Ayrıca, grafiğe kaydırma, yansıma, uzatma veya sıkıştırma gibi dönüşümler uygulanabilir."
+        },
+        {
+          "baslik": "Örnek Uygulama",
+          "metin": "Örnek: \\(f(x)=2x+3\\) fonksiyonu için:\n- Tanım kümesi genellikle \\(\\mathbb{R}\\) kabul edilir.\n- \\(x=1\\) için, \\(f(1)=2(1)+3=5\\) bulunur.\n- Fonksiyonun grafiği, doğrusal bir yapıya sahip olup, \\(y\\) ekseninde \\(3\\) kesişim noktası verir."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Fonksiyonlarda dikkat edilmesi gereken temel noktalar:\n- Her girdi için tek bir çıktı bulunmalıdır.\n- Tanım ve değer kümelerinin doğru belirlenmesi önemlidir.\n- Fonksiyon işlemlerinde (örneğin, bileşke fonksiyon) işlem sırasına ve dönüşümlerine dikkat edilmelidir."
+        },
+        {
+          "baslik": "Alıştırmalar ve Problemler",
+          "metin": "Konunun pekiştirilmesi için aşağıdaki alıştırmaları yapabilirsiniz:\n- \\(f(x)=x^2-4x+4\\) fonksiyonunun tanım ve değer kümelerini belirleyin ve grafiğini çizin.\n- \\(f(x)=3x-2\\) fonksiyonunda, \\(x=2\\) için \\(f(2)\\)'yi hesaplayın.\n- Fonksiyon dönüşümleri (kaydırma, yansıma) ile ilgili örnek problemler çözün."
+        }
+      ],
+      "Oran-Orantı": [
+        {
+          "baslik": "Oran ve Orantı Tanımı",
+          "metin": "Oran, iki sayının birbirine bölümü şeklinde ifade edilir. Örneğin, \\(a:b\\) veya \\(\\frac{a}{b}\\) biçiminde yazılır. Orantı ise, iki oranın eşit olduğu durumları ifade eder; yani \\(a:b = c:d\\) şeklinde gösterilir ve çapraz çarpım yöntemiyle \\(a \\times d = b \\times c\\) eşitliği sağlanır."
+        },
+        {
+          "baslik": "Oranların Yazım Şekli",
+          "metin": "Oranlar genellikle \\(a:b\\) veya \\(\\frac{a}{b}\\) şeklinde yazılır. Bu yazım, ilgili iki değerin birbirine oranını belirtir. Örneğin, bir sınıfta erkek ve kız öğrencilerin oranı \\(10:15\\) veya \\(\\frac{10}{15}\\) şeklinde ifade edilebilir."
+        },
+        {
+          "baslik": "Orantı Kavramı ve Özellikleri",
+          "metin": "Orantı, iki oran eşit olduğunda ortaya çıkar. \\(a:b = c:d\\) şeklindeki orantıda, karşılıklı çarpımların eşitliği \\(a \\times d = b \\times c\\) her zaman geçerli olacaktır. Bu özellik, orantı problemlerini çözerken temel yöntemlerden biri olan çapraz çarpım yönteminin kullanılmasını sağlar."
+        },
+        {
+          "baslik": "Oran-Orantı Problemleri Çözme Adımları",
+          "metin": "Oran ve orantı problemlerini çözmek için genel adımlar şunlardır:\n1. Verilen oran veya orantı ifadesini dikkatlice tanımlayın.\n2. Eğer bilinmeyen varsa, eşitlik kurarak \\(a:b = c:d\\) şeklinde yazın.\n3. Çapraz çarpım yaparak \\(a \\times d = b \\times c\\) eşitliğini elde edin.\n4. İlgili bilinmeyeni izole edip, çözüme ulaşın."
+        },
+        {
+          "baslik": "Örnek Uygulama",
+          "metin": "Örnek: \\(\\frac{2}{5} = \\frac{x}{15}\\) orantısını düşünelim.\n- Çapraz çarpım yaparak: \\(2 \\times 15 = 5 \\times x\\) elde edilir. \n- Sonuç: \\(30 = 5x\\) \n- Bilinmeyeni izole ederek: \\(x = \\frac{30}{5} = 6\\) bulunur.\nBu örnek, oran ve orantı problemlerinde çapraz çarpım yönteminin nasıl uygulandığını gösterir."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Oran ve orantı problemlerinde, payda sıfır olmamalıdır. Oranların sadeleştirilmesi işleminde dikkatli olunmalı, ve çapraz çarpım yöntemi uygulanırken her adım özenle kontrol edilmelidir."
+        },
+        {
+          "baslik": "Alıştırmalar ve Ek Uygulamalar",
+          "metin": "Konunun pekiştirilmesi için aşağıdaki alıştırmaları yapabilirsiniz:\n- \\(\\frac{3}{4} = \\frac{x}{8}\\) orantısını çözüp, \\(x\\)'in değerini bulun.\n- \\(\\frac{5}{7} = \\frac{15}{y}\\) orantısında bilinmeyen \\(y\\)'yi hesaplayın.\nBu alıştırmalar, oran ve orantı konusundaki temel kavramları uygulamanız açısından faydalı olacaktır."
+        }
+      ],
+      "Problemler": [
+        {
+          "baslik": "Problemler Tanımı",
+          "metin": "Problemler, gerçek hayattan veya matematiksel kavramlardan yola çıkarak, çözüm gerektiren sorular ve durumları ifade eder. Bu konunun amacı, analitik düşünme, modelleme ve sistematik çözüm stratejilerini geliştirmektir."
+        },
+        {
+          "baslik": "Problemi Anlama ve Yorumlama",
+          "metin": "Bir problemi çözerken, öncelikle problemin metni dikkatlice okunmalı, verilen bilgiler, anahtar kelimeler ve bilinmeyenler tespit edilmelidir. Problemin neyi sorduğu ve hangi bilgilerin verildiği doğru şekilde yorumlanmalıdır."
+        },
+        {
+          "baslik": "Matematiksel Modelleme",
+          "metin": "Problemin gerçek hayattaki durumu matematiksel ifadelere dönüştürülmelidir. Bu aşamada; denklemler, oranlar, orantılar veya fonksiyonlar gibi matematiksel araçlar kullanılarak problemi modellemek gerekmektedir."
+        },
+        {
+          "baslik": "Çözüm Stratejileri ve Adımları",
+          "metin": "Genel problem çözme adımları şunlardır:\n1. Problemi dikkatlice okuyun ve anlayın.\n2. Verilen bilgileri sisteme dökün, anahtarları, bilinmeyenleri ve ilişkileri not alın.\n3. Uygun matematiksel kavramları, formülleri ve yöntemleri belirleyin.\n4. Problemi matematiksel ifadeye, denkleme veya orantıya dönüştürün.\n5. Çözüm adımlarını sistematik bir şekilde uygulayın.\n6. Elde ettiğiniz sonucu tekrar kontrol ederek doğruluğundan emin olun."
+        },
+        {
+          "baslik": "Kelime Problemleri",
+          "metin": "Kelime problemleri, sözel ifadeler içinde saklı olan matematiksel ilişkilerin ortaya çıkarılması ve modelleştirilmesi işlemidir. Bu tür problemler, genellikle günlük yaşam durumu, oranlar, yaş problemleri veya mesafe-hız problemleri gibi konuları kapsar."
+        },
+        {
+          "baslik": "Örnek Uygulama",
+          "metin": "Örnek: Bir sınıfta 30 öğrenci bulunmaktadır. Bu öğrencilerden \\(\\frac{2}{3}\\)'ü matematikten, \\(\\frac{3}{5}\\)'i fen bilgisinden başarı almıştır. Her iki dersten de başarılı olan öğrenci sayısı 10 ise, sadece bir dersten başarılı olan öğrenci sayısını bulunuz.\n\nAdım 1: Matematikten başarılı öğrenci sayısı:\n\\(\\frac{2}{3} \\times 30 = 20\\).\nAdım 2: Fen bilgisinden başarılı öğrenci sayısı:\n\\(\\frac{3}{5} \\times 30 = 18\\).\nAdım 3: Her iki dersten başarılı olanların sayısı 10 olduğuna göre, yalnızca bir dersten başarılı olan öğrenci sayısı:\n\\((20 + 18) - 2 \\times 10 = 8\\).\nBu örnek, Venn diyagramı yaklaşımı ve çapraz kontrol yöntemi ile problemin çözümünü gösterir."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Problemleri çözerken;\n- Verilen bilgilerin tamamını dikkate alın.\n- Gereksiz veya yanıltıcı detayları ayıklayın.\n- Çözüm adımlarını mantıklı sırayla takip edip, sonucun gerçekçi olup olmadığını kontrol edin.\n- Her adımda yapılan hesaplamaları tekrar gözden geçirin."
+        },
+        {
+          "baslik": "Alıştırmalar ve Ek Uygulamalar",
+          "metin": "Konunun pekiştirilmesi için farklı problem türlerinde alıştırmalar yapın:\n- Oran ve orantı problemleri\n- Yaş, mesafe ve hız problemleri\n- Denklemler ve eşitsizlik içeren problemler\nBu alıştırmalar, problem çözme stratejilerinizi geliştirmenize yardımcı olacaktır."
+        }
+      ],
+      "Sayısal Mantık": [
+        {
+          "baslik": "Sayısal Mantık Tanımı",
+          "metin": "Sayısal Mantık, sayılarla ilgili verilerin analiz edilmesi, mantıksal çıkarım yürütme, örüntü ve düzen ilişkilerinin tespit edilmesini gerektiren problem çözme konusudur. Bu konu, özellikle sınavlarda karşılaşılan mantık, sıralama ve veri yorumlama sorularının temelini oluşturur."
+        },
+        {
+          "baslik": "Temel Kavramlar ve Teknikler",
+          "metin": "Sayısal Mantık sorularında sayı dizileri, oranlar, frekanslar, tablolar ve grafikler ön plana çıkar. Soruları çözerken veriler arasındaki ilişkileri, örüntüleri ve düzeni tespit etmek esastır. Bu tür sorularda verilen veriler dikkatlice incelenmeli, hangi bilginin ipucu olduğuna karar verilmelidir."
+        },
+        {
+          "baslik": "Uygulama Stratejileri",
+          "metin": "Soruları çözerken izlenecek adımlar şunlardır:\n1. Verilen tüm sayısal verileri ve ipuçlarını dikkatlice okuyun.\n2. Sayılar arasındaki düzeni, artış veya azalış örüntülerini belirleyin.\n3. Gerekirse verileri sıralayın veya gruplandırın.\n4. Çıkarım yaparak sonuca ulaşın ve sonucu kontrol edin."
+        },
+        {
+          "baslik": "Örnek Uygulama",
+          "metin": "Örnek: Bir sayı dizisi verilsin: 3, 6, 12, 24, ?\n- Mantık: Her sayı, kendisinden önceki sayının 2 katıdır.\n- Eksik sayı: 24 × 2 = 48.\nBu örnek, sayı dizilerinde basit örüntü belirleme stratejisinin nasıl uygulandığını göstermektedir."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Sayısal Mantık sorularında;\n- Tüm ipuçlarını gözden kaçırmadan okumalı,\n- Gereksiz detaylara takılmadan temel örüntüyü belirlemeli ve,\n- Çözüm adımlarını mantıksal ve sistematik bir şekilde uygulamalısınız.\nBu sayede doğru ve hızlı sonuçlara ulaşabilirsiniz."
+        },
+        {
+          "baslik": "Alıştırmalar ve Ek Uygulamalar",
+          "metin": "Konunun pekiştirilmesi için farklı örüntü ve düzen sorularında pratik yapın. Örneğin:\n- Farklı sayı dizileri verilip, eksik sayının bulunması,\n- Tablolardan veri analizi ve yorumlama soruları,\n- Grafik ve diyagramlardan çıkarım yapma gibi alıştırmalar yaparak analitik düşünme yeteneğinizi geliştirin."
+        }
+      ],
+      "Permütasyon-Kombinasyon-Olasılık": [
+        {
+          "baslik": "Tanım ve Temel Kavramlar",
+          "metin": "Bu konu üç ana bölümden oluşur: Permütasyon, Kombinasyon ve Olasılık.\n\n- **Permütasyon:** Belirli sayıda nesnenin sıralı dizilişleridir. Sıralamanın önemli olduğu durumlarda kullanılır.\n- **Kombinasyon:** Nesnelerin sıralama gözetmeksizin seçilmesi durumudur. Seçimin sıralamaya bağlı olmadığı durumlarda kullanılır.\n- **Olasılık:** Bir olayın gerçekleşme ihtimalini ifade eder. Genellikle \\(P(E) = \\frac{\\text{İstenen durum sayısı}}{\\text{Tüm durum sayısı}}\\) formülüyle hesaplanır."
+        },
+        {
+          "baslik": "Permütasyon",
+          "metin": "Permütasyon, \\(n\\) tane nesneden \\(r\\) tanesini sıralı olarak seçme işlemidir.\n\nTemel formül: \\(P(n, r) = \\frac{n!}{(n-r)!}\\).\n\nÖrneğin: 10 öğeden 3'ünü sıralamak için:\n\\(P(10, 3) = \\frac{10!}{(10-3)!} = \\frac{10!}{7!} = 10 \\times 9 \\times 8 = 720\\)."
+        },
+        {
+          "baslik": "Kombinasyon",
+          "metin": "Kombinasyon, \\(n\\) tane nesneden \\(r\\) tanesinin sırasız olarak seçilmesidir.\n\nTemel formül: \\(C(n, r) = \\frac{n!}{r!(n-r)!}\\).\n\nÖrneğin: 10 öğeden 3'ünü seçmek için:\n\\(C(10, 3) = \\frac{10!}{3! \\times 7!} = 120\\)."
+        },
+        {
+          "baslik": "Olasılık",
+          "metin": "Olasılık, belirli bir olayın gerçekleşme ihtimalini ölçen bir kavramdır. Olasılık değeri 0 ile 1 arasında değişir.\n\nTemel formül: \\(P(E) = \\frac{\\text{İstenen durum sayısı}}{\\text{Tüm durum sayısı}}\\).\n\nÖrneğin: Adil bir zar atıldığında, belirli bir yüzün gelme olasılığı\n\\(P(\\text{belirli yüz}) = \\frac{1}{6}\\) şeklinde hesaplanır."
+        },
+        {
+          "baslik": "Örnek Uygulama",
+          "metin": "Örnek 1: Bir sınıfta 10 öğrenciden 3’ünü sıralama önemine göre seçmek (permütasyon):\n\\(P(10, 3) = \\frac{10!}{7!} = 720\\).\n\nÖrnek 2: Aynı sınıfta 10 öğrenciden 3’ünü sıralama gözetmeksizin seçmek (kombinasyon):\n\\(C(10, 3) = \\frac{10!}{3! \\times 7!} = 120\\).\n\nÖrnek 3: Bir zar atıldığında 6 farklı durumdan her birinin olasılığı:\n\\(P(\\text{belirli yüz}) = \\frac{1}{6}\\)."
+        },
+        {
+          "baslik": "Dikkat Edilmesi Gereken Hususlar",
+          "metin": "Permütasyon ve kombinasyon problemlerinde:\n- Sıralamanın önemli olup olmadığına dikkat edilmelidir.\n- Faktöriyel hesaplarının doğru yapılması gerekmektedir.\n\nOlasılık hesaplamalarında ise:\n- Tüm olası durumların doğru sayılması,\n- İstenen durum sayısının eksiksiz belirlenmesi önemlidir."
+        },
+        {
+          "baslik": "Alıştırmalar ve Ek Uygulamalar",
+          "metin": "Konuyu pekiştirmek için aşağıdaki alıştırmaları yapabilirsiniz:\n- Farklı permütasyon problemleri çözün, örneğin, öncelik sıralamasının önemli olduğu durumları belirleyin.\n- Kombinasyon problemleriyle, sıralama gözetilmeyen seçimleri pratik yapın.\n- Zar, kart veya sınıf örnekleri üzerinden olasılık hesaplamaları gerçekleştirin."
+        }
+      ]
+    },
     "Tarih": {
       "İslamiyet Öncesi Türk Devletleri": [
         {
