@@ -7295,15 +7295,44 @@
           "dogruCevap": "I, II ve III"
         },
         {
-          "soru": "I. Yüreğim ağzıma geldi.\nII. İçim içime sığmıyor.\nIII. Gözlerim fal taşı gibi açıldı.\nIV. Dilim tutuldu.\nV. Beynimden vurulmuşa döndüm.\nYukarıdaki deyimlerden hangileri 'şaşırma' anlamı dışında kullanılabilir?",
+          "soru": "Aşağıdaki cümlelerden hangisi, \"Öğretmen, öğrencilerin derse katılımını artırmak amacıyla yeni yöntemler denemeye karar verdi.\" cümlesinin anlamını en doğru şekilde ifade eder?",
           "secenekler": [
-            "I ve II",
-            "II ve III",
-            "III ve IV",
-            "IV ve V",
-            "I ve V"
+            "Öğrencilerin derse katılımını artırmak amacıyla, öğretmen yeni yöntemler denemeye karar vermiştir.",
+            "Öğrencilerin derse katılımını artırmak için öğretmenin kullandığı yöntemler yetersiz kalmıştır.",
+            "Öğretmen, öğrencilerin derse katılımını artırmak amacıyla eski yöntemleri terk edip yenilerini denemeye başlamıştır.",
+            "Öğrencilerin derse katılımını artırmak amacıyla, öğretmen yeni yöntemler denememiştir."
           ],
-          "dogruCevap": "I ve II"
+          "dogruCevap": "Öğrencilerin derse katılımını artırmak amacıyla, öğretmen yeni yöntemler denemeye karar vermiştir."
+        },
+        {
+          "soru": "Verilen cümle: \"Öğrenciler, ders sırasında aktif katılım gösterdikleri takdirde daha başarılı olacaklardır.\" Aşağıdakilerden hangisi cümlenin anlamını en doğru şekilde yeniler?",
+          "secenekler": [
+            "Ders sırasında aktif katılım gösteren öğrenciler, başarılarını artıracaktır.",
+            "Öğrenciler, ders sırasında aktif katılım göstermedikçe başarılı olmayacaklardır.",
+            "Sadece aktif katılım gösteren öğrenciler başarıya ulaşabilir.",
+            "Ders sırasında aktif katılımın başarı üzerindeki etkisi yoktur."
+          ],
+          "dogruCevap": "Ders sırasında aktif katılım gösteren öğrenciler, başarılarını artıracaktır."
+        },
+        {
+          "soru": "Verilen cümle: \"Yazar, eserinde insanın içsel dünyasını ve duygusal çalkantılarını etkileyici bir dille anlatmıştır.\" Aşağıdakilerden hangisi cümlenin anlamını en doğru şekilde ifade eder?",
+          "secenekler": [
+            "Yazar, eserinde insan ruhunun derinliklerini ve duygusal hareketliliği başarılı bir şekilde ortaya koymuştur.",
+            "Yazar, insanın dış dünyasını ve toplumsal yapılarını eserinde işlemiştir.",
+            "Yazar, eserinde duygusal çalkantılara yer vererek insanı yüceltmiştir.",
+            "Yazar, insanın içsel dünyasını eksik işleyerek anlatımda başarısız olmuştur."
+          ],
+          "dogruCevap": "Yazar, eserinde insan ruhunun derinliklerini ve duygusal hareketliliği başarılı bir şekilde ortaya koymuştur."
+        },
+        {
+          "soru": "Verilen cümle: \"Modern sanatın sokak estetiğiyle bütünleşmesi, şehir yaşamını daha canlı hale getirmiştir.\" Aşağıdakilerden hangisi cümlenin anlamını en doğru şekilde yansıtır?",
+          "secenekler": [
+            "Modern sanatın sokak dekorasyonuyla kaynaşması, şehir yaşamında canlılık oluşturmuştur.",
+            "Modern sanatın sokak estetiğiyle uyum içinde olması, şehir yaşamına dinamizm katmıştır.",
+            "Şehir yaşamı, modern sanatın etkisiyle daha düzenli bir yapı kazanmıştır.",
+            "Modern sanat, sokak estetiğini bozarak şehir yaşamını olumsuz etkilemiştir."
+          ],
+          "dogruCevap": "Modern sanatın sokak estetiğiyle uyum içinde olması, şehir yaşamına dinamizm katmıştır."
         }
       ],
       "Anlatımın Oluşması": [
