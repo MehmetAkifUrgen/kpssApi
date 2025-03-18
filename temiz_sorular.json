@@ -3,86 +3,6 @@
     "Tarih": {
       "İslamiyet Öncesi Türk Tarihi": [
         {
-          "soru": "Türk adı ilk defa hangi kaynakta geçmiştir?",
-          "secenekler": [
-            "Bizans",
-            "Kaşgarlı Mahmut",
-            "Çin",
-            "Ziya Gökalp"
-          ],
-          "dogruCevap": "Çin"
-        },
-        {
-          "soru": "Türklerin en eski kültür merkezi hangisidir?",
-          "secenekler": [
-            "Anav",
-            "Afanesyova",
-            "Karasuk",
-            "Tagar"
-          ],
-          "dogruCevap": "Anav"
-        },
-        {
-          "soru": "Türklerin bilinen ilk topluluğu hangisidir?",
-          "secenekler": [
-            "İskitler",
-            "Uygurlar",
-            "Hunlar",
-            "Köktürkler"
-          ],
-          "dogruCevap": "İskitler"
-        },
-        {
-          "soru": "Alp Er Tunga Destanı hangi Türk topluluğuna aittir?",
-          "secenekler": [
-            "İskitler",
-            "Hunlar",
-            "Göktürkler",
-            "Uygurlar"
-          ],
-          "dogruCevap": "İskitler"
-        },
-        {
-          "soru": "Maniheizm dinini benimseyen Türk devleti hangisidir?",
-          "secenekler": [
-            "Uygurlar",
-            "Göktürkler",
-            "Hunlar",
-            "Avarlar"
-          ],
-          "dogruCevap": "Uygurlar"
-        },
-        {
-          "soru": "Avrupa’da kurulan ilk Türk devleti hangisidir?",
-          "secenekler": [
-            "Avrupa Hun Devleti",
-            "Göktürkler",
-            "Peçenekler",
-            "Avarlar"
-          ],
-          "dogruCevap": "Avrupa Hun Devleti"
-        },
-        {
-          "soru": "Türklerin İslamiyet’i kabul eden ilk topluluğu hangisidir?",
-          "secenekler": [
-            "Karluklar",
-            "Kıpçaklar",
-            "Avarlar",
-            "Hunlar"
-          ],
-          "dogruCevap": "Karluklar"
-        },
-        {
-          "soru": "Kürşad Ayaklanması hangi Türk devleti zamanında gerçekleşmiştir?",
-          "secenekler": [
-            "Göktürkler",
-            "Hunlar",
-            "Uygurlar",
-            "Hazarlar"
-          ],
-          "dogruCevap": "Göktürkler"
-        },
-        {
           "soru": "Göktürkler’in Çin’e karşı bağımsızlık mücadelesi sonucunda kurulan devlet hangisidir?",
           "secenekler": [
             "II. Göktürk Devleti",
@@ -91,16 +11,6 @@
             "Hazarlar"
           ],
           "dogruCevap": "II. Göktürk Devleti"
-        },
-        {
-          "soru": "Orta Asya’da kurulan ilk Türk devleti hangisidir?",
-          "secenekler": [
-            "Asya Hun Devleti",
-            "Göktürkler",
-            "Uygurlar",
-            "Hazarlar"
-          ],
-          "dogruCevap": "Asya Hun Devleti"
         }
       ],
       "İslamiyet Öncesi Türk Kültürü ve Uygarlık": [
@@ -135,16 +45,6 @@
           "dogruCevap": "Hakan"
         },
         {
-          "soru": "İslamiyet öncesi Türk devletlerinde vergi memuruna hangi unvan verilmiştir?",
-          "secenekler": [
-            "Tuden",
-            "Buyruk",
-            "Erkin",
-            "Aygucı"
-          ],
-          "dogruCevap": "Tuden"
-        },
-        {
           "soru": "İslamiyet öncesi Türk devletlerinde Hükümdarın eğitimini üstlenen kişi hangi unvanla anılır?",
           "secenekler": [
             "Şad",
@@ -173,16 +73,6 @@
             "Köktürkler dönemi"
           ],
           "dogruCevap": "Köktürkler dönemi"
-        },
-        {
-          "soru": "İslamiyet öncesi Türklerde Güneş Kültü ile ilgili hangi spor adı verilmiştir?",
-          "secenekler": [
-            "Kureş",
-            "Seğirtme",
-            "Tepük",
-            "Yelme"
-          ],
-          "dogruCevap": "Kureş"
         }
       ],
       "İlk Türk-İslam Devletleri ve Beylikleri": [
@@ -199,28 +89,6 @@
         }
       ],
       "Anadolu Beylikleri": [
-        {
-          "soru": "Aşağıdaki beyliklerden hangisi denizcilik faaliyetleriyle ön plana çıkmıştır?",
-          "secenekler": [
-            "Çaka Beyliği",
-            "Saltuklular",
-            "Mengücekliler",
-            "Artuklular"
-          ],
-          "dogruCevap": "Çaka Beyliği",
-          "aciklama": "Çaka Beyliği, İzmir merkezli ilk Türk denizcilik beyliğidir."
-        },
-        {
-          "soru": "Danişmendname hangi beylik döneminde yazılmıştır?",
-          "secenekler": [
-            "Danişmentliler",
-            "Artuklular",
-            "Saltuklular",
-            "Mengücekliler"
-          ],
-          "dogruCevap": "Danişmentliler",
-          "aciklama": "Danişmendname, Danişmentliler döneminin önemli edebi eserlerindendir."
-        },
         {
           "soru": "Aşağıdaki beyliklerden hangisi Bizans'a karşı ilk deniz savaşlarını yapmıştır?",
           "secenekler": [
@@ -337,50 +205,8 @@
           "dogruCevap": "Divan-ı Hümayun"
         }
       ],
-      "Osmanlı Devleti’nde Kültür ve Medeniyet 2": [
-        {
-          "soru": "Osmanlı'da kadılar hangi alanda görev yapardı?",
-          "secenekler": [
-            "Adalet",
-            "Askerlik",
-            "Maliye",
-            "Ticaret"
-          ],
-          "dogruCevap": "Adalet"
-        },
-        {
-          "soru": "Osmanlı Devleti’nde 'Arasta' nedir?",
-          "secenekler": [
-            "Askeri okul",
-            "Çarşı",
-            "Kütüphane",
-            "Tarımsal alan"
-          ],
-          "dogruCevap": "Çarşı"
-        }
-      ],
-      "Osmanlı Devleti’nde Kültür ve Medeniyet 3": [
-        {
-          "soru": "İstanbul’da şehri yöneten en yüksek mülki amir kimdir?",
-          "secenekler": [
-            "Şehremini",
-            "Sadrazam",
-            "Yeniçeri Ağası",
-            "Asesbaşı"
-          ],
-          "dogruCevap": "Şehremini"
-        },
-        {
-          "soru": "Divan-ı Hümayun üyelerinden hangisi mali işlerden sorumlu olmuştur?",
-          "secenekler": [
-            "Defterdar",
-            "Sadrazam",
-            "Reisülküttap",
-            "Kazasker"
-          ],
-          "dogruCevap": "Defterdar"
-        }
-      ],
+      "Osmanlı Devleti’nde Kültür ve Medeniyet 2": [],
+      "Osmanlı Devleti’nde Kültür ve Medeniyet 3": [],
       "Osmanlı Devleti’nde Kültür ve Medeniyet 4": [
         {
           "soru": "Osmanlı Devleti'nde 'devşirme' sistemi hangi bölgedeki Hristiyan köylerinde en fazla uygulanmıştır?",
@@ -401,16 +227,6 @@
             "Devşirmeler"
           ],
           "dogruCevap": "Devşirmeler"
-        },
-        {
-          "soru": "Osmanlı'da 'Tersane Emin' neyi ifade eder?",
-          "secenekler": [
-            "Donanma komutanı",
-            "Tersane sorumlusu",
-            "Sadrazamın vekili",
-            "Devlet hazinesi yöneticisi"
-          ],
-          "dogruCevap": "Tersane sorumlusu"
         },
         {
           "soru": "Osmanlı'da hangi toprak türü, hükümetin ve padişahın en yüksek gelir kaynaklarıdır?",
@@ -648,16 +464,6 @@
           "aciklama": "Amasya Genelgesi, Samsun'a çıkıştan sonra yayımlanmıştır."
         },
         {
-          "soru": "Erzurum Kongresi'nde alınan kararlar arasında hangisi yer almaz?",
-          "secenekler": [
-            "Milli egemenlik ilkesinin benimsenmesi",
-            "Kuva-yi Milliye'nin kurulması",
-            "Padişahın yetkilerinin artırılması",
-            "İstanbul hükümetine karşı direniş"
-          ],
-          "dogruCevap": "Padişahın yetkilerinin artırılması"
-        },
-        {
           "soru": "Mustafa Kemal'in, Amasya Genelgesi'ni yayımlayarak milli mücadelenin ilk adımını attığı dönemde, hangi şehirde yerel direniş hareketleri başlamıştır?",
           "secenekler": [
             "Samsun",
@@ -676,16 +482,6 @@
             "Mustafa Kemal'in Kurtuluş Savaşı'nın lideri olarak seçilmesi"
           ],
           "dogruCevap": "Ulusal egemenliğin ilk kez savunulması"
-        },
-        {
-          "soru": "Sivas Kongresi sırasında alınan kararlar arasında yer alanlardan biri hangisidir?",
-          "secenekler": [
-            "Milli iradenin egemenliği",
-            "Saltanatın devam etmesi",
-            "İstanbul hükümetinin tanınması",
-            "Cumhuriyetin ilanı"
-          ],
-          "dogruCevap": "Milli iradenin egemenliği"
         },
         {
           "soru": "Kurtuluş Savaşı hazırlık döneminde, Osmanlı hükümetinin işgallere karşı etkisizliği üzerine hangi yapı kurularak direniş sağlanmıştır?",
@@ -708,16 +504,6 @@
           "dogruCevap": "Müdafa-i Hukuk Cemiyeti"
         },
         {
-          "soru": "Amasya Genelgesi'nde, milli mücadelenin merkezi olarak hangi şehir belirtilmiştir?",
-          "secenekler": [
-            "Sivas",
-            "Ankara",
-            "Amasya",
-            "İstanbul"
-          ],
-          "dogruCevap": "Amasya"
-        },
-        {
           "soru": "Kurtuluş Savaşı'nın başlatılması için atılan adımlardan biri, hangi kongre kararlarıyla hukuki zemin bulmuştur?",
           "secenekler": [
             "Erzurum Kongresi",
@@ -738,16 +524,6 @@
           "dogruCevap": "Egemenliğin kayıtsız şartsız millete ait olması"
         },
         {
-          "soru": "Erzurum Kongresi'ni hangi cemiyet düzenlemiştir?",
-          "secenekler": [
-            "Kuva-yi Milliye",
-            "Osmanlı İttihat ve Terakki Cemiyeti",
-            "Müdafa-i Hukuk Cemiyeti",
-            "Teali İslam Cemiyeti"
-          ],
-          "dogruCevap": "Müdafa-i Hukuk Cemiyeti"
-        },
-        {
           "soru": "Kurtuluş Savaşı'nda Anadolu'da, ulusal bağımsızlık mücadelesinin en güçlü örgütlenmesinin adı nedir?",
           "secenekler": [
             "Kuva-yi Milliye",
@@ -766,16 +542,6 @@
             "Osmanlı İmparatorluğu'nun devamı"
           ],
           "dogruCevap": "Ulusal egemenlik"
-        },
-        {
-          "soru": "Erzurum Kongresi'ne katılan temsilciler, hangi sınıfın çıkarlarını savunmuştur?",
-          "secenekler": [
-            "Halk sınıfı",
-            "Osmanlı hükümeti",
-            "Müttefikler",
-            "Yerli aristokrasi"
-          ],
-          "dogruCevap": "Halk sınıfı"
         }
       ],
       "Kurtuluş Savaşı Hazırlık Dönemi 3": [],
@@ -1033,16 +799,6 @@
       ],
       "Partiler ve Partileşme Dönemi (İç Politika)": [
         {
-          "soru": "Türkiye Cumhuriyeti'nin ilk siyasi partisi hangisidir?",
-          "secenekler": [
-            "Cumhuriyet Halk Partisi",
-            "Serbest Cumhuriyet Fırkası",
-            "İttihat ve Terakki Cemiyeti",
-            "Halk Partisi"
-          ],
-          "dogruCevap": "Cumhuriyet Halk Partisi"
-        },
-        {
           "soru": "Cumhuriyet Halk Partisi, Cumhuriyet'in ilanından sonra hangi ilkeye dayalı olarak kurulan ilk siyasi partidir?",
           "secenekler": [
             "Laiklik",
@@ -1113,16 +869,6 @@
             "Uluslararası komisyonun kurulması"
           ],
           "dogruCevap": "Boğazlarda tam egemenlik hakkının elde edilmesi"
-        },
-        {
-          "soru": "Atatürk döneminde Balkan Antantı'na hangi ülke katılmamıştır?",
-          "secenekler": [
-            "Bulgaristan",
-            "Yunanistan",
-            "Yugoslavya",
-            "Romanya"
-          ],
-          "dogruCevap": "Bulgaristan"
         }
       ],
       "Atatürk Sonrası Dönem": [
@@ -1135,16 +881,6 @@
             "Marshall Yardımının başlaması"
           ],
           "dogruCevap": "Çok partili hayata geçiş"
-        },
-        {
-          "soru": "Demokrat Parti döneminde ekonomide yaşanan en önemli değişim hangisidir?",
-          "secenekler": [
-            "Liberal ekonomi politikalarının benimsenmesi",
-            "Devletçi politikaların güçlendirilmesi",
-            "Dış ticarette kısıtlamaların artırılması",
-            "Tarım sektörünün gerilemesi"
-          ],
-          "dogruCevap": "Liberal ekonomi politikalarının benimsenmesi"
         },
         {
           "soru": "İsmet İnönü döneminde çıkarılan Çiftçiyi Topraklandırma Kanunu'nun amacı nedir?",
@@ -1230,16 +966,6 @@
             "I, II ve III"
           ],
           "dogruCevap": "I, II ve III"
-        },
-        {
-          "soru": "Türkiye'nin bulunduğu konum aşağıdakilerden hangisinin oluşmasında etkili değildir?",
-          "secenekler": [
-            "Bitki örtüsü çeşitliliği",
-            "İklim çeşitliliği",
-            "Yer altı kaynakları",
-            "Kıyı şekilleri"
-          ],
-          "dogruCevap": "Yer altı kaynakları"
         },
         {
           "soru": "Türkiye'nin coğrafi konumu ile ilgili;\nI. Doğu-batı yönünde uzanması\nII. Üç tarafının denizlerle çevrili olması\nIII. Orta kuşakta yer alması\nÖzelliklerinden hangileri tarım ürünü çeşitliliğini artırır?",
@@ -1657,16 +1383,6 @@
           "dogruCevap": "I, II ve III"
         },
         {
-          "soru": "Aşağıdakilerden hangisi Türkiye'de nüfusun yaş yapısının özelliklerinden biri değildir?",
-          "secenekler": [
-            "Genç nüfus oranının fazla olması",
-            "Çalışan nüfusun artması",
-            "Yaşlı nüfus oranının azalması",
-            "Bağımlı nüfusun azalması"
-          ],
-          "dogruCevap": "Yaşlı nüfus oranının azalması"
-        },
-        {
           "soru": "Türkiye'de;\nI. Sanayi bölgeleri\nII. Turizm merkezleri\nIII. Maden çıkarım alanları\nYerlerinden hangilerinde nüfus yoğunluğu fazladır?",
           "secenekler": [
             "Yalnız I",
@@ -1988,36 +1704,6 @@
       ],
       "Türkiye'de Ulaşım, Ticaret ve Turizm": [
         {
-          "soru": "Aşağıdakilerden hangisi Türkiye'deki önemli tarihi turistik alanlardan biridir?",
-          "secenekler": [
-            "Nemrut Harabeleri",
-            "Perge",
-            "Efes",
-            "Hasankeyf"
-          ],
-          "dogruCevap": "Nemrut Harabeleri"
-        },
-        {
-          "soru": "Türkiye'nin en fazla hangi ürün ihracatını yapmaktadır?",
-          "secenekler": [
-            "Fındık",
-            "Üzüm",
-            "Pamuk",
-            "İncir"
-          ],
-          "dogruCevap": "Fındık"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi Türkiye'nin en fazla ithalat yaptığı ülkelerden biridir?",
-          "secenekler": [
-            "Almanya",
-            "Çin",
-            "ABD",
-            "İtalya"
-          ],
-          "dogruCevap": "Çin"
-        },
-        {
           "soru": "Türkiye'de;\nI. Karayolları\nII. Demiryolları\nIII. Havayolları\nUlaşım türlerinden hangileri son yıllarda daha fazla gelişme göstermiştir?",
           "secenekler": [
             "Yalnız I",
@@ -2038,16 +1724,6 @@
             "Dağların kıyıya paralel uzanması"
           ],
           "dogruCevap": "Dağların kıyıya paralel uzanması"
-        },
-        {
-          "soru": "Aşağıdaki illerden hangisi Türkiye'nin İç Anadolu Bölgesi'ne ait değildir?",
-          "secenekler": [
-            "Konya",
-            "Eskişehir",
-            "Kırşehir",
-            "Bolu"
-          ],
-          "dogruCevap": "Bolu"
         },
         {
           "soru": "Türkiye'nin en büyük volkanik dağı olan Ağrı Dağı hangi bölge sınırları içerisindedir?",
@@ -2238,26 +1914,6 @@
       ],
       "Söz Yorumu": [
         {
-          "soru": "Aşağıdaki ifadelerin hangisi eleştiri içermektedir?",
-          "secenekler": [
-            "Çok dağınık bir şekilde çalışıyorsun.",
-            "Bugün güzel bir gün olacak.",
-            "Yeni bir kıyafet aldım.",
-            "Herkese selam söyledim."
-          ],
-          "dogruCevap": "Çok dağınık bir şekilde çalışıyorsun."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisi bir şikayet içermektedir?",
-          "secenekler": [
-            "Bu oda çok karışık.",
-            "Yarın erkenden kalkacağım.",
-            "Arkadaşlar çok nazikti.",
-            "Bu yol çok güzel görünüyor."
-          ],
-          "dogruCevap": "Bu oda çok karışık."
-        },
-        {
           "soru": "Aşağıdaki cümlelerin hangisinde bir durumdan yakınma vardır?",
           "secenekler": [
             "Bu kadar işin arasında nasıl yetişeyim?",
@@ -2266,66 +1922,6 @@
             "Bahçe çok güzel görünüyor."
           ],
           "dogruCevap": "Bu kadar işin arasında nasıl yetişeyim?"
-        },
-        {
-          "soru": "Aşağıdaki ifadelerin hangisi bir teşekkür ifadesidir?",
-          "secenekler": [
-            "Yardımın için çok teşekkür ederim.",
-            "Bugün çok yoğun bir gün geçirdim.",
-            "Herkes çok çalışkandı.",
-            "Sınava çok iyi hazırlanmışsın."
-          ],
-          "dogruCevap": "Yardımın için çok teşekkür ederim."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisi bir rica ifadesidir?",
-          "secenekler": [
-            "Bana biraz su verir misin?",
-            "Bugün oldukça keyifli geçti.",
-            "Her şey tam da planladığımız gibi oldu.",
-            "Bu yol çok güzel görünüyor."
-          ],
-          "dogruCevap": "Bana biraz su verir misin?"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisi öz eleştiri içermektedir?",
-          "secenekler": [
-            "Bu sorunu daha önce fark etmeliydim.",
-            "Bugün oldukça yoğun bir gün geçirdim.",
-            "Arkadaşlar oldukça uyumluydu.",
-            "Projede her şey yolunda gitti."
-          ],
-          "dogruCevap": "Bu sorunu daha önce fark etmeliydim."
-        },
-        {
-          "soru": "Aşağıdaki ifadelerden hangisi bir kararlılık belirtmektedir?",
-          "secenekler": [
-            "Bu işi mutlaka başaracağım.",
-            "Bugün hava çok soğuk.",
-            "Arkadaşlarla dışarı çıkacağız.",
-            "Herkes oldukça keyifliydi."
-          ],
-          "dogruCevap": "Bu işi mutlaka başaracağım."
-        },
-        {
-          "soru": "Aşağıdaki ifadelerden hangisi bir teselli niteliğindedir?",
-          "secenekler": [
-            "Her şey zamanla düzelecek.",
-            "Bugün oldukça zorlu bir gündü.",
-            "Arkadaşlar oldukça neşeliydi.",
-            "Yeni bir hobi edinmek istiyorum."
-          ],
-          "dogruCevap": "Her şey zamanla düzelecek."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisi bir şaşkınlık ifade etmektedir?",
-          "secenekler": [
-            "Bu kadar hızlı olabileceğini düşünmemiştim.",
-            "Bugün oldukça sakin bir gün geçirdim.",
-            "Arkadaşlar oldukça keyifliydi.",
-            "Yeni bir telefon aldım."
-          ],
-          "dogruCevap": "Bu kadar hızlı olabileceğini düşünmemiştim."
         }
       ],
       "Deyim ve Atasözü": [
@@ -2358,16 +1954,6 @@
             "İnsan hata yapmaktan korkmamalıdır."
           ],
           "dogruCevap": "Hiçbir şey gereksiz değildir."
-        },
-        {
-          "soru": "“Burnundan solumak” deyimi ne anlama gelir?",
-          "secenekler": [
-            "Çok sinirlenmek",
-            "Sakin olmak",
-            "Heyecanlanmak",
-            "Mutlu olmak"
-          ],
-          "dogruCevap": "Çok sinirlenmek"
         },
         {
           "soru": "“Kulağına küpe olsun.” deyimi ne anlama gelir?",
@@ -2421,49 +2007,9 @@
             "Açıklama"
           ],
           "dogruCevap": "Açıklama"
-        },
-        {
-          "soru": "Bir paragrafta duyguların yoğun bir şekilde dile getirildiği anlatım tekniği hangisidir?",
-          "secenekler": [
-            "Betimleme",
-            "Duygusal Anlatım",
-            "Tartışma",
-            "Açıklama"
-          ],
-          "dogruCevap": "Duygusal Anlatım"
         }
       ],
       "Ses Bilgisi": [
-        {
-          "soru": "Aşağıdaki kelimelerden hangisi ünsüz yumuşamasına uğrar?",
-          "secenekler": [
-            "kitap",
-            "ağaç",
-            "uçak",
-            "kalp"
-          ],
-          "dogruCevap": "ağaç"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ünlü daralması görülür?",
-          "secenekler": [
-            "başlıyor",
-            "geliyor",
-            "gidiyor",
-            "arıyor"
-          ],
-          "dogruCevap": "arıyor"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ünlü düşmesi vardır?",
-          "secenekler": [
-            "burun",
-            "ağız",
-            "kardeş",
-            "bilezik"
-          ],
-          "dogruCevap": "burun"
-        },
         {
           "soru": "Türkçede ünsüz sertleşmesi hangi ünsüzlerde görülür?",
           "secenekler": [
@@ -2473,146 +2019,6 @@
             "f,h,ş,s"
           ],
           "dogruCevap": "p,ç,t,k"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisi ünlü uyumlarına tamamen uygundur?",
-          "secenekler": [
-            "çalışkan",
-            "kitaplık",
-            "mavi",
-            "gözlük"
-          ],
-          "dogruCevap": "gözlük"
-        },
-        {
-          "soru": "Aşağıdaki eklerden hangisi ünlü daralmasına sebep olur?",
-          "secenekler": [
-            "-yor",
-            "-lık",
-            "-ken",
-            "-dan"
-          ],
-          "dogruCevap": "-yor"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ünlü türemesi görülür?",
-          "secenekler": [
-            "saat",
-            "elma",
-            "yemek",
-            "minik"
-          ],
-          "dogruCevap": "saat"
-        },
-        {
-          "soru": "Hangi kelimede ünsüz benzeşmesi (sertleşmesi) görülür?",
-          "secenekler": [
-            "kitapçı",
-            "ağaçta",
-            "çocukça",
-            "halka"
-          ],
-          "dogruCevap": "ağaçta"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde kaynaştırma harfi kullanılmıştır?",
-          "secenekler": [
-            "kardeşi",
-            "evdeki",
-            "geliyor",
-            "köylü"
-          ],
-          "dogruCevap": "kardeşi"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisi ünsüz yumuşamasına uğramaz?",
-          "secenekler": [
-            "saat",
-            "kalp",
-            "renk",
-            "dolap"
-          ],
-          "dogruCevap": "saat"
-        },
-        {
-          "soru": "Hangi kelimede ünsüz düşmesi görülür?",
-          "secenekler": [
-            "küçücük",
-            "sevecen",
-            "küçükçe",
-            "sevecenlik"
-          ],
-          "dogruCevap": "küçücük"
-        },
-        {
-          "soru": "Hangi kelimede hem ünsüz yumuşaması hem de kaynaştırma harfi kullanılmıştır?",
-          "secenekler": [
-            "ağacı",
-            "kabağı",
-            "kitabı",
-            "dudağı"
-          ],
-          "dogruCevap": "kitabı"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ünlü daralması görülmez?",
-          "secenekler": [
-            "bakıyor",
-            "arıyor",
-            "gülüyor",
-            "oturuyor"
-          ],
-          "dogruCevap": "oturuyor"
-        },
-        {
-          "soru": "Hangi kelimede ünlü düşmesi görülmez?",
-          "secenekler": [
-            "oğul",
-            "burun",
-            "alın",
-            "kavun"
-          ],
-          "dogruCevap": "kavun"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde büyük ünlü uyumuna aykırılık vardır?",
-          "secenekler": [
-            "kardeş",
-            "kitap",
-            "şehir",
-            "gözlük"
-          ],
-          "dogruCevap": "şehir"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ses olayı görülmemektedir?",
-          "secenekler": [
-            "koşuyor",
-            "gitti",
-            "kardeşim",
-            "kitap"
-          ],
-          "dogruCevap": "kitap"
-        },
-        {
-          "soru": "Türkçede kaynaştırma harfleri hangileridir?",
-          "secenekler": [
-            "k,l,t,n",
-            "n,y,ş,s",
-            "y,ş,s,n",
-            "m,l,n,r"
-          ],
-          "dogruCevap": "y,ş,s,n"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisinde ses türemesi vardır?",
-          "secenekler": [
-            "his",
-            "elma",
-            "zemin",
-            "sınıf"
-          ],
-          "dogruCevap": "his"
         }
       ],
       "Yazım Kuralları": [
@@ -2647,16 +2053,6 @@
           "dogruCevap": "Bir yandan konuşuyor bir yandanda gülüyordu."
         },
         {
-          "soru": "Hangi cümlede ay adının yazımı yanlıştır?",
-          "secenekler": [
-            "2023 yılı Ocak ayında çok soğuktu.",
-            "Eylül ayı her zaman hüzün verir.",
-            "Yaz tatili Haziranda başlıyor.",
-            "Mart ayı ilkbaharın habercisidir."
-          ],
-          "dogruCevap": "Yaz tatili Haziranda başlıyor."
-        },
-        {
           "soru": "Aşağıdaki cümlelerin hangisinde yön adının yazımı yanlıştır?",
           "secenekler": [
             "Kuzey Anadolu Dağları boyunca ilerledik.",
@@ -2675,79 +2071,9 @@
             "Bursa ovası Türkiye'nin önemli tarım alanlarından biridir."
           ],
           "dogruCevap": "Bu yaz Karadeniz'e bir gezi düzenledik."
-        },
-        {
-          "soru": "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
-          "secenekler": [
-            "Fabrika İstanbul'un Avrupa yakasında yer alıyor.",
-            "Ayşe'nin yaptığı tatlı çok güzeldi.",
-            "Şubat tatilinde dağ evine gitmeyi düşünüyoruz.",
-            "Dün gece Ay ışığında yürüyüş yaptık."
-          ],
-          "dogruCevap": "Dün gece Ay ışığında yürüyüş yaptık."
-        },
-        {
-          "soru": "Hangi cümlede eklerin yazımı doğru yapılmıştır?",
-          "secenekler": [
-            "Bu kitabı alıp ev'ine götürdü.",
-            "Elbiseyi dolaba as'ıverdi.",
-            "Bahçeye çıktı ve çiçekleri suladı.",
-            "Akşam yemekde hep birlikteydik."
-          ],
-          "dogruCevap": "Bahçeye çıktı ve çiçekleri suladı."
         }
       ],
       "Sözcükte Yapı/Ekler": [
-        {
-          "soru": "Aşağıdaki sözcüklerden hangisi türemiş bir sözcüktür?",
-          "secenekler": [
-            "Ev",
-            "Evcil",
-            "Evimiz",
-            "Evde"
-          ],
-          "dogruCevap": "Evcil"
-        },
-        {
-          "soru": "Aşağıdaki cümledeki ek hangi tür ekidir? 'Kitaplarım' ",
-          "secenekler": [
-            "İyelik eki",
-            "Çoğul eki",
-            "Yönelme eki",
-            "Bağlaç eki"
-          ],
-          "dogruCevap": "İyelik eki"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi ek kullanılmıştır? 'Çocuklar parka gitmiş.'",
-          "secenekler": [
-            "Çoğul eki",
-            "Belirtili nesne eki",
-            "Yönelme eki",
-            "Zarf fiil eki"
-          ],
-          "dogruCevap": "Çoğul eki"
-        },
-        {
-          "soru": "Aşağıdaki kelimelerden hangisi birleşik sözcük örneği değildir?",
-          "secenekler": [
-            "Gözlük",
-            "Çalışkan",
-            "Hızlıca",
-            "Yazlık"
-          ],
-          "dogruCevap": "Hızlıca"
-        },
-        {
-          "soru": "Aşağıdaki eklerden hangisi yapım eki değildir?",
-          "secenekler": [
-            "–lik",
-            "–ci",
-            "–de",
-            "–den"
-          ],
-          "dogruCevap": "–de"
-        },
         {
           "soru": "Aşağıdaki cümledeki hangi kelimede türemiş ek kullanılmıştır? 'Okulda herkes kitap okuyor.'",
           "secenekler": [
@@ -2757,26 +2083,6 @@
             "Okuyor"
           ],
           "dogruCevap": "Okulda"
-        },
-        {
-          "soru": "Aşağıdaki sözcüklerden hangisinde bağlaç eki kullanılmıştır?",
-          "secenekler": [
-            "Yazıcı",
-            "Yazılım",
-            "Yazdı",
-            "Ve"
-          ],
-          "dogruCevap": "Ve"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi ek kullanılmıştır? 'Çalışkan öğrencilere ödül verildi.'",
-          "secenekler": [
-            "Çoğul eki",
-            "Yönelme eki",
-            "İyelik eki",
-            "Bağlaç eki"
-          ],
-          "dogruCevap": "İyelik eki"
         },
         {
           "soru": "Aşağıdaki cümlede hangi ek kullanılmıştır? 'O, her gün spor salonuna gider.'",
@@ -2799,16 +2105,6 @@
           "dogruCevap": "Zarf eki"
         },
         {
-          "soru": "Aşağıdaki kelimelerden hangisi ek almış bir sözcük değildir?",
-          "secenekler": [
-            "Çalışkan",
-            "Yazılı",
-            "Evde",
-            "Araba"
-          ],
-          "dogruCevap": "Araba"
-        },
-        {
           "soru": "Aşağıdaki cümledeki hangi kelimede türemiş ek kullanılmıştır? 'Okuldan sonra sinemaya gideceğim.'",
           "secenekler": [
             "Okuldan",
@@ -2817,16 +2113,6 @@
             "Sonra"
           ],
           "dogruCevap": "Okuldan"
-        },
-        {
-          "soru": "Aşağıdaki eklerden hangisi yönelme ekidir?",
-          "secenekler": [
-            "–a",
-            "–de",
-            "–ki",
-            "–den"
-          ],
-          "dogruCevap": "–a"
         }
       ],
       "İsim Sıfat Zamir Zarf": [
@@ -2841,76 +2127,6 @@
           "dogruCevap": "Çok"
         },
         {
-          "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Kitapları masanın üstüne koydum.'",
-          "secenekler": [
-            "Kitapları",
-            "Masanın",
-            "Üstüne",
-            "Koydum"
-          ],
-          "dogruCevap": "Kitapları"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'O, bizimle gelmedi.'",
-          "secenekler": [
-            "Bizimle",
-            "Gelmedi",
-            "O",
-            "Biz"
-          ],
-          "dogruCevap": "O"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Sarı elbiseyi çok beğendim.'",
-          "secenekler": [
-            "Sarı",
-            "Elbiseyi",
-            "Beğendim",
-            "Çok"
-          ],
-          "dogruCevap": "Sarı"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır? 'Evin etrafı çok düzenli.'",
-          "secenekler": [
-            "Evin",
-            "Çok",
-            "Düzenli",
-            "Etrafı"
-          ],
-          "dogruCevap": "Çok"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Kedim çok neşeli.'",
-          "secenekler": [
-            "Kedim",
-            "Çok",
-            "Neşeli",
-            "Ev"
-          ],
-          "dogruCevap": "Kedim"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'Bana yardım et.'",
-          "secenekler": [
-            "Bana",
-            "Yardım",
-            "Et",
-            "Bunu"
-          ],
-          "dogruCevap": "Bana"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Büyük bir şehirde yaşamak istiyorum.'",
-          "secenekler": [
-            "Büyük",
-            "Şehirde",
-            "Yaşamak",
-            "İstiyorum"
-          ],
-          "dogruCevap": "Büyük"
-        },
-        {
           "soru": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır? 'O, çok hızlı koşuyor.'",
           "secenekler": [
             "O",
@@ -2919,76 +2135,6 @@
             "Hızlı"
           ],
           "dogruCevap": "Hızlı"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Yolda yürüyen adamı gördüm.'",
-          "secenekler": [
-            "Yolda",
-            "Yürüyen",
-            "Adamı",
-            "Gördüm"
-          ],
-          "dogruCevap": "Adamı"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'Benimle gel.'",
-          "secenekler": [
-            "Benimle",
-            "Gel",
-            "O",
-            "Bizimle"
-          ],
-          "dogruCevap": "Benimle"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Kırmızı arabayı aldım.'",
-          "secenekler": [
-            "Kırmızı",
-            "Arabayı",
-            "Aldım",
-            "Bu"
-          ],
-          "dogruCevap": "Kırmızı"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır? 'Yavaş yavaş yürüdü.'",
-          "secenekler": [
-            "Yavaş",
-            "Yavaşça",
-            "Yürüdü",
-            "Gitti"
-          ],
-          "dogruCevap": "Yavaşça"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Sürekli kitap okurum.'",
-          "secenekler": [
-            "Sürekli",
-            "Kitap",
-            "Okurum",
-            "Bunu"
-          ],
-          "dogruCevap": "Kitap"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'Herkese teşekkür ederim.'",
-          "secenekler": [
-            "Herkese",
-            "Teşekkür",
-            "Ederim",
-            "Bu"
-          ],
-          "dogruCevap": "Herkese"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Sarı elbiseyi çok beğendim.'",
-          "secenekler": [
-            "Sarı",
-            "Elbiseyi",
-            "Çok",
-            "Beğendim"
-          ],
-          "dogruCevap": "Sarı"
         },
         {
           "soru": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır? 'O, çok dikkatli çalışıyor.'",
@@ -3001,56 +2147,6 @@
           "dogruCevap": "Çok"
         },
         {
-          "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Çok güzel bir manzara.'",
-          "secenekler": [
-            "Çok",
-            "Güzel",
-            "Bir",
-            "Manzara"
-          ],
-          "dogruCevap": "Güzel"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır? 'Güzelce konuştu.'",
-          "secenekler": [
-            "Güzelce",
-            "Konuştu",
-            "Bu",
-            "O"
-          ],
-          "dogruCevap": "Güzelce"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Arkadaşlarımla sinemaya gideceğim.'",
-          "secenekler": [
-            "Arkadaşlarımla",
-            "Sinemaya",
-            "Gideceğim",
-            "Bu"
-          ],
-          "dogruCevap": "Arkadaşlarımla"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'Onlar bizimle gelmediler.'",
-          "secenekler": [
-            "Onlar",
-            "Bizimle",
-            "Gelmediler",
-            "Gel"
-          ],
-          "dogruCevap": "Onlar"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Beyaz bir çiçek aldım.'",
-          "secenekler": [
-            "Beyaz",
-            "Bir",
-            "Çiçek",
-            "Aldım"
-          ],
-          "dogruCevap": "Beyaz"
-        },
-        {
           "soru": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır? 'Hızlıca koştu.'",
           "secenekler": [
             "Koştu",
@@ -3059,26 +2155,6 @@
             "Bu"
           ],
           "dogruCevap": "Hızlıca"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Yeni bir araba aldım.'",
-          "secenekler": [
-            "Yeni",
-            "Bir",
-            "Araba",
-            "Aldım"
-          ],
-          "dogruCevap": "Araba"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'O, bizimle gelmedi.'",
-          "secenekler": [
-            "Bizimle",
-            "Gelmedi",
-            "O",
-            "Biz"
-          ],
-          "dogruCevap": "O"
         }
       ],
       "İsim Sıfat Zamir Zarf 2": [
@@ -3163,16 +2239,6 @@
           "dogruCevap": "Zor (nitelik sıfatı)"
         },
         {
-          "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Güzel bir duygu hissettim.'",
-          "secenekler": [
-            "Güzel",
-            "Duygu",
-            "Hissettim",
-            "Bir"
-          ],
-          "dogruCevap": "Güzel"
-        },
-        {
           "soru": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır? 'Hızla koşarak yetişti.'",
           "secenekler": [
             "Hızla (manner zarfı)",
@@ -3203,16 +2269,6 @@
           "dogruCevap": "Yakında (zaman zarfı)"
         },
         {
-          "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Küçük çocuk parka gitti.'",
-          "secenekler": [
-            "Küçük",
-            "Çocuk",
-            "Park",
-            "Gitti"
-          ],
-          "dogruCevap": "Çocuk"
-        },
-        {
           "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Çok soğuk bir havada dışarıda kaldım.'",
           "secenekler": [
             "Çok (miktar zarfı)",
@@ -3221,16 +2277,6 @@
             "Havada (yer zarfı)"
           ],
           "dogruCevap": "Soğuk (nitelik sıfatı)"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'Bunlar benim kitaplarım.'",
-          "secenekler": [
-            "Bunlar",
-            "Benim",
-            "Kitaplarım",
-            "Olan"
-          ],
-          "dogruCevap": "Bunlar"
         },
         {
           "soru": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır? 'Yavaşça yürümelisin.'",
@@ -3375,16 +2421,6 @@
           "dogruCevap": "Çok (miktar zarfı)"
         },
         {
-          "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Burası oldukça sessiz bir yer.'",
-          "secenekler": [
-            "Burası",
-            "Oldukça",
-            "Sessiz (nitelik sıfatı)",
-            "Yer"
-          ],
-          "dogruCevap": "Yer"
-        },
-        {
           "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Birçok eski kitap buldum.'",
           "secenekler": [
             "Birçok (belirsiz sıfat)",
@@ -3497,16 +2533,6 @@
           "dogruCevap": "Yoksa"
         },
         {
-          "soru": "Aşağıdaki cümlede hangi sözcük edattır? 'Seninle gitmekten mutluyum.'",
-          "secenekler": [
-            "Gitmekten",
-            "Mutluyum",
-            "Seninle",
-            "Gidip"
-          ],
-          "dogruCevap": "Seninle"
-        },
-        {
           "soru": "Aşağıdaki cümlede hangi sözcük ünlemdir? 'Ah, bu nasıl bir durumda!'",
           "secenekler": [
             "Ah",
@@ -3555,16 +2581,6 @@
             "Davranıyorsun"
           ],
           "dogruCevap": "Yazıklar"
-        },
-        {
-          "soru": "Aşağıdaki cümlede hangi sözcük edattır? 'Onunla birlikte sinemaya gittik.'",
-          "secenekler": [
-            "Onunla",
-            "Birlikte",
-            "Sinemaya",
-            "Gittik"
-          ],
-          "dogruCevap": "Birlikte"
         },
         {
           "soru": "Aşağıdaki cümlede hangi sözcük bağlaçtır? 'Ona ödül verdik, çünkü çok çalıştı.'",
@@ -4417,16 +3433,6 @@
       ],
       "Cümle Türleri": [
         {
-          "soru": "Aşağıdaki cümlelerden hangisi olumsuz bir yükleme sahiptir?",
-          "secenekler": [
-            "Bugün okula gitmeyeceğim.",
-            "Okula gitmek istiyorum.",
-            "Evin içinde hiç kimse yok.",
-            "Evet, ben de katılacağım."
-          ],
-          "dogruCevap": "Bugün okula gitmeyeceğim."
-        },
-        {
           "soru": "Aşağıdaki cümlede hangi cümle türü kullanılmıştır? 'Herkes bu durumu kabul etmeli.'",
           "secenekler": [
             "Emir Cümlesi",
@@ -4475,16 +3481,6 @@
             "Emir Cümlesi"
           ],
           "dogruCevap": "Bileşik Cümle"
-        },
-        {
-          "soru": "Aşağıdaki cümlelerden hangisi emir kipiyle kurulmuştur?",
-          "secenekler": [
-            "Lütfen kapıyı kapat.",
-            "Ben hemen gelirim.",
-            "Nereye gittiğini bilmeliyim.",
-            "O çok sevdiği kitabı okudu."
-          ],
-          "dogruCevap": "Lütfen kapıyı kapat."
         },
         {
           "soru": "Aşağıdaki cümlede hangi cümle türü kullanılmıştır? 'Gidip gelmene gerek yok, ben her şeyi hallederim.'",
@@ -4608,16 +3604,6 @@
         }
       ],
       "Anlatım Bozukluğu": [
-        {
-          "soru": "Aşağıdaki cümlelerden hangisinde anlatım bozukluğu vardır?",
-          "secenekler": [
-            "Beni buraya getirdiği için teşekkür ederim.",
-            "Bu soruyu çözmeye çalıştım, ama yapamadım.",
-            "O kadar yoruldum ki artık hiç bir şey yapmak istemiyorum.",
-            "Konuşmalarımda her zaman dikkatli olmaya çalışıyorum."
-          ],
-          "dogruCevap": "Beni buraya getirdiği için teşekkür ederim."
-        },
         {
           "soru": "Aşağıdaki cümlede hangi anlatım bozukluğu vardır? 'Güzel bir yağmur yağıyor.'",
           "secenekler": [
@@ -4823,16 +3809,6 @@
           "dogruCevap": "İç enerji, cisimdeki toplam hareketli ve hareketsiz parçacıklardan kaynaklanır."
         },
         {
-          "soru": "Bir cisim ısındıkça hacmi artar. Bu özellik hangi özelliği gösterir?",
-          "secenekler": [
-            "Yoğunluk",
-            "Isıl genleşme",
-            "Elektriksel iletkenlik",
-            "Manyetik özellik"
-          ],
-          "dogruCevap": "Isıl genleşme"
-        },
-        {
           "soru": "Bir cisim suyun içinde %70 oranında batıyor. Cisim, suyun yoğunluğuna göre daha yoğun olduğunda hangi özellik hakkında bir yorum yapılabilir?",
           "secenekler": [
             "Cismin kütlesi suyun kütlesinden büyüktür.",
@@ -4903,16 +3879,6 @@
           "dogruCevap": "Hacim"
         },
         {
-          "soru": "Bütün maddelerin katı hâllerinde tanecikler nasıl düzenlenmiştir?",
-          "secenekler": [
-            "Serbestçe hareket ederler.",
-            "Aralarında boşluk yoktur.",
-            "Düzenli bir yapı oluşturur.",
-            "Karmaşık bir düzene sahiptirler."
-          ],
-          "dogruCevap": "Düzenli bir yapı oluşturur."
-        },
-        {
           "soru": "Aşağıdaki durumlardan hangisi maddenin ısıl genleşme özelliklerinden biridir?",
           "secenekler": [
             "Katı maddeler ısındıkça daha yoğun hale gelir.",
@@ -4921,16 +3887,6 @@
             "Gazlar ısındıkça hacmi azalır."
           ],
           "dogruCevap": "Sıvı maddeler ısındıkça hacmi artar."
-        },
-        {
-          "soru": "Aşağıdaki maddelerden hangisinin yoğunluğu suyun yoğunluğundan büyüktür?",
-          "secenekler": [
-            "Tahta",
-            "Buz",
-            "Demir",
-            "Yağ"
-          ],
-          "dogruCevap": "Demir"
         },
         {
           "soru": "Bir cismin ısıtılmasıyla, cismin moleküllerinin hızında ne olur?",
@@ -4943,26 +3899,6 @@
           "dogruCevap": "Moleküllerin hızı artar."
         },
         {
-          "soru": "Bir cisim üzerine uygulanan ısı neye yol açar?",
-          "secenekler": [
-            "Cismin sıcaklığını arttırır.",
-            "Cismin hacmini arttırır.",
-            "Cismin kütlesini arttırır.",
-            "Cismin yoğunluğunu arttırır."
-          ],
-          "dogruCevap": "Cismin sıcaklığını arttırır."
-        },
-        {
-          "soru": "Sürekli sıcaklık değişimine maruz kalan bir cisim hangi özellikleri değişir?",
-          "secenekler": [
-            "Kütle",
-            "Hacim",
-            "Yoğunluk",
-            "Başlangıç sıcaklığı"
-          ],
-          "dogruCevap": "Hacim"
-        },
-        {
           "soru": "Bir cismin sıcaklık değişimine bağlı olarak hacmindeki değişim, hangi özellik ile ilişkilidir?",
           "secenekler": [
             "Yoğunluk",
@@ -4973,16 +3909,6 @@
           "dogruCevap": "Isıl genleşme"
         },
         {
-          "soru": "Bir katı maddeyi sıvıya dönüştüren enerji türü nedir?",
-          "secenekler": [
-            "Isı enerjisi",
-            "Potansiyel enerji",
-            "Kinetik enerji",
-            "Kimyasal enerji"
-          ],
-          "dogruCevap": "Isı enerjisi"
-        },
-        {
           "soru": "Bir cismin sıcaklığı arttıkça, cismin kinetik enerjisinde ne olur?",
           "secenekler": [
             "Azalır.",
@@ -4991,16 +3917,6 @@
             "Başlangıçta artar, sonra azalır."
           ],
           "dogruCevap": "Artar."
-        },
-        {
-          "soru": "Bir maddenin sıcaklığı arttıkça genellikle hangi özellik değişir?",
-          "secenekler": [
-            "Kütle",
-            "Yoğunluk",
-            "Hacim",
-            "Moleküler yapı"
-          ],
-          "dogruCevap": "Hacim"
         }
       ],
       "Isı, Sıcaklık ve Genleşme": [
@@ -5023,16 +3939,6 @@
             "Sıcaklık sıfır olur."
           ],
           "dogruCevap": "Daha küçük sıcaklık artışı gözlenir."
-        },
-        {
-          "soru": "Aşağıdaki maddelerden hangisinin ısıl genleşme katsayısı en büyüktür?",
-          "secenekler": [
-            "Alüminyum",
-            "Çelik",
-            "Plastik",
-            "Buz"
-          ],
-          "dogruCevap": "Plastik"
         },
         {
           "soru": "Bir cisme 50 J ısı verilmiştir ve cismin sıcaklığı 2°C artmıştır. Cismin özgül ısısı nedir?",
@@ -5115,16 +4021,6 @@
           "dogruCevap": "1 J/kg°C"
         },
         {
-          "soru": "Isıl genleşme, hangi maddenin özelliklerinden biridir?",
-          "secenekler": [
-            "Katı",
-            "Sıvı",
-            "Gaz",
-            "Bütün maddeler"
-          ],
-          "dogruCevap": "Bütün maddeler"
-        },
-        {
           "soru": "Bir sıvı, sıcaklık artışıyla daha fazla genleşir. Aşağıdaki sıvılardan hangisi ısınmaya karşı daha az genleşir?",
           "secenekler": [
             "Cıva",
@@ -5153,16 +4049,6 @@
             "Sıfır olur."
           ],
           "dogruCevap": "Daha hızlı gerçekleşir."
-        },
-        {
-          "soru": "Bir cisme ısı verilmesiyle cismin hangi özelliği değişir?",
-          "secenekler": [
-            "Kütlesi",
-            "Yoğunluğu",
-            "Hacmi",
-            "Kimyasal yapısı"
-          ],
-          "dogruCevap": "Hacmi"
         },
         {
           "soru": "Bir cismi ısındıkça sıcaklıkla birlikte hacmi artar. Bu özellik aşağıdaki maddelerden hangisinde en belirgin şekilde gözlemlenir?",
@@ -5499,16 +4385,6 @@
           "dogruCevap": "Merceğin şekli ve malzemesi"
         },
         {
-          "soru": "Bir ışık ışını camdan havaya geçerken hangi kırılma yasasına uyar?",
-          "secenekler": [
-            "Snell Yasası",
-            "Huygens İlkesi",
-            "Fermat İlkesi",
-            "Aristoteles Yasası"
-          ],
-          "dogruCevap": "Snell Yasası"
-        },
-        {
           "soru": "Bir ışık ışını, su yüzeyinden yansıdıktan sonra hangi durum gerçekleşir?",
           "secenekler": [
             "Yansıyan ışın, düşen ışının yönüne paralel olur.",
@@ -5559,26 +4435,6 @@
           "dogruCevap": "Düşen ışın ile yansıyan ışın arasındaki açı eşittir."
         },
         {
-          "soru": "Bir lensin odak uzaklığı neyi belirtir?",
-          "secenekler": [
-            "Lensin ışık geçirme oranını",
-            "Işık ışınlarının odaklanacağı uzaklığı",
-            "Lensin çapını",
-            "Lensin büyütme oranını"
-          ],
-          "dogruCevap": "Işık ışınlarının odaklanacağı uzaklığı"
-        },
-        {
-          "soru": "Bir optik sistemde ışığın kırılma indisi neyi etkiler?",
-          "secenekler": [
-            "Işığın hızı",
-            "Işığın frekansı",
-            "Işığın yönü",
-            "Işığın dalga boyu"
-          ],
-          "dogruCevap": "Işığın hızı"
-        },
-        {
           "soru": "Bir düzlem aynada sanal bir görüntü nasıl oluşur?",
           "secenekler": [
             "Işık kaynağının ışınlarının yansımasıyla oluşur.",
@@ -5619,16 +4475,6 @@
             "4 m/s"
           ],
           "dogruCevap": "1 m/s"
-        },
-        {
-          "soru": "Bir ses dalgasının hızını artıran faktörlerden hangisi doğrudur?",
-          "secenekler": [
-            "Sıcaklık artışı",
-            "Hava basıncının azalması",
-            "Ortamdaki yoğunluğun artması",
-            "Havanın nem oranının azalması"
-          ],
-          "dogruCevap": "Sıcaklık artışı"
         },
         {
           "soru": "Bir ses dalgasının frekansı 20 Hz iken, dalganın dalga boyu 2 m olduğuna göre dalga hızı nedir?",
@@ -5701,16 +4547,6 @@
           "dogruCevap": "Dalganın yansıdığı"
         },
         {
-          "soru": "Ses dalgasının hızını artıran ortam faktörlerinden hangisi yanlıştır?",
-          "secenekler": [
-            "Sıcaklık",
-            "Basınç",
-            "Yoğunluk",
-            "Nem oranı"
-          ],
-          "dogruCevap": "Yoğunluk"
-        },
-        {
           "soru": "Bir dalga, bir ortamda ne kadar uzaklık kat ederse etsin, hangi özellik değişmez?",
           "secenekler": [
             "Dalga boyu",
@@ -5721,16 +4557,6 @@
           "dogruCevap": "Frekans"
         },
         {
-          "soru": "Ses dalgası hangi ortamda en hızlı yayılır?",
-          "secenekler": [
-            "Havadar ortamda",
-            "Sıvılarda",
-            "Katılarda",
-            "Vakum ortamında"
-          ],
-          "dogruCevap": "Katılarda"
-        },
-        {
           "soru": "Bir ses dalgasının yansıması ile ilgili hangisi doğrudur?",
           "secenekler": [
             "Yansıyan dalganın genliği, düşen dalganın genliğine eşittir.",
@@ -5739,16 +4565,6 @@
             "Yansıyan dalga, düşen dalganın tam tersi yönde hareket eder."
           ],
           "dogruCevap": "Yansıyan dalga, düşen dalganın tam tersi yönde hareket eder."
-        },
-        {
-          "soru": "Bir dalga, bir ortamdan diğerine geçtiğinde hangi özellik sabit kalır?",
-          "secenekler": [
-            "Frekans",
-            "Genlik",
-            "Dalga boyu",
-            "Hız"
-          ],
-          "dogruCevap": "Frekans"
         },
         {
           "soru": "Bir dalga su yüzeyinde yayılmaktadır ve bir noktada yansıyan dalga, düşen dalga ile aynı doğrultudadır. Bu durumda hangi olayı gözlemleriz?",
@@ -5815,16 +4631,6 @@
           "dogruCevap": "Asidik"
         },
         {
-          "soru": "Aşağıdaki bileşiklerden hangisi iyonik bağ ile birleşmiştir?",
-          "secenekler": [
-            "H₂O",
-            "NaCl",
-            "CO₂",
-            "CH₄"
-          ],
-          "dogruCevap": "NaCl"
-        },
-        {
           "soru": "Aşağıdaki özelliklerden hangisi, bir elementin periyodik tablodaki konumuna göre tahmin edilemez?",
           "secenekler": [
             "İyonlaşma enerjisi",
@@ -5835,16 +4641,6 @@
           "dogruCevap": "İyonlaşma enerjisi"
         },
         {
-          "soru": "Aşağıdaki bileşiklerden hangisinde kovalent bağ bulunur?",
-          "secenekler": [
-            "NaCl",
-            "MgO",
-            "H₂O",
-            "CaCl₂"
-          ],
-          "dogruCevap": "H₂O"
-        },
-        {
           "soru": "Bir çözeltinin asidik olduğunu ve hidrojen iyonu [H⁺] yoğunluğunun 1 × 10⁻⁴ mol/L olduğunu biliyoruz. Bu çözeltinin pH değeri nedir?",
           "secenekler": [
             "4",
@@ -5853,26 +4649,6 @@
             "6"
           ],
           "dogruCevap": "4"
-        },
-        {
-          "soru": "Yukarıdaki soruya göre çözeltinin pOH değeri nedir?",
-          "secenekler": [
-            "10",
-            "6",
-            "9",
-            "7"
-          ],
-          "dogruCevap": "10"
-        },
-        {
-          "soru": "Aşağıdaki bileşiklerden hangisi asidik özellik gösterir?",
-          "secenekler": [
-            "NaOH",
-            "KOH",
-            "HCl",
-            "Na₂CO₃"
-          ],
-          "dogruCevap": "HCl"
         },
         {
           "soru": "Bir çözeltide çözünmüş gazın miktarı, gazın buhar basıncı ve çözeltinin sıcaklığına bağlı olarak ne ile doğru orantılıdır?",
@@ -5895,16 +4671,6 @@
           "dogruCevap": "Çözeltinin yoğunluğu azalır."
         },
         {
-          "soru": "Aşağıdaki elementlerden hangisi en yüksek elektronegatifliğe sahiptir?",
-          "secenekler": [
-            "Flörür",
-            "Oksijen",
-            "Azerken",
-            "Klor"
-          ],
-          "dogruCevap": "Flörür"
-        },
-        {
           "soru": "Bir çözeltinin yüzde derişimi 20%'dir. Bu çözeltinin 1 L'sinde kaç gram çözeltik madde vardır?",
           "secenekler": [
             "200 g",
@@ -5913,16 +4679,6 @@
             "10 g"
           ],
           "dogruCevap": "200 g"
-        },
-        {
-          "soru": "Aşağıdaki bileşiklerden hangisi asidik oksit özelliği gösterir?",
-          "secenekler": [
-            "CO₂",
-            "Na₂O",
-            "CaO",
-            "MgO"
-          ],
-          "dogruCevap": "CO₂"
         },
         {
           "soru": "Bir çözücünün çözünme hızını etkileyen faktörlerden hangisi en az etkilidir?",
@@ -5997,16 +4753,6 @@
           "dogruCevap": "Atom numarasına göre"
         },
         {
-          "soru": "Aşağıdaki elementlerden hangisi periyodik tablonun en sağında yer alır?",
-          "secenekler": [
-            "Karbon",
-            "Kükürt",
-            "Neon",
-            "Lityum"
-          ],
-          "dogruCevap": "Neon"
-        },
-        {
           "soru": "Periyodik tablonun hangi bölgesinde, elektron alma eğilimi en yüksek olan elementler bulunur?",
           "secenekler": [
             "Metaller",
@@ -6057,26 +4803,6 @@
           "dogruCevap": "Periyodik tabloda yukarıya doğru elektron alabilme eğilimi artar"
         },
         {
-          "soru": "Bir elementin periyodik tablodaki konumundan hangi bilgileri öğrenebilirsiniz?",
-          "secenekler": [
-            "Elektron dizilimi",
-            "İyonlaşma enerjisi",
-            "Atom çapı",
-            "Tüm özellikler"
-          ],
-          "dogruCevap": "Tüm özellikler"
-        },
-        {
-          "soru": "Aşağıdaki elementlerden hangisi periyodik tablonun dördüncü periyodunda yer alır?",
-          "secenekler": [
-            "Alüminyum",
-            "Argon",
-            "Kükürt",
-            "Potasyum"
-          ],
-          "dogruCevap": "Alüminyum"
-        },
-        {
           "soru": "Periyodik tablonun hangi bölgesinde en yüksek elektronegatiflik özelliğine sahip elementler bulunur?",
           "secenekler": [
             "Soy gazlar",
@@ -6087,46 +4813,6 @@
           "dogruCevap": "Ametal grubu"
         },
         {
-          "soru": "Aşağıdaki elementlerden hangisi periyodik tablodaki 18. grupta yer alır?",
-          "secenekler": [
-            "Azot",
-            "Neon",
-            "Sodyum",
-            "Klor"
-          ],
-          "dogruCevap": "Neon"
-        },
-        {
-          "soru": "Aşağıdaki elementlerden hangisi periyodik tablonun 3A grubunda yer alır?",
-          "secenekler": [
-            "Fosfor",
-            "Boran",
-            "Kükürt",
-            "Oksijen"
-          ],
-          "dogruCevap": "Boran"
-        },
-        {
-          "soru": "Aşağıdaki elementlerden hangisi alkali metallerden biridir?",
-          "secenekler": [
-            "Magnezyum",
-            "Kalsiyum",
-            "Sodyum",
-            "Alüminyum"
-          ],
-          "dogruCevap": "Sodyum"
-        },
-        {
-          "soru": "Aşağıdaki elementlerden hangisi toprak alkali metallerden biridir?",
-          "secenekler": [
-            "Lityum",
-            "Sodyum",
-            "Kalsiyum",
-            "Potasyum"
-          ],
-          "dogruCevap": "Kalsiyum"
-        },
-        {
           "soru": "Periyodik tablodaki elementlerin elektron dizilimi için hangi kuraldan faydalanılır?",
           "secenekler": [
             "Pauli Dışarlama İlkesi",
@@ -6135,26 +4821,6 @@
             "Heisenberg Belirsizlik İlkesi"
           ],
           "dogruCevap": "Aufbau İlkesi"
-        },
-        {
-          "soru": "Aşağıdaki elementlerden hangisinin en dıştaki elektron sayısı 2'dir?",
-          "secenekler": [
-            "Neon",
-            "Kalsiyum",
-            "Berylyum",
-            "Helyum"
-          ],
-          "dogruCevap": "Berylyum"
-        },
-        {
-          "soru": "Periyodik tabloda hangi gruptaki elementler doğada serbest halde bulunur?",
-          "secenekler": [
-            "Alkali metaller",
-            "Alkali toprak metaller",
-            "Soy gazlar",
-            "Geçiş metaller"
-          ],
-          "dogruCevap": "Soy gazlar"
         },
         {
           "soru": "Aşağıdaki elementlerden hangisi periyodik tablonun 6. periyodunda yer alır?",
@@ -6175,16 +4841,6 @@
             "Elektronegatifliğinin yüksek olduğunu"
           ],
           "dogruCevap": "Elektron vermeye yatkın olduğunu"
-        },
-        {
-          "soru": "Aşağıdaki elementlerden hangisi periyodik tablodaki 7. periyodda yer alır?",
-          "secenekler": [
-            "Kalsiyum",
-            "Brom",
-            "Tuz",
-            "Fransiyum"
-          ],
-          "dogruCevap": "Fransiyum"
         }
       ],
       "Maddenin Halleri": [
@@ -6207,16 +4863,6 @@
             "Gay-Lussac Yasası"
           ],
           "dogruCevap": "Charles Yasası"
-        },
-        {
-          "soru": "Aşağıdaki maddelerden hangisi doğrudan gaz halinden katı hale geçebilir?",
-          "secenekler": [
-            "Su",
-            "Aseton",
-            "Karbon dioksit",
-            "Oksijen"
-          ],
-          "dogruCevap": "Karbon dioksit"
         },
         {
           "soru": "Bir gazın basıncı, hacmi sabit tutularak artırılırsa gazın sıcaklığı nasıl değişir?",
@@ -6249,36 +4895,6 @@
           "dogruCevap": "Artar"
         },
         {
-          "soru": "Aşağıdaki maddelerden hangisi doğrudan katı halden gaz haline geçebilir?",
-          "secenekler": [
-            "Aseton",
-            "Buz",
-            "Tuz",
-            "Alkol"
-          ],
-          "dogruCevap": "Buz"
-        },
-        {
-          "soru": "Sıvıların buharlaşma hızı, hangi faktöre bağlı olarak artar?",
-          "secenekler": [
-            "Buhar basıncının artması",
-            "Sıcaklığın düşmesi",
-            "Buhar basıncının azalması",
-            "Tanecik boyutlarının büyümesi"
-          ],
-          "dogruCevap": "Buhar basıncının artması"
-        },
-        {
-          "soru": "Maddenin katı halden gaz haline geçmesine ne ad verilir?",
-          "secenekler": [
-            "Süblimleşme",
-            "Buharlaşma",
-            "Donma",
-            "Erime"
-          ],
-          "dogruCevap": "Süblimleşme"
-        },
-        {
           "soru": "Bir gazın basıncı sabit tutularak hacmi yarıya düşürülürse, sıcaklık ne olur?",
           "secenekler": [
             "Yarısı kadar artar",
@@ -6287,16 +4903,6 @@
             "Değişmez"
           ],
           "dogruCevap": "Çift katı artar"
-        },
-        {
-          "soru": "Bir maddeyi katı halden sıvı hale geçiren olay aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Donma",
-            "Erime",
-            "Süblimleşme",
-            "Buharlaşma"
-          ],
-          "dogruCevap": "Erime"
         },
         {
           "soru": "Bir gazın basıncı artarsa, sıcaklıkla orantılı olarak gazın ne olacağına dair doğru açıklama hangisidir?",
@@ -6319,26 +4925,6 @@
           "dogruCevap": "Katı madde gaz hale geçer."
         },
         {
-          "soru": "Hangi olayda madde ısı alır ve tanecikleri arasındaki bağlar zayıflar?",
-          "secenekler": [
-            "Buharlaşma",
-            "Süblimleşme",
-            "Donma",
-            "Erime"
-          ],
-          "dogruCevap": "Buharlaşma"
-        },
-        {
-          "soru": "Gazların sıcaklığı arttıkça, gazın moleküllerinin hareketi nasıl değişir?",
-          "secenekler": [
-            "Hızlanır",
-            "Yavaşlar",
-            "Düşer",
-            "Değişmez"
-          ],
-          "dogruCevap": "Hızlanır"
-        },
-        {
           "soru": "Bir katı madde eridiğinde hangi durum gerçekleşir?",
           "secenekler": [
             "Tanecikler arasındaki çekim kuvveti artar.",
@@ -6349,26 +4935,6 @@
           "dogruCevap": "Tanecikler arasındaki çekim kuvveti azalır."
         },
         {
-          "soru": "Sıvı bir maddenin buharlaşma hızı, hangi faktörle doğru orantılıdır?",
-          "secenekler": [
-            "Sıcaklık",
-            "Hacim",
-            "Tanecik boyutu",
-            "İyonlaşma"
-          ],
-          "dogruCevap": "Sıcaklık"
-        },
-        {
-          "soru": "Bir maddenin gaz haline geçebilmesi için hangi enerjiye sahip olması gerekir?",
-          "secenekler": [
-            "Kinetik enerji",
-            "Potansiyel enerji",
-            "Isı enerjisi",
-            "Buharlaşma enerjisi"
-          ],
-          "dogruCevap": "Isı enerjisi"
-        },
-        {
           "soru": "Bir katının erime noktası, hangi faktörle doğrudan ilişkili değildir?",
           "secenekler": [
             "Bağlar arasındaki kuvvet",
@@ -6377,69 +4943,9 @@
             "Tanecikler arasındaki hareket"
           ],
           "dogruCevap": "Tanecikler arasındaki hareket"
-        },
-        {
-          "soru": "Bir gazın sıcaklığı arttıkça, gazın yoğunluğu nasıl değişir?",
-          "secenekler": [
-            "Azalır",
-            "Artar",
-            "Değişmez",
-            "Sabit kalır"
-          ],
-          "dogruCevap": "Azalır"
         }
       ],
       "Kimyasal Türler Arası Etkileşimler": [
-        {
-          "soru": "Aşağıdaki bileşiklerden hangisinde iyonik bağ bulunur?",
-          "secenekler": [
-            "CO2",
-            "NaCl",
-            "NH3",
-            "H2O"
-          ],
-          "dogruCevap": "NaCl"
-        },
-        {
-          "soru": "Aşağıdaki bileşiklerden hangisi metalik bağ ile bağlanmış bir maddeyi temsil eder?",
-          "secenekler": [
-            "NaCl",
-            "MgO",
-            "Fe",
-            "H2O"
-          ],
-          "dogruCevap": "Fe"
-        },
-        {
-          "soru": "Aşağıdaki moleküllerden hangisinde hidrojen bağı bulunmaz?",
-          "secenekler": [
-            "H2O",
-            "NH3",
-            "HF",
-            "CH4"
-          ],
-          "dogruCevap": "CH4"
-        },
-        {
-          "soru": "Aşağıdaki bileşiklerden hangisi kovalent bağ ile bağlanmış bir bileşiktir?",
-          "secenekler": [
-            "NaCl",
-            "SO2",
-            "CaCl2",
-            "K2O"
-          ],
-          "dogruCevap": "SO2"
-        },
-        {
-          "soru": "Aşağıdaki bileşiklerden hangisi hidrofobik etkileşim gösterir?",
-          "secenekler": [
-            "NaCl",
-            "H2O",
-            "O2",
-            "NH3"
-          ],
-          "dogruCevap": "O2"
-        },
         {
           "soru": "Kovalent bağ yapan moleküller arasında, hangi etkileşim türü daha güçlüdür?",
           "secenekler": [
@@ -6479,76 +4985,6 @@
             "CH4 ve NH3"
           ],
           "dogruCevap": "HCl ve H2O"
-        },
-        {
-          "soru": "Metalik bağ, aşağıdaki özelliklerden hangisini açıklar?",
-          "secenekler": [
-            "Elektriksel iletkenlik",
-            "Düşük erime noktası",
-            "İyonlaşma",
-            "Kuvvetli asidik özellik"
-          ],
-          "dogruCevap": "Elektriksel iletkenlik"
-        },
-        {
-          "soru": "Aşağıdaki bileşiklerden hangisi iyonik bağ yapmaz?",
-          "secenekler": [
-            "NaCl",
-            "MgO",
-            "SO2",
-            "CaCl2"
-          ],
-          "dogruCevap": "SO2"
-        },
-        {
-          "soru": "Aşağıdaki bileşiklerden hangisi kovalent bağa sahip değildir?",
-          "secenekler": [
-            "CO2",
-            "NaCl",
-            "H2O",
-            "NH3"
-          ],
-          "dogruCevap": "NaCl"
-        },
-        {
-          "soru": "Aşağıdaki bileşiklerden hangisi hidrojen bağı yapabilir?",
-          "secenekler": [
-            "CH4",
-            "H2O",
-            "CO2",
-            "O2"
-          ],
-          "dogruCevap": "H2O"
-        },
-        {
-          "soru": "Aşağıdaki moleküller arasında hangisi, Van der Waals kuvveti ile bağlanır?",
-          "secenekler": [
-            "NaCl",
-            "N2",
-            "H2O",
-            "NH3"
-          ],
-          "dogruCevap": "N2"
-        },
-        {
-          "soru": "Metalik bağda, hangi özelliğin etkisi büyüktür?",
-          "secenekler": [
-            "Elektronların serbest hareket etmesi",
-            "İyonların serbest hareket etmesi",
-            "Suyun yoğunluğu",
-            "Taneciklerin büyük olması"
-          ],
-          "dogruCevap": "Elektronların serbest hareket etmesi"
-        },
-        {
-          "soru": "Hidrojen bağının en belirgin olduğu molekül aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "HF",
-            "CO2",
-            "CH4",
-            "NaCl"
-          ],
-          "dogruCevap": "HF"
         },
         {
           "soru": "İyonik bağda, iyonlar arasındaki çekim kuvveti nasıl değişir?",
@@ -6603,26 +5039,6 @@
       ],
       "Asit, Baz ve Tuz": [
         {
-          "soru": "Aşağıdaki maddelerden hangisi su çözeltisinde asidik özellik gösterir?",
-          "secenekler": [
-            "NaOH",
-            "NaCl",
-            "HCl",
-            "K2CO3"
-          ],
-          "dogruCevap": "HCl"
-        },
-        {
-          "soru": "Bir asit ile bir baz arasındaki nötralizasyon reaksiyonunun ürünleri nelerdir?",
-          "secenekler": [
-            "Su ve tuz",
-            "Suyun buharı ve oksijen",
-            "Tuz ve oksijen",
-            "Hidrojen gazı ve tuz"
-          ],
-          "dogruCevap": "Su ve tuz"
-        },
-        {
           "soru": "Hangi maddeler sudaki iyonlaşma derecelerine göre asidik ya da bazik özellik gösterir?",
           "secenekler": [
             "Asitler ve bazlar",
@@ -6643,16 +5059,6 @@
           "dogruCevap": "H+ ve Cl-"
         },
         {
-          "soru": "Hangi bileşik, suda çözündüğünde bazik özellik gösterir?",
-          "secenekler": [
-            "NaCl",
-            "NaOH",
-            "H2SO4",
-            "HCl"
-          ],
-          "dogruCevap": "NaOH"
-        },
-        {
           "soru": "Aşağıdaki bileşiklerden hangisi amfoteriktir (hem asidik hem bazik özellik gösterir)?",
           "secenekler": [
             "Na2O",
@@ -6663,16 +5069,6 @@
           "dogruCevap": "ZnO"
         },
         {
-          "soru": "Aşağıdaki maddelerden hangisi bir tuz örneğidir?",
-          "secenekler": [
-            "NaOH",
-            "HCl",
-            "NaCl",
-            "H2O"
-          ],
-          "dogruCevap": "NaCl"
-        },
-        {
           "soru": "pH değeri 3 olan bir çözeltinin asidik mi yoksa bazik mi olduğunu söyleyiniz.",
           "secenekler": [
             "Asidik",
@@ -6681,16 +5077,6 @@
             "Yüksek asidik"
           ],
           "dogruCevap": "Asidik"
-        },
-        {
-          "soru": "Aşağıdaki tuzlardan hangisi asidik özellik gösterir?",
-          "secenekler": [
-            "Na2SO4",
-            "NaNO3",
-            "NH4Cl",
-            "NaCl"
-          ],
-          "dogruCevap": "NH4Cl"
         },
         {
           "soru": "Bir asidin suda çözünmesi sonucu oluşan iyonlar arasında hangisi bulunmaz?",
@@ -6723,16 +5109,6 @@
           "dogruCevap": "Bazik"
         },
         {
-          "soru": "Aşağıdaki maddelerden hangisi güçlü bir asittir?",
-          "secenekler": [
-            "H2CO3",
-            "H2SO4",
-            "CH3COOH",
-            "HNO3"
-          ],
-          "dogruCevap": "HNO3"
-        },
-        {
           "soru": "Bir tuz çözeltisinin pH'ı 7'den küçükse, bu çözeltinin hangi özelliğe sahip olduğunu söyleyebilirsiniz?",
           "secenekler": [
             "Asidik",
@@ -6743,26 +5119,6 @@
           "dogruCevap": "Asidik"
         },
         {
-          "soru": "Aşağıdaki bileşiklerden hangisi suda çözündüğünde bazik özellik gösterir?",
-          "secenekler": [
-            "NaCl",
-            "NH3",
-            "HNO3",
-            "H2SO4"
-          ],
-          "dogruCevap": "NH3"
-        },
-        {
-          "soru": "Hangi maddelerin çözeltisi, genellikle asidik özellik gösterir?",
-          "secenekler": [
-            "Amonyum tuzları",
-            "Metal oksitler",
-            "Bazik oksitler",
-            "Amonyak çözeltileri"
-          ],
-          "dogruCevap": "Amonyum tuzları"
-        },
-        {
           "soru": "Hangi özellik, bir çözeltinin asidik mi yoksa bazik mi olduğunu belirlemede kullanılır?",
           "secenekler": [
             "pH",
@@ -6771,16 +5127,6 @@
             "Erime noktası"
           ],
           "dogruCevap": "pH"
-        },
-        {
-          "soru": "Aşağıdaki tuzlardan hangisi, suda çözündüğünde nötr özellik gösterir?",
-          "secenekler": [
-            "NaCl",
-            "NH4Cl",
-            "K2CO3",
-            "Na2SO4"
-          ],
-          "dogruCevap": "NaCl"
         },
         {
           "soru": "Bir bazın suda çözünmesinden sonra hangi iyonun salınımı artar?",
@@ -6815,26 +5161,6 @@
           "dogruCevap": "Homojen karışım"
         },
         {
-          "soru": "Aşağıdaki karışımlardan hangisi heterojen bir karışımdır?",
-          "secenekler": [
-            "Hava",
-            "Alkol-su karışımı",
-            "Su ve tuz karışımı",
-            "Su ve yağ karışımı"
-          ],
-          "dogruCevap": "Su ve yağ karışımı"
-        },
-        {
-          "soru": "Bir çözeltinin çözücüsü genellikle ne olur?",
-          "secenekler": [
-            "Katı",
-            "Sıvı",
-            "Gaz",
-            "Süspansiyon"
-          ],
-          "dogruCevap": "Sıvı"
-        },
-        {
           "soru": "Aşağıdakilerden hangisi bir çözeltinin özelliklerinden biri değildir?",
           "secenekler": [
             "Bileşenleri görünmez",
@@ -6865,16 +5191,6 @@
           "dogruCevap": "Çözünürlük"
         },
         {
-          "soru": "Hangi karışım türünde parçacıklar mikroskopla gözlemlenebilir?",
-          "secenekler": [
-            "Kolloid",
-            "Çözelti",
-            "Süspansiyon",
-            "Homojen karışım"
-          ],
-          "dogruCevap": "Kolloid"
-        },
-        {
           "soru": "Suda çözünmeyen bir madde, çözünürlüğünü artırmak için ne yapılabilir?",
           "secenekler": [
             "Sıcaklık artırılabilir",
@@ -6885,46 +5201,6 @@
           "dogruCevap": "Sıcaklık artırılabilir"
         },
         {
-          "soru": "Bir karışımdan maddeyi fiziksel yöntemlerle ayırmak için hangi özellik kullanılır?",
-          "secenekler": [
-            "Madde türü",
-            "Erime noktası",
-            "Kaynama noktası",
-            "Bütün özellikler"
-          ],
-          "dogruCevap": "Erime noktası"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi homojen bir karışım örneğidir?",
-          "secenekler": [
-            "Sıvı yağ ve su karışımı",
-            "Tuzlu su",
-            "Kum ve su karışımı",
-            "Süt ve su karışımı"
-          ],
-          "dogruCevap": "Tuzlu su"
-        },
-        {
-          "soru": "Aşağıdaki karışımlardan hangisi kolloid örneği olamaz?",
-          "secenekler": [
-            "Süt",
-            "Kola",
-            "Yağ-su karışımı",
-            "Hava"
-          ],
-          "dogruCevap": "Hava"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi kolloid bir karışım değildir?",
-          "secenekler": [
-            "Süt",
-            "Beyazlatıcı",
-            "Kan",
-            "Aerosol"
-          ],
-          "dogruCevap": "Beyazlatıcı"
-        },
-        {
           "soru": "Bir çözeltinin doygun olabilmesi için hangi durum gerçekleşmelidir?",
           "secenekler": [
             "Tüm çözücü parçacıkları çözülmeli",
@@ -6933,26 +5209,6 @@
             "Çözücünün tamamı çözücüdür"
           ],
           "dogruCevap": "Tüm çözücü parçacıkları çözülmeli"
-        },
-        {
-          "soru": "Aşağıdaki maddelerden hangisi karışım özelliği göstermez?",
-          "secenekler": [
-            "Buz",
-            "Hava",
-            "Süt",
-            "Deniz suyu"
-          ],
-          "dogruCevap": "Buz"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi homojen bir karışım değildir?",
-          "secenekler": [
-            "Su ve alkol karışımı",
-            "Şekerli su",
-            "Kum ve su karışımı",
-            "Hava"
-          ],
-          "dogruCevap": "Kum ve su karışımı"
         },
         {
           "soru": "Aşağıdaki karışım türlerinden hangisinde, parçacıkların boyutu 1 nanometre ile 1000 nanometre arasında değişir?",
@@ -6973,26 +5229,6 @@
             "Bileşik çözeltisi"
           ],
           "dogruCevap": "Bileşik çözeltisi"
-        },
-        {
-          "soru": "Aşağıdaki karışımlardan hangisi süspansiyon örneği oluşturur?",
-          "secenekler": [
-            "Tuzlu su",
-            "Süt",
-            "Paslı su",
-            "Hava"
-          ],
-          "dogruCevap": "Paslı su"
-        },
-        {
-          "soru": "Bir karışımdan katı maddeyi sıvıdan ayırmak için hangi işlem yapılabilir?",
-          "secenekler": [
-            "Süzme",
-            "Buharlaştırma",
-            "Distilasyon",
-            "Elektroliz"
-          ],
-          "dogruCevap": "Süzme"
         },
         {
           "soru": "Süspansiyon ve kolloid arasındaki farkı gösteren hangisidir?",
@@ -7059,16 +5295,6 @@
           "dogruCevap": "Fibroz proteinler"
         },
         {
-          "soru": "Hücredeki organellerin genetik bilgiyi taşıyan kısmı nedir?",
-          "secenekler": [
-            "Ribozomlar",
-            "Kloroplast",
-            "Mitokondri",
-            "Çekirdek"
-          ],
-          "dogruCevap": "Çekirdek"
-        },
-        {
           "soru": "Canlıların yapısal bileşenlerinden olan ve hücredeki kimyasal reaksiyonları hızlandıran moleküller aşağıdakilerden hangisidir?",
           "secenekler": [
             "Karbonhidratlar",
@@ -7077,16 +5303,6 @@
             "Nükleik asitler"
           ],
           "dogruCevap": "Enzimler"
-        },
-        {
-          "soru": "Aşağıdaki maddelerden hangisi hücre zarının yapısında yer almaz?",
-          "secenekler": [
-            "Fosfolipit",
-            "Kolesterol",
-            "Protein",
-            "Selüloz"
-          ],
-          "dogruCevap": "Selüloz"
         },
         {
           "soru": "DNA'nın replikasyonunda görev alan enzimlerden hangisi, yeni zincirin oluşturulmasını sağlayan enzimi temsil eder?",
@@ -7117,36 +5333,6 @@
             "Vitaminler"
           ],
           "dogruCevap": "Proteinler"
-        },
-        {
-          "soru": "Bir organizmanın yapısındaki proteinlerin çoğu hangi elementten yapılır?",
-          "secenekler": [
-            "Karbon",
-            "Kükürt",
-            "Azot",
-            "Oksijen"
-          ],
-          "dogruCevap": "Azot"
-        },
-        {
-          "soru": "Aşağıdaki karbonhidratlardan hangisi hayvansal hücrelerin yapısında yer almaz?",
-          "secenekler": [
-            "Glikoz",
-            "Sukroz",
-            "Fruktoz",
-            "Selüloz"
-          ],
-          "dogruCevap": "Selüloz"
-        },
-        {
-          "soru": "RNA'nın yapısındaki şeker türü aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Riboz",
-            "Deoksiriboz",
-            "Fruktoz",
-            "Glukoz"
-          ],
-          "dogruCevap": "Riboz"
         },
         {
           "soru": "Aşağıdakilerden hangisi hücre zarının geçirgenlik özelliklerinden biri değildir?",
@@ -7221,36 +5407,6 @@
           "dogruCevap": "Klorofil"
         },
         {
-          "soru": "Prokaryotik hücrelerde hangisi bulunmaz?",
-          "secenekler": [
-            "Çekirdek",
-            "Sitozom",
-            "Hücre zarı",
-            "DNA"
-          ],
-          "dogruCevap": "Çekirdek"
-        },
-        {
-          "soru": "Aşağıdaki hücrelerden hangisi ökaryotik hücreye örnektir?",
-          "secenekler": [
-            "Bakteri",
-            "Arke",
-            "Mantar hücresi",
-            "Virüs"
-          ],
-          "dogruCevap": "Mantar hücresi"
-        },
-        {
-          "soru": "Hücre zarı hangi modelle açıklanır?",
-          "secenekler": [
-            "Düzlem modeli",
-            "Akışkan mozaik modeli",
-            "Çift tabaka modeli",
-            "Katmanlı model"
-          ],
-          "dogruCevap": "Akışkan mozaik modeli"
-        },
-        {
           "soru": "Hücre zarında bulunan glikokaliks hangi işlevi görür?",
           "secenekler": [
             "Hücreye özgüllük kazandırmak",
@@ -7261,36 +5417,6 @@
           "dogruCevap": "Hücreye özgüllük kazandırmak"
         },
         {
-          "soru": "Aşağıdakilerden hangisi mitokondrinin işlevlerinden biridir?",
-          "secenekler": [
-            "Besin sentezi",
-            "Enerji üretimi",
-            "Protein sentezi",
-            "Hücre bölünmesi"
-          ],
-          "dogruCevap": "Enerji üretimi"
-        },
-        {
-          "soru": "Plastitler hangi canlılarda bulunur?",
-          "secenekler": [
-            "Hayvanlar",
-            "Bitkiler",
-            "Bakteriler",
-            "Mantarlar"
-          ],
-          "dogruCevap": "Bitkiler"
-        },
-        {
-          "soru": "Kloroplast içinde hangi pigment bulunur?",
-          "secenekler": [
-            "Melanin",
-            "Klorofil",
-            "Karoten",
-            "Ksantofil"
-          ],
-          "dogruCevap": "Klorofil"
-        },
-        {
           "soru": "Mitokondri, kendi DNA'sına sahip olduğu için ne yapabilir?",
           "secenekler": [
             "Enerji üretebilir",
@@ -7299,26 +5425,6 @@
             "Sıvıları depolayabilir"
           ],
           "dogruCevap": "Bölünüp çoğalabilir"
-        },
-        {
-          "soru": "Aşağıdaki organellerden hangisi bitki hücresinde bulunmaz?",
-          "secenekler": [
-            "Mitokondri",
-            "Kloroplast",
-            "Lökoplast",
-            "Lizozom"
-          ],
-          "dogruCevap": "Lizozom"
-        },
-        {
-          "soru": "Ribozom hangi hücresel işlevi gerçekleştirir?",
-          "secenekler": [
-            "Protein sentezi",
-            "Sıvı depolama",
-            "Hücre zarının onarımı",
-            "Hücre içi iletişim"
-          ],
-          "dogruCevap": "Protein sentezi"
         },
         {
           "soru": "Granüllü endoplazmik retikulumun üzerinde hangi yapılar bulunur?",
@@ -7339,89 +5445,9 @@
             "Salgı maddelerinin depolanması"
           ],
           "dogruCevap": "Yağ üretimi"
-        },
-        {
-          "soru": "Hücre zarında bulunan kolesterolün işlevi nedir?",
-          "secenekler": [
-            "Hücre zarını korumak",
-            "Hücreyi beslemek",
-            "Kolesterol enerji üretir",
-            "Salgı maddelerinin taşınmasını sağlamak"
-          ],
-          "dogruCevap": "Hücre zarını korumak"
-        },
-        {
-          "soru": "Hangi organel, ribozomların üretiminde yer alır?",
-          "secenekler": [
-            "Kloroplast",
-            "Mitokondri",
-            "Çekirdek",
-            "Endoplazmik retikulum"
-          ],
-          "dogruCevap": "Çekirdek"
-        },
-        {
-          "soru": "Hangisi prokaryotik hücrelere örnek değildir?",
-          "secenekler": [
-            "Bakteri",
-            "Arke",
-            "Mantar hücresi",
-            "E.coli"
-          ],
-          "dogruCevap": "Mantar hücresi"
-        },
-        {
-          "soru": "Kromoplastlar hangi renkleri taşır?",
-          "secenekler": [
-            "Yeşil",
-            "Sarı, kırmızı, turuncu",
-            "Mavi, yeşil",
-            "Beyaz, mor"
-          ],
-          "dogruCevap": "Sarı, kırmızı, turuncu"
-        },
-        {
-          "soru": "Prokaryotik hücrelerin hangi yapısı yoktur?",
-          "secenekler": [
-            "Hücre zarı",
-            "Çekirdek",
-            "Sitoplazma",
-            "Ribozom"
-          ],
-          "dogruCevap": "Çekirdek"
-        },
-        {
-          "soru": "Lökoplast ne depolar?",
-          "secenekler": [
-            "Yağ, protein, nişasta",
-            "Suyu",
-            "Oksijen",
-            "Glikoz"
-          ],
-          "dogruCevap": "Yağ, protein, nişasta"
-        },
-        {
-          "soru": "Hücredeki enerji üretimi hangi organelde gerçekleştirilir?",
-          "secenekler": [
-            "Mitokondri",
-            "Endoplazmik retikulum",
-            "Kloroplast",
-            "Ribozom"
-          ],
-          "dogruCevap": "Mitokondri"
         }
       ],
       "Hücre ve Organelleri 2": [
-        {
-          "soru": "Aşağıdaki organellerden hangisi sadece bitki hücrelerinde bulunur?",
-          "secenekler": [
-            "Mitokondri",
-            "Kloroplast",
-            "Lizozom",
-            "Golgi"
-          ],
-          "dogruCevap": "Kloroplast"
-        },
         {
           "soru": "Golgi organelinin ana işlevi nedir?",
           "secenekler": [
@@ -7431,36 +5457,6 @@
             "Enerji üretimi"
           ],
           "dogruCevap": "Protein ve yağların işlenip paketlenmesi"
-        },
-        {
-          "soru": "Lizozomlar hangi tür hücresel işlevi yerine getirir?",
-          "secenekler": [
-            "Enerji üretimi",
-            "Sindirim ve hücre içi yıkım",
-            "Protein sentezi",
-            "Oksijen üretimi"
-          ],
-          "dogruCevap": "Sindirim ve hücre içi yıkım"
-        },
-        {
-          "soru": "Sentrozomun hangi işlevi vardır?",
-          "secenekler": [
-            "Hücre bölünmesinde mikrotübülleri oluşturmak",
-            "Enerji üretimi sağlamak",
-            "Maddelerin taşınmasını sağlamak",
-            "Protein sentezi"
-          ],
-          "dogruCevap": "Hücre bölünmesinde mikrotübülleri oluşturmak"
-        },
-        {
-          "soru": "Kofullar hangi hücresel işlevi gerçekleştirir?",
-          "secenekler": [
-            "Besin ve atık madde depolama",
-            "Protein sentezi",
-            "DNA kopyalama",
-            "Sıvı üretimi"
-          ],
-          "dogruCevap": "Besin ve atık madde depolama"
         },
         {
           "soru": "Peroksizomlar hangi maddeleri etkisiz hale getirir?",
@@ -7483,16 +5479,6 @@
           "dogruCevap": "Mikrotübül > Ara filament > Mikrofilament"
         },
         {
-          "soru": "Mikrotübüller hangi hücresel işlevi gerçekleştirir?",
-          "secenekler": [
-            "Hücre bölünmesini kontrol etmek",
-            "Kromozom hareketini sağlamak",
-            "Protein sentezi yapmak",
-            "Lipidi depolamak"
-          ],
-          "dogruCevap": "Kromozom hareketini sağlamak"
-        },
-        {
           "soru": "Mikrofilamentlerin temel bileşeni nedir?",
           "secenekler": [
             "Aktin iplikçiklerinden oluşmak",
@@ -7501,16 +5487,6 @@
             "Hücre zarının şeklini değiştirmek"
           ],
           "dogruCevap": "Aktin iplikçiklerinden oluşmak"
-        },
-        {
-          "soru": "Hangi organel hücredeki enerji üretiminden sorumludur?",
-          "secenekler": [
-            "Mitokondri",
-            "Golgi",
-            "Ribozom",
-            "Sentrozom"
-          ],
-          "dogruCevap": "Mitokondri"
         },
         {
           "soru": "Aşağıdakilerden hangisi hücredeki protein sentezi için kullanılan organeldir?",
@@ -7523,36 +5499,6 @@
           "dogruCevap": "Ribozom"
         },
         {
-          "soru": "Çekirdekçikte hangi işlev gerçekleştirilir?",
-          "secenekler": [
-            "DNA sentezi",
-            "Ribozom alt birimlerinin birleşmesi",
-            "Protein sentezi",
-            "Mikrotübül üretimi"
-          ],
-          "dogruCevap": "Ribozom alt birimlerinin birleşmesi"
-        },
-        {
-          "soru": "Aşağıdaki hücre organellerinden hangisi bitki hücresinde bulunmaz?",
-          "secenekler": [
-            "Kloroplast",
-            "Peroksizom",
-            "Sentrozom",
-            "Golgi"
-          ],
-          "dogruCevap": "Sentrozom"
-        },
-        {
-          "soru": "Lizozom hangi durumlarda hücreyi öldürebilir?",
-          "secenekler": [
-            "Otofazisinde",
-            "Otoliz halinde",
-            "Salgı sırasında",
-            "Enerji üretirken"
-          ],
-          "dogruCevap": "Otoliz halinde"
-        },
-        {
           "soru": "Hücredeki madde taşınması ve depolanması için hangi organel görev alır?",
           "secenekler": [
             "Endoplazmik retikulum",
@@ -7561,59 +5507,9 @@
             "Sentrozom"
           ],
           "dogruCevap": "Endoplazmik retikulum"
-        },
-        {
-          "soru": "Hangi organel hücre zarının yapısını oluşturmaz?",
-          "secenekler": [
-            "Golgi",
-            "Mikrotübüller",
-            "Peroksizom",
-            "Kolesterol"
-          ],
-          "dogruCevap": "Peroksizom"
-        },
-        {
-          "soru": "Çekirdek zarının işlevi nedir?",
-          "secenekler": [
-            "Hücreyi dışarıdan ayırmak",
-            "Büyüme düzenini sağlamak",
-            "Metabolik faaliyetleri denetlemek",
-            "Hücre bölünmesini kontrol etmek"
-          ],
-          "dogruCevap": "Hücreyi dışarıdan ayırmak"
-        },
-        {
-          "soru": "Kromozomlar hangi organelde bulunur?",
-          "secenekler": [
-            "Çekirdek",
-            "Mitokondri",
-            "Ribozom",
-            "Golgi"
-          ],
-          "dogruCevap": "Çekirdek"
-        },
-        {
-          "soru": "Çekirdek sıvısının içinde hangi bileşenler bulunur?",
-          "secenekler": [
-            "DNA, RNA, protein",
-            "Su, oksijen, glikoz",
-            "ATP, ribozom, vitamin",
-            "Sıvı, yağ, karbonhidrat"
-          ],
-          "dogruCevap": "DNA, RNA, protein"
         }
       ],
       "Canlıların Sınıflandırılması": [
-        {
-          "soru": "Aşağıdaki canlılardan hangisi prokaryotik hücre yapısına sahiptir?",
-          "secenekler": [
-            "Bakteri",
-            "Arke",
-            "Protista",
-            "Mantar"
-          ],
-          "dogruCevap": "Protista"
-        },
         {
           "soru": "Aşağıdakilerden hangisi homolog organlara örnek olarak verilebilir?",
           "secenekler": [
@@ -7623,126 +5519,6 @@
             "Balığın kuyruğu ile yunusun kuyruğu"
           ],
           "dogruCevap": "Balinanın yüzgeci ile tavşanın ayağı"
-        },
-        {
-          "soru": "Taksonomik sınıflandırma birimlerinin en küçük birimi nedir?",
-          "secenekler": [
-            "Alem",
-            "Tür",
-            "Cins",
-            "Sınıf"
-          ],
-          "dogruCevap": "Tür"
-        },
-        {
-          "soru": "Aşağıdaki gruplardan hangisi doğal sınıflandırmanın bir örneğidir?",
-          "secenekler": [
-            "Homolog organ",
-            "Analog organ",
-            "Gıda türleri",
-            "Yapay organlar"
-          ],
-          "dogruCevap": "Homolog organ"
-        },
-        {
-          "soru": "Aşağıdaki canlılardan hangisi prokaryotik değildir?",
-          "secenekler": [
-            "Bakteri",
-            "Arke",
-            "Protista",
-            "Mantar"
-          ],
-          "dogruCevap": "Protista"
-        },
-        {
-          "soru": "Bakteriler hangi özelliklere sahip değildir?",
-          "secenekler": [
-            "Çok hücreli",
-            "Halkasal DNA",
-            "Peptidoglikan yapılı hücre çeperi",
-            "Fermantasyonla enerji üretimi"
-          ],
-          "dogruCevap": "Çok hücreli"
-        },
-        {
-          "soru": "Arkelerin hangi özelliği diğer canlılardan farklıdır?",
-          "secenekler": [
-            "Endospor üretirler",
-            "Halkasal DNA'ya sahip olmaları",
-            "Antibiyotiklere karşı dirençlidirler",
-            "Çok hücreli yapıya sahiptirler"
-          ],
-          "dogruCevap": "Antibiyotiklere karşı dirençlidirler"
-        },
-        {
-          "soru": "Aşağıdaki protista türlerinden hangisi fotosentez yapabilir?",
-          "secenekler": [
-            "Amip",
-            "Paramesyum",
-            "Alg",
-            "Cıvık mantar"
-          ],
-          "dogruCevap": "Alg"
-        },
-        {
-          "soru": "Bitkilerde fotosentez için hangi organel gereklidir?",
-          "secenekler": [
-            "Mitozom",
-            "Kloroplast",
-            "Ribozom",
-            "Golgi"
-          ],
-          "dogruCevap": "Kloroplast"
-        },
-        {
-          "soru": "Aşağıdaki bitkilerden hangisi tohumlu bitkiler arasında yer almaz?",
-          "secenekler": [
-            "Çam",
-            "Fasülye",
-            "Kozalaklı bitkiler",
-            "Eğrelti otu"
-          ],
-          "dogruCevap": "Eğrelti otu"
-        },
-        {
-          "soru": "Hangi organel hücrenin enerji üretiminden sorumludur?",
-          "secenekler": [
-            "Golgi",
-            "Mitokondri",
-            "Ribozom",
-            "Peroksizom"
-          ],
-          "dogruCevap": "Mitokondri"
-        },
-        {
-          "soru": "Mantarların hücre çeperi hangi maddeyi içerir?",
-          "secenekler": [
-            "Selüloz",
-            "Kitin",
-            "Sülfür",
-            "Peptidoglikan"
-          ],
-          "dogruCevap": "Kitin"
-        },
-        {
-          "soru": "Bakterilerde hangi yapı çevre koşullarından korunmak için oluşturulur?",
-          "secenekler": [
-            "Endospor",
-            "Plazmit",
-            "Kamçı",
-            "Pilus"
-          ],
-          "dogruCevap": "Endospor"
-        },
-        {
-          "soru": "Protistaların hangi yapısı hareket etmelerini sağlar?",
-          "secenekler": [
-            "Hif",
-            "Yalancı ayak",
-            "Spor",
-            "Mikrotübül"
-          ],
-          "dogruCevap": "Yalancı ayak"
         },
         {
           "soru": "Arkelerde bulunan hücre duvarı, hangi maddeyi içerir?",
@@ -7755,26 +5531,6 @@
           "dogruCevap": "Pseudo peptidoglikan"
         },
         {
-          "soru": "Bakteriler hangi şekilde çoğalır?",
-          "secenekler": [
-            "Bölünerek",
-            "Meyve vererek",
-            "Tomurcuklanarak",
-            "Sporlaşarak"
-          ],
-          "dogruCevap": "Bölünerek"
-        },
-        {
-          "soru": "Aşağıdaki canlılardan hangisi fotosentez yapmaz?",
-          "secenekler": [
-            "Alg",
-            "Yeşil bitkiler",
-            "Protista",
-            "Mantar"
-          ],
-          "dogruCevap": "Mantar"
-        },
-        {
           "soru": "Bakteriler hangi şekil tiplerine sahip olabilir?",
           "secenekler": [
             "Küre, çubuk, virgül, spiral",
@@ -7783,149 +5539,9 @@
             "Küre, dikdörtgen, şerit"
           ],
           "dogruCevap": "Küre, çubuk, virgül, spiral"
-        },
-        {
-          "soru": "Bakterilerde hangi yapı genetik materyalin taşınmasını sağlar?",
-          "secenekler": [
-            "Ribozom",
-            "Endospor",
-            "Plazmit",
-            "Pilus"
-          ],
-          "dogruCevap": "Plazmit"
-        },
-        {
-          "soru": "Bitkilerde hangi yapı su kaybını engellemeye yardımcı olur?",
-          "secenekler": [
-            "Yaprak damarları",
-            "Kök sistemi",
-            "Mikrozom",
-            "Stomalar"
-          ],
-          "dogruCevap": "Stomalar"
         }
       ],
       "Canlıların Sınıflandırılması 2": [
-        {
-          "soru": "Aşağıdaki canlılardan hangisi omurgasızlar sınıfında yer almaz?",
-          "secenekler": [
-            "Sünger",
-            "Balina",
-            "Eklembacaklı",
-            "Sölenter"
-          ],
-          "dogruCevap": "Balina"
-        },
-        {
-          "soru": "Süngerler hangi özelliğe sahiptir?",
-          "secenekler": [
-            "Sabit organları vardır",
-            "Eşeysiz üreme yapmazlar",
-            "Gözenekleri ile beslenme yaparlar",
-            "Hareketli organları vardır"
-          ],
-          "dogruCevap": "Gözenekleri ile beslenme yaparlar"
-        },
-        {
-          "soru": "Sölenterlerde hangi yapı bulunmaz?",
-          "secenekler": [
-            "Sinir doku",
-            "Kas doku",
-            "Solunum organları",
-            "Üreme organları"
-          ],
-          "dogruCevap": "Solunum organları"
-        },
-        {
-          "soru": "Solucanlar hangi tür solunumu yapar?",
-          "secenekler": [
-            "Deri solunumu",
-            "Ağız solunumu",
-            "Solungaç solunumu",
-            "Akciğer solunumu"
-          ],
-          "dogruCevap": "Deri solunumu"
-        },
-        {
-          "soru": "Yumuşakçaların kapalı dolaşım yapan türü hangisidir?",
-          "secenekler": [
-            "Midye",
-            "Sünger",
-            "Köpekbalığı",
-            "Ahtapot"
-          ],
-          "dogruCevap": "Ahtapot"
-        },
-        {
-          "soru": "Eklembacaklılarda hangi solunum sistemi bulunur?",
-          "secenekler": [
-            "Trake solunumu",
-            "Deri solunumu",
-            "Akciğer solunumu",
-            "Solungaç solunumu"
-          ],
-          "dogruCevap": "Trake solunumu"
-        },
-        {
-          "soru": "Eklembacaklıların hangi özelliği büyümeyi sınırlar?",
-          "secenekler": [
-            "Kemik yapılı iç iskelet",
-            "Kitin yapılı dış iskelet",
-            "Solungaç yapısı",
-            "Yumuşak vücut"
-          ],
-          "dogruCevap": "Kitin yapılı dış iskelet"
-        },
-        {
-          "soru": "Kordalılar hangi özellikleri taşır?",
-          "secenekler": [
-            "Omurga ve sinir kordonu bulunur",
-            "Sadece denizlerde yaşarlar",
-            "Sürekli tomurcuklanarak çoğalırlar",
-            "Kıkırdak iskeletleri vardır"
-          ],
-          "dogruCevap": "Omurga ve sinir kordonu bulunur"
-        },
-        {
-          "soru": "Balıklarda hangi solunum sistemi bulunur?",
-          "secenekler": [
-            "Akciğer solunumu",
-            "Solungaç solunumu",
-            "Deri solunumu",
-            "Trake solunumu"
-          ],
-          "dogruCevap": "Solungaç solunumu"
-        },
-        {
-          "soru": "İki yaşamlılar hangi solunum türünü kullanır?",
-          "secenekler": [
-            "Akciğer solunumu",
-            "Deri solunumu",
-            "Solungaç solunumu",
-            "Hem solungaç hem akciğer solunumu"
-          ],
-          "dogruCevap": "Hem solungaç hem akciğer solunumu"
-        },
-        {
-          "soru": "Sürüngenlerin boşaltım ürünü nedir?",
-          "secenekler": [
-            "Amonyak",
-            "Üre",
-            "Ürik asit",
-            "Glikoz"
-          ],
-          "dogruCevap": "Ürik asit"
-        },
-        {
-          "soru": "Kuşlar hangi sistemle solunum yapar?",
-          "secenekler": [
-            "Akciğer solunumu ve hava keseleri",
-            "Deri solunumu",
-            "Solungaç solunumu",
-            "Trake solunumu"
-          ],
-          "dogruCevap": "Akciğer solunumu ve hava keseleri"
-        },
         {
           "soru": "Memelilerin hangi özelliği onları sıcak kanlı yapar?",
           "secenekler": [
@@ -7937,36 +5553,6 @@
           "dogruCevap": "Yüksek metabolizma oranı ve sabit vücut ısısına sahip olmaları"
         },
         {
-          "soru": "Memelilerin boşaltım ürünü nedir?",
-          "secenekler": [
-            "Amonyak",
-            "Üre",
-            "Ürik asit",
-            "Glikoz"
-          ],
-          "dogruCevap": "Üre"
-        },
-        {
-          "soru": "Memeliler hangi üreme şekline sahiptir?",
-          "secenekler": [
-            "İç döllenme ve iç gelişme",
-            "Dış döllenme ve dış gelişme",
-            "İç döllenme ve dış gelişme",
-            "Dış döllenme ve iç gelişme"
-          ],
-          "dogruCevap": "İç döllenme ve iç gelişme"
-        },
-        {
-          "soru": "Virüslerin çoğalması için hangi şart gereklidir?",
-          "secenekler": [
-            "Canlı hücreye girmeleri",
-            "Biyolojik reaksiyonlar yapmaları",
-            "Bağımsız olarak büyümeleri",
-            "Kendi enerji üretmeleri"
-          ],
-          "dogruCevap": "Canlı hücreye girmeleri"
-        },
-        {
           "soru": "Virüslerin hangi özellikleri cansızlık özellikleri arasında yer alır?",
           "secenekler": [
             "Metabolik aktiviteleri vardır",
@@ -7975,26 +5561,6 @@
             "Çoğalabilirler"
           ],
           "dogruCevap": "Hücre dışında kristalleşirler"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi virüslerin canlılık özelliklerinden biridir?",
-          "secenekler": [
-            "Hücre dışında kristalleşirler",
-            "Metabolik aktiviteleri yoktur",
-            "Hücre içinde çoğalabilirler",
-            "Bağımsız olarak hareket ederler"
-          ],
-          "dogruCevap": "Hücre içinde çoğalabilirler"
-        },
-        {
-          "soru": "Virüslerin hangi hastalıklara neden olduğu bilinmektedir?",
-          "secenekler": [
-            "AIDS, grip, kuduz",
-            "Grip, verem, kızamık",
-            "Zatürre, covid-19, sıtma",
-            "Kanser, hepatit, şeker"
-          ],
-          "dogruCevap": "AIDS, grip, kuduz"
         }
       ],
       "Mitoz Bölünme ve Eşeysiz Üreme": [
@@ -8043,72 +5609,6 @@
           "dogruCevap": "Diploit hücrede iki set kromozom bulunur"
         },
         {
-          "soru": "İnterfaz evresinin hangi aşamasında DNA eşlenmesi gerçekleşir?",
-          "secenekler": [
-            "G1 evresi",
-            "S evresi",
-            "G2 evresi",
-            "M evresi",
-            "G0 evresi"
-          ],
-          "dogruCevap": "S evresi"
-        },
-        {
-          "soru": "Mitoz bölünmede kromozomlar hangi evrede en net görülür?",
-          "secenekler": [
-            "Profaz",
-            "Metafaz",
-            "Anafaz",
-            "Telofaz",
-            "İnterfaz"
-          ],
-          "dogruCevap": "Metafaz"
-        },
-        {
-          "soru": "Mitoz bölünmenin hangi evresinde kardeş kromatitler birbirinden ayrılır?",
-          "secenekler": [
-            "Profaz",
-            "Metafaz",
-            "Anafaz",
-            "Telofaz",
-            "İnterfaz"
-          ],
-          "dogruCevap": "Anafaz"
-        },
-        {
-          "soru": "Profaz evresinin sonunda aşağıdakilerden hangisi gerçekleşir?",
-          "secenekler": [
-            "Kromozomlar kısalır ve kalınlaşır",
-            "İğ iplikleri oluşturulur",
-            "Çekirdek zarı kaybolur",
-            "Kromozomlar ekvator düzleminde dizilir",
-            "DNA eşlenmesi başlar"
-          ],
-          "dogruCevap": "Çekirdek zarı kaybolur"
-        },
-        {
-          "soru": "İnterfaz evresinde aşağıdakilerden hangisi gerçekleşmez?",
-          "secenekler": [
-            "DNA eşlenmesi",
-            "Organel sayısının artması",
-            "Hücre büyümesi",
-            "Çekirdek bölünmesi",
-            "Protein sentezi"
-          ],
-          "dogruCevap": "Çekirdek bölünmesi"
-        },
-        {
-          "soru": "Mitoz bölünme sırasında iğ ipliklerinin bağlandığı yapı hangisidir?",
-          "secenekler": [
-            "Kinetokor",
-            "Sentromer",
-            "Kromozom",
-            "Hücre zarı",
-            "Çekirdek zarı"
-          ],
-          "dogruCevap": "Kinetokor"
-        },
-        {
           "soru": "Mitoz bölünmenin temel amacı aşağıdakilerden hangisidir?",
           "secenekler": [
             "Genetik çeşitlilik sağlamak",
@@ -8154,26 +5654,6 @@
           "dogruCevap": "Kromozomlar tekrar kromatin ipliğe dönüşür"
         },
         {
-          "soru": "Hayvansal hücrelerde telofazın sonlarına doğru hangi olay gerçekleşir?",
-          "secenekler": [
-            "Boğumlanma",
-            "Ara lamel oluşumu",
-            "Sentrioleler kutuplara gider",
-            "Kromozomlar dizilir"
-          ],
-          "dogruCevap": "Boğumlanma"
-        },
-        {
-          "soru": "Mitozda DNA miktarı ne zaman iki katına çıkar?",
-          "secenekler": [
-            "İnterfaz evresinde",
-            "S evresinde",
-            "Metafazda",
-            "Anafazda"
-          ],
-          "dogruCevap": "S evresinde"
-        },
-        {
           "soru": "Endomitoz ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
           "secenekler": [
             "Çekirdek bölünmesi ve sitoplazma bölünmesi birlikte gerçekleşir.",
@@ -8192,26 +5672,6 @@
             "Bitkiler"
           ],
           "dogruCevap": "Bira mayası ve amip"
-        },
-        {
-          "soru": "Kanser hangi durumda meydana gelir?",
-          "secenekler": [
-            "Hücre döngüsünün kontrolü kaybolduğunda",
-            "Embriyonik hücrelerde",
-            "Çekirdek bölünmesi kontrol altında olduğunda",
-            "Hücre büyümesi durduğunda"
-          ],
-          "dogruCevap": "Hücre döngüsünün kontrolü kaybolduğunda"
-        },
-        {
-          "soru": "Hangi kontrol noktası, DNA hasarını kontrol eder?",
-          "secenekler": [
-            "G1 kontrol noktası",
-            "G2 kontrol noktası",
-            "G0 kontrol noktası",
-            "M kontrol noktası"
-          ],
-          "dogruCevap": "G2 kontrol noktası"
         },
         {
           "soru": "Eşeysiz üreme ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
@@ -8234,16 +5694,6 @@
           "dogruCevap": "Prokaryotik ve tek hücreli ökaryotik canlılar"
         },
         {
-          "soru": "Sporla üreme hangi canlılarda görülür?",
-          "secenekler": [
-            "Sölenterler ve mayalar",
-            "Tohumsuz bitkiler ve mantarlar",
-            "Hayvanlar",
-            "Yumurtlayan memeliler"
-          ],
-          "dogruCevap": "Tohumsuz bitkiler ve mantarlar"
-        },
-        {
           "soru": "Tomurcuklanma ile üreme hangi canlılarda görülür?",
           "secenekler": [
             "Bira mayası ve bazı sölenterler",
@@ -8252,149 +5702,9 @@
             "Süngerler"
           ],
           "dogruCevap": "Bira mayası ve bazı sölenterler"
-        },
-        {
-          "soru": "Rejenerasyonla üreme sonucu hangi organizmalarda yeni bir canlı oluşur?",
-          "secenekler": [
-            "Kertenkele",
-            "Planarya",
-            "Deniz yıldızı",
-            "Amip"
-          ],
-          "dogruCevap": "Deniz yıldızı"
-        },
-        {
-          "soru": "Partenogenez hangi canlıda gerçekleşir?",
-          "secenekler": [
-            "Erkek arı",
-            "Kertenkele",
-            "Böcekler",
-            "Kuşlar"
-          ],
-          "dogruCevap": "Erkek arı"
-        },
-        {
-          "soru": "Vejetatif üreme hangi organizmalarda görülür?",
-          "secenekler": [
-            "Bitkiler",
-            "Hayvanlar",
-            "Mantarlar",
-            "Tek hücreliler"
-          ],
-          "dogruCevap": "Bitkiler"
-        },
-        {
-          "soru": "Çelikle üreme hangi bitkilerde görülür?",
-          "secenekler": [
-            "Söğüt ve kavak",
-            "Patates ve havuç",
-            "Çilek ve zencefil",
-            "Asma ve şeftali"
-          ],
-          "dogruCevap": "Söğüt ve kavak"
-        },
-        {
-          "soru": "Doku kültürü yöntemi hangi bitkilerde kullanılır?",
-          "secenekler": [
-            "Soyu tükenmekte olan bitkiler",
-            "Çiçekli bitkiler",
-            "Tavuklar ve böcekler",
-            "Bütün bitkiler"
-          ],
-          "dogruCevap": "Soyu tükenmekte olan bitkiler"
-        },
-        {
-          "soru": "Aşılama ile üreme hangi bitkilerde uygulanabilir?",
-          "secenekler": [
-            "Aynı veya farklı türler arasında",
-            "Sadece tek türde",
-            "Farklı cinslerde",
-            "Sadece meyve veren bitkiler"
-          ],
-          "dogruCevap": "Aynı veya farklı türler arasında"
-        },
-        {
-          "soru": "Hangi üreme şekli tek hücreli organizmalarda görülür?",
-          "secenekler": [
-            "Amitoz",
-            "Mitoz",
-            "Bölünerek üreme",
-            "Sporla üreme"
-          ],
-          "dogruCevap": "Bölünerek üreme"
         }
       ],
       "Kalıtım": [
-        {
-          "soru": "Kalıtım biliminin konusu nedir?",
-          "secenekler": [
-            "Canlıların fiziksel özelliklerinin incelenmesi",
-            "Genetik bilgilerin aktarılması",
-            "Canlıların davranışlarının incelenmesi",
-            "Canlıların evrimsel süreçlerinin incelenmesi"
-          ],
-          "dogruCevap": "Genetik bilgilerin aktarılması"
-        },
-        {
-          "soru": "Baskın gen nasıl ifade edilir?",
-          "secenekler": [
-            "A küçük harf ile",
-            "a küçük harf ile",
-            "A büyük harf ile",
-            "a büyük harf ile"
-          ],
-          "dogruCevap": "A büyük harf ile"
-        },
-        {
-          "soru": "Çekinik gen hangi harf ile ifade edilir?",
-          "secenekler": [
-            "A",
-            "a",
-            "B",
-            "b"
-          ],
-          "dogruCevap": "a"
-        },
-        {
-          "soru": "Homozigotluk ne anlama gelir?",
-          "secenekler": [
-            "Karakteri oluşturan genlerin farklı olması",
-            "Karakteri oluşturan genlerin aynı olması",
-            "Baskın genin etkisini gösteren genotip",
-            "Çekinik genin etkisini gösteren genotip"
-          ],
-          "dogruCevap": "Karakteri oluşturan genlerin aynı olması"
-        },
-        {
-          "soru": "Heterozigotluk ne anlama gelir?",
-          "secenekler": [
-            "Karakteri oluşturan genlerin farklı olması",
-            "Karakteri oluşturan genlerin aynı olması",
-            "Baskın genin etkisini göstermeyen genotip",
-            "Çekinik genin etkisini gösteren genotip"
-          ],
-          "dogruCevap": "Karakteri oluşturan genlerin farklı olması"
-        },
-        {
-          "soru": "Aşağıdakilerden hangisi genetik çeşitlilik sağlamaz?",
-          "secenekler": [
-            "Krossing-over",
-            "Bağımsız dağılım yasası",
-            "Eş baskınlık",
-            "Homozigotluk"
-          ],
-          "dogruCevap": "Homozigotluk"
-        },
-        {
-          "soru": "Monohibrit çaprazlama nedir?",
-          "secenekler": [
-            "Bir karakterin genetik çaprazlaması",
-            "İki karakterin genetik çaprazlaması",
-            "Üç karakterin genetik çaprazlaması",
-            "Tek bir karakterin farklı bireylerle çaprazlanması"
-          ],
-          "dogruCevap": "Bir karakterin genetik çaprazlaması"
-        },
         {
           "soru": "Mendel'in çalışmalarında bezelye bitkisini seçme nedeni nedir?",
           "secenekler": [
@@ -8416,16 +5726,6 @@
           "dogruCevap": "Alel genlerin birbirinden aynı olasılıkla ayrıldığını"
         },
         {
-          "soru": "Bağımsız dağılım yasası nedir?",
-          "secenekler": [
-            "Farklı karakterlerin alellerinin birbirinden bağımsız dağılması",
-            "Aynı karakterin alellerinin bağlanarak dağıldığı yasa",
-            "Farklı karakterlerin alellerinin birbirine bağlı kalması",
-            "Bir alel çiftinin her zaman baskın olarak ifade edilmesi"
-          ],
-          "dogruCevap": "Farklı karakterlerin alellerinin birbirinden bağımsız dağılması"
-        },
-        {
           "soru": "Aşağıdaki genetik kavramlardan hangisi fenotipin tanımını yapar?",
           "secenekler": [
             "Canlının genetik yapısı",
@@ -8434,16 +5734,6 @@
             "Canlının kromozom yapısı"
           ],
           "dogruCevap": "Canlının gözle görülebilen özellikleri"
-        },
-        {
-          "soru": "Mendel'in Bağımsız Dağılım Yasası hangi durumda geçerli olur?",
-          "secenekler": [
-            "Genler birbirine bağlıysa",
-            "Genler bağımsızsa",
-            "Krossing-over olmadığı durumlarda",
-            "Kötü huylu genler bulunduğunda"
-          ],
-          "dogruCevap": "Genler bağımsızsa"
         },
         {
           "soru": "Krossing-over nedir?",
@@ -8488,17 +5778,6 @@
       ],
       "Kalıtım 2": [
         {
-          "soru": "Çok alellilik nedir?",
-          "secenekler": [
-            "Bir karakteri belirleyen alel sayısının birden fazla olması",
-            "Bir karakteri belirleyen alel sayısının iki olması",
-            "Bir genin baskınlık durumunun çok olması",
-            "Bir karakterin sadece bir alelle belirlenmesi",
-            "Bir karakterin sadece çekinik alelle belirlenmesi"
-          ],
-          "dogruCevap": "Bir karakteri belirleyen alel sayısının birden fazla olması"
-        },
-        {
           "soru": "Himalaya tavşanlarının kürk rengini belirleyen aleller arasındaki baskınlık sıralaması nedir?",
           "secenekler": [
             "C > cch > ch > c",
@@ -8532,17 +5811,6 @@
           "dogruCevap": "n x (n-1) / 2"
         },
         {
-          "soru": "Kan grupları hangi genetik özellik ile belirlenir?",
-          "secenekler": [
-            "X kromozomu",
-            "Y kromozomu",
-            "Çok alellilik",
-            "Bağlı genler",
-            "Mitokondriyal DNA"
-          ],
-          "dogruCevap": "Çok alellilik"
-        },
-        {
           "soru": "A ve B alelleri, kan gruplarında hangi özelliği belirler?",
           "secenekler": [
             "Antijen (Aglütinojen)",
@@ -8552,28 +5820,6 @@
             "Trombosit faktörleri"
           ],
           "dogruCevap": "Antijen (Aglütinojen)"
-        },
-        {
-          "soru": "Kan grubunda 0 aleli ne işlev görür?",
-          "secenekler": [
-            "Antijen oluşumunu sağlar",
-            "Antikor oluşumunu sağlar",
-            "Antijen oluşumunda etkisizdir",
-            "Aglütinin üretir",
-            "Hemoglobin üretir"
-          ],
-          "dogruCevap": "Antijen oluşumunda etkisizdir"
-        },
-        {
-          "soru": "Rh faktörü hangi kalıtım şekliyle aktarılır?",
-          "secenekler": [
-            "Otozomal kromozomlarla",
-            "X kromozomuyla",
-            "Y kromozomuyla",
-            "Mitokondriyal DNA ile",
-            "Sitoplazmayla"
-          ],
-          "dogruCevap": "Otozomal kromozomlarla"
         },
         {
           "soru": "Rh pozitif (Rh+) bireyde hangi genotip bulunur?",
@@ -8620,28 +5866,6 @@
           "dogruCevap": "Anne ve fetüs arasındaki kan uyuşmazlığının sonucu"
         },
         {
-          "soru": "Soyağacı çalışmasında hangi sembol erkek bireyleri temsil eder?",
-          "secenekler": [
-            "Daire",
-            "Kare",
-            "Üçgen",
-            "Yıldız",
-            "Beşgen"
-          ],
-          "dogruCevap": "Kare"
-        },
-        {
-          "soru": "Soyağacında hangi sembol dişi bireyleri temsil eder?",
-          "secenekler": [
-            "Daire",
-            "Kare",
-            "Üçgen",
-            "Yıldız",
-            "Beşgen"
-          ],
-          "dogruCevap": "Daire"
-        },
-        {
           "soru": "Eşey tayini hangi kromozomlar ile yapılır?",
           "secenekler": [
             "Gonozomlar (X ve Y kromozomları)",
@@ -8662,85 +5886,11 @@
             "Hastalık hiçbir durumda görülmez"
           ],
           "dogruCevap": "Erkek bireyde hastalık, tek X kromozomunda yeterlidir"
-        },
-        {
-          "soru": "Kısmi renk körlüğü hangi kromozom ile taşınır?",
-          "secenekler": [
-            "X kromozomu",
-            "Y kromozomu",
-            "Otozom",
-            "Hem X hem Y kromozomları",
-            "Mitokondriyal DNA"
-          ],
-          "dogruCevap": "X kromozomu"
-        },
-        {
-          "soru": "Hemofili hastalığı hangi kromozom ile taşınır?",
-          "secenekler": [
-            "X kromozomu",
-            "Y kromozomu",
-            "Otozom",
-            "Birden fazla kromozom",
-            "Mitokondriyal DNA"
-          ],
-          "dogruCevap": "X kromozomu"
-        },
-        {
-          "soru": "Kulak kıllılığı hangi kromozom ile taşınır?",
-          "secenekler": [
-            "X kromozomu",
-            "Y kromozomu",
-            "Otozom",
-            "Bağımsız genler",
-            "Mitokondriyal DNA"
-          ],
-          "dogruCevap": "Y kromozomu"
-        },
-        {
-          "soru": "Akraba evliliği genetik hastalıkların görülme olasılığını nasıl etkiler?",
-          "secenekler": [
-            "Azaltır",
-            "Artırır",
-            "Hiç etkilemez",
-            "Genetik çeşitliliği artırır",
-            "Sadece dominant genleri etkiler"
-          ],
-          "dogruCevap": "Artırır"
         }
       ]
     },
     "Felsefe": {
       "Felsefenin Alanı": [
-        {
-          "soru": "Felsefenin amacı nedir?",
-          "secenekler": [
-            "Pratik çözümler üretmek",
-            "İnsanın varoluşunu ve değerlerini anlamaya çalışmak",
-            "Deneysel veri toplamak",
-            "Sadece bilimsel araştırmalar yapmak"
-          ],
-          "dogruCevap": "İnsanın varoluşunu ve değerlerini anlamaya çalışmak"
-        },
-        {
-          "soru": "Felsefe, hangi disiplinden farklıdır?",
-          "secenekler": [
-            "Sosyoloji",
-            "Psikoloji",
-            "Bilim",
-            "Sanat"
-          ],
-          "dogruCevap": "Bilim"
-        },
-        {
-          "soru": "Felsefe tarihinin ilk büyük düşünürü kimdir?",
-          "secenekler": [
-            "Sokrat",
-            "Platon",
-            "Aristoteles",
-            "Thales"
-          ],
-          "dogruCevap": "Thales"
-        },
         {
           "soru": "Felsefede 'ontoloji' hangi konuyu inceler?",
           "secenekler": [
@@ -8760,26 +5910,6 @@
             "Toplumların yapısını"
           ],
           "dogruCevap": "Bilginin doğasını ve kaynaklarını"
-        },
-        {
-          "soru": "Felsefede 'etik' hangi konuları inceler?",
-          "secenekler": [
-            "Sadece bilimsel keşifleri",
-            "İnsan davranışlarının doğru ve yanlışlarını",
-            "Toplumların yapısını",
-            "Varlığın anlamını"
-          ],
-          "dogruCevap": "İnsan davranışlarının doğru ve yanlışlarını"
-        },
-        {
-          "soru": "Aşağıdaki düşünürlerden hangisi 'idealizm' akımının önemli temsilcisidir?",
-          "secenekler": [
-            "Aristoteles",
-            "Platon",
-            "Nietzsche",
-            "Descartes"
-          ],
-          "dogruCevap": "Platon"
         },
         {
           "soru": "Felsefede 'fenomenoloji' hangi alanda çalışmalar yapar?",
@@ -8812,36 +5942,6 @@
           "dogruCevap": "Fikirlerin etkinliğini, pratik sonuçlarıyla ölçme anlayışı"
         },
         {
-          "soru": "Felsefede 'diyalektik' yöntem hangi düşünürle ilişkilendirilir?",
-          "secenekler": [
-            "Karl Marx",
-            "Sokrat",
-            "Aristoteles",
-            "David Hume"
-          ],
-          "dogruCevap": "Karl Marx"
-        },
-        {
-          "soru": "Sokrat, hangi felsefi yöntemi geliştirmiştir?",
-          "secenekler": [
-            "Diyalektik yöntem",
-            "Pragmatizm",
-            "Empirizm",
-            "Rasyonalizm"
-          ],
-          "dogruCevap": "Diyalektik yöntem"
-        },
-        {
-          "soru": "Felsefede 'varlık' kavramı genellikle hangi alanda ele alınır?",
-          "secenekler": [
-            "Metafizik",
-            "Epistemoloji",
-            "Etik",
-            "Estetik"
-          ],
-          "dogruCevap": "Metafizik"
-        },
-        {
           "soru": "Felsefede 'rasyonalizm' hangi düşünüş biçimini savunur?",
           "secenekler": [
             "Duyulara dayalı bilgi edinmeyi",
@@ -8872,26 +5972,6 @@
           "dogruCevap": "Gerçeklerin ve anlamların öznel olduğunu"
         },
         {
-          "soru": "Hangi felsefi akım, insanın doğaya karşı sorumluluğunu vurgular?",
-          "secenekler": [
-            "Ekolojizm",
-            "Pragmatizm",
-            "Realizm",
-            "Idealizm"
-          ],
-          "dogruCevap": "Ekolojizm"
-        },
-        {
-          "soru": "Felsefede 'estetik' hangi konuyu ele alır?",
-          "secenekler": [
-            "Güzellik ve sanat anlayışlarını",
-            "Toplumların yapısını",
-            "Varlık ve gerçekliği",
-            "İnsan davranışlarını"
-          ],
-          "dogruCevap": "Güzellik ve sanat anlayışlarını"
-        },
-        {
           "soru": "Felsefede 'sokratik yöntem' nedir?",
           "secenekler": [
             "Felsefi soruları yanlış bilgilere dayandırarak tartışma",
@@ -8903,16 +5983,6 @@
         }
       ],
       "Bilgi Felsefesi": [
-        {
-          "soru": "Bilgi felsefesi nedir?",
-          "secenekler": [
-            "Bilginin kaynağını ve doğasını inceleyen felsefi alan",
-            "Felsefi düşüncenin tarihsel gelişimini inceleyen alan",
-            "Varlığın anlamını sorgulayan alan",
-            "Toplumların yapısını inceleyen felsefi alan"
-          ],
-          "dogruCevap": "Bilginin kaynağını ve doğasını inceleyen felsefi alan"
-        },
         {
           "soru": "Bilgi felsefesinde 'bilgi' kavramı hangi anlamda kullanılır?",
           "secenekler": [
@@ -8954,16 +6024,6 @@
           "dogruCevap": "Düşünce, varlığın en kesin kanıtıdır"
         },
         {
-          "soru": "Hangi felsefi akım, bilginin duyu organları aracılığıyla edinilmesini savunur?",
-          "secenekler": [
-            "Empirizm",
-            "Rasyonalizm",
-            "Pragmatizm",
-            "Egzistansiyalizm"
-          ],
-          "dogruCevap": "Empirizm"
-        },
-        {
           "soru": "Kant’a göre bilgi nasıl edinilir?",
           "secenekler": [
             "Bilgi tamamen duyularla edinilir",
@@ -8972,16 +6032,6 @@
             "Bilgi yalnızca doğrudan deneyimlerle elde edilir"
           ],
           "dogruCevap": "Zihin, duyusal verileri organize eder ve anlamlı hale getirir"
-        },
-        {
-          "soru": "Sofistlerin bilgi anlayışına göre, bilgi nedir?",
-          "secenekler": [
-            "Evrensel ve değişmez bir gerçekliktir",
-            "Kişinin algılarına göre değişir",
-            "Kesin ve doğruluğu kanıtlanmış bilgidir",
-            "Her insan doğuştan doğruyu bilir"
-          ],
-          "dogruCevap": "Kişinin algılarına göre değişir"
         },
         {
           "soru": "Bilgi felsefesinde 'doğruluk' kavramı nasıl tanımlanır?",
@@ -9066,46 +6116,6 @@
       ],
       "Varlık Felsefesi": [
         {
-          "soru": "Varlık felsefesi hangi soruya yanıt arar?",
-          "secenekler": [
-            "Varlıkların nasıl algılandığı",
-            "Varlığın ne olduğu",
-            "Varlıkların toplumdaki yeri",
-            "Varlıkların tarihsel gelişimi"
-          ],
-          "dogruCevap": "Varlığın ne olduğu"
-        },
-        {
-          "soru": "Varlık felsefesinin temeli hangi kavramla ilişkilidir?",
-          "secenekler": [
-            "İyi",
-            "Gerçeklik",
-            "Zihin",
-            "Erdem"
-          ],
-          "dogruCevap": "Gerçeklik"
-        },
-        {
-          "soru": "Varlık felsefesinde ontoloji neyi inceler?",
-          "secenekler": [
-            "Varlığın anlamını",
-            "Varlıkların yapısını ve doğasını",
-            "Varlıkların evrimsel sürecini",
-            "Varlıkların toplumsal etkilerini"
-          ],
-          "dogruCevap": "Varlıkların yapısını ve doğasını"
-        },
-        {
-          "soru": "Aristoteles'in varlık anlayışında ne ön plandadır?",
-          "secenekler": [
-            "İdea",
-            "Maddi dünya",
-            "Ruhsal varlıklar",
-            "Duyularla algılanan dünya"
-          ],
-          "dogruCevap": "Maddi dünya"
-        },
-        {
           "soru": "Platon'un varlık anlayışına göre, gerçeklik nedir?",
           "secenekler": [
             "Duyusal dünyadaki varlıklardır",
@@ -9134,16 +6144,6 @@
             "Rasyonalizm"
           ],
           "dogruCevap": "Dualizm"
-        },
-        {
-          "soru": "Dualizm, hangi filozof tarafından savunulmuştur?",
-          "secenekler": [
-            "Aristoteles",
-            "Descartes",
-            "Kant",
-            "Hegel"
-          ],
-          "dogruCevap": "Descartes"
         },
         {
           "soru": "Varlık felsefesinde 'idealizm' görüşü neyi savunur?",
@@ -9216,16 +6216,6 @@
           "dogruCevap": "Gerçekliğin insan zihninden bağımsız olarak var olduğu"
         },
         {
-          "soru": "Varlık felsefesinde 'fenomenoloji' nedir?",
-          "secenekler": [
-            "Gerçekliği dış dünyadaki nesnelerin varlığıyla açıklama",
-            "Bilincin bir şeyleri nasıl algıladığını inceleme",
-            "Varlıkların evrimsel gelişimini inceleme",
-            "Gerçekliğin toplumsal yapılarla ilişkisini inceleme"
-          ],
-          "dogruCevap": "Bilincin bir şeyleri nasıl algıladığını inceleme"
-        },
-        {
           "soru": "Varlık felsefesinde 'varlık alanı' kavramı nedir?",
           "secenekler": [
             "Varlıkların sadece fiziksel olarak mevcut olduğu alan",
@@ -9234,16 +6224,6 @@
             "Toplumların algıladığı varlık alanıdır"
           ],
           "dogruCevap": "Fiziksel ve metafizik varlıkların tümünü kapsayan alan"
-        },
-        {
-          "soru": "Varlık felsefesinde 'kategoriler' neyi ifade eder?",
-          "secenekler": [
-            "Farklı varlık türlerinin sınıflandırılması",
-            "Varlıkların toplumsal olarak algılandığı kategoriler",
-            "Varlıkların insan zihninde oluşturduğu anlamlar",
-            "Varlıkların doğal evrimsel kategorileri"
-          ],
-          "dogruCevap": "Farklı varlık türlerinin sınıflandırılması"
         },
         {
           "soru": "Varlık felsefesinde 'subjektif idealizm' görüşünü savunan filozof kimdir?",
@@ -9267,26 +6247,6 @@
         }
       ],
       "Ahlak Felsefesi": [
-        {
-          "soru": "Ahlak felsefesinin temel amacı nedir?",
-          "secenekler": [
-            "İyi ve kötü arasındaki farkı belirlemek",
-            "Toplumların hukuk düzenlerini incelemek",
-            "İnsanın varoluş amacını sorgulamak",
-            "İnsanların düşünsel kapasitesini artırmak"
-          ],
-          "dogruCevap": "İyi ve kötü arasındaki farkı belirlemek"
-        },
-        {
-          "soru": "Ahlakın temel sorusu nedir?",
-          "secenekler": [
-            "Gerçekten var mıyız?",
-            "Neden varız?",
-            "Ne yapmak doğru ve ne yapmak yanlıştır?",
-            "İnsanlar neden düşünür?"
-          ],
-          "dogruCevap": "Ne yapmak doğru ve ne yapmak yanlıştır?"
-        },
         {
           "soru": "Kimyasal ve biyolojik süreçlerin ahlaki kararları etkileyip etkilemediğini soran felsefi akım nedir?",
           "secenekler": [
@@ -9388,16 +6348,6 @@
           "dogruCevap": "Ahlaki yargıların doğruluğunu ve temellerini sorgular"
         },
         {
-          "soru": "‘Ahlaki sorumluluk’ kavramını savunan yaklaşım hangisidir?",
-          "secenekler": [
-            "Determinist görüş",
-            "Ahlaki relativizm",
-            "Karma felsefesi",
-            "Deontoloji"
-          ],
-          "dogruCevap": "Deontoloji"
-        },
-        {
           "soru": "Ahlak felsefesindeki ‘nihilizm’ görüşü nedir?",
           "secenekler": [
             "Ahlaki değerlerin olduğu görüşüdür",
@@ -9418,16 +6368,6 @@
           "dogruCevap": "Bireylerin kendi seçimleriyle anlam yaratmaları gerektiği"
         },
         {
-          "soru": "‘Toplumsal sözleşme’ kuramını savunan filozof kimdir?",
-          "secenekler": [
-            "Hobbes",
-            "Platon",
-            "Nietzsche",
-            "Descartes"
-          ],
-          "dogruCevap": "Hobbes"
-        },
-        {
           "soru": "Ahlak felsefesinde ‘kültürel relativizm’ görüşü neyi savunur?",
           "secenekler": [
             "Ahlaki değerlerin evrensel olduğu",
@@ -9436,49 +6376,9 @@
             "Ahlaki değerlerin tarihsel olarak değiştiği"
           ],
           "dogruCevap": "Ahlaki değerlerin sadece toplumdan topluma değiştiği"
-        },
-        {
-          "soru": "Ahlak felsefesinde ‘epistemik adalet’ nedir?",
-          "secenekler": [
-            "Gerçeklerin doğru bir şekilde aktarılması",
-            "Kişilerin ahlaki sorumluluklarının doğruluğu",
-            "Toplumda herkesin eşit haklara sahip olması",
-            "İnsanların inançlarının doğruluğu"
-          ],
-          "dogruCevap": "Gerçeklerin doğru bir şekilde aktarılması"
-        },
-        {
-          "soru": "Ahlak felsefesinde ‘olumlu özgürlük’ nedir?",
-          "secenekler": [
-            "Kişinin kendi iradesiyle karar verme gücüdür",
-            "Bireyin toplumda kabul edilen kurallara uymasıdır",
-            "Devletin bireyin özgürlüğünü koruma sorumluluğudur",
-            "Bireyin kendini ifade edebilmesi için gerekli koşulları yaratma özgürlüğüdür"
-          ],
-          "dogruCevap": "Kişinin kendi iradesiyle karar verme gücüdür"
         }
       ],
       "Din Felsefesi": [
-        {
-          "soru": "Din felsefesi nedir?",
-          "secenekler": [
-            "Dinlerin ritüel ve ibadetlerini inceler",
-            "Dinlerin öğretilerini eleştirir",
-            "Dinlerin inanç ve değerlerini felsefi bir bakış açısıyla sorgular",
-            "Dinlerin sosyal işlevlerini araştırır"
-          ],
-          "dogruCevap": "Dinlerin inanç ve değerlerini felsefi bir bakış açısıyla sorgular"
-        },
-        {
-          "soru": "Tanrı'nın varlığını kanıtlamaya yönelik argümanlar hangi alanda incelenir?",
-          "secenekler": [
-            "Ontoloji",
-            "Metafizik",
-            "Din felsefesi",
-            "Epistemoloji"
-          ],
-          "dogruCevap": "Din felsefesi"
-        },
         {
           "soru": "Tanrı'nın varlığına dair yapılan en eski kanıtlar arasında hangisi yer alır?",
           "secenekler": [
@@ -9518,16 +6418,6 @@
             "Tanrı'nın tüm olayları kontrol ettiğine inanç"
           ],
           "dogruCevap": "Tanrı'nın evreni yarattığı ancak sonrasında evrenden elini çektiği görüşü"
-        },
-        {
-          "soru": "İslam dininde Tanrı’nın mutlak birliği anlamına gelen kavram nedir?",
-          "secenekler": [
-            "Vahdet-i Vücut",
-            "Tevhid",
-            "Tawhid",
-            "Monoteizm"
-          ],
-          "dogruCevap": "Tevhid"
         },
         {
           "soru": "Din felsefesinde ‘epistemik’ yaklaşım neyi inceler?",
@@ -9620,26 +6510,6 @@
           "dogruCevap": "Teodise"
         },
         {
-          "soru": "Din felsefesinde, Tanrı'nın doğrudan müdahalesinin olmadığına inanan görüş nedir?",
-          "secenekler": [
-            "Deizm",
-            "Ateizm",
-            "Panteizm",
-            "Teizm"
-          ],
-          "dogruCevap": "Deizm"
-        },
-        {
-          "soru": "İslam’da Tanrı’nın birliğini savunan temel kavram nedir?",
-          "secenekler": [
-            "Vahdet-i Vücut",
-            "Tevhid",
-            "Ruhbanlık",
-            "Monoteizm"
-          ],
-          "dogruCevap": "Tevhid"
-        },
-        {
           "soru": "Din felsefesinde ‘ontolojik kanıt’ nedir?",
           "secenekler": [
             "Tanrı'nın varlığının mantıksal bir argümanla kanıtlanması",
@@ -9653,26 +6523,6 @@
     },
     "Din Kültürü ve Ahlak Bilgisi": {
       "Bilgi ve İnanç": [
-        {
-          "soru": "Dinî inanç, hangi temele dayanır?",
-          "secenekler": [
-            "Kişisel düşünce ve akıl yürütme",
-            "Toplumsal düzen ve güvenlik",
-            "Kutsal kabul edilen kaynaklar ve vahiy",
-            "Bilimsel veriler ve gözlemler"
-          ],
-          "dogruCevap": "Kutsal kabul edilen kaynaklar ve vahiy"
-        },
-        {
-          "soru": "İnanç, genellikle hangi unsurlara dayanarak şekillenir?",
-          "secenekler": [
-            "Akıl yürütme ve mantık",
-            "Duyusal deneyimler ve gözlemler",
-            "Kişisel ve toplumsal değerler",
-            "Bilimsel araştırmalar ve keşifler"
-          ],
-          "dogruCevap": "Kişisel ve toplumsal değerler"
-        },
         {
           "soru": "Dinî inançların doğruluğu hakkında kesin bilgiye ulaşmak mümkün müdür?",
           "secenekler": [
@@ -9704,16 +6554,6 @@
           "dogruCevap": "Skeptisizm"
         },
         {
-          "soru": "Hangi görüş, bilginin kaynağının yalnızca duyu organlarıyla edinilebileceğini savunur?",
-          "secenekler": [
-            "Empirizm",
-            "Rasyonalizm",
-            "Pragmatizm",
-            "Agnostisizm"
-          ],
-          "dogruCevap": "Empirizm"
-        },
-        {
           "soru": "İnançlar, hangi faktöre dayanarak doğruluğu kesin olmayan kabuller olarak kabul edilir?",
           "secenekler": [
             "Bilimsel gözlemler",
@@ -9722,16 +6562,6 @@
             "Kutsal kitaplar ve vahiyler"
           ],
           "dogruCevap": "Kişisel duygular ve sezgiler"
-        },
-        {
-          "soru": "Dini inançlar toplumlar arasında nasıl farklılıklar gösterebilir?",
-          "secenekler": [
-            "Farklı kültürel ve tarihi bağlamlara göre",
-            "Bilimsel bulgularla doğrudan ilişkilidir",
-            "Toplumların akıl yürütme seviyeleriyle ilişkili",
-            "Her inanç kesin doğrulama gerektirir"
-          ],
-          "dogruCevap": "Farklı kültürel ve tarihi bağlamlara göre"
         },
         {
           "soru": "Bir kişinin doğru ve yanlış hakkında sahip olduğu bilgi, hangi unsurlar tarafından şekillenir?",
@@ -9834,16 +6664,6 @@
           "dogruCevap": "Hoşgörü"
         },
         {
-          "soru": "Bir kişinin dini inançlarını sorgulaması neyi ifade eder?",
-          "secenekler": [
-            "İnançsızlık",
-            "Agnostisizm",
-            "Skeptisizm",
-            "Ateizm"
-          ],
-          "dogruCevap": "Skeptisizm"
-        },
-        {
           "soru": "Dinî inançlar ve bilimsel bilgi arasındaki çatışma hangi durumda daha belirgin olur?",
           "secenekler": [
             "Dinî inançlar doğrudan gözlemle doğrulanabilirken",
@@ -9866,26 +6686,6 @@
           "dogruCevap": "Merhametli ve bağışlayıcı"
         },
         {
-          "soru": "İslam dininin kutsal kitabı nedir?",
-          "secenekler": [
-            "Kur'an-ı Kerim",
-            "Tevrat",
-            "Zebur",
-            "İncil"
-          ],
-          "dogruCevap": "Kur'an-ı Kerim"
-        },
-        {
-          "soru": "Hz. Muhammed (S.A.V) hangi şehirde doğmuştur?",
-          "secenekler": [
-            "Medine",
-            "Mekke",
-            "Kudüs",
-            "Taif"
-          ],
-          "dogruCevap": "Mekke"
-        },
-        {
           "soru": "İslam dininde temel ibadetlerden biri olan 'Namaz' günde kaç defa kılınır?",
           "secenekler": [
             "3",
@@ -9894,26 +6694,6 @@
             "6"
           ],
           "dogruCevap": "5"
-        },
-        {
-          "soru": "İslam dininde oruç, hangi aya aittir?",
-          "secenekler": [
-            "Ramazan",
-            "Şaban",
-            "Hicri yıl",
-            "Zilhicce"
-          ],
-          "dogruCevap": "Ramazan"
-        },
-        {
-          "soru": "İslam'da hac ibadeti hangi kutsal mekâna yapılır?",
-          "secenekler": [
-            "Medine",
-            "Kâbe",
-            "Mescid-i Aksa",
-            "Kubbetü’s-Sahra"
-          ],
-          "dogruCevap": "Kâbe"
         },
         {
           "soru": "İslam'ın beş şartından biri olan 'Zekât', ne amaçla verilir?",
@@ -9926,26 +6706,6 @@
           "dogruCevap": "Yoksullara yardım etmek"
         },
         {
-          "soru": "İslam dininde ilk vahiy hangi mağarada indirilmiştir?",
-          "secenekler": [
-            "Hira Mağarası",
-            "Kahf Mağarası",
-            "Ühüd Mağarası",
-            "Kıble Mağarası"
-          ],
-          "dogruCevap": "Hira Mağarası"
-        },
-        {
-          "soru": "İslam dininde peygamberlerin sonuncusu kimdir?",
-          "secenekler": [
-            "Hz. İsa",
-            "Hz. Musa",
-            "Hz. Muhammed",
-            "Hz. Nuh"
-          ],
-          "dogruCevap": "Hz. Muhammed"
-        },
-        {
           "soru": "İslam'da insanların birbirine yapması gereken güzel davranışlar nelerdir?",
           "secenekler": [
             "İman etmek ve ahlaka uygun yaşamak",
@@ -9956,16 +6716,6 @@
           "dogruCevap": "İman etmek ve ahlaka uygun yaşamak"
         },
         {
-          "soru": "İslam'da Allah'a inanmak, hangi temele dayanır?",
-          "secenekler": [
-            "İman",
-            "İbadet",
-            "Akıl",
-            "Dua"
-          ],
-          "dogruCevap": "İman"
-        },
-        {
           "soru": "İslam'da müslümanların, diğer müslümanlarla olan ilişkilerinde takip etmeleri gereken kural nedir?",
           "secenekler": [
             "Yardımlaşmak ve dayanışma içinde olmak",
@@ -9974,16 +6724,6 @@
             "Diğer dinlere karşı duyarsız olmak"
           ],
           "dogruCevap": "Yardımlaşmak ve dayanışma içinde olmak"
-        },
-        {
-          "soru": "İslam'da 'İman' nedir?",
-          "secenekler": [
-            "Allah'ın varlığına ve peygamberlerine inanmak",
-            "Sadece Allah'a inanmak",
-            "Peygamberlere inanmak",
-            "Ritüellere inanmak"
-          ],
-          "dogruCevap": "Allah'ın varlığına ve peygamberlerine inanmak"
         },
         {
           "soru": "İslam'ın temel inanç esaslarından biri olan 'melekler' neyi ifade eder?",
@@ -10098,16 +6838,6 @@
           "dogruCevap": "Sonsuz ve sınırsız"
         },
         {
-          "soru": "Allah’ın insanlara verdiği en büyük nimetlerden biri nedir?",
-          "secenekler": [
-            "Özgür irade",
-            "Ruhsal rahatlık",
-            "Kariyer başarısı",
-            "Toprak"
-          ],
-          "dogruCevap": "Özgür irade"
-        },
-        {
           "soru": "İslam’da insanın Allah’a karşı sorumluluğu nedir?",
           "secenekler": [
             "Kendi iradesine göre hareket etmek",
@@ -10188,16 +6918,6 @@
           "dogruCevap": "Adalet, dürüstlük, sabır"
         },
         {
-          "soru": "İslam’a göre, Allah’ın insana karşı sorumluluğu nedir?",
-          "secenekler": [
-            "İnsanları eğitmek",
-            "Her an insanları korumak",
-            "İnsanların her ihtiyacını karşılamak",
-            "İnsanları sorumlu tutmak"
-          ],
-          "dogruCevap": "Her an insanları korumak"
-        },
-        {
           "soru": "İslam’a göre, Allah’a inanmak insana ne sağlar?",
           "secenekler": [
             "Dünyada rahat bir yaşam",
@@ -10230,16 +6950,6 @@
           "dogruCevap": "Mekke"
         },
         {
-          "soru": "Hz. Muhammed (S.A.V) hangi yıl doğmuştur?",
-          "secenekler": [
-            "570",
-            "565",
-            "590",
-            "600"
-          ],
-          "dogruCevap": "570"
-        },
-        {
           "soru": "Hz. Muhammed (S.A.V)'in annesinin adı nedir?",
           "secenekler": [
             "Aminah",
@@ -10248,16 +6958,6 @@
             "Hafsa"
           ],
           "dogruCevap": "Aminah"
-        },
-        {
-          "soru": "Hz. Muhammed (S.A.V)'in babasının adı nedir?",
-          "secenekler": [
-            "Abdullah",
-            "Abu Talib",
-            "Hasan",
-            "Ali"
-          ],
-          "dogruCevap": "Abdullah"
         },
         {
           "soru": "Hz. Muhammed (S.A.V)'in peygamberlik görevi kaç yaşında başlamıştır?",

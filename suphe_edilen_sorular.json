@@ -1,1 +1,4940 @@
-[]
+[
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "İslamiyet Öncesi Türk Tarihi",
+    "soru": {
+      "soru": "Türk adı ilk defa hangi kaynakta geçmiştir?",
+      "secenekler": [
+        "Bizans",
+        "Kaşgarlı Mahmut",
+        "Çin",
+        "Ziya Gökalp"
+      ],
+      "dogruCevap": "Çin"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "İslamiyet Öncesi Türk Tarihi",
+    "soru": {
+      "soru": "Türklerin en eski kültür merkezi hangisidir?",
+      "secenekler": [
+        "Anav",
+        "Afanesyova",
+        "Karasuk",
+        "Tagar"
+      ],
+      "dogruCevap": "Anav"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "İslamiyet Öncesi Türk Tarihi",
+    "soru": {
+      "soru": "Türklerin bilinen ilk topluluğu hangisidir?",
+      "secenekler": [
+        "İskitler",
+        "Uygurlar",
+        "Hunlar",
+        "Köktürkler"
+      ],
+      "dogruCevap": "İskitler"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "İslamiyet Öncesi Türk Tarihi",
+    "soru": {
+      "soru": "Alp Er Tunga Destanı hangi Türk topluluğuna aittir?",
+      "secenekler": [
+        "İskitler",
+        "Hunlar",
+        "Göktürkler",
+        "Uygurlar"
+      ],
+      "dogruCevap": "İskitler"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "İslamiyet Öncesi Türk Tarihi",
+    "soru": {
+      "soru": "Maniheizm dinini benimseyen Türk devleti hangisidir?",
+      "secenekler": [
+        "Uygurlar",
+        "Göktürkler",
+        "Hunlar",
+        "Avarlar"
+      ],
+      "dogruCevap": "Uygurlar"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "İslamiyet Öncesi Türk Tarihi",
+    "soru": {
+      "soru": "Avrupa’da kurulan ilk Türk devleti hangisidir?",
+      "secenekler": [
+        "Avrupa Hun Devleti",
+        "Göktürkler",
+        "Peçenekler",
+        "Avarlar"
+      ],
+      "dogruCevap": "Avrupa Hun Devleti"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "İslamiyet Öncesi Türk Tarihi",
+    "soru": {
+      "soru": "Türklerin İslamiyet’i kabul eden ilk topluluğu hangisidir?",
+      "secenekler": [
+        "Karluklar",
+        "Kıpçaklar",
+        "Avarlar",
+        "Hunlar"
+      ],
+      "dogruCevap": "Karluklar"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "İslamiyet Öncesi Türk Tarihi",
+    "soru": {
+      "soru": "Kürşad Ayaklanması hangi Türk devleti zamanında gerçekleşmiştir?",
+      "secenekler": [
+        "Göktürkler",
+        "Hunlar",
+        "Uygurlar",
+        "Hazarlar"
+      ],
+      "dogruCevap": "Göktürkler"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "İslamiyet Öncesi Türk Tarihi",
+    "soru": {
+      "soru": "Orta Asya’da kurulan ilk Türk devleti hangisidir?",
+      "secenekler": [
+        "Asya Hun Devleti",
+        "Göktürkler",
+        "Uygurlar",
+        "Hazarlar"
+      ],
+      "dogruCevap": "Asya Hun Devleti"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "İslamiyet Öncesi Türk Kültürü ve Uygarlık",
+    "soru": {
+      "soru": "İslamiyet öncesi Türk devletlerinde vergi memuruna hangi unvan verilmiştir?",
+      "secenekler": [
+        "Tuden",
+        "Buyruk",
+        "Erkin",
+        "Aygucı"
+      ],
+      "dogruCevap": "Tuden"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "İslamiyet Öncesi Türk Kültürü ve Uygarlık",
+    "soru": {
+      "soru": "İslamiyet öncesi Türklerde Güneş Kültü ile ilgili hangi spor adı verilmiştir?",
+      "secenekler": [
+        "Kureş",
+        "Seğirtme",
+        "Tepük",
+        "Yelme"
+      ],
+      "dogruCevap": "Kureş"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.58)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Anadolu Beylikleri",
+    "soru": {
+      "soru": "Aşağıdaki beyliklerden hangisi denizcilik faaliyetleriyle ön plana çıkmıştır?",
+      "secenekler": [
+        "Çaka Beyliği",
+        "Saltuklular",
+        "Mengücekliler",
+        "Artuklular"
+      ],
+      "dogruCevap": "Çaka Beyliği",
+      "aciklama": "Çaka Beyliği, İzmir merkezli ilk Türk denizcilik beyliğidir."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Anadolu Beylikleri",
+    "soru": {
+      "soru": "Danişmendname hangi beylik döneminde yazılmıştır?",
+      "secenekler": [
+        "Danişmentliler",
+        "Artuklular",
+        "Saltuklular",
+        "Mengücekliler"
+      ],
+      "dogruCevap": "Danişmentliler",
+      "aciklama": "Danişmendname, Danişmentliler döneminin önemli edebi eserlerindendir."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Osmanlı Devleti’nde Kültür ve Medeniyet 2",
+    "soru": {
+      "soru": "Osmanlı'da kadılar hangi alanda görev yapardı?",
+      "secenekler": [
+        "Adalet",
+        "Askerlik",
+        "Maliye",
+        "Ticaret"
+      ],
+      "dogruCevap": "Adalet"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Osmanlı Devleti’nde Kültür ve Medeniyet 2",
+    "soru": {
+      "soru": "Osmanlı Devleti’nde 'Arasta' nedir?",
+      "secenekler": [
+        "Askeri okul",
+        "Çarşı",
+        "Kütüphane",
+        "Tarımsal alan"
+      ],
+      "dogruCevap": "Çarşı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Osmanlı Devleti’nde Kültür ve Medeniyet 3",
+    "soru": {
+      "soru": "İstanbul’da şehri yöneten en yüksek mülki amir kimdir?",
+      "secenekler": [
+        "Şehremini",
+        "Sadrazam",
+        "Yeniçeri Ağası",
+        "Asesbaşı"
+      ],
+      "dogruCevap": "Şehremini"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Osmanlı Devleti’nde Kültür ve Medeniyet 3",
+    "soru": {
+      "soru": "Divan-ı Hümayun üyelerinden hangisi mali işlerden sorumlu olmuştur?",
+      "secenekler": [
+        "Defterdar",
+        "Sadrazam",
+        "Reisülküttap",
+        "Kazasker"
+      ],
+      "dogruCevap": "Defterdar"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Osmanlı Devleti’nde Kültür ve Medeniyet 4",
+    "soru": {
+      "soru": "Osmanlı'da 'Tersane Emin' neyi ifade eder?",
+      "secenekler": [
+        "Donanma komutanı",
+        "Tersane sorumlusu",
+        "Sadrazamın vekili",
+        "Devlet hazinesi yöneticisi"
+      ],
+      "dogruCevap": "Tersane sorumlusu"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Kurtuluş Savaşı Hazırlık Dönemi 2",
+    "soru": {
+      "soru": "Erzurum Kongresi'nde alınan kararlar arasında hangisi yer almaz?",
+      "secenekler": [
+        "Milli egemenlik ilkesinin benimsenmesi",
+        "Kuva-yi Milliye'nin kurulması",
+        "Padişahın yetkilerinin artırılması",
+        "İstanbul hükümetine karşı direniş"
+      ],
+      "dogruCevap": "Padişahın yetkilerinin artırılması"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Kurtuluş Savaşı Hazırlık Dönemi 2",
+    "soru": {
+      "soru": "Sivas Kongresi sırasında alınan kararlar arasında yer alanlardan biri hangisidir?",
+      "secenekler": [
+        "Milli iradenin egemenliği",
+        "Saltanatın devam etmesi",
+        "İstanbul hükümetinin tanınması",
+        "Cumhuriyetin ilanı"
+      ],
+      "dogruCevap": "Milli iradenin egemenliği"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.66)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Kurtuluş Savaşı Hazırlık Dönemi 2",
+    "soru": {
+      "soru": "Amasya Genelgesi'nde, milli mücadelenin merkezi olarak hangi şehir belirtilmiştir?",
+      "secenekler": [
+        "Sivas",
+        "Ankara",
+        "Amasya",
+        "İstanbul"
+      ],
+      "dogruCevap": "Amasya"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Kurtuluş Savaşı Hazırlık Dönemi 2",
+    "soru": {
+      "soru": "Erzurum Kongresi'ni hangi cemiyet düzenlemiştir?",
+      "secenekler": [
+        "Kuva-yi Milliye",
+        "Osmanlı İttihat ve Terakki Cemiyeti",
+        "Müdafa-i Hukuk Cemiyeti",
+        "Teali İslam Cemiyeti"
+      ],
+      "dogruCevap": "Müdafa-i Hukuk Cemiyeti"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Kurtuluş Savaşı Hazırlık Dönemi 2",
+    "soru": {
+      "soru": "Erzurum Kongresi'ne katılan temsilciler, hangi sınıfın çıkarlarını savunmuştur?",
+      "secenekler": [
+        "Halk sınıfı",
+        "Osmanlı hükümeti",
+        "Müttefikler",
+        "Yerli aristokrasi"
+      ],
+      "dogruCevap": "Halk sınıfı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Partiler ve Partileşme Dönemi (İç Politika)",
+    "soru": {
+      "soru": "Türkiye Cumhuriyeti'nin ilk siyasi partisi hangisidir?",
+      "secenekler": [
+        "Cumhuriyet Halk Partisi",
+        "Serbest Cumhuriyet Fırkası",
+        "İttihat ve Terakki Cemiyeti",
+        "Halk Partisi"
+      ],
+      "dogruCevap": "Cumhuriyet Halk Partisi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Atatürk Dönemi Türk Dış Politikası",
+    "soru": {
+      "soru": "Atatürk döneminde Balkan Antantı'na hangi ülke katılmamıştır?",
+      "secenekler": [
+        "Bulgaristan",
+        "Yunanistan",
+        "Yugoslavya",
+        "Romanya"
+      ],
+      "dogruCevap": "Bulgaristan"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Tarih",
+    "alt_kategori": "Atatürk Sonrası Dönem",
+    "soru": {
+      "soru": "Demokrat Parti döneminde ekonomide yaşanan en önemli değişim hangisidir?",
+      "secenekler": [
+        "Liberal ekonomi politikalarının benimsenmesi",
+        "Devletçi politikaların güçlendirilmesi",
+        "Dış ticarette kısıtlamaların artırılması",
+        "Tarım sektörünün gerilemesi"
+      ],
+      "dogruCevap": "Liberal ekonomi politikalarının benimsenmesi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Coğrafya",
+    "alt_kategori": "Türkiye'nin Coğrafi Konumu",
+    "soru": {
+      "soru": "Türkiye'nin bulunduğu konum aşağıdakilerden hangisinin oluşmasında etkili değildir?",
+      "secenekler": [
+        "Bitki örtüsü çeşitliliği",
+        "İklim çeşitliliği",
+        "Yer altı kaynakları",
+        "Kıyı şekilleri"
+      ],
+      "dogruCevap": "Yer altı kaynakları"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Coğrafya",
+    "alt_kategori": "Türkiye'de Nüfus ve Yerleşme",
+    "soru": {
+      "soru": "Aşağıdakilerden hangisi Türkiye'de nüfusun yaş yapısının özelliklerinden biri değildir?",
+      "secenekler": [
+        "Genç nüfus oranının fazla olması",
+        "Çalışan nüfusun artması",
+        "Yaşlı nüfus oranının azalması",
+        "Bağımlı nüfusun azalması"
+      ],
+      "dogruCevap": "Yaşlı nüfus oranının azalması"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Coğrafya",
+    "alt_kategori": "Türkiye'de Ulaşım, Ticaret ve Turizm",
+    "soru": {
+      "soru": "Aşağıdakilerden hangisi Türkiye'deki önemli tarihi turistik alanlardan biridir?",
+      "secenekler": [
+        "Nemrut Harabeleri",
+        "Perge",
+        "Efes",
+        "Hasankeyf"
+      ],
+      "dogruCevap": "Nemrut Harabeleri"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Coğrafya",
+    "alt_kategori": "Türkiye'de Ulaşım, Ticaret ve Turizm",
+    "soru": {
+      "soru": "Türkiye'nin en fazla hangi ürün ihracatını yapmaktadır?",
+      "secenekler": [
+        "Fındık",
+        "Üzüm",
+        "Pamuk",
+        "İncir"
+      ],
+      "dogruCevap": "Fındık"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Coğrafya",
+    "alt_kategori": "Türkiye'de Ulaşım, Ticaret ve Turizm",
+    "soru": {
+      "soru": "Aşağıdakilerden hangisi Türkiye'nin en fazla ithalat yaptığı ülkelerden biridir?",
+      "secenekler": [
+        "Almanya",
+        "Çin",
+        "ABD",
+        "İtalya"
+      ],
+      "dogruCevap": "Çin"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.58)"
+  },
+  {
+    "kategori": "Coğrafya",
+    "alt_kategori": "Türkiye'nin Coğrafi Bölgeleri",
+    "soru": {
+      "soru": "Aşağıdaki illerden hangisi Türkiye'nin İç Anadolu Bölgesi'ne ait değildir?",
+      "secenekler": [
+        "Konya",
+        "Eskişehir",
+        "Kırşehir",
+        "Bolu"
+      ],
+      "dogruCevap": "Bolu"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Söz Yorumu",
+    "soru": {
+      "soru": "Aşağıdaki ifadelerin hangisi eleştiri içermektedir?",
+      "secenekler": [
+        "Çok dağınık bir şekilde çalışıyorsun.",
+        "Bugün güzel bir gün olacak.",
+        "Yeni bir kıyafet aldım.",
+        "Herkese selam söyledim."
+      ],
+      "dogruCevap": "Çok dağınık bir şekilde çalışıyorsun."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Söz Yorumu",
+    "soru": {
+      "soru": "Aşağıdaki cümlelerden hangisi bir şikayet içermektedir?",
+      "secenekler": [
+        "Bu oda çok karışık.",
+        "Yarın erkenden kalkacağım.",
+        "Arkadaşlar çok nazikti.",
+        "Bu yol çok güzel görünüyor."
+      ],
+      "dogruCevap": "Bu oda çok karışık."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Söz Yorumu",
+    "soru": {
+      "soru": "Aşağıdaki ifadelerin hangisi bir teşekkür ifadesidir?",
+      "secenekler": [
+        "Yardımın için çok teşekkür ederim.",
+        "Bugün çok yoğun bir gün geçirdim.",
+        "Herkes çok çalışkandı.",
+        "Sınava çok iyi hazırlanmışsın."
+      ],
+      "dogruCevap": "Yardımın için çok teşekkür ederim."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Söz Yorumu",
+    "soru": {
+      "soru": "Aşağıdaki cümlelerden hangisi bir rica ifadesidir?",
+      "secenekler": [
+        "Bana biraz su verir misin?",
+        "Bugün oldukça keyifli geçti.",
+        "Her şey tam da planladığımız gibi oldu.",
+        "Bu yol çok güzel görünüyor."
+      ],
+      "dogruCevap": "Bana biraz su verir misin?"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Söz Yorumu",
+    "soru": {
+      "soru": "Aşağıdaki cümlelerden hangisi öz eleştiri içermektedir?",
+      "secenekler": [
+        "Bu sorunu daha önce fark etmeliydim.",
+        "Bugün oldukça yoğun bir gün geçirdim.",
+        "Arkadaşlar oldukça uyumluydu.",
+        "Projede her şey yolunda gitti."
+      ],
+      "dogruCevap": "Bu sorunu daha önce fark etmeliydim."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Söz Yorumu",
+    "soru": {
+      "soru": "Aşağıdaki ifadelerden hangisi bir kararlılık belirtmektedir?",
+      "secenekler": [
+        "Bu işi mutlaka başaracağım.",
+        "Bugün hava çok soğuk.",
+        "Arkadaşlarla dışarı çıkacağız.",
+        "Herkes oldukça keyifliydi."
+      ],
+      "dogruCevap": "Bu işi mutlaka başaracağım."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.66)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Söz Yorumu",
+    "soru": {
+      "soru": "Aşağıdaki ifadelerden hangisi bir teselli niteliğindedir?",
+      "secenekler": [
+        "Her şey zamanla düzelecek.",
+        "Bugün oldukça zorlu bir gündü.",
+        "Arkadaşlar oldukça neşeliydi.",
+        "Yeni bir hobi edinmek istiyorum."
+      ],
+      "dogruCevap": "Her şey zamanla düzelecek."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.66)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Söz Yorumu",
+    "soru": {
+      "soru": "Aşağıdaki cümlelerin hangisi bir şaşkınlık ifade etmektedir?",
+      "secenekler": [
+        "Bu kadar hızlı olabileceğini düşünmemiştim.",
+        "Bugün oldukça sakin bir gün geçirdim.",
+        "Arkadaşlar oldukça keyifliydi.",
+        "Yeni bir telefon aldım."
+      ],
+      "dogruCevap": "Bu kadar hızlı olabileceğini düşünmemiştim."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Deyim ve Atasözü",
+    "soru": {
+      "soru": "“Burnundan solumak” deyimi ne anlama gelir?",
+      "secenekler": [
+        "Çok sinirlenmek",
+        "Sakin olmak",
+        "Heyecanlanmak",
+        "Mutlu olmak"
+      ],
+      "dogruCevap": "Çok sinirlenmek"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Paragrafta Anlatım Teknikleri",
+    "soru": {
+      "soru": "Bir paragrafta duyguların yoğun bir şekilde dile getirildiği anlatım tekniği hangisidir?",
+      "secenekler": [
+        "Betimleme",
+        "Duygusal Anlatım",
+        "Tartışma",
+        "Açıklama"
+      ],
+      "dogruCevap": "Duygusal Anlatım"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Aşağıdaki kelimelerden hangisi ünsüz yumuşamasına uğrar?",
+      "secenekler": [
+        "kitap",
+        "ağaç",
+        "uçak",
+        "kalp"
+      ],
+      "dogruCevap": "ağaç"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Aşağıdaki kelimelerden hangisinde ünlü daralması görülür?",
+      "secenekler": [
+        "başlıyor",
+        "geliyor",
+        "gidiyor",
+        "arıyor"
+      ],
+      "dogruCevap": "arıyor"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Aşağıdaki kelimelerden hangisinde ünlü düşmesi vardır?",
+      "secenekler": [
+        "burun",
+        "ağız",
+        "kardeş",
+        "bilezik"
+      ],
+      "dogruCevap": "burun"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Aşağıdaki kelimelerden hangisi ünlü uyumlarına tamamen uygundur?",
+      "secenekler": [
+        "çalışkan",
+        "kitaplık",
+        "mavi",
+        "gözlük"
+      ],
+      "dogruCevap": "gözlük"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Aşağıdaki eklerden hangisi ünlü daralmasına sebep olur?",
+      "secenekler": [
+        "-yor",
+        "-lık",
+        "-ken",
+        "-dan"
+      ],
+      "dogruCevap": "-yor"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Aşağıdaki kelimelerden hangisinde ünlü türemesi görülür?",
+      "secenekler": [
+        "saat",
+        "elma",
+        "yemek",
+        "minik"
+      ],
+      "dogruCevap": "saat"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Hangi kelimede ünsüz benzeşmesi (sertleşmesi) görülür?",
+      "secenekler": [
+        "kitapçı",
+        "ağaçta",
+        "çocukça",
+        "halka"
+      ],
+      "dogruCevap": "ağaçta"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.58)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Aşağıdaki kelimelerden hangisinde kaynaştırma harfi kullanılmıştır?",
+      "secenekler": [
+        "kardeşi",
+        "evdeki",
+        "geliyor",
+        "köylü"
+      ],
+      "dogruCevap": "kardeşi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Aşağıdaki kelimelerden hangisi ünsüz yumuşamasına uğramaz?",
+      "secenekler": [
+        "saat",
+        "kalp",
+        "renk",
+        "dolap"
+      ],
+      "dogruCevap": "saat"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Hangi kelimede ünsüz düşmesi görülür?",
+      "secenekler": [
+        "küçücük",
+        "sevecen",
+        "küçükçe",
+        "sevecenlik"
+      ],
+      "dogruCevap": "küçücük"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.66)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Hangi kelimede hem ünsüz yumuşaması hem de kaynaştırma harfi kullanılmıştır?",
+      "secenekler": [
+        "ağacı",
+        "kabağı",
+        "kitabı",
+        "dudağı"
+      ],
+      "dogruCevap": "kitabı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Aşağıdaki kelimelerden hangisinde ünlü daralması görülmez?",
+      "secenekler": [
+        "bakıyor",
+        "arıyor",
+        "gülüyor",
+        "oturuyor"
+      ],
+      "dogruCevap": "oturuyor"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Hangi kelimede ünlü düşmesi görülmez?",
+      "secenekler": [
+        "oğul",
+        "burun",
+        "alın",
+        "kavun"
+      ],
+      "dogruCevap": "kavun"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Aşağıdaki kelimelerden hangisinde büyük ünlü uyumuna aykırılık vardır?",
+      "secenekler": [
+        "kardeş",
+        "kitap",
+        "şehir",
+        "gözlük"
+      ],
+      "dogruCevap": "şehir"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.57)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Aşağıdaki kelimelerden hangisinde ses olayı görülmemektedir?",
+      "secenekler": [
+        "koşuyor",
+        "gitti",
+        "kardeşim",
+        "kitap"
+      ],
+      "dogruCevap": "kitap"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Türkçede kaynaştırma harfleri hangileridir?",
+      "secenekler": [
+        "k,l,t,n",
+        "n,y,ş,s",
+        "y,ş,s,n",
+        "m,l,n,r"
+      ],
+      "dogruCevap": "y,ş,s,n"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.66)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Ses Bilgisi",
+    "soru": {
+      "soru": "Aşağıdaki kelimelerden hangisinde ses türemesi vardır?",
+      "secenekler": [
+        "his",
+        "elma",
+        "zemin",
+        "sınıf"
+      ],
+      "dogruCevap": "his"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Yazım Kuralları",
+    "soru": {
+      "soru": "Hangi cümlede ay adının yazımı yanlıştır?",
+      "secenekler": [
+        "2023 yılı Ocak ayında çok soğuktu.",
+        "Eylül ayı her zaman hüzün verir.",
+        "Yaz tatili Haziranda başlıyor.",
+        "Mart ayı ilkbaharın habercisidir."
+      ],
+      "dogruCevap": "Yaz tatili Haziranda başlıyor."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Yazım Kuralları",
+    "soru": {
+      "soru": "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
+      "secenekler": [
+        "Fabrika İstanbul'un Avrupa yakasında yer alıyor.",
+        "Ayşe'nin yaptığı tatlı çok güzeldi.",
+        "Şubat tatilinde dağ evine gitmeyi düşünüyoruz.",
+        "Dün gece Ay ışığında yürüyüş yaptık."
+      ],
+      "dogruCevap": "Dün gece Ay ışığında yürüyüş yaptık."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Yazım Kuralları",
+    "soru": {
+      "soru": "Hangi cümlede eklerin yazımı doğru yapılmıştır?",
+      "secenekler": [
+        "Bu kitabı alıp ev'ine götürdü.",
+        "Elbiseyi dolaba as'ıverdi.",
+        "Bahçeye çıktı ve çiçekleri suladı.",
+        "Akşam yemekde hep birlikteydik."
+      ],
+      "dogruCevap": "Bahçeye çıktı ve çiçekleri suladı."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Sözcükte Yapı/Ekler",
+    "soru": {
+      "soru": "Aşağıdaki sözcüklerden hangisi türemiş bir sözcüktür?",
+      "secenekler": [
+        "Ev",
+        "Evcil",
+        "Evimiz",
+        "Evde"
+      ],
+      "dogruCevap": "Evcil"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Sözcükte Yapı/Ekler",
+    "soru": {
+      "soru": "Aşağıdaki cümledeki ek hangi tür ekidir? 'Kitaplarım' ",
+      "secenekler": [
+        "İyelik eki",
+        "Çoğul eki",
+        "Yönelme eki",
+        "Bağlaç eki"
+      ],
+      "dogruCevap": "İyelik eki"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Sözcükte Yapı/Ekler",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi ek kullanılmıştır? 'Çocuklar parka gitmiş.'",
+      "secenekler": [
+        "Çoğul eki",
+        "Belirtili nesne eki",
+        "Yönelme eki",
+        "Zarf fiil eki"
+      ],
+      "dogruCevap": "Çoğul eki"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Sözcükte Yapı/Ekler",
+    "soru": {
+      "soru": "Aşağıdaki kelimelerden hangisi birleşik sözcük örneği değildir?",
+      "secenekler": [
+        "Gözlük",
+        "Çalışkan",
+        "Hızlıca",
+        "Yazlık"
+      ],
+      "dogruCevap": "Hızlıca"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Sözcükte Yapı/Ekler",
+    "soru": {
+      "soru": "Aşağıdaki eklerden hangisi yapım eki değildir?",
+      "secenekler": [
+        "–lik",
+        "–ci",
+        "–de",
+        "–den"
+      ],
+      "dogruCevap": "–de"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Sözcükte Yapı/Ekler",
+    "soru": {
+      "soru": "Aşağıdaki sözcüklerden hangisinde bağlaç eki kullanılmıştır?",
+      "secenekler": [
+        "Yazıcı",
+        "Yazılım",
+        "Yazdı",
+        "Ve"
+      ],
+      "dogruCevap": "Ve"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Sözcükte Yapı/Ekler",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi ek kullanılmıştır? 'Çalışkan öğrencilere ödül verildi.'",
+      "secenekler": [
+        "Çoğul eki",
+        "Yönelme eki",
+        "İyelik eki",
+        "Bağlaç eki"
+      ],
+      "dogruCevap": "İyelik eki"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Sözcükte Yapı/Ekler",
+    "soru": {
+      "soru": "Aşağıdaki kelimelerden hangisi ek almış bir sözcük değildir?",
+      "secenekler": [
+        "Çalışkan",
+        "Yazılı",
+        "Evde",
+        "Araba"
+      ],
+      "dogruCevap": "Araba"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Sözcükte Yapı/Ekler",
+    "soru": {
+      "soru": "Aşağıdaki eklerden hangisi yönelme ekidir?",
+      "secenekler": [
+        "–a",
+        "–de",
+        "–ki",
+        "–den"
+      ],
+      "dogruCevap": "–a"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Kitapları masanın üstüne koydum.'",
+      "secenekler": [
+        "Kitapları",
+        "Masanın",
+        "Üstüne",
+        "Koydum"
+      ],
+      "dogruCevap": "Kitapları"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'O, bizimle gelmedi.'",
+      "secenekler": [
+        "Bizimle",
+        "Gelmedi",
+        "O",
+        "Biz"
+      ],
+      "dogruCevap": "O"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Sarı elbiseyi çok beğendim.'",
+      "secenekler": [
+        "Sarı",
+        "Elbiseyi",
+        "Beğendim",
+        "Çok"
+      ],
+      "dogruCevap": "Sarı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır? 'Evin etrafı çok düzenli.'",
+      "secenekler": [
+        "Evin",
+        "Çok",
+        "Düzenli",
+        "Etrafı"
+      ],
+      "dogruCevap": "Çok"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Kedim çok neşeli.'",
+      "secenekler": [
+        "Kedim",
+        "Çok",
+        "Neşeli",
+        "Ev"
+      ],
+      "dogruCevap": "Kedim"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.66)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'Bana yardım et.'",
+      "secenekler": [
+        "Bana",
+        "Yardım",
+        "Et",
+        "Bunu"
+      ],
+      "dogruCevap": "Bana"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Büyük bir şehirde yaşamak istiyorum.'",
+      "secenekler": [
+        "Büyük",
+        "Şehirde",
+        "Yaşamak",
+        "İstiyorum"
+      ],
+      "dogruCevap": "Büyük"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Yolda yürüyen adamı gördüm.'",
+      "secenekler": [
+        "Yolda",
+        "Yürüyen",
+        "Adamı",
+        "Gördüm"
+      ],
+      "dogruCevap": "Adamı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.66)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'Benimle gel.'",
+      "secenekler": [
+        "Benimle",
+        "Gel",
+        "O",
+        "Bizimle"
+      ],
+      "dogruCevap": "Benimle"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Kırmızı arabayı aldım.'",
+      "secenekler": [
+        "Kırmızı",
+        "Arabayı",
+        "Aldım",
+        "Bu"
+      ],
+      "dogruCevap": "Kırmızı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır? 'Yavaş yavaş yürüdü.'",
+      "secenekler": [
+        "Yavaş",
+        "Yavaşça",
+        "Yürüdü",
+        "Gitti"
+      ],
+      "dogruCevap": "Yavaşça"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Sürekli kitap okurum.'",
+      "secenekler": [
+        "Sürekli",
+        "Kitap",
+        "Okurum",
+        "Bunu"
+      ],
+      "dogruCevap": "Kitap"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'Herkese teşekkür ederim.'",
+      "secenekler": [
+        "Herkese",
+        "Teşekkür",
+        "Ederim",
+        "Bu"
+      ],
+      "dogruCevap": "Herkese"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Sarı elbiseyi çok beğendim.'",
+      "secenekler": [
+        "Sarı",
+        "Elbiseyi",
+        "Çok",
+        "Beğendim"
+      ],
+      "dogruCevap": "Sarı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Çok güzel bir manzara.'",
+      "secenekler": [
+        "Çok",
+        "Güzel",
+        "Bir",
+        "Manzara"
+      ],
+      "dogruCevap": "Güzel"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır? 'Güzelce konuştu.'",
+      "secenekler": [
+        "Güzelce",
+        "Konuştu",
+        "Bu",
+        "O"
+      ],
+      "dogruCevap": "Güzelce"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Arkadaşlarımla sinemaya gideceğim.'",
+      "secenekler": [
+        "Arkadaşlarımla",
+        "Sinemaya",
+        "Gideceğim",
+        "Bu"
+      ],
+      "dogruCevap": "Arkadaşlarımla"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'Onlar bizimle gelmediler.'",
+      "secenekler": [
+        "Onlar",
+        "Bizimle",
+        "Gelmediler",
+        "Gel"
+      ],
+      "dogruCevap": "Onlar"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Beyaz bir çiçek aldım.'",
+      "secenekler": [
+        "Beyaz",
+        "Bir",
+        "Çiçek",
+        "Aldım"
+      ],
+      "dogruCevap": "Beyaz"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Yeni bir araba aldım.'",
+      "secenekler": [
+        "Yeni",
+        "Bir",
+        "Araba",
+        "Aldım"
+      ],
+      "dogruCevap": "Araba"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'O, bizimle gelmedi.'",
+      "secenekler": [
+        "Bizimle",
+        "Gelmedi",
+        "O",
+        "Biz"
+      ],
+      "dogruCevap": "O"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf 2",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük sıfattır? 'Güzel bir duygu hissettim.'",
+      "secenekler": [
+        "Güzel",
+        "Duygu",
+        "Hissettim",
+        "Bir"
+      ],
+      "dogruCevap": "Güzel"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf 2",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Küçük çocuk parka gitti.'",
+      "secenekler": [
+        "Küçük",
+        "Çocuk",
+        "Park",
+        "Gitti"
+      ],
+      "dogruCevap": "Çocuk"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf 2",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük zamirdir? 'Bunlar benim kitaplarım.'",
+      "secenekler": [
+        "Bunlar",
+        "Benim",
+        "Kitaplarım",
+        "Olan"
+      ],
+      "dogruCevap": "Bunlar"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "İsim Sıfat Zamir Zarf 3",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük isimdir? 'Burası oldukça sessiz bir yer.'",
+      "secenekler": [
+        "Burası",
+        "Oldukça",
+        "Sessiz (nitelik sıfatı)",
+        "Yer"
+      ],
+      "dogruCevap": "Yer"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Edat – Bağlaç – Ünlem",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük edattır? 'Seninle gitmekten mutluyum.'",
+      "secenekler": [
+        "Gitmekten",
+        "Mutluyum",
+        "Seninle",
+        "Gidip"
+      ],
+      "dogruCevap": "Seninle"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Edat – Bağlaç – Ünlem",
+    "soru": {
+      "soru": "Aşağıdaki cümlede hangi sözcük edattır? 'Onunla birlikte sinemaya gittik.'",
+      "secenekler": [
+        "Onunla",
+        "Birlikte",
+        "Sinemaya",
+        "Gittik"
+      ],
+      "dogruCevap": "Birlikte"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Cümle Türleri",
+    "soru": {
+      "soru": "Aşağıdaki cümlelerden hangisi olumsuz bir yükleme sahiptir?",
+      "secenekler": [
+        "Bugün okula gitmeyeceğim.",
+        "Okula gitmek istiyorum.",
+        "Evin içinde hiç kimse yok.",
+        "Evet, ben de katılacağım."
+      ],
+      "dogruCevap": "Bugün okula gitmeyeceğim."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Cümle Türleri",
+    "soru": {
+      "soru": "Aşağıdaki cümlelerden hangisi emir kipiyle kurulmuştur?",
+      "secenekler": [
+        "Lütfen kapıyı kapat.",
+        "Ben hemen gelirim.",
+        "Nereye gittiğini bilmeliyim.",
+        "O çok sevdiği kitabı okudu."
+      ],
+      "dogruCevap": "Lütfen kapıyı kapat."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Türkçe",
+    "alt_kategori": "Anlatım Bozukluğu",
+    "soru": {
+      "soru": "Aşağıdaki cümlelerden hangisinde anlatım bozukluğu vardır?",
+      "secenekler": [
+        "Beni buraya getirdiği için teşekkür ederim.",
+        "Bu soruyu çözmeye çalıştım, ama yapamadım.",
+        "O kadar yoruldum ki artık hiç bir şey yapmak istemiyorum.",
+        "Konuşmalarımda her zaman dikkatli olmaya çalışıyorum."
+      ],
+      "dogruCevap": "Beni buraya getirdiği için teşekkür ederim."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.66)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Madde ve Özellikleri",
+    "soru": {
+      "soru": "Bir cisim ısındıkça hacmi artar. Bu özellik hangi özelliği gösterir?",
+      "secenekler": [
+        "Yoğunluk",
+        "Isıl genleşme",
+        "Elektriksel iletkenlik",
+        "Manyetik özellik"
+      ],
+      "dogruCevap": "Isıl genleşme"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.67)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Madde ve Özellikleri",
+    "soru": {
+      "soru": "Bütün maddelerin katı hâllerinde tanecikler nasıl düzenlenmiştir?",
+      "secenekler": [
+        "Serbestçe hareket ederler.",
+        "Aralarında boşluk yoktur.",
+        "Düzenli bir yapı oluşturur.",
+        "Karmaşık bir düzene sahiptirler."
+      ],
+      "dogruCevap": "Düzenli bir yapı oluşturur."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Madde ve Özellikleri",
+    "soru": {
+      "soru": "Aşağıdaki maddelerden hangisinin yoğunluğu suyun yoğunluğundan büyüktür?",
+      "secenekler": [
+        "Tahta",
+        "Buz",
+        "Demir",
+        "Yağ"
+      ],
+      "dogruCevap": "Demir"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Madde ve Özellikleri",
+    "soru": {
+      "soru": "Bir cisim üzerine uygulanan ısı neye yol açar?",
+      "secenekler": [
+        "Cismin sıcaklığını arttırır.",
+        "Cismin hacmini arttırır.",
+        "Cismin kütlesini arttırır.",
+        "Cismin yoğunluğunu arttırır."
+      ],
+      "dogruCevap": "Cismin sıcaklığını arttırır."
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Madde ve Özellikleri",
+    "soru": {
+      "soru": "Sürekli sıcaklık değişimine maruz kalan bir cisim hangi özellikleri değişir?",
+      "secenekler": [
+        "Kütle",
+        "Hacim",
+        "Yoğunluk",
+        "Başlangıç sıcaklığı"
+      ],
+      "dogruCevap": "Hacim"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Madde ve Özellikleri",
+    "soru": {
+      "soru": "Bir katı maddeyi sıvıya dönüştüren enerji türü nedir?",
+      "secenekler": [
+        "Isı enerjisi",
+        "Potansiyel enerji",
+        "Kinetik enerji",
+        "Kimyasal enerji"
+      ],
+      "dogruCevap": "Isı enerjisi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Madde ve Özellikleri",
+    "soru": {
+      "soru": "Bir maddenin sıcaklığı arttıkça genellikle hangi özellik değişir?",
+      "secenekler": [
+        "Kütle",
+        "Yoğunluk",
+        "Hacim",
+        "Moleküler yapı"
+      ],
+      "dogruCevap": "Hacim"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Isı, Sıcaklık ve Genleşme",
+    "soru": {
+      "soru": "Aşağıdaki maddelerden hangisinin ısıl genleşme katsayısı en büyüktür?",
+      "secenekler": [
+        "Alüminyum",
+        "Çelik",
+        "Plastik",
+        "Buz"
+      ],
+      "dogruCevap": "Plastik"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Isı, Sıcaklık ve Genleşme",
+    "soru": {
+      "soru": "Isıl genleşme, hangi maddenin özelliklerinden biridir?",
+      "secenekler": [
+        "Katı",
+        "Sıvı",
+        "Gaz",
+        "Bütün maddeler"
+      ],
+      "dogruCevap": "Bütün maddeler"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Isı, Sıcaklık ve Genleşme",
+    "soru": {
+      "soru": "Bir cisme ısı verilmesiyle cismin hangi özelliği değişir?",
+      "secenekler": [
+        "Kütlesi",
+        "Yoğunluğu",
+        "Hacmi",
+        "Kimyasal yapısı"
+      ],
+      "dogruCevap": "Hacmi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Optik",
+    "soru": {
+      "soru": "Bir ışık ışını camdan havaya geçerken hangi kırılma yasasına uyar?",
+      "secenekler": [
+        "Snell Yasası",
+        "Huygens İlkesi",
+        "Fermat İlkesi",
+        "Aristoteles Yasası"
+      ],
+      "dogruCevap": "Snell Yasası"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Optik",
+    "soru": {
+      "soru": "Bir lensin odak uzaklığı neyi belirtir?",
+      "secenekler": [
+        "Lensin ışık geçirme oranını",
+        "Işık ışınlarının odaklanacağı uzaklığı",
+        "Lensin çapını",
+        "Lensin büyütme oranını"
+      ],
+      "dogruCevap": "Işık ışınlarının odaklanacağı uzaklığı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.66)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Optik",
+    "soru": {
+      "soru": "Bir optik sistemde ışığın kırılma indisi neyi etkiler?",
+      "secenekler": [
+        "Işığın hızı",
+        "Işığın frekansı",
+        "Işığın yönü",
+        "Işığın dalga boyu"
+      ],
+      "dogruCevap": "Işığın hızı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Dalgalar",
+    "soru": {
+      "soru": "Bir ses dalgasının hızını artıran faktörlerden hangisi doğrudur?",
+      "secenekler": [
+        "Sıcaklık artışı",
+        "Hava basıncının azalması",
+        "Ortamdaki yoğunluğun artması",
+        "Havanın nem oranının azalması"
+      ],
+      "dogruCevap": "Sıcaklık artışı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Dalgalar",
+    "soru": {
+      "soru": "Ses dalgasının hızını artıran ortam faktörlerinden hangisi yanlıştır?",
+      "secenekler": [
+        "Sıcaklık",
+        "Basınç",
+        "Yoğunluk",
+        "Nem oranı"
+      ],
+      "dogruCevap": "Yoğunluk"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Dalgalar",
+    "soru": {
+      "soru": "Ses dalgası hangi ortamda en hızlı yayılır?",
+      "secenekler": [
+        "Havadar ortamda",
+        "Sıvılarda",
+        "Katılarda",
+        "Vakum ortamında"
+      ],
+      "dogruCevap": "Katılarda"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Fizik",
+    "alt_kategori": "Dalgalar",
+    "soru": {
+      "soru": "Bir dalga, bir ortamdan diğerine geçtiğinde hangi özellik sabit kalır?",
+      "secenekler": [
+        "Frekans",
+        "Genlik",
+        "Dalga boyu",
+        "Hız"
+      ],
+      "dogruCevap": "Frekans"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimya Bilimi",
+    "soru": {
+      "soru": "Aşağıdaki bileşiklerden hangisi iyonik bağ ile birleşmiştir?",
+      "secenekler": [
+        "H₂O",
+        "NaCl",
+        "CO₂",
+        "CH₄"
+      ],
+      "dogruCevap": "NaCl"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimya Bilimi",
+    "soru": {
+      "soru": "Aşağıdaki bileşiklerden hangisinde kovalent bağ bulunur?",
+      "secenekler": [
+        "NaCl",
+        "MgO",
+        "H₂O",
+        "CaCl₂"
+      ],
+      "dogruCevap": "H₂O"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimya Bilimi",
+    "soru": {
+      "soru": "Yukarıdaki soruya göre çözeltinin pOH değeri nedir?",
+      "secenekler": [
+        "10",
+        "6",
+        "9",
+        "7"
+      ],
+      "dogruCevap": "10"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimya Bilimi",
+    "soru": {
+      "soru": "Aşağıdaki bileşiklerden hangisi asidik özellik gösterir?",
+      "secenekler": [
+        "NaOH",
+        "KOH",
+        "HCl",
+        "Na₂CO₃"
+      ],
+      "dogruCevap": "HCl"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimya Bilimi",
+    "soru": {
+      "soru": "Aşağıdaki elementlerden hangisi en yüksek elektronegatifliğe sahiptir?",
+      "secenekler": [
+        "Flörür",
+        "Oksijen",
+        "Azerken",
+        "Klor"
+      ],
+      "dogruCevap": "Flörür"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimya Bilimi",
+    "soru": {
+      "soru": "Aşağıdaki bileşiklerden hangisi asidik oksit özelliği gösterir?",
+      "secenekler": [
+        "CO₂",
+        "Na₂O",
+        "CaO",
+        "MgO"
+      ],
+      "dogruCevap": "CO₂"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Periyodik Tablo",
+    "soru": {
+      "soru": "Aşağıdaki elementlerden hangisi periyodik tablonun en sağında yer alır?",
+      "secenekler": [
+        "Karbon",
+        "Kükürt",
+        "Neon",
+        "Lityum"
+      ],
+      "dogruCevap": "Neon"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Periyodik Tablo",
+    "soru": {
+      "soru": "Bir elementin periyodik tablodaki konumundan hangi bilgileri öğrenebilirsiniz?",
+      "secenekler": [
+        "Elektron dizilimi",
+        "İyonlaşma enerjisi",
+        "Atom çapı",
+        "Tüm özellikler"
+      ],
+      "dogruCevap": "Tüm özellikler"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Periyodik Tablo",
+    "soru": {
+      "soru": "Aşağıdaki elementlerden hangisi periyodik tablonun dördüncü periyodunda yer alır?",
+      "secenekler": [
+        "Alüminyum",
+        "Argon",
+        "Kükürt",
+        "Potasyum"
+      ],
+      "dogruCevap": "Alüminyum"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.58)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Periyodik Tablo",
+    "soru": {
+      "soru": "Aşağıdaki elementlerden hangisi periyodik tablodaki 18. grupta yer alır?",
+      "secenekler": [
+        "Azot",
+        "Neon",
+        "Sodyum",
+        "Klor"
+      ],
+      "dogruCevap": "Neon"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Periyodik Tablo",
+    "soru": {
+      "soru": "Aşağıdaki elementlerden hangisi periyodik tablonun 3A grubunda yer alır?",
+      "secenekler": [
+        "Fosfor",
+        "Boran",
+        "Kükürt",
+        "Oksijen"
+      ],
+      "dogruCevap": "Boran"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Periyodik Tablo",
+    "soru": {
+      "soru": "Aşağıdaki elementlerden hangisi alkali metallerden biridir?",
+      "secenekler": [
+        "Magnezyum",
+        "Kalsiyum",
+        "Sodyum",
+        "Alüminyum"
+      ],
+      "dogruCevap": "Sodyum"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Periyodik Tablo",
+    "soru": {
+      "soru": "Aşağıdaki elementlerden hangisi toprak alkali metallerden biridir?",
+      "secenekler": [
+        "Lityum",
+        "Sodyum",
+        "Kalsiyum",
+        "Potasyum"
+      ],
+      "dogruCevap": "Kalsiyum"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Periyodik Tablo",
+    "soru": {
+      "soru": "Aşağıdaki elementlerden hangisinin en dıştaki elektron sayısı 2'dir?",
+      "secenekler": [
+        "Neon",
+        "Kalsiyum",
+        "Berylyum",
+        "Helyum"
+      ],
+      "dogruCevap": "Berylyum"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Periyodik Tablo",
+    "soru": {
+      "soru": "Periyodik tabloda hangi gruptaki elementler doğada serbest halde bulunur?",
+      "secenekler": [
+        "Alkali metaller",
+        "Alkali toprak metaller",
+        "Soy gazlar",
+        "Geçiş metaller"
+      ],
+      "dogruCevap": "Soy gazlar"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Periyodik Tablo",
+    "soru": {
+      "soru": "Aşağıdaki elementlerden hangisi periyodik tablodaki 7. periyodda yer alır?",
+      "secenekler": [
+        "Kalsiyum",
+        "Brom",
+        "Tuz",
+        "Fransiyum"
+      ],
+      "dogruCevap": "Fransiyum"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Maddenin Halleri",
+    "soru": {
+      "soru": "Aşağıdaki maddelerden hangisi doğrudan gaz halinden katı hale geçebilir?",
+      "secenekler": [
+        "Su",
+        "Aseton",
+        "Karbon dioksit",
+        "Oksijen"
+      ],
+      "dogruCevap": "Karbon dioksit"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Maddenin Halleri",
+    "soru": {
+      "soru": "Aşağıdaki maddelerden hangisi doğrudan katı halden gaz haline geçebilir?",
+      "secenekler": [
+        "Aseton",
+        "Buz",
+        "Tuz",
+        "Alkol"
+      ],
+      "dogruCevap": "Buz"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Maddenin Halleri",
+    "soru": {
+      "soru": "Sıvıların buharlaşma hızı, hangi faktöre bağlı olarak artar?",
+      "secenekler": [
+        "Buhar basıncının artması",
+        "Sıcaklığın düşmesi",
+        "Buhar basıncının azalması",
+        "Tanecik boyutlarının büyümesi"
+      ],
+      "dogruCevap": "Buhar basıncının artması"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Maddenin Halleri",
+    "soru": {
+      "soru": "Maddenin katı halden gaz haline geçmesine ne ad verilir?",
+      "secenekler": [
+        "Süblimleşme",
+        "Buharlaşma",
+        "Donma",
+        "Erime"
+      ],
+      "dogruCevap": "Süblimleşme"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.57)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Maddenin Halleri",
+    "soru": {
+      "soru": "Bir maddeyi katı halden sıvı hale geçiren olay aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Donma",
+        "Erime",
+        "Süblimleşme",
+        "Buharlaşma"
+      ],
+      "dogruCevap": "Erime"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Maddenin Halleri",
+    "soru": {
+      "soru": "Hangi olayda madde ısı alır ve tanecikleri arasındaki bağlar zayıflar?",
+      "secenekler": [
+        "Buharlaşma",
+        "Süblimleşme",
+        "Donma",
+        "Erime"
+      ],
+      "dogruCevap": "Buharlaşma"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Maddenin Halleri",
+    "soru": {
+      "soru": "Gazların sıcaklığı arttıkça, gazın moleküllerinin hareketi nasıl değişir?",
+      "secenekler": [
+        "Hızlanır",
+        "Yavaşlar",
+        "Düşer",
+        "Değişmez"
+      ],
+      "dogruCevap": "Hızlanır"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Maddenin Halleri",
+    "soru": {
+      "soru": "Sıvı bir maddenin buharlaşma hızı, hangi faktörle doğru orantılıdır?",
+      "secenekler": [
+        "Sıcaklık",
+        "Hacim",
+        "Tanecik boyutu",
+        "İyonlaşma"
+      ],
+      "dogruCevap": "Sıcaklık"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Maddenin Halleri",
+    "soru": {
+      "soru": "Bir maddenin gaz haline geçebilmesi için hangi enerjiye sahip olması gerekir?",
+      "secenekler": [
+        "Kinetik enerji",
+        "Potansiyel enerji",
+        "Isı enerjisi",
+        "Buharlaşma enerjisi"
+      ],
+      "dogruCevap": "Isı enerjisi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Maddenin Halleri",
+    "soru": {
+      "soru": "Bir gazın sıcaklığı arttıkça, gazın yoğunluğu nasıl değişir?",
+      "secenekler": [
+        "Azalır",
+        "Artar",
+        "Değişmez",
+        "Sabit kalır"
+      ],
+      "dogruCevap": "Azalır"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.57)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimyasal Türler Arası Etkileşimler",
+    "soru": {
+      "soru": "Aşağıdaki bileşiklerden hangisinde iyonik bağ bulunur?",
+      "secenekler": [
+        "CO2",
+        "NaCl",
+        "NH3",
+        "H2O"
+      ],
+      "dogruCevap": "NaCl"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimyasal Türler Arası Etkileşimler",
+    "soru": {
+      "soru": "Aşağıdaki bileşiklerden hangisi metalik bağ ile bağlanmış bir maddeyi temsil eder?",
+      "secenekler": [
+        "NaCl",
+        "MgO",
+        "Fe",
+        "H2O"
+      ],
+      "dogruCevap": "Fe"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.58)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimyasal Türler Arası Etkileşimler",
+    "soru": {
+      "soru": "Aşağıdaki moleküllerden hangisinde hidrojen bağı bulunmaz?",
+      "secenekler": [
+        "H2O",
+        "NH3",
+        "HF",
+        "CH4"
+      ],
+      "dogruCevap": "CH4"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimyasal Türler Arası Etkileşimler",
+    "soru": {
+      "soru": "Aşağıdaki bileşiklerden hangisi kovalent bağ ile bağlanmış bir bileşiktir?",
+      "secenekler": [
+        "NaCl",
+        "SO2",
+        "CaCl2",
+        "K2O"
+      ],
+      "dogruCevap": "SO2"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimyasal Türler Arası Etkileşimler",
+    "soru": {
+      "soru": "Aşağıdaki bileşiklerden hangisi hidrofobik etkileşim gösterir?",
+      "secenekler": [
+        "NaCl",
+        "H2O",
+        "O2",
+        "NH3"
+      ],
+      "dogruCevap": "O2"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimyasal Türler Arası Etkileşimler",
+    "soru": {
+      "soru": "Metalik bağ, aşağıdaki özelliklerden hangisini açıklar?",
+      "secenekler": [
+        "Elektriksel iletkenlik",
+        "Düşük erime noktası",
+        "İyonlaşma",
+        "Kuvvetli asidik özellik"
+      ],
+      "dogruCevap": "Elektriksel iletkenlik"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimyasal Türler Arası Etkileşimler",
+    "soru": {
+      "soru": "Aşağıdaki bileşiklerden hangisi iyonik bağ yapmaz?",
+      "secenekler": [
+        "NaCl",
+        "MgO",
+        "SO2",
+        "CaCl2"
+      ],
+      "dogruCevap": "SO2"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimyasal Türler Arası Etkileşimler",
+    "soru": {
+      "soru": "Aşağıdaki bileşiklerden hangisi kovalent bağa sahip değildir?",
+      "secenekler": [
+        "CO2",
+        "NaCl",
+        "H2O",
+        "NH3"
+      ],
+      "dogruCevap": "NaCl"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimyasal Türler Arası Etkileşimler",
+    "soru": {
+      "soru": "Aşağıdaki bileşiklerden hangisi hidrojen bağı yapabilir?",
+      "secenekler": [
+        "CH4",
+        "H2O",
+        "CO2",
+        "O2"
+      ],
+      "dogruCevap": "H2O"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimyasal Türler Arası Etkileşimler",
+    "soru": {
+      "soru": "Aşağıdaki moleküller arasında hangisi, Van der Waals kuvveti ile bağlanır?",
+      "secenekler": [
+        "NaCl",
+        "N2",
+        "H2O",
+        "NH3"
+      ],
+      "dogruCevap": "N2"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.58)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimyasal Türler Arası Etkileşimler",
+    "soru": {
+      "soru": "Metalik bağda, hangi özelliğin etkisi büyüktür?",
+      "secenekler": [
+        "Elektronların serbest hareket etmesi",
+        "İyonların serbest hareket etmesi",
+        "Suyun yoğunluğu",
+        "Taneciklerin büyük olması"
+      ],
+      "dogruCevap": "Elektronların serbest hareket etmesi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Kimyasal Türler Arası Etkileşimler",
+    "soru": {
+      "soru": "Hidrojen bağının en belirgin olduğu molekül aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "HF",
+        "CO2",
+        "CH4",
+        "NaCl"
+      ],
+      "dogruCevap": "HF"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Asit, Baz ve Tuz",
+    "soru": {
+      "soru": "Aşağıdaki maddelerden hangisi su çözeltisinde asidik özellik gösterir?",
+      "secenekler": [
+        "NaOH",
+        "NaCl",
+        "HCl",
+        "K2CO3"
+      ],
+      "dogruCevap": "HCl"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Asit, Baz ve Tuz",
+    "soru": {
+      "soru": "Bir asit ile bir baz arasındaki nötralizasyon reaksiyonunun ürünleri nelerdir?",
+      "secenekler": [
+        "Su ve tuz",
+        "Suyun buharı ve oksijen",
+        "Tuz ve oksijen",
+        "Hidrojen gazı ve tuz"
+      ],
+      "dogruCevap": "Su ve tuz"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Asit, Baz ve Tuz",
+    "soru": {
+      "soru": "Hangi bileşik, suda çözündüğünde bazik özellik gösterir?",
+      "secenekler": [
+        "NaCl",
+        "NaOH",
+        "H2SO4",
+        "HCl"
+      ],
+      "dogruCevap": "NaOH"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Asit, Baz ve Tuz",
+    "soru": {
+      "soru": "Aşağıdaki maddelerden hangisi bir tuz örneğidir?",
+      "secenekler": [
+        "NaOH",
+        "HCl",
+        "NaCl",
+        "H2O"
+      ],
+      "dogruCevap": "NaCl"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Asit, Baz ve Tuz",
+    "soru": {
+      "soru": "Aşağıdaki tuzlardan hangisi asidik özellik gösterir?",
+      "secenekler": [
+        "Na2SO4",
+        "NaNO3",
+        "NH4Cl",
+        "NaCl"
+      ],
+      "dogruCevap": "NH4Cl"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Asit, Baz ve Tuz",
+    "soru": {
+      "soru": "Aşağıdaki maddelerden hangisi güçlü bir asittir?",
+      "secenekler": [
+        "H2CO3",
+        "H2SO4",
+        "CH3COOH",
+        "HNO3"
+      ],
+      "dogruCevap": "HNO3"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.58)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Asit, Baz ve Tuz",
+    "soru": {
+      "soru": "Aşağıdaki bileşiklerden hangisi suda çözündüğünde bazik özellik gösterir?",
+      "secenekler": [
+        "NaCl",
+        "NH3",
+        "HNO3",
+        "H2SO4"
+      ],
+      "dogruCevap": "NH3"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Asit, Baz ve Tuz",
+    "soru": {
+      "soru": "Hangi maddelerin çözeltisi, genellikle asidik özellik gösterir?",
+      "secenekler": [
+        "Amonyum tuzları",
+        "Metal oksitler",
+        "Bazik oksitler",
+        "Amonyak çözeltileri"
+      ],
+      "dogruCevap": "Amonyum tuzları"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Asit, Baz ve Tuz",
+    "soru": {
+      "soru": "Aşağıdaki tuzlardan hangisi, suda çözündüğünde nötr özellik gösterir?",
+      "secenekler": [
+        "NaCl",
+        "NH4Cl",
+        "K2CO3",
+        "Na2SO4"
+      ],
+      "dogruCevap": "NaCl"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Karışımlar",
+    "soru": {
+      "soru": "Aşağıdaki karışımlardan hangisi heterojen bir karışımdır?",
+      "secenekler": [
+        "Hava",
+        "Alkol-su karışımı",
+        "Su ve tuz karışımı",
+        "Su ve yağ karışımı"
+      ],
+      "dogruCevap": "Su ve yağ karışımı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Karışımlar",
+    "soru": {
+      "soru": "Bir çözeltinin çözücüsü genellikle ne olur?",
+      "secenekler": [
+        "Katı",
+        "Sıvı",
+        "Gaz",
+        "Süspansiyon"
+      ],
+      "dogruCevap": "Sıvı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Karışımlar",
+    "soru": {
+      "soru": "Hangi karışım türünde parçacıklar mikroskopla gözlemlenebilir?",
+      "secenekler": [
+        "Kolloid",
+        "Çözelti",
+        "Süspansiyon",
+        "Homojen karışım"
+      ],
+      "dogruCevap": "Kolloid"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Karışımlar",
+    "soru": {
+      "soru": "Bir karışımdan maddeyi fiziksel yöntemlerle ayırmak için hangi özellik kullanılır?",
+      "secenekler": [
+        "Madde türü",
+        "Erime noktası",
+        "Kaynama noktası",
+        "Bütün özellikler"
+      ],
+      "dogruCevap": "Erime noktası"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Karışımlar",
+    "soru": {
+      "soru": "Aşağıdakilerden hangisi homojen bir karışım örneğidir?",
+      "secenekler": [
+        "Sıvı yağ ve su karışımı",
+        "Tuzlu su",
+        "Kum ve su karışımı",
+        "Süt ve su karışımı"
+      ],
+      "dogruCevap": "Tuzlu su"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Karışımlar",
+    "soru": {
+      "soru": "Aşağıdaki karışımlardan hangisi kolloid örneği olamaz?",
+      "secenekler": [
+        "Süt",
+        "Kola",
+        "Yağ-su karışımı",
+        "Hava"
+      ],
+      "dogruCevap": "Hava"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Karışımlar",
+    "soru": {
+      "soru": "Aşağıdakilerden hangisi kolloid bir karışım değildir?",
+      "secenekler": [
+        "Süt",
+        "Beyazlatıcı",
+        "Kan",
+        "Aerosol"
+      ],
+      "dogruCevap": "Beyazlatıcı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Karışımlar",
+    "soru": {
+      "soru": "Aşağıdaki maddelerden hangisi karışım özelliği göstermez?",
+      "secenekler": [
+        "Buz",
+        "Hava",
+        "Süt",
+        "Deniz suyu"
+      ],
+      "dogruCevap": "Buz"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Karışımlar",
+    "soru": {
+      "soru": "Aşağıdakilerden hangisi homojen bir karışım değildir?",
+      "secenekler": [
+        "Su ve alkol karışımı",
+        "Şekerli su",
+        "Kum ve su karışımı",
+        "Hava"
+      ],
+      "dogruCevap": "Kum ve su karışımı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Karışımlar",
+    "soru": {
+      "soru": "Aşağıdaki karışımlardan hangisi süspansiyon örneği oluşturur?",
+      "secenekler": [
+        "Tuzlu su",
+        "Süt",
+        "Paslı su",
+        "Hava"
+      ],
+      "dogruCevap": "Paslı su"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Kimya",
+    "alt_kategori": "Karışımlar",
+    "soru": {
+      "soru": "Bir karışımdan katı maddeyi sıvıdan ayırmak için hangi işlem yapılabilir?",
+      "secenekler": [
+        "Süzme",
+        "Buharlaştırma",
+        "Distilasyon",
+        "Elektroliz"
+      ],
+      "dogruCevap": "Süzme"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Temel Bileşenleri",
+    "soru": {
+      "soru": "Hücredeki organellerin genetik bilgiyi taşıyan kısmı nedir?",
+      "secenekler": [
+        "Ribozomlar",
+        "Kloroplast",
+        "Mitokondri",
+        "Çekirdek"
+      ],
+      "dogruCevap": "Çekirdek"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Temel Bileşenleri",
+    "soru": {
+      "soru": "Aşağıdaki maddelerden hangisi hücre zarının yapısında yer almaz?",
+      "secenekler": [
+        "Fosfolipit",
+        "Kolesterol",
+        "Protein",
+        "Selüloz"
+      ],
+      "dogruCevap": "Selüloz"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Temel Bileşenleri",
+    "soru": {
+      "soru": "Bir organizmanın yapısındaki proteinlerin çoğu hangi elementten yapılır?",
+      "secenekler": [
+        "Karbon",
+        "Kükürt",
+        "Azot",
+        "Oksijen"
+      ],
+      "dogruCevap": "Azot"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Temel Bileşenleri",
+    "soru": {
+      "soru": "Aşağıdaki karbonhidratlardan hangisi hayvansal hücrelerin yapısında yer almaz?",
+      "secenekler": [
+        "Glikoz",
+        "Sukroz",
+        "Fruktoz",
+        "Selüloz"
+      ],
+      "dogruCevap": "Selüloz"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Temel Bileşenleri",
+    "soru": {
+      "soru": "RNA'nın yapısındaki şeker türü aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Riboz",
+        "Deoksiriboz",
+        "Fruktoz",
+        "Glukoz"
+      ],
+      "dogruCevap": "Riboz"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Prokaryotik hücrelerde hangisi bulunmaz?",
+      "secenekler": [
+        "Çekirdek",
+        "Sitozom",
+        "Hücre zarı",
+        "DNA"
+      ],
+      "dogruCevap": "Çekirdek"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Aşağıdaki hücrelerden hangisi ökaryotik hücreye örnektir?",
+      "secenekler": [
+        "Bakteri",
+        "Arke",
+        "Mantar hücresi",
+        "Virüs"
+      ],
+      "dogruCevap": "Mantar hücresi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Hücre zarı hangi modelle açıklanır?",
+      "secenekler": [
+        "Düzlem modeli",
+        "Akışkan mozaik modeli",
+        "Çift tabaka modeli",
+        "Katmanlı model"
+      ],
+      "dogruCevap": "Akışkan mozaik modeli"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Aşağıdakilerden hangisi mitokondrinin işlevlerinden biridir?",
+      "secenekler": [
+        "Besin sentezi",
+        "Enerji üretimi",
+        "Protein sentezi",
+        "Hücre bölünmesi"
+      ],
+      "dogruCevap": "Enerji üretimi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Plastitler hangi canlılarda bulunur?",
+      "secenekler": [
+        "Hayvanlar",
+        "Bitkiler",
+        "Bakteriler",
+        "Mantarlar"
+      ],
+      "dogruCevap": "Bitkiler"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Kloroplast içinde hangi pigment bulunur?",
+      "secenekler": [
+        "Melanin",
+        "Klorofil",
+        "Karoten",
+        "Ksantofil"
+      ],
+      "dogruCevap": "Klorofil"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Aşağıdaki organellerden hangisi bitki hücresinde bulunmaz?",
+      "secenekler": [
+        "Mitokondri",
+        "Kloroplast",
+        "Lökoplast",
+        "Lizozom"
+      ],
+      "dogruCevap": "Lizozom"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Ribozom hangi hücresel işlevi gerçekleştirir?",
+      "secenekler": [
+        "Protein sentezi",
+        "Sıvı depolama",
+        "Hücre zarının onarımı",
+        "Hücre içi iletişim"
+      ],
+      "dogruCevap": "Protein sentezi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Hücre zarında bulunan kolesterolün işlevi nedir?",
+      "secenekler": [
+        "Hücre zarını korumak",
+        "Hücreyi beslemek",
+        "Kolesterol enerji üretir",
+        "Salgı maddelerinin taşınmasını sağlamak"
+      ],
+      "dogruCevap": "Hücre zarını korumak"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Hangi organel, ribozomların üretiminde yer alır?",
+      "secenekler": [
+        "Kloroplast",
+        "Mitokondri",
+        "Çekirdek",
+        "Endoplazmik retikulum"
+      ],
+      "dogruCevap": "Çekirdek"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Hangisi prokaryotik hücrelere örnek değildir?",
+      "secenekler": [
+        "Bakteri",
+        "Arke",
+        "Mantar hücresi",
+        "E.coli"
+      ],
+      "dogruCevap": "Mantar hücresi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Kromoplastlar hangi renkleri taşır?",
+      "secenekler": [
+        "Yeşil",
+        "Sarı, kırmızı, turuncu",
+        "Mavi, yeşil",
+        "Beyaz, mor"
+      ],
+      "dogruCevap": "Sarı, kırmızı, turuncu"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Prokaryotik hücrelerin hangi yapısı yoktur?",
+      "secenekler": [
+        "Hücre zarı",
+        "Çekirdek",
+        "Sitoplazma",
+        "Ribozom"
+      ],
+      "dogruCevap": "Çekirdek"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Lökoplast ne depolar?",
+      "secenekler": [
+        "Yağ, protein, nişasta",
+        "Suyu",
+        "Oksijen",
+        "Glikoz"
+      ],
+      "dogruCevap": "Yağ, protein, nişasta"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri",
+    "soru": {
+      "soru": "Hücredeki enerji üretimi hangi organelde gerçekleştirilir?",
+      "secenekler": [
+        "Mitokondri",
+        "Endoplazmik retikulum",
+        "Kloroplast",
+        "Ribozom"
+      ],
+      "dogruCevap": "Mitokondri"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri 2",
+    "soru": {
+      "soru": "Aşağıdaki organellerden hangisi sadece bitki hücrelerinde bulunur?",
+      "secenekler": [
+        "Mitokondri",
+        "Kloroplast",
+        "Lizozom",
+        "Golgi"
+      ],
+      "dogruCevap": "Kloroplast"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri 2",
+    "soru": {
+      "soru": "Lizozomlar hangi tür hücresel işlevi yerine getirir?",
+      "secenekler": [
+        "Enerji üretimi",
+        "Sindirim ve hücre içi yıkım",
+        "Protein sentezi",
+        "Oksijen üretimi"
+      ],
+      "dogruCevap": "Sindirim ve hücre içi yıkım"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri 2",
+    "soru": {
+      "soru": "Sentrozomun hangi işlevi vardır?",
+      "secenekler": [
+        "Hücre bölünmesinde mikrotübülleri oluşturmak",
+        "Enerji üretimi sağlamak",
+        "Maddelerin taşınmasını sağlamak",
+        "Protein sentezi"
+      ],
+      "dogruCevap": "Hücre bölünmesinde mikrotübülleri oluşturmak"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri 2",
+    "soru": {
+      "soru": "Kofullar hangi hücresel işlevi gerçekleştirir?",
+      "secenekler": [
+        "Besin ve atık madde depolama",
+        "Protein sentezi",
+        "DNA kopyalama",
+        "Sıvı üretimi"
+      ],
+      "dogruCevap": "Besin ve atık madde depolama"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri 2",
+    "soru": {
+      "soru": "Mikrotübüller hangi hücresel işlevi gerçekleştirir?",
+      "secenekler": [
+        "Hücre bölünmesini kontrol etmek",
+        "Kromozom hareketini sağlamak",
+        "Protein sentezi yapmak",
+        "Lipidi depolamak"
+      ],
+      "dogruCevap": "Kromozom hareketini sağlamak"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri 2",
+    "soru": {
+      "soru": "Hangi organel hücredeki enerji üretiminden sorumludur?",
+      "secenekler": [
+        "Mitokondri",
+        "Golgi",
+        "Ribozom",
+        "Sentrozom"
+      ],
+      "dogruCevap": "Mitokondri"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.58)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri 2",
+    "soru": {
+      "soru": "Çekirdekçikte hangi işlev gerçekleştirilir?",
+      "secenekler": [
+        "DNA sentezi",
+        "Ribozom alt birimlerinin birleşmesi",
+        "Protein sentezi",
+        "Mikrotübül üretimi"
+      ],
+      "dogruCevap": "Ribozom alt birimlerinin birleşmesi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri 2",
+    "soru": {
+      "soru": "Aşağıdaki hücre organellerinden hangisi bitki hücresinde bulunmaz?",
+      "secenekler": [
+        "Kloroplast",
+        "Peroksizom",
+        "Sentrozom",
+        "Golgi"
+      ],
+      "dogruCevap": "Sentrozom"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri 2",
+    "soru": {
+      "soru": "Lizozom hangi durumlarda hücreyi öldürebilir?",
+      "secenekler": [
+        "Otofazisinde",
+        "Otoliz halinde",
+        "Salgı sırasında",
+        "Enerji üretirken"
+      ],
+      "dogruCevap": "Otoliz halinde"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri 2",
+    "soru": {
+      "soru": "Hangi organel hücre zarının yapısını oluşturmaz?",
+      "secenekler": [
+        "Golgi",
+        "Mikrotübüller",
+        "Peroksizom",
+        "Kolesterol"
+      ],
+      "dogruCevap": "Peroksizom"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri 2",
+    "soru": {
+      "soru": "Çekirdek zarının işlevi nedir?",
+      "secenekler": [
+        "Hücreyi dışarıdan ayırmak",
+        "Büyüme düzenini sağlamak",
+        "Metabolik faaliyetleri denetlemek",
+        "Hücre bölünmesini kontrol etmek"
+      ],
+      "dogruCevap": "Hücreyi dışarıdan ayırmak"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri 2",
+    "soru": {
+      "soru": "Kromozomlar hangi organelde bulunur?",
+      "secenekler": [
+        "Çekirdek",
+        "Mitokondri",
+        "Ribozom",
+        "Golgi"
+      ],
+      "dogruCevap": "Çekirdek"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Hücre ve Organelleri 2",
+    "soru": {
+      "soru": "Çekirdek sıvısının içinde hangi bileşenler bulunur?",
+      "secenekler": [
+        "DNA, RNA, protein",
+        "Su, oksijen, glikoz",
+        "ATP, ribozom, vitamin",
+        "Sıvı, yağ, karbonhidrat"
+      ],
+      "dogruCevap": "DNA, RNA, protein"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Aşağıdaki canlılardan hangisi prokaryotik hücre yapısına sahiptir?",
+      "secenekler": [
+        "Bakteri",
+        "Arke",
+        "Protista",
+        "Mantar"
+      ],
+      "dogruCevap": "Protista"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Taksonomik sınıflandırma birimlerinin en küçük birimi nedir?",
+      "secenekler": [
+        "Alem",
+        "Tür",
+        "Cins",
+        "Sınıf"
+      ],
+      "dogruCevap": "Tür"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Aşağıdaki gruplardan hangisi doğal sınıflandırmanın bir örneğidir?",
+      "secenekler": [
+        "Homolog organ",
+        "Analog organ",
+        "Gıda türleri",
+        "Yapay organlar"
+      ],
+      "dogruCevap": "Homolog organ"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Aşağıdaki canlılardan hangisi prokaryotik değildir?",
+      "secenekler": [
+        "Bakteri",
+        "Arke",
+        "Protista",
+        "Mantar"
+      ],
+      "dogruCevap": "Protista"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Bakteriler hangi özelliklere sahip değildir?",
+      "secenekler": [
+        "Çok hücreli",
+        "Halkasal DNA",
+        "Peptidoglikan yapılı hücre çeperi",
+        "Fermantasyonla enerji üretimi"
+      ],
+      "dogruCevap": "Çok hücreli"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Arkelerin hangi özelliği diğer canlılardan farklıdır?",
+      "secenekler": [
+        "Endospor üretirler",
+        "Halkasal DNA'ya sahip olmaları",
+        "Antibiyotiklere karşı dirençlidirler",
+        "Çok hücreli yapıya sahiptirler"
+      ],
+      "dogruCevap": "Antibiyotiklere karşı dirençlidirler"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Aşağıdaki protista türlerinden hangisi fotosentez yapabilir?",
+      "secenekler": [
+        "Amip",
+        "Paramesyum",
+        "Alg",
+        "Cıvık mantar"
+      ],
+      "dogruCevap": "Alg"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Bitkilerde fotosentez için hangi organel gereklidir?",
+      "secenekler": [
+        "Mitozom",
+        "Kloroplast",
+        "Ribozom",
+        "Golgi"
+      ],
+      "dogruCevap": "Kloroplast"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Aşağıdaki bitkilerden hangisi tohumlu bitkiler arasında yer almaz?",
+      "secenekler": [
+        "Çam",
+        "Fasülye",
+        "Kozalaklı bitkiler",
+        "Eğrelti otu"
+      ],
+      "dogruCevap": "Eğrelti otu"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Hangi organel hücrenin enerji üretiminden sorumludur?",
+      "secenekler": [
+        "Golgi",
+        "Mitokondri",
+        "Ribozom",
+        "Peroksizom"
+      ],
+      "dogruCevap": "Mitokondri"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Mantarların hücre çeperi hangi maddeyi içerir?",
+      "secenekler": [
+        "Selüloz",
+        "Kitin",
+        "Sülfür",
+        "Peptidoglikan"
+      ],
+      "dogruCevap": "Kitin"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Bakterilerde hangi yapı çevre koşullarından korunmak için oluşturulur?",
+      "secenekler": [
+        "Endospor",
+        "Plazmit",
+        "Kamçı",
+        "Pilus"
+      ],
+      "dogruCevap": "Endospor"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Protistaların hangi yapısı hareket etmelerini sağlar?",
+      "secenekler": [
+        "Hif",
+        "Yalancı ayak",
+        "Spor",
+        "Mikrotübül"
+      ],
+      "dogruCevap": "Yalancı ayak"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Bakteriler hangi şekilde çoğalır?",
+      "secenekler": [
+        "Bölünerek",
+        "Meyve vererek",
+        "Tomurcuklanarak",
+        "Sporlaşarak"
+      ],
+      "dogruCevap": "Bölünerek"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Aşağıdaki canlılardan hangisi fotosentez yapmaz?",
+      "secenekler": [
+        "Alg",
+        "Yeşil bitkiler",
+        "Protista",
+        "Mantar"
+      ],
+      "dogruCevap": "Mantar"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Bakterilerde hangi yapı genetik materyalin taşınmasını sağlar?",
+      "secenekler": [
+        "Ribozom",
+        "Endospor",
+        "Plazmit",
+        "Pilus"
+      ],
+      "dogruCevap": "Plazmit"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması",
+    "soru": {
+      "soru": "Bitkilerde hangi yapı su kaybını engellemeye yardımcı olur?",
+      "secenekler": [
+        "Yaprak damarları",
+        "Kök sistemi",
+        "Mikrozom",
+        "Stomalar"
+      ],
+      "dogruCevap": "Stomalar"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Aşağıdaki canlılardan hangisi omurgasızlar sınıfında yer almaz?",
+      "secenekler": [
+        "Sünger",
+        "Balina",
+        "Eklembacaklı",
+        "Sölenter"
+      ],
+      "dogruCevap": "Balina"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.57)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Süngerler hangi özelliğe sahiptir?",
+      "secenekler": [
+        "Sabit organları vardır",
+        "Eşeysiz üreme yapmazlar",
+        "Gözenekleri ile beslenme yaparlar",
+        "Hareketli organları vardır"
+      ],
+      "dogruCevap": "Gözenekleri ile beslenme yaparlar"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Sölenterlerde hangi yapı bulunmaz?",
+      "secenekler": [
+        "Sinir doku",
+        "Kas doku",
+        "Solunum organları",
+        "Üreme organları"
+      ],
+      "dogruCevap": "Solunum organları"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Solucanlar hangi tür solunumu yapar?",
+      "secenekler": [
+        "Deri solunumu",
+        "Ağız solunumu",
+        "Solungaç solunumu",
+        "Akciğer solunumu"
+      ],
+      "dogruCevap": "Deri solunumu"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Yumuşakçaların kapalı dolaşım yapan türü hangisidir?",
+      "secenekler": [
+        "Midye",
+        "Sünger",
+        "Köpekbalığı",
+        "Ahtapot"
+      ],
+      "dogruCevap": "Ahtapot"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Eklembacaklılarda hangi solunum sistemi bulunur?",
+      "secenekler": [
+        "Trake solunumu",
+        "Deri solunumu",
+        "Akciğer solunumu",
+        "Solungaç solunumu"
+      ],
+      "dogruCevap": "Trake solunumu"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Eklembacaklıların hangi özelliği büyümeyi sınırlar?",
+      "secenekler": [
+        "Kemik yapılı iç iskelet",
+        "Kitin yapılı dış iskelet",
+        "Solungaç yapısı",
+        "Yumuşak vücut"
+      ],
+      "dogruCevap": "Kitin yapılı dış iskelet"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Kordalılar hangi özellikleri taşır?",
+      "secenekler": [
+        "Omurga ve sinir kordonu bulunur",
+        "Sadece denizlerde yaşarlar",
+        "Sürekli tomurcuklanarak çoğalırlar",
+        "Kıkırdak iskeletleri vardır"
+      ],
+      "dogruCevap": "Omurga ve sinir kordonu bulunur"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Balıklarda hangi solunum sistemi bulunur?",
+      "secenekler": [
+        "Akciğer solunumu",
+        "Solungaç solunumu",
+        "Deri solunumu",
+        "Trake solunumu"
+      ],
+      "dogruCevap": "Solungaç solunumu"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "İki yaşamlılar hangi solunum türünü kullanır?",
+      "secenekler": [
+        "Akciğer solunumu",
+        "Deri solunumu",
+        "Solungaç solunumu",
+        "Hem solungaç hem akciğer solunumu"
+      ],
+      "dogruCevap": "Hem solungaç hem akciğer solunumu"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Sürüngenlerin boşaltım ürünü nedir?",
+      "secenekler": [
+        "Amonyak",
+        "Üre",
+        "Ürik asit",
+        "Glikoz"
+      ],
+      "dogruCevap": "Ürik asit"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.58)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Kuşlar hangi sistemle solunum yapar?",
+      "secenekler": [
+        "Akciğer solunumu ve hava keseleri",
+        "Deri solunumu",
+        "Solungaç solunumu",
+        "Trake solunumu"
+      ],
+      "dogruCevap": "Akciğer solunumu ve hava keseleri"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Memelilerin boşaltım ürünü nedir?",
+      "secenekler": [
+        "Amonyak",
+        "Üre",
+        "Ürik asit",
+        "Glikoz"
+      ],
+      "dogruCevap": "Üre"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Memeliler hangi üreme şekline sahiptir?",
+      "secenekler": [
+        "İç döllenme ve iç gelişme",
+        "Dış döllenme ve dış gelişme",
+        "İç döllenme ve dış gelişme",
+        "Dış döllenme ve iç gelişme"
+      ],
+      "dogruCevap": "İç döllenme ve iç gelişme"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Virüslerin çoğalması için hangi şart gereklidir?",
+      "secenekler": [
+        "Canlı hücreye girmeleri",
+        "Biyolojik reaksiyonlar yapmaları",
+        "Bağımsız olarak büyümeleri",
+        "Kendi enerji üretmeleri"
+      ],
+      "dogruCevap": "Canlı hücreye girmeleri"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Aşağıdakilerden hangisi virüslerin canlılık özelliklerinden biridir?",
+      "secenekler": [
+        "Hücre dışında kristalleşirler",
+        "Metabolik aktiviteleri yoktur",
+        "Hücre içinde çoğalabilirler",
+        "Bağımsız olarak hareket ederler"
+      ],
+      "dogruCevap": "Hücre içinde çoğalabilirler"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Canlıların Sınıflandırılması 2",
+    "soru": {
+      "soru": "Virüslerin hangi hastalıklara neden olduğu bilinmektedir?",
+      "secenekler": [
+        "AIDS, grip, kuduz",
+        "Grip, verem, kızamık",
+        "Zatürre, covid-19, sıtma",
+        "Kanser, hepatit, şeker"
+      ],
+      "dogruCevap": "AIDS, grip, kuduz"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme",
+    "soru": {
+      "soru": "İnterfaz evresinin hangi aşamasında DNA eşlenmesi gerçekleşir?",
+      "secenekler": [
+        "G1 evresi",
+        "S evresi",
+        "G2 evresi",
+        "M evresi",
+        "G0 evresi"
+      ],
+      "dogruCevap": "S evresi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme",
+    "soru": {
+      "soru": "Mitoz bölünmede kromozomlar hangi evrede en net görülür?",
+      "secenekler": [
+        "Profaz",
+        "Metafaz",
+        "Anafaz",
+        "Telofaz",
+        "İnterfaz"
+      ],
+      "dogruCevap": "Metafaz"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme",
+    "soru": {
+      "soru": "Mitoz bölünmenin hangi evresinde kardeş kromatitler birbirinden ayrılır?",
+      "secenekler": [
+        "Profaz",
+        "Metafaz",
+        "Anafaz",
+        "Telofaz",
+        "İnterfaz"
+      ],
+      "dogruCevap": "Anafaz"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme",
+    "soru": {
+      "soru": "Profaz evresinin sonunda aşağıdakilerden hangisi gerçekleşir?",
+      "secenekler": [
+        "Kromozomlar kısalır ve kalınlaşır",
+        "İğ iplikleri oluşturulur",
+        "Çekirdek zarı kaybolur",
+        "Kromozomlar ekvator düzleminde dizilir",
+        "DNA eşlenmesi başlar"
+      ],
+      "dogruCevap": "Çekirdek zarı kaybolur"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme",
+    "soru": {
+      "soru": "İnterfaz evresinde aşağıdakilerden hangisi gerçekleşmez?",
+      "secenekler": [
+        "DNA eşlenmesi",
+        "Organel sayısının artması",
+        "Hücre büyümesi",
+        "Çekirdek bölünmesi",
+        "Protein sentezi"
+      ],
+      "dogruCevap": "Çekirdek bölünmesi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme",
+    "soru": {
+      "soru": "Mitoz bölünme sırasında iğ ipliklerinin bağlandığı yapı hangisidir?",
+      "secenekler": [
+        "Kinetokor",
+        "Sentromer",
+        "Kromozom",
+        "Hücre zarı",
+        "Çekirdek zarı"
+      ],
+      "dogruCevap": "Kinetokor"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme 2",
+    "soru": {
+      "soru": "Hayvansal hücrelerde telofazın sonlarına doğru hangi olay gerçekleşir?",
+      "secenekler": [
+        "Boğumlanma",
+        "Ara lamel oluşumu",
+        "Sentrioleler kutuplara gider",
+        "Kromozomlar dizilir"
+      ],
+      "dogruCevap": "Boğumlanma"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme 2",
+    "soru": {
+      "soru": "Mitozda DNA miktarı ne zaman iki katına çıkar?",
+      "secenekler": [
+        "İnterfaz evresinde",
+        "S evresinde",
+        "Metafazda",
+        "Anafazda"
+      ],
+      "dogruCevap": "S evresinde"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.56)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme 2",
+    "soru": {
+      "soru": "Kanser hangi durumda meydana gelir?",
+      "secenekler": [
+        "Hücre döngüsünün kontrolü kaybolduğunda",
+        "Embriyonik hücrelerde",
+        "Çekirdek bölünmesi kontrol altında olduğunda",
+        "Hücre büyümesi durduğunda"
+      ],
+      "dogruCevap": "Hücre döngüsünün kontrolü kaybolduğunda"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme 2",
+    "soru": {
+      "soru": "Hangi kontrol noktası, DNA hasarını kontrol eder?",
+      "secenekler": [
+        "G1 kontrol noktası",
+        "G2 kontrol noktası",
+        "G0 kontrol noktası",
+        "M kontrol noktası"
+      ],
+      "dogruCevap": "G2 kontrol noktası"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme 2",
+    "soru": {
+      "soru": "Sporla üreme hangi canlılarda görülür?",
+      "secenekler": [
+        "Sölenterler ve mayalar",
+        "Tohumsuz bitkiler ve mantarlar",
+        "Hayvanlar",
+        "Yumurtlayan memeliler"
+      ],
+      "dogruCevap": "Tohumsuz bitkiler ve mantarlar"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.58)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme 2",
+    "soru": {
+      "soru": "Rejenerasyonla üreme sonucu hangi organizmalarda yeni bir canlı oluşur?",
+      "secenekler": [
+        "Kertenkele",
+        "Planarya",
+        "Deniz yıldızı",
+        "Amip"
+      ],
+      "dogruCevap": "Deniz yıldızı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme 2",
+    "soru": {
+      "soru": "Partenogenez hangi canlıda gerçekleşir?",
+      "secenekler": [
+        "Erkek arı",
+        "Kertenkele",
+        "Böcekler",
+        "Kuşlar"
+      ],
+      "dogruCevap": "Erkek arı"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.57)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme 2",
+    "soru": {
+      "soru": "Vejetatif üreme hangi organizmalarda görülür?",
+      "secenekler": [
+        "Bitkiler",
+        "Hayvanlar",
+        "Mantarlar",
+        "Tek hücreliler"
+      ],
+      "dogruCevap": "Bitkiler"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme 2",
+    "soru": {
+      "soru": "Çelikle üreme hangi bitkilerde görülür?",
+      "secenekler": [
+        "Söğüt ve kavak",
+        "Patates ve havuç",
+        "Çilek ve zencefil",
+        "Asma ve şeftali"
+      ],
+      "dogruCevap": "Söğüt ve kavak"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme 2",
+    "soru": {
+      "soru": "Doku kültürü yöntemi hangi bitkilerde kullanılır?",
+      "secenekler": [
+        "Soyu tükenmekte olan bitkiler",
+        "Çiçekli bitkiler",
+        "Tavuklar ve böcekler",
+        "Bütün bitkiler"
+      ],
+      "dogruCevap": "Soyu tükenmekte olan bitkiler"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme 2",
+    "soru": {
+      "soru": "Aşılama ile üreme hangi bitkilerde uygulanabilir?",
+      "secenekler": [
+        "Aynı veya farklı türler arasında",
+        "Sadece tek türde",
+        "Farklı cinslerde",
+        "Sadece meyve veren bitkiler"
+      ],
+      "dogruCevap": "Aynı veya farklı türler arasında"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Mitoz Bölünme ve Eşeysiz Üreme 2",
+    "soru": {
+      "soru": "Hangi üreme şekli tek hücreli organizmalarda görülür?",
+      "secenekler": [
+        "Amitoz",
+        "Mitoz",
+        "Bölünerek üreme",
+        "Sporla üreme"
+      ],
+      "dogruCevap": "Bölünerek üreme"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım",
+    "soru": {
+      "soru": "Kalıtım biliminin konusu nedir?",
+      "secenekler": [
+        "Canlıların fiziksel özelliklerinin incelenmesi",
+        "Genetik bilgilerin aktarılması",
+        "Canlıların davranışlarının incelenmesi",
+        "Canlıların evrimsel süreçlerinin incelenmesi"
+      ],
+      "dogruCevap": "Genetik bilgilerin aktarılması"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım",
+    "soru": {
+      "soru": "Baskın gen nasıl ifade edilir?",
+      "secenekler": [
+        "A küçük harf ile",
+        "a küçük harf ile",
+        "A büyük harf ile",
+        "a büyük harf ile"
+      ],
+      "dogruCevap": "A büyük harf ile"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım",
+    "soru": {
+      "soru": "Çekinik gen hangi harf ile ifade edilir?",
+      "secenekler": [
+        "A",
+        "a",
+        "B",
+        "b"
+      ],
+      "dogruCevap": "a"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.58)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım",
+    "soru": {
+      "soru": "Homozigotluk ne anlama gelir?",
+      "secenekler": [
+        "Karakteri oluşturan genlerin farklı olması",
+        "Karakteri oluşturan genlerin aynı olması",
+        "Baskın genin etkisini gösteren genotip",
+        "Çekinik genin etkisini gösteren genotip"
+      ],
+      "dogruCevap": "Karakteri oluşturan genlerin aynı olması"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım",
+    "soru": {
+      "soru": "Heterozigotluk ne anlama gelir?",
+      "secenekler": [
+        "Karakteri oluşturan genlerin farklı olması",
+        "Karakteri oluşturan genlerin aynı olması",
+        "Baskın genin etkisini göstermeyen genotip",
+        "Çekinik genin etkisini gösteren genotip"
+      ],
+      "dogruCevap": "Karakteri oluşturan genlerin farklı olması"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım",
+    "soru": {
+      "soru": "Aşağıdakilerden hangisi genetik çeşitlilik sağlamaz?",
+      "secenekler": [
+        "Krossing-over",
+        "Bağımsız dağılım yasası",
+        "Eş baskınlık",
+        "Homozigotluk"
+      ],
+      "dogruCevap": "Homozigotluk"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım",
+    "soru": {
+      "soru": "Monohibrit çaprazlama nedir?",
+      "secenekler": [
+        "Bir karakterin genetik çaprazlaması",
+        "İki karakterin genetik çaprazlaması",
+        "Üç karakterin genetik çaprazlaması",
+        "Tek bir karakterin farklı bireylerle çaprazlanması"
+      ],
+      "dogruCevap": "Bir karakterin genetik çaprazlaması"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım",
+    "soru": {
+      "soru": "Bağımsız dağılım yasası nedir?",
+      "secenekler": [
+        "Farklı karakterlerin alellerinin birbirinden bağımsız dağılması",
+        "Aynı karakterin alellerinin bağlanarak dağıldığı yasa",
+        "Farklı karakterlerin alellerinin birbirine bağlı kalması",
+        "Bir alel çiftinin her zaman baskın olarak ifade edilmesi"
+      ],
+      "dogruCevap": "Farklı karakterlerin alellerinin birbirinden bağımsız dağılması"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım",
+    "soru": {
+      "soru": "Mendel'in Bağımsız Dağılım Yasası hangi durumda geçerli olur?",
+      "secenekler": [
+        "Genler birbirine bağlıysa",
+        "Genler bağımsızsa",
+        "Krossing-over olmadığı durumlarda",
+        "Kötü huylu genler bulunduğunda"
+      ],
+      "dogruCevap": "Genler bağımsızsa"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım 2",
+    "soru": {
+      "soru": "Çok alellilik nedir?",
+      "secenekler": [
+        "Bir karakteri belirleyen alel sayısının birden fazla olması",
+        "Bir karakteri belirleyen alel sayısının iki olması",
+        "Bir genin baskınlık durumunun çok olması",
+        "Bir karakterin sadece bir alelle belirlenmesi",
+        "Bir karakterin sadece çekinik alelle belirlenmesi"
+      ],
+      "dogruCevap": "Bir karakteri belirleyen alel sayısının birden fazla olması"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım 2",
+    "soru": {
+      "soru": "Kan grupları hangi genetik özellik ile belirlenir?",
+      "secenekler": [
+        "X kromozomu",
+        "Y kromozomu",
+        "Çok alellilik",
+        "Bağlı genler",
+        "Mitokondriyal DNA"
+      ],
+      "dogruCevap": "Çok alellilik"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım 2",
+    "soru": {
+      "soru": "Kan grubunda 0 aleli ne işlev görür?",
+      "secenekler": [
+        "Antijen oluşumunu sağlar",
+        "Antikor oluşumunu sağlar",
+        "Antijen oluşumunda etkisizdir",
+        "Aglütinin üretir",
+        "Hemoglobin üretir"
+      ],
+      "dogruCevap": "Antijen oluşumunda etkisizdir"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım 2",
+    "soru": {
+      "soru": "Rh faktörü hangi kalıtım şekliyle aktarılır?",
+      "secenekler": [
+        "Otozomal kromozomlarla",
+        "X kromozomuyla",
+        "Y kromozomuyla",
+        "Mitokondriyal DNA ile",
+        "Sitoplazmayla"
+      ],
+      "dogruCevap": "Otozomal kromozomlarla"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.58)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım 2",
+    "soru": {
+      "soru": "Soyağacı çalışmasında hangi sembol erkek bireyleri temsil eder?",
+      "secenekler": [
+        "Daire",
+        "Kare",
+        "Üçgen",
+        "Yıldız",
+        "Beşgen"
+      ],
+      "dogruCevap": "Kare"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.57)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım 2",
+    "soru": {
+      "soru": "Soyağacında hangi sembol dişi bireyleri temsil eder?",
+      "secenekler": [
+        "Daire",
+        "Kare",
+        "Üçgen",
+        "Yıldız",
+        "Beşgen"
+      ],
+      "dogruCevap": "Daire"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım 2",
+    "soru": {
+      "soru": "Kısmi renk körlüğü hangi kromozom ile taşınır?",
+      "secenekler": [
+        "X kromozomu",
+        "Y kromozomu",
+        "Otozom",
+        "Hem X hem Y kromozomları",
+        "Mitokondriyal DNA"
+      ],
+      "dogruCevap": "X kromozomu"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım 2",
+    "soru": {
+      "soru": "Hemofili hastalığı hangi kromozom ile taşınır?",
+      "secenekler": [
+        "X kromozomu",
+        "Y kromozomu",
+        "Otozom",
+        "Birden fazla kromozom",
+        "Mitokondriyal DNA"
+      ],
+      "dogruCevap": "X kromozomu"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım 2",
+    "soru": {
+      "soru": "Kulak kıllılığı hangi kromozom ile taşınır?",
+      "secenekler": [
+        "X kromozomu",
+        "Y kromozomu",
+        "Otozom",
+        "Bağımsız genler",
+        "Mitokondriyal DNA"
+      ],
+      "dogruCevap": "Y kromozomu"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.57)"
+  },
+  {
+    "kategori": "Biyoloji",
+    "alt_kategori": "Kalıtım 2",
+    "soru": {
+      "soru": "Akraba evliliği genetik hastalıkların görülme olasılığını nasıl etkiler?",
+      "secenekler": [
+        "Azaltır",
+        "Artırır",
+        "Hiç etkilemez",
+        "Genetik çeşitliliği artırır",
+        "Sadece dominant genleri etkiler"
+      ],
+      "dogruCevap": "Artırır"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Felsefenin Alanı",
+    "soru": {
+      "soru": "Felsefenin amacı nedir?",
+      "secenekler": [
+        "Pratik çözümler üretmek",
+        "İnsanın varoluşunu ve değerlerini anlamaya çalışmak",
+        "Deneysel veri toplamak",
+        "Sadece bilimsel araştırmalar yapmak"
+      ],
+      "dogruCevap": "İnsanın varoluşunu ve değerlerini anlamaya çalışmak"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Felsefenin Alanı",
+    "soru": {
+      "soru": "Felsefe, hangi disiplinden farklıdır?",
+      "secenekler": [
+        "Sosyoloji",
+        "Psikoloji",
+        "Bilim",
+        "Sanat"
+      ],
+      "dogruCevap": "Bilim"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Felsefenin Alanı",
+    "soru": {
+      "soru": "Felsefe tarihinin ilk büyük düşünürü kimdir?",
+      "secenekler": [
+        "Sokrat",
+        "Platon",
+        "Aristoteles",
+        "Thales"
+      ],
+      "dogruCevap": "Thales"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Felsefenin Alanı",
+    "soru": {
+      "soru": "Felsefede 'etik' hangi konuları inceler?",
+      "secenekler": [
+        "Sadece bilimsel keşifleri",
+        "İnsan davranışlarının doğru ve yanlışlarını",
+        "Toplumların yapısını",
+        "Varlığın anlamını"
+      ],
+      "dogruCevap": "İnsan davranışlarının doğru ve yanlışlarını"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Felsefenin Alanı",
+    "soru": {
+      "soru": "Aşağıdaki düşünürlerden hangisi 'idealizm' akımının önemli temsilcisidir?",
+      "secenekler": [
+        "Aristoteles",
+        "Platon",
+        "Nietzsche",
+        "Descartes"
+      ],
+      "dogruCevap": "Platon"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Felsefenin Alanı",
+    "soru": {
+      "soru": "Felsefede 'diyalektik' yöntem hangi düşünürle ilişkilendirilir?",
+      "secenekler": [
+        "Karl Marx",
+        "Sokrat",
+        "Aristoteles",
+        "David Hume"
+      ],
+      "dogruCevap": "Karl Marx"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Felsefenin Alanı",
+    "soru": {
+      "soru": "Sokrat, hangi felsefi yöntemi geliştirmiştir?",
+      "secenekler": [
+        "Diyalektik yöntem",
+        "Pragmatizm",
+        "Empirizm",
+        "Rasyonalizm"
+      ],
+      "dogruCevap": "Diyalektik yöntem"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Felsefenin Alanı",
+    "soru": {
+      "soru": "Felsefede 'varlık' kavramı genellikle hangi alanda ele alınır?",
+      "secenekler": [
+        "Metafizik",
+        "Epistemoloji",
+        "Etik",
+        "Estetik"
+      ],
+      "dogruCevap": "Metafizik"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Felsefenin Alanı",
+    "soru": {
+      "soru": "Hangi felsefi akım, insanın doğaya karşı sorumluluğunu vurgular?",
+      "secenekler": [
+        "Ekolojizm",
+        "Pragmatizm",
+        "Realizm",
+        "Idealizm"
+      ],
+      "dogruCevap": "Ekolojizm"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Felsefenin Alanı",
+    "soru": {
+      "soru": "Felsefede 'estetik' hangi konuyu ele alır?",
+      "secenekler": [
+        "Güzellik ve sanat anlayışlarını",
+        "Toplumların yapısını",
+        "Varlık ve gerçekliği",
+        "İnsan davranışlarını"
+      ],
+      "dogruCevap": "Güzellik ve sanat anlayışlarını"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Bilgi Felsefesi",
+    "soru": {
+      "soru": "Bilgi felsefesi nedir?",
+      "secenekler": [
+        "Bilginin kaynağını ve doğasını inceleyen felsefi alan",
+        "Felsefi düşüncenin tarihsel gelişimini inceleyen alan",
+        "Varlığın anlamını sorgulayan alan",
+        "Toplumların yapısını inceleyen felsefi alan"
+      ],
+      "dogruCevap": "Bilginin kaynağını ve doğasını inceleyen felsefi alan"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Bilgi Felsefesi",
+    "soru": {
+      "soru": "Hangi felsefi akım, bilginin duyu organları aracılığıyla edinilmesini savunur?",
+      "secenekler": [
+        "Empirizm",
+        "Rasyonalizm",
+        "Pragmatizm",
+        "Egzistansiyalizm"
+      ],
+      "dogruCevap": "Empirizm"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Bilgi Felsefesi",
+    "soru": {
+      "soru": "Sofistlerin bilgi anlayışına göre, bilgi nedir?",
+      "secenekler": [
+        "Evrensel ve değişmez bir gerçekliktir",
+        "Kişinin algılarına göre değişir",
+        "Kesin ve doğruluğu kanıtlanmış bilgidir",
+        "Her insan doğuştan doğruyu bilir"
+      ],
+      "dogruCevap": "Kişinin algılarına göre değişir"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Varlık Felsefesi",
+    "soru": {
+      "soru": "Varlık felsefesi hangi soruya yanıt arar?",
+      "secenekler": [
+        "Varlıkların nasıl algılandığı",
+        "Varlığın ne olduğu",
+        "Varlıkların toplumdaki yeri",
+        "Varlıkların tarihsel gelişimi"
+      ],
+      "dogruCevap": "Varlığın ne olduğu"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Varlık Felsefesi",
+    "soru": {
+      "soru": "Varlık felsefesinin temeli hangi kavramla ilişkilidir?",
+      "secenekler": [
+        "İyi",
+        "Gerçeklik",
+        "Zihin",
+        "Erdem"
+      ],
+      "dogruCevap": "Gerçeklik"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Varlık Felsefesi",
+    "soru": {
+      "soru": "Varlık felsefesinde ontoloji neyi inceler?",
+      "secenekler": [
+        "Varlığın anlamını",
+        "Varlıkların yapısını ve doğasını",
+        "Varlıkların evrimsel sürecini",
+        "Varlıkların toplumsal etkilerini"
+      ],
+      "dogruCevap": "Varlıkların yapısını ve doğasını"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Varlık Felsefesi",
+    "soru": {
+      "soru": "Aristoteles'in varlık anlayışında ne ön plandadır?",
+      "secenekler": [
+        "İdea",
+        "Maddi dünya",
+        "Ruhsal varlıklar",
+        "Duyularla algılanan dünya"
+      ],
+      "dogruCevap": "Maddi dünya"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Varlık Felsefesi",
+    "soru": {
+      "soru": "Dualizm, hangi filozof tarafından savunulmuştur?",
+      "secenekler": [
+        "Aristoteles",
+        "Descartes",
+        "Kant",
+        "Hegel"
+      ],
+      "dogruCevap": "Descartes"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Varlık Felsefesi",
+    "soru": {
+      "soru": "Varlık felsefesinde 'fenomenoloji' nedir?",
+      "secenekler": [
+        "Gerçekliği dış dünyadaki nesnelerin varlığıyla açıklama",
+        "Bilincin bir şeyleri nasıl algıladığını inceleme",
+        "Varlıkların evrimsel gelişimini inceleme",
+        "Gerçekliğin toplumsal yapılarla ilişkisini inceleme"
+      ],
+      "dogruCevap": "Bilincin bir şeyleri nasıl algıladığını inceleme"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Varlık Felsefesi",
+    "soru": {
+      "soru": "Varlık felsefesinde 'kategoriler' neyi ifade eder?",
+      "secenekler": [
+        "Farklı varlık türlerinin sınıflandırılması",
+        "Varlıkların toplumsal olarak algılandığı kategoriler",
+        "Varlıkların insan zihninde oluşturduğu anlamlar",
+        "Varlıkların doğal evrimsel kategorileri"
+      ],
+      "dogruCevap": "Farklı varlık türlerinin sınıflandırılması"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Ahlak Felsefesi",
+    "soru": {
+      "soru": "Ahlak felsefesinin temel amacı nedir?",
+      "secenekler": [
+        "İyi ve kötü arasındaki farkı belirlemek",
+        "Toplumların hukuk düzenlerini incelemek",
+        "İnsanın varoluş amacını sorgulamak",
+        "İnsanların düşünsel kapasitesini artırmak"
+      ],
+      "dogruCevap": "İyi ve kötü arasındaki farkı belirlemek"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Ahlak Felsefesi",
+    "soru": {
+      "soru": "Ahlakın temel sorusu nedir?",
+      "secenekler": [
+        "Gerçekten var mıyız?",
+        "Neden varız?",
+        "Ne yapmak doğru ve ne yapmak yanlıştır?",
+        "İnsanlar neden düşünür?"
+      ],
+      "dogruCevap": "Ne yapmak doğru ve ne yapmak yanlıştır?"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Ahlak Felsefesi",
+    "soru": {
+      "soru": "‘Ahlaki sorumluluk’ kavramını savunan yaklaşım hangisidir?",
+      "secenekler": [
+        "Determinist görüş",
+        "Ahlaki relativizm",
+        "Karma felsefesi",
+        "Deontoloji"
+      ],
+      "dogruCevap": "Deontoloji"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Ahlak Felsefesi",
+    "soru": {
+      "soru": "‘Toplumsal sözleşme’ kuramını savunan filozof kimdir?",
+      "secenekler": [
+        "Hobbes",
+        "Platon",
+        "Nietzsche",
+        "Descartes"
+      ],
+      "dogruCevap": "Hobbes"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Ahlak Felsefesi",
+    "soru": {
+      "soru": "Ahlak felsefesinde ‘epistemik adalet’ nedir?",
+      "secenekler": [
+        "Gerçeklerin doğru bir şekilde aktarılması",
+        "Kişilerin ahlaki sorumluluklarının doğruluğu",
+        "Toplumda herkesin eşit haklara sahip olması",
+        "İnsanların inançlarının doğruluğu"
+      ],
+      "dogruCevap": "Gerçeklerin doğru bir şekilde aktarılması"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Ahlak Felsefesi",
+    "soru": {
+      "soru": "Ahlak felsefesinde ‘olumlu özgürlük’ nedir?",
+      "secenekler": [
+        "Kişinin kendi iradesiyle karar verme gücüdür",
+        "Bireyin toplumda kabul edilen kurallara uymasıdır",
+        "Devletin bireyin özgürlüğünü koruma sorumluluğudur",
+        "Bireyin kendini ifade edebilmesi için gerekli koşulları yaratma özgürlüğüdür"
+      ],
+      "dogruCevap": "Kişinin kendi iradesiyle karar verme gücüdür"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Din Felsefesi",
+    "soru": {
+      "soru": "Din felsefesi nedir?",
+      "secenekler": [
+        "Dinlerin ritüel ve ibadetlerini inceler",
+        "Dinlerin öğretilerini eleştirir",
+        "Dinlerin inanç ve değerlerini felsefi bir bakış açısıyla sorgular",
+        "Dinlerin sosyal işlevlerini araştırır"
+      ],
+      "dogruCevap": "Dinlerin inanç ve değerlerini felsefi bir bakış açısıyla sorgular"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Din Felsefesi",
+    "soru": {
+      "soru": "Tanrı'nın varlığını kanıtlamaya yönelik argümanlar hangi alanda incelenir?",
+      "secenekler": [
+        "Ontoloji",
+        "Metafizik",
+        "Din felsefesi",
+        "Epistemoloji"
+      ],
+      "dogruCevap": "Din felsefesi"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Din Felsefesi",
+    "soru": {
+      "soru": "İslam dininde Tanrı’nın mutlak birliği anlamına gelen kavram nedir?",
+      "secenekler": [
+        "Vahdet-i Vücut",
+        "Tevhid",
+        "Tawhid",
+        "Monoteizm"
+      ],
+      "dogruCevap": "Tevhid"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.66)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Din Felsefesi",
+    "soru": {
+      "soru": "Din felsefesinde, Tanrı'nın doğrudan müdahalesinin olmadığına inanan görüş nedir?",
+      "secenekler": [
+        "Deizm",
+        "Ateizm",
+        "Panteizm",
+        "Teizm"
+      ],
+      "dogruCevap": "Deizm"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Felsefe",
+    "alt_kategori": "Din Felsefesi",
+    "soru": {
+      "soru": "İslam’da Tanrı’nın birliğini savunan temel kavram nedir?",
+      "secenekler": [
+        "Vahdet-i Vücut",
+        "Tevhid",
+        "Ruhbanlık",
+        "Monoteizm"
+      ],
+      "dogruCevap": "Tevhid"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.65)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Bilgi ve İnanç",
+    "soru": {
+      "soru": "Dinî inanç, hangi temele dayanır?",
+      "secenekler": [
+        "Kişisel düşünce ve akıl yürütme",
+        "Toplumsal düzen ve güvenlik",
+        "Kutsal kabul edilen kaynaklar ve vahiy",
+        "Bilimsel veriler ve gözlemler"
+      ],
+      "dogruCevap": "Kutsal kabul edilen kaynaklar ve vahiy"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Bilgi ve İnanç",
+    "soru": {
+      "soru": "İnanç, genellikle hangi unsurlara dayanarak şekillenir?",
+      "secenekler": [
+        "Akıl yürütme ve mantık",
+        "Duyusal deneyimler ve gözlemler",
+        "Kişisel ve toplumsal değerler",
+        "Bilimsel araştırmalar ve keşifler"
+      ],
+      "dogruCevap": "Kişisel ve toplumsal değerler"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Bilgi ve İnanç",
+    "soru": {
+      "soru": "Hangi görüş, bilginin kaynağının yalnızca duyu organlarıyla edinilebileceğini savunur?",
+      "secenekler": [
+        "Empirizm",
+        "Rasyonalizm",
+        "Pragmatizm",
+        "Agnostisizm"
+      ],
+      "dogruCevap": "Empirizm"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Bilgi ve İnanç",
+    "soru": {
+      "soru": "Dini inançlar toplumlar arasında nasıl farklılıklar gösterebilir?",
+      "secenekler": [
+        "Farklı kültürel ve tarihi bağlamlara göre",
+        "Bilimsel bulgularla doğrudan ilişkilidir",
+        "Toplumların akıl yürütme seviyeleriyle ilişkili",
+        "Her inanç kesin doğrulama gerektirir"
+      ],
+      "dogruCevap": "Farklı kültürel ve tarihi bağlamlara göre"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Bilgi ve İnanç",
+    "soru": {
+      "soru": "Bir kişinin dini inançlarını sorgulaması neyi ifade eder?",
+      "secenekler": [
+        "İnançsızlık",
+        "Agnostisizm",
+        "Skeptisizm",
+        "Ateizm"
+      ],
+      "dogruCevap": "Skeptisizm"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Din ve İslam",
+    "soru": {
+      "soru": "İslam dininin kutsal kitabı nedir?",
+      "secenekler": [
+        "Kur'an-ı Kerim",
+        "Tevrat",
+        "Zebur",
+        "İncil"
+      ],
+      "dogruCevap": "Kur'an-ı Kerim"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Din ve İslam",
+    "soru": {
+      "soru": "Hz. Muhammed (S.A.V) hangi şehirde doğmuştur?",
+      "secenekler": [
+        "Medine",
+        "Mekke",
+        "Kudüs",
+        "Taif"
+      ],
+      "dogruCevap": "Mekke"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Din ve İslam",
+    "soru": {
+      "soru": "İslam dininde oruç, hangi aya aittir?",
+      "secenekler": [
+        "Ramazan",
+        "Şaban",
+        "Hicri yıl",
+        "Zilhicce"
+      ],
+      "dogruCevap": "Ramazan"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Din ve İslam",
+    "soru": {
+      "soru": "İslam'da hac ibadeti hangi kutsal mekâna yapılır?",
+      "secenekler": [
+        "Medine",
+        "Kâbe",
+        "Mescid-i Aksa",
+        "Kubbetü’s-Sahra"
+      ],
+      "dogruCevap": "Kâbe"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.59)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Din ve İslam",
+    "soru": {
+      "soru": "İslam dininde ilk vahiy hangi mağarada indirilmiştir?",
+      "secenekler": [
+        "Hira Mağarası",
+        "Kahf Mağarası",
+        "Ühüd Mağarası",
+        "Kıble Mağarası"
+      ],
+      "dogruCevap": "Hira Mağarası"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.58)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Din ve İslam",
+    "soru": {
+      "soru": "İslam dininde peygamberlerin sonuncusu kimdir?",
+      "secenekler": [
+        "Hz. İsa",
+        "Hz. Musa",
+        "Hz. Muhammed",
+        "Hz. Nuh"
+      ],
+      "dogruCevap": "Hz. Muhammed"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.63)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Din ve İslam",
+    "soru": {
+      "soru": "İslam'da Allah'a inanmak, hangi temele dayanır?",
+      "secenekler": [
+        "İman",
+        "İbadet",
+        "Akıl",
+        "Dua"
+      ],
+      "dogruCevap": "İman"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Din ve İslam",
+    "soru": {
+      "soru": "İslam'da 'İman' nedir?",
+      "secenekler": [
+        "Allah'ın varlığına ve peygamberlerine inanmak",
+        "Sadece Allah'a inanmak",
+        "Peygamberlere inanmak",
+        "Ritüellere inanmak"
+      ],
+      "dogruCevap": "Allah'ın varlığına ve peygamberlerine inanmak"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Allah İnsan İlişkisi",
+    "soru": {
+      "soru": "Allah’ın insanlara verdiği en büyük nimetlerden biri nedir?",
+      "secenekler": [
+        "Özgür irade",
+        "Ruhsal rahatlık",
+        "Kariyer başarısı",
+        "Toprak"
+      ],
+      "dogruCevap": "Özgür irade"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.60)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Allah İnsan İlişkisi",
+    "soru": {
+      "soru": "İslam’a göre, Allah’ın insana karşı sorumluluğu nedir?",
+      "secenekler": [
+        "İnsanları eğitmek",
+        "Her an insanları korumak",
+        "İnsanların her ihtiyacını karşılamak",
+        "İnsanları sorumlu tutmak"
+      ],
+      "dogruCevap": "Her an insanları korumak"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.64)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Hz. Muhammed (S.A.V)",
+    "soru": {
+      "soru": "Hz. Muhammed (S.A.V) hangi yıl doğmuştur?",
+      "secenekler": [
+        "570",
+        "565",
+        "590",
+        "600"
+      ],
+      "dogruCevap": "570"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.61)"
+  },
+  {
+    "kategori": "Din Kültürü ve Ahlak Bilgisi",
+    "alt_kategori": "Hz. Muhammed (S.A.V)",
+    "soru": {
+      "soru": "Hz. Muhammed (S.A.V)'in babasının adı nedir?",
+      "secenekler": [
+        "Abdullah",
+        "Abu Talib",
+        "Hasan",
+        "Ali"
+      ],
+      "dogruCevap": "Abdullah"
+    },
+    "sebep": "Doğrulama hatası: Yerel AI: Cevap uyumsuz (skor: 0.62)"
+  }
+]

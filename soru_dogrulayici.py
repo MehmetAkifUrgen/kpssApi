@@ -63,20 +63,6 @@ class SoruDogrulayiciBot:
         else:
             print("İnternet bağlantısı yok. Yerel model kullanılacak.")
         
-        # Element sembolleri veritabanı (kimya soruları için)
-        self.elementler = {
-            "Hidrojen": "H", "Helyum": "He", "Lityum": "Li", "Berilyum": "Be", "Bor": "B", 
-            "Karbon": "C", "Azot": "N", "Oksijen": "O", "Flor": "F", "Neon": "Ne",
-            "Sodyum": "Na", "Magnezyum": "Mg", "Alüminyum": "Al", "Silisyum": "Si", "Fosfor": "P",
-            "Kükürt": "S", "Klor": "Cl", "Argon": "Ar", "Potasyum": "K", "Kalsiyum": "Ca",
-            "Skandiyum": "Sc", "Titanyum": "Ti", "Vanadyum": "V", "Krom": "Cr", "Mangan": "Mn",
-            "Demir": "Fe", "Kobalt": "Co", "Nikel": "Ni", "Bakır": "Cu", "Çinko": "Zn"
-        }
-        
-        # Sözcük türleri ve dilbilgisi için kurallar
-        self.dilbilgisi_kurallari = {
-            "isim_tamlamasi": ["ev kapısı", "okulun bahçesi", "kalem ucu", "kitabın sayfası", "okulun bahçesinde"]
-        }
         
         # Sonuç dosyaları
         self.suphe_edilen_sorular = []
@@ -249,18 +235,30 @@ class SoruDogrulayiciBot:
         except:
             return False
             
+    def internet_dogrula(self, soru, kategori, alt_kategori):
+        """Soruları doğrular - yapay zeka kullanır"""
+        try:
+            # Doğrudan yapay zeka doğrulaması
+            print(f"Soru doğrulanıyor: {soru['soru'][:50]}...")
+            return self.yapay_zeka_dogrula(soru)
+            
+        except Exception as e:
+            print(f"Doğrulama hatası: {str(e)}")
+            # Hata durumunda şüpheli olarak işaretle
+            return {"durum": False, "sebep": f"Doğrulama hatası: {str(e)}"}
+    
     def yapay_zeka_dogrula(self, soru):
         """Yapay zeka kullanarak soruların doğruluğunu kontrol eder"""
         try:
             if not self.ai_destegi_aktif:
-                return {"durum": True, "sebep": "Yapay zeka desteği kapalı"}
+                return {"durum": False, "sebep": "Yapay zeka desteği kapalı"}
             
             # 1. İnternet bağlantısı varsa, önce HuggingFace API kullan
             if self.internet_baglantisi_var and self.huggingface_api_key:
                 try:
                     print(f"HuggingFace API ile soru doğrulanıyor: {soru['soru'][:50]}...")
                     
-                    # En iyi HuggingFace modelleri (Türkçe desteği var)
+                    # Türkçe için en iyi HuggingFace modeli
                     hf_url = "https://api-inference.huggingface.co/models/facebook/bart-large-mnli"
                     headers = {"Authorization": f"Bearer {self.huggingface_api_key}"}
                     
@@ -288,59 +286,62 @@ class SoruDogrulayiciBot:
                             if labels[0] == soru['dogruCevap']:
                                 return {"durum": True, "sebep": f"HuggingFace skoru: {scores[0]:.2f}"}
                             else:
-                                # Fark çok büyük değilse yine de doğru kabul et
-                                if scores[0] - scores[1] < 0.2:
-                                    return {"durum": True, "sebep": "Düşük güven farkına rağmen kabul edildi"}
-                                else:
-                                    return {"durum": False, "sebep": f"HuggingFace: Doğru cevap düşük skorlu ({scores[1]:.2f})"}
+                                return {"durum": False, "sebep": f"HuggingFace: Doğru cevap düşük skorlu ({scores[1]:.2f})"}
+                    elif response.status_code == 402:
+                        print("HuggingFace API limiti doldu, yerel modele geçiliyor...")
+                        # 402 hatası durumunda yerel modele geç
+                        if self.model_yuklu:
+                            return self.yerel_model_dogrula(soru)
+                        else:
+                            return {"durum": False, "sebep": "HuggingFace API limiti doldu ve yerel model yüklü değil"}
+                    else:
+                        print(f"HuggingFace API hatası: {response.status_code}, yerel modele geçiliyor...")
+                        # Diğer hatalarda yerel modele geç
+                        if self.model_yuklu:
+                            return self.yerel_model_dogrula(soru)
+                        else:
+                            return {"durum": False, "sebep": f"HuggingFace API hatası: {response.status_code}"}
+                        
                 except Exception as e:
-                    print(f"HuggingFace API hatası: {str(e)}")
+                    print(f"HuggingFace API hatası: {str(e)}, yerel modele geçiliyor...")
                     # API hatası durumunda yerel modele geç
+                    if self.model_yuklu:
+                        return self.yerel_model_dogrula(soru)
+                    else:
+                        return {"durum": False, "sebep": f"HuggingFace API hatası: {str(e)}"}
             
             # 2. Yerel transformers modelini kullan (eğer yüklüyse)
             if self.model_yuklu:
-                print(f"Yerel yapay zeka modeli ile analiz: {soru['soru'][:50]}...")
-                
-                # Soru ve doğru cevabı birleştir
-                birlesik_metin = f"Soru: {soru['soru']}, Cevap: {soru['dogruCevap']}"
-                
-                try:
-                    # Transformers pipeline kullanarak duygu analizi yap
-                    sentiment_sonuc = self.nlp(birlesik_metin)
-                    print(f"Yerel AI Analiz: {sentiment_sonuc}")
-                    
-                    # Sonuç LABEL_0 (negatif) veya LABEL_1 (pozitif) olabilir
-                    # Çoğu transformers modeli için LABEL_1 genellikle olumlu anlam taşır
-                    if sentiment_sonuc[0]['label'] == 'LABEL_1':
-                        return {"durum": True, "sebep": f"Yerel AI puanı: {sentiment_sonuc[0]['score']:.2f}"}
-                    
-                    # Skor yeterince yüksekse, yine de kabul et
-                    if sentiment_sonuc[0]['score'] < 0.8:
-                        return {"durum": True, "sebep": "Düşük güven skoruna rağmen kabul edildi"}
-                        
-                    return {"durum": False, "sebep": f"Yerel AI: Cevap uyumsuz olabilir (skor: {sentiment_sonuc[0]['score']:.2f})"}
-                    
-                except Exception as e:
-                    print(f"Yerel AI Analiz hatası: {str(e)}")
-                    # Model hata verirse kural tabanlı kontrole geç
+                return self.yerel_model_dogrula(soru)
             
-            # 3. Alternatif: Kural tabanlı kontrol
-            print("Kural tabanlı kontrol yapılıyor...")
-            dogru_cevap = soru['dogruCevap'].lower()
-            soru_metni = soru['soru'].lower()
-            
-            # Yerel kontrol - şüpheli sorular için
-            if self.local_kontrol_gerekli_mi(soru):
-                local_sonuc = self.local_ai_dogrula(soru)
-                if not local_sonuc["durum"]:
-                    return local_sonuc
-            
-            # Diğer tüm kontroller başarısız olursa, varsayılan olarak doğru kabul et
-            return {"durum": True, "sebep": "Kontrol başarılı"}
+            # 3. Hiçbir yapay zeka kontrolü yapılamadıysa
+            return {"durum": False, "sebep": "Yapay zeka doğrulaması yapılamadı"}
                 
         except Exception as e:
             print(f"Yapay zeka doğrulama hatası: {str(e)}")
-            return {"durum": True, "sebep": ""}  # Hata durumunda varsayılan olarak geçer
+            return {"durum": False, "sebep": f"Yapay zeka doğrulama hatası: {str(e)}"}
+            
+    def yerel_model_dogrula(self, soru):
+        """Yerel model ile doğrulama yapar"""
+        try:
+            print(f"Yerel yapay zeka modeli ile analiz: {soru['soru'][:50]}...")
+            
+            # Soru ve doğru cevabı birleştir
+            birlesik_metin = f"Soru: {soru['soru']}, Cevap: {soru['dogruCevap']}"
+            
+            # Transformers pipeline kullanarak duygu analizi yap
+            sentiment_sonuc = self.nlp(birlesik_metin)
+            print(f"Yerel AI Analiz: {sentiment_sonuc}")
+            
+            # Sonuç LABEL_0 (negatif) veya LABEL_1 (pozitif) olabilir
+            if sentiment_sonuc[0]['label'] == 'LABEL_1':
+                return {"durum": True, "sebep": f"Yerel AI puanı: {sentiment_sonuc[0]['score']:.2f}"}
+            else:
+                return {"durum": False, "sebep": f"Yerel AI: Cevap uyumsuz (skor: {sentiment_sonuc[0]['score']:.2f})"}
+                
+        except Exception as e:
+            print(f"Yerel AI Analiz hatası: {str(e)}")
+            return {"durum": False, "sebep": f"Yerel AI hatası: {str(e)}"}
     
     def local_kontrol_gerekli_mi(self, soru):
         """Basit bir kurala göre yerel kontrol gerekip gerekmediğini belirler"""
@@ -358,18 +359,6 @@ class SoruDogrulayiciBot:
             
         # Çoğu soru için kontrol etmemize gerek yok
         return False
-    
-    def internet_dogrula(self, soru, kategori, alt_kategori):
-        """Soruları doğrular - yapay zeka kullanır"""
-        try:
-            # Doğrudan yapay zeka doğrulaması
-            print(f"Soru doğrulanıyor: {soru['soru'][:50]}...")
-            return self.yapay_zeka_dogrula(soru)
-            
-        except Exception as e:
-            print(f"Doğrulama hatası: {str(e)}")
-            # Hata durumunda doğru kabul et
-            return {"durum": True, "sebep": ""}
     
     def google_arama(self, sorgu, limit=5, sadece_tyt_kaynaklar=False):
         """Google'da arama yapar ve sonuçları analiz eder"""
