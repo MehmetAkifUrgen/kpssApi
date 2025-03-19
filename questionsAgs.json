@@ -6391,6 +6391,108 @@
           "dogruCevap": "Bilimsel etik kurallara uymak"
         }
       ],
+      "Eğitim ve Öğretimde Etik - 3" : [
+        {
+          "soru": "Eğitimde etik ilkelerden hangisi, öğretmenin öğrencilerin kişisel bilgilerini koruması gerektiğini ifade eder?",
+          "secenekler": [
+            "Saygı",
+            "Adalet",
+            "Gizlilik",
+            "Sorumluluk"
+          ],
+          "dogruCevap": "Gizlilik"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi, öğretmenlerin velilere karşı etik sorumluluklarından biri değildir?",
+          "secenekler": [
+            "Öğrencilerin durumları hakkında bilgi vermek",
+            "Velilerin haklarını korumak",
+            "Velilere mesleki sırlarını açıklamak",
+            "Velilerle etkili iletişim kurmak"
+          ],
+          "dogruCevap": "Velilere mesleki sırlarını açıklamak"
+        },
+        {
+          "soru": "Bir öğretmen, bir öğrencinin başarısız olduğunu velisine bildirmek zorundadır. Ancak öğrenci, başarısızlığını velisinden gizlemek istemektedir. Bu durumda öğretmenin etik olarak yapması gereken nedir?",
+          "secenekler": [
+            "Öğrencinin isteğini dikkate alarak veliye bilgi vermemek",
+            "Adalet ilkesine uygun olarak veliye durumu bildirmek",
+            "Sorumluluk ilkesine dayanarak durumu gizli tutmak",
+            "Veliye durumu abartarak anlatmak"
+          ],
+          "dogruCevap": "Adalet ilkesine uygun olarak veliye durumu bildirmek"
+        },
+        {
+          "soru": "Türkiye'de öğretmenlerin etik davranışlarını düzenleyen yasal düzenleme aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "1739 sayılı Milli Eğitim Temel Kanunu",
+            "7528 sayılı Öğretmenlik Mesleği Kanunu",
+            "657 sayılı Devlet Memurları Kanunu",
+            "1982 Anayasası"
+          ],
+          "dogruCevap": "7528 sayılı Öğretmenlik Mesleği Kanunu"
+        },
+        {
+          "soru": "Eğitimde etik ilkelerden hangisi, öğretmenin tüm öğrencilere eşit davranmasını gerektirir?",
+          "secenekler": [
+            "Güvenilirlik",
+            "Adalet",
+            "Profesyonellik",
+            "Sorumluluk"
+          ],
+          "dogruCevap": "Adalet"
+        },
+        {
+          "soru": "Bir öğretmen, sınıfında bir öğrencinin diğer öğrenciler tarafından dışlandığını fark eder. Etik olarak yapması gereken nedir?",
+          "secenekler": [
+            "Durumu görmezden gelmek",
+            "Saygı ilkesine uygun olarak öğrenciyi korumak ve desteklemek",
+            "Öğrenciyi sınıf dışına çıkarmak",
+            "Veliye durumu bildirmek ve çözüm beklemek"
+          ],
+          "dogruCevap": "Saygı ilkesine uygun olarak öğrenciyi korumak ve desteklemek"
+        },
+        {
+          "soru": "Eğitimde etik kuralları denetleyen ve kamu görevlileri için etik ilkeler belirleyen kurum aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Milli Eğitim Bakanlığı",
+            "Kamu Görevlileri Etik Kurulu",
+            "YÖK",
+            "ÖSYM"
+          ],
+          "dogruCevap": "Kamu Görevlileri Etik Kurulu"
+        },
+        {
+          "soru": "Bir öğretmen, sınavda bir öğrencinin kopya çektiğini fark eder. Etik olarak yapması gereken nedir?",
+          "secenekler": [
+            "Durumu görmezden gelmek ve öğrenciyi geçirmek",
+            "Adalet ilkesine uygun olarak kopya çektiğini rapor etmek",
+            "Öğrenciye ikinci bir şans vererek durumu gizli tutmak",
+            "Veliye durumu bildirmek ve çözüm aramak"
+          ],
+          "dogruCevap": "Adalet ilkesine uygun olarak kopya çektiğini rapor etmek"
+        },
+        {
+          "soru": "Eğitimde etik ilkelerden hangisi, öğretmenin mesleki gelişim seminerlerine katılarak kendini sürekli geliştirmesini gerektirir?",
+          "secenekler": [
+            "Profesyonellik",
+            "Güvenilirlik",
+            "Sorumluluk",
+            "Gizlilik"
+          ],
+          "dogruCevap": "Profesyonellik"
+        },
+        {
+          "soru": "Bir öğretmen, bir öğrencinin özel sağlık durumu hakkında bilgi paylaşmak zorunda kaldığında etik olarak hangi ilkeye aykırı davranmış olur?",
+          "secenekler": [
+            "Saygı",
+            "Adalet",
+            "Gizlilik",
+            "Sorumluluk"
+          ],
+          "dogruCevap": "Gizlilik"
+        }
+      ],
       "Eğitim ve Öğretim Teknolojileri": [
         {
           "soru": "Eğitim teknolojilerinin temel amacı nedir?",
