@@ -2282,7 +2282,6 @@
         }
       ],
       "Deneme 4": [
-        
         {
           "soru": "Aşağıdaki cümlelerin hangisinde \"engel\" sözcüğü mecaz anlamda kullanılmıştır?",
           "secenekler": [
@@ -2448,7 +2447,6 @@
           ],
           "dogruCevap": "Ayşe: Futbol, Burak: Voleybol, Can: Basketbol, Deniz: Tenis"
         },
-        
         {
           "soru": "25 + 15 x 3 - 10 / 2 işleminin sonucu kaçtır?",
           "secenekler": [
@@ -3155,6 +3153,877 @@
         },
         {
           "soru": "7528 sayılı Öğretmenlik Mesleği Kanunu'na göre uzman öğretmen unvanı için öğretmenlikte en az kaç yıl hizmet bulunması gerekir?",
+          "secenekler": [
+            "5",
+            "7",
+            "10",
+            "12",
+            "15"
+          ],
+          "dogruCevap": "10"
+        }
+      ],
+      "Deneme 5": [
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde 'engel' sözcüğü mecaz anlamda kullanılmıştır?",
+          "secenekler": [
+            "Yoğun kar yağışı nedeniyle yollar trafiğe kapandı, bu da birçok kişi için ulaşımda büyük bir engel teşkil etti.",
+            "Fiziksel engelleri olan bireylerin topluma katılımını kolaylaştırmak için çeşitli projeler yürütülüyor.",
+            "Dil bariyeri, farklı kültürlerden insanların iletişim kurmasında önemli bir engel olabilir.",
+            "Başarılı olmak için karşılaştığımız her engeli aşmamız gerekir.",
+            "Yeni yapılan köprü, şehirler arasındaki ulaşım engelini büyük ölçüde ortadan kaldırdı."
+          ],
+          "dogruCevap": "Başarılı olmak için karşılaştığımız her engeli aşmamız gerekir."
+        },
+        {
+          "soru": "\"Gözleri ışıl ışıldı.\" cümlesindeki \"ışıl ışıl\" sözü, aşağıdaki anlam özelliklerinden hangisine örnek oluşturur?",
+          "secenekler": [
+            "Gerçek anlam",
+            "Mecaz anlam",
+            "Yan anlam",
+            "Pekiştirme",
+            "Terim anlam"
+          ],
+          "dogruCevap": "Pekiştirme"
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde \"tatlı\" sözcüğü farklı bir anlamda kullanılmıştır?",
+          "secenekler": [
+            "Misafirler için tatlı ikram ettik.",
+            "Çocuğun tatlı gülüşü içimi ısıttı.",
+            "Bu işin tatlıya bağlanması gerekiyor.",
+            "Yediğim en tatlı meyveydi.",
+            "Tatlı bir uykudan uyandım."
+          ],
+          "dogruCevap": "Bu işin tatlıya bağlanması gerekiyor."
+        },
+        {
+          "soru": "\"Kitap okumak, insanın düşünce dünyasına açılan bir penceredir.\" cümlesinde anlatılmak istenen nedir?",
+          "secenekler": [
+            "Kitap okumak fiziksel bir aktivitedir.",
+            "Kitaplar sadece bilgi içerir.",
+            "Kitap okumak insanın bakış açısını genişletir.",
+            "Kitap okumak zaman kaybıdır.",
+            "Kitap okumak sadece öğrencilerin görevidir."
+          ],
+          "dogruCevap": "Kitap okumak insanın bakış açısını genişletir."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır?",
+          "secenekler": [
+            "Hava çok soğuk olduğu için kalın giyindik.",
+            "Yarın pikniğe gitmek istiyoruz.",
+            "Sınavı kazanmak için çok çalışmalısın.",
+            "Kitap okumayı ve film izlemeyi severim.",
+            "İstanbul'a gitmek üzere yola çıktılar."
+          ],
+          "dogruCevap": "Hava çok soğuk olduğu için kalın giyindik."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde amaç-sonuç ilişkisi vardır?",
+          "secenekler": [
+            "Yağmur yağarsa maç iptal olacak.",
+            "Sağlıklı yaşamak için spor yapıyor.",
+            "Çok yorgun olduğu için erkenden yattı.",
+            "Kitap okumayı ve müzik dinlemeyi severim.",
+            "Hava güzel olduğundan dışarı çıktık."
+          ],
+          "dogruCevap": "Sağlıklı yaşamak için spor yapıyor."
+        },
+        {
+          "soru": "\"Duru anlatım\" özelliği taşıyan bir metin için aşağıdakilerden hangisi söylenebilir?",
+          "secenekler": [
+            "Sanatlı ve süslü bir dil kullanılmıştır.",
+            "Gereksiz sözcüklerden kaçınılmıştır.",
+            "Okuyucunun farklı anlamlar çıkarabileceği ifadeler kullanılmıştır.",
+            "Yabancı kökenli sözcüklere sıkça yer verilmiştir.",
+            "Uzun ve karmaşık cümleler kullanılmıştır."
+          ],
+          "dogruCevap": "Gereksiz sözcüklerden kaçınılmıştır."
+        },
+        {
+          "soru": "\"Özlülük\" özelliği taşıyan bir metin için aşağıdakilerden hangisi söylenebilir?",
+          "secenekler": [
+            "Konu ayrıntılı bir şekilde anlatılmıştır.",
+            "Az sözle çok şey ifade edilmiştir.",
+            "Tekrarlara sıkça yer verilmiştir.",
+            "Anlatım yavaş ve ağırdır.",
+            "Çok sayıda örnek verilmiştir."
+          ],
+          "dogruCevap": "Az sözle çok şey ifade edilmiştir."
+        },
+        {
+          "soru": "Aşağıdaki paragrafın ana fikri nedir? \"Teknolojinin gelişmesiyle birlikte hayatımız birçok yönden kolaylaştı. İletişim kurmak, bilgiye ulaşmak, alışveriş yapmak artık çok daha hızlı ve pratik. Ancak bu kolaylıkların yanı sıra bazı sorunlar da ortaya çıktı. Özellikle sosyal medya kullanımıyla birlikte yalnızlık hissi ve sanal dünyada kaybolma gibi durumlar sıkça yaşanmaya başlandı.\"",
+          "secenekler": [
+            "Teknolojinin faydaları ve zararları",
+            "Sosyal medyanın olumsuz etkileri",
+            "İletişim teknolojilerinin gelişimi",
+            "Yalnızlık hissinin nedenleri",
+            "Sanal dünyanın tehlikeleri"
+          ],
+          "dogruCevap": "Teknolojinin faydaları ve zararları"
+        },
+        {
+          "soru": "Aşağıdaki paragrafta hangi düşünceyi geliştirme yolu kullanılmıştır? \"İstanbul, Türkiye'nin en kalabalık ve en önemli şehirlerinden biridir. Tarihi yapıları, doğal güzellikleri ve kültürel zenginliğiyle her yıl milyonlarca turisti ağırlar. Örneğin, Ayasofya, Topkapı Sarayı ve Sultanahmet Camii gibi tarihi mekanlar şehrin simgelerindendir.\"",
+          "secenekler": [
+            "Tanımlama",
+            "Örnekleme",
+            "Karşılaştırma",
+            "Tanık gösterme",
+            "Sayısal verilerden yararlanma"
+          ],
+          "dogruCevap": "Örnekleme"
+        },
+        {
+          "soru": "Aşağıdaki kelimelerden anlamlı bir cümle oluşturulduğunda sıralama nasıl olur? \"hızlıca - koştu - yetişmek - otobüse - için\"",
+          "secenekler": [
+            "Koştu hızlıca otobüse yetişmek için.",
+            "Otobüse yetişmek için hızlıca koştu.",
+            "Yetişmek için otobüse hızlıca koştu.",
+            "Hızlıca otobüse koştu yetişmek için.",
+            "İçin otobüse yetişmek hızlıca koştu."
+          ],
+          "dogruCevap": "Otobüse yetişmek için hızlıca koştu."
+        },
+        {
+          "soru": "\"Bazı insanlar kedileri sever, bazıları ise köpekleri.\" cümlesinde hangi anlam ilişkisi vardır?",
+          "secenekler": [
+            "Neden-sonuç",
+            "Amaç-sonuç",
+            "Koşul-sonuç",
+            "Karşılaştırma",
+            "Eş anlamlılık"
+          ],
+          "dogruCevap": "Karşılaştırma"
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde \"hafif\" sözcüğü nicel anlamda kullanılmıştır?",
+          "secenekler": [
+            "Hafif bir rüzgar esiyordu.",
+            "Bu çanta çok hafif, rahatça taşıyabilirsin.",
+            "Konuşmasında hafif bir alay seziliyordu.",
+            "Hafif bir müzik dinliyordu.",
+            "Hafif bir baş ağrısı hissediyordu."
+          ],
+          "dogruCevap": "Bu çanta çok hafif, rahatça taşıyabilirsin."
+        },
+        {
+          "soru": "Aşağıdaki paragrafta boş bırakılan yere anlam bütünlüğünü sağlayacak en uygun cümle hangisidir? \"Sanat, toplumun aynasıdır. Toplumda yaşanan değişimler, sanat eserlerine yansır. Savaşlar, aşklar, hüzünler, sevinçler...  ________ Bu nedenle bir dönemin sanat eserlerine bakarak o dönemin insanlarının yaşam tarzları, düşünceleri ve duyguları hakkında bilgi sahibi olabiliriz.\"",
+          "secenekler": [
+            "Sanatçılar genellikle kendi iç dünyalarını yansıtırlar.",
+            "Her sanat eseri biriciktir ve tekrarlanamaz.",
+            "Sanat, evrensel bir dildir ve tüm insanlığa hitap eder.",
+            "Sanatın farklı dalları farklı konuları ele alır.",
+            "Bütün bunlar sanatın konularını oluşturur."
+          ],
+          "dogruCevap": "Bütün bunlar sanatın konularını oluşturur."
+        },
+        {
+          "soru": "Aşağıdaki sözel mantık sorusunun cevabı nedir? Ayşe, Burak, Can ve Deniz farklı spor dallarıyla ilgilenmektedirler: futbol, basketbol, voleybol ve tenis. Her biri sadece bir spor dalıyla ilgilenmektedir. Ayşe top ile oynanan bir spor dalıyla ilgilenmektedir. Burak ve Deniz aynı takım sporlarıyla ilgilenmemektedir. Can raket ile oynanan bir spor dalıyla ilgilenmemektedir. Buna göre hangi öğrenci hangi spor dalıyla ilgilenmektedir?",
+          "secenekler": [
+            "Ayşe: Futbol, Burak: Basketbol, Can: Voleybol, Deniz: Tenis",
+            "Ayşe: Basketbol, Burak: Futbol, Can: Voleybol, Deniz: Tenis",
+            "Ayşe: Futbol, Burak: Voleybol, Can: Basketbol, Deniz: Tenis",
+            "Ayşe: Basketbol, Burak: Voleybol, Can: Futbol, Deniz: Tenis",
+            "Ayşe: Voleybol, Burak: Futbol, Can: Basketbol, Deniz: Tenis"
+          ],
+          "dogruCevap": "Ayşe: Futbol, Burak: Voleybol, Can: Basketbol, Deniz: Tenis"
+        },
+        {
+          "soru": "25 + 15 x 3 - 10 / 2 işleminin sonucu kaçtır?",
+          "secenekler": [
+            "70",
+            "55",
+            "50",
+            "45",
+            "35"
+          ],
+          "dogruCevap": "50"
+        },
+        {
+          "soru": "Bir sayının 4 katının 5 eksiği 27'dir. Bu sayı kaçtır?",
+          "secenekler": [
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "dogruCevap": "8"
+        },
+        {
+          "soru": "Bir mağazada bir ürünün fiyatı %20 indirimle 80 TL'ye düşmüştür. İndirimden önceki fiyatı kaç TL'dir?",
+          "secenekler": [
+            "90",
+            "96",
+            "100",
+            "105",
+            "110"
+          ],
+          "dogruCevap": "100"
+        },
+        {
+          "soru": "Bir sınıftaki öğrencilerin %40'ı kızdır. Sınıfta 30 öğrenci olduğuna göre kaçı erkektir?",
+          "secenekler": [
+            "12",
+            "15",
+            "18",
+            "20",
+            "22"
+          ],
+          "dogruCevap": "18"
+        },
+        {
+          "soru": "Bir işi Ali 8 günde, Veli 12 günde bitirebilmektedir. İkisi birlikte çalışırsa aynı işi kaç günde bitirirler?",
+          "secenekler": [
+            "4",
+            "4,8",
+            "5",
+            "6",
+            "10"
+          ],
+          "dogruCevap": "4,8"
+        },
+        {
+          "soru": "Aşağıdaki grafikte bir öğrencinin bir haftada çözdüğü soru sayıları verilmiştir. Buna göre öğrenci en çok hangi gün soru çözmüştür? (Grafik: Pazartesi: 50, Salı: 60, Çarşamba: 45, Perşembe: 70, Cuma: 55)",
+          "secenekler": [
+            "Pazartesi",
+            "Salı",
+            "Çarşamba",
+            "Perşembe",
+            "Cuma"
+          ],
+          "dogruCevap": "Perşembe"
+        },
+        {
+          "soru": "Aşağıdaki tabloda bir şirketin üç aylık kar oranları verilmiştir. Buna göre şirketin ortalama kar oranı kaçtır? (Tablo: Ocak: %10, Şubat: %15, Mart: %20)",
+          "secenekler": [
+            "%12",
+            "%15",
+            "%16",
+            "%17",
+            "%18"
+          ],
+          "dogruCevap": "%15"
+        },
+        {
+          "soru": "Bir kutuda 5 kırmızı, 3 mavi ve 2 beyaz bilye vardır. Rastgele bir bilye çekildiğinde mavi gelme olasılığı kaçtır?",
+          "secenekler": [
+            "1/2",
+            "1/3",
+            "1/5",
+            "3/10",
+            "2/5"
+          ],
+          "dogruCevap": "3/10"
+        },
+        {
+          "soru": "Ardışık üç çift sayının toplamı 78'dir. Bu sayıların en küçüğü kaçtır?",
+          "secenekler": [
+            "22",
+            "24",
+            "26",
+            "28",
+            "30"
+          ],
+          "dogruCevap": "24"
+        },
+        {
+          "soru": "Bir dikdörtgenin uzun kenarı kısa kenarının 2 katıdır. Dikdörtgenin çevresi 36 cm olduğuna göre alanı kaç cm²'dir?",
+          "secenekler": [
+            "36",
+            "48",
+            "64",
+            "72",
+            "80"
+          ],
+          "dogruCevap": "72"
+        },
+        {
+          "soru": "Aşağıdaki sayı dizisinde soru işareti yerine hangi sayı gelmelidir? 2, 4, 8, 16, ?",
+          "secenekler": [
+            "24",
+            "30",
+            "32",
+            "40",
+            "48"
+          ],
+          "dogruCevap": "32"
+        },
+        {
+          "soru": "Bir üçgenin iç açıları 30°, 60° ve x derecedir. x kaçtır?",
+          "secenekler": [
+            "70",
+            "80",
+            "90",
+            "100",
+            "110"
+          ],
+          "dogruCevap": "90"
+        },
+        {
+          "soru": "Bir karenin bir kenar uzunluğu 7 cm'dir. Bu karenin alanı kaç cm²'dir?",
+          "secenekler": [
+            "14",
+            "21",
+            "28",
+            "35",
+            "49"
+          ],
+          "dogruCevap": "49"
+        },
+        {
+          "soru": "Bir sınıftaki 20 öğrencinin yaş ortalaması 12'dir. Öğretmen de katıldığında yaş ortalaması 13 olmuştur. Öğretmenin yaşı kaçtır?",
+          "secenekler": [
+            "32",
+            "33",
+            "34",
+            "35",
+            "36"
+          ],
+          "dogruCevap": "33"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Osmanlı Devleti'nin kuruluş döneminde Bizans ile yaptığı ilk savaştır?",
+          "secenekler": [
+            "Çirmen Savaşı",
+            "Koyunhisar Savaşı",
+            "Varna Savaşı",
+            "Niğbolu Savaşı",
+            "Kosova Savaşı"
+          ],
+          "dogruCevap": "Koyunhisar Savaşı"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Fatih Sultan Mehmet döneminde Osmanlı Devleti'ne katılan yerlerden biri değildir?",
+          "secenekler": [
+            "İstanbul",
+            "Belgrad",
+            "Trabzon",
+            "Kırım",
+            "Amasra"
+          ],
+          "dogruCevap": "Belgrad"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Kanuni Sultan Süleyman döneminde yaşanan gelişmelerden biri değildir?",
+          "secenekler": [
+            "Rodos'un alınması",
+            "Mohaç Meydan Muharebesi",
+            "Preveze Deniz Savaşı",
+            "Viyana Kuşatması",
+            "Çaldıran Savaşı"
+          ],
+          "dogruCevap": "Çaldıran Savaşı"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Osmanlı Devleti'nde görülen gerileme nedenlerinden biri değildir?",
+          "secenekler": [
+            "Merkezi otoritenin zayıflaması",
+            "Ekonomik sıkıntılar",
+            "Askeri alanda yeniliklerin takip edilememesi",
+            "Eğitim sisteminin gelişmesi",
+            "İç isyanlar"
+          ],
+          "dogruCevap": "Eğitim sisteminin gelişmesi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Atatürk'ün ilkelerinden biri değildir?",
+          "secenekler": [
+            "Cumhuriyetçilik",
+            "Milliyetçilik",
+            "Halkçılık",
+            "Ümmetçilik",
+            "Laiklik"
+          ],
+          "dogruCevap": "Ümmetçilik"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye Büyük Millet Meclisi'nin açılma nedenlerinden biridir?",
+          "secenekler": [
+            "Saltanatı güçlendirmek",
+            "İstanbul'un işgaline tepki göstermek",
+            "Halifeliği korumak",
+            "Azınlık haklarını genişletmek",
+            "Manda ve himayeyi kabul etmek"
+          ],
+          "dogruCevap": "İstanbul'un işgaline tepki göstermek"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Kurtuluş Savaşı'nın dönüm noktalarından biridir?",
+          "secenekler": [
+            "Çanakkale Savaşı",
+            "Sakarya Meydan Muharebesi",
+            "Trablusgarp Savaşı",
+            "Balkan Savaşları",
+            "I. Dünya Savaşı"
+          ],
+          "dogruCevap": "Sakarya Meydan Muharebesi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Cumhuriyetin ilanından sonra yapılan inkılaplardan biri değildir?",
+          "secenekler": [
+            "Saltanatın kaldırılması",
+            "Halifeliğin kaldırılması",
+            "Tevhid-i Tedrisat Kanunu",
+            "Medeni Kanun'un kabulü",
+            "Harf İnkılabı"
+          ],
+          "dogruCevap": "Saltanatın kaldırılması"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi II. Dünya Savaşı'nın nedenlerinden biri değildir?",
+          "secenekler": [
+            "Versay Antlaşması'nın ağır koşulları",
+            "Milletler Cemiyeti'nin etkisizliği",
+            "Faşizm ve Nazizm gibi totaliter ideolojilerin yükselişi",
+            "Sovyet Rusya'nın güçlenmesi",
+            "Osmanlı Devleti'nin yıkılması"
+          ],
+          "dogruCevap": "Osmanlı Devleti'nin yıkılması"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Soğuk Savaş döneminde yaşanan gelişmelerden biri değildir?",
+          "secenekler": [
+            "Berlin Duvarı'nın örülmesi",
+            "Kore Savaşı",
+            "Vietnam Savaşı",
+            "Küba Füze Krizi",
+            "Balkan Savaşları"
+          ],
+          "dogruCevap": "Balkan Savaşları"
+        },
+        {
+          "soru": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Erciyes",
+            "Kaçkar",
+            "Ağrı",
+            "Uludağ",
+            "Toroslar"
+          ],
+          "dogruCevap": "Ağrı"
+        },
+        {
+          "soru": "Türkiye'nin en büyük gölü aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Tuz Gölü",
+            "Beyşehir Gölü",
+            "Eğirdir Gölü",
+            "Van Gölü",
+            "İznik Gölü"
+          ],
+          "dogruCevap": "Van Gölü"
+        },
+        {
+          "soru": "Türkiye'de en fazla yağış alan bölge aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Akdeniz Bölgesi",
+            "Ege Bölgesi",
+            "Karadeniz Bölgesi",
+            "İç Anadolu Bölgesi",
+            "Güneydoğu Anadolu Bölgesi"
+          ],
+          "dogruCevap": "Karadeniz Bölgesi"
+        },
+        {
+          "soru": "Türkiye'nin başkenti aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "İstanbul",
+            "İzmir",
+            "Ankara",
+            "Bursa",
+            "Adana"
+          ],
+          "dogruCevap": "Ankara"
+        },
+        {
+          "soru": "Türkiye'nin en kalabalık şehri aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Ankara",
+            "İzmir",
+            "İstanbul",
+            "Bursa",
+            "Antalya"
+          ],
+          "dogruCevap": "İstanbul"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye'nin önemli akarsularından biri değildir?",
+          "secenekler": [
+            "Kızılırmak",
+            "Yeşilırmak",
+            "Sakarya",
+            "Nil",
+            "Fırat"
+          ],
+          "dogruCevap": "Nil"
+        },
+        {
+          "soru": "Türkiye'de karasal iklimin en belirgin olarak görüldüğü bölge aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Marmara Bölgesi",
+            "Ege Bölgesi",
+            "Akdeniz Bölgesi",
+            "İç Anadolu Bölgesi",
+            "Karadeniz Bölgesi"
+          ],
+          "dogruCevap": "İç Anadolu Bölgesi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye'nin önemli sanayi şehirlerinden biri değildir?",
+          "secenekler": [
+            "İstanbul",
+            "İzmir",
+            "Ankara",
+            "Trabzon",
+            "Bursa"
+          ],
+          "dogruCevap": "Trabzon"
+        },
+        {
+          "soru": "Türkiye Yüzyılı Maarif Modeli’nde 'Erdem-Değer-Eylem Çerçevesi'nin temel amacı nedir?",
+          "secenekler": [
+            "Akademik başarıyı artırmak",
+            "Öğrenci devamsızlığını azaltmak",
+            "Değerlerin içselleştirilmesi ve davranışa dönüştürülmesi",
+            "Öğretmenlerin mesleki gelişimini desteklemek",
+            "Okul yönetimini güçlendirmek"
+          ],
+          "dogruCevap": "Değerlerin içselleştirilmesi ve davranışa dönüştürülmesi"
+        },
+        {
+          "soru": "Eğitimde etik ilkelerden biri olarak 'adalet' hangi durumda ihlal edilmiş olur?",
+          "secenekler": [
+            "Öğretmenin tüm öğrencilere eşit davranması",
+            "Öğrencilerin bireysel ihtiyaçlarına göre rehberlik yapılması",
+            "Öğretmenin bir öğrenciyi kayırması",
+            "Sınav sonuçlarının şeffaf bir şekilde açıklanması",
+            "Öğrencilerin derslere katılımının teşvik edilmesi"
+          ],
+          "dogruCevap": "Öğretmenin bir öğrenciyi kayırması"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Bloom’un Taksonomisi’nde en yüksek bilişsel düzeyi temsil eder?",
+          "secenekler": [
+            "Bilgi",
+            "Kavrama",
+            "Uygulama",
+            "Analiz",
+            "Yaratma"
+          ],
+          "dogruCevap": "Yaratma"
+        },
+        {
+          "soru": "Türk Millî Eğitim Sistemi’nde 'laiklik' ilkesi aşağıdakilerden hangisiyle doğrudan ilişkilidir?",
+          "secenekler": [
+            "Eğitimin sınav odaklı olması",
+            "Din derslerinin isteğe bağlı hale getirilmesi",
+            "Mesleki eğitimin yaygınlaştırılması",
+            "Öğretmen atamalarının merkezi yapılması",
+            "Eğitimde fırsat eşitliği sağlanması"
+          ],
+          "dogruCevap": "Din derslerinin isteğe bağlı hale getirilmesi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi John Dewey’in pragmatist eğitim anlayışının temel bir özelliğidir?",
+          "secenekler": [
+            "Bilginin ezberlenmesi",
+            "Öğretmen merkezli eğitim",
+            "Deneyim yoluyla öğrenme",
+            "Sınav başarısının önceliği",
+            "Disiplin odaklı sınıf yönetimi"
+          ],
+          "dogruCevap": "Deneyim yoluyla öğrenme"
+        },
+        {
+          "soru": "Eğitim teknolojilerinde 'öğrenme yönetim sistemi' (LMS) hangi amaçla kullanılır?",
+          "secenekler": [
+            "Sadece sınav sonuçlarını kaydetmek",
+            "Öğrenme sürecini düzenlemek ve içeriği sunmak",
+            "Öğretmenlerin maaşlarını hesaplamak",
+            "Okul binalarını tasarlamak",
+            "Velilere duyuru göndermek"
+          ],
+          "dogruCevap": "Öğrenme sürecini düzenlemek ve içeriği sunmak"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türk Millî Eğitim Sistemi’nde 'hayat boyu öğrenme' kavramıyla uyuşmaz?",
+          "secenekler": [
+            "Eğitimin sadece okul çağında olması",
+            "Yetişkinlerin mesleki eğitim alması",
+            "Halk eğitim merkezlerinin faaliyetleri",
+            "Uzaktan eğitim programları",
+            "Bireylerin sürekli gelişim sağlaması"
+          ],
+          "dogruCevap": "Eğitimin sadece okul çağında olması"
+        },
+        {
+          "soru": "1739 sayılı Millî Eğitim Temel Kanunu’na göre eğitimin temel amacı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Sadece mesleki beceri kazandırmak",
+            "Milli birlik ve bütünlüğü sağlamak",
+            "Yabancı dil öğretimini yaygınlaştırmak",
+            "Eğitimi özelleştirmek",
+            "Sınav başarısını artırmak"
+          ],
+          "dogruCevap": "Milli birlik ve bütünlüğü sağlamak"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi öğretmenlerin mesleki gelişiminde Millî Eğitim Akademisi’nin bir hedefi değildir?",
+          "secenekler": [
+            "Sürekli eğitim sağlamak",
+            "Mesleki yeterlilikleri artırmak",
+            "Öğretmenlerin etik bilincini geliştirmek",
+            "Öğretmen maaşlarını belirlemek",
+            "Eğitimde yenilikçi yaklaşımları teşvik etmek"
+          ],
+          "dogruCevap": "Öğretmen maaşlarını belirlemek"
+        },
+        {
+          "soru": "Davranışçı öğrenme teorisine göre, pekiştirmenin öğrenci davranışlarını şekillendirmedeki rolü nedir ve bu, 2025 itibarıyla Türkiye’nin sınıf yönetimi yönergelerinde nasıl yansır?",
+          "secenekler": [
+            "Pekiştirme önemsizdir; Türkiye’nin yönergeleri proje tabanlı bilişsel gelişime odaklanır.",
+            "Pekiştirme istenen davranışları güçlendirir; yönergeler ilköğretimde devamsızlık için ödül sistemlerini zorunlu kılar.",
+            "Pekiştirme sadece cezalandırma için kullanılır; yönergeler ortaöğretimde olumlu geri bildirimi yasaklar.",
+            "Pekiştirme sadece ileri düzey öğrenciler için; yönergeler lise STEM dersleriyle kullanımını sınırlar.",
+            "Pekiştirme ele alınmaz; Türkiye’nin yönergeleri sadece öğretmen özerkliğine odaklanır."
+          ],
+          "dogruCevap": "Pekiştirme istenen davranışları güçlendirir; yönergeler ilköğretimde devamsızlık için ödül sistemlerini zorunlu kılar."
+        },
+        {
+          "soru": "Deneyim yoluyla aktif öğrenmeye vurgu yapan eğitim teorisi, Türkiye’nin 2024-2025 müfredatındaki süreç temelli yaklaşımlar ve öğretmen özerkliği odak noktasına nasıl yansır ve ilköğretimden bir örnek verin?",
+          "secenekler": [
+            "Davranışçılık; örnek: matematik gerçeklerinin ezberleme alıştırmaları.",
+            "Yapısalcılık; örnek: fen derslerinde doğal fenomenleri keşfetmek için grup projeleri.",
+            "Esencializm; örnek: okuma becerilerini değerlendirmek için standart testler.",
+            "Perenializm; örnek: klasik edebiyat okuma çevreleri.",
+            "Hümanizm; örnek: öğretmen rehberliği olmadan kendi kendine yönlendirilen sanat etkinlikleri."
+          ],
+          "dogruCevap": "Yapısalcılık; örnek: fen derslerinde doğal fenomenleri keşfetmek için grup projeleri."
+        },
+        {
+          "soru": "Sosyal adalete odaklanan eleştirel pedagoji, 1739 sayılı Kanun uyarınca demokratik vatandaşlık yetiştirmeyi hedefleyen Türkiye’nin eğitim hedefiyle nasıl uyumludur ve bu yaklaşımı yansıtabilecek bir sınıf etkinliği örneği verin?",
+          "secenekler": [
+            "Ezber öğrenmeyi teşvik ederek uyumludur; etkinlik: ulusal tarih gerçeklerini ezberleme.",
+            "Eleştirel düşünmeyi teşvik ederek uyumludur; etkinlik: sosyal eşitlik meseleleri üzerine tartışmalar.",
+            "Öğretmen otoritesine odaklanarak uyumludur; etkinlik: hükümet politikaları üzerine dersler.",
+            "Sınav performansına odaklanarak uyumludur; etkinlik: vatandaşlık hakları üzerine mock testler.",
+            "Sosyal meseleleri göz ardı ederek uyumludur; etkinlik: klasik metinlerin grup okuması."
+          ],
+          "dogruCevap": "Eleştirel düşünmeyi teşvik ederek uyumludur; etkinlik: sosyal eşitlik meseleleri üzerine tartışmalar."
+        },
+        {
+          "soru": "1739 sayılı Kanun’dan iki ilke, Türkiye’de eğitimde eşitliği nasıl sağlar ve 2025 itibarıyla kırsal okul programlarında nasıl uygulanır?",
+          "secenekler": [
+            "Bilimselilik ve süreklilik; mobil dijital kütüphanelerle kırsal erişim sağlanır.",
+            "Laiklik ve millîlik; dini eğitim outreach programlarıyla uygulanır.",
+            "Genellik ve eşitlik; kırsal öğrenciler için ulaşım sübvansiyonlarıyla uygulanır.",
+            "Devletçilik ve pragmatizm; şehir okullarının devlet fonlu genişletilmesiyle uygulanır.",
+            "Fırsat eşitliği ve bilimselilik; kırsal eğitimciler için çevrimiçi öğretmen eğitimiyle uygulanır."
+          ],
+          "dogruCevap": "Genellik ve eşitlik; kırsal öğrenciler için ulaşım sübvansiyonlarıyla uygulanır."
+        },
+        {
+          "soru": "1739 sayılı Kanun’daki bilimselilik ilkesi, Türk liselerindeki STEM eğitiminin gelişimini nasıl etkiler ve 2025’te müfredatta bir değişiklik örneği verin?",
+          "secenekler": [
+            "STEM’i sınırlar; örnek: laboratuvar saatlerini azaltarak sanata odaklanma.",
+            "Kanıta dayalı öğrenmeyi teşvik eder; örnek: bilgisayar bilimleri derslerine kodlama modülleri ekleme.",
+            "STEM’i yok sayar; örnek: tarih ders saatlerini artırma.",
+            "Teoriye odaklanır; örnek: fizikten pratik deneyleri çıkarma.",
+            "İnovasyonu caydırır; örnek: robotik yarışmalarını yasaklama."
+          ],
+          "dogruCevap": "Kanıta dayalı öğrenmeyi teşvik eder; örnek: bilgisayar bilimleri derslerine kodlama modülleri ekleme."
+        },
+        {
+          "soru": "1739 sayılı Kanun’a göre eğitimin sürekliliği rolü nedir ve 2025 itibarıyla Türkiye’de yetişkin eğitimi girişimlerini nasıl destekler?",
+          "secenekler": [
+            "Süreklilik ömür boyu öğrenmeyi sağlar; yetişkinler için mesleki eğitim merkezleriyle desteklenir.",
+            "Süreklilik eğitimi okul çağıyla sınırlar; yetişkin girişimleri yoktur.",
+            "Süreklilik erken çocukluk dönemine odaklanır; yetişkin programları minimaldir.",
+            "Süreklilik ilgisizdir; yetişkin eğitimi özel sektör tarafından ele alınır.",
+            "Süreklilik sadece üniversite eğitimini destekler; yetişkin programları fonlanmaz."
+          ],
+          "dogruCevap": "Süreklilik ömür boyu öğrenmeyi sağlar; yetişkinler için mesleki eğitim merkezleriyle desteklenir."
+        },
+        {
+          "soru": "Türkiye’de mevcut sistemde zorunlu eğitimin üç aşaması nedir ve ilköğretimden ortaöğretime geçiş, 2025 verilerine göre öğrenci performansını nasıl etkiler?",
+          "secenekler": [
+            "İlköğretim, ortaöğretim, yükseköğretim; geçiş standart testlerle performansı artırır.",
+            "Okul öncesi, ilköğretim, ortaöğretim; geçiş müfredat boşlukları nedeniyle performansı düşürür.",
+            "İlköğretim, ortaokul, lise; geçiş öğretmen desteğiyle performansı artırır.",
+            "Anaokulu, ilköğretim, lise; geçiş 2025 raporlarına göre etkisi yoktur.",
+            "Temel, ara, ileri; geçiş stresten dolayı performansı düşürür."
+          ],
+          "dogruCevap": "İlköğretim, ortaokul, lise; geçiş öğretmen desteğiyle performansı artırır."
+        },
+        {
+          "soru": "Türk ulusal müfredatı Milli Eğitim Bakanlığı tarafından nasıl geliştirilir ve 2025 revizyonlarında paydaş danışmalarının rolü nedir?",
+          "secenekler": [
+            "Sadece öğretmenler tarafından geliştirilir; danışmalar ilgisizdir.",
+            "MEB ve uzman girişiyle geliştirilir; danışmalar ebeveyn geri bildirimini sağlar.",
+            "Özel firmalar tarafından geliştirilir; danışmalar uygulamadan sonradır.",
+            "Üniversiteler tarafından geliştirilir; öğretmenler hariç tutulur.",
+            "Yabancı danışmanlar tarafından geliştirilir; danışmalar minimaldir."
+          ],
+          "dogruCevap": "MEB ve uzman girişiyle geliştirilir; danışmalar ebeveyn geri bildirimini sağlar."
+        },
+        {
+          "soru": "Türkiye’de yerel düzeyde eğitimi denetleyen ana idari organlar nelerdir ve 2025 itibarıyla 1739 sayılı Kanun’a uyumu nasıl sağlarlar?",
+          "secenekler": [
+            "İlçe eğitim kurulları; yıllık denetimlerle uyumu sağlar.",
+            "İl eğitim müdürlükleri; öğretmen değerlendirmeleriyle uyumu sağlar.",
+            "Yerel belediyeler; okul fonlamasıyla uyumu sağlar.",
+            "Köy konseyleri; topluluk toplantılarıyla uyumu sağlar.",
+            "Bölge valileri; müfredat güncellemeleriyle uyumu sağlar."
+          ],
+          "dogruCevap": "İl eğitim müdürlükleri; öğretmen değerlendirmeleriyle uyumu sağlar."
+        },
+        {
+          "soru": "Türkiye Yüzyılı Maarif Modeli’nin öğretmen eğitimi programı, Eylül 2024’te uygulanarak Erdem-Değer-Eylem Çerçevesi’ni nasıl destekler ve ilköğretim öğretmenleri için bir spesifik etkinlik örneği verin?",
+          "secenekler": [
+            "Dijital araçlarla destekler; etkinlik: çevrimiçi etik atölyeleri.",
+            "Değerler eğitimiyle destekler; etkinlik: sorumluluk üzerine rol yapma senaryoları.",
+            "Sınav hazırlığıyla destekler; etkinlik: test tasarımı oturumları.",
+            "Müfredat odaklı destekler; etkinlik: ders kitabı analiz toplantıları.",
+            "İdari görevlerle destekler; etkinlik: okul yönetimi eğitimi."
+          ],
+          "dogruCevap": "Değerler eğitimiyle destekler; etkinlik: sorumluluk üzerine rol yapma senaryoları."
+        },
+        {
+          "soru": "Türkiye Yüzyılı Maarif Modeli’nin 2025’te ortaöğretim için iki ana hedefi nedir ve kırsal alanlardaki dijital bölünme sorunlarını nasıl ele alır?",
+          "secenekler": [
+            "Beceriler geliştirme ve etik; kırsal internet sübvansiyonlarıyla ele alınır.",
+            "Sınav odaklılık ve öğretmen eğitimi; şehir okullarının genişletilmesiyle ele alınır.",
+            "Müfredat standardizasyonu ve ebeveyn katılımı; mobil öğrenme hublarıyla ele alınır.",
+            "Değerlendirme reformu ve dijital okuryazarlık; uydu internet erişimiyle ele alınır.",
+            "Mesleki eğitim ve sanat entegrasyonu; özel sektör ortaklıklarıyla ele alınır."
+          ],
+          "dogruCevap": "Beceriler geliştirme ve etik; kırsal internet sübvansiyonlarıyla ele alınır."
+        },
+        {
+          "soru": "Türkiye Yüzyılı Maarif Modeli’nin 2024-2025 uygulaması, Türk ilköğretim okullarındaki değerlendirme yöntemlerini nasıl etkilemiştir ve yeni bir değerlendirme tekniği örneği verin?",
+          "secenekler": [
+            "Sınavları artırdı; örnek: haftalık quizler.",
+            "Biçimlendirici değerlendirmelere kaydı; örnek: portföy değerlendirmeleri.",
+            "Değerlendirmeleri azalttı; örnek: sadece sözlü sunumlar.",
+            "Toplayıcı testlere odaklandı; örnek: dönem sonu sınavları.",
+            "Değerlendirmeleri kaldırdı; örnek: not sistemi yok."
+          ],
+          "dogruCevap": "Biçimlendirici değerlendirmelere kaydı; örnek: portföy değerlendirmeleri."
+        },
+        {
+          "soru": "Türkiye’nin 2025 eğitim teknolojisi politikası altında, yapay zekânın sınıf değerlendirmelerine entegrasyonunda öğretmenlerin ele alması gereken etik hususlar nelerdir ve bir örnek verin?",
+          "secenekler": [
+            "Gizlilik endişeleri; örnek: AI öğrencilerin konumlarını izler.",
+            "Teknik sorunlar; örnek: AI sisteminin sınav sırasında çökmesi.",
+            "Maliyet yönetimi; örnek: AI yazılım lisans ücretleri.",
+            "Müfredat uyumu; örnek: AI içeriğinin ders kitaplarıyla eşleşmesi.",
+            "Öğretmen eğitimi ihtiyaçları; örnek: AI kullanımı atölyeleri."
+          ],
+          "dogruCevap": "Gizlilik endişeleri; örnek: AI öğrencilerin konumlarını izler."
+        },
+        {
+          "soru": "Eğitim etiğindeki gizlilik ilkesi, 2025 itibarıyla Türk okullarındaki dijital öğrenme platformlarının kullanımıyla nasıl uyumludur ve bunu destekleyen bir yasal çerçeve örneği verin?",
+          "secenekler": [
+            "Gizlilik veri paylaşımını destekler; çerçeve: 1739 sayılı Kanun.",
+            "Gizlilik veri toplanmasını sınırlar; çerçeve: Kişisel Verilerin Korunması Kanunu (KVKK).",
+            "Gizlilik platform kullanımını yok sayar; çerçeve: Eğitim Teknolojisi Politikası.",
+            "Gizlilik açık erişimi teşvik eder; çerçeve: Açık Veri Direktifi.",
+            "Gizlilik öğretmen erişimini sınırlar; çerçeve: Öğretmen Etik Kodu."
+          ],
+          "dogruCevap": "Gizlilik veri toplanmasını sınırlar; çerçeve: Kişisel Verilerin Korunması Kanunu (KVKK)."
+        },
+        {
+          "soru": "Türkiye’nin 2025 eğitim sisteminde çevrimiçi öğrenmenin artan kullanımıyla ortaya çıkan iki potansiyel etik ikilem nedir ve eğitim yönergelerine göre nasıl hafifletilebilir?",
+          "secenekler": [
+            "Veri ihlalleri ve eşit olmayan erişim; siber güvenlik eğitimi ve sübvansiyonlarla hafifletilir.",
+            "Öğretmen iş yükü ve öğrenci katılımı; çevrimiçi saatleri azaltarak hafifletilir.",
+            "Müfredat aşırı yükü ve ebeveyn onayı; yasal danışmanlıklarla hafifletilir.",
+            "Platform maliyetleri ve sınav hilesi; ücretsiz yazılım dağıtımıyla hafifletilir.",
+            "Dijital bölünme ve gizlilik ihlalleri; kırsal internet genişletmesi ve veri politikalarıyla hafifletilir."
+          ],
+          "dogruCevap": "Veri ihlalleri ve eşit olmayan erişim; siber güvenlik eğitimi ve sübvansiyonlarla hafifletilir."
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası’na göre, eğitim ve öğretimde laiklik ilkesinin uygulanmasını doğrudan etkileyen temel haklardan biri aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Düşünce ve ifade özgürlüğü",
+            "Din ve vicdan hürriyeti",
+            "Toplantı ve gösteri yürüyüşü hakkı",
+            "Mülkiyet hakkı",
+            "Kişi dokunulmazlığı"
+          ],
+          "dogruCevap": "Din ve vicdan hürriyeti"
+        },
+        {
+          "soru": "1739 sayılı Millî Eğitim Temel Kanunu’na göre, eğitimin bireyleri Türk milletinin millî, ahlaki, manevi ve kültürel değerleriyle yetiştirmesini hedefleyen temel ilkesi aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Genellik ve eşitlik",
+            "Millîlik",
+            "Bilimsellik",
+            "Laiklik",
+            "Fırsat ve imkan eşitliği"
+          ],
+          "dogruCevap": "Millîlik"
+        },
+        {
+          "soru": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre zorunlu ilköğretim çağı hangi yaş grubunu kapsar?",
+          "secenekler": [
+            "5-13",
+            "6-14",
+            "7-15",
+            "8-16",
+            "9-17"
+          ],
+          "dogruCevap": "6-14"
+        },
+        {
+          "soru": "7528 sayılı Öğretmenlik Mesleği Kanunu’na göre öğretmenlik mesleği kaç kariyer basamağından oluşur?",
+          "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "dogruCevap": "3"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası’na göre din ve ahlak eğitimi nasıl düzenlenir?",
+          "secenekler": [
+            "Tamamen serbesttir.",
+            "Devletin gözetiminde yapılır ve ilköğretimde zorunludur.",
+            "Sadece özel okullarda verilir.",
+            "Velilerin isteğine bırakılmıştır.",
+            "Hiçbir şekilde verilmez."
+          ],
+          "dogruCevap": "Devletin gözetiminde yapılır ve ilköğretimde zorunludur."
+        },
+        {
+          "soru": "1739 sayılı Millî Eğitim Temel Kanunu’na göre 'Fırsat ve imkan eşitliği' ilkesi aşağıdakilerden hangisini kapsamaz?",
+          "secenekler": [
+            "Herkese eşit eğitim hakkı",
+            "Maddi durumu zayıf öğrencilere destek",
+            "Kadın-erkek eşitliği",
+            "Sadece özel okullara teşvik",
+            "Engelli bireylerin eğitime erişimi"
+          ],
+          "dogruCevap": "Sadece özel okullara teşvik"
+        },
+        {
+          "soru": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre ilköğretim kurumlarının açılma ve kapanma zamanlarını kim belirler?",
+          "secenekler": [
+            "Okul müdürleri",
+            "İlçe Millî Eğitim Müdürlükleri",
+            "Valilikler",
+            "Millî Eğitim Bakanlığı",
+            "Öğretmenler Kurulu"
+          ],
+          "dogruCevap": "Millî Eğitim Bakanlığı"
+        },
+        {
+          "soru": "7528 sayılı Öğretmenlik Mesleği Kanunu’na göre uzman öğretmenlik için gereken minimum hizmet süresi kaç yıldır?",
           "secenekler": [
             "5",
             "7",
