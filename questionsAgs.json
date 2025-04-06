@@ -6497,6 +6497,170 @@
           "dogruCevap": "Eğitimde bilişim teknolojilerinin kullanımı"
         }
       ],
+      "Eğitimin Tarihsel Gelişimi 2": [
+        {
+          "soru": "Antik Yunan'da, disiplinli askeri eğitime odaklanan şehir devleti ile felsefe, sanat ve retoriğe önem veren şehir devleti aşağıdakilerden hangisinde doğru sırayla verilmiştir?",
+          "secenekler": [
+            "Atina - Sparta",
+            "Sparta - Atina",
+            "Korint - Tebai",
+            "Tebai - Korint"
+          ],
+          "dogruCevap": "Sparta - Atina"
+        },
+        {
+          "soru": "Orta Çağ Avrupa'sında yükseköğrenimin kurumsallaşmasını sağlayan ve Bologna, Paris, Oxford gibi örnekleri bulunan eğitim kurumları hangisidir?",
+          "secenekler": [
+            "Manastır okulları",
+            "Katedral okulları",
+            "Üniversiteler",
+            "Lonca okulları"
+          ],
+          "dogruCevap": "Üniversiteler"
+        },
+        {
+          "soru": "İslam Medeniyetinde, özellikle Abbasi Halifesi Memun döneminde Bağdat'ta kurulan, çeviri faaliyetleri ve bilimsel çalışmaların merkezi olan kurumun adı nedir?",
+          "secenekler": [
+            "Medrese",
+            "Darülfünun",
+            "Beyt'ül Hikme (Bilgelik Evi)",
+            "Külliye"
+          ],
+          "dogruCevap": "Beyt'ül Hikme (Bilgelik Evi)"
+        },
+        {
+          "soru": "Çocukların doğuştan iyi olduğuna inanan ve eğitimin çocuğun doğal gelişimini desteklemesi gerektiğini, yaparak-yaşayarak öğrenmenin önemini vurgulayan Aydınlanma dönemi eğitimcisi kimdir?",
+          "secenekler": [
+            "John Locke",
+            "Jean-Jacques Rousseau",
+            "Johann Heinrich Pestalozzi",
+            "Immanuel Kant"
+          ],
+          "dogruCevap": "Johann Heinrich Pestalozzi"
+        },
+        {
+          "soru": "John Dewey'in öncülüğünü yaptığı, eğitimin hayatın kendisi olduğunu, problem çözme ve deneyime dayalı öğrenmeyi savunan eğitim felsefesi akımı hangisidir?",
+          "secenekler": [
+            "Daimicilik (Perennialism)",
+            "Esasicilik (Essentialism)",
+            "İlerlemecilik (Progressivism)",
+            "Varoluşçuluk (Existentialism)"
+          ],
+          "dogruCevap": "İlerlemecilik (Progressivism)"
+        },
+        {
+          "soru": "Osmanlı İmparatorluğu'nda Tanzimat Fermanı (1839) sonrası dönemde eğitim alanında atılan adımlardan biri aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Medreselerin kapatılması",
+            "Modern tarzda sivil ve askeri okulların açılması",
+            "Eğitimin tamamen vakıflara devredilmesi",
+            "Yabancı okulların yasaklanması"
+          ],
+          "dogruCevap": "Modern tarzda sivil ve askeri okulların açılması"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti'nde, 3 Mart 1924'te kabul edilen ve ülkedeki tüm eğitim kurumlarını Milli Eğitim Bakanlığı'na bağlayarak eğitimde birliği sağlayan kanun hangisidir?",
+          "secenekler": [
+            "Harf Devrimi Kanunu",
+            "Medeni Kanun",
+            "Teşkilat-ı Esasiye Kanunu",
+            "Tevhid-i Tedrisat Kanunu"
+          ],
+          "dogruCevap": "Tevhid-i Tedrisat Kanunu"
+        },
+        {
+          "soru": "Türkiye'de Harf Devrimi'nin ardından yeni Türk alfabesini halka öğretmek amacıyla kurulan yaygın eğitim kurumlarının adı nedir?",
+          "secenekler": [
+            "Köy Enstitüleri",
+            "Halk Evleri",
+            "Millet Mektepleri",
+            "Darülfünun"
+          ],
+          "dogruCevap": "Millet Mektepleri"
+        }
+      ],
+      "Eğitimin Tarihsel Gelişimi 3": [
+        {
+          "soru": "Antik Yunan'da, özellikle Atina'da, para karşılığında retorik (hitabet), politika ve felsefe dersleri veren gezgin öğretmenlere ne ad verilirdi?",
+          "secenekler": [
+            "Filozoflar",
+            "Sofistler",
+            "Pedagoglar",
+            "Rahipler"
+          ],
+          "dogruCevap": "Sofistler"
+        },
+        {
+          "soru": "Roma döneminde yaşamış, \"İyi hatip, iyi insandır\" anlayışıyla eğitimin amacını ahlaklı ve bilgili yurttaşlar yetiştirmek olarak gören ve \"Institutio Oratoria\" (Hatiplik Eğitimi) adlı eseriyle bilinen eğitimci kimdir?",
+          "secenekler": [
+            "Cicero",
+            "Seneca",
+            "Quintilian",
+            "Marcus Aurelius"
+          ],
+          "dogruCevap": "Quintilian"
+        },
+        {
+          "soru": "\"Her şeyi herkese öğretmek\" (Pansophia) idealini savunan, eğitimin görsel materyallerle desteklenmesi gerektiğini vurgulayan ve \"Orbis Pictus\" (Resimli Dünya) adlı ilk resimli ders kitabını hazırlayan 17. yüzyıl eğitimcisi kimdir?",
+          "secenekler": [
+            "John Locke",
+            "Johann Amos Comenius",
+            "Jean-Jacques Rousseau",
+            "Johann Heinrich Pestalozzi"
+          ],
+          "dogruCevap": "Johann Amos Comenius"
+        },
+        {
+          "soru": "Çocukların oyun yoluyla en iyi öğrendiğini savunan ve okul öncesi eğitim kurumu olan \"Kindergarten\" (Çocuk Bahçesi) kavramını geliştiren Alman eğitimci kimdir?",
+          "secenekler": [
+            "Johann Herbart",
+            "Friedrich Froebel",
+            "Johann Pestalozzi",
+            "John Dewey"
+          ],
+          "dogruCevap": "Friedrich Froebel"
+        },
+        {
+          "soru": "Osmanlı İmparatorluğu'nda, saray içinde yer alan ve devlet yönetimi için gerekli nitelikli personeli (idareci, asker, sanatçı) yetiştirmek amacıyla kurulan özel eğitim kurumunun adı nedir?",
+          "secenekler": [
+            "Medrese",
+            "Sıbyan Mektebi",
+            "Enderun Mektebi",
+            "Darülfünun"
+          ],
+          "dogruCevap": "Enderun Mektebi"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti'nde Milli Eğitim Bakanlığı yaptığı dönemde, özellikle Köy Enstitülerinin kurulması ve yaygınlaştırılması, dünya klasiklerinin Türkçeye çevrilmesi gibi önemli projelere imza atan devlet adamı kimdir?",
+          "secenekler": [
+            "Mustafa Necati",
+            "Reşit Galip",
+            "Hasan Âli Yücel",
+            "İsmet İnönü"
+          ],
+          "dogruCevap": "Hasan Âli Yücel"
+        },
+        {
+          "soru": "Cumhuriyet dönemi Türk eğitim sisteminin temel ilkelerinden biri olan ve eğitimin Türk toplumunun ihtiyaçlarına, kültürüne ve değerlerine uygun olmasını ifade eden kavram hangisidir?",
+          "secenekler": [
+            "Laiklik",
+            "Bilimsellik",
+            "Millilik (Ulusal Olma)",
+            "Genellik ve Eşitlik"
+          ],
+          "dogruCevap": "Millilik (Ulusal Olma)"
+        },
+        {
+          "soru": "Türkiye'de 1981 yılında çıkarılan bir kanunla kurulan ve ülkedeki tüm yükseköğretim kurumlarını planlamak, düzenlemek ve denetlemekle görevli olan kurum aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Milli Eğitim Bakanlığı (MEB)",
+            "Yükseköğretim Kurulu (YÖK)",
+            "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK)",
+            "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM)"
+          ],
+          "dogruCevap": "Yükseköğretim Kurulu (YÖK)"
+        }
+      ],
       "Eğitimin Felsefi ve Psikolojik Temelleri": [
         {
           "soru": "Eğitimde bireysel farklılıkların ön plana çıkmasının savunucusu kimdir?",
@@ -8027,6 +8191,170 @@
             "İçselleştirme"
           ],
           "dogruCevap": "Şema"
+        }
+      ],
+      "Gelişim Psikolojisi 2": [
+        {
+          "soru": "Piaget'nin bilişsel gelişim kuramına göre, çocuğun cansız nesnelere canlılık özellikleri atfetmesi (örneğin, oyuncak bebeğin üşüdüğünü düşünmesi) hangi kavramla açıklanır?",
+          "secenekler": [
+            "Benmerkezcilik",
+            "Animizm (Canlandırmacılık)",
+            "Korunum",
+            "Odaktan uzaklaşamama"
+          ],
+          "dogruCevap": "Animizm (Canlandırmacılık)"
+        },
+        {
+          "soru": "Erikson'a göre, bebeklik döneminde (0-1 yaş) temel ihtiyaçları tutarlı bir şekilde karşılanan bir çocuğun kazanması beklenen temel psikososyal duygu aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Temel güven",
+            "Özerklik",
+            "Girişimcilik",
+            "Başarı"
+          ],
+          "dogruCevap": "Temel güven"
+        },
+        {
+          "soru": "Kohlberg'in ahlak gelişimi kuramına göre, bir çocuğun \"Eğer ödevimi yapmazsam öğretmen kızar\" diyerek kurallara uyması hangi ahlaki düzeyin göstergesidir?",
+          "secenekler": [
+            "Gelenek öncesi düzey",
+            "Geleneksel düzey",
+            "Gelenek sonrası düzey",
+            "Ahlaki özerklik"
+          ],
+          "dogruCevap": "Gelenek öncesi düzey"
+        },
+        {
+          "soru": "Annesi odadan ayrıldığında yoğun stres yaşayan, annesi geri döndüğünde ise hem ona yapışıp hem de öfkeyle direnen bir çocuğun bağlanma stili büyük olasılıkla hangisidir?",
+          "secenekler": [
+            "Güvenli bağlanma",
+            "Kaçıngan bağlanma",
+            "Kaygılı/kararsız bağlanma",
+            "Organize olmamış bağlanma"
+          ],
+          "dogruCevap": "Kaygılı/kararsız bağlanma"
+        },
+        {
+          "soru": "Çocuklarından hem yüksek beklentileri olan hem de onlara sıcaklık, destek ve açıklama sunarak kuralları uygulayan ebeveynlerin tutumu hangi yetiştirme tarzına örnektir?",
+          "secenekler": [
+            "Otoriter (Baskıcı)",
+            "Demokratik (Yetkin)",
+            "İzin Verici (Hoşgörülü)",
+            "İhmalkar"
+          ],
+          "dogruCevap": "Demokratik (Yetkin)"
+        },
+        {
+          "soru": "Yeni konuşmaya başlayan bir çocuğun, gördüğü tüm dört ayaklı hayvanlara \"köpek\" demesi, dil gelişimindeki hangi kavramla açıklanır?",
+          "secenekler": [
+            "Aşırı kurallaştırma",
+            "Eksik kurallaştırma",
+            "Aşırı genelleme (Anlam genişlemesi)",
+            "Tek sözcük dönemi"
+          ],
+          "dogruCevap": "Aşırı genelleme (Anlam genişlemesi)"
+        },
+        {
+          "soru": "Fiziksel gelişimin baştan ayağa doğru bir sıra izlemesi (örneğin, bebeğin önce başını kontrol etmesi, sonra oturması, sonra yürümesi) hangi ilkeyle ifade edilir?",
+          "secenekler": [
+            "Proksimodistal (İçten dışa)",
+            "Sefalokaudal (Baştan ayağa)",
+            "Gelişimin sürekliliği",
+            "Gelişimin nöbetleşe ilerlemesi"
+          ],
+          "dogruCevap": "Sefalokaudal (Baştan ayağa)"
+        },
+        {
+          "soru": "Marcia'nın kimlik statüleri kuramına göre, henüz bir kimlik krizi yaşamamış ve ailesinin beklentileri doğrultusunda bir meslek veya ideolojiye bağlanmış bir ergen hangi kimlik statüsündedir?",
+          "secenekler": [
+            "Başarılı kimlik",
+            "İpotekli kimlik",
+            "Kargaşalı (Dağınık) kimlik",
+            "Moratoryum (Askıda kimlik)"
+          ],
+          "dogruCevap": "İpotekli kimlik"
+        }
+      ],
+      "Gelişim Psikolojisi 3": [
+        {
+          "soru": "Piaget'ye göre, bir bebeğin gözünün önünden saklanan bir nesneyi aramaya başlaması, hangi bilişsel yetinin kazanıldığını gösterir?",
+          "secenekler": [
+            "Nesne devamlılığı",
+            "Korunum",
+            "Tersine çevirme",
+            "Animizm"
+          ],
+          "dogruCevap": "Nesne devamlılığı"
+        },
+        {
+          "soru": "Erikson'un psikososyal gelişim kuramına göre, genç yetişkinlik döneminde bireyin başkalarıyla yakın, anlamlı ilişkiler kurma veya yalnız kalma arasında yaşadığı temel çatışma hangisidir?",
+          "secenekler": [
+            "Kimliğe karşı rol karmaşası",
+            "Yakınlığa karşı yalıtılmışlık",
+            "Üretkenliğe karşı durgunluk",
+            "Temel güvene karşı güvensizlik"
+          ],
+          "dogruCevap": "Yakınlığa karşı yalıtılmışlık"
+        },
+        {
+          "soru": "Bir kişinin, yasalara aykırı olsa bile insan hayatını kurtarmanın daha temel bir ahlaki ilke olduğunu savunarak hareket etmesi, Kohlberg'in ahlak gelişimi kuramının hangi düzeyine işaret eder?",
+          "secenekler": [
+            "Gelenek öncesi düzey",
+            "Geleneksel düzey",
+            "Gelenek sonrası düzey",
+            "Saf çıkarcı eğilim"
+          ],
+          "dogruCevap": "Gelenek sonrası düzey"
+        },
+        {
+          "soru": "Vygotsky'nin kuramına göre, çocuğun problem çözerken veya bir etkinlik yaparken kendi kendine sesli olarak konuşarak davranışlarını yönlendirmesi aşağıdaki kavramlardan hangisiyle ifade edilir?",
+          "secenekler": [
+            "Sosyal konuşma",
+            "Özel konuşma",
+            "İçsel konuşma",
+            "Yakınsal gelişim alanı"
+          ],
+          "dogruCevap": "Özel konuşma"
+        },
+        {
+          "soru": "Kohlberg'in ahlak gelişimi kuramını, özellikle erkeklerin adalet odaklı ahlak anlayışını yansıttığı ve kadınların bakım ve ilişki odaklı ahlak anlayışını yeterince dikkate almadığı yönünde eleştiren kuramcı kimdir?",
+          "secenekler": [
+            "Erik Erikson",
+            "Jean Piaget",
+            "Carol Gilligan",
+            "Lawrence Kohlberg"
+          ],
+          "dogruCevap": "Carol Gilligan"
+        },
+        {
+          "soru": "Bir bebeğin gelişiminde önce gövde kontrolünü kazanması, ardından kol ve bacaklarını, en sonunda da parmaklarını daha ustaca kullanabilmesi hangi fiziksel gelişim ilkesine örnektir?",
+          "secenekler": [
+            "Sefalokaudal (Baştan ayağa)",
+            "Proksimodistal (İçten dışa)",
+            "Gelişimin bütünlüğü",
+            "Gelişimde kritik dönemler"
+          ],
+          "dogruCevap": "Proksimodistal (İçten dışa)"
+        },
+        {
+          "soru": "Bir öğrencinin kendi öğrenme süreçlerinin farkında olması, hangi stratejilerin daha etkili olduğunu bilmesi ve öğrenmesini buna göre planlayıp değerlendirmesi hangi bilişsel yeteneğin geliştiğini gösterir?",
+          "secenekler": [
+            "Sezgisel düşünme",
+            "Soyut düşünme",
+            "Üstbiliş (Metacognition)",
+            "Korunum"
+          ],
+          "dogruCevap": "Üstbiliş (Metacognition)"
+        },
+        {
+          "soru": "Akranları tarafından hem çok sevilen hem de hiç sevilmeyen oylarını sıkça alan, yani akranları arasında belirgin ve çelişkili duygular uyandıran çocuklar, sosyometrik değerlendirmede hangi statüde yer alır?",
+          "secenekler": [
+            "Popüler çocuklar",
+            "Reddedilen çocuklar",
+            "İhmal edilen çocuklar",
+            "Tartışmalı (Çelişkili) çocuklar"
+          ],
+          "dogruCevap": "Tartışmalı (Çelişkili) çocuklar"
         }
       ],
       "Program Geliştirme": [
@@ -10014,6 +10342,162 @@
           "dogruCevap": "Bazı akşamlar bakarım, Halil gizlice savuşur (denemek)"
         }
       ],
+      "Sözcükte Anlam 2": [
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde 'kırmak' sözcüğü mecaz anlamda kullanılmıştır?",
+          "secenekler": [
+            "Oynarken kolunu kırmış.",
+            "Bilmeden arkadaşının kalbini kırmıştı.",
+            "Vazoyu düşürüp kırdı.",
+            "Odunları kırmak için baltayı aldı.",
+            "Direksiyonu aniden sağa kırdı."
+          ],
+          "dogruCevap": "Bilmeden arkadaşının kalbini kırmıştı."
+        },
+        {
+          "soru": "'Çekmek' sözcüğü aşağıdaki cümlelerin hangisinde 'zorluğuna katlanmak, sıkıntı içinde bulunmak' anlamında kullanılmıştır?",
+          "secenekler": [
+            "Duvarlara yeni bir kat boya çekti.",
+            "Bu kadar nazı çekemem doğrusu.",
+            "Arabayı evin önüne çekti.",
+            "Masanın örtüsünü hızla çekti.",
+            "Fotoğraf çekmek için uygun bir yer aradı."
+          ],
+          "dogruCevap": "Bu kadar nazı çekemem doğrusu."
+        },
+        {
+          "soru": "'Düşmek' sözcüğü verilen cümlelerde kaç farklı anlamda kullanılmıştır?\nI. Meyveler olgunlaşınca ağaçtan düştü.\nII. Bu yıl kirazın fiyatı epey düştü.\nIII. Akşam olunca yola düşerler.\nIV. Mirastan ona küçük bir tarla düştü.\nV. Yönetimdeki açığı kapatmak bize düştü.",
+          "secenekler": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "dogruCevap": "5"
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde 'tutmak' sözcüğü ayraç içindeki anlamına uygun kullanılmamıştır?",
+          "secenekler": [
+            "Bu boya pek iyi tutmadı (etkisini göstermek, işlemek).",
+            "Taksici bizi yarım saat tuttu (alıkoymak, oyalamak).",
+            "Babasının yolunu tutmuştu (birinin davranışlarını benimsemek).",
+            "Evin kirası ne kadar tutar? (değerinde olmak).",
+            "Kalenin sağ tarafını askerler tutuyordu (avlamak, yakalamak)."
+          ],
+          "dogruCevap": "Kalenin sağ tarafını askerler tutuyordu (avlamak, yakalamak)."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde ad aktarması (mecazımürsel) vardır?",
+          "secenekler": [
+            "Kitap okumayı çok severdi.",
+            "Bütün sınıf pikniğe gitmişti.",
+            "Güneş batınca hava serinledi.",
+            "Kalemini arkadaşına ödünç verdi.",
+            "Rüzgâr ağaçların yapraklarını savuruyordu."
+          ],
+          "dogruCevap": "Bütün sınıf pikniğe gitmişti."
+        },
+        {
+          "soru": "'Yol' sözcüğü aşağıdaki cümlelerin hangisinde soyut anlamda kullanılmıştır?",
+          "secenekler": [
+            "Köyün yolu oldukça bozuktu.",
+            "Bu sorunu çözmek için başka bir yol denemeliyiz.",
+            "İki yol ağzında kararsız kaldı.",
+            "Yol kenarında biraz dinlendiler.",
+            "Haritada en kısa yolu bulmaya çalıştı."
+          ],
+          "dogruCevap": "Bu sorunu çözmek için başka bir yol denemeliyiz."
+        },
+        {
+          "soru": "'Perde' sözcüğü aşağıdaki cümlelerin hangisinde terim anlamıyla kullanılmıştır?",
+          "secenekler": [
+            "Gözlerine bir perde inmiş gibiydi.",
+            "Odanın perdelerini sıkıca kapattı.",
+            "Oyunun ikinci perdesi daha heyecanlıydı.",
+            "Sis perdesi dağılınca manzara göründü.",
+            "İki ülke arasındaki demir perde kalkmıştı."
+          ],
+          "dogruCevap": "Oyunun ikinci perdesi daha heyecanlıydı."
+        }
+      ],
+      "Sözcükte Anlam 3": [
+        {
+          "soru": "'Ayak' sözcüğü aşağıdakilerin hangisinde yan anlamıyla kullanılmıştır?",
+          "secenekler": [
+            "Ayağına diken batınca acıyla bağırdı.",
+            "Masanın ayağı kırıldığı için tamirci çağırdık.",
+            "Bu işi ayaküstü konuşup hallettik.",
+            "Çocuğun ayakları çorapsız kalmış.",
+            "Yürümekten ayaklarına kara sular inmişti."
+          ],
+          "dogruCevap": "Masanın ayağı kırıldığı için tamirci çağırdık."
+        },
+        {
+          "soru": "'Geçmek' sözcüğü aşağıdaki cümlelerin hangisinde 'etkisini yitirmek, sona ermek' anlamında kullanılmıştır?",
+          "secenekler": [
+            "Bu yol kasabanın içinden geçiyor.",
+            "Sınavı başarıyla geçti.",
+            "Ağrısı ilaç alınca hemen geçti.",
+            "Saat ikiyi on geçiyordu.",
+            "Elindeki fırsat başkasına geçti."
+          ],
+          "dogruCevap": "Ağrısı ilaç alınca hemen geçti."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde 'yüz' sözcüğü sesteşi (eş seslisi) olan diğer sözcüklerden farklı bir anlamda kullanılmıştır?",
+          "secenekler": [
+            "Yüzündeki ifadeden bir şey anlamadım.",
+            "Cebinde sadece yüz lirası kalmıştı.",
+            "Bu havada denizde yüzmek harikaydı.",
+            "Gölün yüzü tamamen buz tutmuştu."
+          ],
+          "dogruCevap": "Cebinde sadece yüz lirası kalmıştı."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde dolaylama yapılmıştır?",
+          "secenekler": [
+            "Kara elmas diyarı Zonguldak'ta yaşıyor.",
+            "Yaşlı adam bastonuna dayanarak yürüyordu.",
+            "File bekçisi penaltıyı kurtarınca tribünler coştu.",
+            "Çocuklar parkta neşeyle oynuyordu.",
+            "Ünlü sanatçı son konserini dün akşam verdi."
+          ],
+          "dogruCevap": "File bekçisi penaltıyı kurtarınca tribünler coştu."
+        },
+        {
+          "soru": "'Yanmak' sözcüğü aşağıdaki cümlelerin hangisinde \"çok istemek, özlemek\" anlamında kullanılmıştır?",
+          "secenekler": [
+            "Sobadaki odunlar çıtır çıtır yanıyordu.",
+            "Dikkat etmezsen elin yanar.",
+            "Unutulan yemek ocakta yandı.",
+            "Sıcaktan bunaldık, adeta yandık.",
+            "Yıllardır görmediği köyü için yanıyordu."
+          ],
+          "dogruCevap": "Yıllardır görmediği köyü için yanıyordu."
+        },
+        {
+          "soru": "'Ağır' sözcüğü aşağıdaki cümlelerin hangisinde nicel (ölçülebilir) bir anlamda kullanılmıştır?",
+          "secenekler": [
+            "Bu ağır sözleri duymak onu çok üzdü.",
+            "Oldukça ağır bir ameliyat geçirmişti.",
+            "Pazardan aldığı karpuz çok ağırdı.",
+            "Ağır adımlarla odasına doğru yürüdü.",
+            "Üzerinde ağır bir sorumluluk vardı."
+          ],
+          "dogruCevap": "Pazardan aldığı karpuz çok ağırdı."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde yansıma (doğa taklidi) bir sözcük kullanılmıştır?",
+          "secenekler": [
+            "Kapının gıcırtısı herkesi rahatsız etti.",
+            "Masmavi deniz uzanıyordu önümüzde.",
+            "Güneşin batışı harika görünüyordu.",
+            "Rüzgâr hafif hafif esiyordu.",
+            "Kardeşim sessizce odasına girdi."
+          ],
+          "dogruCevap": "Kapının gıcırtısı herkesi rahatsız etti."
+        }
+      ],
       "Cümlede Anlam": [
         {
           "soru": "I. Yarın hava güzel olursa pikniğe gideriz.\nII. Keşke bu sözleri söylemeseydin.\nIII. Belki de bir daha hiç görüşemeyeceğiz.\nIV. Akşama kadar bu işi bitirmeliyim.\nV. Sen de bizimle gelseydin çok eğlenirdin.\nYukarıdaki cümlelerde kaç farklı kiplik anlamı (kesinlik, olasılık, pişmanlık, gereklilik, dilek-şart) vardır?",
@@ -10065,6 +10549,163 @@
             "Modern sanat, sokak estetiğini bozarak şehir yaşamını olumsuz etkilemiştir."
           ],
           "dogruCevap": "Modern sanatın sokak estetiğiyle uyum içinde olması, şehir yaşamına dinamizm katmıştır."
+        }
+      ],
+      "Cümlede Anlam 2": [
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır?",
+          "secenekler": [
+            "Yağmur yağdığı için gezi iptal edildi.",
+            "Ders çalışmak üzere kütüphaneye gitti.",
+            "Planlı çalışırsan başarılı olursun.",
+            "Bu kitap diğerlerinden daha sürükleyiciydi.",
+            "Yarın belki sinemaya gideriz."
+          ],
+          "dogruCevap": "Yağmur yağdığı için gezi iptal edildi."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde amaç-sonuç ilişkisi vardır?",
+          "secenekler": [
+            "Çok yorulduğundan hemen uyuyakaldı.",
+            "Sınavı kazanmak için gece gündüz çalışıyor.",
+            "Kar yağınca yollar kapandı.",
+            "Eğer erken gelirsen bize katılabilirsin.",
+            "O, arkadaşları arasında en konuşkan olanıydı."
+          ],
+          "dogruCevap": "Sınavı kazanmak için gece gündüz çalışıyor."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde karşılaştırma yapılmıştır?",
+          "secenekler": [
+            "Yeni aldığı elbise ona çok yakışmıştı.",
+            "Film beklediğim kadar etkileyici değildi.",
+            "Bahar gelince doğa canlandı.",
+            "Soruları dikkatlice okuyup cevapladı.",
+            "Bu konuda farklı düşündüğünü belirtti."
+          ],
+          "dogruCevap": "Film beklediğim kadar etkileyici değildi."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisi öznel bir yargı içermektedir?",
+          "secenekler": [
+            "Türkiye'nin başkenti Ankara'dır.",
+            "Şairin son şiir kitabı büyük beğeni topladı.",
+            "Yazarın bu romanı on dile çevrildi.",
+            "İstanbul, Marmara Bölgesi'nde yer alır.",
+            "Film, iki saat on beş dakika sürdü."
+          ],
+          "dogruCevap": "Şairin son şiir kitabı büyük beğeni topladı."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde dolaylı anlatım vardır?",
+          "secenekler": [
+            "Öğretmen, \"Yarın sınavınız var,\" dedi.",
+            "Babam her zaman dürüst olmam gerektiğini söylerdi.",
+            "Arkadaşım, \"Bu kitabı mutlaka okumalısın,\" diye ekledi.",
+            "Atatürk, \"Yurtta sulh, cihanda sulh!\" demiştir.",
+            "Çocuk, \"Canım sıkılıyor,\" diye mırıldandı."
+          ],
+          "dogruCevap": "Babam her zaman dürüst olmam gerektiğini söylerdi."
+        },
+        {
+          "soru": "Verilen cümle: \"Sanatçının başarısı, yalnızca yeteneğine değil, aynı zamanda disiplinli çalışmasına da bağlıdır.\" Aşağıdakilerden hangisi bu cümlenin anlamını en doğru şekilde ifade eder?",
+          "secenekler": [
+            "Sanatçının başarılı olması için yetenek tek başına yeterli değildir, disiplinli çalışma da gereklidir.",
+            "Sanatçı, yeteneği sayesinde disiplinli çalışmaya gerek duymadan başarılı olmuştur.",
+            "Disiplinli çalışma, sanatçının yeteneğinden daha önemli bir başarı faktörüdür.",
+            "Yetenekli olmayan bir sanatçı, ne kadar disiplinli çalışırsa çalışsın başarılı olamaz."
+          ],
+          "dogruCevap": "Sanatçının başarılı olması için yetenek tek başına yeterli değildir, disiplinli çalışma da gereklidir."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerden hangisi bir tanım cümlesidir?",
+          "secenekler": [
+            "Eleştiri, bir sanat eserinin güçlü ve zayıf yönlerini ortaya koyan yazı türüdür.",
+            "Bu yazarın eserlerinde genellikle köy yaşamı anlatılır.",
+            "Kitap okumak insana farklı dünyaların kapılarını açar.",
+            "Sonbahar, yaprakların sararıp döküldüğü mevsimdir.",
+            "Teknolojinin gelişimi hayatımızı kolaylaştırdı."
+          ],
+          "dogruCevap": "Eleştiri, bir sanat eserinin güçlü ve zayıf yönlerini ortaya koyan yazı türüdür."
+        }
+      ],
+      "Cümlede Anlam 3": [
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde karşıt (zıt) durumlar bir arada verilmiştir?",
+          "secenekler": [
+            "Zengin bir hayal gücü olmasına rağmen eserleri sıradandı.",
+            "Hem geziyor hem derslerine çalışıyordu.",
+            "Hava durumu raporuna göre yarın kar yağacakmış.",
+            "Çalışkan olduğu için sınavı geçti.",
+            "Yeni fikirler üretmekte oldukça başarılıydı."
+          ],
+          "dogruCevap": "Zengin bir hayal gücü olmasına rağmen eserleri sıradandı."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerden hangisi bir eserin içeriği (konusu) ile ilgilidir?",
+          "secenekler": [
+            "Yazar, bu romanında Kurtuluş Savaşı yıllarını anlatıyor.",
+            "Sanatçının dili oldukça akıcı ve süsten uzaktı.",
+            "Kitabın kapağı okuyucuyu hemen cezbediyor.",
+            "Eleştirmenler eseri olumlu değerlendirdi.",
+            "Bu şiirde hece ölçüsü kullanılmış."
+          ],
+          "dogruCevap": "Yazar, bu romanında Kurtuluş Savaşı yıllarını anlatıyor."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerden hangisi bir yazarın üslubuyla (anlatım biçimiyle) ilgilidir?",
+          "secenekler": [
+            "Şair, şiirlerinde genellikle ayrılık temasını işler.",
+            "Yazar, kısa ve devrik cümlelerle okuyucuda merak uyandırıyor.",
+            "Roman, Cumhuriyet'in ilk yıllarında bir köyde geçiyor.",
+            "Kitapta karakterlerin psikolojik tahlilleri başarılı.",
+            "Bu öykü gerçek bir olaydan esinlenmiştir."
+          ],
+          "dogruCevap": "Yazar, kısa ve devrik cümlelerle okuyucuda merak uyandırıyor."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde bir öneri anlamı vardır?",
+          "secenekler": [
+            "Bu kitabı geçen hafta okudum.",
+            "Sağlıklı yaşamak için spor yapmalısın.",
+            "Yarın hava güneşli olacakmış.",
+            "Toplantı saat tam üçte başlayacak.",
+            "Keşke daha dikkatli olsaydım."
+          ],
+          "dogruCevap": "Sağlıklı yaşamak için spor yapmalısın."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde varsayım anlamı vardır?",
+          "secenekler": [
+            "Diyelim ki bu sınavı kazandın, sonra ne yapacaksın?",
+            "Eğer çok çalışırsan başarırsın.",
+            "Belki de söylediklerinde haklıdır.",
+            "Keşke o gün orada olsaydım.",
+            "Yağmur yağmazsa pikniğe gidebiliriz."
+          ],
+          "dogruCevap": "Diyelim ki bu sınavı kazandın, sonra ne yapacaksın?"
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde aşamalı bir durum anlatılmaktadır?",
+          "secenekler": [
+            "Hastanın durumu günden güne iyiye gidiyor.",
+            "Aniden bastıran sağanak hepimizi ıslattı.",
+            "Maçın son dakikasında golü attılar.",
+            "Bir zamanlar buralar dutluktu.",
+            "Projeyi dün akşam tamamladım."
+          ],
+          "dogruCevap": "Hastanın durumu günden güne iyiye gidiyor."
+        },
+        {
+          "soru": "Aşağıdaki cümlelerin hangisinde yakınma (şikayet) anlamı vardır?",
+          "secenekler": [
+            "Ne kadar uğraşsam da bir türlü istediğim gibi olmuyor.",
+            "Bu manzara gerçekten büyüleyici!",
+            "Keşke daha erken yola çıksaydık.",
+            "Hava bugün oldukça serin.",
+            "Yarın mutlaka bize uğramalısın."
+          ],
+          "dogruCevap": "Ne kadar uğraşsam da bir türlü istediğim gibi olmuyor."
         }
       ],
       "Anlatımın Oluşması": [
@@ -10271,6 +10912,164 @@
             "Tanımlama"
           ],
           "dogruCevap": "Öyküleme"
+        }
+      ],
+      "Anlatımın Oluşması 2": [
+        {
+          "soru": "Çalışmanın önemi konusunda herkes hemfikirdir. Başarıya ulaşmanın tek yolunun çalışmaktan geçtiğini unutmamalıyız. Nitekim ünlü düşünür Konfüçyüs de \"Uzaklıklar, çalışkan olanlar için engel değildir.\" diyerek bu gerçeği vurgulamıştır.\nBu parçada kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Örnekleme",
+            "Benzetme",
+            "Tanımlama",
+            "Karşılaştırma",
+            "Tanık gösterme"
+          ],
+          "dogruCevap": "Tanık gösterme"
+        },
+        {
+          "soru": "Fotosentez, yeşil bitkilerin ve bazı diğer organizmaların, ışık enerjisini kullanarak karbondioksit ve suyu organik bileşiklere dönüştürme sürecidir. Bu süreçte genellikle oksijen yan ürün olarak açığa çıkar. Yaşamın devamlılığı için temel bir biyokimyasal süreçtir.\nBu parçada hangi anlatım biçimi ağır basmaktadır?",
+          "secenekler": [
+            "Öyküleme",
+            "Betimleme",
+            "Tartışma",
+            "Açıklama",
+            "Tanımlama"
+          ],
+          "dogruCevap": "Açıklama"
+        },
+        {
+          "soru": "Fırından yeni çıkmış ekmeğin odaya yayılan mis gibi kokusu iştah açıyordu. Ekmeğin kabuğu altın sarısı rengindeydi ve dokunulduğunda hafif bir çıtırtı duyuluyordu. İçinin yumuşaklığı ve sıcaklığı parmak uçlarında hissediliyordu.\nBu parçanın anlatımında hangi duyudan yararlanıldığı söylenemez?",
+          "secenekler": [
+            "Koklama",
+            "Görme",
+            "İşitme",
+            "Dokunma",
+            "Tatma"
+          ],
+          "dogruCevap": "Tatma"
+        },
+        {
+          "soru": "Küçük çocuk, parkın kapısından hızla girdi, rengarenk kaydırağın yanından koşarak geçti ve kendini salıncağa attı. Hızla sallanmaya başladı, kahkahaları etrafta yankılanıyordu. Bir an durup etrafına bakındı, sonra tekrar sallanmaya devam etti.\nBu parçada hangi anlatım biçimi ağır basmaktadır?",
+          "secenekler": [
+            "Tartışma",
+            "Açıklama",
+            "Öyküleme",
+            "Tanımlama",
+            "Betimleme"
+          ],
+          "dogruCevap": "Öyküleme"
+        },
+        {
+          "soru": "Bazıları klasik müzik dinlemenin sıkıcı olduğunu düşünür. Oysa klasik müziğin ruha dinginlik veren, insanı farklı dünyalara götüren büyülü bir etkisi vardır. Bu türün karmaşık yapısı, zihni çalıştırır ve estetik zevki geliştirir. Sadece biraz sabır ve dikkatle yaklaşıldığında bu zenginlik keşfedilebilir.\nBu parçada hangi anlatım biçimi kullanılmıştır?",
+          "secenekler": [
+            "Öyküleme",
+            "Betimleme",
+            "Tartışma",
+            "Açıklama",
+            "Tanımlama"
+          ],
+          "dogruCevap": "Tartışma"
+        },
+        {
+          "soru": "Kışın doğa derin bir uykuya dalar, her yer bembeyaz bir örtüyle kaplanır. İlkbaharda ise ağaçlar çiçek açar, kuşlar cıvıldar, tabiat yeniden canlanır. Her mevsimin kendine özgü bir güzelliği vardır.\nBu parçada aşağıdaki düşünceyi geliştirme yollarından hangisi kullanılmıştır?",
+          "secenekler": [
+            "Örnekleme",
+            "Benzetme",
+            "Tanımlama",
+            "Karşılaştırma",
+            "Tanık gösterme"
+          ],
+          "dogruCevap": "Karşılaştırma"
+        },
+        {
+          "soru": "Kapıyı yavaşça araladım ve içeriye bir göz attım. Oda loş bir ışıkla aydınlanıyordu. Eski, ahşap masanın üzerinde duran kitaplar dikkatimi çekti. Sessizce içeri süzülüp kitaplara doğru yürüdüm. Merakla bir tanesini elime aldım.\nBu parçanın anlatımında hangi bakış açısı kullanılmıştır?",
+          "secenekler": [
+            "İlahi (Hakim) Bakış Açısı",
+            "Kahraman Bakış Açısı",
+            "Gözlemci Bakış Açısı",
+            "Çoğulcu Bakış Açısı",
+            "Yansıtıcı Bakış Açısı"
+          ],
+          "dogruCevap": "Kahraman Bakış Açısı"
+        }
+      ],
+      "Anlatımın Oluşması 3": [
+        {
+          "soru": "Umut, karanlık bir gecede yol gösteren bir yıldız gibidir. En zor anlarda bile insanın içini ısıtır, geleceğe dair inancını diri tutar.\nBu parçada soyut bir kavram olan 'umut' anlatılırken aşağıdaki düşünceyi geliştirme yollarından hangisine başvurulmuştur?",
+          "secenekler": [
+            "Tanık gösterme",
+            "Örnekleme",
+            "Somutlama",
+            "Sayısal verilerden yararlanma",
+            "Karşılaştırma"
+          ],
+          "dogruCevap": "Somutlama"
+        },
+        {
+          "soru": "Yaşlı kadın, pencerenin önündeki koltuğuna oturmuş, dışarıyı seyrediyordu. Elindeki örgü şişleri bir aşağı bir yukarı hareket ediyor, arada bir durup uzaklara dalıyordu. Yüzündeki çizgiler, geçen yılların hikayesini anlatır gibiydi.\nBu parçanın anlatımında hangi bakış açısı kullanılmıştır?",
+          "secenekler": [
+            "Kahraman Bakış Açısı",
+            "İlahi (Hakim) Bakış Açısı",
+            "Gözlemci Bakış Açısı",
+            "Ben Merkezli Bakış Açısı",
+            "Tanık Bakış Açısı"
+          ],
+          "dogruCevap": "Gözlemci Bakış Açısı"
+        },
+        {
+          "soru": "Ali, sınav sonucunu öğrendiğinde büyük bir hayal kırıklığı yaşadı; haftalardır bu sınava hazırlanmıştı ve daha iyi bir sonuç bekliyordu. O sırada annesi kapıdan onu izliyor, oğlunun üzüntüsünü derinden hissediyor ve onu nasıl teselli edeceğini düşünüyordu.\nBu parçanın anlatımında hangi bakış açısı kullanılmıştır?",
+          "secenekler": [
+            "Kahraman Bakış Açısı",
+            "İlahi (Hakim) Bakış Açısı",
+            "Gözlemci Bakış Açısı",
+            "Objektif Bakış Açısı",
+            "Sınırlı Bakış Açısı"
+          ],
+          "dogruCevap": "İlahi (Hakim) Bakış Açısı"
+        },
+        {
+          "soru": "Güneş Sistemi, merkezinde Güneş'in bulunduğu ve onun etrafında dönen gezegenler, cüce gezegenler, asteroitler, kuyruklu yıldızlar ve diğer gök cisimlerinden oluşan bir sistemdir. Samanyolu Galaksisi içinde yer alır ve bilinen sekiz gezegeni vardır: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs ve Neptün.\nBu parçanın yazılış amacı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Bir olayı oluş sırasına göre anlatmak",
+            "Okuyucuyu bir konuda ikna etmek",
+            "İzlenim kazandırmak",
+            "Bir kavramı tanımlamak",
+            "Bilgi vermek / Açıklama yapmak"
+          ],
+          "dogruCevap": "Bilgi vermek / Açıklama yapmak"
+        },
+        {
+          "soru": "Eski fotoğraflara bakmak, zaman makinesine binmek gibidir. O anlara geri döner, geçmişin soluğunu hissedersiniz. Şimdiki halinizle o zamanki halinizi karşılaştırır, ne kadar değiştiğinizi fark edersiniz.\nBu parçada aşağıdaki düşünceyi geliştirme yollarından hangileri kullanılmıştır?",
+          "secenekler": [
+            "Benzetme - Örnekleme",
+            "Karşılaştırma - Tanık gösterme",
+            "Benzetme - Karşılaştırma",
+            "Tanımlama - Sayısal veriler",
+            "Örnekleme - Tanımlama"
+          ],
+          "dogruCevap": "Benzetme - Karşılaştırma"
+        },
+        {
+          "soru": "İnternetin sadece zaman kaybı olduğunu söylemek büyük haksızlık olur. Doğru kullanıldığında, bilgiye ulaşmanın en hızlı yolu, farklı kültürleri tanımanın bir aracı ve hatta yeni beceriler öğrenmenin bir platformudur. Sorun internette değil, onu nasıl kullandığımızdadır.\nBu parçada hangi anlatım biçimi ağır basmaktadır?",
+          "secenekler": [
+            "Açıklama",
+            "Öyküleme",
+            "Betimleme",
+            "Tartışma",
+            "Tanımlama"
+          ],
+          "dogruCevap": "Tartışma"
+        },
+        {
+          "soru": "Kıyıya vuran dalgaların sesi kulakları okşuyordu. Tuzlu deniz kokusu genizleri yakıyor, güneşin sıcaklığı tende hissediliyordu. Uzakta, bembeyaz yelkenliler mavi suların üzerinde süzülüyordu.\nBu parçanın anlatımında aşağıdaki duyulardan hangisine başvurulmamıştır?",
+          "secenekler": [
+            "Görme",
+            "İşitme",
+            "Koklama",
+            "Dokunma",
+            "Tatma"
+          ],
+          "dogruCevap": "Tatma"
         }
       ],
       "Paragrafta Anlam": [
@@ -10990,6 +11789,85 @@
           "dogruCevap": "198"
         }
       ],
+      "Sayı Basamakları 2": [
+        {
+          "soru": "Üç basamaklı ABC sayısı, iki basamaklı AB sayısından 412 fazladır. Buna göre A + B + C toplamı kaçtır?",
+          "secenekler": [
+            "14",
+            "15",
+            "16",
+            "17",
+            "18"
+          ],
+          "dogruCevap": "16"
+        },
+        {
+          "soru": "Rakamları birbirinden farklı, üç basamaklı ABC sayısı için A = B + C koşulu sağlanmaktadır. Bu koşulu sağlayan en büyük ABC sayısı kaçtır?",
+          "secenekler": [
+            "981",
+            "972",
+            "963",
+            "853",
+            "761"
+          ],
+          "dogruCevap": "981"
+        },
+        {
+          "soru": "İki basamaklı AB ve BA sayılarının toplamı 132'dir. A>B olmak üzere, A-B farkı 4 ise, AB sayısı kaçtır?",
+          "secenekler": [
+            "73",
+            "84",
+            "95",
+            "62",
+            "51"
+          ],
+          "dogruCevap": "84"
+        },
+        {
+          "soru": "ABC üç basamaklı bir doğal sayıdır. A > B > C ve A + B + C = 14 koşullarını sağlayan kaç farklı ABC sayısı yazılabilir?",
+          "secenekler": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "dogruCevap": "8"
+        },
+        {
+          "soru": "Üç basamaklı RRR sayısı, rakamları farklı üç basamaklı ABC sayısının 3 katına eşittir. Bu koşulu sağlayan en küçük ABC sayısı kaçtır?",
+          "secenekler": [
+            "123",
+            "148",
+            "185",
+            "259",
+            "296"
+          ],
+          "dogruCevap": "148"
+        },
+        {
+          "soru": "Üç basamaklı bir ABC sayısının yüzler ve birler basamağı yer değiştirildiğinde (CBA sayısı) değeri 396 azalıyor. Bu koşulu sağlayan kaç farklı ABC sayısı vardır? (A≠0, C≠0)",
+          "secenekler": [
+            "40",
+            "45",
+            "50",
+            "54",
+            "60"
+          ],
+          "dogruCevap": "50"
+        },
+        {
+          "soru": "İki basamaklı AB sayısı, rakamları toplamının 6 katına eşittir. Bu koşulu sağlayan kaç farklı AB sayısı vardır?",
+          "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "dogruCevap": "1"
+        }
+      ],
       "Bölme ve Bölünebilme": [
         {
           "soru": "A sayısı 12 ile tam bölünebilmektedir. Aşağıdakilerden hangisi kesinlikle doğrudur?",
@@ -11045,6 +11923,85 @@
             "112"
           ],
           "dogruCevap": "92"
+        }
+      ],
+      "Bölme ve Bölünebilme 2": [
+        {
+          "soru": "Rakamları farklı dört basamaklı 5A3B sayısı 45 ile tam bölünebildiğine göre, A kaçtır?",
+          "secenekler": [
+            "1",
+            "4",
+            "6",
+            "8",
+            "9"
+          ],
+          "dogruCevap": "1"
+        },
+        {
+          "soru": "Bir A doğal sayısı 15 ile bölündüğünde bölüm B, kalan 7'dir. B sayısı 6 ile bölündüğünde kalan 4 olduğuna göre, A sayısının 9 ile bölümünden kalan kaçtır?",
+          "secenekler": [
+            "1",
+            "3",
+            "4",
+            "6",
+            "7"
+          ],
+          "dogruCevap": "4"
+        },
+        {
+          "soru": "2025^2025 sayısının 9 ile bölümünden kalan kaçtır?",
+          "secenekler": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "5"
+          ],
+          "dogruCevap": "0"
+        },
+        {
+          "soru": "Bir sepetteki güller 5'erli gruplandığında 3 gül, 6'şarlı gruplandığında ise 4 gül artmaktadır. Sepetteki gül sayısı 100'den fazla olduğuna göre, en az kaç gül vardır?",
+          "secenekler": [
+            "108",
+            "118",
+            "128",
+            "148",
+            "178"
+          ],
+          "dogruCevap": "118"
+        },
+        {
+          "soru": "25! + 26! sayısı aşağıdakilerden hangisine tam olarak bölünemez?",
+          "secenekler": [
+            "18",
+            "21",
+            "24",
+            "35",
+            "29"
+          ],
+          "dogruCevap": "29"
+        },
+        {
+          "soru": "A = 1! + 2! + 3! + ... + 50! olduğuna göre, A sayısının 12 ile bölümünden kalan kaçtır?",
+          "secenekler": [
+            "0",
+            "1",
+            "3",
+            "7",
+            "9"
+          ],
+          "dogruCevap": "9"
+        },
+        {
+          "soru": "Dört basamaklı A37B sayısı 15 ile bölündüğünde 8 kalanını vermektedir. Buna göre A'nın alabileceği değerler toplamı kaçtır?",
+          "secenekler": [
+            "15",
+            "18",
+            "21",
+            "24",
+            "27"
+          ],
+          "dogruCevap": "27"
         }
       ],
       "Asal Çarpanlara Ayırma": [
@@ -11146,6 +12103,85 @@
             "216"
           ],
           "dogruCevap": "108"
+        }
+      ],
+      "Asal Çarpanlara Ayırma 2": [
+        {
+          "soru": "A = 12ⁿ · 10ⁿ⁺¹ sayısının pozitif tam bölen sayısı 96 olduğuna göre, n kaçtır?",
+          "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "dogruCevap": "2"
+        },
+        {
+          "soru": "180 sayısının pozitif tam bölenlerinin toplamı kaçtır?",
+          "secenekler": [
+            "360",
+            "480",
+            "512",
+            "546",
+            "600"
+          ],
+          "dogruCevap": "546"
+        },
+        {
+          "soru": "72 sayısının asal olmayan tam sayı bölenlerinin sayısı kaçtır?",
+          "secenekler": [
+            "10",
+            "12",
+            "20",
+            "22",
+            "24"
+          ],
+          "dogruCevap": "22"
+        },
+        {
+          "soru": "A = 75 · x çarpımı bir tam kare olduğuna göre, x'in alabileceği en küçük pozitif tam sayı değeri kaçtır?",
+          "secenekler": [
+            "1",
+            "3",
+            "5",
+            "15",
+            "75"
+          ],
+          "dogruCevap": "3"
+        },
+        {
+          "soru": "48! sayısının sondan kaç basamağı sıfırdır?",
+          "secenekler": [
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "dogruCevap": "10"
+        },
+        {
+          "soru": "a ve b pozitif tam sayılardır. EBOB(a, b) = 6 ve a · b = 1080 olduğuna göre, a + b toplamı en az kaçtır?",
+          "secenekler": [
+            "60",
+            "66",
+            "78",
+            "102",
+            "186"
+          ],
+          "dogruCevap": "66"
+        },
+        {
+          "soru": "A = 2⁴ · 3³ · 5² sayısının pozitif çift tam bölen sayısı kaçtır?",
+          "secenekler": [
+            "12",
+            "24",
+            "36",
+            "48",
+            "60"
+          ],
+          "dogruCevap": "48"
         }
       ],
       "Rasyonel Sayılar": [
@@ -11260,6 +12296,85 @@
           "dogruCevap": "-1/12"
         }
       ],
+      "Rasyonel Sayılar 2": [
+        {
+          "soru": "3 + \\frac{2}{1 - \\frac{1}{2 + \\frac{1}{3}}} işleminin sonucu kaçtır?",
+          "secenekler": [
+            "5/2",
+            "7/2",
+            "9/2",
+            "11/2",
+            "13/2"
+          ],
+          "dogruCevap": "13/2"
+        },
+        {
+          "soru": "a = 0,4\\overline{9} ve b = 0,\\overline{27} olduğuna göre, \\frac{a+b}{a-b} işleminin sonucu kaçtır?",
+          "secenekler": [
+            "17/5",
+            "5/17",
+            "12/5",
+            "5/12",
+            "1"
+          ],
+          "dogruCevap": "17/5"
+        },
+        {
+          "soru": "x = -\\frac{10}{11}, y = -\\frac{100}{111}, z = -\\frac{1000}{1111} sayılarının doğru sıralanışı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "x < y < z",
+            "x < z < y",
+            "y < x < z",
+            "y < z < x",
+            "z < y < x"
+          ],
+          "dogruCevap": "x < y < z"
+        },
+        {
+          "soru": "\\frac{a}{b} = \\frac{2}{3} ve \\frac{b}{c} = \\frac{4}{5} olduğuna göre, \\frac{a+c}{b-a} ifadesinin değeri kaçtır?",
+          "secenekler": [
+            "23/4",
+            "11/4",
+            "7/4",
+            "23/8",
+            "15/4"
+          ],
+          "dogruCevap": "23/4"
+        },
+        {
+          "soru": "1 + \\frac{1}{1 + \\frac{1}{x+1}} = \\frac{8}{5} denklemini sağlayan x değeri kaçtır?",
+          "secenekler": [
+            "1/3",
+            "1/2",
+            "2/3",
+            "1",
+            "2"
+          ],
+          "dogruCevap": "1/2"
+        },
+        {
+          "soru": "\\frac{5}{6} ile \\frac{6}{7} sayıları arasında bulunan bir rasyonel sayı aşağıdakilerden hangisi olabilir?",
+          "secenekler": [
+            "11/13",
+            "4/5",
+            "7/8",
+            "10/11",
+            "13/15"
+          ],
+          "dogruCevap": "11/13"
+        },
+        {
+          "soru": "A = \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + ... sonsuz toplamının değeri kaçtır?",
+          "secenekler": [
+            "1/3",
+            "1/2",
+            "2/3",
+            "1",
+            "3/2"
+          ],
+          "dogruCevap": "1/2"
+        }
+      ],
       "Basit Eşitsizlikler": [
         {
           "soru": "0 ≤ x ≤ 5 aralığında, x² - 4x + 3 > 0 eşitsizliğini sağlayan tam sayı değerlerinin toplamı kaçtır?",
@@ -11370,6 +12485,85 @@
             "6"
           ],
           "dogruCevap": "3"
+        }
+      ],
+      "Basit Eşitsizlikler 2": [
+        {
+          "soru": "-5 < \\frac{2x - 1}{3} \\le 7 eşitsizliğini sağlayan kaç farklı x tam sayısı vardır?",
+          "secenekler": [
+            "16",
+            "17",
+            "18",
+            "19",
+            "20"
+          ],
+          "dogruCevap": "18"
+        },
+        {
+          "soru": "3x - 5 < x + 7 ve 2x + 1 \\ge 5 eşitsizlik sistemini sağlayan en küçük x tam sayısı kaçtır?",
+          "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "dogruCevap": "2"
+        },
+        {
+          "soru": "|3x - 6| \\le 12 eşitsizliğini sağlayan tam sayıların toplamı kaçtır?",
+          "secenekler": [
+            "15",
+            "18",
+            "21",
+            "24",
+            "28"
+          ],
+          "dogruCevap": "18"
+        },
+        {
+          "soru": "\\frac{x-2}{5-x} \\ge 0 eşitsizliğini sağlayan kaç farklı x tam sayısı vardır?",
+          "secenekler": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "dogruCevap": "3"
+        },
+        {
+          "soru": "x ve y reel sayılardır. -3 < x < 5 ve -4 < y < 2 olduğuna göre, 2x - 3y ifadesinin alabileceği en büyük tam sayı değeri kaçtır?",
+          "secenekler": [
+            "18",
+            "19",
+            "20",
+            "21",
+            "22"
+          ],
+          "dogruCevap": "21"
+        },
+        {
+          "soru": "x ve y reel sayılardır. -4 \\le x < 3 ve -2 < y \\le 5 olduğuna göre, x² + y² ifadesinin alabileceği en büyük tam sayı değeri kaçtır?",
+          "secenekler": [
+            "29",
+            "34",
+            "40",
+            "41",
+            "45"
+          ],
+          "dogruCevap": "41"
+        },
+        {
+          "soru": "a² < a olduğuna göre, 5a + 3 ifadesinin alabileceği kaç farklı tam sayı değeri vardır?",
+          "secenekler": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "dogruCevap": "4"
         }
       ],
       "Mutlak Değer": [
@@ -11484,6 +12678,85 @@
           "dogruCevap": "0"
         }
       ],
+      "Mutlak Değer 2": [
+        {
+          "soru": "||x - 3| - 5| = 2 denklemini sağlayan x değerlerinin toplamı kaçtır?",
+          "secenekler": [
+            "6",
+            "8",
+            "10",
+            "12",
+            "14"
+          ],
+          "dogruCevap": "12"
+        },
+        {
+          "soru": "A = |x+5| + |x-1| + |x-8| ifadesinin alabileceği en küçük değer kaçtır?",
+          "secenekler": [
+            "10",
+            "11",
+            "12",
+            "13",
+            "14"
+          ],
+          "dogruCevap": "13"
+        },
+        {
+          "soru": "|\\frac{4}{x-2}| \\ge 2 eşitsizliğini sağlayan sıfırdan farklı kaç tane x tam sayısı vardır?",
+          "secenekler": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "dogruCevap": "3"
+        },
+        {
+          "soru": "|x-a| = 5 denkleminin kökler toplamı 12 olduğuna göre, a kaçtır?",
+          "secenekler": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "dogruCevap": "6"
+        },
+        {
+          "soru": "x < 0 olmak üzere, |2x - |x|| + 3x ifadesinin eşiti nedir?",
+          "secenekler": [
+            "0",
+            "x",
+            "-x",
+            "2x",
+            "-2x"
+          ],
+          "dogruCevap": "0"
+        },
+        {
+          "soru": "|x+3| > |x-5| eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "x < 1",
+            "x > 1",
+            "x < -1",
+            "x > -1",
+            "x > 4"
+          ],
+          "dogruCevap": "x > 1"
+        },
+        {
+          "soru": "x < y < 0 olmak üzere, |x-y| + |y+x| - |x| ifadesinin eşiti aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "-x",
+            "x",
+            "-y",
+            "y",
+            "2y-x"
+          ],
+          "dogruCevap": "-x"
+        }
+      ],
       "Üslü Sayılar": [
         {
           "soru": "(2^x)^3 = 64 eşitliğini sağlayan x değeri kaçtır?",
@@ -11596,6 +12869,85 @@
           "dogruCevap": "2.5"
         }
       ],
+      "Üslü Sayılar 2": [
+        {
+          "soru": "\\frac{3^{x+2} + 3^x}{3^{x+1} - 3^{x-1}} işleminin sonucu kaçtır?",
+          "secenekler": [
+            "3",
+            "4",
+            "9/8",
+            "15/4",
+            "5/2"
+          ],
+          "dogruCevap": "15/4"
+        },
+        {
+          "soru": "2^x = a ve 3^x = b olduğuna göre, 72^x ifadesinin a ve b türünden eşiti nedir?",
+          "secenekler": [
+            "a²b³",
+            "a³b²",
+            "a²b²",
+            "a³b³",
+            "ab⁶"
+          ],
+          "dogruCevap": "a³b²"
+        },
+        {
+          "soru": "2^(a-b) = 8 ve 2^(a+b) = 128 olduğuna göre, a² - b² kaçtır?",
+          "secenekler": [
+            "10",
+            "15",
+            "21",
+            "24",
+            "32"
+          ],
+          "dogruCevap": "21"
+        },
+        {
+          "soru": "(\\frac{2}{3})^{2x-5} < (\\frac{9}{4})^{x-3} eşitsizliğini sağlayan en küçük x tam sayısı kaçtır?",
+          "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "dogruCevap": "3"
+        },
+        {
+          "soru": "a = 2⁷⁵, b = 3⁵⁰, c = 5²⁵ sayılarının doğru sıralanışı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "a < b < c",
+            "a < c < b",
+            "c < a < b",
+            "c < b < a",
+            "b < a < c"
+          ],
+          "dogruCevap": "c < a < b"
+        },
+        {
+          "soru": "(0.25)²⁻ˣ = 8ˣ⁺¹ denklemini sağlayan x değeri kaçtır?",
+          "secenekler": [
+            "-3",
+            "-4",
+            "-5",
+            "-6",
+            "-7"
+          ],
+          "dogruCevap": "-7"
+        },
+        {
+          "soru": "2ˣ + 2ˣ⁺¹ + 2ˣ⁺² = 112 olduğuna göre, x kaçtır?",
+          "secenekler": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "dogruCevap": "4"
+        }
+      ],
       "Köklü Sayılar": [
         {
           "soru": "√75 + √27 ifadesi sadeleştirildiğinde elde edilen sonuç nedir?",
@@ -11684,6 +13036,85 @@
             "5 + 2√6"
           ],
           "dogruCevap": "5+2√6"
+        }
+      ],
+      "Köklü Sayılar 2": [
+        {
+          "soru": "\\sqrt{7 - 2\\sqrt{12}} ifadesinin eşiti aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "2 - \\sqrt{3}",
+            "\\sqrt{3} - 2",
+            "1",
+            "2 + \\sqrt{3}",
+            "\\sqrt{7} - \\sqrt{12}"
+          ],
+          "dogruCevap": "2 - \\sqrt{3}"
+        },
+        {
+          "soru": "\\sqrt[3]{4 \\sqrt{4}} işleminin sonucu kaçtır?",
+          "secenekler": [
+            "\\sqrt{2}",
+            "2",
+            "2\\sqrt{2}",
+            "4",
+            "\\sqrt[3]{16}"
+          ],
+          "dogruCevap": "2"
+        },
+        {
+          "soru": "\\frac{6}{\\sqrt[3]{9}} ifadesinin eşiti aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "2\\sqrt[3]{3}",
+            "3\\sqrt[3]{3}",
+            "2\\sqrt[3]{9}",
+            "6\\sqrt[3]{3}",
+            "18\\sqrt[3]{3}"
+          ],
+          "dogruCevap": "2\\sqrt[3]{3}"
+        },
+        {
+          "soru": "\\frac{\\sqrt{48} + \\sqrt{75}}{\\sqrt{108} - \\sqrt{27}} işleminin sonucu kaçtır?",
+          "secenekler": [
+            "1",
+            "\\sqrt{3}",
+            "3",
+            "3\\sqrt{3}",
+            "9"
+          ],
+          "dogruCevap": "3"
+        },
+        {
+          "soru": "a = \\sqrt{5}, b = \\sqrt[3]{11}, c = \\sqrt[6]{120} sayılarının doğru sıralanışı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "a < b < c",
+            "a < c < b",
+            "b < a < c",
+            "b < c < a",
+            "c < b < a"
+          ],
+          "dogruCevap": "c < b < a"
+        },
+        {
+          "soru": "2 < x < 3 olmak üzere, \\sqrt{x² - 4x + 4} + \\sqrt{x² - 6x + 9} ifadesinin eşiti nedir?",
+          "secenekler": [
+            "1",
+            "2x-5",
+            "5-2x",
+            "2x+1",
+            "-1"
+          ],
+          "dogruCevap": "1"
+        },
+        {
+          "soru": "\\sqrt{x + \\sqrt{x-4}} = 2 denklemini sağlayan x değeri kaçtır?",
+          "secenekler": [
+            "4",
+            "5",
+            "8",
+            "16",
+            "Çözüm Yok"
+          ],
+          "dogruCevap": "4"
         }
       ],
       "Çarpanlara Ayırma": [
@@ -11798,6 +13229,85 @@
           "dogruCevap": "(x - 4)(x + 2) ; -8"
         }
       ],
+      "Çarpanlara Ayırma 2": [
+        {
+          "soru": "\\frac{x³ + 2x² - 3x}{x² + 3x} ÷ \\frac{x² - 1}{x+1} ifadesinin en sade şekli aşağıdakilerden hangisidir? (x≠0, x≠-1, x≠-3)",
+          "secenekler": [
+            "1",
+            "x",
+            "x-1",
+            "x+1",
+            "\\frac{x-1}{x}"
+          ],
+          "dogruCevap": "1"
+        },
+        {
+          "soru": "\\frac{a³ - 8}{a² + 2a + 4} · \\frac{a+1}{a² - a - 2} ifadesinin en sade şekli nedir? (a≠2, a≠-1)",
+          "secenekler": [
+            "1",
+            "a-2",
+            "a+1",
+            "\\frac{1}{a-2}",
+            "\\frac{a³-8}{a²-a-2}"
+          ],
+          "dogruCevap": "1"
+        },
+        {
+          "soru": "x + \\frac{1}{x} = 4 olduğuna göre, x³ + \\frac{1}{x³} ifadesinin değeri kaçtır?",
+          "secenekler": [
+            "48",
+            "52",
+            "56",
+            "60",
+            "64"
+          ],
+          "dogruCevap": "52"
+        },
+        {
+          "soru": "x⁴ - 5x² + 4 ifadesinin çarpanlarından biri aşağıdakilerden hangisi değildir?",
+          "secenekler": [
+            "x-1",
+            "x+1",
+            "x-2",
+            "x+2",
+            "x-4"
+          ],
+          "dogruCevap": "x-4"
+        },
+        {
+          "soru": "a² - b² + 4b - 4 ifadesinin çarpanlarından biri aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "a+b",
+            "a-b",
+            "a-b-2",
+            "a+b-2",
+            "a+b+2"
+          ],
+          "dogruCevap": "a+b-2"
+        },
+        {
+          "soru": "x ≠ y olmak üzere, \\frac{x²}{x-y} + \\frac{y²}{y-x} ifadesinin eşiti aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "x-y",
+            "x+y",
+            "x²+y²",
+            "1",
+            "\\frac{x²+y²}{x-y}"
+          ],
+          "dogruCevap": "x+y"
+        },
+        {
+          "soru": "x² + y² - 8x + 6y + 25 = 0 denklemini sağlayan x ve y gerçel sayıları için x · y çarpımı kaçtır?",
+          "secenekler": [
+            "12",
+            "-12",
+            "7",
+            "-7",
+            "0"
+          ],
+          "dogruCevap": "-12"
+        }
+      ],
       "Denklem Çözme": [
         {
           "soru": "x² - 7x + 10 = 0 denkleminin kökleri nedir?",
@@ -11910,6 +13420,85 @@
           "dogruCevap": "x = 0 veya x = 2"
         }
       ],
+      "Denklem Çözme 2": [
+        {
+          "soru": "x² - y² = 24 ve x + y = 6 denklem sistemini sağlayan x ve y değerleri için x · y çarpımı kaçtır?",
+          "secenekler": [
+            "4",
+            "5",
+            "6",
+            "8",
+            "9"
+          ],
+          "dogruCevap": "5"
+        },
+        {
+          "soru": "|x² - 4| = 3x denkleminin çözüm kümesi kaç elemanlıdır?",
+          "secenekler": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "dogruCevap": "2"
+        },
+        {
+          "soru": "x² - (m+1)x + 8 = 0 denkleminin kökleri x₁ ve x₂'dir. x₁ = x₂² olduğuna göre, m kaçtır?",
+          "secenekler": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "dogruCevap": "5"
+        },
+        {
+          "soru": "(x² - x - 1)² - 3(x² - x - 1) - 4 = 0 denkleminin farklı gerçel köklerinin toplamı kaçtır?",
+          "secenekler": [
+            "-1",
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "dogruCevap": "2"
+        },
+        {
+          "soru": "\\sqrt{3x+1} - \\sqrt{x-1} = 2 denkleminin çözüm kümesi aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "{1}",
+            "{5}",
+            "{1, 5}",
+            "{0, 5}",
+            "∅"
+          ],
+          "dogruCevap": "{1, 5}"
+        },
+        {
+          "soru": "Bir kumbarada 25 kuruşluk ve 50 kuruşluk madeni paralardan toplam 40 adet bulunmaktadır. Kumbaradaki toplam para tutarı 13 TL olduğuna göre, kaç tane 50 kuruşluk madeni para vardır? (1 TL = 100 Kr)",
+          "secenekler": [
+            "10",
+            "12",
+            "15",
+            "18",
+            "20"
+          ],
+          "dogruCevap": "12"
+        },
+        {
+          "soru": "\\frac{x² - 9}{x-3} = x+k denklemi x=3 dışında tüm gerçel sayılar için sağlandığına göre, k kaçtır?",
+          "secenekler": [
+            "-3",
+            "0",
+            "1",
+            "3",
+            "9"
+          ],
+          "dogruCevap": "3"
+        }
+      ],
       "Fonksiyonlar": [
         {
           "soru": "f(3x + 1) = x² - 3x olduğuna göre, f(7) değeri kaçtır?",
@@ -12011,6 +13600,85 @@
           "dogruCevap": "3"
         }
       ],
+      "Fonksiyonlar 2": [
+        {
+          "soru": "f(x) = 2x - 3 ve g(x) = x² + 1 fonksiyonları veriliyor. (g o f)(2) değeri kaçtır?",
+          "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "dogruCevap": "2"
+        },
+        {
+          "soru": "f(x) = \\frac{3x - 1}{x + 2} fonksiyonunun tersi f⁻¹(x) aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "\\frac{2x+1}{3-x}",
+            "\\frac{2x-1}{x+3}",
+            "\\frac{3x+1}{x-2}",
+            "\\frac{x+2}{3x-1}",
+            "\\frac{x-2}{3x+1}"
+          ],
+          "dogruCevap": "\\frac{2x+1}{3-x}"
+        },
+        {
+          "soru": "f(x) = x+3 ve g(x) = 2x-5 fonksiyonları için (g o f)(a) = 7 eşitliğini sağlayan a değeri kaçtır?",
+          "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "dogruCevap": "3"
+        },
+        {
+          "soru": "f(x) tek fonksiyon ve g(x) çift fonksiyondur. f(-2)=5 ve g(-3)=4 olduğuna göre, f(2) + g(3) toplamı kaçtır?",
+          "secenekler": [
+            "-9",
+            "-1",
+            "1",
+            "9",
+            "Bilinemez"
+          ],
+          "dogruCevap": "-1"
+        },
+        {
+          "soru": "f(x) = \\begin{cases} x² + 1, & x < 1 \\\\ 3x - 2, & x \\ge 1 \\end{cases} fonksiyonu veriliyor. Buna göre, f(0) + f(3) toplamı kaçtır?",
+          "secenekler": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+          ],
+          "dogruCevap": "8"
+        },
+        {
+          "soru": "f(x) = \\sqrt{12 - 3x} + \\frac{1}{x-2} fonksiyonunun en geniş tanım kümesi aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "(-∞, 4]",
+            "(-∞, 4) - {2}",
+            "(-∞, 2) ∪ (2, 4]",
+            "[2, 4]",
+            "(2, 4]"
+          ],
+          "dogruCevap": "(-∞, 2) ∪ (2, 4]"
+        },
+        {
+          "soru": "Gerçel sayılarda tanımlı f fonksiyonu f(a + b) = f(a) + f(b) özelliğini sağlamaktadır. f(3) = 9 olduğuna göre, f(5) kaçtır?",
+          "secenekler": [
+            "12",
+            "15",
+            "18",
+            "24",
+            "27"
+          ],
+          "dogruCevap": "15"
+        }
+      ],
       "Oran-Orantı": [
         {
           "soru": "Toplamları 96 olan iki sayıdan birinin 5 katı, diğerinin 3 katına eşittir. Buna göre, bu sayıların farkının mutlak değeri kaçtır?",
@@ -12110,6 +13778,118 @@
             "150"
           ],
           "dogruCevap": "150"
+        }
+      ],
+      "Oran-Orantı 2": [
+        {
+          "soru": "Bir haritadaki 5 cm'lik uzunluk, gerçekte 15 km'ye karşılık gelmektedir. Bu haritada iki şehir arasındaki mesafe 8 cm ise, gerçekte bu iki şehir arasındaki mesafe kaç km'dir?",
+          "secenekler": [
+            "18",
+            "24",
+            "30",
+            "36",
+            "42"
+          ],
+          "dogruCevap": "24"
+        },
+        {
+          "soru": "Bir musluk bir havuzu 12 saatte, diğer bir musluk ise aynı havuzu 18 saatte doldurmaktadır. İki musluk birlikte açılırsa, havuz kaç saatte dolar?",
+          "secenekler": [
+            "6",
+            "7,2",
+            "8",
+            "9",
+            "10"
+          ],
+          "dogruCevap": "7,2"
+        },
+        {
+          "soru": "Bir işi 6 işçi 8 günde yapabilmektedir. Aynı işi 4 işçi kaç günde yapabilir?",
+          "secenekler": [
+            "9",
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "dogruCevap": "12"
+        },
+        {
+          "soru": "Bir araç 120 km'lik yolu 2 saatte gitmektedir. Aynı araç 180 km'lik yolu kaç saatte gider?",
+          "secenekler": [
+            "2,5",
+            "3",
+            "3,5",
+            "4",
+            "4,5"
+          ],
+          "dogruCevap": "3"
+        },
+        {
+          "soru": "Bir çiftlikteki koyunların sayısı keçilerin sayısının 3 katıdır. Çiftlikteki toplam hayvan sayısı 80 ise, kaç koyun vardır?",
+          "secenekler": [
+            "20",
+            "40",
+            "60",
+            "70",
+            "75"
+          ],
+          "dogruCevap": "60"
+        },
+        {
+          "soru": "Bir sınıftaki öğrencilerin 2/5'i kızdır. Sınıfta 18 erkek öğrenci olduğuna göre, toplam öğrenci sayısı kaçtır?",
+          "secenekler": [
+            "24",
+            "27",
+            "30",
+            "33",
+            "36"
+          ],
+          "dogruCevap": "30"
+        },
+        {
+          "soru": "Bir pastanın 1/3'ü çikolatalı, geri kalanı meyvelidir. Meyveli kısmın 1/4'ü elmalı olduğuna göre, pastanın kaçta kaçı elmalıdır?",
+          "secenekler": [
+            "1/6",
+            "1/8",
+            "1/12",
+            "1/16",
+            "1/24"
+          ],
+          "dogruCevap": "1/6"
+        },
+        {
+          "soru": "Bir havuzun 3/8'i su ile doludur. Havuza 15 litre daha su eklenirse, havuzun yarısı dolmuş oluyor. Havuzun tamamı kaç litre su alır?",
+          "secenekler": [
+            "40",
+            "60",
+            "80",
+            "100",
+            "120"
+          ],
+          "dogruCevap": "120"
+        },
+        {
+          "soru": "Bir karışımdaki A ve B maddelerinin oranları 2/3'tür. Karışımda 12 gram A maddesi olduğuna göre, kaç gram B maddesi vardır?",
+          "secenekler": [
+            "15",
+            "18",
+            "21",
+            "24",
+            "27"
+          ],
+          "dogruCevap": "18"
+        },
+        {
+          "soru": "Bir işçi bir işi 10 günde, diğer bir işçi ise aynı işi 15 günde yapabilmektedir. İkisi birlikte çalışırsa, iş kaç günde biter?",
+          "secenekler": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "dogruCevap": "6"
         }
       ]
     },
