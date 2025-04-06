@@ -4023,409 +4023,888 @@
           "dogruCevap": "10"
         }
       ],
-      "Deneme 6" : [
-          {
-            "soru": "1) Aşağıdaki cümlelerin hangisinde \"yol\" sözcüğü terim anlamı dışında kullanılmıştır?",
-            "secenekler": ["Tiyatroda sahne yolu daraltılmış.", "Bu matematik problemini çözmek için farklı bir yol izlemelisin.", "Dağlık bölgede yol çalışmaları devam ediyor.", "Şiirde imge yoluyla anlatım güçlendirilmiş.", "Yol kenarına park etmek yasaktır."],
-            "dogruCevap": "Bu matematik problemini çözmek için farklı bir yol izlemelisin."
-          },
-          {
-            "soru": "2) Aşağıdaki cümlelerin hangisinde hem koşul hem amaç ilişkisi bir arada verilmiştir?",
-            "secenekler": ["Kitap okumak için sessiz bir ortam arıyorum.", "Başarılı olmak istiyorsan düzenli çalışmalısın.", "Sağlıklı yaşamak için spor yapıyor ve dengeli besleniyor.", "Şehir dışına çıkmak üzere valizini hazırladı.", "Yağmur yağarsa pikniği iptal edeceğiz."],
-            "dogruCevap": "Sağlıklı yaşamak için spor yapıyor ve dengeli besleniyor."
-          },
-          {
-            "soru": "3) \"Bir edebî metni analiz ederken yalnızca yazarın hayatına odaklanmak, eseri sınırlandırmaktır...\" Bu parçada asıl vurgulanan düşünce nedir?",
-            "secenekler": ["Edebiyat eleştirisinde yazarın hayatı önemsizdir.", "Eserler evrensel değerlerle sınırlandırılamaz.", "Metin çözümlemesinde eserin iç yapısı önceliklidir.", "\"Suç ve Ceza\" evrensel bir başyapıttır.", "Yazar merkezli okuma hatalı bir yöntemdir."],
-            "dogruCevap": "Metin çözümlemesinde eserin iç yapısı önceliklidir."
-          },
-          {
-            "soru": "4) Aşağıdaki cümlelerin hangisinde \"dokunmak\" sözcüğü değinmek, temas etmek anlamında kullanılmamıştır?",
-            "secenekler": ["Konuşmasında hassas konulara dokundu.", "Resmi incelerken çerçeveye dokunma.", "Şiirinde yalnızlık temasına dokunmuş.", "Soğuk su tenime değdiğinde irkildim.", "Bu fikir bana çok dokunaklı geldi."],
-            "dogruCevap": "Bu fikir bana çok dokunaklı geldi."
-          },
-          {
-            "soru": "5) Aşağıdaki cümlelerin hangisinde öznellik ağır basmaktadır?",
-            "secenekler": ["İstanbul'un nüfusu 16 milyondur.", "Bu tablo, yağlı boya tekniğiyle yapılmıştır.", "Şairin son kitabı derin bir melankoli barındırıyor.", "Türkiye'nin en yüksek dağı Ağrı Dağı'dır.", "Toplantı saat 15.00'te başlayacak."],
-            "dogruCevap": "Şairin son kitabı derin bir melankoli barındırıyor."
-          },
-          {
-            "soru": "6) \"I. Sanatın işlevi üzerine tartışmalar hiç bitmez...\" Paragrafın bütünlüğünü bozan cümle hangisidir?",
-            "secenekler": ["I", "II", "III", "IV", "V"],
-            "dogruCevap": "IV"
-          },
-          {
-            "soru": "7) Aşağıdaki cümlelerin hangisinde \"düşmek\" sözcüğü aranan bir şeyi bulma anlamında kullanılmıştır?",
-            "secenekler": ["Masadan kalem yere düştü.", "Şansıma güzel bir iş düştü.", "Gözlerinden uyku dökülüyordu.", "Sınavda zor bir soruya düştüm.", "Fiyatlar düşünce talep arttı."],
-            "dogruCevap": "Şansıma güzel bir iş düştü."
-          },
-          {
-            "soru": "8) Aşağıdaki cümlelerin hangisinde eşitlik söz konusudur?",
-            "secenekler": ["Her öğrenci projeye eşit katkı sağladı.", "Bazıları diğerlerinden daha çok çalıştı.", "Toplantıda herkes fikrini belirtti.", "Sonuçlar beklediğimiz gibi çıkmadı.", "Bu işi bitirmek için üç kişi yeterli."],
-            "dogruCevap": "Her öğrenci projeye eşit katkı sağladı."
-          },
-          {
-            "soru": "9) \"I. Roman kahramanı, iç çatışmalarıyla boğuşan bir gençtir...\" Paragrafta hangi cümle düşünceyi değil olayı anlatır?",
-            "secenekler": ["I", "II", "III", "IV", "V"],
-            "dogruCevap": "IV"
-          },
-          {
-            "soru": "10) \"Eleştiri, sanatın gelişimine katkı sağlar...\" Bu parçada aşağıdakilerden hangisine değinilmemiştir?",
-            "secenekler": ["Eleştirinin işlevine", "Eleştirmenin tutumuna", "Sanatçıların özgünlük kaygısına", "Eserlerin bağlamsal değerlendirilmesine", "Eleştirinin olumsuz etkilerine"],
-            "dogruCevap": "Sanatçıların özgünlük kaygısına"
-          },
-          {
-            "soru": "11) Aşağıdaki cümlelerin hangisinde dolaylı anlatım kullanılmıştır?",
-            "secenekler": ["O, \"Gel\" dedi.", "O, git.", "O, geleceğini söyledi.", "O, geldi.", "O, konuştu."],
-            "dogruCevap": "O, geleceğini söyledi."
-          },
-          {
-            "soru": "12) Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanılmıştır?",
-            "secenekler": ["Şu anki mevcut durum", "Henüz başlamamıştı.", "Hızlı koştu.", "Sessizce konuştu.", "Dikkatle dinledi."],
-            "dogruCevap": "Şu anki mevcut durum"
-          },
-          {
-            "soru": "13) Edebiyatta \"metafor\" kavramı neyi ifade eder?",
-            "secenekler": ["Gerçek anlamı", "Benzetme yapmak", "Abartı yapmak", "Tam ifade etmek", "Açıklamak"],
-            "dogruCevap": "Benzetme yapmak"
-          },
-          {
-            "soru": "14) Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
-            "secenekler": ["Herşey yolunda görünüyor.", "Ankara'ya yarın gideceğim.", "Bu kitap oldukça etkileyiciydi.", "Toplantı saat 14.30'da başlayacak.", "Türk Dil Kurumu önemli bir kurumdur."],
-            "dogruCevap": "Herşey yolunda görünüyor."
-          },
-          {
-            "soru": "15) \"Kitap okumak, insanın ufkunu genişletir.\" cümlesindeki yüklem aşağıdakilerden hangisidir?",
-            "secenekler": ["Kitap okumak", "insanın", "ufkunu", "genişletir", "insanın ufkunu"],
-            "dogruCevap": "genişletir"
-          },
-          {
-            "soru": "16) Bir sayının 3 katının 5 fazlası, aynı sayının 4 katının 25 fazlasına eşittir. Bu sayı kaçtır?",
-            "secenekler": ["-20", "-15", "-10", "-5", "5"],
-            "dogruCevap": "-20"
-          },
-          {
-            "soru": "17) Bir işi 6 işçi 12 günde bitiriyor. Aynı işi 8 işçi kaç günde bitirir?",
-            "secenekler": ["9", "8", "7", "6", "5"],
-            "dogruCevap": "9"
-          },
-          {
-            "soru": "18) Bir ürünün fiyatı önce %20 artırılıp sonra %30 indirim yapılıyor. Son durumda fiyat yüzde kaç değişmiştir?",
-            "secenekler": ["%10 artar", "%16 azalır", "%5 artar", "%10 azalır", "Değişmez"],
-            "dogruCevap": "%16 azalır"
-          },
-          {
-            "soru": "19) %40 tuz içeren 20 litre tuzlu suya, %10 tuz içeren 30 litre tuzlu su ekleniyor. Karışımın tuz oranı yüzde kaç olur?",
-            "secenekler": ["25", "22", "20", "18", "15"],
-            "dogruCevap": "22"
-          },
-          {
-            "soru": "20) A kenti ile B kenti arası 300 km'dir. Bir araç A'dan B'ye 60 km/sa hızla gidip 100 km/sa hızla dönüyor. Toplam süre kaç saattir?",
-            "secenekler": ["8", "9", "10", "11", "12"],
-            "dogruCevap": "8"
-          },
-          {
-            "soru": "21) 2x+3y=18 ve x−y=1 denklem sistemini sağlayan y değeri kaçtır?",
-            "secenekler": ["2", "3", "4", "5", "6"],
-            "dogruCevap": "3"
-          },
-          {
-            "soru": "22) Rakamları toplamı 11 olan iki basamaklı bir sayı vardır. Bu sayının 9 fazlası alındığında, sayının rakamları yer değiştiriyor. Bu sayı kaçtır?",
-            "secenekler": ["56", "47", "38", "29", "65"],
-            "dogruCevap": "56"
-          },
-          {
-            "soru": "23) Çevresi 60 cm olan bir karenin alanı kaç cm²'dir?",
-            "secenekler": ["225", "200", "180", "150", "125"],
-            "dogruCevap": "225"
-          },
-          {
-            "soru": "24) Bir babanın yaşı, oğlunun yaşının 3 katıdır. 5 yıl sonra yaşları toplamı 70 olacağına göre, baba bugün kaç yaşındadır?",
-            "secenekler": ["40", "45", "50", "55", "60"],
-            "dogruCevap": "45"
-          },
-          {
-            "soru": "25) ∣2x−6∣=10 denklemini sağlayan x değerlerinin toplamı kaçtır?",
-            "secenekler": ["6", "5", "4", "3", "2"],
-            "dogruCevap": "6"
-          },
-          {
-            "soru": "26) (5¹²−5¹¹) / 5¹⁰ işleminin sonucu kaçtır?",
-            "secenekler": ["5", "10", "15", "20", "25"],
-            "dogruCevap": "20"
-          },
-          {
-            "soru": "27) √0,25 + ³√27 - √16 işleminin sonucu kaçtır?",
-            "secenekler": ["-1,5", "-0,5", "0,5", "1,5", "2,5"],
-            "dogruCevap": "-0,5"
-          },
-          {
-            "soru": "28) x²−5x+6=0 denkleminin köklerinin toplamı kaçtır?",
-            "secenekler": ["5", "6", "7", "8", "9"],
-            "dogruCevap": "5"
-          },
-          {
-            "soru": "29) Beş basamaklı 34A2B sayısı 45 ile tam bölünebildiğine göre, A+B en fazla kaçtır?",
-            "secenekler": ["6", "7", "8", "9", "10"],
-            "dogruCevap": "9"
-          },
-          {
-            "soru": "30) Bir kutuda 4 mavi, 5 kırmızı ve 6 beyaz top vardır. En az kaç top çekilirse kesinlikle 3 farklı renkte top elde edilir?",
-            "secenekler": ["12", "11", "10", "9", "8"],
-            "dogruCevap": "12"
-          },
-          {
-            "soru": "31) Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde görülen sosyal yapı özelliklerinden biri değildir?",
-            "secenekler": ["Göçebe yaşam tarzı", "Aile yapısının temel sosyal birim olması", "Kadınların sosyal hayatta aktif rol alması", "Sınıf ayrımına dayalı katı toplumsal tabakalaşma", "Boy ve aşiret sistemine dayalı örgütlenme"],
-            "dogruCevap": "Sınıf ayrımına dayalı katı toplumsal tabakalaşma"
-          },
-          {
-            "soru": "32) Osmanlı Devleti'nde Divan-ı Hümayun'un başkanı aşağıdakilerden hangisidir?",
-            "secenekler": ["Padişah", "Sadrazam", "Şeyhülislam", "Kazasker", "Defterdar"],
-            "dogruCevap": "Sadrazam"
-          },
-          {
-            "soru": "33) Aşağıdakilerden hangisi Osmanlı Devleti'nde XVII. yüzyılda görülen gerileme belirtilerinden biri değildir?",
-            "secenekler": ["Tımar sisteminin bozulması", "Yeniçeri Ocağı'nın disiplininin bozulması", "Kapitülasyonların yaygınlaşması", "Merkezi otoritenin güçlenmesi", "Celali İsyanlarının artması"],
-            "dogruCevap": "Merkezi otoritenin güçlenmesi"
-          },
-          {
-            "soru": "34) Aşağıdakilerden hangisi Atatürk'ün eğitim alanında yaptığı inkılaplardan biri değildir?",
-            "secenekler": ["Tevhid-i Tedrisat Kanunu", "Harf İnkılabı", "Türk Tarih Kurumu'nun kurulması", "Türk Dil Kurumu'nun kurulması", "Medeni Kanun'un kabulü"],
-            "dogruCevap": "Medeni Kanun'un kabulü"
-          },
-          {
-            "soru": "35) Aşağıdakilerden hangisi Türkiye Cumhuriyeti'nin kuruluş sürecinde imzalanan antlaşmalardan biri değildir?",
-            "secenekler": ["Ankara Antlaşması", "Lozan Antlaşması", "Mudanya Ateşkes Antlaşması", "Sevr Antlaşması", "Montrö Boğazlar Sözleşmesi"],
-            "dogruCevap": "Sevr Antlaşması"
-          },
-          {
-            "soru": "36) Aşağıdakilerden hangisi II. Dünya Savaşı sonrası kurulan uluslararası örgütlerden biri değildir?",
-            "secenekler": ["Birleşmiş Milletler", "NATO", "Avrupa Ekonomik Topluluğu", "Milletler Cemiyeti", "Varşova Paktı"],
-            "dogruCevap": "Milletler Cemiyeti"
-          },
-          {
-            "soru": "37) Aşağıdakilerden hangisi Türkiye'nin 1950-1960 döneminde dış politikada yaşadığı gelişmelerden biri değildir?",
-            "secenekler": ["NATO'ya üye olması", "Kore Savaşı'na asker göndermesi", "Bağdat Paktı'na katılması", "Avrupa Ekonomik Topluluğu'na üye olması", "Balkan Paktı'nın kurulması"],
-            "dogruCevap": "Avrupa Ekonomik Topluluğu'na üye olması"
-          },
-          {
-            "soru": "38) Aşağıdakilerden hangisi Göktürk Devleti'nin siyasi yapısı hakkında bilgi veren en önemli yazılı kaynaktır?",
-            "secenekler": ["Orhun Yazıtları", "Divan-ı Lügati't-Türk", "Kutadgu Bilig", "Şecere-i Türk", "Cami'üt-Tevarih"],
-            "dogruCevap": "Orhun Yazıtları"
-          },
-          {
-            "soru": "39) Osmanlı Devleti'nde Tanzimat Fermanı'nın ilan edildiği padişah aşağıdakilerden hangisidir?",
-            "secenekler": ["II. Mahmut", "Abdülmecit", "Abdülaziz", "V. Murat", "II. Abdülhamit"],
-            "dogruCevap": "Abdülmecit"
-          },
-          {
-            "soru": "40) Aşağıdakilerden hangisi Soğuk Savaş döneminde Türkiye'nin dış politikasını etkileyen olaylardan biri değildir?",
-            "secenekler": ["Truman Doktrini", "Marshall Planı", "Kore Savaşı", "Küba Krizi", "Arap Baharı"],
-            "dogruCevap": "Arap Baharı"
-          },
-          {
-            "soru": "41) Türkiye'de aşağıdaki iklim tiplerinden hangisi görülmez?",
-            "secenekler": ["Akdeniz iklimi", "Karasal iklim", "Karadeniz iklimi", "Muson iklimi", "Geçiş iklimi"],
-            "dogruCevap": "Muson iklimi"
-          },
-          {
-            "soru": "42) Aşağıdakilerden hangisi Türkiye'nin önemli tektonik deprem kuşaklarından biri değildir?",
-            "secenekler": ["Kuzey Anadolu Fay Hattı", "Doğu Anadolu Fay Hattı", "Batı Anadolu Fay Sistemi", "Ege Graben Sistemi", "Toros Fay Hattı"],
-            "dogruCevap": "Toros Fay Hattı"
-          },
-          {
-            "soru": "43) Türkiye'de en fazla yağış alan bölge aşağıdakilerden hangisidir?",
-            "secenekler": ["Doğu Karadeniz", "Batı Karadeniz", "Akdeniz", "Ege", "Marmara"],
-            "dogruCevap": "Doğu Karadeniz"
-          },
-          {
-            "soru": "44) Aşağıdakilerden hangisi Türkiye'nin en büyük gölüdür?",
-            "secenekler": ["Tuz Gölü", "Beyşehir Gölü", "Eğirdir Gölü", "İznik Gölü", "Van Gölü"],
-            "dogruCevap": "Van Gölü"
-          },
-          {
-            "soru": "45) Türkiye'de nüfus yoğunluğunun en fazla olduğu bölge aşağıdakilerden hangisidir?",
-            "secenekler": ["Marmara Bölgesi", "Ege Bölgesi", "Akdeniz Bölgesi", "İç Anadolu Bölgesi", "Karadeniz Bölgesi"],
-            "dogruCevap": "Marmara Bölgesi"
-          },
-          {
-            "soru": "46) Aşağıdakilerden hangisi Türkiye'de en fazla üretilen tarım ürünüdür?",
-            "secenekler": ["Buğday", "Arpa", "Mısır", "Pamuk", "Çay"],
-            "dogruCevap": "Buğday"
-          },
-          {
-            "soru": "47) Türkiye'de aşağıdaki madenlerden hangisinin rezervi ve üretimi en fazladır?",
-            "secenekler": ["Demir", "Bakır", "Bor", "Krom", "Altın"],
-            "dogruCevap": "Bor"
-          },
-          {
-            "soru": "48) Aşağıdakilerden hangisi Türkiye'nin ihracatında en büyük paya sahip sektördür?",
-            "secenekler": ["Tarım", "Hayvancılık", "Madencilik", "Sanayi", "Turizm"],
-            "dogruCevap": "Sanayi"
-          },
-          {
-            "soru": "49) Pedagoji terimi hangi dil kökenine dayanmaktadır?",
-            "secenekler": ["Latince", "Yunanca", "Arapça", "Farsça", "İtalyanca"],
-            "dogruCevap": "Yunanca"
-          },
-          {
-            "soru": "50) Behaviorizm kuramına göre öğrenmede en önemli etken hangisidir?",
-            "secenekler": ["Bilinçaltı süreçleri", "Davranış tepkileri", "Sosyal etkileşimler", "Genetik faktörler", "Duygusal deneyimler"],
-            "dogruCevap": "Davranış tepkileri"
-          },
-          {
-            "soru": "51) Yapısalcılık (konstrüktivizm) öğrenme kuramına göre, birey bilgiyi nasıl kazanır?",
-            "secenekler": ["Pasif olarak öğrenerek", "Aktif olarak deneyim ve etkileşim ile yapılandırarak", "Sadece öğretmenin anlatımı ile", "Sadece tekrarla", "Rastgele ahenkle"],
-            "dogruCevap": "Aktif olarak deneyim ve etkileşim ile yapılandırarak"
-          },
-          {
-            "soru": "52) Piaget'nin bilişsel gelişim kuramında \"şema\" kavramı neyi ifade eder?",
-            "secenekler": ["Bilişsel yapı", "Duygusal tepki", "Sosyal normlar", "Motor beceri", "Bellek kapasitesi"],
-            "dogruCevap": "Bilişsel yapı"
-          },
-          {
-            "soru": "53) Eğitimde felsefi temeller arasında yer alan \"epistemoloji\" kavramı neyi kapsar?",
-            "secenekler": ["Bilgi felsefesini", "Etik değerleri", "Sosyal yapıların analizini", "Psikolojik gelişim süreçlerini", "Ekonomik modelleri"],
-            "dogruCevap": "Bilgi felsefesini"
-          },
-          {
-            "soru": "54) Eğitimde toplumsal temeller arasında yer alan \"sosyal ayrımcılık\" kavramı neyi ifade eder?",
-            "secenekler": ["Fırsat eşitliği", "Eğitimde eşitsizlik", "Öğrenci motivasyonunu", "Müfredat çeşitliliğini", "Öğretmen atamalarını"],
-            "dogruCevap": "Eğitimde eşitsizlik"
-          },
-          {
-            "soru": "55) Gelişim psikolojisi alanında, çocukluktan ergenliğe geçişte yaşanan değişimlere ne ad verilir?",
-            "secenekler": ["Bilişsel dönüşüm", "Fiziksel büyüme", "Psikoseksüel gelişim evreleri", "Duygusal istikrar", "Sosyal adaptasyon"],
-            "dogruCevap": "Psikoseksüel gelişim evreleri"
-          },
-          {
-            "soru": "56) Eğitimde ekonomik temel kavramlarından biri olan \"insan sermayesi\" neyi ifade eder?",
-            "secenekler": ["Fiziksel kaynaklar", "Doğal kaynakların verimli kullanımı", "Bireylerin bilgi ve beceri birikimini", "Teknolojik altyapıyı", "Maddi sermayeyi"],
-            "dogruCevap": "Bireylerin bilgi ve beceri birikimini"
-          },
-          {
-            "soru": "57) Türk Milli Eğitim Sistemi’nde ücretsiz ve zorunlu eğitim hangi yaş gruplarını kapsar?",
-            "secenekler": ["5-14 yaş", "6-14 yaş", "7-15 yaş", "6-12 yaş", "7-14 yaş"],
-            "dogruCevap": "6-14 yaş"
-          },
-          {
-            "soru": "58) Milli Eğitim Bakanlığı’nın temel görevlerinden biri aşağıdakilerden hangisidir?",
-            "secenekler": ["Öğretmen atamalarını gerçekleştirmek", "Sağlık hizmetlerini düzenlemek", "Adalet sistemini yönetmek", "Vergi politikalarını belirlemek", "Ekonomi politikalarını oluşturmak"],
-            "dogruCevap": "Öğretmen atamalarını gerçekleştirmek"
-          },
-          {
-            "soru": "59) Türk Milli Eğitim Sistemi'nde temel müfredatın belirlenmesinde en önemli kurum hangisidir?",
-            "secenekler": ["Milli Eğitim Bakanlığı", "Yükseköğretim Kurulu", "TBMM", "Yerel Yönetimler", "Özel Okullar Birliği"],
-            "dogruCevap": "Milli Eğitim Bakanlığı"
-          },
-          {
-            "soru": "60) Türk eğitim sisteminde \"özel eğitim\" uygulamaları hangi öğrenciler için yürütülür?",
-            "secenekler": ["Yüksek akademik başarı gösteren öğrenciler", "Engelli veya özel ihtiyaçları olan öğrenciler", "Sadece yetenekli öğrenciler", "Uluslararası öğrenci değişim programına katılanlar", "Sporcu öğrenciler"],
-            "dogruCevap": "Engelli veya özel ihtiyaçları olan öğrenciler"
-          },
-          {
-            "soru": "61) Türkiye Yüzyılı Maarif Modeli'nin temel hedeflerinden biri hangisidir?",
-            "secenekler": ["Eğitimde yerli ve milli değerlerin yeniden canlandırılması", "Öğrencilerin yurtdışı eğitimine yönlendirilmesi", "Özel okul sayısının artırılması", "Yalnızca sınav odaklı eğitim yapılması", "Tek dönemlik sınav sisteminin uygulanması"],
-            "dogruCevap": "Eğitimde yerli ve milli değerlerin yeniden canlandırılması"
-          },
-          {
-            "soru": "62) Türkiye Yüzyılı Maarif Modeli kapsamında, eğitim teknolojilerinin entegrasyonu hangi kavramla ifade edilir?",
-            "secenekler": ["Dijital dönüşüm", "Sanatsal dönüşüm", "Fiziksel dönüşüm", "Manuel eğitim", "Geleneksel erişim"],
-            "dogruCevap": "Dijital dönüşüm"
-          },
-          {
-            "soru": "63) Türkiye Yüzyılı Maarif Modeli'nin bir diğer önceliği hangisidir?",
-            "secenekler": ["Eğitimde kapsayıcılığın sağlanması", "Sınav sisteminin yoğunlaştırılması", "Öğrenci sayısının azaltılması", "Devlet okullarının kapatılması", "Özel sektör eğitimine öncelik verilmesi"],
-            "dogruCevap": "Eğitimde kapsayıcılığın sağlanması"
-          },
-          {
-            "soru": "64) Türkiye Yüzyılı Maarif Modeli’nde eğitimin temel unsurlarından biri olarak hangisine vurgu yapılır?",
-            "secenekler": ["Yalnızca akademik başarının ölçülmesi", "Eleştirel düşünme ve yaratıcılığın geliştirilmesi", "Sadece sınav başarısının ön planda olması", "Öğrenci sayısının artırılması", "Teknolojiye dayalı otomatik eğitim sistemleri"],
-            "dogruCevap": "Eleştirel düşünme ve yaratıcılığın geliştirilmesi"
-          },
-          {
-            "soru": "65) Eğitimde etik, aşağıdakilerden hangisini temel ilke olarak benimser?",
-            "secenekler": ["Bireysel çıkarların eğitimden üstün olması", "Doğruluk, tarafsızlık ve saygı", "Sadece sınav başarısının ön planda tutulması", "Öğretmenin materyali değiştirmeden aktarması", "Kişisel önyargıların yansıtılması"],
-            "dogruCevap": "Doğruluk, tarafsızlık ve saygı"
-          },
-          {
-            "soru": "66) Eğitim ve öğretimde etik bir davranış örneği aşağıdakilerden hangisidir?",
-            "secenekler": ["Öğrencinin başkasının ödevini kopyalaması", "Öğretmenin öğrenciye övgüde bulunması", "Adil bir değerlendirme yaparak tüm öğrencilere eşit davranılması", "Sınav sorularının gizliliğinin ihlal edilmesi", "Öğrenciler arasında ayrımcılık yapılması"],
-            "dogruCevap": "Adil bir değerlendirme yaparak tüm öğrencilere eşit davranılması"
-          },
-          {
-            "soru": "67) Eğitimde etik değerlerin geliştirilmesi için hangi uygulama alanı önemlidir?",
-            "secenekler": ["Sosyal medya kullanımının yasaklanması", "Mesleki etik kurallarının oluşturulması ve uygulanması", "Öğrenci kulüplerinin kapatılması", "Teknolojik materyallerin azaltılması", "Özel okulların denetlenmemesi"],
-            "dogruCevap": "Mesleki etik kurallarının oluşturulması ve uygulanması"
-          },
-          {
-            "soru": "68) Eğitim ve öğretimde etik ihlallerine örnek olarak aşağıdakilerden hangisi verilebilir?",
-            "secenekler": ["Adil değerlendirme yapmak", "Sınav sorularını paylaşmak", "Öğrencilerle profesyonel ilişki kurmak", "Müfredatın tüm öğrenciler için eşit uygulanması", "Öğrenci gizliliğine saygı göstermek"],
-            "dogruCevap": "Sınav sorularını paylaşmak"
-          },
-          {
-            "soru": "69) Eğitim teknolojileri kapsamında \"dijitalleşme\" kavramı neyi ifade eder?",
-            "secenekler": ["Öğrencilerin dijital cihazlar aracılığıyla eğitim materyallerine erişimini", "Yalnızca basılı materyallerin kullanımını", "Eski öğretim yöntemlerinin sürdürülmesini", "Manuel öğrenme yöntemlerine dönüşü", "Geleneksel tahta kullanımını"],
-            "dogruCevap": "Öğrencilerin dijital cihazlar aracılığıyla eğitim materyallerine erişimini"
-          },
-          {
-            "soru": "70) Eğitim ve öğretimde dijital dönüşümün etkin kullanımı için hangi kavram önemlidir?",
-            "secenekler": ["Dijital okuryazarlık", "Analog kullanım", "Manuel eğitim", "Geleneksel materyaller", "Sadece sınav odaklı eğitim"],
-            "dogruCevap": "Dijital okuryazarlık"
-          },
-          {
-            "soru": "71) Eğitim ve öğretimde kullanılan çevrimiçi öğrenme ortamlarına örnek olarak hangisi verilebilir?",
-            "secenekler": ["Moodle", "Microsoft Word", "Adobe Photoshop", "Excel", "PowerPoint"],
-            "dogruCevap": "Moodle"
-          },
-          {
-            "soru": "72) Modern eğitimde teknolojinin en önemli faydalarından biri nedir?",
-            "secenekler": ["Maliyet artışı", "Erişilebilirlik", "Geleneksel yöntem", "Azaltılmış etkileşim", "Yalnızca teorik bilgi"],
-            "dogruCevap": "Erişilebilirlik"
-          },
-          {
-            "soru": "73) Türkiye Cumhuriyeti Anayasası’nda eğitimin temel amacı olarak hangisi vurgulanmaz?",
-            "secenekler": ["Bireylerin eleştirel düşünce yeteneğinin geliştirilmesi", "Toplumsal barış ve huzurun sağlanması", "Ekonomik refahın artırılması", "Milli kültür ve değerlerin korunması", "Kişisel özgürlüğün temini"],
-            "dogruCevap": "Ekonomik refahın artırılması"
-          },
-          {
-            "soru": "74) Türkiye Cumhuriyeti Anayasası'na göre, devletin eğitim alanında üstlendiği temel yükümlülüklerden hangisi öne çıkar?",
-            "secenekler": ["Her seviyede eğitimi ücretsiz kılmak", "Özel sektör eğitimine öncelik vermek", "Herkese zorunlu ve ücretsiz temel eğitim sağlamak", "Yurtdışı eğitim programlarını genişletmek", "Sadece devlet okullarını desteklemek"],
-            "dogruCevap": "Herkese zorunlu ve ücretsiz temel eğitim sağlamak"
-          },
-          {
-            "soru": "75) 1739 Sayılı Milli Eğitim Temel Kanunu'nun temel amaç ve ilkelerinden hangisi yanlıştır?",
-            "secenekler": ["Milli birliğin ve beraberliğin sağlanması", "Eğitimin bilimsel temellere dayandırılması", "Çağdaşlaşma hedefinin güdülmesi", "Eğitim hizmetlerinin tamamen özel sektöre bırakılması", "Eğitimde fırsat eşitliğinin temin edilmesi"],
-            "dogruCevap": "Eğitim hizmetlerinin tamamen özel sektöre bırakılması"
-          },
-          {
-            "soru": "76) 1739 Sayılı Kanun çerçevesinde, devletin eğitimde öncelikli hedeflerinden biri aşağıdakilerden hangisidir?",
-            "secenekler": ["Öğrencilere yurtdışı eğitim fırsatlarının sağlanması", "Milli kültür ve değerlerin korunması", "Özel sektörün eğitimde belirleyici rol oynaması", "Öğrencilerin finansal desteklerinin artırılması", "Sadece akademik başarının ölçülmesi"],
-            "dogruCevap": "Milli kültür ve değerlerin korunması"
-          },
-          {
-            "soru": "77) 222 Sayılı İlköğretim ve Eğitim Kanunu kapsamında, devlet eğitim hizmetlerinin sunumuna ilişkin aşağıdakilerden hangisi kapsam dışı bırakılmıştır?",
-            "secenekler": ["Devlet okulları", "Anadolu İmam Hatip Liseleri", "Fen ve Teknoloji Liseleri", "Mesleki Eğitim Kursları", "Özel dershaneler"],
-            "dogruCevap": "Özel dershaneler"
-          },
-          {
-            "soru": "78) 7528 Sayılı Öğretmenlik Mesleği Kanunu'na göre, öğretmenlerin atanma ve terfi işlemleri hangi ilkeye dayanmaktadır?",
-            "secenekler": ["Liyakat, rekabet ve şeffaflık", "Yıllık performans değerlendirmesi", "Yerel tercihlerin belirleyiciliği", "Akademik dereceye bağlılık", "Öğrenci başarılarına göre derecelendirme"],
-            "dogruCevap": "Liyakat, rekabet ve şeffaflık"
-          },
-          {
-            "soru": "79) 222 Sayılı İlköğretim ve Eğitim Kanunu kapsamında müfredatın oluşturulmasında en kritik aşama aşağıdakilerden hangisidir?",
-            "secenekler": ["Temel hedeflerin belirlenmesi", "Öğrenci sınav sistemlerinin düzenlenmesi", "Öğretmen atama kriterlerinin geliştirilmesi", "Yerel yönetim onayının alınması", "Eğitim finansmanının planlanması"],
-            "dogruCevap": "Temel hedeflerin belirlenmesi"
-          },
-          {
-            "soru": "80) Türkiye Cumhuriyeti Anayasası'na göre, eğitimde fırsat eşitliğinin sağlanması yükümlülükleri arasında yer almayan uygulama hangisidir?",
-            "secenekler": ["Tüm bireylere eşit eğitim imkânı sunmak", "Ücretsiz ilköğretimi teminat altına almak", "Eğitim kaynaklarını adil dağıtmak", "Sadece seçkin öğrencilere burs vermek", "Zorunlu eğitim uygulamasını yürürlüğe koymak"],
-            "dogruCevap": "Sadece seçkin öğrencilere burs vermek"
-          }
-        ]
-      
+      "Deneme 6": [
+        {
+          "soru": "1) Aşağıdaki cümlelerin hangisinde \"yol\" sözcüğü terim anlamı dışında kullanılmıştır?",
+          "secenekler": [
+            "Tiyatroda sahne yolu daraltılmış.",
+            "Bu matematik problemini çözmek için farklı bir yol izlemelisin.",
+            "Dağlık bölgede yol çalışmaları devam ediyor.",
+            "Şiirde imge yoluyla anlatım güçlendirilmiş.",
+            "Yol kenarına park etmek yasaktır."
+          ],
+          "dogruCevap": "Bu matematik problemini çözmek için farklı bir yol izlemelisin."
+        },
+        {
+          "soru": "2) Aşağıdaki cümlelerin hangisinde hem koşul hem amaç ilişkisi bir arada verilmiştir?",
+          "secenekler": [
+            "Kitap okumak için sessiz bir ortam arıyorum.",
+            "Başarılı olmak istiyorsan düzenli çalışmalısın.",
+            "Sağlıklı yaşamak için spor yapıyor ve dengeli besleniyor.",
+            "Şehir dışına çıkmak üzere valizini hazırladı.",
+            "Yağmur yağarsa pikniği iptal edeceğiz."
+          ],
+          "dogruCevap": "Sağlıklı yaşamak için spor yapıyor ve dengeli besleniyor."
+        },
+        {
+          "soru": "3) \"Bir edebî metni analiz ederken yalnızca yazarın hayatına odaklanmak, eseri sınırlandırmaktır...\" Bu parçada asıl vurgulanan düşünce nedir?",
+          "secenekler": [
+            "Edebiyat eleştirisinde yazarın hayatı önemsizdir.",
+            "Eserler evrensel değerlerle sınırlandırılamaz.",
+            "Metin çözümlemesinde eserin iç yapısı önceliklidir.",
+            "\"Suç ve Ceza\" evrensel bir başyapıttır.",
+            "Yazar merkezli okuma hatalı bir yöntemdir."
+          ],
+          "dogruCevap": "Metin çözümlemesinde eserin iç yapısı önceliklidir."
+        },
+        {
+          "soru": "4) Aşağıdaki cümlelerin hangisinde \"dokunmak\" sözcüğü değinmek, temas etmek anlamında kullanılmamıştır?",
+          "secenekler": [
+            "Konuşmasında hassas konulara dokundu.",
+            "Resmi incelerken çerçeveye dokunma.",
+            "Şiirinde yalnızlık temasına dokunmuş.",
+            "Soğuk su tenime değdiğinde irkildim.",
+            "Bu fikir bana çok dokunaklı geldi."
+          ],
+          "dogruCevap": "Bu fikir bana çok dokunaklı geldi."
+        },
+        {
+          "soru": "5) Aşağıdaki cümlelerin hangisinde öznellik ağır basmaktadır?",
+          "secenekler": [
+            "İstanbul'un nüfusu 16 milyondur.",
+            "Bu tablo, yağlı boya tekniğiyle yapılmıştır.",
+            "Şairin son kitabı derin bir melankoli barındırıyor.",
+            "Türkiye'nin en yüksek dağı Ağrı Dağı'dır.",
+            "Toplantı saat 15.00'te başlayacak."
+          ],
+          "dogruCevap": "Şairin son kitabı derin bir melankoli barındırıyor."
+        },
+        {
+          "soru": "6) \"I. Sanatın işlevi üzerine tartışmalar hiç bitmez...\" Paragrafın bütünlüğünü bozan cümle hangisidir?",
+          "secenekler": [
+            "I",
+            "II",
+            "III",
+            "IV",
+            "V"
+          ],
+          "dogruCevap": "IV"
+        },
+        {
+          "soru": "7) Aşağıdaki cümlelerin hangisinde \"düşmek\" sözcüğü aranan bir şeyi bulma anlamında kullanılmıştır?",
+          "secenekler": [
+            "Masadan kalem yere düştü.",
+            "Şansıma güzel bir iş düştü.",
+            "Gözlerinden uyku dökülüyordu.",
+            "Sınavda zor bir soruya düştüm.",
+            "Fiyatlar düşünce talep arttı."
+          ],
+          "dogruCevap": "Şansıma güzel bir iş düştü."
+        },
+        {
+          "soru": "8) Aşağıdaki cümlelerin hangisinde eşitlik söz konusudur?",
+          "secenekler": [
+            "Her öğrenci projeye eşit katkı sağladı.",
+            "Bazıları diğerlerinden daha çok çalıştı.",
+            "Toplantıda herkes fikrini belirtti.",
+            "Sonuçlar beklediğimiz gibi çıkmadı.",
+            "Bu işi bitirmek için üç kişi yeterli."
+          ],
+          "dogruCevap": "Her öğrenci projeye eşit katkı sağladı."
+        },
+        {
+          "soru": "9) \"I. Roman kahramanı, iç çatışmalarıyla boğuşan bir gençtir...\" Paragrafta hangi cümle düşünceyi değil olayı anlatır?",
+          "secenekler": [
+            "I",
+            "II",
+            "III",
+            "IV",
+            "V"
+          ],
+          "dogruCevap": "IV"
+        },
+        {
+          "soru": "10) \"Eleştiri, sanatın gelişimine katkı sağlar...\" Bu parçada aşağıdakilerden hangisine değinilmemiştir?",
+          "secenekler": [
+            "Eleştirinin işlevine",
+            "Eleştirmenin tutumuna",
+            "Sanatçıların özgünlük kaygısına",
+            "Eserlerin bağlamsal değerlendirilmesine",
+            "Eleştirinin olumsuz etkilerine"
+          ],
+          "dogruCevap": "Sanatçıların özgünlük kaygısına"
+        },
+        {
+          "soru": "11) Aşağıdaki cümlelerin hangisinde dolaylı anlatım kullanılmıştır?",
+          "secenekler": [
+            "O, \"Gel\" dedi.",
+            "O, git.",
+            "O, geleceğini söyledi.",
+            "O, geldi.",
+            "O, konuştu."
+          ],
+          "dogruCevap": "O, geleceğini söyledi."
+        },
+        {
+          "soru": "12) Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanılmıştır?",
+          "secenekler": [
+            "Şu anki mevcut durum",
+            "Henüz başlamamıştı.",
+            "Hızlı koştu.",
+            "Sessizce konuştu.",
+            "Dikkatle dinledi."
+          ],
+          "dogruCevap": "Şu anki mevcut durum"
+        },
+        {
+          "soru": "13) Edebiyatta \"metafor\" kavramı neyi ifade eder?",
+          "secenekler": [
+            "Gerçek anlamı",
+            "Benzetme yapmak",
+            "Abartı yapmak",
+            "Tam ifade etmek",
+            "Açıklamak"
+          ],
+          "dogruCevap": "Benzetme yapmak"
+        },
+        {
+          "soru": "14) Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
+          "secenekler": [
+            "Herşey yolunda görünüyor.",
+            "Ankara'ya yarın gideceğim.",
+            "Bu kitap oldukça etkileyiciydi.",
+            "Toplantı saat 14.30'da başlayacak.",
+            "Türk Dil Kurumu önemli bir kurumdur."
+          ],
+          "dogruCevap": "Herşey yolunda görünüyor."
+        },
+        {
+          "soru": "15) \"Kitap okumak, insanın ufkunu genişletir.\" cümlesindeki yüklem aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Kitap okumak",
+            "insanın",
+            "ufkunu",
+            "genişletir",
+            "insanın ufkunu"
+          ],
+          "dogruCevap": "genişletir"
+        },
+        {
+          "soru": "16) Bir sayının 3 katının 5 fazlası, aynı sayının 4 katının 25 fazlasına eşittir. Bu sayı kaçtır?",
+          "secenekler": [
+            "-20",
+            "-15",
+            "-10",
+            "-5",
+            "5"
+          ],
+          "dogruCevap": "-20"
+        },
+        {
+          "soru": "17) Bir işi 6 işçi 12 günde bitiriyor. Aynı işi 8 işçi kaç günde bitirir?",
+          "secenekler": [
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ],
+          "dogruCevap": "9"
+        },
+        {
+          "soru": "18) Bir ürünün fiyatı önce %20 artırılıp sonra %30 indirim yapılıyor. Son durumda fiyat yüzde kaç değişmiştir?",
+          "secenekler": [
+            "%10 artar",
+            "%16 azalır",
+            "%5 artar",
+            "%10 azalır",
+            "Değişmez"
+          ],
+          "dogruCevap": "%16 azalır"
+        },
+        {
+          "soru": "19) %40 tuz içeren 20 litre tuzlu suya, %10 tuz içeren 30 litre tuzlu su ekleniyor. Karışımın tuz oranı yüzde kaç olur?",
+          "secenekler": [
+            "25",
+            "22",
+            "20",
+            "18",
+            "15"
+          ],
+          "dogruCevap": "22"
+        },
+        {
+          "soru": "20) A kenti ile B kenti arası 300 km'dir. Bir araç A'dan B'ye 60 km/sa hızla gidip 100 km/sa hızla dönüyor. Toplam süre kaç saattir?",
+          "secenekler": [
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "dogruCevap": "8"
+        },
+        {
+          "soru": "21) 2x+3y=18 ve x−y=1 denklem sistemini sağlayan y değeri kaçtır?",
+          "secenekler": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "dogruCevap": "3"
+        },
+        {
+          "soru": "22) Rakamları toplamı 11 olan iki basamaklı bir sayı vardır. Bu sayının 9 fazlası alındığında, sayının rakamları yer değiştiriyor. Bu sayı kaçtır?",
+          "secenekler": [
+            "56",
+            "47",
+            "38",
+            "29",
+            "65"
+          ],
+          "dogruCevap": "56"
+        },
+        {
+          "soru": "23) Çevresi 60 cm olan bir karenin alanı kaç cm²'dir?",
+          "secenekler": [
+            "225",
+            "200",
+            "180",
+            "150",
+            "125"
+          ],
+          "dogruCevap": "225"
+        },
+        {
+          "soru": "24) Bir babanın yaşı, oğlunun yaşının 3 katıdır. 5 yıl sonra yaşları toplamı 70 olacağına göre, baba bugün kaç yaşındadır?",
+          "secenekler": [
+            "40",
+            "45",
+            "50",
+            "55",
+            "60"
+          ],
+          "dogruCevap": "45"
+        },
+        {
+          "soru": "25) ∣2x−6∣=10 denklemini sağlayan x değerlerinin toplamı kaçtır?",
+          "secenekler": [
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ],
+          "dogruCevap": "6"
+        },
+        {
+          "soru": "26) (5¹²−5¹¹) / 5¹⁰ işleminin sonucu kaçtır?",
+          "secenekler": [
+            "5",
+            "10",
+            "15",
+            "20",
+            "25"
+          ],
+          "dogruCevap": "20"
+        },
+        {
+          "soru": "27) √0,25 + ³√27 - √16 işleminin sonucu kaçtır?",
+          "secenekler": [
+            "-1,5",
+            "-0,5",
+            "0,5",
+            "1,5",
+            "2,5"
+          ],
+          "dogruCevap": "-0,5"
+        },
+        {
+          "soru": "28) x²−5x+6=0 denkleminin köklerinin toplamı kaçtır?",
+          "secenekler": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "dogruCevap": "5"
+        },
+        {
+          "soru": "29) Beş basamaklı 34A2B sayısı 45 ile tam bölünebildiğine göre, A+B en fazla kaçtır?",
+          "secenekler": [
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "dogruCevap": "9"
+        },
+        {
+          "soru": "30) Bir kutuda 4 mavi, 5 kırmızı ve 6 beyaz top vardır. En az kaç top çekilirse kesinlikle 3 farklı renkte top elde edilir?",
+          "secenekler": [
+            "12",
+            "11",
+            "10",
+            "9",
+            "8"
+          ],
+          "dogruCevap": "12"
+        },
+        {
+          "soru": "31) Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde görülen sosyal yapı özelliklerinden biri değildir?",
+          "secenekler": [
+            "Göçebe yaşam tarzı",
+            "Aile yapısının temel sosyal birim olması",
+            "Kadınların sosyal hayatta aktif rol alması",
+            "Sınıf ayrımına dayalı katı toplumsal tabakalaşma",
+            "Boy ve aşiret sistemine dayalı örgütlenme"
+          ],
+          "dogruCevap": "Sınıf ayrımına dayalı katı toplumsal tabakalaşma"
+        },
+        {
+          "soru": "32) Osmanlı Devleti'nde Divan-ı Hümayun'un başkanı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Padişah",
+            "Sadrazam",
+            "Şeyhülislam",
+            "Kazasker",
+            "Defterdar"
+          ],
+          "dogruCevap": "Sadrazam"
+        },
+        {
+          "soru": "33) Aşağıdakilerden hangisi Osmanlı Devleti'nde XVII. yüzyılda görülen gerileme belirtilerinden biri değildir?",
+          "secenekler": [
+            "Tımar sisteminin bozulması",
+            "Yeniçeri Ocağı'nın disiplininin bozulması",
+            "Kapitülasyonların yaygınlaşması",
+            "Merkezi otoritenin güçlenmesi",
+            "Celali İsyanlarının artması"
+          ],
+          "dogruCevap": "Merkezi otoritenin güçlenmesi"
+        },
+        {
+          "soru": "34) Aşağıdakilerden hangisi Atatürk'ün eğitim alanında yaptığı inkılaplardan biri değildir?",
+          "secenekler": [
+            "Tevhid-i Tedrisat Kanunu",
+            "Harf İnkılabı",
+            "Türk Tarih Kurumu'nun kurulması",
+            "Türk Dil Kurumu'nun kurulması",
+            "Medeni Kanun'un kabulü"
+          ],
+          "dogruCevap": "Medeni Kanun'un kabulü"
+        },
+        {
+          "soru": "35) Aşağıdakilerden hangisi Türkiye Cumhuriyeti'nin kuruluş sürecinde imzalanan antlaşmalardan biri değildir?",
+          "secenekler": [
+            "Ankara Antlaşması",
+            "Lozan Antlaşması",
+            "Mudanya Ateşkes Antlaşması",
+            "Sevr Antlaşması",
+            "Montrö Boğazlar Sözleşmesi"
+          ],
+          "dogruCevap": "Sevr Antlaşması"
+        },
+        {
+          "soru": "36) Aşağıdakilerden hangisi II. Dünya Savaşı sonrası kurulan uluslararası örgütlerden biri değildir?",
+          "secenekler": [
+            "Birleşmiş Milletler",
+            "NATO",
+            "Avrupa Ekonomik Topluluğu",
+            "Milletler Cemiyeti",
+            "Varşova Paktı"
+          ],
+          "dogruCevap": "Milletler Cemiyeti"
+        },
+        {
+          "soru": "37) Aşağıdakilerden hangisi Türkiye'nin 1950-1960 döneminde dış politikada yaşadığı gelişmelerden biri değildir?",
+          "secenekler": [
+            "NATO'ya üye olması",
+            "Kore Savaşı'na asker göndermesi",
+            "Bağdat Paktı'na katılması",
+            "Avrupa Ekonomik Topluluğu'na üye olması",
+            "Balkan Paktı'nın kurulması"
+          ],
+          "dogruCevap": "Avrupa Ekonomik Topluluğu'na üye olması"
+        },
+        {
+          "soru": "38) Aşağıdakilerden hangisi Göktürk Devleti'nin siyasi yapısı hakkında bilgi veren en önemli yazılı kaynaktır?",
+          "secenekler": [
+            "Orhun Yazıtları",
+            "Divan-ı Lügati't-Türk",
+            "Kutadgu Bilig",
+            "Şecere-i Türk",
+            "Cami'üt-Tevarih"
+          ],
+          "dogruCevap": "Orhun Yazıtları"
+        },
+        {
+          "soru": "39) Osmanlı Devleti'nde Tanzimat Fermanı'nın ilan edildiği padişah aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "II. Mahmut",
+            "Abdülmecit",
+            "Abdülaziz",
+            "V. Murat",
+            "II. Abdülhamit"
+          ],
+          "dogruCevap": "Abdülmecit"
+        },
+        {
+          "soru": "40) Aşağıdakilerden hangisi Soğuk Savaş döneminde Türkiye'nin dış politikasını etkileyen olaylardan biri değildir?",
+          "secenekler": [
+            "Truman Doktrini",
+            "Marshall Planı",
+            "Kore Savaşı",
+            "Küba Krizi",
+            "Arap Baharı"
+          ],
+          "dogruCevap": "Arap Baharı"
+        },
+        {
+          "soru": "41) Türkiye'de aşağıdaki iklim tiplerinden hangisi görülmez?",
+          "secenekler": [
+            "Akdeniz iklimi",
+            "Karasal iklim",
+            "Karadeniz iklimi",
+            "Muson iklimi",
+            "Geçiş iklimi"
+          ],
+          "dogruCevap": "Muson iklimi"
+        },
+        {
+          "soru": "42) Aşağıdakilerden hangisi Türkiye'nin önemli tektonik deprem kuşaklarından biri değildir?",
+          "secenekler": [
+            "Kuzey Anadolu Fay Hattı",
+            "Doğu Anadolu Fay Hattı",
+            "Batı Anadolu Fay Sistemi",
+            "Ege Graben Sistemi",
+            "Toros Fay Hattı"
+          ],
+          "dogruCevap": "Toros Fay Hattı"
+        },
+        {
+          "soru": "43) Türkiye'de en fazla yağış alan bölge aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Doğu Karadeniz",
+            "Batı Karadeniz",
+            "Akdeniz",
+            "Ege",
+            "Marmara"
+          ],
+          "dogruCevap": "Doğu Karadeniz"
+        },
+        {
+          "soru": "44) Aşağıdakilerden hangisi Türkiye'nin en büyük gölüdür?",
+          "secenekler": [
+            "Tuz Gölü",
+            "Beyşehir Gölü",
+            "Eğirdir Gölü",
+            "İznik Gölü",
+            "Van Gölü"
+          ],
+          "dogruCevap": "Van Gölü"
+        },
+        {
+          "soru": "45) Türkiye'de nüfus yoğunluğunun en fazla olduğu bölge aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Marmara Bölgesi",
+            "Ege Bölgesi",
+            "Akdeniz Bölgesi",
+            "İç Anadolu Bölgesi",
+            "Karadeniz Bölgesi"
+          ],
+          "dogruCevap": "Marmara Bölgesi"
+        },
+        {
+          "soru": "46) Aşağıdakilerden hangisi Türkiye'de en fazla üretilen tarım ürünüdür?",
+          "secenekler": [
+            "Buğday",
+            "Arpa",
+            "Mısır",
+            "Pamuk",
+            "Çay"
+          ],
+          "dogruCevap": "Buğday"
+        },
+        {
+          "soru": "47) Türkiye'de aşağıdaki madenlerden hangisinin rezervi ve üretimi en fazladır?",
+          "secenekler": [
+            "Demir",
+            "Bakır",
+            "Bor",
+            "Krom",
+            "Altın"
+          ],
+          "dogruCevap": "Bor"
+        },
+        {
+          "soru": "48) Aşağıdakilerden hangisi Türkiye'nin ihracatında en büyük paya sahip sektördür?",
+          "secenekler": [
+            "Tarım",
+            "Hayvancılık",
+            "Madencilik",
+            "Sanayi",
+            "Turizm"
+          ],
+          "dogruCevap": "Sanayi"
+        },
+        {
+          "soru": "49) Pedagoji terimi hangi dil kökenine dayanmaktadır?",
+          "secenekler": [
+            "Latince",
+            "Yunanca",
+            "Arapça",
+            "Farsça",
+            "İtalyanca"
+          ],
+          "dogruCevap": "Yunanca"
+        },
+        {
+          "soru": "50) Behaviorizm kuramına göre öğrenmede en önemli etken hangisidir?",
+          "secenekler": [
+            "Bilinçaltı süreçleri",
+            "Davranış tepkileri",
+            "Sosyal etkileşimler",
+            "Genetik faktörler",
+            "Duygusal deneyimler"
+          ],
+          "dogruCevap": "Davranış tepkileri"
+        },
+        {
+          "soru": "51) Yapısalcılık (konstrüktivizm) öğrenme kuramına göre, birey bilgiyi nasıl kazanır?",
+          "secenekler": [
+            "Pasif olarak öğrenerek",
+            "Aktif olarak deneyim ve etkileşim ile yapılandırarak",
+            "Sadece öğretmenin anlatımı ile",
+            "Sadece tekrarla",
+            "Rastgele ahenkle"
+          ],
+          "dogruCevap": "Aktif olarak deneyim ve etkileşim ile yapılandırarak"
+        },
+        {
+          "soru": "52) Piaget'nin bilişsel gelişim kuramında \"şema\" kavramı neyi ifade eder?",
+          "secenekler": [
+            "Bilişsel yapı",
+            "Duygusal tepki",
+            "Sosyal normlar",
+            "Motor beceri",
+            "Bellek kapasitesi"
+          ],
+          "dogruCevap": "Bilişsel yapı"
+        },
+        {
+          "soru": "53) Eğitimde felsefi temeller arasında yer alan \"epistemoloji\" kavramı neyi kapsar?",
+          "secenekler": [
+            "Bilgi felsefesini",
+            "Etik değerleri",
+            "Sosyal yapıların analizini",
+            "Psikolojik gelişim süreçlerini",
+            "Ekonomik modelleri"
+          ],
+          "dogruCevap": "Bilgi felsefesini"
+        },
+        {
+          "soru": "54) Eğitimde toplumsal temeller arasında yer alan \"sosyal ayrımcılık\" kavramı neyi ifade eder?",
+          "secenekler": [
+            "Fırsat eşitliği",
+            "Eğitimde eşitsizlik",
+            "Öğrenci motivasyonunu",
+            "Müfredat çeşitliliğini",
+            "Öğretmen atamalarını"
+          ],
+          "dogruCevap": "Eğitimde eşitsizlik"
+        },
+        {
+          "soru": "55) Gelişim psikolojisi alanında, çocukluktan ergenliğe geçişte yaşanan değişimlere ne ad verilir?",
+          "secenekler": [
+            "Bilişsel dönüşüm",
+            "Fiziksel büyüme",
+            "Psikoseksüel gelişim evreleri",
+            "Duygusal istikrar",
+            "Sosyal adaptasyon"
+          ],
+          "dogruCevap": "Psikoseksüel gelişim evreleri"
+        },
+        {
+          "soru": "56) Eğitimde ekonomik temel kavramlarından biri olan \"insan sermayesi\" neyi ifade eder?",
+          "secenekler": [
+            "Fiziksel kaynaklar",
+            "Doğal kaynakların verimli kullanımı",
+            "Bireylerin bilgi ve beceri birikimini",
+            "Teknolojik altyapıyı",
+            "Maddi sermayeyi"
+          ],
+          "dogruCevap": "Bireylerin bilgi ve beceri birikimini"
+        },
+        {
+          "soru": "57) Türk Milli Eğitim Sistemi’nde ücretsiz ve zorunlu eğitim hangi yaş gruplarını kapsar?",
+          "secenekler": [
+            "5-14 yaş",
+            "6-14 yaş",
+            "7-15 yaş",
+            "6-12 yaş",
+            "7-14 yaş"
+          ],
+          "dogruCevap": "6-14 yaş"
+        },
+        {
+          "soru": "58) Milli Eğitim Bakanlığı’nın temel görevlerinden biri aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Öğretmen atamalarını gerçekleştirmek",
+            "Sağlık hizmetlerini düzenlemek",
+            "Adalet sistemini yönetmek",
+            "Vergi politikalarını belirlemek",
+            "Ekonomi politikalarını oluşturmak"
+          ],
+          "dogruCevap": "Öğretmen atamalarını gerçekleştirmek"
+        },
+        {
+          "soru": "59) Türk Milli Eğitim Sistemi'nde temel müfredatın belirlenmesinde en önemli kurum hangisidir?",
+          "secenekler": [
+            "Milli Eğitim Bakanlığı",
+            "Yükseköğretim Kurulu",
+            "TBMM",
+            "Yerel Yönetimler",
+            "Özel Okullar Birliği"
+          ],
+          "dogruCevap": "Milli Eğitim Bakanlığı"
+        },
+        {
+          "soru": "60) Türk eğitim sisteminde \"özel eğitim\" uygulamaları hangi öğrenciler için yürütülür?",
+          "secenekler": [
+            "Yüksek akademik başarı gösteren öğrenciler",
+            "Engelli veya özel ihtiyaçları olan öğrenciler",
+            "Sadece yetenekli öğrenciler",
+            "Uluslararası öğrenci değişim programına katılanlar",
+            "Sporcu öğrenciler"
+          ],
+          "dogruCevap": "Engelli veya özel ihtiyaçları olan öğrenciler"
+        },
+        {
+          "soru": "61) Türkiye Yüzyılı Maarif Modeli'nin temel hedeflerinden biri hangisidir?",
+          "secenekler": [
+            "Eğitimde yerli ve milli değerlerin yeniden canlandırılması",
+            "Öğrencilerin yurtdışı eğitimine yönlendirilmesi",
+            "Özel okul sayısının artırılması",
+            "Yalnızca sınav odaklı eğitim yapılması",
+            "Tek dönemlik sınav sisteminin uygulanması"
+          ],
+          "dogruCevap": "Eğitimde yerli ve milli değerlerin yeniden canlandırılması"
+        },
+        {
+          "soru": "62) Türkiye Yüzyılı Maarif Modeli kapsamında, eğitim teknolojilerinin entegrasyonu hangi kavramla ifade edilir?",
+          "secenekler": [
+            "Dijital dönüşüm",
+            "Sanatsal dönüşüm",
+            "Fiziksel dönüşüm",
+            "Manuel eğitim",
+            "Geleneksel erişim"
+          ],
+          "dogruCevap": "Dijital dönüşüm"
+        },
+        {
+          "soru": "63) Türkiye Yüzyılı Maarif Modeli'nin bir diğer önceliği hangisidir?",
+          "secenekler": [
+            "Eğitimde kapsayıcılığın sağlanması",
+            "Sınav sisteminin yoğunlaştırılması",
+            "Öğrenci sayısının azaltılması",
+            "Devlet okullarının kapatılması",
+            "Özel sektör eğitimine öncelik verilmesi"
+          ],
+          "dogruCevap": "Eğitimde kapsayıcılığın sağlanması"
+        },
+        {
+          "soru": "64) Türkiye Yüzyılı Maarif Modeli’nde eğitimin temel unsurlarından biri olarak hangisine vurgu yapılır?",
+          "secenekler": [
+            "Yalnızca akademik başarının ölçülmesi",
+            "Eleştirel düşünme ve yaratıcılığın geliştirilmesi",
+            "Sadece sınav başarısının ön planda olması",
+            "Öğrenci sayısının artırılması",
+            "Teknolojiye dayalı otomatik eğitim sistemleri"
+          ],
+          "dogruCevap": "Eleştirel düşünme ve yaratıcılığın geliştirilmesi"
+        },
+        {
+          "soru": "65) Eğitimde etik, aşağıdakilerden hangisini temel ilke olarak benimser?",
+          "secenekler": [
+            "Bireysel çıkarların eğitimden üstün olması",
+            "Doğruluk, tarafsızlık ve saygı",
+            "Sadece sınav başarısının ön planda tutulması",
+            "Öğretmenin materyali değiştirmeden aktarması",
+            "Kişisel önyargıların yansıtılması"
+          ],
+          "dogruCevap": "Doğruluk, tarafsızlık ve saygı"
+        },
+        {
+          "soru": "66) Eğitim ve öğretimde etik bir davranış örneği aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Öğrencinin başkasının ödevini kopyalaması",
+            "Öğretmenin öğrenciye övgüde bulunması",
+            "Adil bir değerlendirme yaparak tüm öğrencilere eşit davranılması",
+            "Sınav sorularının gizliliğinin ihlal edilmesi",
+            "Öğrenciler arasında ayrımcılık yapılması"
+          ],
+          "dogruCevap": "Adil bir değerlendirme yaparak tüm öğrencilere eşit davranılması"
+        },
+        {
+          "soru": "67) Eğitimde etik değerlerin geliştirilmesi için hangi uygulama alanı önemlidir?",
+          "secenekler": [
+            "Sosyal medya kullanımının yasaklanması",
+            "Mesleki etik kurallarının oluşturulması ve uygulanması",
+            "Öğrenci kulüplerinin kapatılması",
+            "Teknolojik materyallerin azaltılması",
+            "Özel okulların denetlenmemesi"
+          ],
+          "dogruCevap": "Mesleki etik kurallarının oluşturulması ve uygulanması"
+        },
+        {
+          "soru": "68) Eğitim ve öğretimde etik ihlallerine örnek olarak aşağıdakilerden hangisi verilebilir?",
+          "secenekler": [
+            "Adil değerlendirme yapmak",
+            "Sınav sorularını paylaşmak",
+            "Öğrencilerle profesyonel ilişki kurmak",
+            "Müfredatın tüm öğrenciler için eşit uygulanması",
+            "Öğrenci gizliliğine saygı göstermek"
+          ],
+          "dogruCevap": "Sınav sorularını paylaşmak"
+        },
+        {
+          "soru": "69) Eğitim teknolojileri kapsamında \"dijitalleşme\" kavramı neyi ifade eder?",
+          "secenekler": [
+            "Öğrencilerin dijital cihazlar aracılığıyla eğitim materyallerine erişimini",
+            "Yalnızca basılı materyallerin kullanımını",
+            "Eski öğretim yöntemlerinin sürdürülmesini",
+            "Manuel öğrenme yöntemlerine dönüşü",
+            "Geleneksel tahta kullanımını"
+          ],
+          "dogruCevap": "Öğrencilerin dijital cihazlar aracılığıyla eğitim materyallerine erişimini"
+        },
+        {
+          "soru": "70) Eğitim ve öğretimde dijital dönüşümün etkin kullanımı için hangi kavram önemlidir?",
+          "secenekler": [
+            "Dijital okuryazarlık",
+            "Analog kullanım",
+            "Manuel eğitim",
+            "Geleneksel materyaller",
+            "Sadece sınav odaklı eğitim"
+          ],
+          "dogruCevap": "Dijital okuryazarlık"
+        },
+        {
+          "soru": "71) Eğitim ve öğretimde kullanılan çevrimiçi öğrenme ortamlarına örnek olarak hangisi verilebilir?",
+          "secenekler": [
+            "Moodle",
+            "Microsoft Word",
+            "Adobe Photoshop",
+            "Excel",
+            "PowerPoint"
+          ],
+          "dogruCevap": "Moodle"
+        },
+        {
+          "soru": "72) Modern eğitimde teknolojinin en önemli faydalarından biri nedir?",
+          "secenekler": [
+            "Maliyet artışı",
+            "Erişilebilirlik",
+            "Geleneksel yöntem",
+            "Azaltılmış etkileşim",
+            "Yalnızca teorik bilgi"
+          ],
+          "dogruCevap": "Erişilebilirlik"
+        },
+        {
+          "soru": "73) Türkiye Cumhuriyeti Anayasası’nda eğitimin temel amacı olarak hangisi vurgulanmaz?",
+          "secenekler": [
+            "Bireylerin eleştirel düşünce yeteneğinin geliştirilmesi",
+            "Toplumsal barış ve huzurun sağlanması",
+            "Ekonomik refahın artırılması",
+            "Milli kültür ve değerlerin korunması",
+            "Kişisel özgürlüğün temini"
+          ],
+          "dogruCevap": "Ekonomik refahın artırılması"
+        },
+        {
+          "soru": "74) Türkiye Cumhuriyeti Anayasası'na göre, devletin eğitim alanında üstlendiği temel yükümlülüklerden hangisi öne çıkar?",
+          "secenekler": [
+            "Her seviyede eğitimi ücretsiz kılmak",
+            "Özel sektör eğitimine öncelik vermek",
+            "Herkese zorunlu ve ücretsiz temel eğitim sağlamak",
+            "Yurtdışı eğitim programlarını genişletmek",
+            "Sadece devlet okullarını desteklemek"
+          ],
+          "dogruCevap": "Herkese zorunlu ve ücretsiz temel eğitim sağlamak"
+        },
+        {
+          "soru": "75) 1739 Sayılı Milli Eğitim Temel Kanunu'nun temel amaç ve ilkelerinden hangisi yanlıştır?",
+          "secenekler": [
+            "Milli birliğin ve beraberliğin sağlanması",
+            "Eğitimin bilimsel temellere dayandırılması",
+            "Çağdaşlaşma hedefinin güdülmesi",
+            "Eğitim hizmetlerinin tamamen özel sektöre bırakılması",
+            "Eğitimde fırsat eşitliğinin temin edilmesi"
+          ],
+          "dogruCevap": "Eğitim hizmetlerinin tamamen özel sektöre bırakılması"
+        },
+        {
+          "soru": "76) 1739 Sayılı Kanun çerçevesinde, devletin eğitimde öncelikli hedeflerinden biri aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Öğrencilere yurtdışı eğitim fırsatlarının sağlanması",
+            "Milli kültür ve değerlerin korunması",
+            "Özel sektörün eğitimde belirleyici rol oynaması",
+            "Öğrencilerin finansal desteklerinin artırılması",
+            "Sadece akademik başarının ölçülmesi"
+          ],
+          "dogruCevap": "Milli kültür ve değerlerin korunması"
+        },
+        {
+          "soru": "77) 222 Sayılı İlköğretim ve Eğitim Kanunu kapsamında, devlet eğitim hizmetlerinin sunumuna ilişkin aşağıdakilerden hangisi kapsam dışı bırakılmıştır?",
+          "secenekler": [
+            "Devlet okulları",
+            "Anadolu İmam Hatip Liseleri",
+            "Fen ve Teknoloji Liseleri",
+            "Mesleki Eğitim Kursları",
+            "Özel dershaneler"
+          ],
+          "dogruCevap": "Özel dershaneler"
+        },
+        {
+          "soru": "78) 7528 Sayılı Öğretmenlik Mesleği Kanunu'na göre, öğretmenlerin atanma ve terfi işlemleri hangi ilkeye dayanmaktadır?",
+          "secenekler": [
+            "Liyakat, rekabet ve şeffaflık",
+            "Yıllık performans değerlendirmesi",
+            "Yerel tercihlerin belirleyiciliği",
+            "Akademik dereceye bağlılık",
+            "Öğrenci başarılarına göre derecelendirme"
+          ],
+          "dogruCevap": "Liyakat, rekabet ve şeffaflık"
+        },
+        {
+          "soru": "79) 222 Sayılı İlköğretim ve Eğitim Kanunu kapsamında müfredatın oluşturulmasında en kritik aşama aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Temel hedeflerin belirlenmesi",
+            "Öğrenci sınav sistemlerinin düzenlenmesi",
+            "Öğretmen atama kriterlerinin geliştirilmesi",
+            "Yerel yönetim onayının alınması",
+            "Eğitim finansmanının planlanması"
+          ],
+          "dogruCevap": "Temel hedeflerin belirlenmesi"
+        },
+        {
+          "soru": "80) Türkiye Cumhuriyeti Anayasası'na göre, eğitimde fırsat eşitliğinin sağlanması yükümlülükleri arasında yer almayan uygulama hangisidir?",
+          "secenekler": [
+            "Tüm bireylere eşit eğitim imkânı sunmak",
+            "Ücretsiz ilköğretimi teminat altına almak",
+            "Eğitim kaynaklarını adil dağıtmak",
+            "Sadece seçkin öğrencilere burs vermek",
+            "Zorunlu eğitim uygulamasını yürürlüğe koymak"
+          ],
+          "dogruCevap": "Sadece seçkin öğrencilere burs vermek"
+        }
+      ]
     },
     "Eğitim Temelleri": {
       "2017 Kpss Eğitim Bilimleri Çıkmış Sorular": [
@@ -7272,6 +7751,150 @@
             "İleriye ket vurma"
           ],
           "dogruCevap": "Olumsuz transfer"
+        }
+      ],
+      "Öğrenme Psikolojisi 2": [
+        {
+          "soru": "Beyaz bir fareden korkan bir çocuğun, zamanla beyaz tavşan, pamuk gibi beyaz ve tüylü nesnelerden de korkmaya başlaması hangi klasik koşullanma ilkesiyle açıklanır?",
+          "secenekler": [
+            "Uyarıcı genellemesi",
+            "Ayırt etme",
+            "Sönme",
+            "Koşullu tepki"
+          ],
+          "dogruCevap": "Uyarıcı genellemesi"
+        },
+        {
+          "soru": "Kumar makinelerinin insanları oynamaya devam etmeye teşvik etmesi, hangi pekiştirme tarifesiyle en iyi açıklanır?",
+          "secenekler": [
+            "Sabit oranlı",
+            "Değişken oranlı",
+            "Sabit aralıklı",
+            "Değişken aralıklı"
+          ],
+          "dogruCevap": "Değişken oranlı"
+        },
+        {
+          "soru": "Yeni taşındığı evin adresini öğrenmekte zorlanan bir kişinin, sürekli eski ev adresini hatırlaması hangi bellek olgusuyla ilgilidir?",
+          "secenekler": [
+            "İleriye ket vurma",
+            "Geriye ket vurma",
+            "Anlık unutma",
+            "Bastırma"
+          ],
+          "dogruCevap": "İleriye ket vurma"
+        },
+        {
+          "soru": "Bir öğrencinin dışsal bir ödül beklentisi olmaksızın, sadece öğrenmekten keyif aldığı ve merak ettiği için ders çalışması, hangi motivasyon türüne örnektir?",
+          "secenekler": [
+            "Dışsal motivasyon",
+            "İçsel motivasyon",
+            "Başarı motivasyonu",
+            "Güdülenme eksikliği"
+          ],
+          "dogruCevap": "İçsel motivasyon"
+        },
+        {
+          "soru": "Köhler'in deneylerinde şempanzenin, tavana asılı muza ulaşmak için aniden kutuları üst üste koyarak çözüme ulaşması hangi öğrenme türüne örnektir?",
+          "secenekler": [
+            "Deneme-yanılma yoluyla öğrenme",
+            "Model alarak öğrenme",
+            "İçgörüsel öğrenme (Kavrama yoluyla öğrenme)",
+            "Gizil (Latent) öğrenme"
+          ],
+          "dogruCevap": "İçgörüsel öğrenme (Kavrama yoluyla öğrenme)"
+        },
+        {
+          "soru": "Ödevini yapmadığı için çocuğun sevdiği çizgi filmi izlemesine izin verilmemesi, aşağıdaki kavramlardan hangisine örnektir?",
+          "secenekler": [
+            "I. Tip Ceza (Olumlu Ceza)",
+            "II. Tip Ceza (Mahrum Bırakma/Olumsuz Ceza)",
+            "Olumsuz Pekiştirme",
+            "Sönme"
+          ],
+          "dogruCevap": "II. Tip Ceza (Mahrum Bırakma/Olumsuz Ceza)"
+        },
+        {
+          "soru": "Bisiklete binme, araba kullanma gibi becerilerin depolandığı uzun süreli bellek türü aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Anısal (Episodik) Bellek",
+            "Anlamsal (Semantik) Bellek",
+            "İşlemsel (Prosedürel) Bellek",
+            "Duyusal Kayıt"
+          ],
+          "dogruCevap": "İşlemsel (Prosedürel) Bellek"
+        }
+      ],
+      "Öğrenme Psikolojisi 3": [
+        {
+          "soru": "Zil sesine koşullanmış bir köpeğin tepkisi söndürüldükten bir süre sonra, zil sesi tekrar duyulduğunda zayıf da olsa salya tepkisini yeniden göstermesi hangi kavramla açıklanır?",
+          "secenekler": [
+            "Uyarıcı genellemesi",
+            "Sönme",
+            "Kendiliğinden geri gelme",
+            "Üst düzey koşullanma"
+          ],
+          "dogruCevap": "Kendiliğinden geri gelme"
+        },
+        {
+          "soru": "Bir sınıfta öğrencilerin istenilen davranışları (örneğin ödev yapma, parmak kaldırma) sergilediklerinde jeton kazanmaları ve bu jetonları daha sonra istedikleri bir ödülle (örneğin fazladan teneffüs, küçük hediyeler) değiştirebilmeleri hangi uygulamaya örnektir?",
+          "secenekler": [
+            "Premack ilkesi",
+            "Sembolik pekiştirme (Token ekonomi)",
+            "Kademeli yaklaşma",
+            "Olumsuz pekiştirme"
+          ],
+          "dogruCevap": "Sembolik pekiştirme (Token ekonomi)"
+        },
+        {
+          "soru": "Bir öğrencinin, arkadaşının ödevini zamanında yaptığı için öğretmeninden övgü aldığını görmesi ve bunun sonucunda kendisinin de ödevini zamanında yapmaya başlaması hangi öğrenme ilkesiyle açıklanır?",
+          "secenekler": [
+            "Modelin cezalandırılması",
+            "Dolaylı pekiştirme",
+            "Dolaylı ceza",
+            "Karşıt koşullama"
+          ],
+          "dogruCevap": "Dolaylı pekiştirme"
+        },
+        {
+          "soru": "Uzun bir telefon numarasını (örneğin 05321234567) akılda tutmak için onu \"0532-123-45-67\" gibi daha küçük ve anlamlı birimlere ayırma stratejisi, belleğin hangi mekanizmasıyla ilgilidir?",
+          "secenekler": [
+            "Kodlama",
+            "Gruplama (Chunking)",
+            "Tekrar",
+            "Duyusal kayıt"
+          ],
+          "dogruCevap": "Gruplama (Chunking)"
+        },
+        {
+          "soru": "Bir farenin labirentte yiyecek ödülü olmadan dolaştıktan sonra, labirente yiyecek konulduğunda hedefi ödül verilmeyen farelerden daha hızlı bulması, Tolman'ın hangi kavramıyla açıklanır?",
+          "secenekler": [
+            "İçgörüsel öğrenme",
+            "Model alma",
+            "Edimsel koşullanma",
+            "Gizil (Örtük) öğrenme"
+          ],
+          "dogruCevap": "Gizil (Örtük) öğrenme"
+        },
+        {
+          "soru": "Bir sınavda başarısız olan öğrencinin \"Ben zaten yeteneksizim, ne yapsam başaramam\" demesi, yükleme kuramına göre nasıl bir nedensel yüklemedir?",
+          "secenekler": [
+            "İçsel, istikrarlı, kontrol edilemez",
+            "Dışsal, istikrarsız, kontrol edilebilir",
+            "İçsel, istikrarsız, kontrol edilebilir",
+            "Dışsal, istikrarlı, kontrol edilemez"
+          ],
+          "dogruCevap": "İçsel, istikrarlı, kontrol edilemez"
+        },
+        {
+          "soru": "Bir resme bakıldığında bazen bir vazo, bazen de birbirine bakan iki insan yüzü algılanması, Gestalt psikolojisinin hangi ilkesine örnektir?",
+          "secenekler": [
+            "Yakınlık",
+            "Tamamlama",
+            "Şekil-zemin ilişkisi",
+            "Süreklilik"
+          ],
+          "dogruCevap": "Şekil-zemin ilişkisi"
         }
       ],
       "Gelişim Psikolojisi": [
@@ -18285,7 +18908,6 @@
           ],
           "dogruCevap": "Tekirdağ-Ardahan"
         },
-        
         {
           "soru": "Bir yerin mutlak (matematik) konum özellikleri, paralel ve meridyen dereceleri dikkate alınarak belirlenir. Buna göre Türkiye’nin aşağıdaki özelliklerinden hangisi mutlak konum ile ilgili değildir?",
           "secenekler": [
