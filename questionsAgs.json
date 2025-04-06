@@ -22152,6 +22152,128 @@
           "dogruCevap": "II ve III"
         }
       ],
+      "Türkiye'de Tarım, Hayvancılık ve Ormancılık 2": [
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye'de tarım ürünlerinin çeşitliliğini artıran faktörlerden biridir?",
+          "secenekler": [
+            "Tek tip iklim koşulları",
+            "Engebeli arazi yapısı",
+            "Farklı yükselti ve iklim bölgeleri",
+            "Sınırlı sulama imkanları"
+          ],
+          "dogruCevap": "Farklı yükselti ve iklim bölgeleri"
+        },
+        {
+          "soru": "Türkiye'de aşağıdaki bölgelerden hangisinde çay tarımı yoğun olarak yapılmaktadır?",
+          "secenekler": [
+            "Ege Bölgesi",
+            "Akdeniz Bölgesi",
+            "Karadeniz Bölgesi",
+            "İç Anadolu Bölgesi"
+          ],
+          "dogruCevap": "Karadeniz Bölgesi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye'de hayvancılık faaliyetlerinin yoğunlaştığı bölgelerden biridir?",
+          "secenekler": [
+            "Marmara Bölgesi",
+            "Güneydoğu Anadolu Bölgesi",
+            "Doğu Anadolu Bölgesi",
+            "Ege Bölgesi"
+          ],
+          "dogruCevap": "Doğu Anadolu Bölgesi"
+        },
+        {
+          "soru": "Türkiye'de orman ürünleri üretiminde en fazla paya sahip olan bölge hangisidir?",
+          "secenekler": [
+            "Akdeniz Bölgesi",
+            "Karadeniz Bölgesi",
+            "İç Anadolu Bölgesi",
+            "Güneydoğu Anadolu Bölgesi"
+          ],
+          "dogruCevap": "Karadeniz Bölgesi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye'de tarımda kullanılan modern sulama yöntemlerinden biridir?",
+          "secenekler": [
+            "Salma sulama",
+            "Karık sulama",
+            "Damla sulama",
+            "Yüzey sulama"
+          ],
+          "dogruCevap": "Damla sulama"
+        },
+        {
+          "soru": "Türkiye'de aşağıdaki hayvan türlerinden hangisi en fazla yetiştirilmektedir?",
+          "secenekler": [
+            "Sığır",
+            "Koyun",
+            "Keçi",
+            "Manda"
+          ],
+          "dogruCevap": "Koyun"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye'de ormancılık faaliyetlerinin sürdürülebilirliğini sağlamak için yapılan çalışmalardan biridir?",
+          "secenekler": [
+            "Kaçak kesimlerin artırılması",
+            "Orman yangınlarının önlenmesi",
+            "Ağaçlandırma çalışmalarının azaltılması",
+            "Mera alanlarının genişletilmesi"
+          ],
+          "dogruCevap": "Orman yangınlarının önlenmesi"
+        },
+        {
+          "soru": "Türkiye'de seracılık faaliyetlerinin en yoğun olduğu bölge hangisidir?",
+          "secenekler": [
+            "Karadeniz Bölgesi",
+            "Akdeniz Bölgesi",
+            "İç Anadolu Bölgesi",
+            "Doğu Anadolu Bölgesi"
+          ],
+          "dogruCevap": "Akdeniz Bölgesi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye'de tarım ürünlerinde verimi artıran faktörlerden biri değildir?",
+          "secenekler": [
+            "Kaliteli tohum kullanımı",
+            "Gübre kullanımı",
+            "İklim koşullarının değişkenliği",
+            "Modern sulama yöntemleri"
+          ],
+          "dogruCevap": "İklim koşullarının değişkenliği"
+        },
+        {
+          "soru": "Türkiye'de aşağıdaki bölgelerden hangisinde arıcılık faaliyetleri daha yaygındır?",
+          "secenekler": [
+            "Marmara Bölgesi",
+            "Ege Bölgesi",
+            "Doğu Anadolu Bölgesi",
+            "Güneydoğu Anadolu Bölgesi"
+          ],
+          "dogruCevap": "Doğu Anadolu Bölgesi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye'de orman yangınlarının en sık görüldüğü bölgelerden biridir?",
+          "secenekler": [
+            "İç Anadolu Bölgesi",
+            "Karadeniz Bölgesi",
+            "Akdeniz Bölgesi",
+            "Doğu Anadolu Bölgesi"
+          ],
+          "dogruCevap": "Akdeniz Bölgesi"
+        },
+        {
+          "soru": "Türkiye'de aşağıdaki tarım ürünlerinden hangisi daha çok ihraç edilmektedir?",
+          "secenekler": [
+            "Buğday",
+            "Pamuk",
+            "Fındık",
+            "Mercimek"
+          ],
+          "dogruCevap": "Fındık"
+        }
+      ],
       "Türkiye'de Madenler, Enerji Kaynakları ve Sanayi": [
         {
           "soru": "Türkiye'deki en önemli bor madenleri hangi bölgelerde çıkarılmaktadır?",
@@ -22566,6 +22688,108 @@
             "I, II ve III"
           ],
           "dogruCevap": "I ve III"
+        }
+      ],
+      "Türkiye'de Ulaşım, Ticaret ve Turizm 2": [
+        {
+          "soru": "Aşağıdaki şehirlerden hangisi kış turizmi açısından önemli bir merkez değildir?",
+          "secenekler": [
+            "Bursa",
+            "Erzurum",
+            "Antalya",
+            "Kayseri"
+          ],
+          "dogruCevap": "Antalya"
+        },
+        {
+          "soru": "Türkiye'de demir yolu ulaşımının en az geliştiği bölge hangisidir?",
+          "secenekler": [
+            "Marmara Bölgesi",
+            "Ege Bölgesi",
+            "Karadeniz Bölgesi",
+            "İç Anadolu Bölgesi"
+          ],
+          "dogruCevap": "Karadeniz Bölgesi"
+        },
+        {
+          "soru": "Türkiye'nin en işlek havaalanı hangisidir?",
+          "secenekler": [
+            "Esenboğa Havalimanı",
+            "Sabiha Gökçen Havalimanı",
+            "Antalya Havalimanı",
+            "İstanbul Havalimanı"
+          ],
+          "dogruCevap": "İstanbul Havalimanı"
+        },
+        {
+          "soru": "Türkiye'de en fazla hangi ulaşım türünde kaza meydana gelmektedir?",
+          "secenekler": [
+            "Deniz yolu",
+            "Kara yolu",
+            "Hava yolu",
+            "Demir yolu"
+          ],
+          "dogruCevap": "Kara yolu"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye'nin önemli ticaret ortaklarından biri değildir?",
+          "secenekler": [
+            "Rusya",
+            "Irak",
+            "İran",
+            "Japonya"
+          ],
+          "dogruCevap": "Japonya"
+        },
+        {
+          "soru": "Türkiye'nin en fazla ithal ettiği ürün grubu hangisidir?",
+          "secenekler": [
+            "Otomotiv",
+            "Enerji kaynakları",
+            "Tekstil",
+            "Gıda ürünleri"
+          ],
+          "dogruCevap": "Enerji kaynakları"
+        },
+        {
+          "soru": "Türkiye'de kruvaziyer turizminin en gelişmiş olduğu liman hangisidir?",
+          "secenekler": [
+            "İzmir Limanı",
+            "Kuşadası Limanı",
+            "Mersin Limanı",
+            "Trabzon Limanı"
+          ],
+          "dogruCevap": "Kuşadası Limanı"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye'deki önemli inanç turizmi merkezlerinden biridir?",
+          "secenekler": [
+            "Pamukkale",
+            "Sümela Manastırı",
+            "Kapadokya",
+            "Olimpos"
+          ],
+          "dogruCevap": "Sümela Manastırı"
+        },
+        {
+          "soru": "Türkiye'de son yıllarda hangi ulaşım türüne yapılan yatırımlar artmıştır?",
+          "secenekler": [
+            "Deniz yolu",
+            "Kara yolu",
+            "Hava yolu",
+            "Demir yolu"
+          ],
+          "dogruCevap": "Hava yolu"
+        },
+        {
+          "soru": "Türkiye'de en fazla turist hangi ülkeden gelmektedir?",
+          "secenekler": [
+            "Almanya",
+            "Rusya",
+            "İngiltere",
+            "İran"
+          ],
+          "dogruCevap": "Rusya"
         }
       ],
       "Türkiye'nin Coğrafi Bölgeleri": [
@@ -23421,6 +23645,342 @@
       ]
     },
     "Mevzuat": {
+      "Türkiye Cumhuriyeti Anayasası": [
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, egemenlik kayıtsız şartsız kime aittir?",
+          "secenekler": [
+            "Cumhurbaşkanına",
+            "Türkiye Büyük Millet Meclisi'ne",
+            "Halka",
+            "Orduya",
+            "Yargıya"
+          ],
+          "dogruCevap": "Halka"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, yasama yetkisi kime aittir?",
+          "secenekler": [
+            "Cumhurbaşkanına",
+            "Türkiye Büyük Millet Meclisi'ne",
+            "Halka",
+            "Orduya",
+            "Yargıya"
+          ],
+          "dogruCevap": "Türkiye Büyük Millet Meclisi'ne"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, yürütme yetkisi ve görevi kime aittir?",
+          "secenekler": [
+            "Cumhurbaşkanına",
+            "Türkiye Büyük Millet Meclisi'ne",
+            "Halka",
+            "Orduya",
+            "Yargıya"
+          ],
+          "dogruCevap": "Cumhurbaşkanına"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, yargı yetkisi kime aittir?",
+          "secenekler": [
+            "Cumhurbaşkanına",
+            "Türkiye Büyük Millet Meclisi'ne",
+            "Halka",
+            "Orduya",
+            "Bağımsız mahkemelere"
+          ],
+          "dogruCevap": "Bağımsız mahkemelere"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, aşağıdakilerden hangisi temel hak ve özgürlüklerden biri değildir?",
+          "secenekler": [
+            "Yaşama hakkı",
+            "Düşünce ve ifade özgürlüğü",
+            "Seyahat özgürlüğü",
+            "Çalışma hakkı",
+            "Sınırsız mülkiyet hakkı"
+          ],
+          "dogruCevap": "Sınırsız mülkiyet hakkı"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, aşağıdakilerden hangisi sosyal ve ekonomik haklardan biridir?",
+          "secenekler": [
+            "Düşünce ve ifade özgürlüğü",
+            "Din ve vicdan özgürlüğü",
+            "Konut dokunulmazlığı",
+            "Sendika kurma hakkı",
+            "Seçme ve seçilme hakkı"
+          ],
+          "dogruCevap": "Sendika kurma hakkı"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, kaç yılda bir genel seçim yapılır?",
+          "secenekler": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "dogruCevap": "5"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, Cumhurbaşkanı kaç yıllığına seçilir?",
+          "secenekler": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "dogruCevap": "5"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, aşağıdakilerden hangisi Anayasa Mahkemesi'nin görevlerinden biridir?",
+          "secenekler": [
+            "Kanunları yapmak",
+            "Kanunları uygulamak",
+            "Kanunların Anayasa'ya uygunluğunu denetlemek",
+            "Uluslararası anlaşmaları onaylamak",
+            "Bakanları atamak"
+          ],
+          "dogruCevap": "Kanunların Anayasa'ya uygunluğunu denetlemek"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, Türkiye Büyük Millet Meclisi seçimleri ve Cumhurbaşkanlığı seçimleri hangi tarihte birlikte yapılır?",
+          "secenekler": [
+            "Ayrı tarihlerde",
+            "Aynı tarihte",
+            "TBMM'nin kararına bağlı",
+            "Cumhurbaşkanının kararına bağlı",
+            "Yüksek Seçim Kurulu'nun kararına bağlı"
+          ],
+          "dogruCevap": "Aynı tarihte"
+        }
+      ],
+      "Türkiye Cumhuriyeti Anayasası 2": [
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, temel hak ve özgürlüklerin sınırlandırılması hangi koşullara bağlıdır?",
+          "secenekler": [
+            "Sadece kanunla",
+            "Sadece Cumhurbaşkanı kararıyla",
+            "Sadece yargı kararıyla",
+            "Kanunla, Anayasa'nın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve özlerine dokunulmaksızın",
+            "Herhangi bir koşul olmaksızın"
+          ],
+          "dogruCevap": "Kanunla, Anayasa'nın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve özlerine dokunulmaksızın"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, olağanüstü hal ilan etme yetkisi kime aittir ve hangi koşullarda ilan edilebilir?",
+          "secenekler": [
+            "TBMM, savaş durumunda",
+            "Cumhurbaşkanı, savaş, seferberlik, sıkıyönetim veya olağanüstü hallerde",
+            "Anayasa Mahkemesi, anayasal düzenin bozulması halinde",
+            "Genelkurmay Başkanı, askeri darbe durumunda",
+            "Valiler, bölgesel kriz durumunda"
+          ],
+          "dogruCevap": "Cumhurbaşkanı, savaş, seferberlik, sıkıyönetim veya olağanüstü hallerde"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, Anayasa Mahkemesi'ne bireysel başvuru hakkı hangi tarihten itibaren geçerli olmuştur ve hangi koşullarda yapılabilir?",
+          "secenekler": [
+            "2004, her türlü hak ihlali durumunda",
+            "2010, sadece temel hak ve özgürlüklerin ihlali durumunda ve olağan kanun yollarının tüketilmesi şartıyla",
+            "1982, tüm vatandaşlar için otomatik olarak",
+            "2017, Cumhurbaşkanı kararnamelerinin ihlali durumunda",
+            "1999, sadece siyasi parti kapatma davalarında"
+          ],
+          "dogruCevap": "2010, sadece temel hak ve özgürlüklerin ihlali durumunda ve olağan kanun yollarının tüketilmesi şartıyla"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, milletvekili dokunulmazlığı hangi durumlarda kaldırılabilir?",
+          "secenekler": [
+            "Herhangi bir suç isnadı durumunda",
+            "Sadece ağır cezalık suçlarda",
+            "Sadece TBMM kararıyla ve Anayasa'nın ilgili maddelerinde belirtilen koşullarda",
+            "Sadece Cumhurbaşkanı kararıyla",
+            "Hiçbir durumda kaldırılamaz"
+          ],
+          "dogruCevap": "Sadece TBMM kararıyla ve Anayasa'nın ilgili maddelerinde belirtilen koşullarda"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, uluslararası anlaşmaların kanun hükmünde olduğu durumlar nelerdir?",
+          "secenekler": [
+            "Tüm uluslararası anlaşmalar",
+            "Sadece insan hakları alanındaki uluslararası anlaşmalar",
+            "Sadece ekonomik işbirliği anlaşmaları",
+            "Sadece askeri ittifak anlaşmaları",
+            "Uygulanmaları için kanun çıkarılması gerekmeyen ve usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin uluslararası anlaşmalar"
+          ],
+          "dogruCevap": "Uygulanmaları için kanun çıkarılması gerekmeyen ve usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin uluslararası anlaşmalar"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, Cumhurbaşkanı kararnameleri hangi durumlarda kanun gücündedir ve hangi durumlarda TBMM tarafından denetlenir?",
+          "secenekler": [
+            "Her durumda kanun gücündedir ve TBMM tarafından denetlenemez",
+            "Sadece olağanüstü hal döneminde kanun gücündedir ve TBMM tarafından denetlenir",
+            "Temel hak ve özgürlükleri düzenleyen konularda kanun gücündedir ve TBMM tarafından denetlenir",
+            "Sadece yürütme yetkisine ilişkin konularda kanun gücündedir ve TBMM tarafından denetlenir",
+            "Kanunla düzenlenmeyen yürütme alanına ilişkin konularda kanun gücündedir ve TBMM tarafından kanunla düzenlenmesi halinde hükümsüz kalır"
+          ],
+          "dogruCevap": "Kanunla düzenlenmeyen yürütme alanına ilişkin konularda kanun gücündedir ve TBMM tarafından kanunla düzenlenmesi halinde hükümsüz kalır"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, Yüksek Seçim Kurulu'nun (YSK) yapısı ve görevleri nelerdir?",
+          "secenekler": [
+            "TBMM tarafından seçilen üyelerden oluşur ve sadece genel seçimleri yönetir",
+            "Cumhurbaşkanı tarafından atanan üyelerden oluşur ve referandumları yönetir",
+            "Anayasa Mahkemesi üyelerinden oluşur ve siyasi parti kapatma davalarına bakar",
+            "Yargıtay ve Danıştay üyelerinden oluşur ve seçimlerin düzenli yönetimi ile ilgili şikayet ve itirazları inceler",
+            "YSK yoktur, seçimler valilikler tarafından yönetilir"
+          ],
+          "dogruCevap": "Yargıtay ve Danıştay üyelerinden oluşur ve seçimlerin düzenli yönetimi ile ilgili şikayet ve itirazları inceler"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, kamu başdenetçisi kim tarafından ve hangi koşullarda seçilir?",
+          "secenekler": [
+            "Cumhurbaşkanı tarafından, herhangi bir koşul olmaksızın",
+            "TBMM tarafından, nitelikli çoğunlukla ve belirli niteliklere sahip adaylar arasından",
+            "Anayasa Mahkemesi tarafından, sadece hukukçular arasından",
+            "YSK tarafından, seçimlerden sonra",
+            "Halk tarafından doğrudan seçimle"
+          ],
+          "dogruCevap": "TBMM tarafından, nitelikli çoğunlukla ve belirli niteliklere sahip adaylar arasından"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, bütçe kanunu teklifi hangi kurum tarafından ve ne zaman TBMM'ye sunulur?",
+          "secenekler": [
+            "Cumhurbaşkanı tarafından, her yıl Ekim ayının on yedinci gününe kadar",
+            "Maliye Bakanlığı tarafından, her yıl Aralık ayının sonuna kadar",
+            "Sayıştay tarafından, her yıl Ocak ayının başında",
+            "TBMM Başkanı tarafından, seçimlerden sonra",
+            "Merkez Bankası tarafından, ekonomik kriz durumunda"
+          ],
+          "dogruCevap": "Cumhurbaşkanı tarafından, her yıl Ekim ayının on yedinci gününe kadar"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, Anayasa değişikliği teklifi hangi koşullarda referanduma sunulur ve referandumda kabul edilmesi için gerekli oy oranı nedir?",
+          "secenekler": [
+            "Her durumda referanduma sunulur ve basit çoğunlukla kabul edilir",
+            "Sadece TBMM'nin beşte üç çoğunluğu ile kabul edilen değişiklikler referanduma sunulur ve nitelikli çoğunlukla kabul edilir",
+            "Sadece Cumhurbaşkanı'nın onayladığı değişiklikler referanduma sunulur ve oy çokluğu ile kabul edilir",
+            "TBMM'nin beşte üç ile üçte iki arasında kabul ettiği değişiklikler Cumhurbaşkanı tarafından referanduma sunulabilir ve halk oylamasında kullanılan geçerli oyların yarısından fazlası ile kabul edilir",
+            "Hiçbir anayasa değişikliği referanduma sunulmaz"
+          ],
+          "dogruCevap": "TBMM'nin beşte üç ile üçte iki arasında kabul ettiği değişiklikler Cumhurbaşkanı tarafından referanduma sunulabilir ve halk oylamasında kullanılan geçerli oyların yarısından fazlası ile kabul edilir"
+        }
+      ],
+      "Türkiye Cumhuriyeti Anayasası 3": [
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, aşağıdakilerden hangisi Cumhurbaşkanının görev ve yetkilerinden biri değildir?",
+          "secenekler": [
+            "Kanunları yayımlamak",
+            "Milletlerarası antlaşmaları onaylamak ve yayımlamak",
+            "Bakanları atamak ve görevlerine son vermek",
+            "TBMM'yi feshetmek",
+            "Anayasa Mahkemesi'ne iptal davası açmak"
+          ],
+          "dogruCevap": "TBMM'yi feshetmek"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, aşağıdakilerden hangisi TBMM'nin görev ve yetkilerinden biridir?",
+          "secenekler": [
+            "Kanunları uygulamak",
+            "Yargı kararlarını denetlemek",
+            "Bakanları atamak",
+            "Kanunları yapmak, değiştirmek ve kaldırmak",
+            "Milletlerarası antlaşmaları onaylamak"
+          ],
+          "dogruCevap": "Kanunları yapmak, değiştirmek ve kaldırmak"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, Anayasa Mahkemesi'nin üye sayısı kaçtır?",
+          "secenekler": [
+            "9",
+            "11",
+            "13",
+            "15",
+            "17"
+          ],
+          "dogruCevap": "15"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, aşağıdakilerden hangisi Yüksek Seçim Kurulu'nun (YSK) görevlerinden biridir?",
+          "secenekler": [
+            "Kanunları yorumlamak",
+            "Yargı kararlarını vermek",
+            "Seçimlerin düzenli yönetimi ile ilgili şikayet ve itirazları incelemek",
+            "Bakanları atamak",
+            "Milletlerarası antlaşmaları onaylamak"
+          ],
+          "dogruCevap": "Seçimlerin düzenli yönetimi ile ilgili şikayet ve itirazları incelemek"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, aşağıdakilerden hangisi sosyal güvenlik haklarından biridir?",
+          "secenekler": [
+            "Düşünce ve ifade özgürlüğü",
+            "Din ve vicdan özgürlüğü",
+            "Konut dokunulmazlığı",
+            "Sendika kurma hakkı",
+            "Sosyal güvenlik hakkı"
+          ],
+          "dogruCevap": "Sosyal güvenlik hakkı"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, aşağıdakilerden hangisi siyasi haklardan biridir?",
+          "secenekler": [
+            "Yaşama hakkı",
+            "Düşünce ve ifade özgürlüğü",
+            "Seyahat özgürlüğü",
+            "Seçme ve seçilme hakkı",
+            "Çalışma hakkı"
+          ],
+          "dogruCevap": "Seçme ve seçilme hakkı"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, aşağıdakilerden hangisi Anayasa değişikliği için gerekli olan TBMM üye tamsayısının en az kaçıdır?",
+          "secenekler": [
+            "1/3",
+            "1/4",
+            "1/2",
+            "3/5",
+            "2/3"
+          ],
+          "dogruCevap": "3/5"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, Cumhurbaşkanı'nın ikinci kez seçilebilmesi için kaç dönem görev yapmış olması gerekmektedir?",
+          "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "Sınırsız"
+          ],
+          "dogruCevap": "1"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, aşağıdakilerden hangisi Cumhurbaşkanı kararnamesi ile düzenlenemez?",
+          "secenekler": [
+            "Yürütme yetkisine ilişkin konular",
+            "Temel hak ve özgürlükler",
+            "Bakanlıkların kurulması",
+            "Kamu kurum ve kuruluşlarının teşkilatları",
+            "Kamu personelinin atanması"
+          ],
+          "dogruCevap": "Temel hak ve özgürlükler"
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, Kamu Başdenetçisi'nin görev süresi kaç yıldır?",
+          "secenekler": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "dogruCevap": "4"
+        }
+      ],
       "1739 Sayılı Milli Eğitim Temel Kanunu": [
         {
           "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre aşağıdakilerden hangisi Türk Milli Eğitimi'nin temel ilkelerinden biri değildir?",
@@ -23731,6 +24291,118 @@
             "Ferdin ve toplumun ihtiyaçları"
           ],
           "dogruCevap": "Fırsat ve imkan eşitliği"
+        }
+      ],
+      "1739 Sayılı Milli Eğitim Temel Kanunu 4": [
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre, aşağıdakilerden hangisi okul açma yetkisine sahiptir?",
+          "secenekler": [
+            "Belediyeler",
+            "Sivil Toplum Kuruluşları",
+            "Milli Eğitim Bakanlığı",
+            "Üniversiteler",
+            "Özel Şirketler"
+          ],
+          "dogruCevap": "Milli Eğitim Bakanlığı"
+        },
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre, eğitimde 'bireylerin ilgi, istidat ve kabiliyetlerini geliştirme' ilkesi hangi temel amaca hizmet eder?",
+          "secenekler": [
+            "Toplumsal eşitliği sağlama",
+            "Ekonomik kalkınmayı hızlandırma",
+            "Bireysel farklılıklara saygı duyma",
+            "Kültürel mirası koruma",
+            "Bilimsel gelişmeyi teşvik etme"
+          ],
+          "dogruCevap": "Bireysel farklılıklara saygı duyma"
+        },
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre, 'eğitim kurumları dil, ırk, cinsiyet ve din ayırımı gözetilmeksizin herkese açıktır' ifadesi hangi ilkeyi vurgular?",
+          "secenekler": [
+            "Laiklik",
+            "Bilimsellik",
+            "Demokrasi",
+            "Genellik ve eşitlik",
+            "Planlılık"
+          ],
+          "dogruCevap": "Genellik ve eşitlik"
+        },
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre, 'eğitimde hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz' ifadesi hangi ilkeyi destekler?",
+          "secenekler": [
+            "Fırsat ve imkan eşitliği",
+            "Yöneltme",
+            "Süreklilik",
+            "Atatürk inkılap ve ilkeleri",
+            "Demokratiklik"
+          ],
+          "dogruCevap": "Fırsat ve imkan eşitliği"
+        },
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre, 'eğitim kurumlarının bina ve tesisleri, araç ve gereçleri' ile ilgili standartları belirleme yetkisi kime aittir?",
+          "secenekler": [
+            "Belediyeler",
+            "Valilikler",
+            "Milli Eğitim Bakanlığı",
+            "Üniversiteler",
+            "Sivil Toplum Kuruluşları"
+          ],
+          "dogruCevap": "Milli Eğitim Bakanlığı"
+        },
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre, 'eğitimde planlılık' ilkesi neyi ifade eder?",
+          "secenekler": [
+            "Eğitimin her aşamasının önceden belirlenmiş hedeflere göre yürütülmesi",
+            "Öğrencilerin ilgi ve yeteneklerine göre yönlendirilmesi",
+            "Eğitim kurumlarının sürekli denetlenmesi",
+            "Öğretmenlerin sürekli mesleki gelişiminin sağlanması",
+            "Eğitimde teknolojik yeniliklerin kullanılması"
+          ],
+          "dogruCevap": "Eğitimin her aşamasının önceden belirlenmiş hedeflere göre yürütülmesi"
+        },
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre, 'eğitim hakkı' ilkesi neyi güvence altına alır?",
+          "secenekler": [
+            "Herkesin eğitim kurumlarından eşit şekilde yararlanmasını",
+            "Öğretmenlerin mesleki bağımsızlığını",
+            "Eğitimde bilimsel yöntemlerin kullanılmasını",
+            "Eğitim kurumlarının özerkliğini",
+            "Eğitimde ailelerin katılımını"
+          ],
+          "dogruCevap": "Herkesin eğitim kurumlarından eşit şekilde yararlanmasını"
+        },
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre, 'yöneltme' ilkesi hangi eğitim kademesinde başlar?",
+          "secenekler": [
+            "Okul öncesi",
+            "İlköğretim",
+            "Ortaöğretim",
+            "Yükseköğretim",
+            "Yaygın eğitim"
+          ],
+          "dogruCevap": "İlköğretim"
+        },
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre, aşağıdakilerden hangisi Türk Milli Eğitiminin genel amaçlarından biri değildir?",
+          "secenekler": [
+            "Atatürk ilke ve inkılaplarına bağlı vatandaşlar yetiştirmek",
+            "Bireylerin ilgi ve yeteneklerini geliştirmek",
+            "Toplumsal dayanışmayı güçlendirmek",
+            "Ekonomik kalkınmayı desteklemek",
+            "Bireylere en yüksek kazancı sağlayacak mesleği edindirmek"
+          ],
+          "dogruCevap": "Bireylere en yüksek kazancı sağlayacak mesleği edindirmek"
+        },
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre, 'eğitimde süreklilik' ilkesi neyi ifade eder?",
+          "secenekler": [
+            "Eğitimin okul öncesinden yükseköğretime kadar devam etmesi",
+            "Öğretmenlerin sürekli mesleki gelişiminin sağlanması",
+            "Eğitim kurumlarının sürekli denetlenmesi",
+            "Eğitimde teknolojik yeniliklerin sürekli takip edilmesi",
+            "Eğitimde ailelerin sürekli katılımının sağlanması"
+          ],
+          "dogruCevap": "Eğitimin okul öncesinden yükseköğretime kadar devam etmesi"
         }
       ],
       "222 Sayılı İlköğretim ve Eğitim Kanunu": [
