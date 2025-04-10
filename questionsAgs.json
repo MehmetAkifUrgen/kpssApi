@@ -464,17 +464,6 @@
           "dogruCevap": "Değerlendirme sürecinde sadece yazılı sınavlar kullanılır."
         },
         {
-          "soru": "Aşağıdakilerden hangisi eğitimde 'demokratik disiplin' anlayışının bir özelliğidir?",
-          "secenekler": [
-            "Öğrencilere ceza odaklı bir disiplin uygulanır.",
-            "Öğrencilerin katılımıyla kurallar belirlenir.",
-            "Öğretmen tek başına karar alır.",
-            "Kurallar esnek değildir.",
-            "Disiplin otoriter bir yapıdadır."
-          ],
-          "dogruCevap": "Öğrencilerin katılımıyla kurallar belirlenir."
-        },
-        {
           "soru": "Aşağıdakilerden hangisi eğitimde kullanılan 'diğerlemeli değerlendirme'ne bir örnektir?",
           "secenekler": [
             "Öğrencinin kendi performansını değerlendirmesi",
@@ -2426,17 +2415,6 @@
           "dogruCevap": "Bütün bunlar sanatın konularını oluşturur."
         },
         {
-          "soru": "Aşağıdaki sözel mantık sorusunun cevabı nedir? Ayşe, Burak, Can ve Deniz farklı spor dallarıyla ilgilenmektedirler: futbol, basketbol, voleybol ve tenis. Her biri sadece bir spor dalıyla ilgilenmektedir. Ayşe top ile oynanan bir spor dalıyla ilgilenmektedir. Burak ve Deniz aynı takım sporlarıyla ilgilenmemektedir. Can raket ile oynanan bir spor dalıyla ilgilenmemektedir. Buna göre hangi öğrenci hangi spor dalıyla ilgilenmektedir?",
-          "secenekler": [
-            "Ayşe: Futbol, Burak: Basketbol, Can: Voleybol, Deniz: Tenis",
-            "Ayşe: Basketbol, Burak: Futbol, Can: Voleybol, Deniz: Tenis",
-            "Ayşe: Futbol, Burak: Voleybol, Can: Basketbol, Deniz: Tenis",
-            "Ayşe: Basketbol, Burak: Voleybol, Can: Futbol, Deniz: Tenis",
-            "Ayşe: Voleybol, Burak: Futbol, Can: Basketbol, Deniz: Tenis"
-          ],
-          "dogruCevap": "Ayşe: Futbol, Burak: Voleybol, Can: Basketbol, Deniz: Tenis"
-        },
-        {
           "soru": "Bir sayının 4 katının 5 eksiği 27'dir. Bu sayı kaçtır?",
           "secenekler": [
             "6",
@@ -2567,17 +2545,6 @@
             "49"
           ],
           "dogruCevap": "49"
-        },
-        {
-          "soru": "Aşağıdaki şekil örüntüsünde soru işareti yerine hangi şekil gelmelidir? (Şekil örüntüsü görsel olarak verilmelidir)",
-          "secenekler": [
-            "(Görseldeki örüntüye göre cevap belirlenmelidir)",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "dogruCevap": "(Görseldeki örüntüye göre cevap belirlenmelidir)"
         },
         {
           "soru": "Bir sınıftaki 20 öğrencinin yaş ortalaması 12'dir. Öğretmen de katıldığında yaş ortalaması 13 olmuştur. Öğretmenin yaşı kaçtır?",
@@ -4102,17 +4069,6 @@
           "dogruCevap": "Her öğrenci projeye eşit katkı sağladı."
         },
         {
-          "soru": "9) \"I. Roman kahramanı, iç çatışmalarıyla boğuşan bir gençtir...\" Paragrafta hangi cümle düşünceyi değil olayı anlatır?",
-          "secenekler": [
-            "I",
-            "II",
-            "III",
-            "IV",
-            "V"
-          ],
-          "dogruCevap": "IV"
-        },
-        {
           "soru": "10) \"Eleştiri, sanatın gelişimine katkı sağlar...\" Bu parçada aşağıdakilerden hangisine değinilmemiştir?",
           "secenekler": [
             "Eleştirinin işlevine",
@@ -4232,17 +4188,6 @@
             "12"
           ],
           "dogruCevap": "8"
-        },
-        {
-          "soru": "21) 2x+3y=18 ve x−y=1 denklem sistemini sağlayan y değeri kaçtır?",
-          "secenekler": [
-            "2",
-            "3",
-            "4",
-            "5",
-            "6"
-          ],
-          "dogruCevap": "3"
         },
         {
           "soru": "22) Rakamları toplamı 11 olan iki basamaklı bir sayı vardır. Bu sayının 9 fazlası alındığında, sayının rakamları yer değiştiriyor. Bu sayı kaçtır?",
@@ -10443,17 +10388,6 @@
           "dogruCevap": "Cebinde sadece yüz lirası kalmıştı."
         },
         {
-          "soru": "Aşağıdaki cümlelerin hangisinde dolaylama yapılmıştır?",
-          "secenekler": [
-            "Kara elmas diyarı Zonguldak'ta yaşıyor.",
-            "Yaşlı adam bastonuna dayanarak yürüyordu.",
-            "File bekçisi penaltıyı kurtarınca tribünler coştu.",
-            "Çocuklar parkta neşeyle oynuyordu.",
-            "Ünlü sanatçı son konserini dün akşam verdi."
-          ],
-          "dogruCevap": "File bekçisi penaltıyı kurtarınca tribünler coştu."
-        },
-        {
           "soru": "'Yanmak' sözcüğü aşağıdaki cümlelerin hangisinde \"çok istemek, özlemek\" anlamında kullanılmıştır?",
           "secenekler": [
             "Sobadaki odunlar çıtır çıtır yanıyordu.",
@@ -11534,18 +11468,6 @@
           "cozum": "x = 24/y ve z = 40/y olduğundan, toplam = 24/y + y + 40/y = y + 64/y. y, 24 ve 40'ın ortak bölenleri (1, 2, 4, 8) içerisinden seçilebileceğinden; y = 8 için toplam = 8 + 64/8 = 8 + 8 = 16 elde edilir."
         },
         {
-          "soru": "Soru 5: a, b, c pozitif tam sayılar, a + 2b + 3c = 30 ve a, b, c birbirinden farklı ise, c'nin alabileceği en büyük değer için a + b + c toplamı kaçtır?",
-          "secenekler": [
-            "A) 12",
-            "B) 13",
-            "C) 14",
-            "D) 15",
-            "E) 16"
-          ],
-          "dogruCevap": "A) 12",
-          "cozum": "c'yi maksimize etmek için a ve b'nın en küçük (ve farklı) pozitif değerleri tercih edilir. Örneğin; a = 1, b = 4 seçilirse, denklemden 1 + 2·4 + 3c = 30 ⇒ 1 + 8 + 3c = 30 ⇒ 3c = 21, dolayısıyla c = 7. Toplam: 1 + 4 + 7 = 12."
-        },
-        {
           "soru": "Soru 6: x ve y reel sayılar, x + y = 12 sabitken, xy'nin alabileceği en büyük değer kaçtır?",
           "secenekler": [
             "A) 30",
@@ -11568,18 +11490,6 @@
           ],
           "dogruCevap": "A) 61",
           "cozum": "a² + b² = (a + b)² - 2ab = 121 - 2ab. Sabit toplam altında ab en büyük olduğunda, a² + b² en küçük olur. En yakın değerler: a = 5, b = 6 (veya tersi) olduğunda ab = 30; o zaman a² + b² = 121 - 60 = 61."
-        },
-        {
-          "soru": "Soru 8: a, b, c pozitif tam sayılar, a + b + c = 30 ve a < b < c olduğuna göre, b'nin alabileceği en küçük değer kaçtır?",
-          "secenekler": [
-            "A) 8",
-            "B) 9",
-            "C) 10",
-            "D) 11",
-            "E) 12"
-          ],
-          "dogruCevap": "C) 10",
-          "cozum": "a, b, c'nin toplamı 30 olduğunda, en yakın ardışık tam sayılar 9, 10, 11 olarak düşünülebilir. Bu durumda b = 10 elde edilir."
         },
         {
           "soru": "Soru 9: x, y tamsayılar, x · y = 36 iken, x + y'nin alabileceği en küçük pozitif tam sayı değeri kaçtır?",
@@ -14885,16 +14795,6 @@
           "dogruCevap": "Savcı Bey İsyanı"
         },
         {
-          "soru": "Aşağıdakilerden hangisi II. Murat'ın unvanlarından biri değildir?",
-          "secenekler": [
-            "Hayır Babası",
-            "Koca Murat",
-            "Hüdavendigâr",
-            "Serdar-ı Ekrem"
-          ],
-          "dogruCevap": "Hüdavendigâr"
-        },
-        {
           "soru": "Osmanlı Devleti'nin Rumeli'deki ilk toprak parçası hangisidir?",
           "secenekler": [
             "Edirne",
@@ -16503,16 +16403,6 @@
             "II. Mustafa"
           ],
           "dogruCevap": "II. Abdülhamit"
-        },
-        {
-          "soru": "II. Meşrutiyet Dönemi'nde kurulan ilk siyasi parti aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Hürriyet ve İtilaf Fırkası",
-            "İttihat ve Terakki Fırkası",
-            "Osmanlı Sosyalist Fırkası",
-            "Osmanlı Demokrat Fırkası"
-          ],
-          "dogruCevap": "İttihat ve Terakki Fırkası"
         },
         {
           "soru": "Osmanlı Devleti'nden ayrılan son Balkan ülkesi aşağıdakilerden hangisidir?",
@@ -20803,16 +20693,6 @@
           "dogruCevap": "Karstik arazilerde görülmeleri"
         },
         {
-          "soru": "Aşağıdakilerden hangisi Türkiye'deki volkanik dağlardan biri değildir?",
-          "secenekler": [
-            "Erciyes",
-            "Ağrı",
-            "Uludağ",
-            "Nemrut"
-          ],
-          "dogruCevap": "Uludağ"
-        },
-        {
           "soru": "Türkiye'de;\nI. Jeotermal enerji potansiyeli\nII. Deprem riski\nIII. Kaplıca turizmi\nÖzelliklerinden hangileri, fay hatlarının yaygın olmasıyla ilgilidir?",
           "secenekler": [
             "Yalnız I",
@@ -21093,17 +20973,6 @@
             "Toprak yapısı"
           ],
           "dogruCevap": "Toprak yapısı"
-        },
-        {
-          "soru": "Türkiye'de en sıcak ayın ocak olduğu yer hangisidir?",
-          "secenekler": [
-            "Antalya",
-            "İzmir",
-            "Mersin",
-            "Hiçbir yer",
-            "İskenderun"
-          ],
-          "dogruCevap": "Hiçbir yer"
         },
         {
           "soru": "Aşağıdakilerden hangisi Türkiye'nin iklim özelliklerini etkileyen faktörlerden biri değildir?",
@@ -22109,16 +21978,6 @@
             "Akdeniz"
           ],
           "dogruCevap": "Doğu Anadolu"
-        },
-        {
-          "soru": "Türkiye'de;\nI. Çay\nII. Fındık\nIII. Tütün\nÜrünlerinden hangileri Karadeniz Bölgesi'nde yetiştirilir?",
-          "secenekler": [
-            "Yalnız I",
-            "I ve II",
-            "II ve III",
-            "I, II ve III"
-          ],
-          "dogruCevap": "I ve II"
         },
         {
           "soru": "Aşağıdakilerden hangisi Türkiye'de tarımsal üretimi artırmak için yapılan çalışmalardan biri değildir?",
@@ -24558,17 +24417,6 @@
           "dogruCevap": "500-1000"
         },
         {
-          "soru": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre 'İlköğretim haftası' ne zaman kutlanır?",
-          "secenekler": [
-            "Her yıl Eylül ayının birinci haftası",
-            "Her yıl Eylül ayının ikinci haftası",
-            "Her yıl Eylül ayının üçüncü haftası",
-            "Her yıl Eylül ayının dördüncü haftası",
-            "Okulların açıldığının ikinci haftası"
-          ],
-          "dogruCevap": "Her yıl Eylül ayının üçüncü haftası"
-        },
-        {
           "soru": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre, muhtarlıkça veya mülki amirce yapılan tebliğe rağmen çocuğunu okula göndermeyen veli/vasiye çocuğun okula devam etmediği beher gün için kaç TL idari para cezası verilir?",
           "secenekler": [
             "15",
@@ -24990,16 +24838,6 @@
             "15 Mart 1961"
           ],
           "dogruCevap": "1 Mart 1961"
-        },
-        {
-          "soru": "Madde 91’e göre, 222 sayılı Kanun’u kim yürütür?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Bakanlar Kurulu",
-            "Meclis",
-            "Cumhurbaşkanlığı"
-          ],
-          "dogruCevap": "Bakanlar Kurulu"
         },
         {
           "soru": "Ek Madde 1’e göre, 222 sayılı Kanunda yer alan 'ilköğretim müdürü' ifadesi hangi ifade ile değiştirilmiştir?",
