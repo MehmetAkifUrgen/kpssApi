@@ -6269,6 +6269,310 @@
           "dogruCevap": "Sosyal refah seviyesinin düşüşü"
         }
       ],
+      "Eğitim Temelleri 4": [
+        {
+          "soru": "Bireyin davranışlarında kendi yaşantısı yoluyla kasıtlı olarak istendik yönde değişiklik oluşturma süreci olarak tanımlanan temel kavram hangisidir?",
+          "secenekler": [
+            "Öğretim",
+            "Eğitim",
+            "Kültürleme",
+            "Sosyalleşme"
+          ],
+          "dogruCevap": "Eğitim"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi formel eğitimin özelliklerinden biri değildir?",
+          "secenekler": [
+            "Planlı ve programlı olması",
+            "Belirli hedeflere yönelik olması",
+            "Genellikle okul gibi kurumlarda verilmesi",
+            "Tamamen kendiliğinden ve rastlantısal olması"
+          ],
+          "dogruCevap": "Tamamen kendiliğinden ve rastlantısal olması"
+        },
+        {
+          "soru": "Belirli yaş grubundaki bireylere yönelik, okul çatısı altında, aşamalı ve birbirinin ön koşulu olan eğitim türü hangisidir?",
+          "secenekler": [
+            "Yaygın Eğitim",
+            "İnformel Eğitim",
+            "Örgün Eğitim",
+            "Hizmet İçi Eğitim"
+          ],
+          "dogruCevap": "Örgün Eğitim"
+        },
+        {
+          "soru": "Halk eğitim merkezlerinde açılan okuma-yazma kursları, meslek edindirme kursları veya sürücü kursları hangi eğitim türüne örnektir?",
+          "secenekler": [
+            "Örgün Eğitim",
+            "Yaygın Eğitim",
+            "İnformel Eğitim",
+            "Sargın Eğitim"
+          ],
+          "dogruCevap": "Yaygın Eğitim"
+        },
+        {
+          "soru": "Bireyin ailede, arkadaş çevresinde, oyun oynarken veya kitle iletişim araçları yoluyla farkında olmadan, plansız ve programsız şekilde edindiği bilgi, beceri ve tutumlar hangi eğitim türü kapsamındadır?",
+          "secenekler": [
+            "Formel Eğitim",
+            "Örgün Eğitim",
+            "Yaygın Eğitim",
+            "İnformel Eğitim"
+          ],
+          "dogruCevap": "İnformel Eğitim"
+        },
+        {
+          "soru": "Toplumun sahip olduğu maddi ve manevi değerleri, inançları, normları ve davranış kalıplarını yeni nesillere aktarma sürecine ne ad verilir?",
+          "secenekler": [
+            "Kültürlenme",
+            "Kültürleşme",
+            "Kültürleme",
+            "Sosyalleşme"
+          ],
+          "dogruCevap": "Kültürleme"
+        },
+        {
+          "soru": "Bireyin içinde doğup büyüdüğü toplumun kültürünü öğrenmesi, benimsemesi ve içselleştirmesi sürecine ne ad verilir?",
+          "secenekler": [
+            "Kültürleme",
+            "Kültürlenme",
+            "Kültürleşme",
+            "Eğitim"
+          ],
+          "dogruCevap": "Kültürlenme"
+        },
+        {
+          "soru": "Farklı kültürlere sahip grupların sürekli etkileşimi sonucunda, her iki kültürde de karşılıklı olarak değişimlerin yaşandığı kültürel süreç aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Kültürleme",
+            "Kültürlenme",
+            "Kültürleşme",
+            "Asimilasyon"
+          ],
+          "dogruCevap": "Kültürleşme"
+        },
+        {
+          "soru": "Bir kültürün, başka bir kültürü siyasi, askeri veya ekonomik baskı yoluyla kendi kültürünü benimsemeye zorlaması hangi kültürleşme türüne örnektir?",
+          "secenekler": [
+            "Kasıtlı Kültürleşme",
+            "Gelişigüzel Kültürleşme",
+            "Zoraki Kültürleşme",
+            "Serbest Kültürleşme"
+          ],
+          "dogruCevap": "Zoraki Kültürleşme"
+        },
+        {
+          "soru": "Eğitim sistemini oluşturan temel öğeler olan girdi, işlem, çıktı ve dönüt arasındaki ilişki, eğitimin hangi özelliğini vurgular?",
+          "secenekler": [
+            "Eğitimin bireysel bir süreç olması",
+            "Eğitimin toplumsal bir olgu olması",
+            "Eğitimin bir sistem olması",
+            "Eğitimin yaşam boyu devam etmesi"
+          ],
+          "dogruCevap": "Eğitimin bir sistem olması"
+        },
+        {
+          "soru": "Bireyin, toplumun kurallarını, değerlerini ve beklentilerini öğrenerek toplumsal yaşama uyum sağlama sürecine ne ad verilir?",
+          "secenekler": [
+            "Kültürleme",
+            "Kültürlenme",
+            "Sosyalleşme",
+            "Öğretim"
+          ],
+          "dogruCevap": "Sosyalleşme"
+        },
+        {
+          "soru": "Belirli hedefler doğrultusunda, planlı ve programlı olarak yürütülen öğrenme-öğretme etkinliklerinin tümüne verilen ad nedir?",
+          "secenekler": [
+            "Eğitim",
+            "Öğretim",
+            "Program Geliştirme",
+            "İnformel Öğrenme"
+          ],
+          "dogruCevap": "Öğretim"
+        },
+        {
+          "soru": "Bir dersin amaçlarını, içeriğini, öğrenme-öğretme süreçlerini ve değerlendirme yöntemlerini ayrıntılı olarak belirten kılavuz niteliğindeki plan hangisidir?",
+          "secenekler": [
+            "Ders Programı",
+            "Öğretim Programı",
+            "Örtük Program",
+            "Ünitelendirilmiş Yıllık Plan"
+          ],
+          "dogruCevap": "Öğretim Programı"
+        },
+        {
+          "soru": "Okulda hangi dersin hangi gün ve saatte yapılacağını gösteren zaman çizelgesine ne ad verilir?",
+          "secenekler": [
+            "Öğretim Programı",
+            "Müfredat",
+            "Ders Programı",
+            "Eğitim Programı"
+          ],
+          "dogruCevap": "Ders Programı"
+        },
+        {
+          "soru": "Okulun fiziki yapısı, kuralları, disiplin anlayışı, öğretmen ve yöneticilerin tutumları gibi faktörlerle öğrencilere aktarılan, resmi programda yazılı olmayan değerler ve iletiler hangi program türü kapsamında değerlendirilir?",
+          "secenekler": [
+            "Resmi Program",
+            "Uygulamadaki Program",
+            "Ekstra Program",
+            "Örtük Program"
+          ],
+          "dogruCevap": "Örtük Program"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi yaygın eğitimin özelliklerinden biridir?",
+          "secenekler": [
+            "Zorunlu olması",
+            "Belirli yaş gruplarına hitap etmesi",
+            "Örgün eğitime göre daha esnek olması",
+            "Diploma verme zorunluluğu olması"
+          ],
+          "dogruCevap": "Örgün eğitime göre daha esnek olması"
+        },
+        {
+          "soru": "Eğitim sürecinin planlanması, uygulanması, değerlendirilmesi ve sürekli iyileştirilmesi çalışmalarını kapsayan dinamik süreç hangisidir?",
+          "secenekler": [
+            "Öğretim",
+            "Program Geliştirme",
+            "Eğitim Yönetimi",
+            "Ölçme ve Değerlendirme"
+          ],
+          "dogruCevap": "Program Geliştirme"
+        }
+      ],
+      "Eğitimin Amaç ve İşlevleri" : [
+        {
+          "soru": "Eğitimin, bireylerin öğrenme süreçlerini, gelişim özelliklerini ve motivasyonlarını anlamak için en çok yararlandığı bilim dalı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Sosyoloji",
+            "Felsefe",
+            "Psikoloji",
+            "Ekonomi"
+          ],
+          "dogruCevap": "Psikoloji"
+        },
+        {
+          "soru": "Eğitim sisteminin toplumsal yapı, kültür, sosyal hareketlilik ve gruplar üzerindeki etkilerini inceleyen ve eğitimin toplumsal bağlamını anlamaya yardımcı olan bilim dalı hangisidir?",
+          "secenekler": [
+            "Psikoloji",
+            "Sosyoloji",
+            "Antropoloji",
+            "Tarih"
+          ],
+          "dogruCevap": "Sosyoloji"
+        },
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre Türk Milli Eğitimi'nin genel amacı, Türk vatandaşlarını belirli niteliklere sahip bireyler olarak yetiştirmektir. Bu durum, eğitimin öncelikle neye hizmet ettiğini gösterir?",
+          "secenekler": [
+            "Sadece ekonomik kalkınmaya",
+            "Sadece siyasi istikrara",
+            "Bireyin ve toplumun gelişimine",
+            "Uluslararası rekabete"
+          ],
+          "dogruCevap": "Bireyin ve toplumun gelişimine"
+        },
+        {
+          "soru": "Eğitimin, toplumun kültürel mirasını (dil, tarih, değerler, normlar vb.) yeni nesillere aktararak toplumsal devamlılığı sağlaması, hangi temel işleviyle ilgilidir?",
+          "secenekler": [
+            "Bireysel İşlevi",
+            "Siyasal İşlevi",
+            "Ekonomik İşlevi",
+            "Toplumsal İşlevi"
+          ],
+          "dogruCevap": "Toplumsal İşlevi"
+        },
+        {
+          "soru": "Bireyin ilgi, yetenek ve potansiyellerini keşfederek kendini gerçekleştirmesine, bedensel, zihinsel ve duygusal olarak sağlıklı bir bütünlüğe ulaşmasına yardımcı olmak, eğitimin hangi işlevi kapsamındadır?",
+          "secenekler": [
+            "Toplumsal İşlevi",
+            "Bireysel İşlevi",
+            "Siyasal İşlevi",
+            "Gizil İşlevi"
+          ],
+          "dogruCevap": "Bireysel İşlevi"
+        },
+        {
+          "soru": "Vatandaşlık hak ve sorumluluklarını bilen, demokratik değerleri benimsemiş, ülkenin yönetim biçimine ve anayasal düzene bağlı bireyler yetiştirmek, eğitimin hangi işleviyle doğrudan ilişkilidir?",
+          "secenekler": [
+            "Ekonomik İşlevi",
+            "Toplumsal İşlevi",
+            "Bireysel İşlevi",
+            "Siyasal İşlevi"
+          ],
+          "dogruCevap": "Siyasal İşlevi"
+        },
+        {
+          "soru": "Toplumun ihtiyaç duyduğu nitelikli insan gücünü yetiştirerek ekonomik kalkınmaya katkıda bulunmak, üretken ve bilinçli tüketiciler yetiştirmek eğitimin hangi işlevine örnektir?",
+          "secenekler": [
+            "Siyasal İşlevi",
+            "Ekonomik İşlevi",
+            "Toplumsal İşlevi",
+            "Bireysel İşlevi"
+          ],
+          "dogruCevap": "Ekonomik İşlevi"
+        },
+        {
+          "soru": "Okulların, öğrencilerin sosyalleşmesi için ortam sağlaması, arkadaşlık ilişkileri kurmalarına ve potansiyel eşlerini tanımalarına olanak tanıması gibi açıkça hedeflenmemiş sonuçları, eğitimin hangi işlevi kapsamında değerlendirilir?",
+          "secenekler": [
+            "Açık İşlevi",
+            "Ekonomik İşlevi",
+            "Gizil İşlevi",
+            "Siyasal İşlevi"
+          ],
+          "dogruCevap": "Gizil İşlevi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi eğitimin toplumsal işlevlerinden biri olarak kabul edilemez?",
+          "secenekler": [
+            "Toplumun kültürel mirasını aktarma",
+            "Toplumsal kontrolü sağlama",
+            "Toplumsal değişime öncülük etme",
+            "Bireyin sadece kişisel mutluluğunu sağlama"
+          ],
+          "dogruCevap": "Bireyin sadece kişisel mutluluğunu sağlama"
+        },
+        {
+          "soru": "Eğitim yoluyla bireylere belirli bir statü kazandırılması ve toplumsal hareketliliğe olanak sağlanması, eğitimin hangi işleviyle daha çok ilgilidir?",
+          "secenekler": [
+            "Bireysel İşlevi",
+            "Siyasal İşlevi",
+            "Ekonomik İşlevi",
+            "Toplumsal İşlevi"
+          ],
+          "dogruCevap": "Toplumsal İşlevi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi eğitimin gizil (örtük) işlevlerine bir örnek olabilir?",
+          "secenekler": [
+            "Öğrencilere okuma yazma öğretmek",
+            "Gençleri belirli bir süre iş gücü piyasasından uzak tutmak",
+            "Vatandaşlık bilgisi dersi vermek",
+            "Mesleki beceriler kazandırmak"
+          ],
+          "dogruCevap": "Gençleri belirli bir süre iş gücü piyasasından uzak tutmak"
+        },
+        {
+          "soru": "Küreselleşme sürecinin eğitim sistemleri üzerindeki etkilerinden biri aşağıdakilerden hangisi olamaz?",
+          "secenekler": [
+            "Eğitimde uluslararası standartların ve akreditasyonun önem kazanması",
+            "Yabancı dil eğitimine verilen önemin artması",
+            "Eğitimde teknolojinin kullanımının yaygınlaşması",
+            "Eğitim sistemlerinin tamamen yerel ve içe kapalı hale gelmesi"
+          ],
+          "dogruCevap": "Eğitim sistemlerinin tamamen yerel ve içe kapalı hale gelmesi"
+        },
+        {
+          "soru": "Küreselleşmeyle birlikte eğitimde rekabetin artması, uluslararası öğrenci ve öğretim üyesi hareketliliğinin yaygınlaşması gibi durumlar, eğitimin hangi yönünün ön plana çıktığını gösterir?",
+          "secenekler": [
+            "Eğitimin yerelleşmesi",
+            "Eğitimin uluslararasılaşması",
+            "Eğitimin gelenekselleşmesi",
+            "Eğitimin bireyselleşmesi"
+          ],
+          "dogruCevap": "Eğitimin uluslararasılaşması"
+        }
+      ],
       "Eğitimin Tarihsel Gelişimi": [
         {
           "soru": "İlk formal eğitim kurumları, hangi medeniyetler tarafından kurulmuştur?",
