@@ -6441,7 +6441,7 @@
           "dogruCevap": "Program Geliştirme"
         }
       ],
-      "Eğitimin Amaç ve İşlevleri" : [
+      "Eğitimin Amaç ve İşlevleri": [
         {
           "soru": "Eğitimin, bireylerin öğrenme süreçlerini, gelişim özelliklerini ve motivasyonlarını anlamak için en çok yararlandığı bilim dalı aşağıdakilerden hangisidir?",
           "secenekler": [
@@ -6573,7 +6573,7 @@
           "dogruCevap": "Eğitimin uluslararasılaşması"
         }
       ],
-      "Eğitimin Tarihsel Temelleri" : [
+      "Eğitimin Tarihsel Temelleri": [
         {
           "soru": "Antik Yunan'da, özellikle Atina'da, hem beden güzelliği ve gücünü hem de zihin ve ruh yetkinliğini birleştiren ideal insanı yetiştirme anlayışını ifade eden kavram aşağıdakilerden hangisidir?",
           "secenekler": [
@@ -7567,7 +7567,7 @@
           "dogruCevap": "Pozitivizm"
         }
       ],
-       "Eğitimin Sosyal- Kültürel Temelleri" : [
+      "Eğitimin Sosyal- Kültürel Temelleri": [
         {
           "soru": "Bireyin toplumun değerlerini, normlarını, inançlarını ve davranış biçimlerini öğrenerek ve içselleştirerek o toplumun bir üyesi haline gelmesi süreci aşağıdakilerden hangisidir?",
           "secenekler": [
@@ -7811,7 +7811,7 @@
           "dogruCevap": "Toplumun ekonomik ve kültürel gelişimine katkıda bulunmak"
         }
       ],
-      "Eğitimin Ekonomik Temelleri" : [
+      "Eğitimin Ekonomik Temelleri": [
         {
           "soru": "Özellikle gelişmekte olan ülkelerde, kıt kaynakların en verimli şekilde kullanılması, nitelikli iş gücü ihtiyacının karşılanması ve toplumsal taleplere cevap verilmesi gibi nedenlerle aşağıdakilerden hangisine duyulan ihtiyaç artmaktadır?",
           "secenekler": [
@@ -7921,6 +7921,250 @@
             "Eğitim Arzı"
           ],
           "dogruCevap": "Beşeri Sermaye ve Verimlilik"
+        }
+      ],
+      "Eğitimin Politik Temelleri": [
+        {
+          "soru": "Devletin, eğitim sisteminin amaçlarını, yapısını, işleyişini, finansmanını ve denetimini belirlemek amacıyla aldığı kararlar ve yürüttüğü uygulamalar bütününe ne ad verilir?",
+          "secenekler": [
+            "Eğitim Felsefesi",
+            "Eğitim Politikası",
+            "Eğitim Planlaması",
+            "Eğitim Yönetimi"
+          ],
+          "dogruCevap": "Eğitim Politikası"
+        },
+        {
+          "soru": "Eğitimin, bireylere toplumun siyasal değerlerini, normlarını ve rollerini aktararak mevcut politik sistemin devamlılığını sağlamasına yardımcı olan işlevi aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Siyasal Toplumsallaşma",
+            "Ekonomik Kalkınma",
+            "Kültürel Mirasın Aktarımı",
+            "Bireysel Gelişim"
+          ],
+          "dogruCevap": "Siyasal Toplumsallaşma"
+        },
+        {
+          "soru": "Demokratik politik sistemlerde eğitimin, eleştirel düşünceyi teşvik etmesi, farklı görüşlere saygıyı öğretmesi ve aktif vatandaşlık bilincini geliştirmesi beklenirken; otoriter sistemlerde genellikle aşağıdakilerden hangisi ön plana çıkar?",
+          "secenekler": [
+            "Bireysel özerklik ve yaratıcılık",
+            "Resmi ideolojiye bağlılık ve sorgulamadan kabul",
+            "Çok kültürlülüğe ve farklılıklara vurgu",
+            "Merkezi olmayan ve esnek eğitim yapısı"
+          ],
+          "dogruCevap": "Resmi ideolojiye bağlılık ve sorgulamadan kabul"
+        },
+        {
+          "soru": "Türkiye'de eğitim politikalarının oluşturulması ve uygulanmasından sorumlu temel yürütme organı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Türkiye Büyük Millet Meclisi (TBMM)",
+            "Yükseköğretim Kurulu (YÖK)",
+            "Milli Eğitim Bakanlığı (MEB)",
+            "Danıştay"
+          ],
+          "dogruCevap": "Milli Eğitim Bakanlığı (MEB)"
+        },
+        {
+          "soru": "Eğitim sisteminin sorunlarını tespit etmek, çözüm önerileri geliştirmek ve eğitim politikalarına yön vermek amacıyla belirli aralıklarla toplanan, eğitimle ilgili çeşitli paydaşların katıldığı ve tavsiye niteliğinde kararlar alan kurul aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Talim ve Terbiye Kurulu Başkanlığı",
+            "Yükseköğretim Kurulu (YÖK)",
+            "Millî Eğitim Şûraları",
+            "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM)"
+          ],
+          "dogruCevap": "Millî Eğitim Şûraları"
+        },
+        {
+          "soru": "Milli Eğitim Şûralarında alınan kararların hukuki niteliği aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Kanun hükmündedir.",
+            "Yönetmelik niteliğindedir.",
+            "Tavsiye niteliğindedir.",
+            "Anayasa değişikliği gerektirir."
+          ],
+          "dogruCevap": "Tavsiye niteliğindedir."
+        },
+        {
+          "soru": "Avrupa ülkeleri arasında yükseköğretimde uyumu sağlamak, diploma ve derecelerin karşılıklı tanınmasını kolaylaştırmak, öğrenci ve öğretim üyesi hareketliliğini artırmak amacıyla başlatılan süreç aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Lizbon Stratejisi",
+            "Kopenhag Kriterleri",
+            "Bologna Süreci",
+            "Maastricht Antlaşması"
+          ],
+          "dogruCevap": "Bologna Süreci"
+        },
+        {
+          "soru": "Türkiye'nin Avrupa Birliği'ne uyum sürecinde, mesleki ve genel eğitimde kazanılan yeterliliklerin ulusal ve uluslararası düzeyde tanınmasını ve karşılaştırılmasını sağlamak amacıyla oluşturulan sistem aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Avrupa Kredi Transfer Sistemi (AKTS)",
+            "Ulusal Yeterlilikler Çerçevesi (TYÇ)",
+            "Hayat Boyu Öğrenme Stratejisi",
+            "Erasmus+ Programı"
+          ],
+          "dogruCevap": "Ulusal Yeterlilikler Çerçevesi (TYÇ)"
+        },
+        {
+          "soru": "Hükümetler tarafından hazırlanan Orta Vadeli Programlar (OVP) veya Kalkınma Planlarında eğitime yer verilmesinin temel amacı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Öğretmen maaşlarını belirlemek",
+            "Okul müfredatını detaylandırmak",
+            "Eğitimi, ülkenin genel ekonomik ve sosyal kalkınma hedefleriyle ilişkilendirmek ve kaynak ayırmak",
+            "Uluslararası sınav sonuçlarını değerlendirmek"
+          ],
+          "dogruCevap": "Eğitimi, ülkenin genel ekonomik ve sosyal kalkınma hedefleriyle ilişkilendirmek ve kaynak ayırmak"
+        },
+        {
+          "soru": "Bir ülkenin benimsediği politik ideoloji, eğitim sisteminin aşağıdaki unsurlarından hangisini en az etkiler?",
+          "secenekler": [
+            "Eğitimin amaçlarını",
+            "Ders kitaplarının içeriğini",
+            "Okulların fiziksel altyapısını",
+            "Öğretmen yetiştirme programlarını"
+          ],
+          "dogruCevap": "Okulların fiziksel altyapısını"
+        }
+      ],
+      "Eğitimin Hukuksal Temelleri": [
+        {
+          "soru": "İnsan Hakları Evrensel Bildirgesi'ne göre, eğitim ile ilgili aşağıdakilerden hangisi vurgulanmaktadır?",
+          "secenekler": [
+            "Eğitimin sadece belirli bir zümreye ait olduğu",
+            "Yükseköğretimin herkes için zorunlu olduğu",
+            "Herkesin eğitim hakkına sahip olduğu ve ilköğretimin zorunlu ve parasız olması gerektiği",
+            "Eğitimin sadece mesleki beceri kazandırması gerektiği"
+          ],
+          "dogruCevap": "Herkesin eğitim hakkına sahip olduğu ve ilköğretimin zorunlu ve parasız olması gerektiği"
+        },
+        {
+          "soru": "Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme'ye göre, taraf devletler çocuğun eğitim hakkını tanırken aşağıdakilerden hangisini öncelikli olarak gözetir?",
+          "secenekler": [
+            "Devletin ekonomik çıkarlarını",
+            "Ailenin tercihlerini",
+            "Öğretmenin mesleki özerkliğini",
+            "Çocuğun kişiliğinin, yeteneklerinin, zihinsel ve bedensel yeteneklerinin tam potansiyeline kadar geliştirilmesini"
+          ],
+          "dogruCevap": "Çocuğun kişiliğinin, yeteneklerinin, zihinsel ve bedensel yeteneklerinin tam potansiyeline kadar geliştirilmesini"
+        },
+        {
+          "soru": "1982 Anayasası'nın 42. Maddesi'ne göre aşağıdakilerden hangisi eğitim ve öğrenim hakkı ile ilgili hükümlerden biri değildir?",
+          "secenekler": [
+            "Kimse eğitim ve öğrenim hakkından yoksun bırakılamaz.",
+            "İlköğretim kız ve erkek bütün vatandaşlar için zorunludur ve Devlet okullarında parasızdır.",
+            "Eğitim ve öğretim, Atatürk ilkeleri ve inkılâpları doğrultusunda yapılır.",
+            "Yükseköğretim kurumları kanunla kurulur ve tamamen özerktir."
+          ],
+          "dogruCevap": "Yükseköğretim kurumları kanunla kurulur ve tamamen özerktir."
+        },
+        {
+          "soru": "Türkiye Cumhuriyeti'nde eğitim ve öğretimde birliği sağlamak amacıyla 3 Mart 1924'te kabul edilen ve tüm okulları Milli Eğitim Bakanlığı'na bağlayan kanun aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "1739 sayılı Milli Eğitim Temel Kanunu",
+            "430 sayılı Tevhid-i Tedrisat Kanunu",
+            "222 sayılı İlköğretim ve Eğitim Kanunu",
+            "657 sayılı Devlet Memurları Kanunu"
+          ],
+          "dogruCevap": "430 sayılı Tevhid-i Tedrisat Kanunu"
+        },
+        {
+          "soru": "Türk Milli Eğitimi'nin genel çerçevesini çizen, amaçlarını, temel ilkelerini ve eğitim sisteminin yapısını düzenleyen temel kanun aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Tevhid-i Tedrisat Kanunu",
+            "İlköğretim ve Eğitim Kanunu",
+            "Milli Eğitim Temel Kanunu (1739 sayılı)",
+            "Yükseköğretim Kanunu (2547 sayılı)"
+          ],
+          "dogruCevap": "Milli Eğitim Temel Kanunu (1739 sayılı)"
+        },
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre, Türk Milli Eğitimi'nin genel amacı; Türk vatandaşlarını Atatürk inkılap ve ilkelerine ve Anayasa'da ifadesini bulan Atatürk milliyetçiliğine bağlı, Türk Milletinin milli, ahlaki, insani, manevi ve kültürel değerlerini benimseyen, koruyan ve geliştiren bireyler olarak yetiştirmektir. Bu tanım eğitimin hangi yönünü vurgular?",
+          "secenekler": [
+            "Sadece mesleki yeterlilik kazandırmayı",
+            "Uluslararası standartlara uyumu",
+            "İyi insan ve iyi vatandaş yetiştirmeyi",
+            "Bilimsel ve teknolojik gelişmeyi"
+          ],
+          "dogruCevap": "İyi insan ve iyi vatandaş yetiştirmeyi"
+        },
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'nda yer alan \"Eğitim kurumları dil, ırk, cinsiyet, engellilik ve din ayrımı gözetilmeksizin herkese açıktır.\" ifadesi, Türk Milli Eğitimi'nin hangi temel ilkesini açıklar?",
+          "secenekler": [
+            "Fırsat ve İmkân Eşitliği",
+            "Süreklilik",
+            "Genellik ve Eşitlik",
+            "Laiklik"
+          ],
+          "dogruCevap": "Genellik ve Eşitlik"
+        },
+        {
+          "soru": "Maddi imkânlardan yoksun başarılı öğrencilerin en yüksek eğitim kademelerine kadar öğrenim görmelerini sağlamak amacıyla burs, kredi ve başka yollarla gerekli yardımların yapılması, 1739 sayılı Kanun'un hangi temel ilkesinin bir gereğidir?",
+          "secenekler": [
+            "Bilimsellik",
+            "Planlılık",
+            "Demokrasi Eğitimi",
+            "Fırsat ve İmkân Eşitliği"
+          ],
+          "dogruCevap": "Fırsat ve İmkân Eşitliği"
+        },
+        {
+          "soru": "1739 sayılı Kanun'a göre, \"Fertlerin genel ve mesleki eğitimlerinin hayat boyunca devam etmesi esastır.\" hükmü, hangi temel ilkeyi ifade etmektedir?",
+          "secenekler": [
+            "Süreklilik",
+            "Her Yerde Eğitim",
+            "Planlılık",
+            "Bilimsellik"
+          ],
+          "dogruCevap": "Süreklilik"
+        },
+        {
+          "soru": "Türk Milli Eğitimi'nin temel ilkelerinden olan \"Laiklik\" ilkesi gereğince aşağıdakilerden hangisi doğrudur?",
+          "secenekler": [
+            "Din kültürü ve ahlak öğretimi ilk ve ortaöğretim kurumlarında zorunlu dersler arasında yer alır.",
+            "Tüm okullarda sadece dini eğitim verilir.",
+            "Din eğitimi ve öğretimi ancak kişilerin kendi isteğine ve küçüklerin de kanuni temsilcisinin isteğine bağlıdır.",
+            "Devletin din eğitimine karışmaması esastır."
+          ],
+          "dogruCevap": "Din kültürü ve ahlak öğretimi ilk ve ortaöğretim kurumlarında zorunlu dersler arasında yer alır."
+        },
+        {
+          "soru": "1739 sayılı Kanun'da yer alan \"Her derece ve türdeki ders programları ve eğitim metotlarıyla ders araç ve gereçleri, bilimsel ve teknolojik esaslara ve yeniliklere, çevre ve ülke ihtiyaçlarına göre sürekli olarak geliştirilir.\" ifadesi, hangi temel ilkeyi vurgular?",
+          "secenekler": [
+            "Planlılık",
+            "Bilimsellik",
+            "Laiklik",
+            "Demokrasi Eğitimi"
+          ],
+          "dogruCevap": "Bilimsellik"
+        },
+        {
+          "soru": "\"Okullarda kız ve erkek karma eğitim yapılması esastır. Ancak eğitimin türüne, imkân ve zorunluluklara göre bazı okullar yalnızca kız veya yalnızca erkek öğrencilere ayrılabilir.\" hükmü, 1739 sayılı Kanun'un hangi temel ilkesiyle ilgilidir?",
+          "secenekler": [
+            "Genellik ve Eşitlik",
+            "Fırsat ve İmkân Eşitliği",
+            "Karma Eğitim",
+            "Laiklik"
+          ],
+          "dogruCevap": "Karma Eğitim"
+        },
+        {
+          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'nda belirtilen \"Eğitim kurumlarının amaçlarının gerçekleştirilmesine katkıda bulunmak için okul ile aile arasında işbirliği sağlanır.\" ilkesi aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Demokrasi Eğitimi",
+            "Her Yerde Eğitim",
+            "Okul-Aile İşbirliği",
+            "Süreklilik"
+          ],
+          "dogruCevap": "Okul-Aile İşbirliği"
+        },
+        {
+          "soru": "Milli eğitimin sadece örgün eğitim kurumlarıyla sınırlı olmadığını, yaygın eğitim faaliyetlerini de kapsadığını ve eğitimin her zaman, her yerde sürdürülebileceğini ifade eden temel ilke hangisidir?",
+          "secenekler": [
+            "Süreklilik",
+            "Planlılık",
+            "Fırsat ve İmkân Eşitliği",
+            "Her Yerde Eğitim"
+          ],
+          "dogruCevap": "Her Yerde Eğitim"
         }
       ],
       "Eğitimin Ekonomik ve Politik Temelleri": [
@@ -8307,6 +8551,624 @@
           "dogruCevap": "Etnografik araştırma"
         }
       ],
+      "Eğitim Teknolojileri ve Materyal Tasarımı": [
+        {
+          "soru": "Bloom'un bilişsel alan taksonomisine göre, öğrenilen bilgileri yeni ve farklı durumlarda kullanabilme becerisi hangi basamağa karşılık gelir?",
+          "secenekler": [
+            "Bilgi",
+            "Kavrama",
+            "Uygulama",
+            "Analiz"
+          ],
+          "dogruCevap": "Uygulama"
+        },
+        {
+          "soru": "Edgar Dale'in Yaşantı Konisi'ne göre, aşağıdakilerden hangisi en kalıcı öğrenmeyi sağlayan, en somut yaşantı türüne örnektir?",
+          "secenekler": [
+            "Sözel sembollerle çalışma",
+            "Görsel sembolleri inceleme",
+            "Dramatizasyona katılma",
+            "Doğrudan doğruya maksatlı yaşantılar edinme"
+          ],
+          "dogruCevap": "Doğrudan doğruya maksatlı yaşantılar edinme"
+        },
+        {
+          "soru": "Öğretim materyali seçimi yapılırken aşağıdakilerden hangisi diğerlerine göre daha az öncelikli bir faktördür?",
+          "secenekler": [
+            "Öğretim hedeflerine uygunluk",
+            "Öğrencilerin gelişim özellikleri ve ön bilgileri",
+            "Materyalin estetik açıdan çok süslü olması",
+            "Öğretim ortamının fiziksel koşulları"
+          ],
+          "dogruCevap": "Materyalin estetik açıdan çok süslü olması"
+        },
+        {
+          "soru": "Bir görsel materyalde yer alan öğelerin (metin, resim, grafik vb.) birbiriyle ilişkili görünmesini sağlama, dağınıklığı önleme ve anlamlı gruplar oluşturma ilkesi aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Denge",
+            "Vurgu",
+            "Yakınlık",
+            "Bütünlük"
+          ],
+          "dogruCevap": "Yakınlık"
+        },
+        {
+          "soru": "Görsel tasarımda, öğeler arasında görsel bir hiyerarşi oluşturarak dikkati belirli bir noktaya çekmek ve önemli bilgiyi öne çıkarmak için kullanılan ilke hangisidir?",
+          "secenekler": [
+            "Hizalama",
+            "Bütünlük",
+            "Denge",
+            "Vurgu"
+          ],
+          "dogruCevap": "Vurgu"
+        },
+        {
+          "soru": "Görsel tasarım öğelerinden hangisi, yüzeyin dokunsal veya görsel kalitesini ifade eder ve materyale gerçekçilik hissi katabilir?",
+          "secenekler": [
+            "Çizgi",
+            "Renk",
+            "Doku",
+            "Alan"
+          ],
+          "dogruCevap": "Doku"
+        },
+        {
+          "soru": "Zamana bağlı değişimleri veya iki değişken arasındaki ilişkiyi göstermek için en uygun grafik türü aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Sütun Grafik",
+            "Çizgi Grafik",
+            "Pasta Grafik",
+            "Resim Grafik"
+          ],
+          "dogruCevap": "Çizgi Grafik"
+        },
+        {
+          "soru": "Bir bütünün parçalarını veya oranlarını göstermek amacıyla kullanılan grafik türü hangisidir?",
+          "secenekler": [
+            "Çizgi Grafik",
+            "Sütun Grafik",
+            "Pasta Grafik",
+            "Akış Şeması"
+          ],
+          "dogruCevap": "Pasta Grafik"
+        },
+        {
+          "soru": "Etkili bir yansı (slayt) sunumu hazırlarken aşağıdakilerden hangisine dikkat edilmesi önerilmez?",
+          "secenekler": [
+            "Her slaytta tek bir ana fikir veya konuya odaklanmak",
+            "Slaytları mümkün olduğunca çok metinle doldurmak",
+            "Görsel öğeleri (resim, grafik vb.) dengeli kullanmak",
+            "Okunabilir yazı tipi boyutu ve rengi seçmek"
+          ],
+          "dogruCevap": "Slaytları mümkün olduğunca çok metinle doldurmak"
+        },
+        {
+          "soru": "Hazırlanan bir öğretim materyalinin hedeflere ulaşıp ulaşmadığını, öğrenciler üzerindeki etkisini ve varsa eksikliklerini belirlemek amacıyla yapılan işleme ne ad verilir?",
+          "secenekler": [
+            "Materyal Tasarımı",
+            "Materyal Seçimi",
+            "Materyal Değerlendirmesi",
+            "Materyal Uygulaması"
+          ],
+          "dogruCevap": "Materyal Değerlendirmesi"
+        },
+        {
+          "soru": "Öğrencilerin bilgisayar aracılığıyla belirli bir konuyu tekrar etmelerini veya öğrendikleri becerileri pekiştirmelerini sağlayan Bilgisayar Destekli Öğretim (BDÖ) yazılım türü hangisidir?",
+          "secenekler": [
+            "Öğretici Yazılımlar (Tutorials)",
+            "Alıştırma ve Tekrar Yazılımları (Drill and Practice)",
+            "Benzetim (Simülasyon) Yazılımları",
+            "Problem Çözme Yazılımları"
+          ],
+          "dogruCevap": "Alıştırma ve Tekrar Yazılımları (Drill and Practice)"
+        },
+        {
+          "soru": "Gerçek hayatta tehlikeli, pahalı veya zaman alıcı olabilecek durumları bilgisayar ortamında canlandırarak öğrencilerin deneyim kazanmasını sağlayan BDÖ yazılım türü hangisidir?",
+          "secenekler": [
+            "Öğretici Yazılımlar",
+            "Alıştırma ve Tekrar Yazılımları",
+            "Benzetim (Simülasyon) Yazılımları",
+            "Eğitsel Oyunlar"
+          ],
+          "dogruCevap": "Benzetim (Simülasyon) Yazılımları"
+        },
+        {
+          "soru": "Öğretim sürecinde etkili iletişim kurmak isteyen bir öğretmenin aşağıdakilerden hangisini yapması beklenmez?",
+          "secenekler": [
+            "Öğrencileri dikkatle dinlemek ve geri bildirim vermek",
+            "Açık ve anlaşılır bir dil kullanmak",
+            "Empati kurarak öğrencilerin duygu ve düşüncelerini anlamaya çalışmak",
+            "Sadece kendi doğrularını kabul ettirmeye çalışmak"
+          ],
+          "dogruCevap": "Sadece kendi doğrularını kabul ettirmeye çalışmak"
+        },
+        {
+          "soru": "Görsel materyallerde kullanılan renklerin seçiminde aşağıdakilerden hangisi dikkate alınması gereken önemli bir faktör değildir?",
+          "secenekler": [
+            "Renklerin kültürel anlamları",
+            "Renklerin uyumu ve kontrastı",
+            "Renklerin duygusal etkileri",
+            "Kullanılabilecek en fazla sayıda rengi kullanmak"
+          ],
+          "dogruCevap": "Kullanılabilecek en fazla sayıda rengi kullanmak"
+        },
+        {
+          "soru": "Bir öğretim materyalinin tasarımında, öğelerin sayfa üzerinde dengeli bir şekilde dağıtılması anlamına gelen ilke hangisidir?",
+          "secenekler": [
+            "Bütünlük",
+            "Vurgu",
+            "Hizalama",
+            "Denge"
+          ],
+          "dogruCevap": "Denge"
+        }
+      ],
+      "Eğitim Mekanlarının Planlanması": [
+        {
+          "soru": "Yeni bir okul binası için yer seçimi yapılırken aşağıdakilerden hangisi öncelikle dikkate alınması gereken faktörlerden biri değildir?",
+          "secenekler": [
+            "Öğrencilerin güvenli ulaşımı",
+            "Çevredeki gürültü ve kirlilik kaynakları",
+            "Arsanın sadece ticari değeri",
+            "Zeminin sağlamlığı ve altyapı olanakları"
+          ],
+          "dogruCevap": "Arsanın sadece ticari değeri"
+        },
+        {
+          "soru": "Sınıf ortamındaki sıra, masa, sandalye gibi araçların öğrencilerin fiziksel özelliklerine, yaşlarına ve sağlıklarına uygun boyutlarda ve yapıda olmasını ifade eden kavram aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Estetik",
+            "Ergonomi",
+            "Hijyen",
+            "Akustik"
+          ],
+          "dogruCevap": "Ergonomi"
+        },
+        {
+          "soru": "Sınıf yönetiminin temel amacı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Öğrencileri sürekli kontrol altında tutmak",
+            "Etkili bir öğrenme-öğretme ortamı oluşturmak ve sürdürmek",
+            "Sınıfı tamamen sessiz hale getirmek",
+            "Sadece disiplin sorunlarını çözmek"
+          ],
+          "dogruCevap": "Etkili bir öğrenme-öğretme ortamı oluşturmak ve sürdürmek"
+        },
+        {
+          "soru": "Sınıfın ışık, ısı, renk, temizlik, oturma düzeni gibi fiziksel koşullarının öğrenmeye uygun hale getirilmesi, sınıf yönetiminin hangi boyutuyla ilgilidir?",
+          "secenekler": [
+            "Zaman Yönetimi",
+            "İlişki Düzenlemeleri",
+            "Fiziksel Düzen Yönetimi",
+            "Davranış Düzenlemeleri"
+          ],
+          "dogruCevap": "Fiziksel Düzen Yönetimi"
+        },
+        {
+          "soru": "Öğretmenin ders anlatımı gibi sunuşa dayalı yöntemleri kullanırken ve sınıf kontrolünü en üst düzeyde tutmak istediğinde tercih edebileceği, ancak öğrenci etkileşimini sınırlayan sınıf yerleşim düzeni hangisidir?",
+          "secenekler": [
+            "Küme (Çok Grup) Düzeni",
+            "Klasik (Sıralı) Düzen",
+            "U Düzeni",
+            "Bireysel Düzen"
+          ],
+          "dogruCevap": "Klasik (Sıralı) Düzen"
+        },
+        {
+          "soru": "Öğrencilerin küçük gruplar halinde işbirliği yaparak çalıştığı, proje tabanlı veya istasyon gibi yöntemlerin uygulandığı durumlarda en uygun sınıf yerleşim düzeni aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Klasik (Sıralı) Düzen",
+            "Konferans Düzeni",
+            "Küme (Çok Grup) Düzeni",
+            "Tek Grup Düzeni"
+          ],
+          "dogruCevap": "Küme (Çok Grup) Düzeni"
+        },
+        {
+          "soru": "Öğrenci-öğretmen etkileşimini artırmak, tartışma ve gösteri (demonstrasyon) gibi yöntemleri kolaylaştırmak amacıyla kullanılan, öğrencilerin birbirlerini ve öğretmeni rahatça görebildiği yerleşim düzeni hangisidir?",
+          "secenekler": [
+            "Klasik (Sıralı) Düzen",
+            "U Düzeni / Yarım Daire Düzeni",
+            "Bireysel Düzen",
+            "Serbest Düzen"
+          ],
+          "dogruCevap": "U Düzeni / Yarım Daire Düzeni"
+        },
+        {
+          "soru": "Sınıfta aynı anda birçok olayın meydana gelmesi ve öğretmenin birden fazla duruma dikkat etmek zorunda kalması, sınıf ortamının hangi yapısal özelliğini ifade eder?",
+          "secenekler": [
+            "Anındalık",
+            "Eş Zamanlılık",
+            "Yordanmazlık",
+            "Açıklık"
+          ],
+          "dogruCevap": "Eş Zamanlılık"
+        },
+        {
+          "soru": "Sınıf ortamında olayların beklenmedik bir şekilde ortaya çıkabilmesi ve öğretmenin anlık kararlar vermek zorunda kalması, sınıfın hangi yapısal özelliğidir?",
+          "secenekler": [
+            "Çok Boyutluluk",
+            "Ortak Tarih",
+            "Yordanmazlık (Tahmin Edilemezlik)",
+            "Açıklık"
+          ],
+          "dogruCevap": "Yordanmazlık (Tahmin Edilemezlik)"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi etkili bir sınıf yöneticisi olarak öğretmende bulunması beklenen özelliklerden biri değildir?",
+          "secenekler": [
+            "Alanında yeterli bilgi ve beceriye sahip olma",
+            "Öğrencilere karşı tutarsız ve öngörülemez davranma",
+            "İyi iletişim becerilerine sahip olma ve empati kurabilme",
+            "Demokratik, adil ve tutarlı bir liderlik sergileme"
+          ],
+          "dogruCevap": "Öğrencilere karşı tutarsız ve öngörülemez davranma"
+        },
+        {
+          "soru": "Bir öğretmenin öğrencilerle iletişim kurarken sürekli olarak emir cümleleri kullanması, tehdit etmesi veya öğrencilerle alay etmesi, hangi tür istenmeyen öğretmen davranışlarına örnektir?",
+          "secenekler": [
+            "İlgisizlik",
+            "Aşırı otoriter ve baskıcı tutum",
+            "Tutarsızlık",
+            "Ayrımcılık"
+          ],
+          "dogruCevap": "Aşırı otoriter ve baskıcı tutum"
+        },
+        {
+          "soru": "Öğrencilerin görüşlerine değer veren, kuralları birlikte belirleyen, eleştirilere açık olan ve öğrencilere karşı saygılı ve adil davranan bir öğretmen hangi tutumu sergilemektedir?",
+          "secenekler": [
+            "Otoriter Tutum",
+            "İlgisiz (Boş Vermiş) Tutum",
+            "Demokratik Tutum",
+            "Tutarsız Tutum"
+          ],
+          "dogruCevap": "Demokratik Tutum"
+        },
+        {
+          "soru": "Etkili sınıf kuralları oluşturulurken aşağıdakilerden hangisine dikkat edilmesi önerilmez?",
+          "secenekler": [
+            "Kuralların öğrencilerle birlikte belirlenmesi",
+            "Kuralların mümkün olduğunca çok sayıda ve ayrıntılı olması",
+            "Kuralların açık, anlaşılır ve gözlenebilir davranışları ifade etmesi",
+            "Kuralların genellikle olumlu ifadelerle yazılması (örn: 'Koşmayın' yerine 'Koridorda yürüyelim')"
+          ],
+          "dogruCevap": "Kuralların mümkün olduğunca çok sayıda ve ayrıntılı olması"
+        },
+        {
+          "soru": "Sınıf kurallarının belirlenmesinde öğrencilerin katılımının sağlanmasının temel amacı nedir?",
+          "secenekler": [
+            "Öğretmenin iş yükünü azaltmak",
+            "Öğrencilerin kuralları benimsemesini ve sahiplenmesini kolaylaştırmak",
+            "Daha fazla kural oluşturmak",
+            "Ailelerin sürece müdahil olmasını engellemek"
+          ],
+          "dogruCevap": "Öğrencilerin kuralları benimsemesini ve sahiplenmesini kolaylaştırmak"
+        },
+        {
+          "soru": "Öğretmenin, öğrencinin gelişimi ve okuldaki durumu hakkında velilerle düzenli olarak bilgi paylaşması, işbirliği yapması ve destek alması sürecinde aşağıdaki yöntemlerden hangisi kullanılmaz?",
+          "secenekler": [
+            "Veli toplantıları ve bireysel görüşmeler",
+            "Öğrenci karneleri ve gelişim raporları",
+            "Diğer velilerle öğrencinin özel durumunu paylaşma",
+            "Telefon, e-posta veya okulun iletişim sistemleri"
+          ],
+          "dogruCevap": "Diğer velilerle öğrencinin özel durumunu paylaşma"
+        },
+        {
+          "soru": "Ailelerle etkili iletişim kurarken öğretmenin dikkat etmesi gereken en önemli hususlardan biri aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Sadece öğrencinin olumsuz yönlerini vurgulamak",
+            "Veliyi sürekli eleştirmek ve suçlamak",
+            "Empati kurmak, saygılı olmak ve işbirliğine açık bir tutum sergilemek",
+            "Görüşmeleri mümkün olduğunca kısa tutmak"
+          ],
+          "dogruCevap": "Empati kurmak, saygılı olmak ve işbirliğine açık bir tutum sergilemek"
+        }
+      ],
+      "Üst Düzey Düşünme Becerileri ve Çağdaş Yaklaşımlar": [
+        {
+          "soru": "Bir iddiayı veya bilgiyi olduğu gibi kabul etmek yerine; kanıtları sorgulama, mantıksal tutarlılığı değerlendirme, farklı bakış açılarını dikkate alma ve bilinçli yargılara varma becerisi aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Yaratıcı Düşünme",
+            "Eleştirel Düşünme",
+            "Yansıtıcı Düşünme",
+            "Metabilişsel Düşünme"
+          ],
+          "dogruCevap": "Eleştirel Düşünme"
+        },
+        {
+          "soru": "Problemlere özgün ve farklı çözümler üretebilme, yeni fikirler ortaya koyabilme, kalıpların dışına çıkabilme ve hayal gücünü kullanabilme becerisi hangi düşünme türüyle ilgilidir?",
+          "secenekler": [
+            "Eleştirel Düşünme",
+            "Analitik Düşünme",
+            "Yaratıcı Düşünme",
+            "Yansıtıcı Düşünme"
+          ],
+          "dogruCevap": "Yaratıcı Düşünme"
+        },
+        {
+          "soru": "Bireyin kendi öğrenme deneyimleri üzerine düşünmesi, neyi nasıl öğrendiğini analiz etmesi, güçlü ve zayıf yönlerini fark etmesi ve gelecekteki öğrenmelerini planlaması hangi düşünme becerisiyle ilişkilidir?",
+          "secenekler": [
+            "Eleştirel Düşünme",
+            "Yaratıcı Düşünme",
+            "Yansıtıcı Düşünme",
+            "Iraksak Düşünme"
+          ],
+          "dogruCevap": "Yansıtıcı Düşünme"
+        },
+        {
+          "soru": "Bireyin kendi düşünme süreçlerinin farkında olması, öğrenme hedeflerini belirlemesi, uygun stratejileri seçmesi, öğrenmesini izlemesi ve değerlendirmesi anlamına gelen 'öğrenmeyi öğrenme' becerisi hangisidir?",
+          "secenekler": [
+            "Yansıtıcı Düşünme",
+            "Eleştirel Düşünme",
+            "Metabilişsel Düşünme (Üstbiliş)",
+            "Yaratıcı Düşünme"
+          ],
+          "dogruCevap": "Metabilişsel Düşünme (Üstbiliş)"
+        },
+        {
+          "soru": "Öğrenmenin, bireyin ön bilgileri ve deneyimleri üzerine yeni bilgileri aktif olarak anlamlandırması ve yapılandırması süreci olduğunu savunan çağdaş öğrenme yaklaşımı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Davranışçılık",
+            "Yapılandırmacılık",
+            "Bilişselcilik",
+            "İnsancıl Yaklaşım"
+          ],
+          "dogruCevap": "Yapılandırmacılık"
+        },
+        {
+          "soru": "Howard Gardner tarafından geliştirilen ve zekânın tek bir boyuttan oluşmadığını, farklı zekâ alanları (sözel-dilsel, mantıksal-matematiksel, görsel-uzamsal vb.) olduğunu savunan kuram hangisidir?",
+          "secenekler": [
+            "Bilgiyi İşleme Kuramı",
+            "Sosyal Öğrenme Kuramı",
+            "Çoklu Zekâ Kuramı",
+            "Yapılandırmacılık"
+          ],
+          "dogruCevap": "Çoklu Zekâ Kuramı"
+        },
+        {
+          "soru": "Öğrencilerin gerçek yaşamla ilişkili, disiplinlerarası bir konu üzerinde uzun süreli çalışarak somut bir ürün (rapor, model, sunum vb.) ortaya koymalarını temel alan öğretim yaklaşımı hangisidir?",
+          "secenekler": [
+            "Probleme Dayalı Öğrenme",
+            "Proje Tabanlı Öğrenme",
+            "İşbirliğine Dayalı Öğrenme",
+            "Beyin Temelli Öğrenme"
+          ],
+          "dogruCevap": "Proje Tabanlı Öğrenme"
+        },
+        {
+          "soru": "Öğrenme sürecinin, öğrencilere sunulan karmaşık ve gerçek yaşamla ilişkili bir problem durumu etrafında şekillendiği, öğrencilerin problemi araştırarak ve işbirliği yaparak çözmeye çalıştığı öğretim yaklaşımı hangisidir?",
+          "secenekler": [
+            "Proje Tabanlı Öğrenme",
+            "Aktif Öğrenme",
+            "Probleme Dayalı Öğrenme",
+            "Kuantum Öğrenme"
+          ],
+          "dogruCevap": "Probleme Dayalı Öğrenme"
+        },
+        {
+          "soru": "Öğrencilerin öğrenme sürecine zihinsel ve/veya bedensel olarak katıldığı, pasif dinleyici olmak yerine sorgulama, tartışma, uygulama gibi etkinliklerde bulunduğu öğrenme anlayışına ne ad verilir?",
+          "secenekler": [
+            "Ezbere Dayalı Öğrenme",
+            "Pasif Öğrenme",
+            "Aktif Öğrenme",
+            "Bireysel Öğrenme"
+          ],
+          "dogruCevap": "Aktif Öğrenme"
+        },
+        {
+          "soru": "Öğrencilerin ortak bir amaç doğrultusunda küçük gruplar halinde çalışarak birbirlerinin öğrenmesine yardımcı olduğu, bireysel sorumluluğun yanı sıra grup başarısının da önemli olduğu öğrenme modeli hangisidir?",
+          "secenekler": [
+            "Rekabetçi Öğrenme",
+            "Bireysel Öğrenme",
+            "İşbirliğine Dayalı Öğrenme",
+            "Proje Tabanlı Öğrenme"
+          ],
+          "dogruCevap": "İşbirliğine Dayalı Öğrenme"
+        },
+        {
+          "soru": "İşbirliğine dayalı öğrenmenin başarılı olması için gerekli olan temel unsurlardan biri olan, grup üyelerinin hem kendi öğrenmelerinden hem de diğer üyelerin öğrenmesinden sorumlu oldukları anlayış hangisidir?",
+          "secenekler": [
+            "Yüz Yüze Etkileşim",
+            "Olumlu Bağımlılık",
+            "Sosyal Beceriler",
+            "Grup Sürecinin Değerlendirilmesi"
+          ],
+          "dogruCevap": "Olumlu Bağımlılık"
+        },
+        {
+          "soru": "Beynin doğal öğrenme süreçlerini temel alan, stresten uzak, olumlu ve zenginleştirilmiş öğrenme ortamları oluşturmayı, farklı öğretim stratejilerini ve müzik gibi unsurları kullanmayı öneren öğrenme modeli hangisidir?",
+          "secenekler": [
+            "Kuantum Öğrenme",
+            "Süreç Temelli Öğrenme",
+            "Beyin Temelli Öğrenme",
+            "Aktif Öğrenme"
+          ],
+          "dogruCevap": "Beyin Temelli Öğrenme"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi 21. yüzyıl becerileri olarak kabul edilen temel yeterliliklerden biri değildir?",
+          "secenekler": [
+            "İletişim (Communication)",
+            "İş birliği (Collaboration)",
+            "Ezberleme (Memorization)",
+            "Eleştirel Düşünme (Critical Thinking)"
+          ],
+          "dogruCevap": "Ezberleme (Memorization)"
+        },
+        {
+          "soru": "Öğrenme sürecinde ürün kadar sürecin de önemli olduğunu vurgulayan, öğrencilerin nasıl öğrendiklerini, hangi stratejileri kullandıklarını ve karşılaştıkları zorlukları anlamaya odaklanan yaklaşım hangisidir?",
+          "secenekler": [
+            "Proje Tabanlı Öğrenme",
+            "Süreç Temelli Öğrenme",
+            "Probleme Dayalı Öğrenme",
+            "Kuantum Öğrenme"
+          ],
+          "dogruCevap": "Süreç Temelli Öğrenme"
+        },
+        {
+          "soru": "P21 (21. Yüzyıl Becerileri İçin Ortaklık Projesi) çerçevesinde vurgulanan temel beceri alanları arasında aşağıdakilerden hangisi yer almaz?",
+          "secenekler": [
+            "Öğrenme ve Yenilik Becerileri (4C: Yaratıcılık, Eleştirel Düşünme, İletişim, İşbirliği)",
+            "Bilgi, Medya ve Teknoloji Becerileri",
+            "Yaşam ve Kariyer Becerileri",
+            "Geleneksel El Sanatları Becerileri"
+          ],
+          "dogruCevap": "Geleneksel El Sanatları Becerileri"
+        }
+      ],
+      "Çağdaş Yaklaşımlar ve Uzaktan Eğitim": [
+        {
+          "soru": "Öğrenenlerin ve öğretenlerin fiziksel olarak aynı mekânda bulunmadığı, öğretim materyallerinin ve iletişimin çeşitli teknolojiler aracılığıyla sağlandığı eğitim türü hangisidir?",
+          "secenekler": [
+            "Yüz Yüze Eğitim",
+            "Harmanlanmış Eğitim",
+            "Uzaktan Eğitim",
+            "Aktif Öğrenme"
+          ],
+          "dogruCevap": "Uzaktan Eğitim"
+        },
+        {
+          "soru": "Uzaktan eğitimde, öğrenci ve öğretmenin eş zamanlı olarak sanal bir sınıfta veya video konferans yoluyla etkileşimde bulunduğu uygulama türü hangisidir?",
+          "secenekler": [
+            "Asenkron Uzaktan Eğitim",
+            "Senkron Uzaktan Eğitim",
+            "Karma Uzaktan Eğitim",
+            "Bağımsız Uzaktan Eğitim"
+          ],
+          "dogruCevap": "Senkron Uzaktan Eğitim"
+        },
+        {
+          "soru": "Öğrencilerin ders içeriklerine (video, metin vb.) kendi hızlarında ve istedikleri zaman eriştikleri, etkileşimin genellikle forumlar veya e-posta yoluyla sağlandığı uzaktan eğitim türü hangisidir?",
+          "secenekler": [
+            "Senkron Uzaktan Eğitim",
+            "Yüz Yüze Eğitim",
+            "Asenkron Uzaktan Eğitim",
+            "Doğrudan Öğretim"
+          ],
+          "dogruCevap": "Asenkron Uzaktan Eğitim"
+        },
+        {
+          "soru": "Öğrenme materyallerinin ve etkinliklerinin dijital teknolojiler (internet, bilgisayar, mobil cihazlar vb.) aracılığıyla sunulduğu öğrenme biçimine ne ad verilir?",
+          "secenekler": [
+            "Geleneksel Öğrenme",
+            "E-Öğrenme",
+            "Dışarıda Öğrenme",
+            "Ezbere Dayalı Öğrenme"
+          ],
+          "dogruCevap": "E-Öğrenme"
+        },
+        {
+          "soru": "Yüz yüze eğitimin avantajlarıyla çevrim içi (online) öğrenmenin esnekliğini birleştiren, her iki ortamın da belirli oranlarda kullanıldığı eğitim modeli hangisidir?",
+          "secenekler": [
+            "Tamamen Çevrim İçi Eğitim",
+            "Tamamen Yüz Yüze Eğitim",
+            "Harmanlanmış (Karma) Eğitim",
+            "Uzaktan Eğitim"
+          ],
+          "dogruCevap": "Harmanlanmış (Karma) Eğitim"
+        },
+        {
+          "soru": "Bireylerin okul yıllarıyla sınırlı kalmayıp, yaşamları boyunca bilgi, beceri ve yeteneklerini sürekli olarak geliştirme ihtiyacını ve sürecini ifade eden kavram hangisidir?",
+          "secenekler": [
+            "Zorunlu Eğitim",
+            "Örgün Eğitim",
+            "Yaşam Boyu Öğrenme",
+            "Mesleki Eğitim"
+          ],
+          "dogruCevap": "Yaşam Boyu Öğrenme"
+        },
+        {
+          "soru": "Geleneksel ders anlatımının (genellikle videolar aracılığıyla) evde veya ders dışında öğrenciler tarafından izlendiği, ders saatlerinin ise daha çok uygulama, tartışma, proje ve problem çözme etkinliklerine ayrıldığı öğrenme modeli hangisidir?",
+          "secenekler": [
+            "Probleme Dayalı Öğrenme",
+            "Proje Tabanlı Öğrenme",
+            "Ters-Yüz Öğrenme (Flipped Classroom)",
+            "Doğrudan Öğretim"
+          ],
+          "dogruCevap": "Ters-Yüz Öğrenme (Flipped Classroom)"
+        },
+        {
+          "soru": "Sınıftaki öğrencilerin bireysel farklılıklarını (hazırbulunuşluk, ilgi, öğrenme profili vb.) dikkate alarak, öğretim sürecini, içeriği, ürünü ve öğrenme ortamını çeşitlendirmeyi temel alan öğretim yaklaşımı hangisidir?",
+          "secenekler": [
+            "Standartlaştırılmış Öğretim",
+            "Doğrudan Öğretim",
+            "Farklılaştırılmış Öğretim",
+            "Ezbere Dayalı Öğretim"
+          ],
+          "dogruCevap": "Farklılaştırılmış Öğretim"
+        },
+        {
+          "soru": "Farklılaştırılmış öğretimde öğretmenin, öğrencilerin hazırbulunuşluk düzeylerine göre aynı konuyu farklı karmaşıklık seviyelerinde sunması, hangi öğenin farklılaştırıldığına örnektir?",
+          "secenekler": [
+            "Süreç",
+            "Ürün",
+            "İçerik",
+            "Öğrenme Ortamı"
+          ],
+          "dogruCevap": "İçerik"
+        },
+        {
+          "soru": "Farklılaştırılmış öğretimde öğretmenin, öğrencilerin öğrendiklerini göstermeleri için farklı seçenekler sunması (örneğin, rapor yazma, sunum yapma, model oluşturma), hangi öğenin farklılaştırıldığına örnektir?",
+          "secenekler": [
+            "Süreç",
+            "Ürün",
+            "İçerik",
+            "Öğrenme Ortamı"
+          ],
+          "dogruCevap": "Ürün"
+        },
+        {
+          "soru": "Öğrenme sürecinin, öğrencinin ihtiyaçlarına, hızına ve tercihlerine göre ayarlanabildiği, zaman ve mekân kısıtlamalarının azaldığı öğrenme yaklaşımı genel olarak nasıl adlandırılır?",
+          "secenekler": [
+            "Katı Öğrenme",
+            "Esnek Öğrenme",
+            "Pasif Öğrenme",
+            "Tek Tip Öğrenme"
+          ],
+          "dogruCevap": "Esnek Öğrenme"
+        },
+        {
+          "soru": "Öğrenme yönetim sistemleri (LMS), çevrim içi tartışma forumları, web tabanlı simülasyonlar gibi araçların kullanıldığı öğrenme türü hangisidir?",
+          "secenekler": [
+            "Geleneksel Sınıf Öğrenmesi",
+            "İnternet Tabanlı Öğrenme",
+            "Okul Dışı Öğrenme",
+            "Usta-Çırak İlişkisi"
+          ],
+          "dogruCevap": "İnternet Tabanlı Öğrenme"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Uzaktan Eğitimin potansiyel avantajlarından biri değildir?",
+          "secenekler": [
+            "Mekâna bağımlılığı azaltması",
+            "Öğrenme hızını bireyselleştirme imkanı sunması",
+            "Yüz yüze etkileşim ve sosyalleşmeyi artırması",
+            "Farklı coğrafyalardaki eğitim kaynaklarına erişim sağlaması"
+          ],
+          "dogruCevap": "Yüz yüze etkileşim ve sosyalleşmeyi artırması"
+        },
+        {
+          "soru": "Harmanlanmış öğrenme modelinin en temel amacı nedir?",
+          "secenekler": [
+            "Teknolojiyi tamamen ortadan kaldırmak",
+            "Yüz yüze etkileşimi tamamen bitirmek",
+            "Yüz yüze ve çevrim içi öğrenme ortamlarının en iyi yönlerini birleştirmek",
+            "Sadece teorik bilgiyi aktarmak"
+          ],
+          "dogruCevap": "Yüz yüze ve çevrim içi öğrenme ortamlarının en iyi yönlerini birleştirmek"
+        },
+        {
+          "soru": "Ters-yüz öğrenme modelinde ders saatleri genellikle ne tür etkinliklere ayrılır?",
+          "secenekler": [
+            "Öğretmenin uzun ders anlatımlarına",
+            "Öğrencilerin bireysel olarak video izlemesine",
+            "Uygulama, problem çözme, tartışma ve işbirliğine dayalı etkinliklere",
+            "Sınav ve değerlendirmelere"
+          ],
+          "dogruCevap": "Uygulama, problem çözme, tartışma ve işbirliğine dayalı etkinliklere"
+        }
+      ],
       "Eğitimin İşlevleri": [
         {
           "soru": "Aşağıdaki seçeneklerden hangisi eğitimin ekonomik işlevine örnek olarak verilebilir?",
@@ -8487,6 +9349,168 @@
             "Bireylerin kültürel mirasa sahip çıkmalarını sağlamak"
           ],
           "dogruCevap": "Bireylerin iş gücüne katılımlarını sağlamak"
+        }
+      ],
+      "Eğitim ve Öğretimde Etik": [
+        {
+          "soru": "İyi ve kötü, doğru ve yanlış gibi kavramları felsefi açıdan sorgulayan, ahlaki ilkeler ve değerler üzerine düşünen ve yol gösteren disiplin aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Ahlak",
+            "Hukuk",
+            "Etik",
+            "Gelenek"
+          ],
+          "dogruCevap": "Etik"
+        },
+        {
+          "soru": "Toplum tarafından benimsenen, bireylerin davranışlarını düzenleyen ve iyi/kötü olarak nitelendirilen kurallar, normlar ve değerler bütününe ne ad verilir?",
+          "secenekler": [
+            "Etik",
+            "Ahlak",
+            "Yasa",
+            "Meslek Etiği"
+          ],
+          "dogruCevap": "Ahlak"
+        },
+        {
+          "soru": "Belirli bir meslek grubunun üyelerinin uyması gereken davranış kurallarını, ilkeleri ve standartları belirleyen, mesleki uygulamalarda doğru ve yanlışı ortaya koyan etik dalı hangisidir?",
+          "secenekler": [
+            "Normatif Etik",
+            "Metaetik",
+            "Uygulamalı Etik",
+            "Meslek Etiği"
+          ],
+          "dogruCevap": "Meslek Etiği"
+        },
+        {
+          "soru": "Bir eylemin doğruluğunu veya yanlışlığını, eylemin sonuçlarına bakarak değerlendiren etik yaklaşım aşağıdakilerden hangisidir? (Örn: En fazla sayıda insana en yüksek mutluluğu sağlayan eylem doğrudur.)",
+          "secenekler": [
+            "Deontolojik Etik (Ödev Etiği)",
+            "Teleolojik Etik (Sonuççu Etik)",
+            "Erdem Etiği",
+            "Haklar Temelli Etik"
+          ],
+          "dogruCevap": "Teleolojik Etik (Sonuççu Etik)"
+        },
+        {
+          "soru": "Bir eylemin doğruluğunu veya yanlışlığını, eylemin kendisinin içerdiği ilkelere, kurallara veya ödevlere uygunluğuna bakarak değerlendiren etik yaklaşım hangisidir? (Örn: Yalan söylemek, sonuçları ne olursa olsun yanlıştır.)",
+          "secenekler": [
+            "Teleolojik Etik (Sonuççu Etik)",
+            "Faydacılık",
+            "Deontolojik Etik (Ödev Etiği)",
+            "Hazcılık"
+          ],
+          "dogruCevap": "Deontolojik Etik (Ödev Etiği)"
+        },
+        {
+          "soru": "Hak ve sorumlulukların dağıtılmasında, ödül ve cezaların verilmesinde kişilere eşit ve hakkaniyete uygun davranmayı gerektiren temel etik ilke hangisidir?",
+          "secenekler": [
+            "Dürüstlük",
+            "Tarafsızlık",
+            "Adalet",
+            "Sorumluluk"
+          ],
+          "dogruCevap": "Adalet"
+        },
+        {
+          "soru": "Karar verirken veya davranırken kişisel çıkar, yakınlık, siyasi görüş veya inanç gibi faktörlerin etkisinde kalmadan, objektif ve yansız olmayı ifade eden etik ilke hangisidir?",
+          "secenekler": [
+            "Saydamlık",
+            "Hesap Verebilirlik",
+            "Tarafsızlık",
+            "Liyakat"
+          ],
+          "dogruCevap": "Tarafsızlık"
+        },
+        {
+          "soru": "Kişilere veya gruplara; cinsiyet, ırk, din, dil, engellilik, siyasi görüş gibi nedenlerle eşit olmayan, önyargılı ve haksız muamelede bulunmak hangi etik dışı davranıştır?",
+          "secenekler": [
+            "Kayırmacılık (Nepotizm)",
+            "Ayrımcılık",
+            "Mobbing (Psikolojik Taciz)",
+            "Rüşvet"
+          ],
+          "dogruCevap": "Ayrımcılık"
+        },
+        {
+          "soru": "Kamu görevlisinin yetkisini kullanarak haksız bir şekilde akraba, arkadaş veya tanıdıklarına ayrıcalık sağlaması veya menfaat temin etmesi hangi etik dışı davranıştır?",
+          "secenekler": [
+            "Zimmet",
+            "İhmal",
+            "Kayırmacılık (Nepotizm)",
+            "Çıkar Çatışması"
+          ],
+          "dogruCevap": "Kayırmacılık (Nepotizm)"
+        },
+        {
+          "soru": "Bir iş yerinde bir veya birden fazla kişi tarafından diğer kişi ya da kişilere yönelik gerçekleştirilen, belirli bir süre sistematik biçimde devam eden, yıldırma, dışlama, aşağılama gibi kötü niyetli davranışlar bütününe ne ad verilir?",
+          "secenekler": [
+            "Ayrımcılık",
+            "Mobbing (Psikolojik Taciz)",
+            "Kayırmacılık",
+            "Görevi Kötüye Kullanma"
+          ],
+          "dogruCevap": "Mobbing (Psikolojik Taciz)"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi öğretmenlik meslek etiğinin öğrencilerle ilgili temel ilkelerinden biri değildir?",
+          "secenekler": [
+            "Öğrenciler arasında ayrım yapmamak, herkese eşit davranmak.",
+            "Öğrencinin özel bilgilerinin gizliliğine saygı göstermek.",
+            "Öğrencilerin sadece akademik başarılarına odaklanmak.",
+            "Öğrencilerin gelişimlerini desteklemek ve onlara rol model olmak."
+          ],
+          "dogruCevap": "Öğrencilerin sadece akademik başarılarına odaklanmak."
+        },
+        {
+          "soru": "Bir öğretmenin, meslektaşları hakkında olumsuz ve asılsız dedikodular yayması, hangi meslek etiği ilkesine aykırıdır?",
+          "secenekler": [
+            "Mesleki bağlılık ve sürekli gelişme",
+            "Meslektaşlarla işbirliği ve saygı",
+            "Öğrenci bilgilerinin gizliliği",
+            "Kaynakların etkili kullanımı"
+          ],
+          "dogruCevap": "Meslektaşlarla işbirliği ve saygı"
+        },
+        {
+          "soru": "Eğitim yöneticilerinin okul kaynaklarını (bütçe, personel, materyal vb.) adil ve şeffaf bir şekilde dağıtması, hangi etik ilkenin bir gereğidir?",
+          "secenekler": [
+            "Liyakat",
+            "Sorumluluk",
+            "Adalet ve Eşitlik",
+            "Mesleki Yeterlilik"
+          ],
+          "dogruCevap": "Adalet ve Eşitlik"
+        },
+        {
+          "soru": "Türkiye'de kamu görevlilerinin uyması gereken etik davranış ilkelerini belirlemek, etik kültürünü yerleştirmek ve etik ihlal iddialarını incelemek üzere kurulan yapı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Danıştay",
+            "Sayıştay",
+            "Kamu Denetçiliği Kurumu (Ombudsmanlık)",
+            "Kamu Görevlileri Etik Kurulu"
+          ],
+          "dogruCevap": "Kamu Görevlileri Etik Kurulu"
+        },
+        {
+          "soru": "Kamu Görevlileri Etik Davranış İlkeleri İle Başvuru Usul ve Esasları Hakkında Yönetmelik'e göre, kamu görevlilerinin görevlerini yerine getirirken kamu hizmeti bilinciyle hareket etmeleri, halkın günlük yaşamını kolaylaştırmayı ve memnuniyetini sağlamayı hedeflemeleri hangi ilkeyle ilgilidir?",
+          "secenekler": [
+            "Dürüstlük ve Tarafsızlık",
+            "Saygınlık ve Güven",
+            "Hizmet Standartlarına Uyma",
+            "Halka Hizmet Bilinci"
+          ],
+          "dogruCevap": "Halka Hizmet Bilinci"
+        },
+        {
+          "soru": "Bir öğretmenin, özel ders verdiği öğrencisine okul sınavında diğer öğrencilere göre daha kolay sorular sorması veya notunu yüksek tutması, öncelikle hangi etik dışı davranışa örnek oluşturur?",
+          "secenekler": [
+            "Mobbing",
+            "Zimmet",
+            "Çıkar Çatışması ve Ayrımcılık",
+            "İhmal"
+          ],
+          "dogruCevap": "Çıkar Çatışması ve Ayrımcılık"
         }
       ],
       "Eğitimin Toplumsal Değişme ve Yenileşmeye Etkileri": [
