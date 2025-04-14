@@ -15425,186 +15425,6 @@
           "dogruCevap": "3"
         }
       ],
-      "Fonksiyonlar": [
-        {
-          "soru": "f(3x + 1) = x² - 3x olduğuna göre, f(7) değeri kaçtır?",
-          "secenekler": [
-            "-4",
-            "-2",
-            "6",
-            "16",
-            "28"
-          ],
-          "dogruCevap": "-2"
-        },
-        {
-          "soru": "f(x) = x² - 3 ve g(x) = x² + x - 5 fonksiyonları veriliyor. Buna göre f(4) + g(-1) toplamı kaçtır?",
-          "secenekler": [
-            "3",
-            "5",
-            "7",
-            "8",
-            "11"
-          ],
-          "dogruCevap": "8"
-        },
-        {
-          "soru": "f: A → B, f(x) = x³ + 5 ve f(A) = {4, 5, 13} olduğuna göre, A kümesi aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "{-2, -1, 0}",
-            "{-1, 0, 1}",
-            "{-2, -1, 1}",
-            "{-1, 0, 2}",
-            "{-1, 0, 1, 2}"
-          ],
-          "dogruCevap": "{-1, 0, 2}"
-        },
-        {
-          "soru": "f : [-5, 3) → ℝ, f(x) = 9 - 4x fonksiyonunun görüntü kümesi aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "[-3, 29)",
-            "(-3, 29]",
-            "(-3, 25]",
-            "[-3, 25)",
-            "[-7, 21)"
-          ],
-          "dogruCevap": "(-3, 29]"
-        },
-        {
-          "soru": "f(x) = x² + x - 4 fonksiyonu veriliyor. Buna göre f(2 - x) fonksiyonunun kuralı aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "x² - 3x + 2",
-            "x² - 3x + 5",
-            "x² - 5x + 2",
-            "x² + 3x - 5",
-            "x² + 5x - 2"
-          ],
-          "dogruCevap": "x² - 5x + 2"
-        },
-        {
-          "soru": "f ve g fonksiyonları için f(x) = g(x)·(x + 1) - x + 5 eşitliği veriliyor. g(3) = -2 olduğuna göre, f(3) değeri kaçtır?",
-          "secenekler": [
-            "-6",
-            "-3",
-            "-1",
-            "2",
-            "5"
-          ],
-          "dogruCevap": "-6"
-        },
-        {
-          "soru": "f(x + 3) + x·f(3x - 5) = x² + 14 olduğuna göre, f(7) değeri kaçtır?",
-          "secenekler": [
-            "4",
-            "5",
-            "6",
-            "7",
-            "8"
-          ],
-          "dogruCevap": "6"
-        },
-        {
-          "soru": "y = f(x) birim fonksiyondur. Buna göre f(-3) + f(1) toplamı kaçtır?",
-          "secenekler": [
-            "-4",
-            "-2",
-            "0",
-            "2",
-            "4"
-          ],
-          "dogruCevap": "-2"
-        },
-        {
-          "soru": "f(x) = (m - 2)x fonksiyonu birim fonksiyondur. Buna göre m değeri kaçtır?",
-          "secenekler": [
-            "3",
-            "2",
-            "1",
-            "0",
-            "-1"
-          ],
-          "dogruCevap": "3"
-        }
-      ],
-      "Fonksiyonlar 2": [
-        {
-          "soru": "f(x) = 2x - 3 ve g(x) = x² + 1 fonksiyonları veriliyor. (g o f)(2) değeri kaçtır?",
-          "secenekler": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ],
-          "dogruCevap": "2"
-        },
-        {
-          "soru": "f(x) = \\frac{3x - 1}{x + 2} fonksiyonunun tersi f⁻¹(x) aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "\\frac{2x+1}{3-x}",
-            "\\frac{2x-1}{x+3}",
-            "\\frac{3x+1}{x-2}",
-            "\\frac{x+2}{3x-1}",
-            "\\frac{x-2}{3x+1}"
-          ],
-          "dogruCevap": "\\frac{2x+1}{3-x}"
-        },
-        {
-          "soru": "f(x) = x+3 ve g(x) = 2x-5 fonksiyonları için (g o f)(a) = 7 eşitliğini sağlayan a değeri kaçtır?",
-          "secenekler": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ],
-          "dogruCevap": "3"
-        },
-        {
-          "soru": "f(x) tek fonksiyon ve g(x) çift fonksiyondur. f(-2)=5 ve g(-3)=4 olduğuna göre, f(2) + g(3) toplamı kaçtır?",
-          "secenekler": [
-            "-9",
-            "-1",
-            "1",
-            "9",
-            "Bilinemez"
-          ],
-          "dogruCevap": "-1"
-        },
-        {
-          "soru": "f(x) = \\begin{cases} x² + 1, & x < 1 \\\\ 3x - 2, & x \\ge 1 \\end{cases} fonksiyonu veriliyor. Buna göre, f(0) + f(3) toplamı kaçtır?",
-          "secenekler": [
-            "7",
-            "8",
-            "9",
-            "10",
-            "11"
-          ],
-          "dogruCevap": "8"
-        },
-        {
-          "soru": "f(x) = \\sqrt{12 - 3x} + \\frac{1}{x-2} fonksiyonunun en geniş tanım kümesi aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "(-∞, 4]",
-            "(-∞, 4) - {2}",
-            "(-∞, 2) ∪ (2, 4]",
-            "[2, 4]",
-            "(2, 4]"
-          ],
-          "dogruCevap": "(-∞, 2) ∪ (2, 4]"
-        },
-        {
-          "soru": "Gerçel sayılarda tanımlı f fonksiyonu f(a + b) = f(a) + f(b) özelliğini sağlamaktadır. f(3) = 9 olduğuna göre, f(5) kaçtır?",
-          "secenekler": [
-            "12",
-            "15",
-            "18",
-            "24",
-            "27"
-          ],
-          "dogruCevap": "15"
-        }
-      ],
       "Oran-Orantı": [
         {
           "soru": "Toplamları 96 olan iki sayıdan birinin 5 katı, diğerinin 3 katına eşittir. Buna göre, bu sayıların farkının mutlak değeri kaçtır?",
@@ -15817,7 +15637,463 @@
           ],
           "dogruCevap": "6"
         }
-      ]
+      ],
+      "Problemler": [
+  {
+    "soru": "Toplamları 85, farkları 25 olan iki doğal sayının çarpımı kaçtır?",
+    "secenekler": [
+      "1500",
+      "1650",
+      "1750",
+      "1800"
+    ],
+    "dogruCevap": "1650"
+  },
+  {
+    "soru": "Bir sayının 3 katının 10 eksiği, aynı sayının 5 fazlasının 2 katına eşittir. Bu sayı kaçtır?",
+    "secenekler": [
+      "15",
+      "18",
+      "20",
+      "22"
+    ],
+    "dogruCevap": "20"
+  },
+  {
+    "soru": "Bir sınıftaki öğrencilerin 2/5'i kızdır. Sınıfta 18 erkek öğrenci olduğuna göre, sınıf mevcudu kaçtır?",
+    "secenekler": [
+      "24",
+      "27",
+      "30",
+      "36"
+    ],
+    "dogruCevap": "30"
+  },
+  {
+    "soru": "Ahmet'in yaşının 3 katı, Mehmet'in yaşının 4 katına eşittir. İkisinin yaşları toplamı 42 olduğuna göre, Ahmet kaç yaşındadır?",
+    "secenekler": [
+      "18",
+      "21",
+      "24",
+      "28"
+    ],
+    "dogruCevap": "24"
+  },
+  {
+    "soru": "Bir baba ile oğlunun bugünkü yaşları toplamı 60'tır. 5 yıl sonra babanın yaşı oğlunun yaşının 3 katı olacağına göre, babanın bugünkü yaşı kaçtır?",
+    "secenekler": [
+      "45",
+      "48",
+      "50",
+      "52"
+    ],
+    "dogruCevap": "50"
+  },
+  {
+    "soru": "Bir işi Ali tek başına 12 günde, Veli tek başına 24 günde bitirebiliyor. İkisi birlikte bu işi kaç günde bitirirler?",
+    "secenekler": [
+      "6",
+      "8",
+      "9",
+      "10"
+    ],
+    "dogruCevap": "8"
+  },
+  {
+    "soru": "Boş bir havuzu A musluğu tek başına 6 saatte, B musluğu tek başına 12 saatte dolduruyor. Havuzun dibindeki C musluğu ise dolu havuzu tek başına 8 saatte boşaltıyor. Üç musluk birlikte açılırsa boş havuz kaç saatte dolar?",
+    "secenekler": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "dogruCevap": "12"
+  },
+  {
+    "soru": "Bir araç A kentinden B kentine saatte 60 km hızla gidip, saatte 90 km hızla geri dönüyor. Gidiş-dönüş toplam 10 saat sürdüğüne göre, A ile B kentleri arası kaç km'dir?",
+    "secenekler": [
+      "300",
+      "360",
+      "420",
+      "450"
+    ],
+    "dogruCevap": "360"
+  },
+  {
+    "soru": "Hangi sayının %20'sinin %50'si 15 eder?",
+    "secenekler": [
+      "100",
+      "120",
+      "150",
+      "200"
+    ],
+    "dogruCevap": "150"
+  },
+  {
+    "soru": "Bir mal %30 kârla 390 TL'ye satılıyor. Bu malın maliyeti kaç TL'dir?",
+    "secenekler": [
+      "270",
+      "280",
+      "300",
+      "320"
+    ],
+    "dogruCevap": "300"
+  },
+  {
+    "soru": "Maliyeti 200 TL olan bir ürün %20 zararla satıldıktan sonra, satış fiyatı üzerinden %10 indirim daha yapılıyor. Ürünün son satış fiyatı kaç TL'dir?",
+    "secenekler": [
+      "140",
+      "144",
+      "150",
+      "154"
+    ],
+    "dogruCevap": "144"
+  },
+  {
+    "soru": "Tuz oranı %10 olan 80 gram tuzlu su ile tuz oranı %30 olan 120 gram tuzlu su karıştırılıyor. Yeni karışımın tuz oranı yüzde kaçtır?",
+    "secenekler": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "dogruCevap": "22"
+  },
+  {
+    "soru": "Ardışık 5 tek doğal sayının toplamı 145'tir. Bu sayıların en büyüğü kaçtır?",
+    "secenekler": [
+      "29",
+      "31",
+      "33",
+      "35"
+    ],
+    "dogruCevap": "33"
+  },
+  {
+    "soru": "Bir torbada 5 kırmızı, 4 mavi ve 3 sarı top vardır. Torbadan rastgele çekilen bir topun mavi olmama olasılığı kaçtır?",
+    "secenekler": [
+      "1/3",
+      "1/2",
+      "2/3",
+      "3/4"
+    ],
+    "dogruCevap": "2/3"
+  },
+  {
+    "soru": "3 kalem ve 2 silginin fiyatı 21 TL, 2 kalem ve 3 silginin fiyatı 19 TL olduğuna göre, 1 kalem ve 1 silginin toplam fiyatı kaç TL'dir?",
+    "secenekler": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "dogruCevap": "8"
+  }
+],
+"Problemler 2" : [
+  {
+    "soru": "Rakamları birbirinden farklı üç basamaklı en büyük çift doğal sayı ile rakamları birbirinden farklı iki basamaklı en küçük tek doğal sayının farkı kaçtır?",
+    "secenekler": [
+      "971",
+      "973",
+      "975",
+      "977"
+    ],
+    "dogruCevap": "973"
+  },
+  {
+    "soru": "Bir su deposunun 1/3'ü doludur. Depoya 140 litre daha su konulduğunda deponun yarısı dolduğuna göre, deponun tamamı kaç litre su alır?",
+    "secenekler": [
+      "700",
+      "780",
+      "840",
+      "900"
+    ],
+    "dogruCevap": "840"
+  },
+  {
+    "soru": "Ali'nin bugünkü yaşı, Veli'nin bugünkü yaşının 2 katından 3 eksiktir. 4 yıl önce Ali'nin yaşı Veli'nin yaşının 3 katı olduğuna göre, Veli'nin bugünkü yaşı kaçtır?",
+    "secenekler": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "dogruCevap": "5"
+  },
+  {
+    "soru": "Bir işi aynı kapasitedeki 4 işçi birlikte 6 günde bitirebiliyor. İşçilerden ikisi işe başladıktan 3 gün sonra kalan işçiler de yardıma geliyor. Buna göre, işin tamamı kaç günde bitmiştir?",
+    "secenekler": [
+      "4",
+      "4.5",
+      "5",
+      "5.5"
+    ],
+    "dogruCevap": "5"
+  },
+  {
+    "soru": "Aralarında 480 km mesafe bulunan iki şehirden aynı anda birbirlerine doğru sabit hızlarla hareket eden iki araç 3 saat sonra karşılaşıyorlar. Araçlardan birinin hızı diğerinden 20 km/saat fazla olduğuna göre, yavaş olan aracın hızı saatte kaç km'dir?",
+    "secenekler": [
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "dogruCevap": "70"
+  },
+  {
+    "soru": "Bir sınıftaki öğrencilerin %40'ı erkektir. Erkeklerin %25'i, kızların ise %20'si gözlüklüdür. Gözlüklü erkek öğrenci sayısı 8 olduğuna göre, bu sınıftaki gözlüksüz kız öğrenci sayısı kaçtır?",
+    "secenekler": [
+      "32",
+      "36",
+      "38",
+      "40"
+    ],
+    "dogruCevap": "38"
+  },
+  {
+    "soru": "Bir satıcı, maliyet fiyatı üzerinden %20 kârla satmayı düşündüğü bir ürüne, satış fiyatı üzerinden %10 indirim yaparak 216 TL'ye satıyor. Bu ürünün maliyet fiyatı kaç TL'dir?",
+    "secenekler": [
+      "180",
+      "190",
+      "200",
+      "210"
+    ],
+    "dogruCevap": "200"
+  },
+  {
+    "soru": "Şeker oranı %20 olan 60 kg şekerli suya kaç kg saf su eklenirse, yeni karışımın şeker oranı %15 olur?",
+    "secenekler": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "dogruCevap": "20"
+  },
+  {
+    "soru": "a, b, c pozitif tam sayılardır. a = 3b ve b = 4c olduğuna göre, a + b + c toplamı aşağıdakilerden hangisi olabilir?",
+    "secenekler": [
+      "45",
+      "50",
+      "51",
+      "55"
+    ],
+    "dogruCevap": "51"
+  },
+  {
+    "soru": "Bir merdivenin basamaklarını ikişer ikişer çıkıp, üçer üçer inen bir kişinin çıkarken attığı adım sayısı, inerken attığı adım sayısından 8 fazladır. Buna göre, merdiven kaç basamaklıdır?",
+    "secenekler": [
+      "36",
+      "42",
+      "48",
+      "54"
+    ],
+    "dogruCevap": "48"
+  },
+  {
+    "soru": "Bir miktar para 8 kişiye eşit olarak paylaştırılıyor. Eğer aynı para 12 kişiye eşit olarak paylaştırılsaydı kişi başına düşen para 50 TL daha az olacaktı. Buna göre, paylaştırılan toplam para kaç TL'dir?",
+    "secenekler": [
+      "1000",
+      "1200",
+      "1500",
+      "1600"
+    ],
+    "dogruCevap": "1200"
+  },
+  {
+    "soru": "Bir otobüsteki yolcuların 3/5'i erkektir. Otobüsten 6 erkek inip, 4 kadın bindiğinde erkek yolcu sayısı kadın yolcu sayısına eşit oluyor. Buna göre, başlangıçta otobüste kaç yolcu vardı?",
+    "secenekler": [
+      "40",
+      "45",
+      "50",
+      "55"
+    ],
+    "dogruCevap": "50"
+  },
+  {
+    "soru": "Akıntı hızının saatte 4 km olduğu bir nehirde, bir motor akıntı yönünde 3 saatte aldığı yolu, akıntıya karşı 5 saatte alıyor. Buna göre, motorun durgun sudaki hızı saatte kaç km'dir?",
+    "secenekler": [
+      "12",
+      "16",
+      "18",
+      "20"
+    ],
+    "dogruCevap": "16"
+  },
+  {
+    "soru": "Bir satıcı elindeki malların önce %30'unu, sonra kalan malların %50'sini satıyor. Geriye 140 adet mal kaldığına göre, başlangıçta satıcının elinde kaç adet mal vardı?",
+    "secenekler": [
+      "350",
+      "400",
+      "450",
+      "500"
+    ],
+    "dogruCevap": "400"
+  },
+  {
+    "soru": "Üç kardeşin bugünkü yaşları ortalaması 15'tir. En küçük kardeş doğduğunda ortanca kardeş 4 yaşında, en büyük kardeş ise 7 yaşındaydı. Buna göre, en büyük kardeşin bugünkü yaşı kaçtır?",
+    "secenekler": [
+      "18",
+      "19",
+      "20",
+      "22"
+    ],
+    "dogruCevap": "22"
+  }
+],
+"Problemler 3" : [
+  {
+    "soru": "A işçisinin çalışma hızı, B işçisinin çalışma hızının 2 katıdır. İkisi birlikte bir işi 6 günde bitirebildiklerine göre, B işçisi aynı işi tek başına kaç günde bitirir?",
+    "secenekler": [
+      "12",
+      "15",
+      "18",
+      "24"
+    ],
+    "dogruCevap": "18"
+  },
+  {
+    "soru": "Bir araç 120 km'lik yolun bir kısmını saatte 60 km hızla, kalan kısmını saatte 90 km hızla giderek yolculuğu toplam 1 saat 40 dakikada tamamlıyor. Aracın saatte 60 km hızla gittiği yol kaç km'dir?",
+    "secenekler": [
+      "40",
+      "50",
+      "60",
+      "70"
+    ],
+    "dogruCevap": "60"
+  },
+  {
+    "soru": "Bir dikdörtgenin kısa kenarı %20 artırılıp, uzun kenarı %30 azaltılırsa, dikdörtgenin alanı yüzde kaç azalır?",
+    "secenekler": [
+      "10",
+      "12",
+      "16",
+      "24"
+    ],
+    "dogruCevap": "16"
+  },
+  {
+    "soru": "Ağırlıkça %30'u tuz olan 40 kg tuzlu su karışımından kaç kg su buharlaştırılırsa, yeni karışımın tuz oranı %50 olur?",
+    "secenekler": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "dogruCevap": "16"
+  },
+  {
+    "soru": "Bir baba ile iki çocuğunun bugünkü yaşları toplamı 72'dir. Büyük çocuk doğduğunda baba 28 yaşında, küçük çocuk doğduğunda ise büyük çocuk 4 yaşındaydı. Buna göre, babanın bugünkü yaşı kaçtır?",
+    "secenekler": [
+      "42",
+      "44",
+      "46",
+      "48"
+    ],
+    "dogruCevap": "44"
+  },
+  {
+    "soru": "Bir torbada bulunan bilyelerin 1/3'ü kırmızı, 1/4'ü mavi ve geri kalanı sarıdır. Torbadaki sarı bilye sayısı, kırmızı bilye sayısından 5 eksik olduğuna göre, torbada kaç tane mavi bilye vardır?",
+    "secenekler": [
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "dogruCevap": "15"
+  },
+  {
+    "soru": "x, y, z pozitif tam sayılar olmak üzere, x/y = 2/3 ve y/z = 4/5 olduğuna göre, x + y + z toplamının alabileceği en küçük değer kaçtır?",
+    "secenekler": [
+      "29",
+      "35",
+      "40",
+      "70"
+    ],
+    "dogruCevap": "35"
+  },
+  {
+    "soru": "Bir satıcı, etiket fiyatı maliyet fiyatı üzerinden %60 kârla belirlenmiş bir ürünü, etiket fiyatı üzerinden %25 indirimle satıyor. Bu satıştan elde edilen kâr oranı yüzde kaçtır?",
+    "secenekler": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "dogruCevap": "20"
+  },
+  {
+    "soru": "Aynı anda aynı noktadan zıt yönlerde harekete başlayan iki koşucunun 20 dakika sonra aralarındaki mesafe 7 km oluyor. Koşuculardan birinin hızı diğerinin hızından saatte 3 km fazla olduğuna göre, yavaş olan koşucunun hızı saatte kaç km'dir?",
+    "secenekler": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "dogruCevap": "9"
+  },
+  {
+    "soru": "Üç basamaklı ABC doğal sayısının iki basamaklı AB doğal sayısına bölümünden elde edilen bölüm 10, kalan 6'dır. Buna göre, A + B + C toplamı kaçtır? (AB iki basamaklı sayıdır)",
+    "secenekler": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "dogruCevap": "11"
+  },
+  {
+    "soru": "Bir çiftlikteki tavuk ve tavşanların toplam sayısı 35'tir. Bu hayvanların toplam ayak sayısı 100 olduğuna göre, çiftlikte kaç tane tavşan vardır?",
+    "secenekler": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "dogruCevap": "15"
+  },
+  {
+    "soru": "Bir miktar ceviz 3, 4 ve 5 yaşlarındaki üç çocuğa yaşları ile ters orantılı olarak paylaştırılıyor. En çok ceviz alan çocuk 40 ceviz aldığına göre, toplam ceviz sayısı kaçtır?",
+    "secenekler": [
+      "75",
+      "84",
+      "94",
+      "100"
+    ],
+    "dogruCevap": "94"
+  },
+  {
+    "soru": "Bugün günlerden Pazartesi olduğuna göre, bugünden 100 gün sonrası hangi güne denk gelir?",
+    "secenekler": [
+      "Salı",
+      "Çarşamba",
+      "Perşembe",
+      "Cuma"
+    ],
+    "dogruCevap": "Çarşamba"
+  },
+  {
+    "soru": "Kapasiteleri farklı iki musluk boş bir havuzu birlikte 8 saatte dolduruyor. Hızlı olan musluk tek başına havuzu yavaş olan musluktan 12 saat daha erken doldurabildiğine göre, yavaş olan musluk bu havuzu tek başına kaç saatte doldurur?",
+    "secenekler": [
+      "18",
+      "20",
+      "24",
+      "30"
+    ],
+    "dogruCevap": "24"
+  },
+  {
+    "soru": "Bir kutuda bulunan 6 farklı renkteki toptan, her renkten en az bir tane almak koşuluyla en az kaç top çekilirse, kesinlikle aynı renkten 3 top çekilmiş olur?",
+    "secenekler": [
+      "7",
+      "12",
+      "13",
+      "18"
+    ],
+    "dogruCevap": "13"
+  }
+]
     },
     "Tarih": {
       "İslamiyet Öncesi Türk Tarihi": [
