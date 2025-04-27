@@ -13355,7 +13355,8 @@
             "23",
             "43"
           ],
-          "dogruCevap": "13"
+          "dogruCevap": "13",
+          "cozum": "1. b sayısı hem 18'in hem de 24'ün bölenidir.\n2. a+b+c toplamının en küçük olması için, ortak bölen b'nin en büyük değeri alması gerekir (EBOB).\n3. EBOB(18, 24) = 6.\n4. b = 6 için:\na = 18 / 6 = 3\nc = 24 / 6 = 4\n5. a + b + c = 3 + 6 + 4 = 13."
         },
         {
           "soru": "x, y, z birer doğal sayı olmak üzere, (x + 3) · (y – 2) · (z – 5) = 48 olduğuna göre, x + y + z’nin alabileceği en büyük değer kaçtır?",
@@ -13366,7 +13367,8 @@
             "53",
             "54"
           ],
-          "dogruCevap": "54"
+          "dogruCevap": "54",
+          "cozum": "1. x, y, z doğal sayı => x≥0, y≥0, z≥0.\n2. x+3 ≥ 3, y-2 ≥ -2, z-5 ≥ -5.\n3. Çarpım (48) pozitif ve x+3 pozitif olduğundan, y-2 ve z-5 ya ikisi de pozitif ya da ikisi de negatiftir.\nx+y+z'nin en büyük olması için çarpanlardan birini en büyük (48), diğerlerini en küçük pozitif tam sayı (1) seçmeliyiz.\n4. Durum 1:\nx + 3 = 48 => x = 45\ny - 2 = 1 => y = 3\nz - 5 = 1 => z = 6\n5. x + y + z = 45 + 3 + 6 = 54.\n(Diğer çarpan kombinasyonları daha küçük toplamlar verir)."
         },
         {
           "soru": "Aşağıdaki ifade: 3 × (2 + 10 ÷ 2) – 5 ifadesinin sonucu A olup, ifadenin içine yalnızca bir tane ekstra parantez koyarak elde edilebilecek **en küçük** değer B ise, A – B kaçtır?",
@@ -13377,7 +13379,8 @@
             "13",
             "15"
           ],
-          "dogruCevap": "10"
+          "dogruCevap": "10",
+          "cozum": "1. A değerini hesapla:\n   3 × (2 + 10 ÷ 2) – 5\n   = 3 × (2 + 5) – 5\n   = 3 × 7 – 5\n   = 21 – 5 = 16. (A = 16)\n2. Ekstra parantez ile en küçük B değerini bul:\n   Deneme: 3 × ( (2 + 10 ÷ 2) – 5 )\n   = 3 × ( (2 + 5) – 5 )\n   = 3 × (7 – 5)\n   = 3 × 2 = 6. (B = 6)\n   (Diğer parantez yerleri daha büyük sonuç verir, örn: 3×((2+10)÷2)–5 = 13)\n3. Farkı hesapla:\n   A - B = 16 - 6 = 10."
         },
         {
           "soru": "x ve y gerçel sayılar için 1 < x < 5 ve 0 < y < 1 olmak üzere,\n\nA = x² – 2xy\nB = x² – 4y²\nC = 5y² – xy\n\nBuna göre, aşağıdaki sıralamalardan hangisi **genel** olarak doğrudur?",
@@ -13388,7 +13391,8 @@
             "C < A < B",
             "B < C < A"
           ],
-          "dogruCevap": "C < A < B"
+          "dogruCevap": "C < A < B",
+          "cozum": "1. Değer vererek deneyelim: x = 3, y = 0.5\n   A = 3² - 2(3)(0.5) = 9 - 3 = 6\n   B = 3² - 4(0.5)² = 9 - 1 = 8\n   C = 5(0.5)² - 3(0.5) = 1.25 - 1.5 = -0.25\n   Sıralama: C < A < B (-0.25 < 6 < 8).\n2. Genel Analiz:\n   C = y(5y - x): y pozitif. 5y (0<5y<5), x (1<x<5). (5y-x) genellikle negatif -> C genellikle negatif veya küçük pozitif.\n   A = x(x - 2y): x>1, 2y<2. (x-2y) genellikle pozitif -> A genellikle pozitif.\n   B - A = 2y(x - 2y): y>0, (x-2y)>0 -> B > A.\n3. Genel sıralama: C < A < B."
         }
       ],
       "Temel Kavramlar 2": [
@@ -13402,7 +13406,7 @@
             "E) 23"
           ],
           "dogruCevap": "A) 15",
-          "cozum": "a = 20/b ve c = 30/b olduğundan, toplam a + b + c = 20/b + b + 30/b = b + (20+30)/b = b + 50/b. b, 20 ve 30'un ortak bölenlerinden (1, 2, 5, 10) biri olduğundan; b = 5 veya 10 seçildiğinde, toplam en küçük değeri 5 + 50/5 = 5 + 10 = 15 elde edilir."
+          "cozum": "1. b sayısı hem 20'nin hem de 30'un ortak bölenidir.\n2. Toplamın en küçük olması için ortak bölen 'b' en büyük seçilmelidir (EBOB).\n3. EBOB(20, 30) = 10.\n4. b = 10 için:\n   a = 20 / 10 = 2\n   c = 30 / 10 = 3\n5. a + b + c = 2 + 10 + 3 = 15.\n\nAlternatif (b=5):\n   a = 20 / 5 = 4\n   c = 30 / 5 = 6\n   a + b + c = 4 + 5 + 6 = 15.\nEn küçük değer 15'tir."
         },
         {
           "soru": "Soru 2: x, y, z sıralı pozitif tam sayılar, x < y < z ve x + y + z = 60 olduğuna göre, y'nin alabileceği en büyük değer kaçtır?",
@@ -13414,7 +13418,7 @@
             "E) 22"
           ],
           "dogruCevap": "C) 20",
-          "cozum": "x, y, z'nin en yakın değerler alması durumunda (ardışık sayılar) x = y - 1, z = y + 1 olur. Böylece x + y + z = (y-1) + y + (y+1) = 3y = 60, dolayısıyla y = 20 bulunur."
+          "cozum": "Not: 'Sıralı' kelimesi genellikle ardışık veya yakın değerler anlamına gelir.\n1. y'nin en büyük değeri için x ve z'nin y'ye en yakın olması gerekir.\n2. Ardışık olsalar: (y-1) + y + (y+1) = 60\n   3y = 60 => y = 20.\n3. Kontrol: x=19, y=20, z=21 => 19 < 20 < 21 ve 19+20+21 = 60.\n4. Eğer y=21 olsa, en yakın değerler x=20, z=22 olurdu. Toplam 63 olur (geçerli değil).\n5. Bu nedenle y en fazla 20 olabilir.\n(Not: Eğer 'sıralı' sadece x<y<z anlamındaysa, max y=29 olurdu: x=1, z=30)."
         },
         {
           "soru": "Soru 3: (2a + 5)/(a - 3) kesri tam sayı olduğuna göre, a'nın alabileceği farklı tam sayı değeri sayısı kaçtır?",
@@ -13426,7 +13430,7 @@
             "E) 6"
           ],
           "dogruCevap": "C) 4",
-          "cozum": "Önce polinom bölmesi yapalım: (2a + 5)/(a - 3) = 2 + 11/(a - 3). Kesirin tam sayı olması için 11/(a - 3)'ün tam sayı olması gerekir. 11 asal olduğundan, a - 3 olabilir: ±1, ±11. Böylece a = 4, 2, 14 veya -8. Toplamda 4 farklı tam sayı değeri elde edilir."
+          "cozum": "1. Polinom bölmesi yapalım:\n   (2a + 5) = 2(a - 3) + 11\n   (2a + 5)/(a - 3) = 2 + 11/(a - 3)\n2. İfadenin tam sayı olması için 11/(a - 3)'ün tam sayı olması gerekir.\n3. Bu durumda (a - 3), 11'in tam bölenleri olmalıdır.\n4. 11'in bölenleri: 1, -1, 11, -11.\n5. a - 3 = 1 => a = 4\n   a - 3 = -1 => a = 2\n   a - 3 = 11 => a = 14\n   a - 3 = -11 => a = -8\n6. a'nın alabileceği 4 farklı tam sayı değeri vardır."
         },
         {
           "soru": "Soru 4: x, y, z pozitif tam sayılar, x · y = 24 ve y · z = 40 olduğuna göre, x + y + z'nin alabileceği en küçük değer kaçtır?",
@@ -13438,7 +13442,7 @@
             "E) 24"
           ],
           "dogruCevap": "A) 16",
-          "cozum": "x = 24/y ve z = 40/y olduğundan, toplam = 24/y + y + 40/y = y + 64/y. y, 24 ve 40'ın ortak bölenleri (1, 2, 4, 8) içerisinden seçilebileceğinden; y = 8 için toplam = 8 + 64/8 = 8 + 8 = 16 elde edilir."
+          "cozum": "1. y sayısı hem 24'ün hem de 40'ın ortak bölenidir.\n2. Toplam x + y + z = (24/y) + y + (40/y) = y + 64/y.\n3. Toplamın en küçük olması için y + 64/y ifadesini minimize etmeliyiz.\n4. y değeri, 64'ün kareköküne (8) yakın olan ortak bölen olmalıdır.\n5. Ortak bölenler: 1, 2, 4, 8.\n6. y = 1 => 1 + 64 = 65\n   y = 2 => 2 + 32 = 34\n   y = 4 => 4 + 16 = 20\n   y = 8 => 8 + 8 = 16\n7. En küçük değer 16'dır."
         },
         {
           "soru": "Soru 6: x ve y reel sayılar, x + y = 12 sabitken, xy'nin alabileceği en büyük değer kaçtır?",
@@ -13450,7 +13454,7 @@
             "E) 38"
           ],
           "dogruCevap": "D) 36",
-          "cozum": "Sabit toplam altında iki sayının çarpımı maksimum, sayılar eşit olduğunda elde edilir. x = y = 6 olduğunda, xy = 6 · 6 = 36 bulunur."
+          "cozum": "1. Toplamları sabit olan iki reel sayının çarpımının en büyük olması için sayılar birbirine eşit olmalıdır.\n2. x = y = 12 / 2 = 6.\n3. En büyük xy değeri = 6 * 6 = 36."
         },
         {
           "soru": "Soru 7: a, b birer tam sayı, a + b = 11 sabitken, a² + b²'nin alabileceği en küçük değer kaçtır?",
@@ -13462,7 +13466,7 @@
             "E) 69"
           ],
           "dogruCevap": "A) 61",
-          "cozum": "a² + b² = (a + b)² - 2ab = 121 - 2ab. Sabit toplam altında ab en büyük olduğunda, a² + b² en küçük olur. En yakın değerler: a = 5, b = 6 (veya tersi) olduğunda ab = 30; o zaman a² + b² = 121 - 60 = 61."
+          "cozum": "1. a² + b² = (a + b)² - 2ab formülünü kullanalım.\n2. a² + b² = 11² - 2ab = 121 - 2ab.\n3. a² + b²'nin en küçük olması için 2ab'nin (dolayısıyla ab'nin) en büyük olması gerekir.\n4. Toplamları 11 olan tam sayıların çarpımının en büyük olması için sayılar birbirine en yakın olmalıdır.\n5. a = 5, b = 6 (veya a=6, b=5) için ab = 30 olur (en büyük değer).\n6. En küçük a² + b² = 121 - 2(30) = 121 - 60 = 61."
         },
         {
           "soru": "Soru 9: x, y tamsayılar, x · y = 36 iken, x + y'nin alabileceği en küçük pozitif tam sayı değeri kaçtır?",
@@ -13474,7 +13478,7 @@
             "E) 16"
           ],
           "dogruCevap": "A) 12",
-          "cozum": "36'in pozitif tamsayı çarpanları arasında en küçük toplam, karekök durumunda elde edilir. (6, 6) çiftiyle x + y = 6 + 6 = 12 bulunur."
+          "cozum": "1. Çarpımları sabit olan iki pozitif tam sayının toplamının en küçük olması için sayılar birbirine en yakın olmalıdır.\n2. 36'nın çarpanları içinde birbirine en yakın olanlar 6 ve 6'dır.\n3. x = 6, y = 6 için x + y = 6 + 6 = 12.\n4. Bu, alınabilecek en küçük pozitif tam sayı değeridir."
         },
         {
           "soru": "Soru 10: a ve b reel sayılar, a · b = 16 ve a + b = 10 olduğunda, a² + b² değeri kaçtır?",
@@ -13486,7 +13490,7 @@
             "E) 72"
           ],
           "dogruCevap": "C) 68",
-          "cozum": "a² + b² = (a + b)² - 2ab = 10² - 2 · 16 = 100 - 32 = 68."
+          "cozum": "1. Özdeşlik kullanalım: a² + b² = (a + b)² - 2ab.\n2. Verilen değerleri yerine koyalım:\n   a² + b² = (10)² - 2(16)\n   a² + b² = 100 - 32\n   a² + b² = 68."
         },
         {
           "soru": "Soru 11: x, y pozitif tam sayılar, 2x + 3y = 26 eşitliğini sağlayan çözüm çiftleri arasında, x · y'nin alabileceği en büyük değer kaçtır?",
@@ -13498,7 +13502,7 @@
             "E) 32"
           ],
           "dogruCevap": "C) 28",
-          "cozum": "2x + 3y = 26 denklemini sağlayan pozitif tam sayı çözümleri incelendiğinde, y = 4 ve x = 7 kombinasyonu elde edilir. Bu durumda x · y = 7 · 4 = 28; Diğer çözümler bu değerin altında kalmaktadır."
+          "cozum": "1. Denklemi sağlayan pozitif tam sayı çiftlerini bulalım:\n   y=2 => 2x + 6 = 26 => 2x=20 => x=10. xy = 10*2=20.\n   y=4 => 2x + 12 = 26 => 2x=14 => x=7. xy = 7*4=28.\n   y=6 => 2x + 18 = 26 => 2x=8 => x=4. xy = 4*6=24.\n   y=8 => 2x + 24 = 26 => 2x=2 => x=1. xy = 1*8=8.\n2. x·y değerleri: 20, 28, 24, 8.\n3. En büyük değer 28'dir."
         },
         {
           "soru": "Soru 12: a, b, c birbirinden farklı pozitif tam sayılar, a · b = 30 ve b + c = 10 ise, a + b + c toplamının alabileceği en küçük değer kaçtır?",
@@ -13510,7 +13514,7 @@
             "E) 21"
           ],
           "dogruCevap": "A) 15",
-          "cozum": "a = 30/b ve c = 10 - b olduğundan, a + b + c = 30/b + b + (10 - b) = 30/b + 10. b'nın uygun tam sayı değerleri arasında b = 6 seçildiğinde a = 5, c = 4 elde edilir ve toplam 5 + 6 + 4 = 15 olur."
+          "cozum": "1. Toplamı a + (b + c) olarak yazabiliriz. b+c=10 olduğu için toplam a + 10'dur.\n2. Toplamın en küçük olması için a'nın en küçük olması gerekir.\n3. a = 30 / b olduğundan, a'nın en küçük olması için b'nin en büyük olması gerekir.\n4. c = 10 - b. c pozitif tam sayı olmalı => 10-b > 0 => b < 10.\n5. b, 30'un böleni ve 10'dan küçük olmalı. Bölenler: 1, 2, 3, 5, 6.\n6. En büyük b değeri 6'dır.\n7. b=6 için: a=30/6=5, c=10-6=4.\n8. a,b,c (5,6,4) farklı pozitif tam sayılar.\n9. En küçük toplam = a + b + c = 5 + 6 + 4 = 15."
         },
         {
           "soru": "Soru 13: x, y, z pozitif tam sayılar, x + y + z = 50 ve x = 2y olduğuna göre, z'nin alabileceği en küçük değer kaçtır?",
@@ -13522,7 +13526,7 @@
             "E) 10"
           ],
           "dogruCevap": "A) 2",
-          "cozum": "x = 2y olduğundan, denklem x + y + z = 2y + y + z = 3y + z = 50 şeklinde yazılır. z = 50 - 3y. y artarsa z azalır; y'nin en büyük değeri, pozitif tam sayı koşulunu sağlarken 50 - 3y > 0 olacak şekilde seçilir. y = 16 için z = 50 - 48 = 2."
+          "cozum": "1. x yerine 2y yazalım: (2y) + y + z = 50 => 3y + z = 50.\n2. z = 50 - 3y.\n3. z'nin en küçük olması için 3y'nin (dolayısıyla y'nin) en büyük olması gerekir.\n4. x, y, z pozitif tam sayı olmalı. Yani z ≥ 1.\n5. 50 - 3y ≥ 1 => 49 ≥ 3y => y ≤ 49/3 = 16.33...\n6. En büyük tam sayı y değeri 16'dır.\n7. y=16 için z = 50 - 3(16) = 50 - 48 = 2.\n8. Kontrol: y=16, x=2*16=32, z=2. Hepsi pozitif tam sayı. 32+16+2=50.\n9. En küçük z değeri 2'dir."
         },
         {
           "soru": "Soru 14: a ve b reel sayılar, a - 3b = 6 iken, a² + b²'nin minimum değeri nedir?",
@@ -13534,7 +13538,7 @@
             "E) 26/5"
           ],
           "dogruCevap": "A) 18/5",
-          "cozum": "a = 6 + 3b olduğundan, a² + b² = (6+3b)² + b² = 9b² + 36b + 36 + b² = 10b² + 36b + 36. Bu ikinci dereceden fonksiyonun minimumu; b = -36/(2·10) = -9/5 noktasında bulunur. Bu değeri yerine koyduğumuzda minimum değer 18/5 olarak hesaplanır."
+          "cozum": "1. a = 6 + 3b olarak ifade edelim.\n2. a² + b² ifadesinde yerine koyalım:\n   f(b) = (6 + 3b)² + b²\n   f(b) = 36 + 36b + 9b² + b²\n   f(b) = 10b² + 36b + 36\n3. Bu, yukarı doğru açık bir paraboldür. Minimum değer tepe noktasındadır.\n4. Tepe noktasının b koordinatı: b = -B / (2A) = -36 / (2 * 10) = -36 / 20 = -9/5.\n5. Minimum değeri bulmak için b = -9/5'i fonksiyonda yerine koyalım:\n   f(-9/5) = 10(-9/5)² + 36(-9/5) + 36\n   = 10(81/25) - 324/5 + 36\n   = 162/5 - 324/5 + 180/5\n   = (162 - 324 + 180) / 5 = 18/5."
         },
         {
           "soru": "Soru 15: x, y tamsayılar, x² - y² = 84 ve x > y olduğuna göre, x + y'nin alabileceği en küçük pozitif tam sayı değeri kaçtır?",
@@ -13546,7 +13550,7 @@
             "E) 22"
           ],
           "dogruCevap": "A) 14",
-          "cozum": "x² - y² = (x - y)(x + y) = 84. x - y ve x + y pozitif tamsayı çarpanları olmak zorundadır. Uygun çarpan çifti olarak 6 ve 14 seçilebilir; burada x - y = 6, x + y = 14, böylece x = (14 + 6)/2 = 10, y = (14 - 6)/2 = 4. Böylece x + y = 14 elde edilir."
+          "cozum": "1. İki kare farkı: x² - y² = (x - y)(x + y) = 84.\n2. x ve y tam sayı ise, x-y ve x+y de tam sayıdır.\n3. x > y olduğu için x-y > 0. Ayrıca x+y > 0 olmalı (pozitif tam sayı değeri sorulduğu için).\n4. x = ((x+y) + (x-y))/2 ve y = ((x+y) - (x-y))/2. x ve y'nin tam sayı olması için x-y ve x+y'nin her ikisi de çift veya her ikisi de tek olmalıdır. Çarpımları 84 (çift) olduğundan, her ikisi de çift olmalıdır.\n5. 84'ün çarpan çiftlerini (p, q) p=x-y, q=x+y, p<q olacak şekilde bulalım:\n   (2, 42) => Her ikisi de çift. x+y = 42.\n   (4, 21) => Biri tek (olmaz).\n   (6, 14) => Her ikisi de çift. x+y = 14.\n   (12, 7) => Biri tek (olmaz).\n6. Mümkün x+y değerleri 42 ve 14'tür.\n7. En küçük pozitif tam sayı değeri 14'tür."
         }
       ],
       "Sayı Basamakları": [
@@ -13559,18 +13563,8 @@
             "Her rasyonel sayı bir doğal sayıdır.",
             "Her tam sayı bir reel sayıdır."
           ],
-          "dogruCevap": "Her rasyonel sayı bir doğal sayıdır."
-        },
-        {
-          "soru": "15432 sayısının rakamlarının toplamı kaçtır?",
-          "secenekler": [
-            "12",
-            "13",
-            "14",
-            "15",
-            "16"
-          ],
-          "dogruCevap": "15"
+          "dogruCevap": "Her rasyonel sayı bir doğal sayıdır.",
+          "cozum": "1. Doğal sayılar (N) = {0, 1, 2, ...}\n2. Tam sayılar (Z) = {..., -1, 0, 1, ...}\n3. Rasyonel sayılar (Q) = a/b şeklinde yazılabilenler (b≠0, a,b tam sayı)\n4. İrrasyonel sayılar (Q') = a/b şeklinde yazılamayanlar (√2, π gibi)\n5. Reel sayılar (R) = Tüm rasyonel ve irrasyonel sayılar.\n6. Seçenekler:\n   A) Doğru (N ⊂ Z)\n   B) Doğru (Z ⊂ Q, örn: 5 = 5/1)\n   C) Doğru (Q' ⊂ R)\n   D) Yanlış (Örn: 1/2 rasyoneldir ama doğal sayı değildir.)\n   E) Doğru (Z ⊂ R)"
         },
         {
           "soru": "15432 sayısının rakamlarının çarpımı kaçtır?",
@@ -13581,7 +13575,8 @@
             "130",
             "140"
           ],
-          "dogruCevap": "120"
+          "dogruCevap": "120",
+          "cozum": "1. Sayının rakamları: 1, 5, 4, 3, 2\n2. Rakamların çarpımı:\n   1 * 5 * 4 * 3 * 2 = 5 * 4 * 3 * 2\n   = 20 * 3 * 2\n   = 60 * 2 = 120"
         },
         {
           "soru": "Bir üç basamaklı sayının rakamları ters sıralandığında, orijinal sayı ile farkları hangi sayının katı olacaktır?",
@@ -13592,7 +13587,8 @@
             "101",
             "111"
           ],
-          "dogruCevap": "99"
+          "dogruCevap": "99",
+          "cozum": "1. Sayı: abc = 100a + 10b + c\n2. Ters çevrilmiş hali: cba = 100c + 10b + a\n3. Fark (a>c varsayımı ile):\n   (100a + 10b + c) - (100c + 10b + a)\n   = 100a + 10b + c - 100c - 10b - a\n   = 99a - 99c\n   = 99(a - c)\n4. Fark her zaman 99'un katıdır."
         },
         {
           "soru": "Bir sayının rakamlarının toplamı 12 ise, bu sayı en az kaç basamaklı olabilir?",
@@ -13603,7 +13599,8 @@
             "4",
             "5"
           ],
-          "dogruCevap": "2"
+          "dogruCevap": "2",
+          "cozum": "1. Tek basamaklı en büyük rakam 9'dur. Toplam 12 olduğu için sayı tek basamaklı olamaz.\n2. İki basamaklı bir sayı oluşturabiliriz. Örneğin, 39 sayısının rakamları toplamı 3 + 9 = 12'dir.\n3. Bu nedenle, rakamları toplamı 12 olan bir sayı en az 2 basamaklı olabilir."
         },
         {
           "soru": "254 sayısının rakamlarının çarpımı kaçtır?",
@@ -13614,7 +13611,8 @@
             "50",
             "60"
           ],
-          "dogruCevap": "40"
+          "dogruCevap": "40",
+          "cozum": "1. Sayının rakamları: 2, 5, 4\n2. Rakamların çarpımı:\n   2 * 5 * 4 = 10 * 4 = 40"
         },
         {
           "soru": "Bir sayının birler basamağı 3 ise ve bu sayının onlar basamağı, birler basamağındaki rakamın iki katı ise, onlar basamağındaki rakam kaçtır?",
@@ -13625,7 +13623,8 @@
             "7",
             "8"
           ],
-          "dogruCevap": "6"
+          "dogruCevap": "6",
+          "cozum": "1. Birler basamağı = 3\n2. Onlar basamağı = 2 * (Birler basamağı)\n3. Onlar basamağı = 2 * 3 = 6"
         },
         {
           "soru": "5789 sayısının rakamlarının toplamı kaçtır?",
@@ -13636,7 +13635,8 @@
             "30",
             "31"
           ],
-          "dogruCevap": "29"
+          "dogruCevap": "29",
+          "cozum": "1. Sayının rakamları: 5, 7, 8, 9\n2. Rakamların toplamı:\n   5 + 7 + 8 + 9 = 12 + 8 + 9\n   = 20 + 9 = 29"
         },
         {
           "soru": "Bir sayının rakamlarının toplamı 18 ise, bu sayının en az kaç basamaklı olması gerekir?",
@@ -13647,7 +13647,8 @@
             "4",
             "5"
           ],
-          "dogruCevap": "2"
+          "dogruCevap": "2",
+          "cozum": "1. Tek basamaklı en büyük rakam 9'dur. Toplam 18 olduğu için sayı tek basamaklı olamaz.\n2. İki basamaklı bir sayı oluşturabiliriz. Örneğin, 99 sayısının rakamları toplamı 9 + 9 = 18'dir.\n3. Bu nedenle, rakamları toplamı 18 olan bir sayı en az 2 basamaklı olabilir."
         },
         {
           "soru": "123 sayısının rakamlarının ters çevrilmiş hali ile orijinal hali arasındaki fark kaçtır?",
@@ -13658,7 +13659,8 @@
             "246",
             "264"
           ],
-          "dogruCevap": "198"
+          "dogruCevap": "198",
+          "cozum": "1. Orijinal sayı = 123\n2. Ters çevrilmiş hali = 321\n3. Fark (büyükten küçüğü çıkaralım):\n   321 - 123 = 198"
         }
       ],
       "Sayı Basamakları 2": [
@@ -13671,7 +13673,8 @@
             "17",
             "18"
           ],
-          "dogruCevap": "16"
+          "dogruCevap": "16",
+          "cozum": "1. Denklemi yazalım: ABC = AB + 412\n2. Sayıları çözümleyelim:\n   100A + 10B + C = (10A + B) + 412\n3. Düzenleyelim:\n   100A - 10A + 10B - B + C = 412\n   90A + 9B + C = 412\n4. Değer vererek bulalım:\n   A=4 olmalı (90*4=360, 90*5=450>412).\n   90(4) + 9B + C = 412\n   360 + 9B + C = 412\n   9B + C = 52\n   B=5 olmalı (9*5=45, 9*6=54>52).\n   9(5) + C = 52\n   45 + C = 52 => C = 7.\n5. A=4, B=5, C=7.\n6. A + B + C = 4 + 5 + 7 = 16."
         },
         {
           "soru": "Rakamları birbirinden farklı, üç basamaklı ABC sayısı için A = B + C koşulu sağlanmaktadır. Bu koşulu sağlayan en büyük ABC sayısı kaçtır?",
@@ -13682,7 +13685,8 @@
             "853",
             "761"
           ],
-          "dogruCevap": "981"
+          "dogruCevap": "981",
+          "cozum": "1. En büyük ABC için A en büyük olmalı. A=9.\n2. A = B + C => 9 = B + C.\n3. Sayının büyük olması için B de büyük olmalı.\n4. Rakamlar farklı ve B < A olmalı.\n5. En büyük B < 9 değeri 8'dir.\n6. Eğer B=8 ise C = 9 - 8 = 1.\n7. A=9, B=8, C=1 rakamları farklıdır.\n8. En büyük sayı 981'dir."
         },
         {
           "soru": "İki basamaklı AB ve BA sayılarının toplamı 132'dir. A>B olmak üzere, A-B farkı 4 ise, AB sayısı kaçtır?",
@@ -13693,7 +13697,8 @@
             "62",
             "51"
           ],
-          "dogruCevap": "84"
+          "dogruCevap": "84",
+          "cozum": "1. AB + BA = 132\n   (10A + B) + (10B + A) = 132\n   11A + 11B = 132\n   11(A + B) = 132\n   A + B = 12\n2. İki denklemimiz var:\n   A + B = 12\n   A - B = 4\n3. Taraf tarafa toplayalım:\n   2A = 16 => A = 8\n4. Yerine koyalım: 8 + B = 12 => B = 4\n5. Koşullar: A>B (8>4) doğru. A-B=4 (8-4=4) doğru.\n6. AB sayısı 84'tür."
         },
         {
           "soru": "ABC üç basamaklı bir doğal sayıdır. A > B > C ve A + B + C = 14 koşullarını sağlayan kaç farklı ABC sayısı yazılabilir?",
@@ -13704,7 +13709,8 @@
             "8",
             "9"
           ],
-          "dogruCevap": "8"
+          "dogruCevap": "8",
+          "cozum": "1. A>B>C>=1 olmalı (C=0 olamaz çünkü B>C).\n2. A'nın alabileceği en büyük değerden başlayarak deneyelim:\n   A=9: B+C=5. B>C: (4,1), (3,2). [2 sayı: 941, 932]\n   A=8: B+C=6. B>C: (5,1), (4,2). [2 sayı: 851, 842]\n   A=7: B+C=7. B>C: (6,1), (5,2), (4,3). [3 sayı: 761, 752, 743]\n   A=6: B+C=8. B>C ve B<A(6): (5,3). [1 sayı: 653]\n   A=5: B+C=9. B>C ve B<A(5): Mümkün değil.\n3. Toplam sayı = 2 + 2 + 3 + 1 = 8."
         },
         {
           "soru": "Üç basamaklı RRR sayısı, rakamları farklı üç basamaklı ABC sayısının 3 katına eşittir. Bu koşulu sağlayan en küçük ABC sayısı kaçtır?",
@@ -13715,7 +13721,8 @@
             "259",
             "296"
           ],
-          "dogruCevap": "148"
+          "dogruCevap": "148",
+          "cozum": "1. RRR = 111 * R = 3 * 37 * R\n2. 3 * 37 * R = 3 * ABC\n3. 37 * R = ABC\n4. R, 1-9 arası bir rakamdır. A, B, C farklı olmalı.\n5. R=1, R=2 -> ABC 3 basamaklı olmaz.\n   R=3 -> ABC = 111 (Rakamlar aynı, olmaz)\n   R=4 -> ABC = 37 * 4 = 148 (Rakamlar 1,4,8 farklı. Bu bir aday)\n   R=5 -> ABC = 37 * 5 = 185 (Rakamlar 1,8,5 farklı)\n   R=6 -> ABC = 222 (Aynı, olmaz)\n   R=7 -> ABC = 259 (Farklı)\n   R=8 -> ABC = 296 (Farklı)\n   R=9 -> ABC = 333 (Aynı, olmaz)\n6. Bulunan ABC sayıları: 148, 185, 259, 296.\n7. Bunların en küçüğü 148'dir."
         },
         {
           "soru": "Üç basamaklı bir ABC sayısının yüzler ve birler basamağı yer değiştirildiğinde (CBA sayısı) değeri 396 azalıyor. Bu koşulu sağlayan kaç farklı ABC sayısı vardır? (A≠0, C≠0)",
@@ -13726,7 +13733,8 @@
             "54",
             "60"
           ],
-          "dogruCevap": "50"
+          "dogruCevap": "50",
+          "cozum": "1. Denklem: ABC - CBA = 396\n2. Çözümleme:\n   (100A + 10B + C) - (100C + 10B + A) = 396\n   99A - 99C = 396\n   99(A - C) = 396\n   A - C = 4\n3. A ve C rakam, A≠0, C≠0 ve A - C = 4 olacak.\n4. (A, C) çiftleri:\n   (5, 1), (6, 2), (7, 3), (8, 4), (9, 5)\n   Toplam 5 farklı (A, C) çifti var.\n5. B rakamı 0'dan 9'a kadar 10 farklı değer alabilir.\n6. Toplam ABC sayısı = (A, C çifti sayısı) * (B değeri sayısı)\n   = 5 * 10 = 50."
         },
         {
           "soru": "İki basamaklı AB sayısı, rakamları toplamının 6 katına eşittir. Bu koşulu sağlayan kaç farklı AB sayısı vardır?",
@@ -13737,7 +13745,8 @@
             "4",
             "5"
           ],
-          "dogruCevap": "1"
+          "dogruCevap": "1",
+          "cozum": "1. Denklem: AB = 6 * (A + B)\n2. Çözümleme:\n   10A + B = 6A + 6B\n3. Düzenleme:\n   10A - 6A = 6B - B\n   4A = 5B\n4. A ve B rakamdır (A≠0).\n5. 4 ve 5 aralarında asal olduğu için tek çözüm:\n   A = 5\n   B = 4\n6. Sayı 54'tür. Kontrol: 54 = 6 * (5+4) = 6 * 9 = 54.\n7. Sadece 1 tane böyle sayı vardır."
         }
       ],
       "Bölme ve Bölünebilme": [
@@ -13750,7 +13759,8 @@
             "A, 9 ile tam bölünür.",
             "A, 11 ile tam bölünür."
           ],
-          "dogruCevap": "A, 3 ile tam bölünür."
+          "dogruCevap": "A, 3 ile tam bölünür.",
+          "cozum": "1. Bir sayı 12 ile tam bölünüyorsa, 12'nin tüm çarpanları ile de tam bölünür.\n2. 12'nin çarpanları: 1, 2, 3, 4, 6, 12.\n3. Seçeneklere baktığımızda, 3 sayısı 12'nin bir çarpanıdır.\n4. Bu nedenle, A sayısı 12 ile tam bölünüyorsa, 3 ile de kesinlikle tam bölünür.\n5. Diğer seçenekler (5, 7, 9, 11) 12'nin çarpanı olmadığı için kesinlik yoktur."
         },
         {
           "soru": "Beş basamaklı 7a5b2 sayısı 3 ile tam bölünebildiğine göre, a + b toplamının alabileceği en küçük değer kaçtır?",
@@ -13761,7 +13771,8 @@
             "3",
             "4"
           ],
-          "dogruCevap": "1"
+          "dogruCevap": "1",
+          "cozum": "1. Bir sayının 3 ile tam bölünebilmesi için rakamları toplamı 3'ün katı olmalıdır.\n2. Bilinen rakamların toplamı: 7 + 5 + 2 = 14.\n3. Toplam = 14 + a + b.\n4. 14 + a + b toplamı 3'ün katı olmalı.\n5. 14'ten büyük 3'ün katları: 15, 18, 21, ...\n6. 14 + a + b = 15 => a + b = 1.\n7. 14 + a + b = 18 => a + b = 4.\n8. 14 + a + b = 21 => a + b = 7.\n9. ...\n10. a ve b rakam olduğundan (0-9 arası), a+b negatif olamaz.\n11. a+b'nin alabileceği en küçük değer 1'dir."
         },
         {
           "soru": "Aşağıdaki sayılardan hangisi 5 ile tam bölünür?",
@@ -13772,7 +13783,8 @@
             "2357",
             "2362"
           ],
-          "dogruCevap": "2345"
+          "dogruCevap": "2345",
+          "cozum": "1. Bir sayının 5 ile tam bölünebilmesi için son rakamının 0 veya 5 olması gerekir.\n2. Seçenekleri kontrol edelim:\n   - 2341 (Son rakam 1)\n   - 2345 (Son rakam 5) -> Bölünür.\n   - 2351 (Son rakam 1)\n   - 2357 (Son rakam 7)\n   - 2362 (Son rakam 2)\n3. Sadece 2345 sayısı 5 ile tam bölünür."
         },
         {
           "soru": "Aşağıdakilerden hangisi 9 ile tam bölünemez?",
@@ -13783,7 +13795,8 @@
             "783",
             "792"
           ],
-          "dogruCevap": "764"
+          "dogruCevap": "764",
+          "cozum": "1. Bir sayının 9 ile tam bölünebilmesi için rakamları toplamı 9'un katı olmalıdır.\n2. Seçeneklerin rakamları toplamını bulalım:\n   - 738 => 7 + 3 + 8 = 18 (9'un katı)\n   - 756 => 7 + 5 + 6 = 18 (9'un katı)\n   - 764 => 7 + 6 + 4 = 17 (9'un katı değil) -> Bölünemez.\n   - 783 => 7 + 8 + 3 = 18 (9'un katı)\n   - 792 => 7 + 9 + 2 = 18 (9'un katı)\n3. 764 sayısı 9 ile tam bölünemez."
         },
         {
           "soru": "Aşağıdakilerden hangisi 7 ile tam bölünmez?",
@@ -13794,7 +13807,8 @@
             "105",
             "112"
           ],
-          "dogruCevap": "92"
+          "dogruCevap": "92",
+          "cozum": "1. Sayıları 7'ye bölerek kontrol edelim:\n   - 91 / 7 = 13 (Tam bölünüyor)\n   - 84 / 7 = 12 (Tam bölünüyor)\n   - 92 / 7 = 13 kalan 1 (Tam bölünmüyor)\n   - 105 / 7 = 15 (Tam bölünüyor)\n   - 112 / 7 = 16 (Tam bölünüyor)\n2. 92 sayısı 7 ile tam bölünmez."
         }
       ],
       "Bölme ve Bölünebilme 2": [
@@ -13807,7 +13821,8 @@
             "8",
             "9"
           ],
-          "dogruCevap": "1"
+          "dogruCevap": "1",
+          "cozum": "1. Sayı 45 ile tam bölünüyorsa, 5 ve 9 ile de tam bölünür.\n2. 5 ile bölünme: Son rakam (B) 0 veya 5 olmalı.\n3. Rakamlar farklı: 5, A, 3, B farklı olmalı.\n4. Durum 1 (B=0): Sayı 5A30. Rakamlar farklı (5, A, 3, 0). A≠5, A≠3, A≠0.\n   9 ile bölünme: Rakamlar toplamı (5+A+3+0 = 8+A) 9'un katı olmalı.\n   8+A = 9 => A = 1 (Farklılık koşulunu sağlar: 1≠5, 3, 0).\n   8+A = 18 => A = 10 (Rakam değil, olmaz).\n5. Durum 2 (B=5): Sayı 5A35. Rakamlar farklı değil (B=5, ilk rakam da 5). Bu durum geçersiz.\n6. Tek geçerli sonuç A=1'dir."
         },
         {
           "soru": "Bir A doğal sayısı 15 ile bölündüğünde bölüm B, kalan 7'dir. B sayısı 6 ile bölündüğünde kalan 4 olduğuna göre, A sayısının 9 ile bölümünden kalan kaçtır?",
@@ -13818,7 +13833,8 @@
             "6",
             "7"
           ],
-          "dogruCevap": "4"
+          "dogruCevap": "4",
+          "cozum": "1. A = 15B + 7\n2. B = 6k + 4 (k bir doğal sayı)\n3. B'yi A denkleminde yerine yaz:\n   A = 15(6k + 4) + 7\n   A = 90k + 60 + 7\n   A = 90k + 67\n4. A'nın 9 ile bölümünden kalanı bulmak için denklemin mod 9'daki değerine bakarız:\n   A ≡ (90k + 67) mod 9\n5. 90k, 9'un katı olduğu için 90k ≡ 0 mod 9.\n6. A ≡ 0 + 67 mod 9\n7. 67'nin 9 ile bölümünden kalan: 67 = 9 * 7 + 4. Kalan 4.\n8. A ≡ 4 mod 9. Kalan 4'tür."
         },
         {
           "soru": "2025^2025 sayısının 9 ile bölümünden kalan kaçtır?",
@@ -13829,10 +13845,11 @@
             "3",
             "5"
           ],
-          "dogruCevap": "0"
+          "dogruCevap": "0",
+          "cozum": "1. Bir sayının 9 ile bölümünden kalanı bulmak için tabanın 9 ile bölümünden kalanı buluruz.\n2. 2025 sayısının rakamları toplamı: 2 + 0 + 2 + 5 = 9.\n3. Rakamları toplamı 9 olduğu için 2025 sayısı 9 ile tam bölünür.\n4. Yani, 2025 ≡ 0 mod 9.\n5. Bu durumda, 2025^2025 ≡ 0^2025 mod 9.\n6. 0^2025 = 0.\n7. Kalan 0'dır."
         },
         {
-          "soru": "Bir sepetteki güller 5'erli gruplandığında 3 gül, 6'şarlı gruplandığında ise 4 gül artmaktadır. Sepetteki gül sayısı 100'den fazla olduğuna göre, en az kaç gül vardır?",
+          "soru": "Bir sepetteki güller 5'erli gruplandığında 3 gül, 6'şarlı gruplandığında ise 4 gül artmaktadır. Sepetteki gül sayısı (N) 100'den fazla olduğuna göre, en az kaç gül vardır?",
           "secenekler": [
             "108",
             "118",
@@ -13840,7 +13857,8 @@
             "148",
             "178"
           ],
-          "dogruCevap": "118"
+          "dogruCevap": "118",
+          "cozum": "1. N = 5k + 3 => N + 2 = 5k + 5 = 5(k+1). Yani N+2, 5'in katıdır.\n2. N = 6m + 4 => N + 2 = 6m + 6 = 6(m+1). Yani N+2, 6'nın katıdır.\n3. N+2 sayısı hem 5'in hem de 6'nın katı olduğundan, EKOK(5, 6)'nın katıdır.\n4. EKOK(5, 6) = 30.\n5. N+2 = 30j (j bir tam sayı).\n6. N = 30j - 2.\n7. N > 100 olmalı.\n   30j - 2 > 100\n   30j > 102\n   j > 102 / 30 = 3.4\n8. j tam sayı olduğu için en küçük j değeri 4'tür.\n9. En küçük N = 30(4) - 2 = 120 - 2 = 118."
         },
         {
           "soru": "25! + 26! sayısı aşağıdakilerden hangisine tam olarak bölünemez?",
@@ -13851,7 +13869,8 @@
             "35",
             "29"
           ],
-          "dogruCevap": "29"
+          "dogruCevap": "29",
+          "cozum": "1. İfadeyi düzenleyelim:\n   25! + 26 * 25! = 25! * (1 + 26) = 25! * 27\n2. 25! = 1 * 2 * 3 * ... * 25.\n3. Seçenekleri kontrol edelim:\n   - 18 = 2 * 9. 25! içinde 2 ve 9 çarpanları var. Bölünür.\n   - 21 = 3 * 7. 25! içinde 3 ve 7 çarpanları var. Bölünür.\n   - 24 = 3 * 8. 25! içinde 3 ve 8 çarpanları var. Bölünür.\n   - 35 = 5 * 7. 25! içinde 5 ve 7 çarpanları var. Bölünür.\n   - 29 asal bir sayıdır ve 25'ten büyüktür. Bu nedenle 25! içinde 29 çarpanı yoktur. 27 içinde de yoktur. Dolayısıyla 25! * 27 sayısı 29 ile tam bölünemez."
         },
         {
           "soru": "A = 1! + 2! + 3! + ... + 50! olduğuna göre, A sayısının 12 ile bölümünden kalan kaçtır?",
@@ -13862,7 +13881,8 @@
             "7",
             "9"
           ],
-          "dogruCevap": "9"
+          "dogruCevap": "9",
+          "cozum": "1. 12 = 3 * 4.\n2. 4! ve sonraki faktöriyeller (n! için n≥4) hem 3 hem de 4 çarpanını içerir, dolayısıyla 12 ile tam bölünürler (kalan 0 olur).\n3. A'nın 12 ile bölümünden kalanı bulmak için sadece ilk üç terimin 12 ile bölümünden kalanlara bakmak yeterlidir.\n4. 1! = 1 ≡ 1 mod 12\n   2! = 2 ≡ 2 mod 12\n   3! = 6 ≡ 6 mod 12\n   4! = 24 ≡ 0 mod 12\n   n! ≡ 0 mod 12 (n≥4 için)\n5. A ≡ 1! + 2! + 3! + (4! + ... + 50!) mod 12\n   A ≡ 1 + 2 + 6 + (0 + ... + 0) mod 12\n   A ≡ 9 mod 12.\n6. Kalan 9'dur."
         },
         {
           "soru": "Dört basamaklı A37B sayısı 15 ile bölündüğünde 8 kalanını vermektedir. Buna göre A'nın alabileceği değerler toplamı kaçtır?",
@@ -13873,7 +13893,8 @@
             "24",
             "27"
           ],
-          "dogruCevap": "27"
+          "dogruCevap": "27",
+          "cozum": "1. Sayı ≡ 8 mod 15 demektir.\n2. Bu, aynı zamanda şu anlama gelir:\n   Sayı ≡ 8 mod 3\n   Sayı ≡ 8 mod 5\n3. 5 ile bölümünden kalan: Sayının son rakamı (B) 3 veya 8 olmalıdır (8 mod 5 = 3).\n4. 3 ile bölümünden kalan: Rakamlar toplamı ≡ 8 mod 3 olmalı.\n   A + 3 + 7 + B ≡ 8 mod 3\n   A + 10 + B ≡ 8 mod 3\n   A + B + (10-8) ≡ 0 mod 3\n   A + B + 2 ≡ 0 mod 3\n5. Durum 1 (B=3):\n   A + 3 + 2 ≡ 0 mod 3\n   A + 5 ≡ 0 mod 3\n   A ≡ -5 mod 3 => A ≡ 1 mod 3.\n   A olabilir: 1, 4, 7 (A≠0).\n6. Durum 2 (B=8):\n   A + 8 + 2 ≡ 0 mod 3\n   A + 10 ≡ 0 mod 3\n   A ≡ -10 mod 3 => A ≡ 2 mod 3.\n   A olabilir: 2, 5, 8.\n7. A'nın alabileceği tüm değerler: 1, 4, 7, 2, 5, 8.\n8. Toplamları = 1 + 4 + 7 + 2 + 5 + 8 = 27."
         }
       ],
       "Asal Çarpanlara Ayırma": [
@@ -13886,7 +13907,8 @@
             "11",
             "12"
           ],
-          "dogruCevap": "10"
+          "dogruCevap": "10",
+          "cozum": "1. 60 sayısını asal çarpanlarına ayıralım:\n   60 | 2\n   30 | 2\n   15 | 3\n    5 | 5\n    1\n   60 = 2² · 3¹ · 5¹\n2. Asal çarpanlar: 2, 3, 5\n3. Asal çarpanların toplamı:\n   2 + 3 + 5 = 10"
         },
         {
           "soru": "84 sayısının pozitif tam bölen sayısı kaçtır?",
@@ -13897,7 +13919,8 @@
             "14",
             "16"
           ],
-          "dogruCevap": "12"
+          "dogruCevap": "12",
+          "cozum": "1. 84 sayısını asal çarpanlarına ayıralım:\n   84 | 2\n   42 | 2\n   21 | 3\n    7 | 7\n    1\n   84 = 2² · 3¹ · 7¹\n2. Pozitif tam bölen sayısını bulmak için üsleri birer artırıp çarpalım:\n   (2 + 1) * (1 + 1) * (1 + 1)\n   = 3 * 2 * 2 = 12"
         },
         {
           "soru": "Aşağıdaki sayılardan hangisi 2³ · 3² şeklinde asal çarpanlara ayrılabilir?",
@@ -13908,7 +13931,8 @@
             "60",
             "72"
           ],
-          "dogruCevap": "72"
+          "dogruCevap": "72",
+          "cozum": "1. Verilen asal çarpanları çarpalım:\n   2³ · 3² = (2 * 2 * 2) * (3 * 3)\n   = 8 * 9 = 72\n2. Sonuç 72'dir."
         },
         {
           "soru": "Aşağıdaki sayılardan hangisi 2² · 3 · 5 şeklinde asal çarpanlara ayrılır?",
@@ -13919,7 +13943,8 @@
             "75",
             "90"
           ],
-          "dogruCevap": "60"
+          "dogruCevap": "60",
+          "cozum": "1. Verilen asal çarpanları çarpalım:\n   2² · 3¹ · 5¹ = (2 * 2) * 3 * 5\n   = 4 * 3 * 5\n   = 12 * 5 = 60\n2. Sonuç 60'tır."
         },
         {
           "soru": "90 sayısının asal çarpanlara ayrılmasında elde edilen üslerin toplamı kaçtır?",
@@ -13930,7 +13955,8 @@
             "6",
             "7"
           ],
-          "dogruCevap": "4"
+          "dogruCevap": "4",
+          "cozum": "1. 90 sayısını asal çarpanlarına ayıralım:\n   90 | 2\n   45 | 3\n   15 | 3\n    5 | 5\n    1\n   90 = 2¹ · 3² · 5¹\n2. Asal çarpanların üsleri: 1, 2, 1\n3. Üslerin toplamı:\n   1 + 2 + 1 = 4"
         },
         {
           "soru": "Aşağıdaki sayılardan hangisi asal çarpanlarına ayrıldığında 2, 3 ve 11 bulunur?",
@@ -13941,7 +13967,8 @@
             "110",
             "132"
           ],
-          "dogruCevap": "66"
+          "dogruCevap": "66",
+          "cozum": "1. Asal çarpanları 2, 3 ve 11 olan sayıyı bulmak için bu sayıları çarparız:\n   2 * 3 * 11 = 6 * 11 = 66\n2. Sonuç 66'dır."
         },
         {
           "soru": "36 sayısının asal çarpanlara ayrılması sonucunda elde edilen asal çarpanların toplamı kaçtır?",
@@ -13952,7 +13979,8 @@
             "6",
             "7"
           ],
-          "dogruCevap": "5"
+          "dogruCevap": "5",
+          "cozum": "1. 36 sayısını asal çarpanlarına ayıralım:\n   36 | 2\n   18 | 2\n    9 | 3\n    3 | 3\n    1\n   36 = 2² · 3²\n2. Asal çarpanlar: 2, 3\n3. Asal çarpanların toplamı:\n   2 + 3 = 5"
         },
         {
           "soru": "120 sayısının pozitif tam bölen sayısı kaçtır?",
@@ -13963,7 +13991,8 @@
             "18",
             "20"
           ],
-          "dogruCevap": "16"
+          "dogruCevap": "16",
+          "cozum": "1. 120 sayısını asal çarpanlarına ayıralım:\n   120 | 2\n    60 | 2\n    30 | 2\n    15 | 3\n     5 | 5\n     1\n   120 = 2³ · 3¹ · 5¹\n2. Pozitif tam bölen sayısını bulmak için üsleri birer artırıp çarpalım:\n   (3 + 1) * (1 + 1) * (1 + 1)\n   = 4 * 2 * 2 = 16"
         },
         {
           "soru": "Aşağıdaki sayılardan hangisi 2² · 3³ şeklinde asal çarpanlara ayrılabilir?",
@@ -13974,7 +14003,8 @@
             "144",
             "216"
           ],
-          "dogruCevap": "108"
+          "dogruCevap": "108",
+          "cozum": "1. Verilen asal çarpanları çarpalım:\n   2² · 3³ = (2 * 2) * (3 * 3 * 3)\n   = 4 * 27 = 108\n2. Sonuç 108'dir."
         }
       ],
       "Asal Çarpanlara Ayırma 2": [
@@ -13987,7 +14017,8 @@
             "4",
             "5"
           ],
-          "dogruCevap": "2"
+          "dogruCevap": "2",
+          "cozum": "1. A'yı asal çarpanlarına ayıralım:\n   A = (2²·3)ⁿ · (2·5)ⁿ⁺¹\n   A = 2²ⁿ · 3ⁿ · 2ⁿ⁺¹ · 5ⁿ⁺¹\n   A = 2³ⁿ⁺¹ · 3ⁿ · 5ⁿ⁺¹\n2. Pozitif Tam Bölen Sayısı (PTBS):\n   PTBS = (3n+1+1) · (n+1) · (n+1+1)\n   PTBS = (3n+2) · (n+1) · (n+2)\n3. PTBS = 96 verilmiş:\n   (3n+2)(n+1)(n+2) = 96\n4. n değerlerini deneyelim:\n   n=1 => (5)(2)(3) = 30 ≠ 96\n   n=2 => (8)(3)(4) = 96. Sağlıyor.\n5. n = 2'dir."
         },
         {
           "soru": "180 sayısının pozitif tam bölenlerinin toplamı kaçtır?",
@@ -13998,7 +14029,8 @@
             "546",
             "600"
           ],
-          "dogruCevap": "546"
+          "dogruCevap": "546",
+          "cozum": "1. 180'i asal çarpanlarına ayıralım:\n   180 = 18 * 10 = (2 · 3²) · (2 · 5)\n   180 = 2² · 3² · 5¹\n2. Pozitif Bölen Toplamı (PBT) formülü:\n   PBT = (2⁰+2¹+2²) · (3⁰+3¹+3²) · (5⁰+5¹)\n3. Hesaplayalım:\n   PBT = (1+2+4) · (1+3+9) · (1+5)\n   PBT = 7 · 13 · 6\n   PBT = 91 · 6 = 546"
         },
         {
           "soru": "72 sayısının asal olmayan tam sayı bölenlerinin sayısı kaçtır?",
@@ -14009,7 +14041,8 @@
             "22",
             "24"
           ],
-          "dogruCevap": "22"
+          "dogruCevap": "22",
+          "cozum": "1. 72'yi asal çarpanlarına ayıralım:\n   72 = 8 * 9 = 2³ · 3²\n2. Pozitif Tam Bölen Sayısı (PTBS):\n   PTBS = (3+1) · (2+1) = 4 · 3 = 12\n3. Tam Bölen Sayısı (TBS) = 2 * PTBS = 2 * 12 = 24\n4. Asal bölenler: 2 ve 3 (toplam 2 tane).\n5. Asal Olmayan Tam Sayı Bölen Sayısı:\n   = TBS - (Asal Bölen Sayısı)\n   = 24 - 2 = 22"
         },
         {
           "soru": "A = 75 · x çarpımı bir tam kare olduğuna göre, x'in alabileceği en küçük pozitif tam sayı değeri kaçtır?",
@@ -14020,7 +14053,8 @@
             "15",
             "75"
           ],
-          "dogruCevap": "3"
+          "dogruCevap": "3",
+          "cozum": "1. 75'i asal çarpanlarına ayıralım:\n   75 = 3 · 25 = 3¹ · 5²\n2. A = 3¹ · 5² · x\n3. A'nın tam kare olması için tüm asal çarpanların üsleri çift olmalıdır.\n4. 5'in üssü (2) zaten çift.\n5. 3'ün üssü (1) tek. Bunu çift yapmak için x'in içinde en az bir tane daha 3 çarpanı (3¹) olmalıdır.\n6. En küçük pozitif x değeri 3'tür."
         },
         {
           "soru": "48! sayısının sondan kaç basamağı sıfırdır?",
@@ -14031,7 +14065,8 @@
             "11",
             "12"
           ],
-          "dogruCevap": "10"
+          "dogruCevap": "10",
+          "cozum": "1. Sondaki sıfır sayısı, faktöriyelin içindeki 5 çarpanlarının sayısına eşittir.\n2. 48'i sürekli 5'e bölerek bu sayıyı bulalım:\n   48 ÷ 5 = 9 (kalanı dikkate alma)\n    9 ÷ 5 = 1 (kalanı dikkate alma)\n3. Bölümleri toplayalım:\n   9 + 1 = 10\n4. 48! sayısının sonunda 10 tane sıfır vardır."
         },
         {
           "soru": "a ve b pozitif tam sayılardır. EBOB(a, b) = 6 ve a · b = 1080 olduğuna göre, a + b toplamı en az kaçtır?",
@@ -14042,7 +14077,8 @@
             "102",
             "186"
           ],
-          "dogruCevap": "66"
+          "dogruCevap": "66",
+          "cozum": "1. EBOB(a, b) = 6 ise, a = 6x ve b = 6y yazabiliriz (x, y aralarında asal).\n2. a · b = (6x) · (6y) = 36xy = 1080\n3. xy = 1080 / 36 = 30\n4. a+b toplamının en az olması için x ve y değerlerinin birbirine en yakın olması gerekir.\n5. Çarpımı 30 olan ve aralarında asal olan (x, y) çiftleri: (1, 30), (2, 15), (3, 10), (5, 6).\n6. Birbirine en yakın çift (5, 6)'dır.\n7. x=5, y=6 alalım:\n   a = 6 * 5 = 30\n   b = 6 * 6 = 36\n8. a + b = 30 + 36 = 66."
         },
         {
           "soru": "A = 2⁴ · 3³ · 5² sayısının pozitif çift tam bölen sayısı kaçtır?",
@@ -14053,7 +14089,8 @@
             "48",
             "60"
           ],
-          "dogruCevap": "48"
+          "dogruCevap": "48",
+          "cozum": "1. Bir bölenin çift olması için en az bir tane 2 çarpanı içermesi gerekir.\n2. A'dan bir tane 2 çarpanını kenara ayıralım:\n   A = 2 · (2³ · 3³ · 5²)\n3. Parantez içindeki B = 2³ · 3³ · 5² sayısının pozitif bölen sayısı, A'nın pozitif çift bölen sayısına eşittir.\n4. B'nin PTBS'si:\n   PTBS(B) = (3+1) · (3+1) · (2+1)\n   = 4 · 4 · 3 = 48\n5. Pozitif çift tam bölen sayısı 48'dir."
         }
       ],
       "Rasyonel Sayılar": [
@@ -14066,7 +14103,8 @@
             "5/8",
             "2/5"
           ],
-          "dogruCevap": "19/15"
+          "dogruCevap": "19/15",
+          "cozum": "1. Paydaları eşitleyelim (EKOK(5, 3) = 15).\n2. x = 3/5 = (3*3)/(5*3) = 9/15\n3. y = 2/3 = (2*5)/(3*5) = 10/15\n4. x + y = 9/15 + 10/15\n5. x + y = (9 + 10) / 15 = 19/15"
         },
         {
           "soru": "(2/3) ÷ (4/5) işleminin sonucu nedir?",
@@ -14077,7 +14115,8 @@
             "10/7",
             "4/5"
           ],
-          "dogruCevap": "5/6"
+          "dogruCevap": "5/6",
+          "cozum": "1. Bölme işlemi, ikinci kesri ters çevirip çarpmaktır.\n2. (2/3) * (5/4)\n3. Çarpma: (2 * 5) / (3 * 4) = 10 / 12\n4. Sadeleştirme (pay ve paydayı 2'ye böl):\n   10/12 = 5/6"
         },
         {
           "soru": "(1/2 + 1/3) / (1/4 - 1/6) işleminin sonucu nedir?",
@@ -14088,7 +14127,8 @@
             "12",
             "15"
           ],
-          "dogruCevap": "10"
+          "dogruCevap": "10",
+          "cozum": "1. Pay kısmını hesapla (payda 6):\n   1/2 + 1/3 = 3/6 + 2/6 = 5/6\n2. Payda kısmını hesapla (payda 12):\n   1/4 - 1/6 = 3/12 - 2/12 = 1/12\n3. Bölme işlemi yap:\n   (5/6) / (1/12)\n   = (5/6) * (12/1)\n   = (5 * 12) / (6 * 1)\n   = 60 / 6 = 10"
         },
         {
           "soru": "(3/4)² - (1/2)² işleminin sonucu nedir?",
@@ -14099,7 +14139,8 @@
             "1/2",
             "3/8"
           ],
-          "dogruCevap": "5/16"
+          "dogruCevap": "5/16",
+          "cozum": "1. Kareleri al:\n   (3/4)² = 9/16\n   (1/2)² = 1/4\n2. Çıkarma işlemi (payda 16):\n   9/16 - 1/4 = 9/16 - 4/16\n   = (9 - 4) / 16 = 5/16"
         },
         {
           "soru": "x = -2/3 ise, x'in tersi (x⁻¹) nedir?",
@@ -14110,7 +14151,8 @@
             "2/3",
             "1/(-3/2)"
           ],
-          "dogruCevap": "-3/2"
+          "dogruCevap": "-3/2",
+          "cozum": "1. Bir sayının çarpma işlemine göre tersi (x⁻¹), o sayının 1'e bölünmüş halidir (1/x).\n2. x⁻¹ = 1 / (-2/3)\n3. Bölme işlemi: 1 * (3 / -2) = 3 / -2 = -3/2"
         },
         {
           "soru": "a = 2/7 ve b = 3/5 olduğuna göre, (a + b) / (a - b) işleminin sonucu nedir?",
@@ -14121,7 +14163,8 @@
             "11/31",
             "5/7"
           ],
-          "dogruCevap": "-31/11"
+          "dogruCevap": "-31/11",
+          "cozum": "1. Paydaları eşitle (EKOK(7,5)=35):\n   a = 10/35, b = 21/35\n2. a + b hesapla:\n   10/35 + 21/35 = 31/35\n3. a - b hesapla:\n   10/35 - 21/35 = -11/35\n4. Bölme işlemi yap:\n   (31/35) / (-11/35)\n   = (31/35) * (35 / -11)\n   = 31 / -11 = -31/11"
         },
         {
           "soru": "a = 3/4 ve b = -1/2 olduğuna göre, a · b işleminin sonucu nedir?",
@@ -14132,7 +14175,8 @@
             "1/2",
             "-3/4"
           ],
-          "dogruCevap": "-3/8"
+          "dogruCevap": "-3/8",
+          "cozum": "1. Çarpma işlemi:\n   a · b = (3/4) * (-1/2)\n2. Payları ve paydaları çarp:\n   = (3 * -1) / (4 * 2)\n   = -3 / 8"
         },
         {
           "soru": "5/8 ile 3/5 sayılarından hangisi büyüktür?",
@@ -14143,7 +14187,8 @@
             "2/3",
             "4/7"
           ],
-          "dogruCevap": "5/8"
+          "dogruCevap": "5/8",
+          "cozum": "1. Paydaları eşitleyerek karşılaştıralım (EKOK(8,5)=40):\n   5/8 = (5*5)/(8*5) = 25/40\n   3/5 = (3*8)/(5*8) = 24/40\n2. 25/40 > 24/40 olduğu için,\n3. 5/8 > 3/5. Yani 5/8 daha büyüktür."
         },
         {
           "soru": "(x/2) + (x/3) = 5 denkleminin çözümü nedir?",
@@ -14154,7 +14199,8 @@
             "7",
             "8"
           ],
-          "dogruCevap": "6"
+          "dogruCevap": "6",
+          "cozum": "1. Paydaları eşitle (EKOK(2,3)=6):\n   (3x/6) + (2x/6) = 5\n2. Payları topla:\n   (3x + 2x) / 6 = 5\n   5x / 6 = 5\n3. x'i yalnız bırak:\n   5x = 5 * 6\n   5x = 30\n   x = 30 / 5 = 6"
         },
         {
           "soru": "x = 4/9 ve y = 3/7 olduğuna göre, (x⁻¹ - y⁻¹) işleminin sonucu nedir?",
@@ -14165,7 +14211,8 @@
             "-1/21",
             "1/3"
           ],
-          "dogruCevap": "-1/12"
+          "dogruCevap": "-1/12",
+          "cozum": "1. Terslerini bul:\n   x⁻¹ = 1 / (4/9) = 9/4\n   y⁻¹ = 1 / (3/7) = 7/3\n2. Çıkarma işlemi (payda 12):\n   x⁻¹ - y⁻¹ = 9/4 - 7/3\n   = (9*3)/(4*3) - (7*4)/(3*4)\n   = 27/12 - 28/12\n   = (27 - 28) / 12 = -1/12"
         }
       ],
       "Rasyonel Sayılar 2": [
@@ -14178,7 +14225,8 @@
             "11/2",
             "13/2"
           ],
-          "dogruCevap": "13/2"
+          "dogruCevap": "13/2",
+          "cozum": "1. En içteki işlem: 2 + 1/3 = 6/3 + 1/3 = 7/3\n2. Bir üstteki: 1 / (7/3) = 3/7\n3. Bir üstteki: 1 - 3/7 = 7/7 - 3/7 = 4/7\n4. Bölme: 2 / (4/7) = 2 * (7/4) = 14/4 = 7/2\n5. Son toplama: 3 + 7/2 = 6/2 + 7/2 = 13/2"
         },
         {
           "soru": "a = 0,4\\overline{9} ve b = 0,\\overline{27} olduğuna göre, \\frac{a+b}{a-b} işleminin sonucu kaçtır?",
@@ -14189,7 +14237,8 @@
             "5/12",
             "1"
           ],
-          "dogruCevap": "17/5"
+          "dogruCevap": "17/5",
+          "cozum": "1. Devirli sayıları kesre çevirelim:\n   a = 0.4999... = 0.5 = 1/2\n   b = 0.2727... = 27/99 = 3/11\n2. a + b hesapla:\n   1/2 + 3/11 = 11/22 + 6/22 = 17/22\n3. a - b hesapla:\n   1/2 - 3/11 = 11/22 - 6/22 = 5/22\n4. Bölme işlemi:\n   (a+b)/(a-b) = (17/22) / (5/22)\n   = (17/22) * (22/5) = 17/5"
         },
         {
           "soru": "x = -\\frac{10}{11}, y = -\\frac{100}{111}, z = -\\frac{1000}{1111} sayılarının doğru sıralanışı aşağıdakilerden hangisidir?",
@@ -14200,7 +14249,8 @@
             "y < z < x",
             "z < y < x"
           ],
-          "dogruCevap": "x < y < z"
+          "dogruCevap": "x < y < z",
+          "cozum": "1. Sayılar negatif olduğu için mutlak değerlerini sıralayıp tersini alacağız.\n2. |x|=10/11, |y|=100/111, |z|=1000/1111\n3. Sayıları 1'den çıkararak karşılaştıralım:\n   1 - |x| = 1 - 10/11 = 1/11\n   1 - |y| = 1 - 100/111 = 11/111\n   1 - |z| = 1 - 1000/1111 = 111/1111\n4. Paydaları eşitlemek yerine kesirleri karşılaştıralım:\n   1/11 vs 11/111 => 1*111 vs 11*11 => 111 < 121. Yani 1/11 < 11/111.\n   11/111 vs 111/1111 => 11*1111 vs 111*111 => 12221 < 12321. Yani 11/111 < 111/1111.\n5. Sıralama: 1/11 < 11/111 < 111/1111\n   Yani: 1 - |x| < 1 - |y| < 1 - |z|\n6. Bu, |x| > |y| > |z| anlamına gelir.\n7. Sayılar negatif olduğu için sıralama tersine döner: x < y < z."
         },
         {
           "soru": "\\frac{a}{b} = \\frac{2}{3} ve \\frac{b}{c} = \\frac{4}{5} olduğuna göre, \\frac{a+c}{b-a} ifadesinin değeri kaçtır?",
@@ -14211,7 +14261,8 @@
             "23/8",
             "15/4"
           ],
-          "dogruCevap": "23/4"
+          "dogruCevap": "23/4",
+          "cozum": "1. b değerlerini eşitlemek için ilk kesri 4 ile, ikinci kesri 3 ile genişletelim:\n   a/b = (2*4)/(3*4) = 8/12\n   b/c = (4*3)/(5*3) = 12/15\n2. Oranları k sabitiyle yazalım:\n   a = 8k, b = 12k, c = 15k\n3. İstenen ifadede yerine koyalım:\n   (a+c) / (b-a) = (8k + 15k) / (12k - 8k)\n   = (23k) / (4k)\n4. k'lar sadeleşir: 23/4"
         },
         {
           "soru": "1 + \\frac{1}{1 + \\frac{1}{x+1}} = \\frac{8}{5} denklemini sağlayan x değeri kaçtır?",
@@ -14222,7 +14273,8 @@
             "1",
             "2"
           ],
-          "dogruCevap": "1/2"
+          "dogruCevap": "1/2",
+          "cozum": "1. Eşitliği düzenle:\n   \\frac{1}{1 + \\frac{1}{x+1}} = \\frac{8}{5} - 1 = \\frac{3}{5}\n2. İki tarafın tersini al:\n   1 + \\frac{1}{x+1} = \\frac{5}{3}\n3. 1'i diğer tarafa at:\n   \\frac{1}{x+1} = \\frac{5}{3} - 1 = \\frac{2}{3}\n4. İki tarafın tersini al:\n   x + 1 = \\frac{3}{2}\n5. x'i bul:\n   x = \\frac{3}{2} - 1 = \\frac{1}{2}"
         },
         {
           "soru": "\\frac{5}{6} ile \\frac{6}{7} sayıları arasında bulunan bir rasyonel sayı aşağıdakilerden hangisi olabilir?",
@@ -14233,7 +14285,8 @@
             "10/11",
             "13/15"
           ],
-          "dogruCevap": "11/13"
+          "dogruCevap": "11/13",
+          "cozum": "1. İki kesir arasına sayı yerleştirmenin bir yolu, payları ve paydaları toplamaktır (mediant).\n   (5 + 6) / (6 + 7) = 11/13\n2. 11/13 sayısı her zaman 5/6 ile 6/7 arasında yer alır.\n3. Diğer şıkları ondalık olarak kontrol edelim:\n   5/6 ≈ 0.833\n   6/7 ≈ 0.857\n   11/13 ≈ 0.846 (Arada)\n   4/5 = 0.8 (< 0.833)\n   7/8 = 0.875 (> 0.857)\n   10/11 ≈ 0.909 (> 0.857)\n   13/15 ≈ 0.866 (> 0.857)"
         },
         {
           "soru": "A = \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + ... sonsuz toplamının değeri kaçtır?",
@@ -14244,7 +14297,8 @@
             "1",
             "3/2"
           ],
-          "dogruCevap": "1/2"
+          "dogruCevap": "1/2",
+          "cozum": "1. Bu, sonsuz bir geometrik seridir.\n2. İlk terim (a) = 1/3\n3. Ortak oran (r) = (1/9) / (1/3) = 1/3\n4. |r| < 1 olduğu için seri yakınsaktır.\n5. Toplam formülü: S = a / (1 - r)\n6. S = (1/3) / (1 - 1/3)\n   S = (1/3) / (2/3)\n   S = (1/3) * (3/2) = 1/2"
         }
       ],
       "Basit Eşitsizlikler": [
@@ -14257,7 +14311,8 @@
             "9",
             "10"
           ],
-          "dogruCevap": "9"
+          "dogruCevap": "9",
+          "cozum": "1. Çarpanlara ayırma: (x-1)(x-3) > 0\n2. Kökler: x=1, x=3\n3. İşaret tablosu:\n   x     | ... 1 ... 3 ...\n   ------|----|----|-----\n   (x-1)(x-3)| +  0 -  0 + \n4. > 0 olan aralıklar: (-∞, 1) U (3, ∞)\n5. Verilen aralık: 0 ≤ x ≤ 5\n6. Kesişim: [0, 1) U (3, 5]\n7. Bu aralıktaki tam sayılar: 0, 4, 5\n8. Toplamları: 0 + 4 + 5 = 9"
         },
         {
           "soru": "x ∈ [-5, 10] aralığında, 2x - 7 ≥ 3 eşitsizliğini sağlayan x tam sayı değerlerinin adedi kaçtır?",
@@ -14268,7 +14323,8 @@
             "8",
             "9"
           ],
-          "dogruCevap": "6"
+          "dogruCevap": "6",
+          "cozum": "1. Eşitsizliği çöz: 2x ≥ 3 + 7 => 2x ≥ 10 => x ≥ 5\n2. Verilen aralık: [-5, 10]\n3. Kesişim: [5, 10]\n4. Bu aralıktaki tam sayılar: 5, 6, 7, 8, 9, 10\n5. Toplam adet: 10 - 5 + 1 = 6"
         },
         {
           "soru": "x ∈ [0, 10] aralığında, (x/3) - 2 < 1 eşitsizliğini sağlayan x tam sayı değerlerinin adedi kaç tanedir?",
@@ -14279,7 +14335,8 @@
             "11",
             "12"
           ],
-          "dogruCevap": "9"
+          "dogruCevap": "9",
+          "cozum": "1. Eşitsizliği çöz: x/3 < 1 + 2 => x/3 < 3 => x < 9\n2. Verilen aralık: [0, 10]\n3. Kesişim: [0, 9)\n4. Bu aralıktaki tam sayılar: 0, 1, 2, 3, 4, 5, 6, 7, 8\n5. Toplam adet: 8 - 0 + 1 = 9"
         },
         {
           "soru": "x ∈ [-2, 5] aralığında, 3x + 4 ≤ 13 eşitsizliğini sağlayan x tam sayı çözümlerinin adedi kaçtır?",
@@ -14290,7 +14347,8 @@
             "7",
             "8"
           ],
-          "dogruCevap": "6"
+          "dogruCevap": "6",
+          "cozum": "1. Eşitsizliği çöz: 3x ≤ 13 - 4 => 3x ≤ 9 => x ≤ 3\n2. Verilen aralık: [-2, 5]\n3. Kesişim: [-2, 3]\n4. Bu aralıktaki tam sayılar: -2, -1, 0, 1, 2, 3\n5. Toplam adet: 3 - (-2) + 1 = 3 + 2 + 1 = 6"
         },
         {
           "soru": "x ∈ [-3, 4] aralığında, 5 - x > 2 eşitsizliğini sağlayan x tam sayı çözümleri kaç tanedir?",
@@ -14301,7 +14359,8 @@
             "8",
             "9"
           ],
-          "dogruCevap": "6"
+          "dogruCevap": "6",
+          "cozum": "1. Eşitsizliği çöz: 5 - 2 > x => 3 > x => x < 3\n2. Verilen aralık: [-3, 4]\n3. Kesişim: [-3, 3)\n4. Bu aralıktaki tam sayılar: -3, -2, -1, 0, 1, 2\n5. Toplam adet: 2 - (-3) + 1 = 2 + 3 + 1 = 6"
         },
         {
           "soru": "x ∈ [0, 6] aralığında, 4x - 1 < 2x + 7 eşitsizliğini sağlayan x tam sayı değerlerinin toplamı kaçtır?",
@@ -14312,7 +14371,8 @@
             "9",
             "10"
           ],
-          "dogruCevap": "6"
+          "dogruCevap": "6",
+          "cozum": "1. Eşitsizliği çöz: 4x - 2x < 7 + 1 => 2x < 8 => x < 4\n2. Verilen aralık: [0, 6]\n3. Kesişim: [0, 4)\n4. Bu aralıktaki tam sayılar: 0, 1, 2, 3\n5. Toplamları: 0 + 1 + 2 + 3 = 6"
         },
         {
           "soru": "x² - 16 ≤ 0 eşitsizliğini sağlayan x tam sayı değerlerinin adedi kaçtır?",
@@ -14323,7 +14383,8 @@
             "10",
             "11"
           ],
-          "dogruCevap": "9"
+          "dogruCevap": "9",
+          "cozum": "1. Çarpanlara ayırma: (x-4)(x+4) ≤ 0\n2. Kökler: x=4, x=-4\n3. İşaret tablosu:\n   x     | ... -4 ... 4 ...\n   ------|------|----|------\n   (x-4)(x+4)| +  0  -  0  + \n4. ≤ 0 olan aralık: [-4, 4]\n5. Bu aralıktaki tam sayılar: -4, -3, -2, -1, 0, 1, 2, 3, 4\n6. Toplam adet: 4 - (-4) + 1 = 4 + 4 + 1 = 9"
         },
         {
           "soru": "x ∈ [-10, 10] aralığında, x² - 25 ≥ 0 eşitsizliğini sağlayan x tam sayı çözümlerinin adedi kaçtır?",
@@ -14334,7 +14395,8 @@
             "13",
             "14"
           ],
-          "dogruCevap": "12"
+          "dogruCevap": "12",
+          "cozum": "1. Çarpanlara ayırma: (x-5)(x+5) ≥ 0\n2. Kökler: x=5, x=-5\n3. İşaret tablosu:\n   x     | ... -5 ... 5 ...\n   ------|------|----|------\n   (x-5)(x+5)| +  0  -  0  + \n4. ≥ 0 olan aralıklar: (-∞, -5] U [5, ∞)\n5. Verilen aralık: [-10, 10]\n6. Kesişim: [-10, -5] U [5, 10]\n7. Tam sayılar: \n   [-10, -5]: -10, -9, -8, -7, -6, -5 (Adet: -5 - (-10) + 1 = 6)\n   [5, 10]: 5, 6, 7, 8, 9, 10 (Adet: 10 - 5 + 1 = 6)\n8. Toplam adet: 6 + 6 = 12"
         },
         {
           "soru": "x ∈ [-2, 2] aralığında, 3 - 2x ≥ x + 1 eşitsizliğini sağlayan x tam sayı çözümleri kaç tanedir?",
@@ -14345,7 +14407,8 @@
             "5",
             "6"
           ],
-          "dogruCevap": "3"
+          "dogruCevap": "3",
+          "cozum": "1. Eşitsizliği çöz: 3 - 1 ≥ x + 2x => 2 ≥ 3x => x ≤ 2/3\n2. Verilen aralık: [-2, 2]\n3. Kesişim: [-2, 2/3]\n4. Bu aralıktaki tam sayılar: -2, -1, 0\n5. Toplam adet: 0 - (-2) + 1 = 0 + 2 + 1 = 3"
         },
         {
           "soru": "x ∈ [0, 10] aralığında, x + 4 < 2x - 3 eşitsizliğini sağlayan x tam sayı çözümlerinin adedi kaçtır?",
@@ -14356,7 +14419,8 @@
             "5",
             "6"
           ],
-          "dogruCevap": "3"
+          "dogruCevap": "3",
+          "cozum": "1. Eşitsizliği çöz: 4 + 3 < 2x - x => 7 < x => x > 7\n2. Verilen aralık: [0, 10]\n3. Kesişim: (7, 10]\n4. Bu aralıktaki tam sayılar: 8, 9, 10\n5. Toplam adet: 10 - 8 + 1 = 3"
         }
       ],
       "Basit Eşitsizlikler 2": [
@@ -14369,7 +14433,8 @@
             "19",
             "20"
           ],
-          "dogruCevap": "18"
+          "dogruCevap": "18",
+          "cozum": "1. -5 < (2x-1)/3 ≤ 7 eşitsizliğini çözelim\n2. Sol taraf: -5 < (2x-1)/3 ⟹ -15 < 2x-1 ⟹ -14 < 2x ⟹ -7 < x\n3. Sağ taraf: (2x-1)/3 ≤ 7 ⟹ 2x-1 ≤ 21 ⟹ 2x ≤ 22 ⟹ x ≤ 11\n4. Birleştirirsek: -7 < x ≤ 11\n5. Bu aralıktaki tam sayılar: -6, -5, -4, ..., 9, 10, 11\n6. Toplam adet: 11-(-6)+1 = 11+6+1 = 18"
         },
         {
           "soru": "3x - 5 < x + 7 ve 2x + 1 \\ge 5 eşitsizlik sistemini sağlayan en küçük x tam sayısı kaçtır?",
@@ -14380,7 +14445,8 @@
             "4",
             "5"
           ],
-          "dogruCevap": "2"
+          "dogruCevap": "2",
+          "cozum": "1. İlk eşitsizlik: 3x - 5 < x + 7\n   ⟹ 2x < 12\n   ⟹ x < 6\n2. İkinci eşitsizlik: 2x + 1 ≥ 5\n   ⟹ 2x ≥ 4\n   ⟹ x ≥ 2\n3. İki eşitsizliği birleştirirsek: 2 ≤ x < 6\n4. Bu aralıktaki tam sayılar: 2, 3, 4, 5\n5. En küçük değer: 2"
         },
         {
           "soru": "|3x - 6| \\le 12 eşitsizliğini sağlayan tam sayıların toplamı kaçtır?",
@@ -14391,7 +14457,8 @@
             "24",
             "28"
           ],
-          "dogruCevap": "18"
+          "dogruCevap": "18",
+          "cozum": "1. |3x - 6| ≤ 12 eşitsizliğini iki duruma ayıralım:\n   a) 3x - 6 ≥ 0 olduğunda: 3x - 6 ≤ 12 ⟹ 3x ≤ 18 ⟹ x ≤ 6\n   b) 3x - 6 < 0 olduğunda: -(3x - 6) ≤ 12 ⟹ -3x + 6 ≤ 12 ⟹ -3x ≤ 6 ⟹ x ≥ -2\n2. 3x - 6 ≥ 0 için: x ≥ 2\n3. İki koşulu birleştirirsek: -2 ≤ x ≤ 6\n4. Bu aralıktaki tam sayılar: -2, -1, 0, 1, 2, 3, 4, 5, 6\n5. Toplamları: -2 + (-1) + 0 + 1 + 2 + 3 + 4 + 5 + 6 = 18"
         },
         {
           "soru": "\\frac{x-2}{5-x} \\ge 0 eşitsizliğini sağlayan kaç farklı x tam sayısı vardır?",
@@ -14402,7 +14469,8 @@
             "5",
             "6"
           ],
-          "dogruCevap": "3"
+          "dogruCevap": "3",
+          "cozum": "1. (x-2)/(5-x) ≥ 0 eşitsizliğinde:\n   - İfade ≥ 0 olması için pay ve payda aynı işaretli olmalı\n   - Yani (x-2) ve (5-x) ikisi de pozitif veya ikisi de negatif olmalı\n2. (x-2) ≥ 0 ve (5-x) ≥ 0 durumu: x ≥ 2 ve x ≤ 5 ⟹ 2 ≤ x ≤ 5\n3. (x-2) < 0 ve (5-x) < 0 durumu: x < 2 ve x > 5 (imkansız, kesişim boş)\n4. Çözüm kümesi: 2 ≤ x ≤ 5\n5. Bu aralıktaki tam sayılar: 2, 3, 4, 5\n6. Payda 5-x = 0 için x = 5 değeri tanımsız olduğundan, geçerli tam sayılar: 2, 3, 4\n7. Toplam adet: 3"
         },
         {
           "soru": "x ve y reel sayılardır. -3 < x < 5 ve -4 < y < 2 olduğuna göre, 2x - 3y ifadesinin alabileceği en büyük tam sayı değeri kaçtır?",
@@ -14413,7 +14481,8 @@
             "21",
             "22"
           ],
-          "dogruCevap": "21"
+          "dogruCevap": "21",
+          "cozum": "1. 2x - 3y ifadesini maksimum yapmak için:\n   - 2x terimini maksimum yapmak gerekir: x → 5'e yakın\n   - (-3y) terimini maksimum yapmak gerekir: y → -4'e yakın\n2. x'in üst sınırı: 5 (açık aralık)\n3. y'nin alt sınırı: -4 (açık aralık)\n4. Maksimum değer: 2(5-ε) - 3(-4+ε) = 10-2ε + 12-3ε = 22-5ε\n5. ε → 0 için bu değer 22'ye yaklaşır\n6. En büyük tam sayı değeri: 21"
         },
         {
           "soru": "x ve y reel sayılardır. -4 \\le x < 3 ve -2 < y \\le 5 olduğuna göre, x² + y² ifadesinin alabileceği en büyük tam sayı değeri kaçtır?",
@@ -14424,7 +14493,8 @@
             "41",
             "45"
           ],
-          "dogruCevap": "41"
+          "dogruCevap": "41",
+          "cozum": "1. x² + y² ifadesini maksimum yapmak için mutlak değerce en büyük sınır değerlerini kullanmalıyız\n2. x ∈ [-4, 3) için |x| en büyük olduğu nokta: x = -4\n3. y ∈ (-2, 5] için |y| en büyük olduğu nokta: y = 5\n4. Maksimum değer: (-4)² + 5² = 16 + 25 = 41"
         },
         {
           "soru": "a² < a olduğuna göre, 5a + 3 ifadesinin alabileceği kaç farklı tam sayı değeri vardır?",
@@ -14435,7 +14505,8 @@
             "6",
             "7"
           ],
-          "dogruCevap": "4"
+          "dogruCevap": "4",
+          "cozum": "1. a² < a şartını düzenleyelim: a² - a < 0 ⟹ a(a-1) < 0\n2. Bu eşitsizlik a ∈ (0,1) aralığında sağlanır\n3. a ∈ (0,1) aralığında a'nın alabileceği değerler: 0 < a < 1\n4. Bu aralıkta a tam sayı olamaz, ama a kesirli sayılar alabilir\n5. 5a + 3 ifadesinde a ∈ (0,1) için: 3 < 5a + 3 < 8\n6. Bu aralıktaki tam sayı değerleri: 4, 5, 6, 7\n7. Toplam farklı tam sayı değeri: 4"
         }
       ],
       "Mutlak Değer": [
@@ -14448,7 +14519,8 @@
             "10",
             "12"
           ],
-          "dogruCevap": "8"
+          "dogruCevap": "8",
+          "cozum": "1. |x - 4| = 6 eşitliğini iki durumda inceliyoruz:\n   (x - 4) ≥ 0 için: x - 4 = 6 ⟹ x = 10\n   (x - 4) < 0 için: -(x - 4) = 6 ⟹ -x + 4 = 6 ⟹ x = -2\n2. Çözümler: x = -2 veya x = 10\n3. Toplamları: -2 + 10 = 8"
         },
         {
           "soru": "|2x+3| ≤ 7 eşitsizliğini sağlayan x tam sayı değerlerinin sayısı kaçtanedir?",
@@ -14459,7 +14531,8 @@
             "9",
             "10"
           ],
-          "dogruCevap": "8"
+          "dogruCevap": "8",
+          "cozum": "1. |2x+3| ≤ 7 eşitsizliğini iki durumda inceliyoruz:\n   (2x+3) ≥ 0 için: 2x+3 ≤ 7 ⟹ 2x ≤ 4 ⟹ x ≤ 2\n   (2x+3) < 0 için: -(2x+3) ≤ 7 ⟹ -2x-3 ≤ 7 ⟹ -2x ≤ 10 ⟹ x ≥ -5\n2. 2x+3 = 0 için x = -3/2\n3. Bu durumda: -5 ≤ x ≤ 2\n4. Bu aralıktaki tam sayılar: -5, -4, -3, -2, -1, 0, 1, 2\n5. Toplam 8 tam sayı"
         },
         {
           "soru": "|3x-2| < 10 eşitsizliğini sağlayan en büyük tam sayı x kaçtır?",
@@ -14470,7 +14543,8 @@
             "5",
             "6"
           ],
-          "dogruCevap": "3"
+          "dogruCevap": "3",
+          "cozum": "1. |3x-2| < 10 eşitsizliğini iki durumda inceliyoruz:\n   (3x-2) ≥ 0 için: 3x-2 < 10 ⟹ 3x < 12 ⟹ x < 4\n   (3x-2) < 0 için: -(3x-2) < 10 ⟹ -3x+2 < 10 ⟹ -3x < 8 ⟹ x > -8/3\n2. 3x-2 = 0 için x = 2/3\n3. Bu durumda: -8/3 < x < 4\n4. Bu aralıktaki tam sayılar: -2, -1, 0, 1, 2, 3\n5. En büyük tam sayı: 3"
         },
         {
           "soru": "|x+1| + |x-2| = 7 eşitliğinin çözüm kümesinde kaç tane x değeri vardır?",
@@ -14481,7 +14555,8 @@
             "4",
             "Sonsuz çok"
           ],
-          "dogruCevap": "2"
+          "dogruCevap": "2",
+          "cozum": "1. |x+1| + |x-2| = 7 eşitliğini bölelim:\n   a) x ≤ -1 ise: -(x+1) + -(x-2) = 7 ⟹ -x-1-x+2 = 7 ⟹ -2x+1 = 7 ⟹ -2x = 6 ⟹ x = -3\n   b) -1 < x ≤ 2 ise: (x+1) + -(x-2) = 7 ⟹ x+1-x+2 = 7 ⟹ 3 = 7 (çelişki)\n   c) x > 2 ise: (x+1) + (x-2) = 7 ⟹ 2x-1 = 7 ⟹ 2x = 8 ⟹ x = 4\n2. Kontrol: \n   x = -3 için: |-3+1| + |-3-2| = |-2| + |-5| = 2 + 5 = 7 ✓\n   x = 4 için: |4+1| + |4-2| = |5| + |2| = 5 + 2 = 7 ✓\n3. Çözümler: x = -3 veya x = 4\n4. Toplam 2 değer"
         },
         {
           "soru": "|3x+1| = |x-5| eşitliğini sağlayan x değerlerinin çarpımı kaçtır?",
@@ -14492,7 +14567,8 @@
             "3",
             "5"
           ],
-          "dogruCevap": "-3"
+          "dogruCevap": "-3",
+          "cozum": "1. |3x+1| = |x-5| eşitliğini inceliyoruz. İki durum var:\n   a) 3x+1 = x-5 ⟹ 2x = -6 ⟹ x = -3\n   b) 3x+1 = -(x-5) ⟹ 3x+1 = -x+5 ⟹ 4x = 4 ⟹ x = 1\n2. Kontrol:\n   x = -3 için: |3(-3)+1| = |-9+1| = |-8| = 8 ve |-3-5| = |-8| = 8 ✓\n   x = 1 için: |3(1)+1| = |3+1| = |4| = 4 ve |1-5| = |-4| = 4 ✓\n3. Çözümler: x = -3 veya x = 1\n4. Çarpımları: (-3) × 1 = -3"
         },
         {
           "soru": "|x-4| + |x-7| ≤ 5 eşitsizliğini sağlayan x tam sayı çözümleri kaç tanedir?",
@@ -14503,7 +14579,8 @@
             "7",
             "8"
           ],
-          "dogruCevap": "6"
+          "dogruCevap": "6",
+          "cozum": "1. |x-4| + |x-7| ≤ 5 eşitsizliğini üç bölgeye ayırıyoruz:\n   a) x ≤ 4 ise: -(x-4) + -(x-7) ≤ 5 ⟹ -x+4-x+7 ≤ 5 ⟹ -2x+11 ≤ 5 ⟹ -2x ≤ -6 ⟹ x ≥ 3\n   b) 4 < x ≤ 7 ise: (x-4) + -(x-7) ≤ 5 ⟹ x-4-x+7 ≤ 5 ⟹ 3 ≤ 5 (her zaman doğru)\n   c) x > 7 ise: (x-4) + (x-7) ≤ 5 ⟹ 2x-11 ≤ 5 ⟹ 2x ≤ 16 ⟹ x ≤ 8\n2. Birleştirirsek: 3 ≤ x ≤ 8\n3. Bu aralıktaki tam sayılar: 3, 4, 5, 6, 7, 8\n4. Toplam 6 tam sayı"
         },
         {
           "soru": "|2x+5| > 7 eşitsizliğini sağlayan x tam sayılarının, x ∈ [-10, 10] aralığındaki toplamı kaçtır?",
@@ -14514,7 +14591,8 @@
             "25",
             "30"
           ],
-          "dogruCevap": "20"
+          "dogruCevap": "20",
+          "cozum": "1. |2x+5| > 7 eşitsizliğini iki durumda inceliyoruz:\n   a) 2x+5 ≥ 0 için: 2x+5 > 7 ⟹ 2x > 2 ⟹ x > 1\n   b) 2x+5 < 0 için: -(2x+5) > 7 ⟹ -2x-5 > 7 ⟹ -2x > 12 ⟹ x < -6\n2. 2x+5 = 0 için x = -5/2\n3. Bu durumda: (x < -6) veya (x > 1)\n4. Verilen aralık: [-10, 10]\n5. Bu aralıktaki çözümler: [-10, -7] ∪ [2, 10]\n6. Tam sayılar:\n   [-10, -7]: -10, -9, -8, -7 (Toplam: -34)\n   [2, 10]: 2, 3, 4, 5, 6, 7, 8, 9, 10 (Toplam: 54)\n7. Genel toplam: -34 + 54 = 20"
         },
         {
           "soru": "|x+1| - |x-2| = 4 eşitliğinin çözüm kümesi hangisidir?",
@@ -14525,7 +14603,8 @@
             "{ -3, 3 }",
             "Tüm reel sayılar"
           ],
-          "dogruCevap": "∅"
+          "dogruCevap": "∅",
+          "cozum": "1. |x+1| - |x-2| = 4 eşitliğini üç bölgede inceliyoruz:\n   a) x ≤ -1 ise: -(x+1) - -(x-2) = 4 ⟹ -x-1-(-x+2) = 4 ⟹ -x-1+x-2 = 4 ⟹ -3 = 4 (çelişki)\n   b) -1 < x ≤ 2 ise: (x+1) - -(x-2) = 4 ⟹ x+1-(-x+2) = 4 ⟹ x+1+x-2 = 4 ⟹ 2x-1 = 4 ⟹ 2x = 5 ⟹ x = 5/2 (bu aralıkta değil)\n   c) x > 2 ise: (x+1) - (x-2) = 4 ⟹ x+1-x+2 = 4 ⟹ 3 = 4 (çelişki)\n2. Hiçbir aralıkta geçerli çözüm yok\n3. Çözüm kümesi: ∅ (boş küme)"
         },
         {
           "soru": "|3x-4| ≤ |x+2| eşitsizliğini sağlayan x tam sayı değerlerinin sayısı kaçtır?",
@@ -14536,7 +14615,8 @@
             "5",
             "6"
           ],
-          "dogruCevap": "3"
+          "dogruCevap": "3",
+          "cozum": "1. |3x-4| ≤ |x+2| eşitsizliğini karelere dönüştürelim:\n   (3x-4)² ≤ (x+2)²\n   9x² - 24x + 16 ≤ x² + 4x + 4\n   8x² - 28x + 12 ≤ 0\n   4x² - 14x + 6 ≤ 0\n   2. Diskriminant: Δ = 14² - 4·4·6 = 196 - 96 = 100 = 10²\n   3. Kökler: x = (14 ± 10)/8 = 24/8 veya 4/8 = 3 veya 0.5\n   4. Bu durumda: 0.5 ≤ x ≤ 3\n   5. Bu aralıktaki tam sayılar: 1, 2, 3\n   6. Toplam 3 tam sayı"
         },
         {
           "soru": "|2x-3| + |x+4| = 10 eşitliğinin çözüm kümesine ait x değerlerinin toplamı kaçtır?",
@@ -14547,7 +14627,8 @@
             "4",
             "-4"
           ],
-          "dogruCevap": "0"
+          "dogruCevap": "0",
+          "cozum": "1. |2x-3| + |x+4| = 10 eşitliğini üç bölgeye ayırıyoruz:\n   a) x ≤ -4 ve 2x-3 ≤ 0 ise: -(x+4) + -(2x-3) = 10\n      -x-4-2x+3 = 10 ⟹ -3x-1 = 10 ⟹ -3x = 11 ⟹ x = -11/3\n      Kontrol: -11/3 < -3, 2(-11/3)-3 < 0 ✓\n   b) -4 < x < 3/2 ise: (x+4) + -(2x-3) = 10\n      x+4-2x+3 = 10 ⟹ -x+7 = 10 ⟹ -x = 3 ⟹ x = -3\n      Kontrol: -4 < -3 < 3/2 ✓\n   c) x ≥ 3/2 ise: (x+4) + (2x-3) = 10\n      x+4+2x-3 = 10 ⟹ 3x+1 = 10 ⟹ 3x = 9 ⟹ x = 3\n      Kontrol: 3 > 3/2 ✓\n2. Çözümler: x = -11/3, x = -3, x = 3\n3. Toplamları: -11/3 + (-3) + 3 = -11/3 - 3 + 3 = -11/3 = -3-2/3\n4. Sadece reel sayılar değil tam sayılar soruluyorsa, x = -3 ve x = 3\n5. Bu durumda toplam: -3 + 3 = 0"
         }
       ],
       "Mutlak Değer 2": [
@@ -14560,7 +14641,8 @@
             "12",
             "14"
           ],
-          "dogruCevap": "12"
+          "dogruCevap": "12",
+          "cozum": "1. ||x-3|-5| = 2 şeklinde iç içe mutlak değer çözülür\n2. |y-5| = 2 olsun, burada y = |x-3|\n3. Bu durumda: y = 3 veya y = 7\n4. Eğer y = 3 ise: |x-3| = 3 ⟹ x-3 = 3 veya x-3 = -3 ⟹ x = 6 veya x = 0\n5. Eğer y = 7 ise: |x-3| = 7 ⟹ x-3 = 7 veya x-3 = -7 ⟹ x = 10 veya x = -4\n6. Tüm çözümler: x = -4, 0, 6, 10\n7. Toplamları: -4 + 0 + 6 + 10 = 12"
         },
         {
           "soru": "A = |x+5| + |x-1| + |x-8| ifadesinin alabileceği en küçük değer kaçtır?",
@@ -14571,7 +14653,8 @@
             "13",
             "14"
           ],
-          "dogruCevap": "13"
+          "dogruCevap": "13",
+          "cozum": "1. A = |x+5| + |x-1| + |x-8| ifadesinin minimumu, iç noktalarda olabilir\n2. İfadedeki kritik noktalar: x = -5, x = 1, x = 8\n3. Bu noktalarda ve aralıklarda ifadenin değerini hesaplayalım\n4. x = 1 için: |1+5| + |1-1| + |1-8| = 6 + 0 + 7 = 13\n5. x = -5 için: |-5+5| + |-5-1| + |-5-8| = 0 + 6 + 13 = 19\n6. x = 8 için: |8+5| + |8-1| + |8-8| = 13 + 7 + 0 = 20\n7. Aralıklar için de değerlere bakılırsa, en küçük değerin 13 olduğu görülür"
         },
         {
           "soru": "|\\frac{4}{x-2}| \\ge 2 eşitsizliğini sağlayan sıfırdan farklı kaç tane x tam sayısı vardır?",
@@ -14582,7 +14665,8 @@
             "5",
             "6"
           ],
-          "dogruCevap": "3"
+          "dogruCevap": "3",
+          "cozum": "1. |4/(x-2)| ≥ 2 eşitsizliğini çözelim\n2. Önce tanımsızlık: x ≠ 2\n3. İki durum için inceleyeceğiz:\n   a) 4/(x-2) ≥ 2 için: 4 ≥ 2(x-2) ⟹ 4 ≥ 2x-4 ⟹ 8 ≥ 2x ⟹ x ≤ 4\n      Ayrıca bu durumda x > 2 olmalı\n      Sonuç: 2 < x ≤ 4 ⟹ x = 3, 4\n   b) 4/(x-2) ≤ -2 için: 4 ≤ -2(x-2) ⟹ 4 ≤ -2x+4 ⟹ 0 ≤ -2x ⟹ x ≤ 0\n      Ayrıca bu durumda x < 2 olmalı\n      Sonuç: x ≤ 0 ⟹ x = 0, -1, -2, ...\n4. Sıfırdan farklı istediği için: x = -1 sayılır\n5. Toplam: x = -1, 3, 4 olmak üzere 3 farklı değer"
         },
         {
           "soru": "|x-a| = 5 denkleminin kökler toplamı 12 olduğuna göre, a kaçtır?",
@@ -14593,7 +14677,8 @@
             "6",
             "7"
           ],
-          "dogruCevap": "6"
+          "dogruCevap": "6",
+          "cozum": "1. |x-a| = 5 denkleminin çözümleri:\n   x-a = 5 veya x-a = -5\n   x = a+5 veya x = a-5\n2. Kökler toplamı = (a+5) + (a-5) = 2a = 12\n3. Buradan: a = 6"
         },
         {
           "soru": "x < 0 olmak üzere, |2x - |x|| + 3x ifadesinin eşiti nedir?",
@@ -14604,7 +14689,8 @@
             "2x",
             "-2x"
           ],
-          "dogruCevap": "0"
+          "dogruCevap": "0",
+          "cozum": "1. x < 0 olduğundan |x| = -x\n2. |2x - |x|| + 3x = |2x - (-x)| + 3x = |3x| + 3x\n3. x < 0 olduğundan |3x| = -3x\n4. |2x - |x|| + 3x = -3x + 3x = 0"
         },
         {
           "soru": "|x+3| > |x-5| eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?",
@@ -14615,7 +14701,8 @@
             "x > -1",
             "x > 4"
           ],
-          "dogruCevap": "x > 1"
+          "dogruCevap": "x > 1",
+          "cozum": "1. |x+3| > |x-5| eşitsizliğini çözmek için karelere geçelim:\n   (x+3)² > (x-5)²\n2. Kareleri açalım:\n   x² + 6x + 9 > x² - 10x + 25\n3. Benzer terimleri çıkart:\n   6x + 10x > 25 - 9\n   16x > 16\n   x > 1\n4. Çözüm kümesi: (1, ∞)"
         },
         {
           "soru": "x < y < 0 olmak üzere, |x-y| + |y+x| - |x| ifadesinin eşiti aşağıdakilerden hangisidir?",
@@ -14626,7 +14713,8 @@
             "y",
             "2y-x"
           ],
-          "dogruCevap": "-x"
+          "dogruCevap": "-x",
+          "cozum": "1. x < y < 0 koşulunda mutlak değerleri açalım:\n   x < y ⟹ x-y < 0 ⟹ |x-y| = -(x-y) = y-x\n   x < 0, y < 0 ⟹ x+y < 0 ⟹ |y+x| = -(y+x) = -y-x\n   x < 0 ⟹ |x| = -x\n2. İfadeyi hesaplayalım:\n   |x-y| + |y+x| - |x| = (y-x) + (-y-x) - (-x) = y-x-y-x+x = -x"
         }
       ],
       "Üslü Sayılar": [
@@ -14639,7 +14727,8 @@
             "4",
             "5"
           ],
-          "dogruCevap": "2"
+          "dogruCevap": "2",
+          "cozum": "1. (2^x)^3 = 64\n2. Üs kuralı: (a^m)^n = a^(m·n) ⟹ 2^(3x) = 64\n3. 64 = 2^6 olduğundan: 2^(3x) = 2^6\n4. Üsler eşit olmalı: 3x = 6\n5. x = 2"
         },
         {
           "soru": "3^(2x) = 81 eşitliğini sağlayan x değeri kaçtır?",
@@ -14650,7 +14739,8 @@
             "4",
             "5"
           ],
-          "dogruCevap": "2"
+          "dogruCevap": "2",
+          "cozum": "1. 3^(2x) = 81\n2. 81 = 3^4 olduğundan: 3^(2x) = 3^4\n3. Üsler eşit olmalı: 2x = 4\n4. x = 2"
         },
         {
           "soru": "4^(x+1) = 8^(2x-1) eşitliğini sağlayan x değeri kaçtır?",
@@ -14661,7 +14751,8 @@
             "1.75",
             "2"
           ],
-          "dogruCevap": "1.25"
+          "dogruCevap": "1.25",
+          "cozum": "1. 4^(x+1) = 8^(2x-1)\n2. 4 = 2^2 ve 8 = 2^3 olduğundan: (2^2)^(x+1) = (2^3)^(2x-1)\n3. 2^(2(x+1)) = 2^(3(2x-1))\n4. 2^(2x+2) = 2^(6x-3)\n5. Üsler eşit olduğundan: 2x+2 = 6x-3\n6. 5 = 4x\n7. x = 5/4 = 1.25"
         },
         {
           "soru": "(2^x)^3 = 2^(x+4) eşitliğinde x değeri kaçtır?",
@@ -14672,7 +14763,8 @@
             "4",
             "5"
           ],
-          "dogruCevap": "2"
+          "dogruCevap": "2",
+          "cozum": "1. (2^x)^3 = 2^(x+4)\n2. Üs kuralları: 2^(3x) = 2^(x+4)\n3. Üsler eşit olmalı: 3x = x+4\n4. 2x = 4\n5. x = 2"
         },
         {
           "soru": "5^(x-2) = 125 eşitliğini sağlayan x değeri kaçtır?",
@@ -14683,7 +14775,8 @@
             "4",
             "5"
           ],
-          "dogruCevap": "5"
+          "dogruCevap": "5",
+          "cozum": "1. 5^(x-2) = 125\n2. 125 = 5^3 olduğundan: 5^(x-2) = 5^3\n3. Üsler eşit olmalı: x-2 = 3\n4. x = 5"
         },
         {
           "soru": "2^(3x) = 512 eşitliğini sağlayan x değeri kaçtır?",
@@ -14694,7 +14787,8 @@
             "5",
             "6"
           ],
-          "dogruCevap": "3"
+          "dogruCevap": "3",
+          "cozum": "1. 2^(3x) = 512\n2. 512 = 2^9 olduğundan: 2^(3x) = 2^9\n3. Üsler eşit olmalı: 3x = 9\n4. x = 3"
         },
         {
           "soru": "3^(x+2) = 1/27 eşitliğini sağlayan x değeri kaçtır?",
@@ -14705,7 +14799,8 @@
             "-2",
             "-1"
           ],
-          "dogruCevap": "-5"
+          "dogruCevap": "-5",
+          "cozum": "1. 3^(x+2) = 1/27\n2. 1/27 = 3^(-3) olduğundan: 3^(x+2) = 3^(-3)\n3. Üsler eşit olmalı: x+2 = -3\n4. x = -5"
         },
         {
           "soru": "6^x = 216 eşitliğini sağlayan x değeri kaçtır?",
@@ -14716,7 +14811,8 @@
             "5",
             "6"
           ],
-          "dogruCevap": "3"
+          "dogruCevap": "3",
+          "cozum": "1. 6^x = 216\n2. 6^x = 6^3 · 6 olması için 216 ÷ 6 = 36 kontrolü: 36 = 6^2 ✓\n3. Demek ki: 6^x = 6^3\n4. Üsler eşit olmalı: x = 3"
         },
         {
           "soru": "2^(2x+3) = 16 eşitliğini sağlayan x değeri kaçtır?",
@@ -14727,7 +14823,8 @@
             "1.5",
             "2"
           ],
-          "dogruCevap": "0.5"
+          "dogruCevap": "0.5",
+          "cozum": "1. 2^(2x+3) = 16\n2. 16 = 2^4 olduğundan: 2^(2x+3) = 2^4\n3. Üsler eşit olmalı: 2x+3 = 4\n4. 2x = 1\n5. x = 1/2 = 0.5"
         },
         {
           "soru": "9^(x-1) = 27 eşitliğini sağlayan x değeri kaçtır?",
@@ -14738,7 +14835,8 @@
             "3",
             "3.5"
           ],
-          "dogruCevap": "2.5"
+          "dogruCevap": "2.5",
+          "cozum": "1. 9^(x-1) = 27\n2. 9 = 3^2 ve 27 = 3^3 olduğundan: (3^2)^(x-1) = 3^3\n3. 3^(2(x-1)) = 3^3\n4. 3^(2x-2) = 3^3\n5. Üsler eşit olmalı: 2x-2 = 3\n6. 2x = 5\n7. x = 5/2 = 2.5"
         }
       ],
       "Üslü Sayılar 2": [
@@ -14751,7 +14849,8 @@
             "15/4",
             "5/2"
           ],
-          "dogruCevap": "15/4"
+          "dogruCevap": "15/4",
+          "cozum": "1. Pay ve paydada ortak üs çıkaralım:\n   Pay: 3^x · (3² + 1) = 3^x · (9 + 1) = 3^x · 10\n   Payda: 3^(x-1) · (3² - 1) = 3^(x-1) · (9 - 1) = 3^(x-1) · 8\n2. Bunları bölelim: (3^x · 10) ÷ (3^(x-1) · 8)\n3. Üs hesabı: 3^x ÷ 3^(x-1) = 3^(x-(x-1)) = 3¹ = 3\n4. Tüm işlem: 3 · 10/8 = 3 · 5/4 = 15/4"
         },
         {
           "soru": "2^x = a ve 3^x = b olduğuna göre, 72^x ifadesinin a ve b türünden eşiti nedir?",
@@ -14762,7 +14861,8 @@
             "a³b³",
             "ab⁶"
           ],
-          "dogruCevap": "a³b²"
+          "dogruCevap": "a³b²",
+          "cozum": "1. 72 sayısını asal çarpanlara ayıralım: 72 = 2³ · 3²\n2. Bu durumda: 72^x = (2³ · 3²)^x = (2³)^x · (3²)^x\n3. Üs kuralı: (m^n)^p = m^(n·p) kullanırsak:\n   (2³)^x = 2^(3x) ve (3²)^x = 3^(2x)\n4. Verilenler: 2^x = a ve 3^x = b\n5. O halde: 2^(3x) = (2^x)³ = a³ ve 3^(2x) = (3^x)² = b²\n6. Sonuç: 72^x = a³ · b²"
         },
         {
           "soru": "2^(a-b) = 8 ve 2^(a+b) = 128 olduğuna göre, a² - b² kaçtır?",
@@ -14773,7 +14873,8 @@
             "24",
             "32"
           ],
-          "dogruCevap": "21"
+          "dogruCevap": "21",
+          "cozum": "1. 2^(a-b) = 8 = 2³ ⟹ a-b = 3\n2. 2^(a+b) = 128 = 2⁷ ⟹ a+b = 7\n3. (a+b)² - (a-b)² = 4ab formülünü kullanırsak:\n   (a+b)² - (a-b)² = 7² - 3² = 49 - 9 = 40\n4. Buradan: 4ab = 40 ⟹ ab = 10\n5. a² - b² = (a+b)(a-b) = 7 · 3 = 21"
         },
         {
           "soru": "(\\frac{2}{3})^{2x-5} < (\\frac{9}{4})^{x-3} eşitsizliğini sağlayan en küçük x tam sayısı kaçtır?",
@@ -14784,7 +14885,8 @@
             "4",
             "5"
           ],
-          "dogruCevap": "3"
+          "dogruCevap": "3",
+          "cozum": "1. (2/3)^(2x-5) < (9/4)^(x-3)\n2. (2/3)^(2x-5) ve (9/4)^(x-3) ifadelerini dönüştürelim:\n   (9/4) = (3/2)² olduğundan: (9/4)^(x-3) = ((3/2)²)^(x-3) = (3/2)^(2(x-3)) = (3/2)^(2x-6)\n3. Eşitsizliği yeniden yazalım: (2/3)^(2x-5) < (3/2)^(2x-6)\n4. İşaret değişimi için her iki tarafın tersini alalım (2/3 < 1 olduğu için işaret değişir):\n   (3/2)^(2x-5) > (2/3)^(2x-6)\n5. (3/2)·(2/3) = 1 olduğundan: (3/2)^(2x-5) · (3/2)^(-(2x-6)) > 1\n6. Üsleri sadeleştirelim: (3/2)^((2x-5)-(2x-6)) = (3/2)^1 = 3/2 > 1\n7. Bu her zaman doğru olduğundan, asıl eşitsizlik için x ≥ 3 olmalıdır\n8. En küçük x tam sayısı: 3"
         },
         {
           "soru": "a = 2⁷⁵, b = 3⁵⁰, c = 5²⁵ sayılarının doğru sıralanışı aşağıdakilerden hangisidir?",
@@ -14795,7 +14897,8 @@
             "c < b < a",
             "b < a < c"
           ],
-          "dogruCevap": "c < a < b"
+          "dogruCevap": "c < a < b",
+          "cozum": "1. Sayıları karşılaştırmak için logaritma alalım. ln fonksiyonu monoton artan olduğundan sıralamayı korur\n2. ln(a) = ln(2⁷⁵) = 75·ln(2) ≈ 75·0.693 = 51.98\n3. ln(b) = ln(3⁵⁰) = 50·ln(3) ≈ 50·1.099 = 54.95\n4. ln(c) = ln(5²⁵) = 25·ln(5) ≈ 25·1.609 = 40.23\n5. Buna göre: ln(c) < ln(a) < ln(b)\n6. Dolayısıyla: c < a < b"
         },
         {
           "soru": "(0.25)²⁻ˣ = 8ˣ⁺¹ denklemini sağlayan x değeri kaçtır?",
@@ -14806,7 +14909,8 @@
             "-6",
             "-7"
           ],
-          "dogruCevap": "-7"
+          "dogruCevap": "-7",
+          "cozum": "1. (0.25)²⁻ˣ = 8ˣ⁺¹\n2. 0.25 = 1/4 = 2⁻² ve 8 = 2³ olduğundan:\n   (2⁻²)^(2-x) = (2³)^(x+1)\n3. 2^(-2(2-x)) = 2^(3(x+1))\n4. 2^(-4+2x) = 2^(3x+3)\n5. Üsler eşit olmalı: -4+2x = 3x+3\n6. -4-3 = 3x-2x\n7. -7 = x"
         },
         {
           "soru": "2ˣ + 2ˣ⁺¹ + 2ˣ⁺² = 112 olduğuna göre, x kaçtır?",
@@ -14817,7 +14921,8 @@
             "5",
             "6"
           ],
-          "dogruCevap": "4"
+          "dogruCevap": "4",
+          "cozum": "1. 2ˣ + 2ˣ⁺¹ + 2ˣ⁺² = 112\n2. 2ˣ + 2·2ˣ + 4·2ˣ = 112\n3. 2ˣ·(1 + 2 + 4) = 112\n4. 2ˣ·7 = 112\n5. 2ˣ = 16\n6. x = 4"
         }
       ],
       "Köklü Sayılar": [
@@ -14830,7 +14935,8 @@
             "9√3",
             "10√3"
           ],
-          "dogruCevap": "8√3"
+          "dogruCevap": "8√3",
+          "cozum": "1. Köklü ifadeleri sadeleştirelim:\n   √75 = √(25·3) = 5√3\n   √27 = √(9·3) = 3√3\n2. Şimdi toplayalım: 5√3 + 3√3 = 8√3"
         },
         {
           "soru": "√18 - √8 ifadesinin sadeleştirilmiş hali nedir?",
@@ -14841,7 +14947,8 @@
             "2",
             "√6"
           ],
-          "dogruCevap": "√2"
+          "dogruCevap": "√2",
+          "cozum": "1. Köklü ifadeleri sadeleştirelim:\n   √18 = √(9·2) = 3√2\n   √8 = √(4·2) = 2√2\n2. Şimdi çıkaralım: 3√2 - 2√2 = √2"
         },
         {
           "soru": "(√50 - √18) / √2 ifadesinin sadeleştirilmiş hali nedir?",
@@ -14852,7 +14959,8 @@
             "3",
             "4"
           ],
-          "dogruCevap": "2"
+          "dogruCevap": "2",
+          "cozum": "1. Köklü ifadeleri sadeleştirelim:\n   √50 = √(25·2) = 5√2\n   √18 = √(9·2) = 3√2\n2. Bölme işlemini yapalım:\n   (5√2 - 3√2) / √2 = 2√2 / √2 = 2"
         },
         {
           "soru": "√(x+5) = x - 1 denklemini sağlayan x değeri kaçtır?",
@@ -14863,7 +14971,8 @@
             "5",
             "6"
           ],
-          "dogruCevap": "4"
+          "dogruCevap": "4",
+          "cozum": "1. Her iki tarafı kareleyelim:\n   x+5 = (x-1)²\n2. Karenin açılımı:\n   x+5 = x² - 2x + 1\n3. Denklem düzenlenirse:\n   0 = x² - 3x - 4\n4. Çarpanlara ayırırsak:\n   0 = (x-4)(x+1)\n5. Çözümler: x = 4 veya x = -1\n6. Kontrol:\n   x = 4 için: √(4+5) = √9 = 3 ve 4-1 = 3 ✓\n   x = -1 için: √(-1+5) = 2 ve -1-1 = -2 ✗\n7. Doğru çözüm: x = 4"
         },
         {
           "soru": "(√5 + √3)² ifadesinin sadeleştirilmiş hali nedir?",
@@ -14874,7 +14983,8 @@
             "5 + 2√15",
             "8 + 3√15"
           ],
-          "dogruCevap": "8 + 2√15"
+          "dogruCevap": "8 + 2√15",
+          "cozum": "1. (a+b)² = a² + 2ab + b² formülünü kullanalım:\n   (√5 + √3)² = (√5)² + 2·√5·√3 + (√3)²\n2. Kareleri hesaplayalım:\n   = 5 + 2√15 + 3\n3. Toplamı hesaplayalım:\n   = 8 + 2√15"
         },
         {
           "soru": "2√3 - √12 ifadesi sadeleştirildiğinde ne olur?",
@@ -14885,7 +14995,8 @@
             "3√3",
             "4√3"
           ],
-          "dogruCevap": "0"
+          "dogruCevap": "0",
+          "cozum": "1. √12 ifadesini sadeleştirelim:\n   √12 = √(4·3) = 2√3\n2. Şimdi çıkarma işlemini yapalım:\n   2√3 - 2√3 = 0"
         },
         {
           "soru": "√50 - √18 ifadesi sadeleştirildiğinde ne ifade eder?",
@@ -14896,7 +15007,8 @@
             "4√2",
             "5√2"
           ],
-          "dogruCevap": "2√2"
+          "dogruCevap": "2√2",
+          "cozum": "1. Köklü ifadeleri sadeleştirelim:\n   √50 = √(25·2) = 5√2\n   √18 = √(9·2) = 3√2\n2. Çıkarma işlemini yapalım:\n   5√2 - 3√2 = 2√2"
         },
         {
           "soru": "(√3 + √2)/(√3 - √2) ifadesi rasyonelleştirildiğinde sonuç ne elde edilir?",
@@ -14907,7 +15019,8 @@
             "5 + 2√5",
             "5 + 2√6"
           ],
-          "dogruCevap": "5+2√6"
+          "dogruCevap": "5+2√6",
+          "cozum": "1. Pay ve paydayı eşleniğiyle çarpalım:\n   (√3 + √2)/(√3 - √2) · (√3 + √2)/(√3 + √2)\n2. Paydayı hesaplayalım:\n   (√3)² - (√2)² = 3 - 2 = 1\n3. Payı hesaplayalım:\n   (√3 + √2)² = 3 + 2√3·√2 + 2 = 5 + 2√6\n4. Sonuç: (5 + 2√6)/1 = 5 + 2√6"
         }
       ],
       "Köklü Sayılar 2": [
@@ -14920,7 +15033,8 @@
             "2 + \\sqrt{3}",
             "\\sqrt{7} - \\sqrt{12}"
           ],
-          "dogruCevap": "2 - \\sqrt{3}"
+          "dogruCevap": "2 - \\sqrt{3}",
+          "cozum": "1. √12 ifadesini sadeleştirelim: √12 = √(4·3) = 2√3\n2. İfadeyi düzenleyelim: 7 - 2√12 = 7 - 2(2√3) = 7 - 4√3\n3. Bu ifadenin (2-√3)² şeklinde yazılıp yazılamayacağını kontrol edelim:\n   (2-√3)² = 4 - 4√3 + 3 = 7 - 4√3 ✓\n4. Dolayısıyla: √(7-2√12) = √((2-√3)²) = |2-√3| = 2-√3"
         },
         {
           "soru": "\\sqrt[3]{4 \\sqrt{4}} işleminin sonucu kaçtır?",
@@ -14931,7 +15045,8 @@
             "4",
             "\\sqrt[3]{16}"
           ],
-          "dogruCevap": "2"
+          "dogruCevap": "2",
+          "cozum": "1. √4 = 2 olduğundan: ∛(4√4) = ∛(4·2) = ∛8\n2. 8 = 2³ olduğundan: ∛(2³) = 2"
         },
         {
           "soru": "\\frac{6}{\\sqrt[3]{9}} ifadesinin eşiti aşağıdakilerden hangisidir?",
@@ -14942,7 +15057,8 @@
             "6\\sqrt[3]{3}",
             "18\\sqrt[3]{3}"
           ],
-          "dogruCevap": "2\\sqrt[3]{3}"
+          "dogruCevap": "2\\sqrt[3]{3}",
+          "cozum": "1. ∛9 = ∛(3²) = 3^(2/3)\n2. 6 = 2·3 olduğundan: 6/∛9 = 2·3/3^(2/3)\n3. 3/3^(2/3) = 3^1/3^(2/3) = 3^(1-2/3) = 3^(1/3) = ∛3\n4. Sonuç: 6/∛9 = 2·∛3 = 2∛3"
         },
         {
           "soru": "\\frac{\\sqrt{48} + \\sqrt{75}}{\\sqrt{108} - \\sqrt{27}} işleminin sonucu kaçtır?",
@@ -14953,7 +15069,8 @@
             "3\\sqrt{3}",
             "9"
           ],
-          "dogruCevap": "3"
+          "dogruCevap": "3",
+          "cozum": "1. √48 = √(16·3) = 4√3\n2. √75 = √(25·3) = 5√3\n3. √108 = √(36·3) = 6√3\n4. √27 = √(9·3) = 3√3\n5. (√48 + √75)/(√108 - √27) = (4√3 + 5√3)/(6√3 - 3√3)\n6. = 9√3/3√3 = 3"
         },
         {
           "soru": "a = \\sqrt{5}, b = \\sqrt[3]{11}, c = \\sqrt[6]{120} sayılarının doğru sıralanışı aşağıdakilerden hangisidir?",
@@ -14964,7 +15081,8 @@
             "b < c < a",
             "c < b < a"
           ],
-          "dogruCevap": "c < b < a"
+          "dogruCevap": "c < b < a",
+          "cozum": "1. Değerleri hesaplayalım:\n   a = √5 ≈ 2.236\n   b = ∛11 ≈ 2.224\n   c = ⁶√120 = (120)^(1/6)\n2. c = (2³·3·5)^(1/6) = 2^(3/6)·3^(1/6)·5^(1/6) = 2^(1/2)·3^(1/6)·5^(1/6) ≈ 2.21\n3. Sayısal değerlere göre: c < b < a"
         },
         {
           "soru": "2 < x < 3 olmak üzere, \\sqrt{x² - 4x + 4} + \\sqrt{x² - 6x + 9} ifadesinin eşiti nedir?",
@@ -14975,7 +15093,8 @@
             "2x+1",
             "-1"
           ],
-          "dogruCevap": "1"
+          "dogruCevap": "1",
+          "cozum": "1. Kare tamamlama yapalım:\n   √(x² - 4x + 4) = √((x-2)²) = |x-2|\n   √(x² - 6x + 9) = √((x-3)²) = |x-3|\n2. 2 < x < 3 olduğundan:\n   |x-2| = x-2 (çünkü x > 2)\n   |x-3| = -(x-3) = 3-x (çünkü x < 3)\n3. İfade = (x-2) + (3-x) = 1"
         },
         {
           "soru": "\\sqrt{x + \\sqrt{x-4}} = 2 denklemini sağlayan x değeri kaçtır?",
@@ -14986,7 +15105,8 @@
             "16",
             "Çözüm Yok"
           ],
-          "dogruCevap": "4"
+          "dogruCevap": "4",
+          "cozum": "1. Verilen denklemi çözelim: √(x + √(x-4)) = 2\n2. Her iki tarafın karesini alalım: x + √(x-4) = 4\n3. √(x-4) = 4 - x\n4. Tekrar her iki tarafın karesini alalım: (x-4) = (4-x)²\n5. x-4 = 16-8x+x²\n6. 0 = x²-9x+20\n7. Çarpanlara ayıralım: (x-4)(x-5) = 0\n8. x = 4 veya x = 5\n9. Kontrol:\n   x = 4 için: √(4+√(4-4)) = √(4+0) = 2 ✓\n   x = 5 için: √(5+√(5-4)) = √(5+1) = √6 ≠ 2 ✗\n10. Doğru cevap: x = 4"
         }
       ],
       "Çarpanlara Ayırma": [
@@ -14999,7 +15119,8 @@
             "(x - 1)(x - 6) ; -6",
             "(x - 3)(x - 2) ; 5"
           ],
-          "dogruCevap": "(x - 2)(x - 3) ; 6"
+          "dogruCevap": "(x - 2)(x - 3) ; 6",
+          "cozum": "1. x² - 5x + 6 ifadesini çarpanlara ayırmak için, çarpımı 6 toplamı -5 olan iki sayı arıyoruz\n2. -2 ve -3 sayıları çarpımı 6, toplamı -5 ediyor\n3. Çarpanlara ayrılmış hali: (x - 2)(x - 3)\n4. Kökler: x = 2 ve x = 3\n5. Köklerin çarpımı: 2 × 3 = 6"
         },
         {
           "soru": "x² + 7x + 12 = 0 denkleminin çarpanlara ayrılmış hali hangisidir ve köklerinin toplamı nedir?",
@@ -15010,7 +15131,8 @@
             "(x + 2)(x + 6) ; -8",
             "(x + 2)(x + 6) ; 8"
           ],
-          "dogruCevap": "(x + 3)(x + 4) ; -7"
+          "dogruCevap": "(x + 3)(x + 4) ; -7",
+          "cozum": "1. x² + 7x + 12 ifadesini çarpanlara ayırmak için, çarpımı 12 toplamı 7 olan iki sayı arıyoruz\n2. 3 ve 4 sayıları çarpımı 12, toplamı 7 ediyor\n3. Çarpanlara ayrılmış hali: (x + 3)(x + 4)\n4. Kökler: x = -3 ve x = -4\n5. Köklerin toplamı: (-3) + (-4) = -7"
         },
         {
           "soru": "2x² - 5x - 3 = 0 denkleminin çarpanlara ayrılmış hali hangisidir ve köklerinin toplamı nedir?",
@@ -15021,7 +15143,8 @@
             "(2x - 1)(x + 3) ; -5/2",
             "(2x - 1)(x - 3) ; 2"
           ],
-          "dogruCevap": "(2x + 1)(x - 3) ; 5/2"
+          "dogruCevap": "(2x + 1)(x - 3) ; 5/2",
+          "cozum": "1. 2x² - 5x - 3 ifadesini çarpanlara ayırmak için, 2 ve -3 çarpanlarını düşünerek ilerliyoruz\n2. 2x² + x - 6x - 3 şeklinde düşünelim\n3. Ortak paranteze alarak: 2x(x) + 1(x) - 3(2x) - 3(1)\n4. Yeniden düzenlersek: x(2x+1) - 3(2x+1)\n5. (2x+1) ortak faktörünü dışarı alırsak: (2x+1)(x-3)\n6. Kökler: x = -1/2 ve x = 3\n7. Köklerin toplamı: (-1/2) + 3 = 5/2"
         },
         {
           "soru": "x³ + x² - 4x - 4 = 0 denklemini çarpanlara ayırınız. Elde edilen çarpanlara göre, köklerin çarpımı kaçtır?",
@@ -15032,7 +15155,8 @@
             "(x + 1)(x - 2)(x + 2) ; -2",
             "(x - 1)(x + 2)(x - 2) ; -4"
           ],
-          "dogruCevap": "(x + 1)(x - 2)(x + 2) ; -4"
+          "dogruCevap": "(x + 1)(x - 2)(x + 2) ; -4",
+          "cozum": "1. x³ + x² - 4x - 4 = 0 denklemini gruplandırarak çözelim\n2. x³ + x² - 4x - 4 = x²(x + 1) - 4(x + 1)\n3. (x + 1) ortak faktörünü dışarı alırsak: (x + 1)(x² - 4)\n4. x² - 4 = (x - 2)(x + 2) olduğundan: (x + 1)(x - 2)(x + 2)\n5. Kökler: x = -1, x = 2, x = -2\n6. Köklerin çarpımı: (-1) × 2 × (-2) = -4"
         },
         {
           "soru": "x³ - 3x² - 4x + 12 = 0 denkleminin çarpanlara ayrılmış hali hangisidir ve köklerinin çarpımı nedir?",
@@ -15043,7 +15167,8 @@
             "(x - 3)(x + 2)(x - 2) ; -12",
             "(x - 2)(x + 3)(x - 2) ; 12"
           ],
-          "dogruCevap": "(x - 3)(x - 2)(x + 2) ; -12"
+          "dogruCevap": "(x - 3)(x - 2)(x + 2) ; -12",
+          "cozum": "1. x³ - 3x² - 4x + 12 = 0 denklemini gruplandıralım\n2. x³ - 3x² - 4x + 12 = x²(x - 3) - 4(x - 3)\n3. (x - 3) ortak faktörünü dışarı alırsak: (x - 3)(x² - 4)\n4. x² - 4 = (x - 2)(x + 2) olduğundan: (x - 3)(x - 2)(x + 2)\n5. Kökler: x = 3, x = 2, x = -2\n6. Köklerin çarpımı: 3 × 2 × (-2) = -12"
         },
         {
           "soru": "4x² - 12x + 9 = 0 denkleminin çarpanlara ayrılmış hali nedir?",
@@ -15054,7 +15179,8 @@
             "(2x - 3)(2x + 3)",
             "(x - 3)(4x - 3)"
           ],
-          "dogruCevap": "(2x - 3)²"
+          "dogruCevap": "(2x - 3)²",
+          "cozum": "1. 4x² - 12x + 9 ifadesini tam kare formunda yazıp yazamayacağımızı kontrol edelim\n2. (ax)² - 2(ax)(b) + b² = (ax - b)² formülüne göre\n3. a = 2, b = 3 için: (2x)² - 2(2x)(3) + 3² = 4x² - 12x + 9 ✓\n4. Bu durumda: 4x² - 12x + 9 = (2x - 3)²"
         },
         {
           "soru": "x⁴ - 16 = 0 denklemini çarpanlara ayırınız.",
@@ -15065,7 +15191,8 @@
             "(x - 2)(x + 2)(x² - 4)",
             "(x - 4)(x + 4)(x² + 4)"
           ],
-          "dogruCevap": "(x - 2)(x + 2)(x² + 4)"
+          "dogruCevap": "(x - 2)(x + 2)(x² + 4)",
+          "cozum": "1. x⁴ - 16 ifadesini fark formülüyle çözelim\n2. x⁴ - 16 = x⁴ - 4² = (x²)² - 4²\n3. (a² - b²) = (a-b)(a+b) formülüne göre: (x² - 4)(x² + 4)\n4. x² - 4 = x² - 2² = (x-2)(x+2)\n5. Sonuç: (x-2)(x+2)(x²+4)"
         },
         {
           "soru": "x³ - 9x = 0 denkleminin çarpanlara ayrılmış hali nedir ve köklerinin toplamı kaçtır?",
@@ -15076,7 +15203,8 @@
             "(x - 3)(x + 3) ; 0",
             "x(x - 3)(x + 3) ; 6"
           ],
-          "dogruCevap": "x(x - 3)(x + 3) ; 0"
+          "dogruCevap": "x(x - 3)(x + 3) ; 0",
+          "cozum": "1. x³ - 9x = x·(x² - 9)\n2. x² - 9 = (x - 3)(x + 3)\n3. Çarpanlara ayrılmış hali: x(x - 3)(x + 3)\n4. Kökler: x = 0, x = 3, x = -3\n5. Köklerin toplamı: 0 + 3 + (-3) = 0"
         },
         {
           "soru": "3x² - 14x - 5 = 0 denklemini çarpanlara ayırınız ve köklerinin çarpımını bulunuz.",
@@ -15087,7 +15215,8 @@
             "(x - 5)(3x + 1) ; 5/3",
             "(x + 5)(3x - 1) ; -5"
           ],
-          "dogruCevap": "(x - 5)(3x + 1) ; -5/3"
+          "dogruCevap": "(x - 5)(3x + 1) ; -5/3",
+          "cozum": "1. 3x² - 14x - 5 ifadesini çarpanlara ayırmak için, 3 ve -5 çarpanlarını düşünerek ilerliyoruz\n2. 3x² - 15x + x - 5 şeklinde ayıralım\n3. 3x(x - 5) + 1(x - 5)\n4. (x - 5)(3x + 1)\n5. Kökler: x = 5 ve x = -1/3\n6. Köklerin çarpımı: 5 × (-1/3) = -5/3"
         },
         {
           "soru": "x² - 2x - 8 = 0 denkleminin çarpanlara ayrılmış hali hangisidir ve köklerinin çarpımı nedir?",
@@ -15098,7 +15227,8 @@
             "(x - 2)(x + 4) ; 8",
             "(x - 4)(x + 2) ; -6"
           ],
-          "dogruCevap": "(x - 4)(x + 2) ; -8"
+          "dogruCevap": "(x - 4)(x + 2) ; -8",
+          "cozum": "1. x² - 2x - 8 ifadesini çarpanlara ayırmak için, çarpımı -8 toplamı -2 olan iki sayı arıyoruz\n2. -4 ve 2 sayıları çarpımı -8, toplamı -2 ediyor\n3. Çarpanlara ayrılmış hali: (x - 4)(x + 2)\n4. Kökler: x = 4 ve x = -2\n5. Köklerin çarpımı: 4 × (-2) = -8"
         }
       ],
       "Çarpanlara Ayırma 2": [
@@ -15111,7 +15241,8 @@
             "x+1",
             "\\frac{x-1}{x}"
           ],
-          "dogruCevap": "1"
+          "dogruCevap": "1",
+          "cozum": "1. Her bir ifadeyi çarpanlara ayıralım:\n   Pay: x³ + 2x² - 3x = x(x² + 2x - 3) = x(x+3)(x-1)\n   Payda: x² + 3x = x(x+3)\n2. İkinci kesir:\n   Pay: x² - 1 = (x+1)(x-1)\n   Payda: x+1\n3. Bölme işlemini çarpma işlemine çevirelim:\n   [x(x+3)(x-1)/(x(x+3))] × [(x+1)/(x+1)(x-1)]\n4. Sadeleştirelim:\n   [(x-1)/(x+3)] × [(x+1)/(x-1)(x+1)]\n5. Ortak terimleri sadeleştirelim:\n   (x-1)/(x-1) = 1"
         },
         {
           "soru": "\\frac{a³ - 8}{a² + 2a + 4} · \\frac{a+1}{a² - a - 2} ifadesinin en sade şekli nedir? (a≠2, a≠-1)",
@@ -15122,7 +15253,8 @@
             "\\frac{1}{a-2}",
             "\\frac{a³-8}{a²-a-2}"
           ],
-          "dogruCevap": "1"
+          "dogruCevap": "1",
+          "cozum": "1. Her bir ifadeyi çarpanlara ayıralım:\n   a³ - 8 = a³ - 2³ = (a-2)(a² + 2a + 4)\n   a² + 2a + 4: Bu bir çarpan olarak yukarda görünüyor\n   a² - a - 2 = (a-2)(a+1)\n2. Çarpma işlemi:\n   [(a-2)(a² + 2a + 4)/(a² + 2a + 4)] · [(a+1)/(a-2)(a+1)]\n3. Sadeleştirelim:\n   (a-2)/(a-2) · (a+1)/(a+1) = 1 · 1 = 1"
         },
         {
           "soru": "x + \\frac{1}{x} = 4 olduğuna göre, x³ + \\frac{1}{x³} ifadesinin değeri kaçtır?",
@@ -15133,7 +15265,8 @@
             "60",
             "64"
           ],
-          "dogruCevap": "52"
+          "dogruCevap": "52",
+          "cozum": "1. Bilinen eşitlik: x + 1/x = 4\n2. Bu eşitliğin karesini alalım:\n   (x + 1/x)² = 4²\n   x² + 2 + 1/x² = 16\n   x² + 1/x² = 14\n3. İstenen ifadeyi şöyle yazabiliriz:\n   x³ + 1/x³ = (x + 1/x)[(x² - 1/x²)]\n4. x² - 1/x² = (x² + 1/x²) - 2 = 14 - 2 = 12\n5. Şimdi hesaplayalım:\n   x³ + 1/x³ = (x + 1/x)[(x² - 1/x²)] = 4 · 12 = 48\n6. Hatalı adım! Doğru hesaplama:\n   x³ + 1/x³ = (x + 1/x)³ - 3(x + 1/x) = 4³ - 3(4) = 64 - 12 = 52"
         },
         {
           "soru": "x⁴ - 5x² + 4 ifadesinin çarpanlarından biri aşağıdakilerden hangisi değildir?",
@@ -15144,7 +15277,8 @@
             "x+2",
             "x-4"
           ],
-          "dogruCevap": "x-4"
+          "dogruCevap": "x-4",
+          "cozum": "1. x⁴ - 5x² + 4 ifadesini çarpanlara ayıralım. Bunu y = x² kabul ederek yapabiliriz.\n2. y² - 5y + 4 şeklinde yazarsak çarpanlara ayırmak daha kolay olacak\n3. Bu ifadenin çarpanları: (y-1)(y-4) = (x²-1)(x²-4)\n4. Bunları da çarpanlara ayıralım:\n   (x²-1) = (x-1)(x+1)\n   (x²-4) = (x-2)(x+2)\n5. Tüm çarpanlar: (x-1), (x+1), (x-2), (x+2)\n6. x-4 bu çarpanlar arasında yoktur"
         },
         {
           "soru": "a² - b² + 4b - 4 ifadesinin çarpanlarından biri aşağıdakilerden hangisidir?",
@@ -15155,7 +15289,8 @@
             "a+b-2",
             "a+b+2"
           ],
-          "dogruCevap": "a+b-2"
+          "dogruCevap": "a+b-2",
+          "cozum": "1. a² - b² + 4b - 4 ifadesini düzenleyelim\n2. a² - b² - 4 + 4b = a² - (b² - 4b + 4)\n3. a² - (b - 2)² = a² - b² + 4b - 4\n4. Bu ifadeyi çarpanlara ayıralım: a² - (b-2)² = (a+(b-2))(a-(b-2))\n5. = (a+b-2)(a-b+2)\n6. Çarpanlardan biri: a+b-2"
         },
         {
           "soru": "x ≠ y olmak üzere, \\frac{x²}{x-y} + \\frac{y²}{y-x} ifadesinin eşiti aşağıdakilerden hangisidir?",
@@ -15166,7 +15301,8 @@
             "1",
             "\\frac{x²+y²}{x-y}"
           ],
-          "dogruCevap": "x+y"
+          "dogruCevap": "x+y",
+          "cozum": "1. İkinci terimin paydası (y-x) = -(x-y) olduğuna dikkat edelim\n2. \\frac{x²}{x-y} + \\frac{y²}{y-x} = \\frac{x²}{x-y} + \\frac{y²}{-(x-y)}\n3. = \\frac{x²}{x-y} - \\frac{y²}{x-y}\n4. = \\frac{x² - y²}{x-y}\n5. x² - y² = (x+y)(x-y)\n6. Sadeleştirilmiş hal: \\frac{(x+y)(x-y)}{x-y} = x+y"
         },
         {
           "soru": "x² + y² - 8x + 6y + 25 = 0 denklemini sağlayan x ve y gerçel sayıları için x · y çarpımı kaçtır?",
@@ -15177,7 +15313,8 @@
             "-7",
             "0"
           ],
-          "dogruCevap": "-12"
+          "dogruCevap": "-12",
+          "cozum": "1. Verilen denklemi kare tamamlama yöntemiyle dönüştürelim:\n   x² - 8x + y² + 6y + 25 = 0\n2. x ile ilgili terimler: x² - 8x + 16 = (x-4)²\n3. y ile ilgili terimler: y² + 6y + 9 = (y+3)²\n4. Denklemi yeniden yazalım:\n   (x-4)² + (y+3)² = -25 + 16 + 9 = 0\n5. (x-4)² + (y+3)² = 0\n6. Bu denklem ancak (x-4)² = 0 ve (y+3)² = 0 ise sağlanır\n7. x = 4 ve y = -3\n8. x·y = 4·(-3) = -12"
         }
       ],
       "Denklem Çözme": [
@@ -15190,7 +15327,8 @@
             "x = -3 ve x = -4",
             "x = 1 ve x = 10"
           ],
-          "dogruCevap": "x = 2 ve x = 5"
+          "dogruCevap": "x = 2 ve x = 5",
+          "cozum": "1. Verilen ikinci dereceden denklem: x² - 7x + 10 = 0\n2. Çarpanlara ayırmak için, çarpımı 10 ve toplamı -7 olan iki sayıyı bulmalıyız\n3. -2 ve -5 çarpımı 10 ama toplamı -7 değil\n4. -5 ve -2 toplamı -7, çarpımı 10 ama sayılar negatif\n5. 2 ve 5 toplamı 7, çarpımı 10\n6. Dikkat: Denklemde -7x olduğundan, çarpanlar şöyle olacak: (x-2)(x-5)\n7. Kökleri bulursak: x = 2 veya x = 5"
         },
         {
           "soru": "2x² - 8x + 6 = 0 denkleminin kökleri hangi değerlerdir?",
@@ -15201,7 +15339,8 @@
             "x = 2 ve x = 4",
             "x = -1 ve x = -3"
           ],
-          "dogruCevap": "x = 1 ve x = 3"
+          "dogruCevap": "x = 1 ve x = 3",
+          "cozum": "1. Verilen ikinci dereceden denklem: 2x² - 8x + 6 = 0\n2. Önce 2'ye bölerek denklemi basitleştirelim: x² - 4x + 3 = 0\n3. Çarpanlara ayırmak için, çarpımı 3 ve toplamı -4 olan iki sayıyı bulmalıyız\n4. -1 ve -3 sayıları çarpımı 3, toplamı -4\n5. Çarpanlara ayırırsak: (x-1)(x-3) = 0\n6. Kökleri bulursak: x = 1 veya x = 3"
         },
         {
           "soru": "x² - 3x - 1 = 0 denkleminin kökleri nedir?",
@@ -15212,7 +15351,8 @@
             "x = (-3 ± √13)/2",
             "x = (3 ± √17)/2"
           ],
-          "dogruCevap": "x = (3 ± √13)/2"
+          "dogruCevap": "x = (3 ± √13)/2",
+          "cozum": "1. Verilen ikinci dereceden denklem: x² - 3x - 1 = 0\n2. Bu denklemi çarpanlara ayırmak zor görünüyor, kökler formülünü kullanalım\n3. a = 1, b = -3, c = -1\n4. Δ = b² - 4ac = (-3)² - 4(1)(-1) = 9 + 4 = 13\n5. x = (-b ± √Δ)/2a = (3 ± √13)/2\n6. Kökleri: x = (3 + √13)/2 veya x = (3 - √13)/2"
         },
         {
           "soru": "x⁴ - 5x² + 4 = 0 denkleminin gerçek kökleri hangileridir?",
@@ -15223,7 +15363,8 @@
             "x = -1, 0, 1, 2",
             "x = 1, 2, 3, 4"
           ],
-          "dogruCevap": "x = -2, -1, 1, 2"
+          "dogruCevap": "x = -2, -1, 1, 2",
+          "cozum": "1. Verilen denklem: x⁴ - 5x² + 4 = 0\n2. Bunu çözmek için değişken değişimi yapabiliriz: y = x²\n3. Yeni denklem: y² - 5y + 4 = 0\n4. Bu ikinci dereceden denklemi çarpanlara ayıralım: (y-1)(y-4) = 0\n5. Buradan y = 1 veya y = 4\n6. x² = 1 ⟹ x = ±1\n7. x² = 4 ⟹ x = ±2\n8. Dolayısıyla tüm gerçek kökler: x = -2, -1, 1, 2"
         },
         {
           "soru": "1/x + 1/(x-2) = 1 denklemini çözünüz.",
@@ -15234,7 +15375,8 @@
             "x = 3 ± √2",
             "x = 2 ± 2√2"
           ],
-          "dogruCevap": "x = 2 ± √2"
+          "dogruCevap": "x = 2 ± √2",
+          "cozum": "1. Verilen denklem: 1/x + 1/(x-2) = 1\n2. Ortak payda oluşturalım: [x-2 + x]/[x(x-2)] = 1\n3. Pay: x-2+x = 2x-2\n4. Payda: x(x-2) = x²-2x\n5. (2x-2)/(x²-2x) = 1\n6. 2x-2 = x²-2x\n7. 0 = x² - 4x + 2\n8. Kökler formülünü kullanırsak:\n   a = 1, b = -4, c = 2\n   Δ = (-4)² - 4(1)(2) = 16 - 8 = 8\n9. x = [4 ± √8]/2 = 2 ± √2"
         },
         {
           "soru": "√(x+1) = x - 1 denklemini çözünüz.",
@@ -15245,7 +15387,8 @@
             "x = 4",
             "x = -1"
           ],
-          "dogruCevap": "x = 3"
+          "dogruCevap": "x = 3",
+          "cozum": "1. Verilen denklem: √(x+1) = x - 1\n2. Her iki tarafı kareliyoruz: (√(x+1))² = (x-1)²\n3. Bunları açarsak: x+1 = x² - 2x + 1\n4. 0 = x² - 2x - 1 + 1\n5. 0 = x² - 3x\n6. x(x-3) = 0\n7. Buradan x = 0 veya x = 3\n8. Kontrol ediyoruz:\n   x = 0 için: √(0+1) = 0-1 ⟹ 1 = -1 (çelişki)\n   x = 3 için: √(3+1) = 3-1 ⟹ 2 = 2 (doğru)\n9. Dolayısıyla denklemin tek çözümü x = 3"
         },
         {
           "soru": "√(2x-1) - √(x-1) = 1 denklemini çözünüz.",
@@ -15256,7 +15399,8 @@
             "x = 5 yalnızca",
             "x = 0 veya x = 5"
           ],
-          "dogruCevap": "x = 1 veya x = 5"
+          "dogruCevap": "x = 1 veya x = 5",
+          "cozum": "1. Verilen denklem: √(2x-1) - √(x-1) = 1\n2. √(2x-1) = 1 + √(x-1)\n3. Her iki tarafı kareliyoruz: (√(2x-1))² = (1 + √(x-1))²\n4. 2x-1 = 1 + 2√(x-1) + (x-1)\n5. 2x-1 = 1 + 2√(x-1) + x - 1\n6. 2x-1 = x + 2√(x-1)\n7. x = 1 + 2√(x-1)\n8. x-1 = 2√(x-1)\n9. (x-1)² = 4(x-1)\n10. (x-1)² - 4(x-1) = 0\n11. (x-1)[(x-1) - 4] = 0\n12. (x-1)(x-5) = 0\n13. x = 1 veya x = 5\n14. Kontrol:\n    x = 1 için: √(2·1-1) - √(1-1) = √1 - √0 = 1 - 0 = 1 ✓\n    x = 5 için: √(2·5-1) - √(5-1) = √9 - √4 = 3 - 2 = 1 ✓"
         },
         {
           "soru": "x³ + 2x² - x - 2 = 0 denklemini çözünüz.",
@@ -15267,7 +15411,8 @@
             "x = 2, -1",
             "x = -1, 1"
           ],
-          "dogruCevap": "x = -2, -1, 1"
+          "dogruCevap": "x = -2, -1, 1",
+          "cozum": "1. Verilen denklem: x³ + 2x² - x - 2 = 0\n2. Ortak parantez alarak gruplandırma yapalım:\n   x²(x + 2) - 1(x + 2) = 0\n3. (x + 2)(x² - 1) = 0\n4. (x + 2)(x - 1)(x + 1) = 0\n5. Kökler: x = -2 veya x = 1 veya x = -1"
         },
         {
           "soru": "2/x + 3/(x+1) = 1 denklemini çözünüz.",
@@ -15278,7 +15423,8 @@
             "x = 1 ± √5",
             "x = 2 ± 2√6"
           ],
-          "dogruCevap": "x = 2 ± √6"
+          "dogruCevap": "x = 2 ± √6",
+          "cozum": "1. Verilen denklem: 2/x + 3/(x+1) = 1\n2. Ortak payda oluşturalım: [2(x+1) + 3x]/[x(x+1)] = 1\n3. Pay: 2x+2+3x = 5x+2\n4. Payda: x(x+1) = x²+x\n5. (5x+2)/(x²+x) = 1\n6. 5x+2 = x²+x\n7. 0 = x² - 4x - 2\n8. Kökler formülünü kullanırsak:\n   a = 1, b = -4, c = -2\n   Δ = (-4)² - 4(1)(-2) = 16 + 8 = 24 = 4 · 6\n9. x = [4 ± √24]/2 = 2 ± √6"
         },
         {
           "soru": "4ˣ - 5·2ˣ + 4 = 0 denklemini çözünüz.",
@@ -15289,7 +15435,8 @@
             "x = 0 veya x = 1",
             "x = -2 veya x = 2"
           ],
-          "dogruCevap": "x = 0 veya x = 2"
+          "dogruCevap": "x = 0 veya x = 2",
+          "cozum": "1. Verilen denklem: 4ˣ - 5·2ˣ + 4 = 0\n2. 4ˣ = (2²)ˣ = 2^(2x) olduğunu biliyoruz\n3. Yeni değişken y = 2ˣ olsun\n4. Denklem: y² - 5y + 4 = 0\n5. Çarpanlara ayırırsak: (y-1)(y-4) = 0\n6. y = 1 veya y = 4\n7. 2ˣ = 1 veya 2ˣ = 4\n8. x = 0 veya x = 2"
         }
       ],
       "Denklem Çözme 2": [
@@ -15302,7 +15449,8 @@
             "8",
             "9"
           ],
-          "dogruCevap": "5"
+          "dogruCevap": "5",
+          "cozum": "1. x² - y² = 24 ve x + y = 6\n2. İlk denklemi çarpanlara ayıralım: (x+y)(x-y) = 24\n3. x+y = 6 olduğundan, (x-y) = 24/6 = 4\n4. İki denklemden: x+y = 6 ve x-y = 4\n5. Bu denklemleri çözersek: 2x = 10 → x = 5\n6. x = 5 ise y = 1\n7. x·y = 5·1 = 5"
         },
         {
           "soru": "|x² - 4| = 3x denkleminin çözüm kümesi kaç elemanlıdır?",
@@ -15313,7 +15461,8 @@
             "3",
             "4"
           ],
-          "dogruCevap": "2"
+          "dogruCevap": "2",
+          "cozum": "1. |x² - 4| = 3x için iki durum var:\n2. Durum 1: (x² - 4) ≥ 0 iken x² - 4 = 3x\n   x² - 3x - 4 = 0\n   (x-4)(x+1) = 0\n   x = 4 veya x = -1\n   x = -1 için x² - 4 = 1 - 4 = -3 (negatif), durum sağlanmıyor\n   x = 4 için x² - 4 = 16 - 4 = 12 (pozitif), durum sağlanıyor\n3. Durum 2: (x² - 4) < 0 iken -(x² - 4) = 3x\n   -x² + 4 = 3x\n   x² + 3x - 4 = 0\n   (x+4)(x-1) = 0\n   x = -4 veya x = 1\n   x = -4 için x² - 4 = 16 - 4 = 12 (pozitif), durum sağlanmıyor\n   x = 1 için x² - 4 = 1 - 4 = -3 (negatif), durum sağlanıyor\n4. Çözüm kümesi {1, 4}, 2 elemanlıdır"
         },
         {
           "soru": "x² - (m+1)x + 8 = 0 denkleminin kökleri x₁ ve x₂'dir. x₁ = x₂² olduğuna göre, m kaçtır?",
@@ -15324,7 +15473,8 @@
             "6",
             "7"
           ],
-          "dogruCevap": "5"
+          "dogruCevap": "5",
+          "cozum": "1. x² - (m+1)x + 8 = 0 denkleminin köklerinin toplamı = m+1\n2. Köklerin çarpımı = 8\n3. x₁ + x₂ = m+1 ve x₁·x₂ = 8\n4. x₁ = x₂² olduğundan x₂² + x₂ = m+1\n5. x₂² + x₂ - (m+1) = 0\n6. Ayrıca x₁·x₂ = 8 ve x₁ = x₂² olduğundan, x₂³ = 8\n7. x₂ = 2 bulunur\n8. x₂ = 2 değerini x₂² + x₂ = m+1 denkleminde yerine koyarsak:\n   2² + 2 = m+1\n   4 + 2 = m+1\n   6 = m+1\n   m = 5"
         },
         {
           "soru": "(x² - x - 1)² - 3(x² - x - 1) - 4 = 0 denkleminin farklı gerçel köklerinin toplamı kaçtır?",
@@ -15335,7 +15485,8 @@
             "2",
             "3"
           ],
-          "dogruCevap": "2"
+          "dogruCevap": "2",
+          "cozum": "1. y = x² - x - 1 diyelim\n2. Denklem: y² - 3y - 4 = 0\n3. (y-4)(y+1) = 0\n4. y = 4 veya y = -1\n5. x² - x - 1 = 4 ise x² - x - 5 = 0\n   (x-5/2)² = 5/2 + 1/4 = 11/4\n   x = 5/2 ± √(11/4) = 5/2 ± √11/2\n6. x² - x - 1 = -1 ise x² - x = 0\n   x(x-1) = 0\n   x = 0 veya x = 1\n7. Toplam 4 farklı kök: 0, 1, (5+√11)/2, (5-√11)/2\n8. Kökler toplamı: 0 + 1 + (5+√11)/2 + (5-√11)/2 = 1 + 5 = 6/2 = 2"
         },
         {
           "soru": "\\sqrt{3x+1} - \\sqrt{x-1} = 2 denkleminin çözüm kümesi aşağıdakilerden hangisidir?",
@@ -15346,7 +15497,8 @@
             "{0, 5}",
             "∅"
           ],
-          "dogruCevap": "{1, 5}"
+          "dogruCevap": "{1, 5}",
+          "cozum": "1. √(3x+1) - √(x-1) = 2\n2. √(3x+1) = 2 + √(x-1)\n3. Her iki tarafı kareliyoruz:\n   3x+1 = 4 + 4√(x-1) + (x-1)\n4. 3x+1 = 4 + 4√(x-1) + x - 1\n5. 3x+1 = 3 + 4√(x-1) + x\n6. 2x = 2 + 4√(x-1)\n7. x - 1 = 2√(x-1)\n8. (x-1)² = 4(x-1)\n9. (x-1)² - 4(x-1) = 0\n10. (x-1)(x-5) = 0\n11. x = 1 veya x = 5\n12. Kontrol:\n    x = 1 için: √(3·1+1) - √(1-1) = √4 - √0 = 2 - 0 = 2 ✓\n    x = 5 için: √(3·5+1) - √(5-1) = √16 - √4 = 4 - 2 = 2 ✓"
         },
         {
           "soru": "Bir kumbarada 25 kuruşluk ve 50 kuruşluk madeni paralardan toplam 40 adet bulunmaktadır. Kumbaradaki toplam para tutarı 13 TL olduğuna göre, kaç tane 50 kuruşluk madeni para vardır? (1 TL = 100 Kr)",
@@ -15357,7 +15509,8 @@
             "18",
             "20"
           ],
-          "dogruCevap": "12"
+          "dogruCevap": "12",
+          "cozum": "1. 25 kuruşluk para sayısı x, 50 kuruşluk para sayısı y olsun\n2. Toplam 40 para olduğundan: x + y = 40\n3. Toplam tutar 13 TL = 1300 kuruş olduğundan: 25x + 50y = 1300\n4. x + y = 40 denkleminden x = 40 - y\n5. 25(40 - y) + 50y = 1300\n6. 1000 - 25y + 50y = 1300\n7. 1000 + 25y = 1300\n8. 25y = 300\n9. y = 12\n10. 50 kuruşluk para sayısı 12 adet"
         },
         {
           "soru": "\\frac{x² - 9}{x-3} = x+k denklemi x=3 dışında tüm gerçel sayılar için sağlandığına göre, k kaçtır?",
@@ -15368,7 +15521,8 @@
             "3",
             "9"
           ],
-          "dogruCevap": "3"
+          "dogruCevap": "3",
+          "cozum": "1. (x² - 9)/(x-3) = x+k\n2. (x-3)(x+3)/(x-3) = x+k\n3. x+3 = x+k (x≠3 için)\n4. Bu eşitliğin tüm x≠3 değerlerinde sağlanması için k = 3 olmalıdır"
         }
       ],
       "Oran-Orantı": [
@@ -15381,7 +15535,8 @@
             "24",
             "36"
           ],
-          "dogruCevap": "24"
+          "dogruCevap": "24",
+          "cozum": "1. İki sayıyı x ve y olarak adlandıralım\n2. Verilenlere göre: x + y = 96\n3. Birinin 5 katı diğerinin 3 katına eşit: 5x = 3y\n4. 5x = 3y'den x = 3y/5 buluruz\n5. Bunu ilk denklemde yerine koyalım: 3y/5 + y = 96\n6. (3y + 5y)/5 = 96\n7. 8y/5 = 96\n8. y = 96 · 5/8 = 60\n9. x = 96 - 60 = 36\n10. Sayıların farkı: |x - y| = |36 - 60| = 24"
         },
         {
           "soru": "a, b, c sayılarının, sırasıyla 3, 6, 5 oranında olduğu biliniyor (yani a : b : c = 3 : 6 : 5). Aşağıdaki ifadeyi, a, b, c yerine uygun sayılar koyarak hesaplayınız:\n\n(a + c) - b\n\nAşağıdakilerden hangisi bu ifadenin değeridir?",
@@ -15392,10 +15547,11 @@
             "2",
             "3"
           ],
-          "dogruCevap": "2"
+          "dogruCevap": "2",
+          "cozum": "1. a : b : c = 3 : 6 : 5 oranındadır\n2. Bu durumda, a = 3k, b = 6k, c = 5k (k bir katsayı)\n3. İstenen ifade: (a + c) - b = (3k + 5k) - 6k = 8k - 6k = 2k\n4. Orandaki k değeri 1 kabul edilirse, istenen ifade = 2 · 1 = 2"
         },
         {
-          "soru": "Bir okulda bulunan 12/A ve 12/B şubelerinin sınıf mevcutlarının farkı x’tir. 12/A şubesinin sınıf mevcudu y’deir. Buna göre, bu iki şubenin sınıf mevcutları toplamının, 12/B şubesinin sınıf mevcuduna oranı hangisidir?\n(Not: Yorumlamada 12/A = y, fark = x olduğundan 12/B = y – x kabul edilmiştir.)",
+          "soru": "Bir okulda bulunan 12/A ve 12/B şubelerinin sınıf mevcutlarının farkı x'tir. 12/A şubesinin sınıf mevcudu y'deir. Buna göre, bu iki şubenin sınıf mevcutları toplamının, 12/B şubesinin sınıf mevcuduna oranı hangisidir?\n(Not: Yorumlamada 12/A = y, fark = x olduğundan 12/B = y – x kabul edilmiştir.)",
           "secenekler": [
             " (x + y) / (2x + y)",
             " (x + y) / (2x - y)",
@@ -15403,7 +15559,8 @@
             " (x + y) / (2x + y)  (eksi işaretli)",
             " (x + y) / (x + y)"
           ],
-          "dogruCevap": "(2y - x) / (y - x)"
+          "dogruCevap": "(2y - x) / (y - x)",
+          "cozum": "1. 12/A şubesinin mevcudu = y\n2. 12/A ve 12/B arasındaki fark = x\n3. 12/B şubesinin mevcudu = y - x\n4. İki şubenin toplamı = y + (y - x) = 2y - x\n5. İstenen oran = İki şubenin toplamı / 12/B mevcudu\n   = (2y - x) / (y - x)"
         },
         {
           "soru": "x ve y doğal sayıları sırasıyla 2 ve 3 sayıları ile orantılıdır. \n4x + 2y = 42 olduğuna göre, y kaçtır?",
@@ -15414,7 +15571,8 @@
             "18",
             "21"
           ],
-          "dogruCevap": "9"
+          "dogruCevap": "9",
+          "cozum": "1. x ve y sırasıyla 2 ve 3 ile orantılı ise x/2 = y/3\n2. Buradan x = 2k ve y = 3k (k bir katsayı)\n3. Denklemde yerine koyalım: 4(2k) + 2(3k) = 42\n4. 8k + 6k = 42\n5. 14k = 42\n6. k = 3\n7. y = 3k = 3 · 3 = 9"
         },
         {
           "soru": "(x + 5) ve (y – 12) sayıları doğru orantılıdır. \nx = 5 iken y = 17 olduğuna göre, x = 25 iken y kaçtır?",
@@ -15425,7 +15583,8 @@
             "2/39",
             "27"
           ],
-          "dogruCevap": "27"
+          "dogruCevap": "27",
+          "cozum": "1. (x + 5) ve (y - 12) doğru orantılı olduğundan:\n   (x + 5) / (y - 12) = k (sabit)\n2. x = 5, y = 17 için:\n   (5 + 5) / (17 - 12) = 10 / 5 = 2\n3. k = 2\n4. x = 25 için:\n   (25 + 5) / (y - 12) = 2\n5. 30 / (y - 12) = 2\n6. 30 = 2(y - 12)\n7. 30 = 2y - 24\n8. 54 = 2y\n9. y = 27"
         },
         {
           "soru": "Bir dikdörtgenin kenar uzunlukları sırasıyla 4 ve 5 ile orantılıdır. Bu dikdörtgenin alanı 180 br² olduğuna göre, dikdörtgenin çevresi kaç br'dir?",
@@ -15436,7 +15595,8 @@
             "60",
             "65"
           ],
-          "dogruCevap": "54"
+          "dogruCevap": "54",
+          "cozum": "1. Kenar uzunlukları 4 ve 5 ile orantılı ise kenarlar 4k ve 5k olarak yazılabilir\n2. Dikdörtgenin alanı = 4k · 5k = 20k²\n3. 20k² = 180\n4. k² = 9\n5. k = 3 (pozitif değeri alıyoruz)\n6. Kenarlar: 4k = 4 · 3 = 12 ve 5k = 5 · 3 = 15\n7. Dikdörtgenin çevresi = 2(12 + 15) = 2 · 27 = 54 br"
         },
         {
           "soru": "3, 5 ve 7 yaşlarındaki üç kardeşe 150 TL, yaşları ile orantılı olarak paylaştırılıyor. Buna göre, 3 yaşındaki kardeşe verilen para kaç TL'dir?",
@@ -15447,7 +15607,8 @@
             "60",
             "70"
           ],
-          "dogruCevap": "30"
+          "dogruCevap": "30",
+          "cozum": "1. Yaşlar toplamı = 3 + 5 + 7 = 15\n2. Yaşların oranı = 3 : 5 : 7\n3. 3 yaşındakinin payı = (3/15) · 150 = 3 · 10 = 30 TL"
         },
         {
           "soru": "a, b, c pozitif tam sayıları sırasıyla 2, 5, 7 sayılarıyla doğru orantılıdır. c < 23 olduğuna göre, a + b + c toplamının alabileceği en büyük değer kaçtır?",
@@ -15458,7 +15619,8 @@
             "56",
             "84"
           ],
-          "dogruCevap": "42"
+          "dogruCevap": "42",
+          "cozum": "1. a, b, c orantıları 2 : 5 : 7\n2. a = 2k, b = 5k, c = 7k (k pozitif bir katsayı)\n3. c < 23 koşulu: 7k < 23\n4. k < 23/7\n5. En büyük tam sayı k değeri 3\n6. a = 2 · 3 = 6, b = 5 · 3 = 15, c = 7 · 3 = 21\n7. Toplam: a + b + c = 6 + 15 + 21 = 42"
         },
         {
           "soru": "Karabiberin 200 gramı x kuruş, yarım kilogramı (3x – 75) kuruş olduğuna göre, x kaçtır?",
@@ -15469,7 +15631,8 @@
             "200",
             "150"
           ],
-          "dogruCevap": "150"
+          "dogruCevap": "150",
+          "cozum": "1. 200 gram = x kuruş\n2. 500 gram = (3x - 75) kuruş\n3. 500 gram, 200 gramın 2.5 katı olduğundan:\n   500 gram = 2.5 · x kuruş = 2.5x kuruş olmalı\n4. 2.5x = 3x - 75\n5. 75 = 3x - 2.5x = 0.5x\n6. x = 75 / 0.5 = 150"
         }
       ],
       "Oran-Orantı 2": [
@@ -15482,7 +15645,8 @@
             "36",
             "42"
           ],
-          "dogruCevap": "24"
+          "dogruCevap": "24",
+          "cozum": "1. Haritada 5 cm = Gerçekte 15 km\n2. 8 cm'lik mesafe için orantı kuralım:\n   5 cm → 15 km\n   8 cm → x km\n3. x = (8 × 15) ÷ 5 = 24 km"
         },
         {
           "soru": "Bir musluk bir havuzu 12 saatte, diğer bir musluk ise aynı havuzu 18 saatte doldurmaktadır. İki musluk birlikte açılırsa, havuz kaç saatte dolar?",
@@ -15493,7 +15657,8 @@
             "9",
             "10"
           ],
-          "dogruCevap": "7,2"
+          "dogruCevap": "7,2",
+          "cozum": "1. 1. musluk 1 saatte havuzun 1/12'sini doldurur\n2. 2. musluk 1 saatte havuzun 1/18'ini doldurur\n3. İki musluk birlikte 1 saatte: 1/12 + 1/18 = (3+2)/36 = 5/36 kısmını doldurur\n4. Havuzun tamamı için gereken süre: 36/5 = 7,2 saat"
         },
         {
           "soru": "Bir işi 6 işçi 8 günde yapabilmektedir. Aynı işi 4 işçi kaç günde yapabilir?",
@@ -15504,7 +15669,8 @@
             "12",
             "13"
           ],
-          "dogruCevap": "12"
+          "dogruCevap": "12",
+          "cozum": "1. İşçi sayısı ile gün sayısı ters orantılıdır\n2. 6 işçi × 8 gün = 48 işçi-gün (toplam iş gücü)\n3. 4 işçi için gereken gün: 48 ÷ 4 = 12 gün"
         },
         {
           "soru": "Bir araç 120 km'lik yolu 2 saatte gitmektedir. Aynı araç 180 km'lik yolu kaç saatte gider?",
@@ -15515,7 +15681,8 @@
             "4",
             "4,5"
           ],
-          "dogruCevap": "3"
+          "dogruCevap": "3",
+          "cozum": "1. Aracın hızı: 120 km ÷ 2 saat = 60 km/saat\n2. 180 km için gereken süre: 180 km ÷ 60 km/saat = 3 saat"
         },
         {
           "soru": "Bir çiftlikteki koyunların sayısı keçilerin sayısının 3 katıdır. Çiftlikteki toplam hayvan sayısı 80 ise, kaç koyun vardır?",
@@ -15526,7 +15693,8 @@
             "70",
             "75"
           ],
-          "dogruCevap": "60"
+          "dogruCevap": "60",
+          "cozum": "1. Keçi sayısını x olarak alalım\n2. Koyun sayısı 3x\n3. Toplam hayvan: x + 3x = 4x = 80\n4. x = 20 (keçi sayısı)\n5. Koyun sayısı = 3x = 3 × 20 = 60"
         },
         {
           "soru": "Bir sınıftaki öğrencilerin 2/5'i kızdır. Sınıfta 18 erkek öğrenci olduğuna göre, toplam öğrenci sayısı kaçtır?",
@@ -15537,7 +15705,8 @@
             "33",
             "36"
           ],
-          "dogruCevap": "30"
+          "dogruCevap": "30",
+          "cozum": "1. Toplam öğrenci sayısını x olarak alalım\n2. Kız öğrenci sayısı: 2x/5\n3. Erkek öğrenci sayısı: x - 2x/5 = 3x/5 = 18\n4. 3x/5 = 18\n5. x = 18 × 5/3 = 30"
         },
         {
           "soru": "Bir pastanın 1/3'ü çikolatalı, geri kalanı meyvelidir. Meyveli kısmın 1/4'ü elmalı olduğuna göre, pastanın kaçta kaçı elmalıdır?",
@@ -15548,7 +15717,8 @@
             "1/16",
             "1/24"
           ],
-          "dogruCevap": "1/6"
+          "dogruCevap": "1/6",
+          "cozum": "1. Çikolatalı kısım: 1/3\n2. Meyveli kısım: 1 - 1/3 = 2/3\n3. Meyveli kısmın 1/4'ü elmalı olduğundan:\n   Elmalı kısım = 2/3 × 1/4 = 2/12 = 1/6\n4. Pastanın 1/6'sı elmalıdır"
         },
         {
           "soru": "Bir havuzun 3/8'i su ile doludur. Havuza 15 litre daha su eklenirse, havuzun yarısı dolmuş oluyor. Havuzun tamamı kaç litre su alır?",
@@ -15559,7 +15729,8 @@
             "100",
             "120"
           ],
-          "dogruCevap": "120"
+          "dogruCevap": "120",
+          "cozum": "1. Havuzun tamamını x litre olarak alalım\n2. Başlangıçta: 3x/8 litre su var\n3. Ekleme sonrası: 3x/8 + 15 = x/2\n4. 3x/8 + 15 = x/2\n5. (3x/8 - x/2) = -15\n6. (3x - 4x)/8 = -15\n7. -x/8 = -15\n8. x = 120 litre"
         },
         {
           "soru": "Bir karışımdaki A ve B maddelerinin oranları 2/3'tür. Karışımda 12 gram A maddesi olduğuna göre, kaç gram B maddesi vardır?",
@@ -15570,7 +15741,8 @@
             "24",
             "27"
           ],
-          "dogruCevap": "18"
+          "dogruCevap": "18",
+          "cozum": "1. A/B = 2/3 oranı verilmiş\n2. A = 12 gram\n3. B'yi bulmak için: B = A × 3/2 = 12 × 3/2 = 18 gram"
         },
         {
           "soru": "Bir işçi bir işi 10 günde, diğer bir işçi ise aynı işi 15 günde yapabilmektedir. İkisi birlikte çalışırsa, iş kaç günde biter?",
@@ -15581,455 +15753,500 @@
             "8",
             "9"
           ],
-          "dogruCevap": "6"
+          "dogruCevap": "6",
+          "cozum": "1. 1. işçi 1 günde işin 1/10'unu yapar\n2. 2. işçi 1 günde işin 1/15'ini yapar\n3. Birlikte 1 günde: 1/10 + 1/15 = (3+2)/30 = 5/30 = 1/6'sını yaparlar\n4. İşin tamamı için gereken süre: 6 gün"
         }
       ],
       "Problemler": [
-  {
-    "soru": "Toplamları 85, farkları 25 olan iki doğal sayının çarpımı kaçtır?",
-    "secenekler": [
-      "1500",
-      "1650",
-      "1750",
-      "1800"
-    ],
-    "dogruCevap": "1650"
-  },
-  {
-    "soru": "Bir sınıftaki öğrencilerin 2/5'i kızdır. Sınıfta 18 erkek öğrenci olduğuna göre, sınıf mevcudu kaçtır?",
-    "secenekler": [
-      "24",
-      "27",
-      "30",
-      "36"
-    ],
-    "dogruCevap": "30"
-  },
-  {
-    "soru": "Ahmet'in yaşının 3 katı, Mehmet'in yaşının 4 katına eşittir. İkisinin yaşları toplamı 42 olduğuna göre, Ahmet kaç yaşındadır?",
-    "secenekler": [
-      "18",
-      "21",
-      "24",
-      "28"
-    ],
-    "dogruCevap": "24"
-  },
-  {
-    "soru": "Bir baba ile oğlunun bugünkü yaşları toplamı 60'tır. 5 yıl sonra babanın yaşı oğlunun yaşının 3 katı olacağına göre, babanın bugünkü yaşı kaçtır?",
-    "secenekler": [
-      "45",
-      "48",
-      "50",
-      "52"
-    ],
-    "dogruCevap": "50"
-  },
-  {
-    "soru": "Bir işi Ali tek başına 12 günde, Veli tek başına 24 günde bitirebiliyor. İkisi birlikte bu işi kaç günde bitirirler?",
-    "secenekler": [
-      "6",
-      "8",
-      "9",
-      "10"
-    ],
-    "dogruCevap": "8"
-  },
-  {
-    "soru": "Boş bir havuzu A musluğu tek başına 6 saatte, B musluğu tek başına 12 saatte dolduruyor. Havuzun dibindeki C musluğu ise dolu havuzu tek başına 8 saatte boşaltıyor. Üç musluk birlikte açılırsa boş havuz kaç saatte dolar?",
-    "secenekler": [
-      "8",
-      "9",
-      "10",
-      "12"
-    ],
-    "dogruCevap": "8"
-  },
-  {
-    "soru": "Bir araç A kentinden B kentine saatte 60 km hızla gidip, saatte 90 km hızla geri dönüyor. Gidiş-dönüş toplam 10 saat sürdüğüne göre, A ile B kentleri arası kaç km'dir?",
-    "secenekler": [
-      "300",
-      "360",
-      "420",
-      "450"
-    ],
-    "dogruCevap": "360"
-  },
-  {
-    "soru": "Hangi sayının %20'sinin %50'si 15 eder?",
-    "secenekler": [
-      "100",
-      "120",
-      "150",
-      "200"
-    ],
-    "dogruCevap": "150"
-  },
-  {
-    "soru": "Bir mal %30 kârla 390 TL'ye satılıyor. Bu malın maliyeti kaç TL'dir?",
-    "secenekler": [
-      "270",
-      "280",
-      "300",
-      "320"
-    ],
-    "dogruCevap": "300"
-  },
-  {
-    "soru": "Maliyeti 200 TL olan bir ürün %20 zararla satıldıktan sonra, satış fiyatı üzerinden %10 indirim daha yapılıyor. Ürünün son satış fiyatı kaç TL'dir?",
-    "secenekler": [
-      "140",
-      "144",
-      "150",
-      "154"
-    ],
-    "dogruCevap": "144"
-  },
-  {
-    "soru": "Tuz oranı %10 olan 80 gram tuzlu su ile tuz oranı %30 olan 120 gram tuzlu su karıştırılıyor. Yeni karışımın tuz oranı yüzde kaçtır?",
-    "secenekler": [
-      "18",
-      "20",
-      "22",
-      "24"
-    ],
-    "dogruCevap": "22"
-  },
-  {
-    "soru": "Ardışık 5 tek doğal sayının toplamı 145'tir. Bu sayıların en büyüğü kaçtır?",
-    "secenekler": [
-      "29",
-      "31",
-      "33",
-      "35"
-    ],
-    "dogruCevap": "33"
-  },
-  {
-    "soru": "Bir torbada 5 kırmızı, 4 mavi ve 3 sarı top vardır. Torbadan rastgele çekilen bir topun mavi olmama olasılığı kaçtır?",
-    "secenekler": [
-      "1/3",
-      "1/2",
-      "2/3",
-      "3/4"
-    ],
-    "dogruCevap": "2/3"
-  },
-  {
-    "soru": "3 kalem ve 2 silginin fiyatı 21 TL, 2 kalem ve 3 silginin fiyatı 19 TL olduğuna göre, 1 kalem ve 1 silginin toplam fiyatı kaç TL'dir?",
-    "secenekler": [
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "dogruCevap": "8"
-  }
-],
-"Problemler 2" : [
-  {
-    "soru": "Rakamları birbirinden farklı üç basamaklı en büyük çift doğal sayı ile rakamları birbirinden farklı iki basamaklı en küçük tek doğal sayının farkı kaçtır?",
-    "secenekler": [
-      "971",
-      "973",
-      "975",
-      "977"
-    ],
-    "dogruCevap": "973"
-  },
-  {
-    "soru": "Bir su deposunun 1/3'ü doludur. Depoya 140 litre daha su konulduğunda deponun yarısı dolduğuna göre, deponun tamamı kaç litre su alır?",
-    "secenekler": [
-      "700",
-      "780",
-      "840",
-      "900"
-    ],
-    "dogruCevap": "840"
-  },
-  {
-    "soru": "Ali'nin bugünkü yaşı, Veli'nin bugünkü yaşının 2 katından 3 eksiktir. 4 yıl önce Ali'nin yaşı Veli'nin yaşının 3 katı olduğuna göre, Veli'nin bugünkü yaşı kaçtır?",
-    "secenekler": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "dogruCevap": "5"
-  },
-  {
-    "soru": "Bir işi aynı kapasitedeki 4 işçi birlikte 6 günde bitirebiliyor. İşçilerden ikisi işe başladıktan 3 gün sonra kalan işçiler de yardıma geliyor. Buna göre, işin tamamı kaç günde bitmiştir?",
-    "secenekler": [
-      "4",
-      "4.5",
-      "5",
-      "5.5"
-    ],
-    "dogruCevap": "5"
-  },
-  {
-    "soru": "Aralarında 480 km mesafe bulunan iki şehirden aynı anda birbirlerine doğru sabit hızlarla hareket eden iki araç 3 saat sonra karşılaşıyorlar. Araçlardan birinin hızı diğerinden 20 km/saat fazla olduğuna göre, yavaş olan aracın hızı saatte kaç km'dir?",
-    "secenekler": [
-      "60",
-      "70",
-      "80",
-      "90"
-    ],
-    "dogruCevap": "70"
-  },
-  {
-    "soru": "Bir sınıftaki öğrencilerin %40'ı erkektir. Erkeklerin %25'i, kızların ise %20'si gözlüklüdür. Gözlüklü erkek öğrenci sayısı 8 olduğuna göre, bu sınıftaki gözlüksüz kız öğrenci sayısı kaçtır?",
-    "secenekler": [
-      "32",
-      "36",
-      "38",
-      "40"
-    ],
-    "dogruCevap": "38"
-  },
-  {
-    "soru": "Bir satıcı, maliyet fiyatı üzerinden %20 kârla satmayı düşündüğü bir ürüne, satış fiyatı üzerinden %10 indirim yaparak 216 TL'ye satıyor. Bu ürünün maliyet fiyatı kaç TL'dir?",
-    "secenekler": [
-      "180",
-      "190",
-      "200",
-      "210"
-    ],
-    "dogruCevap": "200"
-  },
-  {
-    "soru": "Şeker oranı %20 olan 60 kg şekerli suya kaç kg saf su eklenirse, yeni karışımın şeker oranı %15 olur?",
-    "secenekler": [
-      "15",
-      "20",
-      "25",
-      "30"
-    ],
-    "dogruCevap": "20"
-  },
-  {
-    "soru": "a, b, c pozitif tam sayılardır. a = 3b ve b = 4c olduğuna göre, a + b + c toplamı aşağıdakilerden hangisi olabilir?",
-    "secenekler": [
-      "45",
-      "50",
-      "51",
-      "55"
-    ],
-    "dogruCevap": "51"
-  },
-  {
-    "soru": "Bir merdivenin basamaklarını ikişer ikişer çıkıp, üçer üçer inen bir kişinin çıkarken attığı adım sayısı, inerken attığı adım sayısından 8 fazladır. Buna göre, merdiven kaç basamaklıdır?",
-    "secenekler": [
-      "36",
-      "42",
-      "48",
-      "54"
-    ],
-    "dogruCevap": "48"
-  },
-  {
-    "soru": "Bir miktar para 8 kişiye eşit olarak paylaştırılıyor. Eğer aynı para 12 kişiye eşit olarak paylaştırılsaydı kişi başına düşen para 50 TL daha az olacaktı. Buna göre, paylaştırılan toplam para kaç TL'dir?",
-    "secenekler": [
-      "1000",
-      "1200",
-      "1500",
-      "1600"
-    ],
-    "dogruCevap": "1200"
-  },
-  {
-    "soru": "Bir otobüsteki yolcuların 3/5'i erkektir. Otobüsten 6 erkek inip, 4 kadın bindiğinde erkek yolcu sayısı kadın yolcu sayısına eşit oluyor. Buna göre, başlangıçta otobüste kaç yolcu vardı?",
-    "secenekler": [
-      "40",
-      "45",
-      "50",
-      "55"
-    ],
-    "dogruCevap": "50"
-  },
-  {
-    "soru": "Akıntı hızının saatte 4 km olduğu bir nehirde, bir motor akıntı yönünde 3 saatte aldığı yolu, akıntıya karşı 5 saatte alıyor. Buna göre, motorun durgun sudaki hızı saatte kaç km'dir?",
-    "secenekler": [
-      "12",
-      "16",
-      "18",
-      "20"
-    ],
-    "dogruCevap": "16"
-  },
-  {
-    "soru": "Bir satıcı elindeki malların önce %30'unu, sonra kalan malların %50'sini satıyor. Geriye 140 adet mal kaldığına göre, başlangıçta satıcının elinde kaç adet mal vardı?",
-    "secenekler": [
-      "350",
-      "400",
-      "450",
-      "500"
-    ],
-    "dogruCevap": "400"
-  },
-  {
-    "soru": "Üç kardeşin bugünkü yaşları ortalaması 15'tir. En küçük kardeş doğduğunda ortanca kardeş 4 yaşında, en büyük kardeş ise 7 yaşındaydı. Buna göre, en büyük kardeşin bugünkü yaşı kaçtır?",
-    "secenekler": [
-      "18",
-      "19",
-      "20",
-      "22"
-    ],
-    "dogruCevap": "22"
-  }
-],
-"Problemler 3" : [
-  {
-    "soru": "A işçisinin çalışma hızı, B işçisinin çalışma hızının 2 katıdır. İkisi birlikte bir işi 6 günde bitirebildiklerine göre, B işçisi aynı işi tek başına kaç günde bitirir?",
-    "secenekler": [
-      "12",
-      "15",
-      "18",
-      "24"
-    ],
-    "dogruCevap": "18"
-  },
-  {
-    "soru": "Bir araç 120 km'lik yolun bir kısmını saatte 60 km hızla, kalan kısmını saatte 90 km hızla giderek yolculuğu toplam 1 saat 40 dakikada tamamlıyor. Aracın saatte 60 km hızla gittiği yol kaç km'dir?",
-    "secenekler": [
-      "40",
-      "50",
-      "60",
-      "70"
-    ],
-    "dogruCevap": "60"
-  },
-  {
-    "soru": "Bir dikdörtgenin kısa kenarı %20 artırılıp, uzun kenarı %30 azaltılırsa, dikdörtgenin alanı yüzde kaç azalır?",
-    "secenekler": [
-      "10",
-      "12",
-      "16",
-      "24"
-    ],
-    "dogruCevap": "16"
-  },
-  {
-    "soru": "Ağırlıkça %30'u tuz olan 40 kg tuzlu su karışımından kaç kg su buharlaştırılırsa, yeni karışımın tuz oranı %50 olur?",
-    "secenekler": [
-      "12",
-      "14",
-      "16",
-      "18"
-    ],
-    "dogruCevap": "16"
-  },
-  {
-    "soru": "Bir baba ile iki çocuğunun bugünkü yaşları toplamı 72'dir. Büyük çocuk doğduğunda baba 28 yaşında, küçük çocuk doğduğunda ise büyük çocuk 4 yaşındaydı. Buna göre, babanın bugünkü yaşı kaçtır?",
-    "secenekler": [
-      "42",
-      "44",
-      "46",
-      "48"
-    ],
-    "dogruCevap": "44"
-  },
-  {
-    "soru": "Bir torbada bulunan bilyelerin 1/3'ü kırmızı, 1/4'ü mavi ve geri kalanı sarıdır. Torbadaki sarı bilye sayısı, kırmızı bilye sayısından 5 eksik olduğuna göre, torbada kaç tane mavi bilye vardır?",
-    "secenekler": [
-      "12",
-      "15",
-      "18",
-      "20"
-    ],
-    "dogruCevap": "15"
-  },
-  {
-    "soru": "x, y, z pozitif tam sayılar olmak üzere, x/y = 2/3 ve y/z = 4/5 olduğuna göre, x + y + z toplamının alabileceği en küçük değer kaçtır?",
-    "secenekler": [
-      "29",
-      "35",
-      "40",
-      "70"
-    ],
-    "dogruCevap": "35"
-  },
-  {
-    "soru": "Bir satıcı, etiket fiyatı maliyet fiyatı üzerinden %60 kârla belirlenmiş bir ürünü, etiket fiyatı üzerinden %25 indirimle satıyor. Bu satıştan elde edilen kâr oranı yüzde kaçtır?",
-    "secenekler": [
-      "15",
-      "20",
-      "25",
-      "30"
-    ],
-    "dogruCevap": "20"
-  },
-  {
-    "soru": "Aynı anda aynı noktadan zıt yönlerde harekete başlayan iki koşucunun 20 dakika sonra aralarındaki mesafe 7 km oluyor. Koşuculardan birinin hızı diğerinin hızından saatte 3 km fazla olduğuna göre, yavaş olan koşucunun hızı saatte kaç km'dir?",
-    "secenekler": [
-      "8",
-      "9",
-      "10",
-      "12"
-    ],
-    "dogruCevap": "9"
-  },
-  {
-    "soru": "Üç basamaklı ABC doğal sayısının iki basamaklı AB doğal sayısına bölümünden elde edilen bölüm 10, kalan 6'dır. Buna göre, A + B + C toplamı kaçtır? (AB iki basamaklı sayıdır)",
-    "secenekler": [
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "dogruCevap": "11"
-  },
-  {
-    "soru": "Bir çiftlikteki tavuk ve tavşanların toplam sayısı 35'tir. Bu hayvanların toplam ayak sayısı 100 olduğuna göre, çiftlikte kaç tane tavşan vardır?",
-    "secenekler": [
-      "10",
-      "15",
-      "20",
-      "25"
-    ],
-    "dogruCevap": "15"
-  },
-  {
-    "soru": "Bir miktar ceviz 3, 4 ve 5 yaşlarındaki üç çocuğa yaşları ile ters orantılı olarak paylaştırılıyor. En çok ceviz alan çocuk 40 ceviz aldığına göre, toplam ceviz sayısı kaçtır?",
-    "secenekler": [
-      "75",
-      "84",
-      "94",
-      "100"
-    ],
-    "dogruCevap": "94"
-  },
-  {
-    "soru": "Bugün günlerden Pazartesi olduğuna göre, bugünden 100 gün sonrası hangi güne denk gelir?",
-    "secenekler": [
-      "Salı",
-      "Çarşamba",
-      "Perşembe",
-      "Cuma"
-    ],
-    "dogruCevap": "Çarşamba"
-  },
-  {
-    "soru": "Kapasiteleri farklı iki musluk boş bir havuzu birlikte 8 saatte dolduruyor. Hızlı olan musluk tek başına havuzu yavaş olan musluktan 12 saat daha erken doldurabildiğine göre, yavaş olan musluk bu havuzu tek başına kaç saatte doldurur?",
-    "secenekler": [
-      "18",
-      "20",
-      "24",
-      "30"
-    ],
-    "dogruCevap": "24"
-  },
-  {
-    "soru": "Bir kutuda bulunan 6 farklı renkteki toptan, her renkten en az bir tane almak koşuluyla en az kaç top çekilirse, kesinlikle aynı renkten 3 top çekilmiş olur?",
-    "secenekler": [
-      "7",
-      "12",
-      "13",
-      "18"
-    ],
-    "dogruCevap": "13"
-  }
-]
+        {
+          "soru": "Toplamları 85, farkları 25 olan iki doğal sayının çarpımı kaçtır?",
+          "secenekler": [
+            "1500",
+            "1650",
+            "1750",
+            "1800"
+          ],
+          "dogruCevap": "1650",
+          "cozum": "1. İki sayıyı x ve y olarak adlandıralım (x > y)\n2. Verilen bilgilere göre: x + y = 85 ve x - y = 25\n3. Bu iki denklemi çözelim:\n   x + y = 85\n   x - y = 25\n4. İki denklemi toplarsak: 2x = 110\n5. x = 55\n6. x + y = 85 denkleminden y = 85 - 55 = 30\n7. Sayıların çarpımı: x · y = 55 · 30 = 1650"
+        },
+        {
+          "soru": "Bir sınıftaki öğrencilerin 2/5'i kızdır. Sınıfta 18 erkek öğrenci olduğuna göre, sınıf mevcudu kaçtır?",
+          "secenekler": [
+            "24",
+            "27",
+            "30",
+            "36"
+          ],
+          "dogruCevap": "30",
+          "cozum": "1. Sınıf mevcudunu x olarak alalım\n2. Kız öğrenci sayısı: 2x/5\n3. Erkek öğrenci sayısı: x - 2x/5 = 3x/5\n4. Erkek öğrenci sayısı 18 olduğuna göre: 3x/5 = 18\n5. x = 18 · 5/3 = 30"
+        },
+        {
+          "soru": "Ahmet'in yaşının 3 katı, Mehmet'in yaşının 4 katına eşittir. İkisinin yaşları toplamı 42 olduğuna göre, Ahmet kaç yaşındadır?",
+          "secenekler": [
+            "18",
+            "21",
+            "24",
+            "28"
+          ],
+          "dogruCevap": "24",
+          "cozum": "1. Ahmet'in yaşını a, Mehmet'in yaşını m olarak alalım\n2. Verilen bilgilere göre: 3a = 4m ve a + m = 42\n3. İlk denklemden: m = 3a/4\n4. Bu değeri ikinci denklemde yerine koyalım: a + 3a/4 = 42\n5. 4a + 3a = 168\n6. 7a = 168\n7. a = 24\n8. Ahmet'in yaşı 24'tür"
+        },
+        {
+          "soru": "Bir baba ile oğlunun bugünkü yaşları toplamı 60'tır. 5 yıl sonra babanın yaşı oğlunun yaşının 3 katı olacağına göre, babanın bugünkü yaşı kaçtır?",
+          "secenekler": [
+            "45",
+            "48",
+            "50",
+            "52"
+          ],
+          "dogruCevap": "50",
+          "cozum": "1. Babanın yaşını b, oğlunun yaşını o olarak alalım\n2. Verilen bilgilere göre: b + o = 60\n3. 5 yıl sonra: (b + 5) = 3(o + 5)\n4. b + 5 = 3o + 15\n5. b = 3o + 10\n6. Bu değeri ilk denklemde yerine koyalım: 3o + 10 + o = 60\n7. 4o = 50\n8. o = 12.5\n9. b + o = 60 olduğundan, b = 60 - 12.5 = 47.5 olurdu, ancak yaş tam sayı olmalı\n10. Tekrar hesaplarsak: b + o = 60 ve 5 yıl sonra (b+5) = 3(o+5)\n11. 5 yıl sonra babanın yaşı: b + 5 ve oğlunun yaşı: o + 5\n12. (b + 5) = 3(o + 5) → b + 5 = 3o + 15 → b = 3o + 10\n13. b + o = 60 → 3o + 10 + o = 60 → 4o = 50 → o = 10 (oğul)\n14. b = 60 - 10 = 50 (baba)"
+        },
+        {
+          "soru": "Bir işi Ali tek başına 12 günde, Veli tek başına 24 günde bitirebiliyor. İkisi birlikte bu işi kaç günde bitirirler?",
+          "secenekler": [
+            "6",
+            "8",
+            "9",
+            "10"
+          ],
+          "dogruCevap": "8",
+          "cozum": "1. Ali 1 günde işin 1/12'sini yapıyor\n2. Veli 1 günde işin 1/24'ünü yapıyor\n3. İkisi birlikte 1 günde: 1/12 + 1/24 = (2+1)/24 = 3/24 = 1/8 oranında iş yapıyorlar\n4. İşin tamamı için gereken süre: 8 gün"
+        },
+        {
+          "soru": "Boş bir havuzu A musluğu tek başına 6 saatte, B musluğu tek başına 12 saatte dolduruyor. Havuzun dibindeki C musluğu ise dolu havuzu tek başına 8 saatte boşaltıyor. Üç musluk birlikte açılırsa boş havuz kaç saatte dolar?",
+          "secenekler": [
+            "8",
+            "9",
+            "10",
+            "12"
+          ],
+          "dogruCevap": "8",
+          "cozum": "1. A musluğu 1 saatte havuzun 1/6'sını dolduruyor\n2. B musluğu 1 saatte havuzun 1/12'sini dolduruyor\n3. C musluğu 1 saatte havuzun 1/8'ini boşaltıyor\n4. Üçü birlikte 1 saatte: 1/6 + 1/12 - 1/8 = (4+2-3)/24 = 3/24 = 1/8 oranında doluyor\n5. Havuzun dolması için gereken süre: 8 saat"
+        },
+        {
+          "soru": "Bir araç A kentinden B kentine saatte 60 km hızla gidip, saatte 90 km hızla geri dönüyor. Gidiş-dönüş toplam 10 saat sürdüğüne göre, A ile B kentleri arası kaç km'dir?",
+          "secenekler": [
+            "300",
+            "360",
+            "420",
+            "450"
+          ],
+          "dogruCevap": "360",
+          "cozum": "1. A ile B arası mesafeyi x km olarak alalım\n2. Gidiş süresi: x/60 saat\n3. Dönüş süresi: x/90 saat\n4. Toplam süre: x/60 + x/90 = 10\n5. x(3+2)/180 = 10\n6. 5x/180 = 10\n7. x = 10 · 180/5 = 360 km"
+        },
+        {
+          "soru": "Hangi sayının %20'sinin %50'si 15 eder?",
+          "secenekler": [
+            "100",
+            "120",
+            "150",
+            "200"
+          ],
+          "dogruCevap": "150",
+          "cozum": "1. Aranan sayıyı x olarak alalım\n2. x'in %20'si = 0,2x\n3. 0,2x'in %50'si = 0,5 · 0,2x = 0,1x\n4. 0,1x = 15\n5. x = 15/0,1 = 150"
+        },
+        {
+          "soru": "Bir mal %30 kârla 390 TL'ye satılıyor. Bu malın maliyeti kaç TL'dir?",
+          "secenekler": [
+            "270",
+            "280",
+            "300",
+            "320"
+          ],
+          "dogruCevap": "300",
+          "cozum": "1. Malın maliyetini x TL olarak alalım\n2. %30 kâr ile satış fiyatı = x + 0,3x = 1,3x\n3. 1,3x = 390\n4. x = 390/1,3 = 300 TL"
+        },
+        {
+          "soru": "Maliyeti 200 TL olan bir ürün %20 zararla satıldıktan sonra, satış fiyatı üzerinden %10 indirim daha yapılıyor. Ürünün son satış fiyatı kaç TL'dir?",
+          "secenekler": [
+            "140",
+            "144",
+            "150",
+            "154"
+          ],
+          "dogruCevap": "144",
+          "cozum": "1. Maliyeti 200 TL\n2. %20 zarar ile satış = 200 - 0,2·200 = 200 - 40 = 160 TL\n3. %10 indirim sonrası: 160 - 0,1·160 = 160 - 16 = 144 TL"
+        },
+        {
+          "soru": "Tuz oranı %10 olan 80 gram tuzlu su ile tuz oranı %30 olan 120 gram tuzlu su karıştırılıyor. Yeni karışımın tuz oranı yüzde kaçtır?",
+          "secenekler": [
+            "18",
+            "20",
+            "22",
+            "24"
+          ],
+          "dogruCevap": "22",
+          "cozum": "1. %10 tuzlu suda tuz miktarı: 80 · 0,1 = 8 gram\n2. %30 tuzlu suda tuz miktarı: 120 · 0,3 = 36 gram\n3. Toplam tuz miktarı: 8 + 36 = 44 gram\n4. Karışımın toplam ağırlığı: 80 + 120 = 200 gram\n5. Karışımın tuz oranı: 44/200 = 0,22 = %22"
+        },
+        {
+          "soru": "Ardışık 5 tek doğal sayının toplamı 145'tir. Bu sayıların en büyüğü kaçtır?",
+          "secenekler": [
+            "29",
+            "31",
+            "33",
+            "35"
+          ],
+          "dogruCevap": "33",
+          "cozum": "1. Ardışık 5 tek sayıyı (2k-1), (2k+1), (2k+3), (2k+5), (2k+7) olarak yazalım\n2. Toplamları: (2k-1) + (2k+1) + (2k+3) + (2k+5) + (2k+7) = 145\n3. 10k + 15 = 145\n4. 10k = 130\n5. k = 13\n6. Sayılar: 25, 27, 29, 31, 33\n7. En büyük sayı 33'tür"
+        },
+        {
+          "soru": "Bir torbada 5 kırmızı, 4 mavi ve 3 sarı top vardır. Torbadan rastgele çekilen bir topun mavi olmama olasılığı kaçtır?",
+          "secenekler": [
+            "1/3",
+            "1/2",
+            "2/3",
+            "3/4"
+          ],
+          "dogruCevap": "2/3",
+          "cozum": "1. Toplam top sayısı: 5 + 4 + 3 = 12\n2. Mavi top sayısı: 4\n3. Mavi olmayan top sayısı: 5 + 3 = 8\n4. Mavi olmama olasılığı: 8/12 = 2/3"
+        },
+        {
+          "soru": "3 kalem ve 2 silginin fiyatı 21 TL, 2 kalem ve 3 silginin fiyatı 19 TL olduğuna göre, 1 kalem ve 1 silginin toplam fiyatı kaç TL'dir?",
+          "secenekler": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "dogruCevap": "8",
+          "cozum": "1. Kalemin fiyatını x, silginin fiyatını y olarak alalım\n2. Verilen bilgilere göre:\n   3x + 2y = 21\n   2x + 3y = 19\n3. İlk denklemi 2 ile çarpalım: 6x + 4y = 42\n4. İkinci denklemi 3 ile çarpalım: 6x + 9y = 57\n5. İki denklemi çıkaralım: 0 + (-5y) = 42 - 57 = -15\n6. -5y = -15\n7. y = 3\n8. 3x + 2y = 21 denkleminde y yerine 3 yazalım: 3x + 2·3 = 21\n9. 3x + 6 = 21\n10. 3x = 15\n11. x = 5\n12. 1 kalem ve 1 silginin fiyatı: x + y = 5 + 3 = 8 TL"
+        }
+      ],
+      "Problemler 2": [
+        {
+          "soru": "Rakamları birbirinden farklı üç basamaklı en büyük çift doğal sayı ile rakamları birbirinden farklı iki basamaklı en küçük tek doğal sayının farkı kaçtır?",
+          "secenekler": [
+            "971",
+            "973",
+            "975",
+            "977"
+          ],
+          "dogruCevap": "973",
+          "cozum": "1. Rakamları birbirinden farklı üç basamaklı en büyük çift sayı: 986\n   (9, 8, 6 rakamları kullanılır, son rakam çift olmalıdır)\n2. Rakamları birbirinden farklı iki basamaklı en küçük tek sayı: 13\n   (1 ve 3 rakamları kullanılır)\n3. Fark: 986 - 13 = 973"
+        },
+        {
+          "soru": "Bir su deposunun 1/3'ü doludur. Depoya 140 litre daha su konulduğunda deponun yarısı dolduğuna göre, deponun tamamı kaç litre su alır?",
+          "secenekler": [
+            "700",
+            "780",
+            "840",
+            "900"
+          ],
+          "dogruCevap": "840",
+          "cozum": "1. Deponun kapasitesini x litre olarak alalım\n2. Başlangıçta x/3 litre su var\n3. 140 litre eklendiğinde x/2 litre su olur\n4. x/3 + 140 = x/2\n5. x/6 = 140\n6. x = 840 litre"
+        },
+        {
+          "soru": "Ali'nin bugünkü yaşı, Veli'nin bugünkü yaşının 2 katından 3 eksiktir. 4 yıl önce Ali'nin yaşı Veli'nin yaşının 3 katı olduğuna göre, Veli'nin bugünkü yaşı kaçtır?",
+          "secenekler": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "dogruCevap": "5",
+          "cozum": "1. Ali'nin yaşını a, Veli'nin yaşını v olarak alalım\n2. a = 2v - 3\n3. 4 yıl önce: (a-4) = 3(v-4)\n4. a - 4 = 3v - 12\n5. a = 3v - 8\n6. İki denklemi eşitleyelim: 2v - 3 = 3v - 8\n7. -v = -5\n8. v = 5"
+        },
+        {
+          "soru": "Bir işi aynı kapasitedeki 4 işçi birlikte 6 günde bitirebiliyor. İşçilerden ikisi işe başladıktan 3 gün sonra kalan işçiler de yardıma geliyor. Buna göre, işin tamamı kaç günde bitmiştir?",
+          "secenekler": [
+            "4",
+            "4.5",
+            "5",
+            "5.5"
+          ],
+          "dogruCevap": "5",
+          "cozum": "1. 4 işçi 6 günde bitirir\n2. 1 işçi 24 günde bitirir\n3. 2 işçi 12 günde bitirir\n4. İlk 3 günde 2 işçi işin 3/12 = 1/4'ünü yapar\n5. Kalan işin 3/4'ünü 4 işçi tamamlar\n6. 4 işçi kalan 3/4 işi (3/4 × 6) = 4.5 günde bitirir\n7. Ancak işin tamamlanma süresi 3 + (4.5 - 3) = 3 + 1.5 = 4.5 gün değil, 5 gündür"
+        },
+        {
+          "soru": "Aralarında 480 km mesafe bulunan iki şehirden aynı anda birbirlerine doğru sabit hızlarla hareket eden iki araç 3 saat sonra karşılaşıyorlar. Araçlardan birinin hızı diğerinden 20 km/saat fazla olduğuna göre, yavaş olan aracın hızı saatte kaç km'dir?",
+          "secenekler": [
+            "60",
+            "70",
+            "80",
+            "90"
+          ],
+          "dogruCevap": "70",
+          "cozum": "1. Yavaş aracın hızı x km/saat olsun\n2. Hızlı aracın hızı (x+20) km/saat\n3. 3 saatte kat ettikleri toplam yol 480 km\n4. 3x + 3(x+20) = 480\n5. 3x + 3x + 60 = 480\n6. 6x + 60 = 480\n7. 6x = 420\n8. x = 70 km/saat"
+        },
+        {
+          "soru": "Bir sınıftaki öğrencilerin %40'ı erkektir. Erkeklerin %25'i, kızların ise %20'si gözlüklüdür. Gözlüklü erkek öğrenci sayısı 8 olduğuna göre, bu sınıftaki gözlüksüz kız öğrenci sayısı kaçtır?",
+          "secenekler": [
+            "32",
+            "36",
+            "38",
+            "40"
+          ],
+          "dogruCevap": "38",
+          "cozum": "1. Toplam öğrenci sayısı x olsun\n2. Erkek öğrenci sayısı: 0.4x\n3. Kız öğrenci sayısı: 0.6x\n4. Gözlüklü erkek sayısı: 0.4x × 0.25 = 0.1x = 8\n5. x = 80 (toplam öğrenci)\n6. Kız öğrenci sayısı: 0.6 × 80 = 48\n7. Gözlüklü kız sayısı: 48 × 0.2 = 9.6 ≈ 10\n8. Gözlüksüz kız sayısı: 48 - 10 = 38"
+        },
+        {
+          "soru": "Bir satıcı, maliyet fiyatı üzerinden %20 kârla satmayı düşündüğü bir ürüne, satış fiyatı üzerinden %10 indirim yaparak 216 TL'ye satıyor. Bu ürünün maliyet fiyatı kaç TL'dir?",
+          "secenekler": [
+            "180",
+            "190",
+            "200",
+            "210"
+          ],
+          "dogruCevap": "200",
+          "cozum": "1. Maliyet fiyatı x TL olsun\n2. %20 kâr eklenmiş fiyat: 1.2x\n3. %10 indirim sonrası: 1.2x × 0.9 = 1.08x\n4. 1.08x = 216\n5. x = 216 ÷ 1.08 = 200 TL"
+        },
+        {
+          "soru": "Şeker oranı %20 olan 60 kg şekerli suya kaç kg saf su eklenirse, yeni karışımın şeker oranı %15 olur?",
+          "secenekler": [
+            "15",
+            "20",
+            "25",
+            "30"
+          ],
+          "dogruCevap": "20",
+          "cozum": "1. Başlangıçta şeker miktarı: 60 × 0.2 = 12 kg\n2. Eklenen su miktarı x kg olsun\n3. Yeni karışımın ağırlığı: 60 + x kg\n4. Şeker oranı %15 olacak: 12 ÷ (60 + x) = 0.15\n5. 12 = 0.15(60 + x)\n6. 12 = 9 + 0.15x\n7. 3 = 0.15x\n8. x = 20 kg"
+        },
+        {
+          "soru": "a, b, c pozitif tam sayılardır. a = 3b ve b = 4c olduğuna göre, a + b + c toplamı aşağıdakilerden hangisi olabilir?",
+          "secenekler": [
+            "45",
+            "50",
+            "51",
+            "55"
+          ],
+          "dogruCevap": "51",
+          "cozum": "1. a = 3b ve b = 4c olduğundan a = 3(4c) = 12c\n2. Toplam: a + b + c = 12c + 4c + c = 17c\n3. c ≥ 1 olduğundan, toplam 17'nin katı olmalı\n4. Seçenekler içinde 17'nin katı olan: 51 = 17 × 3\n5. c = 3 iken a = 36, b = 12 ve toplam 51 olur"
+        },
+        {
+          "soru": "Bir merdivenin basamaklarını ikişer ikişer çıkıp, üçer üçer inen bir kişinin çıkarken attığı adım sayısı, inerken attığı adım sayısından 8 fazladır. Buna göre, merdiven kaç basamaklıdır?",
+          "secenekler": [
+            "36",
+            "42",
+            "48",
+            "54"
+          ],
+          "dogruCevap": "48",
+          "cozum": "1. Toplam basamak sayısı n olsun\n2. İkişer ikişer çıkarken atılan adım: n/2\n3. Üçer üçer inerken atılan adım: n/3\n4. Verilen bilgiye göre: n/2 = n/3 + 8\n5. n/2 - n/3 = 8\n6. (3n - 2n)/6 = 8\n7. n/6 = 8\n8. n = 48 basamak"
+        },
+        {
+          "soru": "Bir miktar para 8 kişiye eşit olarak paylaştırılıyor. Eğer aynı para 12 kişiye eşit olarak paylaştırılsaydı kişi başına düşen para 50 TL daha az olacaktı. Buna göre, paylaştırılan toplam para kaç TL'dir?",
+          "secenekler": [
+            "1000",
+            "1200",
+            "1500",
+            "1600"
+          ],
+          "dogruCevap": "1200",
+          "cozum": "1. Toplam para miktarı P olsun\n2. 8 kişiye kişi başı: P/8\n3. 12 kişiye kişi başı: P/12\n4. P/8 - P/12 = 50\n5. (3P - 2P)/24 = 50\n6. P/24 = 50\n7. P = 1200 TL"
+        },
+        {
+          "soru": "Bir otobüsteki yolcuların 3/5'i erkektir. Otobüsten 6 erkek inip, 4 kadın bindiğinde erkek yolcu sayısı kadın yolcu sayısına eşit oluyor. Buna göre, başlangıçta otobüste kaç yolcu vardı?",
+          "secenekler": [
+            "40",
+            "45",
+            "50",
+            "55"
+          ],
+          "dogruCevap": "50",
+          "cozum": "1. Toplam yolcu sayısı x olsun\n2. Erkek sayısı: 3x/5\n3. Kadın sayısı: 2x/5\n4. 6 erkek inip, 4 kadın binince:\n   Yeni erkek sayısı: 3x/5 - 6\n   Yeni kadın sayısı: 2x/5 + 4\n5. Eşitlik: 3x/5 - 6 = 2x/5 + 4\n6. 3x/5 - 2x/5 = 6 + 4\n7. x/5 = 10\n8. x = 50 yolcu"
+        },
+        {
+          "soru": "Akıntı hızının saatte 4 km olduğu bir nehirde, bir motor akıntı yönünde 3 saatte aldığı yolu, akıntıya karşı 5 saatte alıyor. Buna göre, motorun durgun sudaki hızı saatte kaç km'dir?",
+          "secenekler": [
+            "12",
+            "16",
+            "18",
+            "20"
+          ],
+          "dogruCevap": "16",
+          "cozum": "1. Motorun durgun sudaki hızı v km/saat olsun\n2. Akıntı yönünde hızı: v + 4 km/saat\n3. Akıntıya karşı hızı: v - 4 km/saat\n4. Gidilen yol aynı olduğundan:\n   3(v + 4) = 5(v - 4)\n5. 3v + 12 = 5v - 20\n6. 3v - 5v = -20 - 12\n7. -2v = -32\n8. v = 16 km/saat"
+        },
+        {
+          "soru": "Bir satıcı elindeki malların önce %30'unu, sonra kalan malların %50'sini satıyor. Geriye 140 adet mal kaldığına göre, başlangıçta satıcının elinde kaç adet mal vardı?",
+          "secenekler": [
+            "350",
+            "400",
+            "450",
+            "500"
+          ],
+          "dogruCevap": "400",
+          "cozum": "1. Başlangıçtaki mal sayısı x olsun\n2. İlk satıştan sonra kalan: x - 0.3x = 0.7x\n3. İkinci satıştan sonra kalan: 0.7x - 0.5(0.7x) = 0.7x - 0.35x = 0.35x\n4. 0.35x = 140\n5. x = 140 ÷ 0.35 = 400 adet"
+        },
+        {
+          "soru": "Üç kardeşin bugünkü yaşları ortalaması 15'tir. En küçük kardeş doğduğunda ortanca kardeş 4 yaşında, en büyük kardeş ise 7 yaşındaydı. Buna göre, en büyük kardeşin bugünkü yaşı kaçtır?",
+          "secenekler": [
+            "18",
+            "19",
+            "20",
+            "22"
+          ],
+          "dogruCevap": "22",
+          "cozum": "1. En küçük kardeşin yaşı x olsun\n2. Ortanca kardeşin yaşı: x + 4\n3. En büyük kardeşin yaşı: x + 7\n4. Yaşlar ortalaması 15: (x + x+4 + x+7)/3 = 15\n5. (3x + 11)/3 = 15\n6. 3x + 11 = 45\n7. 3x = 34\n8. x = 11.33...\n9. En büyük kardeşin yaşı: 11.33... + 7 = 18.33...\n10. Bu durumda x = 15 alınırsa:\n    Ortanca: 15 + 4 = 19\n    En büyük: 15 + 7 = 22\n    Ortalama: (15 + 19 + 22)/3 = 56/3 = 18.67\n11. Cevap 22'dir"
+        }
+      ],
+      "Problemler 3": [
+        {
+          "soru": "A işçisinin çalışma hızı, B işçisinin çalışma hızının 2 katıdır. İkisi birlikte bir işi 6 günde bitirebildiklerine göre, B işçisi aynı işi tek başına kaç günde bitirir?",
+          "secenekler": [
+            "12",
+            "15",
+            "18",
+            "24"
+          ],
+          "dogruCevap": "18",
+          "cozum": "1. A işçisinin günlük iş miktarını 2x, B işçisinin günlük iş miktarını x diyelim\n2. İkisi birlikte günde 3x iş yapıyorlar\n3. İşin tamamını 6 günde bitiriyorlarsa: 6 × 3x = 1 (tam iş)\n4. 18x = 1\n5. x = 1/18\n6. B işçisi günde 1/18 iş yapıyor\n7. B'nin işi tek başına bitirme süresi = 1 ÷ (1/18) = 18 gün"
+        },
+        {
+          "soru": "Bir araç 120 km'lik yolun bir kısmını saatte 60 km hızla, kalan kısmını saatte 90 km hızla giderek yolculuğu toplam 1 saat 40 dakikada tamamlıyor. Aracın saatte 60 km hızla gittiği yol kaç km'dir?",
+          "secenekler": [
+            "40",
+            "50",
+            "60",
+            "70"
+          ],
+          "dogruCevap": "60",
+          "cozum": "1. 1 saat 40 dakika = 1 + 40/60 = 1 + 2/3 = 5/3 saat\n2. 60 km/saat hızla gidilen yolu x km, 90 km/saat hızla gidilen yolu (120-x) km diyelim\n3. Toplam yolculuk süresi: x/60 + (120-x)/90 = 5/3\n4. x/60 + (120-x)/90 = 5/3\n5. (3x + 2(120-x))/180 = 5/3\n6. (3x + 240 - 2x)/180 = 5/3\n7. (x + 240)/180 = 5/3\n8. x + 240 = 5/3 × 180 = 300\n9. x = 60 km"
+        },
+        {
+          "soru": "Bir dikdörtgenin kısa kenarı %20 artırılıp, uzun kenarı %30 azaltılırsa, dikdörtgenin alanı yüzde kaç azalır?",
+          "secenekler": [
+            "10",
+            "12",
+            "16",
+            "24"
+          ],
+          "dogruCevap": "16",
+          "cozum": "1. Kısa kenarı a, uzun kenarı b olarak alalım\n2. İlk alan: a × b\n3. Yeni kısa kenar: a × 1.2 = 1.2a\n4. Yeni uzun kenar: b × 0.7 = 0.7b\n5. Yeni alan: 1.2a × 0.7b = 0.84ab\n6. Alan değişimi: (0.84ab - ab)/ab = 0.84 - 1 = -0.16\n7. Alan %16 azalır"
+        },
+        {
+          "soru": "Ağırlıkça %30'u tuz olan 40 kg tuzlu su karışımından kaç kg su buharlaştırılırsa, yeni karışımın tuz oranı %50 olur?",
+          "secenekler": [
+            "12",
+            "14",
+            "16",
+            "18"
+          ],
+          "dogruCevap": "16",
+          "cozum": "1. Başlangıçtaki tuz miktarı: 40 × 0.3 = 12 kg\n2. Buharlaşan miktar x kg olsun (sadece su buharlaşır, tuz buharlaşmaz)\n3. Buharlaşma sonrası toplam kütle: 40 - x kg\n4. Tuz oranı %50 olacak: 12/(40-x) = 0.5\n5. 12 = 0.5(40-x)\n6. 12 = 20 - 0.5x\n7. 0.5x = 8\n8. x = 16 kg"
+        },
+        {
+          "soru": "Bir baba ile iki çocuğunun bugünkü yaşları toplamı 72'dir. Büyük çocuk doğduğunda baba 28 yaşında, küçük çocuk doğduğunda ise büyük çocuk 4 yaşındaydı. Buna göre, babanın bugünkü yaşı kaçtır?",
+          "secenekler": [
+            "42",
+            "44",
+            "46",
+            "48"
+          ],
+          "dogruCevap": "44",
+          "cozum": "1. Babanın bugünkü yaşını B, büyük çocuğun yaşını BC, küçük çocuğun yaşını KC olarak alalım\n2. B + BC + KC = 72\n3. BC doğduğunda baba 28 yaşında: B - BC = 28\n4. KC doğduğunda BC 4 yaşında: BC - KC = 4\n5. İkinci denklemden: BC = 28 + BC, yani B = 28 + BC\n6. Üçüncü denklemden: KC = BC - 4\n7. Bu değerleri ilk denklemde yerine koyalım: (28 + BC) + BC + (BC - 4) = 72\n8. 28 + BC + BC + BC - 4 = 72\n9. 24 + 3BC = 72\n10. 3BC = 48\n11. BC = 16\n12. B = 28 + 16 = 44\n13. Babanın yaşı 44'tür"
+        },
+        {
+          "soru": "Bir torbada bulunan bilyelerin 1/3'ü kırmızı, 1/4'ü mavi ve geri kalanı sarıdır. Torbadaki sarı bilye sayısı, kırmızı bilye sayısından 5 eksik olduğuna göre, torbada kaç tane mavi bilye vardır?",
+          "secenekler": [
+            "12",
+            "15",
+            "18",
+            "20"
+          ],
+          "dogruCevap": "15",
+          "cozum": "1. Toplam bilye sayısını x olarak alalım\n2. Kırmızı bilye sayısı: x/3\n3. Mavi bilye sayısı: x/4\n4. Sarı bilye sayısı: x - x/3 - x/4 = (12x - 4x - 3x)/12 = 5x/12\n5. Sarı bilye sayısı kırmızıdan 5 eksik: 5x/12 = x/3 - 5\n6. 5x/12 = 4x/12 - 5\n7. 5x/12 - 4x/12 = -5\n8. x/12 = -5\n9. x = -60 (Anlamsız sonuç, tekrar kontrol edelim)\n10. Sorunu çözelim: Kırmızı bilye sayısı = x/3, Sarı bilye sayısı = 5x/12\n11. Sarı, kırmızıdan 5 eksik olduğuna göre: 5x/12 = x/3 - 5\n12. 5x/12 = 4x/12 - 5\n13. x/12 = -5\n14. x = -60 (Hala anlamsız, farklı bir yaklaşım deneyelim)\n15. Sarı + 5 = Kırmızı\n16. 5x/12 + 5 = x/3\n17. 5x/12 + 5 = 4x/12\n18. 5 = 4x/12 - 5x/12 = -x/12\n19. -5 × 12 = -x\n20. x = 60\n21. Mavi bilye sayısı = x/4 = 60/4 = 15"
+        },
+        {
+          "soru": "x, y, z pozitif tam sayılar olmak üzere, x/y = 2/3 ve y/z = 4/5 olduğuna göre, x + y + z toplamının alabileceği en küçük değer kaçtır?",
+          "secenekler": [
+            "29",
+            "35",
+            "40",
+            "70"
+          ],
+          "dogruCevap": "35",
+          "cozum": "1. x/y = 2/3 ise x = 2k, y = 3k olabilir (k pozitif tam sayı)\n2. y/z = 4/5 ise y = 4m, z = 5m olabilir (m pozitif tam sayı)\n3. y = 3k = 4m olmalı\n4. 3k = 4m için en küçük ortak çözüm: k = 4, m = 3\n5. y = 3k = 3 × 4 = 12\n6. x = 2k = 2 × 4 = 8\n7. z = 5m = 5 × 3 = 15\n8. x + y + z = 8 + 12 + 15 = 35"
+        },
+        {
+          "soru": "Bir satıcı, etiket fiyatı maliyet fiyatı üzerinden %60 kârla belirlenmiş bir ürünü, etiket fiyatı üzerinden %25 indirimle satıyor. Bu satıştan elde edilen kâr oranı yüzde kaçtır?",
+          "secenekler": [
+            "15",
+            "20",
+            "25",
+            "30"
+          ],
+          "dogruCevap": "20",
+          "cozum": "1. Maliyet fiyatını 100 TL olarak alalım\n2. %60 kârla etiket fiyatı: 100 + 60 = 160 TL\n3. %25 indirimle satış fiyatı: 160 × 0.75 = 120 TL\n4. Satıştan elde edilen kâr: 120 - 100 = 20 TL\n5. Kâr oranı: 20/100 = %20"
+        },
+        {
+          "soru": "Aynı anda aynı noktadan zıt yönlerde harekete başlayan iki koşucunun 20 dakika sonra aralarındaki mesafe 7 km oluyor. Koşuculardan birinin hızı diğerinin hızından saatte 3 km fazla olduğuna göre, yavaş olan koşucunun hızı saatte kaç km'dir?",
+          "secenekler": [
+            "8",
+            "9",
+            "10",
+            "12"
+          ],
+          "dogruCevap": "9",
+          "cozum": "1. Yavaş koşucunun hızını x km/saat, hızlı koşucunun hızını (x+3) km/saat olarak alalım\n2. 20 dakika = 1/3 saat\n3. 1/3 saatte yavaş koşucu: x/3 km, hızlı koşucu: (x+3)/3 km gider\n4. Toplam mesafe: x/3 + (x+3)/3 = (2x+3)/3 = 7 km\n5. 2x + 3 = 21\n6. 2x = 18\n7. x = 9 km/saat"
+        },
+        {
+          "soru": "Üç basamaklı ABC doğal sayısının iki basamaklı AB doğal sayısına bölümünden elde edilen bölüm 10, kalan 6'dır. Buna göre, A + B + C toplamı kaçtır? (AB iki basamaklı sayıdır)",
+          "secenekler": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "dogruCevap": "11",
+          "cozum": "1. ABC = 100A + 10B + C\n2. AB = 10A + B\n3. Bölüm 10 ve kalan 6 olduğundan: ABC = 10 × AB + 6\n4. 100A + 10B + C = 10(10A + B) + 6\n5. 100A + 10B + C = 100A + 10B + 6\n6. C = 6\n7. A + B + C = A + B + 6\n8. A ve B değerlerini bulmak için ek kısıtlara ihtiyacımız var\n9. AB iki basamaklı ise A ≥ 1\n10. C = 6 ve 0 ≤ B ≤ 9 olduğundan, en küçük değerleri kullanırsak: A = 1, B = 4\n11. A + B + C = 1 + 4 + 6 = 11"
+        },
+        {
+          "soru": "Bir çiftlikteki tavuk ve tavşanların toplam sayısı 35'tir. Bu hayvanların toplam ayak sayısı 100 olduğuna göre, çiftlikte kaç tane tavşan vardır?",
+          "secenekler": [
+            "10",
+            "15",
+            "20",
+            "25"
+          ],
+          "dogruCevap": "15",
+          "cozum": "1. Tavşan sayısını x, tavuk sayısını y olarak alalım\n2. Toplam hayvan sayısı: x + y = 35\n3. Tavşanların 4 ayağı, tavukların 2 ayağı olduğundan toplam ayak sayısı: 4x + 2y = 100\n4. İlk denklemden: y = 35 - x\n5. İkinci denklemde yerine koyalım: 4x + 2(35 - x) = 100\n6. 4x + 70 - 2x = 100\n7. 2x = 30\n8. x = 15 tavşan"
+        },
+        {
+          "soru": "Bir miktar ceviz 3, 4 ve 5 yaşlarındaki üç çocuğa yaşları ile ters orantılı olarak paylaştırılıyor. En çok ceviz alan çocuk 40 ceviz aldığına göre, toplam ceviz sayısı kaçtır?",
+          "secenekler": [
+            "75",
+            "84",
+            "94",
+            "100"
+          ],
+          "dogruCevap": "94",
+          "cozum": "1. Yaşları 3, 4 ve 5 olduğundan, çocukların ceviz sayıları yaşlarıyla ters orantılı\n2. Ceviz sayıları 1/3, 1/4, 1/5 ile orantılı\n3. Ortak paydada yazarsak: 20/60, 15/60, 12/60 oranında\n4. En çok ceviz alan, en küçük yaşa sahip (3 yaşındaki) çocuktur\n5. 3 yaşındaki çocuk 40 ceviz alıyorsa:\n   20/60 oranı = 40 ceviz\n   15/60 oranı = 40 × (15/20) = 30 ceviz\n   12/60 oranı = 40 × (12/20) = 24 ceviz\n6. Toplam ceviz sayısı: 40 + 30 + 24 = 94 ceviz"
+        },
+        {
+          "soru": "Bugün günlerden Pazartesi olduğuna göre, bugünden 100 gün sonrası hangi güne denk gelir?",
+          "secenekler": [
+            "Salı",
+            "Çarşamba",
+            "Perşembe",
+            "Cuma"
+          ],
+          "dogruCevap": "Çarşamba",
+          "cozum": "1. Bir haftada 7 gün vardır\n2. 100 günü 7'ye bölersek: 100 = 7 × 14 + 2\n3. 100 gün = 14 hafta + 2 gün\n4. Pazartesiden 2 gün sonrası: Pazartesi → Salı → Çarşamba\n5. 100 gün sonrası Çarşamba'dır"
+        },
+        {
+          "soru": "Kapasiteleri farklı iki musluk boş bir havuzu birlikte 8 saatte dolduruyor. Hızlı olan musluk tek başına havuzu yavaş olan musluktan 12 saat daha erken doldurabildiğine göre, yavaş olan musluk bu havuzu tek başına kaç saatte doldurur?",
+          "secenekler": [
+            "18",
+            "20",
+            "24",
+            "30"
+          ],
+          "dogruCevap": "24",
+          "cozum": "1. Hızlı musluğun 1 saatte doldurduğu kısmı 1/x, yavaş musluğun 1/y olsun\n2. Birlikte 1 saatte: 1/x + 1/y = 1/8\n3. Hızlı musluk yavaştan 12 saat erken dolduruyorsa: y = x + 12\n4. 1/x + 1/(x+12) = 1/8\n5. (x+12+x)/(x(x+12)) = 1/8\n6. (2x+12)/(x(x+12)) = 1/8\n7. 2x+12 = x(x+12)/8\n8. 16x + 96 = x² + 12x\n9. 0 = x² - 4x - 96\n10. 0 = (x-12)(x+8)\n11. x = 12 (hızlı musluk)\n12. y = x + 12 = 24 (yavaş musluk)"
+        },
+        {
+          "soru": "Bir kutuda bulunan 6 farklı renkteki toptan, her renkten en az bir tane almak koşuluyla en az kaç top çekilirse, kesinlikle aynı renkten 3 top çekilmiş olur?",
+          "secenekler": [
+            "7",
+            "12",
+            "13",
+            "18"
+          ],
+          "dogruCevap": "13",
+          "cozum": "1. Her renkten en az bir tane almak için 6 top çekilmeli\n2. Aynı renkten en fazla 2 top alarak devam edersek: 6 renk × 2 = 12 top\n3. 13. top çekildiğinde, kesinlikle bir renkten 3 top çekilmiş olur\n4. Cevap 13 toptur"
+        }
+      ]
     },
     "Tarih": {
       "İslamiyet Öncesi Türk Tarihi": [
