@@ -22843,6 +22843,1314 @@
       ]
     },
     "Coğrafya": {
+      "Deneme 1" : [
+  {
+    "soru_id": "Q001",
+    "soru": "Ülkemizin mutlak konumu ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "secenekler": [
+      "A) Ülkemiz topraklarından 6 paralel aralığı geçmektedir.",
+      "B) 26-45 doğu meridyenleri arasında yer almaktadır.",
+      "C) Ekvatorun ve Yengeç Dönencesinin kuzeyinde yer almaktadır.",
+      "D) Ülkemiz topraklarından 19 meridyen aralığı geçmektedir.",
+      "E) En doğusu ile en batısı arasında 56 dakikalık zaman farkı bulunmaktadır."
+    ],
+    "dogruCevap": "E) En doğusu ile en batısı arasında 56 dakikalık zaman farkı bulunmaktadır.",
+    "cozum": "Türkiye’nin en doğusu ile en batısı arasında 19 meridyen farkı vardır (45° - 26° = 19°). Her 1° meridyen 4 dakika zaman farkına karşılık gelir, bu nedenle 19° × 4 = 76 dakikalık zaman farkı oluşur. 56 dakikalık zaman farkı yanlış bir bilgidir."
+  },
+  {
+    "soru_id": "Q002",
+    "soru": "Akdeniz’de küçük bir alanda mısır üretilmesine rağmen üretim miktarı Karadeniz Bölgesi’nden çok daha fazladır. Bu durumun nedeni aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "A) Akdeniz ikliminin mısır üretimi için daha elverişli olması",
+      "B) Akdeniz ikliminde yağış rejiminin düzenli olması",
+      "C) Akdeniz bölgesinde yeryüzü şekillerinin daha sade olması",
+      "D) Akdeniz’de modern tarım yöntemlerinin kullanılması",
+      "E) Karadeniz Bölgesi’nde arazinin engebeli olması"
+    ],
+    "dogruCevap": "D) Akdeniz’de modern tarım yöntemlerinin kullanılması",
+    "cozum": "Akdeniz Bölgesi’nde modern tarım yöntemleri (sulama sistemleri, seracılık vb.) sayesinde mısır üretimi daha verimlidir. Karadeniz Bölgesi’nde engebeli arazi ve geleneksel tarım yöntemleri üretimi sınırlar."
+  },
+  {
+    "soru_id": "Q003",
+    "soru": "Ülkemizin uç noktaları ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "secenekler": [
+      "A) Ülkemizin en doğu ucu Doğu Anadolu Bölgesi’nde yer almaktadır.",
+      "B) Ülkemizin en kuzey ucu Karadeniz Bölgesi’nde yer almaktadır.",
+      "C) Ülkemizin en batı ucu Ege Bölgesi’nde yer almaktadır.",
+      "D) Ülkemizin en güney ucu Akdeniz Bölgesi’nde yer almaktadır.",
+      "E) Ülkemizin en doğusunda Iğdır Dilucu yer almaktadır."
+    ],
+    "dogruCevap": "C) Ülkemizin en batı ucu Ege Bölgesi’nde yer almaktadır.",
+    "cozum": "Ülkemizin en batı ucu Çanakkale’ye bağlı Gökçeada’daki İnceburun (Avlaka Burnu) olup Marmara Bölgesi’ndedir, Ege Bölgesi’nde değil. Diğer seçenekler doğrudur."
+  },
+  {
+    "soru_id": "Q004",
+    "soru": "Ülkemizde görülen bazı iklim olaylarından hangisinin görülmesinde ülkemizin matematik konumunun hiçbir etkisi yoktur?",
+    "secenekler": [
+      "A) Akdeniz iklim kuşağında yer almasında",
+      "B) Batı rüzgarlarının etkisinde olmasında",
+      "C) Cephesel yağışların görülmesinde",
+      "D) Kısa mesafelerde iklim değişimi yaşanmasında",
+      "E) Karadeniz kıyılarının Akdeniz kıyılarından fazla yağış almasında"
+    ],
+    "dogruCevap": "D) Kısa mesafelerde iklim değişimi yaşanmasında",
+    "cozum": "Kısa mesafelerde iklim değişimi, yeryüzü şekillerine (örneğin dağların kıyıya paralel uzanması) bağlıdır, matematik konuma değil. Diğer seçenekler matematik konumla ilişkilidir."
+  },
+  {
+    "soru_id": "Q005",
+    "soru": "Ege Bölgesi’nde zeytin üretim alanları iç kesimlere sokulabilmiştir. Bu durumun nedeni aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "A) Dağların kıyıya göre konumu",
+      "B) Verimli graben ovaların varlığı",
+      "C) Toprak yapısının zeytin tarımı için elverişli olması",
+      "D) Föhn rüzgarlarının etkili olması",
+      "E) Akdeniz ikliminin hüküm sürmesi"
+    ],
+    "dogruCevap": "A) Dağların kıyıya göre konumu",
+    "cozum": "Ege Bölgesi’nde dağlar kıyıya dik uzandığı için Akdeniz iklimi iç kesimlere kadar sokulur. Zeytin, Akdeniz iklimine özgü bir ürün olduğundan iç kesimlerde de yetişebilir."
+  },
+  {
+    "soru_id": "Q006",
+    "soru": "21 Mart ve 23 Eylül tarihlerinde ülkemiz güneş ışınlarını aynı açıyla almasına rağmen Eylül ayı ortalama sıcaklık değerleri Mart ayı değerlerinden daha fazladır. Bu durumun nedeni nedir?",
+    "secenekler": [
+      "A) Mart ayında nem oranının çok fazla olması",
+      "B) Eylül ayında bulutlu gün sayısının daha fazla olması",
+      "C) Eylül ayında güneş ışınlarının daha dik açıyla gelmesi",
+      "D) Eylül ayında güneş patlamalarının daha fazla olması",
+      "E) Eylül ayında ısı birikiminin daha fazla olması"
+    ],
+    "dogruCevap": "E) Eylül ayında ısı birikiminin daha fazla olması",
+    "cozum": "Eylül ayı, yaz aylarından sonra geldiği için yeryüzünde ısı birikimi fazladır. Mart ayı ise kış aylarından sonra gelir ve yeryüzü daha soğuktur. Bu nedenle Eylül daha sıcaktır."
+  },
+  {
+    "soru_id": "Q007",
+    "soru": "Aşağıdaki yeraltı kaynaklarından hangisi ülkemizin üçüncü jeolojik zamanda oluşmuş bir ülke olduğunu kanıtı olarak kullanılamaz?",
+    "secenekler": [
+      "A) Bor minerali",
+      "B) Taşkömürü",
+      "C) Linyit",
+      "D) Kaya tuzu",
+      "E) Petrol"
+    ],
+    "dogruCevap": "B) Taşkömürü",
+    "cozum": "Taşkömürü birinci jeolojik zamanda oluşmuştur. Linyit, petrol, bor ve kaya tuzu ise üçüncü jeolojik zamanda oluşmuş kaynaklardır."
+  },
+  {
+    "soru_id": "Q008",
+    "soru": "21 Haziran tarihinde Sinop ilimiz için verilen aşağıdaki bilgilerden hangisi yanlıştır?",
+    "secenekler": [
+      "A) En uzun gündüzün yaşandığı ildir",
+      "B) En kısa gecenin yaşandığı ildir",
+      "C) Gölge boylarının en uzun olduğu ildir",
+      "D) Gurup süresinin en uzun olduğu ildir",
+      "E) Çizgisel hızın en fazla olduğu ildir"
+    ],
+    "dogruCevap": "C) Gölge boylarının en uzun olduğu ildir",
+    "cozum": "21 Haziran’da Sinop, kuzeyde yer aldığı için en uzun gündüz ve en kısa geceyi yaşar, gurup süresi uzundur ve çizgisel hız yüksektir. Ancak gölge boyları en kısa olur, çünkü güneş ışınları daha dik gelir."
+  },
+  {
+    "soru_id": "Q009",
+    "soru": "Aşağıdaki Türkiye haritasında bazı alanlar işaretlenerek gösterilmiştir. Bu alanların ortak özelliği aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "A) Deprem riskinin az olduğu alanlardır.",
+      "B) Engebeli yapının fazla olduğu arazilerdir.",
+      "C) Dördüncü zamanda oluşmuş arazilerdir.",
+      "D) Linyit yataklarının bulunduğu alanlardır.",
+      "E) Birinci zamanda oluşmuş masif alanlardır."
+    ],
+    "dogruCevap": "B) Engebeli yapının fazla olduğu arazilerdir.",
+    "cozum": "Haritada işaretlenen alanlar, Türkiye’nin dağlık ve engebeli arazileridir. Bu alanlar genellikle yüksek platolar ve dağ sıraları içerir, diğer seçenekler bu alanların ortak özelliği değildir."
+  },
+  {
+    "soru_id": "Q010",
+    "soru": "Aşağıdakilerden hangisi ülkemizde çeşitli iklimlerin görülmesi üzerinde etkili olmamıştır?",
+    "secenekler": [
+      "A) Basınç merkezleri",
+      "B) Sıcaklık",
+      "C) Yeryüzü şekilleri",
+      "D) Denize göre konum",
+      "E) Matematik konum"
+    ],
+    "dogruCevap": "B) Sıcaklık",
+    "cozum": "Sıcaklık, iklimlerin sonucu olarak ortaya çıkar, ancak iklim çeşitliliğinin nedeni değildir. Basınç merkezleri, yeryüzü şekilleri, denize göre konum ve matematik konum doğrudan iklim çeşitliliğini etkiler."
+  },
+  {
+    "soru_id": "Q011",
+    "soru": "Ülkemize ait bazı özellikler aşağıda verilmiştir: Linyit yataklarının bulunmadığı bölge yoktur, dünya bor rezervinin %74’ü ülkemizdedir, kaya tuzu yatakları oldukça fazladır, fay hatlarının ve sıcak su kaynaklarının fazla olduğu bir ülkedir. Bu özelliklerin ortak nedeni nedir?",
+    "secenekler": [
+      "A) Kırıklı yapının çok fazla olması",
+      "B) Ortalama yükseltisinin fazla olması",
+      "C) Üçüncü jeolojik zamanda oluşmuş genç bir ülke olması",
+      "D) Birinci zamanda oluşmuş arazilerin bulunması",
+      "E) Volkanik arazinin oldukça yaygın olması"
+    ],
+    "dogruCevap": "C) Üçüncü jeolojik zamanda oluşmuş genç bir ülke olması",
+    "cozum": "Türkiye’nin genç jeolojik yapısı (üçüncü zaman), linyit, bor, kaya tuzu yataklarının oluşumunu ve fay hatlarıyla sıcak su kaynaklarının bolluğunu açıklar. Diğer seçenekler ortak bir neden sunmaz."
+  },
+  {
+    "soru_id": "Q012",
+    "soru": "Türkiye haritasında pirinç üretim alanları verilmiştir. Harita incelendiğinde pirinç üretim alanlarıyla ilgili aşağıdakilerden hangisinin ortak olduğu söylenebilir?",
+    "secenekler": [
+      "A) Yazları kurak geçen bölgelerde yetişmektedir.",
+      "B) Kış sıcaklık değerlerinin sıfır derecenin altına düşmediği yerlerde yetişmektedir.",
+      "C) Akarsu boylarında yetiştirilmektedir.",
+      "D) Yaz ayları yağışlı geçen bölgelerde yetiştirilmektedir.",
+      "E) Engebeli arazilerde ekimi daha yaygındır."
+    ],
+    "dogruCevap": "C) Akarsu boylarında yetiştirilmektedir.",
+    "cozum": "Pirinç, su içinde yetişen bir bitki olduğu için akarsu boylarında (Fırat, Dicle, Meriç, Kızılırmak gibi) yoğunlaşır. Diğer seçenekler pirinç üretim alanlarının ortak özelliği değildir."
+  },
+  {
+    "soru_id": "Q013",
+    "soru": "Marmara Bölgesi’nde turizm çeşitliliğinin fazla olmasına rağmen aşağıdaki turizm etkinliklerinden hangisinin geliştirilmesi daha zordur?",
+    "secenekler": [
+      "A) Deniz turizmi",
+      "B) Sağlık turizmi",
+      "C) Kış turizmi",
+      "D) Yayla turizmi",
+      "E) Kültür turizmi"
+    ],
+    "dogruCevap": "D) Yayla turizmi",
+    "cozum": "Marmara Bölgesi’nin yükseltisi düşüktür ve yaylacılık için uygun yüksek alanlar sınırlıdır. Diğer turizm türleri (deniz, sağlık, kış, kültür) bölgede daha kolay geliştirilebilir."
+  },
+  {
+    "soru_id": "Q014",
+    "soru": "Aşağıdaki Türkiye haritasında verilen numaralı yerlerden hangisinde asfaltit rezervi bulunmaktadır?",
+    "secenekler": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "dogruCevap": "C) III",
+    "cozum": "Asfaltit rezervleri Şırnak bölgesinde (III numaralı alan) bulunmaktadır. Bu, Türkiye’nin önemli asfaltit yataklarının yer aldığı bir bölgedir."
+  },
+  {
+    "soru_id": "Q015",
+    "soru": "Ege Bölgesi’nde yazların sıcak ve kurak geçmesi aşağıdakilerden hangisi üzerinde etkili olmamıştır?",
+    "secenekler": [
+      "A) Deniz turizmi yapılabilmesi",
+      "B) Maki bitki örtüsünün görülmesi",
+      "C) Pamuk ve zeytin yetiştirilebilmesi",
+      "D) Sıcak su kaynaklarının bulunması",
+      "E) Orman yangınlarının çok olması"
+    ],
+    "dogruCevap": "D) Sıcak su kaynaklarının bulunması",
+    "cozum": "Sıcak su kaynaklarının varlığı jeolojik yapıya (kırıklı yapı) bağlıdır, iklimle ilişkili değildir. Diğer seçenekler Ege’nin sıcak ve kurak yaz ikliminden doğrudan etkilenir."
+  },
+  {
+    "soru_id": "Q016",
+    "soru": "Aşağıdaki göllerimizden hangisi ülkemizde önemli turizm çekiciliği olan doğal göllerden biri değildir?",
+    "secenekler": [
+      "A) Uzungöl",
+      "B) Abant",
+      "C) Manyas",
+      "D) Balıklı Göl",
+      "E) Yedigöller"
+    ],
+    "dogruCevap": "D) Balıklı Göl",
+    "cozum": "Balıklı Göl, Şanlıurfa’da inanç turizmi açısından önemli ancak yapay bir göldür. Diğer göller (Uzungöl, Abant, Manyas, Yedigöller) doğal oluşumludur ve turizm çekiciliği taşır."
+  },
+  {
+    "soru_id": "Q017",
+    "soru": "Türkiye’de nüfusun dağılışı üzerinde aşağıdakilerden hangisi diğerlerine göre daha az etkilidir?",
+    "secenekler": [
+      "A) İklim koşulları",
+      "B) Yeryüzü şekilleri",
+      "C) Ekonomik faaliyetler",
+      "D) Ulaşım imkanları",
+      "E) Tarihi süreçler"
+    ],
+    "dogruCevap": "E) Tarihi süreçler",
+    "cozum": "Nüfus dağılışı üzerinde iklim, yeryüzü şekilleri, ekonomik faaliyetler ve ulaşım imkanları doğrudan ve güçlü bir etkiye sahiptir. Tarihi süreçler ise dolaylı ve daha az etkilidir."
+  },
+  {
+    "soru_id": "Q018",
+    "soru": "Aşağıdaki tarım ürünlerinden hangisinin yetiştirilmesi için Karadeniz Bölgesi’nde yaz aylarında fazla sıcaklık gerekmez?",
+    "secenekler": [
+      "A) Mısır",
+      "B) Pamuk",
+      "C) Zeytin",
+      "D) Fındık",
+      "E) Üzüm"
+    ],
+    "dogruCevap": "D) Fındık",
+    "cozum": "Fındık, Karadeniz Bölgesi’nin serin ve nemli yaz iklimine uygundur ve fazla sıcaklık gerektirmez. Diğer ürünler daha sıcak koşullarda yetişir."
+  },
+  {
+    "soru_id": "Q019",
+    "soru": "Türkiye’de demir-çelik sanayisinin gelişmesinde aşağıdakilerden hangisi daha az etkili olmuştur?",
+    "secenekler": [
+      "A) Hammadde kaynaklarının varlığı",
+      "B) Enerji kaynaklarının bulunması",
+      "C) Ulaşım imkanlarının gelişmesi",
+      "D) Nüfusun fazla olması",
+      "E) Teknik bilgi birikiminin artması"
+    ],
+    "dogruCevap": "D) Nüfusun fazla olması",
+    "cozum": "Demir-çelik sanayisi için hammadde, enerji, ulaşım ve teknik bilgi kritik öneme sahiptir. Nüfusun fazlalığı ise daha az etkilidir, çünkü bu sanayi türü yoğun iş gücü gerektirmez."
+  },
+  {
+    "soru_id": "Q020",
+    "soru": "Aşağıdaki bölgelerimizden hangisinde tarım ürünleri çeşitliliği en fazladır?",
+    "secenekler": [
+      "A) Karadeniz Bölgesi",
+      "B) Akdeniz Bölgesi",
+      "C) İç Anadolu Bölgesi",
+      "D) Doğu Anadolu Bölgesi",
+      "E) Marmara Bölgesi"
+    ],
+    "dogruCevap": "B) Akdeniz Bölgesi",
+    "cozum": "Akdeniz Bölgesi, ılıman iklimi, uzun büyüme mevsimi ve modern tarım teknikleri sayesinde en fazla tarım ürünü çeşitliliğine sahiptir (turunçgiller, pamuk, zeytin, muz vb.)."
+  },
+  {
+    "soru_id": "Q021",
+    "soru": "Türkiye’de aşağıdaki madenlerden hangisinin rezervi daha fazladır?",
+    "secenekler": [
+      "A) Petrol",
+      "B) Bor",
+      "C) Taşkömürü",
+      "D) Bakır",
+      "E) Krom"
+    ],
+    "dogruCevap": "B) Bor",
+    "cozum": "Türkiye, dünya bor rezervinin yaklaşık %74’üne sahiptir, bu da diğer madenlere göre çok daha fazla rezerv demektir."
+  },
+  {
+    "soru_id": "Q022",
+    "soru": "Aşağıdaki şehirlerimizden hangisi jeotermal enerji potansiyeli açısından daha zengindir?",
+    "secenekler": [
+      "A) İstanbul",
+      "B) Ankara",
+      "C) İzmir",
+      "D) Erzurum",
+      "E) Trabzon"
+    ],
+    "dogruCevap": "C) İzmir",
+    "cozum": "İzmir, Ege Bölgesi’nin kırıklı jeolojik yapısı sayesinde jeotermal enerji kaynakları açısından zengindir (ör. Balçova, Seferihisar)."
+  },
+  {
+    "soru_id": "Q023",
+    "soru": "Türkiye’de aşağıdaki ekonomik faaliyetlerden hangisi Karadeniz Bölgesi’nde daha fazla gelişmiştir?",
+    "secenekler": [
+      "A) Sanayi",
+      "B) Turizm",
+      "C) Balıkçılık",
+      "D) Madencilik",
+      "E) Hayvancılık"
+    ],
+    "dogruCevap": "C) Balıkçılık",
+    "cozum": "Karadeniz Bölgesi, uzun kıyı şeridi ve balık türlerinin bolluğu nedeniyle balıkçılıkta öne çıkar. Diğer faaliyetler daha az gelişmiştir."
+  },
+  {
+    "soru_id": "Q024",
+    "soru": "Aşağıdaki akarsularımızdan hangisi Marmara Denizi’ne dökülür?",
+    "secenekler": [
+      "A) Kızılırmak",
+      "B) Susurluk",
+      "C) Fırat",
+      "D) Seyhan",
+      "E) Yeşilırmak"
+    ],
+    "dogruCevap": "B) Susurluk",
+    "cozum": "Susurluk Çayı, Marmara Bölgesi’nde yer alır ve Marmara Denizi’ne dökülür. Diğer akarsular farklı denizlere ulaşır."
+  },
+  {
+    "soru_id": "Q025",
+    "soru": "Türkiye’de aşağıdaki bitki örtülerinden hangisi Akdeniz Bölgesi’nde daha yaygındır?",
+    "secenekler": [
+      "A) Bozkır",
+      "B) Maki",
+      "C) Orman",
+      "D) Tundra",
+      "E) Savan"
+    ],
+    "dogruCevap": "B) Maki",
+    "cozum": "Akdeniz Bölgesi’nin sıcak ve kurak yazları, maki bitki örtüsünün (çalı formasyonu) yaygın olmasını sağlar."
+  }
+],
+"Deneme 2" : [
+  {
+    "soru_id": "Q026",
+    "soru": "Türkiye’de aşağıdaki ekonomik faaliyetlerden hangisi İç Anadolu Bölgesi’nde daha az gelişmiştir?",
+    "secenekler": [
+      "A) Tarım",
+      "B) Hayvancılık",
+      "C) Sanayi",
+      "D) Balıkçılık",
+      "E) Madencilik"
+    ],
+    "dogruCevap": "D) Balıkçılık",
+    "cozum": "İç Anadolu Bölgesi, denize kıyısı olmayan bir bölge olduğu için balıkçılık faaliyetleri çok sınırlıdır. Tarım, hayvancılık, sanayi ve madencilik ise bölgede daha yaygındır."
+  },
+  {
+    "soru_id": "Q027",
+    "soru": "Aşağıdaki illerden hangisi Türkiye’nin en yüksek dağı olan Ağrı Dağı’na ev sahipliği yapar?",
+    "secenekler": [
+      "A) Erzurum",
+      "B) Van",
+      "C) Iğdır",
+      "D) Kars",
+      "E) Hakkari"
+    ],
+    "dogruCevap": "C) Iğdır",
+    "cozum": "Ağrı Dağı, Iğdır ve Ağrı illeri sınırlarında yer alır, ancak en yüksek noktası Iğdır tarafındadır. Bu nedenle doğru cevap Iğdır’dır."
+  },
+  {
+    "soru_id": "Q028",
+    "soru": "Türkiye’de aşağıdaki tarım ürünlerinden hangisi Ege Bölgesi’nde en fazla üretilir?",
+    "secenekler": [
+      "A) Çay",
+      "B) Fındık",
+      "C) Zeytin",
+      "D) Buğday",
+      "E) Şeker pancarı"
+    ],
+    "dogruCevap": "C) Zeytin",
+    "cozum": "Ege Bölgesi, Akdeniz iklimi ve uygun toprak koşulları sayesinde Türkiye’nin en fazla zeytin üretimine sahip bölgesidir."
+  },
+  {
+    "soru_id": "Q029",
+    "soru": "Aşağıdaki yeryüzü şekillerinden hangisi Türkiye’de daha az yaygındır?",
+    "secenekler": [
+      "A) Dağlar",
+      "B) Platolar",
+      "C) Ovalar",
+      "D) Çöller",
+      "E) Vadiler"
+    ],
+    "dogruCevap": "D) Çöller",
+    "cozum": "Türkiye’nin iklimi ve jeolojik yapısı nedeniyle çöller çok sınırlıdır. Dağlar, platolar, ovalar ve vadiler ise yaygın olarak bulunur."
+  },
+  {
+    "soru_id": "Q030",
+    "soru": "Türkiye’de aşağıdaki enerji kaynaklarından hangisi yenilenebilir enerji kaynakları arasında yer almaz?",
+    "secenekler": [
+      "A) Hidroelektrik",
+      "B) Güneş enerjisi",
+      "C) Rüzgar enerjisi",
+      "D) Kömür",
+      "E) Jeotermal enerji"
+    ],
+    "dogruCevap": "D) Kömür",
+    "cozum": "Kömür, fosil yakıt olup yenilenebilir enerji kaynağı değildir. Hidroelektrik, güneş, rüzgar ve jeotermal enerji yenilenebilir kaynaklardır."
+  },
+  {
+    "soru_id": "Q031",
+    "soru": "Aşağıdaki bölgelerimizden hangisinde yaz kuraklığı en belirgin şekilde yaşanır?",
+    "secenekler": [
+      "A) Karadeniz Bölgesi",
+      "B) Marmara Bölgesi",
+      "C) Akdeniz Bölgesi",
+      "D) İç Anadolu Bölgesi",
+      "E) Doğu Anadolu Bölgesi"
+    ],
+    "dogruCevap": "C) Akdeniz Bölgesi",
+    "cozum": "Akdeniz Bölgesi, Akdeniz ikliminin etkisiyle yaz aylarında belirgin bir kuraklık yaşar. Diğer bölgelerde bu durum daha az görülür."
+  },
+  {
+    "soru_id": "Q032",
+    "soru": "Türkiye’de aşağıdaki madenlerden hangisi Marmara Bölgesi’nde daha fazla çıkarılır?",
+    "secenekler": [
+      "A) Bor",
+      "B) Krom",
+      "C) Linyit",
+      "D) Bakır",
+      "E) Petrol"
+    ],
+    "dogruCevap": "C) Linyit",
+    "cozum": "Marmara Bölgesi’nde linyit yatakları (ör. Çanakkale, Balıkesir) yaygındır. Diğer madenler bu bölgede daha az çıkarılır."
+  },
+  {
+    "soru_id": "Q033",
+    "soru": "Aşağıdaki göllerimizden hangisi tektonik bir göldür?",
+    "secenekler": [
+      "A) Van Gölü",
+      "B) Tuz Gölü",
+      "C) Beyşehir Gölü",
+      "D) Çıldır Gölü",
+      "E) Salda Gölü"
+    ],
+    "dogruCevap": "A) Van Gölü",
+    "cozum": "Van Gölü, tektonik çöküntü alanında oluşan bir göldür. Diğer göller farklı oluşum süreçlerine sahiptir (ör. Tuz Gölü tuzludur, Salda karstiktir)."
+  },
+  {
+    "soru_id": "Q034",
+    "soru": "Türkiye’de aşağıdaki şehirlerden hangisi sanayi faaliyetleri açısından daha az gelişmiştir?",
+    "secenekler": [
+      "A) İstanbul",
+      "B) İzmir",
+      "C) Adana",
+      "D) Hakkari",
+      "E) Bursa"
+    ],
+    "dogruCevap": "D) Hakkari",
+    "cozum": "Hakkari, engebeli arazi yapısı ve sınırlı altyapı nedeniyle sanayi açısından diğer şehirlere göre daha az gelişmiştir."
+  },
+  {
+    "soru_id": "Q035",
+    "soru": "Aşağıdaki tarım ürünlerinden hangisi Karadeniz Bölgesi’nde yaygın olarak yetiştirilmez?",
+    "secenekler": [
+      "A) Çay",
+      "B) Fındık",
+      "C) Mısır",
+      "D) Zeytin",
+      "E) Tütün"
+    ],
+    "dogruCevap": "D) Zeytin",
+    "cozum": "Zeytin, Akdeniz iklimine özgü bir ürün olup Karadeniz Bölgesi’nin nemli ve serin ikliminde yaygın olarak yetişmez."
+  },
+  {
+    "soru_id": "Q036",
+    "soru": "Türkiye’de aşağıdaki akarsulardan hangisi Karadeniz’e dökülür?",
+    "secenekler": [
+      "A) Seyhan",
+      "B) Kızılırmak",
+      "C) Gediz",
+      "D) Meriç",
+      "E) Göksu"
+    ],
+    "dogruCevap": "B) Kızılırmak",
+    "cozum": "Kızılırmak, Türkiye’nin en uzun akarsuyu olup Karadeniz’e dökülür. Diğer akarsular farklı denizlere ulaşır."
+  },
+  {
+    "soru_id": "Q037",
+    "soru": "Aşağıdaki bölgelerimizden hangisinde orman örtüsü en yoğundur?",
+    "secenekler": [
+      "A) İç Anadolu Bölgesi",
+      "B) Karadeniz Bölgesi",
+      "C) Akdeniz Bölgesi",
+      "D) Güneydoğu Anadolu Bölgesi",
+      "E) Marmara Bölgesi"
+    ],
+    "dogruCevap": "B) Karadeniz Bölgesi",
+    "cozum": "Karadeniz Bölgesi, nemli iklimi ve uygun koşulları sayesinde Türkiye’nin en yoğun orman örtüsüne sahip bölgesidir."
+  },
+  {
+    "soru_id": "Q038",
+    "soru": "Türkiye’de aşağıdaki turizm türlerinden hangisi Doğu Anadolu Bölgesi’nde daha az gelişmiştir?",
+    "secenekler": [
+      "A) Kış turizmi",
+      "B) Kültür turizmi",
+      "C) Deniz turizmi",
+      "D) Doğa turizmi",
+      "E) Tarihi turizm"
+    ],
+    "dogruCevap": "C) Deniz turizmi",
+    "cozum": "Doğu Anadolu Bölgesi’nin denize kıyısı olmadığı için deniz turizmi gelişmemiştir. Diğer turizm türleri bölgede daha yaygındır."
+  },
+  {
+    "soru_id": "Q039",
+    "soru": "Aşağıdaki madenlerden hangisi Türkiye’de en fazla Ege Bölgesi’nde çıkarılır?",
+    "secenekler": [
+      "A) Petrol",
+      "B) Krom",
+      "C) Bor",
+      "D) Linyit",
+      "E) Bakır"
+    ],
+    "dogruCevap": "D) Linyit",
+    "cozum": "Ege Bölgesi, linyit yatakları açısından zengindir (ör. Soma, Tunçbilek). Diğer madenler bu bölgede daha az çıkar."
+  },
+  {
+    "soru_id": "Q040",
+    "soru": "Türkiye’de aşağıdaki illerden hangisi nüfus yoğunluğu açısından en yüksektir?",
+    "secenekler": [
+      "A) Ankara",
+      "B) İstanbul",
+      "C) İzmir",
+      "D) Adana",
+      "E) Antalya"
+    ],
+    "dogruCevap": "B) İstanbul",
+    "cozum": "İstanbul, Türkiye’nin ekonomik ve kültürel merkezi olması nedeniyle en yüksek nüfus yoğunluğuna sahip ildir."
+  },
+  {
+    "soru_id": "Q041",
+    "soru": "Aşağıdaki yeryüzü şekillerinden hangisi Akdeniz Bölgesi’nde daha yaygındır?",
+    "secenekler": [
+      "A) Platolar",
+      "B) Dağlar",
+      "C) Çöller",
+      "D) Deltalar",
+      "E) Volkanlar"
+    ],
+    "dogruCevap": "B) Dağlar",
+    "cozum": "Akdeniz Bölgesi’nde Toros Dağları gibi büyük dağ sıraları yaygındır. Diğer yeryüzü şekilleri daha az baskındır."
+  },
+  {
+    "soru_id": "Q042",
+    "soru": "Türkiye’de aşağıdaki enerji santrallerinden hangisi Karadeniz Bölgesi’nde daha fazla bulunur?",
+    "secenekler": [
+      "A) Termik santraller",
+      "B) Hidroelektrik santraller",
+      "C) Güneş enerjisi santralleri",
+      "D) Rüzgar enerjisi santralleri",
+      "E) Nükleer santraller"
+    ],
+    "dogruCevap": "B) Hidroelektrik santraller",
+    "cozum": "Karadeniz Bölgesi, bol akarsu ve engebeli arazi yapısı nedeniyle hidroelektrik santraller için uygundur."
+  },
+  {
+    "soru_id": "Q043",
+    "soru": "Aşağıdaki tarım ürünlerinden hangisi İç Anadolu Bölgesi’nde en fazla üretilir?",
+    "secenekler": [
+      "A) Zeytin",
+      "B) Çay",
+      "C) Buğday",
+      "D) Fındık",
+      "E) Turunçgiller"
+    ],
+    "dogruCevap": "C) Buğday",
+    "cozum": "İç Anadolu Bölgesi, geniş düzlükleri ve karasal iklimi ile buğday üretiminde Türkiye’nin önde gelen bölgesidir."
+  },
+  {
+    "soru_id": "Q044",
+    "soru": "Türkiye’de aşağıdaki göllerden hangisi kuş cenneti olarak bilinir?",
+    "secenekler": [
+      "A) Van Gölü",
+      "B) Manyas Gölü",
+      "C) Tuz Gölü",
+      "D) Beyşehir Gölü",
+      "E) Eğirdir Gölü"
+    ],
+    "dogruCevap": "B) Manyas Gölü",
+    "cozum": "Manyas Gölü (Kuş Gölü), Balıkesir’de yer alır ve zengin kuş türleri nedeniyle kuş cenneti olarak bilinir."
+  },
+  {
+    "soru_id": "Q045",
+    "soru": "Aşağıdaki şehirlerden hangisi Türkiye’nin en büyük limanına sahiptir?",
+    "secenekler": [
+      "A) İzmir",
+      "B) Mersin",
+      "C) İstanbul",
+      "D) Trabzon",
+      "E) Samsun"
+    ],
+    "dogruCevap": "B) Mersin",
+    "cozum": "Mersin Limanı, Türkiye’nin en büyük ve en işlek limanlarından biridir, özellikle ihracat ve ithalat açısından önemlidir."
+  },
+  {
+    "soru_id": "Q046",
+    "soru": "Türkiye’de aşağıdaki ekonomik faaliyetlerden hangisi Güneydoğu Anadolu Bölgesi’nde daha fazla gelişmiştir?",
+    "secenekler": [
+      "A) Balıkçılık",
+      "B) Tarım",
+      "C) Sanayi",
+      "D) Turizm",
+      "E) Madencilik"
+    ],
+    "dogruCevap": "B) Tarım",
+    "cozum": "Güneydoğu Anadolu Bölgesi, GAP projesi sayesinde sulu tarımın gelişmesiyle tarımda öne çıkar (pamuk, buğday, mercimek)."
+  },
+  {
+    "soru_id": "Q047",
+    "soru": "Aşağıdaki dağlardan hangisi Türkiye’nin en yüksek ikinci dağıdır?",
+    "secenekler": [
+      "A) Erciyes Dağı",
+      "B) Uludağ",
+      "C) Cilo Dağı",
+      "D) Kaçkar Dağı",
+      "E) Süphan Dağı"
+    ],
+    "dogruCevap": "C) Cilo Dağı",
+    "cozum": "Cilo Dağı (4.135 m), Ağrı Dağı’ndan sonra Türkiye’nin en yüksek ikinci dağıdır. Diğer dağlar daha alçaktır."
+  },
+  {
+    "soru_id": "Q048",
+    "soru": "Türkiye’de aşağıdaki bitki örtülerinden hangisi İç Anadolu Bölgesi’nde daha yaygındır?",
+    "secenekler": [
+      "A) Orman",
+      "B) Maki",
+      "C) Bozkır",
+      "D) Tundra",
+      "E) Savan"
+    ],
+    "dogruCevap": "C) Bozkır",
+    "cozum": "İç Anadolu Bölgesi’nin karasal iklimi ve az yağışı, bozkır bitki örtüsünün yaygın olmasını sağlar."
+  },
+  {
+    "soru_id": "Q049",
+    "soru": "Aşağıdaki illerden hangisi Türkiye’de pamuk üretiminde önde gelir?",
+    "secenekler": [
+      "A) Rize",
+      "B) Şanlıurfa",
+      "C) Konya",
+      "D) Trabzon",
+      "E) Sivas"
+    ],
+    "dogruCevap": "B) Şanlıurfa",
+    "cozum": "Şanlıurfa, GAP projesiyle sulama imkanlarının artması sayesinde pamuk üretiminde önde gelen illerden biridir."
+  },
+  {
+    "soru_id": "Q050",
+    "soru": "Türkiye’de aşağıdaki akarsulardan hangisi Ege Denizi’ne dökülür?",
+    "secenekler": [
+      "A) Gediz",
+      "B) Kızılırmak",
+      "C) Fırat",
+      "D) Seyhan",
+      "E) Yeşilırmak"
+    ],
+    "dogruCevap": "A) Gediz",
+    "cozum": "Gediz Nehri, Ege Bölgesi’nde yer alır ve Ege Denizi’ne dökülür. Diğer akarsular farklı denizlere ulaşır."
+  }
+],
+"Deneme 3" : [
+  {
+    "soru_id": "Q051",
+    "soru": "Türkiye’de aşağıdaki illerden hangisi seracılık faaliyetleri açısından daha gelişmiştir?",
+    "secenekler": [
+      "A) Rize",
+      "B) Antalya",
+      "C) Konya",
+      "D) Erzurum",
+      "E) Sivas"
+    ],
+    "dogruCevap": "B) Antalya",
+    "cozum": "Antalya, Akdeniz iklimi ve uzun büyüme mevsimi sayesinde seracılıkta önde gelir. Diğer illerde seracılık daha az gelişmiştir."
+  },
+  {
+    "soru_id": "Q052",
+    "soru": "Aşağıdaki yeraltı kaynaklarından hangisi Türkiye’de en fazla Güneydoğu Anadolu Bölgesi’nde bulunur?",
+    "secenekler": [
+      "A) Bor",
+      "B) Krom",
+      "C) Petrol",
+      "D) Linyit",
+      "E) Kaya tuzu"
+    ],
+    "dogruCevap": "C) Petrol",
+    "cozum": "Güneydoğu Anadolu Bölgesi, Batman, Adıyaman ve Şırnak gibi illerdeki yataklarla petrol üretiminde önde gelir."
+  },
+  {
+    "soru_id": "Q053",
+    "soru": "Türkiye’de aşağıdaki akarsulardan hangisi Akdeniz’e dökülür?",
+    "secenekler": [
+      "A) Yeşilırmak",
+      "B) Kızılırmak",
+      "C) Seyhan",
+      "D) Meriç",
+      "E) Susurluk"
+    ],
+    "dogruCevap": "C) Seyhan",
+    "cozum": "Seyhan Nehri, Akdeniz Bölgesi’nde yer alır ve Akdeniz’e dökülür. Diğer akarsular farklı denizlere ulaşır."
+  },
+  {
+    "soru_id": "Q054",
+    "soru": "Aşağıdaki bölgelerimizden hangisinde hidroelektrik enerji potansiyeli en yüksektir?",
+    "secenekler": [
+      "A) Marmara Bölgesi",
+      "B) Ege Bölgesi",
+      "C) Karadeniz Bölgesi",
+      "D) İç Anadolu Bölgesi",
+      "E) Güneydoğu Anadolu Bölgesi"
+    ],
+    "dogruCevap": "C) Karadeniz Bölgesi",
+    "cozum": "Karadeniz Bölgesi, bol akarsu ve engebeli arazi yapısı nedeniyle hidroelektrik enerji potansiyeli açısından en zengindir."
+  },
+  {
+    "soru_id": "Q055",
+    "soru": "Türkiye’de aşağıdaki tarım ürünlerinden hangisi Marmara Bölgesi’nde daha az üretilir?",
+    "secenekler": [
+      "A) Zeytin",
+      "B) Ayçiçeği",
+      "C) Şeker pancarı",
+      "D) Çay",
+      "E) Buğday"
+    ],
+    "dogruCevap": "D) Çay",
+    "cozum": "Çay, Karadeniz Bölgesi’ne özgü bir ürün olup Marmara Bölgesi’nde neredeyse hiç üretilmez."
+  },
+  {
+    "soru_id": "Q056",
+    "soru": "Aşağıdaki illerden hangisi Türkiye’de krom madeni çıkarımında önde gelir?",
+    "secenekler": [
+      "A) Balıkesir",
+      "B) Elazığ",
+      "C) İzmir",
+      "D) Adana",
+      "E) Kayseri"
+    ],
+    "dogruCevap": "B) Elazığ",
+    "cozum": "Elazığ, Türkiye’nin önemli krom madeni yataklarına sahiptir ve bu madenin çıkarımında önde gelir."
+  },
+  {
+    "soru_id": "Q057",
+    "soru": "Türkiye’de aşağıdaki göllerden hangisi karstik bir göldür?",
+    "secenekler": [
+      "A) Van Gölü",
+      "B) Tuz Gölü",
+      "C) Salda Gölü",
+      "D) Manyas Gölü",
+      "E) Çıldır Gölü"
+    ],
+    "dogruCevap": "C) Salda Gölü",
+    "cozum": "Salda Gölü, Burdur’da yer alır ve karstik çöküntülerle oluşmuş bir göldür. Diğer göller farklı oluşumlara sahiptir."
+  },
+  {
+    "soru_id": "Q058",
+    "soru": "Aşağıdaki ekonomik faaliyetlerden hangisi Ege Bölgesi’nde daha fazla gelişmiştir?",
+    "secenekler": [
+      "A) Hayvancılık",
+      "B) Balıkçılık",
+      "C) Turizm",
+      "D) Madencilik",
+      "E) Sanayi"
+    ],
+    "dogruCevap": "C) Turizm",
+    "cozum": "Ege Bölgesi, tarihi ve doğal güzellikleri (ör. Efes, Bodrum) ile turizmde önde gelir."
+  },
+  {
+    "soru_id": "Q059",
+    "soru": "Türkiye’de aşağıdaki dağlardan hangisi volkanik bir dağdır?",
+    "secenekler": [
+      "A) Toros Dağları",
+      "B) Erciyes Dağı",
+      "C) Kaçkar Dağları",
+      "D) Ilgaz Dağları",
+      "E) Uludağ"
+    ],
+    "dogruCevap": "B) Erciyes Dağı",
+    "cozum": "Erciyes Dağı, volkanik faaliyetlerle oluşmuş bir dağdır. Diğer dağlar genellikle kıvrım veya kırık dağlardır."
+  },
+  {
+    "soru_id": "Q060",
+    "soru": "Aşağıdaki illerden hangisi Türkiye’de şeker pancarı üretiminde önde gelir?",
+    "secenekler": [
+      "A) Konya",
+      "B) Antalya",
+      "C) Trabzon",
+      "D) Şanlıurfa",
+      "E) Muğla"
+    ],
+    "dogruCevap": "A) Konya",
+    "cozum": "Konya, İç Anadolu Bölgesi’nde geniş tarım arazileri ve uygun iklim koşullarıyla şeker pancarı üretiminde önde gelir."
+  },
+  {
+    "soru_id": "Q061",
+    "soru": "Türkiye’de aşağıdaki turizm türlerinden hangisi Akdeniz Bölgesi’nde en fazla gelişmiştir?",
+    "secenekler": [
+      "A) Kış turizmi",
+      "B) Deniz turizmi",
+      "C) Yayla turizmi",
+      "D) Kültür turizmi",
+      "E) Sağlık turizmi"
+    ],
+    "dogruCevap": "B) Deniz turizmi",
+    "cozum": "Akdeniz Bölgesi, uzun kıyı şeridi ve ılıman iklimi ile deniz turizminde (ör. Antalya, Alanya) önde gelir."
+  },
+  {
+    "soru_id": "Q062",
+    "soru": "Aşağıdaki yeraltı kaynaklarından hangisi Türkiye’de İç Anadolu Bölgesi’nde daha fazla çıkarılır?",
+    "secenekler": [
+      "A) Petrol",
+      "B) Krom",
+      "C) Kaya tuzu",
+      "D) Bor",
+      "E) Bakır"
+    ],
+    "dogruCevap": "C) Kaya tuzu",
+    "cozum": "İç Anadolu Bölgesi, Çankırı ve Kırşehir gibi illerdeki yataklarla kaya tuzu üretiminde önde gelir."
+  },
+  {
+    "soru_id": "Q063",
+    "soru": "Türkiye’de aşağıdaki akarsulardan hangisi kapalı havzada yer alır?",
+    "secenekler": [
+      "A) Kızılırmak",
+      "B) Burdur Gölü’ne dökülen akarsular",
+      "C) Seyhan",
+      "D) Gediz",
+      "E) Meriç"
+    ],
+    "dogruCevap": "B) Burdur Gölü’ne dökülen akarsular",
+    "cozum": "Burdur Gölü, kapalı havza içinde yer alır ve buraya dökülen akarsular denize ulaşmaz."
+  },
+  {
+    "soru_id": "Q064",
+    "soru": "Aşağıdaki bölgelerimizden hangisinde bozkır bitki örtüsü en az görülür?",
+    "secenekler": [
+      "A) İç Anadolu Bölgesi",
+      "B) Karadeniz Bölgesi",
+      "C) Doğu Anadolu Bölgesi",
+      "D) Güneydoğu Anadolu Bölgesi",
+      "E) Marmara Bölgesi"
+    ],
+    "dogruCevap": "B) Karadeniz Bölgesi",
+    "cozum": "Karadeniz Bölgesi, nemli iklimi nedeniyle orman örtüsü hakimdir; bozkır bitki örtüsü çok azdır."
+  },
+  {
+    "soru_id": "Q065",
+    "soru": "Türkiye’de aşağıdaki illerden hangisi kış turizmi açısından daha gelişmiştir?",
+    "secenekler": [
+      "A) Antalya",
+      "B) Bursa",
+      "C) Adana",
+      "D) Samsun",
+      "E) Gaziantep"
+    ],
+    "dogruCevap": "B) Bursa",
+    "cozum": "Bursa, Uludağ sayesinde kış turizminde (kayak turizmi) önde gelir."
+  },
+  {
+    "soru_id": "Q066",
+    "soru": "Aşağıdaki tarım ürünlerinden hangisi Türkiye’de en fazla Akdeniz Bölgesi’nde üretilir?",
+    "secenekler": [
+      "A) Çay",
+      "B) Fındık",
+      "C) Turunçgiller",
+      "D) Şeker pancarı",
+      "E) Buğday"
+    ],
+    "dogruCevap": "C) Turunçgiller",
+    "cozum": "Akdeniz Bölgesi, ılıman iklimi sayesinde turunçgiller (portakal, limon, mandalina) üretiminde önde gelir."
+  },
+  {
+    "soru_id": "Q067",
+    "soru": "Türkiye’de aşağıdaki madenlerden hangisi Karadeniz Bölgesi’nde daha fazla çıkarılır?",
+    "secenekler": [
+      "A) Bor",
+      "B) Bakır",
+      "C) Linyit",
+      "D) Petrol",
+      "E) Kaya tuzu"
+    ],
+    "dogruCevap": "B) Bakır",
+    "cozum": "Karadeniz Bölgesi, özellikle Kastamonu ve Artvin gibi illerde bakır madeni çıkarımında önde gelir."
+  },
+  {
+    "soru_id": "Q068",
+    "soru": "Aşağıdaki göllerden hangisi Türkiye’de lagün gölü olarak sınıflandırılır?",
+    "secenekler": [
+      "A) Van Gölü",
+      "B) Köyceğiz Gölü",
+      "C) Tuz Gölü",
+      "D) Beyşehir Gölü",
+      "E) Çıldır Gölü"
+    ],
+    "dogruCevap": "B) Köyceğiz Gölü",
+    "cozum": "Köyceğiz Gölü, denizle bağlantılı bir lagün gölüdür. Diğer göller farklı oluşum türlerindedir."
+  },
+  {
+    "soru_id": "Q069",
+    "soru": "Türkiye’de aşağıdaki ekonomik faaliyetlerden hangisi Marmara Bölgesi’nde en fazla gelişmiştir?",
+    "secenekler": [
+      "A) Tarım",
+      "B) Sanayi",
+      "C) Balıkçılık",
+      "D) Madencilik",
+      "E) Hayvancılık"
+    ],
+    "dogruCevap": "B) Sanayi",
+    "cozum": "Marmara Bölgesi, İstanbul, Kocaeli ve Bursa gibi illerle sanayi üretiminde Türkiye’nin lider bölgesidir."
+  },
+  {
+    "soru_id": "Q070",
+    "soru": "Aşağıdaki yeryüzü şekillerinden hangisi Karadeniz Bölgesi’nde daha az yaygındır?",
+    "secenekler": [
+      "A) Dağlar",
+      "B) Vadiler",
+      "C) Platolar",
+      "D) Ovalar",
+      "E) Volkanlar"
+    ],
+    "dogruCevap": "E) Volkanlar",
+    "cozum": "Karadeniz Bölgesi’nde volkanik yapılar çok azdır; dağlar, vadiler, platolar ve ovalar daha yaygındır."
+  },
+  {
+    "soru_id": "Q071",
+    "soru": "Türkiye’de aşağıdaki illerden hangisi fındık üretiminde önde gelir?",
+    "secenekler": [
+      "A) Ordu",
+      "B) Antalya",
+      "C) Konya",
+      "D) Şanlıurfa",
+      "E) İzmir"
+    ],
+    "dogruCevap": "A) Ordu",
+    "cozum": "Ordu, Karadeniz Bölgesi’nde fındık üretiminde lider illerden biridir."
+  },
+  {
+    "soru_id": "Q072",
+    "soru": "Aşağıdaki turizm türlerinden hangisi İç Anadolu Bölgesi’nde daha az gelişmiştir?",
+    "secenekler": [
+      "A) Kültür turizmi",
+      "B) Deniz turizmi",
+      "C) Tarihi turizm",
+      "D) Sağlık turizmi",
+      "E) Doğa turizmi"
+    ],
+    "dogruCevap": "B) Deniz turizmi",
+    "cozum": "İç Anadolu Bölgesi’nin denize kıyısı olmadığı için deniz turizmi gelişmemiştir."
+  },
+  {
+    "soru_id": "Q073",
+    "soru": "Aşağıdaki akarsulardan hangisi Türkiye’de delta oluşturmuştur?",
+    "secenekler": [
+      "A) Göksu",
+      "B) Kızılırmak",
+      "C) Susurluk",
+      "D) Meriç",
+      "E) Gediz"
+    ],
+    "dogruCevap": "B) Kızılırmak",
+    "cozum": "Kızılırmak, Karadeniz’e dökülürken Bafra Ovası’nda geniş bir delta oluşturmuştur."
+  },
+  {
+    "soru_id": "Q074",
+    "soru": "Aşağıdaki madenlerden hangisi Türkiye’de en fazla Doğu Anadolu Bölgesi’nde çıkarılır?",
+    "secenekler": [
+      "A) Bor",
+      "B) Krom",
+      "C) Linyit",
+      "D) Kaya tuzu",
+      "E) Petrol"
+    ],
+    "dogruCevap": "B) Krom",
+    "cozum": "Doğu Anadolu Bölgesi, özellikle Elazığ ve Malatya gibi illerde krom madeni çıkarımında önde gelir."
+  },
+  {
+    "soru_id": "Q075",
+    "soru": "Aşağıdaki bölgelerimizden hangisinde yaylacılık faaliyetleri en fazla gelişmiştir?",
+    "secenekler": [
+      "A) Marmara Bölgesi",
+      "B) Ege Bölgesi",
+      "C) Karadeniz Bölgesi",
+      "D) İç Anadolu Bölgesi",
+      "E) Güneydoğu Anadolu Bölgesi"
+    ],
+    "dogruCevap": "C) Karadeniz Bölgesi",
+    "cozum": "Karadeniz Bölgesi, yüksek platoları ve uygun iklimi ile yaylacılık faaliyetlerinde önde gelir (ör. Ayder, Pokut)."
+  }
+],
+"Deneme 4" : [
+  {
+    "soru_id": "Q076",
+    "soru": "Türkiye’de aşağıdaki illerden hangisi çay üretiminde önde gelir?",
+    "secenekler": [
+      "A) Rize",
+      "B) Antalya",
+      "C) Konya",
+      "D) Şanlıurfa",
+      "E) İzmir"
+    ],
+    "dogruCevap": "A) Rize",
+    "cozum": "Rize, Karadeniz Bölgesi’nin nemli iklimi ve uygun koşulları sayesinde Türkiye’nin çay üretiminde lider ilidir."
+  },
+  {
+    "soru_id": "Q077",
+    "soru": "Aşağıdaki yeraltı kaynaklarından hangisi Türkiye’de Marmara Bölgesi’nde daha az bulunur?",
+    "secenekler": [
+      "A) Linyit",
+      "B) Bor",
+      "C) Kaya tuzu",
+      "D) Mermer",
+      "E) Petrol"
+    ],
+    "dogruCevap": "B) Bor",
+    "cozum": "Bor, daha çok Ege ve İç Anadolu Bölgeleri’nde bulunur. Marmara Bölgesi’nde linyit, kaya tuzu, mermer ve sınırlı petrol yatakları daha yaygındır."
+  },
+  {
+    "soru_id": "Q078",
+    "soru": "Aşağıdaki akarsulardan hangisi Türkiye’de Ege Denizi’ne dökülür?",
+    "secenekler": [
+      "A) Bakırçay",
+      "B) Kızılırmak",
+      "C) Fırat",
+      "D) Seyhan",
+      "E) Yeşilırmak"
+    ],
+    "dogruCevap": "A) Bakırçay",
+    "cozum": "Bakırçay, Ege Bölgesi’nde yer alır ve Ege Denizi’ne dökülür. Diğer akarsular farklı denizlere ulaşır."
+  },
+  {
+    "soru_id": "Q079",
+    "soru": "Aşağıdaki bölgelerimizden hangisinde rüzgar enerjisi potansiyeli en yüksektir?",
+    "secenekler": [
+      "A) Karadeniz Bölgesi",
+      "B) Ege Bölgesi",
+      "C) İç Anadolu Bölgesi",
+      "D) Güneydoğu Anadolu Bölgesi",
+      "E) Doğu Anadolu Bölgesi"
+    ],
+    "dogruCevap": "B) Ege Bölgesi",
+    "cozum": "Ege Bölgesi, özellikle Çanakkale ve İzmir gibi illerde, kıyı şeridindeki güçlü rüzgarlar nedeniyle rüzgar enerjisi potansiyeli açısından zengindir."
+  },
+  {
+    "soru_id": "Q080",
+    "soru": "Türkiye’de aşağıdaki tarım ürünlerinden hangisi İç Anadolu Bölgesi’nde daha az üretilir?",
+    "secenekler": [
+      "A) Buğday",
+      "B) Arpa",
+      "C) Şeker pancarı",
+      "D) Zeytin",
+      "E) Mercimek"
+    ],
+    "dogruCevap": "D) Zeytin",
+    "cozum": "Zeytin, Akdeniz iklimine özgü bir ürün olup İç Anadolu’nun karasal ikliminde çok az üretilir."
+  },
+  {
+    "soru_id": "Q081",
+    "soru": "Aşağıdaki illerden hangisi Türkiye’de bor madeni çıkarımında önde gelir?",
+    "secenekler": [
+      "A) Balıkesir",
+      "B) Kütahya",
+      "C) Adana",
+      "D) Trabzon",
+      "E) Erzurum"
+    ],
+    "dogruCevap": "B) Kütahya",
+    "cozum": "Kütahya, Türkiye’nin bor madeni yataklarında (ör. Emet) önde gelen illerden biridir."
+  },
+  {
+    "soru_id": "Q082",
+    "soru": "Aşağıdaki göllerden hangisi Türkiye’de volkanik bir göldür?",
+    "secenekler": [
+      "A) Nemrut Gölü",
+      "B) Tuz Gölü",
+      "C) Salda Gölü",
+      "D) Manyas Gölü",
+      "E) Eğirdir Gölü"
+    ],
+    "dogruCevap": "A) Nemrut Gölü",
+    "cozum": "Nemrut Gölü, Bitlis’te volkanik krater içinde oluşmuş bir göldür. Diğer göller farklı oluşum türlerindedir."
+  },
+  {
+    "soru_id": "Q083",
+    "soru": "Aşağıdaki ekonomik faaliyetlerden hangisi Karadeniz Bölgesi’nde daha az gelişmiştir?",
+    "secenekler": [
+      "A) Balıkçılık",
+      "B) Tarım",
+      "C) Ormancılık",
+      "D) Sanayi",
+      "E) Turizm"
+    ],
+    "dogruCevap": "D) Sanayi",
+    "cozum": "Karadeniz Bölgesi’nde sanayi, engebeli arazi ve altyapı sınırlamaları nedeniyle diğer faaliyetlere göre daha az gelişmiştir."
+  },
+  {
+    "soru_id": "Q084",
+    "soru": "Aşağıdaki dağlardan hangisi Türkiye’de kıvrım dağlarına örnektir?",
+    "secenekler": [
+      "A) Erciyes Dağı",
+      "B) Toros Dağları",
+      "C) Nemrut Dağı",
+      "D) Süphan Dağı",
+      "E) Ağrı Dağı"
+    ],
+    "dogruCevap": "B) Toros Dağları",
+    "cozum": "Toros Dağları, tektonik sıkışma ile oluşan kıvrım dağlarına örnektir. Diğer dağlar volkanik veya farklı oluşumlardır."
+  },
+  {
+    "soru_id": "Q085",
+    "soru": "Aşağıdaki illerden hangisi Türkiye’de üzüm üretiminde önde gelir?",
+    "secenekler": [
+      "A) Manisa",
+      "B) Rize",
+      "C) Kars",
+      "D) Van",
+      "E) Hakkari"
+    ],
+    "dogruCevap": "A) Manisa",
+    "cozum": "Manisa, Ege Bölgesi’nde uygun iklim ve toprak koşullarıyla üzüm (özellikle çekirdeksiz üzüm) üretiminde önde gelir."
+  },
+  {
+    "soru_id": "Q086",
+    "soru": "Aşağıdaki turizm türlerinden hangisi Güneydoğu Anadolu Bölgesi’nde daha fazla gelişmiştir?",
+    "secenekler": [
+      "A) Deniz turizmi",
+      "B) Kış turizmi",
+      "C) Kültür turizmi",
+      "D) Yayla turizmi",
+      "E) Sağlık turizmi"
+    ],
+    "dogruCevap": "C) Kültür turizmi",
+    "cozum": "Güneydoğu Anadolu Bölgesi, tarihi ve kültürel zenginlikleri (ör. Göbeklitepe, Mardin) ile kültür turizminde önde gelir."
+  },
+  {
+    "soru_id": "Q087",
+    "soru": "Aşağıdaki yeraltı kaynaklarından hangisi Türkiye’de Akdeniz Bölgesi’nde daha fazla çıkarılır?",
+    "secenekler": [
+      "A) Bor",
+      "B) Krom",
+      "C) Boksit",
+      "D) Linyit",
+      "E) Petrol"
+    ],
+    "dogruCevap": "C) Boksit",
+    "cozum": "Akdeniz Bölgesi, özellikle Seydişehir ve Alanya civarında boksit (alüminyum cevheri) çıkarımında önde gelir."
+  },
+  {
+    "soru_id": "Q088",
+    "soru": "Aşağıdaki akarsulardan hangisi Türkiye’de Marmara Denizi’ne dökülür?",
+    "secenekler": [
+      "A) Göksu",
+      "B) Biga Çayı",
+      "C) Kızılırmak",
+      "D) Seyhan",
+      "E) Yeşilırmak"
+    ],
+    "dogruCevap": "B) Biga Çayı",
+    "cozum": "Biga Çayı, Marmara Bölgesi’nde yer alır ve Marmara Denizi’ne dökülür. Diğer akarsular farklı denizlere ulaşır."
+  },
+  {
+    "soru_id": "Q089",
+    "soru": "Aşağıdaki bölgelerimizden hangisinde orman yangınları en fazla görülür?",
+    "secenekler": [
+      "A) Karadeniz Bölgesi",
+      "B) Akdeniz Bölgesi",
+      "C) İç Anadolu Bölgesi",
+      "D) Doğu Anadolu Bölgesi",
+      "E) Marmara Bölgesi"
+    ],
+    "dogruCevap": "B) Akdeniz Bölgesi",
+    "cozum": "Akdeniz Bölgesi, sıcak ve kurak yazları ile orman yangınlarının en fazla görüldüğü bölgedir."
+  },
+  {
+    "soru_id": "Q090",
+    "soru": "Aşağıdaki illerden hangisi Türkiye’de mermer üretiminde önde gelir?",
+    "secenekler": [
+      "A) Afyonkarahisar",
+      "B) Rize",
+      "C) Kars",
+      "D) Van",
+      "E) Hakkari"
+    ],
+    "dogruCevap": "A) Afyonkarahisar",
+    "cozum": "Afyonkarahisar, zengin mermer yatakları ve işleme tesisleriyle mermer üretiminde liderdir."
+  },
+  {
+    "soru_id": "Q091",
+    "soru": "Aşağıdaki göllerden hangisi Türkiye’de tuzluluk oranı en yüksek göldür?",
+    "secenekler": [
+      "A) Van Gölü",
+      "B) Tuz Gölü",
+      "C) Beyşehir Gölü",
+      "D) Eğirdir Gölü",
+      "E) Çıldır Gölü"
+    ],
+    "dogruCevap": "B) Tuz Gölü",
+    "cozum": "Tuz Gölü, yüksek tuz içeriğiyle Türkiye’nin en tuzlu gölüdür ve tuz üretimi için kullanılır."
+  },
+  {
+    "soru_id": "Q092",
+    "soru": "Aşağıdaki ekonomik faaliyetlerden hangisi İç Anadolu Bölgesi’nde daha az gelişmiştir?",
+    "secenekler": [
+      "A) Tarım",
+      "B) Hayvancılık",
+      "C) Turizm",
+      "D) Madencilik",
+      "E) Sanayi"
+    ],
+    "dogruCevap": "C) Turizm",
+    "cozum": "İç Anadolu Bölgesi’nde turizm, diğer bölgelere göre daha az gelişmiştir; tarım, hayvancılık, madencilik ve sanayi daha yaygındır."
+  },
+  {
+    "soru_id": "Q093",
+    "soru": "Aşağıdaki dağlardan hangisi Karadeniz Bölgesi’nde yer alır?",
+    "secenekler": [
+      "A) Toros Dağları",
+      "B) Kaçkar Dağları",
+      "C) Erciyes Dağı",
+      "D) Uludağ",
+      "E) Ağrı Dağı"
+    ],
+    "dogruCevap": "B) Kaçkar Dağları",
+    "cozum": "Kaçkar Dağları, Karadeniz Bölgesi’nde yer alır ve yaylacılık ile doğa turizmi için önemlidir."
+  },
+  {
+    "soru_id": "Q094",
+    "soru": "Aşağıdaki tarım ürünlerinden hangisi Türkiye’de en fazla Ege Bölgesi’nde üretilir?",
+    "secenekler": [
+      "A) Çay",
+      "B) Pamuk",
+      "C) Fındık",
+      "D) Şeker pancarı",
+      "E) Buğday"
+    ],
+    "dogruCevap": "B) Pamuk",
+    "cozum": "Ege Bölgesi, özellikle Aydın ve İzmir gibi illerde pamuk üretiminde önde gelir."
+  },
+  {
+    "soru_id": "Q095",
+    "soru": "Aşağıdaki illerden hangisi Türkiye’de sağlık turizmi açısından daha gelişmiştir?",
+    "secenekler": [
+      "A) Denizli",
+      "B) Rize",
+      "C) Kars",
+      "D) Van",
+      "E) Hakkari"
+    ],
+    "dogruCevap": "A) Denizli",
+    "cozum": "Denizli, Pamukkale ve Karahayıt’taki termal kaynaklarıyla sağlık turizminde önde gelir."
+  },
+  {
+    "soru_id": "Q096",
+    "soru": "Aşağıdaki yeraltı kaynaklarından hangisi Karadeniz Bölgesi’nde daha az çıkarılır?",
+    "secenekler": [
+      "A) Bakır",
+      "B) Linyit",
+      "C) Bor",
+      "D) Kaya tuzu",
+      "E) Mermer"
+    ],
+    "dogruCevap": "C) Bor",
+    "cozum": "Bor, daha çok Ege ve İç Anadolu Bölgeleri’nde çıkarılır. Karadeniz Bölgesi’nde bakır, linyit, kaya tuzu ve mermer daha yaygındır."
+  },
+  {
+    "soru_id": "Q097",
+    "soru": "Aşağıdaki akarsulardan hangisi Türkiye’de Karadeniz’e dökülür?",
+    "secenekler": [
+      "A) Çoruh Nehri",
+      "B) Seyhan",
+      "C) Gediz",
+      "D) Göksu",
+      "E) Biga Çayı"
+    ],
+    "dogruCevap": "A) Çoruh Nehri",
+    "cozum": "Çoruh Nehri, Karadeniz Bölgesi’nde yer alır ve Karadeniz’e dökülür. Diğer akarsular farklı denizlere ulaşır."
+  },
+  {
+    "soru_id": "Q098",
+    "soru": "Aşağıdaki bölgelerimizden hangisinde karasal iklim en belirgin şekilde yaşanır?",
+    "secenekler": [
+      "A) Karadeniz Bölgesi",
+      "B) Akdeniz Bölgesi",
+      "C) İç Anadolu Bölgesi",
+      "D) Ege Bölgesi",
+      "E) Marmara Bölgesi"
+    ],
+    "dogruCevap": "C) İç Anadolu Bölgesi",
+    "cozum": "İç Anadolu Bölgesi, denize uzaklığı ve yüksekliği nedeniyle karasal iklimin en belirgin olduğu bölgedir."
+  },
+  {
+    "soru_id": "Q099",
+    "soru": "Aşağıdaki illerden hangisi Türkiye’de mercimek üretiminde önde gelir?",
+    "secenekler": [
+      "A) Şanlıurfa",
+      "B) Antalya",
+      "C) Rize",
+      "D) Trabzon",
+      "E) İzmir"
+    ],
+    "dogruCevap": "A) Şanlıurfa",
+    "cozum": "Şanlıurfa, Güneydoğu Anadolu Bölgesi’nde mercimek üretiminde önde gelen illerden biridir."
+  },
+  {
+    "soru_id": "Q100",
+    "soru": "Aşağıdaki turizm türlerinden hangisi Ege Bölgesi’nde daha az gelişmiştir?",
+    "secenekler": [
+      "A) Deniz turizmi",
+      "B) Kültür turizmi",
+      "C) Tarihi turizm",
+      "D) Yayla turizmi",
+      "E) Sağlık turizmi"
+    ],
+    "dogruCevap": "D) Yayla turizmi",
+    "cozum": "Ege Bölgesi’nde yayla turizmi, yüksek platoların sınırlı olması nedeniyle diğer turizm türlerine göre daha az gelişmiştir."
+  }
+],
       "Türkiye'nin Coğrafi Konumu": [
         {
           "soru": "Aşağıdakilerden hangisi Türkiye'nin matematik konumunun sonuçlarından biri değildir?",
