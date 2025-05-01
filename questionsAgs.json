@@ -3,17 +3,6 @@
     "Denemeler": {
       "Deneme 1": [
         {
-          "soru": "Aşağıdaki cümlelerin hangisinde 'ancak' bağlacı yanlış kullanılmıştır?",
-          "secenekler": [
-            "Sınavı kazanmak istiyorsanız, ancak çalışmanız gerekir.",
-            "Ancak olayların sebebini bilenler, çözüm üretebilir.",
-            "Hava kararmıştı, ancak yolumuza devam ettik.",
-            "Ancak birkaç kişi toplantıya katıldı.",
-            "Bu işi ancak deneyimli bir usta yapabilir."
-          ],
-          "dogruCevap": "Sınavı kazanmak istiyorsanız, ancak çalışmanız gerekir."
-        },
-        {
           "soru": "Aşağıdaki paragrafın ana fikri nedir?\n\n'Tarih boyunca insanlık, yaşadığı çevreyi şekillendirmek için sürekli mücadele etmiştir. İlk çağlardan günümüze kadar teknoloji ve bilgi birikimi, insanların doğayla olan ilişkisini değiştirmiş, yaşam standartlarını yükseltmiştir. Ancak bu süreçte çevre üzerindeki baskıyı da artırmış, doğal kaynakların tükenmesine yol açmıştır.'",
           "secenekler": [
             "İnsanlığın teknolojik gelişmelerle ilerlemesi.",
@@ -3251,17 +3240,6 @@
             "Bütün bunlar sanatın konularını oluşturur."
           ],
           "dogruCevap": "Bütün bunlar sanatın konularını oluşturur."
-        },
-        {
-          "soru": "Aşağıdaki sözel mantık sorusunun cevabı nedir? Ayşe, Burak, Can ve Deniz farklı spor dallarıyla ilgilenmektedirler: futbol, basketbol, voleybol ve tenis. Her biri sadece bir spor dalıyla ilgilenmektedir. Ayşe top ile oynanan bir spor dalıyla ilgilenmektedir. Burak ve Deniz aynı takım sporlarıyla ilgilenmemektedir. Can raket ile oynanan bir spor dalıyla ilgilenmemektedir. Buna göre hangi öğrenci hangi spor dalıyla ilgilenmektedir?",
-          "secenekler": [
-            "Ayşe: Futbol, Burak: Basketbol, Can: Voleybol, Deniz: Tenis",
-            "Ayşe: Basketbol, Burak: Futbol, Can: Voleybol, Deniz: Tenis",
-            "Ayşe: Futbol, Burak: Voleybol, Can: Basketbol, Deniz: Tenis",
-            "Ayşe: Basketbol, Burak: Voleybol, Can: Futbol, Deniz: Tenis",
-            "Ayşe: Voleybol, Burak: Futbol, Can: Basketbol, Deniz: Tenis"
-          ],
-          "dogruCevap": "Ayşe: Futbol, Burak: Voleybol, Can: Basketbol, Deniz: Tenis"
         },
         {
           "soru": "25 + 15 x 3 - 10 / 2 işleminin sonucu kaçtır?",
@@ -11768,148 +11746,6 @@
           "dogruCevap": "Öğrenci motivasyonunu artırmak"
         }
       ],
-      "Öğretimin Basamaklandırılması": [
-        {
-          "soru": "Türk eğitim sisteminde öğretimin basamaklandırılması nedir?",
-          "secenekler": [
-            "Eğitim süreçlerinin belirli bir düzende sıralanması",
-            "Eğitimde başarıya göre sıralama yapılması",
-            "Öğrencilerin ders seçiminde özgür olması",
-            "Eğitim kurumlarının fiziki yapısının düzenlenmesi"
-          ],
-          "dogruCevap": "Eğitim süreçlerinin belirli bir düzende sıralanması"
-        },
-        {
-          "soru": "Türk eğitim sistemindeki hangi basamaktan sonra üniversite eğitimi başlar?",
-          "secenekler": [
-            "Ortaokul",
-            "Lise",
-            "İlkokul",
-            "Yükseköğretim"
-          ],
-          "dogruCevap": "Lise"
-        },
-        {
-          "soru": "Türk eğitim sisteminde yükseköğretim hangi basamaktan sonra gelir?",
-          "secenekler": [
-            "İlköğretim",
-            "Ortaöğretim",
-            "Yükseköğretim",
-            "Üniversite"
-          ],
-          "dogruCevap": "Ortaöğretim"
-        },
-        {
-          "soru": "Öğretimin basamaklandırılması hangi tür eğitimde gereklidir?",
-          "secenekler": [
-            "Herkesin aynı düzeyde eğitim aldığı eğitim sistemlerinde",
-            "Öğrencilerin başarı düzeylerine göre eğitim yapıldığı eğitim sistemlerinde",
-            "Yaş gruplarına göre eğitim yapılan eğitim sistemlerinde",
-            "Farklı dilde eğitim yapılan sistemlerde"
-          ],
-          "dogruCevap": "Yaş gruplarına göre eğitim yapılan eğitim sistemlerinde"
-        },
-        {
-          "soru": "Türk eğitim sisteminde öğretimin her basamağı hangi kurumlar tarafından sağlanır?",
-          "secenekler": [
-            "Özel kurumlar",
-            "Devlet okulları",
-            "Hem devlet hem de özel kurumlar",
-            "Devlet ve vakıf üniversiteleri"
-          ],
-          "dogruCevap": "Hem devlet hem de özel kurumlar"
-        },
-        {
-          "soru": "Türk eğitim sisteminde öğretim basamakları arasındaki geçişi kim denetler?",
-          "secenekler": [
-            "Milli Eğitim Bakanlığı",
-            "Yükseköğretim Kurulu",
-            "İçişleri Bakanlığı",
-            "Türkiye İstatistik Kurumu"
-          ],
-          "dogruCevap": "Milli Eğitim Bakanlığı"
-        },
-        {
-          "soru": "Türk eğitim sisteminde ortaöğretimden sonraki basamak hangisidir?",
-          "secenekler": [
-            "Üniversite",
-            "Lise",
-            "İlköğretim",
-            "Meslek yüksekokulu"
-          ],
-          "dogruCevap": "Üniversite"
-        },
-        {
-          "soru": "Türk eğitim sisteminde öğretimin basamaklandırılmasında hangi faktör önemli rol oynar?",
-          "secenekler": [
-            "Öğrencilerin psikolojik gelişimleri",
-            "Okulun bina kapasitesi",
-            "Öğrencilerin tercihlerine göre eğitim",
-            "Öğrencilerin yaş ve başarı düzeyleri"
-          ],
-          "dogruCevap": "Öğrencilerin yaş ve başarı düzeyleri"
-        },
-        {
-          "soru": "Ortaöğretim basamağındaki eğitim süresi ne kadardır?",
-          "secenekler": [
-            "2 yıl",
-            "3 yıl",
-            "4 yıl",
-            "5 yıl"
-          ],
-          "dogruCevap": "4 yıl"
-        },
-        {
-          "soru": "Türk eğitim sisteminde öğretim basamakları arasındaki en temel fark nedir?",
-          "secenekler": [
-            "Eğitim süresi",
-            "Ders içerikleri",
-            "Okul binalarının büyüklüğü",
-            "Öğrencilerin yaşları"
-          ],
-          "dogruCevap": "Ders içerikleri"
-        },
-        {
-          "soru": "Öğretimin basamaklandırılması hangi eğitimi sağlar?",
-          "secenekler": [
-            "Eğitimde başarı",
-            "Yaş aralıklarına göre eşitlik",
-            "Bütün öğrencilere aynı eğitim verilmesi",
-            "Yaş ve gelişim düzeyine uygun eğitim"
-          ],
-          "dogruCevap": "Yaş ve gelişim düzeyine uygun eğitim"
-        },
-        {
-          "soru": "Türk eğitim sisteminde öğretimin basamaklandırılmasında en büyük amaç nedir?",
-          "secenekler": [
-            "Eğitimde kalitenin artırılması",
-            "Bütün öğrencilerin aynı seviyede eğitim alması",
-            "Öğrencilerin çeşitli alanlarda yetiştirilmesi",
-            "Eğitim sisteminin adil ve düzenli olması"
-          ],
-          "dogruCevap": "Eğitim sisteminin adil ve düzenli olması"
-        },
-        {
-          "soru": "Öğretimin basamaklandırılması, hangi tür eğitimde etkili sonuçlar verir?",
-          "secenekler": [
-            "Serbest eğitim",
-            "Eğitimde bireysel yaklaşım",
-            "Yaş ve gelişim düzeyine uygun eğitim",
-            "Öğrencilerin tek tip eğitim aldığı sistem"
-          ],
-          "dogruCevap": "Yaş ve gelişim düzeyine uygun eğitim"
-        },
-        {
-          "soru": "Türk eğitim sisteminde ilkokuldan sonra hangi tür eğitim basamağına geçilir?",
-          "secenekler": [
-            "Anaokulu",
-            "Ortaokul",
-            "Lise",
-            "Üniversite"
-          ],
-          "dogruCevap": "Ortaokul"
-        }
-      ],
       "Eğitimin Merkezden ve Yerinden Yönetimi": [
         {
           "soru": "Eğitimin merkezden yönetimi hangi özelliği taşır?",
@@ -15157,18 +14993,6 @@
           ],
           "dogruCevap": "(x + 1)(x - 2)(x + 2) ; -4",
           "cozum": "1. x³ + x² - 4x - 4 = 0 denklemini gruplandırarak çözelim\n2. x³ + x² - 4x - 4 = x²(x + 1) - 4(x + 1)\n3. (x + 1) ortak faktörünü dışarı alırsak: (x + 1)(x² - 4)\n4. x² - 4 = (x - 2)(x + 2) olduğundan: (x + 1)(x - 2)(x + 2)\n5. Kökler: x = -1, x = 2, x = -2\n6. Köklerin çarpımı: (-1) × 2 × (-2) = -4"
-        },
-        {
-          "soru": "x³ - 3x² - 4x + 12 = 0 denkleminin çarpanlara ayrılmış hali hangisidir ve köklerinin çarpımı nedir?",
-          "secenekler": [
-            "(x - 3)(x - 2)(x + 2) ; -12",
-            "(x + 3)(x - 2)(x + 2) ; 12",
-            "(x - 3)(x - 2)(x + 2) ; 12",
-            "(x - 3)(x + 2)(x - 2) ; -12",
-            "(x - 2)(x + 3)(x - 2) ; 12"
-          ],
-          "dogruCevap": "(x - 3)(x - 2)(x + 2) ; -12",
-          "cozum": "1. x³ - 3x² - 4x + 12 = 0 denklemini gruplandıralım\n2. x³ - 3x² - 4x + 12 = x²(x - 3) - 4(x - 3)\n3. (x - 3) ortak faktörünü dışarı alırsak: (x - 3)(x² - 4)\n4. x² - 4 = (x - 2)(x + 2) olduğundan: (x - 3)(x - 2)(x + 2)\n5. Kökler: x = 3, x = 2, x = -2\n6. Köklerin çarpımı: 3 × 2 × (-2) = -12"
         },
         {
           "soru": "4x² - 12x + 9 = 0 denkleminin çarpanlara ayrılmış hali nedir?",
@@ -22942,8 +22766,7 @@
       "A) En uzun gündüzün yaşandığı ildir",
       "B) En kısa gecenin yaşandığı ildir",
       "C) Gölge boylarının en uzun olduğu ildir",
-      "D) Gurup süresinin en uzun olduğu ildir",
-      "E) Çizgisel hızın en fazla olduğu ildir"
+      "D) Gurup süresinin en uzun olduğu ildir"
     ],
     "dogruCevap": "C) Gölge boylarının en uzun olduğu ildir",
     "cozum": "21 Haziran’da Sinop, kuzeyde yer aldığı için en uzun gündüz ve en kısa geceyi yaşar, gurup süresi uzundur ve çizgisel hız yüksektir. Ancak gölge boyları en kısa olur, çünkü güneş ışınları daha dik gelir."
@@ -22999,19 +22822,6 @@
     ],
     "dogruCevap": "D) Yayla turizmi",
     "cozum": "Marmara Bölgesi’nin yükseltisi düşüktür ve yaylacılık için uygun yüksek alanlar sınırlıdır. Diğer turizm türleri (deniz, sağlık, kış, kültür) bölgede daha kolay geliştirilebilir."
-  },
-  {
-    "soru_id": "Q014",
-    "soru": "Aşağıdaki Türkiye haritasında verilen numaralı yerlerden hangisinde asfaltit rezervi bulunmaktadır?",
-    "secenekler": [
-      "A) I",
-      "B) II",
-      "C) III",
-      "D) IV",
-      "E) V"
-    ],
-    "dogruCevap": "C) III",
-    "cozum": "Asfaltit rezervleri Şırnak bölgesinde (III numaralı alan) bulunmaktadır. Bu, Türkiye’nin önemli asfaltit yataklarının yer aldığı bir bölgedir."
   },
   {
     "soru_id": "Q015",
@@ -25780,16 +25590,6 @@
           "dogruCevap": "İklim koşullarının değişkenliği"
         },
         {
-          "soru": "Türkiye'de aşağıdaki bölgelerden hangisinde arıcılık faaliyetleri daha yaygındır?",
-          "secenekler": [
-            "Marmara Bölgesi",
-            "Ege Bölgesi",
-            "Doğu Anadolu Bölgesi",
-            "Güneydoğu Anadolu Bölgesi"
-          ],
-          "dogruCevap": "Doğu Anadolu Bölgesi"
-        },
-        {
           "soru": "Aşağıdakilerden hangisi Türkiye'de orman yangınlarının en sık görüldüğü bölgelerden biridir?",
           "secenekler": [
             "İç Anadolu Bölgesi",
@@ -27705,16 +27505,6 @@
           "dogruCevap": "Halk Eğitim"
         },
         {
-          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre, öğretmenlik mesleğine hazırlıkta aşağıdakilerden hangisi aranmaz?",
-          "secenekler": [
-            "Genel Yetenek",
-            "Genel Kültür",
-            "Öngörü",
-            "Pedagojik Formasyon"
-          ],
-          "dogruCevap": "Öngörü"
-        },
-        {
           "soru": "Aşağıdakilerden hangisi Türk Milli Eğitim Temel İlkeleri'nden biri değildir?",
           "secenekler": [
             "Eğitim Hakkı",
@@ -28492,16 +28282,6 @@
             "Öğrencilere otomatik olarak idari ceza kesilmesi"
           ],
           "dogruCevap": "Öğrencilere otomatik olarak idari ceza kesilmesi"
-        },
-        {
-          "soru": "Ek Madde 2’ye göre, 222 sayılı Kanunun yedinci bölümünde yer alan aşağıdaki başlıklardan hangileri ilköğretim okulları için de uygulanır?",
-          "secenekler": [
-            "Okulların arsa ve arazi işleri, ilköğretim okulu yapımı ve donatım işleri, ilköğretimin gelir, giderleri ve planlama",
-            "Öğretmen atama ve yer değiştirme usul ve esasları",
-            "Öğrenci kayıt ve devam işlemleri",
-            "Devamsızlık ve disiplin uygulamaları"
-          ],
-          "dogruCevap": "Okulların arsa ve arazi işleri, ilköğretim okulu yapımı ve donatım işleri, ilköğretimin gelir, giderleri ve planlama"
         }
       ],
       "7528 Sayılı Öğretmenlik Mesleği Kanunu": [
