@@ -4775,7 +4775,1094 @@
       ]
     },
     "Eğitim Temelleri": {
-      "2017 Kpss Eğitim Bilimleri Çıkmış Sorular": [
+      
+        "Eğitim Bilimleri Deneme 1": [
+         {
+          "soru": "1) Bireyde kendi yaşantıları yoluyla kalıcı izli davranış değişikliği oluşturma süreci olarak tanımlanan temel kavram aşağıdakilerden hangisidir?",
+          "secenekler": [
+           "A) Öğretim",
+           "B) Eğitim",
+           "C) Öğrenme",
+           "D) Gelişim",
+           "E) Öğretme"
+          ],
+          "dogruCevap": "C) Öğrenme",
+          "cozum": "Öğrenme, bireyin kendi yaşantıları sonucunda davranışında meydana gelen nispeten kalıcı değişikliklerdir. Eğitim daha geniş bir kavram olup bireyi topluma kazandırma sürecidir. Öğretim, eğitimin okul içi planlı kısmıdır. Gelişim ise yaşa bağlı fizyolojik ve psikolojik değişimlerdir. Öğretme, öğrenmeyi kolaylaştırma etkinliğidir. Tanım doğrudan 'öğrenme' kavramına aittir."
+         },
+         {
+          "soru": "2) Eğitimin, bireyi hayata hazırlama, sosyalleştirme ve meslek edindirme gibi işlevleri hangi başlık altında toplanır?",
+          "secenekler": [
+           "A) Politik İşlev",
+           "B) Ekonomik İşlev",
+           "C) Sosyal İşlev",
+           "D) Kültürel İşlev",
+           "E) Açık (Manifest) İşlev"
+          ],
+          "dogruCevap": "C) Sosyal İşlev",
+          "cozum": "Eğitimin sosyal işlevi, bireyin toplumla uyumunu sağlama, toplumsal normları ve değerleri aktarma, sosyalleştirme ve bireyleri toplumsal hayatta bir rol üstlenmeye (meslek edinme vb.) hazırlama gibi boyutları içerir. Politik, ekonomik ve kültürel işlevler eğitimin farklı alanlardaki etkileridir. Açık işlev ise eğitimin herkesçe bilinen amaçlarıdır."
+         },
+         {
+          "soru": "3) Bir öğrencinin, derste parmak kaldırmadan konuştuğunda öğretmeni tarafından uyarılması sonucu, bir daha parmak kaldırmadan konuşmama davranışını sergilemesi, Behaviorizm kuramında aşağıdaki kavramlardan hangisiyle açıklanır?",
+          "secenekler": [
+           "A) Olumlu Pekiştirme",
+           "B) Olumsuz Pekiştirme",
+           "C) Ceza (I. Tip)",
+           "D) Sönme",
+           "E) Genelleme"
+          ],
+          "dogruCevap": "C) Ceza (I. Tip)",
+          "cozum": "Behaviorizmde ceza, bir davranışın ardından hoşa gitmeyen bir uyarıcının ortama sunulması (I. Tip Ceza - cezalandırma) veya hoşa giden bir uyarıcının ortamdan çekilmesi (II. Tip Ceza - bedel ödettirme) yoluyla o davranışın tekrar edilme olasılığını azaltmayı amaçlar. Öğretmenin uyarması, öğrenci için hoşa gitmeyen bir durum yaratır ve parmak kaldırmadan konuşma davranışını azaltır, bu I. Tip Ceza'dır."
+         },
+         {
+          "soru": "4) Piaget'nin Bilişsel Gelişim Kuramı'na göre, bir çocuğun zihnindeki mevcut şemaları kullanarak yeni bilgileri anlamlandırma süreci aşağıdakilerden hangisidir?",
+          "secenekler": [
+           "A) Uyum (Adaptasyon)",
+           "B) Özümleme (Asimilasyon)",
+           "C) Uyumsama (Akkomodasyon)",
+           "D) Dengeleme (Equilibrasyon)",
+           "E) Örgütleme (Organizasyon)"
+          ],
+          "dogruCevap": "B) Özümleme (Asimilasyon)",
+          "cozum": "Piaget'ye göre bilişsel gelişim, uyum süreciyle gerçekleşir. Uyum ise özümleme ve uyumsama olmak üzere iki alt süreçten oluşur. Özümleme (Asimilasyon), bireyin yeni karşılaştığı durumları veya bilgileri, zihnindeki mevcut şemaların içine alarak anlamlandırmasıdır. Uyumsama (Akkomodasyon) ise mevcut şemaların yeni duruma uydurmak için değiştirilmesi veya yeni şemalar oluşturulmasıdır. Soru mevcut şemalarla anlamlandırmayı sormaktadır."
+         },
+         {
+          "soru": "5) Vygotsky'nin Sosyokültürel Kuramı'na göre, çocuğun tek başına yapabildiği düzey ile bir yetişkinin veya daha yetkin bir akranın yardımıyla yapabildiği düzey arasındaki alana ne ad verilir?",
+          "secenekler": [
+           "A) Bilişsel Çatışma Alanı",
+           "B) Yakınsal Gelişim Alanı (ZPD)",
+           "C) İçselleştirme Alanı",
+           "D) Olgunlaşma Alanı",
+           "E) Şema Oluşturma Alanı"
+          ],
+          "dogruCevap": "B) Yakınsal Gelişim Alanı (ZPD)",
+          "cozum": "Vygotsky'nin en bilinen kavramlarından biri olan Yakınsal Gelişim Alanı (Zone of Proximal Development - ZPD), öğrencinin mevcut gelişim düzeyi ile potansiyel gelişim düzeyi arasındaki farkı ifade eder. Bu alandaki görevler, öğrencinin tek başına üstesinden gelemediği ancak rehberlik veya işbirliği ile başarabileceği görevlerdir. Öğrenme bu alanda en etkili şekilde gerçekleşir."
+         },
+         {
+          "soru": "6) Eğitimin, toplumsal tabakalaşma ve hareketlilik üzerindeki rolünü inceleyen, eğitimdeki eşitsizliklerin sosyal kökenlerini araştıran alan aşağıdakilerden hangisidir?",
+          "secenekler": [
+           "A) Eğitim Felsefesi",
+           "B) Eğitim Psikolojisi",
+           "C) Eğitimin Sosyolojisi",
+           "D) Eğitim Ekonomisi",
+           "E) Eğitim Tarihi"
+          ],
+          "dogruCevap": "C) Eğitimin Sosyolojisi",
+          "cozum": "Eğitimin Sosyolojisi, eğitim kurumlarının toplumsal yapıyla ilişkisini, eğitimin sosyal değişim ve süreklilikteki rolünü, toplumsal sınıf, cinsiyet, etnik köken gibi faktörlerin eğitim üzerindeki etkisini, eğitimdeki fırsat eşitsizliklerini ve sosyal hareketliliği inceler. Toplumsal tabakalaşma ve hareketlilik konuları sosyolojinin temel alanlarıdır ve eğitim bu bağlamda incelenir."
+         },
+         {
+          "soru": "7) Eğitimin felsefi temellerinden 'Epistemoloji' (Bilgi Felsefesi) alanı, eğitim açısından aşağıdaki sorulardan hangisine en çok odaklanır?",
+          "secenekler": [
+           "A) Eğitimin amacı ne olmalıdır?",
+           "B) Bilgi nedir? Doğru bilgiye nasıl ulaşılır?",
+           "C) Değerler eğitimde nasıl yer almalıdır?",
+           "D) Öğrenme süreci nasıl işler?",
+           "E) Eğitim kimler için olmalıdır?"
+          ],
+          "dogruCevap": "B) Bilgi nedir? Doğru bilgiye nasıl ulaşılır?",
+          "cozum": "Epistemoloji, bilginin doğası, kaynağı, kapsamı, elde edilme yöntemleri ve güvenilirliği gibi sorularla ilgilenen felsefe dalıdır. Eğitim açısından epistemoloji, 'Ne öğretilmelidir?', 'Bilginin kaynağı nedir?', 'Doğru ve geçerli bilgi hangisidir?' gibi sorulara yanıt arar ve müfredatın belirlenmesinde etkili olur."
+         },
+         {
+          "soru": "8) Eğitimin ekonomik temelleri kapsamında 'İnsan Sermayesi Teorisi'ne göre, eğitime yapılan yatırımın temel getirisi aşağıdakilerden hangisidir?",
+          "secenekler": [
+           "A) Sadece kişisel tatmin",
+           "B) Ülkenin doğal kaynaklarının artması",
+           "C) Bireyin verimliliğinin ve dolayısıyla kazancının artması, ekonomik büyüme",
+           "D) Sadece sosyal statünün yükselmesi",
+           "E) Fiziksel altyapının gelişmesi"
+          ],
+          "dogruCevap": "C) Bireyin verimliliğinin ve dolayısıyla kazancının artması, ekonomik büyüme",
+          "cozum": "İnsan Sermayesi Teorisi, bireylerin eğitime ve mesleki eğitime yaptıkları yatırımların, onların bilgi ve becerilerini artırarak 'insan sermayesi'ni oluşturduğunu ve bu sermayenin bireyin gelecekteki kazancını ve verimliliğini, dolayısıyla da toplumsal ve ulusal düzeyde ekonomik büyümeyi artırdığını savunur."
+         },
+         {
+          "soru": "9) Eğitimin politik işlevi kapsamında, okulların yerine getirdiği temel görevlerden biri aşağıdakilerden hangisidir?",
+          "secenekler": [
+           "A) Sadece okuma yazma öğretmek",
+           "B) Bireyleri vatandaşlık rolleri ve sorumlulukları konusunda bilinçlendirmek, siyasal sisteme katılımı teşvik etmek",
+           "C) Sadece mesleki beceri kazandırmak",
+           "D) Kültürel gelenekleri değiştirmek",
+           "E) Ekonomik eşitsizlikleri tamamen ortadan kaldırmak"
+          ],
+          "dogruCevap": "B) Bireyleri vatandaşlık rolleri ve sorumlulukları konusunda bilinçlendirmek, siyasal sisteme katılımı teşvik etmek",
+          "cozum": "Eğitimin politik işlevi, bireyleri yaşadıkları ülkenin siyasal sistemi hakkında bilgilendirmek, vatandaşlık hak ve sorumluluklarını öğretmek, siyasi katılımı teşvik etmek ve demokratik değerleri benimsetmek gibi görevleri kapsar. Okullar, siyasal sosyalleşmenin önemli kurumlarındandır."
+         },
+         {
+          "soru": "10) Eğitimde hukuki temeller kapsamında, Anayasa'da güvence altına alınan 'Eğitim ve Öğrenim Hakkı' ile ilgili aşağıdakilerden hangisi yanlıştır?",
+          "secenekler": [
+           "A) Herkes eğitim ve öğrenim hakkına sahiptir.",
+           "B) İlköğretim kız ve erkek bütün vatandaşlar için zorunludur.",
+           "C) Devlet okullarında ilköğretim parasızdır.",
+           "D) Özel eğitim kurumları Anayasa kapsamı dışındadır.",
+           "E) Devlet, maddi imkânlardan yoksun başarılı öğrencilerin öğrenimlerini sağlamak amacıyla burslar ve başka yollarla gerekli yardımları yapar."
+          ],
+          "dogruCevap": "D) Özel eğitim kurumları Anayasa kapsamı dışındadır.",
+          "cozum": "Türkiye Cumhuriyeti Anayasası, eğitim ve öğrenim hakkını güvence altına alır ve ilköğretimin zorunlu ve devlet okullarında parasız olduğunu belirtir. Anayasa, devletin eğitim hizmetlerini düzenlemesini öngörür ve özel eğitim kurumları da devletin denetimi ve gözetimi altındadır, yani Anayasa kapsamı dışı değildirler."
+         },
+         {
+          "soru": "11) Eğitim ve öğretimde etik değerler açısından, öğretmenin mesleki yeterliliğini sürekli geliştirmesi ve güncel bilgilere sahip olması hangi etik sorumlulukla en çok ilişkilidir?",
+          "secenekler": [
+           "A) Adalet ve eşitlik",
+           "B) Saygı",
+           "C) Profesyonellik",
+           "D) Gizlilik",
+           "E) Tarafsızlık"
+          ],
+          "dogruCevap": "C) Profesyonellik",
+          "cozum": "Profesyonellik, bir meslek mensubunun görevini layıkıyla yerine getirebilmesi için gerekli bilgi, beceri ve yetkinliğe sahip olması, mesleki standartlara uyması ve kendini sürekli geliştirmesidir. Öğretmenin mesleki gelişimini sürdürmesi, güncel bilgilere sahip olması profesyonel bir etik sorumluluktur."
+         },
+         {
+          "soru": "12) Eğitim teknolojileri kapsamında, öğrenci merkezli öğrenmeyi destekleyen ve öğrencilerin kendi öğrenme hızlarında ilerlemesine olanak tanıyan dijital araç ve uygulamalar hangi kavramla daha yakından ilişkilidir?",
+          "secenekler": [
+           "A) Geleneksel Öğretim",
+           "B) Uyarlanabilir Öğrenme (Adaptive Learning)",
+           "C) Kitlesel Açık Çevrimiçi Dersler (MOOCs)",
+           "D) Dijital Okuryazarlık",
+           "E) Öğrenme Yönetim Sistemleri (LMS)"
+          ],
+          "dogruCevap": "B) Uyarlanabilir Öğrenme (Adaptive Learning)",
+          "cozum": "Uyarlanabilir Öğrenme (Adaptive Learning), teknoloji kullanarak öğrenme deneyimini bireyin ihtiyaçlarına, performansına ve hızına göre dinamik olarak ayarlayan bir yaklaşımdır. Öğrenciye özel içerik, zorluk seviyesi ve geri bildirim sunarak öğrenci merkezli bir deneyim sağlar."
+         },
+         {
+          "soru": "13) Türk Milli Eğitim Sisteminin yapısı içinde, ilköğretimi tamamlayan ve öğrencileri ilgi, istidat ve kabiliyetleri doğrultusunda hayata, bir mesleğe veya yükseköğrenime hazırlayan kademe aşağıdakilerden hangisidir?",
+          "secenekler": [
+           "A) Okul Öncesi Eğitim",
+           "B) İlköğretim",
+           "C) Ortaöğretim",
+           "D) Yaygın Eğitim",
+           "E) Yükseköğretim"
+          ],
+          "dogruCevap": "C) Ortaöğretim",
+          "cozum": "1739 Sayılı Milli Eğitim Temel Kanunu'na göre, ortaöğretim, ilköğretime dayalı dört yıllık zorunlu eğitim kademesidir. Amacı, öğrencilere asgarî ortak bir genel kültür vererek onları hayata, ilgi ve yetenekleri doğrultusunda bir yükseköğretim programına veya hem hayata hem de mesleğe yahut hem mesleğe hem de yükseköğretime hazırlamaktır. Tanım doğrudan ortaöğretimin amacını yansıtmaktadır."
+         },
+         {
+          "soru": "14) Türkiye Yüzyılı Maarif Modeli kapsamında, öğrencilerin bilgi ezberlemek yerine bilgiyi anlamlandırması, sorgulaması ve problem çözme becerileri geliştirmesi hangi temel yaklaşımın bir göstergesidir?",
+          "secenekler": [
+           "A) Davranışçı Yaklaşım",
+           "B) Bilişselci Yaklaşım",
+           "C) Yapısalcı (Konstrüktivist) Yaklaşım",
+           "D) Geleneksel Yaklaşım",
+           "E) Pasif Öğrenme Yaklaşımı"
+          ],
+          "dogruCevap": "C) Yapısalcı (Konstrüktivist) Yaklaşım",
+          "cozum": "Yapısalcı (Konstrüktivist) öğrenme kuramına göre öğrenen, bilgiyi pasif olarak alan değil, aktif olarak kendi zihinsel yapıları içinde inşa eden kişidir. Anlamlandırma, sorgulama, problem çözme, bilgiyi yeniden yapılandırma gibi süreçler yapısalcı yaklaşımın temel özellikleridir. Türkiye Yüzyılı Maarif Modeli, öğrenciyi merkeze alan yapısalcı yaklaşımdan etkilenmiştir."
+         },
+         {
+          "soru": "15) Bir sınıfta öğretmenin, tüm öğrencilere adil davranması, değerlendirmelerde şeffaf olması ve kişisel farklılıkları gözetmeksizin herkese eşit fırsat sunması, eğitimde hangi etik ilkeyle doğrudan ilişkilidir?",
+          "secenekler": [
+           "A) Gizlilik",
+           "B) Doğruluk",
+           "C) Profesyonellik",
+           "D) Adalet ve Eşitlik",
+           "E) Saygı"
+          ],
+          "dogruCevap": "D) Adalet ve Eşitlik",
+          "cozum": "Adalet ve eşitlik ilkesi, eğitim ortamında herkese karşı tarafsız olmayı, kişisel özelliklere, farklılıklara veya statüye bakılmaksızın herkese aynı temel hakları tanımayı, değerlendirmelerde objektif ve hakkaniyetli davranmayı içerir. Öğretmenin adil ve eşit davranması bu ilkenin bir gereğidir."
+         },
+         {
+          "soru": "16) Bir öğrencinin, öğretmenin anlattığı konuyu anlamak için mevcut bilgilerini kullanması ve yeni bilgiyi bu mevcut bilgilerle ilişkilendirmesi, Bilişselcilik kuramında aşağıdaki süreçlerden hangisiyle açıklanır?",
+          "secenekler": [
+           "A) Koşullanma",
+           "B) Pekiştirme",
+           "C) Bilgi İşleme",
+           "D) Sönme",
+           "E) Model Alma"
+          ],
+          "dogruCevap": "C) Bilgi İşleme",
+          "cozum": "Bilişsel öğrenme kuramları, öğrenmeyi zihinsel süreçler olarak görür. Bilgi işleme modeli, bilginin dışarıdan alınması (duyusal kayıt), kısa süreli bellekte tutulması, uzun süreli belleğe kodlanması, depolanması ve gerektiğinde geri çağrılması süreçlerini açıklar. Öğrencinin mevcut bilgiyi kullanarak yeni bilgiyi anlamlandırması ve ilişkilendirmesi bilgi işleme süreçlerinin bir parçasıdır."
+         },
+         {
+          "soru": "17) Eğitimin temel amaçlarından biri olan 'kültürel mirasın aktarılması' işlevi, özellikle aşağıdaki eğitim kurumlarından hangisinin görevi olarak öne çıkar?",
+          "secenekler": [
+           "A) Sanayi kuruluşları",
+           "B) Aile",
+           "C) Kitle iletişim araçları",
+           "D) Okul",
+           "E) Dernekler"
+          ],
+          "dogruCevap": "D) Okul",
+          "cozum": "Kültürel mirasın yeni nesillere sistemli ve planlı bir şekilde aktarılması, eğitimin temel işlevlerinden biridir ve bu görev öncelikli olarak okul kurumları tarafından yerine getirilir. Aile, kitle iletişim araçları ve diğer kurumlar da kültürel aktarımda rol oynar, ancak bu aktarımın planlı, programlı ve kurumlaşmış hali okulda gerçekleşir."
+         },
+         {
+          "soru": "18) Gelişim psikolojisinde, bireyin fiziksel, bilişsel, duygusal ve sosyal alanlardaki değişimlerinin yaşam boyu devam ettiğini savunan yaklaşım aşağıdakilerden hangisidir?",
+          "secenekler": [
+           "A) Sadece Çocukluk Dönemi Gelişimi",
+           "B) Yaşam Boyu Gelişim Yaklaşımı",
+           "C) Ergenlik Dönemi Odaklı Yaklaşım",
+           "D) Sadece Bilişsel Gelişim Yaklaşımı",
+           "E) Doğuştancılık Yaklaşımı"
+          ],
+          "dogruCevap": "B) Yaşam Boyu Gelişim Yaklaşımı",
+          "cozum": "Yaşam Boyu Gelişim Yaklaşımı, gelişimin sadece çocukluk veya ergenlik gibi belirli dönemlerle sınırlı olmadığını, bireyin doğumdan ölüme kadar fiziksel, bilişsel, duygusal ve sosyal alanlarda sürekli bir değişim ve etkileşim içinde olduğunu savunur."
+         },
+         {
+          "soru": "19) Eğitimin felsefi temellerinde 'Aksiyoloji' (Değer Felsefesi) alanı, eğitim açısından aşağıdaki sorulardan hangisine en çok odaklanır?",
+          "secenekler": [
+           "A) Bilginin kaynağı nedir?",
+           "B) Gerçeklik ne demektir?",
+           "C) İyi, doğru, güzel gibi değerlerin doğası nedir? Eğitsel değerler neler olmalıdır?",
+           "D) İnsan zihni nasıl çalışır?",
+           "E) Evren nasıl oluşmuştur?"
+          ],
+          "dogruCevap": "C) İyi, doğru, güzel gibi değerlerin doğası nedir? Eğitsel değerler neler olmalıdır?",
+          "cozum": "Aksiyoloji, değerlerin doğası, kaynağı, türleri ve hiyerarşisi gibi konularla ilgilenen felsefe dalıdır. Eğitim açısından aksiyoloji, 'Eğitimle hangi değerler kazandırılmalıdır?', 'Değerler müfredatta nasıl yer almalıdır?', 'İyi öğretmen/öğrenci ne demektir?' gibi sorulara yanıt arar ve eğitimin amaçlarını ve içeriğini değerler açısından şekillendirir."
+         },
+         {
+          "soru": "20) Eğitimin ekonomik temelleri kapsamında, eğitim harcamalarının bir yatırım olarak görülmesi ve bu yatırımın gelecekte gelir artışı sağlaması beklentisi hangi kavramla açıklanır?",
+          "secenekler": [
+           "A) Tüketim Harcaması",
+           "B) Transfer Ödemesi",
+           "C) Beşeri Sermaye Yatırımı",
+           "D) Cari Harcama",
+           "E) Kamu Harcaması"
+          ],
+          "dogruCevap": "C) Beşeri Sermaye Yatırımı",
+          "cozum": "Eğitim harcamalarının bireyin bilgi, beceri ve verimliliğini artırarak gelecekte daha fazla gelir elde etmesine ve ekonomik büyümeye katkıda bulunmasına yönelik bir yatırım olarak görülmesi 'Beşeri Sermaye Yatırımı' kavramıyla açıklanır. İnsan, eğitim yoluyla değer katan bir sermaye olarak görülür."
+         },
+         {
+          "soru": "21) Eğitim ve öğretimde etik ihlallerine örnek olarak, bir öğretmenin sınav sorularını önceden bazı öğrencileriyle paylaşması hangi etik prensibi doğrudan ihlal eder?",
+          "secenekler": [
+           "A) Gizlilik",
+           "B) Saygı",
+           "C) Doğruluk ve Dürüstlük",
+           "D) Profesyonellik",
+           "E) Tarafsızlık ve Adalet"
+          ],
+          "dogruCevap": "E) Tarafsızlık ve Adalet",
+          "cozum": "Sınav sorularını önceden paylaşmak, değerlendirme sürecinde bazı öğrencilere haksız avantaj sağlamak ve diğer öğrencilere karşı adaletsiz davranmak anlamına gelir. Bu durum, öğretmenin tüm öğrencilere karşı eşit ve tarafsız olma sorumluluğunu ve adalet ilkesini doğrudan ihlal eder. Doğruluk ve dürüstlük prensibi de dolaylı olarak ihlal edilir, ancak temel ihlal adalet ve tarafsızlıktadır."
+         },
+         {
+          "soru": "22) Eğitim teknolojileri kapsamında, öğrencilerin sınıf dışında internet üzerinden ders içeriklerine erişebildiği, etkileşimli materyallerle çalıştığı ve ödevlerini gönderebildiği çevrimiçi platformlara ne ad verilir?",
+          "secenekler": [
+           "A) Sunum Yazılımı",
+           "B) Hesap Tablosu Programı",
+           "C) Kelime İşlemci Programı",
+           "D) Öğrenme Yönetim Sistemi (LMS)",
+           "E) Grafik Tasarım Programı"
+          ],
+          "dogruCevap": "D) Öğrenme Yönetim Sistemi (LMS)",
+          "cozum": "Öğrenme Yönetim Sistemleri (Learning Management System - LMS), eğitim kurumlarının ders içeriklerini, öğrenci aktivitelerini, ödev ve değerlendirme süreçlerini çevrimiçi ortamda yönetmelerine olanak sağlayan yazılımlardır. Moodle, Google Classroom, Canvas gibi platformlar LMS örnekleridir."
+         },
+         {
+          "soru": "23) Türk Milli Eğitim Sisteminde 1739 Sayılı Temel Kanun'da belirtilen 'Milli Birlik ve Bütünlük' ilkesi, eğitimin hangi amacını destekler?",
+          "secenekler": [
+           "A) Öğrencilerin bireysel farklılıklarını vurgulamak",
+           "B) Farklı etnik grupların ayrı eğitim almasını sağlamak",
+           "C) Tüm vatandaşları ortak milli değerler, tarih ve kültür etrafında birleştirmek",
+           "D) Yabancı dilde eğitimi yaygınlaştırmak",
+           "E) Bölgesel farklılıkları derinleştirmek"
+          ],
+          "dogruCevap": "C) Tüm vatandaşları ortak milli değerler, tarih ve kültür etrafında birleştirmek",
+          "cozum": "1739 Sayılı Kanun'daki Milli Birlik ve Bütünlük ilkesi, Türk Milli Eğitiminin amacının, tüm fertleri, dil, ırk, din ayrımı gözetmeksizin, Türk Milletinin milli, ahlaki, insani, manevi ve kültürel değerlerini benimseyen, koruyan ve geliştiren, vatanını ve milletini seven fertler olarak yetiştirerek milli birliği ve bütünlüğü sağlamak olduğunu belirtir. Bu ilke, ortak değerler ve kültür etrafında birleştirme amacını taşır."
+         },
+         {
+          "soru": "24) Sınıf ortamında, öğretmenin öğrencilere karşı olumlu tutum sergilemesi, onların fikirlerine değer vermesi ve güvenli bir öğrenme iklimi oluşturması, öncelikli olarak aşağıdakilerden hangisinin sağlanmasına katkı sunar?",
+          "secenekler": [
+           "A) Disiplin cezalarının artmasına",
+           "B) Öğrenci motivasyonunun ve katılımının düşmesine",
+           "C) Öğrenme-öğretme sürecinin etkinliğinin artmasına",
+           "D) Sadece akademik başarının yükselmesine",
+           "E) Öğrenciler arası rekabetin artmasına"
+          ],
+          "dogruCevap": "C) Öğrenme-öğretme sürecinin etkinliğinin artmasına",
+          "cozum": "Olumlu bir sınıf iklimi, öğrencilerin kendilerini değerli ve güvende hissetmelerini sağlar. Bu durum, öğrencilerin öğrenmeye karşı daha istekli olmalarını, derse daha aktif katılmalarını, risk almaktan çekinmemelerini ve hata yapmaktan korkmamalarını teşvik eder. Sonuç olarak, öğrenci motivasyonu, katılımı ve öğrenme-öğretme sürecinin genel etkinliği artar."
+         },
+         {
+          "soru": "25) Eğitimin psikolojik temelleri kapsamında, bireyin zihinsel süreçleri (bellek, dikkat, problem çözme vb.) ve bu süreçlerin öğrenme üzerindeki etkisini inceleyen alt alan aşağıdakilerden hangisidir?",
+          "secenekler": [
+           "A) Gelişim Psikolojisi",
+           "B) Sosyal Psikoloji",
+           "C) Klinik Psikoloji",
+           "D) Bilişsel Psikoloji",
+           "E) Endüstriyel Psikoloji"
+          ],
+          "dogruCevap": "D) Bilişsel Psikoloji",
+          "cozum": "Bilişsel Psikoloji, insan zihninin bilgi işleme süreçlerini (algı, bellek, dikkat, dil, problem çözme, düşünme) ve bu süreçlerin davranışları nasıl etkilediğini inceleyen psikoloji alt dalıdır. Eğitim psikolojisi içinde, bilişsel psikoloji öğrenme sürecinin zihinsel boyutunu anlamada ve etkili öğretim yöntemleri geliştirmede önemli rol oynar."
+         },
+         {
+          "soru": "26) Eğitimin amaçlarından biri olan 'bireyin kendini gerçekleştirmesine yardımcı olmak', aşağıdaki eğitim felsefelerinden hangisiyle en çok ilişkilidir?",
+          "secenekler": [
+           "A) Daimicilik (Perennialism)",
+           "B) Esasicilik (Essentialism)",
+           "C) İlerlemecilik (Progressivism)",
+           "D) Varoluşçuluk (Existentialism)",
+           "E) Yeniden Yapılandırmacılık (Reconstructionism)"
+          ],
+          "dogruCevap": "D) Varoluşçuluk (Existentialism)",
+          "cozum": "Varoluşçuluk felsefesi, bireyin özgürlüğünü, sorumluluğunu ve kendi anlamını yaratma sürecini vurgular. Eğitimde varoluşçuluk, bireyin kendi potansiyelini keşfetmesine, seçimler yapmasına ve kendini gerçekleştirmesine yardımcı olmayı temel amaç olarak benimser. İlerlemecilik de bireyin gelişimini önemser ancak kendini gerçekleştirme vurgusu varoluşçulukta daha merkezidir."
+         },
+         {
+          "soru": "27) Türk Milli Eğitim Sistemi'nde 'Hayat Boyu Öğrenme' kavramı, aşağıdaki eğitim bölümlerinden hangisinin temel işlevlerinden biridir?",
+          "secenekler": [
+           "A) Okul Öncesi Eğitim",
+           "B) İlköğretim",
+           "C) Ortaöğretim",
+           "D) Yaygın Eğitim",
+           "E) Yükseköğretim"
+          ],
+          "dogruCevap": "D) Yaygın Eğitim",
+          "cozum": "1739 Sayılı Milli Eğitim Temel Kanunu'nda tanımlanan Yaygın Eğitim, örgün eğitim sistemi dışında kalan vatandaşların eğitim ihtiyaçlarını karşılamak, ilgi ve yeteneklerini geliştirmek, onlara bilgi ve beceri kazandırmak gibi amaçları taşır. Bu yönüyle, beşikten mezara kadar öğrenme anlayışını yansıtan 'Hayat Boyu Öğrenme' kavramının Türk Milli Eğitim Sistemi'ndeki en önemli uygulama alanıdır."
+         },
+         {
+          "soru": "28) Öğretim teknolojilerinin eğitim ortamına entegrasyonunda karşılaşılan zorluklar arasında aşağıdakilerden hangisi *sayılamaz*?",
+          "secenekler": [
+           "A) Yetersiz teknolojik altyapı",
+           "B) Öğretmenlerin teknoloji kullanım becerilerinin yetersizliği",
+           "C) Güncel ve kaliteli eğitsel yazılım/içerik eksikliği",
+           "D) Öğrencilerin teknolojiye aşırı bağımlılığı",
+           "E) Eğitimde fırsat eşitliğinin artması"
+          ],
+          "dogruCevap": "E) Eğitimde fırsat eşitliğinin artması",
+          "cozum": "Eğitim teknolojilerinin etkin kullanımı, bilgiye erişimi kolaylaştırarak, farklı öğrenme ihtiyaçlarına yönelik materyaller sunarak ve coğrafi engelleri azaltarak eğitimde fırsat eşitliğinin artmasına katkı sunar. Bu nedenle, fırsat eşitliğinin artması teknoloji entegrasyonunun bir zorluğu değil, beklenen olumlu bir sonucudur. Diğer şıklar ise teknoloji entegrasyonunda karşılaşılabilecek yaygın zorluklardandır."
+         },
+         {
+          "soru": "29) Okul ortamında 'Akran Zorbalığı' (Bullying) gibi etik dışı davranışların önlenmesi ve yönetilmesi, eğitimde etik açısından aşağıdakilerden hangisinin sorumluluğundadır?",
+          "secenekler": [
+           "A) Sadece okul rehber öğretmeninin",
+           "B) Sadece ailelerin",
+           "C) Okul yönetimi, öğretmenler, veliler ve öğrencilerin ortak sorumluluğunda",
+           "D) Sadece Emniyet güçlerinin",
+           "E) Sadece okul müdürünün"
+          ],
+          "dogruCevap": "C) Okul yönetimi, öğretmenler, veliler ve öğrencilerin ortak sorumluluğunda",
+          "cozum": "Okulda akran zorbalığı gibi etik dışı ve zararlı davranışlarla mücadele, tek bir kişinin veya kurumun değil, tüm okul paydaşlarının (yönetim, öğretmenler, veliler, öğrenciler) işbirliği içinde çalışmasını gerektiren ortak bir sorumluluktur. Önleme, müdahale ve rehabilitasyon süreçleri birlikte yürütülmelidir."
+         },
+         {
+          "soru": "30) Eğitimde 'kapsayıcılık' (inclusion) prensibi, aşağıdaki öğrenci gruplarından hangisinin eğitim hakkını güvence altına almayı öncelikli olarak hedefler?",
+          "secenekler": [
+           "A) Sadece üstün zekalı öğrenciler",
+           "B) Sadece normal gelişim gösteren öğrenciler",
+           "C) Engelli veya özel eğitim ihtiyacı olan öğrenciler başta olmak üzere tüm öğrencilerin eğitim ortamlarına ayrımcılığa uğramadan katılımını",
+           "D) Sadece yabancı uyruklu öğrenciler",
+           "E) Sadece dezavantajlı bölgelerdeki öğrenciler"
+          ],
+          "dogruCevap": "C) Engelli veya özel eğitim ihtiyacı olan öğrenciler başta olmak üzere tüm öğrencilerin eğitim ortamlarına ayrımcılığa uğramadan katılımını",
+          "cozum": "Eğitimde kapsayıcılık, tüm öğrencilerin, özellikle engelli veya özel eğitim ihtiyacı olan öğrencilerin, yaşlarına uygun normal eğitim ortamlarında, gerekli destek hizmetleri sağlanarak ayrımcılığa uğramadan eğitim almalarını savunan bir prensiptir. Amacı, tüm öğrencilerin farklılıkları ne olursa olsun eğitim sistemine tam ve etkin katılımını sağlamaktır."
+         }
+        ],
+          "Eğitim Bilimleri Deneme 2": [
+           {
+            "soru": "1) Eğitimin, toplumun mevcut yapısını ve değerlerini koruyarak nesilden nesile aktarma işlevi, aşağıdaki kavramlardan hangisiyle en yakından ilişkilidir?",
+            "secenekler": [
+             "A) Sosyal Değişim",
+             "B) Sosyal Hareketlilik",
+             "C) Kültürel Yeniden Üretim",
+             "D) Kültürel Gecikme",
+             "E) Sosyal Kontrolün Zayıflaması"
+            ],
+            "dogruCevap": "C) Kültürel Yeniden Üretim",
+            "cozum": "Kültürel yeniden üretim (cultural reproduction), eğitimin mevcut toplumsal yapıdaki kültürel normları, değerleri, bilgiyi ve sosyal hiyerarşileri yeni nesillere aktararak sürdürme işlevidir. Bu süreç, genellikle Egemen kültürün ve statükonun korunmasına hizmet eder. Sosyal değişim veya hareketlilik tam tersini ifade eder. Kültürel gecikme farklı bir sosyolojik kavramdır."
+           },
+           {
+            "soru": "2) Bir öğrenci, ödevini zamanında teslim ettiğinde notuna ek puan kazanmıştır. Bu durum, Behaviorizm kuramında aşağıdaki pekiştirme türlerinden hangisine örnektir?",
+            "secenekler": [
+             "A) Olumlu Pekiştirme (Ortama Hoşa Giden Uyarıcı Ekleme)",
+             "B) Olumsuz Pekiştirme (Ortamdan Hoşa Gitmeyen Uyarıcı Çekme)",
+             "C) Birincil Pekiştirme",
+             "D) Sembolik Pekiştirme",
+             "E) Dolaylı Pekiştirme"
+            ],
+            "dogruCevap": "A) Olumlu Pekiştirme (Ortama Hoşa Giden Uyarıcı Ekleme)",
+            "cozum": "Olumlu pekiştirme, bir davranışın ardından ortama hoşa giden bir uyarıcının sunulması yoluyla o davranışın tekrar edilme olasılığını artırmaktır. Öğrencinin ödevi zamanında teslim etme davranışının ardından 'ek puan' gibi hoşa giden bir sonucun verilmesi olumlu pekiştirmedir. Olumsuz pekiştirme hoşa gitmeyenin çekilmesidir. Birincil pekiştirme doğuştan pekiştirici olanlardır (yiyecek gibi). Sembolik pekiştirme puan, yıldız gibi sembollerdir ancak genel mekanizma olumludur. Dolaylı pekiştirme başkasının pekiştirilmesini gözlemlemedir."
+           },
+           {
+            "soru": "3) Bir çocuğun yuvarlak olan her şeyi (top, portakal, dünya modeli) 'top' olarak adlandırması, Piaget'nin Bilişsel Gelişim Kuramı'nda aşağıdaki süreçlerden hangisine en uygun örnektir?",
+            "secenekler": [
+             "A) Uyumsama (Akkomodasyon)",
+             "B) Özümleme (Asimilasyon)",
+             "C) Dengeleme (Equilibrasyon)",
+             "D) Örgütleme (Organizasyon)",
+             "E) İşlem Öncesi Dönem"
+            ],
+            "dogruCevap": "B) Özümleme (Asimilasyon)",
+            "cozum": "Çocuk, zihnindeki 'yuvarlak nesne = top' şemasına yeni karşılaştığı yuvarlak nesneleri (portakal, dünya modeli) de dahil ederek anlamlandırmaya çalışmaktadır. Bu, mevcut şemayı kullanarak yeni bilgiyi şemaya dahil etme süreci olan özümlemedir (asimilasyon). Uyumsama ise bu şemanın 'yuvarlak nesne' veya 'meyve' gibi yeni bilgilerle değiştirilmesi veya alt kategorilere ayrılması (portakal farklı bir şeydir) süreci olurdu."
+           },
+           {
+            "soru": "4) Vygotsky'nin Sosyokültürel Kuramı'nda geçen 'yapı iskelesi kurma' (scaffolding) kavramı, eğitim ortamında ne anlama gelir?",
+            "secenekler": [
+             "A) Öğrencinin tek başına çalışmasını teşvik etmek",
+             "B) Öğrenciye öğrenme sürecinde aşamalı olarak rehberlik ve destek sağlamak",
+             "C) Öğrencinin hatalarını görmezden gelmek",
+             "D) Müfredatı basitleştirmek",
+             "E) Öğrenciyi sadece gözlemlemek"
+            ],
+            "dogruCevap": "B) Öğrenciye öğrenme sürecinde aşamalı olarak rehberlik ve destek sağlamak",
+            "cozum": "Yapı iskelesi kurma (scaffolding), bir yetişkinin veya daha yetkin bir akranın, öğrencinin Yakınsal Gelişim Alanı'ndaki bir görevi başarabilmesi için ona geçici destek ve rehberlik sağlamasıdır. Bu destek, öğrenci görevi yapmaya başladıkça aşamalı olarak geri çekilir ve öğrenci bağımsızlaşır. Amaç, öğrencinin potansiyel gelişimine ulaşmasına yardımcı olmaktır."
+           },
+           {
+            "soru": "5) Eğitimin Tarihi Temelleri açısından, Orta Çağ Avrupa'sında eğitimin ağırlıklı olarak Kilise kontrolünde olması ve temel amacının dini bilgi ve itaat kazandırmak olması, eğitimin hangi işleviyle daha çok ilişkilidir?",
+            "secenekler": [
+             "A) Sosyal Değişim İşlevi",
+             "B) Eleştirel Düşünme Geliştirme İşlevi",
+             "C) Kültürel Miras Aktarma (Belli Bir Kültürü)",
+             "D) Ekonomik Kalkınma İşlevi",
+             "E) Bilimsel Araştırma Geliştirme İşlevi"
+            ],
+            "dogruCevap": "C) Kültürel Miras Aktarma (Belli Bir Kültürü)",
+            "cozum": "Orta Çağ Avrupa'sında Kilise kontrolündeki eğitim, öncelikle Hristiyanlık dogmalarını, dini metinleri ve Kilise'nin değerlerini yeni nesillere aktarmayı amaçlıyordu. Bu durum, belirli bir dini ve kültürel mirasın korunarak aktarılması işlevine hizmet etmiştir. Bilimsel araştırma, eleştirel düşünme veya sosyal değişim gibi işlevler bu dönem eğitiminin temel amaçları arasında değildi."
+           },
+           {
+            "soru": "6) Eğitimin Sosyal-Kültürel Temelleri bağlamında 'Gizli Müfredat' (Hidden Curriculum) kavramı neyi ifade eder?",
+            "secenekler": [
+             "A) Okulda öğrencilere öğretilmeyen yasak konular",
+             "B) Ders kitaplarında yer alan ancak işlenmeyen konular",
+             "C) Okul ortamında öğrencilerin farkında olmadan edindikleri değerler, normlar, tutumlar ve beklentiler",
+             "D) Öğretmenlerin öğrencilerle paylaştığı kişisel bilgiler",
+             "E) Sınavda çıkmayacak ek konular"
+            ],
+            "dogruCevap": "C) Okul ortamında öğrencilerin farkında olmadan edindikleri değerler, normlar, tutumlar ve beklentiler",
+            "cozum": "Gizli müfredat, okulun resmi müfredatının dışında, okul ortamındaki sosyal etkileşimler, öğretmenlerin tutumları, okul kuralları, ödül ve ceza sistemleri gibi unsurlar aracılığıyla öğrencilere farkında olmadan aktarılan değerler, normlar, inançlar, tutumlar ve davranış kalıplarıdır. Bu, genellikle toplumsal beklentileri ve hiyerarşileri yeniden üretme işlevi görür."
+           },
+           {
+            "soru": "7) Eğitimin Felsefi Temelleri bağlamında 'İlerlemecilik' (Progressivism) felsefesinin temel eğitim amacı aşağıdakilerden hangisidir?",
+            "secenekler": [
+             "A) Kültürel mirasın temel eserlerini öğretmek",
+             "B) Öğrenciyi merkeze alarak, deneyimler yoluyla problem çözme becerilerini ve uyum sağlama yeteneğini geliştirmek",
+             "C) Belirli temel bilgi ve becerileri (okuma, yazma, aritmetik) kazandırmak",
+             "D) Bireye kendi değerlerini oluşturma özgürlüğü tanımak",
+             "E) Toplumu yeniden yapılandıracak bireyler yetiştirmek"
+            ],
+            "dogruCevap": "B) Öğrenciyi merkeze alarak, deneyimler yoluyla problem çözme becerilerini ve uyum sağlama yeteneğini geliştirmek",
+            "cozum": "İlerlemecilik felsefesi, John Dewey gibi düşünürlerin öncülüğünde, öğrenciyi merkeze alan, eğitimin yaşamın kendisi olduğunu savunan bir yaklaşımdır. Temel amaç, öğrencilerin ilgi ve ihtiyaçları doğrultusunda, yaparak-yaşayarak öğrenmeleri, problem çözme, eleştirel düşünme ve değişen koşullara uyum sağlama becerilerini geliştirmektir. Deneyim ve aktif katılım önemlidir."
+           },
+           {
+            "soru": "8) Eğitimin Ekonomik Temelleri açısından 'Fırsat Maliyeti' (Opportunity Cost) kavramı, eğitime yapılan harcamalar bağlamında ne anlama gelir?",
+            "secenekler": [
+             "A) Eğitimin toplam parasal maliyeti",
+             "B) Eğitime harcanan paranın, o parayla yapılabilecek en iyi alternatif yatırımın getirisini temsil etmesi",
+             "C) Eğitimin topluma sağladığı faydalar",
+             "D) Eğitimin bireye sağladığı gelir artışı",
+             "E) Sadece eğitim materyallerinin maliyeti"
+            ],
+            "dogruCevap": "B) Eğitime harcanan paranın, o parayla yapılabilecek en iyi alternatif yatırımın getirisini temsil etmesi",
+            "cozum": "Fırsat maliyeti, bir seçeneği tercih ettiğinizde vazgeçmek zorunda kaldığınız en iyi ikinci seçeneğin değeridir. Eğitime yapılan harcamalar bağlamında, hem parasal harcamalar (okul ücreti, kitap vb.) hem de eğitime ayrılan zamanın (çalışarak kazanılabilecek gelirin) başka bir alanda (örneğin iş kurarak) yaratabileceği getiri, eğitimin fırsat maliyetini oluşturur. Yani eğitime harcanan kaynağın (para ve zaman), o kaynakla elde edilebilecek en iyi alternatif getiriyi kaçırmış olmak fırsat maliyetidir."
+           },
+           {
+            "soru": "9) Eğitimin Politik Temelleri bağlamında 'Politik Sosyalleşme', okullarda aşağıdaki süreçlerden hangisini kapsar?",
+            "secenekler": [
+             "A) Sadece temel okuma yazma becerilerinin kazandırılması",
+             "B) Bireylerin siyasal sistem, vatandaşlık rolleri, hak ve sorumlulukları hakkında bilgi ve tutum edinmesi",
+             "C) Sadece mesleki eğitim verilmesi",
+             "D) Tarihi olayların tarafsız olmadan anlatılması",
+             "E) Ekonomik sistemin detaylı bir şekilde öğretilmesi"
+            ],
+            "dogruCevap": "B) Bireylerin siyasal sistem, vatandaşlık rolleri, hak ve sorumlulukları hakkında bilgi ve tutum edinmesi",
+            "cozum": "Politik sosyalleşme, bireyin yaşadığı toplumun siyasal sistemi hakkında bilgi, değer, tutum ve davranışları edinmesi sürecidir. Okullar, vatandaşlık bilgisi dersleri, demokrasi uygulamaları, okul kurallarına uyma gibi yollarla bireylerin siyasal sisteme uyum sağlamasına ve aktif vatandaşlar olmasına katkıda bulunarak politik sosyalleşme işlevini yerine getirir."
+           },
+           {
+            "soru": "10) Türkiye Cumhuriyeti Anayasası'na göre, eğitimin temel amaçlarından biri olan 'Atatürk ilke ve inkılaplarına bağlı vatandaşlar yetiştirmek' hangi anayasal prensiple doğrudan ilişkilidir?",
+            "secenekler": [
+             "A) Egemenlik",
+             "B) Laiklik",
+             "C) Cumhuriyetin temel nitelikleri",
+             "D) Sosyal devlet",
+             "E) Hukuk devleti"
+            ],
+            "dogruCevap": "C) Cumhuriyetin temel nitelikleri",
+            "cozum": "Anayasa'nın Başlangıç kısmında ve 2. maddede belirtilen Cumhuriyetin temel nitelikleri arasında Atatürk milliyetçiliğine bağlı, demokratik, laik ve sosyal bir hukuk devleti olduğu yer alır. Eğitimin temel amaçları, bu niteliklere ve Atatürk ilke ve inkılaplarına bağlı bireyler yetiştirmeyi hedefler. Yani bu amaç doğrudan Cumhuriyetin temel niteliklerinin korunması ve gelecek nesillere aktarılmasıyla ilişkilidir."
+           },
+           {
+            "soru": "11) Öğretmenin, öğrencilerin kişisel bilgilerini veya sınıf içindeki özel durumlarını diğer öğrencilerle veya üçüncü kişilerle paylaşması, eğitimde etik açısından hangi prensibi en ağır şekilde ihlal eder?",
+            "secenekler": [
+             "A) Adalet ve Eşitlik",
+             "B) Doğruluk ve Dürüstlük",
+             "C) Saygı ve Gizlilik",
+             "D) Profesyonellik",
+             "E) Tarafsızlık"
+            ],
+            "dogruCevap": "C) Saygı ve Gizlilik",
+            "cozum": "Öğretmenin, öğrencilerin özel hayatlarına ait bilgileri ve sırları gizli tutma, onların mahremiyetine saygı gösterme yükümlülüğü vardır. Bu, etik olarak 'gizlilik' ve 'saygı' prensipleriyle doğrudan ilişkilidir. Bu bilgilerin paylaşılması, öğrencinin güvenini zedeler ve mahremiyet hakkını ihlal eder."
+           },
+           {
+            "soru": "12) Eğitim teknolojileri entegrasyonunda kullanılan SAMR Modeli'ne göre, bir öğrencinin ders kitabındaki bir metni sadece dijital bir PDF olarak okuması, modelin hangi aşamasına karşılık gelir?",
+            "secenekler": [
+             "A) Yerine Koyma (Substitution)",
+             "B) Artırma (Augmentation)",
+             "C) Değiştirme (Modification)",
+             "D) Yeniden Tanımlama (Redefinition)",
+             "E) Kullanmama (No Technology Use)"
+            ],
+            "dogruCevap": "A) Yerine Koyma (Substitution)",
+            "cozum": "SAMR Modeli, teknolojinin eğitimde nasıl kullanıldığını dört aşamada tanımlar: Yerine Koyma (teknoloji eski aracın doğrudan yerine geçer), Artırma (teknoloji eski aracı işlevsel olarak artırır), Değiştirme (teknoloji görevi önemli ölçüde değiştirir), Yeniden Tanımlama (teknoloji, teknoloji olmadan mümkün olmayan yeni görevler yaratır). Ders kitabını sadece PDF olarak okumak, fiziksel kitabın dijital bir kopyasıdır ve temel işlevi değiştirmez, sadece aracın yerini alır, bu 'Yerine Koyma'dır."
+           },
+           {
+            "soru": "13) Türk Milli Eğitim Sisteminde, 222 Sayılı İlköğretim ve Eğitim Kanunu'na göre mecburi ilköğretim çağı dışına çıkmış ancak ilköğretimi tamamlayamamış bireylerin durumu, sistemin hangi bölümü tarafından ele alınır?",
+            "secenekler": [
+             "A) Okul Öncesi Eğitim",
+             "B) Ortaöğretim",
+             "C) Yaygın Eğitim",
+             "D) Özel Eğitim",
+             "E) Yükseköğretim"
+            ],
+            "dogruCevap": "C) Yaygın Eğitim",
+            "cozum": "Yaygın eğitim, örgün eğitim sistemi dışında kalan bireylerin eğitim ihtiyaçlarını karşılamak amacıyla düzenlenmiştir. Mecburi ilköğretim çağı dışına çıkmış ancak ilköğretimi tamamlayamamış bireylerin eksik eğitimlerini tamamlama veya bilgi/beceri edinme imkanı yaygın eğitim kurumları aracılığıyla sağlanır."
+           },
+           {
+            "soru": "14) Türkiye Yüzyılı Maarif Modeli'nde vurgulanan 'erdem-değer-eylem' bütünlüğü, eğitimin öncelikle hangi alanına odaklandığını gösterir?",
+            "secenekler": [
+             "A) Sadece bilişsel gelişim",
+             "B) Duyuşsal ve sosyal gelişim",
+             "C) Sadece fiziksel gelişim",
+             "D) Akademik başarı sıralaması",
+             "E) Teknolojik araç kullanımı"
+            ],
+            "dogruCevap": "B) Duyuşsal ve sosyal gelişim",
+            "cozum": "'Erdem', 'değer' ve 'eylem' kavramları, bireyin ahlaki gelişimi, toplumsal değerleri benimsemesi ve bu değerler doğrultusunda hareket etmesi gibi duyuşsal ve sosyal alanlarla ilgilidir. Modelin bu bütünlüğe vurgu yapması, eğitimin sadece bilişsel veya akademik başarıya değil, aynı zamanda değerler eğitimine ve karakter gelişimine önem verdiğini gösterir."
+           },
+           {
+            "soru": "15) Bir öğretmenin, öğrenci ödevlerini veya sınav kağıtlarını değerlendirirken, öğrencilerin kişisel özelliklerine (aile durumu, popülerlik vb.) göre not vermesi, eğitimde etik açısından hangi prensibe kesinlikle aykırıdır?",
+            "secenekler": [
+             "A) Gizlilik",
+             "B) Doğruluk ve Dürüstlük",
+             "C) Saygı",
+             "D) Tarafsızlık ve Adalet",
+             "E) Profesyonellik"
+            ],
+            "dogruCevap": "D) Tarafsızlık ve Adalet",
+            "cozum": "Öğretmenin değerlendirmeleri, öğrencinin gösterdiği başarıya, bilgi ve beceri düzeyine göre objektif ve adil olmalıdır. Öğrencinin kişisel özelliklerine göre not vermek, tüm öğrencilere eşit muamele etme prensibini ve değerlendirmede tarafsızlık ve adalet ilkesini açıkça ihlal eder."
+           },
+           {
+            "soru": "16) Behaviorizmde, bir davranışın gerçekleşme olasılığını artırmak için o davranışın hemen ardından ortamdaki itici/hoşa gitmeyen bir uyarıcının kaldırılmasına ne ad verilir?",
+            "secenekler": [
+             "A) Olumlu Pekiştirme",
+             "B) Olumsuz Pekiştirme",
+             "C) Birincil Ceza",
+             "D) Sönme",
+             "E) Edimsel Koşullanma"
+            ],
+            "dogruCevap": "B) Olumsuz Pekiştirme",
+            "cozum": "Olumsuz pekiştirme, bir davranışın yapılmasının ardından ortamdaki hoşa gitmeyen bir uyarıcının ortadan kaldırılması veya engellenmesi yoluyla o davranışın tekrarlanma olasılığını artırmaktır. Örneğin, baş ağrısı çeken birinin ağrı kesici almasıyla ağrının geçmesi (hoşa gitmeyen durumun ortadan kalkması) ve kişinin tekrar ağrı kesici alma olasılığının artması olumsuz pekiştirmedir."
+           },
+           {
+            "soru": "17) Gelişim psikolojisinde, Erikson'un Psikososyal Gelişim Kuramı'na göre, ergenlik döneminin temel psikososyal çatışması (krizi) aşağıdakilerden hangisidir?",
+            "secenekler": [
+             "A) Temel Güvene Karşı Güvensizlik",
+             "B) Özerkliğe Karşı Kuşku ve Utanç",
+             "C) Girişimciliğe Karşı Suçluluk",
+             "D) Kimliğe Karşı Rol Kargaşası",
+             "E) Yakınlığa Karşı Yalıtılmışlık"
+            ],
+            "dogruCevap": "D) Kimliğe Karşı Rol Kargaşası",
+            "cozum": "Erik Erikson'un Psikososyal Gelişim Kuramı, yaşam boyu süren gelişimde sekiz farklı psikososyal evre tanımlar. Ergenlik dönemi (yaklaşık 12-18 yaş), beşinci evredir ve bu evrenin temel çatışması 'Kimliğe Karşı Rol Kargaşası'dır. Bu dönemde birey kim olduğunu, ne olmak istediğini, toplumdaki yerini sorgular ve bir kimlik oluşturmaya çalışır."
+           },
+           {
+            "soru": "18) Eğitimin Felsefi Temelleri bağlamında, 'Esasicilik' (Essentialism) felsefesine göre, müfredatın temel içeriği aşağıdakilerden hangisi olmalıdır?",
+            "secenekler": [
+             "A) Öğrencilerin güncel ilgi alanları ve ihtiyaçları",
+             "B) Toplumun yaşadığı güncel sorunlar ve çözümleri",
+             "C) Geçmiş nesillerin deneyimleri ve bilgileri (kültürel mirasın temel unsurları)",
+             "D) Öğrencilerin bireysel yetenekleri ve yaratıcılıkları",
+             "E) Sadece teknik ve mesleki bilgiler"
+            ],
+            "dogruCevap": "C) Geçmiş nesillerin deneyimleri ve bilgileri (kültürel mirasın temel unsurları)",
+            "cozum": "Esasicilik felsefesi, eğitimin temel amacının, geçmiş nesiller tarafından biriktirilmiş evrensel bilgi ve becerileri (kültürel mirasın temel unsurları, 'esas' olanlar) yeni nesillere aktarmak olduğunu savunur. Müfredat, bu temel bilgilere (okuma, yazma, aritmetik, tarih, bilim vb.) odaklanmalıdır. Öğretmen, bilginin aktarıcısıdır."
+           },
+           {
+            "soru": "19) Eğitimin Ekonomik Temelleri açısından, eğitim düzeyindeki artışın, suç oranlarında azalma, sağlık düzeyinde iyileşme gibi parasal olmayan ancak toplumsal faydalar sağlaması hangi kavramla ifade edilir?",
+            "secenekler": [
+             "A) Özel Getiri",
+             "B) Fırsat Maliyeti",
+             "C) Pozitif Dışsallıklar (Externalities)",
+             "D) İnsan Sermayesi",
+             "E) Kamu Malı"
+            ],
+            "dogruCevap": "C) Pozitif Dışsallıklar (Externalities)",
+            "cozum": "Ekonomide dışsallıklar (externalities), bir ekonomik faaliyetin, o faaliyeti gerçekleştirenler dışında üçüncü kişilere veya topluma sağladığı fayda veya maliyettir. Eğitimin bireye sağladığı özel getirilerin (yüksek gelir gibi) yanı sıra, toplumun geneline sağladığı parasal olmayan faydalar (daha bilinçli vatandaşlar, suç oranında azalma, sağlıkta iyileşme, daha fazla toplumsal uyum) pozitif dışsallıklara örnektir."
+           },
+           {
+            "soru": "20) Eğitimin Politik Temelleri bağlamında, Milli Eğitim Bakanlığı'nın merkeziyetçi yapısı ve müfredatın ülke genelinde standart olması, devletin eğitimi bir 'sosyal mühendislik' aracı olarak kullanma potansiyeli ile ilgili olarak hangi yönde bir etkiye sahiptir?",
+            "secenekler": [
+             "A) Sosyal mühendisliği imkansız hale getirir.",
+             "B) Sosyal mühendislik potansiyelini artırır.",
+             "C) Sosyal mühendislik üzerinde hiçbir etkisi yoktur.",
+             "D) Sadece yerel düzeyde sosyal mühendisliğe olanak tanır.",
+             "E) Sosyal mühendisliği sadece ekonomik alanda sınırlar."
+            ],
+            "dogruCevap": "B) Sosyal mühendislik potansiyelini artırır.",
+            "cozum": "Sosyal mühendislik, belirli bir toplumsal değişimi veya yapıyı tasarlamak ve bunu gerçekleştirmek için bilinçli çaba göstermektir. Merkeziyetçi bir eğitim sistemi ve standart bir müfredat, devletin ideolojik, kültürel veya sosyal hedeflerini tüm ülkeye yaymasını ve yeni nesilleri bu doğrultuda şekillendirmesini kolaylaştırır. Bu durum, eğitimin bir 'sosyal mühendislik' aracı olarak kullanılma potansiyelini artırır."
+           },
+           {
+            "soru": "21) Öğretmenlik mesleği etik ilkeleri kapsamında, 'dürüstlük' prensibi aşağıdakilerden hangisini *kapsamaz*?",
+            "secenekler": [
+             "A) Bilgiyi doğru ve tarafsız bir şekilde sunmak",
+             "B) Sınav sonuçlarını değiştirmemek",
+             "C) Öğrencilere karşı her zaman kibar ve nazik olmak",
+             "D) Meslektaşlar ve yöneticilerle ilişkilerde samimi ve açık olmak",
+             "E) Kendi hata ve eksikliklerini kabul etmek"
+            ],
+            "dogruCevap": "C) Öğrencilere karşı her zaman kibar ve nazik olmak",
+            "cozum": "Dürüstlük, gerçeğe bağlı kalmak, doğru bilgi vermek, aldatıcı olmamak gibi anlamlara gelir. Öğretmenin bilgiyi sunuşu, değerlendirmeleri, ilişkilerdeki samimiyeti dürüstlükle ilgilidir. Kibar ve nazik olmak ise 'saygı' ve 'nezaket' gibi diğer etik prensiplerle daha çok ilişkilidir, doğrudan dürüstlük prensibinin kapsamına girmez."
+           },
+           {
+            "soru": "22) Eğitim teknolojilerinde 'bilişsel yük' (cognitive load) kavramı neyi ifade eder ve etkili teknoloji kullanımı açısından önemi nedir?",
+            "secenekler": [
+             "A) Teknolojik cihazların ağırlığı ve taşınabilirliği, fiziksel kullanımı etkilediği için önemlidir.",
+             "B) Öğrencinin teknolojik arayüzü anlamak için harcadığı zihinsel çaba, bu çabanın düşük tutulması öğrenmeyi kolaylaştırır.",
+             "C) İnternet bağlantısının hızı, öğrenme materyallerine erişimi etkilediği için önemlidir.",
+             "D) Teknolojinin maliyeti, eğitim bütçesini etkilediği için önemlidir.",
+             "E) Öğrencinin teknolojiye karşı duyduğu motivasyon, öğrenme sürecini etkilediği için önemlidir."
+            ],
+            "dogruCevap": "B) Öğrencinin teknolojik arayüzü anlamak için harcadığı zihinsel çaba, bu çabanın düşük tutulması öğrenmeyi kolaylaştırır.",
+            "cozum": "Bilişsel yük, bir görevi yerine getirirken zihnin harcadığı toplam çabadır. Eğitsel teknoloji bağlamında, arayüzün karmaşıklığı, bilginin sunuluş biçimi gibi faktörler bilişsel yükü artırabilir veya azaltabilir. Aşırı bilişsel yük, öğrencinin bilgiyi işleme ve anlamlandırma kapasitesini azaltır. Etkili teknoloji kullanımı, gereksiz bilişsel yükü azaltarak öğrencinin enerjisini konuyu öğrenmeye odaklamasını hedefler. Bu nedenle arayüzün basit ve sezgisel olması, bilginin anlaşılır sunulması önemlidir."
+           },
+           {
+            "soru": "23) Türk Milli Eğitim Sistemi'nde 1739 Sayılı Temel Kanun'a göre, eğitimin 'Laiklik' ilkesi, hangi temel amacı güder?",
+            "secenekler": [
+             "A) Tüm eğitim kurumlarını kapatmak",
+             "B) Eğitimi dinin etkisinden tamamen arındırmak ve bilimsel esaslara dayandırmak",
+             "C) Sadece dini eğitim vermek",
+             "D) Devletin dini kurumları desteklemesini sağlamak",
+             "E) Farklı dinlerin okullarda serbestçe propaganda yapmasını sağlamak"
+            ],
+            "dogruCevap": "B) Eğitimi dinin etkisinden tamamen arındırmak ve bilimsel esaslara dayandırmak",
+            "cozum": "1739 Sayılı Kanun'daki laiklik ilkesi, eğitimin her türlü dinin etkisinden uzak, bilimsel ve akılcı esaslara dayandırılmasını öngörür. Bu, din ve vicdan hürriyetini güvence altına almakla birlikte, eğitimin içeriğinin ve yöntemlerinin dini dogmalar yerine bilimsel bilgiyle belirlenmesi anlamına gelir."
+           },
+           {
+            "soru": "24) Sınıf yönetimi yaklaşımlarından 'Tepkisel Yaklaşım'ın (Reactive Approach) temel özelliği aşağıdakilerden hangisidir?",
+            "secenekler": [
+             "A) Sorunlar ortaya çıkmadan önce önleyici tedbirler almak",
+             "B) Öğrenci davranışlarını önceden planlanmış kurallar ve prosedürlerle yönetmek",
+             "C) Sınıfta bir sorun (istenmeyen davranış) ortaya çıktıktan sonra ona müdahale etmek",
+             "D) Öğrencilerin kendi davranışlarını kendilerinin yönetmelerini sağlamak",
+             "E) Öğrenci ve öğretmen arasında işbirliğine dayalı bir yönetim kurmak"
+            ],
+            "dogruCevap": "C) Sınıfta bir sorun (istenmeyen davranış) ortaya çıktıktan sonra ona müdahale etmek",
+            "cozum": "Tepkisel sınıf yönetimi yaklaşımı, sınıfta bir sorun veya istenmeyen bir davranış ortaya çıktığında buna tepki göstererek durumu düzeltmeyi amaçlar. Önleyici tedbirler almak, kurallar belirlemek gibi proaktif (önleyici) yaklaşımların aksine, sorun odaklı ve 'yangına müdahale' gibidir. Genellikle sorunların tekrar etmesine ve daha büyük sorunlara yol açmasına neden olabilir."
+           },
+           {
+            "soru": "25) Eğitim psikolojisinde, bireyin bir şeyi öğrenmek veya yapmak için içsel bir isteğe sahip olması durumu hangi kavramla açıklanır?",
+            "secenekler": [
+             "A) Dışsal Motivasyon",
+             "B) Pekiştirme",
+             "C) İçsel Motivasyon",
+             "D) Ceza",
+             "E) Ödül"
+            ],
+            "dogruCevap": "C) İçsel Motivasyon",
+            "cozum": "İçsel motivasyon, bireyin bir aktiviteyi dışsal bir ödül veya cezadan bağımsız olarak, o aktivitenin kendisinden aldığı keyif, ilgi veya tatmin nedeniyle yapmasıdır. Dışsal motivasyon ise dışarıdan gelen ödül veya cezalarla ilgilidir. İçsel motivasyon genellikle daha kalıcı öğrenme ve performansla ilişkilidir."
+           },
+           {
+            "soru": "26) Eğitimin Felsefi Temelleri bağlamında, 'Yeniden Yapılandırmacılık' (Reconstructionism) felsefesine göre, eğitimin temel amacı aşağıdakilerden hangisidir?",
+            "secenekler": [
+             "A) Kültürel mirası eleştirmeden aktarmak",
+             "B) Var olan toplumsal sorunları çözerek daha iyi bir toplum inşa etmek",
+             "C) Öğrencilere sadece temel becerileri kazandırmak",
+             "D) Bireyin kişisel özgürlüğünü ve seçimlerini merkeze almak",
+             "E) Akademik disiplinleri derinlemesine öğretmek"
+            ],
+            "dogruCevap": "B) Var olan toplumsal sorunları çözerek daha iyi bir toplum inşa etmek",
+            "cozum": "Yeniden Yapılandırmacılık (Reconstructionism), eğitimin bireyi ve toplumu yeniden yapılandırma gücüne sahip olduğunu savunan bir felsefedir. Temel amaç, eğitim aracılığıyla toplumsal sorunları (eşitsizlik, yoksulluk, çevre sorunları vb.) ele almak ve daha adil, demokratik ve insancıl bir toplum inşa etmektir. Okul, toplumsal değişimin bir ajanı olarak görülür."
+           },
+           {
+            "soru": "27) Türk Milli Eğitim Sistemi'nde, özel eğitim ihtiyacı olan öğrencilere sunulan hizmetler, aşağıdaki temel ilkelerden hangisiyle en çok uyumlu olmalıdır?",
+            "secenekler": [
+             "A) Seçkincilik",
+             "B) Merkeziyetçilik",
+             "C) Normalleştirme ve Bütünleştirme (Kaynaştırma)",
+             "D) Tek Tipleştirme",
+             "E) Yarışmacılık"
+            ],
+            "dogruCevap": "C) Normalleştirme ve Bütünleştirme (Kaynaştırma)",
+            "cozum": "Özel eğitim hizmetlerinde temel prensiplerden biri 'normalleştirme'dir; engelli bireylerin normal yaşam şartlarına en yakın ortamlarda yaşaması ve eğitim almasıdır. 'Bütünleştirme' veya 'kaynaştırma' ise özel eğitim ihtiyacı olan öğrencilerin, normal gelişim gösteren akranlarıyla birlikte aynı sınıflarda veya ortamlarda eğitim almasını ifade eder. Bu prensipler, özel eğitim hizmetlerinin planlanmasında ve sunulmasında temel dayanaklardır."
+           },
+           {
+            "soru": "28) Eğitim teknolojileri kullanımında 'dijital uçurum' (digital divide) kavramı neyi ifade eder?",
+            "secenekler": [
+             "A) Teknolojik cihazlar arasındaki fiyat farkını",
+             "B) Farklı nesiller arasındaki teknoloji kullanım becerisi farkını",
+             "C) Bireyler, haneler, işletmeler veya coğrafi bölgeler arasındaki bilgi ve iletişim teknolojilerine erişim, kullanım ve bunlardan faydalanma düzeylerindeki eşitsizliği",
+             "D) İnternet hızlarındaki bölgesel farklılıkları",
+             "E) Teknolojinin eğitimde yarattığı olumlu etkiyi"
+            ],
+            "dogruCevap": "C) Bireyler, haneler, işletmeler veya coğrafi bölgeler arasındaki bilgi ve iletişim teknolojilerine erişim, kullanım ve bunlardan faydalanma düzeylerindeki eşitsizliği",
+            "cozum": "Dijital uçurum (digital divide), farklı sosyo-ekonomik gruplar, coğrafi bölgeler veya demografik özelliklere sahip bireyler/gruplar arasında bilgi ve iletişim teknolojilerine (internet, bilgisayar, tablet vb.) erişim, bunları kullanma becerisi ve bunlardan etkin şekilde faydalanma düzeylerindeki eşitsizliği ifade eder. Bu eşitsizlik, eğitimde fırsat eşitliğini etkileyebilir."
+           },
+           {
+            "soru": "29) Okulda karşılaşılabilecek etik ikilemlerden biri olan 'sadakat çatışması', aşağıdaki durumlardan hangisine örnek teşkil edebilir?",
+            "secenekler": [
+             "A) Öğretmenin birden fazla öğrenciye ders vermesi",
+             "B) Öğretmenin okul kurallarına uyması",
+             "C) Bir öğretmenin, meslektaşının etik dışı bir davranışına tanık olması durumunda, durumu yetkililere bildirme yükümlülüğü ile meslektaş dayanışması arasında kalması",
+             "D) Öğretmenin farklı ders kitapları kullanması",
+             "E) Okul müdürünün öğretmenleri denetlemesi"
+            ],
+            "dogruCevap": "C) Bir öğretmenin, meslektaşının etik dışı bir davranışına tanık olması durumunda, durumu yetkililere bildirme yükümlülüğü ile meslektaş dayanışması arasında kalması",
+            "cozum": "Etik ikilemler, bir kişinin iki veya daha fazla etik prensip veya değer arasında seçim yapmak zorunda kalması ve her seçeneğin bazı etik sonuçları olması durumudur. Sadakat çatışması, kişinin bir kuruma/mesleğe sadakat yükümlülüğü ile başka bir kişiye (meslektaş gibi) sadakat veya koruma isteği arasında çelişki yaşamasıdır. Meslektaşın etik dışı davranışını rapor etme sorumluluğu ile meslektaşa duyulan sadakat/dayanışma arasında kalmak buna örnektir."
+           },
+           {
+            "soru": "30) Sınıf ortamının fiziksel düzenlemesinin (oturma düzeni, aydınlatma, ısı vb.) öğrenme süreci üzerindeki etkisi, eğitim bilimlerinin hangi temel alanıyla daha çok ilişkilidir?",
+            "secenekler": [
+             "A) Eğitimin Ekonomik Temelleri",
+             "B) Eğitimin Tarihi Temelleri",
+             "C) Eğitim Teknolojileri",
+             "D) Sınıf Yönetimi ve Öğrenme Ortamı",
+             "E) Eğitimin Hukuksal Temelleri"
+            ],
+            "dogruCevap": "D) Sınıf Yönetimi ve Öğrenme Ortamı",
+            "cozum": "Sınıf yönetimi, öğretmenin sınıftaki öğrenme-öğretme sürecini düzenlemesi, öğrenci davranışlarını yönlendirmesi ve etkili bir öğrenme ortamı yaratmasıyla ilgili uygulamaları kapsar. Fiziksel ortamın (oturma düzeni, aydınlatma, akustik, dekorasyon vb.) düzenlenmesi, öğrencilerin motivasyonunu, dikkatini, katılımını ve etkileşimini etkileyerek öğrenme ortamını şekillendirir ve sınıf yönetiminin önemli bir parçasıdır."
+           }
+          ],
+          "Eğitim Bilimleri Deneme 3": [
+             {
+              "soru": "1) Bir öğrencinin, daha önce hiç görmediği bir problemi, eski deneyimlerinden yola çıkarak aniden ve bütünsel bir kavrayışla çözmesi, aşağıdaki öğrenme kuramlarından hangisiyle en iyi açıklanır?",
+              "secenekler": [
+               "A) Klasik Koşullanma (Pavlov)",
+               "B) Edimsel Koşullanma (Skinner)",
+               "C) Sosyal Bilişsel Kuram (Bandura)",
+               "D) Gestalt Kuramı (İçgörüsel Öğrenme)",
+               "E) Bilgi İşleme Kuramı"
+              ],
+              "dogruCevap": "D) Gestalt Kuramı (İçgörüsel Öğrenme)",
+              "cozum": "Gestalt psikolojisi ve kuramı, öğrenmenin sadece basit uyarıcı-tepki bağlarıyla değil, aynı zamanda bireyin bütünü görmesi ve parçalar arasındaki ilişkileri anlaması yoluyla gerçekleştiğini savunur. İçgörüsel öğrenme (anlama, kavrama), problem durumunun tüm yönlerinin aniden ve bütünsel olarak kavranması sonucu çözümün bulunmasıdır. Bu, deneme-yanılmadan farklıdır. Diğer kuramlar farklı öğrenme mekanizmalarına odaklanır."
+             },
+             {
+              "soru": "2) Behaviorizmde, bir davranışın hemen ardından gelen pekiştiricinin sabit bir sayıda tepkiden sonra verilmesi durumu, aşağıdaki pekiştirme tarifelerinden hangisine örnektir?",
+              "secenekler": [
+               "A) Sabit Oranlı Tarife (Fixed Ratio - FR)",
+               "B) Değişken Oranlı Tarife (Variable Ratio - VR)",
+               "C) Sabit Aralıklı Tarife (Fixed Interval - FI)",
+               "D) Değişken Aralıklı Tarife (Variable Interval - VI)",
+               "E) Sürekli Pekiştirme"
+              ],
+              "dogruCevap": "A) Sabit Oranlı Tarife (Fixed Ratio - FR)",
+              "cozum": "Pekiştirme tarifeleri, pekiştiricinin ne zaman veya hangi sıklıkta verileceğini belirler. Sabit Oranlı Tarife (FR), pekiştiricinin sabit bir sayıda davranıştan (tepkiden) sonra verildiği tarifedir (örn: her 5 doğru cevaptan sonra puan almak). Değişken Oranlı (VR) sabit olmayan sayıdadır. Sabit Aralıklı (FI) sabit zaman aralığına bağlıdır. Değişken Aralıklı (VI) değişken zaman aralığına bağlıdır. Sürekli pekiştirme ise her davranışın pekiştirildiği tarifedir."
+             },
+             {
+              "soru": "3) Bir öğrencinin, derste öğretmeninin anlattıklarını dinlerken, aynı zamanda defterine not tutması ve anlatılanlar ile kendi notları arasında bağlantı kurmaya çalışması, Bilgi İşleme Kuramı'nda belleğin hangi bölümünün aktif olarak kullanıldığını gösterir?",
+              "secenekler": [
+               "A) Duyusal Kayıt",
+               "B) Kısa Süreli Bellek (İşleyen Bellek)",
+               "C) Uzun Süreli Bellek",
+               "D) Semantik Bellek",
+               "E) Episodik Bellek"
+              ],
+              "dogruCevap": "B) Kısa Süreli Bellek (İşleyen Bellek)",
+              "cozum": "Kısa Süreli Bellek veya İşleyen Bellek (Working Memory), o an aktif olarak üzerinde düşünülen, manipüle edilen ve anlamlandırılmaya çalışılan bilgiyi barındıran bellektir. Öğretmeni dinlerken not almak, notları anlamlandırmak ve bilgiler arasında bağlantı kurmak gibi süreçler doğrudan işleyen bellekte gerçekleşir. Duyusal kayıt bilginin ilk girdiği çok kısa süreli depodur. Uzun süreli bellek ise bilginin kalıcı olarak depolandığı yerdir."
+             },
+             {
+              "soru": "4) Gelişim psikolojisinde, Kohlberg'in Ahlaki Gelişim Kuramı'na göre, bir bireyin ahlaki yargılarını sadece ceza ve ödülden kaçınma temeline dayandırması, ahlaki gelişimin hangi düzeyine karşılık gelir?",
+              "secenekler": [
+               "A) Gelenek Öncesi Düzey",
+               "B) Geleneksel Düzey",
+               "C) Gelenek Sonrası Düzey",
+               "D) Toplumsal Sözleşme Eğilimi",
+               "E) Evrensel Ahlak İlkeleri Eğilimi"
+              ],
+              "dogruCevap": "A) Gelenek Öncesi Düzey",
+              "cozum": "Kohlberg'in Ahlaki Gelişim Kuramı üç düzeyden oluşur: Gelenek Öncesi Düzey, Geleneksel Düzey ve Gelenek Sonrası Düzey. Gelenek Öncesi Düzeydeki bireyler, ahlaki kararlarını otoriteye itaat, ceza ve ödülden kaçınma temelinde verirler (Evre 1: Ceza ve İtaat Eğilimi, Evre 2: Kişisel Çıkar Eğilimi). Soru, ceza ve ödülden kaçınmayı vurguladığı için Gelenek Öncesi Düzey'e aittir."
+             },
+             {
+              "soru": "5) Bandura'nın Sosyal Bilişsel Kuramı'nda, bireyin davranışlarının, kişisel özelliklerinin ve çevresel faktörlerin karşılıklı olarak birbirini etkilediğini savunan temel ilke aşağıdakilerden hangisidir?",
+              "secenekler": [
+               "A) Sadece Gözlem Yoluyla Öğrenme",
+               "B) Karşılıklı Belirleyicilik (Reciprocal Determinism)",
+               "C) Sadece Pekiştirmenin Etkisi",
+               "D) İçgörüsel Öğrenme",
+               "E) Bilişsel Uyum Süreçleri"
+              ],
+              "dogruCevap": "B) Karşılıklı Belirleyicilik (Reciprocal Determinism)",
+              "cozum": "Bandura'nın Sosyal Bilişsel Kuramı'nın temel ilkelerinden biri Karşılıklı Belirleyiciliktir. Bu ilkeye göre, bireyin davranışı, bireyin kendi bilişsel faktörleri (düşünceler, inançlar, beklentiler) ve çevresel faktörler (sosyal etkileşimler, ödüller, cezalar) arasında sürekli bir etkileşim ve belirleme söz konusudur. Bu üç faktör (davranış, biliş, çevre) birbirini karşılıklı olarak etkiler ve şekillendirir."
+             },
+             {
+              "soru": "6) Eğitimin Tarihi Temelleri açısından, Osmanlı Devleti'nde XVII. yüzyıldan itibaren medreselerin bozulması ve Batı tarzı kurumların (Mühendishane, Tıphane vb.) açılmaya başlanması, hangi türde bir eğitim anlayışının ortaya çıkışını gösterir?",
+              "secenekler": [
+               "A) Sadece dini eğitime dönüş",
+               "B) Geleneksel eğitimin güçlenmesi",
+               "C) İkili (Geleneksel ve Modern) eğitim yapısının ortaya çıkışı",
+               "D) Sadece askeri eğitime ağırlık verilmesi",
+               "E) Eğitimin tamamen Batı modellerine terk edilmesi"
+              ],
+              "dogruCevap": "C) İkili (Geleneksel ve Modern) eğitim yapısının ortaya çıkışı",
+              "cozum": "Osmanlı Devleti'nde XIX. yüzyıla kadar süregelen ve Batı etkisinin artmasıyla hızlanan eğitim reformları sonucunda, geleneksel eğitim kurumları (medreseler) varlığını sürdürürken, Batı modellerini esas alan modern okullar (askeri okullar, tıp okulları, sivil okullar) da açılmıştır. Bu durum, eğitim sisteminde bir 'ikilik' yaratmış ve farklı okullardan mezun olan bireyler arasında kültürel ve ideolojik farklılıklar oluşmasına yol açmıştır. Bu ikilik Cumhuriyet dönemine kadar devam etmiştir."
+             },
+             {
+              "soru": "7) Eğitimin Sosyal-Kültürel Temelleri bağlamında, Bourdieu'nün 'kültürel sermaye' (cultural capital) kavramı, bireyin eğitim hayatındaki başarısını açıklarken hangi faktörlerin önemini vurgular?",
+              "secenekler": [
+               "A) Sadece ekonomik gelir düzeyi",
+               "B) Ailenin sahip olduğu maddi varlıklar",
+               "C) Ailenin ve çevrenin sağladığı bilgi, beceri, kültürel alışkanlıklar ve değerler",
+               "D) Bireyin doğuştan gelen zeka düzeyi",
+               "E) Okulun fiziksel koşulları"
+              ],
+              "dogruCevap": "C) Ailenin ve çevrenin sağladığı bilgi, beceri, kültürel alışkanlıklar ve değerler",
+              "cozum": "Pierre Bourdieu'nün kültürel sermaye kavramı, bireyin eğitim sisteminde başarılı olmasına yardımcı olan, ancak okul tarafından doğrudan öğretilmeyen, daha çok aile ve sosyal çevre aracılığıyla edinilen kültürel varlıkları (dil kullanımı, kültürel referanslar, estetik tercihler, davranış kalıpları vb.) ifade eder. Bourdieu'ye göre kültürel sermaye, eğitim sisteminin toplumsal eşitsizlikleri yeniden üretmesinde önemli bir rol oynar."
+             },
+             {
+              "soru": "8) Eğitimin Felsefi Temelleri bağlamında 'Gerçekçilik' (Realism) felsefesine göre, gerçeklik anlayışı ve müfredatın içeriği hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+              "secenekler": [
+               "A) Gerçeklik, sadece bireyin zihninde oluşturduğu bir yapıdır ve müfredat kişisel deneyimlere dayanmalıdır.",
+               "B) Gerçeklik, zihinden bağımsız olarak nesnel bir şekilde var olan dış dünyadır ve müfredat bilimsel bilgiye odaklanmalıdır.",
+               "C) Gerçeklik, toplumsal uzlaşma sonucu oluşur ve müfredat toplumsal sorunları ele almalıdır.",
+               "D) Gerçeklik, bireyin öznel deneyimleridir ve müfredat bireysel seçimlere dayanmalıdır.",
+               "E) Gerçeklik, evrensel ve değişmez fikirlerdir ve müfredat klasik eserlere dayanmalıdır."
+              ],
+              "dogruCevap": "B) Gerçeklik, zihinden bağımsız olarak nesnel bir şekilde var olan dış dünyadır ve müfredat bilimsel bilgiye odaklanmalıdır.",
+              "cozum": "Gerçekçilik (Realism) felsefesi, gerçekliğin insan zihninden bağımsız olarak nesnel bir şekilde var olduğunu savunur. Bu nedenle, gerçekçilik felsefesine dayalı eğitim, öğrencilere bu nesnel gerçekliği anlamaları için bilimsel bilgiyi, gözlem ve deneyime dayalı yöntemleri öğretmeyi amaçlar. Müfredat fen bilimleri, matematik gibi nesnel bilgilere odaklanır."
+             },
+             {
+              "soru": "9) Eğitimin Ekonomik Temelleri bağlamında 'Ekonomik Büyüme Modelleri'nde eğitimin rolü incelenirken, eğitimin 'endojen büyüme' (endogenous growth) teorilerine katkısı hangi yönüyle vurgulanır?",
+              "secenekler": [
+               "A) Sadece fiziksel sermaye birikimine katkı",
+               "B) Teknolojik yeniliklerin ve insan sermayesinin büyümenin içsel kaynakları olarak görülmesi",
+               "C) Sadece dış yardımların etkin kullanımı",
+               "D) Doğal kaynakların sınırlı olduğu varsayımı",
+               "E) Nüfus artışının büyümenin temel belirleyicisi olması"
+              ],
+              "dogruCevap": "B) Teknolojik yeniliklerin ve insan sermayesinin büyümenin içsel kaynakları olarak görülmesi",
+              "cozum": "Endojen büyüme teorileri, ekonomik büyümenin dışsal faktörlerden (örn. teknolojik ilerleme) ziyade, ekonomik sistemin içsel unsurlarından (örn. insan sermayesine yatırım, araştırma ve geliştirme, teknolojik yenilikler) kaynaklandığını savunur. Eğitim, insan sermayesini artırarak ve yenilikçiliği teşvik ederek endojen büyümenin temel itici güçlerinden biri olarak görülür."
+             },
+             {
+              "soru": "10) Eğitimin Politik Temelleri bağlamında, 'siyasal meşruiyet' (political legitimacy) kavramı, eğitim sistemiyle ilişkilendirildiğinde ne anlama gelir?",
+              "secenekler": [
+               "A) Eğitimin sadece siyasetçiler tarafından planlanması",
+               "B) Eğitim sisteminin, mevcut siyasal düzenin ve otoritenin halk tarafından kabul görmesine katkıda bulunması",
+               "C) Eğitim sisteminin siyasetten tamamen bağımsız olması",
+               "D) Eğitimin sadece siyasi liderler yetiştirmeyi amaçlaması",
+               "E) Eğitim sisteminin sürekli olarak siyasi eleştirilere maruz kalması"
+              ],
+              "dogruCevap": "B) Eğitim sisteminin, mevcut siyasal düzenin ve otoritenin halk tarafından kabul görmesine katkıda bulunması",
+              "cozum": "Siyasal meşruiyet, bir siyasal sistemin veya otoritenin, yönetilenler tarafından haklı ve kabul edilebilir olarak görülmesidir. Eğitim sistemi, vatandaşlara siyasal sistemin işleyişini, demokratik değerleri ve vatandaşlık görevlerini öğreterek, bireylerin siyasal sisteme bağlılık ve güven geliştirmesine katkıda bulunabilir. Bu yolla, eğitimin siyasal meşruiyetin sağlanmasında bir rolü olabilir."
+             },
+             {
+              "soru": "11) Öğretmenlik mesleği etik ilkeleri kapsamında, bir öğretmenin, çalıştığı okulda bir öğrenciye karşı istismar şüphesi durumunda izlemesi gereken ilk ve en önemli etik adım aşağıdakilerden hangisidir?",
+              "secenekler": [
+               "A) Durumu görmezden gelmek",
+               "B) Sadece veli ile görüşmek",
+               "C) Okul yönetimine ve ilgili resmi kurumlara (örn. Çocuk Koruma Birimleri) durumu bildirmek",
+               "D) Kendi başına araştırma yapmak",
+               "E) Meslektaşlarına danışmak (resmi bildirim yapmadan)"
+              ],
+              "dogruCevap": "C) Okul yönetimine ve ilgili resmi kurumlara (örn. Çocuk Koruma Birimleri) durumu bildirmek",
+              "cozum": "Öğretmenin en temel etik ve yasal sorumluluklarından biri, öğrencilerin güvenliğini ve iyiliğini korumaktır. Bir istismar şüphesi durumunda, öğretmen durumu derhal okul yönetimine bildirmeli ve ilgili yasal prosedürlerin (emniyet birimleri, sosyal hizmetler gibi resmi kurumlara bildirim) başlatılmasını sağlamalıdır. Durumu görmezden gelmek, sadece veli ile görüşmek veya kendi başına araştırma yapmak etik ve yasal olarak kabul edilemez ve öğrencinin zarar görme riskini artırır."
+             },
+             {
+              "soru": "12) Eğitim teknolojileri entegrasyonunda, öğrencilerin sadece teknolojik araçları kullanabilmesi değil, aynı zamanda dijital ortamdaki bilgiyi eleştirel olarak değerlendirebilmesi, üretebilmesi ve paylaşabilmesi yetkinliği hangi kavramla ifade edilir?",
+              "secenekler": [
+               "A) Bilgisayar Kullanım Becerisi",
+               "B) Teknik Yeterlilik",
+               "C) Dijital Okuryazarlık (Digital Literacy)",
+               "D) Kodlama Becerisi",
+               "E) Yazılım Geliştirme Yeteneği"
+              ],
+              "dogruCevap": "C) Dijital Okuryazarlık (Digital Literacy)",
+              "cozum": "Dijital okuryazarlık, sadece teknolojik araçları kullanma becerisini değil, aynı zamanda dijital ortamlardaki bilgilere erişme, bu bilgileri anlama, eleştirel olarak değerlendirme, dijital içerikler üretme, paylaşma ve dijital platformlarda güvenli ve sorumlu bir şekilde iletişim kurma yetkinliklerini kapsayan daha geniş bir kavramdır."
+             },
+             {
+              "soru": "13) Türk Milli Eğitim Sistemi'nde, 1739 Sayılı Temel Kanun'da 'Eğitim Hakkı' ilkesi kapsamında, özel eğitime ihtiyacı olan bireylerin eğitimine yönelik hangi temel yaklaşım benimsenmiştir?",
+              "secenekler": [
+               "A) Bu bireylerin eğitim sistemi dışında tutulması",
+               "B) Sadece özel okullarda eğitim almaları",
+               "C) Normal gelişim gösteren akranlarıyla birlikte, destek hizmetleri alarak eğitim ortamlarına dahil edilmeleri (kaynaştırma)",
+               "D) Eğitimlerinin sadece sağlık kurumlarında yapılması",
+               "E) Eğitimlerinin sadece uzaktan eğitimle yapılması"
+              ],
+              "dogruCevap": "C) Normal gelişim gösteren akranlarıyla birlikte, destek hizmetleri alarak eğitim ortamlarına dahil edilmeleri (kaynaştırma)",
+              "cozum": "1739 Sayılı Kanun ve ilgili özel eğitim mevzuatı, özel eğitime ihtiyacı olan bireylerin eğitim hakkını güvence altına alır ve onların, yeterli destek hizmetleri sağlanarak, normal gelişim gösteren akranlarıyla birlikte eğitim ortamlarına dahil edilmesini (bütünleştirme/kaynaştırma) temel prensip olarak benimser. Tamamen dışlama, sadece özel okul veya sağlık/uzaktan eğitim yaklaşımları kanunun temel ruhuna aykırıdır."
+             },
+             {
+              "soru": "14) Türkiye Yüzyılı Maarif Modeli kapsamında, 'yetkinlikler' kavramı ile aşağıdakilerden hangisi kastedilmektedir?",
+              "secenekler": [
+               "A) Sadece akademik sınav sonuçları",
+               "B) Öğrencilerin sadece ezberlediği bilgiler",
+               "C) Bireylerin bilgi, beceri, tutum ve değerleri kullanarak belirli bir durumda başarılı olabilme kapasitesi",
+               "D) Öğretmenlerin ders anlatma yetenekleri",
+               "E) Okulun sahip olduğu teknolojik olanaklar"
+              ],
+              "dogruCevap": "C) Bireylerin bilgi, beceri, tutum ve değerleri kullanarak belirli bir durumda başarılı olabilme kapasitesi",
+              "cozum": "Yetkinlikler, bir bireyin sadece bilgi sahibi olmasını değil, aynı zamanda bu bilgiyi kullanma becerisine sahip olmasını, uygun tutum ve değerleri taşımasını ve bu unsurları bir araya getirerek gerçek yaşam durumlarında veya belirli görevlerde etkili ve başarılı bir şekilde performans gösterebilmesini ifade eder. Modelin temel hedeflerinden biri, öğrencilere çeşitli yetkinlikler kazandırmaktır."
+             },
+             {
+              "soru": "15) Sınıf yönetiminde 'önleyici yaklaşım' (preventive approach) aşağıdaki stratejilerden hangisini öncelikli olarak içerir?",
+              "secenekler": [
+               "A) İstenmeyen davranışlar ortaya çıktıktan sonra sert cezalar vermek",
+               "B) Sorunları görmezden gelerek öğrenciyi kendi haline bırakmak",
+               "C) Sınıf kurallarını net bir şekilde belirlemek ve öğrencilerin bu kurallara uymasını sağlamak, olumlu bir sınıf iklimi oluşturmak",
+               "D) Sadece akademik konulara odaklanmak",
+               "E) Öğrenciler arasında sürekli rekabeti teşvik etmek"
+              ],
+              "dogruCevap": "C) Sınıf kurallarını net bir şekilde belirlemek ve öğrencilerin bu kurallara uymasını sağlamak, olumlu bir sınıf iklimi oluşturmak",
+              "cozum": "Önleyici sınıf yönetimi yaklaşımı, sorunlar ortaya çıkmadan önce, sınıf ortamını düzenleyerek, etkili kurallar ve rutinler oluşturarak, öğrenci-öğretmen ve öğrenci-öğrenci ilişkilerini güçlendirerek ve olumlu bir sınıf iklimi yaratarak istenmeyen davranışların ortaya çıkmasını engellemeyi hedefler. Bu, 'tepkisel' yaklaşımdan farklıdır."
+             },
+             {
+              "soru": "16) Eğitim psikolojisinde, bireyin öğrenme sürecinde karşılaştığı yeni bilgileri anlamlandırmak için mevcut şemalarını değiştirmesi veya yeni şemalar oluşturması süreci, Piaget'nin Bilişsel Gelişim Kuramı'nda aşağıdaki kavramlardan hangisiyle ifade edilir?",
+              "secenekler": [
+               "A) Özümleme (Asimilasyon)",
+               "B) Uyumsama (Akkomodasyon)",
+               "C) Dengeleme (Equilibrasyon)",
+               "D) Örgütleme (Organizasyon)",
+               "E) Adaptasyon"
+              ],
+              "dogruCevap": "B) Uyumsama (Akkomodasyon)",
+              "cozum": "Uyumsama (Akkomodasyon), bireyin karşılaştığı yeni bilgi veya durumun mevcut şemalarla açıklanamadığı durumlarda, mevcut şemaları yeni duruma uyacak şekilde değiştirmesi veya tamamen yeni şemalar oluşturması sürecidir. Bu, özümlemeden farklı olarak, şemaların kendisinde bir değişiklik gerektirir."
+             },
+             {
+              "soru": "17) Gelişim psikolojisinde, Gardner'ın Çoklu Zeka Kuramı'na göre, bir mimarın, heykeltıraşın veya denizcinin sahip olduğu zeka türü aşağıdakilerden hangisidir?",
+              "secenekler": [
+               "A) Sözel/Dilsel Zeka",
+               "B) Mantıksal/Matematiksel Zeka",
+               "C) Görsel/Uzamsal Zeka",
+               "D) Bedensel/Kinestetik Zeka",
+               "E) Kişilerarası (Sosyal) Zeka"
+              ],
+              "dogruCevap": "C) Görsel/Uzamsal Zeka",
+              "cozum": "Gardner'ın Çoklu Zeka Kuramı, zekanın tek bir boyutta olmadığını, farklı alanlarda birden çok zeka türü olduğunu savunur. Görsel/Uzamsal Zeka, kişinin dünyayı ve uzamsal ilişkileri algılama, görsel materyalleri yorumlama, zihinsel imgeler oluşturma ve yön bulma yeteneğidir. Mimarlar, heykeltıraşlar, ressamlar, denizciler gibi mesleklerde bu zeka türü ön plandadır."
+             },
+             {
+              "soru": "18) Eğitimin Sosyal-Kültürel Temelleri bağlamında, okulların 'sosyal seçilim' (social selection) işlevi, aşağıdaki süreçlerden hangisiyle en yakından ilişkilidir?",
+              "secenekler": [
+               "A) Tüm öğrencilere eşit fırsat sunulması",
+               "B) Bireylerin yeteneklerine ve akademik başarılarına göre farklı eğitim yollarına veya toplumsal konumlara yönlendirilmesi",
+               "C) Öğrenciler arasında dayanışmanın güçlendirilmesi",
+               "D) Kültürel çeşitliliğin kutlanması",
+               "E) Sadece ekonomik durumu iyi öğrencilerin başarılı olması"
+              ],
+              "dogruCevap": "B) Bireylerin yeteneklerine ve akademik başarılarına göre farklı eğitim yollarına veya toplumsal konumlara yönlendirilmesi",
+              "cozum": "Eğitimin sosyal seçilim işlevi, okulun, öğrencileri yetenek, başarı ve diğer kriterlere göre sınıflandırarak, farklı eğitim programlarına, okullara veya gelecekteki meslek ve toplumsal konumlara yönlendirmesi sürecidir. Bu işlev, toplumsal tabakalaşmanın sürdürülmesinde veya değiştirilmesinde rol oynayabilir. Eşit fırsat sunmak sosyal seçilim değil, fırsat eşitliği ilkesidir. Sadece ekonomik durumla ilgili değildir, akademik başarı ve yetenek de belirleyicidir."
+             },
+             {
+              "soru": "19) Eğitimin Felsefi Temelleri bağlamında, 'Varoluşçuluk' (Existentialism) felsefesine göre, öğretmen ve öğrenci arasındaki ilişki nasıl olmalıdır?",
+              "secenekler": [
+               "A) Öğretmen mutlak otoritedir, öğrenci pasif alıcıdır.",
+               "B) Öğretmen sadece bilgiyi aktarır, öğrenci ezberler.",
+               "C) Öğretmen bir rehber ve kolaylaştırıcıdır, öğrenci ise kendi anlamını ve değerlerini oluşturan aktif bir bireydir.",
+               "D) Öğretmen ve öğrenci tamamen eşittir ve rollerin önemi yoktur.",
+               "E) Öğretmen, öğrenciyi sadece topluma uyum sağlayan bir birey olarak yetiştirir."
+              ],
+              "dogruCevap": "C) Öğretmen bir rehber ve kolaylaştırıcıdır, öğrenci ise kendi anlamını ve değerlerini oluşturan aktif bir bireydir.",
+              "cozum": "Varoluşçuluk, bireyin özgürlüğünü, seçimlerini ve kendi varoluşunun anlamını yaratmasını vurgular. Bu felsefeye göre eğitimde öğretmen, öğrenciye bilgi aktarmaktan ziyade, onun kendini tanımasına, seçimler yapmasına ve kendi değerlerini oluşturmasına yardımcı olan bir rehber ve kolaylaştırıcıdır. Öğrenci ise pasif bir alıcı değil, öğrenme sürecinin ve kendi hayatının aktif öznesidir."
+             },
+             {
+              "soru": "20) Eğitimin Ekonomik Temelleri bağlamında, eğitimde 'getiri oranları analizi' (rates of return analysis) ne amaçla kullanılır?",
+              "secenekler": [
+               "A) Eğitim kurumlarının fiziksel altyapısını değerlendirmek",
+               "B) Farklı eğitim düzeylerine veya türlerine yapılan yatırımın (maliyetin) sağladığı faydaların (getirinin) karşılaştırılması",
+               "C) Öğretmenlerin performansını ölçmek",
+               "D) Öğrencilerin başarı sıralamasını belirlemek",
+               "E) Eğitim politikalarının siyasi etkilerini değerlendirmek"
+              ],
+              "dogruCevap": "B) Farklı eğitim düzeylerine veya türlerine yapılan yatırımın (maliyetin) sağladığı faydaların (getirinin) karşılaştırılması",
+              "cozum": "Getiri oranları analizi, eğitime yapılan yatırımın ekonomik verimliliğini ölçmek için kullanılan bir yöntemdir. Farklı eğitim düzeylerine (ilkokul, ortaokul, lise, üniversite) veya farklı eğitim türlerine (genel lise, meslek lisesi) yapılan yatırımın maliyeti ile bu yatırımın bireye (daha yüksek gelir) ve topluma (daha fazla verimlilik, vergi geliri vb.) sağladığı getiriler karşılaştırılır. Bu analiz, eğitim politikası kararlarında (hangi eğitim düzeyine/türüne daha çok yatırım yapılmalı?) kullanılabilir."
+             },
+             {
+              "soru": "21) Eğitim etiği açısından, bir öğretmenin sosyal medya hesaplarında öğrencileri veya velileri hakkında olumsuz yorumlar yapması, hangi etik prensibi doğrudan ihlal eder?",
+              "secenekler": [
+               "A) Profesyonellik ve Saygı",
+               "B) Doğruluk ve Dürüstlük",
+               "C) Tarafsızlık ve Adalet",
+               "D) Gizlilik",
+               "E) Bütünlük"
+              ],
+              "dogruCevap": "A) Profesyonellik ve Saygı",
+              "cozum": "Öğretmenin, sosyal medya dahil olmak üzere kamuya açık alanlarda öğrencileri veya velileri hakkında olumsuz veya küçük düşürücü yorumlar yapması, mesleki profesyonellik sınırlarını aşar ve öğrencilere/velilere karşı saygı prensibini ihlal eder. Öğretmenlik mesleğinin gerektirdiği saygınlık ve tarafsızlık ilkeleriyle bağdaşmaz."
+             },
+             {
+              "soru": "22) Eğitim teknolojileri kullanımında 'Harmanlanmış Öğrenme' (Blended Learning) modeli, aşağıdaki yaklaşımlardan hangisini tanımlar?",
+              "secenekler": [
+               "A) Eğitimin tamamen çevrimiçi (online) platformlarda yapılması",
+               "B) Eğitimin tamamen geleneksel sınıf ortamında yapılması",
+               "C) Geleneksel sınıf ortamı eğitimi ile çevrimiçi (online) öğrenme unsurlarının bir arada kullanıldığı öğrenme modeli",
+               "D) Öğrencinin sadece ders kitaplarından öğrenmesi",
+               "E) Sadece mobil cihazlar üzerinden öğrenme"
+              ],
+              "dogruCevap": "C) Geleneksel sınıf ortamı eğitimi ile çevrimiçi (online) öğrenme unsurlarının bir arada kullanıldığı öğrenme modeli",
+              "cozum": "Harmanlanmış öğrenme (Blended Learning), geleneksel yüz yüze eğitimin, çevrimiçi öğrenme materyalleri, etkileşimler ve aktivitelerle birleştirildiği bir öğrenme yaklaşımıdır. Hem fiziksel sınıf ortamının hem de dijital ortamın avantajlarından faydalanmayı hedefler."
+             },
+             {
+              "soru": "23) Türk Milli Eğitim Sisteminde, 1739 Sayılı Temel Kanun'da yer alan 'Genellik ve Eşitlik' ilkesi, aşağıdaki uygulamalardan hangisini zorunlu kılar?",
+              "secenekler": [
+               "A) Tüm okulların aynı binada olması",
+               "B) Tüm öğrencilerin aynı dersleri alması",
+               "C) Eğitim kurumlarının dil, ırk, cinsiyet, din ayırımı gözetilmeksizin herkese açık olması",
+               "D) Öğretmenlerin cinsiyetine göre farklı okullarda görev yapması",
+               "E) Sadece devlet okullarında eğitim verilmesi"
+              ],
+              "dogruCevap": "C) Eğitim kurumlarının dil, ırk, cinsiyet, din ayırımı gözetilmeksizin herkese açık olması",
+              "cozum": "1739 Sayılı Kanun'daki Genellik ve Eşitlik ilkesi, Türk milli eğitiminin, dil, ırk, cinsiyet ve din ayırımı gözetilmeksizin herkese açık olmasını ve eğitimde hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınmamasını emreder. Eğitim kurumlarına kabulde ve eğitim hizmetlerinden yararlanmada eşitlik esastır."
+             },
+             {
+              "soru": "24) Türkiye Yüzyılı Maarif Modeli'nde, öğrencilerin sadece ulusal değerlere bağlı kalması değil, aynı zamanda küresel sorunlara duyarlı, farklı kültürlere açık ve uluslararası işbirliğine yatkın bireyler olarak yetiştirilmesi hedefi, modelin hangi boyutuyla daha çok ilişkilidir?",
+              "secenekler": [
+               "A) Yerellik Boyutu",
+               "B) Geleneksellik Boyutu",
+               "C) Küresellik Boyutu",
+               "D) Sadece Millilik Boyutu",
+               "E) Dini Boyut"
+              ],
+              "dogruCevap": "C) Küresellik Boyutu",
+              "cozum": "Model, 'millilik' ile 'küresellik' dengesini gözetmeyi hedefler. Öğrencilerin milli değerlere bağlılığının yanı sıra, küresel vatandaşlık, farklı kültürlere saygı, uluslararası işbirliği, küresel sorunlara çözüm arama gibi yetkinlikleri kazanması, modelin 'küresellik' boyutuyla ilgilidir. Bu, sadece yerel veya milli değerlere odaklanmanın ötesine geçen bir yaklaşımdır."
+             },
+             {
+              "soru": "25) Sınıf ortamında 'olumlu pekiştirme' stratejilerini uygularken, pekiştiricinin (ödülün) davranışın hemen ardından verilmesi gerekliliği, Behaviorizmde hangi prensiple açıklanır?",
+              "secenekler": [
+               "A) Genelleyicilik",
+               "B) Ayırt Etme",
+               "C) Yakınlık (Contiguity)",
+               "D) Sönme",
+               "E) Kendiliğinden Geri Gelme"
+              ],
+              "dogruCevap": "C) Yakınlık (Contiguity)",
+              "cozum": "Behaviorizmde öğrenme, uyarıcı ve tepki arasındaki 'yakınlık' prensibiyle açıklanır. Özellikle edimsel koşullanmada, pekiştiricinin veya cezanın davranışın hemen ardından verilmesi (zamansal yakınlık), o davranış ile sonuç arasındaki bağın daha güçlü kurulmasını sağlar ve öğrenmenin etkinliğini artırır. Gecikmiş pekiştirme daha az etkili olur."
+             },
+             {
+              "soru": "26) Eğitimin Felsefi Temelleri bağlamında, 'Daimicilik' (Perennialism) felsefesinin müfredat anlayışı hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+              "secenekler": [
+               "A) Müfredat, öğrencilerin güncel ilgi alanlarına göre sürekli değişmelidir.",
+               "B) Müfredat, toplumsal sorunları çözmeye odaklanmalıdır.",
+               "C) Müfredat, evrensel ve değişmez gerçekleri içeren 'Büyük Kitaplar'a ve liberal sanatlara dayanmalıdır.",
+               "D) Müfredat, tamamen mesleki becerilere odaklanmalıdır.",
+               "E) Müfredat, sadece bilimsel keşifleri içermelidir."
+              ],
+              "dogruCevap": "C) Müfredat, evrensel ve değişmez gerçekleri içeren 'Büyük Kitaplar'a ve liberal sanatlara dayanmalıdır.",
+              "cozum": "Daimicilik (Perennialism) felsefesi, eğitimin amacının, insan doğasının evrensel ve değişmez gerçeklerini öğretmek olduğunu savunur. Müfredat, bu evrensel gerçekleri içeren ve nesilden nesile aktarılan 'Büyük Kitaplar'a (klasik edebi, felsefi ve bilimsel eserler) ve liberal sanatlara (gramer, retorik, mantık, aritmetik, geometri, müzik, astronomi) dayanmalıdır. Öğrenci merkezli değildir, güncel sorunlara veya mesleki becerilere odaklanmaz."
+             },
+             {
+              "soru": "27) Türk Milli Eğitim Sistemi'nde öğretmenlik mesleği ile ilgili olarak, 657 Sayılı Devlet Memurları Kanunu'nun sağladığı temel güvencelerden biri aşağıdakilerden hangisidir?",
+              "secenekler": [
+               "A) Sınırsız grev hakkı",
+               "B) Sadece performans değerlendirmesine göre maaş artışı",
+               "C) Memurluk güvencesi (belirli şartlar dışında görevden alınamama)",
+               "D) Sadece sendika üyeliği ile mesleğe başlama",
+               "E) Mesai saatlerinin tamamen öğretmen tarafından belirlenmesi"
+              ],
+              "dogruCevap": "C) Memurluk güvencesi (belirli şartlar dışında görevden alınamama)",
+              "cozum": "657 Sayılı Devlet Memurları Kanunu'na tabi olan öğretmenler, 'memuriyet güvencesi'ne sahiptir. Bu, kanunda belirtilen belirli disiplin cezaları veya yasal şartlar dışında keyfi olarak görevden alınamamaları anlamına gelir. Grev hakkı sınırlıdır veya bazı kamu görevlileri için yoktur. Maaş artışı performansın yanı sıra genel zamlarla da olur. Sendika üyeliği zorunlu değildir. Mesai saatleri belirli yasal çerçevelere tabidir."
+             },
+             {
+              "soru": "28) Eğitim teknolojileri kullanımında 'erişilebilirlik' (accessibility) prensibi, aşağıdakilerden hangisini öncelikli olarak dikkate alır?",
+              "secenekler": [
+               "A) Teknolojinin en son model olmasını",
+               "B) Tüm kullanıcıların (engelli bireyler dahil) teknolojik araçları ve içerikleri rahatlıkla kullanabilmesini",
+               "C) Teknolojinin en ucuz fiyatlı olmasını",
+               "D) Sadece öğrencilerin değil, öğretmenlerin de teknolojiye erişimini",
+               "E) Teknolojinin sürekli internet bağlantısı gerektirmesini"
+              ],
+              "dogruCevap": "B) Tüm kullanıcıların (engelli bireyler dahil) teknolojik araçları ve içerikleri rahatlıkla kullanabilmesini",
+              "cozum": "Erişilebilirlik (accessibility), tasarımın, ürünlerin, ortamların ve hizmetlerin, engelliler dahil olmak üzere herkes tarafından, mümkün olan en geniş ölçüde, uyarlamaya gerek duyulmadan kullanılabilir olmasını sağlayan ilkedir. Eğitim teknolojileri bağlamında, görme engelliler için ekran okuyucu uyumluluğu, işitme engelliler için alt yazılar, motor beceri sınırlılığı olanlar için klavye navigasyonu gibi özelliklerin bulunması erişilebilirlik prensibinin gereğidir."
+             },
+             {
+              "soru": "29) Bir okul müdürünün, bir öğretmenin yeterliliği hakkında resmi olmayan kanallardan edindiği bilgileri kullanarak o öğretmenin performansını düşürmesi, eğitimde etik açısından hangi prensibi ihlal eder?",
+              "secenekler": [
+               "A) Gizlilik",
+               "B) Doğruluk, Dürüstlük ve Adalet",
+               "C) Saygı",
+               "D) Profesyonellik",
+               "E) Tarafsızlık"
+              ],
+              "dogruCevap": "B) Doğruluk, Dürüstlük ve Adalet",
+              "cozum": "Okul müdürünün, öğretmen değerlendirmelerinde objektif, şeffaf ve adil olması esastır. Resmi olmayan, doğruluğu teyit edilmemiş bilgilere dayanarak performans düşürmek, dürüstlük, doğruluk ve adalet prensiplerini ihlal eder. Değerlendirme, belirli performans standartlarına ve resmi gözlemlere dayanmalıdır."
+             },
+             {
+              "soru": "30) Eğitim felsefelerinden hangisi, eğitimi toplumsal değişimin en etkili aracı olarak görür ve müfredatın temelini güncel toplumsal sorunların oluşturması gerektiğini savunur?",
+              "secenekler": [
+               "A) Daimicilik (Perennialism)",
+               "B) Esasicilik (Essentialism)",
+               "C) İlerlemecilik (Progressivism)",
+               "D) Varoluşçuluk (Existentialism)",
+               "E) Yeniden Yapılandırmacılık (Reconstructionism)"
+              ],
+              "dogruCevap": "E) Yeniden Yapılandırmacılık (Reconstructionism)",
+              "cozum": "Yeniden Yapılandırmacılık (Reconstructionism), eğitimi var olan toplumsal sorunları (eşitsizlik, yoksulluk, ayrımcılık, savaş tehdidi vb.) çözmek ve daha iyi, daha demokratik, daha adil bir toplum inşa etmek için bir araç olarak görür. Müfredat, bu toplumsal sorunları incelemeye ve çözüm yolları bulmaya odaklanmalıdır. Eğitim, toplumsal değişimin motorudur."
+             }
+            ],
+              "2017 Kpss Eğitim Bilimleri Çıkmış Sorular": [
         {
           "soru": "Öğretme-öğrenme sürecinde “öğretmenin öğrencilerini kazanımlarla ilgili bilgilendirmesi, kazanım ve içerik ilişkisini kurması, neyi nasıl kazanacaklarını onlara açıklaması” aşağıdaki öğretim basamaklarından hangisinde gerçekleştirilir?",
           "secenekler": [
