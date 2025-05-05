@@ -274,5 +274,161 @@
                 "image": "https://upload.wikimedia.org/wikipedia/tr/6/61/Sporting_Lizbon_logo.png"
             }
         ]
+    },
+    "whoami": {
+        "easy":[
+            {
+                "answer": "Hagi",
+                "clues": [
+                    "He is a Romanian footballer",
+                    "He is a former captain of the Romanian national team",
+                    "He plays for Galatasaray"
+                ]
+            },
+            {
+                "answer": "Lionel Messi",
+                "clues": [
+                    "He is an Argentine footballer.",
+                    "He is widely regarded as one of the greatest players of all time.",
+                    "He spent the majority of his professional career playing for FC Barcelona.",
+                    "He has won the Ballon d'Or award a record number of times.",
+                    "He is known for his exceptional dribbling skills and left foot.",
+                    "He has won multiple UEFA Champions League titles.",
+                    "He captains the Argentina national team.",
+                    "He led Argentina to victory in the 2021 Copa América.",
+                    "He led Argentina to victory in the 2022 FIFA World Cup.",
+                    "He currently plays his club football in the United States."
+                ]
+            },
+            {
+                "answer": "Cristiano Ronaldo",
+                "clues": [
+                    "He is a Portuguese footballer.",
+                    "He is considered one of the greatest players of all time.",
+                    "He has won the Ballon d'Or multiple times.",
+                    "He has played for major European clubs like Manchester United, Real Madrid, and Juventus.",
+                    "He is his country's all-time leading goalscorer.",
+                    "He is the all-time leading goalscorer in the UEFA Champions League.",
+                    "He won the UEFA European Championship with his country in 2016.",
+                    "He currently plays his club football in Saudi Arabia.",
+                    "He holds the record for the most appearances in men's international football.",
+                    "He is known for his incredible longevity at the top level."
+                ]
+            },
+            {
+                "answer": "Pelé",
+                "clues": [
+                    "He was a Brazilian footballer who is widely regarded as one of the greatest players of all time.",
+                    "He primarily played as a forward.",
+                    "He is the only player in history to win three FIFA World Cups (1958, 1962, 1970).",
+                    "He spent the majority of his club career playing for Santos FC in Brazil.",
+                    "He is his country's all-time leading goalscorer.",
+                    "He was known for his skill, athleticism, and prolific goalscoring.",
+                    "He was nicknamed 'The King'.",
+                    "He scored over 1,000 goals throughout his career."
+                ]
+            },
+            {
+                "answer": "Zinedine Zidane",
+                "clues": [
+                    "He is a French former professional footballer.",
+                    "He played as an attacking midfielder.",
+                    "He won the FIFA World Cup with his country in 1998.",
+                    "He won the UEFA European Championship with his country in 2000.",
+                    "He played for major European clubs including Juventus and Real Madrid.",
+                    "He was known for his elegance, vision, ball control, and technique.",
+                    "He won the Ballon d'Or in 1998.",
+                    "After retiring as a player, he became a highly successful manager, notably with Real Madrid, winning three consecutive UEFA Champions League titles."
+                ]
+            },
+             {
+                "answer": "Ronaldo Nazário",
+                "clues": [
+                    "He is a Brazilian former professional footballer.",
+                    "He is widely considered one of the greatest strikers of all time.",
+                    "He was nicknamed 'O Fenômeno' (The Phenomenon).",
+                    "He won the FIFA World Cup with Brazil twice, scoring both goals in the 2002 final.",
+                    "He won the Ballon d'Or twice.",
+                    "He played for major European clubs including Barcelona, Inter Milan, Real Madrid, and AC Milan.",
+                    "He was known for his speed, dribbling, and clinical finishing.",
+                    "His career was significantly impacted by serious knee injuries."
+                ]
+            },
+            {
+                "answer": "Diego Maradona",
+                "clues": [
+                    "He was an Argentine footballer who is widely regarded as one of the greatest players of all time.",
+                    "He primarily played as an attacking midfielder or second striker.",
+                    "He captained Argentina to victory in the 1986 FIFA World Cup, scoring the famous 'Hand of God' and 'Goal of the Century' against England.",
+                    "He spent his most iconic club years playing for SSC Napoli in Italy, leading them to their first Serie A titles.",
+                    "He was known for his dribbling, vision, passing, and close ball control.",
+                    "He is a cultural icon in Argentina and Naples.",
+                    "He is the only player to set world record transfer fees twice.",
+                    "His career was also marked by controversies and issues with drug addiction."
+                ]
+            },
+            {
+                "answer": "Francesco Totti",
+                "clues": [
+                    "He is an Italian former footballer.",
+                    "He played primarily as an attacking midfielder or second striker.",
+                    "He spent his entire professional career (1992-2017) at one club.",
+                    "He is considered a legendary captain and icon for AS Roma.",
+                    "He won the FIFA World Cup with Italy in 2006.",
+                    "He holds the record for the most appearances and most goals scored for his club.",
+                    "He was known for his vision, technique, and goalscoring ability from open play and penalties."
+                ]
+            },
+            {
+                "answer": "Dennis Bergkamp",
+                "clues": [
+                    "He is a Dutch former footballer.",
+                    "He played as a second striker or attacking midfielder.",
+                    "He is widely regarded as an Arsenal FC legend, known for his time there (1995-2006).",
+                    "He was renowned for his incredible first touch and technical skill.",
+                    "He scored many spectacular goals, including a famous one against Argentina in the 1998 FIFA World Cup.",
+                    "He had a well-known fear of flying, which affected his participation in away matches in European competitions.",
+                    "He was a key player in Arsenal's 'Invincibles' Premier League season (2003-2004)."
+                ]
+            },
+            {
+                "answer": "Pavel Nedvěd",
+                "clues": [
+                    "He is a Czech former professional footballer.",
+                    "He primarily played as a midfielder, known for his stamina and powerful shots.",
+                    "He won the Ballon d'Or award in 2003.",
+                    "He played for major Italian clubs, most notably Lazio and Juventus.",
+                    "He was a key player for the Czech Republic national team, reaching the UEFA Euro 1996 final.",
+                    "He retired from professional football in 2009 after playing for Juventus.",
+                    "He was known for his intense work rate and dedication on the pitch."
+                ]
+            },
+            {
+                "answer": "Javier Zanetti",
+                "clues": [
+                    "He is an Argentine former professional footballer.",
+                    "He was known for his versatility, capable of playing in multiple defensive and midfield positions.",
+                    "He spent almost his entire career (1995-2014) at one club.",
+                    "He was a long-serving captain and icon for Inter Milan.",
+                    "He holds the record for the most appearances for Inter Milan.",
+                    "He was known for his incredible fitness and longevity.",
+                    "He won the UEFA Champions League with Inter Milan as captain in 2010.",
+                    "He also holds the record for the second-most appearances for the Argentina national team."
+                ]
+            },
+            {
+                "answer": "Gabriel Batistuta",
+                "clues": [
+                    "He is an Argentine former professional footballer.",
+                    "He is widely regarded as one of the greatest strikers of his generation.",
+                    "He was known for his powerful shots and goalscoring ability.",
+                    "He is one of the all-time leading goalscorers for the Argentina national team.",
+                    "He played for several Italian clubs, spending the majority of his peak years at Fiorentina.",
+                    "He was known for his iconic goal celebration, often performing a machine gun salute.",
+                    "He won the Serie A title with AS Roma in the 2000-2001 season.",
+                    "He won the Copa América twice with Argentina (1991, 1993)."
+                ]
+            }
+        ]
     }
 }
