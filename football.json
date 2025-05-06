@@ -4,7 +4,7 @@
             "easy": [
                 {
                     "name": "Cole Palmer",
-                    "image": "https://cdn.prod.website-files.com/62fe3f004c3de985c9e10052/675c53caf2ec0f9824652ac2_GettyImages-2189034330%20(1).jpg"
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cole_Palmer_%28Chelsea%29_vs_Leicester_City%2C_9th_March_2025_%28cropped%29.jpg"
                 },
                 {
                     "name": "Kevin De Bruyne",
@@ -276,15 +276,7 @@
         ]
     },
     "whoami": {
-        "easy":[
-            {
-                "answer": "Hagi",
-                "clues": [
-                    "He is a Romanian footballer",
-                    "He is a former captain of the Romanian national team",
-                    "He plays for Galatasaray"
-                ]
-            },
+        "old":[
             {
                 "answer": "Lionel Messi",
                 "clues": [
@@ -429,6 +421,85 @@
                     "He won the Copa América twice with Argentina (1991, 1993)."
                 ]
             }
+        ],
+        "new":[
+            {
+                "answer": "Neymar",
+                "clues": [
+                    "He is a Brazilian footballer",
+                    "He plays for Paris Saint-Germain",
+                    "He is one of the most expensive players in the world",
+                    "He is known for his dribbling skills and speed",
+                    "He is a former Barcelona player",
+                    "He is a former Santos player"
+                ]
+            },
+                {
+                    "answer": "Kevin De Bruyne",
+                    "clues": [
+                        "He is a Belgian professional footballer.",
+                        "He plays as a midfielder.",
+                        "He is widely regarded as one of the best midfielders in the world.",
+                        "He is a key player and captain for Manchester City FC.",
+                        "He is known for his exceptional passing range, creativity, and crossing ability.",
+                        "He has won multiple Premier League titles, FA Cups, and the UEFA Champions League with his current club.",
+                        "He has won the PFA Players' Player of the Year award multiple times.",
+                        "He is also the captain of the Belgium national team."
+                    ]
+                },
+                {
+                    "answer": "Mohamed Salah",
+                    "clues": [
+                        "He is an Egyptian professional footballer.",
+                        "He primarily plays as a forward or winger.",
+                        "He is a star player for Liverpool FC.",
+                        "He is known for his speed, dribbling, and prolific goalscoring in the Premier League.",
+                        "He has won the Premier League Golden Boot award multiple times.",
+                        "He won the Premier League, UEFA Champions League, FA Cup, and League Cup with Liverpool.",
+                        "He captains the Egypt national team.",
+                        "He is widely considered one of the greatest African footballers of all time."
+                    ]
+                },
+                {
+                    "answer": "Rodri",
+                    "clues": [
+                        "He is a Spanish professional footballer.",
+                        "He plays as a defensive midfielder.",
+                        "He is considered one of the best players in his position globally.",
+                        "He is a key player for Manchester City FC.",
+                        "He scored the winning goal in the 2023 UEFA Champions League Final.",
+                        "He is known for his passing accuracy, tactical intelligence, and physical presence.",
+                        "He has won multiple Premier League titles and the Champions League with Manchester City.",
+                        "He is a regular starter for the Spain national team, winning the UEFA Nations League in 2023."
+                    ]
+                },
+                {
+                    "answer": "Lautaro Martínez",
+                    "clues": [
+                        "He is an Argentine professional footballer.",
+                        "He plays as a striker.",
+                        "He is the captain and main goalscorer for Inter Milan in Serie A.",
+                        "He won the Serie A title with Inter Milan.",
+                        "He was part of the Argentina squad that won the 2021 Copa América.",
+                        "He was part of the Argentina squad that won the 2022 FIFA World Cup.",
+                        "He is known for his finishing, movement, and link-up play."
+                    ]
+                },
+                {
+                    "answer": "Bukayo Saka",
+                    "clues": [
+                        "He is an English professional footballer.",
+                        "He primarily plays as a winger.",
+                        "He came through the youth academy of his current club.",
+                        "He is a key player for Arsenal FC.",
+                        "He is known for his dribbling, pace, and attacking threat from the right flank.",
+                        "He is a regular starter for the England national team.",
+                        "He was part of the England squad that reached the UEFA Euro 2020 final.",
+                        "He has won his club's Player of the Season award multiple times in recent years."
+                    ]
+                }
+            
+                    
         ]
     }
 }
