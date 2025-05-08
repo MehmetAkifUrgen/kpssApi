@@ -13070,6 +13070,55 @@
           "cozum": "Berrak’ın Menemen’i (1. gün) Simit’ten (2. gün) önce seçtiği doğrulandığında, Ali’nin 1. gün Simit seçtiği görülür. Bu, A seçeneğini doğrular."
         }
       ],
+      "Sözel Mantık 2018 Sonbahar ALES Çıkmış Sorular": [
+        {
+          "soru": "Bir sörf yarışmasında Ali, Berna, Cem, Deniz, Eylem ve Figen adlı kişiler; mavi, kırmızı ve yeşil takımlar adına yarışmışlardır. Kişilerin takımlarına ve yarışı bitirme sıralarına ilişkin kimi bilgiler şu şekildedir:\n- Her takımın ikişer üyesi bulunmaktadır.\n- Aynı takımın üyeleri yarışmayı art arda bitirmemiştir.\n- Ali yarışmayı birinci, Berna beşinci sırada tamamlamıştır.\n- Figen, kırmızı takımın üyesidir.\n- Yarışmayı Eylem’den hemen sonra Figen tamamlamıştır.\n- Yarışmayı ilk üç sırada bitiren kişilerden hiçbiri yeşil takımın üyesi değildir.\nBuna göre Cem, Eylem, Figen adlı kişilerden hangileri yarışı ilk üç sırada bitirmiştir?",
+          "secenekler": [
+            "A) Yalnız I",
+            "B) Yalnız II",
+            "C) Yalnız III",
+            "D) II ve III",
+            "E) I, II ve III"
+          ],
+          "dogruCevap": "D) II ve III"
+        },
+        {
+          "soru": "Aşağıdaki kişilerden hangileri aynı takımın üyesidir?",
+          "secenekler": [
+            "A) Ali ve Cem",
+            "B) Berna ve Figen",
+            "C) Cem ve Deniz",
+            "D) Ali ve Eylem",
+            "E) Berna ve Deniz"
+          ],
+          "dogruCevap": "C) Cem ve Deniz",
+          "cozum": "Takımlar: Mavi (Ali, Eylem), Kırmızı (Figen, Berna), Yeşil (Cem, Deniz). Cem ve Deniz aynı takımda (Yeşil)."
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi yanlıştır?",
+          "secenekler": [
+            "A) Yarışı mavi takımın bir üyesinden hemen sonra kırmızı takımın bir üyesi tamamlamıştır.",
+            "B) Yarışı mavi takımın bir üyesinden hemen sonra yeşil takımın bir üyesi tamamlamıştır.",
+            "C) Yarışı yeşil takımın bir üyesinden hemen sonra mavi takımın bir üyesi tamamlamıştır.",
+            "D) Yarışı yeşil takımın bir üyesinden hemen sonra kırmızı takımın bir üyesi tamamlamıştır.",
+            "E) Yarışı kırmızı takımın bir üyesinden hemen sonra mavi takımın bir üyesi tamamlamıştır."
+          ],
+          "dogruCevap": "D) Yarışı yeşil takımın bir üyesinden hemen sonra kırmızı takımın bir üyesi tamamlamıştır.",
+          "cozum": "Sıralama: Mavi, Yeşil, Mavi, Kırmızı, Kırmızı, Yeşil. Yeşil (2, 6) sonrası Kırmızı (4, 5) yok, bu nedenle D yanlıştır."
+        },
+        {
+          "soru": "Deniz’in yarışı kırmızı takımın bir üyesinden hemen sonra tamamladığı biliniyorsa aşağıdakilerden hangisi doğrudur?",
+          "secenekler": [
+            "A) Eylem, yarışı üçüncü sırada tamamlamıştır.",
+            "B) Figen, yarışı dördüncü sırada tamamlamıştır.",
+            "C) Cem, yarışı altıncı sırada tamamlamıştır.",
+            "D) Ali, mavi takımın üyesidir.",
+            "E) Berna, kırmızı takımın üyesidir."
+          ],
+          "dogruCevap": "C) Cem, yarışı altıncı sırada tamamlamıştır.",
+          "cozum": "Deniz 5. (Kırmızı sonrası, 4. Figen), Cem 6. sıradadır. Bu, C seçeneğini doğrular."
+        }
+      ],
       "Sözel Mantık 2019 Kpss Çıkmış Sorular": [
         {
           "soru": "Ali, Berna, Cem, Deren, Engin, Faruk ve Gizem adlı sporcular iki aşamalı bir koşu yarışına katılmıştır. Bu yarışta birinci koşuyu ilk beş sırada tamamlayan yarışmacılar, ikinci koşuya katılmaya hak kazanmıştır. Sporcuların her iki koşuyu tamamlama sıralarına ilişkin kimi bilgiler şu şekildedir:\n İlk koşuyu Gizem; Deren’den hemen sonra, Faruk’tan hemen önce tamamlamıştır.\n Berna her iki koşuyu da aynı sırada tamamlamıştır.\n İlk koşuyu ikinci sırada Ali, ikinci koşuyu üçüncü sırada Faruk tamamlamıştır.\n İkinci koşuyu Gizem, Deren’den önce tamamlamıştır.\n\nBuna göre\nI. Berna,\nII. Cem,\nIII. Deren\n\nadlı sporculardan hangileri ikinci koşuyu beşinci sırada tamamlamış olabilir?",
