@@ -618,17 +618,6 @@
           "dogruCevap": "Sadece askeri eğitim"
         },
         {
-          "soru": "Türkiye Cumhuriyeti Anayasası'na göre, 'eğitim ve öğretim' alanında yapılan düzenlemelerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-          "secenekler": [
-            "Eğitim ve öğretim tamamen ücretsizdir.",
-            "Devlet, özel okulları kapatma yetkisine sahiptir.",
-            "Eğitim ve öğretim dini inançlarla bağlantılıdır.",
-            "Devlet, özel öğretim kurumlarının programlarını onaylar.",
-            "Eğitim ve öğretim dilinin değiştirilmesi mümkündür."
-          ],
-          "dogruCevap": "Devlet, özel öğretim kurumlarının programlarını onaylar."
-        },
-        {
           "soru": "222 Sayılı İlköğretim ve Eğitim Kanunu'na göre, aşağıdakilerden hangisi 'ilköğretim çağı' olarak kabul edilen yaş aralığıdır?",
           "secenekler": [
             "6-12 yaş",
@@ -4788,18 +4777,6 @@
           ],
           "dogruCevap": "C) Sosyal İşlev",
           "cozum": "Eğitimin sosyal işlevi, bireyin toplumla uyumunu sağlama, toplumsal normları ve değerleri aktarma, sosyalleştirme ve bireyleri toplumsal hayatta bir rol üstlenmeye (meslek edinme vb.) hazırlama gibi boyutları içerir. Politik, ekonomik ve kültürel işlevler eğitimin farklı alanlardaki etkileridir. Açık işlev ise eğitimin herkesçe bilinen amaçlarıdır."
-        },
-        {
-          "soru": "3) Bir öğrencinin, derste parmak kaldırmadan konuştuğunda öğretmeni tarafından uyarılması sonucu, bir daha parmak kaldırmadan konuşmama davranışını sergilemesi, Behaviorizm kuramında aşağıdaki kavramlardan hangisiyle açıklanır?",
-          "secenekler": [
-            "A) Olumlu Pekiştirme",
-            "B) Olumsuz Pekiştirme",
-            "C) Ceza (I. Tip)",
-            "D) Sönme",
-            "E) Genelleme"
-          ],
-          "dogruCevap": "C) Ceza (I. Tip)",
-          "cozum": "Behaviorizmde ceza, bir davranışın ardından hoşa gitmeyen bir uyarıcının ortama sunulması (I. Tip Ceza - cezalandırma) veya hoşa giden bir uyarıcının ortamdan çekilmesi (II. Tip Ceza - bedel ödettirme) yoluyla o davranışın tekrar edilme olasılığını azaltmayı amaçlar. Öğretmenin uyarması, öğrenci için hoşa gitmeyen bir durum yaratır ve parmak kaldırmadan konuşma davranışını azaltır, bu I. Tip Ceza'dır."
         },
         {
           "soru": "4) Piaget'nin Bilişsel Gelişim Kuramı'na göre, bir çocuğun zihnindeki mevcut şemaları kullanarak yeni bilgileri anlamlandırma süreci aşağıdakilerden hangisidir?",
@@ -16789,17 +16766,6 @@
           "cozum": "1. Ahmet'in yaşını a, Mehmet'in yaşını m olarak alalım\n2. Verilen bilgilere göre: 3a = 4m ve a + m = 42\n3. İlk denklemden: m = 3a/4\n4. Bu değeri ikinci denklemde yerine koyalım: a + 3a/4 = 42\n5. 4a + 3a = 168\n6. 7a = 168\n7. a = 24\n8. Ahmet'in yaşı 24'tür"
         },
         {
-          "soru": "Bir baba ile oğlunun bugünkü yaşları toplamı 60'tır. 5 yıl sonra babanın yaşı oğlunun yaşının 3 katı olacağına göre, babanın bugünkü yaşı kaçtır?",
-          "secenekler": [
-            "45",
-            "48",
-            "50",
-            "52"
-          ],
-          "dogruCevap": "50",
-          "cozum": "1. Babanın yaşını b, oğlunun yaşını o olarak alalım\n2. Verilen bilgilere göre: b + o = 60\n3. 5 yıl sonra: (b + 5) = 3(o + 5)\n4. b + 5 = 3o + 15\n5. b = 3o + 10\n6. Bu değeri ilk denklemde yerine koyalım: 3o + 10 + o = 60\n7. 4o = 50\n8. o = 12.5\n9. b + o = 60 olduğundan, b = 60 - 12.5 = 47.5 olurdu, ancak yaş tam sayı olmalı\n10. Tekrar hesaplarsak: b + o = 60 ve 5 yıl sonra (b+5) = 3(o+5)\n11. 5 yıl sonra babanın yaşı: b + 5 ve oğlunun yaşı: o + 5\n12. (b + 5) = 3(o + 5) → b + 5 = 3o + 15 → b = 3o + 10\n13. b + o = 60 → 3o + 10 + o = 60 → 4o = 50 → o = 10 (oğul)\n14. b = 60 - 10 = 50 (baba)"
-        },
-        {
           "soru": "Bir işi Ali tek başına 12 günde, Veli tek başına 24 günde bitirebiliyor. İkisi birlikte bu işi kaç günde bitirirler?",
           "secenekler": [
             "6",
@@ -25125,19 +25091,6 @@
           "cozum": "Demir-çelik sanayisi için hammadde, enerji, ulaşım ve teknik bilgi kritik öneme sahiptir. Nüfusun fazlalığı ise daha az etkilidir, çünkü bu sanayi türü yoğun iş gücü gerektirmez."
         },
         {
-          "soru_id": "Q020",
-          "soru": "Aşağıdaki bölgelerimizden hangisinde tarım ürünleri çeşitliliği en fazladır?",
-          "secenekler": [
-            "A) Karadeniz Bölgesi",
-            "B) Akdeniz Bölgesi",
-            "C) İç Anadolu Bölgesi",
-            "D) Doğu Anadolu Bölgesi",
-            "E) Marmara Bölgesi"
-          ],
-          "dogruCevap": "B) Akdeniz Bölgesi",
-          "cozum": "Akdeniz Bölgesi, ılıman iklimi, uzun büyüme mevsimi ve modern tarım teknikleri sayesinde en fazla tarım ürünü çeşitliliğine sahiptir (turunçgiller, pamuk, zeytin, muz vb.)."
-        },
-        {
           "soru_id": "Q021",
           "soru": "Türkiye’de aşağıdaki madenlerden hangisinin rezervi daha fazladır?",
           "secenekler": [
@@ -26065,19 +26018,6 @@
           ],
           "dogruCevap": "B) Kaçkar Dağları",
           "cozum": "Kaçkar Dağları, Karadeniz Bölgesi’nde yer alır ve yaylacılık ile doğa turizmi için önemlidir."
-        },
-        {
-          "soru_id": "Q094",
-          "soru": "Aşağıdaki tarım ürünlerinden hangisi Türkiye’de en fazla Ege Bölgesi’nde üretilir?",
-          "secenekler": [
-            "A) Çay",
-            "B) Pamuk",
-            "C) Fındık",
-            "D) Şeker pancarı",
-            "E) Buğday"
-          ],
-          "dogruCevap": "B) Pamuk",
-          "cozum": "Ege Bölgesi, özellikle Aydın ve İzmir gibi illerde pamuk üretiminde önde gelir."
         },
         {
           "soru_id": "Q095",
@@ -29447,18 +29387,6 @@
           "cozum": "7528 Sayılı Kanun, öğretmenlik mesleğinde kariyer basamaklarını Uzman Öğretmenlik ve Başöğretmenlik olarak belirlemiş ve bu unvanlara sahip olabilmek için belirli şartlar (mesleki kıdem, eğitimler, sınav/değerlendirme) getirmiştir."
         },
         {
-          "soru": "24) 1982 Anayasası'na göre, dernek kurma hürriyeti ile ilgili aşağıdakilerden hangisi yanlıştır?",
-          "secenekler": [
-            "A) Herkes, önceden izin almaksızın dernek kurma hakkına sahiptir.",
-            "B) Dernek kurmak için yazılı bildirimde bulunmak gerekir.",
-            "C) Silahlı dernek kurulamaz.",
-            "D) Dernek kurma hürriyeti ancak Cumhurbaşkanlığı Kararnamesi ile sınırlandırılabilir.",
-            "E) Dernekler kanuna aykırı amaç güdemez."
-          ],
-          "dogruCevap": "D) Dernek kurma hürriyeti ancak Cumhurbaşkanlığı Kararnamesi ile sınırlandırılabilir.",
-          "cozum": "1982 Anayasası'na göre temel hak ve hürriyetler, ancak kanunla sınırlanabilir. Dernek kurma hürriyeti de bir temel haktır ve kanunla sınırlanabilir. Cumhurbaşkanlığı Kararnamesi ile temel hak ve hürriyetler düzenlenemez veya sınırlanamaz (Olağanüstü hal KHK'ları istisnaları hariç, ancak OHAL KHK'ları da Anayasaya şekil ve esas bakımından uygunluk denetimi dışındadır ve konu temel haklarla ilgili olduğunda tartışmalıdır, genel kural KHK ile sınırlama yapılamayacağıdır)."
-        },
-        {
           "soru": "25) 1739 Sayılı Milli Eğitim Temel Kanunu'nda Türk Milli Eğitiminin temel yapısını oluşturan kurumlar hiyerarşisinde en üst düzeydeki politika belirleyici kurum hangisidir?",
           "secenekler": [
             "A) Yükseköğretim Kurulu (YÖK)",
@@ -30332,17 +30260,7 @@
         }
       ],
       "1739 Sayılı Milli Eğitim Temel Kanunu": [
-        {
-          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre aşağıdakilerden hangisi Türk Milli Eğitimi'nin temel ilkelerinden biri değildir?",
-          "secenekler": [
-            "Genellik ve eşitlik",
-            "Laiklik",
-            "Yaşam boyu öğrenme",
-            "Bilimsellik",
-            "Eğitim hakkı"
-          ],
-          "dogruCevap": "Yaşam boyu öğrenme"
-        },
+       
         {
           "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre: 'Yöneltme ……… başlar; yanılmaları önlemek ve muhtemel gelişmelere göre yeniden yöneltmeyi sağlamak için ortaöğretimde de devam eder.' Boş bırakılan yere aşağıdaki ifadelerden hangisi getirilmelidir?",
           "secenekler": [
@@ -30454,17 +30372,6 @@
             "Planlılık"
           ],
           "dogruCevap": "Sınıflandırma"
-        },
-        {
-          "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre mecburi ilköğrenim çağına gelmemiş çocukların eğitimini aşağıdaki eğitim kurumlarından hangisi karşılar?",
-          "secenekler": [
-            "İlkokul",
-            "Yaygın eğitim",
-            "Halk eğitim",
-            "Okul öncesi eğitim",
-            "Tamamlayıcı kurslar"
-          ],
-          "dogruCevap": "Okul öncesi eğitim"
         },
         {
           "soru": "'Fertlerin genel ve mesleki eğitimlerinin hayat boyunca devam etmesi esastır. Gençlerin eğitimi yanında, hayata ve iş alanlarına olumlu bir şekilde uymalarına yardımcı olmak üzere, yetişkinlerin sürekli eğitimini sağlamak için gerekli tedbirleri almak da bir eğitim görevidir.' ifadesi 1739 sayılı Milli Eğitim Temel Kanunu'nun aşağıdaki ilkelerinden hangisi ile ilgilidir?",
