@@ -4755,18 +4755,6 @@
     "Eğitim Temelleri": {
       "Eğitim Bilimleri Deneme 1": [
         {
-          "soru": "1) Bireyde kendi yaşantıları yoluyla kalıcı izli davranış değişikliği oluşturma süreci olarak tanımlanan temel kavram aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "A) Öğretim",
-            "B) Eğitim",
-            "C) Öğrenme",
-            "D) Gelişim",
-            "E) Öğretme"
-          ],
-          "dogruCevap": "C) Öğrenme",
-          "cozum": "Öğrenme, bireyin kendi yaşantıları sonucunda davranışında meydana gelen nispeten kalıcı değişikliklerdir. Eğitim daha geniş bir kavram olup bireyi topluma kazandırma sürecidir. Öğretim, eğitimin okul içi planlı kısmıdır. Gelişim ise yaşa bağlı fizyolojik ve psikolojik değişimlerdir. Öğretme, öğrenmeyi kolaylaştırma etkinliğidir. Tanım doğrudan 'öğrenme' kavramına aittir."
-        },
-        {
           "soru": "2) Eğitimin, bireyi hayata hazırlama, sosyalleştirme ve meslek edindirme gibi işlevleri hangi başlık altında toplanır?",
           "secenekler": [
             "A) Politik İşlev",
@@ -14565,18 +14553,6 @@
           "cozum": "1. Sayının rakamları: 1, 5, 4, 3, 2\n2. Rakamların çarpımı:\n   1 * 5 * 4 * 3 * 2 = 5 * 4 * 3 * 2\n   = 20 * 3 * 2\n   = 60 * 2 = 120"
         },
         {
-          "soru": "Bir üç basamaklı sayının rakamları ters sıralandığında, orijinal sayı ile farkları hangi sayının katı olacaktır?",
-          "secenekler": [
-            "9",
-            "11",
-            "99",
-            "101",
-            "111"
-          ],
-          "dogruCevap": "99",
-          "cozum": "1. Sayı: abc = 100a + 10b + c\n2. Ters çevrilmiş hali: cba = 100c + 10b + a\n3. Fark (a>c varsayımı ile):\n   (100a + 10b + c) - (100c + 10b + a)\n   = 100a + 10b + c - 100c - 10b - a\n   = 99a - 99c\n   = 99(a - c)\n4. Fark her zaman 99'un katıdır."
-        },
-        {
           "soru": "Bir sayının rakamlarının toplamı 12 ise, bu sayı en az kaç basamaklı olabilir?",
           "secenekler": [
             "1",
@@ -14685,18 +14661,6 @@
           ],
           "dogruCevap": "84",
           "cozum": "1. AB + BA = 132\n   (10A + B) + (10B + A) = 132\n   11A + 11B = 132\n   11(A + B) = 132\n   A + B = 12\n2. İki denklemimiz var:\n   A + B = 12\n   A - B = 4\n3. Taraf tarafa toplayalım:\n   2A = 16 => A = 8\n4. Yerine koyalım: 8 + B = 12 => B = 4\n5. Koşullar: A>B (8>4) doğru. A-B=4 (8-4=4) doğru.\n6. AB sayısı 84'tür."
-        },
-        {
-          "soru": "ABC üç basamaklı bir doğal sayıdır. A > B > C ve A + B + C = 14 koşullarını sağlayan kaç farklı ABC sayısı yazılabilir?",
-          "secenekler": [
-            "5",
-            "6",
-            "7",
-            "8",
-            "9"
-          ],
-          "dogruCevap": "8",
-          "cozum": "1. A>B>C>=1 olmalı (C=0 olamaz çünkü B>C).\n2. A'nın alabileceği en büyük değerden başlayarak deneyelim:\n   A=9: B+C=5. B>C: (4,1), (3,2). [2 sayı: 941, 932]\n   A=8: B+C=6. B>C: (5,1), (4,2). [2 sayı: 851, 842]\n   A=7: B+C=7. B>C: (6,1), (5,2), (4,3). [3 sayı: 761, 752, 743]\n   A=6: B+C=8. B>C ve B<A(6): (5,3). [1 sayı: 653]\n   A=5: B+C=9. B>C ve B<A(5): Mümkün değil.\n3. Toplam sayı = 2 + 2 + 3 + 1 = 8."
         },
         {
           "soru": "Üç basamaklı RRR sayısı, rakamları farklı üç basamaklı ABC sayısının 3 katına eşittir. Bu koşulu sağlayan en küçük ABC sayısı kaçtır?",
@@ -14943,18 +14907,6 @@
           ],
           "dogruCevap": "4",
           "cozum": "1. 90 sayısını asal çarpanlarına ayıralım:\n   90 | 2\n   45 | 3\n   15 | 3\n    5 | 5\n    1\n   90 = 2¹ · 3² · 5¹\n2. Asal çarpanların üsleri: 1, 2, 1\n3. Üslerin toplamı:\n   1 + 2 + 1 = 4"
-        },
-        {
-          "soru": "Aşağıdaki sayılardan hangisi asal çarpanlarına ayrıldığında 2, 3 ve 11 bulunur?",
-          "secenekler": [
-            "66",
-            "88",
-            "99",
-            "110",
-            "132"
-          ],
-          "dogruCevap": "66",
-          "cozum": "1. Asal çarpanları 2, 3 ve 11 olan sayıyı bulmak için bu sayıları çarparız:\n   2 * 3 * 11 = 6 * 11 = 66\n2. Sonuç 66'dır."
         },
         {
           "soru": "36 sayısının asal çarpanlara ayrılması sonucunda elde edilen asal çarpanların toplamı kaçtır?",
@@ -18272,18 +18224,6 @@
           ],
           "dogruCevap": "E) Ukrayna",
           "cozum": "Sovyetler Birliği'nin dağılmasıyla bağımsızlığını kazanan Türk Cumhuriyetleri arasında Azerbaycan, Özbekistan, Kazakistan, Türkmenistan ve Kırgızistan yer alır. Ukrayna ise Slav kökenli bir ülkedir ve Türk Cumhuriyetlerinden biri değildir."
-        },
-        {
-          "soru": "30) Türkiye'nin 2000'li yıllarda dış politikasında 'komşularla sıfır sorun' olarak özetlenen yaklaşımın temel amacı aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "A) Tüm komşu ülkelerle askeri ittifak kurmak",
-            "B) Komşu ülkelerin iç işlerine karışmak",
-            "C) Komşu ülkelerle olan sorunları diyalog ve diplomatik yollarla çözerek bölgede istikrarı artırmak",
-            "D) Sadece ekonomik ilişkileri geliştirmek",
-            "E) Tüm komşu ülkelerden toprak talep etmek"
-          ],
-          "dogruCevap": "C) Komşu ülkelerle olan sorunları diyalog ve diplomatik yollarla çözerek bölgede istikbarı artırmak",
-          "cozum": "'Komşularla sıfır sorun' politikası, Türkiye'nin etrafındaki tüm ülkelerle mevcut sorunlarını çözerek, diyalog ve işbirliği yoluyla barış ve istikrar kuşağı oluşturmayı hedefleyen bir dış politika yaklaşımıdır. Amaç, diplomatik çözümler üretmek ve bölgesel işbirliğini artırmaktır."
         }
       ],
       "İslamiyet Öncesi Türk Tarihi": [
@@ -29521,18 +29461,6 @@
           "cozum": "1739 Sayılı Kanun'un 17. maddesi, yaygın eğitimin amaçlarını düzenler. Buna göre yaygın eğitim, örgün eğitim dışına kalmış vatandaşlara okuma-yazma öğretmek, eksik eğitimlerini tamamlatmak, ilgi ve yetenekleri doğrultusunda bilgi ve beceri kazandırmak, ekonomik ve sosyal gelişmelerine yardımcı olmak, boş zamanlarını iyi bir şekilde değerlendirmelerini sağlamak gibi amaçlarla faaliyet gösterir."
         },
         {
-          "soru": "11) 7528 Sayılı Öğretmenlik Mesleği Kanunu'na göre, uzman öğretmenlik ve başöğretmenlik unvanları için aranan hizmet süresi şartı sırasıyla en az kaç yıldır?",
-          "secenekler": [
-            "A) 5 yıl uzman öğretmen, 10 yıl başöğretmen",
-            "B) 8 yıl uzman öğretmen, 12 yıl başöğretmen",
-            "C) 10 yıl uzman öğretmen, 15 yıl başöğretmen",
-            "D) 10 yıl uzman öğretmen, 20 yıl başöğretmen",
-            "E) 12 yıl uzman öğretmen, 18 yıl başöğretmen"
-          ],
-          "dogruCevap": "D) 10 yıl uzman öğretmen, 20 yıl başöğretmen",
-          "cozum": "7528 Sayılı Kanun'un 6. maddesine göre, öğretmenlikte adaylık dahil en az on yıl hizmeti olan öğretmenler uzman öğretmenlik, uzman öğretmenlikte en az on yıl hizmeti olan öğretmenler ise başöğretmenlik sınavına başvurabilirler. Dolayısıyla, başöğretmen olmak için toplamda en az 20 yıl hizmet süresi (10 yıl öğretmen + 10 yıl uzman öğretmen) gereklidir."
-        },
-        {
           "soru": "12) 7528 Sayılı Öğretmenlik Mesleği Kanunu'na göre, öğretmenlerin genel kültür, özel alan eğitimi ve pedagojik formasyon bakımından yetiştirilmelerini sağlamak hangi kurumun görevidir?",
           "secenekler": [
             "A) Yükseköğretim Kurulu (YÖK)",
@@ -30891,17 +30819,6 @@
             "10"
           ],
           "dogruCevap": "10"
-        },
-        {
-          "soru": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre, birleştirilmiş sınıflar da dâhil bir öğretmene düşen öğrenci sayısı kaçtan fazla olamaz?",
-          "secenekler": [
-            "50",
-            "40",
-            "30",
-            "20",
-            "10"
-          ],
-          "dogruCevap": "40"
         }
       ],
       "222 Sayılı İlköğretim ve Eğitim Kanunu 3": [
