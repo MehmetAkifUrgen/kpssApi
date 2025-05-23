@@ -12987,97 +12987,97 @@
         }
       ],
       "Sözel Mantık 2016 Kpss Çıkmış Sorular": [
-  {
-    "soru": "Bir araştırma görevlisi A, B, C, D, E, F ve G derslerinin final sınavları programını düzenlemekten sorumludur. Bu derslerden üçünü Nil Hoca, dördünü Orhan Hoca vermektedir. Araştırma görevlisi tarafından bu derslerin sınavları aynı hafta içinde pazartesi başlayıp cuma bitecek şekilde düzenlenmiştir. Sınav takvimine ilişkin kimi bilgiler şu şekildedir:\n- Bir hocanın bir günde sadece tek bir dersinin sınavı vardır.\n- Orhan Hoca’nın verdiği tüm derslerin sınavları art arda günlerde olacaktır.\n- B dersinin sınavı salı günü olacaktır.\n- Çarşamba günü sadece F dersinin sınavı olacaktır.\n- A ve D derslerinin sınavları aynı gün olacaktır.\n- Cuma günü yapılacak iki sınavdan biri C dersinin sınavıdır.\n- E dersinin sınavının olduğu gün Orhan Hoca’ya ait bir dersin sınavı yoktur.\nBuna göre, I. A, II. B, III. C derslerinden hangileri Nil Hoca tarafından veriliyor olabilir?",
-    "secenekler": [
-      "Yalnız I",
-      "Yalnız II",
-      "I ve II",
-      "I ve III",
-      "II ve III"
-    ],
-    "dogruCevap": "I ve III"
-  },
-  {
-    "soru": "Aynı bilgilere göre, aşağıdaki derslerden hangileri kesinlikle aynı hoca tarafından verilmektedir?",
-    "secenekler": [
-      "A ile G",
-      "B ile F",
-      "C ile F",
-      "D ile E",
-      "E ile G"
-    ],
-    "dogruCevap": "B ile F"
-  },
-  {
-    "soru": "Aynı bilgilere göre, aşağıdakilerden hangisi yanlıştır?",
-    "secenekler": [
-      "A dersinin sınavı, G dersinin sınavından önce olacaktır.",
-      "B dersinin sınavı, E dersinin sınavından önce olacaktır.",
-      "D dersinin sınavı, F dersinin sınavından sonra olacaktır.",
-      "E dersinin sınavı, G dersinin sınavından önce olacaktır.",
-      "F dersinin sınavı, B dersinin sınavından sonra olacaktır."
-    ],
-    "dogruCevap": "B dersinin sınavı, E dersinin sınavından önce olacaktır."
-  },
-  {
-    "soru": "Aynı bilgilere göre, B ile C derslerinin aynı hoca tarafından verildiği biliniyorsa aşağıdakilerden hangisi kesin olarak doğrudur?",
-    "secenekler": [
-      "A dersi Orhan Hoca’ya ait olup sınavı pazartesi günü olacaktır.",
-      "D dersi Orhan Hoca’ya ait olup sınavı perşembe günü olacaktır.",
-      "E dersi Nil Hoca’ya ait olup sınavı salı günü olacaktır.",
-      "F dersi Nil Hoca’ya ait olup sınavı çarşamba günü olacaktır.",
-      "G dersi Nil Hoca’ya ait olup sınavı cuma günü olacaktır."
-    ],
-    "dogruCevap": "G dersi Nil Hoca’ya ait olup sınavı cuma günü olacaktır."
-  }
-],
+        {
+          "soru": "Bir araştırma görevlisi A, B, C, D, E, F ve G derslerinin final sınavları programını düzenlemekten sorumludur. Bu derslerden üçünü Nil Hoca, dördünü Orhan Hoca vermektedir. Araştırma görevlisi tarafından bu derslerin sınavları aynı hafta içinde pazartesi başlayıp cuma bitecek şekilde düzenlenmiştir. Sınav takvimine ilişkin kimi bilgiler şu şekildedir:\n- Bir hocanın bir günde sadece tek bir dersinin sınavı vardır.\n- Orhan Hoca’nın verdiği tüm derslerin sınavları art arda günlerde olacaktır.\n- B dersinin sınavı salı günü olacaktır.\n- Çarşamba günü sadece F dersinin sınavı olacaktır.\n- A ve D derslerinin sınavları aynı gün olacaktır.\n- Cuma günü yapılacak iki sınavdan biri C dersinin sınavıdır.\n- E dersinin sınavının olduğu gün Orhan Hoca’ya ait bir dersin sınavı yoktur.\nBuna göre, I. A, II. B, III. C derslerinden hangileri Nil Hoca tarafından veriliyor olabilir?",
+          "secenekler": [
+            "Yalnız I",
+            "Yalnız II",
+            "I ve II",
+            "I ve III",
+            "II ve III"
+          ],
+          "dogruCevap": "I ve III"
+        },
+        {
+          "soru": "Aynı bilgilere göre, aşağıdaki derslerden hangileri kesinlikle aynı hoca tarafından verilmektedir?",
+          "secenekler": [
+            "A ile G",
+            "B ile F",
+            "C ile F",
+            "D ile E",
+            "E ile G"
+          ],
+          "dogruCevap": "B ile F"
+        },
+        {
+          "soru": "Aynı bilgilere göre, aşağıdakilerden hangisi yanlıştır?",
+          "secenekler": [
+            "A dersinin sınavı, G dersinin sınavından önce olacaktır.",
+            "B dersinin sınavı, E dersinin sınavından önce olacaktır.",
+            "D dersinin sınavı, F dersinin sınavından sonra olacaktır.",
+            "E dersinin sınavı, G dersinin sınavından önce olacaktır.",
+            "F dersinin sınavı, B dersinin sınavından sonra olacaktır."
+          ],
+          "dogruCevap": "B dersinin sınavı, E dersinin sınavından önce olacaktır."
+        },
+        {
+          "soru": "Aynı bilgilere göre, B ile C derslerinin aynı hoca tarafından verildiği biliniyorsa aşağıdakilerden hangisi kesin olarak doğrudur?",
+          "secenekler": [
+            "A dersi Orhan Hoca’ya ait olup sınavı pazartesi günü olacaktır.",
+            "D dersi Orhan Hoca’ya ait olup sınavı perşembe günü olacaktır.",
+            "E dersi Nil Hoca’ya ait olup sınavı salı günü olacaktır.",
+            "F dersi Nil Hoca’ya ait olup sınavı çarşamba günü olacaktır.",
+            "G dersi Nil Hoca’ya ait olup sınavı cuma günü olacaktır."
+          ],
+          "dogruCevap": "G dersi Nil Hoca’ya ait olup sınavı cuma günü olacaktır."
+        }
+      ],
       "Sözel Mantık 2017 Kpss Çıkmış Sorular": [
-  {
-    "soru": "Bir benzin istasyonuna gün içerisinde her biri diğerinden farklı zamanlarda gelen A, B, C, D, E, F, G ve H araçları; benzin, LPG ve mazot türünde yakıt almıştır. Her biri sadece bir tür yakıt alan bu araçların istasyona geliş sıraları ve aldıkları yakıt türlerine ilişkin kimi bilgiler şu şekildedir:\n- İstasyona ilk sırada gelen E aracı, mazot almıştır.\n- F ve G araçları arasında istasyona sadece C aracı gelip mazot almıştır.\n- B ve H araçları arasında istasyona sadece bir araç gelmiştir.\n- B ve H araçları istasyondan LPG almıştır.\n- H aracından hemen sonra F aracı yakıt almıştır.\n- C aracından sonra sadece bir araç yakıt almıştır.\n- İstasyonda art arda aynı tür yakıt satılmamıştır.\nBuna göre, I. A, II. D, III. G araçlarından hangileri mazot almış olabilir?",
-    "secenekler": [
-      "Yalnız I",
-      "Yalnız II",
-      "Yalnız III",
-      "I ve II",
-      "II ve III"
-    ],
-    "dogruCevap": "I ve II"
-  },
-  {
-    "soru": "Aynı bilgilere göre, aşağıdakilerden hangisi kesin olarak yanlıştır?",
-    "secenekler": [
-      "Benzin alan toplam iki araç vardır.",
-      "Mazot alan toplam dört araç vardır.",
-      "LPG alan toplam üç araç vardır.",
-      "Mazot alan toplam üç araç vardır.",
-      "Benzin alan toplam dört araç vardır."
-    ],
-    "dogruCevap": "Mazot alan toplam dört araç vardır."
-  },
-  {
-    "soru": "Aynı bilgilere göre, aşağıdakilerden hangisi kesin olarak doğrudur?",
-    "secenekler": [
-      "İkinci sırada, B aracı yakıt almıştır.",
-      "Üçüncü sırada, A aracı yakıt almıştır.",
-      "Dördüncü sırada, D aracı yakıt almıştır.",
-      "Beşinci sırada, H aracı yakıt almıştır.",
-      "Altıncı sırada, G aracı yakıt almıştır."
-    ],
-    "dogruCevap": "Beşinci sırada, H aracı yakıt almıştır."
-  },
-  {
-    "soru": "Aynı bilgilere göre, en az satılan yakıtın benzin olduğu biliniyorsa aşağıdakilerden hangisi kesin olarak doğrudur?",
-    "secenekler": [
-      "A aracı, benzin almıştır.",
-      "D aracı, benzin almıştır.",
-      "D aracı, mazot almıştır.",
-      "G aracı, benzin almıştır.",
-      "G aracı, LPG almıştır."
-    ],
-    "dogruCevap": "G aracı, LPG almıştır."
-  }
-],
+        {
+          "soru": "Bir benzin istasyonuna gün içerisinde her biri diğerinden farklı zamanlarda gelen A, B, C, D, E, F, G ve H araçları; benzin, LPG ve mazot türünde yakıt almıştır. Her biri sadece bir tür yakıt alan bu araçların istasyona geliş sıraları ve aldıkları yakıt türlerine ilişkin kimi bilgiler şu şekildedir:\n- İstasyona ilk sırada gelen E aracı, mazot almıştır.\n- F ve G araçları arasında istasyona sadece C aracı gelip mazot almıştır.\n- B ve H araçları arasında istasyona sadece bir araç gelmiştir.\n- B ve H araçları istasyondan LPG almıştır.\n- H aracından hemen sonra F aracı yakıt almıştır.\n- C aracından sonra sadece bir araç yakıt almıştır.\n- İstasyonda art arda aynı tür yakıt satılmamıştır.\nBuna göre, I. A, II. D, III. G araçlarından hangileri mazot almış olabilir?",
+          "secenekler": [
+            "Yalnız I",
+            "Yalnız II",
+            "Yalnız III",
+            "I ve II",
+            "II ve III"
+          ],
+          "dogruCevap": "I ve II"
+        },
+        {
+          "soru": "Aynı bilgilere göre, aşağıdakilerden hangisi kesin olarak yanlıştır?",
+          "secenekler": [
+            "Benzin alan toplam iki araç vardır.",
+            "Mazot alan toplam dört araç vardır.",
+            "LPG alan toplam üç araç vardır.",
+            "Mazot alan toplam üç araç vardır.",
+            "Benzin alan toplam dört araç vardır."
+          ],
+          "dogruCevap": "Mazot alan toplam dört araç vardır."
+        },
+        {
+          "soru": "Aynı bilgilere göre, aşağıdakilerden hangisi kesin olarak doğrudur?",
+          "secenekler": [
+            "İkinci sırada, B aracı yakıt almıştır.",
+            "Üçüncü sırada, A aracı yakıt almıştır.",
+            "Dördüncü sırada, D aracı yakıt almıştır.",
+            "Beşinci sırada, H aracı yakıt almıştır.",
+            "Altıncı sırada, G aracı yakıt almıştır."
+          ],
+          "dogruCevap": "Beşinci sırada, H aracı yakıt almıştır."
+        },
+        {
+          "soru": "Aynı bilgilere göre, en az satılan yakıtın benzin olduğu biliniyorsa aşağıdakilerden hangisi kesin olarak doğrudur?",
+          "secenekler": [
+            "A aracı, benzin almıştır.",
+            "D aracı, benzin almıştır.",
+            "D aracı, mazot almıştır.",
+            "G aracı, benzin almıştır.",
+            "G aracı, LPG almıştır."
+          ],
+          "dogruCevap": "G aracı, LPG almıştır."
+        }
+      ],
       "Sözel Mantık 2018 İlkbahar ALES Çıkmış Sorular": [
         {
           "soru": "Ali ve Berrak beş gün süreyle bir otelde konaklamışlardır. Otel kahvaltıda krep, menemen, omlet, poğaça ve simit seçeneklerini sunmuştur. Kişilerin yiyecek tercihlerine ilişkin kimi bilgiler şu şekildedir: \n- İki kişi de tüm yiyecek çeşitlerinden seçmişlerdir.\n- Kişiler, bir günde sadece bir çeşit yiyecek seçebilmişlerdir.\n- Ali’nin ikinci gün seçtiği yiyeceği, Berrak dördüncü gün tercih etmiştir.\n- Ali sırasıyla art arda krep, omlet ve poğaça tercih etmiştir.\n- Berrak da sırasıyla art arda krep, omlet ve poğaça tercih etmiştir.\n- Ali, simidi omletten daha önceki bir günde tercih etmiştir.\nBuna göre Berrak beşinci gün poğaça, simit, menemen yiyeceklerinden hangilerini seçmiş olabilir?",
@@ -13269,51 +13269,51 @@
         }
       ],
       "Sözel Mantık 2021 Kpss Çıkmış Sorular": [
-  {
-    "soru": "Bir okulun A ve B şubelerinde öğrenim gören Nil, Orhan, Pelin, Reyhan ve Serhat adlı öğrencilerden Edison, Gutenberg ve Tesla adlı mucitlerin hayatları hakkında bilgi toplamaları istenmiştir. Öğrencilerin şubelerine ve seçtikleri mucitlere ilişkin kimi bilgiler şu şekildedir:\n- Her bir öğrenci, sadece bir mucit seçmiştir.\n- A şubesinde toplam üç öğrenci bulunmaktadır.\n- Edison ve Tesla’yı ikişer öğrenci seçmiştir.\n- Reyhan’ın seçtiği mucit, Tesla’dır.\n- Farklı şubelerdeki Nil ve Serhat’ın seçtiği mucitler aynıdır.\n- Orhan ve Pelin, aynı şubede öğrenim görmektedir.\nBuna göre, I. Pelin, II. Reyhan, III. Serhat adlı öğrencilerden hangileri A şubesinde öğrenim görüyor olabilir?",
-    "secenekler": [
-      "Yalnız I",
-      "Yalnız II",
-      "Yalnız III",
-      "I ve II",
-      "I ve III"
-    ],
-    "dogruCevap": "I ve III"
-  },
-  {
-    "soru": "Aynı bilgilere göre, I. Nil, II. Orhan, III. Pelin adlı öğrencilerden hangilerinin seçtiği mucit kesin olarak bilinmektedir?",
-    "secenekler": [
-      "Yalnız I",
-      "Yalnız II",
-      "Yalnız III",
-      "I ve II",
-      "II ve III"
-    ],
-    "dogruCevap": "Yalnız I"
-  },
-  {
-    "soru": "Aynı bilgilere göre, aşağıdakilerden hangisi yanlıştır?",
-    "secenekler": [
-      "A şubesinden bir öğrenci Edison’u seçmiştir.",
-      "A şubesinden bir öğrenci Gutenberg’i seçmiştir.",
-      "A şubesinden bir öğrenci Tesla’yı seçmiştir.",
-      "B şubesinden bir öğrenci Edison’u seçmiştir.",
-      "B şubesinden bir öğrenci Gutenberg’i seçmiştir."
-    ],
-    "dogruCevap": "B şubesinden bir öğrenci Gutenberg’i seçmiştir."
-  },
-  {
-    "soru": "Aynı bilgilere göre, tüm öğrencilerin seçtikleri mucit ve öğrenim gördükleri şubenin tam olarak belirlenebilmesi için aşağıdakilerden hangisinin bilinmesi yeterlidir?",
-    "secenekler": [
-      "Serhat’ın öğrenim gördüğü şube ile Pelin’in seçtiği mucidin",
-      "Reyhan'ın öğrenim gördüğü şube ile Orhan’ın seçtiği mucidin",
-      "Pelin’in öğrenim gördüğü şube ile Nil’in seçtiği mucidin",
-      "Orhan’ın öğrenim gördüğü şube ile Pelin’in seçtiği mucidin",
-      "Nil’in öğrenim gördüğü şube ile Serhat’ın seçtiği mucidin"
-    ],
-    "dogruCevap": "Serhat’ın öğrenim gördüğü şube ile Pelin’in seçtiği mucidin"
-  }
-],
+        {
+          "soru": "Bir okulun A ve B şubelerinde öğrenim gören Nil, Orhan, Pelin, Reyhan ve Serhat adlı öğrencilerden Edison, Gutenberg ve Tesla adlı mucitlerin hayatları hakkında bilgi toplamaları istenmiştir. Öğrencilerin şubelerine ve seçtikleri mucitlere ilişkin kimi bilgiler şu şekildedir:\n- Her bir öğrenci, sadece bir mucit seçmiştir.\n- A şubesinde toplam üç öğrenci bulunmaktadır.\n- Edison ve Tesla’yı ikişer öğrenci seçmiştir.\n- Reyhan’ın seçtiği mucit, Tesla’dır.\n- Farklı şubelerdeki Nil ve Serhat’ın seçtiği mucitler aynıdır.\n- Orhan ve Pelin, aynı şubede öğrenim görmektedir.\nBuna göre, I. Pelin, II. Reyhan, III. Serhat adlı öğrencilerden hangileri A şubesinde öğrenim görüyor olabilir?",
+          "secenekler": [
+            "Yalnız I",
+            "Yalnız II",
+            "Yalnız III",
+            "I ve II",
+            "I ve III"
+          ],
+          "dogruCevap": "I ve III"
+        },
+        {
+          "soru": "Aynı bilgilere göre, I. Nil, II. Orhan, III. Pelin adlı öğrencilerden hangilerinin seçtiği mucit kesin olarak bilinmektedir?",
+          "secenekler": [
+            "Yalnız I",
+            "Yalnız II",
+            "Yalnız III",
+            "I ve II",
+            "II ve III"
+          ],
+          "dogruCevap": "Yalnız I"
+        },
+        {
+          "soru": "Aynı bilgilere göre, aşağıdakilerden hangisi yanlıştır?",
+          "secenekler": [
+            "A şubesinden bir öğrenci Edison’u seçmiştir.",
+            "A şubesinden bir öğrenci Gutenberg’i seçmiştir.",
+            "A şubesinden bir öğrenci Tesla’yı seçmiştir.",
+            "B şubesinden bir öğrenci Edison’u seçmiştir.",
+            "B şubesinden bir öğrenci Gutenberg’i seçmiştir."
+          ],
+          "dogruCevap": "B şubesinden bir öğrenci Gutenberg’i seçmiştir."
+        },
+        {
+          "soru": "Aynı bilgilere göre, tüm öğrencilerin seçtikleri mucit ve öğrenim gördükleri şubenin tam olarak belirlenebilmesi için aşağıdakilerden hangisinin bilinmesi yeterlidir?",
+          "secenekler": [
+            "Serhat’ın öğrenim gördüğü şube ile Pelin’in seçtiği mucidin",
+            "Reyhan'ın öğrenim gördüğü şube ile Orhan’ın seçtiği mucidin",
+            "Pelin’in öğrenim gördüğü şube ile Nil’in seçtiği mucidin",
+            "Orhan’ın öğrenim gördüğü şube ile Pelin’in seçtiği mucidin",
+            "Nil’in öğrenim gördüğü şube ile Serhat’ın seçtiği mucidin"
+          ],
+          "dogruCevap": "Serhat’ın öğrenim gördüğü şube ile Pelin’in seçtiği mucidin"
+        }
+      ],
       "Sözcükte Anlam": [
         {
           "soru": "Aşağıdaki cümlelerden hangisi birlikte verilen sözün anlamını içermemektedir?",
@@ -30326,7 +30326,6 @@
         }
       ],
       "1739 Sayılı Milli Eğitim Temel Kanunu": [
-       
         {
           "soru": "1739 sayılı Milli Eğitim Temel Kanunu'na göre: 'Yöneltme ……… başlar; yanılmaları önlemek ve muhtemel gelişmelere göre yeniden yöneltmeyi sağlamak için ortaöğretimde de devam eder.' Boş bırakılan yere aşağıdaki ifadelerden hangisi getirilmelidir?",
           "secenekler": [
