@@ -91,17 +91,6 @@
           "dogruCevap": "3"
         },
         {
-          "soru": "Bir araç saatte 60 km hızla giderken, yolun 1/3'ünü aldıktan sonra hızını saatte 80 km'ye çıkarıyor. Toplam yol 120 km ise, araç yolculuğu kaç saatte tamamlar?",
-          "secenekler": [
-            "1",
-            "4/3",
-            "5/3",
-            "2",
-            "7/3"
-          ],
-          "dogruCevap": "5/3"
-        },
-        {
           "soru": "x² - 4x + 4 = 0 denkleminin çözüm kümesi nedir?",
           "secenekler": [
             "{2}",
@@ -12323,16 +12312,6 @@
             "Üniversitelerin fiziksel altyapılarını geliştirmek"
           ],
           "dogruCevap": "Yükseköğretim kurumlarının faaliyetlerini düzenlemek"
-        },
-        {
-          "soru": "Türk eğitim sisteminde, öğretmenlerin hangi seviyede görev yapabilmesi için öğretmenlik formasyonu gereklidir?",
-          "secenekler": [
-            "İlköğretim",
-            "Ortaöğretim",
-            "Yükseköğretim",
-            "Tüm seviyelerde"
-          ],
-          "dogruCevap": "Tüm seviyelerde"
         },
         {
           "soru": "Türk eğitim sisteminde hangi tür okullar ücretsiz eğitim verir?",
