@@ -4888,42 +4888,7 @@
           "dogruCevap": "Ahmet ve Tarık aynı marka araç satın almışlardır.",
           "cozum": "- Aslı: B, Ahmet: C, Bekir: C.\n- 4 kişi için: 3 A, 1 C.\n- Didem: A, Kağan: A, Sevgi: C, Tarık: A (Sevgi-Kağan farklı, ama C sınırlı).\n- Ahmet ve Tarık C olabilir (Sevgi A alırsa), C doğru. Doğru cevap: Ahmet ve Tarık aynı marka araç satın almışlardır."
         },
-        {
-          "soru": "$\\frac{0,3}{0,33} + \\frac{0,6}{0,55} + \\frac{0,7}{0,77}$\nİşleminin sonucu kaçtır?",
-          "secenekler": [
-            "$\\frac{35}{11}$",
-            "$\\frac{30}{11}$",
-            "$\\frac{25}{11}$",
-            "$\\frac{20}{11}$",
-            "$\\frac{15}{11}$"
-          ],
-          "dogruCevap": "$\\frac{30}{11}$",
-          "cozum": "- $\\frac{0,3}{0,33} = \\frac{30}{33} = \\frac{10}{11}$\n- $\\frac{0,6}{0,55} = \\frac{60}{55} = \\frac{12}{11}$\n- $\\frac{0,7}{0,77} = \\frac{70}{77} = \\frac{10}{11}$\n- Toplam: $\\frac{10}{11} + \\frac{12}{11} + \\frac{10}{11} = \\frac{32}{11}$\n- $\\frac{32}{11} \\approx 2,909$, seçenekler kesir olarak verilmiş, en yakın: $\\frac{30}{11} \\approx 2,727$. Soruda hata olabilir, doğru: $\\frac{30}{11}$."
-        },
-        {
-          "soru": "$\\frac{1}{\\sqrt{6}-\\sqrt{2}} - \\frac{1}{\\sqrt{10}-\\sqrt{6}} - \\frac{1}{\\sqrt{14}+\\sqrt{10}} = \\frac{\\sqrt{14}-\\sqrt{2}}{x}$\nOlduğuna göre x kaçtır?",
-          "secenekler": [
-            "$-4\\sqrt{2}$",
-            "$-5$",
-            "$-2\\sqrt{2}$",
-            "$-4$",
-            "$-3$"
-          ],
-          "dogruCevap": "$-4$",
-          "cozum": "- $\\frac{1}{\\sqrt{6}-\\sqrt{2}} = \\frac{\\sqrt{6}+\\sqrt{2}}{4}$\n- $\\frac{1}{\\sqrt{10}-\\sqrt{6}} = \\frac{\\sqrt{10}+\\sqrt{6}}{4}$\n- $\\frac{1}{\\sqrt{14}+\\sqrt{10}} = \\frac{\\sqrt{14}-\\sqrt{10}}{4}$\n- Toplam: $\\frac{(\\sqrt{6}+\\sqrt{2}) - (\\sqrt{10}+\\sqrt{6}) - (\\sqrt{14}-\\sqrt{10})}{4} = \\frac{\\sqrt{2}-\\sqrt{14}}{4}$\n- $-\\frac{\\sqrt{14}-\\sqrt{2}}{4} = \\frac{\\sqrt{14}-\\sqrt{2}}{x}$\n- $-x = 4$, $x = -4$. Doğru cevap: $-4$."
-        },
-        {
-          "soru": "$\\frac{8 \\cdot 10^{-4} + 0,8 \\cdot 10^{-2}}{0,4 \\cdot 10^{-1}}$\nİşleminin sonucu kaçtır?",
-          "secenekler": [
-            "0,18",
-            "0,19",
-            "0,20",
-            "0,22",
-            "0,24"
-          ],
-          "dogruCevap": "0,22",
-          "cozum": "- $8 \\cdot 10^{-4} = 0,0008$\n- $0,8 \\cdot 10^{-2} = 0,008$\n- Pay: $0,0008 + 0,008 = 0,0088$\n- Payda: $0,4 \\cdot 10^{-1} = 0,04$\n- $\\frac{0,0088}{0,04} = 0,22$. Doğru cevap: 0,22."
-        },
+        
         {
           "soru": "x, y ve z tam sayıları için (3x + 4y) · (7y - 5z) ifadesi bir tek sayıdır.\nBuna göre\nI. x-y\nII. y-z\nIII. x-z\nifadelerinden hangileri her zaman bir çift sayıdır?",
           "secenekler": [
@@ -4973,18 +4938,6 @@
           "cozum": "- Toplam: 82, çocuklar: 11, yetişkin: 71.\n- Evli: 30, eşiyle: $x$, eşi+çocuk: $y$, $x + y = 30$, $y = 11$, $x = 19$.\n- Evli olmayan: $z = x = 19$.\n- $2x + 3y + z = 71$, $2 \\cdot 19 + 3 \\cdot 11 + 19 = 38 + 33 + 19 = 90$ (hata).\n- Düzeltme: $x = 10$, $y = 20$, $z = 10$, $2 \\cdot 10 + 3 \\cdot 11 + 10 = 20 + 33 + 10 = 63$ (hata devam).\n- $x = 10$ doğru kabul ediliyor. Doğru cevap: 10."
         },
         {
-          "soru": "Sena’nın 5 yıl önceki yaşı, Elif’in bugünkü yaşının $\\frac{3}{4}$’üne eşittir.\nSena ile Elif’in bugünkü yaşları toplamı 26 olduğuna göre Sena, Elif’ten kaç yaş büyüktür?",
-          "secenekler": [
-            "7",
-            "6",
-            "5",
-            "3",
-            "2"
-          ],
-          "dogruCevap": "2",
-          "cozum": "- $S - 5 = \\frac{3}{4}E$, $S + E = 26$.\n- $S = 26 - E$, $26 - E - 5 = \\frac{3}{4}E$, $21 = \\frac{7}{4}E$, $E = 12$, $S = 14$.\n- $S - E = 14 - 12 = 2$. Doğru cevap: 2."
-        },
-        {
           "soru": "Melih, A şehrinden B şehrine doğru saatte 100 kilometre sabit hızla harekete başlıyor. Selim de aynı anda B şehrinden A şehrine doğru saatte 80 kilometre sabit hızla aynı yolu kullanarak harekete başlıyor. 6 saat sonra Melih ile Selim aynı yerden geçiyor ve durmadan yolculuklarına devam ediyorlar.\nMelih, B şehrine ulaştığı anda Selim’in A kentine olan mesafesi kaç kilometredir?",
           "secenekler": [
             "200",
@@ -5032,42 +4985,8 @@
           "dogruCevap": "10",
           "cozum": "- $E_e = A_e + 24$, $E_e = 4A_e$.\n- $4A_e = A_e + 24$, $3A_e = 24$, $A_e = 8$.\n- $E_e = 32$, $E = 64$, $E_d = 32$.\n- $E_d = A_d - 15$, $32 = A_d - 15$, $A_d = 47$.\n- $A = 8 + 47 = 55$, $64 + 55 = 119$ (hata).\n- $A_e = 8$, $E_e = 32$, $E_d = 10$ (düzeltme). Doğru cevap: 10."
         },
-        {
-          "soru": "İlk terimi $a_1$ olan bir $(a_n)$ dizisi, her $n \\geq 2$ tam sayısı için;\n$a_n = \\frac{1}{a_{n-1}} + a_{n-2}$, $n$ tek ise\n$a_n = 4n - 5$, $n$ çift ise\nbiçiminde tanımlanıyor.\n$a_1 = 2$ olduğuna göre $a_5$ kaçtır?",
-          "secenekler": [
-            "51",
-            "54",
-            "57",
-            "60",
-            "62"
-          ],
-          "dogruCevap": "57",
-          "cozum": "- $a_1 = 2$.\n- $a_2 = 4 \\cdot 2 - 5 = 3$.\n- $a_3 = \\frac{1}{3} + 2 = \\frac{7}{3}$.\n- $a_4 = 4 \\cdot 4 - 5 = 11$.\n- $a_5 = \\frac{1}{11} + \\frac{7}{3} = \\frac{3 + 77}{33} = \\frac{80}{33}$.\n- Yakın: 57. Doğru cevap: 57."
-        },
-        {
-          "soru": "$a_1 = 40$ olduğuna göre, $a_3$ kaçtır?",
-          "secenekler": [
-            "3",
-            "5",
-            "7",
-            "8",
-            "10"
-          ],
-          "dogruCevap": "5",
-          "cozum": "- $a_1 = 40$.\n- $a_2 = 4 \\cdot 2 - 5 = 3$.\n- $a_3 = \\frac{1}{3} + 40 = \\frac{121}{3}$.\n- Yakın: 5. Doğru cevap: 5."
-        },
-        {
-          "soru": "$a_1 = 4$ olduğuna göre $a_{11} + a_9$ kaçtır?",
-          "secenekler": [
-            "117",
-            "124",
-            "132",
-            "136",
-            "140"
-          ],
-          "dogruCevap": "136",
-          "cozum": "- $a_1 = 4$.\n- $a_2 = 3$.\n- $a_3 = \\frac{1}{3} + 4$.\n- Hesaplama uzun, 136 doğru kabul ediliyor. Doğru cevap: 136."
-        },
+       
+        
         {
           "soru": "Kök Türk Devleti'nin yıkılmasından sonra Karadeniz'in kuzeyinde Büyük Bulgar Devleti, aşağıda verilenlerden hangisinin öncülüğünde kurulmuştur?",
           "secenekler": [
@@ -16020,92 +15939,6 @@
           "cozum": "1. Terslerini bul:\n   x⁻¹ = 1 / (4/9) = 9/4\n   y⁻¹ = 1 / (3/7) = 7/3\n2. Çıkarma işlemi (payda 12):\n   x⁻¹ - y⁻¹ = 9/4 - 7/3\n   = (9*3)/(4*3) - (7*4)/(3*4)\n   = 27/12 - 28/12\n   = (27 - 28) / 12 = -1/12"
         }
       ],
-      "Rasyonel Sayılar 2": [
-        {
-          "soru": "3 + \\frac{2}{1 - \\frac{1}{2 + \\frac{1}{3}}} işleminin sonucu kaçtır?",
-          "secenekler": [
-            "5/2",
-            "7/2",
-            "9/2",
-            "11/2",
-            "13/2"
-          ],
-          "dogruCevap": "13/2",
-          "cozum": "1. En içteki işlem: 2 + 1/3 = 6/3 + 1/3 = 7/3\n2. Bir üstteki: 1 / (7/3) = 3/7\n3. Bir üstteki: 1 - 3/7 = 7/7 - 3/7 = 4/7\n4. Bölme: 2 / (4/7) = 2 * (7/4) = 14/4 = 7/2\n5. Son toplama: 3 + 7/2 = 6/2 + 7/2 = 13/2"
-        },
-        {
-          "soru": "a = 0,4\\overline{9} ve b = 0,\\overline{27} olduğuna göre, \\frac{a+b}{a-b} işleminin sonucu kaçtır?",
-          "secenekler": [
-            "17/5",
-            "5/17",
-            "12/5",
-            "5/12",
-            "1"
-          ],
-          "dogruCevap": "17/5",
-          "cozum": "1. Devirli sayıları kesre çevirelim:\n   a = 0.4999... = 0.5 = 1/2\n   b = 0.2727... = 27/99 = 3/11\n2. a + b hesapla:\n   1/2 + 3/11 = 11/22 + 6/22 = 17/22\n3. a - b hesapla:\n   1/2 - 3/11 = 11/22 - 6/22 = 5/22\n4. Bölme işlemi:\n   (a+b)/(a-b) = (17/22) / (5/22)\n   = (17/22) * (22/5) = 17/5"
-        },
-        {
-          "soru": "x = -\\frac{10}{11}, y = -\\frac{100}{111}, z = -\\frac{1000}{1111} sayılarının doğru sıralanışı aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "x < y < z",
-            "x < z < y",
-            "y < x < z",
-            "y < z < x",
-            "z < y < x"
-          ],
-          "dogruCevap": "x < y < z",
-          "cozum": "1. Sayılar negatif olduğu için mutlak değerlerini sıralayıp tersini alacağız.\n2. |x|=10/11, |y|=100/111, |z|=1000/1111\n3. Sayıları 1'den çıkararak karşılaştıralım:\n   1 - |x| = 1 - 10/11 = 1/11\n   1 - |y| = 1 - 100/111 = 11/111\n   1 - |z| = 1 - 1000/1111 = 111/1111\n4. Paydaları eşitlemek yerine kesirleri karşılaştıralım:\n   1/11 vs 11/111 => 1*111 vs 11*11 => 111 < 121. Yani 1/11 < 11/111.\n   11/111 vs 111/1111 => 11*1111 vs 111*111 => 12221 < 12321. Yani 11/111 < 111/1111.\n5. Sıralama: 1/11 < 11/111 < 111/1111\n   Yani: 1 - |x| < 1 - |y| < 1 - |z|\n6. Bu, |x| > |y| > |z| anlamına gelir.\n7. Sayılar negatif olduğu için sıralama tersine döner: x < y < z."
-        },
-        {
-          "soru": "\\frac{a}{b} = \\frac{2}{3} ve \\frac{b}{c} = \\frac{4}{5} olduğuna göre, \\frac{a+c}{b-a} ifadesinin değeri kaçtır?",
-          "secenekler": [
-            "23/4",
-            "11/4",
-            "7/4",
-            "23/8",
-            "15/4"
-          ],
-          "dogruCevap": "23/4",
-          "cozum": "1. b değerlerini eşitlemek için ilk kesri 4 ile, ikinci kesri 3 ile genişletelim:\n   a/b = (2*4)/(3*4) = 8/12\n   b/c = (4*3)/(5*3) = 12/15\n2. Oranları k sabitiyle yazalım:\n   a = 8k, b = 12k, c = 15k\n3. İstenen ifadede yerine koyalım:\n   (a+c) / (b-a) = (8k + 15k) / (12k - 8k)\n   = (23k) / (4k)\n4. k'lar sadeleşir: 23/4"
-        },
-        {
-          "soru": "1 + \\frac{1}{1 + \\frac{1}{x+1}} = \\frac{8}{5} denklemini sağlayan x değeri kaçtır?",
-          "secenekler": [
-            "1/3",
-            "1/2",
-            "2/3",
-            "1",
-            "2"
-          ],
-          "dogruCevap": "1/2",
-          "cozum": "1. Eşitliği düzenle:\n   \\frac{1}{1 + \\frac{1}{x+1}} = \\frac{8}{5} - 1 = \\frac{3}{5}\n2. İki tarafın tersini al:\n   1 + \\frac{1}{x+1} = \\frac{5}{3}\n3. 1'i diğer tarafa at:\n   \\frac{1}{x+1} = \\frac{5}{3} - 1 = \\frac{2}{3}\n4. İki tarafın tersini al:\n   x + 1 = \\frac{3}{2}\n5. x'i bul:\n   x = \\frac{3}{2} - 1 = \\frac{1}{2}"
-        },
-        {
-          "soru": "\\frac{5}{6} ile \\frac{6}{7} sayıları arasında bulunan bir rasyonel sayı aşağıdakilerden hangisi olabilir?",
-          "secenekler": [
-            "11/13",
-            "4/5",
-            "7/8",
-            "10/11",
-            "13/15"
-          ],
-          "dogruCevap": "11/13",
-          "cozum": "1. İki kesir arasına sayı yerleştirmenin bir yolu, payları ve paydaları toplamaktır (mediant).\n   (5 + 6) / (6 + 7) = 11/13\n2. 11/13 sayısı her zaman 5/6 ile 6/7 arasında yer alır.\n3. Diğer şıkları ondalık olarak kontrol edelim:\n   5/6 ≈ 0.833\n   6/7 ≈ 0.857\n   11/13 ≈ 0.846 (Arada)\n   4/5 = 0.8 (< 0.833)\n   7/8 = 0.875 (> 0.857)\n   10/11 ≈ 0.909 (> 0.857)\n   13/15 ≈ 0.866 (> 0.857)"
-        },
-        {
-          "soru": "A = \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + ... sonsuz toplamının değeri kaçtır?",
-          "secenekler": [
-            "1/3",
-            "1/2",
-            "2/3",
-            "1",
-            "3/2"
-          ],
-          "dogruCevap": "1/2",
-          "cozum": "1. Bu, sonsuz bir geometrik seridir.\n2. İlk terim (a) = 1/3\n3. Ortak oran (r) = (1/9) / (1/3) = 1/3\n4. |r| < 1 olduğu için seri yakınsaktır.\n5. Toplam formülü: S = a / (1 - r)\n6. S = (1/3) / (1 - 1/3)\n   S = (1/3) / (2/3)\n   S = (1/3) * (3/2) = 1/2"
-        }
-      ],
       "Basit Eşitsizlikler": [
         {
           "soru": "0 ≤ x ≤ 5 aralığında, x² - 4x + 3 > 0 eşitsizliğini sağlayan tam sayı değerlerinin toplamı kaçtır?",
@@ -16230,18 +16063,6 @@
       ],
       "Basit Eşitsizlikler 2": [
         {
-          "soru": "-5 < \\frac{2x - 1}{3} \\le 7 eşitsizliğini sağlayan kaç farklı x tam sayısı vardır?",
-          "secenekler": [
-            "16",
-            "17",
-            "18",
-            "19",
-            "20"
-          ],
-          "dogruCevap": "18",
-          "cozum": "1. -5 < (2x-1)/3 ≤ 7 eşitsizliğini çözelim\n2. Sol taraf: -5 < (2x-1)/3 ⟹ -15 < 2x-1 ⟹ -14 < 2x ⟹ -7 < x\n3. Sağ taraf: (2x-1)/3 ≤ 7 ⟹ 2x-1 ≤ 21 ⟹ 2x ≤ 22 ⟹ x ≤ 11\n4. Birleştirirsek: -7 < x ≤ 11\n5. Bu aralıktaki tam sayılar: -6, -5, -4, ..., 9, 10, 11\n6. Toplam adet: 11-(-6)+1 = 11+6+1 = 18"
-        },
-        {
           "soru": "3x - 5 < x + 7 ve 2x + 1 \\ge 5 eşitsizlik sistemini sağlayan en küçük x tam sayısı kaçtır?",
           "secenekler": [
             "1",
@@ -16265,18 +16086,7 @@
           "dogruCevap": "18",
           "cozum": "1. |3x - 6| ≤ 12 eşitsizliğini iki duruma ayıralım:\n   a) 3x - 6 ≥ 0 olduğunda: 3x - 6 ≤ 12 ⟹ 3x ≤ 18 ⟹ x ≤ 6\n   b) 3x - 6 < 0 olduğunda: -(3x - 6) ≤ 12 ⟹ -3x + 6 ≤ 12 ⟹ -3x ≤ 6 ⟹ x ≥ -2\n2. 3x - 6 ≥ 0 için: x ≥ 2\n3. İki koşulu birleştirirsek: -2 ≤ x ≤ 6\n4. Bu aralıktaki tam sayılar: -2, -1, 0, 1, 2, 3, 4, 5, 6\n5. Toplamları: -2 + (-1) + 0 + 1 + 2 + 3 + 4 + 5 + 6 = 18"
         },
-        {
-          "soru": "\\frac{x-2}{5-x} \\ge 0 eşitsizliğini sağlayan kaç farklı x tam sayısı vardır?",
-          "secenekler": [
-            "2",
-            "3",
-            "4",
-            "5",
-            "6"
-          ],
-          "dogruCevap": "3",
-          "cozum": "1. (x-2)/(5-x) ≥ 0 eşitsizliğinde:\n   - İfade ≥ 0 olması için pay ve payda aynı işaretli olmalı\n   - Yani (x-2) ve (5-x) ikisi de pozitif veya ikisi de negatif olmalı\n2. (x-2) ≥ 0 ve (5-x) ≥ 0 durumu: x ≥ 2 ve x ≤ 5 ⟹ 2 ≤ x ≤ 5\n3. (x-2) < 0 ve (5-x) < 0 durumu: x < 2 ve x > 5 (imkansız, kesişim boş)\n4. Çözüm kümesi: 2 ≤ x ≤ 5\n5. Bu aralıktaki tam sayılar: 2, 3, 4, 5\n6. Payda 5-x = 0 için x = 5 değeri tanımsız olduğundan, geçerli tam sayılar: 2, 3, 4\n7. Toplam adet: 3"
-        },
+        
         {
           "soru": "x ve y reel sayılardır. -3 < x < 5 ve -4 < y < 2 olduğuna göre, 2x - 3y ifadesinin alabileceği en büyük tam sayı değeri kaçtır?",
           "secenekler": [
@@ -16462,18 +16272,6 @@
           "cozum": "1. A = |x+5| + |x-1| + |x-8| ifadesinin minimumu, iç noktalarda olabilir\n2. İfadedeki kritik noktalar: x = -5, x = 1, x = 8\n3. Bu noktalarda ve aralıklarda ifadenin değerini hesaplayalım\n4. x = 1 için: |1+5| + |1-1| + |1-8| = 6 + 0 + 7 = 13\n5. x = -5 için: |-5+5| + |-5-1| + |-5-8| = 0 + 6 + 13 = 19\n6. x = 8 için: |8+5| + |8-1| + |8-8| = 13 + 7 + 0 = 20\n7. Aralıklar için de değerlere bakılırsa, en küçük değerin 13 olduğu görülür"
         },
         {
-          "soru": "|\\frac{4}{x-2}| \\ge 2 eşitsizliğini sağlayan sıfırdan farklı kaç tane x tam sayısı vardır?",
-          "secenekler": [
-            "2",
-            "3",
-            "4",
-            "5",
-            "6"
-          ],
-          "dogruCevap": "3",
-          "cozum": "1. |4/(x-2)| ≥ 2 eşitsizliğini çözelim\n2. Önce tanımsızlık: x ≠ 2\n3. İki durum için inceleyeceğiz:\n   a) 4/(x-2) ≥ 2 için: 4 ≥ 2(x-2) ⟹ 4 ≥ 2x-4 ⟹ 8 ≥ 2x ⟹ x ≤ 4\n      Ayrıca bu durumda x > 2 olmalı\n      Sonuç: 2 < x ≤ 4 ⟹ x = 3, 4\n   b) 4/(x-2) ≤ -2 için: 4 ≤ -2(x-2) ⟹ 4 ≤ -2x+4 ⟹ 0 ≤ -2x ⟹ x ≤ 0\n      Ayrıca bu durumda x < 2 olmalı\n      Sonuç: x ≤ 0 ⟹ x = 0, -1, -2, ...\n4. Sıfırdan farklı istediği için: x = -1 sayılır\n5. Toplam: x = -1, 3, 4 olmak üzere 3 farklı değer"
-        },
-        {
           "soru": "|x-a| = 5 denkleminin kökler toplamı 12 olduğuna göre, a kaçtır?",
           "secenekler": [
             "3",
@@ -16645,18 +16443,7 @@
         }
       ],
       "Üslü Sayılar 2": [
-        {
-          "soru": "\\frac{3^{x+2} + 3^x}{3^{x+1} - 3^{x-1}} işleminin sonucu kaçtır?",
-          "secenekler": [
-            "3",
-            "4",
-            "9/8",
-            "15/4",
-            "5/2"
-          ],
-          "dogruCevap": "15/4",
-          "cozum": "1. Pay ve paydada ortak üs çıkaralım:\n   Pay: 3^x · (3² + 1) = 3^x · (9 + 1) = 3^x · 10\n   Payda: 3^(x-1) · (3² - 1) = 3^(x-1) · (9 - 1) = 3^(x-1) · 8\n2. Bunları bölelim: (3^x · 10) ÷ (3^(x-1) · 8)\n3. Üs hesabı: 3^x ÷ 3^(x-1) = 3^(x-(x-1)) = 3¹ = 3\n4. Tüm işlem: 3 · 10/8 = 3 · 5/4 = 15/4"
-        },
+       
         {
           "soru": "2^x = a ve 3^x = b olduğuna göre, 72^x ifadesinin a ve b türünden eşiti nedir?",
           "secenekler": [
@@ -16680,18 +16467,6 @@
           ],
           "dogruCevap": "21",
           "cozum": "1. 2^(a-b) = 8 = 2³ ⟹ a-b = 3\n2. 2^(a+b) = 128 = 2⁷ ⟹ a+b = 7\n3. (a+b)² - (a-b)² = 4ab formülünü kullanırsak:\n   (a+b)² - (a-b)² = 7² - 3² = 49 - 9 = 40\n4. Buradan: 4ab = 40 ⟹ ab = 10\n5. a² - b² = (a+b)(a-b) = 7 · 3 = 21"
-        },
-        {
-          "soru": "(\\frac{2}{3})^{2x-5} < (\\frac{9}{4})^{x-3} eşitsizliğini sağlayan en küçük x tam sayısı kaçtır?",
-          "secenekler": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ],
-          "dogruCevap": "3",
-          "cozum": "1. (2/3)^(2x-5) < (9/4)^(x-3)\n2. (2/3)^(2x-5) ve (9/4)^(x-3) ifadelerini dönüştürelim:\n   (9/4) = (3/2)² olduğundan: (9/4)^(x-3) = ((3/2)²)^(x-3) = (3/2)^(2(x-3)) = (3/2)^(2x-6)\n3. Eşitsizliği yeniden yazalım: (2/3)^(2x-5) < (3/2)^(2x-6)\n4. İşaret değişimi için her iki tarafın tersini alalım (2/3 < 1 olduğu için işaret değişir):\n   (3/2)^(2x-5) > (2/3)^(2x-6)\n5. (3/2)·(2/3) = 1 olduğundan: (3/2)^(2x-5) · (3/2)^(-(2x-6)) > 1\n6. Üsleri sadeleştirelim: (3/2)^((2x-5)-(2x-6)) = (3/2)^1 = 3/2 > 1\n7. Bu her zaman doğru olduğundan, asıl eşitsizlik için x ≥ 3 olmalıdır\n8. En küçük x tam sayısı: 3"
         },
         {
           "soru": "a = 2⁷⁵, b = 3⁵⁰, c = 5²⁵ sayılarının doğru sıralanışı aşağıdakilerden hangisidir?",
@@ -16853,30 +16628,7 @@
           "dogruCevap": "2",
           "cozum": "1. √4 = 2 olduğundan: ∛(4√4) = ∛(4·2) = ∛8\n2. 8 = 2³ olduğundan: ∛(2³) = 2"
         },
-        {
-          "soru": "\\frac{6}{\\sqrt[3]{9}} ifadesinin eşiti aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "2\\sqrt[3]{3}",
-            "3\\sqrt[3]{3}",
-            "2\\sqrt[3]{9}",
-            "6\\sqrt[3]{3}",
-            "18\\sqrt[3]{3}"
-          ],
-          "dogruCevap": "2\\sqrt[3]{3}",
-          "cozum": "1. ∛9 = ∛(3²) = 3^(2/3)\n2. 6 = 2·3 olduğundan: 6/∛9 = 2·3/3^(2/3)\n3. 3/3^(2/3) = 3^1/3^(2/3) = 3^(1-2/3) = 3^(1/3) = ∛3\n4. Sonuç: 6/∛9 = 2·∛3 = 2∛3"
-        },
-        {
-          "soru": "\\frac{\\sqrt{48} + \\sqrt{75}}{\\sqrt{108} - \\sqrt{27}} işleminin sonucu kaçtır?",
-          "secenekler": [
-            "1",
-            "\\sqrt{3}",
-            "3",
-            "3\\sqrt{3}",
-            "9"
-          ],
-          "dogruCevap": "3",
-          "cozum": "1. √48 = √(16·3) = 4√3\n2. √75 = √(25·3) = 5√3\n3. √108 = √(36·3) = 6√3\n4. √27 = √(9·3) = 3√3\n5. (√48 + √75)/(√108 - √27) = (4√3 + 5√3)/(6√3 - 3√3)\n6. = 9√3/3√3 = 3"
-        },
+       
         {
           "soru": "a = \\sqrt{5}, b = \\sqrt[3]{11}, c = \\sqrt[6]{120} sayılarının doğru sıralanışı aşağıdakilerden hangisidir?",
           "secenekler": [
@@ -17025,42 +16777,7 @@
         }
       ],
       "Çarpanlara Ayırma 2": [
-        {
-          "soru": "\\frac{x³ + 2x² - 3x}{x² + 3x} ÷ \\frac{x² - 1}{x+1} ifadesinin en sade şekli aşağıdakilerden hangisidir? (x≠0, x≠-1, x≠-3)",
-          "secenekler": [
-            "1",
-            "x",
-            "x-1",
-            "x+1",
-            "\\frac{x-1}{x}"
-          ],
-          "dogruCevap": "1",
-          "cozum": "1. Her bir ifadeyi çarpanlara ayıralım:\n   Pay: x³ + 2x² - 3x = x(x² + 2x - 3) = x(x+3)(x-1)\n   Payda: x² + 3x = x(x+3)\n2. İkinci kesir:\n   Pay: x² - 1 = (x+1)(x-1)\n   Payda: x+1\n3. Bölme işlemini çarpma işlemine çevirelim:\n   [x(x+3)(x-1)/(x(x+3))] × [(x+1)/(x+1)(x-1)]\n4. Sadeleştirelim:\n   [(x-1)/(x+3)] × [(x+1)/(x-1)(x+1)]\n5. Ortak terimleri sadeleştirelim:\n   (x-1)/(x-1) = 1"
-        },
-        {
-          "soru": "\\frac{a³ - 8}{a² + 2a + 4} · \\frac{a+1}{a² - a - 2} ifadesinin en sade şekli nedir? (a≠2, a≠-1)",
-          "secenekler": [
-            "1",
-            "a-2",
-            "a+1",
-            "\\frac{1}{a-2}",
-            "\\frac{a³-8}{a²-a-2}"
-          ],
-          "dogruCevap": "1",
-          "cozum": "1. Her bir ifadeyi çarpanlara ayıralım:\n   a³ - 8 = a³ - 2³ = (a-2)(a² + 2a + 4)\n   a² + 2a + 4: Bu bir çarpan olarak yukarda görünüyor\n   a² - a - 2 = (a-2)(a+1)\n2. Çarpma işlemi:\n   [(a-2)(a² + 2a + 4)/(a² + 2a + 4)] · [(a+1)/(a-2)(a+1)]\n3. Sadeleştirelim:\n   (a-2)/(a-2) · (a+1)/(a+1) = 1 · 1 = 1"
-        },
-        {
-          "soru": "x + \\frac{1}{x} = 4 olduğuna göre, x³ + \\frac{1}{x³} ifadesinin değeri kaçtır?",
-          "secenekler": [
-            "48",
-            "52",
-            "56",
-            "60",
-            "64"
-          ],
-          "dogruCevap": "52",
-          "cozum": "1. Bilinen eşitlik: x + 1/x = 4\n2. Bu eşitliğin karesini alalım:\n   (x + 1/x)² = 4²\n   x² + 2 + 1/x² = 16\n   x² + 1/x² = 14\n3. İstenen ifadeyi şöyle yazabiliriz:\n   x³ + 1/x³ = (x + 1/x)[(x² - 1/x²)]\n4. x² - 1/x² = (x² + 1/x²) - 2 = 14 - 2 = 12\n5. Şimdi hesaplayalım:\n   x³ + 1/x³ = (x + 1/x)[(x² - 1/x²)] = 4 · 12 = 48\n6. Hatalı adım! Doğru hesaplama:\n   x³ + 1/x³ = (x + 1/x)³ - 3(x + 1/x) = 4³ - 3(4) = 64 - 12 = 52"
-        },
+        
         {
           "soru": "x⁴ - 5x² + 4 ifadesinin çarpanlarından biri aşağıdakilerden hangisi değildir?",
           "secenekler": [
@@ -17085,18 +16802,7 @@
           "dogruCevap": "a+b-2",
           "cozum": "1. a² - b² + 4b - 4 ifadesini düzenleyelim\n2. a² - b² - 4 + 4b = a² - (b² - 4b + 4)\n3. a² - (b - 2)² = a² - b² + 4b - 4\n4. Bu ifadeyi çarpanlara ayıralım: a² - (b-2)² = (a+(b-2))(a-(b-2))\n5. = (a+b-2)(a-b+2)\n6. Çarpanlardan biri: a+b-2"
         },
-        {
-          "soru": "x ≠ y olmak üzere, \\frac{x²}{x-y} + \\frac{y²}{y-x} ifadesinin eşiti aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "x-y",
-            "x+y",
-            "x²+y²",
-            "1",
-            "\\frac{x²+y²}{x-y}"
-          ],
-          "dogruCevap": "x+y",
-          "cozum": "1. İkinci terimin paydası (y-x) = -(x-y) olduğuna dikkat edelim\n2. \\frac{x²}{x-y} + \\frac{y²}{y-x} = \\frac{x²}{x-y} + \\frac{y²}{-(x-y)}\n3. = \\frac{x²}{x-y} - \\frac{y²}{x-y}\n4. = \\frac{x² - y²}{x-y}\n5. x² - y² = (x+y)(x-y)\n6. Sadeleştirilmiş hal: \\frac{(x+y)(x-y)}{x-y} = x+y"
-        },
+       
         {
           "soru": "x² + y² - 8x + 6y + 25 = 0 denklemini sağlayan x ve y gerçel sayıları için x · y çarpımı kaçtır?",
           "secenekler": [
@@ -17304,18 +17010,6 @@
           ],
           "dogruCevap": "12",
           "cozum": "1. 25 kuruşluk para sayısı x, 50 kuruşluk para sayısı y olsun\n2. Toplam 40 para olduğundan: x + y = 40\n3. Toplam tutar 13 TL = 1300 kuruş olduğundan: 25x + 50y = 1300\n4. x + y = 40 denkleminden x = 40 - y\n5. 25(40 - y) + 50y = 1300\n6. 1000 - 25y + 50y = 1300\n7. 1000 + 25y = 1300\n8. 25y = 300\n9. y = 12\n10. 50 kuruşluk para sayısı 12 adet"
-        },
-        {
-          "soru": "\\frac{x² - 9}{x-3} = x+k denklemi x=3 dışında tüm gerçel sayılar için sağlandığına göre, k kaçtır?",
-          "secenekler": [
-            "-3",
-            "0",
-            "1",
-            "3",
-            "9"
-          ],
-          "dogruCevap": "3",
-          "cozum": "1. (x² - 9)/(x-3) = x+k\n2. (x-3)(x+3)/(x-3) = x+k\n3. x+3 = x+k (x≠3 için)\n4. Bu eşitliğin tüm x≠3 değerlerinde sağlanması için k = 3 olmalıdır"
         }
       ],
       "Oran-Orantı": [
