@@ -7016,17 +7016,6 @@
       ],
       "Eğitim Biliminin Temel Kavramları ve Kuramları": [
         {
-          "soru": "Aşağıdakilerden hangisi eğitimin temel özelliklerinden biri değildir?",
-          "secenekler": [
-            "Yaşam boyu devam eden bir süreçtir",
-            "Planlı ve kasıtlı bir süreçtir",
-            "Bireyde davranış değişikliği hedeflenir",
-            "Sadece okullarda gerçekleşir",
-            "Toplumsal ve kültürel bir süreçtir"
-          ],
-          "dogruCevap": "Sadece okullarda gerçekleşir"
-        },
-        {
           "soru": "Öğrenmeyi etkileyen faktörler arasında aşağıdakilerden hangisi yer almaz?",
           "secenekler": [
             "Güdülenme",
@@ -17036,18 +17025,6 @@
           ],
           "dogruCevap": "2",
           "cozum": "1. a : b : c = 3 : 6 : 5 oranındadır\n2. Bu durumda, a = 3k, b = 6k, c = 5k (k bir katsayı)\n3. İstenen ifade: (a + c) - b = (3k + 5k) - 6k = 8k - 6k = 2k\n4. Orandaki k değeri 1 kabul edilirse, istenen ifade = 2 · 1 = 2"
-        },
-        {
-          "soru": "Bir okulda bulunan 12/A ve 12/B şubelerinin sınıf mevcutlarının farkı x'tir. 12/A şubesinin sınıf mevcudu y'deir. Buna göre, bu iki şubenin sınıf mevcutları toplamının, 12/B şubesinin sınıf mevcuduna oranı hangisidir?\n(Not: Yorumlamada 12/A = y, fark = x olduğundan 12/B = y – x kabul edilmiştir.)",
-          "secenekler": [
-            " (x + y) / (2x + y)",
-            " (x + y) / (2x - y)",
-            " (x + y) / (x + y²)",
-            " (x + y) / (2x + y)  (eksi işaretli)",
-            " (x + y) / (x + y)"
-          ],
-          "dogruCevap": "(2y - x) / (y - x)",
-          "cozum": "1. 12/A şubesinin mevcudu = y\n2. 12/A ve 12/B arasındaki fark = x\n3. 12/B şubesinin mevcudu = y - x\n4. İki şubenin toplamı = y + (y - x) = 2y - x\n5. İstenen oran = İki şubenin toplamı / 12/B mevcudu\n   = (2y - x) / (y - x)"
         },
         {
           "soru": "x ve y doğal sayıları sırasıyla 2 ve 3 sayıları ile orantılıdır. \n4x + 2y = 42 olduğuna göre, y kaçtır?",
