@@ -89,7 +89,7 @@
     "Premier League": [
       {
         "name": "Sunderland",
-        "image": "https://w7.pngwing.com/pngs/903/355/png-transparent-sunderland-a-f-c-premier-league-efl-championship-reading-f-c-arsenal-f-c-sport-logo-sports-thumbnail.png"
+        "image": "https://brandlogos.net/wp-content/uploads/2014/10/sunderland_afc-logo_brandlogos.net_ddmyr-512x425.png"
       },
       {
         "name": "Manchester City",
@@ -101,7 +101,7 @@
       },
       {
         "name": "Arsenal",
-        "image": "https://w7.pngwing.com/pngs/761/901/png-transparent-arsenal-f-c-premier-league-emirates-stadium-chelsea-f-c-arsenal-ladies-f-c-arsenal-sport-logo-sports-thumbnail.png"
+        "image": "https://www.pngmart.com/files/23/Arsenal-Logo-PNG-Picture.png"
       },
       {
         "name": "Chelsea",
@@ -118,12 +118,31 @@
       {
         "name": "Newcastle United",
         "image": "https://w7.pngwing.com/pngs/1022/765/png-transparent-newcastle-united-f-c-premier-league-st-james-park-championship-sunderland-a-f-c-newcastle-united-sport-logo-sports-thumbnail.png"
+      },
+      {"name": "Leeds United",
+        "image": "https://logos-world.net/wp-content/uploads/2020/06/Leeds-United-Logo.png"
+      },
+      {
+        "name": "Aston Villa",
+        "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/5/57/Aston_Villa.png/512px-Aston_Villa.png"
+      },
+      {
+        "name":"West Ham United",
+        "image": "https://imgs.search.brave.com/AXjXr0spJs6i-lBbgnVnP6zZMbCCQD3NfctnytC09m0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/Zi9mYy9XZXN0aGFt/X2xvZ28ucG5nLzUx/MnB4LVdlc3RoYW1f/bG9nby5wbmc"
+      },
+      {
+        "name": "Nottingham Forest",
+        "image": "https://imgs.search.brave.com/9t3EAOoHwAegxlg4EDdaLpNglYiQ-P6Cmf_s3JsTNSo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvOC84NS9O/b3R0aW5naGFtX0Zv/cmVzdF9GQy5wbmc"
+      },
+      {
+        "name": "Crystal Palace",
+        "image" : "https://upload.wikimedia.org/wikipedia/tr/thumb/c/c5/Crystal_Palace_FC_logo_%282022%29.png/512px-Crystal_Palace_FC_logo_%282022%29.png"
       }
     ],
     "Turkish Super League": [
       {
-        "name": "Sivasspor",
-        "image": "https://w7.pngwing.com/pngs/567/562/png-transparent-sivasspor-hd-logo.png"
+        "name": "Alanyaspor",
+        "image": "https://imgs.search.brave.com/QKDcu88imxV8x0FWPYXoC8B6bSIHebqkQOlfOMbKcxo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/Mi8yOS9BbGFueWFz/cG9yX2xvZ28ucG5n/LzUxMnB4LUFsYW55/YXNwb3JfbG9nby5w/bmc"
       },
       {
         "name": "Galatasaray",
@@ -144,6 +163,18 @@
       {
         "name": "Başakşehir",
         "image": "https://upload.wikimedia.org/wikipedia/tr/c/cd/%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.png"
+      },
+      {
+        "name":"Eyüpspor",
+        "image": "https://imgs.search.brave.com/W3EBjGpiSHROxaE5B_xQTnZm4RbNbm_5mxfRMSaaLAs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi82LzYyL0V5/JUMzJUJDcHNwb3Jf/TG9nb3N1LnBuZy8y/NTBweC1FeSVDMyVC/Q3BzcG9yX0xvZ29z/dS5wbmc"
+      },
+      {
+        "name":"Kocaelispor",
+        "image":"https://imgs.search.brave.com/aftgjJ2X-kLiDB8e-asd2-ENNaZ9gGMsrkfwudXfHYs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/NS81YS9Lb2NhZWxp/c3Bvci5wbmcvNTEy/cHgtS29jYWVsaXNw/b3IucG5n"
+      },
+      {
+        "name":"Samsunspor",
+        "image": "https://imgs.search.brave.com/fB4dKGU0r7Ylod0LjCDw1NQYwhv43DWlh7VFYiS-5ZY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/ZC9kMi9TYW1zdW5z/cG9yX2xvZ28ucG5n/LzUxMnB4LVNhbXN1/bnNwb3JfbG9nby5w/bmc"
       }
     ],
     "La Liga": [
@@ -170,6 +201,22 @@
       {
         "name": "Valencia",
         "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefTP1tkFMNIvcvKGhbh-SJVdZM8SXn1tOUA&s"
+      },
+      {
+        "name": "Alaves",
+        "image":"https://imgs.search.brave.com/d92OsojFK6hA-27bWOUBCyBciFVagL_T211MpCmkLww/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/Mi8yZS9EZXBvcnRp/dm9fQWxhdmVzX2xv/Z28uc3ZnLzUxMnB4/LURlcG9ydGl2b19B/bGF2ZXNfbG9nby5z/dmcucG5n"
+      },
+      {
+        "name": "Celta Vigo",
+        "image":"https://imgs.search.brave.com/O8vxmzHdItJROhPpU3Kkm5Sal_CbeHfz9Sh8ZDldy0Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi80LzQ3L0Vz/Y3Vkb19SQ19DZWx0/YV9kZV9WaWdvLnN2/Zy8yNTBweC1Fc2N1/ZG9fUkNfQ2VsdGFf/ZGVfVmlnby5zdmcu/cG5n"
+      },
+      {
+        "name":"Espanyol",
+        "image":"https://imgs.search.brave.com/-PotjvI6oGqj6lU1gr9oIilIiUVr_PU6Gz1sblAKIOw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/ZC9kMS80MTdweC1S/Y2RfZXNwYW55b2xf/ZGVfYmFyY2Vsb25h/LmdpZi81MTJweC00/MTdweC1SY2RfZXNw/YW55b2xfZGVfYmFy/Y2Vsb25hLmdpZg.jpeg"
+      },
+      {
+        "name":"Rayo Vallecano",
+        "image":"https://imgs.search.brave.com/7gFsz5w8kqgd2TPoxqvMPSmlFyRnSGmLGfwTD28nILU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/ZC9kYi9SYXlvdmFs/bGVjYW5vLnBuZy81/MTJweC1SYXlvdmFs/bGVjYW5vLnBuZw"
       }
     ],
     "Bundesliga": [
