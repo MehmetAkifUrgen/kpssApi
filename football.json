@@ -119,7 +119,8 @@
         "name": "Newcastle United",
         "image": "https://w7.pngwing.com/pngs/1022/765/png-transparent-newcastle-united-f-c-premier-league-st-james-park-championship-sunderland-a-f-c-newcastle-united-sport-logo-sports-thumbnail.png"
       },
-      {"name": "Leeds United",
+      {
+        "name": "Leeds United",
         "image": "https://logos-world.net/wp-content/uploads/2020/06/Leeds-United-Logo.png"
       },
       {
@@ -127,7 +128,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/5/57/Aston_Villa.png/512px-Aston_Villa.png"
       },
       {
-        "name":"West Ham United",
+        "name": "West Ham United",
         "image": "https://imgs.search.brave.com/AXjXr0spJs6i-lBbgnVnP6zZMbCCQD3NfctnytC09m0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/Zi9mYy9XZXN0aGFt/X2xvZ28ucG5nLzUx/MnB4LVdlc3RoYW1f/bG9nby5wbmc"
       },
       {
@@ -136,7 +137,7 @@
       },
       {
         "name": "Crystal Palace",
-        "image" : "https://upload.wikimedia.org/wikipedia/tr/thumb/c/c5/Crystal_Palace_FC_logo_%282022%29.png/512px-Crystal_Palace_FC_logo_%282022%29.png"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/c/c5/Crystal_Palace_FC_logo_%282022%29.png/512px-Crystal_Palace_FC_logo_%282022%29.png"
       }
     ],
     "Turkish Super League": [
@@ -165,15 +166,15 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/c/cd/%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.png"
       },
       {
-        "name":"Eyüpspor",
+        "name": "Eyüpspor",
         "image": "https://imgs.search.brave.com/W3EBjGpiSHROxaE5B_xQTnZm4RbNbm_5mxfRMSaaLAs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi82LzYyL0V5/JUMzJUJDcHNwb3Jf/TG9nb3N1LnBuZy8y/NTBweC1FeSVDMyVC/Q3BzcG9yX0xvZ29z/dS5wbmc"
       },
       {
-        "name":"Kocaelispor",
-        "image":"https://imgs.search.brave.com/aftgjJ2X-kLiDB8e-asd2-ENNaZ9gGMsrkfwudXfHYs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/NS81YS9Lb2NhZWxp/c3Bvci5wbmcvNTEy/cHgtS29jYWVsaXNw/b3IucG5n"
+        "name": "Kocaelispor",
+        "image": "https://imgs.search.brave.com/aftgjJ2X-kLiDB8e-asd2-ENNaZ9gGMsrkfwudXfHYs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/NS81YS9Lb2NhZWxp/c3Bvci5wbmcvNTEy/cHgtS29jYWVsaXNw/b3IucG5n"
       },
       {
-        "name":"Samsunspor",
+        "name": "Samsunspor",
         "image": "https://imgs.search.brave.com/fB4dKGU0r7Ylod0LjCDw1NQYwhv43DWlh7VFYiS-5ZY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/ZC9kMi9TYW1zdW5z/cG9yX2xvZ28ucG5n/LzUxMnB4LVNhbXN1/bnNwb3JfbG9nby5w/bmc"
       }
     ],
@@ -196,27 +197,27 @@
       },
       {
         "name": "Sevilla",
-        "iamge" : "https://upload.wikimedia.org/wikipedia/tr/archive/e/ed/20230224114130%21Sevillafc.png"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/archive/e/ed/20230224114130%21Sevillafc.png"
       },
       {
         "name": "Valencia",
-        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefTP1tkFMNIvcvKGhbh-SJVdZM8SXn1tOUA&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefTP1tkFMNIvcvKGhbh-SJVdZM8SXn1tOUA&s"
       },
       {
         "name": "Alaves",
-        "image":"https://imgs.search.brave.com/d92OsojFK6hA-27bWOUBCyBciFVagL_T211MpCmkLww/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/Mi8yZS9EZXBvcnRp/dm9fQWxhdmVzX2xv/Z28uc3ZnLzUxMnB4/LURlcG9ydGl2b19B/bGF2ZXNfbG9nby5z/dmcucG5n"
+        "image": "https://imgs.search.brave.com/d92OsojFK6hA-27bWOUBCyBciFVagL_T211MpCmkLww/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/Mi8yZS9EZXBvcnRp/dm9fQWxhdmVzX2xv/Z28uc3ZnLzUxMnB4/LURlcG9ydGl2b19B/bGF2ZXNfbG9nby5z/dmcucG5n"
       },
       {
         "name": "Celta Vigo",
-        "image":"https://imgs.search.brave.com/O8vxmzHdItJROhPpU3Kkm5Sal_CbeHfz9Sh8ZDldy0Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi80LzQ3L0Vz/Y3Vkb19SQ19DZWx0/YV9kZV9WaWdvLnN2/Zy8yNTBweC1Fc2N1/ZG9fUkNfQ2VsdGFf/ZGVfVmlnby5zdmcu/cG5n"
+        "image": "https://imgs.search.brave.com/O8vxmzHdItJROhPpU3Kkm5Sal_CbeHfz9Sh8ZDldy0Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi80LzQ3L0Vz/Y3Vkb19SQ19DZWx0/YV9kZV9WaWdvLnN2/Zy8yNTBweC1Fc2N1/ZG9fUkNfQ2VsdGFf/ZGVfVmlnby5zdmcu/cG5n"
       },
       {
-        "name":"Espanyol",
-        "image":"https://imgs.search.brave.com/-PotjvI6oGqj6lU1gr9oIilIiUVr_PU6Gz1sblAKIOw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/ZC9kMS80MTdweC1S/Y2RfZXNwYW55b2xf/ZGVfYmFyY2Vsb25h/LmdpZi81MTJweC00/MTdweC1SY2RfZXNw/YW55b2xfZGVfYmFy/Y2Vsb25hLmdpZg.jpeg"
+        "name": "Espanyol",
+        "image": "https://imgs.search.brave.com/-PotjvI6oGqj6lU1gr9oIilIiUVr_PU6Gz1sblAKIOw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/ZC9kMS80MTdweC1S/Y2RfZXNwYW55b2xf/ZGVfYmFyY2Vsb25h/LmdpZi81MTJweC00/MTdweC1SY2RfZXNw/YW55b2xfZGVfYmFy/Y2Vsb25hLmdpZg.jpeg"
       },
       {
-        "name":"Rayo Vallecano",
-        "image":"https://imgs.search.brave.com/7gFsz5w8kqgd2TPoxqvMPSmlFyRnSGmLGfwTD28nILU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/ZC9kYi9SYXlvdmFs/bGVjYW5vLnBuZy81/MTJweC1SYXlvdmFs/bGVjYW5vLnBuZw"
+        "name": "Rayo Vallecano",
+        "image": "https://imgs.search.brave.com/7gFsz5w8kqgd2TPoxqvMPSmlFyRnSGmLGfwTD28nILU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/ZC9kYi9SYXlvdmFs/bGVjYW5vLnBuZy81/MTJweC1SYXlvdmFs/bGVjYW5vLnBuZw"
       }
     ],
     "Bundesliga": [
@@ -230,11 +231,35 @@
       },
       {
         "name": "RB Leipzig",
-        "image" : "https://upload.wikimedia.org/wikipedia/tr/f/fd/RB_Leipzig.png"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/f/fd/RB_Leipzig.png"
       },
       {
         "name": "Bayer Leverkusen",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png"
+      },
+      {
+        "name":"Freiburg",
+        "image":"https://imgs.search.brave.com/hCLMUodNBM6ZEzA-ayIs3nuCDMppMWK3QYHCNUwJZtU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/Ny83Yi9TQ19GcmVp/YnVyZy5wbmcvNTEy/cHgtU0NfRnJlaWJ1/cmcucG5n"
+      },
+      {
+        "name":"Köln",
+        "image":"https://imgs.search.brave.com/rkQ3zR2ZxFE8YdPnaZXldzLMmA_x4vgokOAMR1IhGeg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8wLzAxLzEu/X0ZDX0tvZWxuX0xv/Z29fMjAxNCVFMiU4/MCU5My5zdmcvMjUw/cHgtMS5fRkNfS29l/bG5fTG9nb18yMDE0/JUUyJTgwJTkzLnN2/Zy5wbmc"
+      },
+      {
+        "name":"Mainz",
+        "image":"https://imgs.search.brave.com/P3is-yUKiyAVEoIDB6iPkUkl677zUN-1FZPwiUmjLYA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85LzllL0xv/Z29fTWFpbnpfMDUu/c3ZnLzI1MHB4LUxv/Z29fTWFpbnpfMDUu/c3ZnLnBuZw"
+      },
+      {
+        "name": "Werder Bremen",
+        "image":"https://imgs.search.brave.com/XSQsToBFPtM50is8koXnbdKaJEZAfC466OnqDaPG0RI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2JlL1NW/LVdlcmRlci1CcmVt/ZW4tTG9nby5zdmcv/MjUwcHgtU1YtV2Vy/ZGVyLUJyZW1lbi1M/b2dvLnN2Zy5wbmc"
+      },
+      {
+        "name" : "Stutgart",
+        "image": "https://imgs.search.brave.com/XDFv1YMPeWv2pFfJoDnHtgGynRyxt6Xwzz21knVnx0o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9lL2ViL1Zm/Ql9TdHV0dGdhcnRf/MTg5M19Mb2dvLnN2/Zy8yNTBweC1WZkJf/U3R1dHRnYXJ0XzE4/OTNfTG9nby5zdmcu/cG5n"
+      },
+      {
+        "name":"Union Berlin",
+        "image":"https://imgs.search.brave.com/qhEUmO5fapMpORxXD9oQxpJYxibtkmrCfHpPHiz6vWk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi80LzQ0LzEu/X0ZDX1VuaW9uX0Jl/cmxpbl9Mb2dvLnN2/Zy81MTJweC0xLl9G/Q19Vbmlvbl9CZXJs/aW5fTG9nby5zdmcu/cG5n"
       }
     ],
     "Serie A": [
@@ -256,11 +281,35 @@
       },
       {
         "name": "Napoli",
-        "iamge" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SSC_Napoli.svg/2048px-SSC_Napoli.svg.png"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SSC_Napoli.svg/2048px-SSC_Napoli.svg.png"
       },
       {
         "name": "Roma",
-        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MzlFovqjw8qca4EGV7F1iiMVN-ODD6vNNg&s"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/1/13/AS_Roma_Logo_2017.png/330px-AS_Roma_Logo_2017.png"
+      },
+      {
+        "name":"Cagliari",
+        "image":"https://imgs.search.brave.com/wBsIlazVF6oQACUpvPrPHMT8QenH_c13uUl9w_7oK1c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/MC8wMC9DYWdsaWFy/aWNhbGNpby5wbmcv/NTEycHgtQ2FnbGlh/cmljYWxjaW8ucG5n"
+      },
+      {
+        "name":"Bologna",
+        "image":"https://imgs.search.brave.com/0gnZSfaERqofqJbLSUiFfb-HtIv_sA4Qk0eN7N_IQ20/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzViL0Jv/bG9nbmFfRi5DLl8x/OTA5X2xvZ28uc3Zn/LzI1MHB4LUJvbG9n/bmFfRi5DLl8xOTA5/X2xvZ28uc3ZnLnBu/Zw"
+      },
+      {
+        "name":"Lecce",
+        "image":"https://imgs.search.brave.com/1UviWjqe7mhUhhl0nD_lLKUctdmQ9BzvQlToCOf6rhY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92ZWN0/b3Jwb3J0YWwuY29t/L3N0b3JhZ2UvbGVj/Y2VfNDM1MC5qcGc"
+      },
+      {
+        "name":"Pisa",
+        "image":"https://imgs.search.brave.com/86ZX841ZOHtKAAeBzciKYjl5ut8gXnFqk8NDwuBEInY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/ZC9kZi9QaXNhX0Nh/bGNpb19sb2dvLnBu/Zy81MTJweC1QaXNh/X0NhbGNpb19sb2dv/LnBuZw"
+      },
+      {
+        "name":"Genoa",
+        "image":"https://upload.wikimedia.org/wikipedia/tr/thumb/f/fc/Genoa.png/330px-Genoa.png"
+      },
+      {
+        "name":"Parma",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/FC_Parma.svg/330px-FC_Parma.svg.png"
       }
     ],
     "Ligue 1": [
@@ -270,7 +319,7 @@
       },
       {
         "name": "Paris Saint-Germain",
-        "iamge" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGIPWDS53hht9Gk3L8zA8Bi6try71-rsrSaQ&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGIPWDS53hht9Gk3L8zA8Bi6try71-rsrSaQ&s"
       },
       {
         "name": "Marseille",
@@ -283,6 +332,26 @@
       {
         "name": "Lille",
         "image": "https://upload.wikimedia.org/wikipedia/tr/a/a3/Lilleoscyeni.png"
+      },
+      {
+        "name":"Le Havre",
+        "image":"https://upload.wikimedia.org/wikipedia/tr/1/10/HAC_logo_2012.png"
+      },
+      {
+        "name":"RC Lens",
+        "image":"https://upload.wikimedia.org/wikipedia/tr/thumb/b/b4/Rclensyeni.png/330px-Rclensyeni.png"
+      },
+      {
+        "name":"Metz",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FC_Metz_2021_Logo.svg/300px-FC_Metz_2021_Logo.svg.png"
+      },
+      {
+        "name":"Lorient",
+        "image":"https://upload.wikimedia.org/wikipedia/tr/thumb/9/9a/Lorientfc.png/330px-Lorientfc.png"
+      },
+      {
+        "name":"Nice",
+        "image":"https://upload.wikimedia.org/wikipedia/tr/thumb/d/d5/Nicelogo.png/330px-Nicelogo.png"
       }
     ],
     "Eredivisie": [
@@ -301,6 +370,22 @@
       {
         "name": "AZ Alkmaar",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AZ_Alkmaar.svg/2560px-AZ_Alkmaar.svg.png"
+      },
+      {
+        "name":"Twente",
+        "image":"https://upload.wikimedia.org/wikipedia/tr/thumb/b/b8/FC-Twente-Enschede.png/330px-FC-Twente-Enschede.png"
+      },
+      {
+        "name":"Fortuna Sittard",
+        "iamge":"https://upload.wikimedia.org/wikipedia/tr/thumb/c/cb/Fortuna_Sittard.png/300px-Fortuna_Sittard.png"
+      },
+      {
+        "name":"Zwolle",
+        "image":"https://upload.wikimedia.org/wikipedia/tr/f/f1/PEC_Zwolle_logo.jpg"
+      },
+      {
+        "name":"Go Ahead Eagles",
+        "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/3c/Go_Ahead_Eagles.png/330px-Go_Ahead_Eagles.png"
       }
     ],
     "Liga Portugal": [
@@ -319,6 +404,22 @@
       {
         "name": "Sporting CP",
         "image": "https://upload.wikimedia.org/wikipedia/tr/6/61/Sporting_Lizbon_logo.png"
+      },
+      {
+        "name":"Tondela",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/C.D.Tondela.jpg/330px-C.D.Tondela.jpg"
+      },
+      {
+        "name":"Vitoria Guimarães",
+        "image":"https://upload.wikimedia.org/wikipedia/tr/f/ff/Vitoriafcsetubal.jpg"
+      },
+      {
+        "name":"Casa Pia",
+        "image":"https://imgs.search.brave.com/IImzHAhXxiK9c5RttveAqY8fG2GwyUANM4oDjkvTzkk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/NC80ZC9DYXNhX1Bp/YV9BLkMuX2xvZ28u/cG5nLzUxMnB4LUNh/c2FfUGlhX0EuQy5f/bG9nby5wbmc"
+      },
+      {
+        "name":"Alverca",
+        "image":"https://www.fcalverca.pt/wp-content/uploads/2021/12/cropped-cropped-alverca-1.png"
       }
     ]
   },
@@ -1280,6 +1381,218 @@
             "cevap": "20",
             "aciklama": "Sunderland, 2002-03 ve 2005-06 sezonları arasında üst üste 20 maç kaybederek Premier Lig’de en uzun mağlubiyet serisini yaşamıştır."
           }
+        ],
+        "La Liga": [
+          {
+            "soru": "Real Madrid, La Liga tarihinde en büyük puan farkıyla şampiyon olduğunda rakibine kaç puan fark atmıştır?",
+            "cevap": "13",
+            "açıklama": "2011-12 sezonunda Real Madrid, 100 puanla şampiyon olmuş ve ikinci sıradaki FC Barcelona'yı 87 puanda bırakarak 13 puan farkla, La Liga tarihindeki en büyük puan farkını elde etmiştir."
+          },
+          {
+            "soru": "La Liga tarihinde en uzun süre liderlik koltuğunda oturan Real Madrid, kaç hafta lider kalmıştır?",
+            "cevap": "628",
+            "açıklama": "Real Madrid, 1929'daki kuruluşundan 2025'e kadar La Liga tarihinde yaklaşık 628 hafta liderlik koltuğunda oturmuştur, bu tarihi kayıtlara göre belirlenmiştir."
+          },
+          {
+            "soru": "La Liga tarihinde en yüksek puanla küme düşen CD Tenerife kaç puanla küme düşmüştür?",
+            "cevap": "42",
+            "açıklama": "1992-93 sezonunda CD Tenerife, 38 maçta 42 puan toplamasına rağmen küme düşerek La Liga'da en yüksek puanla küme düşen takım rekorunu kırmıştır."
+          },
+          {
+            "soru": "La Liga tarihinde en az gol atarak şampiyon olan Athletic Bilbao kaç gol atmıştır?",
+            "cevap": "38",
+            "açıklama": "1942-43 sezonunda Athletic Bilbao, 26 maçta 38 gol atarak La Liga tarihinde en az golle şampiyon olan takım olmuştur."
+          },
+          {
+            "soru": "La Liga tarihinde en çok gol yiyerek şampiyon olan FC Barcelona kaç gol yemiştir?",
+            "cevap": "44",
+            "açıklama": "1993-94 sezonunda FC Barcelona, 38 maçta kalesinde 44 gol görmüş, ancak şampiyon olmuş ve La Liga'da en çok gol yiyen şampiyon olarak rekor kırmıştır."
+          },
+          {
+            "soru": "La Liga tarihinde en çok maç kaybederek şampiyon olan FC Barcelona kaç maç kaybetmiştir?",
+            "cevap": "9",
+            "açıklama": "1993-94 sezonunda FC Barcelona, 9 maç kaybetmesine rağmen şampiyon olmuş ve La Liga'da en çok maç kaybeden şampiyon olarak rekor kırmıştır."
+          },
+          {
+            "soru": "La Liga tarihinde 3 puanlı sistemde en çok puan toplayan şampiyon Real Madrid kaç puan toplamıştır?",
+            "cevap": "100",
+            "açıklama": "2011-12 sezonunda Real Madrid, 100 puan toplayarak 3 puanlı sistemde en yüksek puanla şampiyon olan takım olmuştur."
+          },
+          {
+            "soru": "La Liga tarihinde 3 puanlı sistemde en az puan toplayan şampiyon FC Barcelona kaç puan toplamıştır?",
+            "cevap": "71",
+            "açıklama": "1998-99 sezonunda FC Barcelona, 71 puan toplayarak 3 puanlı sistemde en az puanla şampiyon olan takım olmuştur."
+          },
+          {
+            "soru": "La Liga'nın kuruluşundan beri hiç küme düşmeyen kaç takım vardır?",
+            "cevap": "3",
+            "açıklama": "Real Madrid, FC Barcelona ve Athletic Bilbao, 1929'da La Liga'nın kuruluşundan beri hiç küme düşmeyen takımlardır."
+          },
+          {
+            "soru": "La Liga tarihinde sadece bir sezon yer alan kaç takım vardır?",
+            "cevap": "5",
+            "açıklama": "CD Condal (1956-57), Atlético Tetuán (1951-52), Cultural Leonesa (1955-56), AD Almería (1979-80) ve CD Numancia (2004-05), La Liga'da sadece bir sezon mücadele etmiştir."
+          },
+          {
+            "soru": "La Liga tarihinde en çok küme düşen Real Murcia kaç kez küme düşmüştür?",
+            "cevap": "8",
+            "açıklama": "Real Murcia, 8 kez küme düşerek La Liga tarihinde en çok küme düşen takım rekorunu elinde bulundurmaktadır."
+          },
+          {
+            "soru": "La Liga'da bir haftada atılan en yüksek gol sayısı kaçtır?",
+            "cevap": "45",
+            "açıklama": "2015-16 sezonunun 4. haftasında La Liga'da toplam 45 gol atılmış ve bu, en yüksek gol atılan hafta olarak kaydedilmiştir."
+          },
+          {
+            "soru": "La Liga'da bir sezonda en çok gol atan yabancı oyuncu Lionel Messi kaç gol atmıştır?",
+            "cevap": "50",
+            "açıklama": "Lionel Messi, 2011-12 sezonunda FC Barcelona ile 50 gol atarak La Liga tarihinde bir sezonda en çok gol atan yabancı oyuncu olmuştur."
+          },
+          {
+            "soru": "La Liga tarihinde en çok gol atan Lionel Messi kaç gol atmıştır?",
+            "cevap": "474",
+            "açıklama": "Lionel Messi, FC Barcelona ile La Liga kariyerinde 474 gol atarak ligin tüm zamanların en golcü oyuncusu olmuştur."
+          },
+          {
+            "soru": "La Liga tarihinde en çok asist yapan Lionel Messi kaç asist yapmıştır?",
+            "cevap": "192",
+            "açıklama": "Lionel Messi, La Liga kariyerinde 192 asist yaparak lig tarihinde en çok asist yapan oyuncu olmuştur."
+          },
+          {
+            "soru": "La Liga tarihinde gol atan en genç oyuncu Bojan Krkić kaç yaşındayken gol atmıştır?",
+            "cevap": "17",
+            "açıklama": "Bojan Krkić, 2007 yılında FC Barcelona ile 17 yaş ve 53 günündeyken gol atarak La Liga tarihinde en genç gol atan oyuncu olmuştur."
+          },
+          {
+            "soru": "La Liga tarihinde en çok maç oynayan oyuncu Andoni Zubizarreta kaç maça çıkmıştır?",
+            "cevap": "622",
+            "açıklama": "Andoni Zubizarreta, Athletic Bilbao, FC Barcelona ve Valencia ile La Liga'da 622 maça çıkarak lig tarihinde en çok maça çıkan oyuncu olmuştur."
+          },
+          {
+            "soru": "La Liga'da bir maçta en çok gol atan yerli oyuncu Telmo Zarra kaç gol atmıştır?",
+            "cevap": "7",
+            "açıklama": "Telmo Zarra, 1950-51 sezonunda Athletic Bilbao ile Lleida karşısında bir maçta 7 gol atarak La Liga'da bir maçta en çok gol atan yerli oyuncu olmuştur."
+          },
+          {
+            "soru": "La Liga'da bir maçta en çok gol atan yabancı oyuncu Lionel Messi kaç gol atmıştır?",
+            "cevap": "5",
+            "açıklama": "Lionel Messi, 2011-12 Şampiyonlar Ligi'nde Bayer Leverkusen karşısında FC Barcelona ile 5 gol atmış, ancak La Liga'da 5 gol rekorunu diğer yabancı oyuncularla paylaşmaktadır."
+          },
+          {
+            "soru": "La Liga tarihinde bir sezonda en çok galibiyet alan Real Madrid kaç galibiyet almıştır?",
+            "cevap": "32",
+            "açıklama": "Real Madrid, 2011-12 sezonunda 32 galibiyet alarak La Liga tarihinde bir sezonda en çok galibiyet alan takım olmuştur."
+          },
+          {
+            "soru": "La Liga tarihinde bir sezonda en çok berabere kalan Deportivo La Coruña kaç beraberlik almıştır?",
+            "cevap": "20",
+            "açıklama": "Deportivo La Coruña, 2001-02 sezonunda 20 beraberlik alarak La Liga tarihinde bir sezonda en çok berabere kalan takım olmuştur."
+          },
+          {
+            "soru": "La Liga tarihinde bir sezonda en çok gol atan Real Madrid kaç gol atmıştır?",
+            "cevap": "121",
+            "açıklama": "Real Madrid, 2011-12 sezonunda 121 gol atarak La Liga tarihinde bir sezonda en çok gol atan takım olmuştur."
+          },
+          {
+            "soru": "La Liga tarihinde bir sezonda en az gol yiyen Deportivo La Coruña kaç gol yemiştir?",
+            "cevap": "18",
+            "açıklama": "Deportivo La Coruña, 1993-94 sezonunda kalesinde sadece 18 gol görerek La Liga tarihinde bir sezonda en az gol yiyen takım olmuştur."
+          },
+          {
+            "soru": "La Liga tarihinde bir sezonda en yüksek averaja sahip Real Madrid'in averajı kaçtır?",
+            "cevap": "+89",
+            "açıklama": "Real Madrid, 2011-12 sezonunda +89 averajla La Liga tarihinde bir sezonda en yüksek averaja sahip takım olmuştur."
+          },
+          {
+            "soru": "La Liga tarihinde bir maçta en çok penaltı kullanan Real Madrid kaç penaltı kullanmıştır?",
+            "cevap": "4",
+            "açıklama": "Real Madrid, 1958-59 sezonunda Celta de Vigo karşısında bir maçta 4 penaltı kullanarak La Liga tarihinde bir maçta en çok penaltı kullanan takım olmuştur."
+          },
+          {
+            "soru": "La Liga tarihinde atılan en erken gol kaçıncı saniyede kaydedilmiştir?",
+            "cevap": "7",
+            "açıklama": "Joseba Llorente, 2007-08 sezonunda Real Valladolid ile Espanyol karşısında 7,42 saniyede gol atarak La Liga tarihindeki en erken golü kaydetmiştir."
+          },
+          {
+            "soru": "La Liga tarihinde en farklı skorlu galibiyet kaç farklıdır?",
+            "cevap": "12",
+            "açıklama": "Athletic Bilbao'nun 1930-31 sezonunda FC Barcelona'yı 12-1 yenmesi, La Liga tarihindeki en farklı galibiyettir."
+          },
+          {
+            "soru": "La Liga tarihinde en farklı skorlu deplasman galibiyeti kaç farklıdır?",
+            "cevap": "10",
+            "açıklama": "Real Madrid'in 1959-60 sezonunda Elche'yi 11-1 yenmesi, La Liga tarihindeki en farklı deplasman galibiyetidir."
+          },
+          {
+            "soru": "La Liga tarihinde en uzun süre gol yemeyen kaleci Iker Casillas kaç dakika gol yememiştir?",
+            "cevap": "824",
+            "açıklama": "Iker Casillas, 2014-15 sezonunda Real Madrid ile 824 dakika boyunca kalesini gole kapatarak La Liga tarihinde en uzun süre gol yemeyen kaleci olmuştur."
+          },
+          {
+            "soru": "La Liga tarihinde en çok gol kralı çıkaran FC Barcelona kaç kez gol kralı çıkarmıştır?",
+            "cevap": "27",
+            "açıklama": "FC Barcelona, La Liga tarihinde 27 kez gol kralı çıkararak bu alanda zirvededir."
+          },
+          {
+            "soru": "La Liga tarihinde en çok gol kralı olan Lionel Messi kaç kez gol kralı olmuştur?",
+            "cevap": "8",
+            "açıklama": "Lionel Messi, 2009-10, 2011-12, 2012-13, 2016-17, 2017-18, 2018-19, 2019-20, 2020-21 sezonlarında 8 kez gol kralı olarak La Liga tarihinde en çok gol kralı olan oyuncudur."
+          },
+          {
+            "soru": "La Liga tarihinde en çok şampiyonluk yaşayan Francisco Gento ve Amancio Amaro kaç şampiyonluk yaşamıştır?",
+            "cevap": "12",
+            "açıklama": "Francisco Gento ve Amancio Amaro, Real Madrid ile 12 şampiyonluk kazanarak La Liga tarihinde en çok şampiyonluk yaşayan oyunculardır."
+          },
+          {
+            "soru": "La Liga tarihinde en çok şampiyonluk yaşayan Miguel Muñoz kaç şampiyonluk kazanmıştır?",
+            "cevap": "9",
+            "açıklama": "Miguel Muñoz, Real Madrid ile 9 şampiyonluk kazanarak La Liga tarihinde en çok şampiyonluk yaşayan teknik direktördür."
+          },
+          {
+            "soru": "La Liga tarihinde en iyi sezon başlangıcını yapan FC Barcelona kaç maç üst üste kazanmıştır?",
+            "cevap": "10",
+            "açıklama": "FC Barcelona, 2015-16 sezonunda ilk 10 maçı kazanarak La Liga tarihindeki en iyi sezon başlangıcını yapmıştır."
+          },
+          {
+            "soru": "La Liga tarihinde en uzun süre üst üste kazanan FC Barcelona kaç maç kazanmıştır?",
+            "cevap": "18",
+            "açıklama": "FC Barcelona, 2015-16 sezonunda üst üste 18 maç kazanarak La Liga'daki en uzun galibiyet serisini yakalamıştır."
+          },
+          {
+            "soru": "La Liga tarihinde kendi evinde en uzun süre üst üste kazanan Real Madrid kaç maç kazanmıştır?",
+            "cevap": "23",
+            "açıklama": "Real Madrid, 2011-12 ve 2012-13 sezonları arasında Santiago Bernabéu'da üst üste 23 maç kazanarak La Liga rekorunu kırmıştır."
+          },
+          {
+            "soru": "La Liga tarihinde deplasmanda en uzun süre üst üste kazanan FC Barcelona kaç maç kazanmıştır?",
+            "cevap": "13",
+            "açıklama": "FC Barcelona, 2010-11 sezonunda deplasmanda üst üste 13 maç kazanarak La Liga rekorunu elde etmiştir."
+          },
+          {
+            "soru": "La Liga tarihinde en uzun süre yenilmeyen FC Barcelona kaç maç yenilmemiştir?",
+            "cevap": "43",
+            "açıklama": "FC Barcelona, 2017-18 ve 2018-19 sezonları arasında 43 maç boyunca yenilmeyerek La Liga rekorunu kırmıştır."
+          },
+          {
+            "soru": "La Liga tarihinde evinde en uzun süre yenilmeyen Real Madrid kaç maç yenilmemiştir?",
+            "cevap": "121",
+            "açıklama": "Real Madrid, 1957 ve 1965 yılları arasında Santiago Bernabéu'da 121 maç boyunca yenilmeyerek La Liga rekorunu kırmıştır."
+          },
+          {
+            "soru": "La Liga tarihinde deplasmanda en uzun süre yenilmeyen FC Barcelona kaç maç yenilmemiştir?",
+            "cevap": "26",
+            "açıklama": "FC Barcelona, 2010-11 ve 2011-12 sezonları arasında deplasmanda 26 maç boyunca yenilmeyerek La Liga rekorunu kırmıştır."
+          },
+          {
+            "soru": "La Liga tarihinde en uzun süre kazanamayan Real Betis kaç maç kazanamamıştır?",
+            "cevap": "26",
+            "açıklama": "Real Betis, 1996-97 sezonunda 26 maç üst üste kazanamayarak La Liga'da en kötü seriye sahiptir."
+          },
+          {
+            "soru": "La Liga tarihinde en uzun süre üst üste kaybeden Sporting de Gijón kaç maç kaybetmiştir?",
+            "cevap": "15",
+            "açıklama": "Sporting de Gijón, 1997-98 sezonunda üst üste 15 maç kaybederek La Liga'da en uzun mağlubiyet serisini yaşamıştır."
+          }
         ]
       },
       "en": {
@@ -2008,6 +2321,218 @@
             "cevap": "20",
             "aciklama": "Sunderland lost 20 consecutive matches between the 2002-03 and 2005-06 seasons, holding the record for the longest losing streak in Premier League history."
           }
+        ],
+        "La Liga": [
+          {
+            "question": "With how many points difference did Real Madrid win the championship with the largest points gap in La Liga history?",
+            "answer": "13",
+            "explanation": "In the 2011-12 season, Real Madrid won the championship with 100 points, leaving the second-placed team, FC Barcelona, with 87 points, a 13-point gap, the largest in La Liga history."
+          },
+          {
+            "question": "For how many matchdays has Real Madrid, the team that has spent the most time at the top of the table, led the La Liga standings in its history?",
+            "answer": "628",
+            "explanation": "Real Madrid has led the standings for approximately 628 matchdays in La Liga history, from its founding in 1929 until 2025, according to historical records."
+          },
+          {
+            "question": "With how many points did CD Tenerife, the team with the most points when relegated, get relegated in La Liga history?",
+            "answer": "42",
+            "explanation": "In the 1992-93 season, CD Tenerife was relegated with 42 points in 38 matches, setting a record in La Liga for the team with the most points when relegated."
+          },
+          {
+            "question": "How many goals did Athletic Bilbao, the champion team that scored the fewest goals, score in La Liga history?",
+            "answer": "38",
+            "explanation": "In the 1942-43 season, Athletic Bilbao scored 38 goals in 26 matches, being the champion team with the fewest goals in La Liga history."
+          },
+          {
+            "question": "How many goals did FC Barcelona, the champion team that conceded the most goals, concede in La Liga history?",
+            "answer": "44",
+            "explanation": "In the 1993-94 season, FC Barcelona conceded 44 goals in 38 matches, being the champion that conceded the most goals in a season in La Liga."
+          },
+          {
+            "question": "How many matches did FC Barcelona, the champion team that lost the most matches, lose in La Liga history?",
+            "answer": "9",
+            "explanation": "In the 1993-94 season, FC Barcelona lost 9 matches but still won the championship, setting the record for the champion with the most losses in La Liga."
+          },
+          {
+            "question": "How many points did Real Madrid, the champion with the most points in the 3-point system, accumulate in La Liga history?",
+            "answer": "100",
+            "explanation": "In the 2011-12 season, Real Madrid accumulated 100 points, being the champion with the most points in the 3-point system in La Liga."
+          },
+          {
+            "question": "How many points did FC Barcelona, the champion with the fewest points in the 3-point system, accumulate in La Liga history?",
+            "answer": "71",
+            "explanation": "In the 1998-99 season, FC Barcelona accumulated 71 points, being the champion with the fewest points in the 3-point system in La Liga."
+          },
+          {
+            "question": "How many teams have never been relegated since the founding of La Liga?",
+            "answer": "3",
+            "explanation": "Real Madrid, FC Barcelona, and Athletic Bilbao are the only teams that have never been relegated since the founding of La Liga in 1929."
+          },
+          {
+            "question": "How many teams have participated in only one season in La Liga history?",
+            "answer": "5",
+            "explanation": "CD Condal (1956-57), Atlético Tetuán (1951-52), Cultural Leonesa (1955-56), AD Almería (1979-80), and CD Numancia (2004-05) have participated in only one season in La Liga."
+          },
+          {
+            "question": "How many times has Real Murcia, the team with the most relegations, been relegated in La Liga history?",
+            "answer": "8",
+            "explanation": "Real Murcia has been relegated 8 times, setting the record for the most relegations in La Liga history."
+          },
+          {
+            "question": "What is the highest number of goals scored in a single matchday in La Liga?",
+            "answer": "45",
+            "explanation": "In matchday 4 of the 2015-16 season, a total of 45 goals were scored in La Liga, making it the most goal-heavy matchday recorded."
+          },
+          {
+            "question": "How many goals did Lionel Messi, the foreign player who scored the most goals in a single season, score in La Liga history?",
+            "answer": "50",
+            "explanation": "Lionel Messi scored 50 goals in the 2011-12 season with FC Barcelona, being the foreign player with the most goals in a single season in La Liga."
+          },
+          {
+            "question": "How many goals did Lionel Messi, the all-time top scorer, score in La Liga history?",
+            "answer": "474",
+            "explanation": "Lionel Messi scored 474 goals in his La Liga career with FC Barcelona, being the all-time top scorer of the league."
+          },
+          {
+            "question": "How many assists did Lionel Messi, the player with the most assists, provide in La Liga history?",
+            "answer": "192",
+            "explanation": "Lionel Messi provided 192 assists in his La Liga career, being the player with the most assists in the history of the league."
+          },
+          {
+            "question": "At what age did Bojan Krkić, the youngest goal scorer in La Liga history, score a goal?",
+            "answer": "17",
+            "explanation": "Bojan Krkić scored a goal at 17 years and 53 days with FC Barcelona in 2007, being the youngest goal scorer in La Liga history."
+          },
+          {
+            "question": "How many matches did Andoni Zubizarreta, the player with the most matches, play in La Liga history?",
+            "answer": "622",
+            "explanation": "Andoni Zubizarreta played 622 matches in La Liga with Athletic Bilbao, FC Barcelona, and Valencia, being the player with the most matches in the history of the league."
+          },
+          {
+            "question": "How many goals did Telmo Zarra, the local player who scored the most goals in a single match, score in La Liga history?",
+            "answer": "7",
+            "explanation": "Telmo Zarra scored 7 goals in a match with Athletic Bilbao against Lleida in the 1950-51 season, being the local player with the most goals in a single match in La Liga."
+          },
+          {
+            "question": "How many goals did Lionel Messi, the foreign player who scored the most goals in a single match, score in La Liga history?",
+            "answer": "5",
+            "explanation": "Lionel Messi scored 5 goals in a match with FC Barcelona against Bayer Leverkusen in the 2011-12 Champions League, but in La Liga, he shares the record of 5 goals in a single match with other foreign players."
+          },
+          {
+            "question": "How many victories did Real Madrid, the team with the most victories in a single season, achieve in La Liga history?",
+            "answer": "32",
+            "explanation": "Real Madrid achieved 32 victories in the 2011-12 season, being the team with the most victories in a single season in La Liga."
+          },
+          {
+            "question": "How many draws did Deportivo La Coruña, the team with the most draws in a single season, achieve in La Liga history?",
+            "answer": "20",
+            "explanation": "Deportivo La Coruña achieved 20 draws in the 2001-02 season, being the team with the most draws in a single season in La Liga."
+          },
+          {
+            "question": "How many goals did Real Madrid, the team that scored the most goals in a single season, score in La Liga history?",
+            "answer": "121",
+            "explanation": "Real Madrid scored 121 goals in the 2011-12 season, being the team with the most goals in a single season in La Liga."
+          },
+          {
+            "question": "How many goals did Deportivo La Coruña, the team that conceded the fewest goals in a single season, concede in La Liga history?",
+            "answer": "18",
+            "explanation": "Deportivo La Coruña conceded only 18 goals in the 1993-94 season, being the team with the fewest goals conceded in a single season in La Liga."
+          },
+          {
+            "question": "What was the goal difference of Real Madrid, the team with the best goal difference in a single season, in La Liga history?",
+            "answer": "+89",
+            "explanation": "Real Madrid achieved a goal difference of +89 in the 2011-12 season, being the team with the best goal difference in a single season in La Liga."
+          },
+          {
+            "question": "How many penalties did Real Madrid, the team that took the most penalties in a single match, take in La Liga history?",
+            "answer": "4",
+            "explanation": "Real Madrid took 4 penalties in a match against Celta de Vigo in the 1958-59 season, being the team with the most penalties taken in a single match in La Liga."
+          },
+          {
+            "question": "In how many seconds was the fastest goal in La Liga history scored?",
+            "answer": "7",
+            "explanation": "Joseba Llorente scored a goal in 7.42 seconds with Real Valladolid against Espanyol in the 2007-08 season, being the fastest goal in La Liga history."
+          },
+          {
+            "question": "What is the largest goal difference in a victory in La Liga history?",
+            "answer": "12",
+            "explanation": "Athletic Bilbao's 12-1 victory over FC Barcelona in the 1930-31 season is the largest goal difference in La Liga history."
+          },
+          {
+            "question": "What is the largest goal difference in an away victory in La Liga history?",
+            "answer": "10",
+            "explanation": "Real Madrid's 11-1 victory over Elche in the 1959-60 season is the largest goal difference in an away victory in La Liga."
+          },
+          {
+            "question": "How many minutes did Iker Casillas, the goalkeeper with the longest clean sheet streak, go without conceding a goal in La Liga history?",
+            "answer": "824",
+            "explanation": "Iker Casillas kept a clean sheet for 824 minutes with Real Madrid in the 2014-15 season, being the goalkeeper with the longest clean sheet streak in La Liga."
+          },
+          {
+            "question": "How many times has FC Barcelona, the team with the most top scorers, had the top scorer in La Liga history?",
+            "answer": "27",
+            "explanation": "FC Barcelona has had the top scorer on 27 occasions, leading this aspect in La Liga history."
+          },
+          {
+            "question": "How many times was Lionel Messi, the player with the most top scorer titles, the top scorer in La Liga history?",
+            "answer": "8",
+            "explanation": "Lionel Messi was the top scorer on 8 occasions (2009-10, 2011-12, 2012-13, 2016-17, 2017-18, 2018-19, 2019-20, 2020-21), being the player with the most top scorer titles in La Liga."
+          },
+          {
+            "question": "How many championships have Francisco Gento and Amancio Amaro, the players with the most championships, won in La Liga history?",
+            "answer": "12",
+            "explanation": "Francisco Gento and Amancio Amaro won 12 championships with Real Madrid, being the players with the most titles in La Liga history."
+          },
+          {
+            "question": "How many championships has Miguel Muñoz, the coach with the most championships, won in La Liga history?",
+            "answer": "9",
+            "explanation": "Miguel Muñoz won 9 championships with Real Madrid, being the coach with the most titles in La Liga history."
+          },
+          {
+            "question": "How many consecutive matches did FC Barcelona, the team with the best season start, win in La Liga history?",
+            "answer": "10",
+            "explanation": "FC Barcelona won the first 10 matches of the 2015-16 season, achieving the best season start in La Liga history."
+          },
+          {
+            "question": "How many consecutive matches did FC Barcelona, the team with the longest winning streak, win in La Liga history?",
+            "answer": "18",
+            "explanation": "FC Barcelona won 18 consecutive matches in the 2015-16 season, setting the longest winning streak in La Liga."
+          },
+          {
+            "question": "How many consecutive matches did Real Madrid, the team with the longest home winning streak, win at home in La Liga history?",
+            "answer": "23",
+            "explanation": "Real Madrid won 23 consecutive matches at home at the Santiago Bernabéu between the 2011-12 and 2012-13 seasons, setting the La Liga record."
+          },
+          {
+            "question": "How many consecutive matches did FC Barcelona, the team with the longest away winning streak, win away in La Liga history?",
+            "answer": "13",
+            "explanation": "FC Barcelona won 13 consecutive matches away in the 2010-11 season, setting the La Liga record."
+          },
+          {
+            "question": "How many matches did FC Barcelona, the team with the longest unbeaten streak, remain unbeaten in La Liga history?",
+            "answer": "43",
+            "explanation": "FC Barcelona remained unbeaten for 43 matches between the 2017-18 and 2018-19 seasons, setting the La Liga record."
+          },
+          {
+            "question": "How many matches did Real Madrid, the team with the longest home unbeaten streak, remain unbeaten at home in La Liga history?",
+            "answer": "121",
+            "explanation": "Real Madrid remained unbeaten at home for 121 matches between 1957 and 1965 at the Santiago Bernabéu, setting the La Liga record."
+          },
+          {
+            "question": "How many matches did FC Barcelona, the team with the longest away unbeaten streak, remain unbeaten away in La Liga history?",
+            "answer": "26",
+            "explanation": "FC Barcelona remained unbeaten away for 26 matches between the 2010-11 and 2011-12 seasons, setting the La Liga record."
+          },
+          {
+            "question": "How many matches did Real Betis, the team with the longest winless streak, go without winning in La Liga history?",
+            "answer": "26",
+            "explanation": "Real Betis went 26 matches without winning in the 1996-97 season, having the worst winless streak in La Liga."
+          },
+          {
+            "question": "How many matches did Sporting de Gijón, the team with the longest losing streak, lose consecutively in La Liga history?",
+            "answer": "15",
+            "explanation": "Sporting de Gijón lost 15 consecutive matches in the 1997-98 season, having the longest losing streak in La Liga."
+          }
         ]
       },
       "fr": {
@@ -2735,6 +3260,1163 @@
             "soru": "Quelle est la plus longue série de défaites consécutives dans l'histoire de la Süper Lig pour MKE Ankaragücü, avec combien de défaites ?",
             "cevap": "15",
             "aciklama": "MKE Ankaragücü a perdu 15 matchs consécutifs lors de la saison 2011-12, établissant la plus longue série de défaites dans l'histoire de la Süper Lig."
+          }
+        ],
+        "La Liga": [
+          {
+            "question": "Avec combien de points d'écart le Real Madrid a-t-il remporté le championnat avec la plus grande différence de points dans l'histoire de La Liga ?",
+            "réponse": "13",
+            "explication": "Lors de la saison 2011-12, le Real Madrid a remporté le championnat avec 100 points, laissant le deuxième, le FC Barcelone, à 87 points, soit une différence de 13 points, la plus grande de l'histoire de La Liga."
+          },
+          {
+            "question": "Pendant combien de journées le Real Madrid, l'équipe qui a occupé le plus longtemps la première place, a-t-il été en tête du classement dans l'histoire de La Liga ?",
+            "réponse": "628",
+            "explication": "Le Real Madrid a été en tête du classement pendant environ 628 journées dans l'histoire de La Liga, depuis sa fondation en 1929 jusqu'en 2025, selon les archives historiques."
+          },
+          {
+            "question": "Avec combien de points le CD Tenerife, l'équipe ayant accumulé le plus de points en descendant, a-t-il été relégué dans l'histoire de La Liga ?",
+            "réponse": "42",
+            "explication": "Lors de la saison 1992-93, le CD Tenerife a été relégué avec 42 points en 38 matchs, établissant un record en La Liga pour l'équipe avec le plus de points en descendant."
+          },
+          {
+            "question": "Combien de buts a marqué l'Athletic Bilbao, l'équipe championne ayant marqué le moins de buts dans l'histoire de La Liga ?",
+            "réponse": "38",
+            "explication": "Lors de la saison 1942-43, l'Athletic Bilbao a marqué 38 buts en 26 matchs, étant l'équipe championne avec le moins de buts dans l'histoire de La Liga."
+          },
+          {
+            "question": "Combien de buts le FC Barcelone, l'équipe championne ayant encaissé le plus de buts, a-t-il concédé dans l'histoire de La Liga ?",
+            "réponse": "44",
+            "explication": "Lors de la saison 1993-94, le FC Barcelone a encaissé 44 buts en 38 matchs, étant le champion ayant concédé le plus de buts dans une saison en La Liga."
+          },
+          {
+            "question": "Combien de matchs le FC Barcelone, l'équipe championne ayant perdu le plus de matchs, a-t-il perdu dans l'histoire de La Liga ?",
+            "réponse": "9",
+            "explication": "Lors de la saison 1993-94, le FC Barcelone a perdu 9 matchs, mais s'est tout de même proclamé champion, établissant le record du champion avec le plus de défaites en La Liga."
+          },
+          {
+            "question": "Combien de points a accumulé le Real Madrid, le champion avec le plus de points dans le système à 3 points, dans l'histoire de La Liga ?",
+            "réponse": "100",
+            "explication": "Lors de la saison 2011-12, le Real Madrid a accumulé 100 points, étant le champion avec le plus de points dans le système à 3 points en La Liga."
+          },
+          {
+            "question": "Combien de points a accumulé le FC Barcelone, le champion avec le moins de points dans le système à 3 points, dans l'histoire de La Liga ?",
+            "réponse": "71",
+            "explication": "Lors de la saison 1998-99, le FC Barcelone a accumulé 71 points, étant le champion avec le moins de points dans le système à 3 points en La Liga."
+          },
+          {
+            "question": "Combien d'équipes n'ont jamais été reléguées depuis la fondation de La Liga ?",
+            "réponse": "3",
+            "explication": "Le Real Madrid, le FC Barcelone et l'Athletic Bilbao sont les seules équipes à n'avoir jamais été reléguées depuis la fondation de La Liga en 1929."
+          },
+          {
+            "question": "Combien d'équipes n'ont participé qu'à une seule saison dans l'histoire de La Liga ?",
+            "réponse": "5",
+            "explication": "Le CD Condal (1956-57), l'Atlético Tetuán (1951-52), la Cultural Leonesa (1955-56), l'AD Almería (1979-80) et le CD Numancia (2004-05) n'ont participé qu'à une seule saison en La Liga."
+          },
+          {
+            "question": "Combien de fois le Real Murcia, l'équipe ayant le plus de relégations, a-t-il été relégué dans l'histoire de La Liga ?",
+            "réponse": "8",
+            "explication": "Le Real Murcia a été relégué 8 fois, établissant le record de relégations dans l'histoire de La Liga."
+          },
+          {
+            "question": "Quel est le plus grand nombre de buts marqués lors d'une journée en La Liga ?",
+            "réponse": "45",
+            "explication": "Lors de la 4e journée de la saison 2015-16, un total de 45 buts a été marqué en La Liga, ce qui en fait la journée la plus prolifique en buts."
+          },
+          {
+            "question": "Combien de buts a marqué Lionel Messi, le joueur étranger ayant marqué le plus de buts en une saison dans l'histoire de La Liga ?",
+            "réponse": "50",
+            "explication": "Lionel Messi a marqué 50 buts lors de la saison 2011-12 avec le FC Barcelone, étant le joueur étranger ayant marqué le plus de buts en une saison en La Liga."
+          },
+          {
+            "question": "Combien de buts a marqué Lionel Messi, le meilleur buteur de l'histoire de La Liga ?",
+            "réponse": "474",
+            "explication": "Lionel Messi a marqué 474 buts dans sa carrière en La Liga avec le FC Barcelone, étant le meilleur buteur de la ligue."
+          },
+          {
+            "question": "Combien de passes décisives a réalisées Lionel Messi, le joueur avec le plus de passes décisives dans l'histoire de La Liga ?",
+            "réponse": "192",
+            "explication": "Lionel Messi a réalisé 192 passes décisives dans sa carrière en La Liga, étant le joueur avec le plus de passes décisives dans l'histoire de la ligue."
+          },
+          {
+            "question": "À quel âge Bojan Krkić, le plus jeune buteur de l'histoire de La Liga, a-t-il marqué ?",
+            "réponse": "17",
+            "explication": "Bojan Krkić a marqué un but à 17 ans et 53 jours avec le FC Barcelone en 2007, étant le plus jeune buteur de l'histoire de La Liga."
+          },
+          {
+            "question": "Combien de matchs a joué Andoni Zubizarreta, le joueur ayant disputé le plus de matchs dans l'histoire de La Liga ?",
+            "réponse": "622",
+            "explication": "Andoni Zubizarreta a joué 622 matchs en La Liga avec l'Athletic Bilbao, le FC Barcelone et Valence, étant le joueur avec le plus de matchs dans l'histoire de la ligue."
+          },
+          {
+            "question": "Combien de buts a marqué Telmo Zarra, le joueur local ayant marqué le plus de buts dans un seul match dans l'histoire de La Liga ?",
+            "réponse": "7",
+            "explication": "Telmo Zarra a marqué 7 buts dans un match avec l'Athletic Bilbao contre Lleida lors de la saison 1950-51, étant le joueur local ayant marqué le plus de buts dans un seul match en La Liga."
+          },
+          {
+            "question": "Combien de buts a marqué Lionel Messi, le joueur étranger ayant marqué le plus de buts dans un seul match dans l'histoire de La Liga ?",
+            "réponse": "5",
+            "explication": "Lionel Messi a marqué 5 buts dans un match avec le FC Barcelone contre le Bayer Leverkusen en Ligue des Champions 2011-12, mais en La Liga, il partage le record de 5 buts dans un match avec d'autres joueurs étrangers."
+          },
+          {
+            "question": "Combien de victoires a obtenu le Real Madrid, l'équipe avec le plus de victoires en une saison dans l'histoire de La Liga ?",
+            "réponse": "32",
+            "explication": "Le Real Madrid a obtenu 32 victoires lors de la saison 2011-12, étant l'équipe avec le plus de victoires en une saison en La Liga."
+          },
+          {
+            "question": "Combien de matchs nuls a obtenu le Deportivo La Coruña, l'équipe avec le plus de matchs nuls en une saison dans l'histoire de La Liga ?",
+            "réponse": "20",
+            "explication": "Le Deportivo La Coruña a obtenu 20 matchs nuls lors de la saison 2001-02, étant l'équipe avec le plus de matchs nuls en une saison en La Liga."
+          },
+          {
+            "question": "Combien de buts a marqué le Real Madrid, l'équipe ayant marqué le plus de buts en une saison dans l'histoire de La Liga ?",
+            "réponse": "121",
+            "explication": "Le Real Madrid a marqué 121 buts lors de la saison 2011-12, étant l'équipe ayant marqué le plus de buts en une saison en La Liga."
+          },
+          {
+            "question": "Combien de buts a encaissé le Deportivo La Coruña, l'équipe ayant encaissé le moins de buts en une saison dans l'histoire de La Liga ?",
+            "réponse": "18",
+            "explication": "Le Deportivo La Coruña n'a encaissé que 18 buts lors de la saison 1993-94, étant l'équipe ayant encaissé le moins de buts en une saison en La Liga."
+          },
+          {
+            "question": "Quelle a été la différence de buts du Real Madrid, l'équipe avec la meilleure différence de buts en une saison dans l'histoire de La Liga ?",
+            "réponse": "+89",
+            "explication": "Le Real Madrid a obtenu une différence de buts de +89 lors de la saison 2011-12, étant l'équipe avec la meilleure différence de buts en une saison en La Liga."
+          },
+          {
+            "question": "Combien de penalties a tiré le Real Madrid, l'équipe ayant tiré le plus de penalties dans un seul match dans l'histoire de La Liga ?",
+            "réponse": "4",
+            "explication": "Le Real Madrid a tiré 4 penalties dans un match contre le Celta de Vigo lors de la saison 1958-59, étant l'équipe ayant tiré le plus de penalties dans un seul match en La Liga."
+          },
+          {
+            "question": "En combien de secondes le but le plus rapide de l'histoire de La Liga a-t-il été marqué ?",
+            "réponse": "7",
+            "explication": "Joseba Llorente a marqué un but en 7,42 secondes avec le Real Valladolid contre l'Espanyol lors de la saison 2007-08, étant le but le plus rapide de l'histoire de La Liga."
+          },
+          {
+            "question": "Quelle est la plus grande différence de buts dans une victoire dans l'histoire de La Liga ?",
+            "réponse": "12",
+            "explication": "La victoire de l'Athletic Bilbao sur le FC Barcelone par 12-1 lors de la saison 1930-31 est la plus grande différence de buts dans l'histoire de La Liga."
+          },
+          {
+            "question": "Quelle est la plus grande différence de buts dans une victoire à l'extérieur dans l'histoire de La Liga ?",
+            "réponse": "10",
+            "explication": "La victoire du Real Madrid sur Elche par 11-1 lors de la saison 1959-60 est la plus grande différence de buts dans une victoire à l'extérieur en La Liga."
+          },
+          {
+            "question": "Combien de minutes Iker Casillas, le gardien avec la plus longue période sans encaisser de buts, est-il resté sans encaisser de buts dans l'histoire de La Liga ?",
+            "réponse": "824",
+            "explication": "Iker Casillas a gardé sa cage inviolée pendant 824 minutes avec le Real Madrid lors de la saison 2014-15, étant le gardien avec la plus longue période sans encaisser de buts en La Liga."
+          },
+          {
+            "question": "Combien de fois le FC Barcelone, l'équipe ayant eu le plus de meilleurs buteurs, a-t-il eu le meilleur buteur dans l'histoire de La Liga ?",
+            "réponse": "27",
+            "explication": "Le FC Barcelone a eu le meilleur buteur à 27 reprises, dominant cet aspect dans l'histoire de La Liga."
+          },
+          {
+            "question": "Combien de fois Lionel Messi, le joueur avec le plus de titres de meilleur buteur, a-t-il été meilleur buteur dans l'histoire de La Liga ?",
+            "réponse": "8",
+            "explication": "Lionel Messi a été meilleur buteur à 8 reprises (2009-10, 2011-12, 2012-13, 2016-17, 2017-18, 2018-19, 2019-20, 2020-21), étant le joueur avec le plus de titres de meilleur buteur en La Liga."
+          },
+          {
+            "question": "Combien de championnats ont remporté Francisco Gento et Amancio Amaro, les joueurs avec le plus de championnats dans l'histoire de La Liga ?",
+            "réponse": "12",
+            "explication": "Francisco Gento et Amancio Amaro ont remporté 12 championnats avec le Real Madrid, étant les joueurs avec le plus de titres dans l'histoire de La Liga."
+          },
+          {
+            "question": "Combien de championnats a remporté Miguel Muñoz, l'entraîneur avec le plus de championnats dans l'histoire de La Liga ?",
+            "réponse": "9",
+            "explication": "Miguel Muñoz a remporté 9 championnats avec le Real Madrid, étant l'entraîneur avec le plus de titres dans l'histoire de La Liga."
+          },
+          {
+            "question": "Combien de matchs consécutifs a remporté le FC Barcelone, l'équipe avec le meilleur début de saison dans l'histoire de La Liga ?",
+            "réponse": "10",
+            "explication": "Le FC Barcelone a remporté les 10 premiers matchs de la saison 2015-16, réalisant le meilleur début de saison dans l'histoire de La Liga."
+          },
+          {
+            "question": "Combien de matchs consécutifs a remporté le FC Barcelone, l'équipe avec la plus longue série de victoires consécutives dans l'histoire de La Liga ?",
+            "réponse": "18",
+            "explication": "Le FC Barcelone a remporté 18 matchs consécutifs lors de la saison 2015-16, établissant la plus longue série de victoires en La Liga."
+          },
+          {
+            "question": "Combien de matchs consécutifs a remporté le Real Madrid à domicile, l'équipe avec la plus longue série de victoires consécutives à domicile dans l'histoire de La Liga ?",
+            "réponse": "23",
+            "explication": "Le Real Madrid a remporté 23 matchs consécutifs à domicile au Santiago Bernabéu entre les saisons 2011-12 et 2012-13, établissant le record de La Liga."
+          },
+          {
+            "question": "Combien de matchs consécutifs a remporté le FC Barcelone à l'extérieur, l'équipe avec la plus longue série de victoires consécutives à l'extérieur dans l'histoire de La Liga ?",
+            "réponse": "13",
+            "explication": "Le FC Barcelone a remporté 13 matchs consécutifs à l'extérieur lors de la saison 2010-11, établissant le record de La Liga."
+          },
+          {
+            "question": "Combien de matchs le FC Barcelone, l'équipe avec la plus longue série sans défaite, est-il resté invaincu dans l'histoire de La Liga ?",
+            "réponse": "43",
+            "explication": "Le FC Barcelone est resté invaincu pendant 43 matchs entre les saisons 2017-18 et 2018-19, établissant le record de La Liga."
+          },
+          {
+            "question": "Combien de matchs le Real Madrid, l'équipe avec la plus longue série sans défaite à domicile, est-il resté invaincu à domicile dans l'histoire de La Liga ?",
+            "réponse": "121",
+            "explication": "Le Real Madrid est resté invaincu à domicile pendant 121 matchs entre 1957 et 1965 au Santiago Bernabéu, établissant le record de La Liga."
+          },
+          {
+            "question": "Combien de matchs le FC Barcelone, l'équipe avec la plus longue série sans défaite à l'extérieur, est-il resté invaincu à l'extérieur dans l'histoire de La Liga ?",
+            "réponse": "26",
+            "explication": "Le FC Barcelone est resté invaincu à l'extérieur pendant 26 matchs entre les saisons 2010-11 et 2011-12, établissant le record de La Liga."
+          },
+          {
+            "question": "Combien de matchs le Real Betis, l'équipe avec la plus longue série sans victoire, est-il resté sans gagner dans l'histoire de La Liga ?",
+            "réponse": "26",
+            "explication": "Le Real Betis n'a pas gagné pendant 26 matchs consécutifs lors de la saison 1996-97, ayant la pire série sans victoire en La Liga."
+          },
+          {
+            "question": "Combien de matchs le Sporting de Gijón, l'équipe avec la plus longue série de défaites consécutives, a-t-il perdu consécutivement dans l'histoire de La Liga ?",
+            "réponse": "15",
+            "explication": "Le Sporting de Gijón a perdu 15 matchs consécutifs lors de la saison 1997-98, ayant la plus longue série de défaites en La Liga."
+          }
+        ]
+      },
+      "es": {
+        "Süper Lig": [
+          {
+            "pregunta": "¿Con cuántos puntos de diferencia logró el Galatasaray el campeonato con la mayor brecha de puntos en la historia de la Süper Lig?",
+            "respuesta": "12",
+            "explicación": "En la temporada 1987-88, el Galatasaray se proclamó campeón con una ventaja de 12 puntos sobre el Beşiktaş, estableciendo la mayor brecha de puntos en la historia."
+          },
+          {
+            "pregunta": "¿Cuántas semanas ha liderado la tabla el Galatasaray, el equipo que más tiempo ha ocupado el primer lugar en la historia de la Süper Lig?",
+            "respuesta": "602",
+            "explicación": "El Galatasaray ha liderado la tabla durante 602 semanas en los 65 años de historia de la Süper Lig, siendo el equipo que más tiempo ha ocupado el primer lugar."
+          },
+          {
+            "pregunta": "¿Con cuántos puntos descendió el Malatyaspor, el equipo que más puntos acumuló al descender en la historia de la Süper Lig?",
+            "respuesta": "44",
+            "explicación": "En la temporada 1989-90, el Malatyaspor descendió con 44 puntos, estableciendo un récord en este aspecto."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó el Trabzonspor, el equipo que se proclamó campeón con la menor cantidad de goles en la historia de la Süper Lig?",
+            "respuesta": "25",
+            "explicación": "En la temporada 1979-80, el Trabzonspor marcó solo 25 goles, siendo el equipo campeón con la menor cantidad de goles en la historia de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos goles recibió el Beşiktaş, el equipo campeón que más goles encajó en la historia de la Süper Lig?",
+            "respuesta": "44",
+            "explicación": "En la temporada 2020-21, el Beşiktaş encajó 44 goles, siendo el campeón que más goles recibió en la historia de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos partidos perdió el Beşiktaş, el equipo campeón que más partidos perdió en la historia de la Süper Lig?",
+            "respuesta": "8",
+            "explicación": "En la temporada 2020-21, el Beşiktaş perdió 8 partidos, pero aun así se proclamó campeón, estableciendo el récord del campeón con más derrotas en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos puntos acumuló el Galatasaray, el campeón con más puntos en el sistema de 3 puntos en la historia de la Süper Lig?",
+            "respuesta": "102",
+            "explicación": "En la temporada 2023-24, el Galatasaray acumuló 102 puntos, siendo el campeón con más puntos en el sistema de 3 puntos en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos puntos acumuló el Galatasaray, el campeón con menos puntos en el sistema de 3 puntos en la historia de la Süper Lig?",
+            "respuesta": "66",
+            "explicación": "En la temporada 1992-93, el Galatasaray acumuló 66 puntos, siendo el campeón con menos puntos en el sistema de 3 puntos en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos equipos nunca han descendido desde la fundación de la Süper Lig?",
+            "respuesta": "3",
+            "explicación": "Beşiktaş, Fenerbahçe y Galatasaray son los únicos equipos que nunca han descendido desde la fundación de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos equipos han participado solo en una temporada en la historia de la Süper Lig?",
+            "respuesta": "7",
+            "explicación": "Siirtspor, Kahramanmaraşspor, MKE Kırıkkalespor, Petrol Ofisi, Bucaspor, Pendikspor y Ümraniyespor han participado solo en una temporada en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántas veces ha descendido el Samsunspor, el equipo que más veces ha descendido en la historia de la Süper Lig?",
+            "respuesta": "7",
+            "explicación": "El Samsunspor ha descendido 7 veces, estableciendo el récord de descensos en la historia de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de goles marcados en una semana en la Süper Lig?",
+            "respuesta": "44",
+            "explicación": "En la jornada 27 de la temporada 2021-22, se marcaron un total de 44 goles en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Mbaye Diagne, el jugador extranjero que más goles anotó en una temporada en la historia de la Süper Lig?",
+            "respuesta": "30",
+            "explicación": "Mbaye Diagne marcó 30 goles en la temporada 2018-19, siendo el jugador extranjero con más goles en una temporada en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Hakan Şükür, el máximo goleador en la historia de la Süper Lig?",
+            "respuesta": "249",
+            "explicación": "Hakan Şükür marcó 249 goles a lo largo de su carrera en la Süper Lig, siendo el máximo goleador de la liga."
+          },
+          {
+            "pregunta": "¿Cuántas asistencias realizó Edin Višća, el jugador con más asistencias en la historia de la Süper Lig?",
+            "respuesta": "115",
+            "explicación": "Edin Višća realizó 115 asistencias en su carrera en la Süper Lig, siendo el jugador con más asistencias en la historia de la liga."
+          },
+          {
+            "pregunta": "¿A qué edad marcó gol Mustafa Soykan, el jugador más joven en anotar en la historia de la Süper Lig?",
+            "respuesta": "16",
+            "explicación": "Mustafa Soykan marcó un gol a los 16 años, siendo el jugador más joven en anotar en la historia de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos partidos jugó Umut Bulut, el jugador local con más partidos en la historia de la Süper Lig?",
+            "respuesta": "515",
+            "explicación": "Umut Bulut jugó 515 partidos en su carrera en la Süper Lig, siendo el jugador local con más partidos en la historia de la liga."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Tanju Çolak, el jugador local que más goles anotó en un solo partido en la historia de la Süper Lig?",
+            "respuesta": "6",
+            "explicación": "Tanju Çolak marcó 6 goles en un partido en la temporada 1992-93, siendo el jugador local con más goles en un solo partido en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcaron los jugadores extranjeros que más goles anotaron en un solo partido en la historia de la Süper Lig?",
+            "respuesta": "5",
+            "explicación": "Jugadores extranjeros como Şota Arveladze, Mário Jardel, Alex de Souza y Mario Balotelli marcaron 5 goles en un solo partido en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántas victorias logró el Galatasaray, el equipo con más victorias en una temporada en la historia de la Süper Lig?",
+            "respuesta": "33",
+            "explicación": "El Galatasaray logró 33 victorias en la temporada 2023-24, siendo el equipo con más victorias en una temporada en la historia de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos empates logró el MKE Ankaragücü, el equipo con más empates en una temporada en la historia de la Süper Lig?",
+            "respuesta": "18",
+            "explicación": "El MKE Ankaragücü logró 18 empates en la temporada 1982-83, siendo el equipo con más empates en una temporada en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó el Galatasaray, el equipo que más goles anotó en una temporada en la historia de la Süper Lig?",
+            "respuesta": "105",
+            "explicación": "El Galatasaray marcó 105 goles en la temporada 1962-63, siendo el equipo con más goles en una temporada en la historia de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos goles recibió el Fenerbahçe, el equipo que menos goles encajó en una temporada en la historia de la Süper Lig?",
+            "respuesta": "6",
+            "explicación": "El Fenerbahçe encajó solo 6 goles en la temporada 1969-70, siendo el equipo con menos goles recibidos en una temporada en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuál fue el promedio goleador del Fenerbahçe, el equipo con el mejor promedio en una temporada en la historia de la Süper Lig?",
+            "respuesta": "+76",
+            "explicación": "El Fenerbahçe logró un promedio de +76 en la temporada 1988-89, siendo el equipo con el mejor promedio en una temporada en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos penales lanzó el Fenerbahçe, el equipo que más penales ejecutó en un solo partido en la historia de la Süper Lig?",
+            "respuesta": "4",
+            "explicación": "El Fenerbahçe lanzó 4 penales en un partido en la temporada 1986-87, siendo el equipo con más penales ejecutados en un solo partido en la Süper Lig."
+          },
+          {
+            "pregunta": "¿En cuántos segundos se marcó el gol más rápido en la historia de la Süper Lig?",
+            "respuesta": "10",
+            "explicación": "El gol de Muhammet Demir en la temporada 2021-22 es el gol más rápido de la historia de la Süper Lig, marcado en el segundo 10."
+          },
+          {
+            "pregunta": "¿Cuál es la mayor diferencia de goles en una victoria en la historia de la Süper Lig?",
+            "respuesta": "10",
+            "explicación": "La victoria del Beşiktaş sobre el Adana Demirspor por 10-0 (10 goles de diferencia) es la mayor diferencia en la historia de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuál es la mayor diferencia de goles en una victoria a domicilio en la historia de la Süper Lig?",
+            "respuesta": "8",
+            "explicación": "La victoria del Galatasaray sobre el MKE Ankaragücü por 8-0 (8 goles de diferencia) es la mayor diferencia en una victoria a domicilio en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos minutos estuvo sin recibir goles Şenol Güneş, el portero con la racha más larga sin encajar goles en la historia de la Süper Lig?",
+            "respuesta": "1112",
+            "explicación": "Şenol Güneş mantuvo su portería imbatida durante 1112 minutos en la temporada 1978-79, siendo el portero con la racha más larga sin recibir goles en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántas veces ha tenido el máximo goleador el Galatasaray, el equipo con más máximos goleadores en la historia de la Süper Lig?",
+            "respuesta": "18",
+            "explicación": "El Galatasaray ha tenido el máximo goleador en 18 ocasiones, liderando este aspecto en la historia de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántas veces fue máximo goleador Metin Oktay, el jugador con más títulos de máximo goleador en la historia de la Süper Lig?",
+            "respuesta": "6",
+            "explicación": "Metin Oktay fue máximo goleador en 6 ocasiones, siendo el jugador con más títulos de máximo goleador en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos campeonatos han ganado Bülent Korkmaz, Suat Kaya y Hakan Şükür, los jugadores con más campeonatos en la historia de la Süper Lig?",
+            "respuesta": "8",
+            "explicación": "Bülent Korkmaz, Suat Kaya y Hakan Şükür han ganado 8 campeonatos cada uno, liderando este aspecto en la historia de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos campeonatos ha ganado Fatih Terim, el entrenador con más campeonatos en la historia de la Süper Lig?",
+            "respuesta": "8",
+            "explicación": "Fatih Terim ha ganado 8 campeonatos, siendo el entrenador con más títulos en la historia de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el Fenerbahçe, el equipo con el mejor inicio de temporada en la historia de la Süper Lig?",
+            "respuesta": "10",
+            "explicación": "El Fenerbahçe ganó los primeros 10 partidos de la temporada 2023-24, logrando el mejor inicio de temporada en la historia de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el Galatasaray, el equipo con la racha más larga de victorias consecutivas en la historia de la Süper Lig?",
+            "respuesta": "17",
+            "explicación": "El Galatasaray ganó 17 partidos consecutivos entre las jornadas 20 y 36 de la temporada 2023-24, estableciendo la racha más larga de victorias en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el Galatasaray en casa, el equipo con la racha más larga de victorias consecutivas en casa en la historia de la Süper Lig?",
+            "respuesta": "25",
+            "explicación": "El Galatasaray ganó 25 partidos consecutivos en casa entre las temporadas 2001-02 y 2002-03, estableciendo el récord de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el Galatasaray a domicilio, el equipo con la racha más larga de victorias consecutivas a domicilio en la historia de la Süper Lig?",
+            "respuesta": "17",
+            "explicación": "El Galatasaray ganó 17 partidos consecutivos a domicilio entre las temporadas 2023-24 y 2024-25, estableciendo el récord de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántas jornadas estuvo invicto el Beşiktaş, el equipo con la racha más larga sin perder en la historia de la Süper Lig?",
+            "respuesta": "48",
+            "explicación": "El Beşiktaş completó la temporada 1991-92 sin perder, manteniéndose invicto durante 48 jornadas."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo invicto en casa el Trabzonspor, el equipo con la racha más larga sin perder en casa en la historia de la Süper Lig?",
+            "respuesta": "90",
+            "explicación": "El Trabzonspor estuvo invicto en casa durante 90 partidos entre las temporadas 1975-76 y 1981-82, estableciendo el récord de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo invicto a domicilio el Galatasaray, el equipo con la racha más larga sin perder a domicilio en la historia de la Süper Lig?",
+            "respuesta": "40",
+            "explicación": "El Galatasaray estuvo invicto a domicilio durante 40 partidos entre las temporadas 1997-98 y 1999-00, estableciendo el récord de la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo sin ganar el Adana Demirspor, el equipo con la racha más larga sin victorias en la historia de la Süper Lig?",
+            "respuesta": "29",
+            "explicación": "El Adana Demirspor no ganó en 29 partidos consecutivos en la temporada 1994-95, teniendo la peor racha sin victorias en la Süper Lig."
+          },
+          {
+            "pregunta": "¿Cuántos partidos perdió consecutivamente el MKE Ankaragücü, el equipo con la racha más larga de derrotas consecutivas en la historia de la Süper Lig?",
+            "respuesta": "15",
+            "explicación": "El MKE Ankaragücü perdió 15 partidos consecutivos en la temporada 2011-12, teniendo la racha más larga de derrotas en la Süper Lig."
+          }
+        ],
+        "Copa del Mundo": [
+          {
+            "pregunta": "¿Cuántos torneos de la Copa del Mundo de la FIFA han disputado los futbolistas que más participaciones tienen?",
+            "respuesta": "5",
+            "explicación": "Antonio Carbajal, Lothar Matthäus y Rafael Márquez comparten el récord con cinco participaciones en torneos de la Copa del Mundo de la FIFA."
+          },
+          {
+            "pregunta": "¿Cuántos campeonatos ha ganado el futbolista con más títulos en la Copa del Mundo de la FIFA?",
+            "respuesta": "3",
+            "explicación": "Pelé (Brasil) ha ganado tres veces la Copa del Mundo de la FIFA."
+          },
+          {
+            "pregunta": "¿Cuántos partidos jugó el futbolista con más partidos en las finales de la Copa del Mundo de la FIFA?",
+            "respuesta": "25",
+            "explicación": "Lothar Matthäus (Alemania) jugó un total de 25 partidos en las finales de la Copa del Mundo de la FIFA."
+          },
+          {
+            "pregunta": "¿Cuántos minutos jugó el futbolista con más tiempo en el campo en las finales de la Copa del Mundo de la FIFA?",
+            "respuesta": "2217",
+            "explicación": "Paolo Maldini (Italia) estuvo en el campo un total de 2217 minutos en las finales de la Copa del Mundo de la FIFA."
+          },
+          {
+            "pregunta": "¿Cuántos partidos jugó el futbolista con más partidos en las eliminatorias de la Copa del Mundo de la FIFA?",
+            "respuesta": "68",
+            "explicación": "Iván Hurtado (Ecuador) jugó un total de 68 partidos en las eliminatorias de la Copa del Mundo de la FIFA."
+          },
+          {
+            "pregunta": "¿Cuántos partidos ganó el futbolista con más victorias en las finales de la Copa del Mundo de la FIFA?",
+            "respuesta": "16",
+            "explicación": "Cafu (Brasil) ganó 16 partidos en las finales de la Copa del Mundo de la FIFA."
+          },
+          {
+            "pregunta": "¿Cuántas finales jugó el futbolista con más finales disputadas en la Copa del Mundo de la FIFA?",
+            "respuesta": "3",
+            "explicación": "Cafu (Brasil) jugó en tres finales diferentes de la Copa del Mundo de la FIFA."
+          },
+          {
+            "pregunta": "¿Cuántos partidos fue capitán el futbolista con más capitanías en las finales de la Copa del Mundo de la FIFA?",
+            "respuesta": "16",
+            "explicación": "Diego Maradona (Argentina) fue capitán en 16 partidos en las finales de la Copa del Mundo de la FIFA."
+          },
+          {
+            "pregunta": "¿Cuántas veces estuvo en el banquillo el futbolista con más apariciones como suplente en las finales de la Copa del Mundo de la FIFA?",
+            "respuesta": "11",
+            "explicación": "Denílson (Brasil) estuvo en el banquillo 11 veces en las finales de la Copa del Mundo de la FIFA."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del futbolista más joven que jugó en las finales de la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "17",
+            "explicación": "Norman Whiteside (Irlanda del Norte) tenía 17 años cuando jugó en la Copa del Mundo de 1982."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del futbolista más joven que jugó en una final de la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "17",
+            "explicación": "Pelé (Brasil) tenía 17 años cuando jugó en la final de la Copa del Mundo de 1958."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del futbolista más joven que jugó en las eliminatorias de la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "13",
+            "explicación": "Souleymane Mamam (Togo) tenía 13 años cuando jugó en las eliminatorias de la Copa del Mundo de 2002."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del futbolista más joven que fue capitán en las finales de la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "21",
+            "explicación": "Tony Meola (EE.UU.) tenía 21 años cuando fue capitán en la Copa del Mundo de 1990."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del futbolista más veterano que jugó en las finales de la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "45",
+            "explicación": "Faryd Mondragón (Colombia) tenía 45 años cuando jugó en la Copa del Mundo de 2014."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del futbolista más veterano que jugó en una final de la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "40",
+            "explicación": "Dino Zoff (Italia) tenía 40 años cuando jugó en la final de la Copa del Mundo de 1982."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del futbolista más veterano que jugó en las eliminatorias de la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "46",
+            "explicación": "MacDonald Taylor (Islas Vírgenes de EE.UU.) tenía 46 años cuando jugó en las eliminatorias de la Copa del Mundo de 2006."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del futbolista más veterano que fue capitán en las finales de la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "40",
+            "explicación": "Peter Shilton (Inglaterra) tenía 40 años cuando fue capitán en la Copa del Mundo de 1990."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del futbolista más veterano que debutó en las finales de la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "39",
+            "explicación": "David James (Inglaterra) tenía 39 años cuando debutó en la Copa del Mundo de 2010."
+          },
+          {
+            "pregunta": "¿Cuál es la mayor diferencia de edad entre jugadores del mismo equipo en una Copa del Mundo de la FIFA?",
+            "respuesta": "24",
+            "explicación": "En la Copa del Mundo de 1994, la mayor diferencia de edad en el equipo de Camerún fue de 24 años."
+          },
+          {
+            "pregunta": "¿Cuál es la mayor diferencia de edad entre jugadores de un equipo campeón en la Copa del Mundo de la FIFA?",
+            "respuesta": "21",
+            "explicación": "En la Copa del Mundo de 1982, el equipo campeón de Italia tuvo una diferencia de edad de 21 años."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor intervalo de tiempo entre participaciones de un futbolista en las finales de la Copa del Mundo de la FIFA?",
+            "respuesta": "16",
+            "explicación": "Faryd Mondragón (Colombia) tuvo un intervalo de 16 años entre sus participaciones en las finales de la Copa del Mundo."
+          },
+          {
+            "pregunta": "¿Cuál es la mayor duración total de participaciones de un futbolista en las finales de la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "20",
+            "explicación": "Faryd Mondragón (Colombia) participó en las finales de la Copa del Mundo durante un total de 20 años."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de goles marcados en todas las Copas del Mundo de la FIFA?",
+            "respuesta": "16",
+            "explicación": "Miroslav Klose (Alemania) marcó 16 goles en todas las Copas del Mundo."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de goles marcados en las eliminatorias de la Copa del Mundo de la FIFA?",
+            "respuesta": "35",
+            "explicación": "Ali Daei (Irán) marcó 35 goles en las eliminatorias de la Copa del Mundo."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de goles marcados en un solo torneo de la Copa del Mundo de la FIFA?",
+            "respuesta": "13",
+            "explicación": "Just Fontaine (Francia, 1958) marcó 13 goles en un solo torneo."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de goles marcados en un solo partido de la Copa del Mundo de la FIFA?",
+            "respuesta": "5",
+            "explicación": "Oleg Salenko (Rusia, 1994) marcó 5 goles en un solo partido."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de goles marcados en un partido perdido de la Copa del Mundo de la FIFA?",
+            "respuesta": "4",
+            "explicación": "Ernst Wilimowski (Polonia, 1938) marcó 4 goles en un partido perdido."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de goles marcados en un solo partido de las eliminatorias de la Copa del Mundo de la FIFA?",
+            "respuesta": "13",
+            "explicación": "Archie Thompson (Australia, 2002) marcó 13 goles en un solo partido de las eliminatorias."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de goles marcados en una final de la Copa del Mundo de la FIFA?",
+            "respuesta": "3",
+            "explicación": "Geoff Hurst (Inglaterra, 1966) marcó 3 goles en una final."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número total de goles marcados en finales de la Copa del Mundo de la FIFA por un jugador?",
+            "respuesta": "3",
+            "explicación": "Vavá, Pelé, Geoff Hurst y Zinedine Zidane marcaron un total de 3 goles en finales."
+          },
+          {
+            "pregunta": "¿En cuántos partidos marcó al menos un gol el jugador con más partidos goleadores en la Copa del Mundo de la FIFA?",
+            "respuesta": "11",
+            "explicación": "Ronaldo (Brasil) marcó al menos un gol en 11 partidos."
+          },
+          {
+            "pregunta": "¿En cuántos partidos consecutivos marcó al menos un gol el jugador con la racha más larga en la Copa del Mundo de la FIFA?",
+            "respuesta": "6",
+            "explicación": "Just Fontaine (Francia, 1958) y Jairzinho (Brasil, 1970) marcaron en 6 partidos consecutivos."
+          },
+          {
+            "pregunta": "¿En cuántos partidos marcó al menos dos goles el jugador con más partidos goleadores en la Copa del Mundo de la FIFA?",
+            "respuesta": "4",
+            "explicación": "Sándor Kocsis, Just Fontaine, Ronaldo y Miroslav Klose marcaron 2 o más goles en 4 partidos."
+          },
+          {
+            "pregunta": "¿En cuántos partidos consecutivos marcó al menos dos goles el jugador con la racha más larga en la Copa del Mundo de la FIFA?",
+            "respuesta": "4",
+            "explicación": "Sándor Kocsis (Hungría, 1954) marcó 2 o más goles en 4 partidos consecutivos."
+          },
+          {
+            "pregunta": "¿En cuántos minutos se realizó el hat-trick más rápido en la Copa del Mundo de la FIFA?",
+            "respuesta": "8",
+            "explicación": "László Kiss (Hungría, 1982) completó un hat-trick en 8 minutos."
+          },
+          {
+            "pregunta": "¿Cuántos jugadores han marcado en todos los partidos de un torneo de la Copa del Mundo de la FIFA?",
+            "respuesta": "3",
+            "explicación": "Alcides Ghiggia, Just Fontaine y Jairzinho."
+          },
+          {
+            "pregunta": "¿En cuántos torneos marcó al menos un gol el jugador con más torneos goleadores en la Copa del Mundo de la FIFA?",
+            "respuesta": "4",
+            "explicación": "Pelé y Uwe Seeler marcaron en 4 torneos."
+          },
+          {
+            "pregunta": "¿En cuántos torneos marcó al menos dos goles el jugador con más torneos goleadores en la Copa del Mundo de la FIFA?",
+            "respuesta": "4",
+            "explicación": "Uwe Seeler marcó 2 o más goles en 4 torneos."
+          },
+          {
+            "pregunta": "¿En cuántos torneos marcó al menos tres goles el jugador con más torneos goleadores en la Copa del Mundo de la FIFA?",
+            "respuesta": "3",
+            "explicación": "Jürgen Klinsmann, Ronaldo y Miroslav Klose marcaron 3 o más goles en 3 torneos."
+          },
+          {
+            "pregunta": "¿En cuántos torneos marcó al menos cuatro goles el jugador con más torneos goleadores en la Copa del Mundo de la FIFA?",
+            "respuesta": "3",
+            "explicación": "Miroslav Klose marcó 4 o más goles en 3 torneos."
+          },
+          {
+            "pregunta": "¿En cuántos torneos marcó al menos cinco goles el jugador con más torneos goleadores en la Copa del Mundo de la FIFA?",
+            "respuesta": "2",
+            "explicación": "Teófilo Cubillas y Miroslav Klose marcaron 5 o más goles en 2 torneos."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor intervalo de tiempo entre el primer y último gol de un jugador en la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "12",
+            "explicación": "Pelé, Uwe Seeler, Diego Maradona, Michael Laudrup, Henrik Larsson, Sami Al-Jaber y Cuauhtémoc Blanco tienen un intervalo de 12 años."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del jugador más joven que marcó en la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "17",
+            "explicación": "Pelé marcó a los 17 años en 1958."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del jugador más joven que hizo un hat-trick en la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "17",
+            "explicación": "Pelé hizo un hat-trick a los 17 años en 1958."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del jugador más joven que marcó en una final de la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "17",
+            "explicación": "Pelé marcó en la final de 1958 a los 17 años."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del jugador más veterano que marcó en la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "42",
+            "explicación": "Roger Milla marcó a los 42 años en 1994."
+          },
+          {
+            "pregunta": "¿Cuál es la edad del jugador más veterano que marcó en una final de la Copa del Mundo de la FIFA (en años)?",
+            "respuesta": "35",
+            "explicación": "Nils Liedholm marcó en la final de 1958 a los 35 años."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de penales marcados por un jugador en la Copa del Mundo de la FIFA (sin contar tandas de penales)?",
+            "respuesta": "4",
+            "explicación": "Eusébio, Rob Rensenbrink y Gabriel Batistuta marcaron 4 penales."
+          },
+          {
+            "pregunta": "¿En cuántos segundos se marcó el gol más rápido en un partido de la Copa del Mundo de la FIFA (redondeado)?",
+            "respuesta": "11",
+            "explicación": "Hakan Şükür marcó en 11 segundos en 2002."
+          },
+          {
+            "pregunta": "¿En cuántos segundos se marcó el gol más rápido por un suplente en la Copa del Mundo de la FIFA?",
+            "respuesta": "16",
+            "explicación": "Ebbe Sand marcó en 16 segundos en 1998."
+          },
+          {
+            "pregunta": "¿En cuántos segundos se marcó el gol más rápido en una final de la Copa del Mundo de la FIFA?",
+            "respuesta": "90",
+            "explicación": "Johan Neeskens marcó en 90 segundos en 1974."
+          },
+          {
+            "pregunta": "¿En cuántos segundos se marcó el gol más rápido en un partido de las eliminatorias de la Copa del Mundo de la FIFA?",
+            "respuesta": "8",
+            "explicación": "Davide Gualtieri marcó en 8 segundos en 1993."
+          },
+          {
+            "pregunta": "¿En qué minuto se marcó el primer gol más tardío en un partido de la Copa del Mundo de la FIFA?",
+            "respuesta": "119",
+            "explicación": "David Platt (1990) y Fabio Grosso (2006) marcaron en el minuto 119."
+          },
+          {
+            "pregunta": "¿Cuál es la mayor diferencia de goles en una victoria en las finales de la Copa del Mundo de la FIFA?",
+            "respuesta": "9",
+            "explicación": "La victoria de Hungría sobre Corea del Sur por 9-0 (1954) y de Yugoslavia sobre Zaire por 9-0 (1974) tienen la mayor diferencia de goles."
+          },
+          {
+            "pregunta": "¿Cuál es la mayor diferencia de goles en una victoria en las eliminatorias de la Copa del Mundo de la FIFA?",
+            "respuesta": "31",
+            "explicación": "La victoria de Australia sobre Samoa Americana por 31-0 (2001) tiene la mayor diferencia de goles."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de goles marcados por un equipo en un partido de la Copa del Mundo de la FIFA?",
+            "respuesta": "10",
+            "explicación": "Hungría marcó 10 goles contra El Salvador en 1982."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número total de goles marcados en un partido de la Copa del Mundo de la FIFA?",
+            "respuesta": "12",
+            "explicación": "El partido Austria (7) - Suiza (5) de 1954 tuvo un total de 12 goles."
+          },
+          {
+            "pregunta": "¿Cuál es el empate más goleador en la Copa del Mundo de la FIFA (total de goles)?",
+            "respuesta": "8",
+            "explicación": "Los partidos Inglaterra - Bélgica (1954) y URSS - Colombia (1962) terminaron con un total de 8 goles."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número total de goles marcados en la prórroga de un partido de la Copa del Mundo de la FIFA?",
+            "respuesta": "5",
+            "explicación": "El partido Italia (3) - Alemania Occidental (2) de 1970 tuvo un total de 5 goles en la prórroga."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de goles marcados por un equipo en una final de la Copa del Mundo de la FIFA?",
+            "respuesta": "5",
+            "explicación": "Brasil marcó 5 goles en la final de 1958."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número total de goles marcados en una final de la Copa del Mundo de la FIFA?",
+            "respuesta": "7",
+            "explicación": "La final de 1958 entre Brasil (5) y Suecia (2) tuvo un total de 7 goles."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de goles marcados por un equipo en un torneo de la Copa del Mundo de la FIFA?",
+            "respuesta": "27",
+            "explicación": "Hungría marcó un total de 27 goles en la Copa del Mundo de 1954."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de jugadores diferentes de un equipo que marcaron en un partido de la Copa del Mundo de la FIFA?",
+            "respuesta": "7",
+            "explicación": "En el partido de 1974, 7 jugadores diferentes de Yugoslavia marcaron contra Zaire."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de jugadores diferentes de un equipo que marcaron en un torneo de la Copa del Mundo de la FIFA?",
+            "respuesta": "10",
+            "explicación": "En 1982, Francia y en 2006, Italia tuvieron 10 jugadores diferentes que marcaron en un torneo."
+          }
+        ],
+        "Premier League": [
+          {
+            "pregunta": "¿Con cuántos puntos de diferencia logró el Manchester City el campeonato con la mayor brecha de puntos en la historia de la Premier League?",
+            "respuesta": "19",
+            "explicación": "En la temporada 2017-18, el Manchester City se proclamó campeón con 100 puntos, mientras que el segundo, Manchester United, obtuvo 81 puntos, dejando una brecha de 19 puntos, la mayor en la historia de la Premier League."
+          },
+          {
+            "pregunta": "¿Con cuántos puntos descendió el West Ham United, el equipo que más puntos acumuló al descender en la historia de la Premier League?",
+            "respuesta": "42",
+            "explicación": "En la temporada 2002-03, el West Ham United descendió con 42 puntos en 38 partidos, estableciendo un récord en este aspecto."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó el Manchester United, el equipo que se proclamó campeón con la menor cantidad de goles en la historia de la Premier League?",
+            "respuesta": "67",
+            "explicación": "En la temporada 1996-97, el Manchester United se proclamó campeón con 75 puntos, marcando solo 67 goles, el menor número de goles para un campeón en el sistema de 3 puntos."
+          },
+          {
+            "pregunta": "¿Cuántos goles recibió el Manchester United, el equipo campeón que más goles encajó en la historia de la Premier League?",
+            "respuesta": "45",
+            "explicación": "En la temporada 1999-2000, el Manchester United encajó 45 goles, siendo el campeón que más goles recibió en una temporada de 38 partidos en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos partidos perdió el Manchester United, el equipo campeón que más partidos perdió en la historia de la Premier League?",
+            "respuesta": "7",
+            "explicación": "En la temporada 1996-97, el Manchester United perdió 7 partidos, pero aun así se proclamó campeón con 75 puntos, estableciendo el récord del campeón con más derrotas en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos puntos acumuló el Manchester City, el campeón con más puntos en el sistema de 3 puntos en la historia de la Premier League?",
+            "respuesta": "100",
+            "explicación": "En la temporada 2017-18, el Manchester City acumuló 100 puntos, siendo el campeón con más puntos en el sistema de 3 puntos en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos puntos acumuló el Manchester United, el campeón con menos puntos en el sistema de 3 puntos en la historia de la Premier League?",
+            "respuesta": "75",
+            "explicación": "En la temporada 1996-97, el Manchester United acumuló 75 puntos, siendo el campeón con menos puntos en el sistema de 3 puntos en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos equipos nunca han descendido desde la fundación de la Premier League?",
+            "respuesta": "6",
+            "explicación": "Arsenal, Chelsea, Everton, Liverpool, Manchester United y Tottenham son los únicos equipos que nunca han descendido desde la fundación de la Premier League en 1992."
+          },
+          {
+            "pregunta": "¿Cuántos equipos han participado solo en una temporada en la historia de la Premier League?",
+            "respuesta": "8",
+            "explicación": "Swindon Town (1993-94), Barnsley (1997-98), Blackpool (2010-11), Cardiff City (2013-14), Huddersfield Town (2017-18), Brentford (2021-22), Luton Town (2023-24) y Burnley (2024-25) han participado solo en una temporada en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántas veces ha descendido el Norwich City, el equipo que más veces ha descendido en la historia de la Premier League?",
+            "respuesta": "6",
+            "explicación": "El Norwich City ha descendido 6 veces (1994-95, 2004-05, 2015-16, 2019-20, 2021-22, 2023-24), estableciendo el récord de descensos en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Erling Haaland, el jugador extranjero que más goles anotó en una temporada en la historia de la Premier League?",
+            "respuesta": "36",
+            "explicación": "Erling Haaland marcó 36 goles en la temporada 2022-23 con el Manchester City, siendo el jugador extranjero con más goles en una temporada en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Alan Shearer, el máximo goleador en la historia de la Premier League?",
+            "respuesta": "260",
+            "explicación": "Alan Shearer marcó 260 goles a lo largo de su carrera en la Premier League, siendo el máximo goleador de la liga."
+          },
+          {
+            "pregunta": "¿Cuántas asistencias realizó Ryan Giggs, el jugador con más asistencias en la historia de la Premier League?",
+            "respuesta": "162",
+            "explicación": "Ryan Giggs realizó 162 asistencias en su carrera en la Premier League, siendo el jugador con más asistencias en la historia de la liga."
+          },
+          {
+            "pregunta": "¿A qué edad marcó gol James Vaughan, el jugador más joven en anotar en la historia de la Premier League?",
+            "respuesta": "16",
+            "explicación": "James Vaughan marcó un gol con el Everton contra el Crystal Palace el 10 de abril de 2005 a los 16 años y 271 días, siendo el goleador más joven de la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos partidos jugó Gareth Barry, el jugador local con más partidos en la historia de la Premier League?",
+            "respuesta": "653",
+            "explicación": "Gareth Barry jugó 653 partidos en su carrera en la Premier League, siendo el jugador con más partidos en la historia de la liga."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Andy Cole, el jugador local que más goles anotó en un solo partido en la historia de la Premier League?",
+            "respuesta": "5",
+            "explicación": "Andy Cole marcó 5 goles en un partido con el Manchester United contra el Ipswich Town en 1995, siendo el jugador local con más goles en un solo partido en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcaron los jugadores extranjeros que más goles anotaron en un solo partido en la historia de la Premier League?",
+            "respuesta": "5",
+            "explicación": "Varios jugadores extranjeros, como Sergio Agüero, Dimitar Berbatov y Erling Haaland, marcaron 5 goles en un solo partido en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántas victorias logró el Manchester City, el equipo con más victorias en una temporada en la historia de la Premier League?",
+            "respuesta": "32",
+            "explicación": "El Manchester City logró 32 victorias en las temporadas 2017-18 y 2018-19, siendo el equipo con más victorias en una temporada en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos empates logró el Derby County, el equipo con más empates en una temporada en la historia de la Premier League?",
+            "respuesta": "14",
+            "explicación": "El Derby County logró 14 empates en la temporada 2007-08, siendo uno de los equipos con más empates en una temporada en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó el Manchester City, el equipo que más goles anotó en una temporada en la historia de la Premier League?",
+            "respuesta": "106",
+            "explicación": "El Manchester City marcó 106 goles en la temporada 2017-18, siendo el equipo con más goles en una temporada en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos goles recibió el Chelsea, el equipo que menos goles encajó en una temporada en la historia de la Premier League?",
+            "respuesta": "15",
+            "explicación": "El Chelsea encajó solo 15 goles en la temporada 2004-05, siendo el equipo con menos goles recibidos en una temporada en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuál fue el promedio goleador del Manchester City, el equipo con el mejor promedio en una temporada en la historia de la Premier League?",
+            "respuesta": "79",
+            "explicación": "El Manchester City logró un promedio de +79 en la temporada 2017-18, siendo el equipo con el mejor promedio en una temporada en la Premier League."
+          },
+          {
+            "pregunta": "¿En cuántos segundos se marcó el gol más rápido en la historia de la Premier League?",
+            "respuesta": "8",
+            "explicación": "Shane Long marcó un gol en 7.69 segundos con el Southampton contra el Watford el 23 de abril de 2019, siendo el gol más rápido en la historia de la Premier League."
+          },
+          {
+            "pregunta": "¿Cuál es la mayor diferencia de goles en una victoria en la historia de la Premier League?",
+            "respuesta": "9",
+            "explicación": "La victoria del Manchester United sobre el Ipswich Town por 9-0 (9 goles de diferencia) el 4 de marzo de 1995 es la mayor diferencia en la historia de la Premier League."
+          },
+          {
+            "pregunta": "¿Cuál es la mayor diferencia de goles en una victoria a domicilio en la historia de la Premier League?",
+            "respuesta": "7",
+            "explicación": "La victoria del Manchester United sobre el Nottingham Forest por 8-1 (7 goles de diferencia) el 6 de febrero de 1999 es la mayor diferencia en una victoria a domicilio en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos minutos estuvo sin recibir goles Edwin van der Sar, el portero con la racha más larga sin encajar goles en la historia de la Premier League?",
+            "respuesta": "1311",
+            "explicación": "Edwin van der Sar mantuvo su portería imbatida durante 1311 minutos en 14 partidos con el Manchester United en la temporada 2008-09, estableciendo el récord de la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántas veces ha tenido el máximo goleador el Manchester United, el equipo con más máximos goleadores en la historia de la Premier League?",
+            "respuesta": "10",
+            "explicación": "El Manchester United ha tenido el máximo goleador en 10 ocasiones, liderando este aspecto en la historia de la Premier League (por ejemplo, Cristiano Ronaldo, Ruud van Nistelrooy, Dwight Yorke)."
+          },
+          {
+            "pregunta": "¿Cuántas veces fue máximo goleador Alan Shearer, el jugador con más títulos de máximo goleador en la historia de la Premier League?",
+            "respuesta": "3",
+            "explicación": "Alan Shearer fue máximo goleador en las temporadas 1994-95, 1995-96 y 1996-97, siendo uno de los jugadores con más títulos de máximo goleador en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos campeonatos ha ganado Ryan Giggs, el jugador con más campeonatos en la historia de la Premier League?",
+            "respuesta": "13",
+            "explicación": "Ryan Giggs ganó 13 campeonatos con el Manchester United entre 1992-93 y 2012-13, siendo el jugador con más campeonatos en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos campeonatos ha ganado Sir Alex Ferguson, el entrenador con más campeonatos en la historia de la Premier League?",
+            "respuesta": "13",
+            "explicación": "Sir Alex Ferguson ganó 13 campeonatos con el Manchester United, siendo el entrenador con más títulos en la historia de la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el Chelsea, el equipo con el mejor inicio de temporada en la historia de la Premier League?",
+            "respuesta": "9",
+            "explicación": "El Chelsea ganó los primeros 9 partidos de la temporada 2005-06, logrando el mejor inicio de temporada en la historia de la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el Manchester City, el equipo con la racha más larga de victorias consecutivas en la historia de la Premier League?",
+            "respuesta": "18",
+            "explicación": "El Manchester City ganó 18 partidos consecutivos en la temporada 2018-19, igualando la racha más larga de victorias en la Premier League (también lograda por el Liverpool)."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el Liverpool en casa, el equipo con la racha más larga de victorias consecutivas en casa en la historia de la Premier League?",
+            "respuesta": "24",
+            "explicación": "El Liverpool ganó 24 partidos consecutivos en Anfield en la temporada 2019-20, estableciendo el récord de la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el Manchester City a domicilio, el equipo con la racha más larga de victorias consecutivas a domicilio en la historia de la Premier League?",
+            "respuesta": "12",
+            "explicación": "El Manchester City ganó 12 partidos consecutivos a domicilio en la temporada 2017-18, estableciendo el récord de la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo invicto el Arsenal, el equipo con la racha más larga sin perder en la historia de la Premier League?",
+            "respuesta": "49",
+            "explicación": "El Arsenal estuvo invicto durante 49 partidos en la temporada 2003-04, logrando el título de campeón sin perder y estableciendo el récord de la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo invicto en casa el Chelsea, el equipo con la racha más larga sin perder en casa en la historia de la Premier League?",
+            "respuesta": "86",
+            "explicación": "El Chelsea estuvo invicto en casa durante 86 partidos entre 2004 y 2008 en Stamford Bridge, estableciendo el récord de la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo invicto a domicilio el Manchester United, el equipo con la racha más larga sin perder a domicilio en la historia de la Premier League?",
+            "respuesta": "29",
+            "explicación": "El Manchester United estuvo invicto a domicilio durante 29 partidos entre las temporadas 2020-21, estableciendo el récord de la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo sin ganar el Derby County, el equipo con la racha más larga sin victorias en la historia de la Premier League?",
+            "respuesta": "32",
+            "explicación": "El Derby County no ganó en 32 partidos consecutivos en la temporada 2007-08, teniendo la peor racha sin victorias en la Premier League."
+          },
+          {
+            "pregunta": "¿Cuántos partidos perdió consecutivamente el Sunderland, el equipo con la racha más larga de derrotas consecutivas en la historia de la Premier League?",
+            "respuesta": "20",
+            "explicación": "El Sunderland perdió 20 partidos consecutivos entre las temporadas 2002-03 y 2005-06, teniendo la racha más larga de derrotas en la Premier League."
+          }
+        ],
+        "La Liga": [
+          {
+            "pregunta": "¿Con cuántos puntos de diferencia logró el Real Madrid el campeonato con la mayor brecha de puntos en la historia de La Liga?",
+            "respuesta": "13",
+            "explicación": "En la temporada 2011-12, el Real Madrid se proclamó campeón con 100 puntos, dejando al segundo, el FC Barcelona, con 87 puntos, una diferencia de 13 puntos, la mayor en la historia de La Liga."
+          },
+          {
+            "pregunta": "¿Cuántas jornadas ha liderado la tabla el Real Madrid, el equipo que más tiempo ha ocupado el primer lugar en la historia de La Liga?",
+            "respuesta": "628",
+            "explicación": "El Real Madrid ha liderado la tabla durante aproximadamente 628 jornadas en la historia de La Liga, desde su fundación en 1929 hasta 2025, según registros históricos."
+          },
+          {
+            "pregunta": "¿Con cuántos puntos descendió el CD Tenerife, el equipo que más puntos acumuló al descender en la historia de La Liga?",
+            "respuesta": "42",
+            "explicación": "En la temporada 1992-93, el CD Tenerife descendió con 42 puntos en 38 partidos, estableciendo un récord en La Liga para el equipo con más puntos al descender."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó el Athletic Bilbao, el equipo que se proclamó campeón con la menor cantidad de goles en la historia de La Liga?",
+            "respuesta": "38",
+            "explicación": "En la temporada 1942-43, el Athletic Bilbao marcó 38 goles en 26 partidos, siendo el equipo campeón con la menor cantidad de goles en la historia de La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos goles recibió el FC Barcelona, el equipo campeón que más goles encajó en la historia de La Liga?",
+            "respuesta": "44",
+            "explicación": "En la temporada 1993-94, el FC Barcelona encajó 44 goles en 38 partidos, siendo el campeón que más goles recibió en una temporada en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos partidos perdió el FC Barcelona, el equipo campeón que más partidos perdió en la historia de La Liga?",
+            "respuesta": "9",
+            "explicación": "En la temporada 1993-94, el FC Barcelona perdió 9 partidos, pero aun así se proclamó campeón, estableciendo el récord del campeón con más derrotas en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos puntos acumuló el Real Madrid, el campeón con más puntos en el sistema de 3 puntos en la historia de La Liga?",
+            "respuesta": "100",
+            "explicación": "En la temporada 2011-12, el Real Madrid acumuló 100 puntos, siendo el campeón con más puntos en el sistema de 3 puntos en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos puntos acumuló el FC Barcelona, el campeón con menos puntos en el sistema de 3 puntos en la historia de La Liga?",
+            "respuesta": "71",
+            "explicación": "En la temporada 1998-99, el FC Barcelona acumuló 71 puntos, siendo el campeón con menos puntos en el sistema de 3 puntos en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos equipos nunca han descendido desde la fundación de La Liga?",
+            "respuesta": "3",
+            "explicación": "Real Madrid, FC Barcelona y Athletic Bilbao son los únicos equipos que nunca han descendido desde la fundación de La Liga en 1929."
+          },
+          {
+            "pregunta": "¿Cuántos equipos han participado solo en una temporada en la historia de La Liga?",
+            "respuesta": "5",
+            "explicación": "CD Condal (1956-57), Atlético Tetuán (1951-52), Cultural Leonesa (1955-56), AD Almería (1979-80) y CD Numancia (2004-05) han participado solo en una temporada en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántas veces ha descendido el Real Murcia, el equipo que más veces ha descendido en la historia de La Liga?",
+            "respuesta": "8",
+            "explicación": "El Real Murcia ha descendido 8 veces, estableciendo el récord de descensos en la historia de La Liga."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de goles marcados en una jornada en La Liga?",
+            "respuesta": "45",
+            "explicación": "En la jornada 4 de la temporada 2015-16, se marcaron un total de 45 goles en La Liga, siendo la jornada más goleadora registrada."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Lionel Messi, el jugador extranjero que más goles anotó en una temporada en la historia de La Liga?",
+            "respuesta": "50",
+            "explicación": "Lionel Messi marcó 50 goles en la temporada 2011-12 con el FC Barcelona, siendo el jugador extranjero con más goles en una temporada en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Lionel Messi, el máximo goleador en la historia de La Liga?",
+            "respuesta": "474",
+            "explicación": "Lionel Messi marcó 474 goles en su carrera en La Liga con el FC Barcelona, siendo el máximo goleador de la liga."
+          },
+          {
+            "pregunta": "¿Cuántas asistencias realizó Lionel Messi, el jugador con más asistencias en la historia de La Liga?",
+            "respuesta": "192",
+            "explicación": "Lionel Messi realizó 192 asistencias en su carrera en La Liga, siendo el jugador con más asistencias en la historia de la liga."
+          },
+          {
+            "pregunta": "¿A qué edad marcó gol Bojan Krkić, el jugador más joven en anotar en la historia de La Liga?",
+            "respuesta": "17",
+            "explicación": "Bojan Krkić marcó un gol a los 17 años y 53 días con el FC Barcelona en 2007, siendo el goleador más joven en la historia de La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos partidos jugó Andoni Zubizarreta, el jugador con más partidos en la historia de La Liga?",
+            "respuesta": "622",
+            "explicación": "Andoni Zubizarreta jugó 622 partidos en La Liga con el Athletic Bilbao, FC Barcelona y Valencia, siendo el jugador con más partidos en la historia de la liga."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Telmo Zarra, el jugador local que más goles anotó en un solo partido en la historia de La Liga?",
+            "respuesta": "7",
+            "explicación": "Telmo Zarra marcó 7 goles en un partido con el Athletic Bilbao contra el Lleida en la temporada 1950-51, siendo el jugador local con más goles en un solo partido en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Lionel Messi, el jugador extranjero que más goles anotó en un solo partido en la historia de La Liga?",
+            "respuesta": "5",
+            "explicación": "Lionel Messi marcó 5 goles en un partido con el FC Barcelona contra el Bayer Leverkusen en la Liga de Campeones 2011-12, pero en La Liga, comparte el récord de 5 goles en un partido con otros jugadores extranjeros."
+          },
+          {
+            "pregunta": "¿Cuántas victorias logró el Real Madrid, el equipo con más victorias en una temporada en la historia de La Liga?",
+            "respuesta": "32",
+            "explicación": "El Real Madrid logró 32 victorias en la temporada 2011-12, siendo el equipo con más victorias en una temporada en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos empates logró el Deportivo La Coruña, el equipo con más empates en una temporada en la historia de La Liga?",
+            "respuesta": "20",
+            "explicación": "El Deportivo La Coruña logró 20 empates en la temporada 2001-02, siendo el equipo con más empates en una temporada en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó el Real Madrid, el equipo que más goles anotó en una temporada en la historia de La Liga?",
+            "respuesta": "121",
+            "explicación": "El Real Madrid marcó 121 goles en la temporada 2011-12, siendo el equipo con más goles en una temporada en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos goles recibió el Deportivo La Coruña, el equipo que menos goles encajó en una temporada en la historia de La Liga?",
+            "respuesta": "18",
+            "explicación": "El Deportivo La Coruña encajó solo 18 goles en la temporada 1993-94, siendo el equipo con menos goles recibidos en una temporada en La Liga."
+          },
+          {
+            "pregunta": "¿Cuál fue el promedio goleador del Real Madrid, el equipo con el mejor promedio en una temporada en la historia de La Liga?",
+            "respuesta": "+89",
+            "explicación": "El Real Madrid logró un promedio de +89 en la temporada 2011-12, siendo el equipo con el mejor promedio en una temporada en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos penales lanzó el Real Madrid, el equipo que más penales ejecutó en un solo partido en la historia de La Liga?",
+            "respuesta": "4",
+            "explicación": "El Real Madrid lanzó 4 penales en un partido contra el Celta de Vigo en la temporada 1958-59, siendo el equipo con más penales ejecutados en un solo partido en La Liga."
+          },
+          {
+            "pregunta": "¿En cuántos segundos se marcó el gol más rápido en la historia de La Liga?",
+            "respuesta": "7",
+            "explicación": "Joseba Llorente marcó un gol en 7.42 segundos con el Real Valladolid contra el Espanyol en la temporada 2007-08, siendo el gol más rápido en la historia de La Liga."
+          },
+          {
+            "pregunta": "¿Cuál es la mayor diferencia de goles en una victoria en la historia de La Liga?",
+            "respuesta": "12",
+            "explicación": "La victoria del Athletic Bilbao sobre el FC Barcelona por 12-1 en la temporada 1930-31 es la mayor diferencia en la historia de La Liga."
+          },
+          {
+            "pregunta": "¿Cuál es la mayor diferencia de goles en una victoria a domicilio en la historia de La Liga?",
+            "respuesta": "10",
+            "explicación": "La victoria del Real Madrid sobre el Elche por 11-1 en la temporada 1959-60 es la mayor diferencia en una victoria a domicilio en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos minutos estuvo sin recibir goles Iker Casillas, el portero con la racha más larga sin encajar goles en la historia de La Liga?",
+            "respuesta": "824",
+            "explicación": "Iker Casillas mantuvo su portería imbatida durante 824 minutos con el Real Madrid en la temporada 2014-15, siendo el portero con la racha más larga sin recibir goles en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántas veces ha tenido el máximo goleador el FC Barcelona, el equipo con más máximos goleadores en la historia de La Liga?",
+            "respuesta": "27",
+            "explicación": "El FC Barcelona ha tenido el máximo goleador en 27 ocasiones, liderando este aspecto en la historia de La Liga."
+          },
+          {
+            "pregunta": "¿Cuántas veces fue máximo goleador Lionel Messi, el jugador con más títulos de máximo goleador en la historia de La Liga?",
+            "respuesta": "8",
+            "explicación": "Lionel Messi fue máximo goleador en 8 ocasiones (2009-10, 2011-12, 2012-13, 2016-17, 2017-18, 2018-19, 2019-20, 2020-21), siendo el jugador con más títulos de máximo goleador en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos campeonatos han ganado Francisco Gento y Amancio Amaro, los jugadores con más campeonatos en la historia de La Liga?",
+            "respuesta": "12",
+            "explicación": "Francisco Gento y Amancio Amaro ganaron 12 campeonatos con el Real Madrid, siendo los jugadores con más títulos en la historia de La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos campeonatos ha ganado Miguel Muñoz, el entrenador con más campeonatos en la historia de La Liga?",
+            "respuesta": "9",
+            "explicación": "Miguel Muñoz ganó 9 campeonatos con el Real Madrid, siendo el entrenador con más títulos en la historia de La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el FC Barcelona, el equipo con el mejor inicio de temporada en la historia de La Liga?",
+            "respuesta": "10",
+            "explicación": "El FC Barcelona ganó los primeros 10 partidos de la temporada 2015-16, logrando el mejor inicio de temporada en la historia de La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el FC Barcelona, el equipo con la racha más larga de victorias consecutivas en la historia de La Liga?",
+            "respuesta": "18",
+            "explicación": "El FC Barcelona ganó 18 partidos consecutivos en la temporada 2015-16, estableciendo la racha más larga de victorias en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el Real Madrid en casa, el equipo con la racha más larga de victorias consecutivas en casa en la historia de La Liga?",
+            "respuesta": "23",
+            "explicación": "El Real Madrid ganó 23 partidos consecutivos en casa en el Santiago Bernabéu entre las temporadas 2011-12 y 2012-13, estableciendo el récord de La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el FC Barcelona a domicilio, el equipo con la racha más larga de victorias consecutivas a domicilio en la historia de La Liga?",
+            "respuesta": "13",
+            "explicación": "El FC Barcelona ganó 13 partidos consecutivos a domicilio en la temporada 2010-11, estableciendo el récord de La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo invicto el FC Barcelona, el equipo con la racha más larga sin perder en la historia de La Liga?",
+            "respuesta": "43",
+            "explicación": "El FC Barcelona estuvo invicto durante 43 partidos entre las temporadas 2017-18 y 2018-19, estableciendo el récord de La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo invicto en casa el Real Madrid, el equipo con la racha más larga sin perder en casa en la historia de La Liga?",
+            "respuesta": "121",
+            "explicación": "El Real Madrid estuvo invicto en casa durante 121 partidos entre 1957 y 1965 en el Santiago Bernabéu, estableciendo el récord de La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo invicto a domicilio el FC Barcelona, el equipo con la racha más larga sin perder a domicilio en la historia de La Liga?",
+            "respuesta": "26",
+            "explicación": "El FC Barcelona estuvo invicto a domicilio durante 26 partidos entre las temporadas 2010-11 y 2011-12, estableciendo el récord de La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo sin ganar el Real Betis, el equipo con la racha más larga sin victorias en la historia de La Liga?",
+            "respuesta": "26",
+            "explicación": "El Real Betis no ganó en 26 partidos consecutivos en la temporada 1996-97, teniendo la peor racha sin victorias en La Liga."
+          },
+          {
+            "pregunta": "¿Cuántos partidos perdió consecutivamente el Sporting de Gijón, el equipo con la racha más larga de derrotas consecutivas en la historia de La Liga?",
+            "respuesta": "15",
+            "explicación": "El Sporting de Gijón perdió 15 partidos consecutivos en la temporada 1997-98, teniendo la racha más larga de derrotas en La Liga."
           }
         ]
       }
