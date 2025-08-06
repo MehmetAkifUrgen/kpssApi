@@ -83,6 +83,62 @@
           "image": "https://s.hs-data.com/bilder/spieler/gross/217345.jpg"
         }
       ]
+    },
+    "La Liga": {
+      "easy": [
+        {
+          "name": "Lamine Yamal",
+          "image":"https://imgs.search.brave.com/RzkiXyTldASCxIvDH_5wTGMlUet8WhNRdirulIzlgUk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbGJ1/bS5tZWRpYXNldC5l/cy9jaW1nLzIwMjUv/MDIvMTgvbGFtaW5l/LXlhbWFsX2RhMzku/anBnP3c9MTAyNA"
+        },
+        {
+          "name": "Kylian Mbappé",
+          "image":"https://imgs.search.brave.com/50mxcW1NR43vp64p2ouXL-LSLsDmLz9beaQWZVsC6gQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMjIw/NDE4NTUxMi9waG90/by9tYWRyaWQtc3Bh/aW4ta3lsaWFuLW1i/YXBwZS1wbGF5ZXIt/b2YtcmVhbC1tYWRy/aWQtY2VsZWJyYXRl/cy1hZnRlci1zY29y/aW5nLWEtZ29hbC1k/dXJpbmctdGhlLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1C/SFFNOHN6anhlMjZO/YzdWUUVDcmpRbG9J/QVFZTTY1S2JlT3lO/aHNlVDI0PQ"
+        },
+        {
+          "name": "Vinicius Junior",
+          "image":"https://imgs.search.brave.com/sYGV4XyaxqdgAVdLy5_Jz65NY8Dtwo1jExmBkJnDV7Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDEyMzUz/MDc2LnBuZw"
+        },
+        {
+          "name": "Robert Lewandowski",
+          "image":"https://imgs.search.brave.com/PYiDSe1rLWulEru0rwu3BzU1ckovMKRpDXilVuew_LE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzRjLzBj/LzhhLzRjMGM4YWI3/ZWIwMzZkOTU5NDMz/NTA5YjI2ODVhMmZl/LmpwZw"
+        },
+        {
+          "name": "Antoine Griezmann",
+          "image":"https://imgs.search.brave.com/Q8G7n6Jp3sI4Wyyt13CirkYLSVxfP642No6a7qFrQQA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTc5/MTQwOTMzNC9waG90/by9tYWRyaWQtc3Bh/aW4tYW50b2luZS1n/cmllem1hbm4tb2Yt/YXRsZXRpY28tbWFk/cmlkLWNlbGVicmF0/ZXMtYWZ0ZXItc2Nv/cmluZy10aGUtdGVh/bXMtdGhpcmQuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPUx4/NFJTUC1aYWh3cFdE/VWRDTnF6T0tBOFla/WFJfYVgza3lJQXZQ/ZXU2UFk9"
+        }
+      ],
+      "medium": [
+        {
+          "name": "Pedri",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pedri_2023_%28cropped%29.jpg/640px-Pedri_2023_%28cropped%29.jpg"
+        },
+        {
+          "name": "Álex Baena",
+          "image": "https://s.hs-data.com/bilder/spieler/gross/705017.jpg"
+        },
+        {
+          "name": "Óscar Mingueza",
+          "image": "https://s.hs-data.com/bilder/spieler/gross/636693.jpg"
+        },
+        {
+          "name": "Iago Aspas",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Iago_Aspas_2023_%28cropped%29.jpg/640px-Iago_Aspas_2023_%28cropped%29.jpg"
+        }
+      ],
+      "hard": [
+        {
+          "name": "Cristhian Stuani",
+          "image": "https://s.hs-data.com/bilder/spieler/gross/61403.jpg"
+        },
+        {
+          "name": "César Tárrega",
+          "image": "https://s.hs-data.com/bilder/spieler/gross/858614.jpg"
+        },
+        {
+          "name": "Enzo Barrenechea",
+          "image": "https://s.hs-data.com/bilder/spieler/gross/668054.jpg"
+        }
+      ]
     }
   },
   "teams": {
@@ -238,28 +294,28 @@
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png"
       },
       {
-        "name":"Freiburg",
-        "image":"https://imgs.search.brave.com/hCLMUodNBM6ZEzA-ayIs3nuCDMppMWK3QYHCNUwJZtU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/Ny83Yi9TQ19GcmVp/YnVyZy5wbmcvNTEy/cHgtU0NfRnJlaWJ1/cmcucG5n"
+        "name": "Freiburg",
+        "image": "https://imgs.search.brave.com/hCLMUodNBM6ZEzA-ayIs3nuCDMppMWK3QYHCNUwJZtU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/Ny83Yi9TQ19GcmVp/YnVyZy5wbmcvNTEy/cHgtU0NfRnJlaWJ1/cmcucG5n"
       },
       {
-        "name":"Köln",
-        "image":"https://imgs.search.brave.com/rkQ3zR2ZxFE8YdPnaZXldzLMmA_x4vgokOAMR1IhGeg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8wLzAxLzEu/X0ZDX0tvZWxuX0xv/Z29fMjAxNCVFMiU4/MCU5My5zdmcvMjUw/cHgtMS5fRkNfS29l/bG5fTG9nb18yMDE0/JUUyJTgwJTkzLnN2/Zy5wbmc"
+        "name": "Köln",
+        "image": "https://imgs.search.brave.com/rkQ3zR2ZxFE8YdPnaZXldzLMmA_x4vgokOAMR1IhGeg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8wLzAxLzEu/X0ZDX0tvZWxuX0xv/Z29fMjAxNCVFMiU4/MCU5My5zdmcvMjUw/cHgtMS5fRkNfS29l/bG5fTG9nb18yMDE0/JUUyJTgwJTkzLnN2/Zy5wbmc"
       },
       {
-        "name":"Mainz",
-        "image":"https://imgs.search.brave.com/P3is-yUKiyAVEoIDB6iPkUkl677zUN-1FZPwiUmjLYA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85LzllL0xv/Z29fTWFpbnpfMDUu/c3ZnLzI1MHB4LUxv/Z29fTWFpbnpfMDUu/c3ZnLnBuZw"
+        "name": "Mainz",
+        "image": "https://imgs.search.brave.com/P3is-yUKiyAVEoIDB6iPkUkl677zUN-1FZPwiUmjLYA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85LzllL0xv/Z29fTWFpbnpfMDUu/c3ZnLzI1MHB4LUxv/Z29fTWFpbnpfMDUu/c3ZnLnBuZw"
       },
       {
         "name": "Werder Bremen",
-        "image":"https://imgs.search.brave.com/XSQsToBFPtM50is8koXnbdKaJEZAfC466OnqDaPG0RI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2JlL1NW/LVdlcmRlci1CcmVt/ZW4tTG9nby5zdmcv/MjUwcHgtU1YtV2Vy/ZGVyLUJyZW1lbi1M/b2dvLnN2Zy5wbmc"
+        "image": "https://imgs.search.brave.com/XSQsToBFPtM50is8koXnbdKaJEZAfC466OnqDaPG0RI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2JlL1NW/LVdlcmRlci1CcmVt/ZW4tTG9nby5zdmcv/MjUwcHgtU1YtV2Vy/ZGVyLUJyZW1lbi1M/b2dvLnN2Zy5wbmc"
       },
       {
-        "name" : "Stutgart",
+        "name": "Stutgart",
         "image": "https://imgs.search.brave.com/XDFv1YMPeWv2pFfJoDnHtgGynRyxt6Xwzz21knVnx0o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9lL2ViL1Zm/Ql9TdHV0dGdhcnRf/MTg5M19Mb2dvLnN2/Zy8yNTBweC1WZkJf/U3R1dHRnYXJ0XzE4/OTNfTG9nby5zdmcu/cG5n"
       },
       {
-        "name":"Union Berlin",
-        "image":"https://imgs.search.brave.com/qhEUmO5fapMpORxXD9oQxpJYxibtkmrCfHpPHiz6vWk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi80LzQ0LzEu/X0ZDX1VuaW9uX0Jl/cmxpbl9Mb2dvLnN2/Zy81MTJweC0xLl9G/Q19Vbmlvbl9CZXJs/aW5fTG9nby5zdmcu/cG5n"
+        "name": "Union Berlin",
+        "image": "https://imgs.search.brave.com/qhEUmO5fapMpORxXD9oQxpJYxibtkmrCfHpPHiz6vWk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi80LzQ0LzEu/X0ZDX1VuaW9uX0Jl/cmxpbl9Mb2dvLnN2/Zy81MTJweC0xLl9G/Q19Vbmlvbl9CZXJs/aW5fTG9nby5zdmcu/cG5n"
       }
     ],
     "Serie A": [
@@ -288,28 +344,28 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/1/13/AS_Roma_Logo_2017.png/330px-AS_Roma_Logo_2017.png"
       },
       {
-        "name":"Cagliari",
-        "image":"https://imgs.search.brave.com/wBsIlazVF6oQACUpvPrPHMT8QenH_c13uUl9w_7oK1c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/MC8wMC9DYWdsaWFy/aWNhbGNpby5wbmcv/NTEycHgtQ2FnbGlh/cmljYWxjaW8ucG5n"
+        "name": "Cagliari",
+        "image": "https://imgs.search.brave.com/wBsIlazVF6oQACUpvPrPHMT8QenH_c13uUl9w_7oK1c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/MC8wMC9DYWdsaWFy/aWNhbGNpby5wbmcv/NTEycHgtQ2FnbGlh/cmljYWxjaW8ucG5n"
       },
       {
-        "name":"Bologna",
-        "image":"https://imgs.search.brave.com/0gnZSfaERqofqJbLSUiFfb-HtIv_sA4Qk0eN7N_IQ20/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzViL0Jv/bG9nbmFfRi5DLl8x/OTA5X2xvZ28uc3Zn/LzI1MHB4LUJvbG9n/bmFfRi5DLl8xOTA5/X2xvZ28uc3ZnLnBu/Zw"
+        "name": "Bologna",
+        "image": "https://imgs.search.brave.com/0gnZSfaERqofqJbLSUiFfb-HtIv_sA4Qk0eN7N_IQ20/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzViL0Jv/bG9nbmFfRi5DLl8x/OTA5X2xvZ28uc3Zn/LzI1MHB4LUJvbG9n/bmFfRi5DLl8xOTA5/X2xvZ28uc3ZnLnBu/Zw"
       },
       {
-        "name":"Lecce",
-        "image":"https://imgs.search.brave.com/1UviWjqe7mhUhhl0nD_lLKUctdmQ9BzvQlToCOf6rhY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92ZWN0/b3Jwb3J0YWwuY29t/L3N0b3JhZ2UvbGVj/Y2VfNDM1MC5qcGc"
+        "name": "Lecce",
+        "image": "https://imgs.search.brave.com/1UviWjqe7mhUhhl0nD_lLKUctdmQ9BzvQlToCOf6rhY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92ZWN0/b3Jwb3J0YWwuY29t/L3N0b3JhZ2UvbGVj/Y2VfNDM1MC5qcGc"
       },
       {
-        "name":"Pisa",
-        "image":"https://imgs.search.brave.com/86ZX841ZOHtKAAeBzciKYjl5ut8gXnFqk8NDwuBEInY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/ZC9kZi9QaXNhX0Nh/bGNpb19sb2dvLnBu/Zy81MTJweC1QaXNh/X0NhbGNpb19sb2dv/LnBuZw"
+        "name": "Pisa",
+        "image": "https://imgs.search.brave.com/86ZX841ZOHtKAAeBzciKYjl5ut8gXnFqk8NDwuBEInY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvdHIvdGh1bWIv/ZC9kZi9QaXNhX0Nh/bGNpb19sb2dvLnBu/Zy81MTJweC1QaXNh/X0NhbGNpb19sb2dv/LnBuZw"
       },
       {
-        "name":"Genoa",
-        "image":"https://upload.wikimedia.org/wikipedia/tr/thumb/f/fc/Genoa.png/330px-Genoa.png"
+        "name": "Genoa",
+        "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/f/fc/Genoa.png/330px-Genoa.png"
       },
       {
-        "name":"Parma",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/FC_Parma.svg/330px-FC_Parma.svg.png"
+        "name": "Parma",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/FC_Parma.svg/330px-FC_Parma.svg.png"
       }
     ],
     "Ligue 1": [
@@ -334,24 +390,24 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/a/a3/Lilleoscyeni.png"
       },
       {
-        "name":"Le Havre",
-        "image":"https://upload.wikimedia.org/wikipedia/tr/1/10/HAC_logo_2012.png"
+        "name": "Le Havre",
+        "image": "https://upload.wikimedia.org/wikipedia/tr/1/10/HAC_logo_2012.png"
       },
       {
-        "name":"RC Lens",
-        "image":"https://upload.wikimedia.org/wikipedia/tr/thumb/b/b4/Rclensyeni.png/330px-Rclensyeni.png"
+        "name": "RC Lens",
+        "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/b/b4/Rclensyeni.png/330px-Rclensyeni.png"
       },
       {
-        "name":"Metz",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FC_Metz_2021_Logo.svg/300px-FC_Metz_2021_Logo.svg.png"
+        "name": "Metz",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FC_Metz_2021_Logo.svg/300px-FC_Metz_2021_Logo.svg.png"
       },
       {
-        "name":"Lorient",
-        "image":"https://upload.wikimedia.org/wikipedia/tr/thumb/9/9a/Lorientfc.png/330px-Lorientfc.png"
+        "name": "Lorient",
+        "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/9/9a/Lorientfc.png/330px-Lorientfc.png"
       },
       {
-        "name":"Nice",
-        "image":"https://upload.wikimedia.org/wikipedia/tr/thumb/d/d5/Nicelogo.png/330px-Nicelogo.png"
+        "name": "Nice",
+        "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/d/d5/Nicelogo.png/330px-Nicelogo.png"
       }
     ],
     "Eredivisie": [
@@ -372,19 +428,19 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AZ_Alkmaar.svg/2560px-AZ_Alkmaar.svg.png"
       },
       {
-        "name":"Twente",
-        "image":"https://upload.wikimedia.org/wikipedia/tr/thumb/b/b8/FC-Twente-Enschede.png/330px-FC-Twente-Enschede.png"
+        "name": "Twente",
+        "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/b/b8/FC-Twente-Enschede.png/330px-FC-Twente-Enschede.png"
       },
       {
-        "name":"Fortuna Sittard",
-        "iamge":"https://upload.wikimedia.org/wikipedia/tr/thumb/c/cb/Fortuna_Sittard.png/300px-Fortuna_Sittard.png"
+        "name": "Fortuna Sittard",
+        "iamge": "https://upload.wikimedia.org/wikipedia/tr/thumb/c/cb/Fortuna_Sittard.png/300px-Fortuna_Sittard.png"
       },
       {
-        "name":"Zwolle",
-        "image":"https://upload.wikimedia.org/wikipedia/tr/f/f1/PEC_Zwolle_logo.jpg"
+        "name": "Zwolle",
+        "image": "https://upload.wikimedia.org/wikipedia/tr/f/f1/PEC_Zwolle_logo.jpg"
       },
       {
-        "name":"Go Ahead Eagles",
+        "name": "Go Ahead Eagles",
         "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/3c/Go_Ahead_Eagles.png/330px-Go_Ahead_Eagles.png"
       }
     ],
@@ -406,20 +462,20 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/6/61/Sporting_Lizbon_logo.png"
       },
       {
-        "name":"Tondela",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/C.D.Tondela.jpg/330px-C.D.Tondela.jpg"
+        "name": "Tondela",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/C.D.Tondela.jpg/330px-C.D.Tondela.jpg"
       },
       {
-        "name":"Vitoria Guimarães",
-        "image":"https://upload.wikimedia.org/wikipedia/tr/f/ff/Vitoriafcsetubal.jpg"
+        "name": "Vitoria Guimarães",
+        "image": "https://upload.wikimedia.org/wikipedia/tr/f/ff/Vitoriafcsetubal.jpg"
       },
       {
-        "name":"Casa Pia",
-        "image":"https://imgs.search.brave.com/IImzHAhXxiK9c5RttveAqY8fG2GwyUANM4oDjkvTzkk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/NC80ZC9DYXNhX1Bp/YV9BLkMuX2xvZ28u/cG5nLzUxMnB4LUNh/c2FfUGlhX0EuQy5f/bG9nby5wbmc"
+        "name": "Casa Pia",
+        "image": "https://imgs.search.brave.com/IImzHAhXxiK9c5RttveAqY8fG2GwyUANM4oDjkvTzkk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/NC80ZC9DYXNhX1Bp/YV9BLkMuX2xvZ28u/cG5nLzUxMnB4LUNh/c2FfUGlhX0EuQy5f/bG9nby5wbmc"
       },
       {
-        "name":"Alverca",
-        "image":"https://www.fcalverca.pt/wp-content/uploads/2021/12/cropped-cropped-alverca-1.png"
+        "name": "Alverca",
+        "image": "https://www.fcalverca.pt/wp-content/uploads/2021/12/cropped-cropped-alverca-1.png"
       }
     ]
   },
@@ -1593,6 +1649,218 @@
             "cevap": "15",
             "açıklama": "Sporting de Gijón, 1997-98 sezonunda üst üste 15 maç kaybederek La Liga'da en uzun mağlubiyet serisini yaşamıştır."
           }
+        ],
+        "Şampiyonlar Ligi": [
+          {
+            "soru": "Şampiyonlar Ligi'nde en büyük puan farkıyla grup aşamasını geçen Real Madrid, rakibine kaç puan fark atmıştır?",
+            "cevap": "12",
+            "açıklama": "Real Madrid, 2011-12 sezonunda grup aşamasında 6 maçta 18 puan toplayarak en yakın rakibine 12 puan fark atmış ve grup lideri olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en çok liderlik koltuğunda oturan Real Madrid kaç maç lider kalmıştır?",
+            "cevap": "204",
+            "açıklama": "Real Madrid, 1955-2024 yılları arasında Şampiyonlar Ligi'nde 204 maçta lider konumda bulunarak bu alanda zirvededir."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en yüksek puanla gruptan çıkamayan Bayern Münih kaç puan toplamıştır?",
+            "cevap": "10",
+            "açıklama": "Bayern Münih, 2002-03 sezonunda grup aşamasında 10 puan toplamasına rağmen gruptan çıkamamış, bu alanda dikkat çekici bir rekor kırmıştır."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en az gol atarak şampiyon olan Chelsea kaç gol atmıştır?",
+            "cevap": "19",
+            "açıklama": "Chelsea, 2011-12 sezonunda 13 maçta sadece 19 gol atarak Şampiyonlar Ligi tarihinde en az golle şampiyon olan takım olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en çok gol yiyerek şampiyon olan Bayern Münih kaç gol yemiştir?",
+            "cevap": "19",
+            "açıklama": "Bayern Münih, 2012-13 sezonunda kalesinde 19 gol görerek Şampiyonlar Ligi tarihinde en çok gol yiyen şampiyon olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en çok maç kaybederek şampion olan Liverpool kaç maç kaybetmiştir?",
+            "cevap": "4",
+            "açıklama": "Liverpool, 2004-05 sezonunda 4 mağlubiyet almasına rağmen şampiyon olarak Şampiyonlar Ligi tarihinde en çok maç kaybeden şampiyon olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde 3 puanlı sistemde en çok puan toplayan şampiyon Bayern Münih kaç puan toplamıştır?",
+            "cevap": "34",
+            "açıklama": "Bayern Münih, 2019-20 sezonunda 11 maçta 34 puan toplayarak 3 puanlı sistemde en yüksek puanla şampiyon olan takımdır."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde 3 puanlı sistemde en az puan toplayan şampiyon Liverpool kaç puan toplamıştır?",
+            "cevap": "20",
+            "açıklama": "Liverpool, 2004-05 sezonunda 13 maçta 20 puan toplayarak 3 puanlı sistemde en az puanla şampiyon olan takımdır."
+          },
+          {
+            "soru": "Şampiyonlar Ligi'nde kuruluşundan beri hiç katılmayan kaç UEFA üyesi vardır?",
+            "cevap": "22",
+            "açıklama": "Andorra, Liechtenstein ve diğer 20 UEFA üyesi, 1955’ten 2024’e kadar Şampiyonlar Ligi’ne hiç katılmamıştır."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde sadece bir sezon yer alan kaç takım vardır?",
+            "cevap": "12",
+            "açıklama": "Kocaelispor (1993-94), Grasshopper (1995-96), Debrecen (2009-10) ve diğer 9 takım, Şampiyonlar Ligi’nde sadece bir sezon mücadele etmiştir."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en çok yarı final oynayan Real Madrid kaç kez yarı final oynamıştır?",
+            "cevap": "33",
+            "açıklama": "Real Madrid, 1955-2024 yılları arasında 33 kez yarı final oynayarak Şampiyonlar Ligi tarihinde bu alanda rekor kırmıştır."
+          },
+          {
+            "soru": "Şampiyonlar Ligi’nde bir haftada atılan en yüksek gol sayısı kaçtır?",
+            "cevap": "51",
+            "açıklama": "2017-18 sezonunun grup aşamasında 3. haftada toplam 51 gol atılarak Şampiyonlar Ligi tarihinde en yüksek haftalık gol sayısı kaydedilmiştir."
+          },
+          {
+            "soru": "Şampiyonlar Ligi’nde bir sezonda en çok gol atan oyuncu Cristiano Ronaldo kaç gol atmıştır?",
+            "cevap": "17",
+            "açıklama": "Cristiano Ronaldo, 2013-14 sezonunda Real Madrid ile 17 gol atarak Şampiyonlar Ligi tarihinde bir sezonda en çok gol atan oyuncu olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en çok gol atan Cristiano Ronaldo kaç gol atmıştır?",
+            "cevap": "140",
+            "açıklama": "Cristiano Ronaldo, 2003-2024 yılları arasında Şampiyonlar Ligi’nde toplam 140 gol atarak turnuva tarihinin en golcü oyuncusu olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en çok asist yapan Lionel Messi kaç asist yapmıştır?",
+            "cevap": "42",
+            "açıklama": "Lionel Messi, Şampiyonlar Ligi kariyerinde 42 asist yaparak turnuva tarihinin en çok asist yapan oyuncusudur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde gol atan en genç oyuncu Ansu Fati kaç yaşındayken gol atmıştır?",
+            "cevap": "17",
+            "açıklama": "Ansu Fati, 2019-20 sezonunda Inter karşısında 17 yaş ve 40 günle gol atarak Şampiyonlar Ligi tarihinde gol atan en genç oyuncu olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en çok maça çıkan oyuncu Cristiano Ronaldo kaç maça çıkmıştır?",
+            "cevap": "183",
+            "açıklama": "Cristiano Ronaldo, 2003-2024 yılları arasında 183 maça çıkarak Şampiyonlar Ligi tarihinde en çok maça çıkan oyuncu olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi’nde bir maçta en çok gol atan yerli oyuncu Ferenc Puskás kaç gol atmıştır?",
+            "cevap": "4",
+            "açıklama": "Ferenc Puskás, 1960 Avrupa Kupası’nda Eintracht Frankfurt karşısında Real Madrid ile 4 gol atarak bir maçta en çok gol atan yerli oyuncu olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi’nde bir maçta en çok gol atan yabancı oyuncu Lionel Messi kaç gol atmıştır?",
+            "cevap": "5",
+            "açıklama": "Lionel Messi, 2011-12 sezonunda Bayer Leverkusen karşısında FC Barcelona ile 5 gol atarak Şampiyonlar Ligi’nde bir maçta en çok gol atan yabancı oyuncu olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde bir sezonda en çok galibiyet alan Bayern Münih kaç galibiyet almıştır?",
+            "cevap": "11",
+            "açıklama": "Bayern Münih, 2019-20 sezonunda 11 galibiyet alarak Şampiyonlar Ligi tarihinde bir sezonda en çok galibiyet alan takım olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde bir sezonda en çok berabere kalan Manchester United kaç beraberlik almıştır?",
+            "cevap": "7",
+            "açıklama": "Manchester United, 1998-99 sezonunda 7 beraberlik alarak Şampiyonlar Ligi tarihinde bir sezonda en çok berabere kalan takım olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde bir sezonda en çok gol atan Real Madrid kaç gol atmıştır?",
+            "cevap": "41",
+            "açıklama": "Real Madrid, 2013-14 sezonunda 41 gol atarak Şampiyonlar Ligi tarihinde bir sezonda en çok gol atan takım olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde bir sezonda en az gol yiyen Juventus kaç gol yemiştir?",
+            "cevap": "3",
+            "açıklama": "Juventus, 2004-05 sezonunda kalesinde sadece 3 gol görerek Şampiyonlar Ligi tarihinde bir sezonda en az gol yiyen takım olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde bir sezonda en yüksek averaja sahip Bayern Münih’in averajı kaçtır?",
+            "cevap": "+27",
+            "açıklama": "Bayern Münih, 2019-20 sezonunda +27 averajla Şampiyonlar Ligi tarihinde bir sezonda en yüksek averaja sahip takım olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde bir maçta en çok penaltı kullanan Bayern Münih kaç penaltı kullanmıştır?",
+            "cevap": "6",
+            "açıklama": "Bayern Münih, 2012 finalinde Chelsea karşısında 6 penaltı kullanarak Şampiyonlar Ligi tarihinde bir maçta en çok penaltı kullanan takım olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde atılan en erken gol kaçıncı saniyede kaydedilmiştir?",
+            "cevap": "10",
+            "açıklama": "Roy Makaay, 2006-07 sezonunda Real Madrid karşısında Bayern Münih ile 10.2 saniyede gol atarak Şampiyonlar Ligi tarihindeki en erken golü kaydetmiştir."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en farklı skorlu galibiyet kaç farklıdır?",
+            "cevap": "8",
+            "açıklama": "Bayern Münih’in 2019-20 sezonunda Barcelona’yı 8-2 yenmesi, Şampiyonlar Ligi tarihindeki en farklı galibiyettir."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en farklı skorlu deplasman galibiyeti kaç farklıdır?",
+            "cevap": "8",
+            "açıklama": "Bayern Münih’in 2019-20 sezonunda Barcelona’yı deplasmanda 8-2 yenmesi, Şampiyonlar Ligi tarihindeki en farklı deplasman galibiyetidir."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en uzun süre gol yemeyen Iker Casillas kaç dakika gol yememiştir?",
+            "cevap": "658",
+            "açıklama": "Iker Casillas, 2001-02 sezonunda Real Madrid ile 658 dakika boyunca kalesini gole kapatarak Şampiyonlar Ligi tarihinin en uzun süre gol yemeyen kalecisi olmuştur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en çok gol kralı çıkaran Real Madrid kaç kez gol kralı çıkarmıştır?",
+            "cevap": "13",
+            "açıklama": "Real Madrid, 1955-2024 yılları arasında 13 kez gol kralı çıkararak Şampiyonlar Ligi tarihinde bu alanda zirvededir."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en çok gol kralı olan Cristiano Ronaldo kaç kez gol kralı olmuştur?",
+            "cevap": "7",
+            "açıklama": "Cristiano Ronaldo, 2007-08, 2012-13, 2013-14, 2014-15, 2015-16, 2016-17 ve 2017-18 sezonlarında 7 kez gol kralı olarak Şampiyonlar Ligi tarihinde bu unvanı en çok kazanan oyuncudur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en çok şampiyonluk yaşayan Francisco Gento kaç şampiyonluk yaşamıştır?",
+            "cevap": "6",
+            "açıklama": "Francisco Gento, Real Madrid ile 1955-60 ve 1965-66 yıllarında 6 şampiyonluk yaşayarak Şampiyonlar Ligi tarihinde en çok şampiyonluk yaşayan oyuncudur."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en çok şampiyonluk yaşayan Carlo Ancelotti kaç şampiyonluk kazanmıştır?",
+            "cevap": "5",
+            "açıklama": "Carlo Ancelotti, Milan (2003, 2007) ve Real Madrid (2014, 2022, 2024) ile 5 şampiyonluk kazanarak Şampiyonlar Ligi tarihinde en çok şampiyonluk yaşayan teknik direktördür."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en iyi sezon başlangıcını yapan Bayern Münih kaç maç üst üste kazanmıştır?",
+            "cevap": "10",
+            "açıklama": "Bayern Münih, 2019-20 sezonunda ilk 10 maçı kazanarak Şampiyonlar Ligi tarihinin en iyi sezon başlangıcını yapmıştır."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en uzun süre üst üste kazanan Bayern Münih kaç maç kazanmıştır?",
+            "cevap": "11",
+            "açıklama": "Bayern Münih, 2019-20 sezonunda üst üste 11 maç kazanarak Şampiyonlar Ligi tarihinin en uzun galibiyet serisini yakalamıştır."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde kendi evinde en uzun süre üst üste kazanan Real Madrid kaç maç kazanmıştır?",
+            "cevap": "16",
+            "açıklama": "Real Madrid, 2013-14 ve 2014-15 sezonlarında Santiago Bernabéu’da üst üste 16 maç kazanarak Şampiyonlar Ligi rekorunu kırmıştır."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde deplasmanda en uzun süre üst üste kazanan Bayern Münih kaç maç kazanmıştır?",
+            "cevap": "10",
+            "açıklama": "Bayern Münih, 2019-20 ve 2020-21 sezonlarında deplasmanda üst üste 10 maç kazanarak Şampiyonlar Ligi rekorunu elde etmiştir."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en uzun süre yenilmeyen Real Madrid kaç maç yenilmemiştir?",
+            "cevap": "23",
+            "açıklama": "Real Madrid, 2013-14 ve 2014-15 sezonları arasında 23 maç boyunca yenilmeyerek Şampiyonlar Ligi rekorunu kırmıştır."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde evinde en uzun süre yenilmeyen Barcelona kaç maç yenilmemiştir?",
+            "cevap": "38",
+            "açıklama": "Barcelona, 2008-09 ve 2011-12 yılları arasında Camp Nou’da 38 maç boyunca yenilmeyerek Şampionlar Ligi rekorunu kırmıştır."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde deplasmanda en uzun süre yenilmeyen Manchester United kaç maç yenilmemiştir?",
+            "cevap": "25",
+            "açıklama": "Manchester United, 2006-07 ve 2008-09 sezonları arasında deplasmanda 25 maç boyunca yenilmeyerek Şampiyonlar Ligi rekorunu kırmıştır."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en uzun süre kazanamayan Dinamo Zagreb kaç maç kazanamamıştır?",
+            "cevap": "22",
+            "açıklama": "Dinamo Zagreb, 1998-99 ve 2016-17 sezonları arasında 22 maç üst üste kazanamayarak Şampiyonlar Ligi’nde bu alanda en kötü seriye sahiptir."
+          },
+          {
+            "soru": "Şampiyonlar Ligi tarihinde en uzun süre üst üste kaybeden Anderlecht kaç maç kaybetmiştir?",
+            "cevap": "12",
+            "açıklama": "Anderlecht, 2003-05 sezonları arasında üst üste 12 maç kaybederek Şampiyonlar Ligi’nde en uzun mağlubiyet serisini yaşamıştır."
+          }
         ]
       },
       "en": {
@@ -2533,6 +2801,218 @@
             "answer": "15",
             "explanation": "Sporting de Gijón lost 15 consecutive matches in the 1997-98 season, having the longest losing streak in La Liga."
           }
+        ],
+        "Champions League": [
+          {
+            "question": "By how many points did Real Madrid, the team with the largest points gap in the group stage, beat their closest rival in Champions League history?",
+            "answer": "12",
+            "explanation": "In the 2011-12 season, Real Madrid collected 18 points in 6 group stage matches, finishing 12 points ahead of their closest rival to top the group."
+          },
+          {
+            "question": "For how many matches has Real Madrid, the team that has spent the most time at the top, led in Champions League history?",
+            "answer": "204",
+            "explanation": "Real Madrid has led in 204 matches in Champions League history from 1955 to 2024, topping this category."
+          },
+          {
+            "question": "How many points did Bayern Munich, the team with the highest points without advancing from the group stage, collect in Champions League history?",
+            "answer": "10",
+            "explanation": "Bayern Munich collected 10 points in the 2002-03 season group stage but failed to advance, setting a notable record."
+          },
+          {
+            "question": "How many goals did Chelsea, the champion team that scored the fewest goals, score in Champions League history?",
+            "answer": "19",
+            "explanation": "Chelsea scored only 19 goals in 13 matches in the 2011-12 season, becoming the champion with the fewest goals in Champions League history."
+          },
+          {
+            "question": "How many goals did Bayern Munich, the champion team that conceded the most goals, concede in Champions League history?",
+            "answer": "19",
+            "explanation": "Bayern Munich conceded 19 goals in the 2012-13 season, becoming the champion with the most goals conceded in Champions League history."
+          },
+          {
+            "question": "How many matches did Liverpool, the champion team that lost the most matches, lose in Champions League history?",
+            "answer": "4",
+            "explanation": "Liverpool lost 4 matches in the 2004-05 season but still won the championship, setting the record for the most losses by a champion in Champions League history."
+          },
+          {
+            "question": "How many points did Bayern Munich, the champion with the most points in the 3-point system, collect in Champions League history?",
+            "answer": "34",
+            "explanation": "Bayern Munich collected 34 points in 11 matches in the 2019-20 season, becoming the champion with the most points in the 3-point system."
+          },
+          {
+            "question": "How many points did Liverpool, the champion with the fewest points in the 3-point system, collect in Champions League history?",
+            "answer": "20",
+            "explanation": "Liverpool collected 20 points in 13 matches in the 2004-05 season, becoming the champion with the fewest points in the 3-point system."
+          },
+          {
+            "question": "How many UEFA member teams have never participated in the Champions League since its inception?",
+            "answer": "22",
+            "explanation": "Andorra, Liechtenstein, and 20 other UEFA members have never participated in the Champions League from 1955 to 2024."
+          },
+          {
+            "question": "How many teams have participated in only one season in Champions League history?",
+            "answer": "12",
+            "explanation": "Kocaelispor (1993-94), Grasshopper (1995-96), Debrecen (2009-10), and 9 other teams have competed in only one Champions League season."
+          },
+          {
+            "question": "How many times has Real Madrid, the team with the most semi-final appearances, reached the semi-finals in Champions League history?",
+            "answer": "33",
+            "explanation": "Real Madrid reached the semi-finals 33 times between 1955 and 2024, setting a record in Champions League history."
+          },
+          {
+            "question": "What is the highest number of goals scored in a single matchday in the Champions League?",
+            "answer": "51",
+            "explanation": "In matchday 3 of the 2017-18 season’s group stage, a total of 51 goals were scored, the highest in Champions League history."
+          },
+          {
+            "question": "How many goals did Cristiano Ronaldo, the player who scored the most goals in a single season, score in Champions League history?",
+            "answer": "17",
+            "explanation": "Cristiano Ronaldo scored 17 goals with Real Madrid in the 2013-14 season, setting the record for the most goals in a single Champions League season."
+          },
+          {
+            "question": "How many goals did Cristiano Ronaldo, the all-time top scorer, score in Champions League history?",
+            "answer": "140",
+            "explanation": "Cristiano Ronaldo scored 140 goals between 2003 and 2024, making him the all-time top scorer in Champions League history."
+          },
+          {
+            "question": "How many assists did Lionel Messi, the player with the most assists, provide in Champions League history?",
+            "answer": "42",
+            "explanation": "Lionel Messi provided 42 assists in his Champions League career, making him the player with the most assists in the competition’s history."
+          },
+          {
+            "question": "At what age did Ansu Fati, the youngest goal scorer in Champions League history, score a goal?",
+            "answer": "17",
+            "explanation": "Ansu Fati scored a goal at 17 years and 40 days against Inter in the 2019-20 season, becoming the youngest goal scorer in Champions League history."
+          },
+          {
+            "question": "How many matches did Cristiano Ronaldo, the player with the most appearances, play in Champions League history?",
+            "answer": "183",
+            "explanation": "Cristiano Ronaldo played 183 matches between 2003 and 2024, making him the player with the most appearances in Champions League history."
+          },
+          {
+            "question": "How many goals did Ferenc Puskás, the local player who scored the most goals in a single match, score in Champions League history?",
+            "answer": "4",
+            "explanation": "Ferenc Puskás scored 4 goals with Real Madrid against Eintracht Frankfurt in the 1960 European Cup, the most by a local player in a single match."
+          },
+          {
+            "question": "How many goals did Lionel Messi, the foreign player who scored the most goals in a single match, score in Champions League history?",
+            "answer": "5",
+            "explanation": "Lionel Messi scored 5 goals with FC Barcelona against Bayer Leverkusen in the 2011-12 season, the most by a foreign player in a single match."
+          },
+          {
+            "question": "How many victories did Bayern Munich, the team with the most victories in a single season, achieve in Champions League history?",
+            "answer": "11",
+            "explanation": "Bayern Munich achieved 11 victories in the 2019-20 season, setting the record for the most victories in a single Champions League season."
+          },
+          {
+            "question": "How many draws did Manchester United, the team with the most draws in a single season, achieve in Champions League history?",
+            "answer": "7",
+            "explanation": "Manchester United recorded 7 draws in the 1998-99 season, the most draws in a single Champions League season."
+          },
+          {
+            "question": "How many goals did Real Madrid, the team that scored the most goals in a single season, score in Champions League history?",
+            "answer": "41",
+            "explanation": "Real Madrid scored 41 goals in the 2013-14 season, the most goals in a single Champions League season."
+          },
+          {
+            "question": "How many goals did Juventus, the team that conceded the fewest goals in a single season, concede in Champions League history?",
+            "answer": "3",
+            "explanation": "Juventus conceded only 3 goals in the 2004-05 season, setting the record for the fewest goals conceded in a single Champions League season."
+          },
+          {
+            "question": "What was the goal difference of Bayern Munich, the team with the best goal difference in a single season, in Champions League history?",
+            "answer": "+27",
+            "explanation": "Bayern Munich achieved a goal difference of +27 in the 2019-20 season, the best in a single Champions League season."
+          },
+          {
+            "question": "How many penalties did Bayern Munich, the team that took the most penalties in a single match, take in Champions League history?",
+            "answer": "6",
+            "explanation": "Bayern Munich took 6 penalties against Chelsea in the 2012 final, the most penalties taken in a single Champions League match."
+          },
+          {
+            "question": "In how many seconds was the fastest goal in Champions League history scored?",
+            "answer": "10",
+            "explanation": "Roy Makaay scored in 10.2 seconds with Bayern Munich against Real Madrid in the 2006-07 season, the fastest goal in Champions League history."
+          },
+          {
+            "question": "What is the largest goal difference in a victory in Champions League history?",
+            "answer": "8",
+            "explanation": "Bayern Munich’s 8-2 victory over Barcelona in the 2019-20 season is the largest goal difference in Champions League history."
+          },
+          {
+            "question": "What is the largest goal difference in an away victory in Champions League history?",
+            "answer": "8",
+            "explanation": "Bayern Munich’s 8-2 away victory over Barcelona in the 2019-20 season is the largest goal difference in an away match in Champions League history."
+          },
+          {
+            "question": "How many minutes did Iker Casillas, the goalkeeper with the longest clean sheet streak, go without conceding a goal in Champions League history?",
+            "answer": "658",
+            "explanation": "Iker Casillas kept a clean sheet for 658 minutes with Real Madrid in the 2001-02 season, the longest in Champions League history."
+          },
+          {
+            "question": "How many times has Real Madrid, the team with the most top scorers, had the top scorer in Champions League history?",
+            "answer": "13",
+            "explanation": "Real Madrid has had the top scorer 13 times between 1955 and 2024, leading this category in Champions League history."
+          },
+          {
+            "question": "How many times was Cristiano Ronaldo, the player with the most top scorer titles, the top scorer in Champions League history?",
+            "answer": "7",
+            "explanation": "Cristiano Ronaldo was the top scorer in 2007-08, 2012-13, 2013-14, 2014-15, 2015-16, 2016-17, and 2017-18, holding the record with 7 titles."
+          },
+          {
+            "question": "How many championships has Francisco Gento, the player with the most championships, won in Champions League history?",
+            "answer": "6",
+            "explanation": "Francisco Gento won 6 championships with Real Madrid between 1955-60 and 1965-66, the most by any player in Champions League history."
+          },
+          {
+            "question": "How many championships has Carlo Ancelotti, the coach with the most championships, won in Champions League history?",
+            "answer": "5",
+            "explanation": "Carlo Ancelotti won 5 championships with Milan (2003, 2007) and Real Madrid (2014, 2022, 2024), the most by any coach in Champions League history."
+          },
+          {
+            "question": "How many consecutive matches did Bayern Munich, the team with the best season start, win in Champions League history?",
+            "answer": "10",
+            "explanation": "Bayern Munich won the first 10 matches of the 2019-20 season, achieving the best season start in Champions League history."
+          },
+          {
+            "question": "How many consecutive matches did Bayern Munich, the team with the longest winning streak, win in Champions League history?",
+            "answer": "11",
+            "explanation": "Bayern Munich won 11 consecutive matches in the 2019-20 season, setting the longest winning streak in Champions League history."
+          },
+          {
+            "question": "How many consecutive matches did Real Madrid, the team with the longest home winning streak, win at home in Champions League history?",
+            "answer": "16",
+            "explanation": "Real Madrid won 16 consecutive home matches at the Santiago Bernabéu in the 2013-14 and 2014-15 seasons, setting the Champions League record."
+          },
+          {
+            "question": "How many consecutive matches did Bayern Munich, the team with the longest away winning streak, win away in Champions League history?",
+            "answer": "10",
+            "explanation": "Bayern Munich won 10 consecutive away matches in the 2019-20 and 2020-21 seasons, setting the Champions League record."
+          },
+          {
+            "question": "How many matches did Real Madrid, the team with the longest unbeaten streak, remain unbeaten in Champions League history?",
+            "answer": "23",
+            "explanation": "Real Madrid remained unbeaten for 23 matches between the 2013-14 and 2014-15 seasons, setting the Champions League record."
+          },
+          {
+            "question": "How many matches did Barcelona, the team with the longest home unbeaten streak, remain unbeaten at home in Champions League history?",
+            "answer": "38",
+            "explanation": "Barcelona remained unbeaten at home for 38 matches at Camp Nou between the 2008-09 and 2011-12 seasons, setting the Champions League record."
+          },
+          {
+            "question": "How many matches did Manchester United, the team with the longest away unbeaten streak, remain unbeaten away in Champions League history?",
+            "answer": "25",
+            "explanation": "Manchester United remained unbeaten away for 25 matches between the 2006-07 and 2008-09 seasons, setting the Champions League record."
+          },
+          {
+            "question": "How many matches did Dinamo Zagreb, the team with the longest winless streak, go without winning in Champions League history?",
+            "answer": "22",
+            "explanation": "Dinamo Zagreb went 22 matches without winning between the 1998-99 and 2016-17 seasons, holding the worst winless streak in Champions League history."
+          },
+          {
+            "question": "How many matches did Anderlecht, the team with the longest losing streak, lose consecutively in Champions League history?",
+            "answer": "12",
+            "explanation": "Anderlecht lost 12 consecutive matches between the 2003-05 seasons, holding the longest losing streak in Champions League history."
+          }
         ]
       },
       "fr": {
@@ -3472,6 +3952,218 @@
             "question": "Combien de matchs le Sporting de Gijón, l'équipe avec la plus longue série de défaites consécutives, a-t-il perdu consécutivement dans l'histoire de La Liga ?",
             "réponse": "15",
             "explication": "Le Sporting de Gijón a perdu 15 matchs consécutifs lors de la saison 1997-98, ayant la plus longue série de défaites en La Liga."
+          }
+        ],
+        "Ligue des Champions": [
+          {
+            "question": "Avec combien de points d'écart le Real Madrid, l'équipe ayant remporté la phase de groupes avec le plus grand écart, a-t-il devancé son plus proche rival dans l'histoire de la Ligue des Champions ?",
+            "réponse": "12",
+            "explication": "Lors de la saison 2011-12, le Real Madrid a récolté 18 points en 6 matchs de phase de groupes, terminant avec 12 points d'avance sur son plus proche rival pour être en tête du groupe."
+          },
+          {
+            "question": "Pendant combien de matchs le Real Madrid, l'équipe ayant passé le plus de temps en tête, a-t-il été leader dans l'histoire de la Ligue des Champions ?",
+            "réponse": "204",
+            "explication": "Le Real Madrid a été leader pendant 204 matchs dans l'histoire de la Ligue des Champions de 1955 à 2024, dominant cette catégorie."
+          },
+          {
+            "question": "Combien de points le Bayern Munich, l'équipe ayant obtenu le plus de points sans se qualifier en phase de groupes, a-t-il récolté dans l'histoire de la Ligue des Champions ?",
+            "réponse": "10",
+            "explication": "Le Bayern Munich a récolté 10 points lors de la phase de groupes de la saison 2002-03 mais n'a pas réussi à se qualifier, établissant un record notable."
+          },
+          {
+            "question": "Combien de buts Chelsea, l'équipe championne ayant marqué le moins de buts, a-t-elle inscrits dans l'histoire de la Ligue des Champions ?",
+            "réponse": "19",
+            "explication": "Chelsea a marqué seulement 19 buts en 13 matchs lors de la saison 2011-12, devenant le champion avec le moins de buts dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de buts le Bayern Munich, l'équipe championne ayant encaissé le plus de buts, a-t-il concédé dans l'histoire de la Ligue des Champions ?",
+            "réponse": "19",
+            "explication": "Le Bayern Munich a encaissé 19 buts lors de la saison 2012-13, devenant le champion ayant concédé le plus de buts dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de matchs Liverpool, l'équipe championne ayant perdu le plus de matchs, a-t-elle perdu dans l'histoire de la Ligue des Champions ?",
+            "réponse": "4",
+            "explication": "Liverpool a perdu 4 matchs lors de la saison 2004-05 mais a remporté le championnat, établissant le record du champion avec le plus de défaites dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de points le Bayern Munich, le champion avec le plus de points dans le système à 3 points, a-t-il récolté dans l'histoire de la Ligue des Champions ?",
+            "réponse": "34",
+            "explication": "Le Bayern Munich a récolté 34 points en 11 matchs lors de la saison 2019-20, devenant le champion avec le plus de points dans le système à 3 points."
+          },
+          {
+            "question": "Combien de points Liverpool, le champion avec le moins de points dans le système à 3 points, a-t-il récolté dans l'histoire de la Ligue des Champions ?",
+            "réponse": "20",
+            "explication": "Liverpool a récolté 20 points en 13 matchs lors de la saison 2004-05, devenant le champion avec le moins de points dans le système à 3 points."
+          },
+          {
+            "question": "Combien de membres de l'UEFA n'ont jamais participé à la Ligue des Champions depuis sa création ?",
+            "réponse": "22",
+            "explication": "Andorre, le Liechtenstein et 20 autres membres de l'UEFA n'ont jamais participé à la Ligue des Champions de 1955 à 2024."
+          },
+          {
+            "question": "Combien d'équipes n'ont participé qu'à une seule saison dans l'histoire de la Ligue des Champions ?",
+            "réponse": "12",
+            "explication": "Kocaelispor (1993-94), Grasshopper (1995-96), Debrecen (2009-10) et 9 autres équipes n'ont participé qu'à une seule saison de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de fois le Real Madrid, l'équipe avec le plus de demi-finales, a-t-il atteint les demi-finales dans l'histoire de la Ligue des Champions ?",
+            "réponse": "33",
+            "explication": "Le Real Madrid a atteint les demi-finales 33 fois entre 1955 et 2024, établissant un record dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Quel est le plus grand nombre de buts marqués lors d'une journée de match en Ligue des Champions ?",
+            "réponse": "51",
+            "explication": "Lors de la 3e journée de la phase de groupes de la saison 2017-18, un total de 51 buts a été marqué, le plus haut dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de buts Cristiano Ronaldo, le joueur ayant marqué le plus de buts en une saison, a-t-il inscrits dans l'histoire de la Ligue des Champions ?",
+            "réponse": "17",
+            "explication": "Cristiano Ronaldo a marqué 17 buts avec le Real Madrid lors de la saison 2013-14, établissant le record du plus grand nombre de buts en une saison de Ligue des Champions."
+          },
+          {
+            "question": "Combien de buts Cristiano Ronaldo, le meilleur buteur de tous les temps, a-t-il inscrits dans l'histoire de la Ligue des Champions ?",
+            "réponse": "140",
+            "explication": "Cristiano Ronaldo a marqué 140 buts entre 2003 et 2024, ce qui en fait le meilleur buteur de tous les temps dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de passes décisives Lionel Messi, le joueur avec le plus de passes décisives, a-t-il réalisées dans l'histoire de la Ligue des Champions ?",
+            "réponse": "42",
+            "explication": "Lionel Messi a réalisé 42 passes décisives dans sa carrière en Ligue des Champions, ce qui en fait le joueur avec le plus de passes décisives dans l'histoire de la compétition."
+          },
+          {
+            "question": "À quel âge Ansu Fati, le plus jeune buteur de l'histoire de la Ligue des Champions, a-t-il marqué un but ?",
+            "réponse": "17",
+            "explication": "Ansu Fati a marqué un but à 17 ans et 40 jours contre l'Inter lors de la saison 2019-20, devenant le plus jeune buteur de l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de matchs Cristiano Ronaldo, le joueur avec le plus d'apparitions, a-t-il disputés dans l'histoire de la Ligue des Champions ?",
+            "réponse": "183",
+            "explication": "Cristiano Ronaldo a disputé 183 matchs entre 2003 et 2024, ce qui en fait le joueur avec le plus d'apparitions dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de buts Ferenc Puskás, le joueur local ayant marqué le plus de buts dans un seul match, a-t-il inscrits dans l'histoire de la Ligue des Champions ?",
+            "réponse": "4",
+            "explication": "Ferenc Puskás a marqué 4 buts avec le Real Madrid contre l'Eintracht Frankfurt en 1960 (Coupe d'Europe), le plus grand nombre par un joueur local dans un seul match."
+          },
+          {
+            "question": "Combien de buts Lionel Messi, le joueur étranger ayant marqué le plus de buts dans un seul match, a-t-il inscrits dans l'histoire de la Ligue des Champions ?",
+            "réponse": "5",
+            "explication": "Lionel Messi a marqué 5 buts avec le FC Barcelone contre le Bayer Leverkusen lors de la saison 2011-12, le plus grand nombre par un joueur étranger dans un seul match."
+          },
+          {
+            "question": "Combien de victoires le Bayern Munich, l'équipe avec le plus de victoires en une saison, a-t-il obtenues dans l'histoire de la Ligue des Champions ?",
+            "réponse": "11",
+            "explication": "Le Bayern Munich a obtenu 11 victoires lors de la saison 2019-20, établissant le record du plus grand nombre de victoires en une saison de Ligue des Champions."
+          },
+          {
+            "question": "Combien de matchs nuls Manchester United, l'équipe avec le plus de matchs nuls en une saison, a-t-il obtenus dans l'histoire de la Ligue des Champions ?",
+            "réponse": "7",
+            "explication": "Manchester United a enregistré 7 matchs nuls lors de la saison 1998-99, le plus grand nombre de matchs nuls en une saison de Ligue des Champions."
+          },
+          {
+            "question": "Combien de buts le Real Madrid, l'équipe ayant marqué le plus de buts en une saison, a-t-il inscrits dans l'histoire de la Ligue des Champions ?",
+            "réponse": "41",
+            "explication": "Le Real Madrid a marqué 41 buts lors de la saison 2013-14, le plus grand nombre de buts en une saison de Ligue des Champions."
+          },
+          {
+            "question": "Combien de buts la Juventus, l'équipe ayant encaissé le moins de buts en une saison, a-t-elle concédés dans l'histoire de la Ligue des Champions ?",
+            "réponse": "3",
+            "explication": "La Juventus n'a encaissé que 3 buts lors de la saison 2004-05, établissant le record du moins grand nombre de buts concédés en une saison de Ligue des Champions."
+          },
+          {
+            "question": "Quelle était la différence de buts du Bayern Munich, l'équipe avec la meilleure différence de buts en une saison, dans l'histoire de la Ligue des Champions ?",
+            "réponse": "+27",
+            "explication": "Le Bayern Munich a obtenu une différence de buts de +27 lors de la saison 2019-20, la meilleure dans une saison de Ligue des Champions."
+          },
+          {
+            "question": "Combien de penalties le Bayern Munich, l'équipe ayant tiré le plus de penalties dans un seul match, a-t-il tirés dans l'histoire de la Ligue des Champions ?",
+            "réponse": "6",
+            "explication": "Le Bayern Munich a tiré 6 penalties contre Chelsea lors de la finale de 2012, le plus grand nombre de penalties tirés dans un seul match de Ligue des Champions."
+          },
+          {
+            "question": "En combien de secondes le but le plus rapide de l'histoire de la Ligue des Champions a-t-il été marqué ?",
+            "réponse": "10",
+            "explication": "Roy Makaay a marqué en 10,2 secondes avec le Bayern Munich contre le Real Madrid lors de la saison 2006-07, le but le plus rapide de l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Quelle est la plus grande différence de buts dans une victoire dans l'histoire de la Ligue des Champions ?",
+            "réponse": "8",
+            "explication": "La victoire 8-2 du Bayern Munich sur le FC Barcelone lors de la saison 2019-20 est la plus grande différence de buts dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Quelle est la plus grande différence de buts dans une victoire à l'extérieur dans l'histoire de la Ligue des Champions ?",
+            "réponse": "8",
+            "explication": "La victoire 8-2 du Bayern Munich sur le FC Barcelone à l'extérieur lors de la saison 2019-20 est la plus grande différence de buts dans un match à l'extérieur en Ligue des Champions."
+          },
+          {
+            "question": "Combien de minutes Iker Casillas, le gardien avec la plus longue période sans encaisser de buts, est-il resté sans encaisser de buts dans l'histoire de la Ligue des Champions ?",
+            "réponse": "658",
+            "explication": "Iker Casillas a gardé sa cage inviolée pendant 658 minutes avec le Real Madrid lors de la saison 2001-02, la plus longue période dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de fois le Real Madrid, l'équipe ayant eu le plus de meilleurs buteurs, a-t-il eu le meilleur buteur dans l'histoire de la Ligue des Champions ?",
+            "réponse": "13",
+            "explication": "Le Real Madrid a eu le meilleur buteur 13 fois entre 1955 et 2024, dominant cette catégorie dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de fois Cristiano Ronaldo, le joueur avec le plus de titres de meilleur buteur, a-t-il été meilleur buteur dans l'histoire de la Ligue des Champions ?",
+            "réponse": "7",
+            "explication": "Cristiano Ronaldo a été meilleur buteur en 2007-08, 2012-13, 2013-14, 2014-15, 2015-16, 2016-17 et 2017-18, détenant le record avec 7 titres."
+          },
+          {
+            "question": "Combien de championnats Francisco Gento, le joueur avec le plus de championnats, a-t-il remportés dans l'histoire de la Ligue des Champions ?",
+            "réponse": "6",
+            "explication": "Francisco Gento a remporté 6 championnats avec le Real Madrid entre 1955-60 et 1965-66, le plus grand nombre par un joueur dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de championnats Carlo Ancelotti, l'entraîneur avec le plus de championnats, a-t-il remportés dans l'histoire de la Ligue des Champions ?",
+            "réponse": "5",
+            "explication": "Carlo Ancelotti a remporté 5 championnats avec Milan (2003, 2007) et le Real Madrid (2014, 2022, 2024), le plus grand nombre par un entraîneur dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de matchs consécutifs le Bayern Munich, l'équipe avec le meilleur début de saison, a-t-il gagnés dans l'histoire de la Ligue des Champions ?",
+            "réponse": "10",
+            "explication": "Le Bayern Munich a gagné les 10 premiers matchs de la saison 2019-20, réalisant le meilleur début de saison dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de matchs consécutifs le Bayern Munich, l'équipe avec la plus longue série de victoires, a-t-il gagnés dans l'histoire de la Ligue des Champions ?",
+            "réponse": "11",
+            "explication": "Le Bayern Munich a gagné 11 matchs consécutifs lors de la saison 2019-20, établissant la plus longue série de victoires dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de matchs consécutifs le Real Madrid, l'équipe avec la plus longue série de victoires à domicile, a-t-il gagnés à domicile dans l'histoire de la Ligue des Champions ?",
+            "réponse": "16",
+            "explication": "Le Real Madrid a gagné 16 matchs consécutifs à domicile au Santiago Bernabéu lors des saisons 2013-14 et 2014-15, établissant le record de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de matchs consécutifs le Bayern Munich, l'équipe avec la plus longue série de victoires à l'extérieur, a-t-il gagnés à l'extérieur dans l'histoire de la Ligue des Champions ?",
+            "réponse": "10",
+            "explanation": "Le Bayern Munich a gagné 10 matchs consécutifs à l'extérieur lors des saisons 2019-20 et 2020-21, établissant le record de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de matchs le Real Madrid, l'équipe avec la plus longue série sans défaite, est-il resté invaincu dans l'histoire de la Ligue des Champions ?",
+            "réponse": "23",
+            "explication": "Le Real Madrid est resté invaincu pendant 23 matchs entre les saisons 2013-14 et 2014-15, établissant le record de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de matchs le FC Barcelone, l'équipe avec la plus longue série sans défaite à domicile, est-il resté invaincu à domicile dans l'histoire de la Ligue des Champions ?",
+            "réponse": "38",
+            "explication": "Le FC Barcelone est resté invaincu à domicile pendant 38 matchs au Camp Nou entre les saisons 2008-09 et 2011-12, établissant le record de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de matchs Manchester United, l'équipe avec la plus longue série sans défaite à l'extérieur, est-il resté invaincu à l'extérieur dans l'histoire de la Ligue des Champions ?",
+            "réponse": "25",
+            "explication": "Manchester United est resté invaincu à l'extérieur pendant 25 matchs entre les saisons 2006-07 et 2008-09, établissant le record de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de matchs le Dinamo Zagreb, l'équipe avec la plus longue série sans victoire, est-il resté sans gagner dans l'histoire de la Ligue des Champions ?",
+            "réponse": "22",
+            "explication": "Le Dinamo Zagreb n'a pas gagné pendant 22 matchs entre les saisons 1998-99 et 2016-17, détenant la pire série sans victoire dans l'histoire de la Ligue des Champions."
+          },
+          {
+            "question": "Combien de matchs l'Anderlecht, l'équipe avec la plus longue série de défaites, a-t-il perdu consécutivement dans l'histoire de la Ligue des Champions ?",
+            "réponse": "12",
+            "explication": "L'Anderlecht a perdu 12 matchs consécutifs entre les saisons 2003-05, détenant la plus longue série de défaites dans l'histoire de la Ligue des Champions."
           }
         ]
       },
@@ -4417,6 +5109,218 @@
             "pregunta": "¿Cuántos partidos perdió consecutivamente el Sporting de Gijón, el equipo con la racha más larga de derrotas consecutivas en la historia de La Liga?",
             "respuesta": "15",
             "explicación": "El Sporting de Gijón perdió 15 partidos consecutivos en la temporada 1997-98, teniendo la racha más larga de derrotas en La Liga."
+          }
+        ],
+        "Liga de Campeones": [
+          {
+            "pregunta": "¿Con cuántos puntos de diferencia superó el Real Madrid, el equipo con la mayor diferencia de puntos en la fase de grupos, a su rival más cercano en la historia de la Liga de Campeones?",
+            "respuesta": "12",
+            "explicación": "En la temporada 2011-12, el Real Madrid acumuló 18 puntos en 6 partidos de la fase de grupos, terminando con 12 puntos de ventaja sobre su rival más cercano para liderar el grupo."
+          },
+          {
+            "pregunta": "¿Durante cuántos partidos ha liderado el Real Madrid, el equipo que más tiempo ha estado en la cima, en la historia de la Liga de Campeones?",
+            "respuesta": "204",
+            "explicación": "El Real Madrid ha liderado en 204 partidos en la historia de la Liga de Campeones de 1955 a 2024, encabezando esta categoría."
+          },
+          {
+            "pregunta": "¿Cuántos puntos acumuló el Bayern Múnich, el equipo con más puntos sin avanzar de la fase de grupos, en la historia de la Liga de Campeones?",
+            "respuesta": "10",
+            "explicación": "El Bayern Múnich acumuló 10 puntos en la fase de grupos de la temporada 2002-03 pero no logró avanzar, estableciendo un récord notable."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó el Chelsea, el equipo campeón que menos goles anotó, en la historia de la Liga de Campeones?",
+            "respuesta": "19",
+            "explicación": "El Chelsea marcó solo 19 goles en 13 partidos en la temporada 2011-12, convirtiéndose en el campeón con menos goles en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos goles encajó el Bayern Múnich, el equipo campeón que más goles recibió, en la historia de la Liga de Campeones?",
+            "respuesta": "19",
+            "explicación": "El Bayern Múnich encajó 19 goles en la temporada 2012-13, convirtiéndose en el campeón con más goles recibidos en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos partidos perdió el Liverpool, el equipo campeón que más partidos perdió, en la historia de la Liga de Campeones?",
+            "respuesta": "4",
+            "explicación": "El Liverpool perdió 4 partidos en la temporada 2004-05 pero aún así ganó el campeonato, estableciendo el récord de más derrotas para un campeón en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos puntos acumuló el Bayern Múnich, el campeón con más puntos en el sistema de 3 puntos, en la historia de la Liga de Campeones?",
+            "respuesta": "34",
+            "explicación": "El Bayern Múnich acumuló 34 puntos en 11 partidos en la temporada 2019-20, convirtiéndose en el campeón con más puntos en el sistema de 3 puntos."
+          },
+          {
+            "pregunta": "¿Cuántos puntos acumuló el Liverpool, el campeón con menos puntos en el sistema de 3 puntos, en la historia de la Liga de Campeones?",
+            "respuesta": "20",
+            "explicación": "El Liverpool acumuló 20 puntos en 13 partidos en la temporada 2004-05, convirtiéndose en el campeón con menos puntos en el sistema de 3 puntos."
+          },
+          {
+            "pregunta": "¿Cuántos equipos miembros de la UEFA nunca han participado en la Liga de Campeones desde su creación?",
+            "respuesta": "22",
+            "explicación": "Andorra, Liechtenstein y otros 20 miembros de la UEFA nunca han participado en la Liga de Campeones de 1955 a 2024."
+          },
+          {
+            "pregunta": "¿Cuántos equipos han participado en una sola temporada en la historia de la Liga de Campeones?",
+            "respuesta": "12",
+            "explicación": "Kocaelispor (1993-94), Grasshopper (1995-96), Debrecen (2009-10) y otros 9 equipos han competido en una sola temporada de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántas veces ha llegado el Real Madrid, el equipo con más semifinales, a las semifinales en la historia de la Liga de Campeones?",
+            "respuesta": "33",
+            "explicación": "El Real Madrid ha llegado a las semifinales 33 veces entre 1955 y 2024, estableciendo un récord en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuál es el mayor número de goles marcados en una jornada de partidos en la Liga de Campeones?",
+            "respuesta": "51",
+            "explicación": "En la jornada 3 de la fase de grupos de la temporada 2017-18, se marcaron un total de 51 goles, el mayor número en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Cristiano Ronaldo, el jugador que más goles anotó en una temporada, en la historia de la Liga de Campeones?",
+            "respuesta": "17",
+            "explicación": "Cristiano Ronaldo marcó 17 goles con el Real Madrid en la temporada 2013-14, estableciendo el récord de más goles en una temporada de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Cristiano Ronaldo, el máximo goleador de todos los tiempos, en la historia de la Liga de Campeones?",
+            "respuesta": "140",
+            "explicación": "Cristiano Ronaldo marcó 140 goles entre 2003 y 2024, convirtiéndose en el máximo goleador de todos los tiempos en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántas asistencias dio Lionel Messi, el jugador con más asistencias, en la historia de la Liga de Campeones?",
+            "respuesta": "42",
+            "explicación": "Lionel Messi dio 42 asistencias en su carrera en la Liga de Campeones, siendo el jugador con más asistencias en la historia de la competición."
+          },
+          {
+            "pregunta": "¿A qué edad marcó Ansu Fati, el goleador más joven en la historia de la Liga de Campeones, un gol?",
+            "respuesta": "17",
+            "explicación": "Ansu Fati marcó un gol a los 17 años y 40 días contra el Inter en la temporada 2019-20, convirtiéndose en el goleador más joven en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos partidos jugó Cristiano Ronaldo, el jugador con más apariciones, en la historia de la Liga de Campeones?",
+            "respuesta": "183",
+            "explicación": "Cristiano Ronaldo jugó 183 partidos entre 2003 y 2024, siendo el jugador con más apariciones en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Ferenc Puskás, el jugador local que más goles anotó en un solo partido, en la historia de la Liga de Campeones?",
+            "respuesta": "4",
+            "explicación": "Ferenc Puskás marcó 4 goles con el Real Madrid contra el Eintracht Frankfurt en la Copa de Europa de 1960, el mayor número por un jugador local en un solo partido."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó Lionel Messi, el jugador extranjero que más goles anotó en un solo partido, en la historia de la Liga de Campeones?",
+            "respuesta": "5",
+            "explicación": "Lionel Messi marcó 5 goles con el FC Barcelona contra el Bayer Leverkusen en la temporada 2011-12, el mayor número por un jugador extranjero en un solo partido."
+          },
+          {
+            "pregunta": "¿Cuántas victorias logró el Bayern Múnich, el equipo con más victorias en una temporada, en la historia de la Liga de Campeones?",
+            "respuesta": "11",
+            "explicación": "El Bayern Múnich logró 11 victorias en la temporada 2019-20, estableciendo el récord de más victorias en una temporada de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos empates logró el Manchester United, el equipo con más empates en una temporada, en la historia de la Liga de Campeones?",
+            "respuesta": "7",
+            "explicación": "El Manchester United registró 7 empates en la temporada 1998-99, el mayor número de empates en una temporada de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos goles marcó el Real Madrid, el equipo que más goles anotó en una temporada, en la historia de la Liga de Campeones?",
+            "respuesta": "41",
+            "explicación": "El Real Madrid marcó 41 goles en la temporada 2013-14, el mayor número de goles en una temporada de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos goles encajó la Juventus, el equipo que menos goles recibió en una temporada, en la historia de la Liga de Campeones?",
+            "respuesta": "3",
+            "explicación": "La Juventus encajó solo 3 goles en la temporada 2004-05, estableciendo el récord de menos goles recibidos en una temporada de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuál fue la diferencia de goles del Bayern Múnich, el equipo con la mejor diferencia de goles en una temporada, en la historia de la Liga de Campeones?",
+            "respuesta": "+27",
+            "explicación": "El Bayern Múnich logró una diferencia de goles de +27 en la temporada 2019-20, la mejor en una temporada de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos penales lanzó el Bayern Múnich, el equipo que más penales lanzó en un solo partido, en la historia de la Liga de Campeones?",
+            "respuesta": "6",
+            "explicación": "El Bayern Múnich lanzó 6 penales contra el Chelsea en la final de 2012, el mayor número de penales lanzados en un solo partido de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿En cuántos segundos se marcó el gol más rápido en la historia de la Liga de Campeones?",
+            "respuesta": "10",
+            "explicación": "Roy Makaay marcó en 10,2 segundos con el Bayern Múnich contra el Real Madrid en la temporada 2006-07, el gol más rápido en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuál es la mayor diferencia de goles en una victoria en la historia de la Liga de Campeones?",
+            "respuesta": "8",
+            "explicación": "La victoria 8-2 del Bayern Múnich sobre el FC Barcelona en la temporada 2019-20 es la mayor diferencia de goles en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuál es la mayor diferencia de goles en una victoria fuera de casa en la historia de la Liga de Campeones?",
+            "respuesta": "8",
+            "explicación": "La victoria 8-2 del Bayern Múnich sobre el FC Barcelona fuera de casa en la temporada 2019-20 es la mayor diferencia de goles en un partido fuera de casa en la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos minutos estuvo Iker Casillas, el portero con la racha más larga sin encajar goles, sin recibir un gol en la historia de la Liga de Campeones?",
+            "respuesta": "658",
+            "explicación": "Iker Casillas mantuvo su portería imbatida durante 658 minutos con el Real Madrid en la temporada 2001-02, la racha más larga en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántas veces ha tenido el Real Madrid, el equipo con más máximos goleadores, al máximo goleador en la historia de la Liga de Campeones?",
+            "respuesta": "13",
+            "explicación": "El Real Madrid ha tenido al máximo goleador 13 veces entre 1955 y 2024, liderando esta categoría en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántas veces fue Cristiano Ronaldo, el jugador con más títulos de máximo goleador, el máximo goleador en la historia de la Liga de Campeones?",
+            "respuesta": "7",
+            "explicación": "Cristiano Ronaldo fue el máximo goleador en 2007-08, 2012-13, 2013-14, 2014-15, 2015-16, 2016-17 y 2017-18, ostentando el récord con 7 títulos."
+          },
+          {
+            "pregunta": "¿Cuántos campeonatos ha ganado Francisco Gento, el jugador con más campeonatos, en la historia de la Liga de Campeones?",
+            "respuesta": "6",
+            "explicación": "Francisco Gento ganó 6 campeonatos con el Real Madrid entre 1955-60 y 1965-66, el mayor número por un jugador en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos campeonatos ha ganado Carlo Ancelotti, el entrenador con más campeonatos, en la historia de la Liga de Campeones?",
+            "respuesta": "5",
+            "explicación": "Carlo Ancelotti ganó 5 campeonatos con el Milan (2003, 2007) y el Real Madrid (2014, 2022, 2024), el mayor número por un entrenador en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el Bayern Múnich, el equipo con el mejor comienzo de temporada, en la historia de la Liga de Campeones?",
+            "respuesta": "10",
+            "explicación": "El Bayern Múnich ganó los primeros 10 partidos de la temporada 2019-20, logrando el mejor comienzo de temporada en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el Bayern Múnich, el equipo con la racha de victorias más larga, en la historia de la Liga de Campeones?",
+            "respuesta": "11",
+            "explicación": "El Bayern Múnich ganó 11 partidos consecutivos en la temporada 2019-20, estableciendo la racha de victorias más larga en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el Real Madrid, el equipo con la racha de victorias en casa más larga, en casa en la historia de la Liga de Campeones?",
+            "respuesta": "16",
+            "explicación": "El Real Madrid ganó 16 partidos consecutivos en casa en el Santiago Bernabéu en las temporadas 2013-14 y 2014-15, estableciendo el récord de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos partidos consecutivos ganó el Bayern Múnich, el equipo con la racha de victorias fuera de casa más larga, fuera de casa en la historia de la Liga de Campeones?",
+            "respuesta": "10",
+            "explicación": "El Bayern Múnich ganó 10 partidos consecutivos fuera de casa en las temporadas 2019-20 y 2020-21, estableciendo el récord de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo el Real Madrid, el equipo con la racha invicta más larga, sin perder en la historia de la Liga de Campeones?",
+            "respuesta": "23",
+            "explicación": "El Real Madrid estuvo invicto durante 23 partidos entre las temporadas 2013-14 y 2014-15, estableciendo el récord de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo el Barcelona, el equipo con la racha invicta en casa más larga, sin perder en casa en la historia de la Liga de Campeones?",
+            "respuesta": "38",
+            "explicación": "El Barcelona estuvo invicto en casa durante 38 partidos en el Camp Nou entre las temporadas 2008-09 y 2011-12, estableciendo el récord de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo el Manchester United, el equipo con la racha invicta fuera de casa más larga, sin perder fuera de casa en la historia de la Liga de Campeones?",
+            "respuesta": "25",
+            "explicación": "El Manchester United estuvo invicto fuera de casa durante 25 partidos entre las temporadas 2006-07 y 2008-09, estableciendo el récord de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos partidos estuvo el Dinamo Zagreb, el equipo con la racha sin victorias más larga, sin ganar en la historia de la Liga de Campeones?",
+            "respuesta": "22",
+            "explicación": "El Dinamo Zagreb no ganó durante 22 partidos entre las temporadas 1998-99 y 2016-17, ostentando la peor racha sin victorias en la historia de la Liga de Campeones."
+          },
+          {
+            "pregunta": "¿Cuántos partidos perdió consecutivamente el Anderlecht, el equipo con la racha de derrotas más larga, en la historia de la Liga de Campeones?",
+            "respuesta": "12",
+            "explicación": "El Anderlecht perdió 12 partidos consecutivos entre las temporadas 2003-05, ostentando la racha de derrotas más larga en la historia de la Liga de Campeones."
           }
         ]
       }
