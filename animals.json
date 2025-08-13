@@ -1,0 +1,6622 @@
+{
+"en" : [
+  {
+    "id": 1,
+    "animal_name": "Snake",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -1,
+      "forest": 1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Trimeresurus_sabahi_fucatus%2C_Banded_pit_viper_-_Takua_Pa_District%2C_Phang-nga_Province_%2846710893582%29.jpg/250px-Trimeresurus_sabahi_fucatus%2C_Banded_pit_viper_-_Takua_Pa_District%2C_Phang-nga_Province_%2846710893582%29.jpg"
+  },
+  {
+    "id": 2,
+    "animal_name": "Lion",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/250px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": 3,
+    "animal_name": "Beaver",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 2,
+      "forest": 2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/250px-American_Beaver.jpg"
+  },
+  {
+    "id": 4,
+    "animal_name": "Eagle",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 1,
+      "air": 3,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Eagles_together.jpg/250px-Eagles_together.jpg"
+  },
+  {
+    "id": 5,
+    "animal_name": "Shark",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 4,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 1,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Corl0207_%2828225976491%29.jpg/250px-Corl0207_%2828225976491%29.jpg"
+  },
+  {
+    "id": 7,
+    "animal_name": "Fox",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 1,
+      "strength": 1,
+      "cunning": 5
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 2,
+      "poles": 0,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Vulpes_vulpes_ssp_fulvus.jpg/250px-Vulpes_vulpes_ssp_fulvus.jpg"
+  },
+  {
+    "id": 8,
+    "animal_name": "Camel",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": -1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg/250px-07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg"
+  },
+  {
+    "id": 9,
+    "animal_name": "Owl",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 5
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 2,
+      "poles": 0,
+      "air": 2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bubo_bubo_sibiricus_-_01.JPG/250px-Bubo_bubo_sibiricus_-_01.JPG"
+  },
+  {
+    "id": 10,
+    "animal_name": "Crocodile",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 4,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 1,
+      "poles": -2,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nile_crocodile_head.jpg/250px-Nile_crocodile_head.jpg"
+  },
+  {
+    "id": 11,
+    "animal_name": "Gorilla",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 0,
+      "strength": 6,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -2,
+      "air": -1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gorille_des_plaines_de_l%27ouest_%C3%A0_l%27Espace_Zoologique.jpg/250px-Gorille_des_plaines_de_l%27ouest_%C3%A0_l%27Espace_Zoologique.jpg"
+  },
+  {
+    "id": 13,
+    "animal_name": "Cheetah",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Male_cheetah_facing_left_in_South_Africa.jpg/250px-Male_cheetah_facing_left_in_South_Africa.jpg"
+  },
+  {
+    "id": 14,
+    "animal_name": "Turtle",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 1,
+      "poles": 0,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Florida_Box_Turtle_Digon3.jpg/250px-Florida_Box_Turtle_Digon3.jpg"
+  },
+  {
+    "id": 15,
+    "animal_name": "Wolf",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -1,
+      "forest": 2,
+      "poles": 2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/250px-Eurasian_wolf_2.jpg"
+  },
+  {
+    "id": 16,
+    "animal_name": "Penguin",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 2,
+      "forest": -1,
+      "poles": 3,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg/250px-Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg"
+  },
+  {
+    "id": 17,
+    "animal_name": "Scorpion",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": -1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Scorpion_Photograph_By_Shantanu_Kuveskar.jpg/250px-Scorpion_Photograph_By_Shantanu_Kuveskar.jpg"
+  },
+  {
+    "id": 19,
+    "animal_name": "Bear",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 0,
+      "forest": 2,
+      "poles": 2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ours_brun_parcanimalierpyrenees_1.jpg/250px-Ours_brun_parcanimalierpyrenees_1.jpg"
+  },
+  {
+    "id": 20,
+    "animal_name": "Hawk",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 3,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Northern_Goshawk_ad_M2.jpg/250px-Northern_Goshawk_ad_M2.jpg"
+  },
+  {
+    "id": 21,
+    "animal_name": "Rattlesnake",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 5,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus_cerastes_mesquite_springs_CA-2.jpg/250px-Crotalus_cerastes_mesquite_springs_CA-2.jpg"
+  },
+  {
+    "id": 22,
+    "animal_name": "Elephant",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 0,
+      "strength": 6,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -3,
+      "forest": 2,
+      "poles": -2,
+      "air": -2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/250px-African_Bush_Elephant.jpg"
+  },
+  {
+    "id": 23,
+    "animal_name": "Orca",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 2,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Killerwhales_jumping.jpg/250px-Killerwhales_jumping.jpg"
+  },
+  {
+    "id": 24,
+    "animal_name": "Hyena",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 1,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hyaenidae_Diversity.jpg/250px-Hyaenidae_Diversity.jpg"
+  },
+  {
+    "id": 26,
+    "animal_name": "Jaguar",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Standing_jaguar.jpg/330px-Standing_jaguar.jpg"
+  },
+  {
+    "id": 28,
+    "animal_name": "Vulture",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 1,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -1,
+      "forest": 0,
+      "poles": 0,
+      "air": 2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gyps_rueppellii_-Nairobi_National_Park%2C_Kenya-8-4c.jpg/250px-Gyps_rueppellii_-Nairobi_National_Park%2C_Kenya-8-4c.jpg"
+  },
+  {
+    "id": 29,
+    "animal_name": "Rhinoceros",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -3,
+      "forest": 1,
+      "poles": -2,
+      "air": -2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rhino_collage.png/330px-Rhino_collage.png"
+  },
+  {
+    "id": 30,
+    "animal_name": "Octopus",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/250px-Octopus2.jpg"
+  },
+  {
+    "id": 31,
+    "animal_name": "Leopard",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/African_leopard_male_%28cropped%29.jpg/250px-African_leopard_male_%28cropped%29.jpg"
+  },
+  {
+    "id": 32,
+    "animal_name": "Albatross",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 5
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 0,
+      "poles": 1,
+      "air": 3,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Short_tailed_Albatross1.jpg/330px-Short_tailed_Albatross1.jpg"
+  },
+  {
+    "id": 33,
+    "animal_name": "Komodo Dragon",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 3,
+      "strength": 4,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -1,
+      "forest": 2,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/202306_Varanus_komodoensis.jpg/250px-202306_Varanus_komodoensis.jpg"
+  },
+  {
+    "id": 34,
+    "animal_name": "Wolverine",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -1,
+      "forest": 1,
+      "poles": 2,
+      "air": -1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gulo_gulo_2.jpg/250px-Gulo_gulo_2.jpg"
+  },
+  {
+    "id": 35,
+    "animal_name": "Chameleon",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 1,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 3,
+      "poles": -2,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamaeleonidae-01.jpg/250px-Chamaeleonidae-01.jpg"
+  },
+  {
+    "id": 36,
+    "animal_name": "Bison",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -3,
+      "forest": 1,
+      "poles": 0,
+      "air": -2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/250px-American_bison_k5680-1.jpg"
+  },
+  {
+    "id": 37,
+    "animal_name": "Stingray",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 3,
+      "strength": 2,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 2,
+      "forest": -2,
+      "poles": 0,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SStringray.jpg/250px-SStringray.jpg"
+  },
+  {
+    "id": 38,
+    "animal_name": "Condor",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 1,
+      "strength": 4,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 0,
+      "forest": 0,
+      "poles": 1,
+      "air": 3,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Andean_condor_%28Vultur_gryphus%29_at_Colca_Canyon.jpg/250px-Andean_condor_%28Vultur_gryphus%29_at_Colca_Canyon.jpg"
+  },
+  {
+    "id": 39,
+    "animal_name": "Coyote",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": 0,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2009-Coyote-Yosemite.jpg/250px-2009-Coyote-Yosemite.jpg"
+  },
+  {
+    "id": 40,
+    "animal_name": "Jellyfish",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jelly_cc11.jpg/250px-Jelly_cc11.jpg"
+  },
+  {
+    "id": 41,
+    "animal_name": "Tiger",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -1,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking_tiger_female.jpg/330px-Walking_tiger_female.jpg"
+  },
+  {
+    "id": 42,
+    "animal_name": "Walrus",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 2,
+      "forest": -2,
+      "poles": 3,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg/250px-Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg"
+  },
+  {
+    "id": 43,
+    "animal_name": "Flamingo",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 0,
+      "poles": -1,
+      "air": 1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flamingos_Laguna_Colorada.jpg/250px-Flamingos_Laguna_Colorada.jpg"
+  },
+  {
+    "id": 44,
+    "animal_name": "Snow Leopard",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": 2,
+      "air": 0,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Irbis4.JPG/250px-Irbis4.JPG"
+  },
+  {
+    "id": 45,
+    "animal_name": "Cobra",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 5,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Indiancobra.jpg/250px-Indiancobra.jpg"
+  },
+  {
+    "id": 47,
+    "animal_name": "Piranha",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 2,
+      "strength": 3,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 2,
+      "forest": 1,
+      "poles": -1,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg/250px-Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg"
+  },
+  {
+    "id": 48,
+    "animal_name": "Griffin",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 2,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 2,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Knossos_fresco_in_throne_palace.JPG/250px-Knossos_fresco_in_throne_palace.JPG"
+  },
+  {
+    "id": 49,
+    "animal_name": "Antelope",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blackbuck_male_female.jpg/250px-Blackbuck_male_female.jpg"
+  },
+  {
+    "id": 52,
+    "animal_name": "Squid",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sepioteuthis_sepioidea_%28Caribbean_Reef_Squid%29.jpg/250px-Sepioteuthis_sepioidea_%28Caribbean_Reef_Squid%29.jpg"
+  },
+  {
+    "id": 53,
+    "animal_name": "Falcon",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 3,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Brown-Falcon%2C-Vic%2C-3.1.2008.jpg/250px-Brown-Falcon%2C-Vic%2C-3.1.2008.jpg"
+  },
+  {
+    "id": 54,
+    "animal_name": "Hippopotamus",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 2,
+      "forest": 1,
+      "poles": -2,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Portrait_Hippopotamus_in_the_water.jpg/250px-Portrait_Hippopotamus_in_the_water.jpg"
+  },
+  {
+    "id": 56,
+    "animal_name": "Gazelle",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Chinkara_-_Shreeram_M_V_-_Bikaner.jpg/250px-Chinkara_-_Shreeram_M_V_-_Bikaner.jpg"
+  },
+  {
+    "id": 57,
+    "animal_name": "Manta Ray",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 1,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG/250px-Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG"
+  },
+  {
+    "id": 58,
+    "animal_name": "Lynx",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 2,
+      "poles": 2,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lynx_heads_collage.jpg/250px-Lynx_heads_collage.jpg"
+  },
+  {
+    "id": 59,
+    "animal_name": "Anaconda",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 2,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 1,
+      "forest": 3,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eunectes_murinus2.jpg/250px-Eunectes_murinus2.jpg"
+  },
+  {
+    "id": 60,
+    "animal_name": "Parrot",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 0,
+      "forest": 3,
+      "poles": -1,
+      "air": 2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parrot_montage.jpg/330px-Parrot_montage.jpg"
+  },
+  {
+    "id": 61,
+    "animal_name": "Moose",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 2,
+      "poles": 2,
+      "air": -2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alaska_moose.jpg/250px-Alaska_moose.jpg"
+  },
+  {
+    "id": 62,
+    "animal_name": "Barracuda",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 1,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Barracuda_laban.jpg/250px-Barracuda_laban.jpg"
+  },
+  {
+    "id": 64,
+    "animal_name": "Yak",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -3,
+      "forest": 0,
+      "poles": 2,
+      "air": -2,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sarlyk_Yak2.jpg/250px-Sarlyk_Yak2.jpg"
+  },
+  {
+    "id": 66,
+    "animal_name": "Zebra",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Plains_Zebra_Equus_quagga_cropped.jpg/250px-Plains_Zebra_Equus_quagga_cropped.jpg"
+  },
+  {
+    "id": 67,
+    "animal_name": "Moray Eel",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 3,
+      "strength": 2,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Moray_eel.jpg/250px-Moray_eel.jpg"
+  },
+  {
+    "id": 68,
+    "animal_name": "Caribou",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": 3,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg/250px-Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg"
+  },
+  {
+    "id": 69,
+    "animal_name": "Kestrel",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Falco_naumanni%2C_Negev.jpg/250px-Falco_naumanni%2C_Negev.jpg"
+  },
+  {
+    "id": 70,
+    "animal_name": "Gila Monster",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": -1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gila_monster2.JPG/250px-Gila_monster2.JPG"
+  },
+  {
+    "id": 72,
+    "animal_name": "Pufferfish",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tetraodon-hispidus.jpg/250px-Tetraodon-hispidus.jpg"
+  },
+  {
+    "id": 73,
+    "animal_name": "Cougar",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": 0,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mountain_Lion_in_Glacier_National_Park.jpg/250px-Mountain_Lion_in_Glacier_National_Park.jpg"
+  },
+  {
+    "id": 74,
+    "animal_name": "Pelican",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 3,
+      "forest": 0,
+      "poles": 1,
+      "air": 2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pelikan_Walvis_Bay.jpg/250px-Pelikan_Walvis_Bay.jpg"
+  },
+  {
+    "id": 75,
+    "animal_name": "Warthog",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg/250px-Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg"
+  },
+  {
+    "id": 76,
+    "animal_name": "Sea Turtle",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 3,
+      "forest": -1,
+      "poles": 0,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chelonia_mydas_is_going_for_the_air_edit.jpg/250px-Chelonia_mydas_is_going_for_the_air_edit.jpg"
+  },
+  {
+    "id": 77,
+    "animal_name": "Ostrich",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Struthio_Diversity.jpg/250px-Struthio_Diversity.jpg"
+  },
+  {
+    "id": 78,
+    "animal_name": "Grizzly Bear",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 0,
+      "forest": 2,
+      "poles": 2,
+      "air": -1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/GrizzlyBearJeanBeaufort.jpg/250px-GrizzlyBearJeanBeaufort.jpg"
+  },
+  {
+    "id": 79,
+    "animal_name": "Viper",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Viperidae-01.jpg/250px-Viperidae-01.jpg"
+  },
+  {
+    "id": 80,
+    "animal_name": "Emu",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Emu_1_-_Tidbinbilla.jpg/330px-Emu_1_-_Tidbinbilla.jpg"
+  },
+  {
+    "id": 81,
+    "animal_name": "Sea Lion",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 2,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/California_sea_lion_in_La_Jolla_%2870568%29.jpg/250px-California_sea_lion_in_La_Jolla_%2870568%29.jpg"
+  },
+  {
+    "id": 82,
+    "animal_name": "Jackal",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flickr_-_Rainbirder_-_Golden_Jackal_%281%29.jpg/250px-Flickr_-_Rainbirder_-_Golden_Jackal_%281%29.jpg"
+  },
+  {
+    "id": 83,
+    "animal_name": "Mandrill",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg/250px-Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg"
+  },
+  {
+    "id": 84,
+    "animal_name": "Alpaca",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 0,
+      "poles": 0,
+      "air": -1,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Alpaca_%2831562329701%29.jpg/250px-Alpaca_%2831562329701%29.jpg"
+  },
+  {
+    "id": 85,
+    "animal_name": "Hammerhead Shark",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 1,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg/250px-Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg"
+  },
+  {
+    "id": 86,
+    "animal_name": "Peacock",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 2,
+      "poles": -1,
+      "air": 1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Peacock_Plumage.jpg/250px-Peacock_Plumage.jpg"
+  },
+  {
+    "id": 87,
+    "animal_name": "Boar",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg/250px-Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg"
+  },
+  {
+    "id": 88,
+    "animal_name": "Osprey",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 1,
+      "poles": 0,
+      "air": 3,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Osprey_Perched_Snag_Heislerville.jpg/250px-Osprey_Perched_Snag_Heislerville.jpg"
+  },
+  {
+    "id": 89,
+    "animal_name": "Rattler",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus_cerastes_mesquite_springs_CA-2.jpg/250px-Crotalus_cerastes_mesquite_springs_CA-2.jpg"
+  },
+  {
+    "id": 90,
+    "animal_name": "Bighorn Sheep",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -2,
+      "forest": -1,
+      "poles": 0,
+      "air": -1,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/New_Mexico_Bighorn_Sheep.JPG/250px-New_Mexico_Bighorn_Sheep.JPG"
+  },
+  {
+    "id": 91,
+    "animal_name": "Electric Eel",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 3,
+      "strength": 2,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": 1,
+      "poles": -1,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Electric-eel.jpg/250px-Electric-eel.jpg"
+  },
+  {
+    "id": 92,
+    "animal_name": "Pangolin",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pangolin_brought_to_the_Range_office%2C_KMTR_AJTJ_cropped.jpg/250px-Pangolin_brought_to_the_Range_office%2C_KMTR_AJTJ_cropped.jpg"
+  },
+  {
+    "id": 93,
+    "animal_name": "Harpy Eagle",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -1,
+      "forest": 3,
+      "poles": 0,
+      "air": 3,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Harpia_harpyja_001_800.jpg/250px-Harpia_harpyja_001_800.jpg"
+  },
+  {
+    "id": 94,
+    "animal_name": "Narwhal",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 2,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg/250px-%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg"
+  },
+  {
+    "id": 95,
+    "animal_name": "Meerkat",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Meerkat_%28Suricata_suricatta%29_Tswalu.jpg/250px-Meerkat_%28Suricata_suricatta%29_Tswalu.jpg"
+  },
+  {
+    "id": 96,
+    "animal_name": "Chamois",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 0,
+      "poles": 0,
+      "air": 0,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg/250px-064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": 97,
+    "animal_name": "Salamander",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 3,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 1,
+      "forest": 2,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SpottedSalamander.jpg/250px-SpottedSalamander.jpg"
+  },
+  {
+    "id": 98,
+    "animal_name": "Wildebeest",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blue_Wildebeest%2C_Ngorongoro.jpg/250px-Blue_Wildebeest%2C_Ngorongoro.jpg"
+  },
+  {
+    "id": 99,
+    "animal_name": "Unicorn",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 2,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 2,
+      "poles": 0,
+      "air": 1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Oftheunicorn.jpg/250px-Oftheunicorn.jpg"
+  }
+],
+"tr" :[
+  {
+    "id": 1,
+    "animal_name": "Yılan",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -1,
+      "forest": 1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Trimeresurus_sabahi_fucatus%2C_Banded_pit_viper_-_Takua_Pa_District%2C_Phang-nga_Province_%2846710893582%29.jpg/250px-Trimeresurus_sabahi_fucatus%2C_Banded_pit_viper_-_Takua_Pa_District%2C_Phang-nga_Province_%2846710893582%29.jpg"
+  },
+  {
+    "id": 2,
+    "animal_name": "Aslan",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/250px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": 3,
+    "animal_name": "Kunduz",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 2,
+      "forest": 2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/250px-American_Beaver.jpg"
+  },
+  {
+    "id": 4,
+    "animal_name": "Kartal",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 1,
+      "air": 3,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Eagles_together.jpg/250px-Eagles_together.jpg"
+  },
+  {
+    "id": 5,
+    "animal_name": "Köpekbalığı",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 4,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 1,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Corl0207_%2828225976491%29.jpg/250px-Corl0207_%2828225976491%29.jpg"
+  },
+  {
+    "id": 7,
+    "animal_name": "Tilki",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 1,
+      "strength": 1,
+      "cunning": 5
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 2,
+      "poles": 0,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Vulpes_vulpes_ssp_fulvus.jpg/250px-Vulpes_vulpes_ssp_fulvus.jpg"
+  },
+  {
+    "id": 8,
+    "animal_name": "Deve",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": -1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg/250px-07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg"
+  },
+  {
+    "id": 9,
+    "animal_name": "Baykuş",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 5
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 2,
+      "poles": 0,
+      "air": 2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bubo_bubo_sibiricus_-_01.JPG/250px-Bubo_bubo_sibiricus_-_01.JPG"
+  },
+  {
+    "id": 10,
+    "animal_name": "Timsah",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 4,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 1,
+      "poles": -2,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nile_crocodile_head.jpg/250px-Nile_crocodile_head.jpg"
+  },
+  {
+    "id": 11,
+    "animal_name": "Goril",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 0,
+      "strength": 6,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -2,
+      "air": -1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gorille_des_plaines_de_l%27ouest_%C3%A0_l%27Espace_Zoologique.jpg/250px-Gorille_des_plaines_de_l%27ouest_%C3%A0_l%27Espace_Zoologique.jpg"
+  },
+  {
+    "id": 13,
+    "animal_name": "Çita",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Male_cheetah_facing_left_in_South_Africa.jpg/250px-Male_cheetah_facing_left_in_South_Africa.jpg"
+  },
+  {
+    "id": 14,
+    "animal_name": "Kaplumbağa",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 1,
+      "poles": 0,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Florida_Box_Turtle_Digon3.jpg/250px-Florida_Box_Turtle_Digon3.jpg"
+  },
+  {
+    "id": 15,
+    "animal_name": "Kurt",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -1,
+      "forest": 2,
+      "poles": 2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/250px-Eurasian_wolf_2.jpg"
+  },
+  {
+    "id": 16,
+    "animal_name": "Penguen",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 2,
+      "forest": -1,
+      "poles": 3,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg/250px-Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg"
+  },
+  {
+    "id": 17,
+    "animal_name": "Akrep",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": -1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Scorpion_Photograph_By_Shantanu_Kuveskar.jpg/250px-Scorpion_Photograph_By_Shantanu_Kuveskar.jpg"
+  },
+  {
+    "id": 19,
+    "animal_name": "Ayı",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 0,
+      "forest": 2,
+      "poles": 2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ours_brun_parcanimalierpyrenees_1.jpg/250px-Ours_brun_parcanimalierpyrenees_1.jpg"
+  },
+  {
+    "id": 20,
+    "animal_name": "Şahin",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 3,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Northern_Goshawk_ad_M2.jpg/250px-Northern_Goshawk_ad_M2.jpg"
+  },
+  {
+    "id": 21,
+    "animal_name": "Çıngıraklı Yılan",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 5,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus_cerastes_mesquite_springs_CA-2.jpg/250px-Crotalus_cerastes_mesquite_springs_CA-2.jpg"
+  },
+  {
+    "id": 22,
+    "animal_name": "Fil",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 0,
+      "strength": 6,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -3,
+      "forest": 2,
+      "poles": -2,
+      "air": -2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/250px-African_Bush_Elephant.jpg"
+  },
+  {
+    "id": 23,
+    "animal_name": "Orka",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 2,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Killerwhales_jumping.jpg/250px-Killerwhales_jumping.jpg"
+  },
+  {
+    "id": 24,
+    "animal_name": "Sırtlan",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 1,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hyaenidae_Diversity.jpg/250px-Hyaenidae_Diversity.jpg"
+  },
+  {
+    "id": 26,
+    "animal_name": "Jaguar",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Standing_jaguar.jpg/330px-Standing_jaguar.jpg"
+  },
+  {
+    "id": 28,
+    "animal_name": "Akbaba",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 1,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -1,
+      "forest": 0,
+      "poles": 0,
+      "air": 2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gyps_rueppellii_-Nairobi_National_Park%2C_Kenya-8-4c.jpg/250px-Gyps_rueppellii_-Nairobi_National_Park%2C_Kenya-8-4c.jpg"
+  },
+  {
+    "id": 29,
+    "animal_name": "Gergedan",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -3,
+      "forest": 1,
+      "poles": -2,
+      "air": -2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rhino_collage.png/330px-Rhino_collage.png"
+  },
+  {
+    "id": 30,
+    "animal_name": "Ahtapot",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/250px-Octopus2.jpg"
+  },
+  {
+    "id": 31,
+    "animal_name": "Leopar",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/African_leopard_male_%28cropped%29.jpg/250px-African_leopard_male_%28cropped%29.jpg"
+  },
+  {
+    "id": 32,
+    "animal_name": "Albatros",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 5
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 0,
+      "poles": 1,
+      "air": 3,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Short_tailed_Albatross1.jpg/330px-Short_tailed_Albatross1.jpg"
+  },
+  {
+    "id": 33,
+    "animal_name": "Komodo Ejderi",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 3,
+      "strength": 4,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -1,
+      "forest": 2,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/202306_Varanus_komodoensis.jpg/250px-202306_Varanus_komodoensis.jpg"
+  },
+  {
+    "id": 34,
+    "animal_name": "Gelincik",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -1,
+      "forest": 1,
+      "poles": 2,
+      "air": -1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gulo_gulo_2.jpg/250px-Gulo_gulo_2.jpg"
+  },
+  {
+    "id": 35,
+    "animal_name": "Bukalemun",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 1,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 3,
+      "poles": -2,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamaeleonidae-01.jpg/250px-Chamaeleonidae-01.jpg"
+  },
+  {
+    "id": 36,
+    "animal_name": "Bizon",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -3,
+      "forest": 1,
+      "poles": 0,
+      "air": -2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/250px-American_bison_k5680-1.jpg"
+  },
+  {
+    "id": 37,
+    "animal_name": "Vatoz",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 3,
+      "strength": 2,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 2,
+      "forest": -2,
+      "poles": 0,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SStringray.jpg/250px-SStringray.jpg"
+  },
+  {
+    "id": 38,
+    "animal_name": "Akbaba",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 1,
+      "strength": 4,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 0,
+      "forest": 0,
+      "poles": 1,
+      "air": 3,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Andean_condor_%28Vultur_gryphus%29_at_Colca_Canyon.jpg/250px-Andean_condor_%28Vultur_gryphus%29_at_Colca_Canyon.jpg"
+  },
+  {
+    "id": 39,
+    "animal_name": "Çakal",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": 0,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2009-Coyote-Yosemite.jpg/250px-2009-Coyote-Yosemite.jpg"
+  },
+  {
+    "id": 40,
+    "animal_name": "Denizanası",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jelly_cc11.jpg/250px-Jelly_cc11.jpg"
+  },
+  {
+    "id": 41,
+    "animal_name": "Kaplan",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -1,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking_tiger_female.jpg/330px-Walking_tiger_female.jpg"
+  },
+  {
+    "id": 42,
+    "animal_name": "Mors",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 2,
+      "forest": -2,
+      "poles": 3,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg/250px-Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg"
+  },
+  {
+    "id": 43,
+    "animal_name": "Flamingo",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 0,
+      "poles": -1,
+      "air": 1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flamingos_Laguna_Colorada.jpg/250px-Flamingos_Laguna_Colorada.jpg"
+  },
+  {
+    "id": 44,
+    "animal_name": "Kar Leoparı",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": 2,
+      "air": 0,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Irbis4.JPG/250px-Irbis4.JPG"
+  },
+  {
+    "id": 45,
+    "animal_name": "Kobra",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 5,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Indiancobra.jpg/250px-Indiancobra.jpg"
+  },
+  {
+    "id": 47,
+    "animal_name": "Piranha",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 2,
+      "strength": 3,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 2,
+      "forest": 1,
+      "poles": -1,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg/250px-Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg"
+  },
+  {
+    "id": 48,
+    "animal_name": "Grifon",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 2,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 2,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Knossos_fresco_in_throne_palace.JPG/250px-Knossos_fresco_in_throne_palace.JPG"
+  },
+  {
+    "id": 49,
+    "animal_name": "Antilop",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blackbuck_male_female.jpg/250px-Blackbuck_male_female.jpg"
+  },
+  {
+    "id": 52,
+    "animal_name": "Mürekkep Balığı",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sepioteuthis_sepioidea_%28Caribbean_Reef_Squid%29.jpg/250px-Sepioteuthis_sepioidea_%28Caribbean_Reef_Squid%29.jpg"
+  },
+  {
+    "id": 53,
+    "animal_name": "Doğan",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 3,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Brown-Falcon%2C-Vic%2C-3.1.2008.jpg/250px-Brown-Falcon%2C-Vic%2C-3.1.2008.jpg"
+  },
+  {
+    "id": 54,
+    "animal_name": "Su Aygırı",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 2,
+      "forest": 1,
+      "poles": -2,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Portrait_Hippopotamus_in_the_water.jpg/250px-Portrait_Hippopotamus_in_the_water.jpg"
+  },
+  {
+    "id": 56,
+    "animal_name": "Ceylan",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Chinkara_-_Shreeram_M_V_-_Bikaner.jpg/250px-Chinkara_-_Shreeram_M_V_-_Bikaner.jpg"
+  },
+  {
+    "id": 57,
+    "animal_name": "Manta Vatozu",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 1,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG/250px-Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG"
+  },
+  {
+    "id": 58,
+    "animal_name": "Vaşak",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 2,
+      "poles": 2,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lynx_heads_collage.jpg/250px-Lynx_heads_collage.jpg"
+  },
+  {
+    "id": 59,
+    "animal_name": "Anakonda",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 2,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 1,
+      "forest": 3,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eunectes_murinus2.jpg/250px-Eunectes_murinus2.jpg"
+  },
+  {
+    "id": 60,
+    "animal_name": "Papağan",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 0,
+      "forest": 3,
+      "poles": -1,
+      "air": 2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parrot_montage.jpg/330px-Parrot_montage.jpg"
+  },
+  {
+    "id": 61,
+    "animal_name": "Sığın",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 2,
+      "poles": 2,
+      "air": -2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alaska_moose.jpg/250px-Alaska_moose.jpg"
+  },
+  {
+    "id": 62,
+    "animal_name": "Barakuda",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 1,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Barracuda_laban.jpg/250px-Barracuda_laban.jpg"
+  },
+  {
+    "id": 64,
+    "animal_name": "Yak",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -3,
+      "forest": 0,
+      "poles": 2,
+      "air": -2,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sarlyk_Yak2.jpg/250px-Sarlyk_Yak2.jpg"
+  },
+  {
+    "id": 66,
+    "animal_name": "Zebra",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Plains_Zebra_Equus_quagga_cropped.jpg/250px-Plains_Zebra_Equus_quagga_cropped.jpg"
+  },
+  {
+    "id": 67,
+    "animal_name": "Müren Yılan Balığı",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 3,
+      "strength": 2,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Moray_eel.jpg/250px-Moray_eel.jpg"
+  },
+  {
+    "id": 68,
+    "animal_name": "Ren Geyiği",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": 3,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg/250px-Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg"
+  },
+  {
+    "id": 69,
+    "animal_name": "Kerkenez",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Falco_naumanni%2C_Negev.jpg/250px-Falco_naumanni%2C_Negev.jpg"
+  },
+  {
+    "id": 70,
+    "animal_name": "Gila Canavarı",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": -1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gila_monster2.JPG/250px-Gila_monster2.JPG"
+  },
+  {
+    "id": 72,
+    "animal_name": "Kirpi Balığı",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tetraodon-hispidus.jpg/250px-Tetraodon-hispidus.jpg"
+  },
+  {
+    "id": 73,
+    "animal_name": "Puma",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": 0,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mountain_Lion_in_Glacier_National_Park.jpg/250px-Mountain_Lion_in_Glacier_National_Park.jpg"
+  },
+  {
+    "id": 74,
+    "animal_name": "Pelikan",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 3,
+      "forest": 0,
+      "poles": 1,
+      "air": 2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pelikan_Walvis_Bay.jpg/250px-Pelikan_Walvis_Bay.jpg"
+  },
+  {
+    "id": 75,
+    "animal_name": "Yaban Domuzu",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg/250px-Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg"
+  },
+  {
+    "id": 76,
+    "animal_name": "Deniz Kaplumbağası",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 3,
+      "forest": -1,
+      "poles": 0,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chelonia_mydas_is_going_for_the_air_edit.jpg/250px-Chelonia_mydas_is_going_for_the_air_edit.jpg"
+  },
+  {
+    "id": 77,
+    "animal_name": "Devekuşu",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Struthio_Diversity.jpg/250px-Struthio_Diversity.jpg"
+  },
+  {
+    "id": 78,
+    "animal_name": "Boz Ayı",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 0,
+      "forest": 2,
+      "poles": 2,
+      "air": -1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/GrizzlyBearJeanBeaufort.jpg/250px-GrizzlyBearJeanBeaufort.jpg"
+  },
+  {
+    "id": 79,
+    "animal_name": "Engerek",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Viperidae-01.jpg/250px-Viperidae-01.jpg"
+  },
+  {
+    "id": 80,
+    "animal_name": "Emu",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Emu_1_-_Tidbinbilla.jpg/330px-Emu_1_-_Tidbinbilla.jpg"
+  },
+  {
+    "id": 81,
+    "animal_name": "Deniz Aslanı",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 2,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/California_sea_lion_in_La_Jolla_%2870568%29.jpg/250px-California_sea_lion_in_La_Jolla_%2870568%29.jpg"
+  },
+  {
+    "id": 82,
+    "animal_name": "Çakal",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flickr_-_Rainbirder_-_Golden_Jackal_%281%29.jpg/250px-Flickr_-_Rainbirder_-_Golden_Jackal_%281%29.jpg"
+  },
+  {
+    "id": 83,
+    "animal_name": "Mandrill",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg/250px-Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg"
+  },
+  {
+    "id": 84,
+    "animal_name": "Alpaka",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 0,
+      "poles": 0,
+      "air": -1,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Alpaca_%2831562329701%29.jpg/250px-Alpaca_%2831562329701%29.jpg"
+  },
+  {
+    "id": 85,
+    "animal_name": "Çekiç Kafalı Köpekbalığı",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 1,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg/250px-Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg"
+  },
+  {
+    "id": 86,
+    "animal_name": "Tavus Kuşu",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 2,
+      "poles": -1,
+      "air": 1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Peacock_Plumage.jpg/250px-Peacock_Plumage.jpg"
+  },
+  {
+    "id": 87,
+    "animal_name": "Yaban Domuzu",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg/250px-Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg"
+  },
+  {
+    "id": 88,
+    "animal_name": "Balık Kartalı",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 1,
+      "poles": 0,
+      "air": 3,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Osprey_Perched_Snag_Heislerville.jpg/250px-Osprey_Perched_Snag_Heislerville.jpg"
+  },
+  {
+    "id": 89,
+    "animal_name": "Çıngıraklı Yılan",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus_cerastes_mesquite_springs_CA-2.jpg/250px-Crotalus_cerastes_mesquite_springs_CA-2.jpg"
+  },
+  {
+    "id": 90,
+    "animal_name": "Dağ Koyunu",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -2,
+      "forest": -1,
+      "poles": 0,
+      "air": -1,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/New_Mexico_Bighorn_Sheep.JPG/250px-New_Mexico_Bighorn_Sheep.JPG"
+  },
+  {
+    "id": 91,
+    "animal_name": "Elektrikli Yılan Balığı",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 3,
+      "strength": 2,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": 1,
+      "poles": -1,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Electric-eel.jpg/250px-Electric-eel.jpg"
+  },
+  {
+    "id": 92,
+    "animal_name": "Pangolin",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pangolin_brought_to_the_Range_office%2C_KMTR_AJTJ_cropped.jpg/250px-Pangolin_brought_to_the_Range_office%2C_KMTR_AJTJ_cropped.jpg"
+  },
+  {
+    "id": 93,
+    "animal_name": "Harpi Kartalı",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -1,
+      "forest": 3,
+      "poles": 0,
+      "air": 3,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Harpia_harpyja_001_800.jpg/250px-Harpia_harpyja_001_800.jpg"
+  },
+  {
+    "id": 94,
+    "animal_name": "Deniz Gergedanı",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 2,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg/250px-%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg"
+  },
+  {
+    "id": 95,
+    "animal_name": "Mirket",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Meerkat_%28Suricata_suricatta%29_Tswalu.jpg/250px-Meerkat_%28Suricata_suricatta%29_Tswalu.jpg"
+  },
+  {
+    "id": 96,
+    "animal_name": "Dağ Keçisi",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 0,
+      "poles": 0,
+      "air": 0,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg/250px-064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": 97,
+    "animal_name": "Semender",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 3,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 1,
+      "forest": 2,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SpottedSalamander.jpg/250px-SpottedSalamander.jpg"
+  },
+  {
+    "id": 98,
+    "animal_name": "Antilop",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blue_Wildebeest%2C_Ngorongoro.jpg/250px-Blue_Wildebeest%2C_Ngorongoro.jpg"
+  },
+  {
+    "id": 99,
+    "animal_name": "Tek Boynuzlu At",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 2,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 2,
+      "poles": 0,
+      "air": 1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Oftheunicorn.jpg/250px-Oftheunicorn.jpg"
+  }
+],
+"es" :[
+  {
+    "id": 1,
+    "animal_name": "Serpiente",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -1,
+      "forest": 1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Trimeresurus_sabahi_fucatus%2C_Banded_pit_viper_-_Takua_Pa_District%2C_Phang-nga_Province_%2846710893582%29.jpg/250px-Trimeresurus_sabahi_fucatus%2C_Banded_pit_viper_-_Takua_Pa_District%2C_Phang-nga_Province_%2846710893582%29.jpg"
+  },
+  {
+    "id": 2,
+    "animal_name": "León",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/250px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": 3,
+    "animal_name": "Castor",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 2,
+      "forest": 2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/250px-American_Beaver.jpg"
+  },
+  {
+    "id": 4,
+    "animal_name": "Águila",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 1,
+      "air": 3,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Eagles_together.jpg/250px-Eagles_together.jpg"
+  },
+  {
+    "id": 5,
+    "animal_name": "Tiburón",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 4,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 1,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Corl0207_%2828225976491%29.jpg/250px-Corl0207_%2828225976491%29.jpg"
+  },
+  {
+    "id": 7,
+    "animal_name": "Zorro",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 1,
+      "strength": 1,
+      "cunning": 5
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 2,
+      "poles": 0,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Vulpes_vulpes_ssp_fulvus.jpg/250px-Vulpes_vulpes_ssp_fulvus.jpg"
+  },
+  {
+    "id": 8,
+    "animal_name": "Camello",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": -1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg/250px-07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg"
+  },
+  {
+    "id": 9,
+    "animal_name": "Búho",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 5
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 2,
+      "poles": 0,
+      "air": 2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bubo_bubo_sibiricus_-_01.JPG/250px-Bubo_bubo_sibiricus_-_01.JPG"
+  },
+  {
+    "id": 10,
+    "animal_name": "Cocodrilo",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 4,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 1,
+      "poles": -2,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nile_crocodile_head.jpg/250px-Nile_crocodile_head.jpg"
+  },
+  {
+    "id": 11,
+    "animal_name": "Gorila",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 0,
+      "strength": 6,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -2,
+      "air": -1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gorille_des_plaines_de_l%27ouest_%C3%A0_l%27Espace_Zoologique.jpg/250px-Gorille_des_plaines_de_l%27ouest_%C3%A0_l%27Espace_Zoologique.jpg"
+  },
+  {
+    "id": 13,
+    "animal_name": "Guepardo",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Male_cheetah_facing_left_in_South_Africa.jpg/250px-Male_cheetah_facing_left_in_South_Africa.jpg"
+  },
+  {
+    "id": 14,
+    "animal_name": "Tortuga",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 1,
+      "poles": 0,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Florida_Box_Turtle_Digon3.jpg/250px-Florida_Box_Turtle_Digon3.jpg"
+  },
+  {
+    "id": 15,
+    "animal_name": "Lobo",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -1,
+      "forest": 2,
+      "poles": 2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/250px-Eurasian_wolf_2.jpg"
+  },
+  {
+    "id": 16,
+    "animal_name": "Pingüino",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 2,
+      "forest": -1,
+      "poles": 3,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg/250px-Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg"
+  },
+  {
+    "id": 17,
+    "animal_name": "Escorpión",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": -1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Scorpion_Photograph_By_Shantanu_Kuveskar.jpg/250px-Scorpion_Photograph_By_Shantanu_Kuveskar.jpg"
+  },
+  {
+    "id": 19,
+    "animal_name": "Oso",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 0,
+      "forest": 2,
+      "poles": 2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ours_brun_parcanimalierpyrenees_1.jpg/250px-Ours_brun_parcanimalierpyrenees_1.jpg"
+  },
+  {
+    "id": 20,
+    "animal_name": "Halcón",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 3,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Northern_Goshawk_ad_M2.jpg/250px-Northern_Goshawk_ad_M2.jpg"
+  },
+  {
+    "id": 21,
+    "animal_name": "Serpiente de Cascabel",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 5,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus_cerastes_mesquite_springs_CA-2.jpg/250px-Crotalus_cerastes_mesquite_springs_CA-2.jpg"
+  },
+  {
+    "id": 22,
+    "animal_name": "Elefante",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 0,
+      "strength": 6,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -3,
+      "forest": 2,
+      "poles": -2,
+      "air": -2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/250px-African_Bush_Elephant.jpg"
+  },
+  {
+    "id": 23,
+    "animal_name": "Orca",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 2,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Killerwhales_jumping.jpg/250px-Killerwhales_jumping.jpg"
+  },
+  {
+    "id": 24,
+    "animal_name": "Hiena",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 1,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hyaenidae_Diversity.jpg/250px-Hyaenidae_Diversity.jpg"
+  },
+  {
+    "id": 26,
+    "animal_name": "Jaguar",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Standing_jaguar.jpg/330px-Standing_jaguar.jpg"
+  },
+  {
+    "id": 28,
+    "animal_name": "Buitre",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 1,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -1,
+      "forest": 0,
+      "poles": 0,
+      "air": 2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gyps_rueppellii_-Nairobi_National_Park%2C_Kenya-8-4c.jpg/250px-Gyps_rueppellii_-Nairobi_National_Park%2C_Kenya-8-4c.jpg"
+  },
+  {
+    "id": 29,
+    "animal_name": "Rinoceronte",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -3,
+      "forest": 1,
+      "poles": -2,
+      "air": -2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rhino_collage.png/330px-Rhino_collage.png"
+  },
+  {
+    "id": 30,
+    "animal_name": "Pulpo",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/250px-Octopus2.jpg"
+  },
+  {
+    "id": 31,
+    "animal_name": "Leopardo",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/African_leopard_male_%28cropped%29.jpg/250px-African_leopard_male_%28cropped%29.jpg"
+  },
+  {
+    "id": 32,
+    "animal_name": "Albatros",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 5
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 0,
+      "poles": 1,
+      "air": 3,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Short_tailed_Albatross1.jpg/330px-Short_tailed_Albatross1.jpg"
+  },
+  {
+    "id": 33,
+    "animal_name": "Dragón de Komodo",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 3,
+      "strength": 4,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -1,
+      "forest": 2,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/202306_Varanus_komodoensis.jpg/250px-202306_Varanus_komodoensis.jpg"
+  },
+  {
+    "id": 34,
+    "animal_name": "Glotón",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -1,
+      "forest": 1,
+      "poles": 2,
+      "air": -1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gulo_gulo_2.jpg/250px-Gulo_gulo_2.jpg"
+  },
+  {
+    "id": 35,
+    "animal_name": "Camaleón",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 1,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 3,
+      "poles": -2,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamaeleonidae-01.jpg/250px-Chamaeleonidae-01.jpg"
+  },
+  {
+    "id": 36,
+    "animal_name": "Bisonte",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -3,
+      "forest": 1,
+      "poles": 0,
+      "air": -2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/250px-American_bison_k5680-1.jpg"
+  },
+  {
+    "id": 37,
+    "animal_name": "Raya",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 3,
+      "strength": 2,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 2,
+      "forest": -2,
+      "poles": 0,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SStringray.jpg/250px-SStringray.jpg"
+  },
+  {
+    "id": 38,
+    "animal_name": "Cóndor",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 1,
+      "strength": 4,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 0,
+      "forest": 0,
+      "poles": 1,
+      "air": 3,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Andean_condor_%28Vultur_gryphus%29_at_Colca_Canyon.jpg/250px-Andean_condor_%28Vultur_gryphus%29_at_Colca_Canyon.jpg"
+  },
+  {
+    "id": 39,
+    "animal_name": "Coyote",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": 0,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2009-Coyote-Yosemite.jpg/250px-2009-Coyote-Yosemite.jpg"
+  },
+  {
+    "id": 40,
+    "animal_name": "Medusa",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jelly_cc11.jpg/250px-Jelly_cc11.jpg"
+  },
+  {
+    "id": 41,
+    "animal_name": "Tigre",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -1,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking_tiger_female.jpg/330px-Walking_tiger_female.jpg"
+  },
+  {
+    "id": 42,
+    "animal_name": "Morsa",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 2,
+      "forest": -2,
+      "poles": 3,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg/250px-Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg"
+  },
+  {
+    "id": 43,
+    "animal_name": "Flamenco",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 0,
+      "poles": -1,
+      "air": 1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flamingos_Laguna_Colorada.jpg/250px-Flamingos_Laguna_Colorada.jpg"
+  },
+  {
+    "id": 44,
+    "animal_name": "Leopardo de las Nieves",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": 2,
+      "air": 0,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Irbis4.JPG/250px-Irbis4.JPG"
+  },
+  {
+    "id": 45,
+    "animal_name": "Cobra",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 5,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Indiancobra.jpg/250px-Indiancobra.jpg"
+  },
+  {
+    "id": 47,
+    "animal_name": "Piraña",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 2,
+      "strength": 3,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 2,
+      "forest": 1,
+      "poles": -1,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg/250px-Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg"
+  },
+  {
+    "id": 48,
+    "animal_name": "Grifo",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 2,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 2,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Knossos_fresco_in_throne_palace.JPG/250px-Knossos_fresco_in_throne_palace.JPG"
+  },
+  {
+    "id": 49,
+    "animal_name": "Antílope",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blackbuck_male_female.jpg/250px-Blackbuck_male_female.jpg"
+  },
+  {
+    "id": 52,
+    "animal_name": "Calamar",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sepioteuthis_sepioidea_%28Caribbean_Reef_Squid%29.jpg/250px-Sepioteuthis_sepioidea_%28Caribbean_Reef_Squid%29.jpg"
+  },
+  {
+    "id": 53,
+    "animal_name": "Halcón",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 3,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Brown-Falcon%2C-Vic%2C-3.1.2008.jpg/250px-Brown-Falcon%2C-Vic%2C-3.1.2008.jpg"
+  },
+  {
+    "id": 54,
+    "animal_name": "Hipopótamo",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 2,
+      "forest": 1,
+      "poles": -2,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Portrait_Hippopotamus_in_the_water.jpg/250px-Portrait_Hippopotamus_in_the_water.jpg"
+  },
+  {
+    "id": 56,
+    "animal_name": "Gacela",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Chinkara_-_Shreeram_M_V_-_Bikaner.jpg/250px-Chinkara_-_Shreeram_M_V_-_Bikaner.jpg"
+  },
+  {
+    "id": 57,
+    "animal_name": "Manta Raya",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 1,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG/250px-Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG"
+  },
+  {
+    "id": 58,
+    "animal_name": "Lince",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 2,
+      "poles": 2,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lynx_heads_collage.jpg/250px-Lynx_heads_collage.jpg"
+  },
+  {
+    "id": 59,
+    "animal_name": "Anaconda",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 2,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 1,
+      "forest": 3,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eunectes_murinus2.jpg/250px-Eunectes_murinus2.jpg"
+  },
+  {
+    "id": 60,
+    "animal_name": "Loro",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 0,
+      "forest": 3,
+      "poles": -1,
+      "air": 2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parrot_montage.jpg/330px-Parrot_montage.jpg"
+  },
+  {
+    "id": 61,
+    "animal_name": "Alce",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 2,
+      "poles": 2,
+      "air": -2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alaska_moose.jpg/250px-Alaska_moose.jpg"
+  },
+  {
+    "id": 62,
+    "animal_name": "Barracuda",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 1,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Barracuda_laban.jpg/250px-Barracuda_laban.jpg"
+  },
+  {
+    "id": 64,
+    "animal_name": "Yak",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -3,
+      "forest": 0,
+      "poles": 2,
+      "air": -2,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sarlyk_Yak2.jpg/250px-Sarlyk_Yak2.jpg"
+  },
+  {
+    "id": 66,
+    "animal_name": "Cebra",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Plains_Zebra_Equus_quagga_cropped.jpg/250px-Plains_Zebra_Equus_quagga_cropped.jpg"
+  },
+  {
+    "id": 67,
+    "animal_name": "Anguila Morena",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 3,
+      "strength": 2,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Moray_eel.jpg/250px-Moray_eel.jpg"
+  },
+  {
+    "id": 68,
+    "animal_name": "Caribú",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": 3,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg/250px-Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg"
+  },
+  {
+    "id": 69,
+    "animal_name": "Cernícalo",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Falco_naumanni%2C_Negev.jpg/250px-Falco_naumanni%2C_Negev.jpg"
+  },
+  {
+    "id": 70,
+    "animal_name": "Monstruo de Gila",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": -1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gila_monster2.JPG/250px-Gila_monster2.JPG"
+  },
+  {
+    "id": 72,
+    "animal_name": "Pez Globo",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tetraodon-hispidus.jpg/250px-Tetraodon-hispidus.jpg"
+  },
+  {
+    "id": 73,
+    "animal_name": "Puma",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": 0,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mountain_Lion_in_Glacier_National_Park.jpg/250px-Mountain_Lion_in_Glacier_National_Park.jpg"
+  },
+  {
+    "id": 74,
+    "animal_name": "Pelícano",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 3,
+      "forest": 0,
+      "poles": 1,
+      "air": 2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pelikan_Walvis_Bay.jpg/250px-Pelikan_Walvis_Bay.jpg"
+  },
+  {
+    "id": 75,
+    "animal_name": "Jabalí",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg/250px-Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg"
+  },
+  {
+    "id": 76,
+    "animal_name": "Tortuga Marina",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 3,
+      "forest": -1,
+      "poles": 0,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chelonia_mydas_is_going_for_the_air_edit.jpg/250px-Chelonia_mydas_is_going_for_the_air_edit.jpg"
+  },
+  {
+    "id": 77,
+    "animal_name": "Avestruz",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Struthio_Diversity.jpg/250px-Struthio_Diversity.jpg"
+  },
+  {
+    "id": 78,
+    "animal_name": "Oso Grizzly",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 0,
+      "forest": 2,
+      "poles": 2,
+      "air": -1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/GrizzlyBearJeanBeaufort.jpg/250px-GrizzlyBearJeanBeaufort.jpg"
+  },
+  {
+    "id": 79,
+    "animal_name": "Víbora",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Viperidae-01.jpg/250px-Viperidae-01.jpg"
+  },
+  {
+    "id": 80,
+    "animal_name": "Emú",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Emu_1_-_Tidbinbilla.jpg/330px-Emu_1_-_Tidbinbilla.jpg"
+  },
+  {
+    "id": 81,
+    "animal_name": "León Marino",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 2,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/California_sea_lion_in_La_Jolla_%2870568%29.jpg/250px-California_sea_lion_in_La_Jolla_%2870568%29.jpg"
+  },
+  {
+    "id": 82,
+    "animal_name": "Chacal",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flickr_-_Rainbirder_-_Golden_Jackal_%281%29.jpg/250px-Flickr_-_Rainbirder_-_Golden_Jackal_%281%29.jpg"
+  },
+  {
+    "id": 83,
+    "animal_name": "Mandrill",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg/250px-Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg"
+  },
+  {
+    "id": 84,
+    "animal_name": "Alpaca",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 0,
+      "poles": 0,
+      "air": -1,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Alpaca_%2831562329701%29.jpg/250px-Alpaca_%2831562329701%29.jpg"
+  },
+  {
+    "id": 85,
+    "animal_name": "Tiburón Martillo",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 1,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg/250px-Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg"
+  },
+  {
+    "id": 86,
+    "animal_name": "Pavo Real",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 2,
+      "poles": -1,
+      "air": 1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Peacock_Plumage.jpg/250px-Peacock_Plumage.jpg"
+  },
+  {
+    "id": 87,
+    "animal_name": "Jabalí",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg/250px-Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg"
+  },
+  {
+    "id": 88,
+    "animal_name": "Águila Pescadora",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 1,
+      "poles": 0,
+      "air": 3,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Osprey_Perched_Snag_Heislerville.jpg/250px-Osprey_Perched_Snag_Heislerville.jpg"
+  },
+  {
+    "id": 89,
+    "animal_name": "Serpiente de Cascabel",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus_cerastes_mesquite_springs_CA-2.jpg/250px-Crotalus_cerastes_mesquite_springs_CA-2.jpg"
+  },
+  {
+    "id": 90,
+    "animal_name": "Carnero de las Rocosas",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -2,
+      "forest": -1,
+      "poles": 0,
+      "air": -1,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/New_Mexico_Bighorn_Sheep.JPG/250px-New_Mexico_Bighorn_Sheep.JPG"
+  },
+  {
+    "id": 91,
+    "animal_name": "Anguila Eléctrica",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 3,
+      "strength": 2,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": 1,
+      "poles": -1,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Electric-eel.jpg/250px-Electric-eel.jpg"
+  },
+  {
+    "id": 92,
+    "animal_name": "Pangolín",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pangolin_brought_to_the_Range_office%2C_KMTR_AJTJ_cropped.jpg/250px-Pangolin_brought_to_the_Range_office%2C_KMTR_AJTJ_cropped.jpg"
+  },
+  {
+    "id": 93,
+    "animal_name": "Águila Arpía",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -1,
+      "forest": 3,
+      "poles": 0,
+      "air": 3,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Harpia_harpyja_001_800.jpg/250px-Harpia_harpyja_001_800.jpg"
+  },
+  {
+    "id": 94,
+    "animal_name": "Narval",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 2,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg/250px-%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg"
+  },
+  {
+    "id": 95,
+    "animal_name": "Suricata",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Meerkat_%28Suricata_suricatta%29_Tswalu.jpg/250px-Meerkat_%28Suricata_suricatta%29_Tswalu.jpg"
+  },
+  {
+    "id": 96,
+    "animal_name": "Rebeco",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 0,
+      "poles": 0,
+      "air": 0,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg/250px-064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": 97,
+    "animal_name": "Salamandra",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 3,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 1,
+      "forest": 2,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SpottedSalamander.jpg/250px-SpottedSalamander.jpg"
+  },
+  {
+    "id": 98,
+    "animal_name": "Ñu",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blue_Wildebeest%2C_Ngorongoro.jpg/250px-Blue_Wildebeest%2C_Ngorongoro.jpg"
+  },
+  {
+    "id": 99,
+    "animal_name": "Unicornio",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 2,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 2,
+      "poles": 0,
+      "air": 1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Oftheunicorn.jpg/250px-Oftheunicorn.jpg"
+  }
+],
+"cn" : [
+  {
+    "id": 1,
+    "animal_name": "蛇",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -1,
+      "forest": 1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Trimeresurus_sabahi_fucatus%2C_Banded_pit_viper_-_Takua_Pa_District%2C_Phang-nga_Province_%2846710893582%29.jpg/250px-Trimeresurus_sabahi_fucatus%2C_Banded_pit_viper_-_Takua_Pa_District%2C_Phang-nga_Province_%2846710893582%29.jpg"
+  },
+  {
+    "id": 2,
+    "animal_name": "狮子",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/250px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": 3,
+    "animal_name": "海狸",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 2,
+      "forest": 2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/250px-American_Beaver.jpg"
+  },
+  {
+    "id": 4,
+    "animal_name": "鹰",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 1,
+      "air": 3,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Eagles_together.jpg/250px-Eagles_together.jpg"
+  },
+  {
+    "id": 5,
+    "animal_name": "鲨鱼",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 4,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 1,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Corl0207_%2828225976491%29.jpg/250px-Corl0207_%2828225976491%29.jpg"
+  },
+  {
+    "id": 7,
+    "animal_name": "狐狸",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 1,
+      "strength": 1,
+      "cunning": 5
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 2,
+      "poles": 0,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Vulpes_vulpes_ssp_fulvus.jpg/250px-Vulpes_vulpes_ssp_fulvus.jpg"
+  },
+  {
+    "id": 8,
+    "animal_name": "骆驼",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": -1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg/250px-07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg"
+  },
+  {
+    "id": 9,
+    "animal_name": "猫头鹰",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 5
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 2,
+      "poles": 0,
+      "air": 2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bubo_bubo_sibiricus_-_01.JPG/250px-Bubo_bubo_sibiricus_-_01.JPG"
+  },
+  {
+    "id": 10,
+    "animal_name": "鳄鱼",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 4,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 1,
+      "poles": -2,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nile_crocodile_head.jpg/250px-Nile_crocodile_head.jpg"
+  },
+  {
+    "id": 11,
+    "animal_name": "大猩猩",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 0,
+      "strength": 6,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -2,
+      "air": -1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gorille_des_plaines_de_l%27ouest_%C3%A0_l%27Espace_Zoologique.jpg/250px-Gorille_des_plaines_de_l%27ouest_%C3%A0_l%27Espace_Zoologique.jpg"
+  },
+  {
+    "id": 13,
+    "animal_name": "猎豹",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Male_cheetah_facing_left_in_South_Africa.jpg/250px-Male_cheetah_facing_left_in_South_Africa.jpg"
+  },
+  {
+    "id": 14,
+    "animal_name": "乌龟",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 1,
+      "poles": 0,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Florida_Box_Turtle_Digon3.jpg/250px-Florida_Box_Turtle_Digon3.jpg"
+  },
+  {
+    "id": 15,
+    "animal_name": "狼",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -1,
+      "forest": 2,
+      "poles": 2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/250px-Eurasian_wolf_2.jpg"
+  },
+  {
+    "id": 16,
+    "animal_name": "企鹅",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 2,
+      "forest": -1,
+      "poles": 3,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg/250px-Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg"
+  },
+  {
+    "id": 17,
+    "animal_name": "蝎子",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": -1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Scorpion_Photograph_By_Shantanu_Kuveskar.jpg/250px-Scorpion_Photograph_By_Shantanu_Kuveskar.jpg"
+  },
+  {
+    "id": 19,
+    "animal_name": "熊",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 0,
+      "forest": 2,
+      "poles": 2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ours_brun_parcanimalierpyrenees_1.jpg/250px-Ours_brun_parcanimalierpyrenees_1.jpg"
+  },
+  {
+    "id": 20,
+    "animal_name": "隼",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 3,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Northern_Goshawk_ad_M2.jpg/250px-Northern_Goshawk_ad_M2.jpg"
+  },
+  {
+    "id": 21,
+    "animal_name": "响尾蛇",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 5,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus_cerastes_mesquite_springs_CA-2.jpg/250px-Crotalus_cerastes_mesquite_springs_CA-2.jpg"
+  },
+  {
+    "id": 22,
+    "animal_name": "大象",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 0,
+      "strength": 6,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -3,
+      "forest": 2,
+      "poles": -2,
+      "air": -2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/250px-African_Bush_Elephant.jpg"
+  },
+  {
+    "id": 23,
+    "animal_name": "虎鲸",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 2,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Killerwhales_jumping.jpg/250px-Killerwhales_jumping.jpg"
+  },
+  {
+    "id": 24,
+    "animal_name": "鬣狗",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 1,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hyaenidae_Diversity.jpg/250px-Hyaenidae_Diversity.jpg"
+  },
+  {
+    "id": 26,
+    "animal_name": "美洲豹",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Standing_jaguar.jpg/330px-Standing_jaguar.jpg"
+  },
+  {
+    "id": 28,
+    "animal_name": "秃鹫",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 1,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -1,
+      "forest": 0,
+      "poles": 0,
+      "air": 2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gyps_rueppellii_-Nairobi_National_Park%2C_Kenya-8-4c.jpg/250px-Gyps_rueppellii_-Nairobi_National_Park%2C_Kenya-8-4c.jpg"
+  },
+  {
+    "id": 29,
+    "animal_name": "犀牛",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -3,
+      "forest": 1,
+      "poles": -2,
+      "air": -2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rhino_collage.png/330px-Rhino_collage.png"
+  },
+  {
+    "id": 30,
+    "animal_name": "章鱼",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/250px-Octopus2.jpg"
+  },
+  {
+    "id": 31,
+    "animal_name": "豹",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/African_leopard_male_%28cropped%29.jpg/250px-African_leopard_male_%28cropped%29.jpg"
+  },
+  {
+    "id": 32,
+    "animal_name": "信天翁",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 5
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 0,
+      "poles": 1,
+      "air": 3,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Short_tailed_Albatross1.jpg/330px-Short_tailed_Albatross1.jpg"
+  },
+  {
+    "id": 33,
+    "animal_name": "科莫多巨蜥",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 3,
+      "strength": 4,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -1,
+      "forest": 2,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/202306_Varanus_komodoensis.jpg/250px-202306_Varanus_komodoensis.jpg"
+  },
+  {
+    "id": 34,
+    "animal_name": "狼獾",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -1,
+      "forest": 1,
+      "poles": 2,
+      "air": -1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gulo_gulo_2.jpg/250px-Gulo_gulo_2.jpg"
+  },
+  {
+    "id": 35,
+    "animal_name": "变色龙",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 1,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 3,
+      "poles": -2,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamaeleonidae-01.jpg/250px-Chamaeleonidae-01.jpg"
+  },
+  {
+    "id": 36,
+    "animal_name": "野牛",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -3,
+      "forest": 1,
+      "poles": 0,
+      "air": -2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/250px-American_bison_k5680-1.jpg"
+  },
+  {
+    "id": 37,
+    "animal_name": "黄貂鱼",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 3,
+      "strength": 2,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 2,
+      "forest": -2,
+      "poles": 0,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SStringray.jpg/250px-SStringray.jpg"
+  },
+  {
+    "id": 38,
+    "animal_name": "秃鹰",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 1,
+      "strength": 4,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 0,
+      "forest": 0,
+      "poles": 1,
+      "air": 3,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Andean_condor_%28Vultur_gryphus%29_at_Colca_Canyon.jpg/250px-Andean_condor_%28Vultur_gryphus%29_at_Colca_Canyon.jpg"
+  },
+  {
+    "id": 39,
+    "animal_name": "郊狼",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": 0,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2009-Coyote-Yosemite.jpg/250px-2009-Coyote-Yosemite.jpg"
+  },
+  {
+    "id": 40,
+    "animal_name": "水母",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jelly_cc11.jpg/250px-Jelly_cc11.jpg"
+  },
+  {
+    "id": 41,
+    "animal_name": "虎",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -1,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking_tiger_female.jpg/330px-Walking_tiger_female.jpg"
+  },
+  {
+    "id": 42,
+    "animal_name": "海象",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 2,
+      "forest": -2,
+      "poles": 3,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg/250px-Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg"
+  },
+  {
+    "id": 43,
+    "animal_name": "火烈鸟",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 0,
+      "poles": -1,
+      "air": 1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flamingos_Laguna_Colorada.jpg/250px-Flamingos_Laguna_Colorada.jpg"
+  },
+  {
+    "id": 44,
+    "animal_name": "雪豹",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": 2,
+      "air": 0,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Irbis4.JPG/250px-Irbis4.JPG"
+  },
+  {
+    "id": 45,
+    "animal_name": "眼镜蛇",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 5,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Indiancobra.jpg/250px-Indiancobra.jpg"
+  },
+  {
+    "id": 47,
+    "animal_name": "食人鱼",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 2,
+      "strength": 3,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 2,
+      "forest": 1,
+      "poles": -1,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg/250px-Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg"
+  },
+  {
+    "id": 48,
+    "animal_name": "狮鹫",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 2,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 2,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Knossos_fresco_in_throne_palace.JPG/250px-Knossos_fresco_in_throne_palace.JPG"
+  },
+  {
+    "id": 49,
+    "animal_name": "羚羊",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blackbuck_male_female.jpg/250px-Blackbuck_male_female.jpg"
+  },
+  {
+    "id": 52,
+    "animal_name": "乌贼",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 2,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sepioteuthis_sepioidea_%28Caribbean_Reef_Squid%29.jpg/250px-Sepioteuthis_sepioidea_%28Caribbean_Reef_Squid%29.jpg"
+  },
+  {
+    "id": 53,
+    "animal_name": "猎隼",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 3,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Brown-Falcon%2C-Vic%2C-3.1.2008.jpg/250px-Brown-Falcon%2C-Vic%2C-3.1.2008.jpg"
+  },
+  {
+    "id": 54,
+    "animal_name": "河马",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 2,
+      "forest": 1,
+      "poles": -2,
+      "air": -2,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Portrait_Hippopotamus_in_the_water.jpg/250px-Portrait_Hippopotamus_in_the_water.jpg"
+  },
+  {
+    "id": 56,
+    "animal_name": "瞪羚",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Chinkara_-_Shreeram_M_V_-_Bikaner.jpg/250px-Chinkara_-_Shreeram_M_V_-_Bikaner.jpg"
+  },
+  {
+    "id": 57,
+    "animal_name": "蝠鲼",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 1,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG/250px-Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG"
+  },
+  {
+    "id": 58,
+    "animal_name": "猞猁",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 2,
+      "poles": 2,
+      "air": 0,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lynx_heads_collage.jpg/250px-Lynx_heads_collage.jpg"
+  },
+  {
+    "id": 59,
+    "animal_name": "蟒蛇",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 2,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 1,
+      "forest": 3,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eunectes_murinus2.jpg/250px-Eunectes_murinus2.jpg"
+  },
+  {
+    "id": 60,
+    "animal_name": "鹦鹉",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 0,
+      "forest": 3,
+      "poles": -1,
+      "air": 2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parrot_montage.jpg/330px-Parrot_montage.jpg"
+  },
+  {
+    "id": 61,
+    "animal_name": "驼鹿",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 2,
+      "poles": 2,
+      "air": -2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alaska_moose.jpg/250px-Alaska_moose.jpg"
+  },
+  {
+    "id": 62,
+    "animal_name": "梭鱼",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 1,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Barracuda_laban.jpg/250px-Barracuda_laban.jpg"
+  },
+  {
+    "id": 64,
+    "animal_name": "牦牛",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -3,
+      "forest": 0,
+      "poles": 2,
+      "air": -2,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sarlyk_Yak2.jpg/250px-Sarlyk_Yak2.jpg"
+  },
+  {
+    "id": 66,
+    "animal_name": "斑马",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Plains_Zebra_Equus_quagga_cropped.jpg/250px-Plains_Zebra_Equus_quagga_cropped.jpg"
+  },
+  {
+    "id": 67,
+    "animal_name": "海鳝",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 3,
+      "strength": 2,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Moray_eel.jpg/250px-Moray_eel.jpg"
+  },
+  {
+    "id": 68,
+    "animal_name": "驯鹿",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": 3,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg/250px-Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg"
+  },
+  {
+    "id": 69,
+    "animal_name": "红隼",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 1,
+      "poles": 0,
+      "air": 2,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Falco_naumanni%2C_Negev.jpg/250px-Falco_naumanni%2C_Negev.jpg"
+  },
+  {
+    "id": 70,
+    "animal_name": "毒蜥",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": -1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gila_monster2.JPG/250px-Gila_monster2.JPG"
+  },
+  {
+    "id": 72,
+    "animal_name": "河豚",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 1
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 0,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tetraodon-hispidus.jpg/250px-Tetraodon-hispidus.jpg"
+  },
+  {
+    "id": 73,
+    "animal_name": "美洲狮",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": 0,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mountain_Lion_in_Glacier_National_Park.jpg/250px-Mountain_Lion_in_Glacier_National_Park.jpg"
+  },
+  {
+    "id": 74,
+    "animal_name": "鹈鹕",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 3,
+      "forest": 0,
+      "poles": 1,
+      "air": 2,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pelikan_Walvis_Bay.jpg/250px-Pelikan_Walvis_Bay.jpg"
+  },
+  {
+    "id": 75,
+    "animal_name": "疣猪",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg/250px-Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg"
+  },
+  {
+    "id": 76,
+    "animal_name": "海龟",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 3,
+      "forest": -1,
+      "poles": 0,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chelonia_mydas_is_going_for_the_air_edit.jpg/250px-Chelonia_mydas_is_going_for_the_air_edit.jpg"
+  },
+  {
+    "id": 77,
+    "animal_name": "鸵鸟",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 3,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Struthio_Diversity.jpg/250px-Struthio_Diversity.jpg"
+  },
+  {
+    "id": 78,
+    "animal_name": "灰熊",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": 0,
+      "forest": 2,
+      "poles": 2,
+      "air": -1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/GrizzlyBearJeanBeaufort.jpg/250px-GrizzlyBearJeanBeaufort.jpg"
+  },
+  {
+    "id": 79,
+    "animal_name": "毒蛇",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -2,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Viperidae-01.jpg/250px-Viperidae-01.jpg"
+  },
+  {
+    "id": 80,
+    "animal_name": "鸸鹋",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Emu_1_-_Tidbinbilla.jpg/330px-Emu_1_-_Tidbinbilla.jpg"
+  },
+  {
+    "id": 81,
+    "animal_name": "海狮",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 2,
+      "air": -1,
+      "mountains": -1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/California_sea_lion_in_La_Jolla_%2870568%29.jpg/250px-California_sea_lion_in_La_Jolla_%2870568%29.jpg"
+  },
+  {
+    "id": 82,
+    "animal_name": "豺",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flickr_-_Rainbirder_-_Golden_Jackal_%281%29.jpg/250px-Flickr_-_Rainbirder_-_Golden_Jackal_%281%29.jpg"
+  },
+  {
+    "id": 83,
+    "animal_name": "狒狒",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -2,
+      "ocean": -2,
+      "forest": 3,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg/250px-Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg"
+  },
+  {
+    "id": 84,
+    "animal_name": "羊驼",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 0,
+      "poles": 0,
+      "air": -1,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Alpaca_%2831562329701%29.jpg/250px-Alpaca_%2831562329701%29.jpg"
+  },
+  {
+    "id": 85,
+    "animal_name": "锤头鲨",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 1,
+      "strength": 5,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 1,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg/250px-Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg"
+  },
+  {
+    "id": 86,
+    "animal_name": "孔雀",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -1,
+      "forest": 2,
+      "poles": -1,
+      "air": 1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Peacock_Plumage.jpg/250px-Peacock_Plumage.jpg"
+  },
+  {
+    "id": 87,
+    "animal_name": "野猪",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg/250px-Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg"
+  },
+  {
+    "id": 88,
+    "animal_name": "鱼鹰",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": 2,
+      "forest": 1,
+      "poles": 0,
+      "air": 3,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Osprey_Perched_Snag_Heislerville.jpg/250px-Osprey_Perched_Snag_Heislerville.jpg"
+  },
+  {
+    "id": 89,
+    "animal_name": "响尾蛇",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 4,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -2,
+      "air": -1,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus_cerastes_mesquite_springs_CA-2.jpg/250px-Crotalus_cerastes_mesquite_springs_CA-2.jpg"
+  },
+  {
+    "id": 90,
+    "animal_name": "大角羊",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -2,
+      "forest": -1,
+      "poles": 0,
+      "air": -1,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/New_Mexico_Bighorn_Sheep.JPG/250px-New_Mexico_Bighorn_Sheep.JPG"
+  },
+  {
+    "id": 91,
+    "animal_name": "电鳗",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 3,
+      "strength": 2,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": 1,
+      "poles": -1,
+      "air": -2,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Electric-eel.jpg/250px-Electric-eel.jpg"
+  },
+  {
+    "id": 92,
+    "animal_name": "穿山甲",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 2,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": 0,
+      "ocean": -2,
+      "forest": 2,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pangolin_brought_to_the_Range_office%2C_KMTR_AJTJ_cropped.jpg/250px-Pangolin_brought_to_the_Range_office%2C_KMTR_AJTJ_cropped.jpg"
+  },
+  {
+    "id": 93,
+    "animal_name": "角雕",
+    "tier": "Gold",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -1,
+      "forest": 3,
+      "poles": 0,
+      "air": 3,
+      "mountains": 1
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Harpia_harpyja_001_800.jpg/250px-Harpia_harpyja_001_800.jpg"
+  },
+  {
+    "id": 94,
+    "animal_name": "独角鲸",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 3
+    },
+    "habitat_bonus": {
+      "desert": -3,
+      "ocean": 3,
+      "forest": -2,
+      "poles": 2,
+      "air": -1,
+      "mountains": -2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg/250px-%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg"
+  },
+  {
+    "id": 95,
+    "animal_name": "狐獴",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 0,
+      "strength": 1,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 0,
+      "poles": -1,
+      "air": 0,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Meerkat_%28Suricata_suricatta%29_Tswalu.jpg/250px-Meerkat_%28Suricata_suricatta%29_Tswalu.jpg"
+  },
+  {
+    "id": 96,
+    "animal_name": "岩羊",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 3,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": -2,
+      "forest": 0,
+      "poles": 0,
+      "air": 0,
+      "mountains": 3
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg/250px-064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": 97,
+    "animal_name": "蝾螈",
+    "tier": "Bronze",
+    "attributes": {
+      "poison": 3,
+      "strength": 1,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": -1,
+      "ocean": 1,
+      "forest": 2,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SpottedSalamander.jpg/250px-SpottedSalamander.jpg"
+  },
+  {
+    "id": 98,
+    "animal_name": "角马",
+    "tier": "Silver",
+    "attributes": {
+      "poison": 0,
+      "strength": 4,
+      "cunning": 2
+    },
+    "habitat_bonus": {
+      "desert": 2,
+      "ocean": -2,
+      "forest": 1,
+      "poles": -1,
+      "air": -1,
+      "mountains": 0
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blue_Wildebeest%2C_Ngorongoro.jpg/250px-Blue_Wildebeest%2C_Ngorongoro.jpg"
+  },
+  {
+    "id": 99,
+    "animal_name": "独角兽",
+    "tier": "Diamond",
+    "attributes": {
+      "poison": 2,
+      "strength": 3,
+      "cunning": 4
+    },
+    "habitat_bonus": {
+      "desert": 1,
+      "ocean": 0,
+      "forest": 2,
+      "poles": 0,
+      "air": 1,
+      "mountains": 2
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Oftheunicorn.jpg/250px-Oftheunicorn.jpg"
+  }
+]
+}
