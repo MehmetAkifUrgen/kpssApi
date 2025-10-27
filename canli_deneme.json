@@ -277,54 +277,7 @@
                 ],
                 "dogruCevap": "23"
             },
-            {
-                "soru_id": "GY028",
-                "soru": "Toplam 5 sorunun sorulduğu ve 26 yarışmacının katıldığı bir bilgi yarışmasında, yalnızca 1 yarışmacı bütün soruları doğru cevaplamıştır. Bu yarışmada puanlama aşağıdaki gibi yapılmıştır: Bir soruyu doğru cevaplayan her yarışmacı o sorudan, soruyu yanlış cevaplayan yarışmacı sayısı kadar puan almıştır. Bir soruyu yanlış cevaplayan yarışmacı o sorudan puan alamamıştır. Soru 1: Doğru cevaplayan 4, Yanlış cevaplayan 22; Soru 2: Doğru cevaplayan 6, Yanlış cevaplayan 20; Soru 3: Doğru cevaplayan 14, Yanlış cevaplayan 12; Soru 4: Doğru cevaplayan 1, Yanlış cevaplayan 25; Soru 5: Doğru cevaplayan 10, Yanlış cevaplayan 16. Bu yarışmayı puan alamadan bitiren yarışmacı sayısı en çok kaç olabilir?",
-                "secenekler": [
-                    "12",
-                    "16",
-                    "20",
-                    "22",
-                    "25"
-                ],
-                "dogruCevap": "12"
-            },
-            {
-                "soru_id": "GY029",
-                "soru": "Toplam 5 sorunun sorulduğu ve 26 yarışmacının katıldığı bir bilgi yarışmasında, yalnızca 1 yarışmacı bütün soruları doğru cevaplamıştır. Bu yarışmada puanlama aşağıdaki gibi yapılmıştır: Bir soruyu doğru cevaplayan her yarışmacı o sorudan, soruyu yanlış cevaplayan yarışmacı sayısı kadar puan almıştır. Bir soruyu yanlış cevaplayan yarışmacı o sorudan puan alamamıştır. Soru 1: Doğru cevaplayan 4, Yanlış cevaplayan 22; Soru 2: Doğru cevaplayan 6, Yanlış cevaplayan 20; Soru 3: Doğru cevaplayan 14, Yanlış cevaplayan 12; Soru 4: Doğru cevaplayan 1, Yanlış cevaplayan 25; Soru 5: Doğru cevaplayan 10, Yanlış cevaplayan 16. Bu yarışmayı kazanan yarışmacının puanı kaçtır?",
-                "secenekler": [
-                    "87",
-                    "89",
-                    "91",
-                    "93",
-                    "95"
-                ],
-                "dogruCevap": "95"
-            },
-            {
-                "soru_id": "GY030",
-                "soru": "Toplam 5 sorunun sorulduğu ve 26 yarışmacının katıldığı bir bilgi yarışmasında, yalnızca 1 yarışmacı bütün soruları doğru cevaplamıştır. Bu yarışmada puanlama aşağıdaki gibi yapılmıştır: Bir soruyu doğru cevaplayan her yarışmacı o sorudan, soruyu yanlış cevaplayan yarışmacı sayısı kadar puan almıştır. Bir soruyu yanlış cevaplayan yarışmacı o sorudan puan alamamıştır. Soru 1: Doğru cevaplayan 4, Yanlış cevaplayan 22; Soru 2: Doğru cevaplayan 6, Yanlış cevaplayan 20; Soru 3: Doğru cevaplayan 14, Yanlış cevaplayan 12; Soru 4: Doğru cevaplayan 1, Yanlış cevaplayan 25; Soru 5: Doğru cevaplayan 10, Yanlış cevaplayan 16. Doğru cevap sayısı 3 olan bir yarışmacının bu yarışmadan aldığı puan aşağıdakilerden hangisi olamaz?",
-                "secenekler": [
-                    "54",
-                    "40",
-                    "58",
-                    "50",
-                    "48"
-                ],
-                "dogruCevap": "40"
-            },
-            {
-                "soru_id": "GY030",
-                "soru": "Toplam 5 sorunun sorulduğu ve 26 yarışmacının katıldığı bir bilgi yarışmasında, yalnızca 1 yarışmacı bütün soruları doğru cevaplamıştır. Bu yarışmada puanlama aşağıdaki gibi yapılmıştır: Bir soruyu doğru cevaplayan her yarışmacı o sorudan, soruyu yanlış cevaplayan yarışmacı sayısı kadar puan almıştır. Bir soruyu yanlış cevaplayan yarışmacı o sorudan puan alamamıştır. Soru 1: Doğru cevaplayan 4, Yanlış cevaplayan 22; Soru 2: Doğru cevaplayan 6, Yanlış cevaplayan 20; Soru 3: Doğru cevaplayan 14, Yanlış cevaplayan 12; Soru 4: Doğru cevaplayan 1, Yanlış cevaplayan 25; Soru 5: Doğru cevaplayan 10, Yanlış cevaplayan 16. Doğru cevap sayısı 3 olan bir yarışmacının bu yarışmadan aldığı puan aşağıdakilerden hangisi olamaz?",
-                "secenekler": [
-                    "54",
-                    "40",
-                    "58",
-                    "50",
-                    "48"
-                ],
-                "dogruCevap": "40"
-            },
+            
             {
                 "soru_id": "GK031",
                 "soru": "Kırgız Türklerinin millî destanı olan Manas, dünyanın en uzun destanı olarak bilinmektedir. Bu destanda, I. Kırgızların hayat hikâyeleri, II. Türk kültürünün genel özellikleri, III. Türklerin İslamiyet’e geçişleri durumlarından hangilerini yansıtan metinler yer almaktadır?",
