@@ -46,7 +46,7 @@
     {
       "soru_id": 5,
       "soru": "Otlukbeli Savaşı hangi padişah döneminde yaşanmıştır?",
-      "cevap": "Fatih Sultan Mehmet Han",
+      "cevap": "Fatih Sultan Mehmet",
       "ek_bilgi": [
         "Savaş, Fatih Sultan Mehmet Han ile Uzun Hasan (Akkoyunlular) arasında gerçekleşmiştir",
         "Osmanlı savaşı kazanmış ve doğudaki tehlike önlenmiştir",
@@ -55,17 +55,7 @@
         "Kanuni Sultan Süleyman dönemi, kaynaklarda altın çağ olarak geçer (Rodas alınmış, Belgrat alınmış, kazanılmıştır)"
       ]
     },
-    {
-      "soru_id": 6,
-      "soru": "İkinci Osman (Genç Osman) hangi gelişme sonucu Yeniçeri Ocağı'nı kaldırmak istemiştir?",
-      "cevap": "Hotin Seferine bizzat kendisinin katılması ve Yeniçeri ordusunun disiplinsizliğini görmesi sebebiyle",
-      "ek_bilgi": [
-        "Yeniçeriler tarafından öldürülen ilk Osmanlı padişahı Genç Osman",
-        "Celali İsyanları Anadolu'da çıkan isyanlardır (Sebebi: vergilerin artırılması, dirliklerin aksine daha olması)",
-        "Çınar Vakası (Vaka-i Vakvakiye), 30'a yakın devlet adamının çınar ağacına asılmasıdır (IV. Mehmet dönemi merkez isyanları)",
-        "Ferhat Paşa Antlaşması ile Osmanlı Doğu'da en geniş sınırlara ulaşmıştır"
-      ]
-    },
+    
     {
       "soru_id": 7,
       "soru": "Osmanlı Devleti hangi antlaşma sonucu tarihinde ilk defa savaş tazminatı ödemiştir?",
@@ -79,7 +69,7 @@
     {
       "soru_id": 8,
       "soru": "Osmanlı'ya karşı ayaklanan ilk azınlık aşağıdakilerden hangisidir?",
-      "cevap": "Sırplar (Kara Yorgi önderliğinde)",
+      "cevap": "Sırplar",
       "ek_bilgi": [
         "İlk bağımsız olan (Edirne Antlaşması ile) Yunanlılar",
         "Arnavutluk I. Balkan Savaşı'ndan sonra bağımsız olacaktır",
@@ -90,7 +80,7 @@
     {
       "soru_id": 9,
       "soru": "Osmanlı tarihinin ilk düzenli ordusu aşağıdakilerden hangisidir?",
-      "cevap": "Yaya ve Müsellem ordusu (Orhan Bey döneminde kuruldu)",
+      "cevap": "Yaya ve Müsellem",
       "ek_bilgi": [
         "Sekban-ı Cedid ve Eşkinci Ocağı, II. Mahmut döneminde oluşturulan ocaklardır ve Yeniçerilerin tepkisinden dolayı kapatıldı",
         "Yeniçeri ordusu I. Murat döneminde kuruldu"
@@ -140,7 +130,7 @@
     {
       "soru_id": 15,
       "soru": "Ordusunda Amazon kadın savaşçı bulunduran Türk topluluğu aşağıdakilerden hangisidir?",
-      "cevap": "İskitler (Sakalar)",
+      "cevap": "İskitler",
       "ek_bilgi": [
         "İskitler'in ilk kadın hükümdarı Tomris Hatun",
         "Peçenekler, Malazgirt Savaşı'nda Alparslan'ın tarafına geçmişlerdi"
@@ -167,7 +157,7 @@
     {
       "soru_id": 18,
       "soru": "Osmanlı döneminden itibaren esnaflardan alınmaya başlanan vergi aşağıdakilerden hangisidir?",
-      "cevap": "Bacım pazar vergisi (Osmanlı tarihinin ilk vergisi olarak bilinir)",
+      "cevap": "Bacım pazar vergisi",
       "ek_bilgi": [
         "Avarız, İkinci Beyazıt Döneminden itibaren olağanüstü durumlarda alınır",
         "Anam, küçükbaş hayvanlar için alınır",
@@ -286,7 +276,7 @@
     {
       "soru_id": 31,
       "soru": "Türk tarihinin ilk dini-teknik isyanı aşağıdakilerden hangisidir?",
-      "cevap": "Baba İshak (Baba İlyas) İsyanı",
+      "cevap": "Baba İshak İsyanı",
       "ek_bilgi": [
         "Şeyh Bedrettin, Osmanlı tarihinin ilk dini-teknik isyanı",
         "Şeyh Sait, Türkiye Cumhuriyeti'nde ortaya çıkan ilk dini-teknik isyan",
@@ -296,7 +286,7 @@
     {
       "soru_id": 32,
       "soru": "I. Kosova Savaşı'nda Haçlılar tarafından savaş sahasında gezerken şehit edilen padişah kim olmuştur?",
-      "cevap": "Birinci Murat (Murat Hüdavendigar)",
+      "cevap": "Birinci Murat",
       "ek_bilgi": [
         "İkinci Murat, Hayır Babası olarak bilinir",
         "II. Kosova Savaşı ile Balkanlar'ın Türk yurdu olduğu kesinleşmiştir",
@@ -317,7 +307,7 @@
     {
       "soru_id": 34,
       "soru": "Osmanlı Devleti'nin Avusturya üzerinde siyasi üstünlüğü kaybettiği antlaşma aşağıdakilerden hangisidir?",
-      "cevap": "Zitvatorok Antlaşması (I. Ahmet dönemi)",
+      "cevap": "Zitvatorok Antlaşması",
       "ek_bilgi": [
         "İstanbul Antlaşması'yla (Kanuni Sultan Süleyman dönemi) Osmanlı Avusturya üzerinde siyasi üstünlük sağlamıştır",
         "Vasvar Antlaşması (1664) ile Osmanlı üstünlüğü sağlanmıştır",
@@ -355,36 +345,18 @@
         "Tersane Konferansı, I. Meşrutiyet'in ilanına sebep olan gelişme"
       ]
     },
-    {
-      "soru_id": 38,
-      "soru": "Mondros Ateşkes Antlaşması'nı imzalayan hükümet hangisidir?",
-      "cevap": "Ahmet İzzet Paşa Hükümeti",
-      "ek_bilgi": [
-        "Mondros'u imzalayan Bahriye Nazırı Rauf Bey",
-        "Damat Ferit, Milli Mücadele karşıtıdır ve Sivas Kongresi'nden sonra istifa etmiştir",
-        "Salihpaşa Amasya Görüşmeleri'ne katılan kişi"
-      ]
-    },
+  
     {
       "soru_id": 39,
       "soru": "Sivas'ta ulusal bir kongrenin toplanacağı kararı nerede alınmıştır?",
-      "cevap": "Amasya Tamimi (Genelgesi)",
+      "cevap": "Amasya Genelgesi",
       "ek_bilgi": [
         "Havza Genelgesi'nde mitinglerin yapılması gerektiği söylenir",
         "Erzurum Kongresi'nde ilk defa milli sınırlardan bahsedilir",
         "Balıkesir ve Alaşehir kongreleri mahalli kongreler"
       ]
     },
-    {
-      "soru_id": 40,
-      "soru": "Birinci TBMM'nin açılış konuşmasını kim yapmıştır?",
-      "cevap": "Sinop Milletvekili Şerif Bey",
-      "ek_bilgi": [
-        "TBMM, İstanbul'un resmen işgal edilip Mebusan Meclisi dağıtılınca 23 Nisan 1920'de Ankara'da açılmıştır",
-        "Mustafa Kemal meclis başkanı olacaktır",
-        "Kazım Karabekir, Gümrü Antlaşması'nın imzalanmasını olanak sağlayacaktır"
-      ]
-    },
+    
     {
       "soru_id": 41,
       "soru": "Melhame-i Kübra (Büyük Kıyım ya da Subaylar Savaşı) olarak nitelendirilen savaş hangisidir?",
