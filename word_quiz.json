@@ -1,5 +1,6 @@
 {
-  "tarih_sorulari": [
+  "sorular": {
+     "tarih_sorulari": [
     {
       "soru_id": 1,
       "soru": "İslamiyet’i benimseyen ilk Türk boyu aşağıdakilerden hangisidir?",
@@ -517,4 +518,278 @@
       ]
     }
   ]
+},
+"bilgiler":{
+  "Tarih":[{
+  "I": {
+    "title": "İslamiyet Öncesi ve İlk Türk Devletleri",
+    "items": [
+      {
+        "fact": "Eski Türklerde hükümet anlamına gelen kavram Ayuki’dir."
+      },
+      {
+        "fact": "Eski Türklerde meclise Toy ya da Kurultay denirdi."
+      },
+      {
+        "fact": "Vezire Aygucı, doktora Otacı, kâtibe Bitikçi denirdi."
+      },
+      {
+        "fact": "Ordusunda Amazon kadın savaşçı bulunduran Türk topluluğu İskitler (Sakalar)'dır."
+      },
+      {
+        "fact": "İlk kadın hükümdar Tomris Hatun, İskitler'in hükümdarıdır."
+      },
+      {
+        "fact": "İslamiyet'i benimseyen ilk Türk boyu Karluklar olacaktır."
+      },
+      {
+        "fact": "İslamiyet'i kabul eden ilk Türk devleti (tarihte) İtil Bulgarları'dır (Almış Han dönemi)."
+      },
+      {
+        "fact": "Orta Asya'da İslamiyet'i kabul eden ilk Türk devleti Karahanlılar'dır."
+      },
+      {
+        "fact": "Uygurlar yerleşik hayata geçen ilk Türk devletidir ve Maniheizm dinini benimsemişlerdir."
+      },
+      {
+        "fact": "Göktürkler kendilerine özgü (38 harften oluşan) alfabeyi oluşturmuşlardır."
+      },
+      {
+        "fact": "Komenton Meclisi (Seçkinler Meclisi) Peçenekler'e aittir."
+      },
+      {
+        "fact": "Peçenekler, Malazgirt Savaşı’nda Alparslan’ın tarafına geçmişlerdir."
+      },
+      {
+        "fact": "Hazarların meclisi İhtiyarlar Meclisi’dir."
+      }
+    ]
+  },
+  "II": {
+    "title": "Türk İslam Devletleri ve Selçuklular",
+    "items": [
+      {
+        "fact": "İkta sistemini uygulayan ilk Türk İslam devleti Büyük Selçuklu Devleti'dir. (İkta sistemini getiren Hz. Ömer’dir)."
+      },
+      {
+        "fact": "Büyük Selçuklu Devleti'nin en parlak dönemi Sultan Melikşah dönemidir."
+      },
+      {
+        "fact": "Sultan Melikşah döneminde Batınilerle uğraşılmıştır."
+      },
+      {
+        "fact": "Anadolu Selçuklu Devleti'nin ilk başkenti İznik olmuştur."
+      },
+      {
+        "fact": "I. Haçlı Seferi sırasında I. Kılıçarslan merkezi İznik'ten Konya’ya taşımak zorunda kalmıştır."
+      },
+      {
+        "fact": "Türkiye Selçuklu Devleti döneminde ilk bakır para I. Mesut döneminde basılmıştır."
+      },
+      {
+        "fact": "Alaaddin Keykubat dönemi, Devletin en parlak dönemi olarak bilinir; bu dönemde Van Ahlat ve Bitlis alınmıştır."
+      },
+      {
+        "fact": "Malazgirt Savaşı'ndan sonra Erzincan ve çevresinde kurulan beylik Mengücekler’dir. Mengücekler'in en önemli eseri Divriği Ulu Camii’dir."
+      },
+      {
+        "fact": "Erzurum ve çevresinde kurulan beylik Saltukoğulları’dır."
+      },
+      {
+        "fact": "Türk tarihinin ilk dini-teknik isyanı Baba İshak (Baba İlyas) İsyanı olacaktır."
+      },
+      {
+        "fact": "Türk İslam devletlerinde tek cins malın satıldığı yere Kapan denir; Kapan Emine, malları denetler."
+      },
+      {
+        "fact": "Bedesten, değerli mücevher ve kumaşların satıldığı yerdir."
+      }
+    ]
+  },
+  "III": {
+    "title": "Osmanlı Kuruluş, Yükseliş ve Duraklama Dönemi",
+    "items": [
+      {
+        "fact": "Osmanlı tarihinin ilk veziri Alaaddin Paşa’dır. İlk kadı Dursun Fakıh, ilk müderris Davudi Kayseri’dir."
+      },
+      {
+        "fact": "Osman Bey döneminde Bizans'la ilk savaş Koyunhisar Savaşı gerçekleşmiştir."
+      },
+      {
+        "fact": "Orhan Bey döneminde Rumeli'deki ilk toprak parçası Çimpe Kalesi'dir."
+      },
+      {
+        "fact": "Osmanlı Devleti Balkanlardaki ilk yenilgisini (Ploşnik) I. Murat döneminde (1388) yaşamıştır."
+      },
+      {
+        "fact": "I. Kosova Savaşı’nda savaş sahasını gezerken bir Sırp tarafından şehit edilen padişah I. Murat (Murat Hüdavendigar) olmuştur."
+      },
+      {
+        "fact": "Otlukbeli Savaşı (Fatih Sultan Mehmet ile Akkoyunlu Uzun Hasan arasında) Osmanlı’nın kazanmasıyla Doğu'daki tehlike önlenmiştir."
+      },
+      {
+        "fact": "Turnadağ Savaşı (Yavuz Sultan Selim dönemi, Dulkadiroğulları ile) sonucunda Anadolu Türk siyasi birliği kesin olarak sağlanmıştır."
+      },
+      {
+        "fact": "İstanbul’a gelen Venedik elçilerine Balyoz ismi verilmiştir."
+      },
+      {
+        "fact": "Osmanlı tarihinin ilk düzenli ordusu (Orhan Bey döneminde kurulan) Yaya ve Müsellem Ordusu’dur."
+      },
+      {
+        "fact": "Osmanlı tarihinin ilk vergisi olarak bilinen vergi Bac-ı Pazar vergisi (Pazar vergisi)'dir."
+      },
+      {
+        "fact": "Şahkulu İsyanı II. Beyazıt döneminde (Antalya ve çevresinde) yaşanmıştır."
+      },
+      {
+        "fact": "II. Selim, ordunun başında sefere çıkmayı bırakan ilk Osmanlı padişahıdır."
+      },
+      {
+        "fact": "Bağdat Fatihi olarak bilinen padişah IV. Murat’tır."
+      },
+      {
+        "fact": "II. Osman (Genç Osman) Hotin Seferi sonrasında Yeniçeri ocağını kaldırmak istemiş, bu neticede yeniçeriler tarafından öldürülen ilk Osmanlı padişahı olmuştur."
+      },
+      {
+        "fact": "Osmanlı Devleti'nin Avusturya üzerindeki siyasi üstünlüğü kaybettiği antlaşma Zitvatorok Antlaşması’dır (I. Ahmet dönemi)."
+      },
+      {
+        "fact": "IV. Murat Osmanlı tarihinin en disiplinli padişahıdır."
+      }
+    ]
+  },
+  "IV": {
+    "title": "Osmanlı Gerileme ve Dağılma Dönemi Islahatları",
+    "items": [
+      {
+        "fact": "Lale Devri’ni sona erdiren isyan Patrona Halil İsyanı’dır."
+      },
+      {
+        "fact": "Kabakçı Mustafa İsyanı ile III. Selim dönemi sona ermiştir."
+      },
+      {
+        "fact": "I. Mahmut askeri alanda Batı tarzı ilk ıslahat hareketini gerçekleştiren ve Batı tarzı ilk askeri okulu (1734) açan padişahtır."
+      },
+      {
+        "fact": "Osmanlı Devleti tarihinde ilk defa savaş tazminatı ödediği antlaşma Küçük Kaynarca Antlaşması'dır."
+      },
+      {
+        "fact": "Osmanlı'ya karşı ayaklanan ilk azınlık (Kara Yorgi önderliğinde) Sırplar’dır."
+      },
+      {
+        "fact": "Osmanlı’dan ayrılan ilk azınlık (Edirne Antlaşması ile) Yunanlılar’dır."
+      },
+      {
+        "fact": "II. Meşrutiyet'in ilanı sırasında bağımsız olan devlet Bulgaristan’dır (1908)."
+      },
+      {
+        "fact": "Yurt dışı seyahatine çıkan ilk Osmanlı padişahı Sultan Abdülaziz’dir."
+      },
+      {
+        "fact": "Çırağan Sarayı Sultan Abdülaziz döneminde inşa edilmiştir."
+      },
+      {
+        "fact": "II. Mahmut döneminde Sened-i İttifak imzalanmış (Padişahın yetkileri ilk kez kısıtlandı), portresi devlet dairelerine astırılmış ve Mülkiye bölümü açılmıştır."
+      },
+      {
+        "fact": "Balta Limanı Ticaret Antlaşması (1838) İngiltere ile imzalanmış, Osmanlı Devleti’ni yarı sömürge durumuna düşürmüştür."
+      },
+      {
+        "fact": "Kanun-i Esasi’yi hazırlayan komisyonun başkanı Mithat Paşa’dır."
+      },
+      {
+        "fact": "II. Meşrutiyet'in ilanına sebep olan gelişme Reval Görüşmeleri'dir (İngiltere ve Rusya arasında)."
+      },
+      {
+        "fact": "Osmanlı tarihinde rejime karşı çıkan ilk isyan 31 Mart Vakası olacaktır. Bu vaka sonucunda II. Abdülhamit tahttan indirilmiştir."
+      },
+      {
+        "fact": "II. Meşrutiyet sonrası yaşanan hükümet darbesi Bab-ı Ali Baskını’dır."
+      },
+      {
+        "fact": "Duyun-u Umumiye II. Abdülhamit döneminde oluşturulan dış borçların idaresidir."
+      },
+      {
+        "fact": "Esnafları denetleyen ve çarşı kapanlarını kontrol eden kişi Muhtesip’tir (günümüz zabıtası)."
+      }
+    ]
+  },
+  "V": {
+    "title": "Milli Mücadele ve İnkılap Tarihi",
+    "items": [
+      {
+        "fact": "Mustafa Kemal Paşa’nın ilk görev yeri Şam (V. Ordu)’dır."
+      },
+      {
+        "fact": "Mustafa Kemal’in sömürgeciliğe karşı verdiği ilk mücadele Trablusgarp Savaşı’dır."
+      },
+      {
+        "fact": "Mustafa Kemal’in Çanakkale’deki sözü: “Ben size taarruzu değil, ölmeyi emrediyorum”."
+      },
+      {
+        "fact": "I. Dünya Savaşı'ndan sonra yayımlanan ve Türklerin uluslararası alanda haklılığını gösteren ilk rapor Amiral Bristol Raporu olacaktır (Rumların haksız olduğunu dile getirir)."
+      },
+      {
+        "fact": "İlk defa Kuvayi Milliye teriminden bahseden rapor Dr. Esat Işık Raporu’dur."
+      },
+      {
+        "fact": "Mondros Ateşkes Antlaşması’nı imzalayan Bahriye Nazırı Rauf Bey’dir."
+      },
+      {
+        "fact": "Mondros’u imzalayan hükümet Ahmet İzzet Paşa Hükümeti’dir."
+      },
+      {
+        "fact": "Mondros Ateşkes Antlaşması'ndan sonra işgal edilen ilk yer Musul’dur."
+      },
+      {
+        "fact": "Mustafa Kemal Paşa, protesto mitingleri yapılması gerektiğini Havza Genelgesi’nde duyurmuştur."
+      },
+      {
+        "fact": "Milli Mücadele’nin amacı, yöntemi ve gerekçesi Amasya Tamimi’nde (Genelgesi) ortaya konulmuştur."
+      },
+      {
+        "fact": "Milli sınırlardan ilk kez nerede bahsedilmiştir? Erzurum Kongresi’nde."
+      },
+      {
+        "fact": "Manda ve himaye ilk kez Erzurum Kongresi’nde reddedilmiş, Sivas Kongresi’nde ise kesin bir dille reddedilmiştir."
+      },
+      {
+        "fact": "Amasya Görüşmeleri ile Temsil Heyeti hukuken tanınmıştır."
+      },
+      {
+        "fact": "Londra Konferansı’nın toplanmasına olanak sağlayan savaş I. İnönü Savaşı’dır."
+      },
+      {
+        "fact": "I. İnönü Savaşı’ndan sonra (M.İ.L.A.T. şifresinde): Moskova Antlaşması, İstiklal Marşı'nın kabulü, Londra Konferansı, Afganistan ile Dostluk Antlaşması ve Teşkilat-ı Esasiye yer alır."
+      },
+      {
+        "fact": "Kütahya-Eskişehir Savaşları sonucunda düzenli ordu, zaman kazanmak amacıyla Sakarya’nın doğusuna çekilmiştir."
+      },
+      {
+        "fact": "Subaylar Savaşı ya da Melhame-i Kübra olarak nitelendirilen savaş Sakarya Meydan Savaşı’dır."
+      },
+      {
+        "fact": "Rumsındığı, Dumlupınar Meydan Savaşı ya da Başkomutanlık Meydan Savaşı olarak nitelendirilen savaş Büyük Taarruz’dur."
+      },
+      {
+        "fact": "I. TBMM'nin açılış konuşmasını (23 Nisan 1920) Sinop milletvekili Şerif Bey yapmıştır."
+      },
+      {
+        "fact": "Ulus egemenliği ile doğrudan ilgili olan Atatürk ilkesi Cumhuriyetçilik’tir."
+      },
+      {
+        "fact": "Vicdan hürriyeti, akıl ve bilimi öngören ilke Laiklik’tir."
+      },
+      {
+        "fact": "Milli birlik ve beraberlikle doğrudan ilgili ilke Milliyetçilik’tir."
+      },
+      {
+        "fact": "Serbest Cumhuriyet Fırkası’nın kurucusu Ali Fethi Okyar’dır."
+      }
+    ]
+  }
+}]
+}
+ 
 }
