@@ -917,36 +917,16 @@
               "title": "Basınç Merkezleri",
               "items": [
                 {
-                  "fact": "İzlanda",
-                  "details": {
-                    "Kökeni": "Günlük Hareket (Dinamik)",
-                    "Tipi": "Alçak Basınç (Alçak)",
-                    "Etkisi": "Nemli ve soğuk hava (kış aylarında etkili)."
-                  }
+                  "fact": "İzlanda: Günlük Hareket (Dinamik), Alçak Basınç (Alçak), Nemli ve soğuk hava (kış aylarında etkili)."
                 },
                 {
-                  "fact": "Azor",
-                  "details": {
-                    "Kökeni": "Günlük Hareket (Dinamik)",
-                    "Tipi": "Yüksek Basınç (Yüksek)",
-                    "Etkisi": "Yıl boyunca etkili olmaya çalışır, genellikle yazın aşırı sıcak getirir."
-                  }
+                  "fact": "Azor: Günlük Hareket (Dinamik), Yüksek Basınç (Yüksek), Yıl boyunca etkili olmaya çalışır, genellikle yazın aşırı sıcak getirir."
                 },
                 {
-                  "fact": "Sibirya",
-                  "details": {
-                    "Kökeni": "Dünyanın Şekli (Termik)",
-                    "Tipi": "Yüksek Basınç (Yüksek)",
-                    "Etkisi": "Aşırı karasallıktan dolayı kış aylarında soğuk getirir."
-                  }
+                  "fact": "Sibirya: Dünyanın Şekli (Termik), Yüksek Basınç (Yüksek), Aşırı karasallıktan dolayı kış aylarında soğuk getirir."
                 },
                 {
-                  "fact": "Basra",
-                  "details": {
-                    "Kökeni": "Dünyanın Şekli (Termik)",
-                    "Tipi": "Alçak Basınç (Alçak)",
-                    "Etkisi": "Sadece yaz aylarında etkili, aşırı sıcak ve karasal hava getirir."
-                  }
+                  "fact": "Basra: Dünyanın Şekli (Termik), Alçak Basınç (Alçak), Sadece yaz aylarında etkili, aşırı sıcak ve karasal hava getirir."
                 },
                 {
                   "fact": "Alçak Basınç (Siklon): Yükselici hava hareketi, hava kapalı, bulutlu ve yağışlıdır. Çevreden rüzgar alır."
