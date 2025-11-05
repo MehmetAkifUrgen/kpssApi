@@ -1,795 +1,2183 @@
 {
   "sorular": {
-     "Tarih": [
-    {
-      "soru_id": 1,
-      "soru": "İslamiyet’i benimseyen ilk Türk boyu aşağıdakilerden hangisidir?",
-      "cevap": "Karluklar",
-      "ek_bilgi": [
-        "İslamiyeti kabul eden ilk Türk devleti İtil Bulgarları",
-        "Orta Asya'da İslamiyeti kabul eden ilk Türk devleti Karahanlılar",
-        "Uygurlar Maniheizm dinini benimsemişlerdir",
-        "Göktürkler Bumin Kağan döneminde Budizm benimsenmiştir"
-      ]
-    },
-    {
-      "soru_id": 2,
-      "soru": "İkta sistemi uygulayan ilk Türk İslam devleti aşağıdakilerden hangisidir?",
-      "cevap": "Büyük Selçuklu Devleti",
-      "ek_bilgi": [
-        "İkta sistemini ikinci halife Hz. Ömer getirmişti",
-        "Tolunoğulları Mısır'da kurulan ilk Türk İslam devleti, Akşitler (İhşidiler) Mısır'da kurulan ikinci Türk İslam devletidir (Kurucusu Muhammed bin Togaç)",
-        "İlk Türk İslam eserleri Karahanlılar döneminde yazılmıştır",
-        "Anadolu Selçuklu Devleti döneminde inşa edilen kervansarayın ismi Ayhan"
-      ]
-    },
-    {
-      "soru_id": 3,
-      "soru": "Türkiye Selçuklu Devleti döneminde ilk bakır parayı basan hükümdar kimdir?",
-      "cevap": "Birinci Mesut",
-      "ek_bilgi": [
-        "Birinci Kılıçarslan dönemi ile ilgili bilinmesi gereken, devletin başkentinin İznik'ten Konya'ya taşınması",
-        "Alaaddin Keykubat dönemi, devletin en parlak dönemi",
-        "İzzettin Keykavus döneminde sürekli ticarete uğraşılmış; Kıbrıs ve Venedik Krallığı ile ticaret antlaşmaları yapılmıştır",
-        "Saltuklular, Mülkiye döneminde egemenlik altına alınmıştır"
-      ]
-    },
-    {
-      "soru_id": 4,
-      "soru": "Osmanlı Devleti Balkanlardaki ilk yenilgisini hangi padişah döneminde yaşamıştır? (Tarih 1388)",
-      "cevap": "Birinci Murat",
-      "ek_bilgi": [
-        "Bu yenilgiye Ploşnik yenilgisi de denir (Akıncı Birliği Haçlı ordusuna yenilmişti)",
-        "Orhan Bey döneminde Balkanlardaki ilk toprak parçası Çimpe Kalesi",
-        "İkinci Murat döneminde II. Kosova Savaşı sonucu Balkanların Türk yurdu olduğu kesinleşmiştir"
-      ]
-    },
-    {
-      "soru_id": 5,
-      "soru": "Otlukbeli Savaşı hangi padişah döneminde yaşanmıştır?",
-      "cevap": "Fatih Sultan Mehmet",
-      "ek_bilgi": [
-        "Savaş, Fatih Sultan Mehmet Han ile Uzun Hasan (Akkoyunlular) arasında gerçekleşmiştir",
-        "Osmanlı savaşı kazanmış ve doğudaki tehlike önlenmiştir",
-        "Yavuz Sultan Selim döneminde Turnadağ Savaşı ile Anadolu Türk siyasi birliği kesin olarak sağlanmıştır",
-        "İkinci Selim, ordunun başında sefere çıkmayı bırakan ilk Osmanlı padişahı",
-        "Kanuni Sultan Süleyman dönemi, kaynaklarda altın çağ olarak geçer (Rodas alınmış, Belgrat alınmış, kazanılmıştır)"
-      ]
-    },
-    
-    {
-      "soru_id": 7,
-      "soru": "Osmanlı Devleti hangi antlaşma sonucu tarihinde ilk defa savaş tazminatı ödemiştir?",
-      "cevap": "Küçük Kaynarca Antlaşması",
-      "ek_bilgi": [
-        "Prut Antlaşması ile toprakların geri alınacağı umudu doğmuştur",
-        "İstanbul Antlaşması'yla Azak Kalesi Rusya'ya bırakıldı",
-        "Belgrad Antlaşması, Osmanlı'nın gerileme dönemindeki son kazançlı antlaşması"
-      ]
-    },
-    {
-      "soru_id": 8,
-      "soru": "Osmanlı'ya karşı ayaklanan ilk azınlık aşağıdakilerden hangisidir?",
-      "cevap": "Sırplar",
-      "ek_bilgi": [
-        "İlk bağımsız olan (Edirne Antlaşması ile) Yunanlılar",
-        "Arnavutluk I. Balkan Savaşı'ndan sonra bağımsız olacaktır",
-        "Bulgarlar II. Meşrutiyet'in ilanı sırasında bağımsız olacaktır",
-        "Ermeniler Berlin Antlaşması'na kadar herhangi bir sıkıntı yoktu, sonradan sorun haline gelecektir"
-      ]
-    },
-    {
-      "soru_id": 9,
-      "soru": "Osmanlı tarihinin ilk düzenli ordusu aşağıdakilerden hangisidir?",
-      "cevap": "Yaya ve Müsellem",
-      "ek_bilgi": [
-        "Sekban-ı Cedid ve Eşkinci Ocağı, II. Mahmut döneminde oluşturulan ocaklardır ve Yeniçerilerin tepkisinden dolayı kapatıldı",
-        "Yeniçeri ordusu I. Murat döneminde kuruldu"
-      ]
-    },
-    {
-      "soru_id": 10,
-      "soru": "Osmanlı'da rejime karşı çıkan ilk isyan aşağıdakilerden hangisidir?",
-      "cevap": "31 Mart Vakası",
-      "ek_bilgi": [
-        "31 Mart Vakası sonucunda II. Abdülhamit tahttan indirilmiş, yerine V. Mehmet Reşat getirilmiştir",
-        "Kuleli Vakası, Abdülmecid'e suikast girişimidir"
-      ]
-    },
-    {
-      "soru_id": 11,
-      "soru": "Mondros Ateşkes Antlaşması'ndan sonra işgal edilen ilk yer neresidir?",
-      "cevap": "Musul",
-      "ek_bilgi": [
-        "Anadolu'da ilk işgal edilen yer Hatay Dörtyol"
-      ]
-    },
-    {
-      "soru_id": 12,
-      "soru": "Sömürgeciliğe karşı verilen ilk mücadele aşağıdakilerden hangisidir?",
-      "cevap": "Trablusgarp Savaşı"
-    },
-    {
-      "soru_id": 13,
-      "soru": "Manda ve himaye ilk kez nerede reddedilmiştir?",
-      "cevap": "Erzurum Kongresi",
-      "ek_bilgi": [
-        "Manda ve himaye Sivas Kongresi'nde kesin bir dille reddedilmiştir",
-        "Amasya Genelgesi, Milli Mücadele'nin amacını, yöntemini ve gerekçesini ortaya koymuştur",
-        "Amasya Görüşmeleri ile Temsil Heyeti hukuken tanınmıştır"
-      ]
-    },
-    {
-      "soru_id": 14,
-      "soru": "Hangi Savaş sonucu düzenli ordu Sakarya'nın doğusuna çekilmiştir?",
-      "cevap": "Kütahya-Eskişehir Savaşları",
-      "ek_bilgi": [
-        "Düzenli ordunun çekilme amacı zaman kazanmaktı",
-        "Sakarya Meydan Muharebesi, Mustafa Kemal'in komuta ettiği ve \"Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır\" emrini verdiği savaştır"
-      ]
-    },
-    {
-      "soru_id": 15,
-      "soru": "Ordusunda Amazon kadın savaşçı bulunduran Türk topluluğu aşağıdakilerden hangisidir?",
-      "cevap": "İskitler",
-      "ek_bilgi": [
-        "İskitler'in ilk kadın hükümdarı Tomris Hatun",
-        "Peçenekler, Malazgirt Savaşı'nda Alparslan'ın tarafına geçmişlerdi"
-      ]
-    },
-    {
-      "soru_id": 16,
-      "soru": "Türk İslam devletlerinde tek cins malın satıldığı yere ne isim verilmiştir?",
-      "cevap": "Kapan",
-      "ek_bilgi": [
-        "Kapan, malları denetler ve kontrol eder",
-        "Han, kervanların konakladığı yerdir",
-        "Bedesten, değerli mücevher ve kumaşların satıldığı yerler arasındadır"
-      ]
-    },
-    {
-      "soru_id": 17,
-      "soru": "Türkiye Selçuklu Devleti'nde para şu aşağıdakilerden hangisidir?",
-      "cevap": "Alaaddin Keykubat",
-      "ek_bilgi": [
-        "Alaaddin Keykubat döneminde Van Ahlat ve Bitlis alınmış, bununla beraber Sudak'a yönelik Denizaşırı seferler gerçekleşmiştir"
-      ]
-    },
-    {
-      "soru_id": 18,
-      "soru": "Osmanlı döneminden itibaren esnaflardan alınmaya başlanan vergi aşağıdakilerden hangisidir?",
-      "cevap": "Bacım pazar vergisi",
-      "ek_bilgi": [
-        "Avarız, İkinci Beyazıt Döneminden itibaren olağanüstü durumlarda alınır",
-        "Anam, küçükbaş hayvanlar için alınır",
-        "Cizye, gayrimüslimlerin askerlik yapmamaları karşılığında ödedikleri vergi",
-        "Öşür, Müslümanlardan alınan ürün vergisi"
-      ]
-    },
-    {
-      "soru_id": 19,
-      "soru": "Şahkulu İsyanı hangi padişah döneminde yaşanmıştır?",
-      "cevap": "İkinci Beyazıt",
-      "ek_bilgi": [
-        "Şahkulu İsyanı, Antalya ve çevresinde çıkmıştır"
-      ]
-    },
-    {
-      "soru_id": 20,
-      "soru": "Bağdat Fatihi olarak bilinen Osmanlı padişahı aşağıdakilerden hangisidir?",
-      "cevap": "Dördüncü Murat",
-      "ek_bilgi": [
-        "Bağdat Fatihi unvanını Irak seferleri sonucu almıştır",
-        "Kasr-ı Şirin Antlaşması bu dönemde imzalanmıştır",
-        "Üçüncü Mehmet, Eğri Fatihi olarak bilinir"
-      ]
-    },
-    {
-      "soru_id": 21,
-      "soru": "Lale Devrini sona erdiren İsyan aşağıdakilerden hangisidir?",
-      "cevap": "Patrona Halil İsyanı",
-      "ek_bilgi": [
-        "Kabakçı Mustafa İsyanı ile Üçüncü Selim dönemi sona ermiştir",
-        "31 Mart Vakası, Osmanlı tarihinde rejime karşı çıkan ilk isyan"
-      ]
-    },
-    {
-      "soru_id": 22,
-      "soru": "Mürur tezkeresi hangi padişah döneminde yürürlüğe girmiştir?",
-      "cevap": "İkinci Mahmut",
-      "ek_bilgi": [
-        "Mürur tezkeresi \"geçiş belgesi\" olarak adlandırılır",
-        "Abdülaziz, yurt dışı seyahatine çıkan ilk Osmanlı padişahı"
-      ]
-    },
-    {
-      "soru_id": 23,
-      "soru": "Kanuni Esasi'yi hazırlayan komisyonun başkanı kimdir?",
-      "cevap": "Mithatpaşa",
-      "ek_bilgi": [
-        "Kanuni Esasi, Türk tarihinin ilk anayasası",
-        "Ziyapaşa, Osmanlıcılık fikrini savunan kişi"
-      ]
-    },
-    {
-      "soru_id": 24,
-      "soru": "Birinci Balkan Savaşı sonrası yaşanan hükümet darbesine ne isim verilmiştir?",
-      "cevap": "Bâb-ı Âli Baskını",
-      "ek_bilgi": [
-        "Bâb-ı Âli Baskını, Osmanlı tarihinde görülen ilk hükümet darbesi",
-        "Duyunu Umumiye, İkinci Abdülhamit döneminde oluşturulan dış borçların idaresi"
-      ]
-    },
-    {
-      "soru_id": 25,
-      "soru": "Mondros Ateşkes Antlaşması'nı imzalayan Bahriye nazırı kimdir?",
-      "cevap": "Rauf Bey",
-      "ek_bilgi": [
-        "Cevat Çobanlı, 18 Mart deniz kahramanı olarak bilinir"
-      ]
-    },
-    {
-      "soru_id": 26,
-      "soru": "Mustafa Kemal Paşa protesto mitingleri yapılması gerektiğini nerede duyurmuştur?",
-      "cevap": "Havza Genelgesi",
-      "ek_bilgi": [
-        "Amasya Genelgesi'nde milli mücadelenin amacı, yöntemi ve gerekçesi belirtilmiştir"
-      ]
-    },
-    {
-      "soru_id": 27,
-      "soru": "\"Ruhsal\" olarak nitelendirilen savaş hangisidir?",
-      "cevap": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi veya Dumlupınar Meydan Muharebesi)",
-      "ek_bilgi": [
-        "Sakarya Meydan Muharebesi, Subaylar Savaşı ya da Melhame-i Kübra olarak bilinir",
-        "Çanakkale Savaşı, Aydınlar Savaşı ya da Centilmenler Savaşı olarak bilinir"
-      ]
-    },
-    {
-      "soru_id": 28,
-      "soru": "Ulusal egemenliği temel alan Atatürk ilkesi hangisidir?",
-      "cevap": "Cumhuriyetçilik",
-      "ek_bilgi": [
-        "Cumhuriyetçilik; akıl ve bilimi öngörür"
-      ]
-    },
-    {
-      "soru_id": 29,
-      "soru": "Komenton Meclisi hangi Türk topluluğuna aittir?",
-      "cevap": "Peçenekler",
-      "ek_bilgi": [
-        "Avrupa Hun Devleti'nin meclisine verilen isim Seçkinler Meclisi",
-        "Hazarların Meclisi İhtiyarlar Meclisi",
-        "Uygurlar hakkında bilinmesi gereken, en parlak dönemlerinin Bögü Kağan dönemi olduğu ve bu dönemde Maniheizm dinini kabul ettikleri"
-      ]
-    },
-    {
-      "soru_id": 30,
-      "soru": "Malazgirt Savaşı'ndan sonra Erzincan ve çevresinde kurulan Beylik aşağıdakilerden hangisidir?",
-      "cevap": "Mengücekler",
-      "ek_bilgi": [
-        "Mengücekler'in en önemli eseri Divriği Ulu Camii",
-        "Saltukoğulları Erzurum ve çevresinde kurulmuştur",
-        "Karamanoğulları, Kösedağ Savaşı'ndan sonra Konya ve çevresinde kurulan ikinci beylik",
-        "Takabeyliği İzmir ve çevresinde kurulmuştur"
-      ]
-    },
-    {
-      "soru_id": 31,
-      "soru": "Türk tarihinin ilk dini-teknik isyanı aşağıdakilerden hangisidir?",
-      "cevap": "Baba İshak İsyanı",
-      "ek_bilgi": [
-        "Şeyh Bedrettin, Osmanlı tarihinin ilk dini-teknik isyanı",
-        "Şeyh Sait, Türkiye Cumhuriyeti'nde ortaya çıkan ilk dini-teknik isyan",
-        "Batıniler, Büyük Selçuklu Devleti'ni yıkan kişiler"
-      ]
-    },
-    {
-      "soru_id": 32,
-      "soru": "I. Kosova Savaşı'nda Haçlılar tarafından savaş sahasında gezerken şehit edilen padişah kim olmuştur?",
-      "cevap": "Birinci Murat",
-      "ek_bilgi": [
-        "İkinci Murat, Hayır Babası olarak bilinir",
-        "II. Kosova Savaşı ile Balkanlar'ın Türk yurdu olduğu kesinleşmiştir",
-        "Orhangazi döneminde Rumeli'deki ilk toprak parçası Çimpe Kalesi",
-        "Osman Bey döneminde Bizans ile ilk savaş (Koyunhisar Savaşı) gerçekleşmiştir",
-        "Çelebi Mehmet, Osmanlı Devleti'nin ikinci kurucusu olarak kabul edilir"
-      ]
-    },
-    {
-      "soru_id": 33,
-      "soru": "İstanbul'a gelen Venedik elçilerine ne isim verilmiştir?",
-      "cevap": "Balyoz",
-      "ek_bilgi": [
-        "Tekfur, Bizans valisine verilen isim",
-        "Martolos, Hristiyan keşif birliklerine verilen isim"
-      ]
-    },
-    {
-      "soru_id": 34,
-      "soru": "Osmanlı Devleti'nin Avusturya üzerinde siyasi üstünlüğü kaybettiği antlaşma aşağıdakilerden hangisidir?",
-      "cevap": "Zitvatorok Antlaşması",
-      "ek_bilgi": [
-        "İstanbul Antlaşması'yla (Kanuni Sultan Süleyman dönemi) Osmanlı Avusturya üzerinde siyasi üstünlük sağlamıştır",
-        "Vasvar Antlaşması (1664) ile Osmanlı üstünlüğü sağlanmıştır",
-        "Ziştovi (1791) ile Osmanlı fazla toprak kaybına uğramamıştır"
-      ]
-    },
-    {
-      "soru_id": 35,
-      "soru": "Çırağan Sarayı hangi padişah döneminde inşa edilmiştir?",
-      "cevap": "Sultan Abdülaziz",
-      "ek_bilgi": [
-        "Abdülmecit döneminde Dolmabahçe Sarayı inşa edilmiştir",
-        "Abdülaziz, yurt dışı seyahatine çıkan ilk Osmanlı padişahı",
-        "Vahdettin, Osmanlı Devleti'nin son padişahı"
-      ]
-    },
-    {
-      "soru_id": 36,
-      "soru": "Osmanlı Devleti'nde esnafı denetleyen (günümüz zabıtası) kişi kimdir?",
-      "cevap": "Muhtesip",
-      "ek_bilgi": [
-        "Kapan, çarşıya gelen malları denetleyen ve kontrol eden kişi",
-        "Müderris, yardımcılarına verilen isim (öğretmen yardımcısı)",
-        "Martolos, Hristiyan keşif birlikleri"
-      ]
-    },
-    {
-      "soru_id": 37,
-      "soru": "II. Meşrutiyet'in ilanına sebep olan ve İngiltere ile Rusya arasında gerçekleşen görüşmeler aşağıdakilerden hangisidir?",
-      "cevap": "Reval Görüşmeleri",
-      "ek_bilgi": [
-        "Londra Konferansı (1840) toplanmış ve Mısır sorunu çözülmüştür",
-        "Paris Antlaşması'yla Osmanlı Avrupa devleti sayılmıştır",
-        "Senedi İttifak, padişahın yetkisinin ilk kez kısıtlandığı gelişme (ayanların varlığını tanıdı)",
-        "Tersane Konferansı, I. Meşrutiyet'in ilanına sebep olan gelişme"
-      ]
-    },
-  
-    {
-      "soru_id": 39,
-      "soru": "Sivas'ta ulusal bir kongrenin toplanacağı kararı nerede alınmıştır?",
-      "cevap": "Amasya Genelgesi",
-      "ek_bilgi": [
-        "Havza Genelgesi'nde mitinglerin yapılması gerektiği söylenir",
-        "Erzurum Kongresi'nde ilk defa milli sınırlardan bahsedilir",
-        "Balıkesir ve Alaşehir kongreleri mahalli kongreler"
-      ]
-    },
-    
-    {
-      "soru_id": 41,
-      "soru": "Melhame-i Kübra (Büyük Kıyım ya da Subaylar Savaşı) olarak nitelendirilen savaş hangisidir?",
-      "cevap": "Sakarya Meydan Muharebesi",
-      "ek_bilgi": [
-        "Çanakkale Savaşı Centilmenler Savaşı ya da Aydınlar Savaşı olarak bilinir",
-        "Büyük Taarruz ise Ruhsal, Dumlupınar veya Başkomutanlık Meydan Savaşı olarak bilinir",
-        "Kütahya-Eskişehir Savaşları Yunanlıların 3. Büyük Taarruzu olarak nitelendirilir"
-      ]
-    },
-    {
-      "soru_id": 42,
-      "soru": "Serbest Cumhuriyet Fırkası'nın kurucusu kimdir?",
-      "cevap": "Ali Fethi Okyar",
-      "ek_bilgi": [
-        "Parti, Mustafa Kemal'in katkılarıyla kurulan partilerden biri"
-      ]
-    },
-    {
-      "soru_id": 43,
-      "soru": "Eski Türklerde \"Ayuki\" ne anlama gelmektedir?",
-      "cevap": "Hükümet",
-      "ek_bilgi": [
-        "Meclis'e Toy ya da Kurultay denirdi",
-        "Vezir'e Aygu (Ayguci), doktor'a Otacı, kâtib'e ise Tamgacı veya Bitikçi denirdi"
-      ]
-    },
-    {
-      "soru_id": 44,
-      "soru": "Büyük Selçuklu Devleti'nin en parlak dönemi hangi padişah dönemidir?",
-      "cevap": "Sultan Melikşah",
-      "ek_bilgi": [
-        "Alp Arslan, Anadolu kapılarını Türklere açmıştır",
-        "Tuğrul Bey, \"Doğu'nun ve Batı'nın Sultanı\" unvanını almıştır",
-        "Melikşah döneminde Batınilerle (Hasan Sabbah) uğraşılmıştır"
-      ]
-    },
-    {
-      "soru_id": 45,
-      "soru": "Süleyman Şah'ın kurduğu devletin (Türkiye Selçuklu Devleti) ilk başkenti neresi olmuştur?",
-      "cevap": "İznik",
-      "ek_bilgi": [
-        "I. Haçlı Seferi sırasında Birinci Kılıçarslan, merkezi İznik'ten Konya'ya taşımak durumunda kalmıştır",
-        "Ahlat, Alaaddin Keykubat döneminde Türkiye Selçuklu Devleti topraklarına katılmıştır",
-        "Karesioğulları Çanakkale'de kurulmuştur"
-      ]
-    },
-    {
-      "soru_id": 46,
-      "soru": "Osmanlı tarihinin ilk veziri kimdir?",
-      "cevap": "Alaaddin Paşa",
-      "ek_bilgi": [
-        "Davudi Kayseri ilk müderris",
-        "Dursun Fakih ilk kadı",
-        "Molla Fenari Bursa Müftüsü",
-        "Kemankeş Mustafa Paşa, IV. Murat döneminde önemli faaliyetlerde bulunan kişi"
-      ]
-    },
-    {
-      "soru_id": 47,
-      "soru": "Hangi savaşın sonucunda Anadolu Türk siyasi birliği kesin olarak sağlanmıştır?",
-      "cevap": "Turnadağ Savaşı",
-      "ek_bilgi": [
-        "Turnadağ Savaşı, Yavuz Sultan Selim döneminde Dulkadiroğulları ile yapılmıştır",
-        "Mercidabık ve Ridaniye, Mısır Seferleri olarak adlandırılır (Ridaniye'den sonra Mısır Osmanlı toprağına katılmıştır)",
-        "Otlukbeli Savaşı, Fatih Sultan Mehmet Han ile Uzun Hasan (Akkoyunlular) arasında gerçekleşmiş, doğudaki tehlike önlenmiştir",
-        "Çaldıran, Şah İsmail ile yapılan savaştır"
-      ]
-    },
-    {
-      "soru_id": 48,
-      "soru": "Osmanlı Devleti'nde askeri alanda Batı tarzı ilk ıslahat hareketini gerçekleştiren padişah kimdir?",
-      "cevap": "I. Mahmut",
-      "ek_bilgi": [
-        "Batı tarzı ilk askeri okul (Hendesehane), 1734'te I. Mahmut döneminde kurulmuştur",
-        "III. Ahmet, Lale Devri padişahı",
-        "III. Mustafa, Sürat Topçuları Ocağı'nı kurmuştur",
-        "III. Selim, Nizam-ı Cedid ordusunu kurmuştur"
-      ]
-    },
-    {
-      "soru_id": 49,
-      "soru": "Balta Limanı Ticaret Antlaşması hangi devletle imzalanmıştır?",
-      "cevap": "İngiltere",
-      "ek_bilgi": [
-        "Bu antlaşma ile Osmanlı Devleti yarı sömürge durumuna düşmüş ve Lonca teşkilatı çökmüştür",
-        "Osmanlı, Mısır meselesi sonrasında İngiltere'ye yanaşmıştır",
-        "Ruslarla Hünkar İskelesi Antlaşması imzalanmıştı"
-      ]
-    },
-    {
-      "soru_id": 50,
-      "soru": "İkinci Meşrutiyet'in ilanı sırasında bağımsız olan devlet hangisidir?",
-      "cevap": "Bulgaristan",
-      "ek_bilgi": [
-        "Sırbistan, Karadağ ve Romanya Berlin Antlaşması (1878) ile bağımsız oldu",
-        "Yunanistan, Edirne Antlaşması ile Osmanlı'dan ayrılan ilk azınlık oldu",
-        "Bulgaristan 1908'de bağımsızlığını ilan etmiştir"
-      ]
-    },
-    {
-      "soru_id": 51,
-      "soru": "Mustafa Kemal Paşa'nın ilk görev yeri neresi olmuştur?",
-      "cevap": "Şam V",
-      "ek_bilgi": [
-        "Mustafa Kemal, Sofya'da ataşemiliter olarak görev yapmıştır",
-        "Trablusgarp, sömürgeciliğe karşı verdiği ilk mücadele",
-        "Çanakkale'de \"Ben size taarruzu değil, ölmeyi emrediyorum\" sözünü söylemiştir",
-        "Kafkas Cephesi'nde Ruslardan Muş ve Bitlis'i geri almıştır"
-      ]
-    },
-    {
-      "soru_id": 52,
-      "soru": "Birinci Dünya Savaşı'nı başlatan devlet aşağıdakilerden hangisidir?",
-      "cevap": "Sırbistan",
-      "ek_bilgi": [
-        "ABD, gemileri batırılınca savaşa dahil olmuş, savaşın seyrini değiştirmiş ve Wilson İlkelerini yayımlamıştır"
-      ]
-    },
-    {
-      "soru_id": 53,
-      "soru": "Türklerin uluslararası alanda haklılığını gösteren ilk rapor hangisidir?",
-      "cevap": "Amiral Bristol Raporu",
-      "ek_bilgi": [
-        "Amiral Bristol Raporu, Rumların haksız olduğunu dile getirir",
-        "Dr. Esat Işık Raporu, ilk defa Kuvayi Milliye teriminden bahsetmiştir",
-        "Harbord Raporu, Ermenilerle ilgilidir"
-      ]
-    },
-    {
-      "soru_id": 54,
-      "soru": "Milli sınırlardan ilk nerede bahsedilmiştir?",
-      "cevap": "Erzurum Kongresi",
-      "ek_bilgi": [
-        "Misak-ı Millî'de sınırlar vardır, ancak ilk kez Erzurum Kongresi'nde bahsedilmiştir",
-        "Amasya Tamimi'nde ilk defa milli egemenlikten bahsedilmiştir",
-        "Sivas Kongresi'nde manda ve himaye kesin bir dille reddedilmiştir"
-      ]
-    },
-    {
-      "soru_id": 55,
-      "soru": "Londra Konferansı'nın toplanmasına olanak sağlayan savaş aşağıdakilerden hangisidir?",
-      "cevap": "I. İnönü Savaşı",
-      "ek_bilgi": [
-        "Londra Konferansı'ndan karar çıkmadığı için bu durum II. İnönü Savaşı'na sebebiyet vermiştir",
-        "I. İnönü Savaşı sonrası gelişmelerin şifresi \"Milat\" (Moskova Antlaşması, İstiklal Marşı'nın kabulü, Londra Konferansı, Afganistan ile dostluk, Teşkilat-ı Esasiye)"
-      ]
-    },
-    {
-      "soru_id": 56,
-      "soru": "Milli birlik ve beraberlik doğrudan hangi Atatürk ilkesiyle ilgilidir?",
-      "cevap": "Milliyetçilik",
-      "ek_bilgi": [
-        "Devletçilik, milli ekonomiyi ve sermayeyi kalkındırmayı savunur",
-        "Cumhuriyetçilik, Ulus egemenliğini esas alır",
-        "Laiklik, din ve vicdan hürriyeti ile akıl ve bilimi öngörür",
-        "Halkçılık ise eşitlik ve adaleti öngörür"
-      ]
-    }
-  ]
-},
-"bilgiler":{
-  "Tarih":[{
-  "I": {
-    "title": "İslamiyet Öncesi ve İlk Türk Devletleri",
-    "items": [
+    "Tarih": [
       {
-        "fact": "Eski Türklerde hükümet anlamına gelen kavram Ayuki’dir."
+        "soru_id": 1,
+        "soru": "İslamiyet’i benimseyen ilk Türk boyu aşağıdakilerden hangisidir?",
+        "cevap": "Karluklar",
+        "ek_bilgi": [
+          "İslamiyeti kabul eden ilk Türk devleti İtil Bulgarları",
+          "Orta Asya'da İslamiyeti kabul eden ilk Türk devleti Karahanlılar",
+          "Uygurlar Maniheizm dinini benimsemişlerdir",
+          "Göktürkler Bumin Kağan döneminde Budizm benimsenmiştir"
+        ]
       },
       {
-        "fact": "Eski Türklerde meclise Toy ya da Kurultay denirdi."
+        "soru_id": 2,
+        "soru": "İkta sistemi uygulayan ilk Türk İslam devleti aşağıdakilerden hangisidir?",
+        "cevap": "Büyük Selçuklu Devleti",
+        "ek_bilgi": [
+          "İkta sistemini ikinci halife Hz. Ömer getirmişti",
+          "Tolunoğulları Mısır'da kurulan ilk Türk İslam devleti, Akşitler (İhşidiler) Mısır'da kurulan ikinci Türk İslam devletidir (Kurucusu Muhammed bin Togaç)",
+          "İlk Türk İslam eserleri Karahanlılar döneminde yazılmıştır",
+          "Anadolu Selçuklu Devleti döneminde inşa edilen kervansarayın ismi Ayhan"
+        ]
       },
       {
-        "fact": "Vezire Aygucı, doktora Otacı, kâtibe Bitikçi denirdi."
+        "soru_id": 3,
+        "soru": "Türkiye Selçuklu Devleti döneminde ilk bakır parayı basan hükümdar kimdir?",
+        "cevap": "Birinci Mesut",
+        "ek_bilgi": [
+          "Birinci Kılıçarslan dönemi ile ilgili bilinmesi gereken, devletin başkentinin İznik'ten Konya'ya taşınması",
+          "Alaaddin Keykubat dönemi, devletin en parlak dönemi",
+          "İzzettin Keykavus döneminde sürekli ticarete uğraşılmış; Kıbrıs ve Venedik Krallığı ile ticaret antlaşmaları yapılmıştır",
+          "Saltuklular, Mülkiye döneminde egemenlik altına alınmıştır"
+        ]
       },
       {
-        "fact": "Ordusunda Amazon kadın savaşçı bulunduran Türk topluluğu İskitler (Sakalar)'dır."
+        "soru_id": 4,
+        "soru": "Osmanlı Devleti Balkanlardaki ilk yenilgisini hangi padişah döneminde yaşamıştır? (Tarih 1388)",
+        "cevap": "Birinci Murat",
+        "ek_bilgi": [
+          "Bu yenilgiye Ploşnik yenilgisi de denir (Akıncı Birliği Haçlı ordusuna yenilmişti)",
+          "Orhan Bey döneminde Balkanlardaki ilk toprak parçası Çimpe Kalesi",
+          "İkinci Murat döneminde II. Kosova Savaşı sonucu Balkanların Türk yurdu olduğu kesinleşmiştir"
+        ]
       },
       {
-        "fact": "İlk kadın hükümdar Tomris Hatun, İskitler'in hükümdarıdır."
+        "soru_id": 5,
+        "soru": "Otlukbeli Savaşı hangi padişah döneminde yaşanmıştır?",
+        "cevap": "Fatih Sultan Mehmet",
+        "ek_bilgi": [
+          "Savaş, Fatih Sultan Mehmet Han ile Uzun Hasan (Akkoyunlular) arasında gerçekleşmiştir",
+          "Osmanlı savaşı kazanmış ve doğudaki tehlike önlenmiştir",
+          "Yavuz Sultan Selim döneminde Turnadağ Savaşı ile Anadolu Türk siyasi birliği kesin olarak sağlanmıştır",
+          "İkinci Selim, ordunun başında sefere çıkmayı bırakan ilk Osmanlı padişahı",
+          "Kanuni Sultan Süleyman dönemi, kaynaklarda altın çağ olarak geçer (Rodas alınmış, Belgrat alınmış, kazanılmıştır)"
+        ]
+      },
+
+      {
+        "soru_id": 7,
+        "soru": "Osmanlı Devleti hangi antlaşma sonucu tarihinde ilk defa savaş tazminatı ödemiştir?",
+        "cevap": "Küçük Kaynarca Antlaşması",
+        "ek_bilgi": [
+          "Prut Antlaşması ile toprakların geri alınacağı umudu doğmuştur",
+          "İstanbul Antlaşması'yla Azak Kalesi Rusya'ya bırakıldı",
+          "Belgrad Antlaşması, Osmanlı'nın gerileme dönemindeki son kazançlı antlaşması"
+        ]
       },
       {
-        "fact": "İslamiyet'i benimseyen ilk Türk boyu Karluklar olacaktır."
+        "soru_id": 8,
+        "soru": "Osmanlı'ya karşı ayaklanan ilk azınlık aşağıdakilerden hangisidir?",
+        "cevap": "Sırplar",
+        "ek_bilgi": [
+          "İlk bağımsız olan (Edirne Antlaşması ile) Yunanlılar",
+          "Arnavutluk I. Balkan Savaşı'ndan sonra bağımsız olacaktır",
+          "Bulgarlar II. Meşrutiyet'in ilanı sırasında bağımsız olacaktır",
+          "Ermeniler Berlin Antlaşması'na kadar herhangi bir sıkıntı yoktu, sonradan sorun haline gelecektir"
+        ]
       },
       {
-        "fact": "İslamiyet'i kabul eden ilk Türk devleti (tarihte) İtil Bulgarları'dır (Almış Han dönemi)."
+        "soru_id": 9,
+        "soru": "Osmanlı tarihinin ilk düzenli ordusu aşağıdakilerden hangisidir?",
+        "cevap": "Yaya ve Müsellem",
+        "ek_bilgi": [
+          "Sekban-ı Cedid ve Eşkinci Ocağı, II. Mahmut döneminde oluşturulan ocaklardır ve Yeniçerilerin tepkisinden dolayı kapatıldı",
+          "Yeniçeri ordusu I. Murat döneminde kuruldu"
+        ]
       },
       {
-        "fact": "Orta Asya'da İslamiyet'i kabul eden ilk Türk devleti Karahanlılar'dır."
+        "soru_id": 10,
+        "soru": "Osmanlı'da rejime karşı çıkan ilk isyan aşağıdakilerden hangisidir?",
+        "cevap": "31 Mart Vakası",
+        "ek_bilgi": [
+          "31 Mart Vakası sonucunda II. Abdülhamit tahttan indirilmiş, yerine V. Mehmet Reşat getirilmiştir",
+          "Kuleli Vakası, Abdülmecid'e suikast girişimidir"
+        ]
       },
       {
-        "fact": "Uygurlar yerleşik hayata geçen ilk Türk devletidir ve Maniheizm dinini benimsemişlerdir."
+        "soru_id": 11,
+        "soru": "Mondros Ateşkes Antlaşması'ndan sonra işgal edilen ilk yer neresidir?",
+        "cevap": "Musul",
+        "ek_bilgi": ["Anadolu'da ilk işgal edilen yer Hatay Dörtyol"]
       },
       {
-        "fact": "Göktürkler kendilerine özgü (38 harften oluşan) alfabeyi oluşturmuşlardır."
+        "soru_id": 12,
+        "soru": "Sömürgeciliğe karşı verilen ilk mücadele aşağıdakilerden hangisidir?",
+        "cevap": "Trablusgarp Savaşı"
       },
       {
-        "fact": "Komenton Meclisi (Seçkinler Meclisi) Peçenekler'e aittir."
+        "soru_id": 13,
+        "soru": "Manda ve himaye ilk kez nerede reddedilmiştir?",
+        "cevap": "Erzurum Kongresi",
+        "ek_bilgi": [
+          "Manda ve himaye Sivas Kongresi'nde kesin bir dille reddedilmiştir",
+          "Amasya Genelgesi, Milli Mücadele'nin amacını, yöntemini ve gerekçesini ortaya koymuştur",
+          "Amasya Görüşmeleri ile Temsil Heyeti hukuken tanınmıştır"
+        ]
       },
       {
-        "fact": "Peçenekler, Malazgirt Savaşı’nda Alparslan’ın tarafına geçmişlerdir."
+        "soru_id": 14,
+        "soru": "Hangi Savaş sonucu düzenli ordu Sakarya'nın doğusuna çekilmiştir?",
+        "cevap": "Kütahya-Eskişehir Savaşları",
+        "ek_bilgi": [
+          "Düzenli ordunun çekilme amacı zaman kazanmaktı",
+          "Sakarya Meydan Muharebesi, Mustafa Kemal'in komuta ettiği ve \"Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır\" emrini verdiği savaştır"
+        ]
       },
       {
-        "fact": "Hazarların meclisi İhtiyarlar Meclisi’dir."
+        "soru_id": 15,
+        "soru": "Ordusunda Amazon kadın savaşçı bulunduran Türk topluluğu aşağıdakilerden hangisidir?",
+        "cevap": "İskitler",
+        "ek_bilgi": [
+          "İskitler'in ilk kadın hükümdarı Tomris Hatun",
+          "Peçenekler, Malazgirt Savaşı'nda Alparslan'ın tarafına geçmişlerdi"
+        ]
+      },
+      {
+        "soru_id": 16,
+        "soru": "Türk İslam devletlerinde tek cins malın satıldığı yere ne isim verilmiştir?",
+        "cevap": "Kapan",
+        "ek_bilgi": [
+          "Kapan, malları denetler ve kontrol eder",
+          "Han, kervanların konakladığı yerdir",
+          "Bedesten, değerli mücevher ve kumaşların satıldığı yerler arasındadır"
+        ]
+      },
+      {
+        "soru_id": 17,
+        "soru": "Türkiye Selçuklu Devleti'nde para şu aşağıdakilerden hangisidir?",
+        "cevap": "Alaaddin Keykubat",
+        "ek_bilgi": [
+          "Alaaddin Keykubat döneminde Van Ahlat ve Bitlis alınmış, bununla beraber Sudak'a yönelik Denizaşırı seferler gerçekleşmiştir"
+        ]
+      },
+      {
+        "soru_id": 18,
+        "soru": "Osmanlı döneminden itibaren esnaflardan alınmaya başlanan vergi aşağıdakilerden hangisidir?",
+        "cevap": "Bacım pazar vergisi",
+        "ek_bilgi": [
+          "Avarız, İkinci Beyazıt Döneminden itibaren olağanüstü durumlarda alınır",
+          "Anam, küçükbaş hayvanlar için alınır",
+          "Cizye, gayrimüslimlerin askerlik yapmamaları karşılığında ödedikleri vergi",
+          "Öşür, Müslümanlardan alınan ürün vergisi"
+        ]
+      },
+      {
+        "soru_id": 19,
+        "soru": "Şahkulu İsyanı hangi padişah döneminde yaşanmıştır?",
+        "cevap": "İkinci Beyazıt",
+        "ek_bilgi": ["Şahkulu İsyanı, Antalya ve çevresinde çıkmıştır"]
+      },
+      {
+        "soru_id": 20,
+        "soru": "Bağdat Fatihi olarak bilinen Osmanlı padişahı aşağıdakilerden hangisidir?",
+        "cevap": "Dördüncü Murat",
+        "ek_bilgi": [
+          "Bağdat Fatihi unvanını Irak seferleri sonucu almıştır",
+          "Kasr-ı Şirin Antlaşması bu dönemde imzalanmıştır",
+          "Üçüncü Mehmet, Eğri Fatihi olarak bilinir"
+        ]
+      },
+      {
+        "soru_id": 21,
+        "soru": "Lale Devrini sona erdiren İsyan aşağıdakilerden hangisidir?",
+        "cevap": "Patrona Halil İsyanı",
+        "ek_bilgi": [
+          "Kabakçı Mustafa İsyanı ile Üçüncü Selim dönemi sona ermiştir",
+          "31 Mart Vakası, Osmanlı tarihinde rejime karşı çıkan ilk isyan"
+        ]
+      },
+      {
+        "soru_id": 22,
+        "soru": "Mürur tezkeresi hangi padişah döneminde yürürlüğe girmiştir?",
+        "cevap": "İkinci Mahmut",
+        "ek_bilgi": [
+          "Mürur tezkeresi \"geçiş belgesi\" olarak adlandırılır",
+          "Abdülaziz, yurt dışı seyahatine çıkan ilk Osmanlı padişahı"
+        ]
+      },
+      {
+        "soru_id": 23,
+        "soru": "Kanuni Esasi'yi hazırlayan komisyonun başkanı kimdir?",
+        "cevap": "Mithatpaşa",
+        "ek_bilgi": [
+          "Kanuni Esasi, Türk tarihinin ilk anayasası",
+          "Ziyapaşa, Osmanlıcılık fikrini savunan kişi"
+        ]
+      },
+      {
+        "soru_id": 24,
+        "soru": "Birinci Balkan Savaşı sonrası yaşanan hükümet darbesine ne isim verilmiştir?",
+        "cevap": "Bâb-ı Âli Baskını",
+        "ek_bilgi": [
+          "Bâb-ı Âli Baskını, Osmanlı tarihinde görülen ilk hükümet darbesi",
+          "Duyunu Umumiye, İkinci Abdülhamit döneminde oluşturulan dış borçların idaresi"
+        ]
+      },
+      {
+        "soru_id": 25,
+        "soru": "Mondros Ateşkes Antlaşması'nı imzalayan Bahriye nazırı kimdir?",
+        "cevap": "Rauf Bey",
+        "ek_bilgi": ["Cevat Çobanlı, 18 Mart deniz kahramanı olarak bilinir"]
+      },
+      {
+        "soru_id": 26,
+        "soru": "Mustafa Kemal Paşa protesto mitingleri yapılması gerektiğini nerede duyurmuştur?",
+        "cevap": "Havza Genelgesi",
+        "ek_bilgi": [
+          "Amasya Genelgesi'nde milli mücadelenin amacı, yöntemi ve gerekçesi belirtilmiştir"
+        ]
+      },
+      {
+        "soru_id": 27,
+        "soru": "\"Ruhsal\" olarak nitelendirilen savaş hangisidir?",
+        "cevap": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi veya Dumlupınar Meydan Muharebesi)",
+        "ek_bilgi": [
+          "Sakarya Meydan Muharebesi, Subaylar Savaşı ya da Melhame-i Kübra olarak bilinir",
+          "Çanakkale Savaşı, Aydınlar Savaşı ya da Centilmenler Savaşı olarak bilinir"
+        ]
+      },
+      {
+        "soru_id": 28,
+        "soru": "Ulusal egemenliği temel alan Atatürk ilkesi hangisidir?",
+        "cevap": "Cumhuriyetçilik",
+        "ek_bilgi": ["Cumhuriyetçilik; akıl ve bilimi öngörür"]
+      },
+      {
+        "soru_id": 29,
+        "soru": "Komenton Meclisi hangi Türk topluluğuna aittir?",
+        "cevap": "Peçenekler",
+        "ek_bilgi": [
+          "Avrupa Hun Devleti'nin meclisine verilen isim Seçkinler Meclisi",
+          "Hazarların Meclisi İhtiyarlar Meclisi",
+          "Uygurlar hakkında bilinmesi gereken, en parlak dönemlerinin Bögü Kağan dönemi olduğu ve bu dönemde Maniheizm dinini kabul ettikleri"
+        ]
+      },
+      {
+        "soru_id": 30,
+        "soru": "Malazgirt Savaşı'ndan sonra Erzincan ve çevresinde kurulan Beylik aşağıdakilerden hangisidir?",
+        "cevap": "Mengücekler",
+        "ek_bilgi": [
+          "Mengücekler'in en önemli eseri Divriği Ulu Camii",
+          "Saltukoğulları Erzurum ve çevresinde kurulmuştur",
+          "Karamanoğulları, Kösedağ Savaşı'ndan sonra Konya ve çevresinde kurulan ikinci beylik",
+          "Takabeyliği İzmir ve çevresinde kurulmuştur"
+        ]
+      },
+      {
+        "soru_id": 31,
+        "soru": "Türk tarihinin ilk dini-teknik isyanı aşağıdakilerden hangisidir?",
+        "cevap": "Baba İshak İsyanı",
+        "ek_bilgi": [
+          "Şeyh Bedrettin, Osmanlı tarihinin ilk dini-teknik isyanı",
+          "Şeyh Sait, Türkiye Cumhuriyeti'nde ortaya çıkan ilk dini-teknik isyan",
+          "Batıniler, Büyük Selçuklu Devleti'ni yıkan kişiler"
+        ]
+      },
+      {
+        "soru_id": 32,
+        "soru": "I. Kosova Savaşı'nda Haçlılar tarafından savaş sahasında gezerken şehit edilen padişah kim olmuştur?",
+        "cevap": "Birinci Murat",
+        "ek_bilgi": [
+          "İkinci Murat, Hayır Babası olarak bilinir",
+          "II. Kosova Savaşı ile Balkanlar'ın Türk yurdu olduğu kesinleşmiştir",
+          "Orhangazi döneminde Rumeli'deki ilk toprak parçası Çimpe Kalesi",
+          "Osman Bey döneminde Bizans ile ilk savaş (Koyunhisar Savaşı) gerçekleşmiştir",
+          "Çelebi Mehmet, Osmanlı Devleti'nin ikinci kurucusu olarak kabul edilir"
+        ]
+      },
+      {
+        "soru_id": 33,
+        "soru": "İstanbul'a gelen Venedik elçilerine ne isim verilmiştir?",
+        "cevap": "Balyoz",
+        "ek_bilgi": [
+          "Tekfur, Bizans valisine verilen isim",
+          "Martolos, Hristiyan keşif birliklerine verilen isim"
+        ]
+      },
+      {
+        "soru_id": 34,
+        "soru": "Osmanlı Devleti'nin Avusturya üzerinde siyasi üstünlüğü kaybettiği antlaşma aşağıdakilerden hangisidir?",
+        "cevap": "Zitvatorok Antlaşması",
+        "ek_bilgi": [
+          "İstanbul Antlaşması'yla (Kanuni Sultan Süleyman dönemi) Osmanlı Avusturya üzerinde siyasi üstünlük sağlamıştır",
+          "Vasvar Antlaşması (1664) ile Osmanlı üstünlüğü sağlanmıştır",
+          "Ziştovi (1791) ile Osmanlı fazla toprak kaybına uğramamıştır"
+        ]
+      },
+      {
+        "soru_id": 35,
+        "soru": "Çırağan Sarayı hangi padişah döneminde inşa edilmiştir?",
+        "cevap": "Sultan Abdülaziz",
+        "ek_bilgi": [
+          "Abdülmecit döneminde Dolmabahçe Sarayı inşa edilmiştir",
+          "Abdülaziz, yurt dışı seyahatine çıkan ilk Osmanlı padişahı",
+          "Vahdettin, Osmanlı Devleti'nin son padişahı"
+        ]
+      },
+      {
+        "soru_id": 36,
+        "soru": "Osmanlı Devleti'nde esnafı denetleyen (günümüz zabıtası) kişi kimdir?",
+        "cevap": "Muhtesip",
+        "ek_bilgi": [
+          "Kapan, çarşıya gelen malları denetleyen ve kontrol eden kişi",
+          "Müderris, yardımcılarına verilen isim (öğretmen yardımcısı)",
+          "Martolos, Hristiyan keşif birlikleri"
+        ]
+      },
+      {
+        "soru_id": 37,
+        "soru": "II. Meşrutiyet'in ilanına sebep olan ve İngiltere ile Rusya arasında gerçekleşen görüşmeler aşağıdakilerden hangisidir?",
+        "cevap": "Reval Görüşmeleri",
+        "ek_bilgi": [
+          "Londra Konferansı (1840) toplanmış ve Mısır sorunu çözülmüştür",
+          "Paris Antlaşması'yla Osmanlı Avrupa devleti sayılmıştır",
+          "Senedi İttifak, padişahın yetkisinin ilk kez kısıtlandığı gelişme (ayanların varlığını tanıdı)",
+          "Tersane Konferansı, I. Meşrutiyet'in ilanına sebep olan gelişme"
+        ]
+      },
+
+      {
+        "soru_id": 39,
+        "soru": "Sivas'ta ulusal bir kongrenin toplanacağı kararı nerede alınmıştır?",
+        "cevap": "Amasya Genelgesi",
+        "ek_bilgi": [
+          "Havza Genelgesi'nde mitinglerin yapılması gerektiği söylenir",
+          "Erzurum Kongresi'nde ilk defa milli sınırlardan bahsedilir",
+          "Balıkesir ve Alaşehir kongreleri mahalli kongreler"
+        ]
+      },
+
+      {
+        "soru_id": 41,
+        "soru": "Melhame-i Kübra (Büyük Kıyım ya da Subaylar Savaşı) olarak nitelendirilen savaş hangisidir?",
+        "cevap": "Sakarya Meydan Muharebesi",
+        "ek_bilgi": [
+          "Çanakkale Savaşı Centilmenler Savaşı ya da Aydınlar Savaşı olarak bilinir",
+          "Büyük Taarruz ise Ruhsal, Dumlupınar veya Başkomutanlık Meydan Savaşı olarak bilinir",
+          "Kütahya-Eskişehir Savaşları Yunanlıların 3. Büyük Taarruzu olarak nitelendirilir"
+        ]
+      },
+      {
+        "soru_id": 42,
+        "soru": "Serbest Cumhuriyet Fırkası'nın kurucusu kimdir?",
+        "cevap": "Ali Fethi Okyar",
+        "ek_bilgi": [
+          "Parti, Mustafa Kemal'in katkılarıyla kurulan partilerden biri"
+        ]
+      },
+      {
+        "soru_id": 43,
+        "soru": "Eski Türklerde \"Ayuki\" ne anlama gelmektedir?",
+        "cevap": "Hükümet",
+        "ek_bilgi": [
+          "Meclis'e Toy ya da Kurultay denirdi",
+          "Vezir'e Aygu (Ayguci), doktor'a Otacı, kâtib'e ise Tamgacı veya Bitikçi denirdi"
+        ]
+      },
+      {
+        "soru_id": 44,
+        "soru": "Büyük Selçuklu Devleti'nin en parlak dönemi hangi padişah dönemidir?",
+        "cevap": "Sultan Melikşah",
+        "ek_bilgi": [
+          "Alp Arslan, Anadolu kapılarını Türklere açmıştır",
+          "Tuğrul Bey, \"Doğu'nun ve Batı'nın Sultanı\" unvanını almıştır",
+          "Melikşah döneminde Batınilerle (Hasan Sabbah) uğraşılmıştır"
+        ]
+      },
+      {
+        "soru_id": 45,
+        "soru": "Süleyman Şah'ın kurduğu devletin (Türkiye Selçuklu Devleti) ilk başkenti neresi olmuştur?",
+        "cevap": "İznik",
+        "ek_bilgi": [
+          "I. Haçlı Seferi sırasında Birinci Kılıçarslan, merkezi İznik'ten Konya'ya taşımak durumunda kalmıştır",
+          "Ahlat, Alaaddin Keykubat döneminde Türkiye Selçuklu Devleti topraklarına katılmıştır",
+          "Karesioğulları Çanakkale'de kurulmuştur"
+        ]
+      },
+      {
+        "soru_id": 46,
+        "soru": "Osmanlı tarihinin ilk veziri kimdir?",
+        "cevap": "Alaaddin Paşa",
+        "ek_bilgi": [
+          "Davudi Kayseri ilk müderris",
+          "Dursun Fakih ilk kadı",
+          "Molla Fenari Bursa Müftüsü",
+          "Kemankeş Mustafa Paşa, IV. Murat döneminde önemli faaliyetlerde bulunan kişi"
+        ]
+      },
+      {
+        "soru_id": 47,
+        "soru": "Hangi savaşın sonucunda Anadolu Türk siyasi birliği kesin olarak sağlanmıştır?",
+        "cevap": "Turnadağ Savaşı",
+        "ek_bilgi": [
+          "Turnadağ Savaşı, Yavuz Sultan Selim döneminde Dulkadiroğulları ile yapılmıştır",
+          "Mercidabık ve Ridaniye, Mısır Seferleri olarak adlandırılır (Ridaniye'den sonra Mısır Osmanlı toprağına katılmıştır)",
+          "Otlukbeli Savaşı, Fatih Sultan Mehmet Han ile Uzun Hasan (Akkoyunlular) arasında gerçekleşmiş, doğudaki tehlike önlenmiştir",
+          "Çaldıran, Şah İsmail ile yapılan savaştır"
+        ]
+      },
+      {
+        "soru_id": 48,
+        "soru": "Osmanlı Devleti'nde askeri alanda Batı tarzı ilk ıslahat hareketini gerçekleştiren padişah kimdir?",
+        "cevap": "I. Mahmut",
+        "ek_bilgi": [
+          "Batı tarzı ilk askeri okul (Hendesehane), 1734'te I. Mahmut döneminde kurulmuştur",
+          "III. Ahmet, Lale Devri padişahı",
+          "III. Mustafa, Sürat Topçuları Ocağı'nı kurmuştur",
+          "III. Selim, Nizam-ı Cedid ordusunu kurmuştur"
+        ]
+      },
+      {
+        "soru_id": 49,
+        "soru": "Balta Limanı Ticaret Antlaşması hangi devletle imzalanmıştır?",
+        "cevap": "İngiltere",
+        "ek_bilgi": [
+          "Bu antlaşma ile Osmanlı Devleti yarı sömürge durumuna düşmüş ve Lonca teşkilatı çökmüştür",
+          "Osmanlı, Mısır meselesi sonrasında İngiltere'ye yanaşmıştır",
+          "Ruslarla Hünkar İskelesi Antlaşması imzalanmıştı"
+        ]
+      },
+      {
+        "soru_id": 50,
+        "soru": "İkinci Meşrutiyet'in ilanı sırasında bağımsız olan devlet hangisidir?",
+        "cevap": "Bulgaristan",
+        "ek_bilgi": [
+          "Sırbistan, Karadağ ve Romanya Berlin Antlaşması (1878) ile bağımsız oldu",
+          "Yunanistan, Edirne Antlaşması ile Osmanlı'dan ayrılan ilk azınlık oldu",
+          "Bulgaristan 1908'de bağımsızlığını ilan etmiştir"
+        ]
+      },
+      {
+        "soru_id": 51,
+        "soru": "Mustafa Kemal Paşa'nın ilk görev yeri neresi olmuştur?",
+        "cevap": "Şam V",
+        "ek_bilgi": [
+          "Mustafa Kemal, Sofya'da ataşemiliter olarak görev yapmıştır",
+          "Trablusgarp, sömürgeciliğe karşı verdiği ilk mücadele",
+          "Çanakkale'de \"Ben size taarruzu değil, ölmeyi emrediyorum\" sözünü söylemiştir",
+          "Kafkas Cephesi'nde Ruslardan Muş ve Bitlis'i geri almıştır"
+        ]
+      },
+      {
+        "soru_id": 52,
+        "soru": "Birinci Dünya Savaşı'nı başlatan devlet aşağıdakilerden hangisidir?",
+        "cevap": "Sırbistan",
+        "ek_bilgi": [
+          "ABD, gemileri batırılınca savaşa dahil olmuş, savaşın seyrini değiştirmiş ve Wilson İlkelerini yayımlamıştır"
+        ]
+      },
+      {
+        "soru_id": 53,
+        "soru": "Türklerin uluslararası alanda haklılığını gösteren ilk rapor hangisidir?",
+        "cevap": "Amiral Bristol Raporu",
+        "ek_bilgi": [
+          "Amiral Bristol Raporu, Rumların haksız olduğunu dile getirir",
+          "Dr. Esat Işık Raporu, ilk defa Kuvayi Milliye teriminden bahsetmiştir",
+          "Harbord Raporu, Ermenilerle ilgilidir"
+        ]
+      },
+      {
+        "soru_id": 54,
+        "soru": "Milli sınırlardan ilk nerede bahsedilmiştir?",
+        "cevap": "Erzurum Kongresi",
+        "ek_bilgi": [
+          "Misak-ı Millî'de sınırlar vardır, ancak ilk kez Erzurum Kongresi'nde bahsedilmiştir",
+          "Amasya Tamimi'nde ilk defa milli egemenlikten bahsedilmiştir",
+          "Sivas Kongresi'nde manda ve himaye kesin bir dille reddedilmiştir"
+        ]
+      },
+      {
+        "soru_id": 55,
+        "soru": "Londra Konferansı'nın toplanmasına olanak sağlayan savaş aşağıdakilerden hangisidir?",
+        "cevap": "I. İnönü Savaşı",
+        "ek_bilgi": [
+          "Londra Konferansı'ndan karar çıkmadığı için bu durum II. İnönü Savaşı'na sebebiyet vermiştir",
+          "I. İnönü Savaşı sonrası gelişmelerin şifresi \"Milat\" (Moskova Antlaşması, İstiklal Marşı'nın kabulü, Londra Konferansı, Afganistan ile dostluk, Teşkilat-ı Esasiye)"
+        ]
+      },
+      {
+        "soru_id": 56,
+        "soru": "Milli birlik ve beraberlik doğrudan hangi Atatürk ilkesiyle ilgilidir?",
+        "cevap": "Milliyetçilik",
+        "ek_bilgi": [
+          "Devletçilik, milli ekonomiyi ve sermayeyi kalkındırmayı savunur",
+          "Cumhuriyetçilik, Ulus egemenliğini esas alır",
+          "Laiklik, din ve vicdan hürriyeti ile akıl ve bilimi öngörür",
+          "Halkçılık ise eşitlik ve adaleti öngörür"
+        ]
       }
     ]
   },
-  "II": {
-    "title": "Türk İslam Devletleri ve Selçuklular",
-    "items": [
+  "bilgiler": {
+    "Tarih": [
       {
-        "fact": "İkta sistemini uygulayan ilk Türk İslam devleti Büyük Selçuklu Devleti'dir. (İkta sistemini getiren Hz. Ömer’dir)."
-      },
-      {
-        "fact": "Büyük Selçuklu Devleti'nin en parlak dönemi Sultan Melikşah dönemidir."
-      },
-      {
-        "fact": "Sultan Melikşah döneminde Batınilerle uğraşılmıştır."
-      },
-      {
-        "fact": "Anadolu Selçuklu Devleti'nin ilk başkenti İznik olmuştur."
-      },
-      {
-        "fact": "I. Haçlı Seferi sırasında I. Kılıçarslan merkezi İznik'ten Konya’ya taşımak zorunda kalmıştır."
-      },
-      {
-        "fact": "Türkiye Selçuklu Devleti döneminde ilk bakır para I. Mesut döneminde basılmıştır."
-      },
-      {
-        "fact": "Alaaddin Keykubat dönemi, Devletin en parlak dönemi olarak bilinir; bu dönemde Van Ahlat ve Bitlis alınmıştır."
-      },
-      {
-        "fact": "Malazgirt Savaşı'ndan sonra Erzincan ve çevresinde kurulan beylik Mengücekler’dir. Mengücekler'in en önemli eseri Divriği Ulu Camii’dir."
-      },
-      {
-        "fact": "Erzurum ve çevresinde kurulan beylik Saltukoğulları’dır."
-      },
-      {
-        "fact": "Türk tarihinin ilk dini-teknik isyanı Baba İshak (Baba İlyas) İsyanı olacaktır."
-      },
-      {
-        "fact": "Türk İslam devletlerinde tek cins malın satıldığı yere Kapan denir; Kapan Emine, malları denetler."
-      },
-      {
-        "fact": "Bedesten, değerli mücevher ve kumaşların satıldığı yerdir."
+        "I": {
+          "title": "İslamiyet Öncesi ve İlk Türk Devletleri",
+          "items": [
+            {
+              "fact": "Eski Türklerde hükümet anlamına gelen kavram Ayuki’dir."
+            },
+            {
+              "fact": "Eski Türklerde meclise Toy ya da Kurultay denirdi."
+            },
+            {
+              "fact": "Vezire Aygucı, doktora Otacı, kâtibe Bitikçi denirdi."
+            },
+            {
+              "fact": "Ordusunda Amazon kadın savaşçı bulunduran Türk topluluğu İskitler (Sakalar)'dır."
+            },
+            {
+              "fact": "İlk kadın hükümdar Tomris Hatun, İskitler'in hükümdarıdır."
+            },
+            {
+              "fact": "İslamiyet'i benimseyen ilk Türk boyu Karluklar olacaktır."
+            },
+            {
+              "fact": "İslamiyet'i kabul eden ilk Türk devleti (tarihte) İtil Bulgarları'dır (Almış Han dönemi)."
+            },
+            {
+              "fact": "Orta Asya'da İslamiyet'i kabul eden ilk Türk devleti Karahanlılar'dır."
+            },
+            {
+              "fact": "Uygurlar yerleşik hayata geçen ilk Türk devletidir ve Maniheizm dinini benimsemişlerdir."
+            },
+            {
+              "fact": "Göktürkler kendilerine özgü (38 harften oluşan) alfabeyi oluşturmuşlardır."
+            },
+            {
+              "fact": "Komenton Meclisi (Seçkinler Meclisi) Peçenekler'e aittir."
+            },
+            {
+              "fact": "Peçenekler, Malazgirt Savaşı’nda Alparslan’ın tarafına geçmişlerdir."
+            },
+            {
+              "fact": "Hazarların meclisi İhtiyarlar Meclisi’dir."
+            }
+          ]
+        },
+        "II": {
+          "title": "Türk İslam Devletleri ve Selçuklular",
+          "items": [
+            {
+              "fact": "İkta sistemini uygulayan ilk Türk İslam devleti Büyük Selçuklu Devleti'dir. (İkta sistemini getiren Hz. Ömer’dir)."
+            },
+            {
+              "fact": "Büyük Selçuklu Devleti'nin en parlak dönemi Sultan Melikşah dönemidir."
+            },
+            {
+              "fact": "Sultan Melikşah döneminde Batınilerle uğraşılmıştır."
+            },
+            {
+              "fact": "Anadolu Selçuklu Devleti'nin ilk başkenti İznik olmuştur."
+            },
+            {
+              "fact": "I. Haçlı Seferi sırasında I. Kılıçarslan merkezi İznik'ten Konya’ya taşımak zorunda kalmıştır."
+            },
+            {
+              "fact": "Türkiye Selçuklu Devleti döneminde ilk bakır para I. Mesut döneminde basılmıştır."
+            },
+            {
+              "fact": "Alaaddin Keykubat dönemi, Devletin en parlak dönemi olarak bilinir; bu dönemde Van Ahlat ve Bitlis alınmıştır."
+            },
+            {
+              "fact": "Malazgirt Savaşı'ndan sonra Erzincan ve çevresinde kurulan beylik Mengücekler’dir. Mengücekler'in en önemli eseri Divriği Ulu Camii’dir."
+            },
+            {
+              "fact": "Erzurum ve çevresinde kurulan beylik Saltukoğulları’dır."
+            },
+            {
+              "fact": "Türk tarihinin ilk dini-teknik isyanı Baba İshak (Baba İlyas) İsyanı olacaktır."
+            },
+            {
+              "fact": "Türk İslam devletlerinde tek cins malın satıldığı yere Kapan denir; Kapan Emine, malları denetler."
+            },
+            {
+              "fact": "Bedesten, değerli mücevher ve kumaşların satıldığı yerdir."
+            }
+          ]
+        },
+        "III": {
+          "title": "Osmanlı Kuruluş, Yükseliş ve Duraklama Dönemi",
+          "items": [
+            {
+              "fact": "Osmanlı tarihinin ilk veziri Alaaddin Paşa’dır. İlk kadı Dursun Fakıh, ilk müderris Davudi Kayseri’dir."
+            },
+            {
+              "fact": "Osman Bey döneminde Bizans'la ilk savaş Koyunhisar Savaşı gerçekleşmiştir."
+            },
+            {
+              "fact": "Orhan Bey döneminde Rumeli'deki ilk toprak parçası Çimpe Kalesi'dir."
+            },
+            {
+              "fact": "Osmanlı Devleti Balkanlardaki ilk yenilgisini (Ploşnik) I. Murat döneminde (1388) yaşamıştır."
+            },
+            {
+              "fact": "I. Kosova Savaşı’nda savaş sahasını gezerken bir Sırp tarafından şehit edilen padişah I. Murat (Murat Hüdavendigar) olmuştur."
+            },
+            {
+              "fact": "Otlukbeli Savaşı (Fatih Sultan Mehmet ile Akkoyunlu Uzun Hasan arasında) Osmanlı’nın kazanmasıyla Doğu'daki tehlike önlenmiştir."
+            },
+            {
+              "fact": "Turnadağ Savaşı (Yavuz Sultan Selim dönemi, Dulkadiroğulları ile) sonucunda Anadolu Türk siyasi birliği kesin olarak sağlanmıştır."
+            },
+            {
+              "fact": "İstanbul’a gelen Venedik elçilerine Balyoz ismi verilmiştir."
+            },
+            {
+              "fact": "Osmanlı tarihinin ilk düzenli ordusu (Orhan Bey döneminde kurulan) Yaya ve Müsellem Ordusu’dur."
+            },
+            {
+              "fact": "Osmanlı tarihinin ilk vergisi olarak bilinen vergi Bac-ı Pazar vergisi (Pazar vergisi)'dir."
+            },
+            {
+              "fact": "Şahkulu İsyanı II. Beyazıt döneminde (Antalya ve çevresinde) yaşanmıştır."
+            },
+            {
+              "fact": "II. Selim, ordunun başında sefere çıkmayı bırakan ilk Osmanlı padişahıdır."
+            },
+            {
+              "fact": "Bağdat Fatihi olarak bilinen padişah IV. Murat’tır."
+            },
+            {
+              "fact": "II. Osman (Genç Osman) Hotin Seferi sonrasında Yeniçeri ocağını kaldırmak istemiş, bu neticede yeniçeriler tarafından öldürülen ilk Osmanlı padişahı olmuştur."
+            },
+            {
+              "fact": "Osmanlı Devleti'nin Avusturya üzerindeki siyasi üstünlüğü kaybettiği antlaşma Zitvatorok Antlaşması’dır (I. Ahmet dönemi)."
+            },
+            {
+              "fact": "IV. Murat Osmanlı tarihinin en disiplinli padişahıdır."
+            }
+          ]
+        },
+        "IV": {
+          "title": "Osmanlı Gerileme ve Dağılma Dönemi Islahatları",
+          "items": [
+            {
+              "fact": "Lale Devri’ni sona erdiren isyan Patrona Halil İsyanı’dır."
+            },
+            {
+              "fact": "Kabakçı Mustafa İsyanı ile III. Selim dönemi sona ermiştir."
+            },
+            {
+              "fact": "I. Mahmut askeri alanda Batı tarzı ilk ıslahat hareketini gerçekleştiren ve Batı tarzı ilk askeri okulu (1734) açan padişahtır."
+            },
+            {
+              "fact": "Osmanlı Devleti tarihinde ilk defa savaş tazminatı ödediği antlaşma Küçük Kaynarca Antlaşması'dır."
+            },
+            {
+              "fact": "Osmanlı'ya karşı ayaklanan ilk azınlık (Kara Yorgi önderliğinde) Sırplar’dır."
+            },
+            {
+              "fact": "Osmanlı’dan ayrılan ilk azınlık (Edirne Antlaşması ile) Yunanlılar’dır."
+            },
+            {
+              "fact": "II. Meşrutiyet'in ilanı sırasında bağımsız olan devlet Bulgaristan’dır (1908)."
+            },
+            {
+              "fact": "Yurt dışı seyahatine çıkan ilk Osmanlı padişahı Sultan Abdülaziz’dir."
+            },
+            {
+              "fact": "Çırağan Sarayı Sultan Abdülaziz döneminde inşa edilmiştir."
+            },
+            {
+              "fact": "II. Mahmut döneminde Sened-i İttifak imzalanmış (Padişahın yetkileri ilk kez kısıtlandı), portresi devlet dairelerine astırılmış ve Mülkiye bölümü açılmıştır."
+            },
+            {
+              "fact": "Balta Limanı Ticaret Antlaşması (1838) İngiltere ile imzalanmış, Osmanlı Devleti’ni yarı sömürge durumuna düşürmüştür."
+            },
+            {
+              "fact": "Kanun-i Esasi’yi hazırlayan komisyonun başkanı Mithat Paşa’dır."
+            },
+            {
+              "fact": "II. Meşrutiyet'in ilanına sebep olan gelişme Reval Görüşmeleri'dir (İngiltere ve Rusya arasında)."
+            },
+            {
+              "fact": "Osmanlı tarihinde rejime karşı çıkan ilk isyan 31 Mart Vakası olacaktır. Bu vaka sonucunda II. Abdülhamit tahttan indirilmiştir."
+            },
+            {
+              "fact": "II. Meşrutiyet sonrası yaşanan hükümet darbesi Bab-ı Ali Baskını’dır."
+            },
+            {
+              "fact": "Duyun-u Umumiye II. Abdülhamit döneminde oluşturulan dış borçların idaresidir."
+            },
+            {
+              "fact": "Esnafları denetleyen ve çarşı kapanlarını kontrol eden kişi Muhtesip’tir (günümüz zabıtası)."
+            }
+          ]
+        },
+        "V": {
+          "title": "Milli Mücadele ve İnkılap Tarihi",
+          "items": [
+            {
+              "fact": "Mustafa Kemal Paşa’nın ilk görev yeri Şam (V. Ordu)’dır."
+            },
+            {
+              "fact": "Mustafa Kemal’in sömürgeciliğe karşı verdiği ilk mücadele Trablusgarp Savaşı’dır."
+            },
+            {
+              "fact": "Mustafa Kemal’in Çanakkale’deki sözü: “Ben size taarruzu değil, ölmeyi emrediyorum”."
+            },
+            {
+              "fact": "I. Dünya Savaşı'ndan sonra yayımlanan ve Türklerin uluslararası alanda haklılığını gösteren ilk rapor Amiral Bristol Raporu olacaktır (Rumların haksız olduğunu dile getirir)."
+            },
+            {
+              "fact": "İlk defa Kuvayi Milliye teriminden bahseden rapor Dr. Esat Işık Raporu’dur."
+            },
+            {
+              "fact": "Mondros Ateşkes Antlaşması’nı imzalayan Bahriye Nazırı Rauf Bey’dir."
+            },
+            {
+              "fact": "Mondros’u imzalayan hükümet Ahmet İzzet Paşa Hükümeti’dir."
+            },
+            {
+              "fact": "Mondros Ateşkes Antlaşması'ndan sonra işgal edilen ilk yer Musul’dur."
+            },
+            {
+              "fact": "Mustafa Kemal Paşa, protesto mitingleri yapılması gerektiğini Havza Genelgesi’nde duyurmuştur."
+            },
+            {
+              "fact": "Milli Mücadele’nin amacı, yöntemi ve gerekçesi Amasya Tamimi’nde (Genelgesi) ortaya konulmuştur."
+            },
+            {
+              "fact": "Milli sınırlardan ilk kez nerede bahsedilmiştir? Erzurum Kongresi’nde."
+            },
+            {
+              "fact": "Manda ve himaye ilk kez Erzurum Kongresi’nde reddedilmiş, Sivas Kongresi’nde ise kesin bir dille reddedilmiştir."
+            },
+            {
+              "fact": "Amasya Görüşmeleri ile Temsil Heyeti hukuken tanınmıştır."
+            },
+            {
+              "fact": "Londra Konferansı’nın toplanmasına olanak sağlayan savaş I. İnönü Savaşı’dır."
+            },
+            {
+              "fact": "I. İnönü Savaşı’ndan sonra (M.İ.L.A.T. şifresinde): Moskova Antlaşması, İstiklal Marşı'nın kabulü, Londra Konferansı, Afganistan ile Dostluk Antlaşması ve Teşkilat-ı Esasiye yer alır."
+            },
+            {
+              "fact": "Kütahya-Eskişehir Savaşları sonucunda düzenli ordu, zaman kazanmak amacıyla Sakarya’nın doğusuna çekilmiştir."
+            },
+            {
+              "fact": "Subaylar Savaşı ya da Melhame-i Kübra olarak nitelendirilen savaş Sakarya Meydan Savaşı’dır."
+            },
+            {
+              "fact": "Rumsındığı, Dumlupınar Meydan Savaşı ya da Başkomutanlık Meydan Savaşı olarak nitelendirilen savaş Büyük Taarruz’dur."
+            },
+            {
+              "fact": "I. TBMM'nin açılış konuşmasını (23 Nisan 1920) Sinop milletvekili Şerif Bey yapmıştır."
+            },
+            {
+              "fact": "Ulus egemenliği ile doğrudan ilgili olan Atatürk ilkesi Cumhuriyetçilik’tir."
+            },
+            {
+              "fact": "Vicdan hürriyeti, akıl ve bilimi öngören ilke Laiklik’tir."
+            },
+            {
+              "fact": "Milli birlik ve beraberlikle doğrudan ilgili ilke Milliyetçilik’tir."
+            },
+            {
+              "fact": "Serbest Cumhuriyet Fırkası’nın kurucusu Ali Fethi Okyar’dır."
+            }
+          ]
+        }
       }
-    ]
-  },
-  "III": {
-    "title": "Osmanlı Kuruluş, Yükseliş ve Duraklama Dönemi",
-    "items": [
+    ],
+    "Coğrafya": [
       {
-        "fact": "Osmanlı tarihinin ilk veziri Alaaddin Paşa’dır. İlk kadı Dursun Fakıh, ilk müderris Davudi Kayseri’dir."
-      },
-      {
-        "fact": "Osman Bey döneminde Bizans'la ilk savaş Koyunhisar Savaşı gerçekleşmiştir."
-      },
-      {
-        "fact": "Orhan Bey döneminde Rumeli'deki ilk toprak parçası Çimpe Kalesi'dir."
-      },
-      {
-        "fact": "Osmanlı Devleti Balkanlardaki ilk yenilgisini (Ploşnik) I. Murat döneminde (1388) yaşamıştır."
-      },
-      {
-        "fact": "I. Kosova Savaşı’nda savaş sahasını gezerken bir Sırp tarafından şehit edilen padişah I. Murat (Murat Hüdavendigar) olmuştur."
-      },
-      {
-        "fact": "Otlukbeli Savaşı (Fatih Sultan Mehmet ile Akkoyunlu Uzun Hasan arasında) Osmanlı’nın kazanmasıyla Doğu'daki tehlike önlenmiştir."
-      },
-      {
-        "fact": "Turnadağ Savaşı (Yavuz Sultan Selim dönemi, Dulkadiroğulları ile) sonucunda Anadolu Türk siyasi birliği kesin olarak sağlanmıştır."
-      },
-      {
-        "fact": "İstanbul’a gelen Venedik elçilerine Balyoz ismi verilmiştir."
-      },
-      {
-        "fact": "Osmanlı tarihinin ilk düzenli ordusu (Orhan Bey döneminde kurulan) Yaya ve Müsellem Ordusu’dur."
-      },
-      {
-        "fact": "Osmanlı tarihinin ilk vergisi olarak bilinen vergi Bac-ı Pazar vergisi (Pazar vergisi)'dir."
-      },
-      {
-        "fact": "Şahkulu İsyanı II. Beyazıt döneminde (Antalya ve çevresinde) yaşanmıştır."
-      },
-      {
-        "fact": "II. Selim, ordunun başında sefere çıkmayı bırakan ilk Osmanlı padişahıdır."
-      },
-      {
-        "fact": "Bağdat Fatihi olarak bilinen padişah IV. Murat’tır."
-      },
-      {
-        "fact": "II. Osman (Genç Osman) Hotin Seferi sonrasında Yeniçeri ocağını kaldırmak istemiş, bu neticede yeniçeriler tarafından öldürülen ilk Osmanlı padişahı olmuştur."
-      },
-      {
-        "fact": "Osmanlı Devleti'nin Avusturya üzerindeki siyasi üstünlüğü kaybettiği antlaşma Zitvatorok Antlaşması’dır (I. Ahmet dönemi)."
-      },
-      {
-        "fact": "IV. Murat Osmanlı tarihinin en disiplinli padişahıdır."
+        "I": {
+          "title": "Türkiye'nin Sınırları, Sınır Kapıları ve Boru Hatları",
+          "subsections": {
+            "A": {
+              "title": "Kara Sınırları ve Komşular",
+              "items": [
+                {
+                  "fact": "Ülkemizin en çok sınır kapısı olan ülke Suriye'dir."
+                },
+                { "fact": "En uzun kara sınırımız Suriye'dir." },
+                { "fact": "En kısa kara sınırımız Nahçıvan (Dilucu)'dur." },
+                {
+                  "fact": "Komşularımız arasında yüz ölçümü bizden büyük olan tek ülke İran'dır."
+                }
+              ]
+            },
+            "B": {
+              "title": "Sınır Kapıları ve Demiryolu Bağlantıları",
+              "items": [
+                {
+                  "fact": "En işlek sınır kapıları Kapıkule, Habur, Gürbulak ve Sarp'tır. Habur, Ortadoğu'ya açılan en işlek kapıdır."
+                },
+                {
+                  "fact": "Siyasi sebeplerden dolayı kapalı olan sınır kapısı Akyaka'dır (Türkiye-Ermenistan)."
+                },
+                {
+                  "fact": "En son açılan sınır kapısı Suriye ile olan Zeytin Dalı'dır."
+                },
+                {
+                  "fact": "Demir yolu bağlantısı olan sınır kapıları şunlardır:",
+                  "details": [
+                    "Bulgaristan: Kapıkule",
+                    "Suriye: Çobanbey, Islahiye, Nusaybin",
+                    "İran: Kapıköy",
+                    "Yunanistan: Uzunköprü",
+                    "Gürcistan: Canbaz"
+                  ]
+                }
+              ]
+            },
+            "C": {
+              "title": "Sınır Nehirleri",
+              "items": [
+                { "fact": "Yunanistan sınırımızı Meriç Nehri oluşturur." },
+                {
+                  "fact": "Ermenistan ve Nahçıvan sınırımızı Aras Nehri oluşturur."
+                },
+                {
+                  "fact": "Doğal sınır oluşturan diğer akarsular Asi (Suriye) ve Dicle (Suriye) ile Arpaçay (Ermenistan)'dır."
+                }
+              ]
+            },
+            "D": {
+              "title": "Demir İpek Yolu ve Boru Hatları",
+              "items": [
+                {
+                  "fact": "Demir İpek Yolu Çin'den İngiltere'ye uzanır; Türkiye'ye Gürcistan'dan Canbaz istasyonundan girer ve Bulgaristan'dan çıkar."
+                },
+                {
+                  "fact": "Doğalgaz Boru Hatları:",
+                  "details": [
+                    "Türk akımı (Rus doğalgazı)",
+                    "Mavi Akım (Rus doğalgazı)",
+                    "TANAP (Türkiye-Azerbaycan, Trans Anadolu)",
+                    "TAP (Trans Adriyatik)",
+                    "Şah Deniz 1 ve 2",
+                    "İran doğalgazı (Türkiye ihtiyacının %13'ü karşılanır)",
+                    "Batı hattı (ilk hat, 1987, Rusya'dan)",
+                    "Bakü Tiflis Erzurum hattı"
+                  ]
+                },
+                {
+                  "fact": "Petrol Boru Hatları:",
+                  "details": [
+                    "Bakü Tiflis Ceyhan (Azerbaycan petrolü)",
+                    "Kerkük Yumurtalık (Irak petrolü)",
+                    "Batman Dörtyol (yerel petrol)",
+                    "Yumurtalık Kırıkkale"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "II": {
+          "title": "Türkiye İklimi ve Rüzgarlar",
+          "subsections": {
+            "A": {
+              "title": "Genel İklim Özellikleri",
+              "items": [
+                {
+                  "fact": "İklimi en iyi tanıtan unsur doğal bitki örtüsüdür, tarım ürünü değildir."
+                },
+                {
+                  "fact": "Ocak ayında (kışın) en sıcak bölge Akdeniz Bölgesi'dir."
+                },
+                {
+                  "fact": "Temmuz ayında (yazın) en sıcak bölge Güneydoğu Anadolu Bölgesi'dir."
+                },
+                {
+                  "fact": "İndirgenmiş haritalarda yükselti, engebe, bakı durumu ve dağların uzanışı aranmaz."
+                }
+              ]
+            },
+            "B": {
+              "title": "Sıcaklık Farkları ve Nedenleri",
+              "items": [
+                {
+                  "fact": "Güneyden kuzeye sıcaklık azalması enleme bağlıdır."
+                },
+                {
+                  "fact": "Batıdan doğuya sıcaklık değişimi yükseltiye bağlıdır."
+                },
+                {
+                  "fact": "Kıyı ile iç kesimler arası sıcaklık değişimi denizellik ve karasallığa bağlıdır."
+                },
+                {
+                  "fact": "En düşük sıcaklık farkları, nem fazla olduğundan Karadeniz kıyıları'ndadır."
+                },
+                {
+                  "fact": "En yüksek sıcaklık farkları, şiddetli karasallıktan dolayı Doğu Anadolu'da Van Gölü çevresi'ndedir."
+                },
+                {
+                  "fact": "Sıcaklık farkları kıyılardan iç kesimlere gidildikçe artar."
+                }
+              ]
+            },
+            "C": {
+              "title": "Basınç Merkezleri",
+              "items": [
+                {
+                  "fact": "İzlanda",
+                  "details": {
+                    "Kökeni": "Günlük Hareket (Dinamik)",
+                    "Tipi": "Alçak Basınç (Alçak)",
+                    "Etkisi": "Nemli ve soğuk hava (kış aylarında etkili)."
+                  }
+                },
+                {
+                  "fact": "Azor",
+                  "details": {
+                    "Kökeni": "Günlük Hareket (Dinamik)",
+                    "Tipi": "Yüksek Basınç (Yüksek)",
+                    "Etkisi": "Yıl boyunca etkili olmaya çalışır, genellikle yazın aşırı sıcak getirir."
+                  }
+                },
+                {
+                  "fact": "Sibirya",
+                  "details": {
+                    "Kökeni": "Dünyanın Şekli (Termik)",
+                    "Tipi": "Yüksek Basınç (Yüksek)",
+                    "Etkisi": "Aşırı karasallıktan dolayı kış aylarında soğuk getirir."
+                  }
+                },
+                {
+                  "fact": "Basra",
+                  "details": {
+                    "Kökeni": "Dünyanın Şekli (Termik)",
+                    "Tipi": "Alçak Basınç (Alçak)",
+                    "Etkisi": "Sadece yaz aylarında etkili, aşırı sıcak ve karasal hava getirir."
+                  }
+                },
+                {
+                  "fact": "Alçak Basınç (Siklon): Yükselici hava hareketi, hava kapalı, bulutlu ve yağışlıdır. Çevreden rüzgar alır."
+                },
+                {
+                  "fact": "Yüksek Basınç (Antisiklon): Alçalıcı hava hareketi, hava açık, çevresine rüzgar gönderir."
+                }
+              ]
+            },
+            "D": {
+              "title": "Yerel Rüzgarlar",
+              "items": [
+                {
+                  "fact": "Soğuk Rüzgarlar (Kuzeyden): Karayel, Yıldız, Poyraz."
+                },
+                {
+                  "fact": "Sıcak Rüzgarlar (Güneyden): Keşişleme, Samyeli, Kıble, Lodos."
+                },
+                { "fact": "Lodos soba zehirlenmesine neden olur." },
+                { "fact": "Etezyen: Ege Denizi'nde kuzeyden güneye eser." },
+                { "fact": "İmbat: Ege Bölgesi'nden iç kesimlere eser." },
+                {
+                  "fact": "Fön Rüzgarları: Karadeniz ve Akdeniz kıyılarında kış sıcaklıklarını artırır (dağdan aşağı iner)."
+                }
+              ]
+            }
+          }
+        },
+        "III": {
+          "title": "Nem ve Yağış",
+          "subsections": {
+            "A": {
+              "title": "Nem Türleri",
+              "items": [
+                {
+                  "fact": "Mutlak Nem: Kıyı kesimlerinde fazladır, özellikle Akdeniz'de en fazladır."
+                },
+                {
+                  "fact": "Maksimum Nem: Sıcaklıkla doğru orantılıdır. Yaz aylarında en fazla Güneydoğu Anadolu'da, kış aylarında ise Akdeniz'dedir."
+                },
+                {
+                  "fact": "Bağıl Nem: Yağışın olma ihtimalidir. Sıcaklıkla ters orantılıdır. En fazla Karadeniz'dedir."
+                }
+              ]
+            },
+            "B": {
+              "title": "Yağış Türleri ve Dağılışı",
+              "items": [
+                {
+                  "fact": "Yamaç Yağışları (Orografik): En fazla Karadeniz kıyılarında görülür."
+                },
+                {
+                  "fact": "Konveksiyonel Yağışlar (Yükselim/42 Yağışları): En fazla ilkbaharda İç Anadolu Bölgesi'nde, yazın ise Erzurum'da gözükür."
+                },
+                {
+                  "fact": "Cephe Yağışları: Sıcak ve soğuk havanın karşılaşmasıyla oluşur. En fazla Akdeniz'de, ayrıca Güney Marmara, Ege ve Güneydoğu Anadolu'da görülür."
+                },
+                {
+                  "fact": "Yağışın Mevsimlere Dağılışı (E Harfi Kuralı):",
+                  "details": [
+                    "İlkbahar: İç Anadolu",
+                    "Yaz: Erzurum Kars (Doğu Anadolu)",
+                    "Sonbahar: Karadeniz",
+                    "Kış: Akdeniz, Marmara, Ege, Güneydoğu Anadolu"
+                  ]
+                },
+                {
+                  "fact": "En Az Yağış Alan Yerler: Tuz Gölü çevresi, Ergene Havzası, Malatya Ovası, Iğdır Ovası, Güneydoğu Anadolu'nun güneyi, Çoruh Kelkit oluğu."
+                }
+              ]
+            }
+          }
+        },
+        "IV": {
+          "title": "Bitki Örtüsü ve Ormanlar",
+          "subsections": {
+            "A": {
+              "title": "Bitki Türleri ve Dağılışları",
+              "items": [
+                {
+                  "fact": "Orman alt sınırı yağışla (Karadeniz), orman üst sınırı ise sıcaklıkla ilgilidir."
+                },
+                {
+                  "fact": "Türkiye genelinde en çok bulunan ağaç türü meşe ağacıdır."
+                },
+                {
+                  "fact": "Ormanların tahribiyle psödo maki (Karadeniz'de), maki tahribiyle garik, İç kesimlerde orman tahribiyle antropojen bozkır oluşur."
+                },
+                {
+                  "fact": "Türkiye'de iklim çeşitliliği en fazla olan bölge Marmara Bölgesi'dir."
+                },
+                { "fact": "Dünyada en fazla kızılçam Türkiye'de bulunur." },
+                {
+                  "fact": "En fazla orman alanı Antalya'da, en yoğun orman alanı ise Karabük'tedir."
+                },
+                {
+                  "fact": "Karadeniz Ormanları:",
+                  "details": [
+                    "Ladin",
+                    "Kestane",
+                    "Gürgen",
+                    "Kayın",
+                    "Göknar",
+                    "Karaçam",
+                    "Ihlamur",
+                    "Dişbudak"
+                  ]
+                },
+                {
+                  "fact": "Akdeniz Ormanları (FAX):",
+                  "details": ["Fıstık çamı", "Ardıç", "Kızılçam", "Sedir"]
+                },
+                {
+                  "fact": "Makiler:",
+                  "details": [
+                    "Zeytin",
+                    "Zakkum",
+                    "Keçi boynuzu",
+                    "Defne",
+                    "Mersin",
+                    "Koca yemiş"
+                  ]
+                },
+                {
+                  "fact": "Step Türleri:",
+                  "details": [
+                    "Geven",
+                    "yavşan otu",
+                    "sığır kuyruğu",
+                    "deve dikeni",
+                    "Gelincik",
+                    "Çoban yastığı"
+                  ]
+                },
+                {
+                  "fact": "İğne Yapraklı Ormanlar:",
+                  "details": ["Sarıçam", "Karaçam", "Ladin", "Göknar", "Ardıç"]
+                },
+                {
+                  "fact": "Klimaks Bitki Örtüsü: Akdeniz iklimi için Kızılçam, Karadeniz iklimi için Ladin'dir."
+                },
+                {
+                  "fact": "Orman Sıralaması (Büyükten Küçüğe): Karadeniz > Akdeniz > Ege > Marmara > Doğu Anadolu > İç Anadolu > Güneydoğu Anadolu (En az)."
+                }
+              ]
+            }
+          }
+        },
+        "V": {
+          "title": "Yeryüzü Şekilleri ve Jeolojik Devirler",
+          "subsections": {
+            "A": {
+              "title": "İç ve Dış Kuvvetler",
+              "items": [
+                {
+                  "fact": "İç Kuvvetler: Orojenez (dağ oluşumu), Epirojenez (kıta oluşumu), Volkanizma, Depremler."
+                },
+                {
+                  "fact": "Dış Kuvvetler: Akarsular, Rüzgarlar, Buzullar, Dalgalar, Akıntılar, Yeraltı suları."
+                }
+              ]
+            },
+            "B": {
+              "title": "Jeolojik Zamanlar",
+              "items": [
+                {
+                  "fact": "1. Jeolojik Zaman (Paleozoik):",
+                  "details": "Masif araziler oluşmuştur. Masif araziler (deprem riski azdır): Yıldız, Saruhan Menteşe, Alanya Anamur, Daday Devrekani, Kırşehir, Bitlis, Mardin."
+                },
+                {
+                  "fact": "2. Jeolojik Zaman (Mezozoik): Anadolu düz bir zemin (peneplen) şeklini almıştır."
+                },
+                {
+                  "fact": "3. Jeolojik Zaman (Neozoik/Tersiyer):",
+                  "details": "Alp Himalaya dağ sistemi, Kuzey Anadolu fay hattı, Linyit, Petrol, Tuz ve Bor yatakları ile yanardağlar oluşmuştur."
+                },
+                {
+                  "fact": "4. Jeolojik Zaman (Kuaterner):",
+                  "details": "Toptan yükselme, Ege Denizi oluşumu, İstanbul ve Çanakkale boğazlarının oluşumu, Kıbrıs Adası'nın Anadolu'dan koparak ada haline gelmesi."
+                }
+              ]
+            },
+            "C": {
+              "title": "Dağlar ve Ovalar",
+              "items": [
+                {
+                  "fact": "Kırık Dağları (Ege ve Akdeniz):",
+                  "details": [
+                    "Kaz",
+                    "Madra",
+                    "Yunt",
+                    "Boz",
+                    "Aydın",
+                    "Menteşe",
+                    "Nur (Akdeniz'de, diğer adı Amanos Dağları)"
+                  ]
+                },
+                {
+                  "fact": "Volkanik Dağlar - Doğu Anadolu (SANAT):",
+                  "details": ["Süphan", "Ağrı", "Nemrut", "Akdoğan", "Tendürek"]
+                },
+                {
+                  "fact": "Volkanik Dağlar - İç Anadolu (HAKEM + Kula):",
+                  "details": [
+                    "Hasan",
+                    "Erciyes",
+                    "Melendiz",
+                    "Kula (Türkiye'nin ilk jeoparkı)"
+                  ]
+                },
+                {
+                  "fact": "Karstik Ovalar (Polye):",
+                  "details": [
+                    "Tefenni",
+                    "Acıpayam",
+                    "Korkuteli",
+                    "Kestel",
+                    "Elmalı",
+                    "Muğla",
+                    "Tavas",
+                    "Gembos"
+                  ]
+                },
+                {
+                  "fact": "Delta Ovaları:",
+                  "details": [
+                    "Çukurova (Seyhan/Ceyhan)",
+                    "Silifke (Göksu)",
+                    "Bafra (Kızılırmak)",
+                    "Çarşamba (Yeşilırmak)"
+                  ],
+                  "note": "Sakarya Nehri, boğazlardaki akıntıdan dolayı delta yapamaz."
+                },
+                {
+                  "fact": "Volkanik Ovalar:",
+                  "details": ["Kayseri Develi", "Pasinler", "Malazgirt"]
+                },
+                {
+                  "fact": "Tektonik Ovalar (Fay hatları üzerinde):",
+                  "details": [
+                    "Suluova",
+                    "Taşova",
+                    "Karlıova",
+                    "Amik",
+                    "Torbalı",
+                    "Göynük"
+                  ]
+                },
+                { "fact": "Dağ Eteği Ovası: Bursa (Uludağ civarında)." }
+              ]
+            }
+          }
+        },
+        "VI": {
+          "title": "Göller (Doğal ve Yapay)",
+          "subsections": {
+            "A": {
+              "title": "Doğal Göller ve Özellikleri",
+              "items": [
+                {
+                  "fact": "Tektonik Göller: Türkiye'deki en yaygın göl grubudur."
+                },
+                {
+                  "fact": "Tuz Gölü: En büyük tektonik oluşumlu göl, yüzölçümü en fazla değişen ve en sığ göldür."
+                },
+                { "fact": "Beyşehir Gölü: Tatlı su balıkçılığında öndedir." },
+                {
+                  "fact": "Van Gölü: Sodalıdır, inci kefali bulunur, üzerinde taşımacılık yapılır, kapalı havza özelliğindedir."
+                },
+                { "fact": "Eğirdir Gölü: Tatlı su kereviti çıkarılır." },
+                {
+                  "fact": "Elektrik Üretimi Yapılan Göller (4 adet):",
+                  "details": ["Çıldır", "Kovada", "Hazar", "Tortum"]
+                },
+                {
+                  "fact": "Doğal Göl Olmayan Tek Bölge: Güneydoğu Anadolu Bölgesi'dir."
+                },
+                {
+                  "fact": "Suları Tatlı Olan Göller (Gideğeni Olanlar):",
+                  "details": [
+                    "Eğirdir",
+                    "Kovada",
+                    "Beyşehir (Akdeniz'e dökülürler)",
+                    "Hazar"
+                  ]
+                },
+                {
+                  "fact": "Volkanik Göller:",
+                  "details": [
+                    "Nemrut (Bitlis, kaldera gölü)",
+                    "Aygır Gölü",
+                    "Meke Gölü (Konya, dünyanın nazar boncuğu)",
+                    "Gölcük (Isparta)"
+                  ]
+                },
+                {
+                  "fact": "Heyelan Set Gölleri:",
+                  "details": [
+                    "Sera (Trabzon)",
+                    "Abant (Bolu)",
+                    "Tortum (Erzurum)",
+                    "Yedigöller (Bolu)"
+                  ],
+                  "note": "Genellikle Karadeniz'de bulunur."
+                },
+                {
+                  "fact": "Kıyı Set Gölleri (Lagün):",
+                  "details": [
+                    "Terkos (Durusu)",
+                    "Küçükçekmece",
+                    "Büyükçekmece"
+                  ],
+                  "note": "Terkos Gölü, İstanbul Avrupa yakasının su ihtiyacını karşılar."
+                },
+                {
+                  "fact": "Tombolo (Saplı Ada):",
+                  "details": ["Sinop", "Kapıdağı Yarımadası"]
+                }
+              ]
+            },
+            "B": {
+              "title": "Barajlar ve Akarsu Eşleşmeleri (Yapay Göller)",
+              "items": [
+                {
+                  "fact": "Kızılırmak:",
+                  "details": [
+                    "Hirfanlı",
+                    "Kapulukaya",
+                    "Derbent",
+                    "Kesik Köprü",
+                    "Altınkaya"
+                  ],
+                  "note": "Kolları: Devrez, Delice"
+                },
+                {
+                  "fact": "Yeşilırmak:",
+                  "details": [
+                    "Suat Uğurlu",
+                    "Hasan Uğurlu",
+                    "Kılıçkaya",
+                    "Almus",
+                    "Ataköy"
+                  ],
+                  "note": "Kolu: Kelkit Çayı"
+                },
+                { "fact": "Çoruh Nehri: Deriner, Yusufeli." },
+                {
+                  "fact": "Fırat Nehri: Keban, Karakaya, Atatürk, Birecik, Kargamış."
+                },
+                { "fact": "Dicle Nehri: Kral Kızı, Ilısu, Deve Geçidi." },
+                { "fact": "Sakarya Nehri: Gökçekaya, Sarıyar." },
+                { "fact": "Gediz Nehri: Demirköprü." },
+                { "fact": "Büyük Menderes Nehri: Kemer, Adı Güzel." },
+                { "fact": "Manavgat Nehri: Oymapınar." }
+              ]
+            }
+          }
+        },
+        "VII": {
+          "title": "Akarsular ve Platolar",
+          "subsections": {
+            "A": {
+              "title": "Akarsu Özellikleri ve Sınırları",
+              "items": [
+                {
+                  "fact": "Akarsuların genel özellikleri: Boyları kısa, havzaları dar, rejimleri düzensiz, akış hızları fazla, hidroelektrik potansiyeli yüksektir. Denge profiline ulaşmamıştır."
+                },
+                { "fact": "4 bölgeden denize ulaşan akarsuyumuz Sakarya'dır." },
+                {
+                  "fact": "Sınırlarımız içinde en uzun Akarsu Kızılırmak, sınırlarımız dışında ise Fırat'tır."
+                },
+                {
+                  "fact": "Taşımacılığa elverişli olan akarsular: Bartın ve Manavgat."
+                },
+                {
+                  "fact": "En fazla taşkın olayları Marmara ve Ege'de, en kirli akarsular sanayiden dolayı Sakarya ve Ergene'dir."
+                },
+                {
+                  "fact": "Akarsu Aşındırma Şekilleri:",
+                  "details": [
+                    "Vadi (Çentik, Boğaz/u biçimli, Kanyon)",
+                    "Kırgıbayır",
+                    "Dev Kazanı",
+                    "Peri Bacası"
+                  ]
+                },
+                {
+                  "fact": "Hem Aşındırma Hem Biriktirme Yapan Şekiller: Menderes ve Seki (Taraça)."
+                }
+              ]
+            },
+            "B": {
+              "title": "Platolar",
+              "items": [
+                {
+                  "fact": "Plato en fazla İç Anadolu'da, en az Karadeniz'dedir."
+                },
+                {
+                  "fact": "Yatay Duruşlu Platolar (Tabaka Düzlüğü):",
+                  "details": [
+                    "Yazılıkaya",
+                    "Obruk",
+                    "Cihanbeyli",
+                    "Haymana",
+                    "Bozok",
+                    "Uzunyayla",
+                    "Antep",
+                    "Urfa",
+                    "Adıyaman",
+                    "Diyarbakır"
+                  ]
+                },
+                {
+                  "fact": "Lav Platoları:",
+                  "details": ["Erzurum Kars Ardahan"]
+                },
+                {
+                  "fact": "Karstik Platolar:",
+                  "details": ["Teke", "Taşeli", "Obruk"]
+                },
+                {
+                  "fact": "Aşınım Platoları:",
+                  "details": ["Çatalca Kocaeli", "Perşembe"]
+                }
+              ]
+            }
+          }
+        },
+        "VIII": {
+          "title": "Toprak Tipleri ve Kıyı Tipleri",
+          "subsections": {
+            "A": {
+              "title": "Toprak Tipleri",
+              "items": [
+                {
+                  "fact": "Zonal Topraklar:",
+                  "details": [
+                    "Podzol (Doğu/Batı Karadeniz)",
+                    "Kahverengi Orman",
+                    "Terra Rossa (Akdeniz iklimi)",
+                    "Kahverengi Bozkır",
+                    "Çernezyom (Kara Toprak, Erzurum Kars)"
+                  ]
+                },
+                {
+                  "fact": "Azonal Topraklar (Taşınmış):",
+                  "details": [
+                    "Alüvyal",
+                    "Lös",
+                    "Moren",
+                    "Kolüvyal (Bağcılık ve bahçe tarımı yapılır)"
+                  ]
+                },
+                {
+                  "fact": "Vertisol: Dönen ya da taş doğuran toprak olarak bilinir. Trakya ve Muş'ta yaygındır. Ayçiçeği tarımı yapılır."
+                }
+              ]
+            },
+            "B": {
+              "title": "Kıyı Tipleri",
+              "items": [
+                {
+                  "fact": "Ria Kıyı Tipi: Akarsu vadilerinin çökmesiyle oluşur (Boğazlar, Muğla kıyıları)."
+                },
+                {
+                  "fact": "Dalmaçya Kıyı Tipi: Dağların denize paralel uzandığı kıyıda paralel adalar oluşur (Antalya, Kaş civarında)."
+                },
+                {
+                  "fact": "Boyuna Kıyı Tipi: Karadeniz ve Akdeniz'de görülür. Hinterland ve kıta sahanlığı dardır. Falezler yaygındır."
+                },
+                {
+                  "fact": "Enine Kıyı Tipi: Dağlar denize diktir (Ege'de görülür)."
+                },
+                {
+                  "fact": "Kalanklı Kıyı Tipi: Karstik arazinin sular altında kalmasıyla oluşur (Mersin-Adana)."
+                },
+                {
+                  "fact": "Mutlak Konumdan Dolayı Görülmeyenler: Fiyord ve Skyer kıyı tipleri."
+                }
+              ]
+            }
+          }
+        },
+        "IX": {
+          "title": "Madenler ve Enerji Kaynakları",
+          "subsections": {
+            "A": {
+              "title": "Madencilik ve Genel Bilgiler",
+              "items": [
+                {
+                  "fact": "Madencilik faaliyetleri 1935'te MTA'nın kurulmasıyla (Atatürk zamanında) başlamıştır."
+                },
+                {
+                  "fact": "Maden bakımından en zengin bölgemiz Doğu Anadolu Bölgesi (Yukarı Fırat Bölümü)'dür."
+                },
+                {
+                  "fact": "Madencilikte en çok kullanılan ulaşım şekli demir yoludur."
+                },
+                {
+                  "fact": "Türkiye madenciliğinin en büyük sorunu sermaye ve teknoloji eksikliğidir."
+                },
+                { "fact": "Rezerv: Maden miktarı, Tenör: Maden kalitesi." },
+                {
+                  "fact": "Enerji açığını kapatmak için nükleer enerjiye dönülmüştür."
+                },
+                {
+                  "fact": "Doğalgaz ithalatında Rusya, Petrol ithalatında ise Irak ilk sıradadır."
+                },
+                {
+                  "fact": "Doğalgaz deposu Tuz Gölü altına ve İstanbul Silivri'ye inşa edilmiştir."
+                }
+              ]
+            },
+            "B": {
+              "title": "Önemli Madenler ve Özellikleri",
+              "items": [
+                {
+                  "fact": "Demir: Sivas Divriği, Malatya Hekiman. Karabük ve Ereğli'de enerji kaynağından, İskenderun'da ise ulaşım özelliğinden dolayı işlenir."
+                },
+                {
+                  "fact": "Bakır: Artvin Murgul, Kastamonu Küre. Elektrik, elektronik ve uçak motor sanayinde kullanılır."
+                },
+                {
+                  "fact": "Krom: Elazığ Guleman, Muğla Köyceğiz. Çeliğin sertleştirilmesinde kullanılır."
+                },
+                {
+                  "fact": "Bor: Dünya rezervinin %70'i Türkiye'dedir. Nükleer kalkan, roket yakıtı ve uçak gövdelerinin yapımında kullanılır."
+                },
+                {
+                  "fact": "Kükürt: Isparta Keçiborlu'dan çıkarılır ve aynı yerde işlenir. Tarım ve kimya endüstrisinde kullanılır."
+                },
+                {
+                  "fact": "Fosfat: Mardin Mazı Dağı. Gübre yapımında kullanılır."
+                },
+                { "fact": "Cıva: Sıvı halde bulunan tek madendir." },
+                {
+                  "fact": "Manganez: Demirin Çeliğe dönüştürülmesinde kullanılır."
+                },
+                {
+                  "fact": "Wolfram (Tungsten): Bursa Uludağ. Sıcaklığa dayanıklı olduğu için ampul teli ve uzay araçları yapımında kullanılır."
+                },
+                { "fact": "Feldispat: Cam ve seramik sanayisinde kullanılır." },
+                {
+                  "fact": "Barit: Antalya. Petrol ve doğalgaz aramalarında derin sondaj kuyularında kullanılır."
+                },
+                {
+                  "fact": "Asbest: Kanserojen maddedir. İtfaiyeci elbiselerinde ve araba fren balatalarında kullanılır."
+                },
+                {
+                  "fact": "Boksit (Alüminyum): Hafif olmasından dolayı uçak yapımında kullanılır."
+                }
+              ]
+            },
+            "C": {
+              "title": "Enerji Kaynakları",
+              "items": [
+                {
+                  "fact": "Yenilenemeyen:",
+                  "details": [
+                    "Petrol",
+                    "doğalgaz",
+                    "taş kömürü",
+                    "linyit",
+                    "nükleer enerji"
+                  ]
+                },
+                {
+                  "fact": "Yenilenebilen:",
+                  "details": ["Su gücü", "rüzgar gücü", "güneş enerjisi"]
+                },
+                {
+                  "fact": "Taş Kömürü: Zonguldak, Bartın. 1. jeolojik zamanda oluşmuştur."
+                },
+                {
+                  "fact": "Linyit: Türkiye'de en geniş alanda bulunan enerji kaynağıdır. (Manisa Soma, Muğla Yatağan, Maraş Afşin Elbistan gibi birçok yerde çıkarılır)."
+                },
+                {
+                  "fact": "Petrol: İlk kez Batman Raman Dağı'nda çıkarılmıştır."
+                },
+                {
+                  "fact": "Doğalgaz: Ülkemizde en fazla elektrik doğalgaz ile çalışan termik santrallerden elde edilir. (Marmara bölgesinde yaygındır)."
+                },
+                {
+                  "fact": "Rüzgar Gücü: Çeşme, Alaçatı, Çanakkale, İstanbul, Samsun, Kırşehir gibi yerlerde önemlidir."
+                },
+                {
+                  "fact": "Jeotermal Santral: Sıcak su kaynaklarından elde edilir. Manisa, Aydın Germencik ve Denizli Sarayköy'de bulunur (deprem alanları)."
+                },
+                {
+                  "fact": "Nükleer Enerji: Uranyum (Yozgat Sorgun), Toryum (Eskişehir). Mersin Akkuyu'da inşaat başlamıştır."
+                }
+              ]
+            }
+          }
+        }
       }
-    ]
-  },
-  "IV": {
-    "title": "Osmanlı Gerileme ve Dağılma Dönemi Islahatları",
-    "items": [
+    ],
+    "Vatandaşlık": [
       {
-        "fact": "Lale Devri’ni sona erdiren isyan Patrona Halil İsyanı’dır."
-      },
-      {
-        "fact": "Kabakçı Mustafa İsyanı ile III. Selim dönemi sona ermiştir."
-      },
-      {
-        "fact": "I. Mahmut askeri alanda Batı tarzı ilk ıslahat hareketini gerçekleştiren ve Batı tarzı ilk askeri okulu (1734) açan padişahtır."
-      },
-      {
-        "fact": "Osmanlı Devleti tarihinde ilk defa savaş tazminatı ödediği antlaşma Küçük Kaynarca Antlaşması'dır."
-      },
-      {
-        "fact": "Osmanlı'ya karşı ayaklanan ilk azınlık (Kara Yorgi önderliğinde) Sırplar’dır."
-      },
-      {
-        "fact": "Osmanlı’dan ayrılan ilk azınlık (Edirne Antlaşması ile) Yunanlılar’dır."
-      },
-      {
-        "fact": "II. Meşrutiyet'in ilanı sırasında bağımsız olan devlet Bulgaristan’dır (1908)."
-      },
-      {
-        "fact": "Yurt dışı seyahatine çıkan ilk Osmanlı padişahı Sultan Abdülaziz’dir."
-      },
-      {
-        "fact": "Çırağan Sarayı Sultan Abdülaziz döneminde inşa edilmiştir."
-      },
-      {
-        "fact": "II. Mahmut döneminde Sened-i İttifak imzalanmış (Padişahın yetkileri ilk kez kısıtlandı), portresi devlet dairelerine astırılmış ve Mülkiye bölümü açılmıştır."
-      },
-      {
-        "fact": "Balta Limanı Ticaret Antlaşması (1838) İngiltere ile imzalanmış, Osmanlı Devleti’ni yarı sömürge durumuna düşürmüştür."
-      },
-      {
-        "fact": "Kanun-i Esasi’yi hazırlayan komisyonun başkanı Mithat Paşa’dır."
-      },
-      {
-        "fact": "II. Meşrutiyet'in ilanına sebep olan gelişme Reval Görüşmeleri'dir (İngiltere ve Rusya arasında)."
-      },
-      {
-        "fact": "Osmanlı tarihinde rejime karşı çıkan ilk isyan 31 Mart Vakası olacaktır. Bu vaka sonucunda II. Abdülhamit tahttan indirilmiştir."
-      },
-      {
-        "fact": "II. Meşrutiyet sonrası yaşanan hükümet darbesi Bab-ı Ali Baskını’dır."
-      },
-      {
-        "fact": "Duyun-u Umumiye II. Abdülhamit döneminde oluşturulan dış borçların idaresidir."
-      },
-      {
-        "fact": "Esnafları denetleyen ve çarşı kapanlarını kontrol eden kişi Muhtesip’tir (günümüz zabıtası)."
-      }
-    ]
-  },
-  "V": {
-    "title": "Milli Mücadele ve İnkılap Tarihi",
-    "items": [
-      {
-        "fact": "Mustafa Kemal Paşa’nın ilk görev yeri Şam (V. Ordu)’dır."
-      },
-      {
-        "fact": "Mustafa Kemal’in sömürgeciliğe karşı verdiği ilk mücadele Trablusgarp Savaşı’dır."
-      },
-      {
-        "fact": "Mustafa Kemal’in Çanakkale’deki sözü: “Ben size taarruzu değil, ölmeyi emrediyorum”."
-      },
-      {
-        "fact": "I. Dünya Savaşı'ndan sonra yayımlanan ve Türklerin uluslararası alanda haklılığını gösteren ilk rapor Amiral Bristol Raporu olacaktır (Rumların haksız olduğunu dile getirir)."
-      },
-      {
-        "fact": "İlk defa Kuvayi Milliye teriminden bahseden rapor Dr. Esat Işık Raporu’dur."
-      },
-      {
-        "fact": "Mondros Ateşkes Antlaşması’nı imzalayan Bahriye Nazırı Rauf Bey’dir."
-      },
-      {
-        "fact": "Mondros’u imzalayan hükümet Ahmet İzzet Paşa Hükümeti’dir."
-      },
-      {
-        "fact": "Mondros Ateşkes Antlaşması'ndan sonra işgal edilen ilk yer Musul’dur."
-      },
-      {
-        "fact": "Mustafa Kemal Paşa, protesto mitingleri yapılması gerektiğini Havza Genelgesi’nde duyurmuştur."
-      },
-      {
-        "fact": "Milli Mücadele’nin amacı, yöntemi ve gerekçesi Amasya Tamimi’nde (Genelgesi) ortaya konulmuştur."
-      },
-      {
-        "fact": "Milli sınırlardan ilk kez nerede bahsedilmiştir? Erzurum Kongresi’nde."
-      },
-      {
-        "fact": "Manda ve himaye ilk kez Erzurum Kongresi’nde reddedilmiş, Sivas Kongresi’nde ise kesin bir dille reddedilmiştir."
-      },
-      {
-        "fact": "Amasya Görüşmeleri ile Temsil Heyeti hukuken tanınmıştır."
-      },
-      {
-        "fact": "Londra Konferansı’nın toplanmasına olanak sağlayan savaş I. İnönü Savaşı’dır."
-      },
-      {
-        "fact": "I. İnönü Savaşı’ndan sonra (M.İ.L.A.T. şifresinde): Moskova Antlaşması, İstiklal Marşı'nın kabulü, Londra Konferansı, Afganistan ile Dostluk Antlaşması ve Teşkilat-ı Esasiye yer alır."
-      },
-      {
-        "fact": "Kütahya-Eskişehir Savaşları sonucunda düzenli ordu, zaman kazanmak amacıyla Sakarya’nın doğusuna çekilmiştir."
-      },
-      {
-        "fact": "Subaylar Savaşı ya da Melhame-i Kübra olarak nitelendirilen savaş Sakarya Meydan Savaşı’dır."
-      },
-      {
-        "fact": "Rumsındığı, Dumlupınar Meydan Savaşı ya da Başkomutanlık Meydan Savaşı olarak nitelendirilen savaş Büyük Taarruz’dur."
-      },
-      {
-        "fact": "I. TBMM'nin açılış konuşmasını (23 Nisan 1920) Sinop milletvekili Şerif Bey yapmıştır."
-      },
-      {
-        "fact": "Ulus egemenliği ile doğrudan ilgili olan Atatürk ilkesi Cumhuriyetçilik’tir."
-      },
-      {
-        "fact": "Vicdan hürriyeti, akıl ve bilimi öngören ilke Laiklik’tir."
-      },
-      {
-        "fact": "Milli birlik ve beraberlikle doğrudan ilgili ilke Milliyetçilik’tir."
-      },
-      {
-        "fact": "Serbest Cumhuriyet Fırkası’nın kurucusu Ali Fethi Okyar’dır."
+        "I": {
+          "title": "Sosyal Hayatı Düzenleyen Kurallar ve Hukukun Temelleri",
+          "items": [
+            {
+              "fact": "Sosyal hayatı düzenleyen kurallar Din kuralları, Ahlak kuralları, Görgü kuralları ve Hukuk kuralları olarak gruplara ayrılır."
+            },
+            {
+              "fact": "Fizik kuralları toplumsal hayatı düzenleyen kurallardan biri değildir."
+            },
+            {
+              "fact": "Hukuk kurallarının özellikleri toplumsal hayatı düzenlemesi, cebri (devletin gücüne dayanan) olması, kamu gücüyle desteklenmesi, toplum ihtiyaçlarını karşılama amacı taşıması, sürekli, genel ve soyut olmasıdır."
+            },
+            {
+              "fact": "Hukukun temel amaçlarından biri adaleti gerçekleştirmektir."
+            },
+            {
+              "fact": "Hukukun görevleri toplumda hukuki güvenliği ve barışı sağlamaya çalışmak, adaleti sağlamak ve yeni oluşumları denetlemektir."
+            },
+            {
+              "fact": "Toplumda mutlak eşitlik diye bir şey olmaz."
+            },
+            {
+              "fact": "Hukukun yaptırım türleri şunlardır: 1. Ceza: Suç işlersek uygulanır. 2. Cebri İcra: Borcumuzu ödemezsek veya sorumluluğumuzu yerine getirmezsek uygulanır. 3. Tazminat: Başkasına maddi veya manevi zarar verirsek ödenir. 4. İptal: İdare hukukuna aykırı yapılan işlemler idari işlemle ortadan kaldırılır. Memur atama işleminin iptali istemiyle açılan davalar idari mahkemeler tarafından karara bağlanır. 5. Hükümsüzlük (Geçersizlik)."
+            },
+            {
+              "fact": "Net olarak bilinmesi gereken disiplin cezaları şunlardır: 1. Uyarma. 2. Kınama. 3. Aylıktan kesme. 4. Kademe ilerlemesini durdurma. 5. Memurluktan çıkarma."
+            },
+            {
+              "fact": "Devlet memurlarında adaylık süresi en az bir yıl, en fazla iki yıldır."
+            }
+          ]
+        },
+        "II": {
+          "title": "Hükümsüzlük ve Hukuk Kurallarının Çeşitleri",
+          "items": [
+            {
+              "fact": "Hükümsüzlük türleri şunlardır: Yokluk, Butlan (Mutlak Butlan, Nisbi Butlan) ve Tek Taraflı Bağlamazlık."
+            },
+            {
+              "fact": "Yokluk: Hukuki işlemde kurucu unsurların bulunmamasıdır (Örneğin, resmi nikah memuru olmadan evlenme). İmam nikahıyla yapılan evlilik bir tür yokluktur."
+            },
+            {
+              "fact": "Mutlak Butlan: Kurucu unsur mevcuttur ancak yapılan işlem sakattır veya emredici hükümlere aykırıdır (Örneğin, akıl sağlığı bozuk bir kişinin veya evli bir kişinin evlenmesi)."
+            },
+            {
+              "fact": "Nisbi Butlan: Hukuki işlemde kurucu unsur var ve emredici hükümlere uyulmuştur, ancak iradede bir sakatlık vardır (Örneğin, sarhoşken yapılan işlem)."
+            },
+            {
+              "fact": "Tek Taraflı Bağlamazlık: Akıl sağlığı yerinde olan, ayırt etme gücü olan bir küçüğün (12 yaşını doldurmuş) veli veya vasisinden izinsiz yapmış olduğu işlemlerdir."
+            },
+            {
+              "fact": "Esas olarak bilinmesi gereken üç tür kural vardır: 1. Emredici Kurallar: Uyulması zorunlu olan kurallardır. Aksini kararlaştıramazsınız. Amacı kamu düzeni, genel ahlakı ve zayıfları korumaktır. 2. Tamamlayıcı Kurallar: Aksini kararlaştırabildiğimiz, sözleşmelerde tarafların ön göremediği eksik noktaları tamamlayan kurallardır. 3. Yorumlayıcı Kurallar: Hukuki kavramların veya net olmayan ifadelerin anlamını kişinin kendi yorum gücüyle açıkladığı kurallardır."
+            }
+          ]
+        },
+        "III": {
+          "title": "Hukuk Türleri, Kaynakları ve Boşlukları",
+          "items": [
+            {
+              "fact": "Pozitif Hukuk (Müspet Hukuk): Bir ülkede belli bir zamanda yürürlükte olan, uygulamada olan yazılı ve yazısız bütün hukuk kurallarını kapsar."
+            },
+            {
+              "fact": "Mevzu Hukuk: Sadece ve yalnızca yazılı olan hukuku kapsar."
+            },
+            {
+              "fact": "Tabii/Doğal/İdeal Hukuk: Olması gereken hukuktur."
+            },
+            {
+              "fact": "Yazılı Kaynaklar (Asli/Birinci Kaynaklar): Herkesi bağlar. Anayasa, Kanun, Cumhurbaşkanı Kararnamesi, Milletlerarası Anlaşmalar, Yönetmelikler, Genelgeler."
+            },
+            {
+              "fact": "Yazısız Kaynaklar (İkinci Kaynaklar): Örf adet hukuku. Yetkili merci tarafından konulmamıştır, toplum içerisinde kendiliğinden oluşmuştur ve herkesi bağlar."
+            },
+            {
+              "fact": "Yardımcı Kaynaklar: Yargı içtihatları ve bilimsel çalışmalar. Bağlayıcı değildir."
+            },
+            {
+              "fact": "Normlar Hiyerarşisi Anayasa en üstündedir. Sonra Kanunlar gelir. Kanunlarla eşdeğer hükümler: Cumhurbaşkanı kararnamesi, uluslararası anlaşmalar ve meclis içtüzüğüdür. Yönetmelikler onların altındadır, genelgeler ise en alttadır."
+            },
+            {
+              "fact": "Hukuk Boşluğu: Hakim, Somut bir olaya uygulayacak yazılı ve yazısız kaynaklarda kural bulamaz. Hakim, kanun koyucunun yerine kendini koyarak hukuk yaratma yoluna girer. Hakim kanun yaratamaz, kanun yapma yetkisi sadece meclise aittir."
+            },
+            {
+              "fact": "Kanun Boşluğu: Yalnızca yazılı kaynaklarda olur."
+            },
+            {
+              "fact": "Kural İçi Boşluk (Bilinçli Boşluk): Kanun koyucu bilerek isteyerek oluşturur. Hakimin takdir yetkisi vardır."
+            },
+            {
+              "fact": "Kural Dışı Boşluk (Bilinçsiz Boşluk): Kanun koyucunun farkına varmadan bıraktığı boşluklardır."
+            },
+            {
+              "fact": "Açık Boşluk (Gerçek Kanun Boşluğu): Olaya uygulanacak bir kural yoktur."
+            },
+            {
+              "fact": "Kapalı Boşluk (İstisna/Örtülü/Gizli Boşluk): Olay ve kural vardır ama birbiriyle tam örtüşmüyordur."
+            }
+          ]
+        },
+        "IV": {
+          "title": "Hukukun Dalları ve Ceza Hukuku",
+          "items": [
+            {
+              "fact": "Kamu Hukuku (Kodlama: Civa Dayı): Ceza hukuku, İdare hukuku, Vergi hukuku, Anayasa hukuku, Yargılama hukuku, Devletler genel hukuku, İcra ve İflas hukuku."
+            },
+            {
+              "fact": "Özel Hukuk: Medeni hukuk, Borçlar hukuku, Ticaret hukuku, Devletler özel hukuku."
+            },
+            {
+              "fact": "Medeni Hukuk Dalları (Kodlama: ŞEMA): Şahıs hukuku, Eşya hukuku, Miras hukuku, Aile hukuku."
+            },
+            {
+              "fact": "Türk ceza hukukunda idam, kısas, sürgün ve genel müsadere yoktur."
+            },
+            {
+              "fact": "Ceza sorumluluğu şahsidir."
+            },
+            {
+              "fact": "Ceza hukukunda örf adet kurallarına yer verilemez."
+            },
+            {
+              "fact": "Hümanizm: Kişiye ceza verilmesinin amacı onu terbiye edip yeniden topluma kazandırmaktır."
+            },
+            {
+              "fact": "Masumiyet Karinesi: Suçluluğu mahkeme kararıyla ispatlanıncaya kadar hiç kimse suçlu değildir."
+            },
+            {
+              "fact": "Kanuni Hakim Güvencesi: Hiç kimse tabi olduğu mahkeme dışında başka bir mercie çıkarılamaz."
+            },
+            {
+              "fact": "Ceza ehliyeti, kişinin suç işlediğinde yaptığı eylemin suç olduğunu bilmesi ve sonuçlarına katlanabilmesi demektir."
+            },
+            {
+              "fact": "0-12 yaş arasındaki çocukların ceza ehliyeti yoktur."
+            },
+            {
+              "fact": "Ceza ehliyeti 12 yaşının doldurulmasıyla başlar."
+            },
+            {
+              "fact": "Akıl sağlığı bozukların, yaşı kaç olursa olsun, ceza ehliyeti yoktur."
+            },
+            {
+              "fact": "Sağır ve dilsizlerin ceza ehliyetine normal bireylere göre 3 yaş eklenir (Başlangıç 15, Tam 21)."
+            }
+          ]
+        },
+        "V": {
+          "title": "Medeni Hukuk ve Kişi Hukuku",
+          "items": [
+            {
+              "fact": "Kişilik Türleri Türk Medeni hukukuna göre kişi ikiye ayrılır: Gerçek kişi (tüm bireyler) ve Tüzel kişi (kişi ya da mal toplulukları; dernek, vakıf gibi)."
+            },
+            {
+              "fact": "Gerçek kişilik tam ve sağ doğumla başlar."
+            },
+            {
+              "fact": "Gerçek kişilik Ölüm, Ölüm Karinesi, Gaiplik ya da Birlikte ölüm karinesi gibi durumlarla biter."
+            },
+            {
+              "fact": "Ölüm Karinesi: Ölümüne kesin gözle bakılacak durumda olan ve kendisinden haber alınamayan kişiler hakkında düzenlenir. Düzenleyen kişi mahallin en büyük Mülki amiridir."
+            },
+            {
+              "fact": "Gaiplik (Kaybolma): Kararı mahkeme verir."
+            },
+            {
+              "fact": "Ölüm tehlikesi içerisinde kaybolma: 1 yıl beklenir."
+            },
+            {
+              "fact": "Uzun süre haber alınamama: 5 yıl beklenir."
+            },
+            {
+              "fact": "Gaiplik kararı hukuk düzenli işidir (mahkeme kararı) ve gaiplik ilan edilen kişinin evliliği sona ermez."
+            },
+            {
+              "fact": "Tüzel kişiler belli bir amacı gerçekleştirmek için örgütlenmiş kişi ya da mal topluluklarıdır (Dernekler, Vakıflar)."
+            },
+            {
+              "fact": "Dernekler: Kişi topluluğudur. En az yedi gerçek ya da tüzel kişi tarafından kurulur. Kazanç paylaşım amacı güdülmez."
+            },
+            {
+              "fact": "Vakıflar: Mal topluluğu şekli örgütlenmiştir."
+            },
+            {
+              "fact": "Hak Ehliyeti: Kişinin haklara ve borçlara sahip olabilmesidir. Sağ ve tam doğma şartıyla ana rahmine düşme ile kazanılır. Geneldir, pasiftir ve süreklidir."
+            },
+            {
+              "fact": "Fiil Ehliyeti: Kişinin kendi fiilleriyle haklar edinebilmesi ve borçlar altına girebilmesidir (Yapmak/Etmek)."
+            },
+            {
+              "fact": "Fiil Ehliyetinin Şartları: Reşit olmak, ayırt etme gücüne sahip olmak ve kısıtlı olmamak."
+            },
+            {
+              "fact": "Olağan Ergenlik: 18 yaşını doldurmuş olmaktır."
+            },
+            {
+              "fact": "Evlenme ile Erginlik: Olağan evlilik yaşı 17 yaşını doldurmak, olağanüstü evlilik yaşı ise 16 yaşını doldurmaktır (mahkeme kararıyla)."
+            },
+            {
+              "fact": "Kısıtlılık sebepleri arasında akıl hastalığı, savurganlık, bağımlılık, kötü yaşama tarzı, özgürlüğü kısıtlayıcı ceza sayılabilir. Mahkeme tarafından kısıtlı kararı verilir. Kısıtlanan kişinin işlerini görmesi için atanan kişiye vasi denir ve kısıtlanan kişi vesayet altına alınır."
+            }
+          ]
+        },
+        "VI": {
+          "title": "Hısımlık ve Borçlar Hukuku",
+          "items": [
+            {
+              "fact": "Kan Hısımlığı (Doğumla Kazanılan): Üst soy (Ana/Baba) ve Alt soy (Çocuklar) 1. derecedendir."
+            },
+            {
+              "fact": "Yan soy (Kardeşler) 2. derecedir. Amca, teyze, hala 3. derecedir. Kuzenler 4. derecedir."
+            },
+            {
+              "fact": "Yarım kan hısımlığı, geldiği köklerden (ana ya da baba) biri farklıysa oluşur."
+            },
+            {
+              "fact": "Kayın Hısımlığı (Evlenme ile Oluşan): Bir kişinin eşinin akrabaları olan hısımlığıdır."
+            },
+            {
+              "fact": "Evlilik sona erse bile üst soy kayın hısımlığı devam eder."
+            },
+            {
+              "fact": "Eşin annesi/babası, kişinin 1. dereceden üst soy kayın hısımlığıdır."
+            },
+            {
+              "fact": "Eşin kardeşi, kişinin 2. dereceden yan soy kayın hısımlığıdır."
+            },
+            {
+              "fact": "Evlilikle oluşan hısımlıkta kan hısımlığı yoktur, kayın hısımlığı vardır."
+            },
+            {
+              "fact": "Velayet Anne ve babanın kural olarak küçüklerin (istisna olarak kısıtların) bakım ve korunmalarını sağlamak için sahip oldukları görev, yetki ve hakların tamamına denir. Velayet 18 yaşın doldurulmasıyla kendiliğinden kalkar."
+            },
+            {
+              "fact": "Borç ilişkisi başlatan durumlar şunlardır: Hukuki işlemler (sözleşmeler), Haksız fiiller ve Sebepsiz zenginleşme."
+            },
+            {
+              "fact": "Borçlar hukukunda nisbilik ilkesi geçerlidir, mutlaklık olmaz."
+            },
+            {
+              "fact": "Borcun kaynakları sebepsiz zenginleşme, haksız fiil ve sözleşmedir."
+            },
+            {
+              "fact": "Borcu sona erdiren durumlar arasında İfa, İbra, Tecdit, Birleşme, Kusursuz imkansızlık, Takas sayılır."
+            },
+            {
+              "fact": "Zamanaşımı borcu sona erdirmez, eksik borç durumuna düşürür."
+            },
+            {
+              "fact": "Kişi borcuna mal varlığı ile sorumludur, şahıs varlığı ile sorumlu tutulamaz."
+            }
+          ]
+        },
+        "VII": {
+          "title": "Haklar ve Hakların Korunması",
+          "items": [
+            {
+              "fact": "İyi niyet: Kişinin hak kazanmasına ilişkin engel veya noksanlığın farkında olmamasıdır."
+            },
+            {
+              "fact": "Mutlak Haklar: Herkese karşı ileri sürülebilen, en geniş yetki veren haklardır (Velayet, vesayet, intifa, telif, mülkiyet, yaşamak hakkı gibi)."
+            },
+            {
+              "fact": "Hakların kullanılması ve borçların yerine getirilmesinde önemli ilke objektif iyi niyet (dürüstlük) kuralıdır."
+            },
+            {
+              "fact": "Hakların kazanılması/kaybedilmesi durumları hukuki olay (irade dışı), hukuki fiil (farkında olarak yapılan davranış) ve hukuki işlem (sözleşmeler) olabilir."
+            },
+            {
+              "fact": "Meşru Müdafaa (Haklı Savunma): Kendisini ve üçüncü bir kişinin şahsına veya malına yapılan ve hala devam eden hukuka aykırı bir saldırıyı önlemek için yapılan orantılı karşı koymadır."
+            },
+            {
+              "fact": "Zaruret Hali: Kişinin cana veya mala yönelen tehlikeden korunmak için üçüncü bir kişinin malına zarar vermesi ve bu şekilde kaçabilmesidir."
+            },
+            {
+              "fact": "Kuvvet Kullanma: Devlet yetkililerinin yardımının yetişemediği ve hak sahibinin hakkını kaybetmekten ya da kullanılmasının zorlaşmasından engellemek amacıyla kuvvet kullanabilmesidir."
+            }
+          ]
+        },
+        "VIII": {
+          "title": "Anayasa, Devlet ve Demokrasi",
+          "items": [
+            {
+              "fact": "Devleti oluşturan üç temel unsur: Millet, Toprak ve İktidar (Egemenlik)."
+            },
+            {
+              "fact": "Türkiye, yapısına göre üniter devlettir (Tek merkez, tek bayrak, tek hukuk kuralları)."
+            },
+            {
+              "fact": "Federal devletler eyaletsi yapılardır (ABD, Almanya, Kanada gibi)."
+            },
+            {
+              "fact": "Demokrasinin belli başlı şartları: Seçim, siyasi parti, muhalefet etme özgürlüğü, temel hak ve hürriyetler."
+            },
+            {
+              "fact": "Doğrudan Demokrasi: Halkın kendi kendini yönetmesidir (Ülkemizdeki tek örnek: Köy derneği)."
+            },
+            {
+              "fact": "Yarı Doğrudan Demokrasi: Halkın belli yetkileri seçtiği üyelere devretmesi ancak gücün hala halkta olmasıdır. Araçları: Halk teşebbüsü, Halk vetosu, Referandum (Halk oylaması), Temsilcilerin azli. Türkiye, temsili demokrasi ile yönetilmesine rağmen, yarı doğrudan demokrasi aracı olan referandumu günümüze kadar yedi kez kullanmıştır."
+            },
+            {
+              "fact": "Meclis Hükümeti (1920): Güçler birliği esasına dayalıdır. Gücün toplandığı yer yasamadır (Meclis)."
+            },
+            {
+              "fact": "Parlamenter Sistem: 1961 Anayasası ile geçilmiştir. Güçler ayrılığına dayalıdır (yumuşak güç ayrılığı). Türkiye 2018 seçimleriyle bu sistemi bıraktı."
+            },
+            {
+              "fact": "Cumhurbaşkanlığı Hükümet Sistemi: Türkiye'nin şu anda kullandığı sistemdir (2018 seçimleriyle resmen geçildi)."
+            },
+            {
+              "fact": "Başkanlık Sistemi (ABD): Sert kuvvetler ayrılığına dayanır. Yürütme tek kişiden oluşur."
+            },
+            {
+              "fact": "Yarı Başkanlık Sistemi (Fransa): Devlet başkanının yürütmenin başı olduğu ve Başbakanın da bulunduğu sistemdir."
+            },
+            {
+              "fact": "Yumuşak Anayasa: Maddeleri kolayca değiştirilebilir (Örnek: 1921 Anayasası)."
+            },
+            {
+              "fact": "Çerçeve Anayasa: Ayrıntılara yer vermeyen anayasadır (Örnek: 1921 Anayasası)."
+            },
+            {
+              "fact": "Sert Anayasa: İçeriğinde değiştirilemeyecek hükümler bulunan veya değiştirilmesi referandum şartı arayan anayasadır (Örnek: 1924, 61 ve en serti 82 Anayasası)."
+            },
+            {
+              "fact": "Kazuistik Anayasa (Düzenleyici): Detaylı, ayrıntılı, her soruya cevap vermeye çalışan anayasadır (Örnek: 1924, 61 ve en tazisi 82 Anayasası)."
+            }
+          ]
+        },
+        "IX": {
+          "title": "Türk Anayasa Tarihi ve 1982 Anayasası",
+          "items": [
+            {
+              "fact": "Sened-i İttifak (1808): II. Mahmut ve ayanlar arasında yapılan bir sözleşmedir."
+            },
+            {
+              "fact": "Tanzimat Fermanı: Hukukun üstünlüğü ilkesi önemlidir."
+            },
+            {
+              "fact": "Islahat Fermanı: Yalnızca azınlıkların hakları verilir."
+            },
+            {
+              "fact": "Kanuni Esasi (1876): Yazılı ilk Türk Anayasasıdır. Halk ilk kez yönetime katılmıştır. Padişahın yanında ilk kez parlamento (Mebuslar Meclisi ve Ayan Meclisi) açılmıştır."
+            },
+            {
+              "fact": "1921 Anayasası (Teşkilat-ı Esasiye): Yeni Türk Devleti'nin ilk anayasasıdır. Milli Egemenlik ilkesine yer veren ilk anayasadır. Yumuşak niteliklidir ve meclisin üstünlüğüne yer verir. Yapılan ilk değişiklik 1923'te Cumhuriyetin ilanıdır."
+            },
+            {
+              "fact": "1924 Anayasası: İlk sert ve kazuistik anayasadır. Çoğunlukçu demokrasi modelini öngörür. 1937'de laiklik ve Atatürk'ün altı ilkesi anayasaya girdi."
+            },
+            {
+              "fact": "1961 Anayasası: Referandumla yürürlüğe girmiştir. Parlamenter hükümet sistemini ve güçler ayrılığı esasını kabul etti. İlk kez Hukuk devleti, Sosyal devlet, Milli devlet gibi birçok ilkeye yer vermiştir. En özgürlükçü ve insan haklarına yer veren anayasadır."
+            },
+            {
+              "fact": "1982 Anayasası: Referandumla yürürlüğe girdi. En sert ve en kazuistik anayasamızdır. Otorite-Hürriyet dengesini otoriteden yana bozmuştur."
+            },
+            {
+              "fact": "1982 Anayasası Değiştirilemez Maddeleri (İlk Üç Madde) 1. Madde: Devletin şekli. 2. Madde: Cumhuriyetin nitelikleri. 3. Madde: Devletin bütünlüğü (Resmi dil, bayrak, başkent gibi)."
+            },
+            {
+              "fact": "Bu ilk üç madde değiştirilemez ve değiştirilmesi teklif dahi edilemez."
+            },
+            {
+              "fact": "Türkiye, Avrupa İnsan Hakları Mahkemesi'ne (AİHM) bireysel başvuru hakkını 1987 yılında kabul etmiştir. AİHM, Avrupa Konseyi'ne bağlıdır."
+            }
+          ]
+        },
+        "X": {
+          "title": "Seçimler, Yüksek Seçim Kurulu ve Temel İlkeler",
+          "items": [
+            {
+              "fact": "Demokratik devlet ilkesi ilk kez 1961 Anayasamızda yer verildi."
+            },
+            {
+              "fact": "Seçme ve seçilme hakkı için yaş sınırı günümüzde 18'dir."
+            },
+            {
+              "fact": "1982 Anayasasına göre oy kullanmak yasal zorunluluktur."
+            },
+            {
+              "fact": "Genel oy herkesin (ırk, cinsiyet farkı gözetmeksizin) oy kullanabilmesidir. Eşit oy ise herkesin bir oy hakkına sahip olmasıdır."
+            },
+            {
+              "fact": "Silah altındaki erler, askeri öğrenciler, kasdi suçtan hüküm giyenler, kısıtlılar, akıl sağlığı bozuklar ve yabancılar oy kullanamazlar. Tutuklular ve taksirli suçlardan hüküm giyenler oy kullanabilir."
+            },
+            {
+              "fact": "61 Anayasası ile ilk kez yer verilmiştir (Ancak 1950'de kurulmuştur)."
+            },
+            {
+              "fact": "7 asıl ve 4 yedek üyeden oluşur."
+            },
+            {
+              "fact": "Üyelerini Yargıtay ve Danıştay seçer."
+            },
+            {
+              "fact": "Kararlarına karşı yargı yolu kapalıdır."
+            },
+            {
+              "fact": "Sosyal Devlet İlkesi: İlk kez 1961 Anayasası'nda yer alır. Devletin, vatandaşların insan haysiyetine yakışan bir hayat sürmesi için gerekli tedbirleri almasıdır (Sosyal güvenlik, istihdamı artırmak, adaletli gelir dağıtımı gibi)."
+            },
+            {
+              "fact": "Hukuk Devleti İlkesi: İlk kez 1961 Anayasası'nda yer alır. Hukukun üstünlüğü, yargı bağımsızlığı, Kanuni hakim güvencesi gibi ilkeleri içerir."
+            }
+          ]
+        },
+        "XI": {
+          "title": "Siyasi Partiler ve Temel Haklar",
+          "items": [
+            {
+              "fact": "Önceden izin alınmadan kurulurlar."
+            },
+            {
+              "fact": "En az 30 Türk vatandaşı siyasi parti kurabilir."
+            },
+            {
+              "fact": "Parti üyesi olmak için 18 yaşını doldurmak gerekir."
+            },
+            {
+              "fact": "İşçi niteliği dışındaki kamu görevlileri siyasi partilere üye olamaz."
+            },
+            {
+              "fact": "Siyasi partiler, hazine yardımı alabilmek için son genel seçimlerde yüzde 3 ya da daha fazla oy almış olmalıdır."
+            },
+            {
+              "fact": "Siyasi partilerin gelir kaynaklarından biri ticari faaliyetlerde bulunmak değildir."
+            },
+            {
+              "fact": "Siyasi partilerin kapatılmasına Anayasa Mahkemesi karar verir, ancak davayı Yargıtay Cumhuriyet Başsavcısı açar."
+            },
+            {
+              "fact": "Temelli kapatılan bir siyasi parti başka bir adla kurulamaz."
+            },
+            {
+              "fact": "Partisi kapatılan bir milletvekilinin milletvekilliği sona ermez ancak beş yıl boyunca başka bir siyasi partiye üye olamaz."
+            },
+            {
+              "fact": "Kişi Hakları: Zorla çalıştırma yasağı, kişi dokunulmazlığı, özel hayatın gizliliği, din/vicdan hürriyeti, Dernek kurma hürriyeti."
+            },
+            {
+              "fact": "Sosyal ve Ekonomik Haklar: Ailenin korunması, eğitim öğretim hakkı, kamulaştırma, çalışma hakkı, sendika hakkı, grev ve lokavt hakkı. (Devlet memurları sendikalara üye olabilir ve birden fazla sendikaya üye olabilirler)."
+            },
+            {
+              "fact": "Siyasi Haklar ve Ödevler: Türk vatandaşlığı, Mal bildirimi (beş yılda bir yapılır ve memurlara zorunludur), Siyasi partiler kurma."
+            },
+            {
+              "fact": "Çekirdek Haklar (Durdurulamayan Haklar) Savaş, seferberlik veya olağanüstü hallerde bile hiçbir durumda durdurulamayan veya kullanılması kısmen/tamamen engellenemeyen çekirdek haklar şunlardır: Yaşama hakkı, maddi ve manevi bütünlük, din/vicdan/düşünce ve kanaat hürriyeti, suç ve cezaların geçmişe yürümemesi ve Masumiyet karinesi."
+            },
+            {
+              "fact": "Türk devletine vatandaşlık bağı ile bağlı olan herkes türktür."
+            },
+            {
+              "fact": "Türk babanın veya Türk ananın çocuğu türktür."
+            },
+            {
+              "fact": "Vatandaşlıktan çıkarma ile ilgili karar ve işlemlere karşı yargı yolu açıktır (İdari yargı bakar)."
+            },
+            {
+              "fact": "2010 Anayasa değişikliği ile faaliyete geçmiştir."
+            },
+            {
+              "fact": "Türkiye Büyük Millet Meclisi Genel Kurulu seçer."
+            },
+            {
+              "fact": "Türkiye Büyük Millet Meclisi'ne bağlıdır."
+            },
+            {
+              "fact": "Görev, idarenin her türlü eylem ve işlemlerini hukuka ve hakkaniyete uygunluk yönünden incelemek ve araştırmak ve önerilerde bulunmaktır."
+            }
+          ]
+        },
+        "XII": {
+          "title": "Yasama (Türkiye Büyük Millet Meclisi)",
+          "items": [
+            {
+              "fact": "Üye tam sayısı 600 milletvekilidir."
+            },
+            {
+              "fact": "Yasama dönemi 5 yıldır (İki seçim arası dönem)."
+            },
+            {
+              "fact": "Yasama yılı 1 Ekim'de başlar."
+            },
+            {
+              "fact": "Seçim barajı yüzde 7'dir."
+            },
+            {
+              "fact": "Erken seçim kararı Cumhurbaşkanı ya da TBMM alabilir. TBMM, erken seçim kararı alabilmek için üye tamsayısının beşte üç çoğunluğu ile karar verir."
+            },
+            {
+              "fact": "Savaş sebebiyle seçimler her defasında bir yıl Türkiye Büyük Millet Meclisi tarafından geriye bırakılabilir."
+            },
+            {
+              "fact": "TBMM'nin Görev ve Yetkileri Kanun koymak, değiştirmek, kaldırmak, savaş ilan etmek, para basılmasına karar vermek, uluslararası anlaşmaları uygun bulmak. (Anayasa Mahkemesi başkanını seçmek TBMM'nin görevi değildir, sadece üye seçer)."
+            },
+            {
+              "fact": "TBMM, her yıl 1 Ekim'in ilk günü kendiliğinden toplanır."
+            },
+            {
+              "fact": "Meclis, bir yasama yılında en fazla 3 ay tatil yapar."
+            },
+            {
+              "fact": "Meclisi doğrudan toplantıya çağıranlar Cumhurbaşkanı ya da TBMM Başkanıdır."
+            },
+            {
+              "fact": "Toplantı yeter sayısı: Üye tam sayısının üçte biridir (en az 200 milletvekili)."
+            },
+            {
+              "fact": "Karar yeter sayısı: Üye tam sayısının dörtte birinden bir fazlasından az olamaz (en az 151 milletvekili)."
+            },
+            {
+              "fact": "Bilgi edinme ve denetim yollarından sözlü soru ve gensoru kaldırılmıştır."
+            },
+            {
+              "fact": "Kanun tekliflerini milletvekilleri hazırlar (Bütçe Kanunu'nu Cumhurbaşkanı hazırlar)."
+            },
+            {
+              "fact": "Cumhurbaşkanı kanunları 15 gün içerisinde onaylamak veya veto etmek zorundadır."
+            },
+            {
+              "fact": "Veto edilen kanun mecliste üye tam sayısının salt çoğunluğu (301) ile kabul edilirse, Cumhurbaşkanı'nın ikinci veto hakkı yoktur."
+            },
+            {
+              "fact": "Kanunlarda yürürlük tarihi belirtilmemişse, Resmi Gazete'de yayımlandığı gün yürürlüğe girer."
+            },
+            {
+              "fact": "Başkanlık Divanı için bir yasama döneminde iki kez seçim yapılır. İlk seçilenlerin görev süresi iki yıldır, ikinci seçilenlerin görev süresi yasama döneminin sonuna kadardır."
+            },
+            {
+              "fact": "Milletvekili seçilmek için 18 yaşını doldurmak, en az ilkokul mezunu olmak, askerlikle ilişiği bulunmamak, taksirli suçlar hariç bir yıl ya da daha fazla hüküm giymemiş olmak gerekir."
+            },
+            {
+              "fact": "Hakimler, savcılar, yüksek yargı mensupları ve memur statüsündeki görevliler görevlerinden çekilmedikçe milletvekili adayı olamazlar."
+            },
+            {
+              "fact": "Yasama Sorumsuzluğu (Kürsü Dokunulmazlığı): Mutlaktır, kaldırılamaz ve süreklidir."
+            },
+            {
+              "fact": "Yasama Dokunulmazlığı (Nisbi Dokunulmazlık): Meclis tarafından oylamayla kaldırılabilir. Dokunulmazlık kaldırılsa bile milletvekilliği sona ermez."
+            },
+            {
+              "fact": "Dokunulmazlığın kaldırılması kararına karşı 7 gün içinde Anayasa Mahkemesi'ne itiraz edilebilir. AYM 15 gün içinde kesin kararını verir."
+            }
+          ]
+        },
+        "XIII": {
+          "title": "Yürütme (Cumhurbaşkanı)",
+          "items": [
+            {
+              "fact": "Yürütme yetkisi Cumhurbaşkanlığına aittir."
+            },
+            {
+              "fact": "Aday gösterebilenler: Siyasi parti grupları, son yapılan seçimlerde yüzde 5 veya daha fazla oy almış siyasi partiler ve en az 100 bin seçmen."
+            },
+            {
+              "fact": "Görev süresi 5 yıldır. Genel seçimlerle birlikte yapılır."
+            },
+            {
+              "fact": "Seçim iki turludur. İlk turda salt çoğunluk (%50 + 1) aranır. Bir kimse en fazla iki kez Cumhurbaşkanı seçilebilir."
+            },
+            {
+              "fact": "Cumhurbaşkanı'nın yetkileri arasında Devlet Denetleme Kurulu (DDK) Başkanı ve üyelerini seçmek, OHAL ilan etmek (6 aylığına), Milli Güvenlik Kurulu'nun (MGK) başkanı olmak, meclisi toplantıya çağırmak ve seçimleri yenilemek sayılabilir."
+            },
+            {
+              "fact": "Cumhurbaşkanlığı Kararnamesi: Yürütme yetkisine ilişkin konularda çıkarılır. Anayasada veya kanunda düzenlenmesi öngörülen konularda çıkarılamaz. Yargısal denetimini AYM yapar, ancak OHAL dönemindekiler yargı denetimi dışındadır."
+            },
+            {
+              "fact": "Yönetmelikler: Cumhurbaşkanlığı, bakanlıklar ve kamu tüzel kişilikleri çıkarır. Ülke genelini ilgilendirenlerin iptaline Danıştay bakar."
+            },
+            {
+              "fact": "Vekalet: Cumhurbaşkanı yardımcısı vekalet eder (Hastalık, yurt dışına çıkma gibi yönetici durumlarda). Görev süresinin dolması durumunda vekalet edemez."
+            },
+            {
+              "fact": "Devlet Denetleme Kurulu (DDK): 1982 Anayasası ile kurulmuştur, Cumhurbaşkanlığına bağlıdır. Yargı organlarını denetleyemez."
+            },
+            {
+              "fact": "Milli Güvenlik Kurulu (MGK): Başkanı Cumhurbaşkanıdır. İki ayda bir toplanır. Üyeleri arasında Jandarma Genel Komutanı yoktur."
+            },
+            {
+              "fact": "Olağanüstü Hal (OHAL): İlan etme yetkisi Cumhurbaşkanına aittir (6 aylığına). Uzatma yetkisi ise Türkiye Büyük Millet Meclisi'ne aittir (4 ayı geçmemek koşuluyla)."
+            }
+          ]
+        },
+        "XIV": {
+          "title": "Yargı ve İdari Yapı",
+          "items": [
+            {
+              "fact": "Yüksek Mahkemeler Dört tanedir: Anayasa Mahkemesi, Yargıtay, Danıştay ve Uyuşmazlık Mahkemesi. Askeri mahkemeler kaldırılmıştır."
+            },
+            {
+              "fact": "Anayasa Mahkemesi (AYM): 61 Anayasası ile kurulmuştur. 3 üyesini Meclis, 12 üyesini Cumhurbaşkanı seçer. Üyelerin görev süresi 12 yıldır. Bireysel başvurulara bakar (Anayasada güvence altına alınmış temel hak ve özgürlüklerin Kamu gücü tarafından ihlal edildiği iddiasıyla yapılan başvurular). Uyuşmazlık Mahkemesi Başkanını kendi üyeleri içerisinden seçer. OHAL CB Kararnameleri ve Uluslararası anlaşmaların yargı denetimi yoktur."
+            },
+            {
+              "fact": "Danıştay: İdari yargı mahkemelerince verilen kararların son inceleme merciidir. Üyelerini HSK ve Cumhurbaşkanı seçer."
+            },
+            {
+              "fact": "Yargıtay: Adliye mahkemelerince verilen kararların son inceleme merciidir. Üyelerinin tamamını Hakimler ve Savcılar Kurulu (HSK) seçer."
+            },
+            {
+              "fact": "Sayıştay: Yüksek Mahkeme değildir, Meclis'e bağlıdır. Bütçe denetimi yapar. Başkan ve üyelerini TBMM seçer."
+            },
+            {
+              "fact": "Hakimler ve Savcılar Kurulu (HSK): Başkanı Adalet Bakanıdır (Doğal üyesi Adalet Bakan Yardımcısıdır). 13 üyeden oluşur (7'sini Meclis, 4'ünü Cumhurbaşkanı seçer). Meslekten çıkarma kararları hariç diğer kararlarına karşı yargı yolu kapalıdır."
+            },
+            {
+              "fact": "Kamu Düzeni Öğeleri: Güvenlik, sağlık, birlik ve esenliktir."
+            },
+            {
+              "fact": "İdarenin Bütünlüğü: Hiyerarşi (alt-üst ilişkisi) ve İdari Vesayet (denetim yetkisi) ile sağlanır."
+            },
+            {
+              "fact": "Kanunsuz Emir: Konusu suç teşkil eden emir hiçbir suretle yerine getirilmez ve yerine getiren kimse sorumluluktan kurtulamaz."
+            },
+            {
+              "fact": "Kesinlikle bilinmesi gereken yerel yerinden yönetimler: İl Özel İdareleri, Belediyeler ve Köy idareleri."
+            },
+            {
+              "fact": "İl Özel İdaresi: Organları Vali (Yürütme),, İl Encümeni (Danışma), İl Genel Meclisi (Karar organı, halk tarafından seçilir)."
+            },
+            {
+              "fact": "Büyükşehir belediyeleri 750 bin nüfuslu, normal belediyeler 5 bin nüfuslu yerlerde kurulur."
+            },
+            {
+              "fact": "Köylerde: Nüfusu en fazla 2000 olan yerlerde kurulur. Organları Köy Muhtarı (Tüzel kişiliği temsil eder), İhtiyar Heyeti ve Köy Derneği. Köy Derneği, köydeki seçme ve seçilme hakkına sahip olan herkesten oluşur."
+            },
+            {
+              "fact": "Belediye Başkanının görevden alınmasıyla ilgili bir suçtan dolayı soruşturma açılırsa, İçişleri Bakanı geçici olarak görevden alır, ancak Danıştay kesin olarak görevine son verir."
+            },
+            {
+              "fact": "Vali, ilde Cumhurbaşkanı temsilcisidir."
+            }
+          ]
+        }
       }
     ]
   }
-}]
-}
- 
 }
