@@ -273,6 +273,110 @@
           "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Iker_Muniain_%2815961406985%29.jpg"
         }
       ]
+    },
+    "Serie A": {
+      "easy": [
+        {
+          "name": "Lautaro Martínez",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/ARGENTINA_VS_VENEZUELA_Lautaro_%28cropped%29.jpg"
+        },
+        {
+          "name": "Rafael Leão",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/LeaoFCSalzburg2022%28cropped%29.jpg"
+        },
+        {
+          "name": "Paulo Dybala",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01_%28cropped%29.jpg"
+        },
+        {
+          "name": "Khvicha Kvaratskhelia",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Khvicha_Kvaratskhelia_cropped.jpg"
+        },
+        {
+          "name": "Dušan Vlahović",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dusan_Vlahovic_%28cropped%29.jpg"
+        },
+        {
+          "name": "Hakan Çalhanoğlu",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/AUT_vs._TUR_2016-03-29_%28341%29.jpg"
+        },
+        {
+          "name": "Théo Hernandez",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/FC_Salzburg_vs._AC_Mailand_%28UEFA_Championsleague_2022-09-06%29_Th%C3%A9o_Hernandez.jpg"
+        },
+        {
+          "name": "Marcus Thuram",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/FC_Salzburg_gegen_Inter_Mailand_%28Testspiel_2023-08-09%29_67.jpg"
+        },
+        {
+          "name": "Romelu Lukaku",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Romelu_Lukaku_2021.jpg"
+        }
+      ],
+      "medium": [
+        {
+          "name": "Nicolò Barella",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nicol%C3%B2_Barella_in_2021_%28cropped_2%29.jpg"
+        },
+        {
+          "name": "Alessandro Bastoni",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Sergio_Mattarella_meets_Italy_national_football_team_and_Matteo_Berrettini_%2812_July_2021%29_34_%28cropped%29.jpg"
+        },
+        {
+          "name": "Federico Dimarco",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/FC_Salzburg_gegen_Inter_Mailand_%28Testspiel_2023-08-09%29_73_-_Federico_Dimarco_%28cropped%29.jpg"
+        },
+        {
+          "name": "Christian Pulisic",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Christian_Pulisic_2017_%28cropped%29.jpg"
+        },
+        {
+          "name": "Ademola Lookman",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ademola_Lookman%2C_Charlton_%28cropped%29.jpg"
+        },
+        {
+          "name": "Teun Koopmeiners",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Teun_Koopmeiners_Manchester_United_v_Atalanta_BC%2C_20_October_2021_%2812%29_%28cropped%29.jpg"
+        },
+        {
+          "name": "Lorenzo Pellegrini",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/FC_Salzburg_gegen_AS_Roma_Pellegrini.jpg"
+        },
+        {
+          "name": "Mike Maignan",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Maignan_1_Milan_2022.jpg"
+        },
+        {
+          "name": "Álvaro Morata",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/FC_Zenit_Saint_Petersburg_vs._Juventus%2C_20_October_2021_19_-_%C3%81lvaro_Morata_%28cropped%29.jpg"
+        }
+      ],
+      "hard": [
+        {
+          "name": "Riccardo Orsolini",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Coppa_Italia_Bologna.jpg"
+        },
+        {
+          "name": "Mattia Zaccagni",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Mattia_Zaccagni_2021.jpg"
+        },
+        {
+          "name": "Manuel Locatelli",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/MANUEL_LOCATELLI_-_ZENIT_vs_JUVENTUS.jpg"
+        },
+        {
+          "name": "Gianluca Mancini",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/FC_Salzburg_gegen_AS_Roma_%28UEFA_Euroleague_play-off%2C_2023-02-16%29_15_%28cropped%29.jpg"
+        },
+        {
+          "name": "Stefan de Vrij",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/FC_Salzburg_gegen_Inter_Mailand_%28Testspiel_2023-08-09%29_67_-_Stefan_de_Vrij_%28cropped%29.jpg"
+        },
+        {
+          "name": "Giovanni Di Lorenzo",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Di_Lorenzo_in_Salzburg_v_Napoli.jpg"
+        }
+      ]
     }
   },
   "teams": {
