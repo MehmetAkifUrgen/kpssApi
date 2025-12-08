@@ -32138,7 +32138,409 @@
         "id": 200
       }
     ],
+      "Kurtlar Vadisi": [
+    {
+      "question": "Polat Alemdar'ın estetik operasyon geçirmeden önceki adı nedir?",
+      "options": [
+        "Ali Candan",
+        "Mirza",
+        "Aslan Akbey",
+        "Memati Baş"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "'Çakır' lakaplı karakterin tam adı nedir?",
+      "options": [
+        "Süleyman Çakır",
+        "Mehmet Çakır",
+        "Ali Çakır",
+        "Hüsrev Çakır"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Polat Alemdar'ın 'Devlet' içindeki akıl hocası kimdir?",
+      "options": [
+        "Mehmet Karahanlı",
+        "Aslan Akbey",
+        "Doğu Eşrefoğlu",
+        "Laz Ziya"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Kurtlar Konseyi'nin lideri, 'Baron' kimdir?",
+      "options": [
+        "Laz Ziya",
+        "Hüsrev Ağa",
+        "Mehmet Karahanlı",
+        "Kılıç"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Süleyman Çakır'ın sağ kolu kimdir?",
+      "options": [
+        "Abdülhey",
+        "Güllü Erhan",
+        "Memati Baş",
+        "Nevzat"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Konseyin 'Testere' lakaplı üyesi kimdir?",
+      "options": [
+        "Necmi",
+        "Tuncay",
+        "İplikçi Nedim",
+        "Samuel Vanunu"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Polat Alemdar'ın sevgilisi Elif'in mesleği nedir?",
+      "options": [
+        "Doktor",
+        "Öğretmen",
+        "Avukat",
+        "Gazeteci"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Seyfo Dayı'nın yeğeni kimdir?",
+      "options": [
+        "Güllü Erhan",
+        "Muro",
+        "Deli Hüsnü",
+        "Cevher"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Baron Mehmet Karahanlı'nın sağ kolu kimdir?",
+      "options": [
+        "Hüsrev Ağa",
+        "Laz Ziya",
+        "Kılıç",
+        "Nizamettin"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Polat Alemdar'ın yürüttüğü gizli görevin adı nedir?",
+      "options": [
+        "Kurtlar Vadisi Operasyonu",
+        "Kırmızı Kitap",
+        "Derin Devlet",
+        "Baron Planı"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Aslan Akbey'in (Aslan Amca) gerçek adı nedir?",
+      "options": [
+        "Abbas Ustaoğlu",
+        "Ali Candan",
+        "Mehmet Karahanlı",
+        "Doğu Eşrefoğlu"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Konseyin avukatı olan ve gizli planları yürüten hain kimdir?",
+      "options": [
+        "Nizamettin Güvenç",
+        "İplikçi Nedim",
+        "Tuncay Kantarcı",
+        "Samuel Vanunu"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Abdülhey'in devlet kayıtlarındaki gerçek adı (kod adı olmayan) nedir?",
+      "options": [
+        "Zülfü Yüksel",
+        "Mahmut Şevket",
+        "Rıza Güneş",
+        "Eşref Bey"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Pala'nın güneş gözlüklerini çıkarıp söylediği meşhur söz nedir?",
+      "options": [
+        "Sadece ölüler görür.",
+        "Babayiğit harmanı.",
+        "Bu alemde gece mahkumdur.",
+        "Sonunu düşünen kahraman olamaz."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Laz Ziya'nın, Polat Alemdar ile ilişkisi olan küçük kızı kimdir?",
+      "options": [
+        "Meral",
+        "Nesrin",
+        "Elif",
+        "Safiye"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Süleyman Çakır'ı pusuya düşürerek öldüren karakter kimdir?",
+      "options": [
+        "Cerrahpaşalı Halit",
+        "Testere Necmi",
+        "Pala",
+        "Şevko"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Konseyin 'Borsa ve Dış İlişkiler'den sorumlu üyesi kimdir?",
+      "options": [
+        "Samuel Vanunu",
+        "İplikçi Nedim",
+        "Tuncay Kantarcı",
+        "Nizamettin Güvenç"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Tuncay Kantarcı (Deve Tuncay) paravan olarak ne işletmektedir?",
+      "options": [
+        "Hastane",
+        "Otel",
+        "Kumarhane",
+        "Liman"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Memati'nin oğlunun (Ali Memati) annesi kimdir?",
+      "options": [
+        "Gamze",
+        "Leyla",
+        "İnci",
+        "Selvi"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Dizideki 'Rus Konseyi' temsilcisi, 'Tilki' lakaplı karakter kimdir?",
+      "options": [
+        "Andrei",
+        "Alexander",
+        "Ivan",
+        "Dimitri"
+      ],
+      "correct_answer": 0
+    }
+  ],
     "Medcezir": [
+      {
+      "question": "Yaman Koper'in geldiği mahalle neresidir?",
+      "options": [
+        "Tozludere",
+        "Tarlabaşı",
+        "Gazi Mahallesi",
+        "Ççinçin"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Mira Beylice'nin hastalığı nedir?",
+      "options": [
+        "Lösemi",
+        "AVM (Arteriovenöz Malformasyon)",
+        "Kalp Yetmezliği",
+        "Epilepsi"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Mert Serez'in çocukluk aşkı kimdir?",
+      "options": [
+        "Mira",
+        "Hale",
+        "Eylül",
+        "Tuğçe"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Yaman'ın belalı abisinin adı nedir?",
+      "options": [
+        "Kenan",
+        "Selim",
+        "Hasan",
+        "Giray"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Selim Serez'in mesleği nedir?",
+      "options": [
+        "Doktor",
+        "Mimar",
+        "Avukat",
+        "Mühendis"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Mira'nın hırslı annesinin adı nedir?",
+      "options": [
+        "Sedef",
+        "Sude",
+        "Beren",
+        "Leyla"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Medcezir dizisi hangi ABD yapımından uyarlanmıştır?",
+      "options": [
+        "Gossip Girl",
+        "One Tree Hill",
+        "The O.C.",
+        "90210"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Mira'ya saplantılı olan piyanist karakter kimdir?",
+      "options": [
+        "Tan",
+        "Orkun",
+        "Uzay",
+        "Doruk"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Yaman ve Mira'nın düet yaptığı o meşhur şarkı hangisidir?",
+      "options": [
+        "İsyan",
+        "Medcezir",
+        "Benim Ol",
+        "Dünyayı Durduran Şarkı"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Altınkoy'un zengin ve şımarık 'kötü çocuğu' kimdir?",
+      "options": [
+        "Mert",
+        "Burak",
+        "Orkun",
+        "Aras"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Yaman'ın annesi Nevin'in, İzmir'deki kocasının adı nedir?",
+      "options": [
+        "Hasan",
+        "Turan",
+        "Nihat",
+        "Cemal"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Ender Serez ve Sedef'in babası olan 'Mr. Aşk' lakaplı iş adamı kimdir?",
+      "options": [
+        "Mithat Civanoğlu",
+        "Asım Şekip Kaya",
+        "Faruk Beylice",
+        "Bülent Serez"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Yaman'ın Tozludere'den gelen eski sevgilisinin adı nedir?",
+      "options": [
+        "Hale",
+        "Leyla",
+        "Ayşe",
+        "Elif"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Mira'ya saplantılı aşık olan piyano hocası kimdir?",
+      "options": [
+        "Tan",
+        "Cenk",
+        "Doruk",
+        "Barış"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Orkun'un pis işlerini yapan ve Yaman'a düşman olan Giray'ın soyadı nedir?",
+      "options": [
+        "Kone",
+        "Çelik",
+        "Yılmaz",
+        "Demir"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Selim Serez'in eşi Ender Serez nasıl hayatını kaybetmiştir?",
+      "options": [
+        "Kalp Krizi",
+        "Trafik Kazası",
+        "Uçak Kazası",
+        "Zehirlenme"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Dizinin 'Turunç' lakaplı tehlikeli mafya lideri kimdir?",
+      "options": [
+        "Cengiz",
+        "Nadir Baktıroğlu",
+        "Memduh",
+        "Hilmi"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Yaman Koper üniversitede hangi bölümü okumaktadır?",
+      "options": [
+        "Hukuk",
+        "Mimarlık",
+        "İşletme",
+        "Mühendislik"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Eylül'ün soyadı nedir?",
+      "options": [
+        "Serez",
+        "Beylice",
+        "Buluter",
+        "Civanoğlu"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Mert'in annesi Ender'in kız kardeşinin adı nedir?",
+      "options": [
+        "Sude",
+        "Sedef",
+        "Beren",
+        "Gamze"
+      ],
+      "correct_answer": 1
+    },
       {
         "id": 1,
         "soru": "Yaman neden Serez ailesinin yanına gitmiştir?",
@@ -32537,6 +32939,206 @@
       }
     ],
     "Ezel": [
+      {
+      "question": "Ömer'in hapishanedeki akıl hocası kimdir?",
+      "options": [
+        "Ramiz Karaeski",
+        "Kenan Birkan",
+        "Sekiz",
+        "Mümtaz Amca"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Eyşan'ın hasta kardeşi kimdir?",
+      "options": [
+        "Şebnem",
+        "Bahar",
+        "Azad",
+        "Bade"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "'Kerpeten' lakaplı karakter kimdir?",
+      "options": [
+        "Cengiz",
+        "Ali",
+        "Tefo",
+        "Kamil"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Ezel Bayraktar'ın gerçek adı nedir?",
+      "options": [
+        "Ömer Uçar",
+        "Ali Kırgız",
+        "Cengiz Atay",
+        "Ramiz Karaeski"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Ramiz Dayı'nın en büyük düşmanı kimdir?",
+      "options": [
+        "Kenan Birkan",
+        "Selma Hünel",
+        "Kaya",
+        "Serdar"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Cengiz'in oğlu Can aslında kimin oğludur?",
+      "options": [
+        "Ali",
+        "Kenan",
+        "Ömer",
+        "Tefo"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Ezel dizisi hangi klasik romandan esinlenilmiştir?",
+      "options": [
+        "Sefiller",
+        "Suç ve Ceza",
+        "Monte Kristo Kontu",
+        "Üç Silahşörler"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Ramiz Dayı'nın gençliğini hangi oyuncu canlandırmıştır?",
+      "options": [
+        "Kenan İmirzalıoğlu",
+        "Ufuk Bayraktar",
+        "Rıza Kocaoğlu",
+        "Kıvanç Tatlıtuğ"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Ramiz Dayı'nın meşhur sözü: 'Mesele ölmek değil yeğen...'",
+      "options": [
+        "Mesele yaşamaktır.",
+        "Mesele iz bırakmaktır.",
+        "Mesele dost bildiğin en güvendiğin adamın eliyle ölmekmiş.",
+        "Mesele kazanmaktır."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Ezel'in yardımcısı Şebnem'i canlandıran oyuncu kimdir?",
+      "options": [
+        "Bade İşçil",
+        "Cansu Dere",
+        "Burçin Terzioğlu",
+        "Sedef Avcı"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Ramiz Dayı'nın kızı Azad'ı kim canlandırmıştır?",
+      "options": [
+        "Burçin Terzioğlu",
+        "Bade İşçil",
+        "Sedef Avcı",
+        "Berrak Tüzünataç"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Kenan Birkan'ın acımasız sağ kolu, 'bıçak uzmanı' karakter kimdir?",
+      "options": [
+        "Temmuz",
+        "Sekiz",
+        "Kaya",
+        "Yusuf Eğir"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Ramiz Dayı'nın en sevdiği ve sık sık anlattığı şair kimdir?",
+      "options": [
+        "Nazım Hikmet",
+        "Ömer Hayyam",
+        "Edip Cansever",
+        "Cemal Süreya"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Kenan Birkan'ı canlandıran usta oyuncu kimdir?",
+      "options": [
+        "Haluk Bilginer",
+        "Çetin Tekindor",
+        "Şener Şen",
+        "Tuncel Kurtiz"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Ramiz Dayı'nın torunu ve tek varisi kimdir?",
+      "options": [
+        "Sekiz",
+        "Tefo",
+        "Ali",
+        "Selma"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Eyşan, Ömer'e ihanet etmeyi neden kabul etmiştir?",
+      "options": [
+        "Kardeşi Bahar'ın tedavisi için",
+        "Cengiz'i sevdiği için",
+        "Zengin olmak için",
+        "Babasından korktuğu için"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Kenan Birkan ve Ramiz Karaeski'nin gençlikte aşık olduğu kadın kimdir?",
+      "options": [
+        "Selma Hünel",
+        "Müjgan",
+        "Azad",
+        "Handan"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Tefo'nun (Tevfik Zaim) aşık olduğu, Ali'nin de eski sevgilisi olan karakter kimdir?",
+      "options": [
+        "Şebnem",
+        "Bahar",
+        "Azad",
+        "Bade"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Dizinin final sahnesinde kapıyı açan kişi hakkında en yaygın teori nedir?",
+      "options": [
+        "Ezel'in ölmediği ve kapıyı açtığı",
+        "Ali'nin geldiği",
+        "Cengiz'in hayaleti",
+        "Bade'nin geldiği"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Ramiz Dayı'nın ölümünden sonra Ezel'e bıraktığı yüzük neyi simgeler?",
+      "options": [
+        "İstanbul'un yeraltı krallığını",
+        "Dayı'nın mirasını",
+        "Selma'ya olan aşkını",
+        "İntikam yemini"
+      ],
+      "correct_answer": 0
+    },
       {
         "soru": "Ezel'in gerçek adı nedir?",
         "cevaplar": [
@@ -37174,90 +37776,6 @@
         "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/659-thor.jpg"
       }
     ],
-    "Yeşilçam Efsaneleri": [
-      {
-        "name": "Kemal Sunal",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grave_of_Kemal_Sunal_(1944-2000).jpg"
-      },
-      {
-        "name": "Adile Naşit",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adile_Naşit.jpg"
-      },
-      {
-        "name": "Şener Şen",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Şener_Şen.jpg"
-      },
-      {
-        "name": "Türkan Şoray",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Türkan_Şoray,_2014.jpg"
-      },
-      {
-        "name": "Cüneyt Arkın",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yılmaz_Büyükerşen_Wax_Museum,_Eskişehir,_Turkey_21.jpg"
-      },
-      {
-        "name": "Fatma Girik",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fatma_Girik.jpg"
-      },
-      {
-        "name": "Münir Özkul",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Münir_Özkul.jpg"
-      },
-      {
-        "name": "Halit Akçatepe",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Halit_Akçatepe.jpg"
-      },
-      {
-        "name": "Tarık Akan",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tarık_Akan.jpg"
-      },
-      {
-        "name": "Filiz Akın",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Filiz_Akın.jpg"
-      }
-    ],
-    "Türk Mutfağı": [
-      {
-        "name": "Lahmacun",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lahmacun.jpg"
-      },
-      {
-        "name": "Mantı",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mantı.jpg"
-      },
-      {
-        "name": "İskender Kebap",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/İskender_Kebap.jpg"
-      },
-      {
-        "name": "Baklava",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baklava.jpg"
-      },
-      {
-        "name": "Sarma",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zeytinyağlı_yaprak_sarma_ve_limon.jpg"
-      },
-      {
-        "name": "Adana Kebap",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adana_Kebap.jpg"
-      },
-      {
-        "name": "Çiğ Köfte",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Çiğ_Köfte.jpg"
-      },
-      {
-        "name": "Künefe",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Künefe.jpg"
-      },
-      {
-        "name": "Menemen",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Menemen.jpg"
-      },
-      {
-        "name": "Türk Kahvesi",
-        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkishcoffee.jpg"
-      }
-    ],
     "Yeşilçam Soruları": [
       {
         "question": "Hababam Sınıfı serisinin yazarı kimdir?",
@@ -37358,108 +37876,6 @@
           "Ali Şen"
         ],
         "correct_answer": 1
-      }
-    ],
-    "Türk Mutfağı Soruları": [
-      {
-        "question": "Mantı hangi ilimizle özdeşleşmiştir?",
-        "options": [
-          "Kayseri",
-          "Konya",
-          "Sivas",
-          "Yozgat"
-        ],
-        "correct_answer": 0
-      },
-      {
-        "question": "Adana Kebap'ın en belirgin özelliği nedir?",
-        "options": [
-          "Tavuk etinden yapılması",
-          "Fırında pişirilmesi",
-          "Zırh ile kıyılması",
-          "Yoğurtla servis edilmesi"
-        ],
-        "correct_answer": 2
-      },
-      {
-        "question": "Künefe hangi ilimize ait meşhur bir tatlıdır?",
-        "options": [
-          "Gaziantep",
-          "Şanlıurfa",
-          "Hatay",
-          "Mardin"
-        ],
-        "correct_answer": 2
-      },
-      {
-        "question": "Gaziantep şehriyle özdeşleşen ve coğrafi işareti alınan tatlı hangisidir?",
-        "options": [
-          "Sütlaç",
-          "Baklava",
-          "Kazandibi",
-          "Tulumba"
-        ],
-        "correct_answer": 1
-      },
-      {
-        "question": "Tantuni hangi ilimizin meşhur yemeğidir?",
-        "options": [
-          "Adana",
-          "Mersin",
-          "Antalya",
-          "Hatay"
-        ],
-        "correct_answer": 1
-      },
-      {
-        "question": "Hamsili pilav hangi bölgemize aittir?",
-        "options": [
-          "Ege",
-          "Akdeniz",
-          "Karadeniz",
-          "Marmara"
-        ],
-        "correct_answer": 2
-      },
-      {
-        "question": "Çiğ köftenin etsiz versiyonunda ana malzeme nedir?",
-        "options": [
-          "Pirinç",
-          "Bulgur",
-          "Mercimek",
-          "Nohut"
-        ],
-        "correct_answer": 1
-      },
-      {
-        "question": "İskender Kebap hangi ilimizde ortaya çıkmıştır?",
-        "options": [
-          "İstanbul",
-          "Bursa",
-          "Ankara",
-          "İzmir"
-        ],
-        "correct_answer": 1
-      },
-      {
-        "question": "Aşağıdakilerden hangisi Menemen yemeğinin ana malzemelerinden biri değildir?",
-        "options": [
-          "Domates",
-          "Biber",
-          "Yumurta",
-          "Patates"
-        ],
-        "correct_answer": 3
-      },
-      {
-        "question": "Kokoreç hangi hayvanın bağırsağından yapılır?",
-        "options": [
-          "Kuzu",
-          "Dana",
-          "Tavuk",
-          "Hindi"
-        ],
-        "correct_answer": 0
       }
     ],
     "Video Oyun Soruları": [
@@ -37666,311 +38082,6 @@
         "correct_answer": 1
       }
     ]
-  },
-  "Medcezir Soruları": [
-    {
-      "question": "Yaman Koper'in geldiği mahalle neresidir?",
-      "options": [
-        "Tozludere",
-        "Tarlabaşı",
-        "Gazi Mahallesi",
-        "Ççinçin"
-      ],
-      "correct_answer": 0
-    },
-    {
-      "question": "Mira Beylice'nin hastalığı nedir?",
-      "options": [
-        "Lösemi",
-        "AVM (Arteriovenöz Malformasyon)",
-        "Kalp Yetmezliği",
-        "Epilepsi"
-      ],
-      "correct_answer": 1
-    },
-    {
-      "question": "Mert Serez'in çocukluk aşkı kimdir?",
-      "options": [
-        "Mira",
-        "Hale",
-        "Eylül",
-        "Tuğçe"
-      ],
-      "correct_answer": 2
-    },
-    {
-      "question": "Yaman'ın belalı abisinin adı nedir?",
-      "options": [
-        "Kenan",
-        "Selim",
-        "Hasan",
-        "Giray"
-      ],
-      "correct_answer": 0
-    },
-    {
-      "question": "Selim Serez'in mesleği nedir?",
-      "options": [
-        "Doktor",
-        "Mimar",
-        "Avukat",
-        "Mühendis"
-      ],
-      "correct_answer": 2
-    },
-    {
-      "question": "Mira'nın hırslı annesinin adı nedir?",
-      "options": [
-        "Sedef",
-        "Sude",
-        "Beren",
-        "Leyla"
-      ],
-      "correct_answer": 1
-    },
-    {
-      "question": "Medcezir dizisi hangi ABD yapımından uyarlanmıştır?",
-      "options": [
-        "Gossip Girl",
-        "One Tree Hill",
-        "The O.C.",
-        "90210"
-      ],
-      "correct_answer": 2
-    },
-    {
-      "question": "Mira'ya saplantılı olan piyanist karakter kimdir?",
-      "options": [
-        "Tan",
-        "Orkun",
-        "Uzay",
-        "Doruk"
-      ],
-      "correct_answer": 0
-    },
-    {
-      "question": "Yaman ve Mira'nın düet yaptığı o meşhur şarkı hangisidir?",
-      "options": [
-        "İsyan",
-        "Medcezir",
-        "Benim Ol",
-        "Dünyayı Durduran Şarkı"
-      ],
-      "correct_answer": 1
-    },
-    {
-      "question": "Altınkoy'un zengin ve şımarık 'kötü çocuğu' kimdir?",
-      "options": [
-        "Mert",
-        "Burak",
-        "Orkun",
-        "Aras"
-      ],
-      "correct_answer": 2
-    }
-  ],
-  "Ezel Soruları": [
-    {
-      "question": "Ömer'in hapishanedeki akıl hocası kimdir?",
-      "options": [
-        "Ramiz Karaeski",
-        "Kenan Birkan",
-        "Sekiz",
-        "Mümtaz Amca"
-      ],
-      "correct_answer": 0
-    },
-    {
-      "question": "Eyşan'ın hasta kardeşi kimdir?",
-      "options": [
-        "Şebnem",
-        "Bahar",
-        "Azad",
-        "Bade"
-      ],
-      "correct_answer": 1
-    },
-    {
-      "question": "'Kerpeten' lakaplı karakter kimdir?",
-      "options": [
-        "Cengiz",
-        "Ali",
-        "Tefo",
-        "Kamil"
-      ],
-      "correct_answer": 1
-    },
-    {
-      "question": "Ezel Bayraktar'ın gerçek adı nedir?",
-      "options": [
-        "Ömer Uçar",
-        "Ali Kırgız",
-        "Cengiz Atay",
-        "Ramiz Karaeski"
-      ],
-      "correct_answer": 0
-    },
-    {
-      "question": "Ramiz Dayı'nın en büyük düşmanı kimdir?",
-      "options": [
-        "Kenan Birkan",
-        "Selma Hünel",
-        "Kaya",
-        "Serdar"
-      ],
-      "correct_answer": 0
-    },
-    {
-      "question": "Cengiz'in oğlu Can aslında kimin oğludur?",
-      "options": [
-        "Ali",
-        "Kenan",
-        "Ömer",
-        "Tefo"
-      ],
-      "correct_answer": 2
-    },
-    {
-      "question": "Ezel dizisi hangi klasik romandan esinlenilmiştir?",
-      "options": [
-        "Sefiller",
-        "Suç ve Ceza",
-        "Monte Kristo Kontu",
-        "Üç Silahşörler"
-      ],
-      "correct_answer": 2
-    },
-    {
-      "question": "Ramiz Dayı'nın gençliğini hangi oyuncu canlandırmıştır?",
-      "options": [
-        "Kenan İmirzalıoğlu",
-        "Ufuk Bayraktar",
-        "Rıza Kocaoğlu",
-        "Kıvanç Tatlıtuğ"
-      ],
-      "correct_answer": 1
-    },
-    {
-      "question": "Ramiz Dayı'nın meşhur sözü: 'Mesele ölmek değil yeğen...'",
-      "options": [
-        "Mesele yaşamaktır.",
-        "Mesele iz bırakmaktır.",
-        "Mesele dost bildiğin en güvendiğin adamın eliyle ölmekmiş.",
-        "Mesele kazanmaktır."
-      ],
-      "correct_answer": 2
-    },
-    {
-      "question": "Ezel'in yardımcısı Şebnem'i canlandıran oyuncu kimdir?",
-      "options": [
-        "Bade İşçil",
-        "Cansu Dere",
-        "Burçin Terzioğlu",
-        "Sedef Avcı"
-      ],
-      "correct_answer": 0
-    }
-  ],
-  "Kurtlar Vadisi Soruları": [
-    {
-      "question": "Polat Alemdar'ın estetik operasyon geçirmeden önceki adı nedir?",
-      "options": [
-        "Ali Candan",
-        "Mirza",
-        "Aslan Akbey",
-        "Memati Baş"
-      ],
-      "correct_answer": 0
-    },
-    {
-      "question": "'Çakır' lakaplı karakterin tam adı nedir?",
-      "options": [
-        "Süleyman Çakır",
-        "Mehmet Çakır",
-        "Ali Çakır",
-        "Hüsrev Çakır"
-      ],
-      "correct_answer": 0
-    },
-    {
-      "question": "Polat Alemdar'ın 'Devlet' içindeki akıl hocası kimdir?",
-      "options": [
-        "Mehmet Karahanlı",
-        "Aslan Akbey",
-        "Doğu Eşrefoğlu",
-        "Laz Ziya"
-      ],
-      "correct_answer": 1
-    },
-    {
-      "question": "Kurtlar Konseyi'nin lideri, 'Baron' kimdir?",
-      "options": [
-        "Laz Ziya",
-        "Hüsrev Ağa",
-        "Mehmet Karahanlı",
-        "Kılıç"
-      ],
-      "correct_answer": 2
-    },
-    {
-      "question": "Süleyman Çakır'ın sağ kolu kimdir?",
-      "options": [
-        "Abdülhey",
-        "Güllü Erhan",
-        "Memati Baş",
-        "Nevzat"
-      ],
-      "correct_answer": 2
-    },
-    {
-      "question": "Konseyin 'Testere' lakaplı üyesi kimdir?",
-      "options": [
-        "Necmi",
-        "Tuncay",
-        "İplikçi Nedim",
-        "Samuel Vanunu"
-      ],
-      "correct_answer": 0
-    },
-    {
-      "question": "Polat Alemdar'ın sevgilisi Elif'in mesleği nedir?",
-      "options": [
-        "Doktor",
-        "Öğretmen",
-        "Avukat",
-        "Gazeteci"
-      ],
-      "correct_answer": 2
-    },
-    {
-      "question": "Seyfo Dayı'nın yeğeni kimdir?",
-      "options": [
-        "Güllü Erhan",
-        "Muro",
-        "Deli Hüsnü",
-        "Cevher"
-      ],
-      "correct_answer": 0
-    },
-    {
-      "question": "Baron Mehmet Karahanlı'nın sağ kolu kimdir?",
-      "options": [
-        "Hüsrev Ağa",
-        "Laz Ziya",
-        "Kılıç",
-        "Nizamettin"
-      ],
-      "correct_answer": 2
-    },
-    {
-      "question": "Polat Alemdar'ın yürüttüğü gizli görevin adı nedir?",
-      "options": [
-        "Kurtlar Vadisi Operasyonu",
-        "Kırmızı Kitap",
-        "Derin Devlet",
-        "Baron Planı"
-      ],
-      "correct_answer": 0
-    }
-  ]
+  }
+
 }
