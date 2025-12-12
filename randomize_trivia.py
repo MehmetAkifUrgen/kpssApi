@@ -14,7 +14,7 @@ def randomize_trivia():
             data = json.load(f)
         
         categories = data.get('categories', {})
-        target_category = "Muhteşem Yüzyıl"
+        target_category = "Kurtlar Vadisi"
         
         if target_category not in categories:
             print(f"Category '{target_category}' not found.")
