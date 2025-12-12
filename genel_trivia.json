@@ -27014,32 +27014,12 @@
                 "correct_answer": 3
             },
             {
-                "question": "Polat Alemdar'ın, Aslan Akbey'in ölümünden sonra bulduğu ses kayıtlarında Aslan Bey ona ne diye hitap etmektedir?",
-                "options": [
-                    "Canpolat",
-                    "Oğlum",
-                    "Ali",
-                    "Aslanım"
-                ],
-                "correct_answer": 0
-            },
-            {
                 "question": "'Dostum olmaz, hasmım yaşamaz' sözü kime aittir?",
                 "options": [
                     "Pala",
                     "Polat Alemdar",
                     "Laz Ziya",
                     "Mehmet Karahanlı"
-                ],
-                "correct_answer": 2
-            },
-            {
-                "question": "Çakır'ın kumarhanesinin açılış gecesinde sahne alan sanatçı kimdi?",
-                "options": [
-                    "Gülben Ergen",
-                    "İbrahim Tatlıses",
-                    "Özcan Deniz",
-                    "Safiye Soyman"
                 ],
                 "correct_answer": 2
             },
@@ -45302,6 +45282,1008 @@
                     "Zengin olduğunu"
                 ],
                 "correct_answer": 2
+            }
+        ],
+        "DUS": [
+            {
+                "question": "Periodontal apse tedavisinde ilk yapılması gereken işlem nedir?",
+                "options": [
+                    "Diş çekimi",
+                    "Antibiyotik başlamak",
+                    "Drenaj sağlamak",
+                    "Küretaj"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Mandibular sinir bloğunda iğnenin hedef noktası neresidir?",
+                "options": [
+                    "Koronoid çıkıntı",
+                    "Angulus mandibula",
+                    "Lingula",
+                    "Kondil"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Hangi madde pulpa kaplamasında en sık kullanılır?",
+                "options": [
+                    "Çinko oksit öjenol",
+                    "MTA",
+                    "Kalsiyum hidroksit",
+                    "Cam iyonomer siman"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Sınıf II kompozit restorasyonlarda matrix bandının amacı nedir?",
+                "options": [
+                    "Bağlantıyı güçlendirmek",
+                    "Renk uyumunu artırmak",
+                    "Polimerizasyonu hızlandırmak",
+                    "Proksimal kontur sağlamak"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Dişeti çekilmesinin en sık görülen nedeni aşağıdakilerden hangisidir?",
+                "options": [
+                    "Bruksizm",
+                    "Travmatik fırçalama",
+                    "Ortodontik tedavi",
+                    "Periodontal hastalık"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Endodontik tedavide çalışma boyunu belirlemek için hangi yöntem en güvenilirdir?",
+                "options": [
+                    "Elektronik apeks bulucu",
+                    "Taktil his",
+                    "Radyografik yöntem",
+                    "Kağıt kon yöntemi"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Aşağıdakilerden hangisi vital pulpa tedavisi endikasyonu değildir?",
+                "options": [
+                    "Derin çürük",
+                    "Çürük nedeniyle pulpa açılması",
+                    "Mekanik pulpa açılması",
+                    "Spontan ağrı öyküsü"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Hangisi lokal anestezik maddelerin etki süresini uzatır?",
+                "options": [
+                    "Vazokonstriktör eklenmesi",
+                    "Sıcaklığın artırılması",
+                    "pH'ın düşürülmesi",
+                    "Konsantrasyonun azaltılması"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Ortodontik tedavide kullanılan Nance apareyi hangi amaçla kullanılır?",
+                "options": [
+                    "Diastema kapatmak için",
+                    "Yer tutucu olarak",
+                    "Diş gömülmesi için",
+                    "Çapraz kapanış düzeltmek için"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Periodontal hastalıkta kemik kaybının en sık görülen tipi hangisidir?",
+                "options": [
+                    "Hemiseptum",
+                    "Vertikal kemik kaybı",
+                    "Horizontal kemik kaybı",
+                    "Krater şeklinde kemik kaybı"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Total protezlerde retansiyonun en önemli faktörü hangisidir?",
+                "options": [
+                    "Tükürük film tabakası",
+                    "Protez sınırları",
+                    "Okluzal denge",
+                    "Kas aktivitesi"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Aşağıdakilerden hangisi pulpanın nekrozuna en sık neden olur?",
+                "options": [
+                    "Periodontal hastalık",
+                    "Derin çürük",
+                    "Aşırı ısı",
+                    "Dental travma"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Dental implant cerrahisinde kemik kalitesi sınıflandırmasında en iyi kemiği hangi tip temsil eder?",
+                "options": [
+                    "Tip IV",
+                    "Tip I",
+                    "Tip II",
+                    "Tip III"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Hangisi kök kanal tedavisinde kullanılan irrigasyon solüsyonudur?",
+                "options": [
+                    "Hidrojen peroksit",
+                    "Sodyum hipoklorit",
+                    "Hepsi",
+                    "Klorheksidin"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Angle Sınıf II maloklüzyonda mandibula hangi pozisyondadır?",
+                "options": [
+                    "Normal pozisyonda",
+                    "Lateral deviyasyonda",
+                    "Mezialde",
+                    "Distalde"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Amalgam restorasyonlarda kavite duvarlarına verilen açı kaç derecedir?",
+                "options": [
+                    "45 derece",
+                    "120 derece",
+                    "90 derece",
+                    "60 derece"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Temporomandibular eklem diskinin anterior deplasmanında hangi ses duyulur?",
+                "options": [
+                    "Klik",
+                    "Krepitasyon",
+                    "Pop",
+                    "Snap"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Periodontal cep derinliği ölçümü hangi aletle yapılır?",
+                "options": [
+                    "Eksplorer",
+                    "Orak",
+                    "Küret",
+                    "Periodontal sond"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Hangi diş en son sürer?",
+                "options": [
+                    "Üst yirmilik diş",
+                    "Alt ikinci molar",
+                    "Üst ikinci molar",
+                    "Alt yirmilik diş"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Cam iyonomer simanın en önemli avantajı nedir?",
+                "options": [
+                    "Estetik",
+                    "Florür salınımı",
+                    "Aşınma direnci",
+                    "Polisaj kolaylığı"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Aşağıdakilerden hangisi endodontik acil durumlardan biridir?",
+                "options": [
+                    "İnternal rezorpsiyon",
+                    "Pulpa polifi",
+                    "Akut apikal apse",
+                    "Kronik apikal periodontitis"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Daimi birinci molar dişler kaç yaşında sürer?",
+                "options": [
+                    "7 yaş",
+                    "6 yaş",
+                    "9 yaş",
+                    "8 yaş"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Hangisi apikal periodontitiste görülen radyografik bulgudur?",
+                "options": [
+                    "Periapikal radyoopasite",
+                    "Lamina dura kalınlaşması",
+                    "Hipersementoz",
+                    "Periapikal radyolüsensi"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Kompozit rezinlerin polimerizasyonu için kullanılan ışık dalga boyu kaç nm'dir?",
+                "options": [
+                    "550-570 nm",
+                    "450-470 nm",
+                    "650-670 nm",
+                    "350-370 nm"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Aşağıdakilerden hangisi çenelerin gelişimsel kistidir?",
+                "options": [
+                    "Radiküler kist",
+                    "Dentigeröz kist",
+                    "Keratokist",
+                    "Nazopalatin kanal kisti"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Periodontal hastalıkta en önemli etiyolojik faktör hangisidir?",
+                "options": [
+                    "Mikrobiyal dental plak",
+                    "Travmatik okluzyon",
+                    "Sistemik hastalıklar",
+                    "Diş taşı"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "MTA (Mineral Trioksit Agregat) hangi durumlarda kullanılır?",
+                "options": [
+                    "Perforasyon tamiri",
+                    "Geçici restorasyon",
+                    "Kavite astarı",
+                    "Kök kanal dolgusu"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Diş minesinin yapısında en çok bulunan mineral hangisidir?",
+                "options": [
+                    "Magnezyum fosfat",
+                    "Fluorapatit",
+                    "Kalsiyum karbonat",
+                    "Hidroksiapatit"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Aşağıdakilerden hangisi sabit ortodontik tedavide kullanılan braket tipidir?",
+                "options": [
+                    "Activator",
+                    "Hawley apareyi",
+                    "Edgewise braket",
+                    "Frankel apareyi"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "İnlay ve onlay restorasyonlarda minimum kavite derinliği ne olmalıdır?",
+                "options": [
+                    "3 mm",
+                    "2 mm",
+                    "0.5 mm",
+                    "1 mm"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Akut nekrotizan ülseratif gingivitis (ANUG) için karakteristik bulgu hangisidir?",
+                "options": [
+                    "Derin periodontal cep",
+                    "Dişeti büyümesi",
+                    "Kemik kaybı",
+                    "Papil uçlarında nekroz"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Hangi antibiyotik periodontal hastalıkta en sık kullanılır?",
+                "options": [
+                    "Amoksisilin",
+                    "Eritromisin",
+                    "Metronidazol",
+                    "Tetrasiklin"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Protetik tedavide abutment dişin ideal konikliği kaç derece olmalıdır?",
+                "options": [
+                    "20 derece",
+                    "15 derece",
+                    "6 derece",
+                    "10 derece"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Süt dişlerinde pulpotomi işleminde hangi materyal kullanılır?",
+                "options": [
+                    "Hepsi",
+                    "Formokrezol",
+                    "Kalsiyum hidroksit",
+                    "MTA"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Dental radyografide en düşük radyasyon dozu hangi teknikte alınır?",
+                "options": [
+                    "Dijital radyografi",
+                    "Panoramik radyografi",
+                    "Konvansiyonel film",
+                    "Sefalometrik radyografi"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Aşağıdakilerden hangisi dental implantın primer stabilitesini etkiler?",
+                "options": [
+                    "İmplant yüzey özellikleri",
+                    "Kemik yoğunluğu",
+                    "Hasta yaşı",
+                    "Sistemik hastalıklar"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Angle Sınıf III maloklüzyonda üst kesici dişler alt kesici dişlere göre nasıldır?",
+                "options": [
+                    "Normal pozisyonda",
+                    "Linguale eğimli veya geride",
+                    "Labiale eğimli",
+                    "Rotasyonda"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Hangi işlem diş beyazlatma tedavisinde kullanılır?",
+                "options": [
+                    "Hidrojen peroksit uygulaması",
+                    "Remineralizasyon",
+                    "Fissür örtücü uygulaması",
+                    "Florür uygulaması"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Periodontal flep cerrahisinde en sık kullanılan insizyon tipi hangisidir?",
+                "options": [
+                    "Horizontal insizyon",
+                    "Vertikal insizyon",
+                    "Oblik insizyon",
+                    "Sulkuler insizyon"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Aşağıdakilerden hangisi gömülü yirmilik diş çekimi komplikasyonudur?",
+                "options": [
+                    "Çürük oluşumu",
+                    "Periodontal hastalık",
+                    "Alveolar osteitis (kuru soket)",
+                    "Dişeti çekilmesi"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Dental çürüğün başlaması için kritik pH değeri kaçtır?",
+                "options": [
+                    "5.5",
+                    "6.5",
+                    "4.5",
+                    "7.0"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Hangi materyal geçici kuron yapımında kullanılır?",
+                "options": [
+                    "Bis-akrilik rezin",
+                    "Seramik",
+                    "Kompozit rezin",
+                    "Amalgam"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Pulpa kanamasının durması için beklenen süre ne kadardır?",
+                "options": [
+                    "15-20 dakika",
+                    "5-10 dakika",
+                    "1-2 dakika",
+                    "30 dakika"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Aşağıdakilerden hangisi endodontik tedavi başarısızlığının en sık nedenidir?",
+                "options": [
+                    "Yetersiz kök kanal dolgusu",
+                    "Koronal sızıntı",
+                    "Kırık alet",
+                    "Perforasyon"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Total protez hastasında alveol kret rezorpsiyonunu hızlandıran faktör hangisidir?",
+                "options": [
+                    "Hepsi",
+                    "Sistemik hastalıklar",
+                    "Protez kullanmamak",
+                    "Dengesiz okluzyon"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Hangi diş çürüğü en hızlı ilerler?",
+                "options": [
+                    "Rampant çürük",
+                    "Durmuş çürük",
+                    "Kronik çürük",
+                    "Sekonder çürük"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "TME artroskopisi hangi durumlarda endikedir?",
+                "options": [
+                    "Eklem ankiolozu",
+                    "Kondil fraktürü",
+                    "Eklem tümörü",
+                    "İnternal düzensizlik"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Aşağıdakilerden hangisi lokal anestezik alerjisinin belirtisidir?",
+                "options": [
+                    "Terleme",
+                    "Ürtiker",
+                    "Baş dönmesi",
+                    "Taşikardi"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Ortodontik tedavide diş hareketinin biyolojik temeli nedir?",
+                "options": [
+                    "Diş çürüğü",
+                    "Kemik remodeling",
+                    "Periodontal hastalık",
+                    "Travma"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Zirkonyum seramik restorasyonların en büyük avantajı nedir?",
+                "options": [
+                    "Düşük maliyet",
+                    "Kolay uygulama",
+                    "Yüksek translüsensi",
+                    "Biyouyumluluk"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Kök rezorpsiyonu en sık hangi travma tipinde görülür?",
+                "options": [
+                    "Ekstrüzyon",
+                    "İntrüzyon",
+                    "Konkusyon",
+                    "Subluksasyon"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Periodontal hastalığın sistemik etkisi en çok hangi hastalıkla ilişkilidir?",
+                "options": [
+                    "Kardiyovasküler hastalıklar",
+                    "Diyabet",
+                    "Hepsi",
+                    "Solunum hastalıkları"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Amalgam dolgu yapıştırıcısı olarak ne kullanılır?",
+                "options": [
+                    "Cavity varnish",
+                    "Bonding ajan",
+                    "Asit etch",
+                    "Primer"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Endodontide gutta perka hangi amaçla kullanılır?",
+                "options": [
+                    "Kavite astarı",
+                    "Kök kanal dolgusu",
+                    "Geçici dolgu",
+                    "Pulpa kaplaması"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Hangi görüntüleme yöntemi TME rahatsızlıklarının tanısında en değerlidir?",
+                "options": [
+                    "MRG",
+                    "Panoramik radyografi",
+                    "BT",
+                    "Sefalometrik radyografi"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Dens invaginatus en sık hangi dişte görülür?",
+                "options": [
+                    "Üst lateral kesici",
+                    "Alt kanin",
+                    "Üst premolar",
+                    "Üst santral kesici"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Oral mukozada en sık görülen premalign lezyon hangisidir?",
+                "options": [
+                    "Liken planus",
+                    "Kandida enfeksiyonu",
+                    "Eritroplaki",
+                    "Lökoplaki"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Hangi materyal hassasiyet tedavisinde kullanılır?",
+                "options": [
+                    "Hepsi",
+                    "Fluorür",
+                    "Kalsiyum hidroksit",
+                    "Potasyum nitrat"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Periodontal cep derinliği kaç mm'den fazla olursa cerrahi tedavi düşünülür?",
+                "options": [
+                    "4 mm",
+                    "8 mm",
+                    "6 mm",
+                    "3 mm"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Süt kesici dişlerin sürme yaşı yaklaşık olarak ne kadardır?",
+                "options": [
+                    "12-18 ay",
+                    "18-24 ay",
+                    "6-12 ay",
+                    "24-30 ay"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Hangi diş renklenmesi intrinsik renklenmedir?",
+                "options": [
+                    "Tetrasiklin renklenmesi",
+                    "Tütün lekesi",
+                    "Çay lekesi",
+                    "Kahve lekesi"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Dental travmada diş avülsiyonunda ideal replantasyon süresi ne kadardır?",
+                "options": [
+                    "6 saat",
+                    "30 dakika",
+                    "2 saat",
+                    "1 saat"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Seramik laminat veneer için minimum diş kesimi ne olmalıdır?",
+                "options": [
+                    "1 mm",
+                    "0.5 mm",
+                    "2 mm",
+                    "1.5 mm"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Hangi lokal anestezik etki süresi en kısadır?",
+                "options": [
+                    "Artikain",
+                    "Bupivakain",
+                    "Lidokain",
+                    "Mepivakain"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Periodontal hastalıkta diş hareketliliği kaç dereceden itibaren patolojik sayılır?",
+                "options": [
+                    "1. derece",
+                    "2. derece",
+                    "Fizyolojik hareket",
+                    "3. derece"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Mandibular fraktürlerin en sık görüldüğü bölge hangisidir?",
+                "options": [
+                    "Ramus",
+                    "Angulus",
+                    "Kondil",
+                    "Simfiz"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Total protezde kaşık seçimi neye göre yapılır?",
+                "options": [
+                    "Hasta yaşına",
+                    "Diş rengine",
+                    "Hasta cinsiyetine",
+                    "Çene boyutuna"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Aşağıdakilerden hangisi alveolar osteitis risk faktörüdür?",
+                "options": [
+                    "Kadın cinsiyet",
+                    "Oral hijyen bozukluğu",
+                    "Hepsi",
+                    "Sigara kullanımı"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Endodontik tedavide EDTA ne amaçla kullanılır?",
+                "options": [
+                    "Anestezi",
+                    "Smear tabakasını kaldırmak",
+                    "Dezenfeksiyon",
+                    "Lubrikasyon"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Hangi oklüzyon tipi bruksizm ile ilişkilidir?",
+                "options": [
+                    "Normal okluzyon",
+                    "Derin kapanış",
+                    "Açık kapanış",
+                    "Travmatik okluzyon"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Dişeti büyümesine neden olan ilaç hangisidir?",
+                "options": [
+                    "Fenitoin",
+                    "Parasetamol",
+                    "Aspirin",
+                    "İbuprofen"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Post-kor restorasyonlarda post boyunun ideal uzunluğu ne olmalıdır?",
+                "options": [
+                    "Kök uzunluğunun 2/3'ü",
+                    "Tüm kök uzunluğu",
+                    "Kök uzunluğunun 1/3'ü",
+                    "Kök uzunluğunun 1/2'si"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Primer herpetik gingivostomatitis en sık hangi yaş grubunda görülür?",
+                "options": [
+                    "6-10 yaş",
+                    "1-5 yaş",
+                    "11-15 yaş",
+                    "Yetişkinler"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Kompozit rezinlerin büzülme yönü nasıldır?",
+                "options": [
+                    "Mine duvarına doğru",
+                    "Dentin duvarına doğru",
+                    "Işık kaynağına doğru",
+                    "Kavite tabanına doğru"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Oral kanser tanısında altın standart yöntem hangisidir?",
+                "options": [
+                    "Biyopsi",
+                    "Klinik muayene",
+                    "BT",
+                    "MRG"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Hangi durum immediat implant yerleştirilmesi için kontrendikedir?",
+                "options": [
+                    "Kontrolsüz diyabet",
+                    "Hepsi",
+                    "Yetersiz kemik",
+                    "Akut enfeksiyon"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Ortodontik tedavide space maintainer ne amaçla kullanılır?",
+                "options": [
+                    "Çapraz kapanışı düzeltmek",
+                    "Diş çapraşıklığını düzeltmek",
+                    "Erken süt dişi kaybında yer korumak",
+                    "Diastema kapatmak"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Pulpa vitalitesi değerlendirmesinde en güvenilir test hangisidir?",
+                "options": [
+                    "Elektrikli pulpa testi",
+                    "Termal test",
+                    "Palpasyon testi",
+                    "Perküsyon testi"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Hangi madde gümüşlü amalgamın bileşiminde bulunmaz?",
+                "options": [
+                    "Kalay",
+                    "Gümüş",
+                    "Bakır",
+                    "Altın"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Periodontal hastalıkta yatay kemik kaybı ile ilişkili durum hangisidir?",
+                "options": [
+                    "Kronik periodontitis",
+                    "Nekrotizan periodontitis",
+                    "Agresif periodontitis",
+                    "Periodontal apse"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Aşağıdakilerden hangisi bifosfonat kullanan hastalarda diş çekimi komplikasyonu olabilir?",
+                "options": [
+                    "Sinir hasarı",
+                    "Çene osteonekrozu",
+                    "Enfeksiyon",
+                    "Kanama"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Dental porselenin pişirme sıcaklığı yaklaşık kaç derecedir?",
+                "options": [
+                    "300-500°C",
+                    "500-700°C",
+                    "900-1100°C",
+                    "1200-1400°C"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Aşağıdakilerden hangisi pulpa canlılığının klinik göstergesidir?",
+                "options": [
+                    "Soğuğa hassasiyet",
+                    "Dişeti kanaması",
+                    "Perküsyona hassasiyet",
+                    "Spontan ağrı"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Le Fort I kırığı çene kemiklerinin hangi bölgesini içerir?",
+                "options": [
+                    "Zigomatik düzey",
+                    "Mandibular düzey",
+                    "Kraniofasiyal düzey",
+                    "Maksiller horizontal düzey"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Endodontik tedavide hangi eğe sistemi döner alet olarak kullanılır?",
+                "options": [
+                    "ProTaper",
+                    "Reamer",
+                    "K-file",
+                    "H-file"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Ortodontik tedavide maksiller ekspansiyonda hangi apareyi kullanılır?",
+                "options": [
+                    "Lip bumper",
+                    "Hyrax apareyi",
+                    "Herbst apareyi",
+                    "Headgear"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Aşağıdakilerden hangisi tam seramik restorasyonların avantajıdır?",
+                "options": [
+                    "Düşük maliyet",
+                    "Kolay tamir",
+                    "Yüksek kırılma direnci",
+                    "Üstün estetik"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Periodontal hastalıkta supurasyon hangi durumu gösterir?",
+                "options": [
+                    "İyileşme",
+                    "Kronik faz",
+                    "Remisyon",
+                    "Aktif enfeksiyon"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Çürüğün remineralizasyonu için tükürüğün hangi özelliği önemlidir?",
+                "options": [
+                    "Tamponlama kapasitesi",
+                    "pH değeri",
+                    "Viskozitesi",
+                    "Miktarı"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Dental travmada lüksasyon yaralanmasının tedavisi nedir?",
+                "options": [
+                    "Repozisyon ve splintleme",
+                    "Kök kanal tedavisi",
+                    "Antibiyotik",
+                    "Diş çekimi"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Hangi durum apikal cerrahinin endikasyonudur?",
+                "options": [
+                    "Kök ucunda kist varlığı",
+                    "Geçici restorasyon",
+                    "Vital diş",
+                    "Primer tedavi yapılmamış diş"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "Metal destekli porselen kuronlarda minimum metal kalınlığı ne olmalıdır?",
+                "options": [
+                    "1-1.5 mm",
+                    "2-2.5 mm",
+                    "0.3-0.5 mm",
+                    "0.1-0.2 mm"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Diş minesi hangi hücreler tarafından üretilir?",
+                "options": [
+                    "Sementoblastlar",
+                    "Fibroblastlar",
+                    "Odontoblastlar",
+                    "Ameloblastlar"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Dentin hipersensitivitesinin hidrodinamik teorisine göre ağrı nasıl oluşur?",
+                "options": [
+                    "Bakteriyel toksinlerle",
+                    "Sinir liflerinin direkt uyarılması ile",
+                    "Dentinal tübüllerdeki sıvı hareketi ile",
+                    "Kimyasal maddelerin etkisi ile"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Hangisi rezorbe olan kök kanal dolgu materyalidir?",
+                "options": [
+                    "Gutta perka",
+                    "Epoksi rezin",
+                    "Çinko oksit öjenol",
+                    "MTA"
+                ],
+                "correct_answer": 2
+            },
+            {
+                "question": "Periodontitiste primer iltihabi mediatör hangisidir?",
+                "options": [
+                    "Serotonin",
+                    "Prostaglandin E2",
+                    "Dopamin",
+                    "Histamin"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Ortodontide Class III elastik hangi amaçla kullanılır?",
+                "options": [
+                    "Mandibulanın geriye alınması",
+                    "Üst dişlerin mezializasyonu ve alt dişlerin distalizasyonu",
+                    "Alt ve üst dişlerin ekstrüzyonu",
+                    "Maksillanın ilerletilmesi"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Dental aljinat ölçü maddesi hangi tip ölçü malzemesidir?",
+                "options": [
+                    "Elastomer",
+                    "Reversible hidrokolloid",
+                    "Termoplastik",
+                    "İrreversible hidrokolloid"
+                ],
+                "correct_answer": 3
+            },
+            {
+                "question": "Tükürük bezlerinin en sık görülen benign tümörü hangisidir?",
+                "options": [
+                    "Mukoepidermoid karsinom",
+                    "Pleomorfik adenom",
+                    "Adenoid kistik karsinom",
+                    "Warthin tümörü"
+                ],
+                "correct_answer": 1
+            },
+            {
+                "question": "Çocuklarda diş çürüğü risk değerlendirmesinde en önemli faktör hangisidir?",
+                "options": [
+                    "Geçmiş çürük deneyimi",
+                    "Diyet alışkanlıkları",
+                    "Florür kullanımı",
+                    "Sosyoekonomik durum"
+                ],
+                "correct_answer": 0
             }
         ]
     }
