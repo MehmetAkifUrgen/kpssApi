@@ -1533,424 +1533,336 @@
     "Tarih": {
       "İslamiyet Öncesi Türk Tarihi": [
         {
-          "soru": "Türk adı ilk kez hangi kaynakta geçmektedir?",
+          "soru": "Orta Asya Türk devletlerinde devlet yönetimiyle ilgili kavramlardan hangisinin açıklaması yanlış verilmiştir?",
           "secenekler": [
-            "Çin kaynakları",
-            "Bizans kaynakları",
-            "Arap kaynakları",
-            "Fars kaynakları"
+            "Yargu: Yüksek mahkeme",
+            "Tudun: Vergi memuru",
+            "Tamgacı: Yazışmalardan sorumlu görevli",
+            "Apa: Saray muhafızı"
           ],
-          "dogruCevap": "Çin kaynakları",
-          "aciklama": "Çin kaynaklarında geçmektedir."
+          "dogruCevap": "Apa: Saray muhafızı",
+          "aciklama": "Apa, sivil yönetici anlamına gelir. Saray muhafızı ise Börü'dür."
         },
         {
-          "soru": "Türklerin bilinen ilk topluluğu hangisidir?",
+          "soru": "İslamiyet öncesi Türk devletlerinde \"İkili Teşkilat\" anlayışının uygulanmasının temel sebebi nedir?",
           "secenekler": [
-            "İskitler (Sakalar)",
-            "Hunlar",
+            "Veraset sistemindeki belirsizlikleri gidermek",
+            "Devlet yönetimini kolaylaştırmak",
+            "Ordunun gücünü artırmak",
+            "Çin entrikalarını önlemek"
+          ],
+          "dogruCevap": "Devlet yönetimini kolaylaştırmak",
+          "aciklama": "Ülke sınırları genişlediği için doğu ve batı olarak ikiye ayrılarak yönetilmesi idari kolaylık sağlamayı amaçlar. Ancak bu durum merkezi otoriteyi zayıflatmış ve yıkılışı hızlandırmıştır."
+        },
+        {
+          "soru": "Türk tarihinde \"Avarlar\" ile ilgili aşağıdakilerden hangisi söylenemez?",
+          "secenekler": [
+            "Hem Asya'da hem Avrupa'da devlet kurmuşlardır.",
+            "İstanbul'u kuşatan ilk Türk devletidir.",
+            "Üzengiyi Avrupa'ya taşıyarak şövalyelik sistemini etkilemişlerdir.",
+            "Museviliği kabul eden ilk Türk topluluğudur."
+          ],
+          "dogruCevap": "Museviliği kabul eden ilk Türk topluluğudur.",
+          "aciklama": "Museviliği kabul eden ilk ve tek Türk devleti Hazarlardır."
+        },
+        {
+          "soru": "Aşağıdaki Türk topluluklarından hangisi kendi adına para bastıran (yarmak) ilk Türk devletidir?",
+          "secenekler": [
             "Göktürkler",
-            "Uygurlar"
+            "Türgişler",
+            "Uygurlar",
+            "Hazarlar"
           ],
-          "dogruCevap": "İskitler (Sakalar)",
-          "aciklama": "İskitler (Sakalar)."
+          "dogruCevap": "Türgişler",
+          "aciklama": "Kendi adına para (yarmak) bastıran ilk Türk hükümdarı Baga Tarkan'dır ve Türgişler devletidir."
         },
         {
-          "soru": "Bozkırın kuyumcuları olarak bilinen Türk topluluğu hangisidir?",
+          "soru": "Göktürk Kitabeleri'nde (Orhun Abideleri) bahsedilen sosyal devlet anlayışını yansıtan ifade aşağıdakilerden hangisidir?",
           "secenekler": [
-            "İskitler (Sakalar)",
-            "Hunlar",
-            "Göktürkler",
-            "Uygurlar"
+            "Aç milleti doyurdum, çıplak milleti giydirdim.",
+            "Üstte mavi gök, altta yağız yer kılındıkta.",
+            "Töre konuşulur, han dinler.",
+            "Tanrı güç verdiği için babam kağan oldu."
           ],
-          "dogruCevap": "İskitler (Sakalar)",
-          "aciklama": "İskitler (Sakalar)."
+          "dogruCevap": "Aç milleti doyurdum, çıplak milleti giydirdim.",
+          "aciklama": "Bu ifade, hükümdarın halkın refahını sağlama görevini, yani sosyal devlet anlayışını vurgular."
         },
         {
-          "soru": "Balbal (mezar taşı) geleneğini başlatan Türk topluluğu hangisidir?",
+          "soru": "Asya Hun Devleti'nin yıkılmasından sonra, Kavimler Göçü'nü başlatan Hun lideri kimdir?",
           "secenekler": [
-            "İskitler (Sakalar)",
-            "Hunlar",
-            "Göktürkler",
-            "Uygurlar"
+            "Attila",
+            "Balamir",
+            "Uldız",
+            "Rua"
           ],
-          "dogruCevap": "İskitler (Sakalar)",
-          "aciklama": "İskitler (Sakalar)."
+          "dogruCevap": "Balamir",
+          "aciklama": "Kavimler Göçü, Balamir önderliğindeki Hunların batıya hareketiyle başlamıştır."
         },
         {
-          "soru": "Türk tarihinde bilinen ilk kadın hükümdar kimdir?",
+          "soru": "İslamiyet öncesi Türklerde, ölen kişinin mezarına hayattayken öldürdüğü düşman sayısı kadar dikilen taşlara ne ad verilir?",
           "secenekler": [
-            "Tomris Hatun",
-            "Börü Hatun",
-            "Bilge Hatun",
-            "Po Beg Hatun"
+            "Kurgan",
+            "Balbal",
+            "Uçmağ",
+            "Yuğ"
           ],
-          "dogruCevap": "Tomris Hatun",
-          "aciklama": "Tomris Hatun."
+          "dogruCevap": "Balbal",
+          "aciklama": "Balbal, mezar taşıdır ve kişinin kahramanlığını simgeler. Aynı zamanda sanat eseri özelliği taşır."
         },
         {
-          "soru": "Alp Er Tunga ve Şu Destanı hangi Türk topluluğuna aittir?",
+          "soru": "\"Maniheizm\" dinini kabul ederek yerleşik hayata geçen ve Türk tarihinde mimari, sanat ve edebiyat alanında köklü değişiklikler yapan devlet hangisidir?",
           "secenekler": [
-            "İskitler (Sakalar)",
-            "Hunlar",
-            "Göktürkler",
-            "Uygurlar"
-          ],
-          "dogruCevap": "İskitler (Sakalar)",
-          "aciklama": "İskitler (Sakalar)."
-        },
-        {
-          "soru": "Orta Asya'da kurulan ilk Türk devleti hangisidir?",
-          "secenekler": [
-            "Asya Hun Devleti",
             "Göktürkler",
             "Uygurlar",
-            "Sakalar"
+            "Hazarlar",
+            "Kırgızlar"
           ],
-          "dogruCevap": "Asya Hun Devleti",
-          "aciklama": "Asya Hun Devleti (Büyük Hunlar)."
+          "dogruCevap": "Uygurlar",
+          "aciklama": "Bögü Kağan döneminde Maniheizm'i kabul eden Uygurlar, bu dinin etkisiyle yerleşik hayata geçmişlerdir."
         },
         {
-          "soru": "Asya Hun Devleti'nin en parlak dönemi hangi hükümdar dönemindedir?",
+          "soru": "I. Göktürk Devleti'nin en parlak dönemini yaşatan hükümdar kimdir?",
           "secenekler": [
-            "Mete Han",
-            "Teoman",
-            "Ki-ok",
-            "Çi-çi"
+            "Bumin Kağan",
+            "Mukan Kağan",
+            "Tapu Kağan",
+            "İşbara Kağan"
           ],
-          "dogruCevap": "Mete Han",
-          "aciklama": "Mete Han dönemi."
+          "dogruCevap": "Mukan Kağan",
+          "aciklama": "I. Göktürk Devleti'nin en güçlü ve parlak dönemi Mukan Kağan zamanındadır."
         },
         {
-          "soru": "İlk düzenli Türk kara ordusunu kim kurmuştur?",
+          "soru": "Türk adının anlamı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
           "secenekler": [
-            "Mete Han",
-            "Teoman",
-            "Attila",
-            "Bumin Kağan"
+            "Çin kaynaklarında: Miğfer",
+            "Kaşgarlı Mahmut: Olgunluk Çağı",
+            "Ziya Gökalp: Kanun ve Töre sahibi",
+            "Wamiery: Güçlü, kuvvetli"
           ],
-          "dogruCevap": "Mete Han",
-          "aciklama": "Mete Han."
+          "dogruCevap": "Wamiery: Güçlü, kuvvetli",
+          "aciklama": "Wamiery'e göre Türk adı \"Türeyen, çoğalan\" anlamına gelir. \"Güçlü, kuvvetli\" anlamı genellikle genel kabul gören bir anlamdır."
         },
         {
-          "soru": "Türk tarihinde ilk kez Çin'i vergiye bağlayan hükümdar kimdir?",
+          "soru": "İslamiyet öncesi Türk devletlerinde hükümdarın yetkilerini kısıtlayan en önemli unsur nedir?",
           "secenekler": [
-            "Mete Han",
-            "Teoman",
-            "Attila",
-            "İstemi Yabgu"
+            "Toy (Kurultay)",
+            "Hatun",
+            "Şamanlar",
+            "Töre"
           ],
-          "dogruCevap": "Mete Han",
-          "aciklama": "Mete Han."
+          "dogruCevap": "Töre",
+          "aciklama": "Töre (yazısız hukuk kuralları) hükümdar dahil herkesi bağlar ve keyfi yönetimi engeller."
         },
         {
-          "soru": "İlk Türk-Çin antlaşması hangisidir?",
+          "soru": "Peçenekler ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
           "secenekler": [
-            "Kuzey Şansi Antlaşması",
-            "Ho-han Antlaşması",
-            "An-shi Antlaşması",
-            "Şuan-tung Antlaşması"
+            "Devlet kurmuşlardır.",
+            "Malazgirt Savaşı'nda taraf değiştirmişlerdir.",
+            "İstanbul'u kuşatmışlardır (tek başlarına).",
+            "Kendi alfabelerini oluşturmuşlardır."
           ],
-          "dogruCevap": "Kuzey Şansi Antlaşması",
-          "aciklama": "Kuzey Şansi Antlaşması."
+          "dogruCevap": "Malazgirt Savaşı'nda taraf değiştirmişlerdir.",
+          "aciklama": "Peçenekler devlet kuramamış, boylar halinde yaşamışlardır. Malazgirt Savaşı'nda Bizans ordusundan Selçuklu tarafına geçerek savaşın seyrini değiştirmişlerdir."
         },
         {
-          "soru": "Türk adının geçtiği Türklere ait ilk belge nedir?",
+          "soru": "Aşağıdakilerden hangisi İslamiyet öncesi Türklerde kullanılan hükümdarlık sembollerinden biri değildir?",
           "secenekler": [
-            "Orhun Kitabeleri",
-            "Çin yıllıkları",
-            "Kutadgu Bilig",
-            "Divan-ı Lügati't Türk"
+            "Otağ",
+            "Örgün",
+            "Tuğ",
+            "Hutbe"
           ],
-          "dogruCevap": "Orhun Kitabeleri",
-          "aciklama": "Orhun Kitabeleri."
+          "dogruCevap": "Hutbe",
+          "aciklama": "Hutbe okutmak İslamiyet ile birlikte gelen bir hükümdarlık alametidir."
         },
         {
-          "soru": "Mete Han'ın tahta çıkışı olan M.Ö. 209 tarihi günümüzde hangi kurumun kuruluş yılı kabul edilir?",
+          "soru": "Türk tarihinde \"Orhun Abideleri\"ni okuyan ilk bilim insanı kimdir?",
           "secenekler": [
-            "Kara Kuvvetleri Komutanlığı",
-            "Türk Polis Teşkilatı",
-            "Türk Jandarma Teşkilatı",
-            "Türk İstihbarat Teşkilatı"
+            "Wilhelm Thomsen",
+            "W. Radloff",
+            "Tonyukuk",
+            "Yolluğ Tigin"
           ],
-          "dogruCevap": "Kara Kuvvetleri Komutanlığı",
-          "aciklama": "Kara Kuvvetleri Komutanlığı."
+          "dogruCevap": "Wilhelm Thomsen",
+          "aciklama": "Danimarkalı dilbilimci Wilhelm Thomsen, 1893 yılında Orhun alfabesini çözmüştür."
         },
         {
-          "soru": "Kavimler Göçü sonucunda hangi devlet ikiye ayrılmıştır?",
+          "soru": "Aşağıdakilerden hangisi \"Kavimler Göçü\"nün sonuçlarından biri değildir?",
           "secenekler": [
-            "Roma İmparatorluğu",
-            "Pers İmparatorluğu",
-            "Çin İmparatorluğu",
-            "Bizans İmparatorluğu"
+            "Roma İmparatorluğu ikiye ayrıldı.",
+            "Avrupa'nın etnik yapısı değişti.",
+            "Feodalite rejimi ortaya çıktı.",
+            "Türkler Anadolu'ya kesin olarak yerleşti."
           ],
-          "dogruCevap": "Roma İmparatorluğu",
-          "aciklama": "Roma İmparatorluğu (Doğu Roma ve Batı Roma)."
+          "dogruCevap": "Türkler Anadolu'ya kesin olarak yerleşti.",
+          "aciklama": "Türklerin Anadolu'ya kesin yerleşmesi 1071 Malazgirt ve 1176 Miryokefalon savaşları sonrasındadır."
         }
       ],
       "İslamiyet Öncesi Türk Tarihi 2": [
         {
-          "soru": "Avrupa'da kurulan ilk Türk devleti hangisidir?",
+          "soru": "İslamiyet öncesi Türk devletlerinde \"Kurultay\" üyelerine ne ad verilir?",
           "secenekler": [
-            "Avrupa Hun Devleti",
-            "Avar Kağanlığı",
-            "Hazarlar",
-            "Peçenekler"
+            "Toygun",
+            "Buyruk",
+            "Bitikçi",
+            "Tarkan"
           ],
-          "dogruCevap": "Avrupa Hun Devleti",
-          "aciklama": "Avrupa Hun Devleti."
+          "dogruCevap": "Toygun",
+          "aciklama": "Kurultaya katılma hakkına sahip olanlara (Hakan, Hatun, Boy Beyleri vb.) Toygun denir."
         },
         {
-          "soru": "Avrupa Hun Devleti'nin en parlak dönemi hangi hükümdar dönemindedir?",
+          "soru": "Türk tarihinde \"Fresk\" sanatının ilk örneklerine hangi devlette rastlanır?",
           "secenekler": [
-            "Attila",
-            "Uldız",
-            "Rua",
-            "Bleda"
-          ],
-          "dogruCevap": "Attila",
-          "aciklama": "Attila dönemi."
-        },
-        {
-          "soru": "Attila'nın Batı Roma üzerine düzenlediği seferlerin isimleri nelerdir?",
-          "secenekler": [
-            "Galya ve İtalya Seferleri",
-            "Balkan ve Trakya Seferleri",
-            "Germanya ve Galya Seferleri",
-            "Roma ve Bizans Seferleri"
-          ],
-          "dogruCevap": "Galya ve İtalya Seferleri",
-          "aciklama": "Galya Seferi ve İtalya Seferi."
-        },
-        {
-          "soru": "Attila, hangi destanda 'Etzel' adıyla geçmektedir?",
-          "secenekler": [
-            "Nibelungen Destanı",
-            "Oğuz Kağan Destanı",
-            "Ergenekon Destanı",
-            "Manas Destanı"
-          ],
-          "dogruCevap": "Nibelungen Destanı",
-          "aciklama": "Nibelungen Destanı."
-        },
-        {
-          "soru": "Anadolu'ya ilk sefer düzenleyen Türk hükümdarı kimdir?",
-          "secenekler": [
-            "Uldız",
-            "Attila",
-            "Rua",
-            "Bleda"
-          ],
-          "dogruCevap": "Uldız",
-          "aciklama": "Uldız."
-        },
-        {
-          "soru": "'Türk' adını taşıyan ilk Türk devleti hangisidir?",
-          "secenekler": [
-            "I. Köktürk Devleti",
-            "Uygurlar",
-            "Hunlar",
-            "Avarlar"
-          ],
-          "dogruCevap": "I. Köktürk Devleti",
-          "aciklama": "I. Köktürk Devleti."
-        },
-        {
-          "soru": "I. Köktürk Devleti'nin kurucusu kimdir?",
-          "secenekler": [
-            "Bumin Kağan",
-            "İstemi Yabgu",
-            "Bilge Kağan",
-            "Kültigin"
-          ],
-          "dogruCevap": "Bumin Kağan",
-          "aciklama": "Bumin Kağan."
-        },
-        {
-          "soru": "Orhun Abideleri hangi Türk devletine aittir?",
-          "secenekler": [
-            "II. Köktürk (Kutluk) Devleti",
-            "I. Köktürk Devleti",
-            "Uygurlar",
-            "Hunlar"
-          ],
-          "dogruCevap": "II. Köktürk (Kutluk) Devleti",
-          "aciklama": "II. Köktürk (Kutluk) Devleti."
-        },
-        {
-          "soru": "Vezir Tonyukuk'a hangi unvanlar verilmiştir?",
-          "secenekler": [
-            "İlk yazar, ilk tarihçi, ilk siyasetçi, ilk vezir",
-            "Bilge vezir, başkomutan",
-            "Yabgu, şad",
-            "Erkin, tudun"
-          ],
-          "dogruCevap": "İlk yazar, ilk tarihçi, ilk siyasetçi, ilk vezir",
-          "aciklama": "İlk yazar, ilk tarihçi, ilk siyasetçi, ilk vezir."
-        },
-        {
-          "soru": "Uygurlar hangi dini benimseyerek savaşçılık özelliklerini kaybetmiştir?",
-          "secenekler": [
-            "Manihaizm",
-            "Budizm",
-            "Şamanizm",
-            "Musevilik"
-          ],
-          "dogruCevap": "Manihaizm",
-          "aciklama": "Manihaizm."
-        },
-        {
-          "soru": "İlk Türk tiyatrosu hangi Türk devleti zamanında ortaya çıkmıştır?",
-          "secenekler": [
-            "Uygurlar",
+            "Asya Hunları",
             "Göktürkler",
-            "Hunlar",
+            "Uygurlar",
             "Hazarlar"
           ],
           "dogruCevap": "Uygurlar",
-          "aciklama": "Uygurlar."
+          "aciklama": "Yerleşik hayata geçen ilk Türk devleti olan Uygurlar, tapınak duvarlarını süslemek için fresk (duvar resmi) sanatını kullanmışlardır."
         },
         {
-          "soru": "Uygurların ilk yazılı edebi eseri hangisidir?",
+          "soru": "\"Manas Destanı\" hangi Türk topluluğuna aittir?",
           "secenekler": [
-            "Irk Bitig",
-            "Kutadgu Bilig",
-            "Divan-ı Lügati't Türk",
-            "Atabetü'l Hakayık"
+            "Kırgızlar",
+            "Kazaklar",
+            "Oğuzlar",
+            "Karluklar"
           ],
-          "dogruCevap": "Irk Bitig",
-          "aciklama": "Irk Bitig."
+          "dogruCevap": "Kırgızlar",
+          "aciklama": "Dünyanın en uzun destanı olan Manas Destanı, Kırgızlara aittir ve hala yazılmaya devam etmektedir (canlı destan)."
         },
         {
-          "soru": "Moğolların Türkleşmesinde etkili olan Türk devleti hangisidir?",
+          "soru": "Asya Hun Devleti'nde \"Islıklı Ok\"u icat eden ve orduyu onlu sisteme göre düzenleyen hükümdar kimdir?",
           "secenekler": [
-            "Uygurlar",
-            "Göktürkler",
-            "Hunlar",
-            "Kırgızlar"
-          ],
-          "dogruCevap": "Uygurlar",
-          "aciklama": "Uygurlar."
-        },
-        {
-          "soru": "Manihaizm'in Uygurlara kazandırdığı en önemli yenilikler nelerdir?",
-          "secenekler": [
-            "Yerleşik hayat, tarım, sanat ve matbaa",
-            "Göçebe hayat ve hayvancılık",
-            "Savaşçılık ve askerlik",
-            "Ticaret ve zanaat"
-          ],
-          "dogruCevap": "Yerleşik hayat, tarım, sanat ve matbaa",
-          "aciklama": "Yerleşik hayat, tarım, sanat ve matbaa."
-        },
-        {
-          "soru": "Uygurların kurduğu önemli şehir merkezlerinden biri nedir?",
-          "secenekler": [
-            "Karabalasagun",
-            "Ötüken",
-            "Karakurum",
-            "Balasagun"
-          ],
-          "dogruCevap": "Karabalasagun",
-          "aciklama": "Karabalasagun."
-        },
-        {
-          "soru": "Türklerde hükümdarlık yetkisi hangi üç kavram ile açıklanır?",
-          "secenekler": [
-            "Kut, Ülüg, Küç",
-            "Töre, Yasa, Kurultay",
-            "İl, Bodun, Budun",
-            "Toy, Şölen, Yuğ"
-          ],
-          "dogruCevap": "Kut, Ülüg, Küç",
-          "aciklama": "Kut (siyasi yetki), Ülüg (ekonomik güç), Küç (askeri güç)."
-        },
-        {
-          "soru": "Türklerde devletin temel yapısını oluşturan sosyal yapının en küçük birimi nedir?",
-          "secenekler": [
-            "Oguş (Aile)",
-            "Boy",
-            "Bodun",
-            "Budun"
-          ],
-          "dogruCevap": "Oguş (Aile)",
-          "aciklama": "Oguş (Aile)."
-        },
-        {
-          "soru": "İslamiyet öncesi Türklerde yazılı olmayan hukuk kurallarına ne ad verilir?",
-          "secenekler": [
-            "Töre",
-            "Yasa",
-            "Kanun",
-            "Tüzük"
-          ],
-          "dogruCevap": "Töre",
-          "aciklama": "Töre."
-        },
-        {
-          "soru": "Türk devletlerinde ikili yönetim sisteminin amacı nedir?",
-          "secenekler": [
-            "Devleti daha kolay yönetmek",
-            "Vergi toplamak",
-            "Orduyu güçlendirmek",
-            "Ticareti geliştirmek"
-          ],
-          "dogruCevap": "Devleti daha kolay yönetmek",
-          "aciklama": "Devleti daha kolay yönetmek."
-        },
-        {
-          "soru": "Türklerde din adamına verilen isimlerden üç tanesi nedir?",
-          "secenekler": [
-            "Kam, Şaman, Baksı",
-            "Bey, Han, Kağan",
-            "Tarkan, Şad, Yabgu",
-            "Tudun, İnal, Erkin"
-          ],
-          "dogruCevap": "Kam, Şaman, Baksı",
-          "aciklama": "Kam, Şaman, Baksı."
-        },
-        {
-          "soru": "Türklerde cenaze törenine verilen isim nedir?",
-          "secenekler": [
-            "Yuğ",
-            "Şölen",
-            "Toy",
-            "Sığır"
-          ],
-          "dogruCevap": "Yuğ",
-          "aciklama": "Yuğ."
-        },
-        {
-          "soru": "Ordu-millet anlayışı nedir?",
-          "secenekler": [
-            "Her Türk'ün asker kabul edilmesi",
-            "Ordunun devletten ayrı olması",
-            "Sadece erkeklerin asker olması",
-            "Profesyonel ordu kurulması"
-          ],
-          "dogruCevap": "Her Türk'ün asker kabul edilmesi",
-          "aciklama": "Her Türk'ün asker kabul edilmesi."
-        },
-        {
-          "soru": "Onluk sistem ilk olarak hangi hükümdar tarafından oluşturulmuştur?",
-          "secenekler": [
+            "Teoman",
             "Mete Han",
-            "Attila",
-            "Bumin Kağan",
-            "Bilge Kağan"
+            "Ki-Ok",
+            "Çi-Çi"
           ],
           "dogruCevap": "Mete Han",
-          "aciklama": "Mete Han."
+          "aciklama": "Mete Han, M.Ö. 209'da tahta geçmiş, onlu sistemi kurmuş ve ıslıklı oku icat etmiştir."
         },
         {
-          "soru": "Türk tarihinin ve edebiyatının ilk yazılı kaynakları nelerdir?",
+          "soru": "Aşağıdaki Türk devletlerinden hangisi \"Bizans\" ile siyasi ilişki kuran ilk Türk devletidir?",
           "secenekler": [
-            "Orhun Abideleri",
-            "Divan-ı Lügati't Türk",
-            "Kutadgu Bilig",
-            "Irk Bitig"
+            "Asya Hunları",
+            "Avrupa Hunları",
+            "Göktürkler",
+            "Avarlar"
           ],
-          "dogruCevap": "Orhun Abideleri",
-          "aciklama": "Orhun Abideleri."
+          "dogruCevap": "Avrupa Hunları",
+          "aciklama": "Avrupa Hun Devleti, Bizans (Doğu Roma) ile siyasi ilişkiler (Margus ve Anatolius antlaşmaları) kurmuştur."
+        },
+        {
+          "soru": "İslamiyet öncesi Türklerde ölen kişinin ardından yapılan cenaze törenine ne ad verilir?",
+          "secenekler": [
+            "Yuğ",
+            "Kurgan",
+            "Şölen",
+            "Toy"
+          ],
+          "dogruCevap": "Yuğ",
+          "aciklama": "Yuğ, cenaze törenidir. Bu törenlerde \"sagu\" denilen ağıtlar yakılır."
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinin kısa sürede yıkılmasının nedenlerinden biri değildir?",
+          "secenekler": [
+            "Veraset sistemi (Ülke hanedanın ortak malıdır)",
+            "Boylar arası mücadeleler",
+            "Çin entrikaları",
+            "Güçlü bir merkezi orduya sahip olmaları"
+          ],
+          "dogruCevap": "Güçlü bir merkezi orduya sahip olmaları",
+          "aciklama": "Güçlü ordu yıkılış nedeni değil, devleti ayakta tutan unsurdur."
+        },
+        {
+          "soru": "\"Barış zamanında askerlerin, savaş zamanında sivil halkın geçimini sağlamakla yükümlü olduğu, ücretli askerliğin görüldüğü Türk devleti\" hangisidir?",
+          "secenekler": [
+            "Hazarlar",
+            "Bulgarlar",
+            "Peçenekler",
+            "Oğuzlar"
+          ],
+          "dogruCevap": "Hazarlar",
+          "aciklama": "Hazarlar, ticaretle zenginleşmiş ve ordularında ücretli asker kullanan ilk ve tek Türk devletidir."
+        },
+        {
+          "soru": "Türk kültüründe \"Nevruz\" (Bahar Bayramı) geleneği ilk olarak hangi Türk devletiyle özdeşleştirilir?",
+          "secenekler": [
+            "Hunlar",
+            "Göktürkler (Ergenekon'dan çıkış)",
+            "Uygurlar",
+            "Kırgızlar"
+          ],
+          "dogruCevap": "Göktürkler (Ergenekon'dan çıkış)",
+          "aciklama": "Türklerin demir dağları eritip Ergenekon'dan çıktığı gün (21 Mart) Nevruz olarak kutlanır."
+        },
+        {
+          "soru": "Aşağıdaki kavram eşleştirmelerinden hangisi yanlıştır?",
+          "secenekler": [
+            "Yabgu: Batı kanadı yöneticisi",
+            "Tigin: Hükümdar oğlu",
+            "Şad: Hanedan üyesi vali",
+            "Ataman: Din adamı"
+          ],
+          "dogruCevap": "Ataman: Din adamı",
+          "aciklama": "Ataman (İnal/İnanç), Tiginlerin eğitmenidir. Din adamına \"Kam\" veya \"Baksı\" denir."
+        },
+        {
+          "soru": "\"Kut\" inancına göre hükümdara yönetme yetkisi Gök Tanrı tarafından verilirdi. Aşağıdakilerden hangisi \"Kut\"un kan yoluyla geçtiğinin bir kanıtıdır?",
+          "secenekler": [
+            "Hükümdarın kurultay tarafından seçilmesi",
+            "Ülkenin hanedan üyelerinin ortak malı sayılması",
+            "Hükümdarın töreye uymak zorunda olması",
+            "Hatunun da yönetimde söz sahibi olması"
+          ],
+          "dogruCevap": "Ülkenin hanedan üyelerinin ortak malı sayılması",
+          "aciklama": "Kut'un kan yoluyla tüm hanedan üyelerine geçtiğine inanıldığı için, tüm erkek üyeler tahtta hak iddia edebilir."
+        },
+        {
+          "soru": "II. Göktürk (Kutluk) Devleti'nin kurucusu olan ve \"İlteriş\" (Derleyen, toplayan) unvanını alan hükümdar kimdir?",
+          "secenekler": [
+            "Kutluk Kağan",
+            "Kapgan Kağan",
+            "Bilge Kağan",
+            "Bumin Kağan"
+          ],
+          "dogruCevap": "Kutluk Kağan",
+          "aciklama": "Çin esaretine son vererek devleti yeniden kurduğu için Kutluk Kağan'a \"İlteriş\" unvanı verilmiştir."
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türklerin kullandığı alfabelerden biri değildir?",
+          "secenekler": [
+            "Göktürk",
+            "Uygur",
+            "Sogd",
+            "Fenike"
+          ],
+          "dogruCevap": "Fenike",
+          "aciklama": "Türkler tarih boyunca Göktürk, Uygur, Sogd, Arap, Kiril ve Latin alfabelerini kullanmışlardır."
+        },
+        {
+          "soru": "İlk Türk devletlerinde devlet işlerinin görüşüldüğü meclis olan Kurultay'ın özellikleri arasında hangisi yer almaz?",
+          "secenekler": [
+            "Hakanın başkanlığında toplanır.",
+            "Danışma meclisi niteliği taşır.",
+            "Son söz her zaman kurultaya aittir.",
+            "Hatun da katılabilir."
+          ],
+          "dogruCevap": "Son söz her zaman kurultaya aittir.",
+          "aciklama": "Kurultay genellikle danışma meclisidir, son söz Hakan'a aittir."
+        },
+        {
+          "soru": "Rusların \"İgor\" destanına konu olan ve Karadeniz'in kuzeyinde yaşayan Türk topluluğu hangisidir?",
+          "secenekler": [
+            "Kumanlar (Kıpçaklar)",
+            "Peçenekler",
+            "Uzlar",
+            "Hazarlar"
+          ],
+          "dogruCevap": "Kumanlar (Kıpçaklar)",
+          "aciklama": "Kıpçakların Ruslarla yaptıkları mücadeleler İgor Destanı'na, Oğuzlarla yaptıkları mücadeleler Dede Korkut Hikayeleri'ne konu olmuştur."
         }
       ],
       "İlk Türk-İslam Devletleri": [
