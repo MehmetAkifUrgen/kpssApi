@@ -9134,1287 +9134,2352 @@
             }
         ],
         "Ezel": [
-  {
-    "question": "Ömer'in hapishanedeki akıl hocası kimdir?",
-    "options": ["Kenan Birkan", "Sekiz", "Mümtaz Amca", "Ramiz Karaeski"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Eyşan'ın hasta kardeşi kimdir?",
-    "options": ["Şebnem", "Azad", "Bade", "Bahar"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "'Kerpeten' lakaplı karakter kimdir?",
-    "options": ["Cengiz", "Tefo", "Kamil", "Ali"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel Bayraktar'ın gerçek adı nedir?",
-    "options": ["Ali Kırgız", "Cengiz Atay", "Ramiz Karaeski", "Ömer Uçar"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın en büyük düşmanı kimdir?",
-    "options": ["Selma Hünel", "Kaya", "Serdar", "Kenan Birkan"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Cengiz'in oğlu Can aslında kimin oğludur?",
-    "options": ["Ali", "Kenan", "Tefo", "Ömer"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel dizisi hangi klasik romandan esinlenilmiştir?",
-    "options": ["Sefiller", "Suç ve Ceza", "Üç Silahşörler", "Monte Kristo Kontu"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın gençliğini hangi oyuncu canlandırmıştır?",
-    "options": ["Kenan İmirzalıoğlu", "Rıza Kocaoğlu", "Kıvanç Tatlıtuğ", "Ufuk Bayraktar"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın meşhur sözü: 'Mesele ölmek değil yeğen...' nasıl devam eder?",
-    "options": ["Mesele yaşamaktır.", "Mesele iz bırakmaktır.", "Mesele kazanmaktır.", "Mesele dost bildiğin en güvendiğin adamın eliyle ölmekmiş."],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in yardımcısı Şebnem'i canlandıran oyuncu kimdir?",
-    "options": ["Cansu Dere", "Burçin Terzioğlu", "Sedef Avcı", "Bade İşçil"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın kızı Azad'ı kim canlandırmıştır?",
-    "options": ["Bade İşçil", "Sedef Avcı", "Berrak Tüzünataç", "Burçin Terzioğlu"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan'ın acımasız sağ kolu, 'bıçak uzmanı' karakter kimdir?",
-    "options": ["Sekiz", "Kaya", "Yusuf Eğir", "Temmuz"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın en sevdiği ve sık sık anlattığı şair kimdir?",
-    "options": ["Nazım Hikmet", "Edip Cansever", "Cemal Süreya", "Ömer Hayyam"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan'ı canlandıran usta oyuncu kimdir?",
-    "options": ["Çetin Tekindor", "Şener Şen", "Tuncel Kurtiz", "Haluk Bilginer"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın torunu ve tek varisi kimdir?",
-    "options": ["Tefo", "Ali", "Selma", "Sekiz"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Eyşan, Ömer'e ihanet etmeyi neden kabul etmiştir?",
-    "options": ["Cengiz'i sevdiği için", "Zengin olmak için", "Babasından korktuğu için", "Kardeşi Bahar'ın tedavisi için"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan ve Ramiz Karaeski'nin gençlikte aşık olduğu kadın kimdir?",
-    "options": ["Müjgan", "Azad", "Handan", "Selma Hünel"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Tefo'nun (Tevfik Zaim) aşık olduğu, Ali'nin de eski sevgilisi olan karakter kimdir?",
-    "options": ["Bahar", "Azad", "Bade", "Şebnem"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Dizinin final sahnesinde kapıyı açan kişi hakkında en yaygın teori nedir?",
-    "options": ["Cengiz'in hayaleti", "Bade'nin geldiği", "Ali'nin geldiği", "Ezel'in ölmediği ve kapıyı açtığı"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın ölümünden sonra Ezel'e bıraktığı yüzük neyi simgeler?",
-    "options": ["Selma'ya olan aşkını", "İntikam yemini", "Dayı'nın mirasını", "İstanbul'un yeraltı krallığını"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın, Kenan Birkan'ın düğününü basıp Selma'yı kaçırdığı sahne hangi şehirde geçmiştir?",
-    "options": ["İzmir", "Bursa", "Ankara", "İstanbul"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan'ın, Ramiz Dayı'yı öldürmek için tuttuğu, 'bıçak kullanma ustası' olan kiralık katil kimdir?",
-    "options": ["Sekiz", "Yusuf Eğir", "Kaya", "Temmuz"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in gerçek kimliğini (Ömer) ilk öğrenen kişi (ailesi dışında) kimdir?",
-    "options": ["Ali", "Cengiz", "Şebnem", "Bahar"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Karaeski'nin gençliğinde, İstanbul'a ilk geldiğinde yanında olan ve sonra ona ihanet eden dostu kimdir?",
-    "options": ["Jilet Ahmet", "Gassal", "Selim", "Kenan Birkan"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Dizide, Ramiz Dayı meşhur 'Herkes öldürür sevdiğini' şiirini hangi olaydan sonra okumuştur?",
-    "options": ["Kamil'in ölümü", "Ömer'in hapse girişinden sonra", "Kendi ölümünden önce", "Eyşan'ın Ezel'i hapishanede ziyaretinden sonra"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Eyşan'ın babası Serdar Tezcan, dizinin başlarında hangi ülkede dolandırıcılık yapmaktadır?",
-    "options": ["Almanya", "İngiltere", "Rusya", "Kıbrıs"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ali Kırgız (Kerpeten Ali), Ezel'in Ömer olduğunu öğrendikten sonra ona yardım etmek için hangi fedakarlığı yapmıştır?",
-    "options": ["Cengiz'i öldürmüştür", "Böbreğini vermiştir", "Tüm varlığını bağışlamıştır", "Hapse girmiştir"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Tefo (Tevfik Zaim), Ezel'in ekibine katılmadan önce kimin için çalışmıştır?",
-    "options": ["Cengiz Atay", "Kenan Birkan", "Ramiz Karaeski", "Ali Kırgız"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan'ın, Ramiz Dayı'ya karşı kullandığı en büyük kozu olan kızı Azad'ın annesi kimdir?",
-    "options": ["Müjgan", "Zeynep", "Handan", "Selma Hünel"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Dizinin finalinde, Cengiz Atay nasıl ölmüştür?",
-    "options": ["Ramiz Dayı tarafından vurularak", "Kendi intihar ederek", "Trafik kazasında", "Ali ve Ezel tarafından uçurumdan atılarak"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "'Sadakat', kimin için 'olmayan bir şeye inanmaktır'?",
-    "options": ["Ramiz Karaeski", "Serdar Tezcan", "Kenan Birkan", "Eyşan Tezcan"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Karaeski'nin gençliğinde aşık olduğu ve Kenan ile arasının açılmasına neden olan Selma Hünel, nerede şarkıcılık yapmaktaydı?",
-    "options": ["Maksim Gazinosu", "Çiçek Bar", "Pera Palas", "Kristal Gazinosu"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ali Kırgız'ın (Kerpeten Ali) babasının mesleği neydi?",
-    "options": ["Seyyar Satıcı", "Ayakkabı Boyacısı", "Demirci", "Balıkçı"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Dizide Cengiz Atay'ın, Ezel'i (Ömer'i) kıskanmasının temel sebebi nedir?",
-    "options": ["Ömer'in daha zengin olması", "Ömer'in daha zeki olması", "Ramiz Dayı'nın Ömer'i seçmesi", "Eyşan'ın Ömer'i sevmesi"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Tefo'nun, Ali'ye 'Abi' demesinin sebebi nedir?",
-    "options": ["Yaşça büyük olması", "Ondan korkması", "Zorunluluk", "Ona saygı duyması ve sevmesi"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın, Kenan Birkan'ın kardeşi Selim'i öldürdüğü yer neresidir?",
-    "options": ["Sinema Salonu", "Düğün Salonu", "Park", "Tren İstasyonu"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in gerçek kimliğini (Ömer olduğunu) ilk öğrenen kişi kimdir (Ramiz Dayı ve ekibi hariç)?",
-    "options": ["Eyşan", "Ali", "Cengiz", "Meliha (Annesi)"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Sekiz karakterini hangi ünlü oyuncu canlandırmıştır?",
-    "options": ["Burak Özçivit", "Çağatay Ulusoy", "Aras Bulut İynemli", "Kıvanç Tatlıtuğ"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Cengiz Atay'ın, Eyşan ile evlenip büyüttüğü, aslında Ömer'in oğlu olan çocuğun adı nedir?",
-    "options": ["Ali", "Eren", "Mert", "Can"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Eyşan'ın babası Serdar Tezcan'ın lakabı nedir?",
-    "options": ["Yılan", "Tilki", "Profesör", "Şeytan"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Sekiz (Ramiz'in torunu), dedesini öldürmek için geldiğinde onu kim durdurmuştur?",
-    "options": ["Azad", "Tefo", "Ali", "Ezel"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in gerçek kimliğini (Ömer olduğunu) kanıtlamak için annesi Meliha Hanım'a gösterdiği eşya nedir?",
-    "options": ["Eski bir fotoğraf", "Kanlı mendil", "Oyuncak araba", "Yüzük"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Şebnem Sertuna'nın, Tevfik Zaim (Tefo) ile evlenmeden önce yaşadığı en büyük travma nedir?",
-    "options": ["Tecavüze uğraması", "Ailesini kaybetmesi", "Hapse girmesi", "Kanser olması"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Cengiz Atay'ın, kumar borçları yüzünden başı derde girdiğinde ona ilk yardım elini uzatan kim olmuştur (Ezel kimliğindeyken)?",
-    "options": ["Ali", "Eyşan", "Serdar", "Ezel"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ali Kırgız'ın (Kerpeten Ali) en sevdiği silah türü nedir?",
-    "options": ["Susturuculu Tabanca", "Pompalı Tüfek", "Bıçak", "Kerpeten (mecazi değil, alet olarak)"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in intikam planındaki ilk kurbanı kim olmuştur?",
-    "options": ["Ali", "Serdar", "Eyşan", "Cengiz"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Mümtaz Amca'nın (Ömer'in babası) mesleği neydi?",
-    "options": ["Terzi", "Balıkçı", "Emekli Öğretmen", "Marangoz"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan'ın, Ramiz'e olan nefreti, Ramiz'in ona ne yapmasıyla doruğa ulaşmıştır?",
-    "options": ["Parasın çalması", "İtibarını zedelediği için", "Onu hapse attırması", "Kardeşini öldürmesi"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Bade'nin Ezel'e olan karşılıksız aşkı, Ezel'in kime olan aşkı yüzünden hüsranla bitmiştir?",
-    "options": ["Şebnem", "Bahar", "Azad", "Eyşan"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın kütüphanesindeki gizli bölmede sakladığı en değerli eşya nedir?",
-    "options": ["Silah koleksiyonu", "Günlükleri", "Eski İstanbul haritası", "Selma'nın fotoğrafı"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Temmuz'un (kiralık katil), öldürdüğü önemli karakterlerden biri kimdir?",
-    "options": ["Kamil", "Tefo", "Mert", "Bahar"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Tefo'nun (Tevfik Zaim) mafya alemine girmeden önceki asıl mesleği neydi?",
-    "options": ["Doktor", "Öğretmen", "Asker", "Komiser / Polis"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Serdar Tezcan'ın (Eyşan'ın babası) ölümü nasıl gerçekleşmiştir?",
-    "options": ["Ezel tarafından vurularak", "Cengiz tarafından zehirlenerek", "Kalp krizi geçirmiştir", "Cengiz tarafından boğulmuştur"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kaya (Hapishane müdürü), Kenan Birkan'ın adamı olduğunu ne zaman itiraf etmiştir?",
-    "options": ["Hiçbir zaman", "Ezel onu sorgularken", "Ali onu tehdit ederken", "Ölmeden hemen önce"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ali Kırgız'ın 'Kerpeten' lakabını almasının sebebi nedir?",
-    "options": ["Dişçilik yapması", "Çok sıkı tutması", "Babasının mesleği", "İşkence yöntemi olarak kerpeten kullanması"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel ve Eyşan'ın, geçmişte (Ömer iken) evlenmeyi planladıkları tarih neydi?",
-    "options": ["14 Şubat", "Ömer'in doğum günü", "Belli bir tarih yoktu", "Yazın ilk günü"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Cengiz Atay'ın, Eyşan'ı elde etmek için Ömer'e kurduğu tuzağın asıl planlayıcısı kimdir?",
-    "options": ["Cengiz'in kendisi", "Ali", "Eyşan", "Serdar"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Bahar Tezcan (Eyşan'ın kardeşi), Ezel'e aşık olduğunu ne zaman anlamıştır?",
-    "options": ["Ezel onu kurtardığında", "Hastanede", "Ölüm döşeğinde", "İlk görüşte"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın, gençliğinde İstanbul'a geldiğinde ilk yaptığı iş neydi?",
-    "options": ["Kumarhane işletmek", "Tetikçilik", "Kaçakçılık", "Hamallık"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan'ın evindeki devasa akvaryumda beslediği balık türü nedir?",
-    "options": ["Pirana", "Japon Balığı", "Koi Balığı", "Köpekbalığı"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Dizide, 'Bir ihtimal daha var, o da ölmek mi dersin?' şarkısı kiminle özdeşleşmiştir?",
-    "options": ["Ali", "Selma Hünel", "Ezel", "Ramiz Dayı"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Cengiz'in, Ezel'in Ömer olduğunu anladığı o kritik an ne zaman gerçekleşmiştir?",
-    "options": ["Ömer'in annesini gördüğünde", "Ali söylediğinde", "DNA testi sonucunu gördüğünde", "Ezel'in bir jestini tanıdığında (Saçını düzeltmesi)"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Eyşan'ın, Ömer'e ihanet ettikten sonra vicdan azabı çekip çekmediği konusunda dizi ne söyler?",
-    "options": ["Hiç çekmemiştir", "Unutmuştur", "Sadece Bahar ölünce üzülmüştür", "Çok çekmiş ama belli etmemiştir"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ali, Tefo ve Şebnem üçlüsünün kurduğu güvenlik şirketinin akıbeti ne olmuştur?",
-    "options": ["Batyırılmıştır", "Kenan Birkan tarafından el konulmuştur", "Devam etmiştir", "Dizi finalinde kapatılmıştır"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Sekiz'in (Ramiz'in torunu) en belirgin fiziksel özelliği nedir?",
-    "options": ["Gözünün kör olması", "Yüzündeki yara izi", "Kelimeleri kekelemesi", "Topal olması"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın öldüğü sahnede, ona son kurşunu sıkan kimdir?",
-    "options": ["Kenan Birkan", "Cengiz Atay", "Kendi kızı Azad (yanlışlıkla)", "İsimsiz bir tetikçi"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in final bölümünde içtiği ve Cengiz'e de içirdiği zehirin adı nedir?",
-    "options": ["Siyanür", "Arsenik", "Fare zehiri", "Özel bir karışım (adı geçmez)"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Meliha Hanım (Ömer'in annesi), gözlerinin görmemesine rağmen Ezel'in oğlu olduğunu nasıl anlamıştır?",
-    "options": ["Sesinden", "Dokunuşundan", "Hepsinden", "Kokusundan"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ali Kırgız, Cengiz'i neden hiç sevmemiştir?",
-    "options": ["Korkak olduğu için", "Eyşan'ı sevdiği için", "Ömer'e ihanet ettiği için", "Sinsice planlar yaptığı ve güvenilmez olduğu için"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Dizideki 'Kamil' karakterinin asıl mesleği neydi?",
-    "options": ["Hırsız", "Taksici", "Polis", "Pilot"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Karaeski'nin en büyük pişmanlığı nedir?",
-    "options": ["Kenan'a güvenmek", "Hapse girmek", "Selma'yı sevmek", "Oğullarının ölümüne sebep olmak"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in intikamını tamamladıktan sonra yapmak istediği asıl şey neydi?",
-    "options": ["Yurt dışına gitmek", "Ölmek", "Mafya babası olmak", "Ömer olarak hayatına devam etmek"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan'ın, Ezel'e karşı kullandığı 'Bade' kozu nasıl sonuçlanmıştır?",
-    "options": ["Bade Ezel'i öldürmüştür", "Bade intihar etmiştir", "Bade Kenan'ı öldürmüştür", "Ezel Bade'yi kurtarmıştır"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Dizideki 'Yusuf Eğir' karakteri kimdir?",
-    "options": ["Kenan'ın adamı", "Ramiz'in eski dostu", "Hapishane müdürü", "Bıçak ustası bir kiralık katil"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Eyşan, dizinin sonunda neden ölmüştür?",
-    "options": ["Cengiz onu vurmuştur", "Kanserden", "İntihar etmiştir", "Cengiz tarafından bıçaklanmıştır"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in soyadı 'Bayraktar' kime aittir?",
-    "options": ["Hapishanedeki bir arkadaşına", "Rastgele seçilmiştir", "Estetik cerrahına", "Ramiz Dayı'nın ölen oğluna"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ali Kırgız'ın oğlu (olduğu sandığı) Can ile ilişkisi nasıldır?",
-    "options": ["Çok kötüdür", "Hiç görüşmezler", "Sadece para verir", "Onu öz oğlu gibi sever"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı, Ezel'e 'Yeğen' derken, Ezel ona ne diye hitap ederdi?",
-    "options": ["Baba", "Usta", "Ramiz Bey", "Dayı"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel dizisinde Ramiz Karaeski'nin (Dayı) ezeli düşmanı Kenan Birkan'ın mesleği nedir?",
-    "options": ["Kumarhaneci", "Otel Sahibi", "Silah Kaçakçısı", "Medya Patronu"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ömer Uçar hapse girmeden önce hangi mesleği yapmaktaydı?",
-    "options": ["Marangoz", "Mimar", "Şoför", "Tamirci"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel Bayraktar'ın estetik ameliyatını yapan doktorun adı nedir?",
-    "options": ["Dr. Serdar", "Dr. Kenan", "Dr. Levent", "Dr. Refik"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan'ın, Ramiz Dayı'ya olan nefretinin temel sebebi olan kadın kimdir?",
-    "options": ["Azad Karaeski", "Eyşan Tezcan", "Bade Uysal", "Selma Hünel"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Cengiz Atay, Ömer'e ihanet etmeden önce onunla ne kadar yakın arkadaştı?",
-    "options": ["Asker arkadaşı", "İş arkadaşı", "Okul arkadaşı", "Çocukluk arkadaşı"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ali Kırgız'ın (Kerpeten Ali) lakabını almasının sebebi nedir?",
-    "options": ["Dişçi olması", "Kerpeten koleksiyonu yapması", "Çok sıkı tutması", "İşkence aleti olarak kerpeten kullanması"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın kızı Azad'ı kim koruması altına almıştır?",
-    "options": ["Ali Kırgız", "Ezel Bayraktar", "Cengiz Atay", "Tefo"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı, 'Jilet Ahmet' lakaplı kabadayıyı hangi yıl öldürmüştür?",
-    "options": ["1975", "1968", "1980", "1971"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "'Yeğen' hitabı kime aittir?",
-    "options": ["Kenan Birkan", "Ezel Bayraktar", "Kerpeten Ali", "Ramiz Karaeski"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Sekiz (Ramiz'in torunu), dedesini öldürmeye çalışmıştır?",
-    "options": ["Ezel", "Kenan Birkan", "Eyşan", "Ramiz Dayı (Kendi dedesi)"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Eyşan'ın hasta olan kardeşi Bahar'a kim platonik aşıktır?",
-    "options": ["Ezel", "Cengiz", "Tefo", "Ali"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı, Selma'ya olan aşkı yüzünden abisini (Selim'i) nasıl kaybetmiştir?",
-    "options": ["İntihar etmiştir", "Kenan yanlışlıkla vurmuştur", "Trafik kazasında", "Ramiz tarafından öldürülmüştür"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Bade karakterinin mesleği nedir?",
-    "options": ["Hemşire", "Öğretmen", "Tasarımcı", "Garson / Barmen"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Şebnem Sertuna, Ezel'e (veya Tevfik'e) neden yardım etmiştir?",
-    "options": ["Aşık olduğu için", "Korktuğu için", "Para için", "Kanser tedavisini ödedikleri için"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı İstanbul'a ilk geldiğinde hangi işi yapmıştır?",
-    "options": ["Kumarhane korumalığı", "Liman işçiliği", "Tetikçilik", "Boksörlük"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in, Eyşan'a evlenme teklif ettiği yüzük nereden gelmiştir?",
-    "options": ["Ramiz Dayı'nın hediyesi", "Kuyumcudan çalıntı", "Özel yapım", "Ömer'in annesinden"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Dizide 'Kerpeten Ali'nin kendine has sözü/tehdidi nedir?",
-    "options": ["Seni kerpetenle doğrarım", "Benim adım Ali, soyadım bela", "Kaçacak yerin yok", "Yaparım bilirsin"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in, Kenan Birkan'a karşı kullandığı ve Kenan'ın kasetlerini ele geçiren karakter kimdir?",
-    "options": ["Bade Uysal", "Azad Karaeski", "Bahar Tezcan", "Şebnem Sertuna"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ömer'in hapse girmesine sebep olan 'Soygun Suçu' nerede işlenmiştir?",
-    "options": ["Bir otelde", "Bir benzinlikte", "Bir müzede", "Bir kumarhanede"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan'ın, Selma'ya hediye ettiği ama Selma'nın Ramiz'i seçmesiyle geri çevirdiği hediye nedir?",
-    "options": ["Pırlanta yüzük", "Bir şarkı", "Otel tapusu", "Gelinlik"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Tefo, İstanbul'a gelmeden önce nerede yaşıyordu ve ne iş yapıyordu?",
-    "options": ["Ankara'da korumaydı", "İzmir'de balıkçıydı", "Eski bir tetikçiydi", "Polisti"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Cengiz'in, hapishanede Ezel'i neden şişlemiştir (bıçaklamıştır)?",
-    "options": ["Eyşan'ı sevdiği için", "Korktuğu için", "Ali'nin emriyle", "Ezel onu kışkırttığı için"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ali, Tefo öldükten sonra ona ne söz vermiştir?",
-    "options": ["İntikamını alacağına", "Oğluna (Can'a) bakacağına", "Kumarı bırakacağına", "Şebnem'i koruyacağına"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan'ın finalde ölümü nasıl olmuştur?",
-    "options": ["Ezel tarafından zehirlenerek", "Ali tarafından uçurumdan atılarak", "Kalp kriziyle", "Kendini vurarak (Ezel'in zorlamasıyla)"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Dizinin son sahnesinde, deniz fenerinin kapısını açan kişi kimdir (iddialara göre)?",
-    "options": ["Ezel (Ölmemiş)", "Ali", "Cengiz", "Can (Oğlu)"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Meliha Hanım'ın (Anne), gözleri neden görmüyor?",
-    "options": ["Katarakt yüzünden", "Diyabet yüzünden", "Kaza sonucu", "Oğlunun acısından sürekli ağladığı için"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Temmuz'un, Tefo'yu öldürdüğü silah nedir?",
-    "options": ["Boğma teli", "zehirli iğne", "Pompalı Tüfek", "Bıçak"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Bahar'ın ölmeden önce Ezel'e (Ömer'e) verdiği şey nedir?",
-    "options": ["Eyşan'ın günlüğü", "Cengiz'in sırlarını içeren bir flash bellek", "Kendi kolyesi", "Bir mektup"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan'ın, Ramiz'e olan kini neden hiç bitmemiştir?",
-    "options": ["Parasın çaldığı için", "İtibarını zedelediği için", "Onu hapse attırması", "Selma'yı elinden aldığı için"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Eyşan'ın Ömer'e ihanet etmesinin asıl sebebi neydi?",
-    "options": ["Zengin olmak", "Cengiz'e aşık olması", "Babasının tehdidi", "Kardeşi Bahar'ın hayatını kurtarmak (tedavi parası)"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Tefo nasıl ölmüştür?",
-    "options": ["Temmuz tarafından bıçaklanarak", "İntihar ederek", "Trafik kazasında", "Ali'yi korurken vurularak"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in, Eyşan'a 'İmkansız diye bir şey yoktur, sadece zaman alır' dediği sahne nerede geçer?",
-    "options": ["Karanlık odada", "Deniz kenarında", "Otel lobisinde", "Metrodaki yürüyen merdivende"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı, Kenan'ın evini (veya mekanını) basıp ne yapmıştır?",
-    "options": ["Herkesi öldürmüştür", "Binayı ateşe vermiştir", "Kızını kaçırmıştır", "Sadece oturup çay içmiştir (gözdağı vermek için)"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in, Ali'ye hediye ettiği 'Kerpeten' neden altındandır?",
-    "options": ["Ali zenginliği çok sevdiği için", "Eski kerpetenini kaybettiği için", "Dostluğun nişanesi olarak", "Geçmişle dalga geçmek için"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Bahar'ın hastalığı (lösemi dışında/sonrasında) neydi?",
-    "options": ["Verem", "Anemi", "Kalp yetmezliği (Asthsma diye geçer ama kemoterapi sonrası komplikasyonlar)", "Böbrek yetmezliği"],
-    "correct_answer": 2,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in, Ali'ye bıraktığı 'Son bir oyun' neydi?",
-    "options": ["Kenan'ı öldürmek", "Kumarhaneyi işletmek", "Cengiz'i yakalamak", "Can'ı kurtarmak"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın, Kenan'a hediye ettiği 'kanlı gömlek' ne anlama geliyordu?",
-    "options": ["Savaş ilanı", "Tehdit", "Barış isteği", "Abisinin kanı (Katil olduğunu hatırlatma)"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ali, Bahar öldükten sonra mezarının başında ne yapmıştır?",
-    "options": ["Ağlamıştır sadece", "Yemin etmiştir", "Uyumuştur", "İntihara kalkışmıştır / Silahı kafasına dayamıştır"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan'ın en sevdiği oyun hangisidir?",
-    "options": ["Domino", "Poker", "Briç", "Satranç"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Serdar Tezcan (Dayı Serdar) nasıl bir karakterdi?",
-    "options": ["Çok dindar", "Merhametli", "Cesur", "Manipülatif ve çıkarcı"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Eyşan, Ömer'in suçsuz olduğunu bildiği halde neden mahkemede aleyhine şahitlik yapmıştır?",
-    "options": ["Ömer'den nefret ettiği için", "Cengiz'i sevdiği için", "Korktuğu için", "Babasının tehdidi ve Bahar'ın tedavisi için"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın, gençliğinde İstanbul'u haraca bağladığı dönemde en büyük rakibi kimdi?",
-    "options": ["Laz Ziya", "Dündar Kılıç", "Baron", "Jilet Ahmet"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in soyadı 'Bayraktar'ı kim seçmiştir?",
-    "options": ["Kendisi (Ömer)", "Estetik Doktoru", "Devlet", "Ramiz Dayı"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Dizideki 'Bir ihtimal daha var, o da ölmek mi dersin?' şarkısını kim söylemiştir?",
-    "options": ["Eyşan", "Bahar", "Azad", "Selma Hünel (Birsen Tezer)"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ali Kırgız'ın, Ömer'e ihanet etmesinin asıl sebebi neydi?",
-    "options": ["Eyşan'a olan aşkı", "Cengiz'in tehdidi", "Ömer'i kıskanması", "Para hırsı ve fakirlikten kurtulma isteği"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in hapishane arkadaşı olan ve ona sadık kalan 'Kamil' karakterini kim canlandırmıştır?",
-    "options": ["Barış Falay", "Sarp Akkaya", "Salih Kalyon", "Güray Kip"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı, 'Yeğen' dediği Ezel'e son nefesinde ne demiştir?",
-    "options": ["Seni seviyorum evlat", "İntikamımı al", "Azad sana emanet", "Beni bu şehre gömün"],
-    "correct_answer": 0,
-    "category": "Ezel"
-  },
-  {
-    "question": "Şebnem'in eski mesleği nedir?",
-    "options": ["Hemşire", "Hostes", "Tasarımcı", "Sekreter"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Cengiz'in soyadı nedir?",
-    "options": ["Karay", "Korkmaz", "Yılmaz", "Atay"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Bahar'ın hastalığı (lösemi dışında/sonrasında) neydi?",
-    "options": ["Verem", "Anemi", "Böbrek yetmezliği", "Kalp yetmezliği"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in, Ali'ye bıraktığı 'Son bir oyun' neydi?",
-    "options": ["Kenan'ı öldürmek", "Kumarhaneyi işletmek", "Cengiz'i yakalamak", "Can'ı kurtarmak"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın, Kenan'a hediye ettiği 'kanlı gömlek' ne anlama geliyordu?",
-    "options": ["Savaş ilanı", "Tehdit", "Barış isteği", "Abisinin kanı (Katil olduğunu hatırlatma)"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ali, Bahar öldükten sonra mezarının başında ne yapmıştır?",
-    "options": ["Ağlamıştır sadece", "Yemin etmiştir", "Uyumuştur", "İntihara kalkışmıştır / Silahı kafasına dayamıştır"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Kenan Birkan'ın en sevdiği oyun hangisidir?",
-    "options": ["Domino", "Poker", "Briç", "Satranç"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Serdar Tezcan (Dayı Serdar) nasıl bir karakterdi?",
-    "options": ["Çok dindar", "Merhametli", "Cesur", "Manipülatif ve çıkarcı"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Eyşan, Ömer'in suçsuz olduğunu bildiği halde neden mahkemede aleyhine şahitlik yapmıştır?",
-    "options": ["Ömer'den nefret ettiği için", "Cengiz'i sevdiği için", "Korktuğu için", "Babasının tehdidi ve Bahar'ın tedavisi için"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ramiz Dayı'nın, gençliğinde İstanbul'u haraca bağladığı dönemde en büyük rakibi kimdi?",
-    "options": ["Laz Ziya", "Dündar Kılıç", "Baron", "Jilet Ahmet"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in soyadı 'Bayraktar'ı kim seçmiştir?",
-    "options": ["Kendisi (Ömer)", "Estetik Doktoru", "Devlet", "Ramiz Dayı"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Dizideki 'Bir ihtimal daha var, o da ölmek mi dersin?' şarkısını kim söylemiştir?",
-    "options": ["Eyşan", "Bahar", "Azad", "Selma Hünel (Birsen Tezer)"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ali Kırgız'ın, Ömer'e ihanet etmesinin asıl sebebi neydi?",
-    "options": ["Eyşan'a olan aşkı", "Cengiz'in tehdidi", "Ömer'i kıskanması", "Para hırsı ve fakirlikten kurtulma isteği"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  },
-  {
-    "question": "Ezel'in hapishane arkadaşı olan ve ona sadık kalan 'Kamil' karakterini kim canlandırmıştır?",
-    "options": ["Barış Falay", "Sarp Akkaya", "Salih Kalyon", "Güray Kip"],
-    "correct_answer": 3,
-    "category": "Ezel"
-  }
-],
-"Behzat Ç" : [
-  {
-    "question": "Behzat Ç.'nin tam adı nedir?",
-    "options": ["Behzat Uygur", "Behzat Çelik", "Behzat Akarsu", "Behzat Amir"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Harun' karakterinin lakabı nedir?",
-    "options": ["Küçük", "Hayalet", "Akrep", "Delikanlı"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın eski karısının adı nedir?",
-    "options": ["Aslı", "Eda", "Şule", "Zeynep"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının adı nedir?",
-    "options": ["Şule", "Berna", "Aslı", "Ece"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur içki tercihi nedir?",
-    "options": ["Viski", "Votka", "Bira", "Rakı"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki savcı kızın adı nedir?",
-    "options": ["Aslı", "Cevher", "Eda", "Şebnem"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın en büyük düşmanı olan 'Memduh Başgan' kimdir?",
-    "options": ["Emniyet Müdürü", "Başsavcı", "Vali", "Bakan"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Amirim' diye hitap ettiği kişi kimdir?",
-    "options": ["Himmet", "Hayalet", "Akrep", "Tahsin"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın arabası hangi markadır?",
-    "options": ["Renault 12", "Tofaş Şahin", "Renault Broadway", "Fiat Tempra"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Hayalet' karakterinin gerçek adı nedir?",
-    "options": ["Harun", "Hayati", "Hasan", "Hüseyin"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının intihar ettiği yer neresidir?",
-    "options": ["Ev", "Okul", "Köprü", "Otel"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın en sevdiği yemek nedir?",
-    "options": ["Döner", "Kokoreç", "Kuru fasulye", "Mercimek çorbası"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Akrep' lakaplı polis kimdir?",
-    "options": ["Ercüment", "Cevdet", "Hayalet", "Harun"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın 'Bizimkisi bir aşk hikayesi' dediği şarkı hangi sanatçıya aittir?",
-    "options": ["Sezen Aksu", "Teoman", "Mor ve Ötesi", "Gökhan Kırdar"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Lan' diye başlayan küfürlerinden sonra en çok kullandığı kelime nedir?",
-    "options": ["Oğlum", "Amirim", "Yeğen", "Kardeşim"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Cevdet' karakterinin lakabı nedir?",
-    "options": ["Hayalet", "Akrep", "Küçük", "Delikanlı"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın eski karısı Şule ile boşanma sebebi nedir?",
-    "options": ["Aldatma", "Alkol sorunu", "Kızlarının ölümü", "İşkolik olması"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın en yakın arkadaşı ve ekipteki 'Tahsin Amirim' kimdir?",
-    "options": ["Emniyet Müdürü", "Şube Müdürü", "Başkomiser", "Komiser Yardımcısı"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının ölümünden sonra mezarına ne bırakmıştır?",
-    "options": ["Çiçek", "Sigara", "Rakı şişesi", "Polis rozeti"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Eda' karakteri hangi mesleği yapmaktadır?",
-    "options": ["Savcı", "Avukat", "Gazeteci", "Psikolog"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Bizimkisi bir aşk hikayesi, siyah beyaz anlatılır' repliği hangi şarkıdan alıntıdır?",
-    "options": ["Teoman - Paramparça", "Mor ve Ötesi - Bir Derdim Var", "Gökhan Kırdar - Yerine Sevemem", "Sezen Aksu - Geri Dön"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Hayalet' Harun'un en büyük korkusu nedir?",
-    "options": ["Yükseklik", "Kapalı alan", "Karanlık", "Örümcek"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının ölümünden kendini sorumlu tutmasının sebebi nedir?",
-    "options": ["İşini ailesine tercih etmesi", "Alkol bağımlılığı", "Aldatma", "Şiddet"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Akrep' Cevdet'in en belirgin özelliği nedir?",
-    "options": ["Çok konuşması", "Sürekli yemek yemesi", "Sessiz olması", "Şarkı söylemesi"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Amirim bir çay söyle' repliği hangi çayeviyle özdeşleşmiştir?",
-    "options": ["Kızılay Çay Evi", "Ulus Çay Ocağı", "Ankara Kalesi Çay Bahçesi", "Bahçelievler Çaycısı"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Küçük' lakaplı polis kimdir?",
-    "options": ["Harun", "Cevdet", "Ercüment", "Selim"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın eski karısı Şule'nin yeni kocası kimdir?",
-    "options": ["Savcı", "Doktor", "İş adamı", "Polis"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Ercüment' karakterinin lakabı nedir?",
-    "options": ["Akrep", "Hayalet", "Küçük", "Delikanlı"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Lan oğlum' diye hitap ettiği kişi genellikle kimdir?",
-    "options": ["Harun", "Cevdet", "Tahsin", "Eda"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının intihar notunda ne yazmaktadır?",
-    "options": ["Beni affet", "Seni seviyorum baba", "Bu dünya bana göre değil", "Not bırakmamıştır"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Selim' karakteri hangi bölümde ölmüştür?",
-    "options": ["1. Sezon finali", "2. Sezon ortası", "3. Sezon finali", "Web sezonunda"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Bizimkisi bir aşk hikayesi' repliğini söylediği kişi kimdir?",
-    "options": ["Eda", "Şule", "Berna", "Harun"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Hayalet' Harun'un en sevdiği yemek nedir?",
-    "options": ["Kokoreç", "Döner", "Kuru fasulye", "Mercimek çorbası"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının ölümünden sonra en çok gittiği yer neresidir?",
-    "options": ["Mezarlık", "Çay ocağı", "Bar", "Ev"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Cevdet' karakterinin en büyük tutkusu nedir?",
-    "options": ["Yemek yemek", "Futbol", "Kumar", "Kadınlar"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Amirim' diye hitap ettiği Tahsin'in soyadı nedir?",
-    "options": ["Yılmaz", "Kara", "Özdemir", "Aydın"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Eda' ile ilişkisi nasıl sonuçlanmıştır?",
-    "options": ["Evlendiler", "Ayrıldılar", "Eda öldü", "Birlikte devam ettiler"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Lan' küfründen sonra en çok kullandığı ifade nedir?",
-    "options": ["Oğlum", "Amirim", "Yeğen", "Kardeşim"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Akrep' Cevdet'in en sevdiği yemek nedir?",
-    "options": ["Kokoreç", "Döner", "Kuru fasulye", "Her şey"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının ölümünden sonra en çok içtiği içki nedir?",
-    "options": ["Bira", "Viski", "Votka", "Rakı"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Harun' karakterinin en büyük özelliği nedir?",
-    "options": ["Çok konuşması", "Sessiz olması", "Çok yemek yemesi", "Çok hızlı koşması"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Bizimkisi bir aşk hikayesi' repliğini en çok kime söyler?",
-    "options": ["Harun'a", "Eda'ya", "Tahsin'e", "Cevdet'e"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Tahsin Amirim' karakterini kim canlandırmıştır?",
-    "options": ["Nejat İşler", "Fatih Artman", "Erdal Beşikçioğlu", "Hakan Hatipoğlu"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının ölümünden sonra en çok yaptığı şey nedir?",
-    "options": ["İçmek", "Çalışmak", "Uyumak", "Koşmak"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Ercüment' karakterinin en büyük sorunu nedir?",
-    "options": ["Kumar bağımlılığı", "Alkol", "Kadınlar", "Para"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Amirim bir çay' repliği hangi çay ocağında geçer?",
-    "options": ["Kızılay", "Ulus", "Bahçelievler", "Çankaya"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Hayalet' Harun'un en sevdiği şey nedir?",
-    "options": ["Uyumak", "Yemek", "Çalışmak", "Koşmak"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının ölümünden sonra en çok konuştuğu kişi kimdir?",
-    "options": ["Harun", "Tahsin", "Eda", "Mezar taşı"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Cevdet' karakterinin en meşhur repliği nedir?",
-    "options": ["Amirim", "Oğlum", "Lan", "Yiyorum amirim"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Lan oğlum' repliğini en çok kime söyler?",
-    "options": ["Cevdet'e", "Eda'ya", "Tahsin'e", "Harun'a"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Eda' karakterinin babası kimdir?",
-    "options": ["Başsavcı", "Emniyet Müdürü", "Vali", "Bakan"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının ölümünden sonra en çok gittiği mekan neresidir?",
-    "options": ["Bar", "Çay ocağı", "Mezarlık", "Ev"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Akrep' Cevdet'in en büyük zayıflığı nedir?",
-    "options": ["Yemek", "Kumar", "Kadınlar", "Alkol"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Bizimkisi bir aşk hikayesi' repliği hangi şarkıdan alınmıştır?",
-    "options": ["Teoman", "Mor ve Ötesi", "Sezen Aksu", "Gökhan Kırdar"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Harun' karakterinin en büyük korkusu nedir?",
-    "options": ["Yükseklik", "Kapalı alan", "Karanlık", "Ölüm"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının ölümünden sonra en çok yaptığı ritüel nedir?",
-    "options": ["Mezara sigara bırakmak", "Rakı içmek", "Koşmak", "Ağlamak"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Tahsin Amirim' karakterinin en meşhur repliği nedir?",
-    "options": ["Behzat", "Oğlum", "Lan", "Çay söyle"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur arabası hangi renktir?",
-    "options": ["Beyaz", "Mavi", "Kırmızı", "Yeşil"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Ercüment' karakterinin en büyük sorunu nedir?",
-    "options": ["Alkol", "Kadınlar", "Para", "Kumar"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının ölümünden sonra en çok dinlediği şarkı hangisidir?",
-    "options": ["Yerine Sevemem", "Paramparça", "Bir Derdim Var", "Geri Dön"],
-    "correct_answer": 0,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Cevdet' karakterinin en sevdiği şey nedir?",
-    "options": ["Uyumak", "Çalışmak", "Koşmak", "Yemek"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Amirim' diye seslendiği Tahsin'in en büyük özelliği nedir?",
-    "options": ["Sert olması", "Merhametli olması", "Komik olması", "Akıllı olması"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Harun' karakterinin en büyük özelliği nedir?",
-    "options": ["Çok konuşması", "Çok yemek yemesi", "Çok hızlı koşması", "Sessiz olması"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının ölümünden sonra en çok yaptığı şey nedir?",
-    "options": ["Çalışmak", "Uyumak", "Koşmak", "İçmek"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Eda' karakterinin en büyük sorunu nedir?",
-    "options": ["Ailesi", "Behzat'la ilişkisi", "İş", "Geçmişi"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Lan oğlum' repliği en çok kime söylenir?",
-    "options": ["Cevdet'e", "Eda'ya", "Tahsin'e", "Harun'a"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Akrep' Cevdet'in en meşhur özelliği nedir?",
-    "options": ["Sessiz olması", "Çok konuşması", "Çok hızlı koşması", "Sürekli yemek yemesi"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının ölümünden sonra en çok gittiği yer neresidir?",
-    "options": ["Bar", "Çay ocağı", "Ev", "Mezarlık"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Tahsin Amirim' karakterinin en büyük sorunu nedir?",
-    "options": ["Ailesi", "Sağlığı", "İş", "Behzat"],
-    "correct_answer": 1,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur arabasında en çok çalan şarkı hangisidir?",
-    "options": ["Paramparça", "Bir Derdim Var", "Yerine Sevemem", "Geri Dön"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Harun' karakterinin en sevdiği şey nedir?",
-    "options": ["Yemek", "Çalışmak", "Koşmak", "Uyumak"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın kızının ölümünden sonra en çok konuştuğu nesne nedir?",
-    "options": ["Rakı şişesi", "Sigara paketi", "Araba", "Mezar taşı"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın ekibindeki 'Cevdet' karakterinin en büyük tutkusu nedir?",
-    "options": ["Kumar", "Kadınlar", "Para", "Yemek"],
-    "correct_answer": 3,
-    "category": "Behzat Ç."
-  },
-  {
-    "question": "Behzat'ın meşhur 'Bizimkisi bir aşk hikayesi' repliği en çok hangi durumlarda söylenir?",
-    "options": ["Mutlu olduğunda", "Kızgın olduğunda", "Üzgün olduğunda", "Sarhoş olduğunda"],
-    "correct_answer": 2,
-    "category": "Behzat Ç."
-  }
-],
+            {
+                "question": "Ömer'in hapishanedeki akıl hocası kimdir?",
+                "options": [
+                    "Kenan Birkan",
+                    "Sekiz",
+                    "Mümtaz Amca",
+                    "Ramiz Karaeski"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Eyşan'ın hasta kardeşi kimdir?",
+                "options": [
+                    "Şebnem",
+                    "Azad",
+                    "Bade",
+                    "Bahar"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "'Kerpeten' lakaplı karakter kimdir?",
+                "options": [
+                    "Cengiz",
+                    "Tefo",
+                    "Kamil",
+                    "Ali"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel Bayraktar'ın gerçek adı nedir?",
+                "options": [
+                    "Ali Kırgız",
+                    "Cengiz Atay",
+                    "Ramiz Karaeski",
+                    "Ömer Uçar"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın en büyük düşmanı kimdir?",
+                "options": [
+                    "Selma Hünel",
+                    "Kaya",
+                    "Serdar",
+                    "Kenan Birkan"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Cengiz'in oğlu Can aslında kimin oğludur?",
+                "options": [
+                    "Ali",
+                    "Kenan",
+                    "Tefo",
+                    "Ömer"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel dizisi hangi klasik romandan esinlenilmiştir?",
+                "options": [
+                    "Sefiller",
+                    "Suç ve Ceza",
+                    "Üç Silahşörler",
+                    "Monte Kristo Kontu"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın gençliğini hangi oyuncu canlandırmıştır?",
+                "options": [
+                    "Kenan İmirzalıoğlu",
+                    "Rıza Kocaoğlu",
+                    "Kıvanç Tatlıtuğ",
+                    "Ufuk Bayraktar"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın meşhur sözü: 'Mesele ölmek değil yeğen...' nasıl devam eder?",
+                "options": [
+                    "Mesele yaşamaktır.",
+                    "Mesele iz bırakmaktır.",
+                    "Mesele kazanmaktır.",
+                    "Mesele dost bildiğin en güvendiğin adamın eliyle ölmekmiş."
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in yardımcısı Şebnem'i canlandıran oyuncu kimdir?",
+                "options": [
+                    "Cansu Dere",
+                    "Burçin Terzioğlu",
+                    "Sedef Avcı",
+                    "Bade İşçil"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın kızı Azad'ı kim canlandırmıştır?",
+                "options": [
+                    "Bade İşçil",
+                    "Sedef Avcı",
+                    "Berrak Tüzünataç",
+                    "Burçin Terzioğlu"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan'ın acımasız sağ kolu, 'bıçak uzmanı' karakter kimdir?",
+                "options": [
+                    "Sekiz",
+                    "Kaya",
+                    "Yusuf Eğir",
+                    "Temmuz"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın en sevdiği ve sık sık anlattığı şair kimdir?",
+                "options": [
+                    "Nazım Hikmet",
+                    "Edip Cansever",
+                    "Cemal Süreya",
+                    "Ömer Hayyam"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan'ı canlandıran usta oyuncu kimdir?",
+                "options": [
+                    "Çetin Tekindor",
+                    "Şener Şen",
+                    "Tuncel Kurtiz",
+                    "Haluk Bilginer"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın torunu ve tek varisi kimdir?",
+                "options": [
+                    "Tefo",
+                    "Ali",
+                    "Selma",
+                    "Sekiz"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Eyşan, Ömer'e ihanet etmeyi neden kabul etmiştir?",
+                "options": [
+                    "Cengiz'i sevdiği için",
+                    "Zengin olmak için",
+                    "Babasından korktuğu için",
+                    "Kardeşi Bahar'ın tedavisi için"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan ve Ramiz Karaeski'nin gençlikte aşık olduğu kadın kimdir?",
+                "options": [
+                    "Müjgan",
+                    "Azad",
+                    "Handan",
+                    "Selma Hünel"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Tefo'nun (Tevfik Zaim) aşık olduğu, Ali'nin de eski sevgilisi olan karakter kimdir?",
+                "options": [
+                    "Bahar",
+                    "Azad",
+                    "Bade",
+                    "Şebnem"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Dizinin final sahnesinde kapıyı açan kişi hakkında en yaygın teori nedir?",
+                "options": [
+                    "Cengiz'in hayaleti",
+                    "Bade'nin geldiği",
+                    "Ali'nin geldiği",
+                    "Ezel'in ölmediği ve kapıyı açtığı"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın ölümünden sonra Ezel'e bıraktığı yüzük neyi simgeler?",
+                "options": [
+                    "Selma'ya olan aşkını",
+                    "İntikam yemini",
+                    "Dayı'nın mirasını",
+                    "İstanbul'un yeraltı krallığını"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın, Kenan Birkan'ın düğününü basıp Selma'yı kaçırdığı sahne hangi şehirde geçmiştir?",
+                "options": [
+                    "İzmir",
+                    "Bursa",
+                    "Ankara",
+                    "İstanbul"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan'ın, Ramiz Dayı'yı öldürmek için tuttuğu, 'bıçak kullanma ustası' olan kiralık katil kimdir?",
+                "options": [
+                    "Sekiz",
+                    "Yusuf Eğir",
+                    "Kaya",
+                    "Temmuz"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in gerçek kimliğini (Ömer) ilk öğrenen kişi (ailesi dışında) kimdir?",
+                "options": [
+                    "Ali",
+                    "Cengiz",
+                    "Şebnem",
+                    "Bahar"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Karaeski'nin gençliğinde, İstanbul'a ilk geldiğinde yanında olan ve sonra ona ihanet eden dostu kimdir?",
+                "options": [
+                    "Jilet Ahmet",
+                    "Gassal",
+                    "Selim",
+                    "Kenan Birkan"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Dizide, Ramiz Dayı meşhur 'Herkes öldürür sevdiğini' şiirini hangi olaydan sonra okumuştur?",
+                "options": [
+                    "Kamil'in ölümü",
+                    "Ömer'in hapse girişinden sonra",
+                    "Kendi ölümünden önce",
+                    "Eyşan'ın Ezel'i hapishanede ziyaretinden sonra"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Eyşan'ın babası Serdar Tezcan, dizinin başlarında hangi ülkede dolandırıcılık yapmaktadır?",
+                "options": [
+                    "Almanya",
+                    "İngiltere",
+                    "Rusya",
+                    "Kıbrıs"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ali Kırgız (Kerpeten Ali), Ezel'in Ömer olduğunu öğrendikten sonra ona yardım etmek için hangi fedakarlığı yapmıştır?",
+                "options": [
+                    "Cengiz'i öldürmüştür",
+                    "Böbreğini vermiştir",
+                    "Tüm varlığını bağışlamıştır",
+                    "Hapse girmiştir"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Tefo (Tevfik Zaim), Ezel'in ekibine katılmadan önce kimin için çalışmıştır?",
+                "options": [
+                    "Cengiz Atay",
+                    "Kenan Birkan",
+                    "Ramiz Karaeski",
+                    "Ali Kırgız"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan'ın, Ramiz Dayı'ya karşı kullandığı en büyük kozu olan kızı Azad'ın annesi kimdir?",
+                "options": [
+                    "Müjgan",
+                    "Zeynep",
+                    "Handan",
+                    "Selma Hünel"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Dizinin finalinde, Cengiz Atay nasıl ölmüştür?",
+                "options": [
+                    "Ramiz Dayı tarafından vurularak",
+                    "Kendi intihar ederek",
+                    "Trafik kazasında",
+                    "Ali ve Ezel tarafından uçurumdan atılarak"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "'Sadakat', kimin için 'olmayan bir şeye inanmaktır'?",
+                "options": [
+                    "Ramiz Karaeski",
+                    "Serdar Tezcan",
+                    "Kenan Birkan",
+                    "Eyşan Tezcan"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Karaeski'nin gençliğinde aşık olduğu ve Kenan ile arasının açılmasına neden olan Selma Hünel, nerede şarkıcılık yapmaktaydı?",
+                "options": [
+                    "Maksim Gazinosu",
+                    "Çiçek Bar",
+                    "Pera Palas",
+                    "Kristal Gazinosu"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ali Kırgız'ın (Kerpeten Ali) babasının mesleği neydi?",
+                "options": [
+                    "Seyyar Satıcı",
+                    "Ayakkabı Boyacısı",
+                    "Demirci",
+                    "Balıkçı"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Dizide Cengiz Atay'ın, Ezel'i (Ömer'i) kıskanmasının temel sebebi nedir?",
+                "options": [
+                    "Ömer'in daha zengin olması",
+                    "Ömer'in daha zeki olması",
+                    "Ramiz Dayı'nın Ömer'i seçmesi",
+                    "Eyşan'ın Ömer'i sevmesi"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Tefo'nun, Ali'ye 'Abi' demesinin sebebi nedir?",
+                "options": [
+                    "Yaşça büyük olması",
+                    "Ondan korkması",
+                    "Zorunluluk",
+                    "Ona saygı duyması ve sevmesi"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın, Kenan Birkan'ın kardeşi Selim'i öldürdüğü yer neresidir?",
+                "options": [
+                    "Sinema Salonu",
+                    "Düğün Salonu",
+                    "Park",
+                    "Tren İstasyonu"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in gerçek kimliğini (Ömer olduğunu) ilk öğrenen kişi kimdir (Ramiz Dayı ve ekibi hariç)?",
+                "options": [
+                    "Eyşan",
+                    "Ali",
+                    "Cengiz",
+                    "Meliha (Annesi)"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Sekiz karakterini hangi ünlü oyuncu canlandırmıştır?",
+                "options": [
+                    "Burak Özçivit",
+                    "Çağatay Ulusoy",
+                    "Aras Bulut İynemli",
+                    "Kıvanç Tatlıtuğ"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Cengiz Atay'ın, Eyşan ile evlenip büyüttüğü, aslında Ömer'in oğlu olan çocuğun adı nedir?",
+                "options": [
+                    "Ali",
+                    "Eren",
+                    "Mert",
+                    "Can"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Eyşan'ın babası Serdar Tezcan'ın lakabı nedir?",
+                "options": [
+                    "Yılan",
+                    "Tilki",
+                    "Profesör",
+                    "Şeytan"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Sekiz (Ramiz'in torunu), dedesini öldürmek için geldiğinde onu kim durdurmuştur?",
+                "options": [
+                    "Azad",
+                    "Tefo",
+                    "Ali",
+                    "Ezel"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in gerçek kimliğini (Ömer olduğunu) kanıtlamak için annesi Meliha Hanım'a gösterdiği eşya nedir?",
+                "options": [
+                    "Eski bir fotoğraf",
+                    "Kanlı mendil",
+                    "Oyuncak araba",
+                    "Yüzük"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Şebnem Sertuna'nın, Tevfik Zaim (Tefo) ile evlenmeden önce yaşadığı en büyük travma nedir?",
+                "options": [
+                    "Tecavüze uğraması",
+                    "Ailesini kaybetmesi",
+                    "Hapse girmesi",
+                    "Kanser olması"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Cengiz Atay'ın, kumar borçları yüzünden başı derde girdiğinde ona ilk yardım elini uzatan kim olmuştur (Ezel kimliğindeyken)?",
+                "options": [
+                    "Ali",
+                    "Eyşan",
+                    "Serdar",
+                    "Ezel"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ali Kırgız'ın (Kerpeten Ali) en sevdiği silah türü nedir?",
+                "options": [
+                    "Susturuculu Tabanca",
+                    "Pompalı Tüfek",
+                    "Bıçak",
+                    "Kerpeten (mecazi değil, alet olarak)"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in intikam planındaki ilk kurbanı kim olmuştur?",
+                "options": [
+                    "Ali",
+                    "Serdar",
+                    "Eyşan",
+                    "Cengiz"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Mümtaz Amca'nın (Ömer'in babası) mesleği neydi?",
+                "options": [
+                    "Terzi",
+                    "Balıkçı",
+                    "Emekli Öğretmen",
+                    "Marangoz"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan'ın, Ramiz'e olan nefreti, Ramiz'in ona ne yapmasıyla doruğa ulaşmıştır?",
+                "options": [
+                    "Parasın çalması",
+                    "İtibarını zedelediği için",
+                    "Onu hapse attırması",
+                    "Kardeşini öldürmesi"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Bade'nin Ezel'e olan karşılıksız aşkı, Ezel'in kime olan aşkı yüzünden hüsranla bitmiştir?",
+                "options": [
+                    "Şebnem",
+                    "Bahar",
+                    "Azad",
+                    "Eyşan"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın kütüphanesindeki gizli bölmede sakladığı en değerli eşya nedir?",
+                "options": [
+                    "Silah koleksiyonu",
+                    "Günlükleri",
+                    "Eski İstanbul haritası",
+                    "Selma'nın fotoğrafı"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Temmuz'un (kiralık katil), öldürdüğü önemli karakterlerden biri kimdir?",
+                "options": [
+                    "Kamil",
+                    "Tefo",
+                    "Mert",
+                    "Bahar"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Tefo'nun (Tevfik Zaim) mafya alemine girmeden önceki asıl mesleği neydi?",
+                "options": [
+                    "Doktor",
+                    "Öğretmen",
+                    "Asker",
+                    "Komiser / Polis"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Serdar Tezcan'ın (Eyşan'ın babası) ölümü nasıl gerçekleşmiştir?",
+                "options": [
+                    "Ezel tarafından vurularak",
+                    "Cengiz tarafından zehirlenerek",
+                    "Kalp krizi geçirmiştir",
+                    "Cengiz tarafından boğulmuştur"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kaya (Hapishane müdürü), Kenan Birkan'ın adamı olduğunu ne zaman itiraf etmiştir?",
+                "options": [
+                    "Hiçbir zaman",
+                    "Ezel onu sorgularken",
+                    "Ali onu tehdit ederken",
+                    "Ölmeden hemen önce"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ali Kırgız'ın 'Kerpeten' lakabını almasının sebebi nedir?",
+                "options": [
+                    "Dişçilik yapması",
+                    "Çok sıkı tutması",
+                    "Babasının mesleği",
+                    "İşkence yöntemi olarak kerpeten kullanması"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel ve Eyşan'ın, geçmişte (Ömer iken) evlenmeyi planladıkları tarih neydi?",
+                "options": [
+                    "14 Şubat",
+                    "Ömer'in doğum günü",
+                    "Belli bir tarih yoktu",
+                    "Yazın ilk günü"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Cengiz Atay'ın, Eyşan'ı elde etmek için Ömer'e kurduğu tuzağın asıl planlayıcısı kimdir?",
+                "options": [
+                    "Cengiz'in kendisi",
+                    "Ali",
+                    "Eyşan",
+                    "Serdar"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Bahar Tezcan (Eyşan'ın kardeşi), Ezel'e aşık olduğunu ne zaman anlamıştır?",
+                "options": [
+                    "Ezel onu kurtardığında",
+                    "Hastanede",
+                    "Ölüm döşeğinde",
+                    "İlk görüşte"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın, gençliğinde İstanbul'a geldiğinde ilk yaptığı iş neydi?",
+                "options": [
+                    "Kumarhane işletmek",
+                    "Tetikçilik",
+                    "Kaçakçılık",
+                    "Hamallık"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan'ın evindeki devasa akvaryumda beslediği balık türü nedir?",
+                "options": [
+                    "Pirana",
+                    "Japon Balığı",
+                    "Koi Balığı",
+                    "Köpekbalığı"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Dizide, 'Bir ihtimal daha var, o da ölmek mi dersin?' şarkısı kiminle özdeşleşmiştir?",
+                "options": [
+                    "Ali",
+                    "Selma Hünel",
+                    "Ezel",
+                    "Ramiz Dayı"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Cengiz'in, Ezel'in Ömer olduğunu anladığı o kritik an ne zaman gerçekleşmiştir?",
+                "options": [
+                    "Ömer'in annesini gördüğünde",
+                    "Ali söylediğinde",
+                    "DNA testi sonucunu gördüğünde",
+                    "Ezel'in bir jestini tanıdığında (Saçını düzeltmesi)"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Eyşan'ın, Ömer'e ihanet ettikten sonra vicdan azabı çekip çekmediği konusunda dizi ne söyler?",
+                "options": [
+                    "Hiç çekmemiştir",
+                    "Unutmuştur",
+                    "Sadece Bahar ölünce üzülmüştür",
+                    "Çok çekmiş ama belli etmemiştir"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ali, Tefo ve Şebnem üçlüsünün kurduğu güvenlik şirketinin akıbeti ne olmuştur?",
+                "options": [
+                    "Batyırılmıştır",
+                    "Kenan Birkan tarafından el konulmuştur",
+                    "Devam etmiştir",
+                    "Dizi finalinde kapatılmıştır"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Sekiz'in (Ramiz'in torunu) en belirgin fiziksel özelliği nedir?",
+                "options": [
+                    "Gözünün kör olması",
+                    "Yüzündeki yara izi",
+                    "Kelimeleri kekelemesi",
+                    "Topal olması"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın öldüğü sahnede, ona son kurşunu sıkan kimdir?",
+                "options": [
+                    "Kenan Birkan",
+                    "Cengiz Atay",
+                    "Kendi kızı Azad (yanlışlıkla)",
+                    "İsimsiz bir tetikçi"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in final bölümünde içtiği ve Cengiz'e de içirdiği zehirin adı nedir?",
+                "options": [
+                    "Siyanür",
+                    "Arsenik",
+                    "Fare zehiri",
+                    "Özel bir karışım (adı geçmez)"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Meliha Hanım (Ömer'in annesi), gözlerinin görmemesine rağmen Ezel'in oğlu olduğunu nasıl anlamıştır?",
+                "options": [
+                    "Sesinden",
+                    "Dokunuşundan",
+                    "Hepsinden",
+                    "Kokusundan"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ali Kırgız, Cengiz'i neden hiç sevmemiştir?",
+                "options": [
+                    "Korkak olduğu için",
+                    "Eyşan'ı sevdiği için",
+                    "Ömer'e ihanet ettiği için",
+                    "Sinsice planlar yaptığı ve güvenilmez olduğu için"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Dizideki 'Kamil' karakterinin asıl mesleği neydi?",
+                "options": [
+                    "Hırsız",
+                    "Taksici",
+                    "Polis",
+                    "Pilot"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Karaeski'nin en büyük pişmanlığı nedir?",
+                "options": [
+                    "Kenan'a güvenmek",
+                    "Hapse girmek",
+                    "Selma'yı sevmek",
+                    "Oğullarının ölümüne sebep olmak"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in intikamını tamamladıktan sonra yapmak istediği asıl şey neydi?",
+                "options": [
+                    "Yurt dışına gitmek",
+                    "Ölmek",
+                    "Mafya babası olmak",
+                    "Ömer olarak hayatına devam etmek"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan'ın, Ezel'e karşı kullandığı 'Bade' kozu nasıl sonuçlanmıştır?",
+                "options": [
+                    "Bade Ezel'i öldürmüştür",
+                    "Bade intihar etmiştir",
+                    "Bade Kenan'ı öldürmüştür",
+                    "Ezel Bade'yi kurtarmıştır"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Dizideki 'Yusuf Eğir' karakteri kimdir?",
+                "options": [
+                    "Kenan'ın adamı",
+                    "Ramiz'in eski dostu",
+                    "Hapishane müdürü",
+                    "Bıçak ustası bir kiralık katil"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Eyşan, dizinin sonunda neden ölmüştür?",
+                "options": [
+                    "Cengiz onu vurmuştur",
+                    "Kanserden",
+                    "İntihar etmiştir",
+                    "Cengiz tarafından bıçaklanmıştır"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in soyadı 'Bayraktar' kime aittir?",
+                "options": [
+                    "Hapishanedeki bir arkadaşına",
+                    "Rastgele seçilmiştir",
+                    "Estetik cerrahına",
+                    "Ramiz Dayı'nın ölen oğluna"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ali Kırgız'ın oğlu (olduğu sandığı) Can ile ilişkisi nasıldır?",
+                "options": [
+                    "Çok kötüdür",
+                    "Hiç görüşmezler",
+                    "Sadece para verir",
+                    "Onu öz oğlu gibi sever"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı, Ezel'e 'Yeğen' derken, Ezel ona ne diye hitap ederdi?",
+                "options": [
+                    "Baba",
+                    "Usta",
+                    "Ramiz Bey",
+                    "Dayı"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel dizisinde Ramiz Karaeski'nin (Dayı) ezeli düşmanı Kenan Birkan'ın mesleği nedir?",
+                "options": [
+                    "Kumarhaneci",
+                    "Otel Sahibi",
+                    "Silah Kaçakçısı",
+                    "Medya Patronu"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ömer Uçar hapse girmeden önce hangi mesleği yapmaktaydı?",
+                "options": [
+                    "Marangoz",
+                    "Mimar",
+                    "Şoför",
+                    "Tamirci"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel Bayraktar'ın estetik ameliyatını yapan doktorun adı nedir?",
+                "options": [
+                    "Dr. Serdar",
+                    "Dr. Kenan",
+                    "Dr. Levent",
+                    "Dr. Refik"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan'ın, Ramiz Dayı'ya olan nefretinin temel sebebi olan kadın kimdir?",
+                "options": [
+                    "Azad Karaeski",
+                    "Eyşan Tezcan",
+                    "Bade Uysal",
+                    "Selma Hünel"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Cengiz Atay, Ömer'e ihanet etmeden önce onunla ne kadar yakın arkadaştı?",
+                "options": [
+                    "Asker arkadaşı",
+                    "İş arkadaşı",
+                    "Okul arkadaşı",
+                    "Çocukluk arkadaşı"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ali Kırgız'ın (Kerpeten Ali) lakabını almasının sebebi nedir?",
+                "options": [
+                    "Dişçi olması",
+                    "Kerpeten koleksiyonu yapması",
+                    "Çok sıkı tutması",
+                    "İşkence aleti olarak kerpeten kullanması"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın kızı Azad'ı kim koruması altına almıştır?",
+                "options": [
+                    "Ali Kırgız",
+                    "Ezel Bayraktar",
+                    "Cengiz Atay",
+                    "Tefo"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı, 'Jilet Ahmet' lakaplı kabadayıyı hangi yıl öldürmüştür?",
+                "options": [
+                    "1975",
+                    "1968",
+                    "1980",
+                    "1971"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "'Yeğen' hitabı kime aittir?",
+                "options": [
+                    "Kenan Birkan",
+                    "Ezel Bayraktar",
+                    "Kerpeten Ali",
+                    "Ramiz Karaeski"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Sekiz (Ramiz'in torunu), dedesini öldürmeye çalışmıştır?",
+                "options": [
+                    "Ezel",
+                    "Kenan Birkan",
+                    "Eyşan",
+                    "Ramiz Dayı (Kendi dedesi)"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Eyşan'ın hasta olan kardeşi Bahar'a kim platonik aşıktır?",
+                "options": [
+                    "Ezel",
+                    "Cengiz",
+                    "Tefo",
+                    "Ali"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı, Selma'ya olan aşkı yüzünden abisini (Selim'i) nasıl kaybetmiştir?",
+                "options": [
+                    "İntihar etmiştir",
+                    "Kenan yanlışlıkla vurmuştur",
+                    "Trafik kazasında",
+                    "Ramiz tarafından öldürülmüştür"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Bade karakterinin mesleği nedir?",
+                "options": [
+                    "Hemşire",
+                    "Öğretmen",
+                    "Tasarımcı",
+                    "Garson / Barmen"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Şebnem Sertuna, Ezel'e (veya Tevfik'e) neden yardım etmiştir?",
+                "options": [
+                    "Aşık olduğu için",
+                    "Korktuğu için",
+                    "Para için",
+                    "Kanser tedavisini ödedikleri için"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı İstanbul'a ilk geldiğinde hangi işi yapmıştır?",
+                "options": [
+                    "Kumarhane korumalığı",
+                    "Liman işçiliği",
+                    "Tetikçilik",
+                    "Boksörlük"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in, Eyşan'a evlenme teklif ettiği yüzük nereden gelmiştir?",
+                "options": [
+                    "Ramiz Dayı'nın hediyesi",
+                    "Kuyumcudan çalıntı",
+                    "Özel yapım",
+                    "Ömer'in annesinden"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Dizide 'Kerpeten Ali'nin kendine has sözü/tehdidi nedir?",
+                "options": [
+                    "Seni kerpetenle doğrarım",
+                    "Benim adım Ali, soyadım bela",
+                    "Kaçacak yerin yok",
+                    "Yaparım bilirsin"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in, Kenan Birkan'a karşı kullandığı ve Kenan'ın kasetlerini ele geçiren karakter kimdir?",
+                "options": [
+                    "Bade Uysal",
+                    "Azad Karaeski",
+                    "Bahar Tezcan",
+                    "Şebnem Sertuna"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ömer'in hapse girmesine sebep olan 'Soygun Suçu' nerede işlenmiştir?",
+                "options": [
+                    "Bir otelde",
+                    "Bir benzinlikte",
+                    "Bir müzede",
+                    "Bir kumarhanede"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan'ın, Selma'ya hediye ettiği ama Selma'nın Ramiz'i seçmesiyle geri çevirdiği hediye nedir?",
+                "options": [
+                    "Pırlanta yüzük",
+                    "Bir şarkı",
+                    "Otel tapusu",
+                    "Gelinlik"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Tefo, İstanbul'a gelmeden önce nerede yaşıyordu ve ne iş yapıyordu?",
+                "options": [
+                    "Ankara'da korumaydı",
+                    "İzmir'de balıkçıydı",
+                    "Eski bir tetikçiydi",
+                    "Polisti"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Cengiz'in, hapishanede Ezel'i neden şişlemiştir (bıçaklamıştır)?",
+                "options": [
+                    "Eyşan'ı sevdiği için",
+                    "Korktuğu için",
+                    "Ali'nin emriyle",
+                    "Ezel onu kışkırttığı için"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ali, Tefo öldükten sonra ona ne söz vermiştir?",
+                "options": [
+                    "İntikamını alacağına",
+                    "Oğluna (Can'a) bakacağına",
+                    "Kumarı bırakacağına",
+                    "Şebnem'i koruyacağına"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan'ın finalde ölümü nasıl olmuştur?",
+                "options": [
+                    "Ezel tarafından zehirlenerek",
+                    "Ali tarafından uçurumdan atılarak",
+                    "Kalp kriziyle",
+                    "Kendini vurarak (Ezel'in zorlamasıyla)"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Dizinin son sahnesinde, deniz fenerinin kapısını açan kişi kimdir (iddialara göre)?",
+                "options": [
+                    "Ezel (Ölmemiş)",
+                    "Ali",
+                    "Cengiz",
+                    "Can (Oğlu)"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Meliha Hanım'ın (Anne), gözleri neden görmüyor?",
+                "options": [
+                    "Katarakt yüzünden",
+                    "Diyabet yüzünden",
+                    "Kaza sonucu",
+                    "Oğlunun acısından sürekli ağladığı için"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Temmuz'un, Tefo'yu öldürdüğü silah nedir?",
+                "options": [
+                    "Boğma teli",
+                    "zehirli iğne",
+                    "Pompalı Tüfek",
+                    "Bıçak"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Bahar'ın ölmeden önce Ezel'e (Ömer'e) verdiği şey nedir?",
+                "options": [
+                    "Eyşan'ın günlüğü",
+                    "Cengiz'in sırlarını içeren bir flash bellek",
+                    "Kendi kolyesi",
+                    "Bir mektup"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan'ın, Ramiz'e olan kini neden hiç bitmemiştir?",
+                "options": [
+                    "Parasın çaldığı için",
+                    "İtibarını zedelediği için",
+                    "Onu hapse attırması",
+                    "Selma'yı elinden aldığı için"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Eyşan'ın Ömer'e ihanet etmesinin asıl sebebi neydi?",
+                "options": [
+                    "Zengin olmak",
+                    "Cengiz'e aşık olması",
+                    "Babasının tehdidi",
+                    "Kardeşi Bahar'ın hayatını kurtarmak (tedavi parası)"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Tefo nasıl ölmüştür?",
+                "options": [
+                    "Temmuz tarafından bıçaklanarak",
+                    "İntihar ederek",
+                    "Trafik kazasında",
+                    "Ali'yi korurken vurularak"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in, Eyşan'a 'İmkansız diye bir şey yoktur, sadece zaman alır' dediği sahne nerede geçer?",
+                "options": [
+                    "Karanlık odada",
+                    "Deniz kenarında",
+                    "Otel lobisinde",
+                    "Metrodaki yürüyen merdivende"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı, Kenan'ın evini (veya mekanını) basıp ne yapmıştır?",
+                "options": [
+                    "Herkesi öldürmüştür",
+                    "Binayı ateşe vermiştir",
+                    "Kızını kaçırmıştır",
+                    "Sadece oturup çay içmiştir (gözdağı vermek için)"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in, Ali'ye hediye ettiği 'Kerpeten' neden altındandır?",
+                "options": [
+                    "Ali zenginliği çok sevdiği için",
+                    "Eski kerpetenini kaybettiği için",
+                    "Dostluğun nişanesi olarak",
+                    "Geçmişle dalga geçmek için"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Bahar'ın hastalığı (lösemi dışında/sonrasında) neydi?",
+                "options": [
+                    "Verem",
+                    "Anemi",
+                    "Kalp yetmezliği (Asthsma diye geçer ama kemoterapi sonrası komplikasyonlar)",
+                    "Böbrek yetmezliği"
+                ],
+                "correct_answer": 2,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in, Ali'ye bıraktığı 'Son bir oyun' neydi?",
+                "options": [
+                    "Kenan'ı öldürmek",
+                    "Kumarhaneyi işletmek",
+                    "Cengiz'i yakalamak",
+                    "Can'ı kurtarmak"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın, Kenan'a hediye ettiği 'kanlı gömlek' ne anlama geliyordu?",
+                "options": [
+                    "Savaş ilanı",
+                    "Tehdit",
+                    "Barış isteği",
+                    "Abisinin kanı (Katil olduğunu hatırlatma)"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ali, Bahar öldükten sonra mezarının başında ne yapmıştır?",
+                "options": [
+                    "Ağlamıştır sadece",
+                    "Yemin etmiştir",
+                    "Uyumuştur",
+                    "İntihara kalkışmıştır / Silahı kafasına dayamıştır"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan'ın en sevdiği oyun hangisidir?",
+                "options": [
+                    "Domino",
+                    "Poker",
+                    "Briç",
+                    "Satranç"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Serdar Tezcan (Dayı Serdar) nasıl bir karakterdi?",
+                "options": [
+                    "Çok dindar",
+                    "Merhametli",
+                    "Cesur",
+                    "Manipülatif ve çıkarcı"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Eyşan, Ömer'in suçsuz olduğunu bildiği halde neden mahkemede aleyhine şahitlik yapmıştır?",
+                "options": [
+                    "Ömer'den nefret ettiği için",
+                    "Cengiz'i sevdiği için",
+                    "Korktuğu için",
+                    "Babasının tehdidi ve Bahar'ın tedavisi için"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın, gençliğinde İstanbul'u haraca bağladığı dönemde en büyük rakibi kimdi?",
+                "options": [
+                    "Laz Ziya",
+                    "Dündar Kılıç",
+                    "Baron",
+                    "Jilet Ahmet"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in soyadı 'Bayraktar'ı kim seçmiştir?",
+                "options": [
+                    "Kendisi (Ömer)",
+                    "Estetik Doktoru",
+                    "Devlet",
+                    "Ramiz Dayı"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Dizideki 'Bir ihtimal daha var, o da ölmek mi dersin?' şarkısını kim söylemiştir?",
+                "options": [
+                    "Eyşan",
+                    "Bahar",
+                    "Azad",
+                    "Selma Hünel (Birsen Tezer)"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ali Kırgız'ın, Ömer'e ihanet etmesinin asıl sebebi neydi?",
+                "options": [
+                    "Eyşan'a olan aşkı",
+                    "Cengiz'in tehdidi",
+                    "Ömer'i kıskanması",
+                    "Para hırsı ve fakirlikten kurtulma isteği"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in hapishane arkadaşı olan ve ona sadık kalan 'Kamil' karakterini kim canlandırmıştır?",
+                "options": [
+                    "Barış Falay",
+                    "Sarp Akkaya",
+                    "Salih Kalyon",
+                    "Güray Kip"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı, 'Yeğen' dediği Ezel'e son nefesinde ne demiştir?",
+                "options": [
+                    "Seni seviyorum evlat",
+                    "İntikamımı al",
+                    "Azad sana emanet",
+                    "Beni bu şehre gömün"
+                ],
+                "correct_answer": 0,
+                "category": "Ezel"
+            },
+            {
+                "question": "Şebnem'in eski mesleği nedir?",
+                "options": [
+                    "Hemşire",
+                    "Hostes",
+                    "Tasarımcı",
+                    "Sekreter"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Cengiz'in soyadı nedir?",
+                "options": [
+                    "Karay",
+                    "Korkmaz",
+                    "Yılmaz",
+                    "Atay"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Bahar'ın hastalığı (lösemi dışında/sonrasında) neydi?",
+                "options": [
+                    "Verem",
+                    "Anemi",
+                    "Böbrek yetmezliği",
+                    "Kalp yetmezliği"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in, Ali'ye bıraktığı 'Son bir oyun' neydi?",
+                "options": [
+                    "Kenan'ı öldürmek",
+                    "Kumarhaneyi işletmek",
+                    "Cengiz'i yakalamak",
+                    "Can'ı kurtarmak"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın, Kenan'a hediye ettiği 'kanlı gömlek' ne anlama geliyordu?",
+                "options": [
+                    "Savaş ilanı",
+                    "Tehdit",
+                    "Barış isteği",
+                    "Abisinin kanı (Katil olduğunu hatırlatma)"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ali, Bahar öldükten sonra mezarının başında ne yapmıştır?",
+                "options": [
+                    "Ağlamıştır sadece",
+                    "Yemin etmiştir",
+                    "Uyumuştur",
+                    "İntihara kalkışmıştır / Silahı kafasına dayamıştır"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Kenan Birkan'ın en sevdiği oyun hangisidir?",
+                "options": [
+                    "Domino",
+                    "Poker",
+                    "Briç",
+                    "Satranç"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Serdar Tezcan (Dayı Serdar) nasıl bir karakterdi?",
+                "options": [
+                    "Çok dindar",
+                    "Merhametli",
+                    "Cesur",
+                    "Manipülatif ve çıkarcı"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Eyşan, Ömer'in suçsuz olduğunu bildiği halde neden mahkemede aleyhine şahitlik yapmıştır?",
+                "options": [
+                    "Ömer'den nefret ettiği için",
+                    "Cengiz'i sevdiği için",
+                    "Korktuğu için",
+                    "Babasının tehdidi ve Bahar'ın tedavisi için"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ramiz Dayı'nın, gençliğinde İstanbul'u haraca bağladığı dönemde en büyük rakibi kimdi?",
+                "options": [
+                    "Laz Ziya",
+                    "Dündar Kılıç",
+                    "Baron",
+                    "Jilet Ahmet"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in soyadı 'Bayraktar'ı kim seçmiştir?",
+                "options": [
+                    "Kendisi (Ömer)",
+                    "Estetik Doktoru",
+                    "Devlet",
+                    "Ramiz Dayı"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Dizideki 'Bir ihtimal daha var, o da ölmek mi dersin?' şarkısını kim söylemiştir?",
+                "options": [
+                    "Eyşan",
+                    "Bahar",
+                    "Azad",
+                    "Selma Hünel (Birsen Tezer)"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ali Kırgız'ın, Ömer'e ihanet etmesinin asıl sebebi neydi?",
+                "options": [
+                    "Eyşan'a olan aşkı",
+                    "Cengiz'in tehdidi",
+                    "Ömer'i kıskanması",
+                    "Para hırsı ve fakirlikten kurtulma isteği"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            },
+            {
+                "question": "Ezel'in hapishane arkadaşı olan ve ona sadık kalan 'Kamil' karakterini kim canlandırmıştır?",
+                "options": [
+                    "Barış Falay",
+                    "Sarp Akkaya",
+                    "Salih Kalyon",
+                    "Güray Kip"
+                ],
+                "correct_answer": 3,
+                "category": "Ezel"
+            }
+        ],
+        "Behzat Ç": [
+            {
+                "question": "Behzat Ç.'nin tam adı nedir?",
+                "options": [
+                    "Behzat Uygur",
+                    "Behzat Çelik",
+                    "Behzat Akarsu",
+                    "Behzat Amir"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Harun' karakterinin lakabı nedir?",
+                "options": [
+                    "Küçük",
+                    "Hayalet",
+                    "Akrep",
+                    "Delikanlı"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın eski karısının adı nedir?",
+                "options": [
+                    "Aslı",
+                    "Eda",
+                    "Şule",
+                    "Zeynep"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının adı nedir?",
+                "options": [
+                    "Şule",
+                    "Berna",
+                    "Aslı",
+                    "Ece"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur içki tercihi nedir?",
+                "options": [
+                    "Viski",
+                    "Votka",
+                    "Bira",
+                    "Rakı"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki savcı kızın adı nedir?",
+                "options": [
+                    "Aslı",
+                    "Cevher",
+                    "Eda",
+                    "Şebnem"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın en büyük düşmanı olan 'Memduh Başgan' kimdir?",
+                "options": [
+                    "Emniyet Müdürü",
+                    "Başsavcı",
+                    "Vali",
+                    "Bakan"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Amirim' diye hitap ettiği kişi kimdir?",
+                "options": [
+                    "Himmet",
+                    "Hayalet",
+                    "Akrep",
+                    "Tahsin"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın arabası hangi markadır?",
+                "options": [
+                    "Renault 12",
+                    "Tofaş Şahin",
+                    "Renault Broadway",
+                    "Fiat Tempra"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Hayalet' karakterinin gerçek adı nedir?",
+                "options": [
+                    "Harun",
+                    "Hayati",
+                    "Hasan",
+                    "Hüseyin"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının intihar ettiği yer neresidir?",
+                "options": [
+                    "Ev",
+                    "Okul",
+                    "Köprü",
+                    "Otel"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın en sevdiği yemek nedir?",
+                "options": [
+                    "Döner",
+                    "Kokoreç",
+                    "Kuru fasulye",
+                    "Mercimek çorbası"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Akrep' lakaplı polis kimdir?",
+                "options": [
+                    "Ercüment",
+                    "Cevdet",
+                    "Hayalet",
+                    "Harun"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın 'Bizimkisi bir aşk hikayesi' dediği şarkı hangi sanatçıya aittir?",
+                "options": [
+                    "Sezen Aksu",
+                    "Teoman",
+                    "Mor ve Ötesi",
+                    "Gökhan Kırdar"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Lan' diye başlayan küfürlerinden sonra en çok kullandığı kelime nedir?",
+                "options": [
+                    "Oğlum",
+                    "Amirim",
+                    "Yeğen",
+                    "Kardeşim"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Cevdet' karakterinin lakabı nedir?",
+                "options": [
+                    "Hayalet",
+                    "Akrep",
+                    "Küçük",
+                    "Delikanlı"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın eski karısı Şule ile boşanma sebebi nedir?",
+                "options": [
+                    "Aldatma",
+                    "Alkol sorunu",
+                    "Kızlarının ölümü",
+                    "İşkolik olması"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın en yakın arkadaşı ve ekipteki 'Tahsin Amirim' kimdir?",
+                "options": [
+                    "Emniyet Müdürü",
+                    "Şube Müdürü",
+                    "Başkomiser",
+                    "Komiser Yardımcısı"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının ölümünden sonra mezarına ne bırakmıştır?",
+                "options": [
+                    "Çiçek",
+                    "Sigara",
+                    "Rakı şişesi",
+                    "Polis rozeti"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Eda' karakteri hangi mesleği yapmaktadır?",
+                "options": [
+                    "Savcı",
+                    "Avukat",
+                    "Gazeteci",
+                    "Psikolog"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Bizimkisi bir aşk hikayesi, siyah beyaz anlatılır' repliği hangi şarkıdan alıntıdır?",
+                "options": [
+                    "Teoman - Paramparça",
+                    "Mor ve Ötesi - Bir Derdim Var",
+                    "Gökhan Kırdar - Yerine Sevemem",
+                    "Sezen Aksu - Geri Dön"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Hayalet' Harun'un en büyük korkusu nedir?",
+                "options": [
+                    "Yükseklik",
+                    "Kapalı alan",
+                    "Karanlık",
+                    "Örümcek"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının ölümünden kendini sorumlu tutmasının sebebi nedir?",
+                "options": [
+                    "İşini ailesine tercih etmesi",
+                    "Alkol bağımlılığı",
+                    "Aldatma",
+                    "Şiddet"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Akrep' Cevdet'in en belirgin özelliği nedir?",
+                "options": [
+                    "Çok konuşması",
+                    "Sürekli yemek yemesi",
+                    "Sessiz olması",
+                    "Şarkı söylemesi"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Amirim bir çay söyle' repliği hangi çayeviyle özdeşleşmiştir?",
+                "options": [
+                    "Kızılay Çay Evi",
+                    "Ulus Çay Ocağı",
+                    "Ankara Kalesi Çay Bahçesi",
+                    "Bahçelievler Çaycısı"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Küçük' lakaplı polis kimdir?",
+                "options": [
+                    "Harun",
+                    "Cevdet",
+                    "Ercüment",
+                    "Selim"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın eski karısı Şule'nin yeni kocası kimdir?",
+                "options": [
+                    "Savcı",
+                    "Doktor",
+                    "İş adamı",
+                    "Polis"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Ercüment' karakterinin lakabı nedir?",
+                "options": [
+                    "Akrep",
+                    "Hayalet",
+                    "Küçük",
+                    "Delikanlı"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Lan oğlum' diye hitap ettiği kişi genellikle kimdir?",
+                "options": [
+                    "Harun",
+                    "Cevdet",
+                    "Tahsin",
+                    "Eda"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının intihar notunda ne yazmaktadır?",
+                "options": [
+                    "Beni affet",
+                    "Seni seviyorum baba",
+                    "Bu dünya bana göre değil",
+                    "Not bırakmamıştır"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Selim' karakteri hangi bölümde ölmüştür?",
+                "options": [
+                    "1. Sezon finali",
+                    "2. Sezon ortası",
+                    "3. Sezon finali",
+                    "Web sezonunda"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Bizimkisi bir aşk hikayesi' repliğini söylediği kişi kimdir?",
+                "options": [
+                    "Eda",
+                    "Şule",
+                    "Berna",
+                    "Harun"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Hayalet' Harun'un en sevdiği yemek nedir?",
+                "options": [
+                    "Kokoreç",
+                    "Döner",
+                    "Kuru fasulye",
+                    "Mercimek çorbası"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının ölümünden sonra en çok gittiği yer neresidir?",
+                "options": [
+                    "Mezarlık",
+                    "Çay ocağı",
+                    "Bar",
+                    "Ev"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Cevdet' karakterinin en büyük tutkusu nedir?",
+                "options": [
+                    "Yemek yemek",
+                    "Futbol",
+                    "Kumar",
+                    "Kadınlar"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Amirim' diye hitap ettiği Tahsin'in soyadı nedir?",
+                "options": [
+                    "Yılmaz",
+                    "Kara",
+                    "Özdemir",
+                    "Aydın"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Eda' ile ilişkisi nasıl sonuçlanmıştır?",
+                "options": [
+                    "Evlendiler",
+                    "Ayrıldılar",
+                    "Eda öldü",
+                    "Birlikte devam ettiler"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Lan' küfründen sonra en çok kullandığı ifade nedir?",
+                "options": [
+                    "Oğlum",
+                    "Amirim",
+                    "Yeğen",
+                    "Kardeşim"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Akrep' Cevdet'in en sevdiği yemek nedir?",
+                "options": [
+                    "Kokoreç",
+                    "Döner",
+                    "Kuru fasulye",
+                    "Her şey"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının ölümünden sonra en çok içtiği içki nedir?",
+                "options": [
+                    "Bira",
+                    "Viski",
+                    "Votka",
+                    "Rakı"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Harun' karakterinin en büyük özelliği nedir?",
+                "options": [
+                    "Çok konuşması",
+                    "Sessiz olması",
+                    "Çok yemek yemesi",
+                    "Çok hızlı koşması"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Bizimkisi bir aşk hikayesi' repliğini en çok kime söyler?",
+                "options": [
+                    "Harun'a",
+                    "Eda'ya",
+                    "Tahsin'e",
+                    "Cevdet'e"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Tahsin Amirim' karakterini kim canlandırmıştır?",
+                "options": [
+                    "Nejat İşler",
+                    "Fatih Artman",
+                    "Erdal Beşikçioğlu",
+                    "Hakan Hatipoğlu"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının ölümünden sonra en çok yaptığı şey nedir?",
+                "options": [
+                    "İçmek",
+                    "Çalışmak",
+                    "Uyumak",
+                    "Koşmak"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Ercüment' karakterinin en büyük sorunu nedir?",
+                "options": [
+                    "Kumar bağımlılığı",
+                    "Alkol",
+                    "Kadınlar",
+                    "Para"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Amirim bir çay' repliği hangi çay ocağında geçer?",
+                "options": [
+                    "Kızılay",
+                    "Ulus",
+                    "Bahçelievler",
+                    "Çankaya"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Hayalet' Harun'un en sevdiği şey nedir?",
+                "options": [
+                    "Uyumak",
+                    "Yemek",
+                    "Çalışmak",
+                    "Koşmak"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının ölümünden sonra en çok konuştuğu kişi kimdir?",
+                "options": [
+                    "Harun",
+                    "Tahsin",
+                    "Eda",
+                    "Mezar taşı"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Cevdet' karakterinin en meşhur repliği nedir?",
+                "options": [
+                    "Amirim",
+                    "Oğlum",
+                    "Lan",
+                    "Yiyorum amirim"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Lan oğlum' repliğini en çok kime söyler?",
+                "options": [
+                    "Cevdet'e",
+                    "Eda'ya",
+                    "Tahsin'e",
+                    "Harun'a"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Eda' karakterinin babası kimdir?",
+                "options": [
+                    "Başsavcı",
+                    "Emniyet Müdürü",
+                    "Vali",
+                    "Bakan"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının ölümünden sonra en çok gittiği mekan neresidir?",
+                "options": [
+                    "Bar",
+                    "Çay ocağı",
+                    "Mezarlık",
+                    "Ev"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Akrep' Cevdet'in en büyük zayıflığı nedir?",
+                "options": [
+                    "Yemek",
+                    "Kumar",
+                    "Kadınlar",
+                    "Alkol"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Bizimkisi bir aşk hikayesi' repliği hangi şarkıdan alınmıştır?",
+                "options": [
+                    "Teoman",
+                    "Mor ve Ötesi",
+                    "Sezen Aksu",
+                    "Gökhan Kırdar"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Harun' karakterinin en büyük korkusu nedir?",
+                "options": [
+                    "Yükseklik",
+                    "Kapalı alan",
+                    "Karanlık",
+                    "Ölüm"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının ölümünden sonra en çok yaptığı ritüel nedir?",
+                "options": [
+                    "Mezara sigara bırakmak",
+                    "Rakı içmek",
+                    "Koşmak",
+                    "Ağlamak"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Tahsin Amirim' karakterinin en meşhur repliği nedir?",
+                "options": [
+                    "Behzat",
+                    "Oğlum",
+                    "Lan",
+                    "Çay söyle"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur arabası hangi renktir?",
+                "options": [
+                    "Beyaz",
+                    "Mavi",
+                    "Kırmızı",
+                    "Yeşil"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Ercüment' karakterinin en büyük sorunu nedir?",
+                "options": [
+                    "Alkol",
+                    "Kadınlar",
+                    "Para",
+                    "Kumar"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının ölümünden sonra en çok dinlediği şarkı hangisidir?",
+                "options": [
+                    "Yerine Sevemem",
+                    "Paramparça",
+                    "Bir Derdim Var",
+                    "Geri Dön"
+                ],
+                "correct_answer": 0,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Cevdet' karakterinin en sevdiği şey nedir?",
+                "options": [
+                    "Uyumak",
+                    "Çalışmak",
+                    "Koşmak",
+                    "Yemek"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Amirim' diye seslendiği Tahsin'in en büyük özelliği nedir?",
+                "options": [
+                    "Sert olması",
+                    "Merhametli olması",
+                    "Komik olması",
+                    "Akıllı olması"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Harun' karakterinin en büyük özelliği nedir?",
+                "options": [
+                    "Çok konuşması",
+                    "Çok yemek yemesi",
+                    "Çok hızlı koşması",
+                    "Sessiz olması"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının ölümünden sonra en çok yaptığı şey nedir?",
+                "options": [
+                    "Çalışmak",
+                    "Uyumak",
+                    "Koşmak",
+                    "İçmek"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Eda' karakterinin en büyük sorunu nedir?",
+                "options": [
+                    "Ailesi",
+                    "Behzat'la ilişkisi",
+                    "İş",
+                    "Geçmişi"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Lan oğlum' repliği en çok kime söylenir?",
+                "options": [
+                    "Cevdet'e",
+                    "Eda'ya",
+                    "Tahsin'e",
+                    "Harun'a"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Akrep' Cevdet'in en meşhur özelliği nedir?",
+                "options": [
+                    "Sessiz olması",
+                    "Çok konuşması",
+                    "Çok hızlı koşması",
+                    "Sürekli yemek yemesi"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının ölümünden sonra en çok gittiği yer neresidir?",
+                "options": [
+                    "Bar",
+                    "Çay ocağı",
+                    "Ev",
+                    "Mezarlık"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Tahsin Amirim' karakterinin en büyük sorunu nedir?",
+                "options": [
+                    "Ailesi",
+                    "Sağlığı",
+                    "İş",
+                    "Behzat"
+                ],
+                "correct_answer": 1,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur arabasında en çok çalan şarkı hangisidir?",
+                "options": [
+                    "Paramparça",
+                    "Bir Derdim Var",
+                    "Yerine Sevemem",
+                    "Geri Dön"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Harun' karakterinin en sevdiği şey nedir?",
+                "options": [
+                    "Yemek",
+                    "Çalışmak",
+                    "Koşmak",
+                    "Uyumak"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın kızının ölümünden sonra en çok konuştuğu nesne nedir?",
+                "options": [
+                    "Rakı şişesi",
+                    "Sigara paketi",
+                    "Araba",
+                    "Mezar taşı"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın ekibindeki 'Cevdet' karakterinin en büyük tutkusu nedir?",
+                "options": [
+                    "Kumar",
+                    "Kadınlar",
+                    "Para",
+                    "Yemek"
+                ],
+                "correct_answer": 3,
+                "category": "Behzat Ç."
+            },
+            {
+                "question": "Behzat'ın meşhur 'Bizimkisi bir aşk hikayesi' repliği en çok hangi durumlarda söylenir?",
+                "options": [
+                    "Mutlu olduğunda",
+                    "Kızgın olduğunda",
+                    "Üzgün olduğunda",
+                    "Sarhoş olduğunda"
+                ],
+                "correct_answer": 2,
+                "category": "Behzat Ç."
+            }
+        ],
         "Kızılcık Şerbeti": [
             {
                 "question": "Kızılcık Şerbeti dizisinin yönetmeni kimdir?",
