@@ -1,0 +1,602 @@
+[
+    {
+        "question": "Kurtlar Vadisi'nde, Doğu Eşrefoğlu'nun (Beyefendi) makam odasındaki tablonun arkasında gizli olan kasa, hangi yöntemle açılmaktadır?",
+        "options": [
+            "Ses tanıma sistemiyle",
+            "Göz taramasıyla",
+            "Özel bir anahtarla",
+            "Tablonun belirli bir noktasına basarak"
+        ],
+        "correct_answer": 3,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_001"
+    },
+    {
+        "question": "Mehmet Karahanlı'nın, Büyük Ortadoğu Projesi kapsamında 'Büyük Baron' olarak atandığı törende, ona verilen sembolik yüzükte hangi figür vardır?",
+        "options": [
+            "Çift başlı kartal",
+            "Kurt başı",
+            "Tapınak sembolü (Kızıl Haç)",
+            "Dünya haritası"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_002"
+    },
+    {
+        "question": "Polat Alemdar, Suriye'ye gittiğinde, oradaki istihbarat sorumlusu 'Ebu Nidal' ile görüşürken hangi kod adını kullanmıştır?",
+        "options": [
+            "Ali",
+            "Zaza",
+            "Can",
+            "Murat"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_003"
+    },
+    {
+        "question": "Konsey üyesi Hüsrev Ağa'nın, uyuşturucu sevkiyatı yaparken kullandığı paravan şirketin adı nedir?",
+        "options": [
+            "Hazar İthalat",
+            "Ağa Lojistik",
+            "Altınbaş Nakliyat",
+            "Şirvan Ticaret"
+        ],
+        "correct_answer": 3,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_004"
+    },
+    {
+        "question": "Kurtlar Vadisi'nde İplikçi Nedim'in 'Nesibe' diye hitap ettiği kişi/varlık aslında nedir?",
+        "options": [
+            "Ölen eşi",
+            "Sanal bir karakter (kendi uydurması)",
+            "Annesi",
+            "Kedisi"
+        ],
+        "correct_answer": 0,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_005"
+    },
+    {
+        "question": "Memati Baş, cezaevinde yatarken hangi suçtan dolayı hüküm giymiştir?",
+        "options": [
+            "Adam yaralama",
+            "Gasp",
+            "Cinayet",
+            "Hırsızlık"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_006"
+    },
+    {
+        "question": "Laz Ziya'nın, Süleyman Çakır'ı hapishaneden kurtarmak için Adalet Bakanlığı müsteşarına hediye ettiği 'özel yapım' eşya nedir?",
+        "options": [
+            "Puro kutusu",
+            "Altın kaplama silah",
+            "El yazması Kuran",
+            "Tarihi bir satranç takımı"
+        ],
+        "correct_answer": 3,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_007"
+    },
+    {
+        "question": "Testere Necmi, Polat Alemdar'ın ofisine gönderdiği 'canlı bomba' olan kızı nasıl ikna etmiştir?",
+        "options": [
+            "Kardeşini rehin alarak",
+            "Para vererek",
+            "Uyuşturucu vererek",
+            "Hipnoz ederek"
+        ],
+        "correct_answer": 0,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_008"
+    },
+    {
+        "question": "Polat Alemdar'ın, Karahanlı'nın 'Kripteks'ini açmak için kullandığı anahtar, hangi müzik aletinin içine gizlenmiştir?",
+        "options": [
+            "Ney",
+            "Keman",
+            "Ud",
+            "Saz"
+        ],
+        "correct_answer": 0,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_009"
+    },
+    {
+        "question": "Çeçen direnişçilere yardım götüren tırlar, hangi konsey üyesi tarafından sabote edilmeye çalışılmıştır?",
+        "options": [
+            "Tuncay Kantarcı",
+            "Testere Necmi",
+            "Samuel Vanunu",
+            "Nizamettin Güvenç"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_010"
+    },
+    {
+        "question": "Kurtlar Vadisi'nde 'Kirve' karakterinin gerçek adı (dizide geçen tam adı) nedir?",
+        "options": [
+            "İzzet Ağa",
+            "Veysel Şahin",
+            "Cemal Karacadağ",
+            "Halil İbrahim"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_011"
+    },
+    {
+        "question": "Hüsrev Ağa'nın kızı Nazlı, ölmeden önce en son kiminle konuşmuştur?",
+        "options": [
+            "Babası Hüsrev Ağa",
+            "Elif Eylül",
+            "Şeyhmus",
+            "Polat Alemdar"
+        ],
+        "correct_answer": 1,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_012"
+    },
+    {
+        "question": "Aslan Akbey'in, Polat'ı yetiştirirken ona 'Asla unutma' diyerek ezberlettiği şiir kime aittir?",
+        "options": [
+            "Mehmet Akif Ersoy",
+            "Necip Fazıl Kısakürek",
+            "Nazım Hikmet",
+            "Ömer Hayyam"
+        ],
+        "correct_answer": 1,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_013"
+    },
+    {
+        "question": "Güllü Erhan, dayısı Seyfo'nun intikamını almak için Kirve'ye ne yapmıştır?",
+        "options": [
+            "Kafasına sıkmıştır",
+            "Bıçaklamıştır",
+            "Onu canlı canlı gömmüştür (betona)",
+            "Yakmıştır"
+        ],
+        "correct_answer": 0,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_014"
+    },
+    {
+        "question": "Polat Alemdar, Tapınakçıların lideri Amon ile görüşmeye giderken yanında kimi götürmüştür?",
+        "options": [
+            "Memati",
+            "Abdülhey",
+            "Hiç kimseyi (Tek gitmiştir)",
+            "Nevzat"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_015"
+    },
+    {
+        "question": "Kurtlar Vadisi'nin final sahnesinde, Polat Alemdar'ın Ali Candan olduğunu öğrenen Elif Eylül, nerede fenalaşarak ölmüştür?",
+        "options": [
+            "Mahkeme salonunda",
+            "Hastanede (Ali'nin başında)",
+            "Kız Kulesi'nin önünde",
+            "Ofiste"
+        ],
+        "correct_answer": 1,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_016"
+    },
+    {
+        "question": "Memati Baş'ın, Çakır'ın ölümünden sonraki depresyon sürecinde sığındığı ve 'Tövbe' ettiği yer neresidir?",
+        "options": [
+            "Ömer Baba'nın dükkanı",
+            "Bir dergah",
+            "Kendi köyü",
+            "Mezarlık"
+        ],
+        "correct_answer": 1,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_017"
+    },
+    {
+        "question": "Pala'nın kullandığı ve 'Mito' olarak bilinen istihbaratçının gerçek adı nedir?",
+        "options": [
+            "Mithat",
+            "Metin",
+            "Mustafa",
+            "Murat"
+        ],
+        "correct_answer": 0,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_018"
+    },
+    {
+        "question": "Kurtlar Vadisi'nde 'Rus Konseyi' üyelerinden biri olan ve 'İbrahim Ahıskalı' karakteri, Polat Alemdar ile ne üzerine anlaşma yapmıştır?",
+        "options": [
+            "Silah ticareti",
+            "Doğalgaz boru hattı güvenliği",
+            "Uyuşturucu rotası",
+            "Nükleer başlık satışı"
+        ],
+        "correct_answer": 1,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_019"
+    },
+    {
+        "question": "Tuncay Kantarcı (Deve), İstanbul'a ilk geldiğinde gümrükte hangi ürünü kaçırırken yakalanmıştır?",
+        "options": [
+            "Çay",
+            "Sigara",
+            "Elektronik eşya",
+            "Deve (Canlı hayvan)"
+        ],
+        "correct_answer": 3,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_020"
+    },
+    {
+        "question": "Baron Mehmet Karahanlı'nın suikast girişimi (oğlunu sünnet ettirdiği gün) sırasında onu kurtaran kişi kimdir?",
+        "options": [
+            "Kılıç",
+            "Atilla",
+            "Aslan Akbey",
+            "Duran Emmi"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_021"
+    },
+    {
+        "question": "Polat Alemdar'ın, Cerrahpaşalı Metin'i öldürdüğü sahne (kafasını keserek) tam olarak nerede gerçekleşmiştir?",
+        "options": [
+            "Hamamda",
+            "Berberde",
+            "Kahvehanede",
+            "Otoparkta"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_022"
+    },
+    {
+        "question": "Laz Ziya, kızı Meral'i öldürmesi için kime emir vermiştir?",
+        "options": [
+            "Orhan",
+            "Polat Alemdar",
+            "Memati",
+            "Kendi korumasına"
+        ],
+        "correct_answer": 0,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_023"
+    },
+    {
+        "question": "Pala'nın ekibindeki keskin nişancı olan ve çatılardan ateş eden karakterin adı nedir?",
+        "options": [
+            "Faruk",
+            "Bedir",
+            "Cemal",
+            "Rüzgar"
+        ],
+        "correct_answer": 0,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_024"
+    },
+    {
+        "question": "Süleyman Çakır'ın, Laz Ziya'dan borç alarak açtığı kumarhanenin açılış gecesinde sahneye çıkan sanatçı kimdir (Dizide)?",
+        "options": [
+            "İbrahim Tatlıses",
+            "Özcan Deniz",
+            "Alişan",
+            "Gökhan Özen (Konuk Oyuncu)"
+        ],
+        "correct_answer": 3,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_025"
+    },
+    {
+        "question": "Kurtlar Vadisi'nde 'Şevko' karakterinin tam adı nedir?",
+        "options": [
+            "Şevket Gümüş",
+            "Şevket Çetin",
+            "Şevket Yılmaz",
+            "Şevket Korkmaz"
+        ],
+        "correct_answer": 0,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_026"
+    },
+    {
+        "question": "Memati'nin kullandığı ve Çakır'ın ona hediye ettiği ilk silahın markası nedir?",
+        "options": [
+            "Beretta",
+            "Desert Eagle (Altın Kaplama)",
+            "Smith & Wesson",
+            "Glock"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_027"
+    },
+    {
+        "question": "Kurtlar Vadisi'nde 'Kürt Bedo' karakterini canlandıran oyuncu kimdir?",
+        "options": [
+            "Hüseyin Avni Danyal",
+            "Turgay Tanülkü",
+            "Erdem Ergüney",
+            "Emin And"
+        ],
+        "correct_answer": 3,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_028"
+    },
+    {
+        "question": "Nizamettin Güvenç, konsey üyelerini birbirine düşürmek için hangi taksi durağını (veya durağın sahibini) kullanmıştır?",
+        "options": [
+            "Çiçek Taksi",
+            "Karanfil Taksi",
+            "Şahin Ağa'nın Durağı",
+            "Dizi Taksi"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_029"
+    },
+    {
+        "question": "Aslan Akbey, Polat Alemdar'a 'Senin görevin bitti' dediğinde, ona yurtdışına çıkması için hangi ülkenin pasaportunu vermiştir?",
+        "options": [
+            "ABD",
+            "Almanya",
+            "Arjantin",
+            "Kanada"
+        ],
+        "correct_answer": 3,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_030"
+    },
+    {
+        "question": "Polat Alemdar'ın 'Baron' olduktan sonra, konseyin ilk toplantısında masaya koyduğu ve 'yeni dönemin sembolü' olarak nitelendirdiği nesne nedir?",
+        "options": [
+            "Silah",
+            "Kırmızı Kitap",
+            "Kalem",
+            "Herhangi bir nesne koymamıştır"
+        ],
+        "correct_answer": 3,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_031"
+    },
+    {
+        "question": "Deve Tuncay'ın, İplikçi Nedim'i 'hortumlamak' için kurduğu hayali şirketin faaliyeti ne üzerinedir?",
+        "options": [
+            "Medikal malzemeler",
+            "Tekstil ihracatı",
+            "Hayali ihracat (Mobilya)",
+            "Turizm"
+        ],
+        "correct_answer": 0,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_032"
+    },
+    {
+        "question": "Kurtlar Vadisi'nde 'Eren Eylül' karakteri, Polat Alemdar ile ilk tanıştığında ona ne satmaya çalışmıştır?",
+        "options": [
+            "Kaçak sigara",
+            "CD / DVD",
+            "Araba parçası",
+            "Bilet"
+        ],
+        "correct_answer": 1,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_033"
+    },
+    {
+        "question": "Safiye Karahanlı'nın (Polat'ın kardeşi) Kanada'da okuduğu bölüm nedir?",
+        "options": [
+            "Hukuk",
+            "Uluslararası İlişkiler",
+            "Psikoloji",
+            "Sanat Tarihi"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_034"
+    },
+    {
+        "question": "Mehmet Karahanlı'nın, mason locasındaki törende giydiği cübbennin rengi nedir?",
+        "options": [
+            "Siyah",
+            "Kırmızı",
+            "Beyaz",
+            "Mor"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_035"
+    },
+    {
+        "question": "Halo Dayı'nın (Halil İbrahim Kapar) hapishanede yetiştirdiği ve çok sevdiği çiçeğin adı nedir?",
+        "options": [
+            "Menekşe",
+            "Gül",
+            "Orkide",
+            "Karanfil"
+        ],
+        "correct_answer": 0,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_036"
+    },
+    {
+        "question": "Kurtlar Vadisi'nde 'Abidin' karakteri, Tuncay Kantarcı'nın yanına kimin referansıyla girmiştir?",
+        "options": [
+            "Memati",
+            "Polat Alemdar",
+            "Kendi çabasıyla",
+            "Zülfikar Ağa"
+        ],
+        "correct_answer": 1,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_037"
+    },
+    {
+        "question": "Duran Emmi'nin dükkanında asılı olan ve sık sık gösterilen hat levhasında ne yazmaktadır?",
+        "options": [
+            "Ah Minel Aşk",
+            "Bu da geçer yahu",
+            "Adalet Mülkün Temelidir",
+            "Edep Ya Hu"
+        ],
+        "correct_answer": 3,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_038"
+    },
+    {
+        "question": "Polat Alemdar'ın, Süleyman Çakır'ı hastanede ziyaret ederken giydiği doktor önlüğünde ne yazmaktadır (İsimlikte)?",
+        "options": [
+            "Dr. Ali Candan",
+            "Dr. Kemal",
+            "İsim yazmamaktadır",
+            "Stajyer Doktor"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_039"
+    },
+    {
+        "question": "Samuel Vanunu'nun, MOSSAD ajanı olan ve Polat tarafından deşifre edilen yardımcısının adı nedir?",
+        "options": [
+            "Amy",
+            "Sarah",
+            "Esther",
+            "Rebecca"
+        ],
+        "correct_answer": 0,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_040"
+    },
+    {
+        "question": "Kurtlar Vadisi'nde Abdülhey, hafızasını kime ' emanet' etmiştir (Hafızası silindiğinde)?",
+        "options": [
+            "Polat Alemdar",
+            "Devlet",
+            "Aron Feller",
+            "Aslan Akbey"
+        ],
+        "correct_answer": 1,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_041"
+    },
+    {
+        "question": "Tilki Andrei, Polat Alemdar'a gönderdiği 'Matruşka' bebeğin içinden en son ne çıkmıştır?",
+        "options": [
+            "Kurşun",
+            "Not",
+            "Bomba",
+            "Kendi resmi"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_042"
+    },
+    {
+        "question": "Süleyman Çakır'ın, Duran Emmi'den aldığı ve 'İstanbul'un anahtarı' dediği tesbih hangi ağaçtan yapılmıştır?",
+        "options": [
+            "Oltu taşı (Ağaç değil)",
+            "Kuka",
+            "Abanoz",
+            "Kehribar (Ağaç reçinesi)"
+        ],
+        "correct_answer": 1,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_043"
+    },
+    {
+        "question": "Memati Baş, dizinin ilk bölümlerinde hangi tür sigara içmektedir (Kırmızı paket)?",
+        "options": [
+            "Marlboro Red",
+            "Winston",
+            "Camel",
+            "Parliament"
+        ],
+        "correct_answer": 0,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_044"
+    },
+    {
+        "question": "Kurtlar Vadisi'nde 'Akrep Bekir', hangi ilin milletvekilidir (veya o nüfuza sahiptir)?",
+        "options": [
+            "Diyarbakır",
+            "Sivas",
+            "Adana",
+            "Urfa"
+        ],
+        "correct_answer": 1,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_045"
+    },
+    {
+        "question": "Laz Ziya'nın, Meral'e 'Seni ben doğurdum, ben öldürürüm' dediği sahne, hangi filmden alıntıdır (Saygı duruşu)?",
+        "options": [
+            "Baba (The Godfather)",
+            "Yaralı Yüz (Scarface)",
+            "Taksi Şoförü",
+            "Bir Zamanlar Amerika"
+        ],
+        "correct_answer": 0,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_046"
+    },
+    {
+        "question": "Güllü Erhan, Polat'ın ekibine katıldığında ilk başlarda hangi görevi üstlenmiştir?",
+        "options": [
+            "Şoförlük",
+            "Korumalık",
+            "Kameramanlık (Çekim yapma)",
+            "Aşçılık"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_047"
+    },
+    {
+        "question": "Polat Alemdar'ın, 'Kurtlar Vadisi Operasyonu' için devletten aldığı maaş/bütçe ne kadardır?",
+        "options": [
+            "Sınırsızdır",
+            "Örtülü ödenekten karşılanır (Rakam belirtilmez)",
+            "Aylık 5000 Dolar",
+            "Sadece masraflar karşılanır"
+        ],
+        "correct_answer": 1,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_048"
+    },
+    {
+        "question": "Testere Necmi'nin, evinde beslediği özel hayvanlar nelerdir?",
+        "options": [
+            "Aslanlar",
+            "Köpekbalıkları",
+            "Pirana balıkları",
+            "Doberman köpekleri"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_049"
+    },
+    {
+        "question": "Kurtlar Vadisi'nin finalinde Polat Alemdar'ın Ali Candan olduğunu öğrenen ve şok geçiren savcı kimdir?",
+        "options": [
+            "Leyla Türkmen",
+            "Derya",
+            "Sibel Veziroğlu",
+            "Zeynep"
+        ],
+        "correct_answer": 2,
+        "category": "Kurtlar Vadisi",
+        "source_id": "hard_kv_050"
+    }
+]
