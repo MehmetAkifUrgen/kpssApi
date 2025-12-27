@@ -38731,6 +38731,1808 @@
                 "category": "DUS",
                 "source_id": "generated_dus_new_100"
             }
+        ],
+        "KPSS Tarih": [
+            {
+                "question": "Osmanlı Devleti'nde ilk bütçeyi kim hazırlamıştır?",
+                "options": [
+                    "Tarhuncu Ahmet Paşa",
+                    "Köprülü Mehmet Paşa",
+                    "Sokullu Mehmet Paşa",
+                    "Merzifonlu Kara Mustafa Paşa"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_1"
+            },
+            {
+                "question": "Türk tarihinin ilk yazılı anayasası hangisidir?",
+                "options": [
+                    "Kanun-i Esasi",
+                    "Teşkilat-ı Esasiye",
+                    "Sened-i İttifak",
+                    "Tanzimat Fermanı"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_2"
+            },
+            {
+                "question": "Mustafa Kemal'in 'Sizlere ölmeyi emrediyorum' dediği savaş hangisidir?",
+                "options": [
+                    "Çanakkale Savaşı",
+                    "Sakarya Savaşı",
+                    "Büyük Taarruz",
+                    "Trablusgarp Savaşı"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_3"
+            },
+            {
+                "question": "Osmanlı'da 'Vaka-i Vakvakiye' hangi padişah döneminde yaşanmıştır?",
+                "options": [
+                    "IV. Mehmet",
+                    "II. Osman",
+                    "III. Selim",
+                    "I. Ahmet"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_4"
+            },
+            {
+                "question": "Lale Devri hangi isyanla sona ermiştir?",
+                "options": [
+                    "Patrona Halil İsyanı",
+                    "Kabakçı Mustafa İsyanı",
+                    "Çınar Vakası",
+                    "Şeyh Bedrettin İsyanı"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_5"
+            },
+            {
+                "question": "Osmanlı Devleti'nin Kuzey Afrika'da kaybettiği son toprak parçası neresidir?",
+                "options": [
+                    "Trablusgarp",
+                    "Mısır",
+                    "Tunus",
+                    "Cezayir"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_6"
+            },
+            {
+                "question": "Misak-ı Milli kararları nerede kabul edilmiştir?",
+                "options": [
+                    "Son Osmanlı Mebusan Meclisi",
+                    "TBMM",
+                    "Sivas Kongresi",
+                    "Erzurum Kongresi"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_7"
+            },
+            {
+                "question": "İstiklal Marşı ilk kez hangi anayasada yer almıştır?",
+                "options": [
+                    "1982 Anayasası",
+                    "1921 Anayasası",
+                    "1924 Anayasası",
+                    "1961 Anayasası"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_8"
+            },
+            {
+                "question": "Osmanlı'da ilk daimi elçilik nerede açılmıştır?",
+                "options": [
+                    "Londra",
+                    "Paris",
+                    "Berlin",
+                    "Viyana"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_9"
+            },
+            {
+                "question": "Hangi antlaşma ile Boğazlar sorunu uluslararası bir statü kazanmıştır?",
+                "options": [
+                    "Hünkar İskelesi Antlaşması",
+                    "Londra Boğazlar Sözleşmesi",
+                    "Montrö Boğazlar Sözleşmesi",
+                    "Kütahya Antlaşması"
+                ],
+                "correct_answer": 1,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_10"
+            },
+            {
+                "question": "Temsil Heyeti'nin görevi ne zaman sona ermiştir?",
+                "options": [
+                    "TBMM'nin açılmasıyla",
+                    "Cumhuriyetin ilanıyla",
+                    "Kurtuluş Savaşı'nın bitmesiyle",
+                    "Sivas Kongresi'nden sonra"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_11"
+            },
+            {
+                "question": "Osmanlı Devleti'nde ilk kağıt para (Kaime) hangi padişah döneminde basılmıştır?",
+                "options": [
+                    "Abdülmecit",
+                    "Abdülaziz",
+                    "II. Mahmut",
+                    "III. Selim"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_12"
+            },
+            {
+                "question": "Mustafa Kemal'e 'Mareşal' rütbesi hangi savaştan sonra verilmiştir?",
+                "options": [
+                    "Sakarya Meydan Muharebesi",
+                    "Büyük Taarruz",
+                    "II. İnönü Savaşı",
+                    "Kütahya-Eskişehir Savaşları"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_13"
+            },
+            {
+                "question": "Kapitülasyonlar kesin olarak hangi antlaşma ile kaldırılmıştır?",
+                "options": [
+                    "Lozan Antlaşması",
+                    "Sevr Antlaşması",
+                    "Mudanya Ateşkesi",
+                    "Gümrü Antlaşması"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_14"
+            },
+            {
+                "question": "Osmanlı'da 'Düyun-u Umumiye İdaresi' hangi kararname ile kurulmuştur?",
+                "options": [
+                    "Muharrem Kararnamesi",
+                    "Ramazan Kararnamesi",
+                    "Vilayet Nizamnamesi",
+                    "Kanun-i Esasi"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_15"
+            },
+            {
+                "question": "İlk Türk kadın doktor kimdir?",
+                "options": [
+                    "Safiye Ali",
+                    "Sabiha Gökçen",
+                    "Afet İnan",
+                    "Halide Edip Adıvar"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_16"
+            },
+            {
+                "question": "Balkan Antantı'na katılan devletlerden biri hangisi değildir?",
+                "options": [
+                    "Bulgaristan",
+                    "Türkiye",
+                    "Yunanistan",
+                    "Romanya"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_17"
+            },
+            {
+                "question": "Hatay Cumhuriyeti'nin ilk ve tek cumhurbaşkanı kimdir?",
+                "options": [
+                    "Tayfur Sökmen",
+                    "Abdurrahman Melek",
+                    "Şükrü Kanatlı",
+                    "Rauf Orbay"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_18"
+            },
+            {
+                "question": "Kut'ül Amare zaferinin kahramanı kimdir?",
+                "options": [
+                    "Halil Kut Paşa",
+                    "Fahrettin Paşa",
+                    "Enver Paşa",
+                    "Kazım Karabekir"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_19"
+            },
+            {
+                "question": "Osmanlı'da 'Ekinci' anlamına gelen köylü sınıfı hangisidir?",
+                "options": [
+                    "Reaya",
+                    "Beraya",
+                    "Seyfiye",
+                    "İlmiye"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_20"
+            },
+            {
+                "question": "Milli Mücadele'nin 'Manifestosu' olarak kabul edilen belge hangisidir?",
+                "options": [
+                    "Amasya Genelgesi",
+                    "Sivas Kongresi kararları",
+                    "Erzurum Kongresi kararları",
+                    "Havza Genelgesi"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_21"
+            },
+            {
+                "question": "Hangi padişah 'Avcı' lakabıyla bilinir?",
+                "options": [
+                    "IV. Mehmet",
+                    "I. Ahmet",
+                    "II. Osman",
+                    "I. Mustafa"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_22"
+            },
+            {
+                "question": "Osmanlı'da şeyhülislam hangi sınıfın başıdır?",
+                "options": [
+                    "İlmiye",
+                    "Kalemiye",
+                    "Seyfiye",
+                    "Mülkiye"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_23"
+            },
+            {
+                "question": "Türk tarihinde 'Orta Asya'dan gelen ilk Türk topluluğu' hangisidir?",
+                "options": [
+                    "İskitler",
+                    "Hunlar",
+                    "Göktürkler",
+                    "Uygurlar"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_24"
+            },
+            {
+                "question": "Kıbrıs Barış Harekatı hangi başbakan döneminde yapılmıştır?",
+                "options": [
+                    "Bülent Ecevit",
+                    "Süleyman Demirel",
+                    "Necmettin Erbakan",
+                    "Turgut Özal"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_25"
+            },
+            {
+                "question": "Menemen Olayı hangi yıl gerçekleşmiştir?",
+                "options": [
+                    "1930",
+                    "1925",
+                    "1933",
+                    "1923"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_26"
+            },
+            {
+                "question": "Türkiye NATO'ya hangi yıl üye olmuştur?",
+                "options": [
+                    "1952",
+                    "1949",
+                    "1955",
+                    "1960"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_27"
+            },
+            {
+                "question": "Divan-ı Hümayun'u kaldıran padişah kimdir?",
+                "options": [
+                    "II. Mahmut",
+                    "III. Selim",
+                    "Abdülmecit",
+                    "II. Abdülhamit"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_28"
+            },
+            {
+                "question": "Hangi savaşta Mustafa Kemal 'Hattı müdafaa yoktur, sathı müdafaa vardır' demiştir?",
+                "options": [
+                    "Sakarya Savaşı",
+                    "Büyük Taarruz",
+                    "I. İnönü Savaşı",
+                    "Kütahya-Eskişehir Savaşları"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_29"
+            },
+            {
+                "question": "Plevne Kahramanı kimdir?",
+                "options": [
+                    "Gazi Osman Paşa",
+                    "Ahmet Muhtar Paşa",
+                    "Süleyman Hüsnü Paşa",
+                    "Namık Kemal"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_30"
+            },
+            {
+                "question": "Osmanlı'da 'Bağdat Fatihi' olarak bilinen padişah kimdir?",
+                "options": [
+                    "IV. Murat",
+                    "Yavuz Sultan Selim",
+                    "Kanuni Sultan Süleyman",
+                    "Fatih Sultan Mehmet"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_31"
+            },
+            {
+                "question": "Erzurum Kongresi'ne katılan delege sayısı kaçtır?",
+                "options": [
+                    "54",
+                    "38",
+                    "121",
+                    "68"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_32"
+            },
+            {
+                "question": "Takrir-i Sükun Kanunu hangi isyan sonrası çıkarılmıştır?",
+                "options": [
+                    "Şeyh Sait İsyanı",
+                    "Menemen Olayı",
+                    "İzmir Suikastı",
+                    "Çerkes Ethem İsyanı"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_33"
+            },
+            {
+                "question": "Mustafa Kemal'in nüfusa kayıtlı olduğu il hangisidir?",
+                "options": [
+                    "Gaziantep",
+                    "Selanik",
+                    "İstanbul",
+                    "Ankara"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_34"
+            },
+            {
+                "question": "Hangi antlaşma ile Doğu Cephesi kapanmıştır?",
+                "options": [
+                    "Gümrü Antlaşması",
+                    "Kars Antlaşması",
+                    "Moskova Antlaşması",
+                    "Batum Antlaşması"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_35"
+            },
+            {
+                "question": "İlk Türk İslam devleti hangisidir?",
+                "options": [
+                    "Karahanlılar",
+                    "Gazneliler",
+                    "Tolunoğulları",
+                    "Büyük Selçuklu"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_36"
+            },
+            {
+                "question": "Celali İsyanları hangi yüzyılda yoğunlaşmıştır?",
+                "options": [
+                    "17. Yüzyıl",
+                    "16. Yüzyıl",
+                    "18. Yüzyıl",
+                    "19. Yüzyıl"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_37"
+            },
+            {
+                "question": "II. Abdülhamit döneminde kurulan istihbarat teşkilatının adı nedir?",
+                "options": [
+                    "Yıldız İstihbarat Teşkilatı",
+                    "Teşkilat-ı Mahsusa",
+                    "MİT",
+                    "Karakol Cemiyeti"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_38"
+            },
+            {
+                "question": "Nutuk hangi yılları kapsar?",
+                "options": [
+                    "1919-1927",
+                    "1919-1923",
+                    "1914-1923",
+                    "1920-1938"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_39"
+            },
+            {
+                "question": "Saltanatın kaldırılması hangi ilke ile doğrudan ilgilidir?",
+                "options": [
+                    "Cumhuriyetçilik",
+                    "Devletçilik",
+                    "Halkçılık",
+                    "İnkılapçılık"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_40"
+            },
+            {
+                "question": "Edirne Vakası ile tahttan indirilen padişah kimdir?",
+                "options": [
+                    "II. Mustafa",
+                    "III. Ahmet",
+                    "I. Abdülhamit",
+                    "II. Mahmut"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_41"
+            },
+            {
+                "question": "Nene Hatun hangi savaşın kahramanıdır?",
+                "options": [
+                    "93 Harbi",
+                    "Kırım Savaşı",
+                    "Balkan Savaşları",
+                    "I. Dünya Savaşı"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_42"
+            },
+            {
+                "question": "Osmanlı'da 'Mecelle'yi hazırlayan komisyonun başkanı kimdir?",
+                "options": [
+                    "Ahmet Cevdet Paşa",
+                    "Mithat Paşa",
+                    "Ali Paşa",
+                    "Fuat Paşa"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_43"
+            },
+            {
+                "question": "Hangi şehir 'Şehirlerin Şahı' unvanıyla bilinir?",
+                "options": [
+                    "Semerkant",
+                    "Buhara",
+                    "Kaşgar",
+                    "İstanbul"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_44"
+            },
+            {
+                "question": "Anadolu Selçuklu Devleti'nde ticareti geliştirmek için yapılan yapılar hangisidir?",
+                "options": [
+                    "Kervansaray",
+                    "Medrese",
+                    "Külliye",
+                    "Darüşşifa"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_45"
+            },
+            {
+                "question": "Sivas Kongresi'nde çıkarılan gazetenin adı nedir?",
+                "options": [
+                    "İrade-i Milliye",
+                    "Hakimiyet-i Milliye",
+                    "Ceride-i Resmiye",
+                    "Minber"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_46"
+            },
+            {
+                "question": "1926 yılında kabul edilen Medeni Kanun hangi ülkeden alınmıştır?",
+                "options": [
+                    "İsviçre",
+                    "Almanya",
+                    "İtalya",
+                    "Fransa"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_47"
+            },
+            {
+                "question": "Türkiye'nin ilk kadın başbakanı kimdir?",
+                "options": [
+                    "Tansu Çiller",
+                    "Behice Boran",
+                    "Meral Akşener",
+                    "Rahşan Ecevit"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_48"
+            },
+            {
+                "question": "Osmanlı'da 'Genç Osman' olarak bilinen padişah kimdir?",
+                "options": [
+                    "II. Osman",
+                    "I. Osman",
+                    "III. Osman",
+                    "I. Ahmet"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_49"
+            },
+            {
+                "question": "Türk tarihinde 'Sultan' unvanını ilk kullanan hükümdar kimdir?",
+                "options": [
+                    "Gazneli Mahmut",
+                    "Alparslan",
+                    "Tuğrul Bey",
+                    "Satuk Buğra Han"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_50"
+            },
+            {
+                "question": "Osmanlı Devleti'nde 'Lonca' teşkilatının temeli sayılan yapı hangisidir?",
+                "options": [
+                    "Ahilik",
+                    "Enderun",
+                    "Tımar",
+                    "Mültezim"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_1"
+            },
+            {
+                "question": "Osmanlı'da 'Devletin dini dindir' hükmü hangi anayasa değişikliğiyle çıkarılmıştır?",
+                "options": [
+                    "1928 Değişikliği",
+                    "1924 Anayasası",
+                    "1937 Değişikliği",
+                    "1960 Anayasası"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_2"
+            },
+            {
+                "question": "NATO'nun merkezi hangi şehirdedir?",
+                "options": [
+                    "Brüksel",
+                    "New York",
+                    "Paris",
+                    "Londra"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_3"
+            },
+            {
+                "question": "Osmanlı'da 'Kadı'ların atamasını kim yapardı?",
+                "options": [
+                    "Kazasker",
+                    "Şeyhülislam",
+                    "Nişancı",
+                    "Defterdar"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_4"
+            },
+            {
+                "question": "Soğuk Savaş döneminde ABD'nin SSCB'yi çevreleme politikasına ne ad verilir?",
+                "options": [
+                    "Truman Doktrini",
+                    "Marshall Planı",
+                    "Monroe Doktrini",
+                    "Eisenhower Doktrini"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_5"
+            },
+            {
+                "question": "Osmanlı'da ilk resim sergisini kim açmıştır?",
+                "options": [
+                    "Şeker Ahmet Paşa",
+                    "Osman Hamdi Bey",
+                    "İbrahim Çallı",
+                    "Abidin Dino"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_6"
+            },
+            {
+                "question": "1955 yılında kurulan Bağdat Paktı'ndan ilk çekilen devlet hangisidir?",
+                "options": [
+                    "Irak",
+                    "İran",
+                    "Pakistan",
+                    "Türkiye"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_7"
+            },
+            {
+                "question": "Osmanlı'da 'Divan-ı Hümayun' kararlarının yazıldığı deftere ne ad verilir?",
+                "options": [
+                    "Mühimme",
+                    "Tahrir",
+                    "Şeriyye",
+                    "Tereke"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_8"
+            },
+            {
+                "question": "Kıbrıs Barış Harekatı'nın parolası nedir?",
+                "options": [
+                    "Ayşe Tatile Çıksın",
+                    "Yıldırım",
+                    "Atilla",
+                    "Zafer"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_9"
+            },
+            {
+                "question": "Osmanlı'da 'Cülus Bahşişi'ni yasallaştıran padişah kimdir?",
+                "options": [
+                    "Fatih Sultan Mehmet",
+                    "Yavuz Sultan Selim",
+                    "II. Murat",
+                    "I. Bayezid"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_10"
+            },
+            {
+                "question": "Türkiye'nin Kore Savaşı'na asker göndermesi hangi örgüte üyeliğini kolaylaştırmıştır?",
+                "options": [
+                    "NATO",
+                    "Birleşmiş Milletler",
+                    "Balkan Antantı",
+                    "CENTO"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_11"
+            },
+            {
+                "question": "Osmanlı'da 'Minyatür' sanatıyla uğraşanlara ne ad verilir?",
+                "options": [
+                    "Nakkaş",
+                    "Müzehhip",
+                    "Hattat",
+                    "Hakkak"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_12"
+            },
+            {
+                "question": "II. Dünya Savaşı'nda Türkiye'nin savaşa girmesi için baskı yapılan konferans hangisidir?",
+                "options": [
+                    "Kahire Konferansı",
+                    "Yalta Konferansı",
+                    "Tahran Konferansı",
+                    "Potsdam Konferansı"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_13"
+            },
+            {
+                "question": "Osmanlı'da topraksız köylüye ne ad verilir?",
+                "options": [
+                    "Maraba",
+                    "Çiftçi",
+                    "Reaya",
+                    "Irgat"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_14"
+            },
+            {
+                "question": "Varşova Paktı hangi yıl kurulmuştur?",
+                "options": [
+                    "1955",
+                    "1949",
+                    "1960",
+                    "1950"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_15"
+            },
+            {
+                "question": "Osmanlı'da 'Kapıkulu' askerlerinin 3 ayda bir aldıkları maaşa ne denir?",
+                "options": [
+                    "Ulufe",
+                    "Cülus",
+                    "İaşelik",
+                    "Gedik"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_16"
+            },
+            {
+                "question": "SSCB'nin dağılmasından sonra bağımsızlığını kazanan ilk Türk cumhuriyeti hangisidir?",
+                "options": [
+                    "Azerbaycan",
+                    "Kazakistan",
+                    "Kırgızistan",
+                    "Özbekistan"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_17"
+            },
+            {
+                "question": "Osmanlı'da ilk denk bütçeyi kim hazırlamıştır? (Tekrar içerik kontrolü)",
+                "options": [
+                    "Tarhuncu Ahmet Paşa",
+                    "Köprülü Fazıl Ahmet",
+                    "Merzifonlu Kara Mustafa",
+                    "Sokullu Mehmet"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_18"
+            },
+            {
+                "question": "Avrupa Ekonomik Topluluğu'nun (AB) temeli hangi antlaşma ile atılmıştır?",
+                "options": [
+                    "Roma Antlaşması",
+                    "Maastricht Antlaşması",
+                    "Paris Antlaşması",
+                    "Lizbon Antlaşması"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_19"
+            },
+            {
+                "question": "Osmanlı'da 'Salyaneli' (Yıllıklı) eyaletlerde vergi toplama usulüne ne denir?",
+                "options": [
+                    "İltizam",
+                    "Tımar",
+                    "Müsadere",
+                    "Malikane"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_20"
+            },
+            {
+                "question": "Berlin Duvarı hangi yıl yıkılmıştır?",
+                "options": [
+                    "1989",
+                    "1991",
+                    "1987",
+                    "1990"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_21"
+            },
+            {
+                "question": "Osmanlı'da donanma komutanına ne ad verilir?",
+                "options": [
+                    "Kaptan-ı Derya",
+                    "Levent",
+                    "Reis-ül Küttab",
+                    "Subaşı"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_22"
+            },
+            {
+                "question": "1974 Kıbrıs Barış Harekatı sonrası Türkiye'ye ambargo uygulayan ülke hangisidir?",
+                "options": [
+                    "ABD",
+                    "İngiltere",
+                    "SSCB",
+                    "Almanya"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_23"
+            },
+            {
+                "question": "Osmanlı'da 'Beşik Ulemalığı' sistemi neyin bozulmasına neden olmuştur?",
+                "options": [
+                    "Eğitim",
+                    "Ordu",
+                    "Maliye",
+                    "Toprak Sistemi"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_24"
+            },
+            {
+                "question": "Dayton Antlaşması hangi savaşı sona erdirmiştir?",
+                "options": [
+                    "Bosna Savaşı",
+                    "Kosova Savaşı",
+                    "Körfez Savaşı",
+                    "Vietnam Savaşı"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_25"
+            },
+            {
+                "question": "Osmanlı'da padişahın yetkilerini kısıtlayan ilk belge hangisidir?",
+                "options": [
+                    "Sened-i İttifak",
+                    "Tanzimat Fermanı",
+                    "Islahat Fermanı",
+                    "Kanun-i Esasi"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_26"
+            },
+            {
+                "question": "Bandung Konferansı hangi hareketin başlangıcı sayılır?",
+                "options": [
+                    "Bağlantısızlar Hareketi",
+                    "Arap Baharı",
+                    "Yeşil Devrim",
+                    "Turuncu Devrim"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_27"
+            },
+            {
+                "question": "Osmanlı'da 'Vakanüvis' ne iş yapar?",
+                "options": [
+                    "Resmi Tarih Yazıcısı",
+                    "Vergi Memuru",
+                    "Kadı Yardımcısı",
+                    "Ordu Komutanı"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_28"
+            },
+            {
+                "question": "İsrail devleti hangi yıl kurulmuştur?",
+                "options": [
+                    "1948",
+                    "1945",
+                    "1956",
+                    "1967"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_29"
+            },
+            {
+                "question": "Osmanlı'da 'Enderun' mektebi hangi saraydadır?",
+                "options": [
+                    "Topkapı Sarayı",
+                    "Dolmabahçe Sarayı",
+                    "Yıldız Sarayı",
+                    "Çırağan Sarayı"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_30"
+            },
+            {
+                "question": "Küba Füze Krizi hangi iki ülke arasında yaşanmıştır?",
+                "options": [
+                    "ABD - SSCB",
+                    "ABD - Çin",
+                    "SSCB - İngiltere",
+                    "ABD - Japonya"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_31"
+            },
+            {
+                "question": "Osmanlı'da 'Reis-ül Küttab' günümüzdeki hangi bakanlığa denktir?",
+                "options": [
+                    "Dışişleri Bakanlığı",
+                    "İçişleri Bakanlığı",
+                    "Maliye Bakanlığı",
+                    "Adalet Bakanlığı"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_32"
+            },
+            {
+                "question": "Perestroika ve Glasnost politikalarını başlatan lider kimdir?",
+                "options": [
+                    "Gorbaçov",
+                    "Stalin",
+                    "Lenin",
+                    "Yeltsin"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_33"
+            },
+            {
+                "question": "Osmanlı'da ilk matbaayı kim kurmuştur?",
+                "options": [
+                    "İbrahim Müteferrika",
+                    "Katip Çelebi",
+                    "Evliya Çelebi",
+                    "Lale Devri"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_34"
+            },
+            {
+                "question": "II. Dünya Savaşı'nın başlatan olay nedir?",
+                "options": [
+                    "Almanya'nın Polonya'yı işgali",
+                    "Avusturya'nın ilhakı",
+                    "Paris'in düşmesi",
+                    "Pearl Harbor Baskını"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_35"
+            },
+            {
+                "question": "Osmanlı'da 'İltizam' sistemini kaldıran padişah kimdir?",
+                "options": [
+                    "II. Mahmut",
+                    "III. Selim",
+                    "Abdülmecit",
+                    "II. Abdülhamit"
+                ],
+                "correct_answer": 2,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_36"
+            },
+            {
+                "question": "Salt 1 ve Salt 2 antlaşmaları hangi konudadır?",
+                "options": [
+                    "Nükleer silahların sınırlandırılması",
+                    "Çevre koruma",
+                    "Ticaret serbestliği",
+                    "Sınır güvenliği"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_37"
+            },
+            {
+                "question": "Osmanlı'da 'Dirlik' toprağı kaça ayrılır?",
+                "options": [
+                    "Has, Zeamet, Tımar",
+                    "Mülk, Vakıf, Ocaklık",
+                    "Paşmaklık, Yurtluk, Ocaklık",
+                    "Mukataa, Cizye, Haraç"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_38"
+            },
+            {
+                "question": "Şanghay Beşlisi'ne sonradan katılan ülke hangisidir?",
+                "options": [
+                    "Özbekistan",
+                    "Kazakistan",
+                    "Çin",
+                    "Rusya"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_39"
+            },
+            {
+                "question": "Osmanlı'da 'Miri Arazi' ne demektir?",
+                "options": [
+                    "Mülkiyeti devlete ait toprak",
+                    "Vakıf toprağı",
+                    "Şahıs toprağı",
+                    "Ekilemeyen toprak"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_40"
+            },
+            {
+                "question": "Maastricht Antlaşması ile adı 'Avrupa Birliği' olan topluluk hangisidir?",
+                "options": [
+                    "Avrupa Topluluğu",
+                    "AKÇT",
+                    "EFTA",
+                    "OECD"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_41"
+            },
+            {
+                "question": "Osmanlı'da tahta en uzun süre kalan padişah kimdir?",
+                "options": [
+                    "Kanuni Sultan Süleyman",
+                    "Fatih Sultan Mehmet",
+                    "IV. Mehmet",
+                    "II. Abdülhamit"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_42"
+            },
+            {
+                "question": "Arap Baharı ilk olarak hangi ülkede başlamıştır?",
+                "options": [
+                    "Tunus",
+                    "Mısır",
+                    "Libya",
+                    "Suriye"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_43"
+            },
+            {
+                "question": "Osmanlı'da ilk rasathaneyi kim kurmuştur?",
+                "options": [
+                    "Takiyüddin Mehmet",
+                    "Ali Kuşçu",
+                    "Uluğ Bey",
+                    "Piri Reis"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_44"
+            },
+            {
+                "question": "Kyoto Protokolü'nün amacı nedir?",
+                "options": [
+                    "Sera gazı salınımını azaltmak",
+                    "Nükleer silahları azaltmak",
+                    "Serbest ticareti artırmak",
+                    "Mülteci haklarını korumak"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_45"
+            },
+            {
+                "question": "Osmanlı'da 'Darülaceze'yi kuran padişah kimdir?",
+                "options": [
+                    "II. Abdülhamit",
+                    "Abdülmecit",
+                    "Abdülaziz",
+                    "V. Murat"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_46"
+            },
+            {
+                "question": "Türkiye'nin Avrupa Birliği'ne tam üyelik başvurusu yaptığı tarih (Helsinki Zirvesi öncesi) hangisidir?",
+                "options": [
+                    "1987",
+                    "1999",
+                    "1963",
+                    "2005"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_47"
+            },
+            {
+                "question": "Osmanlı'da 'Tımar' sistemi hangi padişah döneminde kaldırılmıştır?",
+                "options": [
+                    "II. Mahmut",
+                    "III. Selim",
+                    "I. Abdülhamit",
+                    "Abdülmecit"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_48"
+            },
+            {
+                "question": "12 Eylül 1980 darbesinden sonra kurulan partilerden hangisi iktidara gelmiştir?",
+                "options": [
+                    "Anavatan Partisi (ANAP)",
+                    "Halkçı Parti",
+                    "Milliyetçi Demokrasi Partisi",
+                    "Refah Partisi"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_49"
+            },
+            {
+                "question": "Osmanlı'da 'Mecelle' hangi hukuka dayanır?",
+                "options": [
+                    "İslam Hukuku",
+                    "Roma Hukuku",
+                    "İsviçre Hukuku",
+                    "Örfi Hukuk"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch2_50"
+            },
+            {
+                "question": "Halkçılık ilkesi en çok hangi ilke ile bütünleşir?",
+                "options": [
+                    "Cumhuriyetçilik ve Milliyetçilik",
+                    "Devletçilik",
+                    "Laiklik",
+                    "İnkılapçılık"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_1"
+            },
+            {
+                "question": "Halifeliğin kaldırılması hangi tarihte gerçekleşmiştir?",
+                "options": [
+                    "3 Mart 1924",
+                    "29 Ekim 1923",
+                    "1 Kasım 1922",
+                    "17 Şubat 1926"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_2"
+            },
+            {
+                "question": "Tekke ve zaviyelerin kapatılması, Atatürk'ün hangi ilkesiyle doğrudan ilgilidir?",
+                "options": [
+                    "Laiklik",
+                    "Devletçilik",
+                    "Cumhuriyetçilik",
+                    "Milliyetçilik"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_3"
+            },
+            {
+                "question": "Soyadı Kanunu hangi yıl kabul edilmiştir?",
+                "options": [
+                    "1934",
+                    "1930",
+                    "1928",
+                    "1935"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_4"
+            },
+            {
+                "question": "Türk kadınına milletvekili seçme ve seçilme hakkı ne zaman verilmiştir?",
+                "options": [
+                    "1934",
+                    "1930",
+                    "1933",
+                    "1926"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_5"
+            },
+            {
+                "question": "Kabotaj Kanunu'nun kabulü hangi alanda millileşmeyi sağlamıştır?",
+                "options": [
+                    "Denizcilik",
+                    "Demiryolları",
+                    "Eğitim",
+                    "Bankacılık"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_6"
+            },
+            {
+                "question": "Teşvik-i Sanayi Kanunu neden başarısız olmuştur?",
+                "options": [
+                    "Sermaye ve teknik bilgi yetersizliği",
+                    "II. Dünya Savaşı",
+                    "Dış baskılar",
+                    "Halkın isteksizliği"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_7"
+            },
+            {
+                "question": "Şapka İnkılabı hangi ilde tanıtılmıştır?",
+                "options": [
+                    "Kastamonu",
+                    "Ankara",
+                    "İstanbul",
+                    "İzmir"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_8"
+            },
+            {
+                "question": "Millet Mektepleri hangi yeniliğin uygulanmasını sağlamak için açılmıştır?",
+                "options": [
+                    "Yeni Türk Harfleri",
+                    "Soyadı Kanunu",
+                    "Medeni Kanun",
+                    "Kılık Kıyafet Kanunu"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_9"
+            },
+            {
+                "question": "Türk Tarih Kurumu hangi yıl kurulmuştur?",
+                "options": [
+                    "1931",
+                    "1932",
+                    "1923",
+                    "1928"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_10"
+            },
+            {
+                "question": "Hangi parti Türkiye Cumhuriyeti'nin ilk muhalefet partisidir?",
+                "options": [
+                    "Terakkiperver Cumhuriyet Fırkası",
+                    "Serbest Cumhuriyet Fırkası",
+                    "Demokrat Parti",
+                    "Milli Kalkınma Partisi"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_11"
+            },
+            {
+                "question": "Serbest Cumhuriyet Fırkası'nın kurucusu kimdir?",
+                "options": [
+                    "Ali Fethi Okyar",
+                    "Kazım Karabekir",
+                    "Adnan Menderes",
+                    "Celal Bayar"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_12"
+            },
+            {
+                "question": "İzmir Suikastı girişimi kime yönelik planlanmıştır?",
+                "options": [
+                    "Mustafa Kemal Atatürk",
+                    "İsmet İnönü",
+                    "Fevzi Çakmak",
+                    "Kazım Karabekir"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_13"
+            },
+            {
+                "question": "Menemen Olayı'nda şehit edilen asteğmen kimdir?",
+                "options": [
+                    "Mustafa Fehmi Kubilay",
+                    "Hasan Tahsin",
+                    "Şahin Bey",
+                    "Yahya Çavuş"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_14"
+            },
+            {
+                "question": "Hangi antlaşma ile Türkiye'nin bugünkü doğu sınırı kesinlik kazanmıştır?",
+                "options": [
+                    "Kars Antlaşması",
+                    "Moskova Antlaşması",
+                    "Gümrü Antlaşması",
+                    "Lozan Antlaşması"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_15"
+            },
+            {
+                "question": "Mudanya Ateşkes Antlaşması'nda TBMM'yi kim temsil etmiştir?",
+                "options": [
+                    "İsmet İnönü",
+                    "Rauf Orbay",
+                    "Bekir Sami Bey",
+                    "Yusuf Kemal Tengirşenk"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_16"
+            },
+            {
+                "question": "Lozan Antlaşması'nda çözülemeyen tek sorun nedir?",
+                "options": [
+                    "Musul (Irak Sınırı)",
+                    "Kapitülasyonlar",
+                    "Azınlıklar",
+                    "Boğazlar"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_17"
+            },
+            {
+                "question": "Mustafa Kemal'in 'Benim şahsi meselem' dediği konu nedir?",
+                "options": [
+                    "Hatay Sorunu",
+                    "Musul Sorunu",
+                    "Boğazlar Sorunu",
+                    "Nüfus Mübadelesi"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_18"
+            },
+            {
+                "question": "Nutuk hangi olayla başlar?",
+                "options": [
+                    "19 Mayıs 1919 Samsun'a çıkış",
+                    "TBMM'nin açılması",
+                    "Cumhuriyetin ilanı",
+                    "Erzurum Kongresi"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_19"
+            },
+            {
+                "question": "Türkiye Milletler Cemiyeti'ne ne zaman üye olmuştur?",
+                "options": [
+                    "1932",
+                    "1930",
+                    "1939",
+                    "1945"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_20"
+            },
+            {
+                "question": "Sadabad Paktı hangi tehlikeye karşı kurulmuştur?",
+                "options": [
+                    "İtalyan yayılmacılığı",
+                    "Alman yayılmacılığı",
+                    "SSCB tehdidi",
+                    "Bulgar yayılmacılığı"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_21"
+            },
+            {
+                "question": "Montrö Boğazlar Sözleşmesi hangi yıl imzalanmıştır?",
+                "options": [
+                    "1936",
+                    "1923",
+                    "1939",
+                    "1932"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_22"
+            },
+            {
+                "question": "Türk Dil Kurumu'nun ilk başkanı kimdir?",
+                "options": [
+                    "Samih Rıfat",
+                    "Ruşen Eşref Ünaydın",
+                    "Yakup Kadri Karaosmanoğlu",
+                    "Falih Rıfkı Atay"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_23"
+            },
+            {
+                "question": "Hangi devrim 'ekonomik bağımsızlık' amacı taşır?",
+                "options": [
+                    "Kapitülasyonların kaldırılması",
+                    "Şapka Kanunu",
+                    "Soyadı Kanunu",
+                    "Harf İnkılabı"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_24"
+            },
+            {
+                "question": "Aşar vergisinin kaldırılması hangi ilke doğrultusunda yapılmıştır?",
+                "options": [
+                    "Halkçılık",
+                    "Laiklik",
+                    "Milliyetçilik",
+                    "Devletçilik"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_25"
+            },
+            {
+                "question": "Türkiye'de ilk nüfus sayımı ne zaman yapılmıştır?",
+                "options": [
+                    "1927",
+                    "1923",
+                    "1935",
+                    "1940"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_26"
+            },
+            {
+                "question": "Sanayi-i Nefise Mektebi'nin adı ne olarak değiştirilmiştir?",
+                "options": [
+                    "Güzel Sanatlar Akademisi",
+                    "Ankara Üniversitesi",
+                    "İstanbul Üniversitesi",
+                    "Dil ve Tarih-Coğrafya Fakültesi"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_27"
+            },
+            {
+                "question": "Türkiye'nin çok partili hayata kesin geçişi hangi seçimle olmuştur?",
+                "options": [
+                    "1946 Seçimleri",
+                    "1950 Seçimleri",
+                    "1945 Seçimleri",
+                    "1930 Seçimleri"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_28"
+            },
+            {
+                "question": "Demokrat Parti'nin kurucuları arasında kim yoktur (Dörtlü Takrir)?",
+                "options": [
+                    "Fevzi Çakmak",
+                    "Celal Bayar",
+                    "Adnan Menderes",
+                    "Fuat Köprülü"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_29"
+            },
+            {
+                "question": "Halkevleri'nin yayın organı olan dergi hangisidir?",
+                "options": [
+                    "Ülkü",
+                    "Kadro",
+                    "Varlık",
+                    "Türk Yurdu"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_30"
+            },
+            {
+                "question": "Musul hangi antlaşma ile İngiliz mandasındaki Irak'a bırakılmıştır?",
+                "options": [
+                    "1926 Ankara Antlaşması",
+                    "Lozan Antlaşması",
+                    "Moskova Antlaşması",
+                    "Kars Antlaşması"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_31"
+            },
+            {
+                "question": "Şeyh Sait İsyanı, hangi sorunun çözümünü Türkiye aleyhine etkilemiştir?",
+                "options": [
+                    "Musul Sorunu",
+                    "Hatay Sorunu",
+                    "Boğazlar Sorunu",
+                    "Yabancı Okullar Sorunu"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_32"
+            },
+            {
+                "question": "Atatürk Dönemi'nde en son katılan toprak parçası neresidir? (Vefatından sonra kesinleşse de süreç O'nun döneminde başladı)",
+                "options": [
+                    "Hatay",
+                    "Musul",
+                    "Batum",
+                    "Kıbrıs"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_33"
+            },
+            {
+                "question": "Türkiye İktisat Kongresi nerede toplanmıştır?",
+                "options": [
+                    "İzmir",
+                    "Ankara",
+                    "İstanbul",
+                    "Sivas"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_34"
+            },
+            {
+                "question": "Birinci Beş Yıllık Sanayi Planı hangi yıllarda uygulanmıştır?",
+                "options": [
+                    "1934-1939",
+                    "1930-1935",
+                    "1923-1928",
+                    "1940-1945"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_35"
+            },
+            {
+                "question": "Köy Enstitüleri hangi yıl kurulmuştur?",
+                "options": [
+                    "1940",
+                    "1938",
+                    "1929",
+                    "1945"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_36"
+            },
+            {
+                "question": "Hangi ilke, din ve devlet işlerinin birbirinden ayrılmasını savunur?",
+                "options": [
+                    "Laiklik",
+                    "Milliyetçilik",
+                    "Halkçılık",
+                    "Cumhuriyetçilik"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_37"
+            },
+            {
+                "question": "Takrir-i Sükun Yasası ne kadar süre yürürlükte kalmıştır?",
+                "options": [
+                    "4 yıl",
+                    "2 yıl",
+                    "6 ay",
+                    "1 yıl"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_38"
+            },
+            {
+                "question": "Ankara ne zaman başkent ilan edilmiştir?",
+                "options": [
+                    "13 Ekim 1923",
+                    "29 Ekim 1923",
+                    "23 Nisan 1920",
+                    "24 Temmuz 1923"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_39"
+            },
+            {
+                "question": "Medine Müdafii olarak bilinen komutan kimdir?",
+                "options": [
+                    "Fahrettin Paşa",
+                    "Enver Paşa",
+                    "Cemal Paşa",
+                    "Kazım Karabekir"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_40"
+            },
+            {
+                "question": "Balkan Paktı (1953) hangi ülkeler arasında imzalanmıştır?",
+                "options": [
+                    "Türkiye, Yunanistan, Yugoslavya",
+                    "Türkiye, Romanya, Bulgaristan",
+                    "Türkiye, Yunanistan, İran",
+                    "Türkiye, Irak, İran"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_41"
+            },
+            {
+                "question": "Türkiye'nin ilk yerli uçağını yapan kişi kimdir?",
+                "options": [
+                    "Vecihi Hürkuş",
+                    "Nuri Demirağ",
+                    "Şakir Zümre",
+                    "Selahattin Alan"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_42"
+            },
+            {
+                "question": "Atatürk'ün 'Yurtta sulh, cihanda sulh' sözü, dış politikada hangi anlayışı yansıtır?",
+                "options": [
+                    "Barışçılık",
+                    "Yayılmacılık",
+                    "Sömürgecilik",
+                    "İzolasyonizm"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_43"
+            },
+            {
+                "question": "1929 Dünya Ekonomik Buhranı Türkiye'de hangi politikanın uygulanmasına neden olmuştur?",
+                "options": [
+                    "Devletçilik",
+                    "Liberalizm",
+                    "Tarım Reformu",
+                    "Özelleştirme"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_44"
+            },
+            {
+                "question": "Atatürk'ün naaşı Anıtkabir'e ne zaman nakledilmiştir?",
+                "options": [
+                    "10 Kasım 1953",
+                    "10 Kasım 1938",
+                    "29 Ekim 1950",
+                    "23 Nisan 1945"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_45"
+            },
+            {
+                "question": "Hangi inkılap 'çağdaşlaşma' yolunda en radikal adımdır?",
+                "options": [
+                    "Kılık Kıyafet Kanunu",
+                    "Soyadı Kanunu",
+                    "Ölçü ve Tartıların Değişmesi",
+                    "Hafta Tatilinin Değişmesi"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_46"
+            },
+            {
+                "question": "Darülfünun reformu sonucu kurulan üniversite hangisidir?",
+                "options": [
+                    "İstanbul Üniversitesi",
+                    "Ankara Üniversitesi",
+                    "Marmara Üniversitesi",
+                    "Ege Üniversitesi"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_47"
+            },
+            {
+                "question": "Atatürk'ün yazdığı 'Geometri' kitabı hangi amaçla yazılmıştır?",
+                "options": [
+                    "Terimlerin Türkçeleştirilmesi",
+                    "Müfredat değişikliği",
+                    "Askeri eğitim",
+                    "Tarih araştırmaları"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_48"
+            },
+            {
+                "question": "Türkiye'nin ilk muhalefet partisini (TCF) kuran kadro içinde yer almayan kimdir?",
+                "options": [
+                    "Fevzi Çakmak",
+                    "Kazım Karabekir",
+                    "Rauf Orbay",
+                    "Ali Fuat Cebesoy"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_49"
+            },
+            {
+                "question": "Nutuk hangi kurumun kurultayında okunmuştur?",
+                "options": [
+                    "Cumhuriyet Halk Fırkası",
+                    "Türk Tarih Kurumu",
+                    "Türk Dil Kurumu",
+                    "TBMM"
+                ],
+                "correct_answer": 0,
+                "category": "KPSS Tarih",
+                "source_id": "kpss_tarih_batch3_50"
+            }
         ]
     }
 }
