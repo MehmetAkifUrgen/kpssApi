@@ -1,6 +1,1207 @@
 {
     "categories": {
         "Genel Kültür": [
+    {
+        "question": "Mustafa Kemal Atatürk 'Nutuk' adlı eserini hangi tarihte okumuştur?",
+        "options": [
+            "1923",
+            "1927",
+            "1938",
+            "1920"
+        ],
+        "correct_answer": 1,
+        "category": "Tarih",
+        "source_id": "Kaynak 3 - Memurlar.Net"
+    },
+    {
+        "question": "Türkiye'nin en büyük gölü aşağıdakilerden hangisidir?",
+        "options": [
+            "Tuz Gölü",
+            "Beyşehir Gölü",
+            "Van Gölü",
+            "Eğirdir Gölü"
+        ],
+        "correct_answer": 2,
+        "category": "Coğrafya",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "İspanya milli marşının en belirgin özelliği nedir?",
+        "options": [
+            "Sözlerinin olmaması, sadece melodiden oluşması",
+            "Dünyanın en eski marşı olması",
+            "Dört farklı dilde söylenmesi",
+            "Kral tarafından bestelenmesi"
+        ],
+        "correct_answer": 0,
+        "category": "Genel Kültür",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+    {
+        "question": "Hangi hayvan yediklerini sindirebilmek için iki hafta ile bir ay arası zamana ihtiyaç duyar?",
+        "options": [
+            "Koala",
+            "Tembel Hayvan (Sloth)",
+            "Panda",
+            "Komodo Ejderi"
+        ],
+        "correct_answer": 1,
+        "category": "Biyoloji/İlginç Bilgiler",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+    {
+        "question": "Rönesans döneminin ünlü eseri 'Mona Lisa'yı kim yapmıştır?",
+        "options": [
+            "Michelangelo",
+            "Raphael",
+            "Donatello",
+            "Leonardo Da Vinci"
+        ],
+        "correct_answer": 3,
+        "category": "Sanat",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Dünyanın yedi harikasından biri olan 'Babil'in Asma Bahçeleri'ni hangi kral yaptırmıştır?",
+        "options": [
+            "Hammurabi",
+            "Nebukadnezar",
+            "Sargon",
+            "Darius"
+        ],
+        "correct_answer": 1,
+        "category": "Tarih",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "657 Sayılı Devlet Memurları Kanunu'na göre, memurların kuruma sadakat yemini ne zaman yapılır?",
+        "options": [
+            "Göreve başladıkları ilk gün",
+            "Adaylık süresi dolup Asli Devlet Memurluğuna atandıktan sonra en geç bir ay içinde",
+            "İlk maaşlarını aldıklarında",
+            "Emekli olurken"
+        ],
+        "correct_answer": 1,
+        "category": "Hukuk/Mevzuat",
+        "source_id": "Kaynak 3 - Memurlar.Net"
+    },
+    {
+        "question": "İkinci Dünya Savaşı'nda atom bombası hangi ülkeye atılmıştır?",
+        "options": [
+            "Almanya",
+            "İtalya",
+            "Japonya",
+            "Rusya"
+        ],
+        "correct_answer": 2,
+        "category": "Tarih",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "Futbol maçlarında oynanan topun FİFA kurallarına göre ağırlığı ne kadar olmalıdır?",
+        "options": [
+            "400 Gram",
+            "452 Gram",
+            "500 Gram",
+            "350 Gram"
+        ],
+        "correct_answer": 1,
+        "category": "Spor",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "Fransa ile İngiltere'yi birbirine bağlayan tünelin adı nedir?",
+        "options": [
+            "Avrasya Tüneli",
+            "Manş Tüneli (Manch)",
+            "Gotthard Tüneli",
+            "Seikan Tüneli"
+        ],
+        "correct_answer": 1,
+        "category": "Genel Kültür",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "Türkiye'nin en yüksek dağı hangisidir?",
+        "options": [
+            "Erciyes Dağı",
+            "Süphan Dağı",
+            "Uludağ",
+            "Ağrı Dağı"
+        ],
+        "correct_answer": 3,
+        "category": "Coğrafya",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "Dünyanın en uzun nehri hangisidir?",
+        "options": [
+            "Amazon Nehri",
+            "Nil Nehri",
+            "Yangtze Nehri",
+            "Mississippi Nehri"
+        ],
+        "correct_answer": 1,
+        "category": "Coğrafya",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "İspanya'da geçmişte kurulmuş olan İslam Devletinin adı nedir?",
+        "options": [
+            "Abbasiler",
+            "Selçuklular",
+            "Endülüs Emevi Devleti",
+            "Fatımiler"
+        ],
+        "correct_answer": 2,
+        "category": "Tarih",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "Dinamik ve hareketli heykelleriyle bilinen 'Barok Sanat'ın ünlü heykeltıraşı kimdir?",
+        "options": [
+            "Michelangelo",
+            "Donatello",
+            "Bernini",
+            "Rodin"
+        ],
+        "correct_answer": 2,
+        "category": "Sanat Tarihi",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Hangi gezegenin ismi bir tanrı adından gelmez?",
+        "options": [
+            "Mars",
+            "Venüs",
+            "Dünya",
+            "Jüpiter"
+        ],
+        "correct_answer": 2,
+        "category": "Astronomi/Genel Kültür",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+    {
+        "question": "Satrançtaki olası hamle sayısı ile evrendeki atom sayısı karşılaştırıldığında hangisi daha fazladır?",
+        "options": [
+            "Evrendeki atom sayısı",
+            "Satrançtaki olası hamle sayısı",
+            "İkisi de eşittir",
+            "Bilimsel olarak hesaplanamaz"
+        ],
+        "correct_answer": 1,
+        "category": "Bilim/İlginç Bilgiler",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+    {
+        "question": "Votka kelimesinin Rusçadaki kökeni olan 'woda' ne anlama gelir?",
+        "options": [
+            "Ateş",
+            "Su",
+            "Hayat",
+            "Neşe"
+        ],
+        "correct_answer": 1,
+        "category": "Etirnoloji/Genel Kültür",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+    {
+        "question": "Hangi ülkenin ehliyetini almak sadece 3 gün sürer?",
+        "options": [
+            "Kenya",
+            "Hindistan",
+            "Mısır",
+            "Brezilya"
+        ],
+        "correct_answer": 0,
+        "category": "Genel Kültür",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+    {
+        "question": "Çin Seddi'nin uzunluğu yaklaşık ne kadardır?",
+        "options": [
+            "5.000 km",
+            "10.000 km",
+            "21.196 km",
+            "1.500 km"
+        ],
+        "correct_answer": 2,
+        "category": "Tarih/Coğrafya",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+    {
+        "question": "Yazıyı Anadolu'ya getiren ve Anadolu'da tarih çağlarını başlatan uygarlık hangisidir?",
+        "options": [
+            "Hititler",
+            "Asur Ticaret Kolonileri",
+            "Frigler",
+            "Lidyalılar"
+        ],
+        "correct_answer": 1,
+        "category": "Tarih",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Anadolu'da kurulan Frigya uygarlığının başkenti neresidir?",
+        "options": [
+            "Sardes",
+            "Tuşpa",
+            "Hattuşaş",
+            "Gordion"
+        ],
+        "correct_answer": 3,
+        "category": "Tarih",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Eski Mısır'da ölülerin ruhlarının geri döneceğine inanıldığı için yapılan işlem nedir?",
+        "options": [
+            "Yakma",
+            "Mumyalama",
+            "Denize bırakma",
+            "Toprağa gömme"
+        ],
+        "correct_answer": 1,
+        "category": "Tarih/Kültür",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Sümerlerin kule şeklindeki tapınaklarına ne ad verilir?",
+        "options": [
+            "Piramit",
+            "Ziggurat",
+            "Kümbet",
+            "Obelisk"
+        ],
+        "correct_answer": 1,
+        "category": "Sanat Tarihi",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Mısır resim sanatında baş ve ayakların profilden, vücudun cepheden gösterildiği duruşa ne ad verilir?",
+        "options": [
+            "Frontal Duruş",
+            "Rönesans Duruşu",
+            "Mısır Duruşu",
+            "Gotik Duruş"
+        ],
+        "correct_answer": 0,
+        "category": "Sanat Tarihi",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Dünyaca ünlü 'Düşünen Adam' heykeli hangi heykeltıraşa aittir?",
+        "options": [
+            "Michelangelo",
+            "Donatello",
+            "Auguste Rodin",
+            "Bernini"
+        ],
+        "correct_answer": 2,
+        "category": "Sanat",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "İzlenimcilik (Empresyonizm) akımına tepki olarak doğan ve nesneleri geometrik şekillerle anlatan akım hangisidir?",
+        "options": [
+            "Romantizm",
+            "Kübizm",
+            "Barok",
+            "Realizm"
+        ],
+        "correct_answer": 1,
+        "category": "Sanat Akımları",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Pablo Picasso hangi sanat akımının öncüsüdür?",
+        "options": [
+            "Sürrealizm",
+            "Dadaizm",
+            "Kübizm",
+            "Pop Art"
+        ],
+        "correct_answer": 2,
+        "category": "Sanat",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Salvador Dali hangi sanat akımının en önemli temsilcisidir?",
+        "options": [
+            "Sürrealizm (Gerçeküstücülük)",
+            "Realizm",
+            "Romantizm",
+            "Neoklasisizm"
+        ],
+        "correct_answer": 0,
+        "category": "Sanat",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Reklamcılık ve sanayi ürünlerinin afişleriyle ortaya çıkan sanat akımı hangisidir?",
+        "options": [
+            "Gotik",
+            "Barok",
+            "Pop Art",
+            "Rönesans"
+        ],
+        "correct_answer": 2,
+        "category": "Sanat Akımları",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Ceza muhakemesinde, iddianamenin kabulüyle başlayıp hükmün kesinleşmesine kadar geçen evreye ne denir?",
+        "options": [
+            "Soruşturma",
+            "Kovuşturma",
+            "Gözaltı",
+            "Tutukluluk"
+        ],
+        "correct_answer": 1,
+        "category": "Hukuk",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "Şüpheli veya sanığın savunmasını yapan avukata ne ad verilir?",
+        "options": [
+            "Savcı",
+            "Hakim",
+            "Müdafi",
+            "Katip"
+        ],
+        "correct_answer": 2,
+        "category": "Hukuk",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "1921 yılında Nobel Fizik Ödülü'nü kazanan ünlü bilim insanı kimdir?",
+        "options": [
+            "Niels Bohr",
+            "Max Planck",
+            "Albert Einstein",
+            "Marie Curie"
+        ],
+        "correct_answer": 2,
+        "category": "Bilim Tarihi",
+        "source_id": "Kaynak 6 - Nobel Ödülü Sahipleri"
+    },
+    {
+        "question": "Hem Fizik hem de Kimya dalında Nobel Ödülü kazanan ilk kişi kimdir?",
+        "options": [
+            "Albert Einstein",
+            "Marie Curie",
+            "Linus Pauling",
+            "Ernest Rutherford"
+        ],
+        "correct_answer": 1,
+        "category": "Bilim Tarihi",
+        "source_id": "Kaynak 6 - Nobel Ödülü Sahipleri"
+    },
+    {
+        "question": "2006 yılında Nobel Edebiyat Ödülü'nü kazanan Türk yazar kimdir?",
+        "options": [
+            "Yaşar Kemal",
+            "Orhan Pamuk",
+            "Elif Şafak",
+            "Ahmet Hamdi Tanpınar"
+        ],
+        "correct_answer": 1,
+        "category": "Edebiyat",
+        "source_id": "Kaynak 6 - Nobel Ödülü Sahipleri"
+    },
+    {
+        "question": "Büyük Patlama'nın kozmik fon radyasyonuyla belirlenen uzayın taban sıcaklığı kaç Kelvindir?",
+        "options": [
+            "0 Kelvin",
+            "100 Kelvin",
+            "2,7 Kelvin",
+            "-273 Kelvin"
+        ],
+        "correct_answer": 2,
+        "category": "Uzay Bilimi",
+        "source_id": "Kaynak 8 - Uzay Vikipedi"
+    },
+    {
+        "question": "Evrenin kütle-enerjisinin büyük çoğunluğunu oluşturduğu düşünülen, henüz tam anlaşılamamış enerji türü nedir?",
+        "options": [
+            "Nükleer Enerji",
+            "Karanlık Enerji",
+            "Güneş Enerjisi",
+            "Kinetik Enerji"
+        ],
+        "correct_answer": 1,
+        "category": "Uzay Bilimi",
+        "source_id": "Kaynak 8 - Uzay Vikipedi"
+    },
+    {
+        "question": "Uzayın başlangıcı olarak kabul edilen, deniz seviyesinden 100 km yüksekteki sınıra ne ad verilir?",
+        "options": [
+            "Ozon Tabakası",
+            "Kármán Hattı",
+            "Termosfer",
+            "Manyetosfer"
+        ],
+        "correct_answer": 1,
+        "category": "Uzay Bilimi",
+        "source_id": "Kaynak 8 - Uzay Vikipedi"
+    },
+    {
+        "question": "İlk yapay uydu olan 'Sputnik' hangi ülke tarafından fırlatılmıştır?",
+        "options": [
+            "ABD",
+            "SSCB (Sovyetler Birliği)",
+            "Çin",
+            "Almanya"
+        ],
+        "correct_answer": 1,
+        "category": "Uzay Tarihi",
+        "source_id": "Kaynak 8 - Uzay Vikipedi"
+    },
+    {
+        "question": "Uzaya giden ilk insan kimdir?",
+        "options": [
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "Laika"
+        ],
+        "correct_answer": 2,
+        "category": "Uzay Tarihi",
+        "source_id": "Kaynak 8 - Uzay Vikipedi"
+    },
+    {
+        "question": "Hukukta 'iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafın' yükümlülüğüne ne denir?",
+        "options": [
+            "Yemin yükü",
+            "İspat yükü",
+            "Savunma hakkı",
+            "Temyiz hakkı"
+        ],
+        "correct_answer": 1,
+        "category": "Hukuk",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "Mustafa Kemal Atatürk, Vatan ve Hürriyet Cemiyeti'ni hangi şehirde kurmuştur?",
+        "options": [
+            "Selanik",
+            "İstanbul",
+            "Şam",
+            "Manastır"
+        ],
+        "correct_answer": 2,
+        "category": "Tarih/İnkılap Tarihi",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "Trablusgarp Savaşı hangi devletler arasında yapılmıştır?",
+        "options": [
+            "Osmanlı - İngiltere",
+            "Osmanlı - İtalya",
+            "Osmanlı - Fransa",
+            "Osmanlı - Rusya"
+        ],
+        "correct_answer": 1,
+        "category": "Tarih",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "Mustafa Kemal'in 'Milli Mücadele'nin lideri' olarak kabul edilmesinde en etkili olan savaş hangisidir?",
+        "options": [
+            "Trablusgarp Savaşı",
+            "Balkan Savaşları",
+            "Çanakkale Savaşı",
+            "1. Dünya Savaşı"
+        ],
+        "correct_answer": 2,
+        "category": "Tarih",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "Türkiye'nin ilk yerli ve milli gözlem uydusunun adı nedir?",
+        "options": [
+            "GÖKTÜRK",
+            "RASAT",
+            "İMECE",
+            "TÜRKSAT"
+        ],
+        "correct_answer": 2,
+        "category": "Güncel Bilgiler",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "Türkiye'nin ilk uzay yolcularından biri olarak açıklanan isim kimdir?",
+        "options": [
+            "Alper Gezeravcı",
+            "Aziz Sancar",
+            "Oktay Sinanoğlu",
+            "Umut Yıldız"
+        ],
+        "correct_answer": 0,
+        "category": "Güncel Bilgiler",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "Dünyanın ilk SİHA gemisi olarak TSK'ya teslim edilen geminin adı nedir?",
+        "options": [
+            "TCG Anadolu",
+            "TCG İstanbul",
+            "TCG Bayraktar",
+            "TCG Sancaktar"
+        ],
+        "correct_answer": 0,
+        "category": "Güncel Bilgiler",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "76. Cannes Film Festivali'nde 'Kuru Otlar Üstüne' filmindeki performansıyla en iyi kadın oyuncu ödülünü kim almıştır?",
+        "options": [
+            "Beren Saat",
+            "Merve Dizdar",
+            "Tuba Büyüküstün",
+            "Cansu Dere"
+        ],
+        "correct_answer": 1,
+        "category": "Sanat/Güncel",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "UNESCO tarafından 'ortak miras' ilan edilen Kırgız destanı hangisidir?",
+        "options": [
+            "Ergenekon Destanı",
+            "Oğuz Kağan Destanı",
+            "Manas Destanı",
+            "Dede Korkut"
+        ],
+        "correct_answer": 2,
+        "category": "Kültür/Güncel",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "Merkez Bankası'nın ilk kadın başkanı kimdir?",
+        "options": [
+            "Tansu Çiller",
+            "Hafize Gaye Erkan",
+            "Güler Sabancı",
+            "Ümit Boyner"
+        ],
+        "correct_answer": 1,
+        "category": "Güncel Bilgiler",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "Türkiye'nin ilk Nekropol müzesi hangi ilimizde açılmıştır?",
+        "options": [
+            "İstanbul",
+            "Ankara",
+            "Antalya",
+            "İzmir"
+        ],
+        "correct_answer": 2,
+        "category": "Kültür/Turizm",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "MÖ 883’ten MÖ 627’ye kadar Orta Doğu’yu yöneten imparatorluğun adı nedir?",
+        "options": [
+            "Babil İmparatorluğu",
+            "Pers İmparatorluğu",
+            "Asur İmparatorluğu",
+            "Sümer İmparatorluğu"
+        ],
+        "correct_answer": 2,
+        "category": "Tarih",
+        "source_id": "Kaynak 1 - Wooclap"
+    },
+    {
+        "question": "Augustus’un evlatlık babası kimdir?",
+        "options": [
+            "Nero",
+            "Marcus Antonius",
+            "Jül Sezar",
+            "Diyojen"
+        ],
+        "correct_answer": 2,
+        "category": "Tarih",
+        "source_id": "Kaynak 1 - Wooclap"
+    },
+    {
+        "question": "1832 yılında ilk şehir içi tramvay hattını hizmete sokan büyük şehir hangisidir?",
+        "options": [
+            "Londra",
+            "New York",
+            "Berlin",
+            "Paris"
+        ],
+        "correct_answer": 1,
+        "category": "Tarih/Genel Kültür",
+        "source_id": "Kaynak 1 - Wooclap"
+    },
+    {
+        "question": "2013 yılında Avrupa Birliği’ne katılan son ülke hangisidir?",
+        "options": [
+            "Bulgaristan",
+            "Hırvatistan",
+            "Romanya",
+            "Estonya"
+        ],
+        "correct_answer": 1,
+        "category": "Güncel Bilgiler",
+        "source_id": "Kaynak 1 - Wooclap"
+    },
+    {
+        "question": "Gaz, sıvı ve katıdan sonra maddenin dördüncü hali nedir?",
+        "options": [
+            "Jöle",
+            "Eter",
+            "Plazma",
+            "Buhar"
+        ],
+        "correct_answer": 2,
+        "category": "Bilim",
+        "source_id": "Kaynak 1 - Wooclap"
+    },
+    {
+        "question": "Vücudumuzda 'Patella' kemiği nerede bulunur?",
+        "options": [
+            "Kafatası",
+            "Kürek kemiği",
+            "Dizkapağı",
+            "Omurga"
+        ],
+        "correct_answer": 2,
+        "category": "Bilim/Anatomi",
+        "source_id": "Kaynak 1 - Wooclap"
+    },
+    {
+        "question": "Güneş Sistemi’ndeki en büyük gaz gezegeni hangisidir?",
+        "options": [
+            "Satürn",
+            "Uranüs",
+            "Jüpiter",
+            "Neptün"
+        ],
+        "correct_answer": 2,
+        "category": "Uzay",
+        "source_id": "Kaynak 1 - Wooclap"
+    },
+    {
+        "question": "Edebiyatta, kelimelerin grafik düzenlemesiyle bir şekil oluşturan şiire ne ad verilir?",
+        "options": [
+            "Kaligram",
+            "Ambigram",
+            "Sonnet",
+            "Akrostiş"
+        ],
+        "correct_answer": 0,
+        "category": "Edebiyat",
+        "source_id": "Kaynak 1 - Wooclap"
+    },
+    {
+        "question": "Campbell’s çorba kutularını ünlü yapan Pop Art sanatçısı kimdir?",
+        "options": [
+            "Roy Lichtenstein",
+            "Andy Warhol",
+            "Salvador Dali",
+            "Pablo Picasso"
+        ],
+        "correct_answer": 1,
+        "category": "Sanat",
+        "source_id": "Kaynak 1 - Wooclap"
+    },
+    {
+        "question": "Standart bir piyano klavyesinde kaç tuş bulunur?",
+        "options": [
+            "66",
+            "72",
+            "88",
+            "100"
+        ],
+        "correct_answer": 2,
+        "category": "Müzik",
+        "source_id": "Kaynak 1 - Wooclap"
+    },
+    {
+        "question": "Hangi hayvan kafası olmadan birkaç gün daha yaşayabilir?",
+        "options": [
+            "Karınca",
+            "Hamam böceği",
+            "Tavuk",
+            "Kertenkele"
+        ],
+        "correct_answer": 1,
+        "category": "Biyoloji/İlginç Bilgiler",
+        "source_id": "Kaynak 1 - Wooclap"
+    },
+    {
+        "question": "Antik Dünyanın Yedi Harikası'ndan günümüze kadar ayakta kalabilen tek yapı hangisidir?",
+        "options": [
+            "Babil'in Asma Bahçeleri",
+            "Artemis Tapınağı",
+            "Keops Piramidi",
+            "İskenderiye Feneri"
+        ],
+        "correct_answer": 2,
+        "category": "Tarih",
+        "source_id": "Kaynak 2 - Vikipedi (Yedi Harika)"
+    },
+    {
+        "question": "Dünyanın Yedi Harikası listesini ilk olarak MÖ 5. yüzyılda ortaya atan tarihçi kimdir?",
+        "options": [
+            "Homeros",
+            "Herodotos",
+            "Strabon",
+            "Sokrates"
+        ],
+        "correct_answer": 1,
+        "category": "Tarih",
+        "source_id": "Kaynak 2 - Vikipedi (Yedi Harika)"
+    },
+    {
+        "question": "Babil'in Asma Bahçeleri hangi kral tarafından yaptırılmıştır?",
+        "options": [
+            "Hammurabi",
+            "Nebukadnezar",
+            "Sargon",
+            "Darius"
+        ],
+        "correct_answer": 1,
+        "category": "Tarih",
+        "source_id": "Kaynak 2 - Vikipedi (Yedi Harika)"
+    },
+    {
+        "question": "Rodos Heykeli hangi tanrıya ithafen yapılmıştır?",
+        "options": [
+            "Zeus",
+            "Poseidon",
+            "Helios",
+            "Apollo"
+        ],
+        "correct_answer": 2,
+        "category": "Mitoloji",
+        "source_id": "Kaynak 2 - Vikipedi (Yedi Harika)"
+    },
+    {
+        "question": "İskenderiye Feneri nerede inşa edilmiştir?",
+        "options": [
+            "Rodos Adası",
+            "Girit Adası",
+            "Faros Adası",
+            "Kıbrıs Adası"
+        ],
+        "correct_answer": 2,
+        "category": "Tarih/Coğrafya",
+        "source_id": "Kaynak 2 - Vikipedi (Yedi Harika)"
+    },
+    {
+        "question": "657 Sayılı Devlet Memurları Kanunu'na göre kamu hizmetleri kimlerin eliyle gördürülür?",
+        "options": [
+            "Sadece memurlar",
+            "Memurlar, sözleşmeli personel, geçici personel ve işçiler",
+            "Sadece sözleşmeli personel",
+            "Memurlar ve askerler"
+        ],
+        "correct_answer": 1,
+        "category": "Hukuk/Mevzuat",
+        "source_id": "Kaynak 3 - Memurlar.Net"
+    },
+    {
+        "question": "İl İdaresi Kanunu'na göre, il yönetiminin başı kimdir?",
+        "options": [
+            "Belediye Başkanı",
+            "Kaymakam",
+            "Vali",
+            "Emniyet Müdürü"
+        ],
+        "correct_answer": 2,
+        "category": "Hukuk/Mevzuat",
+        "source_id": "Kaynak 3 - Memurlar.Net"
+    },
+    {
+        "question": "1982 Anayasası'na göre siyasi partilerin kapatılması davasına hangi mahkeme bakar?",
+        "options": [
+            "Yargıtay",
+            "Danıştay",
+            "Anayasa Mahkemesi",
+            "Sayıştay"
+        ],
+        "correct_answer": 2,
+        "category": "Hukuk/Anayasa",
+        "source_id": "Kaynak 3 - Memurlar.Net"
+    },
+    {
+        "question": "Mustafa Kemal Atatürk, askerlik hayatına ilk olarak hangi şehirde başlamıştır?",
+        "options": [
+            "Selanik",
+            "Manastır",
+            "Şam",
+            "İstanbul"
+        ],
+        "correct_answer": 2,
+        "category": "Tarih/İnkılap Tarihi",
+        "source_id": "Kaynak 3 - Memurlar.Net"
+    },
+    {
+        "question": "Trablusgarp Savaşı hangi devletler arasında yapılmıştır?",
+        "options": [
+            "Osmanlı - İngiltere",
+            "Osmanlı - İtalya",
+            "Osmanlı - Fransa",
+            "Osmanlı - Yunanistan"
+        ],
+        "correct_answer": 1,
+        "category": "Tarih",
+        "source_id": "Kaynak 3 - Memurlar.Net"
+    },
+    {
+        "question": "Çanakkale Zaferi hangi savaşın bir cephesidir?",
+        "options": [
+            "Kurtuluş Savaşı",
+            "Balkan Savaşları",
+            "1. Dünya Savaşı",
+            "Trablusgarp Savaşı"
+        ],
+        "correct_answer": 2,
+        "category": "Tarih",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "'Dönüşüm' romanındaki Gregor Samsa karakterinin yazarı kimdir?",
+        "options": [
+            "Dostoyevski",
+            "Franz Kafka",
+            "Albert Camus",
+            "Victor Hugo"
+        ],
+        "correct_answer": 1,
+        "category": "Edebiyat",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "Türkiye’nin uluslararası telefon kodu nedir?",
+        "options": [
+            "+49",
+            "+33",
+            "+90",
+            "+1"
+        ],
+        "correct_answer": 2,
+        "category": "Genel Kültür",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "Hücre yapısında sindirimden sorumlu organelin adı nedir?",
+        "options": [
+            "Ribozom",
+            "Mitokondri",
+            "Lizozom",
+            "Golgi Aygıtı"
+        ],
+        "correct_answer": 2,
+        "category": "Biyoloji",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "Aspirin ilk kez hangi yılda çıkmıştır?",
+        "options": [
+            "1899",
+            "1923",
+            "1850",
+            "1950"
+        ],
+        "correct_answer": 0,
+        "category": "Genel Kültür/Tıp",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "Tiyatroda bir oyuncunun kendi kendine konuşması türüne ne ad verilir?",
+        "options": [
+            "Diyalog",
+            "Prolog",
+            "Monolog",
+            "Epilog"
+        ],
+        "correct_answer": 2,
+        "category": "Sanat/Tiyatro",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "İlk dünya haritasını çizen denizci kimdir?",
+        "options": [
+            "Barbaros Hayrettin Paşa",
+            "Piri Reis",
+            "Seydi Ali Reis",
+            "Oruç Reis"
+        ],
+        "correct_answer": 1,
+        "category": "Tarih/Coğrafya",
+        "source_id": "Kaynak 4 - Milliyet"
+    },
+    {
+        "question": "1903 yılında Nobel Fizik Ödülü'nü kazanan ilk kadın kimdir?",
+        "options": [
+            "Selma Lagerlöf",
+            "Bertha von Suttner",
+            "Marie Curie",
+            "Grazia Deledda"
+        ],
+        "correct_answer": 2,
+        "category": "Genel Kültür/Bilim",
+        "source_id": "Kaynak 6 - Nobel Ödülü Sahipleri"
+    },
+    {
+        "question": "Nobel Edebiyat Ödülü'nü 2006 yılında kazanan Türk yazar kimdir?",
+        "options": [
+            "Yaşar Kemal",
+            "Orhan Pamuk",
+            "Elif Şafak",
+            "Halide Edip Adıvar"
+        ],
+        "correct_answer": 1,
+        "category": "Edebiyat",
+        "source_id": "Kaynak 6 - Nobel Ödülü Sahipleri"
+    },
+    {
+        "question": "2015 yılında Nobel Kimya Ödülü'nü kazanan Türk bilim insanı kimdir?",
+        "options": [
+            "Aziz Sancar",
+            "Cahit Arf",
+            "Oktay Sinanoğlu",
+            "Gazi Yaşargil"
+        ],
+        "correct_answer": 0,
+        "category": "Bilim",
+        "source_id": "Kaynak 6 - Nobel Ödülü Sahipleri"
+    },
+    {
+        "question": "Sanat tarihini inceleyen bilim dalı aşağıdakilerden hangisidir?",
+        "options": [
+            "Arkeoloji",
+            "Sanat Tarihi",
+            "Epigrafi",
+            "Paleografi"
+        ],
+        "correct_answer": 1,
+        "category": "Sanat Tarihi",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "İnsanlık tarihinin en uzun süren çağı hangisidir?",
+        "options": [
+            "Neolitik Çağ",
+            "Kalkolitik Çağ",
+            "Paleolitik Çağ",
+            "Demir Çağı"
+        ],
+        "correct_answer": 2,
+        "category": "Tarih Öncesi",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Anadolu'da ilk şehir yerleşimi (ilk kent) olarak kabul edilen yer neresidir?",
+        "options": [
+            "Göbeklitepe",
+            "Çatalhöyük",
+            "Truva",
+            "Alacahöyük"
+        ],
+        "correct_answer": 1,
+        "category": "Arkeoloji",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Hititlerin başkenti neresidir?",
+        "options": [
+            "Gordion",
+            "Sardes",
+            "Hattuşaş",
+            "Tuşpa"
+        ],
+        "correct_answer": 2,
+        "category": "Tarih/Uygarlıklar",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Parayı ilk icat eden ve kullanan Anadolu uygarlığı hangisidir?",
+        "options": [
+            "Frigler",
+            "Lidyalılar",
+            "Urartular",
+            "Hititler"
+        ],
+        "correct_answer": 1,
+        "category": "Tarih/Ekonomi",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Mısır mimarisinde krallar için yapılan anıtsal mezarlara ne ad verilir?",
+        "options": [
+            "Ziggurat",
+            "Piramit",
+            "Tümülüs",
+            "Kümbet"
+        ],
+        "correct_answer": 1,
+        "category": "Sanat Tarihi",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Dünyaca ünlü 'Mona Lisa' tablosunun ressamı kimdir?",
+        "options": [
+            "Michelangelo",
+            "Raphael",
+            "Leonardo da Vinci",
+            "Donatello"
+        ],
+        "correct_answer": 2,
+        "category": "Sanat",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "İstanbul'un fethinden sonra camiye çevrilen ve günümüzde tekrar cami olarak kullanılan Bizans eseri hangisidir?",
+        "options": [
+            "Sümela Manastırı",
+            "Ayasofya",
+            "Kariye",
+            "Aya İrini"
+        ],
+        "correct_answer": 1,
+        "category": "Tarih/Sanat",
+        "source_id": "Kaynak 7 - Sanat Tarihi 1"
+    },
+    {
+        "question": "Uzayda taban sıcaklığı (Kozmik fon radyasyonu) yaklaşık kaç Kelvindir?",
+        "options": [
+            "0 Kelvin",
+            "100 Kelvin",
+            "2,7 Kelvin",
+            "-273 Kelvin"
+        ],
+        "correct_answer": 2,
+        "category": "Uzay Bilimi",
+        "source_id": "Kaynak 8 - Uzay Vikipedi"
+    },
+    {
+        "question": "Uzayın başlangıcı olarak kabul edilen sınır hattına ne ad verilir?",
+        "options": [
+            "Ozon Tabakası",
+            "Kármán Hattı",
+            "Van Allen Kuşağı",
+            "Termosfer Sınırı"
+        ],
+        "correct_answer": 1,
+        "category": "Uzay Bilimi",
+        "source_id": "Kaynak 8 - Uzay Vikipedi"
+    },
+    {
+        "question": "Ceza muhakemesinde, soruşturma evresinde suç şüphesi altında bulunan kişiye ne denir?",
+        "options": [
+            "Sanık",
+            "Tanık",
+            "Müşteki",
+            "Şüpheli"
+        ],
+        "correct_answer": 3,
+        "category": "Hukuk",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "İşlenen bir suçtan zarar gören kişiye hukukta ne ad verilir?",
+        "options": [
+            "Sanık",
+            "Müşteki",
+            "Şüpheli",
+            "Müdafi"
+        ],
+        "correct_answer": 1,
+        "category": "Hukuk",
+        "source_id": "Kaynak 9 - Zabıt Kâtipliği"
+    },
+    {
+        "question": "Korece kökenli olan 'Samsung' kelimesinin anlamı nedir?",
+        "options": [
+            "Teknoloji Devi",
+            "Parlak Gelecek",
+            "Üç Yıldız",
+            "Güney Güneşi"
+        ],
+        "correct_answer": 2,
+        "category": "Genel Kültür",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+    {
+        "question": "Hangi gezegenin ismi bir tanrı adından gelmez?",
+        "options": [
+            "Mars",
+            "Venüs",
+            "Dünya",
+            "Jüpiter"
+        ],
+        "correct_answer": 2,
+        "category": "Genel Kültür/Astronomi",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+    {
+        "question": "Nikola Tesla'nın günlük hayatında takıntılı olduğu sayı hangisidir?",
+        "options": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "correct_answer": 0,
+        "category": "Biyografi/İlginç Bilgiler",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+    {
+        "question": "Giyotini tasarlayan kişi kimdir?",
+        "options": [
+            "Napolyon Bonapart",
+            "Joseph-Ignace Guillotin",
+            "Robespierre",
+            "Louis XVI"
+        ],
+        "correct_answer": 1,
+        "category": "Tarih/İlginç Bilgiler",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+    {
+        "question": "İspanya milli marşının özelliği nedir?",
+        "options": [
+            "Dünyanın en uzun marşıdır",
+            "İki dilde yazılmıştır",
+            "Sözleri yoktur, sadece melodidir",
+            "Her yıl değiştirilir"
+        ],
+        "correct_answer": 2,
+        "category": "Genel Kültür",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+    {
+        "question": "Dünyada yazımı en uzun süren kitap olarak bilinen 'Faust'un yazarı kimdir?",
+        "options": [
+            "Shakespeare",
+            "Goethe",
+            "Dostoyevski",
+            "Victor Hugo"
+        ],
+        "correct_answer": 1,
+        "category": "Edebiyat",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+    {
+        "question": "Guinness Rekorlar Kitabı'na göre, dünyada en çok çalınan kitap hangisidir?",
+        "options": [
+            "İncil",
+            "Harry Potter",
+            "Guinness Rekorlar Kitabı",
+            "Yüzüklerin Efendisi"
+        ],
+        "correct_answer": 2,
+        "category": "İlginç Bilgiler",
+        "source_id": "Kaynak 10 - Bilimkurgu Kulübü"
+    },
+
             {
                 "question": "Ampulü kim icat etmiştir?",
                 "options": [
@@ -109,18 +1310,7 @@
                 "category": "Spor",
                 "source_id": "additional"
             },
-            {
-                "question": "Nangpa La shooting incident hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "2039",
-                    "1982",
-                    "2079",
-                    "2006"
-                ],
-                "correct_answer": 3,
-                "category": "Tarih",
-                "source_id": "Q244951"
-            },
+            
             {
                 "question": "Türkiye'nin en büyük gölü hangisidir?",
                 "options": [
@@ -157,30 +1347,8 @@
                 "category": "Kimya",
                 "source_id": "manual"
             },
-            {
-                "question": "Affair of the Placards hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1516",
-                    "1462",
-                    "1552",
-                    "1534"
-                ],
-                "correct_answer": 3,
-                "category": "Tarih",
-                "source_id": "Q382180"
-            },
-            {
-                "question": "Avrupa Birliği'nin para birimi aşağıdakilerden hangisidir?",
-                "options": [
-                    "Euro",
-                    "Pound",
-                    "Frank",
-                    "Mark"
-                ],
-                "correct_answer": 0,
-                "category": "Ekonomi",
-                "source_id": "additional"
-            },
+            
+           
             {
                 "question": "Çanakkale Savaşları hangi yıllarda yaşanmıştır?",
                 "options": [
@@ -217,18 +1385,7 @@
                 "category": "Sanat",
                 "source_id": "manual"
             },
-            {
-                "question": "Hispano-French Exposition of 1908 hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1839",
-                    "1908",
-                    "1894",
-                    "1929"
-                ],
-                "correct_answer": 1,
-                "category": "Tarih",
-                "source_id": "Q283222"
-            },
+            
             {
                 "question": "Fransa'nin başkenti aşağıdakilerden hangisidir?",
                 "options": [
@@ -289,18 +1446,7 @@
                 "category": "Müzik",
                 "source_id": "additional"
             },
-            {
-                "question": "\"Reveries of a Solitary Walker\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Philip Pullman",
-                    "Christoph Hein",
-                    "Jean-Jacques Rousseau",
-                    "Voltaire"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q129476"
-            },
+            
             {
                 "question": "Dünyanın en büyük adası aşağıdakilerden hangisidir?",
                 "options": [
@@ -325,30 +1471,8 @@
                 "category": "Coğrafya",
                 "source_id": "manual"
             },
-            {
-                "question": "Yushō disease hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1968",
-                    "2067",
-                    "1949",
-                    "1997"
-                ],
-                "correct_answer": 0,
-                "category": "Tarih",
-                "source_id": "Q359288"
-            },
-            {
-                "question": "Amerika Birleşik Devletleri'nin başkenti aşağıdakilerden hangisidir?",
-                "options": [
-                    "Washington",
-                    "Yamoussoukro",
-                    "Port of Spain",
-                    "Roma"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "Q30"
-            },
+            
+            
             {
                 "question": "Keman kaç tele sahiptir?",
                 "options": [
@@ -409,42 +1533,9 @@
                 "category": "Coğrafya",
                 "source_id": "Q36"
             },
-            {
-                "question": "Telefonu kim icat etmiştir?",
-                "options": [
-                    "Alexander Graham Bell",
-                    "Thomas Edison",
-                    "Nikola Tesla",
-                    "Guglielmo Marconi"
-                ],
-                "correct_answer": 0,
-                "category": "Teknoloji",
-                "source_id": "additional"
-            },
-            {
-                "question": "Gayba hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "887",
-                    "872",
-                    "0874",
-                    "782"
-                ],
-                "correct_answer": 2,
-                "category": "Tarih",
-                "source_id": "Q127301"
-            },
-            {
-                "question": "Huta Pieniacka massacre hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "2044",
-                    "1962",
-                    "1944",
-                    "1909"
-                ],
-                "correct_answer": 2,
-                "category": "Tarih",
-                "source_id": "Q323886"
-            },
+            
+            
+            
             {
                 "question": "Sistine Şapeli'nin tavanını kim resmetti?",
                 "options": [
@@ -481,30 +1572,8 @@
                 "category": "Astronomi",
                 "source_id": "manual"
             },
-            {
-                "question": "\"Goldilocks and the Three Bears\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "James Krüss",
-                    "Robert Southey",
-                    "Vladimir Nabokov",
-                    "Roland Smith"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "Q128917"
-            },
-            {
-                "question": "\"The Wedding Gig\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "John Marsden",
-                    "David Baldacci",
-                    "Peter Lund",
-                    "Stephen King"
-                ],
-                "correct_answer": 3,
-                "category": "Edebiyat",
-                "source_id": "Q128510"
-            },
+            
+            
             {
                 "question": "2. Dünya Savaşı hangi yılda sona ermiştir?",
                 "options": [
@@ -529,18 +1598,7 @@
                 "category": "Coğrafya",
                 "source_id": "Q45"
             },
-            {
-                "question": "\"Buried Alive\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Saparmurat Türkmenbaşı",
-                    "Arnaldur Indriðason",
-                    "Liza Marklund",
-                    "William Faulkner"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q129515"
-            },
+           
             {
                 "question": "Türkiye'nin en uzun nehri aşağıdakilerden hangisidir?",
                 "options": [
@@ -565,18 +1623,7 @@
                 "category": "Astronomi",
                 "source_id": "manual"
             },
-            {
-                "question": "Stecklikrieg hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1802",
-                    "1875",
-                    "1813",
-                    "1761"
-                ],
-                "correct_answer": 0,
-                "category": "Tarih",
-                "source_id": "Q338618"
-            },
+            
             {
                 "question": "Beethoven'ın kaç senfonisi vardır?",
                 "options": [
@@ -601,18 +1648,7 @@
                 "category": "Coğrafya",
                 "source_id": "Q27"
             },
-            {
-                "question": "Silver Spring Monkeys hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1981",
-                    "1966",
-                    "2045",
-                    "2019"
-                ],
-                "correct_answer": 0,
-                "category": "Tarih",
-                "source_id": "Q382299"
-            },
+            
             {
                 "question": "Güç birimi aşağıdakilerden hangisidir?",
                 "options": [
@@ -625,18 +1661,7 @@
                 "category": "Fizik",
                 "source_id": "additional"
             },
-            {
-                "question": "\"Mrs. Todd's Shortcut\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Gordon Korman",
-                    "Peter Lerangis",
-                    "Stephen King",
-                    "Paolo Mereghetti"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q127263"
-            },
+            
             {
                 "question": "Periyodik tabloda altının simgesi nedir?",
                 "options": [
@@ -673,42 +1698,9 @@
                 "category": "Coğrafya",
                 "source_id": "manual"
             },
-            {
-                "question": "\"The Jaunt\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Stephen King",
-                    "Roland Smith",
-                    "Graham Masterton",
-                    "Gordon Korman"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q128506"
-            },
-            {
-                "question": "\"Golden Legend\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Dave Gibbons",
-                    "Pseudo-Anacreon",
-                    "Jacobus de Voragine",
-                    "traditional"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q129493"
-            },
-            {
-                "question": "Capture of the Dutch fleet at Den Helder hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1795",
-                    "1718",
-                    "1810",
-                    "1786"
-                ],
-                "correct_answer": 0,
-                "category": "Tarih",
-                "source_id": "Q183447"
-            },
+            
+           
+            
             {
                 "question": "\"Buried Alive\" adlı eserin yazarı aşağıdakilerden hangisidir?",
                 "options": [
@@ -745,18 +1737,7 @@
                 "category": "Astronomi",
                 "source_id": "manual"
             },
-            {
-                "question": "Tennis Court Oath hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1744",
-                    "1789",
-                    "1816",
-                    "1714"
-                ],
-                "correct_answer": 1,
-                "category": "Tarih",
-                "source_id": "Q60022"
-            },
+            
             {
                 "question": "Dünya Kupası kaç yılda bir düzenlenir?",
                 "options": [
@@ -805,54 +1786,9 @@
                 "category": "Fizik",
                 "source_id": "additional"
             },
-            {
-                "question": "\"Q128227\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Arnaldur Indriðason",
-                    "Alexandre Dumas",
-                    "Jules Renard",
-                    "Jude Watson"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q128227"
-            },
-            {
-                "question": "\"Ruhname\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Saparmurat Türkmenbaşı",
-                    "Selma Lagerlöf",
-                    "Roland Smith",
-                    "Brian Selznick"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q125469"
-            },
-            {
-                "question": "Lüksemburg'nin başkenti aşağıdakilerden hangisidir?",
-                "options": [
-                    "Havana",
-                    "Tokyo",
-                    "Lüksemburg",
-                    "Sofya"
-                ],
-                "correct_answer": 2,
-                "category": "Coğrafya",
-                "source_id": "Q32"
-            },
-            {
-                "question": "\"Cain Rose Up\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Alexandre Dumas",
-                    "Vladimir Nabokov",
-                    "Stephen King",
-                    "Diana Wynne Jones"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q127047"
-            },
+           
+            
+           
             {
                 "question": "Hangi kıta en büyük yüzölçümüne sahiptir?",
                 "options": [
@@ -877,30 +1813,8 @@
                 "category": "Tarih",
                 "source_id": "Q275683"
             },
-            {
-                "question": "Milli Mücadele'nin ilk kurşunu nerede atılmıştır?",
-                "options": [
-                    "Samsun",
-                    "Ankara",
-                    "Erzurum",
-                    "Sivas"
-                ],
-                "correct_answer": 0,
-                "category": "Tarih",
-                "source_id": "additional"
-            },
-            {
-                "question": "Trans-en-Provence Case hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "2010",
-                    "1915",
-                    "1981",
-                    "1963"
-                ],
-                "correct_answer": 2,
-                "category": "Tarih",
-                "source_id": "Q375409"
-            },
+            
+           
             {
                 "question": "Ses hangi ortamda en hızlı yayılır?",
                 "options": [
@@ -937,54 +1851,8 @@
                 "category": "Biyoloji",
                 "source_id": "manual"
             },
-            {
-                "question": "Yunanistan'nin başkenti aşağıdakilerden hangisidir?",
-                "options": [
-                    "Atina",
-                    "Yaren",
-                    "Prag",
-                    "Bogotá"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "Q41"
-            },
-            {
-                "question": "Türkçe'de kaç harf vardır?",
-                "options": [
-                    "29",
-                    "28",
-                    "30",
-                    "27"
-                ],
-                "correct_answer": 0,
-                "category": "Dil",
-                "source_id": "additional"
-            },
-            {
-                "question": "Belçika'nin başkenti aşağıdakilerden hangisidir?",
-                "options": [
-                    "Seul",
-                    "Aşkabat",
-                    "Brüksel Şehri",
-                    "Cakarta"
-                ],
-                "correct_answer": 2,
-                "category": "Coğrafya",
-                "source_id": "Q31"
-            },
-            {
-                "question": "\"Clovis Dardentor\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "İvan Sergeyeviç Turgenyev",
-                    "Georges Simenon",
-                    "Jules Verne",
-                    "http://www.wikidata.org/.well-known/genid/697ee1dbaadafe2df92d8f64bb42fdb8"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q127284"
-            },
+            
+           
             {
                 "question": "'David' heykelinin sanatçısı aşağıdakilerden hangisidir?",
                 "options": [
@@ -1009,18 +1877,7 @@
                 "category": "Tarih",
                 "source_id": "manual"
             },
-            {
-                "question": "\"Clovis Dardentor\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "İvan Sergeyeviç Turgenyev",
-                    "Georges Simenon",
-                    "Jules Verne",
-                    "http://www.wikidata.org/.well-known/genid/697ee1dbaadafe2df92d8f64bb42fdb8"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q127284"
-            },
+            
             {
                 "question": "Karbondioksitin kimyasal formülü aşağıdakilerden hangisidir?",
                 "options": [
@@ -1093,42 +1950,8 @@
                 "category": "Kültür",
                 "source_id": "additional"
             },
-            {
-                "question": "Bloody Sunday hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1951",
-                    "1939",
-                    "2018",
-                    "1916"
-                ],
-                "correct_answer": 1,
-                "category": "Tarih",
-                "source_id": "Q175113"
-            },
-            {
-                "question": "Sushi hangi ülkenin yemeğidir?",
-                "options": [
-                    "Japonya",
-                    "Çin",
-                    "Kore",
-                    "Tayland"
-                ],
-                "correct_answer": 0,
-                "category": "Kültür",
-                "source_id": "additional"
-            },
-            {
-                "question": "Karekök 64 aşağıdakilerden hangisidir?",
-                "options": [
-                    "8",
-                    "6",
-                    "10",
-                    "12"
-                ],
-                "correct_answer": 0,
-                "category": "Matematik",
-                "source_id": "manual"
-            },
+            
+           
             {
                 "question": "Periyodik tabloda bakır hangi simge ile gösterilir?",
                 "options": [
@@ -1189,54 +2012,9 @@
                 "category": "Coğrafya",
                 "source_id": "Q37"
             },
-            {
-                "question": "Sandoz chemical spill hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1986",
-                    "2068",
-                    "1959",
-                    "1992"
-                ],
-                "correct_answer": 0,
-                "category": "Tarih",
-                "source_id": "Q356551"
-            },
-            {
-                "question": "Landesstreik (Switzerland, 1918) hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1982",
-                    "1964",
-                    "1870",
-                    "1918"
-                ],
-                "correct_answer": 3,
-                "category": "Tarih",
-                "source_id": "Q391985"
-            },
-            {
-                "question": "\"Here There Be Tygers\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Greg Egan",
-                    "Stephen King",
-                    "Jean-Jacques Rousseau",
-                    "Patrick Carman"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "Q127262"
-            },
-            {
-                "question": "\"The Anubis Gates\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Wilhelm Grimm",
-                    "İvan Sergeyeviç Turgenyev",
-                    "http://www.wikidata.org/.well-known/genid/9eeedef2dd4c0184ee7e2d5d019fae44",
-                    "Tim Powers"
-                ],
-                "correct_answer": 3,
-                "category": "Edebiyat",
-                "source_id": "Q128324"
-            },
+            
+           
+            
             {
                 "question": "World Wide Web'i kim icat etmiştir?",
                 "options": [
@@ -1261,18 +2039,7 @@
                 "category": "Edebiyat",
                 "source_id": "manual"
             },
-            {
-                "question": "\"Il Mereghetti\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Jacob Grimm",
-                    "Lev Tolstoy",
-                    "Paolo Mereghetti",
-                    "Curt Goetz"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q126146"
-            },
+            
             {
                 "question": "Bir küpün hacmini hesaplama formülü aşağıdakilerden hangisidir?",
                 "options": [
@@ -1285,18 +2052,7 @@
                 "category": "Matematik",
                 "source_id": "additional"
             },
-            {
-                "question": "\"İbranilere Mektup\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "http://www.wikidata.org/.well-known/genid/9eeedef2dd4c0184ee7e2d5d019fae44",
-                    "Christoph Hein",
-                    "Walt Whitman",
-                    "Curt Goetz"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q128608"
-            },
+            
             {
                 "question": "'Yıldızlı Gece' tablosunun ressamı aşağıdakilerden hangisidir?",
                 "options": [
@@ -1345,18 +2101,7 @@
                 "category": "Matematik",
                 "source_id": "additional"
             },
-            {
-                "question": "\"Julie, or the New Heloise\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Jean-Jacques Rousseau",
-                    "http://www.wikidata.org/.well-known/genid/697ee1dbaadafe2df92d8f64bb42fdb8",
-                    "Jules Renard",
-                    "Brian Selznick"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q129289"
-            },
+            
             {
                 "question": "Gerilimin birimi aşağıdakilerden hangisidir?",
                 "options": [
@@ -1381,42 +2126,8 @@
                 "category": "Biyoloji",
                 "source_id": "additional"
             },
-            {
-                "question": "Operation Big Bang hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1997",
-                    "1926",
-                    "1885",
-                    "1947"
-                ],
-                "correct_answer": 3,
-                "category": "Tarih",
-                "source_id": "Q50726"
-            },
-            {
-                "question": "\"Vajina Monologları\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Eve Ensler",
-                    "Peter Lerangis",
-                    "Christoph Hein",
-                    "Ursula K. Le Guin"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q127546"
-            },
-            {
-                "question": "Congress of Dibra hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1909",
-                    "1952",
-                    "1871",
-                    "1996"
-                ],
-                "correct_answer": 0,
-                "category": "Tarih",
-                "source_id": "Q94679"
-            },
+            
+           
             {
                 "question": "İnsan vücudunda kaç çift kaburga kemiği vardır?",
                 "options": [
@@ -1477,18 +2188,7 @@
                 "category": "Edebiyat",
                 "source_id": "additional"
             },
-            {
-                "question": "\"Poil de carotte\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Ursula K. Le Guin",
-                    "Tim Powers",
-                    "Mary Shelley",
-                    "Jules Renard"
-                ],
-                "correct_answer": 3,
-                "category": "Edebiyat",
-                "source_id": "Q128918"
-            },
+            
             {
                 "question": "Tuz (sofra tuzu) hangi elementlerden oluşur?",
                 "options": [
@@ -1513,54 +2213,7 @@
                 "category": "Coğrafya",
                 "source_id": "additional"
             },
-            {
-                "question": "Zeitgeist hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1927",
-                    "1940",
-                    "2032",
-                    "1982"
-                ],
-                "correct_answer": 3,
-                "category": "Tarih",
-                "source_id": "Q185978"
-            },
-            {
-                "question": "Dagen H hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1946",
-                    "2050",
-                    "2014",
-                    "1967"
-                ],
-                "correct_answer": 3,
-                "category": "Tarih",
-                "source_id": "Q376921"
-            },
-            {
-                "question": "\"Cain Rose Up\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Alexandre Dumas",
-                    "Vladimir Nabokov",
-                    "Stephen King",
-                    "Diana Wynne Jones"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q127047"
-            },
-            {
-                "question": "\"İbranilere Mektup\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "http://www.wikidata.org/.well-known/genid/9eeedef2dd4c0184ee7e2d5d019fae44",
-                    "Christoph Hein",
-                    "Walt Whitman",
-                    "Curt Goetz"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q128608"
-            },
+            
             {
                 "question": "Sıfırı kim icat etmiştir?",
                 "options": [
@@ -1585,18 +2238,7 @@
                 "category": "Müzik",
                 "source_id": "additional"
             },
-            {
-                "question": "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1453",
-                    "1454",
-                    "1452",
-                    "1455"
-                ],
-                "correct_answer": 0,
-                "category": "Tarih",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "1. Dünya Savaşı hangi yılda başlamıştır?",
                 "options": [
@@ -1609,30 +2251,7 @@
                 "category": "Tarih",
                 "source_id": "manual"
             },
-            {
-                "question": "730 hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1978",
-                    "2021",
-                    "1945",
-                    "2055"
-                ],
-                "correct_answer": 0,
-                "category": "Tarih",
-                "source_id": "Q55529"
-            },
-            {
-                "question": "Lüksemburg'nin başkenti hangisidir?",
-                "options": [
-                    "Havana",
-                    "Tokyo",
-                    "Lüksemburg",
-                    "Sofya"
-                ],
-                "correct_answer": 2,
-                "category": "Coğrafya",
-                "source_id": "Q32"
-            },
+            
             {
                 "question": "Voleybolda bir takımda kaç oyuncu sahada bulunur?",
                 "options": [
@@ -1645,54 +2264,9 @@
                 "category": "Spor",
                 "source_id": "additional"
             },
-            {
-                "question": "Futbolda bir takımda kaç oyuncu sahada bulunur?",
-                "options": [
-                    "11",
-                    "10",
-                    "12",
-                    "9"
-                ],
-                "correct_answer": 0,
-                "category": "Spor",
-                "source_id": "manual"
-            },
-            {
-                "question": "Dünya'nın en büyük okyanusu aşağıdakilerden hangisidir?",
-                "options": [
-                    "Pasifik Okyanusu",
-                    "Atlantik Okyanusu",
-                    "Hint Okyanusu",
-                    "Arktik Okyanusu"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "manual"
-            },
-            {
-                "question": "Birleşik Krallık'nin başkenti aşağıdakilerden hangisidir?",
-                "options": [
-                    "Londra",
-                    "Funafuti",
-                    "Basseterre",
-                    "Kap Şehri"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "Q145"
-            },
-            {
-                "question": "\"Timm Thaler\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "http://www.wikidata.org/.well-known/genid/e2bf450cf2cb0042c5f8242e0ad699cf",
-                    "James Krüss",
-                    "Monica Antonsson",
-                    "Jan Otčenášek"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "Q125628"
-            },
+            
+           
+           
             {
                 "question": "Türkiye'nin en büyük gölü aşağıdakilerden hangisidir?",
                 "options": [
@@ -1741,18 +2315,7 @@
                 "category": "Biyoloji",
                 "source_id": "manual"
             },
-            {
-                "question": "\"The Jaunt\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Stephen King",
-                    "Roland Smith",
-                    "Graham Masterton",
-                    "Gordon Korman"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q128506"
-            },
+           
             {
                 "question": "Mikroskobun mucidi aşağıdakilerden hangisidir?",
                 "options": [
@@ -1777,30 +2340,7 @@
                 "category": "Fizik",
                 "source_id": "manual"
             },
-            {
-                "question": "\"Poil de carotte\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Ursula K. Le Guin",
-                    "Tim Powers",
-                    "Mary Shelley",
-                    "Jules Renard"
-                ],
-                "correct_answer": 3,
-                "category": "Edebiyat",
-                "source_id": "Q128918"
-            },
-            {
-                "question": "Japonya'nin başkenti aşağıdakilerden hangisidir?",
-                "options": [
-                    "Budapeşte",
-                    "Tokyo",
-                    "Brüksel Şehri",
-                    "Seul"
-                ],
-                "correct_answer": 1,
-                "category": "Coğrafya",
-                "source_id": "Q17"
-            },
+            
             {
                 "question": "Bir dairenin çevresini hesaplama formülü aşağıdakilerden hangisidir?",
                 "options": [
@@ -1825,18 +2365,7 @@
                 "category": "Matematik",
                 "source_id": "additional"
             },
-            {
-                "question": "\"Gözcüler\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Alan Moore",
-                    "http://www.wikidata.org/.well-known/genid/9101dbdff38a87e332364ac011b0d40a",
-                    "Selma Lagerlöf",
-                    "Émile Zola"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q128444"
-            },
+            
             {
                 "question": "Dünyanın en yüksek dağı aşağıdakilerden hangisidir?",
                 "options": [
@@ -1873,18 +2402,7 @@
                 "category": "Matematik",
                 "source_id": "manual"
             },
-            {
-                "question": "İtalya'nin başkenti aşağıdakilerden hangisidir?",
-                "options": [
-                    "Roma",
-                    "Funafuti",
-                    "Kingstown",
-                    "Pyongyang"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "Q38"
-            },
+            
             {
                 "question": "HTML'in açılımı aşağıdakilerden hangisidir?",
                 "options": [
@@ -1933,18 +2451,7 @@
                 "category": "Kimya",
                 "source_id": "additional"
             },
-            {
-                "question": "Guernica tablosunun ressamı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Pablo Picasso",
-                    "Salvador Dalí",
-                    "Vincent van Gogh",
-                    "Claude Monet"
-                ],
-                "correct_answer": 0,
-                "category": "Sanat",
-                "source_id": "manual"
-            },
+           
             {
                 "question": "Macaristan'nin başkenti aşağıdakilerden hangisidir?",
                 "options": [
@@ -1993,18 +2500,7 @@
                 "category": "Müzik",
                 "source_id": "manual"
             },
-            {
-                "question": "İsviçre'nin başkenti aşağıdakilerden hangisidir?",
-                "options": [
-                    "Revan",
-                    "Bern",
-                    "Viyana",
-                    "Seul"
-                ],
-                "correct_answer": 1,
-                "category": "Coğrafya",
-                "source_id": "Q39"
-            },
+            
             {
                 "question": "Mısır'nin başkenti hangisidir?",
                 "options": [
@@ -2029,30 +2525,7 @@
                 "category": "Spor",
                 "source_id": "additional"
             },
-            {
-                "question": "Türkiye'nin para birimi aşağıdakilerden hangisidir?",
-                "options": [
-                    "Türk Lirası",
-                    "Euro",
-                    "Dolar",
-                    "Mark"
-                ],
-                "correct_answer": 0,
-                "category": "Ekonomi",
-                "source_id": "additional"
-            },
-            {
-                "question": "\"Maigret et le fantôme\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Walt Whitman",
-                    "Georges Simenon",
-                    "Stephen King",
-                    "Patrick Carman"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "Q129541"
-            },
+            
             {
                 "question": "Metan gazının kimyasal formülü nedir?",
                 "options": [
@@ -2077,54 +2550,9 @@
                 "category": "Fizik",
                 "source_id": "additional"
             },
-            {
-                "question": "Zwischenfall N317 hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1924",
-                    "2005",
-                    "2041",
-                    "2011"
-                ],
-                "correct_answer": 3,
-                "category": "Tarih",
-                "source_id": "Q244924"
-            },
-            {
-                "question": "\"Karanlığın Yüreği\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Joseph Conrad",
-                    "Jules Verne",
-                    "http://www.wikidata.org/.well-known/genid/e2bf450cf2cb0042c5f8242e0ad699cf",
-                    "Patrick Carman"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q129778"
-            },
-            {
-                "question": "\"Hymns to the Night\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Aleksandr Puşkin",
-                    "Novalis",
-                    "Alan Moore",
-                    "İvan Sergeyeviç Turgenyev"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "Q128670"
-            },
-            {
-                "question": "\"Maigret et le fantôme\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Walt Whitman",
-                    "Georges Simenon",
-                    "Stephen King",
-                    "Patrick Carman"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "Q129541"
-            },
+            
+            
+            
             {
                 "question": "Kuvvet birimi aşağıdakilerden hangisidir?",
                 "options": [
@@ -2137,42 +2565,9 @@
                 "category": "Fizik",
                 "source_id": "additional"
             },
-            {
-                "question": "\"Pygmalion\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Jacob Grimm",
-                    "Alan Moore",
-                    "Stephen King",
-                    "Jean-Jacques Rousseau"
-                ],
-                "correct_answer": 3,
-                "category": "Edebiyat",
-                "source_id": "Q129253"
-            },
-            {
-                "question": "Türkiye'nin başkenti hangisidir?",
-                "options": [
-                    "Ankara",
-                    "Amman",
-                    "Akra",
-                    "Kuala Lumpur"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "Q43"
-            },
-            {
-                "question": "\"Here There Be Tygers\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Greg Egan",
-                    "Stephen King",
-                    "Jean-Jacques Rousseau",
-                    "Patrick Carman"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "Q127262"
-            },
+            
+           
+           
             {
                 "question": "İsveç'nin başkenti aşağıdakilerden hangisidir?",
                 "options": [
@@ -2221,18 +2616,7 @@
                 "category": "Matematik",
                 "source_id": "manual"
             },
-            {
-                "question": "\"Roman d'Alexandre\" adlı eserin yazarı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Alexandre de Bernay",
-                    "Peter Lerangis",
-                    "Pedro Calderón de la Barca",
-                    "Dave Gibbons"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q126070"
-            },
+           
             {
                 "question": "'Çalıkuşu' romanının yazarı aşağıdakilerden hangisidir?",
                 "options": [
@@ -2245,30 +2629,8 @@
                 "category": "Edebiyat",
                 "source_id": "additional"
             },
-            {
-                "question": "Grimm–Hoffmann affair hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1917",
-                    "1885",
-                    "1943",
-                    "1981"
-                ],
-                "correct_answer": 0,
-                "category": "Tarih",
-                "source_id": "Q251652"
-            },
-            {
-                "question": "Borsa aşağıdakilerden hangisidir?",
-                "options": [
-                    "Menkul kıymet alım-satım yeri",
-                    "Banka türü",
-                    "Para birimi",
-                    "Kredi türü"
-                ],
-                "correct_answer": 0,
-                "category": "Ekonomi",
-                "source_id": "additional"
-            },
+            
+           
             {
                 "question": "İnternet hangi yılda halka açık hale gelmiştir?",
                 "options": [
@@ -2305,18 +2667,7 @@
                 "category": "Coğrafya",
                 "source_id": "Q29"
             },
-            {
-                "question": "San José de Apartadó massacre hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "2065",
-                    "2005",
-                    "2000",
-                    "2039"
-                ],
-                "correct_answer": 1,
-                "category": "Tarih",
-                "source_id": "Q385424"
-            },
+            
             {
                 "question": "Dünyanın en büyük memeli hayvanı hangisidir?",
                 "options": [
@@ -2437,30 +2788,7 @@
                 "category": "Müzik",
                 "source_id": "manual"
             },
-            {
-                "question": "\"The Anubis Gates\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Wilhelm Grimm",
-                    "İvan Sergeyeviç Turgenyev",
-                    "http://www.wikidata.org/.well-known/genid/9eeedef2dd4c0184ee7e2d5d019fae44",
-                    "Tim Powers"
-                ],
-                "correct_answer": 3,
-                "category": "Edebiyat",
-                "source_id": "Q128324"
-            },
-            {
-                "question": "Q79206 hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1863",
-                    "1926",
-                    "1937",
-                    "1923"
-                ],
-                "correct_answer": 1,
-                "category": "Tarih",
-                "source_id": "Q79206"
-            },
+            
             {
                 "question": "Hollanda'nin başkenti aşağıdakilerden hangisidir?",
                 "options": [
@@ -2689,42 +3017,8 @@
                 "category": "Coğrafya",
                 "source_id": "Q33"
             },
-            {
-                "question": "Kneppelfreed hangi yılda gerçekleşmiştir?",
-                "options": [
-                    "1954",
-                    "1951",
-                    "1949",
-                    "2043"
-                ],
-                "correct_answer": 1,
-                "category": "Tarih",
-                "source_id": "Q28547"
-            },
-            {
-                "question": "Etiyopya'nin başkenti hangisidir?",
-                "options": [
-                    "Addis Ababa",
-                    "Lusaka",
-                    "Banjul",
-                    "Singapur"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "Q115"
-            },
-            {
-                "question": "DNA'nın açılımı nedir?",
-                "options": [
-                    "Deoksiribonükleik Asit",
-                    "Diribonükleik Asit",
-                    "Deoksiribonükleik Amino",
-                    "Dioksiribonükleik Asit"
-                ],
-                "correct_answer": 0,
-                "category": "Biyoloji",
-                "source_id": "manual"
-            },
+            
+            
             {
                 "question": "Bir karenin alanını hesaplama formülü aşağıdakilerden hangisidir?",
                 "options": [
@@ -2737,18 +3031,7 @@
                 "category": "Matematik",
                 "source_id": "additional"
             },
-            {
-                "question": "Gerilimin birimi nedir?",
-                "options": [
-                    "Volt",
-                    "Amper",
-                    "Watt",
-                    "Ohm"
-                ],
-                "correct_answer": 0,
-                "category": "Fizik",
-                "source_id": "additional"
-            },
+            
             {
                 "question": "Polonya'nin başkenti hangisidir?",
                 "options": [
@@ -2761,30 +3044,7 @@
                 "category": "Coğrafya",
                 "source_id": "Q36"
             },
-            {
-                "question": "'Çalıkuşu' romanının yazarı kimdir?",
-                "options": [
-                    "Reşat Nuri Güntekin",
-                    "Halide Edib Adıvar",
-                    "Yakup Kadri Karaosmanoğlu",
-                    "Peyami Safa"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "additional"
-            },
-            {
-                "question": "Microsoft şirketini kim kurmuştur?",
-                "options": [
-                    "Bill Gates",
-                    "Steve Jobs",
-                    "Mark Zuckerberg",
-                    "Larry Page"
-                ],
-                "correct_answer": 0,
-                "category": "Teknoloji",
-                "source_id": "additional"
-            },
+            
             {
                 "question": "'David' heykelinin sanatçısı kimdir?",
                 "options": [
@@ -2797,30 +3057,7 @@
                 "category": "Sanat",
                 "source_id": "additional"
             },
-            {
-                "question": "İtalya'nin başkenti hangisidir?",
-                "options": [
-                    "Roma",
-                    "Funafuti",
-                    "Kingstown",
-                    "Pyongyang"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "Q38"
-            },
-            {
-                "question": "Periyodik tabloda oksijen hangi simge ile gösterilir?",
-                "options": [
-                    "O",
-                    "Ox",
-                    "Og",
-                    "Os"
-                ],
-                "correct_answer": 0,
-                "category": "Kimya",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "'Aşk-ı Memnu' romanının yazarı kimdir?",
                 "options": [
@@ -2833,42 +3070,8 @@
                 "category": "Edebiyat",
                 "source_id": "additional"
             },
-            {
-                "question": "\"Roman d'Alexandre\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Alexandre de Bernay",
-                    "Peter Lerangis",
-                    "Pedro Calderón de la Barca",
-                    "Dave Gibbons"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q126070"
-            },
-            {
-                "question": "Enerji birimi aşağıdakilerden hangisidir?",
-                "options": [
-                    "Joule",
-                    "Watt",
-                    "Newton",
-                    "Pascal"
-                ],
-                "correct_answer": 0,
-                "category": "Fizik",
-                "source_id": "additional"
-            },
-            {
-                "question": "Hamlet oyununun yazarı kimdir?",
-                "options": [
-                    "William Shakespeare",
-                    "Charles Dickens",
-                    "Mark Twain",
-                    "Oscar Wilde"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "manual"
-            },
+            
+            
             {
                 "question": "Avusturya'nin başkenti hangisidir?",
                 "options": [
@@ -2881,18 +3084,7 @@
                 "category": "Coğrafya",
                 "source_id": "Q40"
             },
-            {
-                "question": "\"Ruhname\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Saparmurat Türkmenbaşı",
-                    "Selma Lagerlöf",
-                    "Roland Smith",
-                    "Brian Selznick"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q125469"
-            },
+            
             {
                 "question": "Bir dairenin çevresini hesaplama formülü nedir?",
                 "options": [
@@ -2905,18 +3097,7 @@
                 "category": "Matematik",
                 "source_id": "additional"
             },
-            {
-                "question": "\"Julie, or the New Heloise\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Jean-Jacques Rousseau",
-                    "http://www.wikidata.org/.well-known/genid/697ee1dbaadafe2df92d8f64bb42fdb8",
-                    "Jules Renard",
-                    "Brian Selznick"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q129289"
-            },
+           
             {
                 "question": "Hangi sporda 'birdie' terimi kullanılır?",
                 "options": [
@@ -2929,18 +3110,7 @@
                 "category": "Spor",
                 "source_id": "additional"
             },
-            {
-                "question": "\"Reveries of a Solitary Walker\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Philip Pullman",
-                    "Christoph Hein",
-                    "Jean-Jacques Rousseau",
-                    "Voltaire"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q129476"
-            },
+            
             {
                 "question": "Bir küpün hacmini hesaplama formülü nedir?",
                 "options": [
@@ -2977,42 +3147,8 @@
                 "category": "Sanat",
                 "source_id": "manual"
             },
-            {
-                "question": "\"Golden Legend\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Dave Gibbons",
-                    "Pseudo-Anacreon",
-                    "Jacobus de Voragine",
-                    "traditional"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q129493"
-            },
-            {
-                "question": "Avusturya'nin başkenti aşağıdakilerden hangisidir?",
-                "options": [
-                    "Podgorica",
-                    "Bangkok",
-                    "Kap Şehri",
-                    "Viyana"
-                ],
-                "correct_answer": 3,
-                "category": "Coğrafya",
-                "source_id": "Q40"
-            },
-            {
-                "question": "\"Hymns to the Night\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Aleksandr Puşkin",
-                    "Novalis",
-                    "Alan Moore",
-                    "İvan Sergeyeviç Turgenyev"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "Q128670"
-            },
+           
+            
             {
                 "question": "Guernica tablosunun ressamı kimdir?",
                 "options": [
@@ -3037,18 +3173,7 @@
                 "category": "Fizik",
                 "source_id": "additional"
             },
-            {
-                "question": "Danimarka'nin başkenti hangisidir?",
-                "options": [
-                    "Kopenhag",
-                    "Budapeşte",
-                    "Paris",
-                    "Dili"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "Q35"
-            },
+           
             {
                 "question": "'1984' romanının yazarı kimdir?",
                 "options": [
@@ -3109,18 +3234,7 @@
                 "category": "Müzik",
                 "source_id": "additional"
             },
-            {
-                "question": "\"Il Mereghetti\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Jacob Grimm",
-                    "Lev Tolstoy",
-                    "Paolo Mereghetti",
-                    "Curt Goetz"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q126146"
-            },
+            
             {
                 "question": "Türkiye'nin en uzun nehri hangisidir?",
                 "options": [
@@ -3145,30 +3259,8 @@
                 "category": "Müzik",
                 "source_id": "additional"
             },
-            {
-                "question": "İsviçre'nin başkenti hangisidir?",
-                "options": [
-                    "Revan",
-                    "Bern",
-                    "Viyana",
-                    "Seul"
-                ],
-                "correct_answer": 1,
-                "category": "Coğrafya",
-                "source_id": "Q39"
-            },
-            {
-                "question": "0'ın faktöriyeli aşağıdakilerden hangisidir?",
-                "options": [
-                    "1",
-                    "0",
-                    "Tanımsız",
-                    "Sonsuz"
-                ],
-                "correct_answer": 0,
-                "category": "Matematik",
-                "source_id": "additional"
-            },
+            
+            
             {
                 "question": "İmpresyonizm akımının öncüsü kimdir?",
                 "options": [
@@ -3180,18 +3272,6 @@
                 "correct_answer": 0,
                 "category": "Sanat",
                 "source_id": "additional"
-            },
-            {
-                "question": "Dünyanın en yüksek dağı hangisidir?",
-                "options": [
-                    "Everest",
-                    "K2",
-                    "Kangchenjunga",
-                    "Lhotse"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "manual"
             },
             {
                 "question": "Çin Halk Cumhuriyeti'nin başkenti hangisidir?",
@@ -3217,42 +3297,8 @@
                 "category": "Müzik",
                 "source_id": "additional"
             },
-            {
-                "question": "\"Karanlığın Yüreği\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Joseph Conrad",
-                    "Jules Verne",
-                    "http://www.wikidata.org/.well-known/genid/e2bf450cf2cb0042c5f8242e0ad699cf",
-                    "Patrick Carman"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q129778"
-            },
-            {
-                "question": "\"Mrs. Todd's Shortcut\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Gordon Korman",
-                    "Peter Lerangis",
-                    "Stephen King",
-                    "Paolo Mereghetti"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q127263"
-            },
-            {
-                "question": "\"Vajina Monologları\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Eve Ensler",
-                    "Peter Lerangis",
-                    "Christoph Hein",
-                    "Ursula K. Le Guin"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q127546"
-            },
+           
+           
             {
                 "question": "Dünyanın en büyük adası hangisidir?",
                 "options": [
@@ -3265,18 +3311,7 @@
                 "category": "Coğrafya",
                 "source_id": "additional"
             },
-            {
-                "question": "\"Goldilocks and the Three Bears\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "James Krüss",
-                    "Robert Southey",
-                    "Vladimir Nabokov",
-                    "Roland Smith"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "Q128917"
-            },
+            
             {
                 "question": "Mikroskobun mucidi kimdir?",
                 "options": [
@@ -3301,42 +3336,8 @@
                 "category": "Matematik",
                 "source_id": "manual"
             },
-            {
-                "question": "Türkiye'nin para birimi nedir?",
-                "options": [
-                    "Türk Lirası",
-                    "Euro",
-                    "Dolar",
-                    "Mark"
-                ],
-                "correct_answer": 0,
-                "category": "Ekonomi",
-                "source_id": "additional"
-            },
-            {
-                "question": "\"The Monkey\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Stephen King",
-                    "Margaret Peterson Haddix",
-                    "Novalis",
-                    "Eve Ensler"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "Q127265"
-            },
-            {
-                "question": "Enerji birimi nedir?",
-                "options": [
-                    "Joule",
-                    "Watt",
-                    "Newton",
-                    "Pascal"
-                ],
-                "correct_answer": 0,
-                "category": "Fizik",
-                "source_id": "additional"
-            },
+            
+            
             {
                 "question": "Portekiz'nin başkenti hangisidir?",
                 "options": [
@@ -3361,42 +3362,8 @@
                 "category": "Spor",
                 "source_id": "additional"
             },
-            {
-                "question": "Borsa nedir?",
-                "options": [
-                    "Menkul kıymet alım-satım yeri",
-                    "Banka türü",
-                    "Para birimi",
-                    "Kredi türü"
-                ],
-                "correct_answer": 0,
-                "category": "Ekonomi",
-                "source_id": "additional"
-            },
-            {
-                "question": "Logaritmanın mucidi kimdir?",
-                "options": [
-                    "John Napier",
-                    "Isaac Newton",
-                    "Gottfried Leibniz",
-                    "Leonhard Euler"
-                ],
-                "correct_answer": 0,
-                "category": "Matematik",
-                "source_id": "additional"
-            },
-            {
-                "question": "\"Timm Thaler\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "http://www.wikidata.org/.well-known/genid/e2bf450cf2cb0042c5f8242e0ad699cf",
-                    "James Krüss",
-                    "Monica Antonsson",
-                    "Jan Otčenášek"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "Q125628"
-            },
+            
+            
             {
                 "question": "Gana'nin başkenti hangisidir?",
                 "options": [
@@ -3409,18 +3376,7 @@
                 "category": "Coğrafya",
                 "source_id": "Q117"
             },
-            {
-                "question": "\"Q128227\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Arnaldur Indriðason",
-                    "Alexandre Dumas",
-                    "Jules Renard",
-                    "Jude Watson"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q128227"
-            },
+            
             {
                 "question": "İlk kişisel bilgisayar hangisidir?",
                 "options": [
@@ -3457,30 +3413,7 @@
                 "category": "Edebiyat",
                 "source_id": "Q128510"
             },
-            {
-                "question": "\"Galatyalılar'a Pavlus'un Mektubu\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Jorge Amado",
-                    "Jules Renard",
-                    "Alexandre Dumas",
-                    "Pavlus"
-                ],
-                "correct_answer": 3,
-                "category": "Edebiyat",
-                "source_id": "Q128620"
-            },
-            {
-                "question": "Meksika'nin başkenti hangisidir?",
-                "options": [
-                    "Yeni Delhi",
-                    "Yaren",
-                    "Meksiko",
-                    "Ramallah"
-                ],
-                "correct_answer": 2,
-                "category": "Coğrafya",
-                "source_id": "Q96"
-            },
+            
             {
                 "question": "İnce Memed romanının yazarı kimdir?",
                 "options": [
@@ -3529,18 +3462,7 @@
                 "category": "Teknoloji",
                 "source_id": "additional"
             },
-            {
-                "question": "Avrupa Birliği'nin para birimi nedir?",
-                "options": [
-                    "Euro",
-                    "Pound",
-                    "Frank",
-                    "Mark"
-                ],
-                "correct_answer": 0,
-                "category": "Ekonomi",
-                "source_id": "additional"
-            },
+           
             {
                 "question": "Güneş'e en yakın gezegen hangisidir?",
                 "options": [
@@ -3553,30 +3475,7 @@
                 "category": "Astronomi",
                 "source_id": "manual"
             },
-            {
-                "question": "İspanya'nin başkenti hangisidir?",
-                "options": [
-                    "Oranjestad",
-                    "Havana",
-                    "Madrid",
-                    "Meksiko"
-                ],
-                "correct_answer": 2,
-                "category": "Coğrafya",
-                "source_id": "Q29"
-            },
-            {
-                "question": "Suyun kimyasal formülü nedir?",
-                "options": [
-                    "H2O",
-                    "CO2",
-                    "O2",
-                    "H2SO4"
-                ],
-                "correct_answer": 0,
-                "category": "Kimya",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "Macaristan'nin başkenti hangisidir?",
                 "options": [
@@ -3601,30 +3500,7 @@
                 "category": "Biyoloji",
                 "source_id": "additional"
             },
-            {
-                "question": "Fransa'nin başkenti hangisidir?",
-                "options": [
-                    "Paris",
-                    "Banjul",
-                    "Kopenhag",
-                    "Lilongwe"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "Q142"
-            },
-            {
-                "question": "Hollanda'nin başkenti hangisidir?",
-                "options": [
-                    "Amman",
-                    "Port of Spain",
-                    "Sofya",
-                    "Amsterdam"
-                ],
-                "correct_answer": 3,
-                "category": "Coğrafya",
-                "source_id": "Q55"
-            },
+            
             {
                 "question": "Amonyağın kimyasal formülü nedir?",
                 "options": [
@@ -3685,258 +3561,8 @@
                 "category": "Matematik",
                 "source_id": "manual"
             },
-            {
-                "question": "Yunanistan'nin başkenti hangisidir?",
-                "options": [
-                    "Atina",
-                    "Yaren",
-                    "Prag",
-                    "Bogotá"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "Q41"
-            },
-            {
-                "question": "Finlandiya'nin başkenti hangisidir?",
-                "options": [
-                    "Nassau",
-                    "Varşova",
-                    "Helsinki",
-                    "Sana'a"
-                ],
-                "correct_answer": 2,
-                "category": "Coğrafya",
-                "source_id": "Q33"
-            },
-            {
-                "question": "Japonya'nin başkenti hangisidir?",
-                "options": [
-                    "Budapeşte",
-                    "Tokyo",
-                    "Brüksel Şehri",
-                    "Seul"
-                ],
-                "correct_answer": 1,
-                "category": "Coğrafya",
-                "source_id": "Q17"
-            },
-            {
-                "question": "Fibonacci dizisinin ilk beş sayısı nedir?",
-                "options": [
-                    "0, 1, 1, 2, 3",
-                    "1, 1, 2, 3, 5",
-                    "0, 1, 2, 3, 5",
-                    "1, 2, 3, 5, 8"
-                ],
-                "correct_answer": 0,
-                "category": "Matematik",
-                "source_id": "additional"
-            },
-            {
-                "question": "Kenya'nin başkenti hangisidir?",
-                "options": [
-                    "Thimphu",
-                    "N'Camena",
-                    "Nairobi",
-                    "Meksiko"
-                ],
-                "correct_answer": 2,
-                "category": "Coğrafya",
-                "source_id": "Q114"
-            },
-            {
-                "question": "İsveç'nin başkenti hangisidir?",
-                "options": [
-                    "Duşanbe",
-                    "Lefkoşa",
-                    "Stockholm",
-                    "Sri Jayawardenapura-Kotte"
-                ],
-                "correct_answer": 2,
-                "category": "Coğrafya",
-                "source_id": "Q34"
-            },
-            {
-                "question": "\"Lolita\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Voltaire",
-                    "Jean-Jacques Rousseau",
-                    "Vladimir Nabokov",
-                    "Pedro Calderón de la Barca"
-                ],
-                "correct_answer": 2,
-                "category": "Edebiyat",
-                "source_id": "Q127149"
-            },
-            {
-                "question": "Amerika Birleşik Devletleri'nin başkenti hangisidir?",
-                "options": [
-                    "Washington",
-                    "Yamoussoukro",
-                    "Port of Spain",
-                    "Roma"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "Q30"
-            },
-            {
-                "question": "Karbondioksitin kimyasal formülü nedir?",
-                "options": [
-                    "CO2",
-                    "CO",
-                    "C2O",
-                    "C2O2"
-                ],
-                "correct_answer": 0,
-                "category": "Kimya",
-                "source_id": "manual"
-            },
-            {
-                "question": "\"Pygmalion\" adlı eserin yazarı kimdir?",
-                "options": [
-                    "Jacob Grimm",
-                    "Alan Moore",
-                    "Stephen King",
-                    "Jean-Jacques Rousseau"
-                ],
-                "correct_answer": 3,
-                "category": "Edebiyat",
-                "source_id": "Q129253"
-            },
-            {
-                "question": "Dünyanın en uzun nehri hangisidir?",
-                "options": [
-                    "Nil",
-                    "Amazon",
-                    "Yangtze",
-                    "Mississippi"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "additional"
-            },
-            {
-                "question": "'Düşünen Adam' heykelinin sanatçısı kimdir?",
-                "options": [
-                    "Auguste Rodin",
-                    "Michelangelo",
-                    "Donatello",
-                    "Bernini"
-                ],
-                "correct_answer": 0,
-                "category": "Sanat",
-                "source_id": "additional"
-            },
-            {
-                "question": "HTML'in açılımı nedir?",
-                "options": [
-                    "HyperText Markup Language",
-                    "High Tech Modern Language",
-                    "Home Tool Markup Language",
-                    "Hyper Transfer Markup Language"
-                ],
-                "correct_answer": 0,
-                "category": "Teknoloji",
-                "source_id": "manual"
-            },
-            {
-                "question": "Uruguay'nin başkenti hangisidir?",
-                "options": [
-                    "Montevideo",
-                    "Cezayir",
-                    "Cuba",
-                    "Kinşasa"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "Q77"
-            },
-            {
-                "question": "İkinci Dünya Savaşı hangi yıl sona ermiştir?",
-                "options": [
-                    "1945",
-                    "1939",
-                    "1918",
-                    "1923"
-                ],
-                "correct_answer": 0,
-                "category": "Tarih",
-                "source_id": "manual"
-            },
-            {
-                "question": "\"Suç ve Ceza\" romanının yazarı kimdir?",
-                "options": [
-                    "Fyodor Dostoyevski",
-                    "Lev Tolstoy",
-                    "Anton Çehov",
-                    "Maksim Gorki"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "manual"
-            },
-            {
-                "question": "Hangi gezegen \"Kızıl Gezegen\" olarak bilinir?",
-                "options": [
-                    "Mars",
-                    "Venüs",
-                    "Jüpiter",
-                    "Satürn"
-                ],
-                "correct_answer": 0,
-                "category": "Bilim",
-                "source_id": "manual"
-            },
-            {
-                "question": "Türkiye'nin en yüksek dağı hangisidir?",
-                "options": [
-                    "Ağrı Dağı",
-                    "Erciyes Dağı",
-                    "Uludağ",
-                    "Kaçkar Dağları"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "manual"
-            },
-            {
-                "question": "Wolfgang Amadeus Mozart hangi ülkenin vatandaşıdır?",
-                "options": [
-                    "Avusturya",
-                    "Almanya",
-                    "İtalya",
-                    "Fransa"
-                ],
-                "correct_answer": 0,
-                "category": "Müzik",
-                "source_id": "manual"
-            },
-            {
-                "question": "Periyodik tabloda \"Au\" simgesi hangi elementi temsil eder?",
-                "options": [
-                    "Altın",
-                    "Gümüş",
-                    "Bakır",
-                    "Demir"
-                ],
-                "correct_answer": 0,
-                "category": "Kimya",
-                "source_id": "manual"
-            },
-            {
-                "question": "DNA'nın yapısını kim keşfetmiştir?",
-                "options": [
-                    "Watson ve Crick",
-                    "Darwin",
-                    "Mendel",
-                    "Pasteur"
-                ],
-                "correct_answer": 0,
-                "category": "Biyoloji",
-                "source_id": "manual"
-            },
+            
+            
             {
                 "question": "\"Yüzüklerin Efendisi\" serisinin yazarı kimdir?",
                 "options": [
@@ -3961,18 +3587,7 @@
                 "category": "Spor",
                 "source_id": "manual"
             },
-            {
-                "question": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
-                "options": [
-                    "Orhan Gazi",
-                    "Osman Bey",
-                    "Fatih Sultan Mehmet",
-                    "Yavuz Sultan Selim"
-                ],
-                "correct_answer": 1,
-                "category": "Tarih",
-                "source_id": "manual"
-            },
+
             {
                 "question": "Türkiye Cumhuriyeti kaç yılında kurulmuştur?",
                 "options": [
@@ -3997,18 +3612,7 @@
                 "category": "Tarih",
                 "source_id": "manual"
             },
-            {
-                "question": "Hangi padişah 'Fatih' unvanını almıştır?",
-                "options": [
-                    "II. Murat",
-                    "II. Mehmet",
-                    "I. Süleyman",
-                    "III. Selim"
-                ],
-                "correct_answer": 1,
-                "category": "Tarih",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "Fransız İhtilali hangi yıl başlamıştır?",
                 "options": [
@@ -4057,18 +3661,7 @@
                 "category": "Tarih",
                 "source_id": "manual"
             },
-            {
-                "question": "Mustafa Kemal Atatürk nerede doğmuştur?",
-                "options": [
-                    "İstanbul",
-                    "Ankara",
-                    "Selanik",
-                    "Manastır"
-                ],
-                "correct_answer": 2,
-                "category": "Tarih",
-                "source_id": "manual"
-            },
+           
             {
                 "question": "İstanbul'un Fethi hangi çağın sonu, hangi çağın başlangıcı kabul edilir?",
                 "options": [
@@ -4081,18 +3674,7 @@
                 "category": "Tarih",
                 "source_id": "manual"
             },
-            {
-                "question": "İstiklal Marşı'nın yazarı kimdir?",
-                "options": [
-                    "Namık Kemal",
-                    "Mehmet Akif Ersoy",
-                    "Ziya Gökalp",
-                    "Tevfik Fikret"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "'Sinekli Bakkal' kimin eseridir?",
                 "options": [
@@ -4105,30 +3687,7 @@
                 "category": "Edebiyat",
                 "source_id": "manual"
             },
-            {
-                "question": "Dünya klasikleri arasında yer alan 'Sefiller'i kim yazmıştır?",
-                "options": [
-                    "Victor Hugo",
-                    "Balzac",
-                    "Dostoyevski",
-                    "Tolstoy"
-                ],
-                "correct_answer": 0,
-                "category": "Edebiyat",
-                "source_id": "manual"
-            },
-            {
-                "question": "'Romeo ve Juliet' oyununun yazarı kimdir?",
-                "options": [
-                    "Charles Dickens",
-                    "William Shakespeare",
-                    "Mark Twain",
-                    "Jane Austen"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "'Don Kişot' kitabının yazarı kimdir?",
                 "options": [
@@ -4153,18 +3712,7 @@
                 "category": "Edebiyat",
                 "source_id": "manual"
             },
-            {
-                "question": "'İnce Memed' kimin eseridir?",
-                "options": [
-                    "Orhan Kemal",
-                    "Yaşar Kemal",
-                    "Kemal Tahir",
-                    "Sabahattin Ali"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "manual"
-            },
+           
             {
                 "question": "Nobel Edebiyat Ödülü alan ilk Türk yazar kimdir?",
                 "options": [
@@ -4237,18 +3785,7 @@
                 "category": "Coğrafya",
                 "source_id": "manual"
             },
-            {
-                "question": "Fatih Sultan Mehmet Köprüsü hangi iki kıtayı birbirine bağlar?",
-                "options": [
-                    "Avrupa - Asya",
-                    "Asya - Afrika",
-                    "Avrupa - Afrika",
-                    "Kuzey Amerika - Güney Amerika"
-                ],
-                "correct_answer": 0,
-                "category": "Coğrafya",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "Dünyanın en yüksek şelalesi hangisidir?",
                 "options": [
@@ -4273,42 +3810,7 @@
                 "category": "Coğrafya",
                 "source_id": "manual"
             },
-            {
-                "question": "Türkiye'nin başkenti neresidir?",
-                "options": [
-                    "İstanbul",
-                    "Ankara",
-                    "İzmir",
-                    "Bursa"
-                ],
-                "correct_answer": 1,
-                "category": "Coğrafya",
-                "source_id": "manual"
-            },
-            {
-                "question": "Hangi okyanus dünyanın en büyük okyanusudur?",
-                "options": [
-                    "Atlantik Okyanusu",
-                    "Hint Okyanusu",
-                    "Pasifik Okyanusu",
-                    "Arktik Okyanusu"
-                ],
-                "correct_answer": 2,
-                "category": "Coğrafya",
-                "source_id": "manual"
-            },
-            {
-                "question": "Kurtuluş Savaşı'ndaki 'İlk Kurşun' nerede atılmıştır?",
-                "options": [
-                    "İzmir",
-                    "Dörtyol",
-                    "Adana",
-                    "Gaziantep"
-                ],
-                "correct_answer": 1,
-                "category": "Tarih",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "Mimar Sinan'ın 'Ustalık Eserim' dediği cami hangisidir?",
                 "options": [
@@ -4357,18 +3859,7 @@
                 "category": "Edebiyat",
                 "source_id": "manual"
             },
-            {
-                "question": "Anıtkabir hangi ilimizdedir?",
-                "options": [
-                    "İstanbul",
-                    "Ankara",
-                    "Samsun",
-                    "Erzurum"
-                ],
-                "correct_answer": 1,
-                "category": "Coğrafya",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "Pamukkale travertenleri hangi ilimizdedir?",
                 "options": [
@@ -4393,66 +3884,7 @@
                 "category": "Tarih",
                 "source_id": "manual"
             },
-            {
-                "question": "Telefonun mucidi kimdir?",
-                "options": [
-                    "Thomas Edison",
-                    "Nikola Tesla",
-                    "Alexander Graham Bell",
-                    "Guglielmo Marconi"
-                ],
-                "correct_answer": 2,
-                "category": "Tarih",
-                "source_id": "manual"
-            },
-            {
-                "question": "Nutuk kimin eseridir?",
-                "options": [
-                    "İsmet İnönü",
-                    "Mustafa Kemal Atatürk",
-                    "Kazım Karabekir",
-                    "Rauf Orbay"
-                ],
-                "correct_answer": 1,
-                "category": "Tarih",
-                "source_id": "manual"
-            },
-            {
-                "question": "Dünyanın 7 harikasından biri olan Artemis Tapınağı nerede bulunmaktadır?",
-                "options": [
-                    "Bodrum",
-                    "Efeso",
-                    "Bergama",
-                    "Didim"
-                ],
-                "correct_answer": 1,
-                "category": "Tarih",
-                "source_id": "manual"
-            },
-            {
-                "question": "Sherlock Holmes karakterinin yaratıcısı kimdir?",
-                "options": [
-                    "Agatha Christie",
-                    "Arthur Conan Doyle",
-                    "Edgar Allan Poe",
-                    "Dan Brown"
-                ],
-                "correct_answer": 1,
-                "category": "Edebiyat",
-                "source_id": "manual"
-            },
-            {
-                "question": "Türkiye'nin en kalabalık şehri hangisidir?",
-                "options": [
-                    "Ankara",
-                    "İzmir",
-                    "İstanbul",
-                    "Bursa"
-                ],
-                "correct_answer": 2,
-                "category": "Coğrafya",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "Everest Tepesi hangi sıradağlar üzerindedir?",
                 "options": [
@@ -4477,18 +3909,7 @@
                 "category": "Coğrafya",
                 "source_id": "manual"
             },
-            {
-                "question": "Lozan Antlaşması hangi yıl imzalanmıştır?",
-                "options": [
-                    "1920",
-                    "1921",
-                    "1922",
-                    "1923"
-                ],
-                "correct_answer": 3,
-                "category": "Tarih",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "Osmanlı'da Lale Devri hangi padişah döneminde yaşanmıştır?",
                 "options": [
@@ -4549,18 +3970,7 @@
                 "category": "Bilim",
                 "source_id": "manual"
             },
-            {
-                "question": "Işık hızı saniyede yaklaşık kaç kilometredir?",
-                "options": [
-                    "300.000",
-                    "150.000",
-                    "1.000",
-                    "1.000.000"
-                ],
-                "correct_answer": 0,
-                "category": "Bilim",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "Hangi elementin simgesi 'O'dur?",
                 "options": [
@@ -4573,18 +3983,7 @@
                 "category": "Bilim",
                 "source_id": "manual"
             },
-            {
-                "question": "İnsan vücudundaki en büyük organ hangisidir?",
-                "options": [
-                    "Deri",
-                    "Karaciğer",
-                    "Kalp",
-                    "Akciğer"
-                ],
-                "correct_answer": 0,
-                "category": "Bilim",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "Güneş sistemimize en yakın yıldız hangisidir?",
                 "options": [
@@ -4657,42 +4056,7 @@
                 "category": "Sanat",
                 "source_id": "manual"
             },
-            {
-                "question": "'Davut' heykeli kime aittir?",
-                "options": [
-                    "Michelangelo",
-                    "Donatello",
-                    "Leonardo da Vinci",
-                    "Raphael"
-                ],
-                "correct_answer": 0,
-                "category": "Sanat",
-                "source_id": "manual"
-            },
-            {
-                "question": "'Yıldızlı Gece' tablosu kime aittir?",
-                "options": [
-                    "Vincent van Gogh",
-                    "Claude Monet",
-                    "Pablo Picasso",
-                    "Rembrandt"
-                ],
-                "correct_answer": 0,
-                "category": "Sanat",
-                "source_id": "manual"
-            },
-            {
-                "question": "Hangi müzik aleti 88 tuşa sahiptir?",
-                "options": [
-                    "Piyano",
-                    "Org",
-                    "Klavsen",
-                    "Akordeon"
-                ],
-                "correct_answer": 0,
-                "category": "Müzik",
-                "source_id": "manual"
-            },
+            
             {
                 "question": "'Pop'un Kralı' olarak bilinen sanatçı kimdir?",
                 "options": [
