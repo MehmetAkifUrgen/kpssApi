@@ -2,6 +2,656 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "Herodot'un yazdığı, Mısır firavununun dilin kökeni deneyinde, doğunca çobana verilerek kapatılan ve kimseyle konuşturulmayan çocuğun söylediği ilk kelime nedir?",
+                "options": [
+                    "Ver",
+                    "Anne",
+                    "Ekmek",
+                    "Su"
+                ],
+                "correct_answer": 2,
+                "category": "Tarih / Mitoloji",
+                "source_id": "Milyonluk sorular ve cevapları",
+                "difficulty": 10
+            },
+            {
+                "question": "Kur'an-ı Kerim'de hangisi üzerine yemin edilmemiştir?",
+                "options": [
+                    "Deniz",
+                    "Güneş",
+                    "Arı",
+                    "Kalem"
+                ],
+                "correct_answer": 2,
+                "category": "Din Kültürü",
+                "source_id": "Milyonluk sorular ve cevapları",
+                "difficulty": 10
+            },
+            {
+                "question": "On kıtadan oluşan İstiklal Marşı'nın tamamında, bu kelimelerden hangisi diğerlerinden daha az geçer?",
+                "options": [
+                    "Vatan",
+                    "Kan",
+                    "Toprak",
+                    "Yurt"
+                ],
+                "correct_answer": 2,
+                "category": "Edebiyat",
+                "source_id": "Milyonluk sorular ve cevapları",
+                "difficulty": 10
+            },
+            {
+                "question": "Türkiye'deki 81 ilin adında bu dört harften hangisi diğer üçünden daha az bulunur?",
+                "options": [
+                    "Ş",
+                    "V",
+                    "G",
+                    "H"
+                ],
+                "correct_answer": 1,
+                "category": "Coğrafya / Dikkat",
+                "source_id": "Milyonluk sorular ve cevapları",
+                "difficulty": 10
+            },
+            {
+                "question": "Nijerya bölgesinde yaşamış olan ve bakır eritildiğine dair hiçbir bulgu olmamasına rağmen, tarihsel sıralamaya aykırı bir şekilde 'demiri eritmeyi başaran ilk Afrika medeniyeti' hangisidir?",
+                "options": [
+                    "Vinka Medeniyeti",
+                    "Nok Medeniyeti",
+                    "Zapotekler",
+                    "Punt Ülkesi"
+                ],
+                "correct_answer": 1,
+                "category": "Arkeoloji",
+                "source_id": "Nar Sanat - Antik Medeniyetler",
+                "difficulty": 10
+            },
+            {
+                "question": "Edinburgh Üniversitesi uzmanlarının yüksek basınç uygulayarak (stiletto topuk etkisi) elmasa dönüştürmeyi başardıkları yiyecek nedir?",
+                "options": [
+                    "Fındık ezmesi",
+                    "Fıstık ezmesi",
+                    "Badem ezmesi",
+                    "Karamel"
+                ],
+                "correct_answer": 1,
+                "category": "Bilim",
+                "source_id": "50 İlginç Bilimsel Gerçek - ListeList",
+                "difficulty": 10
+            },
+            {
+                "question": "17. yüzyılın sonunda Panama'yı sömürgeleştirmeye çalışıp başarısız olan ve bu süreçte yıllık gelirinin yaklaşık yarısını kaybederek finansal iflas yaşayan ülke hangisidir?",
+                "options": [
+                    "Hollanda",
+                    "Fransa",
+                    "Meksika",
+                    "İskoçya"
+                ],
+                "correct_answer": 3,
+                "category": "Tarih",
+                "source_id": "Son bölüme damga vuran o sorular",
+                "difficulty": 9
+            },
+            {
+                "question": "Türkçeye Fransızcadan geçen 'doktor' kelimesinin kökeninin anlamı nedir?",
+                "options": [
+                    "Gözlemlemek",
+                    "Araştırmak",
+                    "Tedavi etmek",
+                    "Öğretmek"
+                ],
+                "correct_answer": 3,
+                "category": "Etimoloji",
+                "source_id": "Miyoner’e damga vuran sorular…",
+                "difficulty": 9
+            },
+            {
+                "question": "Bir insanın hangi hayvanın karaciğerinden tek bir ısırık alması hastaneye kaldırılmasına, tamamını yemesi ölümüne yol açabilir?",
+                "options": [
+                    "Su aygırı",
+                    "Kanguru",
+                    "Kaplan",
+                    "Kutup ayısı"
+                ],
+                "correct_answer": 3,
+                "category": "Biyoloji",
+                "source_id": "Son bölüme damga vuran o sorular",
+                "difficulty": 9
+            },
+            {
+                "question": "Hangi yapının beton duvarlarının temizliğine kabartma tozu, bronz kısımlarının parlatılmasında ise zeytinyağı kullanılmaktadır?",
+                "options": [
+                    "Louvre Müzesi",
+                    "Beyaz Saray",
+                    "Sidney Opera Binası",
+                    "Tac Mahal"
+                ],
+                "correct_answer": 2,
+                "category": "Genel Kültür",
+                "source_id": "Miyoner’e damga vuran sorular…",
+                "difficulty": 9
+            },
+            {
+                "question": "Hangisi bir 'lasa sayı' (asal sayının ters okunuşunun da asal olması durumu) değildir?",
+                "options": [
+                    "17",
+                    "19",
+                    "31",
+                    "37"
+                ],
+                "correct_answer": 1,
+                "category": "Matematik",
+                "source_id": "Milyoner’de son zamanlara damga vuran sorular!",
+                "difficulty": 9
+            },
+            {
+                "question": "Hangisi, sınırlarından Ekvator çizgisinin geçtiği varsayılan ülkelerden biri değildir?",
+                "options": [
+                    "Ekvator Ginesi",
+                    "Somali",
+                    "Ekvator",
+                    "Maldivler"
+                ],
+                "correct_answer": 0,
+                "category": "Coğrafya",
+                "source_id": "Son bölüme damga vuran o sorular",
+                "difficulty": 8
+            },
+            {
+                "question": "Kur'an-ı Kerim'de hangisinin adı geçer?",
+                "options": [
+                    "Hz. Havva",
+                    "Hz. Mikâil",
+                    "Habil",
+                    "Kabil"
+                ],
+                "correct_answer": 1,
+                "category": "Din Kültürü",
+                "source_id": "2024’te Milyoner’e damga vuran sorular...",
+                "difficulty": 8
+            },
+            {
+                "question": "Kuzey, Güney, Doğu ve Batı olmak üzere dört yarım kürede de toprağı olan tek kıta hangisidir?",
+                "options": [
+                    "Avustralya",
+                    "Avrupa",
+                    "Güney Amerika",
+                    "Afrika"
+                ],
+                "correct_answer": 3,
+                "category": "Coğrafya",
+                "source_id": "Son bölüme damga vuran o sorular",
+                "difficulty": 8
+            },
+            {
+                "question": "Hangisi 'Selvi Boylum Al Yazmalım' filminin sonunda Kadir İnanır'ın canlandırdığı İlyas karakterinin söylediği kapanış sözüdür?",
+                "options": [
+                    "Ziyanı yok, gülüşü yeter bize!",
+                    "Elveda Asya!",
+                    "Bitmemiş türküm benim!",
+                    "Elveda selvi boylum al yazmalım!"
+                ],
+                "correct_answer": 2,
+                "category": "Sinema",
+                "source_id": "Miyoner’e damga vuran sorular…",
+                "difficulty": 8
+            },
+            {
+                "question": "Kasım 2017'de 450.3 milyon dolara satılarak rekor kıran 'Salvator Mundi' tablosu kime aittir?",
+                "options": [
+                    "Pablo Picasso",
+                    "Vincent van Gogh",
+                    "Leonardo da Vinci",
+                    "Paul Cezanne"
+                ],
+                "correct_answer": 2,
+                "category": "Sanat",
+                "source_id": "En pahalı tablolar listesi - Vikipedi",
+                "difficulty": 8
+            },
+            {
+                "question": "Bugüne kadar hangi iki futbol takımı arasında 'UEFA Şampiyonlar Ligi' final müsabakası oynanmamıştır?",
+                "options": [
+                    "Juventus ve Milan",
+                    "Manchester City ve Chelsea",
+                    "Real Madrid ve Barcelona",
+                    "Bayern Münih ve Borussia Dortmund"
+                ],
+                "correct_answer": 2,
+                "category": "Spor",
+                "source_id": "2024’te Milyoner’e damga vuran sorular...",
+                "difficulty": 7
+            },
+            {
+                "question": "Hangisinin yaklaşık 34.000 farklı türü vardır ve bu sayı diğer üç şıktakilerin toplamından daha fazladır?",
+                "options": [
+                    "Kuş",
+                    "Amfibi",
+                    "Balık",
+                    "Sürüngen"
+                ],
+                "correct_answer": 2,
+                "category": "Biyoloji",
+                "source_id": "Son bölüme damga vuran o sorular",
+                "difficulty": 7
+            },
+            {
+                "question": "Celal Bayar'ın Milli Mücadele dönemini anlattığı kitabının adı nedir?",
+                "options": [
+                    "Ateşten Gömlek",
+                    "Türk'ün Ateşle İmtihanı",
+                    "Yorgun Savaşçı",
+                    "Ben de Yazdım"
+                ],
+                "correct_answer": 3,
+                "category": "Tarih / Edebiyat",
+                "source_id": "Milyoner son bölüm soruları...",
+                "difficulty": 7
+            },
+            {
+                "question": "Mars atmosferinde en fazla bulunan gaz hangisidir?",
+                "options": [
+                    "Hidrojen",
+                    "Oksijen",
+                    "Azot",
+                    "Karbondioksit"
+                ],
+                "correct_answer": 3,
+                "category": "Bilim / Uzay",
+                "source_id": "300.000 TL’lik sorular",
+                "difficulty": 7
+            },
+            {
+                "question": "Hangi yazar yurt dışında eğitim almamıştır?",
+                "options": [
+                    "Sabahattin Ali",
+                    "Necip Fazıl Kısakürek",
+                    "Cahit Sıtkı Tarancı",
+                    "Turgut Uyar"
+                ],
+                "correct_answer": 3,
+                "category": "Edebiyat",
+                "source_id": "Miyoner’e damga vuran sorular…",
+                "difficulty": 7
+            },
+            {
+                "question": "Hangi ülkenin nüfusu İstanbul'un nüfusundan daha azdır?",
+                "options": [
+                    "Hollanda",
+                    "Tunus",
+                    "Şili",
+                    "Avustralya"
+                ],
+                "correct_answer": 1,
+                "category": "Demografi",
+                "source_id": "Son bölüme damga vuran o sorular",
+                "difficulty": 7
+            },
+            {
+                "question": "Ekonomik durgunluk (resesyon) ile yüksek enflasyonun aynı dönemde yaşanması durumuna ne ad verilir?",
+                "options": [
+                    "Devalüasyon",
+                    "Deflasyon",
+                    "Stagflasyon",
+                    "Revalüasyon"
+                ],
+                "correct_answer": 2,
+                "category": "Ekonomi",
+                "source_id": "Ekonomi Terimleri Rehberi - VakıfBank",
+                "difficulty": 7
+            },
+            {
+                "question": "Metin Oktay, 1969'da jübile maçında hangi futbolcuyla formasını değiştirmiş ve 10 dakikalığına Fenerbahçe forması giymiştir?",
+                "options": [
+                    "Can Bartu",
+                    "Rıdvan Dilmen",
+                    "Lefter Küçükandonyadis",
+                    "Cemil Turan"
+                ],
+                "correct_answer": 0,
+                "category": "Spor Tarihi",
+                "source_id": "300.000 TL’lik sorular",
+                "difficulty": 6
+            },
+            {
+                "question": "Futbol kurallarına göre, kalecinin eliyle fırlattığı top doğrudan rakip takımın kalesine girerse karar ne olur?",
+                "options": [
+                    "Gol",
+                    "Kale vuruşu",
+                    "Ofsayt",
+                    "Endirekt serbest vuruş"
+                ],
+                "correct_answer": 1,
+                "category": "Spor Kuralları",
+                "source_id": "Son bölüme damga vuran o sorular",
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye Futbol Süper Ligi'nde 'Bir sezonda en fazla gol atma' rekorunu 1987-1988 sezonunda kıran Tanju Çolak kaç gol atmıştır?",
+                "options": [
+                    "39",
+                    "44",
+                    "49",
+                    "54"
+                ],
+                "correct_answer": 0,
+                "category": "Spor",
+                "source_id": "300.000 TL’lik sorular",
+                "difficulty": 6
+            },
+            {
+                "question": "Islahat Fermanı hangi padişah zamanında ilan edilmiştir?",
+                "options": [
+                    "II. Mahmud",
+                    "Abdülmecid",
+                    "Abdülaziz",
+                    "II. Abdülhamid"
+                ],
+                "correct_answer": 1,
+                "category": "Osmanlı Tarihi",
+                "source_id": "Milyoner’de son zamanlara damga vuran sorular!",
+                "difficulty": 6
+            },
+            {
+                "question": "Hangisi 'Dede Korkut Hikayeleri'ndeki karakterlerden biri değildir?",
+                "options": [
+                    "Bala Hatun",
+                    "Banu Çiçek",
+                    "Bamsı Beyrek",
+                    "Bayındır Han"
+                ],
+                "correct_answer": 0,
+                "category": "Edebiyat",
+                "source_id": "Milyonluk sorular ve cevapları",
+                "difficulty": 6
+            },
+            {
+                "question": "22 Mart 2022'de, hangi spor kulübünün stadyumu 'en güçlü güneş enerjili stadyum' ünvanıyla Guinness Dünya Rekorlarına girmiştir?",
+                "options": [
+                    "Galatasaray",
+                    "Fenerbahçe",
+                    "Beşiktaş",
+                    "Antalyaspor"
+                ],
+                "correct_answer": 0,
+                "category": "Spor / Teknoloji",
+                "source_id": "300.000 TL’lik sorular",
+                "difficulty": 6
+            },
+            {
+                "question": "Hangi Nobel ödülünü kazanan kadın sayısı en fazladır?",
+                "options": [
+                    "Nobel Barış Ödülü",
+                    "Nobel Edebiyat Ödülü",
+                    "Nobel Fizyoloji veya Tıp Ödülü",
+                    "Nobel Kimya Ödülü"
+                ],
+                "correct_answer": 0,
+                "category": "Genel Kültür",
+                "source_id": "Milyoner’de son zamanlara damga vuran sorular!",
+                "difficulty": 6
+            },
+            {
+                "question": "Ray Bradbury'nin yazdığı, kitapların yasaklandığı ve itfaiyecilerin kitapları yaktığı bir geleceği anlatan distopik roman hangisidir?",
+                "options": [
+                    "1984",
+                    "Fahrenheit 451",
+                    "Cesur Yeni Dünya",
+                    "Biz"
+                ],
+                "correct_answer": 1,
+                "category": "Edebiyat",
+                "source_id": "Mutlaka okumanız gereken modern klasikler - Storytel",
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlılarda, Tanzimat'tan Meşrutiyet'e kadar kullanılmış olan 'istanbulin' nedir?",
+                "options": [
+                    "Bir tür kadın şapkası",
+                    "Bir tür erkek ceketi",
+                    "Bir tür nefesli çalgı",
+                    "Bir tür ateşli silah"
+                ],
+                "correct_answer": 1,
+                "category": "Moda Tarihi",
+                "source_id": "5 Mayıs 2024 Kim Milyoner Olmak İster soruları",
+                "difficulty": 5
+            },
+            {
+                "question": "Eski milli futbolcu ve teknik direktör Sergen Yalçın'ın tam adı nedir?",
+                "options": [
+                    "Metin Ali Sergen",
+                    "Ali Rıza Sergen Yalçın",
+                    "Rıza Feyyaz Sergen Yalçın",
+                    "Muhsin Metin Sergen Yalçın"
+                ],
+                "correct_answer": 1,
+                "category": "Magazin / Spor",
+                "source_id": "2024’te Milyoner’e damga vuran sorular...",
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi takma adda bir kurbağa türü vardır?",
+                "options": [
+                    "Mario kurbağası",
+                    "Pacman kurbağası",
+                    "Tekken kurbağası",
+                    "Tetris kurbağası"
+                ],
+                "correct_answer": 1,
+                "category": "Doğa / Popüler Kültür",
+                "source_id": "300.000 TL’lik sorular",
+                "difficulty": 5
+            },
+            {
+                "question": "Türkan Şoray'ın beyaz perdede başrolleri en çok paylaştığı erkek oyuncu kimdir?",
+                "options": [
+                    "Ediz Hun",
+                    "İzzet Günay",
+                    "Kadir İnanır",
+                    "Cüneyt Arkın"
+                ],
+                "correct_answer": 0,
+                "category": "Sinema",
+                "source_id": "Son bölüme damga vuran o sorular",
+                "difficulty": 5
+            },
+            {
+                "question": "Hangisi TDK sözlüklerinde yer alan bir atasözü değildir?",
+                "options": [
+                    "Sinek küçüktür ama mide bulandırır",
+                    "Görünen köyün uzağı olmaz",
+                    "Aşure yemeye giden kaşığını cebinde taşır",
+                    "Vakit tembele sermayedir"
+                ],
+                "correct_answer": 3,
+                "category": "Dil Bilgisi",
+                "source_id": "Miyoner’e damga vuran sorular…",
+                "difficulty": 5
+            },
+            {
+                "question": "Profesyonel boksta hangi sıklette mücadele eden boksör diğerlerinden daha ağırdır?",
+                "options": [
+                    "Hafif siklet",
+                    "Tüy siklet",
+                    "Horoz siklet",
+                    "Sinek siklet"
+                ],
+                "correct_answer": 0,
+                "category": "Spor",
+                "source_id": "Milyoner’de son zamanlara damga vuran sorular!",
+                "difficulty": 5
+            },
+            {
+                "question": "Alexander Fleming, laboratuvarında unuttuğu küflenmiş bir Petri kabını inceleyerek neyi keşfetmiştir?",
+                "options": [
+                    "İnsülin",
+                    "Aspirin",
+                    "Penisilin",
+                    "Kuduz Aşısı"
+                ],
+                "correct_answer": 2,
+                "category": "Bilim Tarihi",
+                "source_id": "Tarihi Değiştiren Tesadüfler - Bitely",
+                "difficulty": 4
+            },
+            {
+                "question": "'Dejavu' kelimesinin eş anlamlısı olan hangisidir?",
+                "options": [
+                    "Bilmezlikten gelme",
+                    "Sukutuhayal",
+                    "Jet yorgunluğu",
+                    "Görmüşlük duygusu"
+                ],
+                "correct_answer": 3,
+                "category": "Kelime Bilgisi",
+                "source_id": "Milyoner son bölüm soruları...",
+                "difficulty": 4
+            },
+            {
+                "question": "George Orwell'in yazdığı, 'Büyük Birader' kavramını hayatımıza sokan roman hangisidir?",
+                "options": [
+                    "Cesur Yeni Dünya",
+                    "1984",
+                    "Hayvan Çiftliği",
+                    "Fahrenheit 451"
+                ],
+                "correct_answer": 1,
+                "category": "Edebiyat",
+                "source_id": "Mutlaka okumanız gereken modern klasikler - Storytel",
+                "difficulty": 4
+            },
+            {
+                "question": "Olayların kronolojik olarak anlatıldığı bir tarih ders kitabında hangi ünite başlığı diğer üçünden sonraki bir sayfada yer alır?",
+                "options": [
+                    "Soğuk Savaş Dönemi",
+                    "İlk Türk Devletleri",
+                    "Kurtuluş Savaşı'nda Cepheler",
+                    "Yeni Çağ Avrupa Tarihi"
+                ],
+                "correct_answer": 0,
+                "category": "Tarih",
+                "source_id": "Milyoner son bölüm soruları...",
+                "difficulty": 3
+            },
+            {
+                "question": "Bir spor müsabakası öncesinde 'favori' olarak bahsedilen taraf hangisi olur?",
+                "options": [
+                    "Kaybetmesi muhtemel olan",
+                    "Varlık gösteremeyeceği beklenen",
+                    "Üstünlük sağlayacağına inanılan",
+                    "Pes etmesi düşünülen"
+                ],
+                "correct_answer": 2,
+                "category": "Genel Kültür",
+                "source_id": "5 Mayıs 2024 Kim Milyoner Olmak İster soruları",
+                "difficulty": 2
+            },
+            {
+                "question": "İnternetteki alışveriş sitelerinde, müşterilerin anlık olarak 'sipariş takibi' yapmasına olanak sağlayan sayfa genellikle hangi addadır?",
+                "options": [
+                    "Siparişimin hâli hatrı nasıl?",
+                    "Siparişimin canı mı sıkıldı?",
+                    "Siparişim gelmek istemiyor mu?",
+                    "Siparişim nerede?"
+                ],
+                "correct_answer": 3,
+                "category": "Günlük Yaşam",
+                "source_id": "5 Mayıs 2024 Kim Milyoner Olmak İster soruları",
+                "difficulty": 1
+            },
+            {
+                "question": "Hangi ünlü yapıyı görmek isteyen birinin gitmesi gereken ülke Mısır'dır?",
+                "options": [
+                    "Angkor Vat",
+                    "Keops Piramidi",
+                    "Tac Mahal",
+                    "Pisa Kulesi"
+                ],
+                "correct_answer": 1,
+                "category": "Turizm",
+                "source_id": "5 Mayıs 2024 Kim Milyoner Olmak İster soruları",
+                "difficulty": 1
+            },
+            {
+                "question": "Şehir içi toplu ulaşım araçlarında rastlanabilen ve 'orta ve arka kapıları kullanınız' şeklinde biten uyarı yazısının başı nasıldır?",
+                "options": [
+                    "Sökmek için",
+                    "Çalmak için",
+                    "Binmek için",
+                    "İnmek için"
+                ],
+                "correct_answer": 3,
+                "category": "Günlük Yaşam",
+                "source_id": "Milyoner son bölüm soruları...",
+                "difficulty": 1
+            },
+            {
+                "question": "Görme organı hangisidir?",
+                "options": [
+                    "Beyin",
+                    "Mide",
+                    "Göz",
+                    "Kalp"
+                ],
+                "correct_answer": 2,
+                "category": "Biyoloji",
+                "source_id": "5 Mayıs 2024 Kim Milyoner Olmak İster soruları",
+                "difficulty": 1
+            },
+            {
+                "question": "Hangi meyvenin 'Valensiya' adıyla satılan bir çeşidi vardır?",
+                "options": [
+                    "Karpuz",
+                    "Şeftali",
+                    "Kivi",
+                    "Portakal"
+                ],
+                "correct_answer": 3,
+                "category": "Genel Kültür",
+                "source_id": "5 Mayıs 2024 Kim Milyoner Olmak İster soruları",
+                "difficulty": 2
+            },
+            {
+                "question": "'Bonjur' hangi anlamda kullanılan bir sözdür?",
+                "options": [
+                    "Günaydın, merhaba",
+                    "Güle güle, görüşürüz",
+                    "Kendine iyi bak, hoşça kal",
+                    "İyi uykular, tatlı rüyalar"
+                ],
+                "correct_answer": 0,
+                "category": "Dil",
+                "source_id": "5 Mayıs 2024 Kim Milyoner Olmak İster soruları",
+                "difficulty": 2
+            },
+            {
+                "question": "'Elzem' ne demektir?",
+                "options": [
+                    "Çok gerekli, vazgeçilmez",
+                    "Lüzumsuz, gereksiz",
+                    "Enzim salgılayan yapı",
+                    "Burun akıntısı"
+                ],
+                "correct_answer": 0,
+                "category": "Kelime Bilgisi",
+                "source_id": "5 Mayıs 2024 Kim Milyoner Olmak İster soruları",
+                "difficulty": 3
+            },
+            {
+                "question": "Fen bilimleri derslerinde 'camın kırılması, buzun erimesi' hangisine örnek olarak gösterilir?",
+                "options": [
+                    "Kimyasal değişim",
+                    "Fiziksel değişim",
+                    "Zihniyet değişimi",
+                    "Hava değişimi"
+                ],
+                "correct_answer": 1,
+                "category": "Eğitim / Bilim",
+                "source_id": "5 Mayıs 2024 Kim Milyoner Olmak İster soruları",
+                "difficulty": 2
+            },
+            {
                 "question": "Çin'deki Guangzhou Biyotıp ve Sağlık Enstitüleri araştırmacıları, hangi atık maddedeki kök hücreleri kullanarak diş pulpası ve dentin gibi diş yapılarını üretmeyi başarmışlardır?",
                 "options": [
                     "Saç teli",
@@ -5199,7 +5849,7 @@
                 "correct_answer": 0,
                 "category": "Bilim",
                 "source_id": "manual",
-                "difficulty": 7
+                "difficulty": 4
             },
             {
                 "question": "Yerçekimi kanununu kim bulmuştur?",
@@ -5212,7 +5862,7 @@
                 "correct_answer": 0,
                 "category": "Bilim",
                 "source_id": "manual",
-                "difficulty": 8
+                "difficulty": 2
             },
             {
                 "question": "Penisilin'i kim icat etmiştir?",
@@ -5238,7 +5888,7 @@
                 "correct_answer": 0,
                 "category": "Bilim",
                 "source_id": "manual",
-                "difficulty": 7
+                "difficulty": 4
             },
             {
                 "question": "Pablo Picasso hangi sanat akımının öncüsüdür?",
@@ -5251,7 +5901,7 @@
                 "correct_answer": 0,
                 "category": "Sanat",
                 "source_id": "manual",
-                "difficulty": 5
+                "difficulty": 7
             },
             {
                 "question": "'Pop'un Kralı' olarak bilinen sanatçı kimdir?",
@@ -5277,7 +5927,7 @@
                 "correct_answer": 0,
                 "category": "Spor",
                 "source_id": "manual",
-                "difficulty": 4
+                "difficulty": 1
             },
             {
                 "question": "Olimpiyat halkaları kaç renkten oluşur?",
