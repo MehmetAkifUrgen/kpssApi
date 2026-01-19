@@ -1,344 +1,682 @@
 {
     "categories": {
         "Genel Kültür": [
-    {
-        "question": "Güney Rusya'da yaşayan Kazakları anlattığı tarihi romanları ve hikayeleriyle 1965'te Nobel kazanan, 4 ciltlik \"Ve Durgun Akardı Don\" romanının yazarı kimdir?",
-        "options": [
-            "Boris Pasternak",
-            "Lev Tolstoy",
-            "Maksim Gorki",
-            "Mihail Şolohov"
-        ],
-        "correct_answer": 3,
-        "category": "Edebiyat",
-        "source_id": "2 Nisan 2023 Milyoner soru ve cevapları",
-        "difficulty": 9
-    },
-    {
-        "question": "Al Pease, Formula 1 tarihinde, hangi sebepten dolayı yarışmadan diskalifiye edilen ilk ve tek sporcudur?",
-        "options": [
-            "Emniyet kemeri takmamak",
-            "Çok yavaş gitmek",
-            "Ehliyetini evde unutmak",
-            "Araçta müzik dinlemek"
-        ],
-        "correct_answer": 1,
-        "category": "Spor Tarihi",
-        "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 9
-    },
-    {
-        "question": "Cahit Sıtkı Tarancı'nın \"Otuz Beş Yaş\" adlı şiirinde geçen \"Dante gibi ortasındayız ömrün\" dizesinde adı geçen Dante Alighieri gerçekte kaç yaşında ölmüştür?",
-        "options": [
-            "35",
-            "56",
-            "70",
-            "96"
-        ],
-        "correct_answer": 1,
-        "category": "Edebiyat / Tarih",
-        "source_id": "29 Ocak 2023 Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 9
-    },
-    {
-        "question": "Çekimleri 46 hafta süren ve \"En uzun kesintisiz film çekimi\" unvanıyla Guinness Dünya Rekorlarına giren film hangisidir?",
-        "options": [
-            "Kış Uykusu",
-            "Ucuz Roman",
-            "Gözleri Tamamen Kapalı",
-            "Ağır Roman"
-        ],
-        "correct_answer": 2,
-        "category": "Sinema",
-        "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 8
-    },
-    {
-        "question": "Osmanlı tarihinde, hangi addaki padişahların toplam hükümdarlık süresi yaklaşık yüz yılla en uzundur?",
-        "options": [
-            "Mehmed",
-            "Selim",
-            "Mahmut",
-            "Murad"
-        ],
-        "correct_answer": 0,
-        "category": "Osmanlı Tarihi",
-        "source_id": "29 Ocak 2023 Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 8
-    },
-    {
-        "question": "Sevr Antlaşması'nı gösteren ünlü haritada başka devletlerin kontrolüne bırakılan topraklar bugün eğer o devletlerin toprakları olarak kalmış olsaydı, Türkiye vatandaşlarının hangisini ziyaret etmesi için vize alması gerekmeyecekti?",
-        "options": [
-            "Safranbolu Evleri",
-            "Selimiye Camii",
-            "Sümela Manastırı",
-            "Halikarnas Mozolesi"
-        ],
-        "correct_answer": 0,
-        "category": "Tarih / Mantık",
-        "source_id": "27 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 8
-    },
-    {
-        "question": "Shakespeare'in hangi oyunundaki başkarakter oyunun ilerleyen sahnelerinde İngiltere kralı olur?",
-        "options": [
-            "Macbeth",
-            "III. Richard",
-            "Othello",
-            "Hamlet"
-        ],
-        "correct_answer": 1,
-        "category": "Edebiyat / Tiyatro",
-        "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 8
-    },
-    {
-        "question": "Uruguay'ın resmi adı hangisidir?",
-        "options": [
-            "Uruguay Kuzey Cumhuriyeti",
-            "Uruguay Güney Cumhuriyeti",
-            "Uruguay Doğu Cumhuriyeti",
-            "Uruguay Batı Cumhuriyeti"
-        ],
-        "correct_answer": 2,
-        "category": "Coğrafya",
-        "source_id": "2 Nisan 2023 Milyoner soru ve cevapları",
-        "difficulty": 8
-    },
-    {
-        "question": "Bugüne kadar düzenlenen FIFA Dünya Kupası turnuvalarında en çok gol atan futbolcu kimdir?",
-        "options": [
-            "Pele",
-            "Maradona",
-            "Cristiano Ronaldo",
-            "Miroslav Klose"
-        ],
-        "correct_answer": 3,
-        "category": "Spor",
-        "source_id": "29 Ocak 2023 Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 7
-    },
-    {
-        "question": "Hangi iki oyuncu, sinema filmlerinin hiçbir sahnesinde, nikah masasında \"gelin ve damat\" olarak birlikte görünmemiştir?",
-        "options": [
-            "Gülşen Bubikoğlu ve Tarık Akan",
-            "Adile Naşit ve Münir Özkul",
-            "Fatma Girik ve Cüneyt Arkın",
-            "Meral Zeren ve Kemal Sunal"
-        ],
-        "correct_answer": 0,
-        "category": "Türk Sineması",
-        "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 7
-    },
-    {
-        "question": "İstanbul'un Kadıköy, Üsküdar, Ümraniye, Beykoz, Maltepe, Kartal, Pendik, Tuzla ilçelerinde oturanlar hangi yarımadada yaşıyordur?",
-        "options": [
-            "Gelibolu Yarımadası",
-            "Çatalca Yarımadası",
-            "Kapıdağ Yarımadası",
-            "Kocaeli Yarımadası"
-        ],
-        "correct_answer": 3,
-        "category": "Coğrafya",
-        "source_id": "Batu Alıcı son soruya nasıl ulaştı?",
-        "difficulty": 7
-    },
-    {
-        "question": "Stefan Zweig'ın \"Satranç\" adlı eserinde, bir gemi yolculuğu sırasında geçen hikayede karakterler hangi oyunu oynar?",
-        "options": [
-            "Çelik çomak",
-            "Deve güreşi",
-            "Satranç",
-            "Uzuneşek"
-        ],
-        "correct_answer": 2,
-        "category": "Edebiyat",
-        "source_id": "2 Nisan 2023 Milyoner soru ve cevapları",
-        "difficulty": 5
-    },
-    {
-        "question": "Hangisi yönetmenliği Woody Allen'ın yaptığı bir film değildir?",
-        "options": [
-            "Roma'ya sevgilerle",
-            "Paris'te Gece Yarısı",
-            "Barselona, Barselona",
-            "Büyük Budapeşte Oteli"
-        ],
-        "correct_answer": 3,
-        "category": "Sinema",
-        "source_id": "27 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 6
-    },
-    {
-        "question": "Görevinden istifa eden Birleşik Krallık başbakanı Liz Truss kaç günlük görev süresiyle Birleşik Krallık'ın en kısa süre görev yapan başbakanı olmuştur?",
-        "options": [
-            "20",
-            "30",
-            "40",
-            "50"
-        ],
-        "correct_answer": 3,
-        "category": "Dünya Tarihi / Güncel",
-        "source_id": "Batu Alıcı son soruya nasıl ulaştı?",
-        "difficulty": 6
-    },
-    {
-        "question": "5 makinenin 5 cihaz üretmesi 5 dakika sürüyorsa 100 makinenin 100 cihaz üretmesi ne kadar sürer?",
-        "options": [
-            "5 dakika",
-            "25 dakika",
-            "1 saat",
-            "1 saat 40 dakika"
-        ],
-        "correct_answer": 0,
-        "category": "Mantık",
-        "source_id": "27 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 6
-    },
-    {
-        "question": "\"DUS\"a girecek olan biri hangi fakülteden mezun olmuştur?",
-        "options": [
-            "Hukuk",
-            "Diş Hekimliği",
-            "Spor Bilimleri",
-            "Denizcilik"
-        ],
-        "correct_answer": 1,
-        "category": "Eğitim / Genel Kültür",
-        "source_id": "2 Nisan 2023 Milyoner soru ve cevapları",
-        "difficulty": 4
-    },
-    {
-        "question": "\"Altın Aslan\" kazanan bir yönetmen hangi film festivalinin jürisi tarafından \"En İyi Yönetmen\" seçilmiştir?",
-        "options": [
-            "Venedik Uluslararası Film Festivali",
-            "Berlin Uluslararası Film Festivali",
-            "Cannes Film Festivali",
-            "Antalya Altın Portakal Film Festivali"
-        ],
-        "correct_answer": 0,
-        "category": "Sinema / Sanat",
-        "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 5
-    },
-    {
-        "question": "Atlas Dağları'nı gezmekte olan biri hangi ülkede olabilir?",
-        "options": [
-            "Arjantin",
-            "Fas",
-            "Arnavutluk",
-            "Japonya"
-        ],
-        "correct_answer": 1,
-        "category": "Coğrafya",
-        "source_id": "29 Ocak 2023 Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 5
-    },
-    {
-        "question": "\"Tarla sürmeye gitmek\" anlamına gelen ifade hangisidir?",
-        "options": [
-            "Mars etmek",
-            "Çifte gitmek",
-            "Pike çekmek",
-            "Fırfır yapmak"
-        ],
-        "correct_answer": 1,
-        "category": "Halk Ağzı / Deyimler",
-        "source_id": "Batu Alıcı son soruya nasıl ulaştı?",
-        "difficulty": 5
-    },
-    {
-        "question": "Cebelitarık Boğazı hangi ikisini birleştirir?",
-        "options": [
-            "Akdeniz ve Atlas Okyanusu",
-            "Atlas Okyanusu ve Büyük Okyanus",
-            "Hazar Denizi ve Aral Gölü",
-            "Sarı Deniz ve Hint Okyanusu"
-        ],
-        "correct_answer": 0,
-        "category": "Coğrafya",
-        "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 4
-    },
-    {
-        "question": "Hangisi \"anlık\" anlamına gelmez?",
-        "options": [
-            "Entelekt",
-            "Spontane",
-            "Aktüel",
-            "Enstantane"
-        ],
-        "correct_answer": 2,
-        "category": "Kelime Bilgisi",
-        "source_id": "29 Ocak 2023 Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 5
-    },
-    {
-        "question": "1930'dan beri düzenlenen FIFA Dünya Kupası turnuvalarının hepsine katılmış tek ülke hangisidir?",
-        "options": [
-            "Arjantin",
-            "Brezilya",
-            "Portekiz",
-            "Fransa"
-        ],
-        "correct_answer": 1,
-        "category": "Spor Tarihi",
-        "source_id": "Batu Alıcı son soruya nasıl ulaştı?",
-        "difficulty": 5
-    },
-    {
-        "question": "\"Türkiye'de, adında yan yana iki sesli harf olan dört il var, bunlardan biri Gaziantep, biri Şanlıurfa, biri Siirt, diğeri aklıma gelmedi!\" diyen birinin unuttuğu il (Kocaeli) nerededir?",
-        "options": [
-            "Marmara Bölgesi",
-            "Ege Bölgesi",
-            "Karadeniz Bölgesi",
-            "Akdeniz Bölgesi"
-        ],
-        "correct_answer": 0,
-        "category": "Coğrafya / Dikkat",
-        "source_id": "27 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 5
-    },
-    {
-        "question": "Kimlere \"karıncaezmez\" denir?",
-        "options": [
-            "Çok esprili kişilere",
-            "Çok merhametli kişilere",
-            "Çok gösterişli kişilere",
-            "Çok çalışkan kişilere"
-        ],
-        "correct_answer": 1,
-        "category": "Deyimler",
-        "source_id": "29 Ocak 2023 Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 3
-    },
-    {
-        "question": "Kenan İmirzalıoğlu hangi dizide Mehmet Kosovalı adlı karakteri canlandırmıştır?",
-        "options": [
-            "Karadayı",
-            "Acı Hayat",
-            "Deli Yürek",
-            "Ezel"
-        ],
-        "correct_answer": 1,
-        "category": "Televizyon",
-        "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
-        "difficulty": 3
-    },
-    {
-        "question": "Dinlediğiniz \"Göz Bebeğimsin\" adlı şarkıyı kim seslendirmektedir?",
-        "options": [
-            "Soner Arıca",
-            "Harun Kolçak",
-            "Levent Yüksel",
-            "Tarık Mengüç"
-        ],
-        "correct_answer": 0,
-        "category": "Müzik",
-        "source_id": "Batu Alıcı son soruya nasıl ulaştı?",
-        "difficulty": 5
-    },
+            {
+                "question": "Ebu Şüca Muhammed bin Davud kimdir?",
+                "options": [
+                    "Timur",
+                    "Alparslan",
+                    "Selahaddin Eyyubi",
+                    "Cengiz Han"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "23 Ekim Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 9
+            },
+            {
+                "question": "1969-1974 arasında ABD başkanı olan Richard Nixon'ın, 1954'te henüz başkan yardımcısıyken kırdığı 165 yıllık tarihi eser hangisidir?",
+                "options": [
+                    "Beyaz Saray ana giriş kapısının kolu",
+                    "Senato başkanlık tokmağı",
+                    "Beyaz Saray'daki çini vazo",
+                    "Senatodaki büyük ayna"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih / Genel Kültür",
+                "source_id": "Milyoner sorularıyla kendini test et!",
+                "difficulty": 9
+            },
+            {
+                "question": "16. yüzyılda Avrupa'da \"Türk buğdayı\" ve \"Türk tahılı\" olarak da bilinen hangisidir?",
+                "options": [
+                    "Mısır",
+                    "Yulaf",
+                    "Susam",
+                    "Ay çekirdeği"
+                ],
+                "correct_answer": 0,
+                "category": "Tarih / Botanik",
+                "source_id": "Milyoner sorularıyla kendini test et!",
+                "difficulty": 7
+            },
+            {
+                "question": "Guinness Dünya Rekorlarına göre Sri Lanka'da bulunan ve insan eliyle dikilmiş bilinen en eski ağaç olan \"Sri Maha Bodhiya\" adlı ağaç hangi tarihte dikilmiştir?",
+                "options": [
+                    "MÖ 1288",
+                    "MÖ 288",
+                    "MS 288",
+                    "MS 1288"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih / Botanik",
+                "source_id": "12 Ağustos 2022 Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 9
+            },
+            {
+                "question": "Hangisi \"havuç\"a verilen bir addır?",
+                "options": [
+                    "Havayavaran",
+                    "Toprağagiren",
+                    "Yeregeçen",
+                    "Karakaçan"
+                ],
+                "correct_answer": 2,
+                "category": "Halk Ağzı / Etimoloji",
+                "source_id": "13 Kasım Kim Milyoner Olmak İster soruları ve cevapları!",
+                "difficulty": 8
+            },
+            {
+                "question": "1986'da, 87 yolcu ve 7 mürettebatıyla SSCB'nin Samara kentine inmekte olan bir yolcu uçağının kaptan pilotu yardımcısıyla kokpit camları kapalı şekilde uçağı piste indirebileceği üzerine iddiaya girmiş ve ne olmuştur?",
+                "options": [
+                    "Uçak, Hazar Denizi'ne inmiştir",
+                    "Uçak sorunsuzca piste inmiştir",
+                    "Uçak kaza yapmış 70 kişi ölmüştür",
+                    "Uçak, Erzurum'a inmiştir"
+                ],
+                "correct_answer": 2,
+                "category": "Havacılık Tarihi / İlginç Olaylar",
+                "source_id": "17 Ağustos 2022 Kim Milyoner Olmak İster soru ve cevapları",
+                "difficulty": 8
+            },
+            {
+                "question": "2008'de Newcastle Üniversitesinin 556.387 kişi ve 927 soyağacı üzerinde yaptığı araştırmada hangisinin erkek çocukları olma ihtimalinin kız çocukları olma ihtimalinden daha fazla olduğu sonucuna ulaşılmıştır?",
+                "options": [
+                    "Kız kardeşi daha çok olan kadınların",
+                    "Kız kardeşi daha çok olan erkeklerin",
+                    "Erkek kardeşi daha çok olan kadınların",
+                    "Erkek kardeşi daha çok olan erkeklerin"
+                ],
+                "correct_answer": 3,
+                "category": "Bilim / Genetik",
+                "source_id": "12 Ağustos 2022 Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 8
+            },
+            {
+                "question": "\"Mende sığar iki cihan, men bu cihana sığmazam\" kimin eserinin ilk dizesidir?",
+                "options": [
+                    "Fuzuli",
+                    "Baki",
+                    "Nesimi",
+                    "Aşık Veysel"
+                ],
+                "correct_answer": 2,
+                "category": "Edebiyat",
+                "source_id": "23 Ekim Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 8
+            },
+            {
+                "question": "\"Atatürk'ün Samsun'a çıktığı gün\" doğan bir bebek Türkiye'de cumhuriyet ilan edildiğinde kaç aylıktır?",
+                "options": [
+                    "41",
+                    "43",
+                    "51",
+                    "53"
+                ],
+                "correct_answer": 3,
+                "category": "Tarih / Mantık",
+                "source_id": "23 Ekim Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 8
+            },
+            {
+                "question": "Hangisinin 100. yılı bir artık yıla denk gelmektedir?",
+                "options": [
+                    "30 Ağustos Zaferi",
+                    "TBMM'nin Ankara'da ilk açılışı",
+                    "Türkiye'de cumhuriyetin ilanı",
+                    "Atatürk'ün Samsun'a çıkışı"
+                ],
+                "correct_answer": 1,
+                "category": "Mantık / Tarih",
+                "source_id": "17 Ağustos 2022 Kim Milyoner Olmak İster soru ve cevapları",
+                "difficulty": 8
+            },
+            {
+                "question": "TDK'ye göre günümüz Türkçesinde yazılışı yanlış olan hangisidir?",
+                "options": [
+                    "Kırklareli'ne",
+                    "Rumeli'ne",
+                    "Eminönü'ne",
+                    "Osmaneli'ne"
+                ],
+                "correct_answer": 1,
+                "category": "Dil Bilgisi",
+                "source_id": "Milyoner sorularıyla kendini test et!",
+                "difficulty": 9
+            },
+            {
+                "question": "Tamamen otomatik sistemlerle donatılmış ve üretim gerçekleştirirken insan gücüne ihtiyaç duyulmamasını hedefleyen üretim yöntemine ne ad verilir?",
+                "options": [
+                    "Karanlık fabrikalar",
+                    "Soğuk fabrikalar",
+                    "Sessiz fabrikalar",
+                    "Tatsız fabrikalar"
+                ],
+                "correct_answer": 0,
+                "category": "Teknoloji / Endüstri",
+                "source_id": "17 Ağustos 2022 Kim Milyoner Olmak İster soru ve cevapları",
+                "difficulty": 7
+            },
+            {
+                "question": "Hangisi 1991'de İngiltere milli futbol takımında beş defa forma giymiş bir futbolcunun soyadıdır?",
+                "options": [
+                    "Salako",
+                    "Davaro",
+                    "Feyzo",
+                    "Maho"
+                ],
+                "correct_answer": 0,
+                "category": "Spor / Magazin",
+                "source_id": "12 Ağustos 2022 Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 7
+            },
+            {
+                "question": "Barış Manço 1982'de kimin mezarının yeni baştan yapılmasına katkıda bulunmuştur?",
+                "options": [
+                    "Sarı Çizmeli Mehmet Ağa'nın",
+                    "Kul Ahmet'in",
+                    "Gülpembe'nin",
+                    "Hala kızı Zehra'nın"
+                ],
+                "correct_answer": 0,
+                "category": "Müzik / Kültür",
+                "source_id": "Milyoner sorularıyla kendini test et!",
+                "difficulty": 7
+            },
+            {
+                "question": "6 ayda yaklaşık 7164 kilometre yol gidip dünyanın en büyük GPS çizimini yaparak Guinness Dünya Rekorlarına giren Yasuşi Takahani'nin bu çizimle yazdığı cümlenin Türkçe çevirisi hangisidir?",
+                "options": [
+                    "Seni seviyorum",
+                    "Merhaba Dünya",
+                    "Evlen benimle",
+                    "Bunu yazan Yasuşi"
+                ],
+                "correct_answer": 2,
+                "category": "Genel Kültür",
+                "source_id": "23 Ekim Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 7
+            },
+            {
+                "question": "Londra merkezli bir film kiralama şirketinin 2011'de yaptığı araştırmaya göre, insanların aslında izlemedikleri halde izlediklerini söyledikleri filmler listesinde ilk sırada yer alan hangisidir?",
+                "options": [
+                    "Titanik",
+                    "Baba",
+                    "Esaretin Bedeli",
+                    "Schindler'in Listesi"
+                ],
+                "correct_answer": 1,
+                "category": "Sinema",
+                "source_id": "Milyoner sorularıyla kendini test et!",
+                "difficulty": 6
+            },
+            {
+                "question": "Şehre, surlardaki Lefke Kapısı'ndan girip Yeşil Cami'yi ve Ayasofya Camii'ni ziyaret ettikten sonra göl kıyısında çay içiyorsanız neredesinizdir?",
+                "options": [
+                    "Ayvalık",
+                    "İznik",
+                    "Ezine",
+                    "Bergama"
+                ],
+                "correct_answer": 1,
+                "category": "Seyahat / Coğrafya",
+                "source_id": "17 Ağustos 2022 Kim Milyoner Olmak İster soru ve cevapları",
+                "difficulty": 6
+            },
+            {
+                "question": "Morgan Freeman, kariyerindeki tek Oscar'ı hangi filmdeki rolüyle kazanmıştır?",
+                "options": [
+                    "Milyonluk Bebek",
+                    "Esaretin Bedeli",
+                    "Yedi",
+                    "Affedilmeyen"
+                ],
+                "correct_answer": 0,
+                "category": "Sinema",
+                "source_id": "17 Ağustos 2022 Kim Milyoner Olmak İster soru ve cevapları",
+                "difficulty": 6
+            },
+            {
+                "question": "ABD New York'taki Özgürlük Heykeli bir elinde meşale tutarken diğer elinde ne tutar?",
+                "options": [
+                    "Anayasa kitabı",
+                    "Tabela",
+                    "Terazi",
+                    "Hiçbir şey"
+                ],
+                "correct_answer": 1,
+                "category": "Genel Kültür",
+                "source_id": "23 Ekim Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 6
+            },
+            {
+                "question": "\"Züğürt Ağa\"da Abuzer, \"Eşkıya\"da Mustafa ve başrollerini Şener Şen ve Kenan İmirzalıoğlu'nun paylaştığı \"Kabadayı\"da Beyto karakterini canlandıran oyuncu kimdir?",
+                "options": [
+                    "Hayati Hamzaoğlu",
+                    "Kemal İnci",
+                    "Kadir Savun",
+                    "Erol Taş"
+                ],
+                "correct_answer": 1,
+                "category": "Sinema",
+                "source_id": "13 Kasım Kim Milyoner Olmak İster soruları ve cevapları!",
+                "difficulty": 7
+            },
+            {
+                "question": "Basketbolda çembere yan durarak tek elle baş üzerinden geçirilerek atılan şuta ne ad verilir?",
+                "options": [
+                    "Cemşat",
+                    "Plonjon",
+                    "Hukşat",
+                    "Degaj"
+                ],
+                "correct_answer": 2,
+                "category": "Spor Terimleri",
+                "source_id": "12 Ağustos 2022 Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 5
+            },
+            {
+                "question": "Hangisi TDK sözlüklerinde tanımı olan bir ifade değildir?",
+                "options": [
+                    "Yıldızları barışmamak",
+                    "Perileri bağdaşmak",
+                    "Kafası uyuşmak",
+                    "Gönlü çelinmek"
+                ],
+                "correct_answer": 2,
+                "category": "Dil Bilgisi",
+                "source_id": "13 Kasım Kim Milyoner Olmak İster soruları ve cevapları!",
+                "difficulty": 7
+            },
+            {
+                "question": "333'ün 3 katı, 333'ün 3'te birinden kaç fazladır?",
+                "options": [
+                    "0",
+                    "222",
+                    "555",
+                    "888"
+                ],
+                "correct_answer": 3,
+                "category": "Matematik / Mantık",
+                "source_id": "12 Ağustos 2022 Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi matematiksel terim adını Harezmi'den almıştır?",
+                "options": [
+                    "Trigonometri",
+                    "Algoritma",
+                    "İntegral",
+                    "Diferansiyel"
+                ],
+                "correct_answer": 1,
+                "category": "Bilim Tarihi",
+                "source_id": "Milyoner sorularıyla kendini test et!",
+                "difficulty": 5
+            },
+            {
+                "question": "\"Ressam sehpası\" anlamına gelen kelimenin doğru yazılışı hangisidir?",
+                "options": [
+                    "Şovalye",
+                    "Şövalye",
+                    "Şovale",
+                    "Şövale"
+                ],
+                "correct_answer": 3,
+                "category": "Dil Bilgisi",
+                "source_id": "17 Ağustos 2022 Kim Milyoner Olmak İster soru ve cevapları",
+                "difficulty": 5
+            },
+            {
+                "question": "\"Turist Ömer Uzay Yolunda\" adlı filmde Turist Ömer'in \"Kabakulak\" adını taktığı uzay gemisi mürettebatı üyesi hangisidir?",
+                "options": [
+                    "Mr. Spock",
+                    "Kaptan Kirk",
+                    "Scotty",
+                    "Dr McCoy"
+                ],
+                "correct_answer": 0,
+                "category": "Sinema / Mizah",
+                "source_id": "Milyoner sorularıyla kendini test et!",
+                "difficulty": 5
+            },
+            {
+                "question": "\"Geçti Bor'un pazarı\" atasözünde adı geçen Bor, hangi ilin bir ilçesidir?",
+                "options": [
+                    "Niğde",
+                    "Nevşehir",
+                    "Kırşehir",
+                    "Aksaray"
+                ],
+                "correct_answer": 0,
+                "category": "Coğrafya / Deyimler",
+                "source_id": "12 Ağustos 2022 Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 4
+            },
+            {
+                "question": "Güney Rusya'da yaşayan Kazakları anlattığı tarihi romanları ve hikayeleriyle 1965'te Nobel kazanan, 4 ciltlik \"Ve Durgun Akardı Don\" romanının yazarı kimdir?",
+                "options": [
+                    "Boris Pasternak",
+                    "Lev Tolstoy",
+                    "Maksim Gorki",
+                    "Mihail Şolohov"
+                ],
+                "correct_answer": 3,
+                "category": "Edebiyat",
+                "source_id": "2 Nisan 2023 Milyoner soru ve cevapları",
+                "difficulty": 9
+            },
+            {
+                "question": "Al Pease, Formula 1 tarihinde, hangi sebepten dolayı yarışmadan diskalifiye edilen ilk ve tek sporcudur?",
+                "options": [
+                    "Emniyet kemeri takmamak",
+                    "Çok yavaş gitmek",
+                    "Ehliyetini evde unutmak",
+                    "Araçta müzik dinlemek"
+                ],
+                "correct_answer": 1,
+                "category": "Spor Tarihi",
+                "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 9
+            },
+            {
+                "question": "Cahit Sıtkı Tarancı'nın \"Otuz Beş Yaş\" adlı şiirinde geçen \"Dante gibi ortasındayız ömrün\" dizesinde adı geçen Dante Alighieri gerçekte kaç yaşında ölmüştür?",
+                "options": [
+                    "35",
+                    "56",
+                    "70",
+                    "96"
+                ],
+                "correct_answer": 1,
+                "category": "Edebiyat / Tarih",
+                "source_id": "29 Ocak 2023 Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 9
+            },
+            {
+                "question": "Çekimleri 46 hafta süren ve \"En uzun kesintisiz film çekimi\" unvanıyla Guinness Dünya Rekorlarına giren film hangisidir?",
+                "options": [
+                    "Kış Uykusu",
+                    "Ucuz Roman",
+                    "Gözleri Tamamen Kapalı",
+                    "Ağır Roman"
+                ],
+                "correct_answer": 2,
+                "category": "Sinema",
+                "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 8
+            },
+            {
+                "question": "Osmanlı tarihinde, hangi addaki padişahların toplam hükümdarlık süresi yaklaşık yüz yılla en uzundur?",
+                "options": [
+                    "Mehmed",
+                    "Selim",
+                    "Mahmut",
+                    "Murad"
+                ],
+                "correct_answer": 0,
+                "category": "Osmanlı Tarihi",
+                "source_id": "29 Ocak 2023 Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 8
+            },
+            {
+                "question": "Sevr Antlaşması'nı gösteren ünlü haritada başka devletlerin kontrolüne bırakılan topraklar bugün eğer o devletlerin toprakları olarak kalmış olsaydı, Türkiye vatandaşlarının hangisini ziyaret etmesi için vize alması gerekmeyecekti?",
+                "options": [
+                    "Safranbolu Evleri",
+                    "Selimiye Camii",
+                    "Sümela Manastırı",
+                    "Halikarnas Mozolesi"
+                ],
+                "correct_answer": 0,
+                "category": "Tarih / Mantık",
+                "source_id": "27 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 8
+            },
+            {
+                "question": "Shakespeare'in hangi oyunundaki başkarakter oyunun ilerleyen sahnelerinde İngiltere kralı olur?",
+                "options": [
+                    "Macbeth",
+                    "III. Richard",
+                    "Othello",
+                    "Hamlet"
+                ],
+                "correct_answer": 1,
+                "category": "Edebiyat / Tiyatro",
+                "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 8
+            },
+            {
+                "question": "Uruguay'ın resmi adı hangisidir?",
+                "options": [
+                    "Uruguay Kuzey Cumhuriyeti",
+                    "Uruguay Güney Cumhuriyeti",
+                    "Uruguay Doğu Cumhuriyeti",
+                    "Uruguay Batı Cumhuriyeti"
+                ],
+                "correct_answer": 2,
+                "category": "Coğrafya",
+                "source_id": "2 Nisan 2023 Milyoner soru ve cevapları",
+                "difficulty": 8
+            },
+            {
+                "question": "Bugüne kadar düzenlenen FIFA Dünya Kupası turnuvalarında en çok gol atan futbolcu kimdir?",
+                "options": [
+                    "Pele",
+                    "Maradona",
+                    "Cristiano Ronaldo",
+                    "Miroslav Klose"
+                ],
+                "correct_answer": 3,
+                "category": "Spor",
+                "source_id": "29 Ocak 2023 Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 7
+            },
+            {
+                "question": "Hangi iki oyuncu, sinema filmlerinin hiçbir sahnesinde, nikah masasında \"gelin ve damat\" olarak birlikte görünmemiştir?",
+                "options": [
+                    "Gülşen Bubikoğlu ve Tarık Akan",
+                    "Adile Naşit ve Münir Özkul",
+                    "Fatma Girik ve Cüneyt Arkın",
+                    "Meral Zeren ve Kemal Sunal"
+                ],
+                "correct_answer": 0,
+                "category": "Türk Sineması",
+                "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 7
+            },
+            {
+                "question": "İstanbul'un Kadıköy, Üsküdar, Ümraniye, Beykoz, Maltepe, Kartal, Pendik, Tuzla ilçelerinde oturanlar hangi yarımadada yaşıyordur?",
+                "options": [
+                    "Gelibolu Yarımadası",
+                    "Çatalca Yarımadası",
+                    "Kapıdağ Yarımadası",
+                    "Kocaeli Yarımadası"
+                ],
+                "correct_answer": 3,
+                "category": "Coğrafya",
+                "source_id": "Batu Alıcı son soruya nasıl ulaştı?",
+                "difficulty": 7
+            },
+            {
+                "question": "Stefan Zweig'ın \"Satranç\" adlı eserinde, bir gemi yolculuğu sırasında geçen hikayede karakterler hangi oyunu oynar?",
+                "options": [
+                    "Çelik çomak",
+                    "Deve güreşi",
+                    "Satranç",
+                    "Uzuneşek"
+                ],
+                "correct_answer": 2,
+                "category": "Edebiyat",
+                "source_id": "2 Nisan 2023 Milyoner soru ve cevapları",
+                "difficulty": 5
+            },
+            {
+                "question": "Hangisi yönetmenliği Woody Allen'ın yaptığı bir film değildir?",
+                "options": [
+                    "Roma'ya sevgilerle",
+                    "Paris'te Gece Yarısı",
+                    "Barselona, Barselona",
+                    "Büyük Budapeşte Oteli"
+                ],
+                "correct_answer": 3,
+                "category": "Sinema",
+                "source_id": "27 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 6
+            },
+            {
+                "question": "Görevinden istifa eden Birleşik Krallık başbakanı Liz Truss kaç günlük görev süresiyle Birleşik Krallık'ın en kısa süre görev yapan başbakanı olmuştur?",
+                "options": [
+                    "20",
+                    "30",
+                    "40",
+                    "50"
+                ],
+                "correct_answer": 3,
+                "category": "Dünya Tarihi / Güncel",
+                "source_id": "Batu Alıcı son soruya nasıl ulaştı?",
+                "difficulty": 6
+            },
+            {
+                "question": "5 makinenin 5 cihaz üretmesi 5 dakika sürüyorsa 100 makinenin 100 cihaz üretmesi ne kadar sürer?",
+                "options": [
+                    "5 dakika",
+                    "25 dakika",
+                    "1 saat",
+                    "1 saat 40 dakika"
+                ],
+                "correct_answer": 0,
+                "category": "Mantık",
+                "source_id": "27 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 6
+            },
+            {
+                "question": "\"DUS\"a girecek olan biri hangi fakülteden mezun olmuştur?",
+                "options": [
+                    "Hukuk",
+                    "Diş Hekimliği",
+                    "Spor Bilimleri",
+                    "Denizcilik"
+                ],
+                "correct_answer": 1,
+                "category": "Eğitim / Genel Kültür",
+                "source_id": "2 Nisan 2023 Milyoner soru ve cevapları",
+                "difficulty": 4
+            },
+            {
+                "question": "\"Altın Aslan\" kazanan bir yönetmen hangi film festivalinin jürisi tarafından \"En İyi Yönetmen\" seçilmiştir?",
+                "options": [
+                    "Venedik Uluslararası Film Festivali",
+                    "Berlin Uluslararası Film Festivali",
+                    "Cannes Film Festivali",
+                    "Antalya Altın Portakal Film Festivali"
+                ],
+                "correct_answer": 0,
+                "category": "Sinema / Sanat",
+                "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 5
+            },
+            {
+                "question": "Atlas Dağları'nı gezmekte olan biri hangi ülkede olabilir?",
+                "options": [
+                    "Arjantin",
+                    "Fas",
+                    "Arnavutluk",
+                    "Japonya"
+                ],
+                "correct_answer": 1,
+                "category": "Coğrafya",
+                "source_id": "29 Ocak 2023 Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 5
+            },
+            {
+                "question": "\"Tarla sürmeye gitmek\" anlamına gelen ifade hangisidir?",
+                "options": [
+                    "Mars etmek",
+                    "Çifte gitmek",
+                    "Pike çekmek",
+                    "Fırfır yapmak"
+                ],
+                "correct_answer": 1,
+                "category": "Halk Ağzı / Deyimler",
+                "source_id": "Batu Alıcı son soruya nasıl ulaştı?",
+                "difficulty": 5
+            },
+            {
+                "question": "Cebelitarık Boğazı hangi ikisini birleştirir?",
+                "options": [
+                    "Akdeniz ve Atlas Okyanusu",
+                    "Atlas Okyanusu ve Büyük Okyanus",
+                    "Hazar Denizi ve Aral Gölü",
+                    "Sarı Deniz ve Hint Okyanusu"
+                ],
+                "correct_answer": 0,
+                "category": "Coğrafya",
+                "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 4
+            },
+            {
+                "question": "Hangisi \"anlık\" anlamına gelmez?",
+                "options": [
+                    "Entelekt",
+                    "Spontane",
+                    "Aktüel",
+                    "Enstantane"
+                ],
+                "correct_answer": 2,
+                "category": "Kelime Bilgisi",
+                "source_id": "29 Ocak 2023 Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 5
+            },
+            {
+                "question": "1930'dan beri düzenlenen FIFA Dünya Kupası turnuvalarının hepsine katılmış tek ülke hangisidir?",
+                "options": [
+                    "Arjantin",
+                    "Brezilya",
+                    "Portekiz",
+                    "Fransa"
+                ],
+                "correct_answer": 1,
+                "category": "Spor Tarihi",
+                "source_id": "Batu Alıcı son soruya nasıl ulaştı?",
+                "difficulty": 5
+            },
+            {
+                "question": "\"Türkiye'de, adında yan yana iki sesli harf olan dört il var, bunlardan biri Gaziantep, biri Şanlıurfa, biri Siirt, diğeri aklıma gelmedi!\" diyen birinin unuttuğu il (Kocaeli) nerededir?",
+                "options": [
+                    "Marmara Bölgesi",
+                    "Ege Bölgesi",
+                    "Karadeniz Bölgesi",
+                    "Akdeniz Bölgesi"
+                ],
+                "correct_answer": 0,
+                "category": "Coğrafya / Dikkat",
+                "source_id": "27 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 5
+            },
+            {
+                "question": "Kimlere \"karıncaezmez\" denir?",
+                "options": [
+                    "Çok esprili kişilere",
+                    "Çok merhametli kişilere",
+                    "Çok gösterişli kişilere",
+                    "Çok çalışkan kişilere"
+                ],
+                "correct_answer": 1,
+                "category": "Deyimler",
+                "source_id": "29 Ocak 2023 Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 3
+            },
+            {
+                "question": "Kenan İmirzalıoğlu hangi dizide Mehmet Kosovalı adlı karakteri canlandırmıştır?",
+                "options": [
+                    "Karadayı",
+                    "Acı Hayat",
+                    "Deli Yürek",
+                    "Ezel"
+                ],
+                "correct_answer": 1,
+                "category": "Televizyon",
+                "source_id": "20 Kasım Kim Milyoner Olmak İster soruları ve cevapları",
+                "difficulty": 3
+            },
             {
                 "question": "\"Ayrılık oto ve eğrelti otu yenmez ama çörek otu, semizotu ve dereotu yenir.\" cümlesinde TDK'nin günümüzde geçerli olan Türkçe yazım kurallarına göre kaç tane yazım yanlışı vardır?",
                 "options": [
