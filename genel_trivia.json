@@ -2,6 +2,1397 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "Zangır zangır yapılan hangisidir?",
+                "options": [
+                    "Terlemek",
+                    "Titremek",
+                    "Aksırmak",
+                    "Öksürmek"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 3
+            },
+            {
+                "question": "Hangisini söyleyen kişi \"bunaldığını\" ifade etmek istiyordur?",
+                "options": [
+                    "İçim açıldı",
+                    "İçim gıdıklandı",
+                    "İçim şişti",
+                    "İçim susadı"
+                ],
+                "correct_answer": 2,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "Hangi kelimenin ilk iki harfi, bulmacalarda sıkça sorulan \"bir nota\" sorusunun cevabı olamaz?",
+                "options": [
+                    "Fasikül",
+                    "Dobra",
+                    "Sicim",
+                    "Melek"
+                ],
+                "correct_answer": 3,
+                "category": "Türkçe / Bulmaca",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "\"Nasıl geçti\" diye sorulduğunda, \"Ağrı kesici ve şurup yazdı\" diye cevap veren biri muhtemelen nereden geliyordur?",
+                "options": [
+                    "Doktor muayenesi",
+                    "Müze gezisi",
+                    "İş seyahati",
+                    "Bayi toplantısı"
+                ],
+                "correct_answer": 0,
+                "category": "Genel Kültür / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "Bulunulan ortamın durulup sakinleştiğini söylemek için hangi ifade kullanılır?",
+                "options": [
+                    "Etraf kahveperon",
+                    "Ortam çayotogar",
+                    "Çevre ayrandurak",
+                    "Ortalık sütliman"
+                ],
+                "correct_answer": 3,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Kimlere fındık kurdu denir?",
+                "options": [
+                    "İri yarı ve güçlü kişilere",
+                    "Ufak tombulca ve sevimli kişilere",
+                    "Uzun boylu ve zayıf kişilere",
+                    "Geniş omuzlu ve yapılı kişilere"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi sporun adına –cu eki gelirse, sözlükte yer alan ve o sporu yapan sporcuyu tanımlayan bir kelime ortaya çıkmaz?",
+                "options": [
+                    "Hentbol",
+                    "Voleybol",
+                    "Boks",
+                    "Judo"
+                ],
+                "correct_answer": 2,
+                "category": "Spor / Türkçe",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 7
+            },
+            {
+                "question": "Hangi Arap ülkesi Arap Yarımadası sınırları içinde yer almaz?",
+                "options": [
+                    "Umman",
+                    "Yemen",
+                    "Katar",
+                    "Libya"
+                ],
+                "correct_answer": 3,
+                "category": "Coğrafya",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "Hangisi, UNESCO İnsanlığın Somut Olmayan Kültürel Mirası Temsili Listesi'ne geçtiğimiz aylarda oy birliğiyle kabul edilmiştir?",
+                "options": [
+                    "Dede Korkut",
+                    "Nasreddin Hoca",
+                    "Keloğlan",
+                    "Karagöz"
+                ],
+                "correct_answer": 0,
+                "category": "Kültür / UNESCO",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 7
+            },
+            {
+                "question": "Hangisi, Mona Lisa tablosunu yatak odasına asmıştır?",
+                "options": [
+                    "Napolyon Bonapart",
+                    "Benito Mussolini",
+                    "Adolf Hitler",
+                    "Bismarck"
+                ],
+                "correct_answer": 0,
+                "category": "Sanat / Tarih",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 8
+            },
+            {
+                "question": "Tüm canlı kuş türleri arasında kendi vücuduna oranla en büyük yumurtayı yapan kuş hangisidir?",
+                "options": [
+                    "Flamingo",
+                    "Deve kuşu",
+                    "Kivi",
+                    "Pelikan"
+                ],
+                "correct_answer": 2,
+                "category": "Biyoloji / Hayvanlar",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 7
+            },
+            {
+                "question": "Kendisine söz söyletmeyen, eleştiriye gelemeyen çok huysuz kişiler için kullanılan ifade hangisidir?",
+                "options": [
+                    "Yanağından makas aldırmaz",
+                    "Dişinden susam aldırmaz",
+                    "Burnundan kıl aldırmaz",
+                    "Kirpiğinden çapak aldırmaz"
+                ],
+                "correct_answer": 2,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "Camları karşılıklı olarak açık olan bir odada, hava akımının ortasında bulunan kişi muhtemelen hangisinden şikâyet eder?",
+                "options": [
+                    "Cereyanda kaldığından",
+                    "Uykuya daldığından",
+                    "Karnı acıktığından",
+                    "Oda parfümünden"
+                ],
+                "correct_answer": 0,
+                "category": "Genel Kültür / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "Hangisi, diğerleriyle eş anlamlıdır?",
+                "options": [
+                    "Çarpık çurpuk",
+                    "Eciş bücüş",
+                    "Kelli felli",
+                    "Eğri büğrü"
+                ],
+                "correct_answer": 2,
+                "category": "Türkçe / Eş Anlamlılar",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi hayvanların damızlık erkek olanlarının adları burçlara verilmiştir?",
+                "options": [
+                    "Balık ve Yengeç",
+                    "Koyun ve Sığır",
+                    "Aslan ve Akrep",
+                    "Zürafa ve Gergedan"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Burçlar",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "Kısa olan şeyler hangisinin ömrüne benzetilir?",
+                "options": [
+                    "Kelebek",
+                    "Kaplumbağa",
+                    "Çıngıraklı yılan",
+                    "Çamur zıpzıpı"
+                ],
+                "correct_answer": 0,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "Yeni tanışılan biri için hangisi söylenirse \"Ondan pek etkilenmedim\" denmiş olur?",
+                "options": [
+                    "Doğal gaz alamadım",
+                    "Su alamadım",
+                    "Elektrik alamadım",
+                    "İnternet paketi alamadım"
+                ],
+                "correct_answer": 2,
+                "category": "Genel Kültür / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Bir yere kalıcı olarak yerleşmeyen insan toplulukları için kullanılan ifade hangisidir?",
+                "options": [
+                    "Dururbekler",
+                    "Konargöçer",
+                    "İnerbiner",
+                    "Gelirgidir"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "\"Bugün derste 'Qu'est-ce que c'est?' ve 'Je suis etudiant' demeyi öğrendik\" diyen bir öğrenci hangi dil üzerine eğitim alıyordur?",
+                "options": [
+                    "Almanca",
+                    "İspanyolca",
+                    "Rusça",
+                    "Fransızca"
+                ],
+                "correct_answer": 3,
+                "category": "Dil / Eğitim",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "Cumhuriyet ilan edildiğinde Atatürk kaç yaşındaydı?",
+                "options": [
+                    "32",
+                    "42",
+                    "52",
+                    "62"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih / Cumhuriyet Dönemi",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "\"Leviathan\" adlı eseriyle bilinen 17. Yüzyıl düşünürü kimdir?",
+                "options": [
+                    "Jean-Jacques Rousseau",
+                    "Karl Marx",
+                    "Adam Smith",
+                    "Thomas Hobbes"
+                ],
+                "correct_answer": 3,
+                "category": "Felsefe / Tarih",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 8
+            },
+            {
+                "question": "Genellikle inşaat duvarlarında yer alan ve \"Çevreye verdiğimiz rahatsızlıktan dolayı\" şeklinde başlayan yazının devamı nasıldır?",
+                "options": [
+                    "Bir çayınızı içeriz",
+                    "Özür dileriz",
+                    "Bunu saymayız",
+                    "Bize de bekleriz"
+                ],
+                "correct_answer": 1,
+                "category": "Günlük Hayat / Genel Kültür",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "\"Oralarda hava nasıl?\" sorusuna \"Güzel\" diye cevap veren biri, havanın muhtemelen nasıl olduğunu kastetmektedir?",
+                "options": [
+                    "Güneşli",
+                    "Sağanak yağışlı",
+                    "Karla karışık yağmurlu",
+                    "Aşırı rüzgârlı"
+                ],
+                "correct_answer": 0,
+                "category": "Genel Kültür / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "\"Ti\", bulmacaların hangi klasik sorusunun cevabıdır?",
+                "options": [
+                    "Eski dilde su",
+                    "Bir tür cetvel",
+                    "Başlıca içeceğimiz",
+                    "Boru sesi"
+                ],
+                "correct_answer": 3,
+                "category": "Türkçe / Bulmaca",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "\"Cabriolet\" veya \"convertible\" olarak tabir edilen arabaların özelliği nedir?",
+                "options": [
+                    "Otomatik vites olması",
+                    "Üstü açılır olması",
+                    "Bagaj hacminin büyük olması",
+                    "Motorunun güçlü olması"
+                ],
+                "correct_answer": 1,
+                "category": "Otomotiv / Genel Kültür",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Hikâyesi kurgu olan hangi filmde, Roma hükümdarı Sezar, \"Geldim, gördüm ve gözlerime inanamıyorum\" der?",
+                "options": [
+                    "Asteriks",
+                    "Tarkan",
+                    "Spartaküs",
+                    "300 Spartalı"
+                ],
+                "correct_answer": 0,
+                "category": "Sinema / Komedi",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "Filmlerde ve şarkı sözlerinde kimlerin aşkı için \"büyük olur\" denir?",
+                "options": [
+                    "Pirelerin",
+                    "Perilerin",
+                    "Develerin",
+                    "Devlerin"
+                ],
+                "correct_answer": 3,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Gittiğiniz kafenin menüsünde \"Taze sıkılmış\" ve \"Konsantre\" olmak üzere iki seçeneği olan içecek muhtemelen hangisidir?",
+                "options": [
+                    "Su",
+                    "Kola",
+                    "Ayran",
+                    "Portakal suyu"
+                ],
+                "correct_answer": 3,
+                "category": "Yemek / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "Halk arasında \"önceden tasarlanan bir iş umulduğu gibi sonuçlanmaz\" anlamında kullanılan \"Evdeki hesap\" şeklinde başlayan ifadenin devamında hangisi söylenir?",
+                "options": [
+                    "Çantaya sığmaz",
+                    "Çarşıya uymaz",
+                    "Kapıdan taşmaz",
+                    "Bağlasan durmaz"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Mesleğini sorduğunuzda \"diskjokeyim\" diyen birinin iş yeri muhtemelen hangisidir?",
+                "options": [
+                    "Hipodrom",
+                    "Hara",
+                    "Mandıra",
+                    "Radyo istasyonu"
+                ],
+                "correct_answer": 3,
+                "category": "Meslek / Genel Kültür",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "3 ayda çıkan bir dergi 60. sayısını çıkarıyorsa kaç senedir yayımlanıyordur?",
+                "options": [
+                    "10",
+                    "12",
+                    "15",
+                    "20"
+                ],
+                "correct_answer": 2,
+                "category": "Matematik / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "\"Çulluk\" nedir?",
+                "options": [
+                    "Bir tür bohça",
+                    "Göçmen bir kuş",
+                    "Bir dikiş yöntemi",
+                    "Yumurtalı bir yemek"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Hayvan Adları",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Bir dedeyle torununun başından geçen fantastik maceraları konu edinen, bilim kurgu ve komedi türündeki çizgi dizi hangisidir?",
+                "options": [
+                    "The Simpsons",
+                    "Family Guy",
+                    "Rick and Morty",
+                    "Sünger Bob"
+                ],
+                "correct_answer": 2,
+                "category": "Çizgi Film / Animasyon",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "2012'de bir adam Claude Monet'in 8 milyon sterlin değerindeki \"Argenteuil Havzası'nda Yalnız Bir Kayık\" tablosuna hangisini yaptığı için hapis cezası almıştır?",
+                "options": [
+                    "Tabloya yumruk atmıştır",
+                    "Tabloya tükürmüştür",
+                    "Tabloyu yalamıştır",
+                    "Tabloya idrarını yapmıştır"
+                ],
+                "correct_answer": 0,
+                "category": "Sanat / İlginç Olaylar",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 8
+            },
+            {
+                "question": "Elementleri öğrenmeye çalışan bir öğrenci hangisini kullanır?",
+                "options": [
+                    "Yağlı boya tablo",
+                    "Çarpım tablosu",
+                    "Periyodik tablo",
+                    "Süper Lig puan tablosu"
+                ],
+                "correct_answer": 2,
+                "category": "Bilim / Eğitim",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "Hangisi, \"Hobileriniz nelerdir?\" sorusuna verilen klişe cevaplardan biri değildir?",
+                "options": [
+                    "Kitap okumak",
+                    "Müzik dinlemek",
+                    "Sinemaya gitmek",
+                    "Uzay seyahati yapmak"
+                ],
+                "correct_answer": 3,
+                "category": "Genel Kültür / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "Hangisi \"desteklemek\" anlamında kullanılan ifadedir?",
+                "options": [
+                    "Sehpa tutmak",
+                    "Koltuk çıkmak",
+                    "Masa açmak",
+                    "Karyola katmak"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "\"Ortanca kardeş\" olan birinin kaç kardeşi vardır?",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "5"
+                ],
+                "correct_answer": 1,
+                "category": "Genel Kültür / Mantık",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "Türkçe sözlüklerde yer alan \"Şvester\" kelimesi ne anlama gelir?",
+                "options": [
+                    "Süveter",
+                    "Kız kardeş",
+                    "Vestiyer",
+                    "Erkek kardeş"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Kelime Bilgisi",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Hangisi, 1994 yapımı \"Vampirle Görüşme\" filminde başroldeki 3 karizmatik vampiri canlandıran aktörlerden biri değildir?",
+                "options": [
+                    "Tom Cruise",
+                    "Brad Pitt",
+                    "Johnny Depp",
+                    "Antonio Banderas"
+                ],
+                "correct_answer": 2,
+                "category": "Sinema / Tarih",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 7
+            },
+            {
+                "question": "\"Her çeşit iş yapabilir durumda olmak\" anlamındaki ifade hangisidir?",
+                "options": [
+                    "Her işin kolayına kaçmak",
+                    "Her telden çalmak",
+                    "Her dem piliç olmak",
+                    "Her gün pilav yemek"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Araç ruhsatları genellikle nereye konur?",
+                "options": [
+                    "Şoför koltuğunun güneşliğine",
+                    "Bagaja",
+                    "Kaput içine",
+                    "Yedek lastiğin altına"
+                ],
+                "correct_answer": 0,
+                "category": "Günlük Hayat / Otomotiv",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "\"İşin içinde bir iş olduğunu bilmez miyim sanıyorsun!\" anlamında kullanılan söz hangisidir?",
+                "options": [
+                    "Oturmaya mı geldik!",
+                    "Sen de mi Brütüs!",
+                    "Bu da mı gol değil!",
+                    "Bize de mi lolo!"
+                ],
+                "correct_answer": 3,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "\"Kim Milyoner Olmak İster?\" yarışmacılarının bir \"sesli soru\"da kullanabileceği jokerler arasında hangisi yer almaz?",
+                "options": [
+                    "Çift cevap",
+                    "Yarı yarıya",
+                    "Seyirciye sorma",
+                    "Telefon"
+                ],
+                "correct_answer": 0,
+                "category": "TV Programı / Genel Kültür",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Hangisi Klasik Batı Müziği bestecisidir?",
+                "options": [
+                    "Immanuel Kant",
+                    "Arthur Schopenhauer",
+                    "Frédéric Chopin",
+                    "Søren Kierkegaard"
+                ],
+                "correct_answer": 2,
+                "category": "Müzik / Tarih",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "\"Canını verircesine, özveriyle\" anlamındaki kelimenin doğru yazılışı hangisidir?",
+                "options": [
+                    "Cansıperane",
+                    "Cansiparane",
+                    "Cansıparane",
+                    "Cansüperane"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Yazım Kuralları",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "Hangisi, Dünya Kupası'nı hem futbolcu hem de teknik direktörken kazanan üç kişiden biri değildir?",
+                "options": [
+                    "Didier Deschamps",
+                    "Franz Beckenbauer",
+                    "Mario Zagallo",
+                    "Carlos Alberto Parreira"
+                ],
+                "correct_answer": 3,
+                "category": "Spor / Futbol",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 8
+            },
+            {
+                "question": "Londra merkezli Southbank Centre'ın 2014 yılında seçtiği \"son 50 yılın en güzel 50 aşk şiiri\" arasında yer alan \"Severmişim Meğer\" kimin şiirdir?",
+                "options": [
+                    "Atilla İlhan",
+                    "Cemal Süreyya",
+                    "Nazım Hikmet",
+                    "Özdemir Asaf"
+                ],
+                "correct_answer": 2,
+                "category": "Edebiyat / Türk Şiiri",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 8
+            },
+            {
+                "question": "Halk arasında \"sen benden daha betersin\" anlamında kullanılan sözde, hangisini söyledikten sonra \"seninki benden kara\" denir?",
+                "options": [
+                    "Tencere yuvarlanmış",
+                    "Tencere dibin kara",
+                    "Üzüm üzüme baka baka",
+                    "Bir elin nesi var"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Atasözleri",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 3
+            },
+            {
+                "question": "Yarışma programlarında birbiriyle yarışan kişiler, kendilerini tanıttıktan sonra nezaket icabı kime başarılar diler?",
+                "options": [
+                    "Kameralara",
+                    "Makyöze",
+                    "Diğer yarışmacılara",
+                    "Prodüksiyon amirine"
+                ],
+                "correct_answer": 2,
+                "category": "Genel Kültür / Nezaket",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 1
+            },
+            {
+                "question": "Kolu ya da bacağı alçıya alınan kişiye arkadaşları genellikle hangisini yaparlar?",
+                "options": [
+                    "Omuzda taşırlar",
+                    "Alçısını imzalarlar",
+                    "Havaya atıp tutarlar",
+                    "Saçlarını boyarlar"
+                ],
+                "correct_answer": 1,
+                "category": "Genel Kültür / Gelenek",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 1
+            },
+            {
+                "question": "\"Beyaz\", \"kepekli\", \"tam buğday\" gibi ön adları olan yiyecek hangisidir?",
+                "options": [
+                    "Sütlaç",
+                    "Kumpir",
+                    "Ekmek",
+                    "Yaprak sarma"
+                ],
+                "correct_answer": 2,
+                "category": "Yemek / Genel Kültür",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 2
+            },
+            {
+                "question": "Gazeteyi iş bulmak amacıyla satın alan kişi, ilk olarak muhtemelen hangisine bakacaktır?",
+                "options": [
+                    "İnsan kaynakları eki",
+                    "Spor eki",
+                    "Magazin eki",
+                    "Moda eki"
+                ],
+                "correct_answer": 0,
+                "category": "Günlük Hayat / Medya",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 1
+            },
+            {
+                "question": "Hangisi bir çeşit cekettir?",
+                "options": [
+                    "Kloş",
+                    "Jüpon",
+                    "Babet",
+                    "Blazer"
+                ],
+                "correct_answer": 3,
+                "category": "Moda / Genel Kültür",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Köpeğiniz bir torba mamayı 3 ayda yiyorsa torbası 75 lira olan mamaya yıllık ne kadar ödersiniz?",
+                "options": [
+                    "250 lira",
+                    "300 lira",
+                    "350 lira",
+                    "450 lira"
+                ],
+                "correct_answer": 1,
+                "category": "Matematik / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Bir Birleşmiş Milletler kurumu olan \"UNESCO\"nun adının açılımında hangisi yoktur?",
+                "options": [
+                    "Eğitim",
+                    "Çocuk",
+                    "Kültür",
+                    "Bilim"
+                ],
+                "correct_answer": 1,
+                "category": "Uluslararası Kuruluşlar",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "\"Küreme\" hangisiyle yapılır?",
+                "options": [
+                    "Küre",
+                    "Kürdan",
+                    "Kürk",
+                    "Kürek"
+                ],
+                "correct_answer": 3,
+                "category": "Türkçe / Kelime Bilgisi",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 1
+            },
+            {
+                "question": "Hangisini söyleyen kişi, \"Bu kırgınlığı küslüğü ortadan kaldıralım\" demiş olur?",
+                "options": [
+                    "Aramızdaki dağlara tırmanalım",
+                    "Aramıza duvarlar örelim",
+                    "Aramızdaki buzları eritelim",
+                    "Aramıza kara kedi koyalım"
+                ],
+                "correct_answer": 2,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 2
+            },
+            {
+                "question": "Bir kitabın beyaz perdeye uyarlandığı söyleniyorsa o kitaba hangisi olmuştur?",
+                "options": [
+                    "İndirime girmiştir",
+                    "Filmi çekilmiştir",
+                    "Az satmıştır",
+                    "Fuara katılmıştır"
+                ],
+                "correct_answer": 1,
+                "category": "Sinema / Genel Kültür",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 2
+            },
+            {
+                "question": "333'le hangi sayının toplamı 1000 olur?",
+                "options": [
+                    "667",
+                    "677",
+                    "767",
+                    "777"
+                ],
+                "correct_answer": 0,
+                "category": "Matematik",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "Geçimini kendi emeğiyle sağlayacak duruma gelmiş kişiler için kullanılan ifade hangisidir?",
+                "options": [
+                    "Eli ekmek tutuyor",
+                    "Ağzı laf yapıyor",
+                    "Saçını süpürge ediyor",
+                    "Gözünü dört açıyor"
+                ],
+                "correct_answer": 0,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 1
+            },
+            {
+                "question": "Çöp adamın kafası genellikle hangi şekle benzer çizilir?",
+                "options": [
+                    "Silindir",
+                    "Eşkenar üçgen",
+                    "Çember",
+                    "Dikdörtgenler prizması"
+                ],
+                "correct_answer": 2,
+                "category": "Genel Kültür",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 3
+            },
+            {
+                "question": "İnce yapılı ve güçlü kişileri tanımlamak için hangi ifade kullanılır?",
+                "options": [
+                    "Sicim gibi",
+                    "Sırım gibi",
+                    "Sırma gibi",
+                    "Sırça gibi"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "Elektronik cihazların ekranlarının ayar menüsünde karşılaşılan, Türkçeye Fransızcadan geçen ve \"karşıtlık\" anlamına gelen kelime hangisidir?",
+                "options": [
+                    "Kontrast",
+                    "Ton",
+                    "Diyafram",
+                    "Enstantene"
+                ],
+                "correct_answer": 0,
+                "category": "Teknoloji / Türkçe",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 7
+            },
+            {
+                "question": "\"Tatar yayı\" olarak da bilinen ve Orta Çağ'da yaygın olarak kullanılan uzak mesafe silahı hangisidir?",
+                "options": [
+                    "Topuz",
+                    "Kama",
+                    "Tüfek",
+                    "Arbalet"
+                ],
+                "correct_answer": 3,
+                "category": "Tarih / Silahlar",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 8
+            },
+            {
+                "question": "\"Kanka, sence bana bakar mı?\" diye sorup arkadaşının fikrini almak isteyen biri, muhtemelen hangisinden bahsediyordur?",
+                "options": [
+                    "Hoşlandığı kişiden",
+                    "Sahipleneceği kediden",
+                    "Güvenlik kamerasından",
+                    "Yağlı boya potreden"
+                ],
+                "correct_answer": 0,
+                "category": "Genel Kültür / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Siparişinizi getiren kurye, \"Temassız alabilir miyim?\" diye bir soru soruyorsa, ödemenizi muhtemelen hangisini kullanarak yapıyorsunuzdur?",
+                "options": [
+                    "Madeni para",
+                    "Kağıt para",
+                    "Çek",
+                    "Kredi kartı"
+                ],
+                "correct_answer": 3,
+                "category": "Günlük Hayat / Teknoloji",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 1
+            },
+            {
+                "question": "Hangi börek, adını malzemelerin içine konduğu hamurun şeklinden almaz?",
+                "options": [
+                    "Gül böreği",
+                    "Muska böreği",
+                    "Su böreği",
+                    "Bohça böreği"
+                ],
+                "correct_answer": 2,
+                "category": "Yemek / Türk Mutfağı",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 3
+            },
+            {
+                "question": "Hangisi \"gelecekteki\" anlamına gelir?",
+                "options": [
+                    "Mukabil",
+                    "Muntazam",
+                    "Müstakil",
+                    "Müstakbel"
+                ],
+                "correct_answer": 3,
+                "category": "Türkçe / Kelime Bilgisi",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 7
+            },
+            {
+                "question": "Hangisi, Güney Amerika tatiline çıktığınızda görebileceğiniz sıradağlardır?",
+                "options": [
+                    "Kilimanjaro",
+                    "And",
+                    "Mauna Kea",
+                    "Fuji"
+                ],
+                "correct_answer": 1,
+                "category": "Coğrafya",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 10
+            },
+            {
+                "question": "Bir dönem Galatasaray Spor Kulübü'ne koruyucu başkanlık eden ve \"Servet-i Fünun\" edebiyat akımının da öncülerinden olan şair kimdir?",
+                "options": [
+                    "Hüseyin Cahit Yalçın",
+                    "Cenap Şahabettin",
+                    "Tevfik Fikret",
+                    "Mehmet Rauf"
+                ],
+                "correct_answer": 2,
+                "category": "Tarih / Edebiyat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 10
+            },
+            {
+                "question": "999.999.999.999.999'a 1 eklersek hangi sayıya ulaşırız?",
+                "options": [
+                    "1 trilyar",
+                    "1 katrilyon",
+                    "1 sentilyon",
+                    "1 oktilyon"
+                ],
+                "correct_answer": 1,
+                "category": "Matematik",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Eski Türk toplumunda, düğünden önce erkek tarafından gelinin ailesine, hangi adla bilinen bir para veya hediye verilirdi?",
+                "options": [
+                    "İnce",
+                    "Kalın",
+                    "Dar",
+                    "Geniş"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih / Gelenek",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 8
+            },
+            {
+                "question": "Antik Roma'da, Aralı ayında bir hafta boyunca süren, tüm işlerin alındığı, kölelere geçici özgürlük verilen festival hangi adla bilinirdi?",
+                "options": [
+                    "Jupiteria",
+                    "Martia",
+                    "Saturnalia",
+                    "Plutonia"
+                ],
+                "correct_answer": 2,
+                "category": "Tarih / Antik Dönem",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 9
+            },
+            {
+                "question": "Arkadaşına, “Benimki çekmiyor, seninki çekiyor mu?” diye soran biri muhtemelen hangisinden bahsediyordur?",
+                "options": [
+                    "Vinç",
+                    "Cep telefonu",
+                    "Kâğıt havlu",
+                    "Telgraf"
+                ],
+                "correct_answer": 1,
+                "category": "Genel Kültür / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 1
+            },
+            {
+                "question": "Kalorifer ısısını oda içinde dağıtan metal bölüme ne ad verilir?",
+                "options": [
+                    "Kalorifer yuvası",
+                    "Kalorifer kozası",
+                    "Kalorifer ağı",
+                    "Kalorifer peteği"
+                ],
+                "correct_answer": 3,
+                "category": "Türkçe / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 1
+            },
+            {
+                "question": "Bir üniversitedeki bölümden başka bir üniversitedeki aynı bölüme 2 yıllık fakülteden 4 yıllık fakülteye geçmeyi anlatan ifadeler hangisidir?",
+                "options": [
+                    "Yavaş geçiş ve hızlı geçiş",
+                    "Yatay geçiş ve dikey geçiş",
+                    "Yarım geçiş ve tam geçiş",
+                    "Kavisli geçiş ve doğrusal geçiş"
+                ],
+                "correct_answer": 1,
+                "category": "Eğitim / Türkçe",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 2
+            },
+            {
+                "question": "Girdiğiniz yerde \"Touring mi bakmıştınız, scooter mı yoksa chopper mı?\" sorusuyla karşılaşıyorsanız hangisini satın almak niyetindesinizdir?",
+                "options": [
+                    "Dalış ekipmanı",
+                    "Traktör",
+                    "Kayak takımı",
+                    "Motosiklet"
+                ],
+                "correct_answer": 3,
+                "category": "Genel Kültür / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 3
+            },
+            {
+                "question": "\"Karşılıklı yer değiştirme\" anlamında kullanılan kelime hangisidir?",
+                "options": [
+                    "Asayiş",
+                    "Nümayiş",
+                    "Sitayiş",
+                    "Becayiş"
+                ],
+                "correct_answer": 3,
+                "category": "Türkçe / Kelime Bilgisi",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 8
+            },
+            {
+                "question": "Halk arasında \"akla gelmedik şaşılacak şeyler\" anlamında kullanılan sözde \"maydanozlu köfteler\" demeden önce hangisi söylenir?",
+                "options": [
+                    "Aman da aman",
+                    "Tamam da tamam",
+                    "Neler de neler",
+                    "Kimler de kimler"
+                ],
+                "correct_answer": 2,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Bazı gençler arasında kullanılan ve \"On numara\" şeklinde başlayan ifadenin devamında söylenen genellikle hangisi olur?",
+                "options": [
+                    "İki yaka",
+                    "Üç nokta",
+                    "Dört köşe",
+                    "Beş yıldız"
+                ],
+                "correct_answer": 3,
+                "category": "Türkçe / Argo",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 4
+            },
+            {
+                "question": "\"Cebinde akrep var\" sözü hangi özellikteki kişiler için kullanılır?",
+                "options": [
+                    "Cömert",
+                    "Titiz",
+                    "Cimri",
+                    "Alıngan"
+                ],
+                "correct_answer": 2,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "\"Başımı yastığa koyar koymaz\" diye cevap veren kişiye muhtemelen hangi soru sorulmuştur?",
+                "options": [
+                    "Bulabildin mi?",
+                    "Uyuyabildin mi?",
+                    "Sorabildin mi?",
+                    "Uyanabildin mi?"
+                ],
+                "correct_answer": 1,
+                "category": "Genel Kültür / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "Sabah güneş doğmadan önceki zamana ne denir?",
+                "options": [
+                    "Seher",
+                    "Kuşluk",
+                    "Yatsı",
+                    "İkindi"
+                ],
+                "correct_answer": 0,
+                "category": "Türkçe / Zaman",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "\"Kontur\", \"Porselen\" ve \"Buğulu\" hangisinin çeşitleridir?",
+                "options": [
+                    "Kalem",
+                    "Yemek",
+                    "Makyaj",
+                    "Mobilya"
+                ],
+                "correct_answer": 2,
+                "category": "Moda / Güzellik",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "\"Arabistanlı Lawrence\" ve \"Doktor Jivago\" filmlerindeki rolleriyle hatırlanan, \"Altın Küre\" ödülleri bulunan ve 2015'te vefat eden Mısırlı aktör kimdir?",
+                "options": [
+                    "Mustafa Akkad",
+                    "Mecid Mecidi",
+                    "Ömer Şerif",
+                    "Asghar Farhadi"
+                ],
+                "correct_answer": 2,
+                "category": "Sinema / Tarih",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 9
+            },
+            {
+                "question": "Halk arasında hasta ziyaretinin nasıl olanının makbul olduğu söylenir?",
+                "options": [
+                    "Kısa",
+                    "Uzun",
+                    "Resmi",
+                    "Toplu"
+                ],
+                "correct_answer": 0,
+                "category": "Genel Kültür / Gelenek",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 1
+            },
+            {
+                "question": "\"Çuvallamak\" ne anlama gelir?",
+                "options": [
+                    "Başarmak",
+                    "Kazanmak",
+                    "Başaramamak",
+                    "Koparmak"
+                ],
+                "correct_answer": 2,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 2
+            },
+            {
+                "question": "\"Salamura\" olması için, bir yiyeceğin hangisinin içinde bekletilmesi gerekir?",
+                "options": [
+                    "Şekerli su",
+                    "Tuzlu su",
+                    "Saf su",
+                    "Vişne suyu"
+                ],
+                "correct_answer": 1,
+                "category": "Yemek / Genel Kültür",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 5
+            },
+            {
+                "question": "\"Yaşlı, nemli\" anlamlarında kullanılan kelime hangisidir?",
+                "options": [
+                    "Dalgalı",
+                    "Parçalı",
+                    "Kurşuni",
+                    "Buğulu"
+                ],
+                "correct_answer": 3,
+                "category": "Türkçe / Kelime Bilgisi",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "Kilitlerin, anahtarın döndürülmesiyle yuvasına girip çıkan parçasına ne ad verilir?",
+                "options": [
+                    "Kilit dili",
+                    "Kilit gözü",
+                    "Kilit kulağı",
+                    "Kilit burnu"
+                ],
+                "correct_answer": 0,
+                "category": "Türkçe / Günlük Hayat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "2018'de \"Uluslararası Emmy Ödülleri\"nde drama dalında en iyi dizi seçilen yapım hangisidir?",
+                "options": [
+                    "Stranger Things",
+                    "La Casa de papel",
+                    "Black Mirror",
+                    "Better Call Saul"
+                ],
+                "correct_answer": 1,
+                "category": "Sinema / Ödüller",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 8
+            },
+            {
+                "question": "Sparta Prag futbol takımı deplasmanda yenen bir takım, bu galibiyeti hangi şehirde almıştır?",
+                "options": [
+                    "Sparta",
+                    "Prag",
+                    "Strazburg",
+                    "Isparta"
+                ],
+                "correct_answer": 1,
+                "category": "Spor / Futbol",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "Dinlediğiniz \"Historia de un amor\" adlı şarkıyı kim seslendirmektedir?",
+                "options": [
+                    "Enrico Masias",
+                    "Georgios Dalaras",
+                    "Eros Ramazotti",
+                    "Salvatore Adamo"
+                ],
+                "correct_answer": 1,
+                "category": "Müzik / Genel Kültür",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 8
+            },
+            {
+                "question": "Hangi ikisi aynı dalda başarılar kazanmış ünlü sporculardır?",
+                "options": [
+                    "Andy Roddick ve Andy Murray",
+                    "Rafael Nadal ve Raphael Varane",
+                    "Michael Jordan ve Michael Phelps",
+                    "Kevin Durant ve Kevin De Bruyne"
+                ],
+                "correct_answer": 0,
+                "category": "Spor / Tenis",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 7
+            },
+            {
+                "question": "Raif Efendi'nin Almanya'da bir resim sergisinde tanıştığı Maria Puder'le olan aşk hikayesi anlatılıyorsa hangi romanı okuyorsunuzdur?",
+                "options": [
+                    "Saatleri Ayarlama Enstitüsü",
+                    "Tutunamayanlar",
+                    "Kürk Mantolu Madonna",
+                    "Sahnenin Dışındakiler"
+                ],
+                "correct_answer": 2,
+                "category": "Edebiyat / Türk Edebiyatı",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 7
+            },
+            {
+                "question": "Şeyh Galib'in \"Hüsn ü Aşk\" adlı mesnevisindeki erkek başkarakterin adı nedir?",
+                "options": [
+                    "Hüsnü",
+                    "Galib",
+                    "Mecnun",
+                    "Aşk"
+                ],
+                "correct_answer": 3,
+                "category": "Edebiyat / Türk Edebiyatı",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 9
+            },
+            {
+                "question": "Russell Crowe, 2-3 sene boyunca kim tarafından sürekli aranıp \"Bay Duvar orada mı? Bayan Duvar orada mı? Orada hiç duvar yok mu? Öyleyse çatıyı ne tutuyor?\" gibi kötü şakalara maruz kaldığını söylemiştir?",
+                "options": [
+                    "Joaquin Phoenix",
+                    "Michael Jackson",
+                    "Jim Carrey",
+                    "Cem Yılmaz"
+                ],
+                "correct_answer": 1,
+                "category": "Sinema / Pop Kültür",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 8
+            },
+            {
+                "question": "Hangisi bir deyim değildir?",
+                "options": [
+                    "Bir aşağı bir yukarı",
+                    "İki aşağı bir yukarı",
+                    "Üç aşağı beş yukarı",
+                    "Beş aşağı beş yukarı"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Deyimler",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "1916'da ABD'nin Tennessee eyaletindeki bir kasabada hangi hayvan cinayetle suçlanmış ve asılarak idam edilmiştir?",
+                "options": [
+                    "Ayı",
+                    "Bizon",
+                    "Fil",
+                    "Puma"
+                ],
+                "correct_answer": 2,
+                "category": "Tarih / İlginç Olaylar",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 9
+            },
+            {
+                "question": "Hangisi Türkiye'de bulunan antik kentlerden biri değildir?",
+                "options": [
+                    "Galapagos",
+                    "Aspendos",
+                    "Sagalassos",
+                    "Termessos"
+                ],
+                "correct_answer": 0,
+                "category": "Tarih / Arkeoloji",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 6
+            },
+            {
+                "question": "İbn Haldun'un bir eserinin adı da olan \"mukaddime\" kelimesi ne anlama gelir?",
+                "options": [
+                    "Çeviri",
+                    "Ön söz",
+                    "Kaynakça",
+                    "Dipnot"
+                ],
+                "correct_answer": 1,
+                "category": "Türkçe / Etimoloji",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 7
+            },
+            {
+                "question": "Nobel ödüllü yazar Tagore'un, hikayesi 19. yüzyılda Birleşik Krallık yönetimindeki Hindistan'ın Kalküta şehrinde geçen ve başkarakteriyle aynı adı taşıyan romanının adı nedir?",
+                "options": [
+                    "Arog",
+                    "Gora",
+                    "Agora",
+                    "Tagore"
+                ],
+                "correct_answer": 1,
+                "category": "Edebiyat / Dünya Edebiyatı",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 9
+            },
+            {
+                "question": "1959'dan beri düzenlenen, lise öğrencilerinin yarıştığı Uluslararası Matematik Olimpiyatı'nda 1991 ve 2010'da kopya çektiği şüphesiyle diskalifiye edilen ülke hangisidir?",
+                "options": [
+                    "Kuzey Kore",
+                    "Hindistan",
+                    "Venezuela",
+                    "Pakistan"
+                ],
+                "correct_answer": 0,
+                "category": "Tarih / Bilim",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 10
+            },
+            {
+                "question": "Guinness Dünya Rekorlarına göre Hintli Karate Nataraj ellerini kullanmadan ağzında kaç tane pipet tutabilmiştir?",
+                "options": [
+                    "50",
+                    "250",
+                    "450",
+                    "650"
+                ],
+                "correct_answer": 3,
+                "category": "Rekorlar / İlginç",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 8
+            },
+            {
+                "question": "\"Aslında Harry Potter'ın bütün hikayesi teyzesinin evinde mutsuz bir hayat yaşayan yetim bir çocuğun hayallerinden ibaret\" gibi hikayenin orijinalinde olmayan yorumlar hangisine örnektir?",
+                "options": [
+                    "Fermi paradoksu",
+                    "Oyun teorisi",
+                    "Bilgi kuramı",
+                    "Hayran teorisi"
+                ],
+                "correct_answer": 3,
+                "category": "Genel Kültür / Edebiyat",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 9
+            },
+            {
+                "question": "Hangisi sırasında Atatürk 40'lı yaşlarının başındaydı?",
+                "options": [
+                    "Trablusgarp Savaşı",
+                    "I. Balkan Savaşı",
+                    "Cumhuriyetin ilanı",
+                    "Hatay'ın Türkiye'ye katılması"
+                ],
+                "correct_answer": 2,
+                "category": "Tarih / Cumhuriyet Dönemi",
+                "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
+                "difficulty": 7
+            },
+            {
                 "question": "Hangi çizgi film kahramanı Odie adlı köpekle aynı evi paylaşır?",
                 "options": [
                     "Tweety",
