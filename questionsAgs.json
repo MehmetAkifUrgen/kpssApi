@@ -31561,6 +31561,490 @@
           "dogruCevap": "Karadeniz"
         }
       ],
+      "Türkiye'nin Gölleri": [
+        {
+          "soru": "\"BASİT MUHASEBE\" veya \"MUSİBET\" şifresiyle kodlanan göllerin oluşum kökeni aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Karstik",
+            "Volkanik",
+            "Tektonik",
+            "Heyelan Set",
+            "Buzul"
+          ],
+          "dogruCevap": "Tektonik",
+          "aciklama": "Burdur, Acıgöl, Sapanca, İznik, Tuz, Manyas, Ulubat, Hazar, Akşehir, Seyfe, Eber, Beyşehir, Eğirdir"
+        },
+        {
+          "soru": "\"KASKET\" kodlamasıyla (Kızören, Avlan, Salda, Kestel, Elmalı, Timraş) bilinen göllerin ortak özelliği nedir?",
+          "secenekler": [
+            "Sularının sodalı olması",
+            "Karstik oluşumlu olmaları",
+            "Üzerinde ulaşım yapılması",
+            "Marmara Bölgesi'nde yer almaları",
+            "Volkanik set gölü olmaları"
+          ],
+          "dogruCevap": "Karstik oluşumlu olmaları",
+          "aciklama": ""
+        },
+        {
+          "soru": "\"SeTYAZ\" (Sera, Tortum, Yedigöller, Abant, Zinav) kodlaması hangi göl grubunu ifade eder?",
+          "secenekler": [
+            "Kıyı Set Gölleri",
+            "Volkanik Set Gölleri",
+            "Alüvyal Set Gölleri",
+            "Heyelan Set Gölleri",
+            "Buzul Gölleri"
+          ],
+          "dogruCevap": "Heyelan Set Gölleri",
+          "aciklama": ""
+        },
+        {
+          "soru": "\"BaHÇEVaN\" (Balık, Haçlı, Çıldır, Erçek, Van, Nazik) kodlamasındaki göllerin oluşum türü nedir?",
+          "secenekler": [
+            "Volkanik Set",
+            "Tektonik",
+            "Alüvyal Set",
+            "Kıyı Set",
+            "Karstik"
+          ],
+          "dogruCevap": "Volkanik Set",
+          "aciklama": ""
+        },
+        {
+          "soru": "\"MNG\" (Meke, Nemrut, Gölcük) kodlamasıyla verilen göllerin ortak jeolojik kökeni nedir?",
+          "secenekler": [
+            "Tektonik çanaklarda oluşmaları",
+            "Volkanik patlama çukurları (Maarr, Kaldera, Krater) olmaları",
+            "Buzul aşındırmasıyla oluşmaları",
+            "Heyelan sonucu oluşmaları",
+            "Kıyı kordonu ile oluşmaları"
+          ],
+          "dogruCevap": "Volkanik patlama çukurları (Maarr, Kaldera, Krater) olmaları",
+          "aciklama": ""
+        },
+        {
+          "soru": "\"Dünyanın nazar boncuğu\" olarak nitelendirilen maar gölü hangisidir?",
+          "secenekler": [
+            "Acıgöl",
+            "Salda Gölü",
+            "Meke Gölü",
+            "Nemrut Gölü",
+            "Gölcük Gölü"
+          ],
+          "dogruCevap": "Meke Gölü",
+          "aciklama": ""
+        },
+        {
+          "soru": "\"Türkiye'nin Maldivleri\" olarak bilinen ve karstik kökenli olan göl hangisidir?",
+          "secenekler": [
+            "Salda Gölü",
+            "İznik Gölü",
+            "Burdur Gölü",
+            "Kovada Gölü",
+            "Avlan Gölü"
+          ],
+          "dogruCevap": "Salda Gölü",
+          "aciklama": ""
+        },
+        {
+          "soru": "Yüzölçümü bakımından Türkiye'nin en büyük tatlı su gölü hangisidir?",
+          "secenekler": [
+            "Van Gölü",
+            "Eğirdir Gölü",
+            "İznik Gölü",
+            "Beyşehir Gölü",
+            "Sapanca Gölü"
+          ],
+          "dogruCevap": "Beyşehir Gölü",
+          "aciklama": ""
+        },
+        {
+          "soru": "Üzerinde feribotla taşımacılık (ulaşım) yapılan tek gölümüz hangisidir?",
+          "secenekler": [
+            "Beyşehir Gölü",
+            "Van Gölü",
+            "Eğirdir Gölü",
+            "Çıldır Gölü",
+            "İznik Gölü"
+          ],
+          "dogruCevap": "Van Gölü",
+          "aciklama": ""
+        },
+        {
+          "soru": "Türkiye'nin en yüksek rakımlı gölü aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Nemrut Gölü",
+            "Çıldır Gölü",
+            "Balık Gölü",
+            "Van Gölü",
+            "Hazar Gölü"
+          ],
+          "dogruCevap": "Balık Gölü",
+          "aciklama": ""
+        },
+        {
+          "soru": "Kış aylarında yüzeyi donan ve üzerinde kızakla gezilebilen gölümüz hangisidir?",
+          "secenekler": [
+            "Sapanca Gölü",
+            "Çıldır Gölü",
+            "Abant Gölü",
+            "Gölcük Gölü",
+            "Hazar Gölü"
+          ],
+          "dogruCevap": "Çıldır Gölü",
+          "aciklama": ""
+        },
+        {
+          "soru": "Dünyanın \"tek traverten set gölü\" olarak kabul edilen göl hangisidir?",
+          "secenekler": [
+            "Otlukbeli Gölü",
+            "Pamukkale Gölü",
+            "Tortum Gölü",
+            "Salda Gölü",
+            "Sülük Gölü"
+          ],
+          "dogruCevap": "Otlukbeli Gölü",
+          "aciklama": ""
+        },
+        {
+          "soru": "Türkiye'nin en derin gölü unvanına sahip tektonik göl hangisidir?",
+          "secenekler": [
+            "Van Gölü",
+            "Salda Gölü",
+            "Hazar Gölü",
+            "Burdur Gölü",
+            "İznik Gölü"
+          ],
+          "dogruCevap": "Hazar Gölü",
+          "aciklama": "Kaynakta 213 metre ile en derin olarak belirtilmiştir"
+        },
+        {
+          "soru": "Van Gölü'nün oluşumunda etkili olan iki faktör (Karma Yapı) hangisidir?",
+          "secenekler": [
+            "Karstik - Tektonik",
+            "Volkanik Set - Tektonik",
+            "Heyelan Set - Alüvyal",
+            "Buzul - Volkanik",
+            "Kıyı Set - Tektonik"
+          ],
+          "dogruCevap": "Volkanik Set - Tektonik",
+          "aciklama": ""
+        },
+        {
+          "soru": "Beyşehir, Eğirdir ve Kovada gölleri hangi iki oluşumun etkisiyle \"Karma Yapılı\" sayılır?",
+          "secenekler": [
+            "Tektonik - Karstik",
+            "Volkanik - Tektonik",
+            "Heyelan - Karstik",
+            "Alüvyal - Tektonik",
+            "Buzul - Karstik"
+          ],
+          "dogruCevap": "Tektonik - Karstik",
+          "aciklama": ""
+        },
+        {
+          "soru": "Bir gölün sularının tatlı olabilmesi için sahip olması gereken temel özellik nedir?",
+          "secenekler": [
+            "Yüzölçümünün büyük olması",
+            "Derinliğinin fazla olması",
+            "Bir gideğeninin (göl ayağının) olması",
+            "Yağışlı bölgede bulunması",
+            "Volkanik arazide bulunması"
+          ],
+          "dogruCevap": "Bir gideğeninin (göl ayağının) olması",
+          "aciklama": ""
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi bir \"Kıyı Set Gölü\" (Lagün) değildir?",
+          "secenekler": [
+            "Büyükçekmece",
+            "Küçükçekmece",
+            "Terkos (Durusu)",
+            "Akyatan",
+            "Köyceğiz"
+          ],
+          "dogruCevap": "Köyceğiz",
+          "aciklama": "Köyceğiz, Alüvyal Set gölüdür"
+        },
+        {
+          "soru": "Ankara yakınlarında bulunan Mogan ve Eymir göllerinin oluşum türü nedir?",
+          "secenekler": [
+            "Heyelan Set",
+            "Alüvyal Set",
+            "Volkanik Set",
+            "Tektonik",
+            "Karstik"
+          ],
+          "dogruCevap": "Alüvyal Set",
+          "aciklama": ""
+        },
+        {
+          "soru": "Nemrut Dağı'nın patlamasıyla çıkan lavların Van çanağının önünü kapatması sonucu oluşan göl hangisidir?",
+          "secenekler": [
+            "Nazik Gölü",
+            "Erçek Gölü",
+            "Van Gölü",
+            "Haçlı Gölü",
+            "Balık Gölü"
+          ],
+          "dogruCevap": "Van Gölü",
+          "aciklama": ""
+        },
+        {
+          "soru": "Güney Marmara Bölümü'nde yer alan (Manyas, Ulubat, İznik, Sapanca) göllerin ortak oluşum kökeni nedir?",
+          "secenekler": [
+            "Karstik",
+            "Tektonik",
+            "Volkanik",
+            "Buzul",
+            "Heyelan Set"
+          ],
+          "dogruCevap": "Tektonik",
+          "aciklama": ""
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Göller Yöresi'nde yer alan göllerden biri değildir?",
+          "secenekler": [
+            "Burdur Gölü",
+            "Eğirdir Gölü",
+            "Acıgöl",
+            "Suğla Gölü",
+            "Sapanca Gölü"
+          ],
+          "dogruCevap": "Sapanca Gölü",
+          "aciklama": "Sapanca Marmara Bölgesi'ndedir"
+        },
+        {
+          "soru": "Tokat-Reşadiye'de bulunan heyelan set gölü hangisidir?",
+          "secenekler": [
+            "Borabay",
+            "Zinav",
+            "Sera",
+            "Tortum",
+            "Abant"
+          ],
+          "dogruCevap": "Zinav",
+          "aciklama": ""
+        },
+        {
+          "soru": "Türkiye'nin tektonik göller bakımından en zengin bölgeleri hangileridir?",
+          "secenekler": [
+            "Ege ve Karadeniz",
+            "Marmara, Akdeniz, İç Anadolu, Doğu Anadolu",
+            "Sadece Doğu Anadolu",
+            "Güneydoğu Anadolu ve Ege",
+            "Karadeniz ve İç Anadolu"
+          ],
+          "dogruCevap": "Marmara, Akdeniz, İç Anadolu, Doğu Anadolu",
+          "aciklama": ""
+        },
+        {
+          "soru": "\"Yediğöller\" ve \"Abant\" gölleri hangi ilimizin sınırları içerisindedir?",
+          "secenekler": [
+            "Düzce",
+            "Sakarya",
+            "Bolu",
+            "Kastamonu",
+            "Zonguldak"
+          ],
+          "dogruCevap": "Bolu",
+          "aciklama": ""
+        },
+        {
+          "soru": "İnci Kefali balığının yaşadığı, dünyanın en büyük sodalı gölü hangisidir?",
+          "secenekler": [
+            "Tuz Gölü",
+            "Burdur Gölü",
+            "Van Gölü",
+            "Salda Gölü",
+            "Acıgöl"
+          ],
+          "dogruCevap": "Van Gölü",
+          "aciklama": ""
+        },
+        {
+          "soru": "Uzungöl'ün oluşum kökeni bazı kaynaklarda heyelan set olarak geçse de, asıl oluşum kökeni nedir?",
+          "secenekler": [
+            "Volkanik Set",
+            "Kıyı Set",
+            "Alüvyal Set",
+            "Tektonik",
+            "Karstik"
+          ],
+          "dogruCevap": "Alüvyal Set",
+          "aciklama": ""
+        },
+        {
+          "soru": "Nasreddin Hoca'nın maya çaldığı rivayet edilen göl hangisidir?",
+          "secenekler": [
+            "Tuz Gölü",
+            "Beyşehir Gölü",
+            "Akşehir Gölü",
+            "Eber Gölü",
+            "Ilgın Gölü"
+          ],
+          "dogruCevap": "Akşehir Gölü",
+          "aciklama": ""
+        },
+        {
+          "soru": "Türkiye'nin en büyük kapalı havza gölü hangisidir?",
+          "secenekler": [
+            "Van Gölü",
+            "Tuz Gölü",
+            "Burdur Gölü",
+            "Acıgöl",
+            "Eber Gölü"
+          ],
+          "dogruCevap": "Van Gölü",
+          "aciklama": "Kaynak net bir şekilde \"en büyük kapalı havza gölümüz Van Gölü\" diyor."
+        },
+        {
+          "soru": "Bitlis sınırları içinde yer alan ve dünyanın 2. büyük kalderası olan göl hangisidir?",
+          "secenekler": [
+            "Meke",
+            "Nemrut",
+            "Gölcük",
+            "Acıgöl",
+            "Süphan"
+          ],
+          "dogruCevap": "Nemrut",
+          "aciklama": ""
+        }
+      ],
+      "Türkiye'nin Gölleri 2": [
+        {
+          "soru": "Karadeniz Bölgesi'nde yer alan heyelan set göllerinden biri değildir?",
+          "secenekler": [
+            "Sera",
+            "Tortum",
+            "Yedigöller",
+            "Zinav",
+            "Köyceğiz"
+          ],
+          "dogruCevap": "Köyceğiz",
+          "aciklama": "Köyceğiz Ege'de ve Alüvyal set gölüdür"
+        },
+        {
+          "soru": "Aşağıdaki göllerden hangisinin suları dışa akışı olmadığı için tuzludur?",
+          "secenekler": [
+            "Eğirdir",
+            "Beyşehir",
+            "Burdur",
+            "Çıldır",
+            "İznik"
+          ],
+          "dogruCevap": "Burdur",
+          "aciklama": ""
+        },
+        {
+          "soru": "Hangi göl, eski bir körfezin önünün alüvyonlarla kapanması sonucu oluşmuştur?",
+          "secenekler": [
+            "Bafa (Çamiçi)",
+            "Sapanca",
+            "İznik",
+            "Abant",
+            "Hazar"
+          ],
+          "dogruCevap": "Bafa (Çamiçi)",
+          "aciklama": ""
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye'nin sınır oluşturan tek gölüdür?",
+          "secenekler": [
+            "Çıldır",
+            "Aktaş (Hozapin)",
+            "Van",
+            "Hazar",
+            "Balık"
+          ],
+          "dogruCevap": "Aktaş (Hozapin)",
+          "aciklama": "Gürcistan ile sınır"
+        },
+        {
+          "soru": "Aşağıdaki göllerden hangisi bir \"Sirk (Buzul)\" gölü örneğidir?",
+          "secenekler": [
+            "Karagöl (Kaçkar üzerindeki)",
+            "Sapanca",
+            "İznik",
+            "Manyas",
+            "Burdur"
+          ],
+          "dogruCevap": "Karagöl (Kaçkar üzerindeki)",
+          "aciklama": ""
+        },
+        {
+          "soru": "Çukurova deltasında bulunan lagün (kıyı set) gölü hangisidir?",
+          "secenekler": [
+            "Terkos",
+            "Akyatan",
+            "Büyükçekmece",
+            "Küçükçekmece",
+            "Acıgöl"
+          ],
+          "dogruCevap": "Akyatan",
+          "aciklama": ""
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Akdeniz Bölgesi'ndeki karstik göllerden (KASKET şifresi) biri değildir?",
+          "secenekler": [
+            "Kestel",
+            "Avlan",
+            "Salda",
+            "Elmalı",
+            "İznik"
+          ],
+          "dogruCevap": "İznik",
+          "aciklama": ""
+        },
+        {
+          "soru": "Elektrik üretimi yapılan göllerimiz hangileridir?",
+          "secenekler": [
+            "Sadece Baraj gölleri",
+            "Kovada, Beyşehir, Çıldır, Hazar, Tortum",
+            "Tuz, Van, Burdur",
+            "Sapanca, İznik, Manyas",
+            "Salda, Meke, Acıgöl"
+          ],
+          "dogruCevap": "Kovada, Beyşehir, Çıldır, Hazar, Tortum",
+          "aciklama": ""
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi bir baraj gölü (yapay göl) değildir?",
+          "secenekler": [
+            "Keban",
+            "Atatürk",
+            "Hirfanlı",
+            "Tortum",
+            "Altınkaya"
+          ],
+          "dogruCevap": "Tortum",
+          "aciklama": "Tortum doğal bir heyelan set gölüdür"
+        },
+        {
+          "soru": "Meke Tuzlası'nın oluşum şekli nedir?",
+          "secenekler": [
+            "Kaldera",
+            "Maar",
+            "Krater",
+            "Tektonik çukur",
+            "Obruk"
+          ],
+          "dogruCevap": "Maar",
+          "aciklama": ""
+        },
+        {
+          "soru": "Göl alanı yıl içinde en fazla değişiklik gösteren gölümüz hangisidir?",
+          "secenekler": [
+            "Van Gölü",
+            "Tuz Gölü",
+            "Beyşehir Gölü",
+            "Eğirdir Gölü",
+            "İznik Gölü"
+          ],
+          "dogruCevap": "Tuz Gölü",
+          "aciklama": ""
+        }
+      ],
       "Türkiye'de Nüfus ve Yerleşme": [
         {
           "soru": "Türkiye'de nüfus dağılışını etkileyen;\nI. İklim özellikleri\nII. Yerşekilleri\nIII. Ekonomik faaliyetler\nFaktörlerinden hangileri beşeri faktörler arasında yer alır?",
