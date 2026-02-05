@@ -2,6 +2,4535 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "Gensoru önergesi kimler tarafından verilebilir?",
+                "options": [
+                    "Bir siyasî parti grubu adına veya en az yirmi milletvekilinin imzasıyla",
+                    "Yalnızca muhalefet partileri tarafından",
+                    "Cumhurbaşkanı tarafından",
+                    "Bakanlar Kurulu tarafından"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Gensoru önergesi verildikten sonra ne kadar sürede bastırılıp dağıtılır?",
+                "options": [
+                    "Üç gün içinde",
+                    "Beş gün içinde",
+                    "On gün içinde",
+                    "Bir ay içinde"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Gensoru görüşmeleri sırasında güvensizlik oylaması ne zaman yapılır?",
+                "options": [
+                    "Bir tam gün geçtikten sonra",
+                    "Hemen oylanır",
+                    "İki gün sonra",
+                    "Yedi gün sonra"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Bakanlar Kurulu veya bir bakanın düşürülmesi için gereken oy sayısı nedir?",
+                "options": [
+                    "Üye tamsayısının salt çoğunluğu",
+                    "Üye tamsayısının üçte ikisi",
+                    "Toplantıya katılanların salt çoğunluğu",
+                    "Yalnızca güvensizlik oyları sayılır ama salt çoğunluk aranmaz"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Meclis soruşturması önergesi kaç milletvekilinin imzasıyla verilebilir?",
+                "options": [
+                    "Üye tamsayısının en az onda biri",
+                    "En az yirmi milletvekili",
+                    "En az otuz milletvekili",
+                    "Bir siyasî parti grubu adına"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Meclis soruşturması açılması kararı en geç ne kadar sürede görüşülür?",
+                "options": [
+                    "En geç bir ay içinde",
+                    "En geç on gün içinde",
+                    "En geç iki ay içinde",
+                    "En geç üç ay içinde"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Soruşturma komisyonu kaç kişiden oluşur?",
+                "options": [
+                    "Onbeş kişilik",
+                    "On kişilik",
+                    "Yirmi kişilik",
+                    "Beş kişilik"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Soruşturma komisyonu raporunu en geç ne kadar sürede sunar?",
+                "options": [
+                    "İki ay içinde (uzatmayla dört ay)",
+                    "Bir ay içinde",
+                    "Üç ay içinde",
+                    "Altı ay içinde"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Yüce Divana sevk kararı hangi çoğunlukla alınır?",
+                "options": [
+                    "Üye tamsayısının salt çoğunluğu",
+                    "Üye tamsayısının üçte ikisi",
+                    "Toplantıya katılanların salt çoğunluğu",
+                    "Üye tamsayısının beşte üçü"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Cumhurbaşkanı kaç yaşını doldurmuş olmalıdır?",
+                "options": [
+                    "Kırk yaş",
+                    "Otuz beş yaş",
+                    "Kırk beş yaş",
+                    "Otuz yaş"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Cumhurbaşkanı’nın görev süresi kaç yıldır?",
+                "options": [
+                    "Beş yıl",
+                    "Dört yıl",
+                    "Yedi yıl",
+                    "Altı yıl"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Cumhurbaşkanı en fazla kaç defa seçilebilir?",
+                "options": [
+                    "İki defa",
+                    "Bir defa",
+                    "Üç defa",
+                    "Sınırsız"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Cumhurbaşkanlığına aday göstermek için en az kaç milletvekilinin teklifi gerekir?",
+                "options": [
+                    "Yirmi milletvekili",
+                    "On milletvekili",
+                    "Otuz milletvekili",
+                    "Beş milletvekili"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Cumhurbaşkanı seçilenin partisiyle ilişkisi ne olur?",
+                "options": [
+                    "İlişiği kesilir ve TBMM üyeliği sona erer",
+                    "Parti genel başkanlığını devam ettirir",
+                    "Parti üyeliği devam eder",
+                    "Parti grup başkanvekili olur"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Cumhurbaşkanı seçimi hangi çoğunlukla kazanılır?",
+                "options": [
+                    "Geçerli oyların salt çoğunluğu",
+                    "Geçerli oyların üçte ikisi",
+                    "Geçerli oyların beşte üçü",
+                    "Geçerli oyların yarısından fazlası"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "İkinci oylamaya hangi adaylar katılır?",
+                "options": [
+                    "İlk oylamada en çok oy alan iki aday",
+                    "Tüm adaylar",
+                    "Yalnızca ilk üç aday",
+                    "Yalnızca bağımsız adaylar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Cumhurbaşkanı’nın andında hangi ilke vurgulanır?",
+                "options": [
+                    "Lâik Cumhuriyet ilkesi",
+                    "Üniter devlet ilkesi",
+                    "Sosyal devlet ilkesi",
+                    "Hukuk devleti ilkesi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Cumhurbaşkanı hangi sıfatla Devleti temsil eder?",
+                "options": [
+                    "Devletin başı sıfatıyla",
+                    "Başbakan sıfatıyla",
+                    "TBMM Başkanı sıfatıyla",
+                    "Genelkurmay Başkanı sıfatıyla"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Cumhurbaşkanı’nın yasama ile ilgili yetkilerinden biri hangisidir?",
+                "options": [
+                    "Kanunları tekrar görüşülmek üzere TBMM’ye geri göndermek",
+                    "Kanunları doğrudan kaldırmak",
+                    "Kanunları veto etmek",
+                    "Kanunları değiştirmek"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Cumhurbaşkanı’nın yürütme ile ilgili yetkilerinden biri hangisidir?",
+                "options": [
+                    "Başbakanı atamak ve istifasını kabul etmek",
+                    "Bakanları doğrudan atamak",
+                    "TBMM’yi feshetmek",
+                    "Anayasa değişikliği önermek"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "1982 Anayasası’na göre aile hangi ilkeye dayanır?",
+                "options": [
+                    "Eşler arasında eşitliğe",
+                    "Babanın üstünlüğüne",
+                    "Devletin mutlak kontrolüne",
+                    "Aile reisliğinin babada olmasına"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Devlet, ailenin korunması için hangi konuları düzenlemekle yükümlüdür?",
+                "options": [
+                    "Aile planlamasının öğretimi ve uygulanması",
+                    "Evlilik yaşının düşürülmesi",
+                    "Boşanma işlemlerinin kolaylaştırılması",
+                    "Çok eşliliğin yasaklanması"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Her çocuğun hangi hakkı Anayasa’da açıkça korunmuştur?",
+                "options": [
+                    "Ana ve babasıyla kişisel ve doğrudan ilişki kurma hakkı",
+                    "Devlet tarafından yetiştirilme hakkı",
+                    "Evlilik dışı doğan çocuklar için özel koruma",
+                    "Yabancı dil öğrenme zorunluluğu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Eğitim ve öğretim hangi ilkelere göre yapılır?",
+                "options": [
+                    "Atatürk ilkeleri ve inkılâpları doğrultusunda, çağdaş bilim ve eğitim esaslarına göre",
+                    "Dinî esaslara göre",
+                    "Yabancı ülkelerin müfredatına göre",
+                    "Sınıf temelli eğitim anlayışına göre"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "İlköğretim hangi niteliktedir?",
+                "options": [
+                    "Kız ve erkek bütün vatandaşlar için zorunlu ve Devlet okullarında parasızdır",
+                    "Yalnızca erkek çocuklar için zorunludur",
+                    "Ücretlidir",
+                    "Özel okullarda zorunludur"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkçeden başka dil hangi koşullarda eğitim-öğretimde kullanılabilir?",
+                "options": [
+                    "Ana dil olarak okutulamaz ve öğretilemez",
+                    "Yabancı dil olarak serbesttir",
+                    "Bazı bölgelerde ana dil olarak okutulabilir",
+                    "Yalnızca özel okullarda kullanılabilir"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Kıyılar kimin hüküm ve tasarrufu altındadır?",
+                "options": [
+                    "Devletin",
+                    "Özel mülkiyetin",
+                    "Belediyelerin",
+                    "Köy tüzel kişiliklerinin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Kıyılardan yararlanma hangi ilkeye göre düzenlenir?",
+                "options": [
+                    "Öncelikle kamu yararı gözetilerek",
+                    "Özel mülkiyet önceliğiyle",
+                    "Yerel yönetimlerin takdirine göre",
+                    "Yabancı yatırımcıların lehine"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Devlet, topraksız veya yeter toprağı bulunmayan köylüye toprak sağlamak amacıyla ne yapar?",
+                "options": [
+                    "Gerekli tedbirleri alır",
+                    "Toprak reformunu yasaklar",
+                    "Yalnızca büyük çiftçilere destek verir",
+                    "Yabancılara toprak satışı yapar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Dağıtılan topraklar hangi koşullarda bölünemez?",
+                "options": [
+                    "Miras hükümleri dışında başkalarına devredilemez ve ancak dağıtılan çiftçilerle mirasçıları tarafından işletilebilir",
+                    "Serbestçe satılabilir",
+                    "Yabancılara devredilebilir",
+                    "Devlet tarafından geri alınamaz"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Kamulaştırma bedeli nasıl ödenir?",
+                "options": [
+                    "Gerçek karşılığı peşin olarak",
+                    "Taksitle 10 yıl vadeli",
+                    "Yalnızca tarım arazilerinde taksitle",
+                    "Bedelsiz olarak"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Özelleştirme hangi usulle yapılır?",
+                "options": [
+                    "Kanunla gösterilen esas ve usullere göre",
+                    "Cumhurbaşkanlığı kararnamesiyle",
+                    "Bakanlar Kurulu kararıyla",
+                    "Yargı kararıyla"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Çalışma hakkı ve ödevi kime aittir?",
+                "options": [
+                    "Herkese",
+                    "Yalnızca erkeklere",
+                    "Yalnızca işçilere",
+                    "Yalnızca memurlara"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Kimse hangi işlerde çalıştırılamaz?",
+                "options": [
+                    "Yaşına, cinsiyetine ve gücüne uymayan işlerde",
+                    "Yalnızca gece işlerinde",
+                    "Yalnızca tehlikeli işlerde",
+                    "Yalnızca ağır işlerde"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Sendika kurma hakkı kimlere tanınmıştır?",
+                "options": [
+                    "Çalışanlar ve işverenlere",
+                    "Yalnızca işçilere",
+                    "Yalnızca memurlara",
+                    "Yalnızca sendika yöneticilerine"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Toplu iş sözleşmesi hakkı kimlere aittir?",
+                "options": [
+                    "İşçiler ve işverenlere",
+                    "Yalnızca işçilere",
+                    "Yalnızca memurlara",
+                    "Yalnızca işverenlere"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Grev hakkı hangi durumlarda kullanılabilir?",
+                "options": [
+                    "Toplu iş sözleşmesi uyuşmazlığında",
+                    "Siyasi amaçlarla",
+                    "Genel grevde",
+                    "İş yeri işgalinde"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Ücret emeğin karşılığıdır ifadesi hangi maddeyledir?",
+                "options": [
+                    "Madde 55",
+                    "Madde 49",
+                    "Madde 50",
+                    "Madde 51"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Asgari ücret tespitinde hangi hususlar göz önünde bulundurulur?",
+                "options": [
+                    "Çalışanların geçim şartları ve ülkenin ekonomik durumu",
+                    "Yalnızca enflasyon oranı",
+                    "Yalnızca işverenlerin kârı",
+                    "Yalnızca sendikaların talebi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Herkes hangi hakka sahiptir?",
+                "options": [
+                    "Sağlıklı ve dengeli bir çevrede yaşama hakkına",
+                    "Yalnızca temiz hava hakkına",
+                    "Yalnızca su hakkına",
+                    "Yalnızca orman hakkına"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Devlet, gençleri hangi unsurlardan korumakla yükümlüdür?",
+                "options": [
+                    "Alkol düşkünlüğü, uyuşturucu, suçluluk, kumar ve cehaletten",
+                    "Yalnızca uyuşturucudan",
+                    "Yalnızca alkolden",
+                    "Yalnızca kumardan"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Devlet, başarılı sporcuyu nasıl korur?",
+                "options": [
+                    "Korur",
+                    "Yalnızca maddi destek verir",
+                    "Yalnızca manevi destek verir",
+                    "Hiçbir koruma sağlamaz"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Herkes hangi hakka sahiptir?",
+                "options": [
+                    "Sosyal güvenlik hakkına",
+                    "Yalnızca sağlık sigortası hakkına",
+                    "Yalnızca emeklilik hakkına",
+                    "Yalnızca işsizlik maaşı hakkına"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Devlet, harp ve vazife şehitlerinin dul ve yetimleriyle malul ve gazileri nasıl korur?",
+                "options": [
+                    "Kendilerine yaraşır bir hayat seviyesi sağlayarak",
+                    "Yalnızca maddi yardım yaparak",
+                    "Yalnızca manevi destek vererek",
+                    "Hiçbir koruma sağlamaz"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Türk vatandaşlığı nasıl kazanılır?",
+                "options": [
+                    "Kanunun gösterdiği şartlarla",
+                    "Doğumla otomatik",
+                    "Evlilikle otomatik",
+                    "İkametle otomatik"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Seçme ve seçilme yaşı kaçtır?",
+                "options": [
+                    "Onsekiz yaş",
+                    "Yirmibeş yaş",
+                    "Otuz yaş",
+                    "Yirmi bir yaş"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Siyasi partiler hangi ilkeye göre kurulur?",
+                "options": [
+                    "Önceden izin almaksızın",
+                    "İçişleri Bakanlığı izniyle",
+                    "Cumhurbaşkanlığı onayıyla",
+                    "Yargıtay onayıyla"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "TBMM üyelerinin sayısı kaçtır?",
+                "options": [
+                    "Beşyüzelli",
+                    "Dörtyüz",
+                    "Altıyüz",
+                    "Yediyüz"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Milletvekili seçilme yaşı kaçtır?",
+                "options": [
+                    "Yirmibeş yaş",
+                    "Otuz yaş",
+                    "Onsekiz yaş",
+                    "Yirmi bir yaş"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "TBMM’nin seçim dönemi kaç yıldır?",
+                "options": [
+                    "Dört yıl",
+                    "Beş yıl",
+                    "Üç yıl",
+                    "Altı yıl"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Yüksek Seçim Kurulu kaç üyeden oluşur?",
+                "options": [
+                    "Yedi asıl ve dört yedek",
+                    "Beş asıl ve üç yedek",
+                    "On asıl ve beş yedek",
+                    "Dokuz asıl ve altı yedek"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "TBMM üyeleri kimi temsil eder?",
+                "options": [
+                    "Bütün Milleti",
+                    "Seçildikleri bölgeyi",
+                    "Seçildikleri partiyi",
+                    "Kendilerini"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "TBMM üyelerinin andiçme metninde hangi ifade yer alır?",
+                "options": [
+                    "Devletin varlığı ve bağımsızlığını koruyacağıma",
+                    "Yalnızca Cumhuriyeti koruyacağıma",
+                    "Yalnızca milleti koruyacağıma",
+                    "Yalnızca Anayasayı koruyacağıma"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "TBMM üyeleri hangi işlerle bağdaşmaz?",
+                "options": [
+                    "Devlet ve kamu tüzelkişilerinde görev almakla",
+                    "Özel sektörde çalışmakla",
+                    "Sendika üyeliğiyle",
+                    "Dernek üyeliğiyle"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Yasama dokunulmazlığı hangi suçlarda uygulanmaz?",
+                "options": [
+                    "Ağır cezayı gerektiren suçüstü hali ve seçimden önce soruşturmasına başlanılmış olmak kaydıyla belirli suçlar",
+                    "Tüm suçlarda uygulanır",
+                    "Yalnızca taksirli suçlarda uygulanmaz",
+                    "Yalnızca siyasi suçlarda uygulanmaz"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Milletvekilliğinin düşmesi hangi durumda gerçekleşir?",
+                "options": [
+                    "Kesin hüküm giyme veya kısıtlanma halinde",
+                    "Yalnızca istifa halinde",
+                    "Yalnızca partiden ayrılma halinde",
+                    "Yalnızca seçim kaybında"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "TBMM’nin görevlerinden biri hangisidir?",
+                "options": [
+                    "Kanun koymak, değiştirmek ve kaldırmak",
+                    "Yargı kararı vermek",
+                    "Cumhurbaşkanı’nı seçmek",
+                    "Bakanları doğrudan atamak"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Kanunların yayımlanması için Cumhurbaşkanı’ya tanınan süre kaç gündür?",
+                "options": [
+                    "Onbeş gün",
+                    "Otuz gün",
+                    "Yedi gün",
+                    "On gün"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Milletlerarası andlaşmaların onaylanması hangi organın uygun bulmasına bağlıdır?",
+                "options": [
+                    "TBMM’nin",
+                    "Cumhurbaşkanı’nın",
+                    "Bakanlar Kurulu’nun",
+                    "Anayasa Mahkemesi’nin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Kanun hükmünde kararname çıkarma yetkisi kimlere verilebilir?",
+                "options": [
+                    "Bakanlar Kurulu’na",
+                    "Cumhurbaşkanı’na",
+                    "TBMM Başkanına",
+                    "Yargıtay’a"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "TBMM hangi konularda denetim yetkisini kullanır?",
+                "options": [
+                    "Soru, Meclis araştırması, genel görüşme, gensoru ve Meclis soruşturması yollarıyla",
+                    "Yalnızca soru yoluyla",
+                    "Yalnızca gensoru yoluyla",
+                    "Yalnızca Meclis soruşturması yoluyla"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Sadi Irmak Hükümeti hangi tarihte güvenoyu almıştır?",
+                "options": [
+                    "17 Kasım 1974",
+                    "12 Nisan 1975",
+                    "5 Ocak 1978",
+                    "25 Kasım 1979"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Sadi Irmak Hükümeti’ne kaç milletvekili güvenoyu vermiştir?",
+                "options": [
+                    "17",
+                    "222",
+                    "218",
+                    "229"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "1 Mart 1975’te başbakanlık görevine yeniden getirilen ancak görevi kabul etmeyen kişi kimdir?",
+                "options": [
+                    "Sadi Irmak",
+                    "Bülent Ecevit",
+                    "Süleyman Demirel",
+                    "Necmettin Erbakan"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "I. Milliyetçi Cephe Hükümeti hangi partilerin koalisyonuyla kurulmuştur?",
+                "options": [
+                    "AP – MSP – CGP – MHP – Bağımsızlar",
+                    "CHP – MSP",
+                    "CHP – CGP",
+                    "AP – MHP"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "I. Milliyetçi Cephe Hükümeti güvenoyunu kaç oyla almıştır?",
+                "options": [
+                    "222 kabul – 218 ret",
+                    "229 kabul – 219 ret",
+                    "218 kabul – 222 ret",
+                    "229 ret – 219 kabul"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "1970’lerde Türkiye’de enflasyonun %40–50’lere çıktığı yıl hangisidir?",
+                "options": [
+                    "1977",
+                    "1976",
+                    "1975",
+                    "1974"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Kıbrıs Türk Federe Devleti hangi hükümet döneminde kurulmuştur?",
+                "options": [
+                    "Sadi Irmak Hükümeti",
+                    "I. Ecevit Hükümeti",
+                    "I. Milliyetçi Cephe Hükümeti",
+                    "II. Milliyetçi Cephe Hükümeti"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "1977 seçimlerinden sonra kurulan azınlık hükümetinin başbakanı kimdir?",
+                "options": [
+                    "Bülent Ecevit",
+                    "Süleyman Demirel",
+                    "Sadi Irmak",
+                    "Necmettin Erbakan"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "II. Milliyetçi Cephe Hükümeti hangi yöntemle düşürülmüştür?",
+                "options": [
+                    "Gensoru önergesi",
+                    "Güvenoyu vermeme",
+                    "Cumhurbaşkanlığı vetosu",
+                    "Anayasa Mahkemesi kararı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Cumhuriyet tarihinde gensoru ile düşürülen ilk hükümet hangisidir?",
+                "options": [
+                    "II. Milliyetçi Cephe Hükümeti",
+                    "I. Milliyetçi Cephe Hükümeti",
+                    "III. Ecevit Hükümeti",
+                    "Demirel Hükümeti"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "III. Ecevit Hükümeti güvenoyunu kaç oyla almıştır?",
+                "options": [
+                    "229",
+                    "222",
+                    "218",
+                    "219"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "12 Mart 1971’den 12 Eylül 1980’e kadar kaç hükümet kurulmuştur?",
+                "options": [
+                    "11",
+                    "10",
+                    "9",
+                    "12"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Kıbrıs Harekâtı hangi tarihte başlamıştır?",
+                "options": [
+                    "20 Temmuz 1974",
+                    "14 Ağustos 1974",
+                    "15 Temmuz 1974",
+                    "13 Şubat 1975"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "II. Kıbrıs Harekâtı hangi tarih aralığında yapılmıştır?",
+                "options": [
+                    "14–16 Ağustos 1974",
+                    "20–22 Temmuz 1974",
+                    "25–26 Ağustos 1974",
+                    "15 Kasım 1983"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Kıbrıs Türk Federe Devleti hangi tarihte ilan edilmiştir?",
+                "options": [
+                    "13 Şubat 1975",
+                    "15 Kasım 1983",
+                    "20 Temmuz 1974",
+                    "14 Ağustos 1974"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Kuzey Kıbrıs Türk Cumhuriyeti hangi tarihte ilan edilmiştir?",
+                "options": [
+                    "15 Kasım 1983",
+                    "13 Şubat 1975",
+                    "20 Temmuz 1974",
+                    "14 Ağustos 1974"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "24 Ocak Kararları hangi yılda kamuoyuna açıklanmıştır?",
+                "options": [
+                    "1980",
+                    "1979",
+                    "1975",
+                    "1974"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "24 Ocak Kararları hangi başbakan döneminde hazırlanmıştır?",
+                "options": [
+                    "Süleyman Demirel",
+                    "Bülent Ecevit",
+                    "Turgut Özal",
+                    "Kenan Evren"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "12 Eylül 1980 darbesi hangi gerekçelerle yapılmıştır?",
+                "options": [
+                    "Siyasi cinayetler, cumhurbaşkanlığı seçememe, Konya mitingi",
+                    "Ekonomik kriz, enflasyon, işsizlik",
+                    "Kıbrıs sorunu, Yunanistan gerginliği",
+                    "Petrol bunalımı, dış borç"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "12 Eylül 1980 darbesinden sonra hangi anayasa kabul edilmiştir?",
+                "options": [
+                    "1982 Anayasası",
+                    "1961 Anayasası",
+                    "1924 Anayasası",
+                    "1960 Anayasası"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "1982 Anayasası hangi tarihte halkoyuna sunulmuştur?",
+                "options": [
+                    "7 Kasım 1982",
+                    "12 Eylül 1980",
+                    "6 Kasım 1983",
+                    "24 Ocak 1980"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "1982 Anayasası hangi oyla kabul edilmiştir?",
+                "options": [
+                    "%91,3",
+                    "%85",
+                    "%75",
+                    "%95"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "1982 Anayasası ile cumhurbaşkanlığına seçilen kişi kimdir?",
+                "options": [
+                    "Kenan Evren",
+                    "Turgut Özal",
+                    "Süleyman Demirel",
+                    "Bülent Ecevit"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "1983 seçimlerinde iktidara gelen parti hangisidir?",
+                "options": [
+                    "ANAP",
+                    "SHP",
+                    "DYP",
+                    "DSP"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "1987 referandumu ile ne gerçekleşmiştir?",
+                "options": [
+                    "Siyasi yasaklar kalkmıştır",
+                    "Anayasa değişikliği yapılmıştır",
+                    "Seçim sistemi değişmiştir",
+                    "Başkanlık sistemi getirilmiştir"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "1987 referandumu sonrası siyasi arenaya dönen isimlerden biri kimdir?",
+                "options": [
+                    "Bülent Ecevit",
+                    "Kenan Evren",
+                    "Turgut Özal",
+                    "Erdal İnönü"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "1987 genel seçimlerinde birinci parti olan parti hangisidir?",
+                "options": [
+                    "ANAP",
+                    "SHP",
+                    "DYP",
+                    "DSP"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "1989 yerel seçimlerinde SHP’nin en büyük başarısı nerede olmuştur?",
+                "options": [
+                    "İstanbul, Ankara ve İzmir belediye başkanlıkları",
+                    "Doğu Anadolu illeri",
+                    "Karadeniz illeri",
+                    "Güneydoğu illeri"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "1989’da cumhurbaşkanlığına seçilen kişi kimdir?",
+                "options": [
+                    "Turgut Özal",
+                    "Kenan Evren",
+                    "Süleyman Demirel",
+                    "Bülent Ecevit"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Anayasa’nın değiştirilemeyecek maddeleri hangi maddelerde yer alır?",
+                "options": [
+                    "Madde 1, 2 ve 3",
+                    "Madde 4, 5 ve 6",
+                    "Madde 7, 8 ve 9",
+                    "Madde 10 ve 11"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "1982 Anayasası’na göre egemenlik kime aittir?",
+                "options": [
+                    "Kayıtsız şartsız millete",
+                    "Cumhurbaşkanı’na",
+                    "TBMM’ye",
+                    "Hükümet’e"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "1982 Anayasası’nda devletin temel niteliklerinden biri hangisidir?",
+                "options": [
+                    "Lâik devlet",
+                    "Monarşik devlet",
+                    "Teokratik devlet",
+                    "Federal devlet"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "1982 Anayasası’nda temel hak ve hürriyetlerin sınırlanması hangi ilkeye bağlanmıştır?",
+                "options": [
+                    "Ölçülülük ilkesi",
+                    "Genellik ilkesi",
+                    "Adalet ilkesi",
+                    "Kanunilik ilkesi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "1982 Anayasası’nda din ve vicdan hürriyeti hangi maddeyle düzenlenmiştir?",
+                "options": [
+                    "Madde 24",
+                    "Madde 20",
+                    "Madde 25",
+                    "Madde 26"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "1982 Anayasası’nda mülkiyet hakkı hangi maddeyle korunmuştur?",
+                "options": [
+                    "Madde 35",
+                    "Madde 36",
+                    "Madde 33",
+                    "Madde 34"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "1982 Anayasası’na göre yasama yetkisi kime aittir?",
+                "options": [
+                    "TBMM’ye",
+                    "Cumhurbaşkanı’na",
+                    "Bakanlar Kurulu’na",
+                    "Anayasa Mahkemesi’ne"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "1982 Anayasası’nda yürütme yetkisi kimler tarafından kullanılır?",
+                "options": [
+                    "Cumhurbaşkanı ve Bakanlar Kurulu",
+                    "TBMM",
+                    "Yargıtay",
+                    "Danıştay"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "1982 Anayasası’nda yargı yetkisi kimin adına kullanılır?",
+                "options": [
+                    "Türk Milleti adına bağımsız mahkemelerce",
+                    "Cumhurbaşkanı adına",
+                    "TBMM adına",
+                    "Hükümet adına"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "1982 Anayasası’nda kanun önünde eşitlik hangi maddeyle düzenlenmiştir?",
+                "options": [
+                    "Madde 10",
+                    "Madde 12",
+                    "Madde 14",
+                    "Madde 15"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "1982 Anayasası’nda özel hayatın gizliliği hangi maddeyle korunmuştur?",
+                "options": [
+                    "Madde 20",
+                    "Madde 21",
+                    "Madde 22",
+                    "Madde 23"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "1982 Anayasası’nda basın hürriyeti hangi maddeyle düzenlenmiştir?",
+                "options": [
+                    "Madde 28",
+                    "Madde 26",
+                    "Madde 27",
+                    "Madde 29"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Pasarofça Antlaşması’ndan sonra Osmanlıların izlediği temel siyaset aşağıdakilerden hangisidir?",
+                "options": [
+                    "Savunma pozisyonu alıp sınır kalelerini tahkim etmek",
+                    "Yeni fetihler için doğuya yönelmek",
+                    "Deniz ticaretini tamamen terk etmek",
+                    "Yeniçeri Ocağı’nı güçlendirmek"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Lâle Devri hangi yıllarda yaşanmıştır?",
+                "options": [
+                    "1718-1730",
+                    "1730-1754",
+                    "1757-1773",
+                    "1789-1807"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Lâle Devri’nde matbaa açılması gibi yeniliklerin öncüsü kimdir?",
+                "options": [
+                    "Damat İbrahim Paşa",
+                    "III. Ahmed",
+                    "Patrona Halil",
+                    "I. Mahmud"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Patrona Halil Ayaklanması hangi olayla tetiklenmiştir?",
+                "options": [
+                    "Tebriz’in İran’a gizlice terk edildiği haberi",
+                    "Matbaanın kapatılması",
+                    "Yeniçeri maaşlarının kesilmesi",
+                    "Lâle Devri eğlencelerinin yasaklanması"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Patrona Halil Ayaklanması sonucunda kimler katledilmiştir?",
+                "options": [
+                    "Damat İbrahim Paşa, III. Ahmed ve yakınları",
+                    "I. Mahmud ve sadrazamı",
+                    "Yeniçeri ağası",
+                    "Halife Abdulmecid"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "I. Mahmud döneminde Rusya ve Avusturya’ya karşı kazanılan zafer sonunda imzalanan antlaşma hangisidir?",
+                "options": [
+                    "Belgrat Antlaşması (1739)",
+                    "Küçük Kaynarca Antlaşması",
+                    "Pasarofça Antlaşması",
+                    "Kasr-ı Şirin Antlaşması"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Belgrat Antlaşması’na göre Avusturya neyi kabul etmiştir?",
+                "options": [
+                    "Pasarofça ile aldığı tüm topraklardan vazgeçmeyi",
+                    "Kırım’ı Osmanlı’ya bırakmayı",
+                    "Eflak ve Boğdan’ı işgal etmeyi",
+                    "Yeni kapitülasyonlar vermeyi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "1740 Fransa kapitülasyonunun en önemli özelliği nedir?",
+                "options": [
+                    "Süre tahdidi koymaması ve Kanuni dönemindekileri genişletmesi",
+                    "Sadece ticaret hakkı vermesi",
+                    "Askeri ittifak antlaşması olması",
+                    "Toprak bırakma antlaşması olması"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "I. Mahmud döneminde Humbaracı Ocağı’nı kuran kişi kimdir?",
+                "options": [
+                    "Ahmet Paşa (Humbaracı Ahmet Paşa)",
+                    "Damat İbrahim Paşa",
+                    "Köprülü Fazıl Mustafa Paşa",
+                    "Alemdar Mustafa Paşa"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "III. Selim döneminde kurulan yeni orduya ne ad verilmiştir?",
+                "options": [
+                    "Nizam-ı Cedid",
+                    "Sekban-ı Cedid",
+                    "Asakir-i Mansure-i Muhammediye",
+                    "Humbaracı Ocağı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Kabakçı Mustafa İsyanı hangi padişah döneminde gerçekleşmiştir?",
+                "options": [
+                    "III. Selim",
+                    "IV. Mustafa",
+                    "II. Mahmud",
+                    "I. Mahmud"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Kabakçı Mustafa İsyanı sonucunda ne olmuştur?",
+                "options": [
+                    "III. Selim tahttan indirilmiş, Nizam-ı Cedid lağvedilmiştir",
+                    "Yeniçeri Ocağı kaldırılmıştır",
+                    "Cumhuriyet ilan edilmiştir",
+                    "Halifelik kaldırılmıştır"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Vak’a-yı Hayriye hangi olaydır?",
+                "options": [
+                    "Yeniçeri Ocağı’nın kaldırılması (1826)",
+                    "Kabakçı Mustafa İsyanı",
+                    "III. Selim’in tahttan indirilmesi",
+                    "Alemdar Mustafa Paşa’nın ölümü"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "II. Mahmud döneminde yeni orduya ne ad verilmiştir?",
+                "options": [
+                    "Asakir-i Mansure-i Muhammediye",
+                    "Nizam-ı Cedid",
+                    "Sekban-ı Cedid",
+                    "Humbaracı Ocağı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Sırp İsyanı sonunda Sırbistan özerk prenslik olarak hangi belge ile kabul edilmiştir?",
+                "options": [
+                    "1830 Hatt-ı Şerif",
+                    "Edirne Antlaşması",
+                    "Küçük Kaynarca Antlaşması",
+                    "Belgrat Antlaşması"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Yunanistan’ın bağımsızlığı hangi antlaşma ile tanınmıştır?",
+                "options": [
+                    "Edirne Antlaşması (1829) ve Londra Protokolü",
+                    "Küçük Kaynarca Antlaşması",
+                    "Belgrat Antlaşması",
+                    "Pasarofça Antlaşması"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Mehmet Ali Paşa İsyanı sonunda imzalanan antlaşma hangisidir?",
+                "options": [
+                    "Kütahya Antlaşması (1833)",
+                    "Londra Protokolü",
+                    "Edirne Antlaşması",
+                    "Kasr-ı Şirin Antlaşması"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "TBMM’nin açıldığı tarih hangisidir?",
+                "options": [
+                    "23 Nisan 1920",
+                    "29 Ekim 1923",
+                    "1 Kasım 1922",
+                    "3 Mart 1924"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "TBMM’nin açılmasından sonra çıkarılan ilk önemli kanunlardan biri hangisidir?",
+                "options": [
+                    "Hıyanet-i Vataniye Kanunu (29 Nisan 1920)",
+                    "Saltanatın Kaldırılması Kanunu",
+                    "Cumhuriyetin İlanı Kanunu",
+                    "Halifeliğin Kaldırılması Kanunu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Saltanatın kaldırıldığı tarih hangisidir?",
+                "options": [
+                    "1 Kasım 1922",
+                    "29 Ekim 1923",
+                    "3 Mart 1924",
+                    "20 Ocak 1921"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Cumhuriyetin ilan edildiği tarih hangisidir?",
+                "options": [
+                    "29 Ekim 1923",
+                    "1 Kasım 1922",
+                    "3 Mart 1924",
+                    "23 Nisan 1920"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Halifeliğin kaldırıldığı tarih hangisidir?",
+                "options": [
+                    "3 Mart 1924",
+                    "29 Ekim 1923",
+                    "1 Kasım 1922",
+                    "20 Ocak 1921"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "1921 Teşkilat-ı Esasiye Kanunu’nun en önemli özelliği nedir?",
+                "options": [
+                    "Kuvvetler birliği ve Meclis Hükûmeti sistemi",
+                    "Cumhuriyetin ilanı",
+                    "Halifeliğin kaldırılması",
+                    "Saltanatın kaldırılması"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "1924 Anayasası’nda devletin şekli nasıl tanımlanmıştır?",
+                "options": [
+                    "Türkiye Devleti bir Cumhuriyettir",
+                    "Türkiye Devleti bir saltanattır",
+                    "Türkiye Devleti bir hilafettir",
+                    "Türkiye Devleti bir meclis hükûmetidir"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "1924 Anayasası’nda devletin dini hangi maddeyle belirtilmiştir?",
+                "options": [
+                    "Madde 2: Türkiye Devleti’nin dini İslam’dır",
+                    "Madde 1: Cumhuriyet",
+                    "Madde 3: Başkent Ankara",
+                    "Madde 4: TBMM"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Kadınlara seçme ve seçilme hakkı hangi değişiklikle verilmiştir?",
+                "options": [
+                    "1934 değişikliği",
+                    "1928 değişikliği",
+                    "1931 değişikliği",
+                    "1937 değişikliği"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Gümrü Antlaşması hangi cephede imzalanmıştır?",
+                "options": [
+                    "Doğu Cephesi (Ermenilerle)",
+                    "Batı Cephesi",
+                    "Güney Cephesi",
+                    "İç Cephe"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Ankara İtilafnamesi hangi devletle imzalanmıştır?",
+                "options": [
+                    "Fransa",
+                    "İngiltere",
+                    "İtalya",
+                    "Yunanistan"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Sakarya Meydan Muharebesi hangi tarih aralığında yapılmıştır?",
+                "options": [
+                    "23 Ağustos - 13 Eylül 1921",
+                    "26 Ağustos - 30 Ağustos 1922",
+                    "30 Ağustos 1922",
+                    "9 Eylül 1922"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyük Taarruz’un başlangıç tarihi hangisidir?",
+                "options": [
+                    "26 Ağustos 1922",
+                    "23 Ağustos 1921",
+                    "30 Ağustos 1922",
+                    "9 Eylül 1922"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Mudanya Mütarekesi hangi tarihte imzalanmıştır?",
+                "options": [
+                    "11 Ekim 1922",
+                    "24 Temmuz 1923",
+                    "29 Ekim 1923",
+                    "1 Kasım 1922"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Lozan Antlaşması hangi tarihte imzalanmıştır?",
+                "options": [
+                    "24 Temmuz 1923",
+                    "11 Ekim 1922",
+                    "29 Ekim 1923",
+                    "3 Mart 1924"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "TBMM’nin açılmasından sonra kurulan ilk hükümetin adı nedir?",
+                "options": [
+                    "İcra Vekilleri Heyeti",
+                    "Bakanlar Kurulu",
+                    "Hükûmet-i Merkeziye",
+                    "Saltanat Hükûmeti"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Hıyanet-i Vataniye Kanunu hangi tarihte çıkarılmıştır?",
+                "options": [
+                    "29 Nisan 1920",
+                    "1 Kasım 1922",
+                    "29 Ekim 1923",
+                    "3 Mart 1924"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Saltanatın kaldırılmasıyla Osmanlı hanedanı ne yapılmıştır?",
+                "options": [
+                    "Türkiye dışına çıkarılmıştır",
+                    "TBMM’ye davet edilmiştir",
+                    "Halife olarak bırakılmıştır",
+                    "Yeni bir saltanat kurulmuştur"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Cumhuriyetin ilanıyla birlikte hangi değişiklik yapılmıştır?",
+                "options": [
+                    "Devletin şekli Cumhuriyet olarak değiştirilmiştir",
+                    "Halifelik kaldırılmıştır",
+                    "Saltanat yeniden kurulmuştur",
+                    "Başkent İstanbul olmuştur"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Halifeliğin kaldırılmasıyla hangi vekâletler kaldırılmıştır?",
+                "options": [
+                    "Şer’iye ve Evkaf Vekâleti ile Erkan-ı Harbiye Vekâleti",
+                    "Dahiliye ve Hariciye Vekâletleri",
+                    "Milli Eğitim Vekâleti",
+                    "Maliye Vekâleti"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "1924 Anayasası’nda TBMM’nin üstünlüğü hangi ilkeye dayanır?",
+                "options": [
+                    "Milli hâkimiyet",
+                    "Kuvvetler ayrılığı",
+                    "Federal sistem",
+                    "Monarşi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye’de ilk düzenli nüfus sayımı hangi yılda yapılmıştır?",
+                "options": [
+                    "1927",
+                    "1935",
+                    "1945",
+                    "1950"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye’de kentleşme oranının %50’yi geçtiği dönem yaklaşık olarak hangisidir?",
+                "options": [
+                    "1985 sonrası",
+                    "1950 sonrası",
+                    "1927-1950 arası",
+                    "2000 sonrası"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye’de iç göçün en yoğun olduğu dönem hangisidir?",
+                "options": [
+                    "1950 sonrası",
+                    "1923-1950 arası",
+                    "2000 sonrası",
+                    "1980 öncesi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye’de tarımsal nüfus yoğunluğunun en yüksek olduğu bölge hangisidir?",
+                "options": [
+                    "Karadeniz Bölgesi",
+                    "İç Anadolu Bölgesi",
+                    "Marmara Bölgesi",
+                    "Akdeniz Bölgesi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye’de nüfus artış hızının en yüksek olduğu dönem hangisidir?",
+                "options": [
+                    "1955-1960",
+                    "1940-1945",
+                    "1990-2000",
+                    "1927-1935"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye’de en fazla göç alan il hangisidir?",
+                "options": [
+                    "İstanbul",
+                    "Ankara",
+                    "İzmir",
+                    "Adana"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye’de gecekondulaşmanın en yoğun olduğu şehir hangisidir?",
+                "options": [
+                    "İstanbul",
+                    "Ankara",
+                    "İzmir",
+                    "Bursa"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye’de tarım sektöründe çalışan nüfus oranı 1927’de yaklaşık kaçtır?",
+                "options": [
+                    "%90",
+                    "%70",
+                    "%50",
+                    "%30"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye’de nüfusun en seyrek olduğu bölge hangisidir?",
+                "options": [
+                    "Doğu Anadolu Bölgesi",
+                    "Marmara Bölgesi",
+                    "Ege Bölgesi",
+                    "Akdeniz Bölgesi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye’de en fazla nüfus artış hızına sahip il 1990-2000 döneminde hangisidir?",
+                "options": [
+                    "Antalya",
+                    "Şanlıurfa",
+                    "İstanbul",
+                    "İzmir"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Pasarofça Antlaşması sonrası Osmanlıların izlediği temel siyaset aşağıdakilerden hangisidir?",
+                "options": [
+                    "Avrupa karşısında savunma ve sınır kalelerini tahkim etme",
+                    "Yeni fetihler için doğuya yönelme",
+                    "Deniz ticaretini tamamen terk etme",
+                    "Yeniçeri Ocağı'nı güçlendirme"
+                ],
+                "correct_answer": 0,
+                "category": "PasarofcaSonrasi",
+                "difficulty": 6
+            },
+            {
+                "question": "Lâle Devri hangi yıllarda yaşanmıştır?",
+                "options": [
+                    "1718-1730",
+                    "1730-1754",
+                    "1757-1773",
+                    "1789-1807"
+                ],
+                "correct_answer": 0,
+                "category": "LaleDevri",
+                "difficulty": 5
+            },
+            {
+                "question": "Lâle Devri'nde matbaa açılması gibi yeniliklerin öncüsü kimdir?",
+                "options": [
+                    "Damat İbrahim Paşa",
+                    "III. Ahmed",
+                    "Patrona Halil",
+                    "I. Mahmud"
+                ],
+                "correct_answer": 0,
+                "category": "LaleDevriYenilikler",
+                "difficulty": 6
+            },
+            {
+                "question": "Patrona Halil Ayaklanması hangi olayla başlamıştır?",
+                "options": [
+                    "İran savaşında Tebriz'in İran'a terk edildiği haberi",
+                    "Matbaanın kapatılması",
+                    "Yeniçeri maaşlarının kesilmesi",
+                    "Lâle Devri eğlencelerinin yasaklanması"
+                ],
+                "correct_answer": 0,
+                "category": "PatronaHalil",
+                "difficulty": 7
+            },
+            {
+                "question": "Patrona Halil Ayaklanması sonucunda kimler katledilmiştir?",
+                "options": [
+                    "Damat İbrahim Paşa, III. Ahmed ve yakınları",
+                    "I. Mahmud ve sadrazamı",
+                    "Yeniçeri ağası",
+                    "Halife Abdulmecid"
+                ],
+                "correct_answer": 0,
+                "category": "PatronaHalilSonuc",
+                "difficulty": 6
+            },
+            {
+                "question": "I. Mahmud döneminde Rusya ve Avusturya'ya karşı kazanılan zafer sonunda imzalanan antlaşma hangisidir?",
+                "options": [
+                    "Belgrat Antlaşması (1739)",
+                    "Küçük Kaynarca Antlaşması",
+                    "Pasarofça Antlaşması",
+                    "Kasr-ı Şirin Antlaşması"
+                ],
+                "correct_answer": 0,
+                "category": "BelgratAntlasmasi",
+                "difficulty": 6
+            },
+            {
+                "question": "Belgrat Antlaşması'na göre Rusya ve Avusturya neyi kabul etmiştir?",
+                "options": [
+                    "Pasarofça ile aldıkları topraklardan vazgeçmeyi",
+                    "Kırım'ı Osmanlı'ya bırakmayı",
+                    "Eflak ve Boğdan'ı işgal etmeyi",
+                    "Yeni kapitülasyonlar vermeyi"
+                ],
+                "correct_answer": 0,
+                "category": "BelgratAntlasmasiIcerik",
+                "difficulty": 7
+            },
+            {
+                "question": "1740 yılında Fransa ile imzalanan kapitülasyon antlaşmasının özelliği nedir?",
+                "options": [
+                    "Süre tahdidi koymayan ve Kanuni dönemindekileri genişleten antlaşma",
+                    "Sadece ticaret hakkı veren antlaşma",
+                    "Askeri ittifak antlaşması",
+                    "Toprak bırakma antlaşması"
+                ],
+                "correct_answer": 0,
+                "category": "1740FransaKapitulasyonu",
+                "difficulty": 7
+            },
+            {
+                "question": "I. Mahmud döneminde Humbaracı Ocağı'nı kuran kişi kimdir?",
+                "options": [
+                    "Ahmet Paşa (Humbaracı Ahmet Paşa)",
+                    "Damat İbrahim Paşa",
+                    "Köprülü Fazıl Mustafa Paşa",
+                    "Alemdar Mustafa Paşa"
+                ],
+                "correct_answer": 0,
+                "category": "HumbaraciOcagi",
+                "difficulty": 7
+            },
+            {
+                "question": "III. Selim döneminde kurulan yeni orduya ne ad verilmiştir?",
+                "options": [
+                    "Nizam-ı Cedid",
+                    "Sekban-ı Cedid",
+                    "Asakir-i Mansure-i Muhammediye",
+                    "Humbaracı Ocağı"
+                ],
+                "correct_answer": 0,
+                "category": "NizamiCedid",
+                "difficulty": 6
+            },
+            {
+                "question": "Kabakçı Mustafa İsyanı hangi padişah döneminde gerçekleşmiştir?",
+                "options": [
+                    "III. Selim",
+                    "IV. Mustafa",
+                    "II. Mahmud",
+                    "I. Mahmud"
+                ],
+                "correct_answer": 0,
+                "category": "KabakciMustafa",
+                "difficulty": 6
+            },
+            {
+                "question": "Kabakçı Mustafa İsyanı sonucunda ne olmuştur?",
+                "options": [
+                    "III. Selim tahttan indirilmiş, Nizam-ı Cedid lağvedilmiştir",
+                    "Yeniçeri Ocağı kaldırılmıştır",
+                    "Cumhuriyet ilan edilmiştir",
+                    "Halifelik kaldırılmıştır"
+                ],
+                "correct_answer": 0,
+                "category": "KabakciSonuc",
+                "difficulty": 7
+            },
+            {
+                "question": "Vak'a-yı Hayriye hangi olaydır?",
+                "options": [
+                    "Yeniçeri Ocağı'nın kaldırılması (1826)",
+                    "Kabakçı Mustafa İsyanı",
+                    "III. Selim'in tahttan indirilmesi",
+                    "Alemdar Mustafa Paşa'nın ölümü"
+                ],
+                "correct_answer": 0,
+                "category": "VakayiHayriye",
+                "difficulty": 6
+            },
+            {
+                "question": "II. Mahmud döneminde yeni orduya ne ad verilmiştir?",
+                "options": [
+                    "Asakir-i Mansure-i Muhammediye",
+                    "Nizam-ı Cedid",
+                    "Sekban-ı Cedid",
+                    "Humbaracı Ocağı"
+                ],
+                "correct_answer": 0,
+                "category": "II.MahmudOrdusu",
+                "difficulty": 6
+            },
+            {
+                "question": "Sırp İsyanı sonunda hangi antlaşma ile Sırbistan özerk prenslik olarak kabul edilmiştir?",
+                "options": [
+                    "1830 Hatt-ı Şerif",
+                    "Edirne Antlaşması",
+                    "Küçük Kaynarca Antlaşması",
+                    "Belgrat Antlaşması"
+                ],
+                "correct_answer": 0,
+                "category": "SirpIsyani",
+                "difficulty": 7
+            },
+            {
+                "question": "Yunan İsyanı sonunda Yunanistan'ın bağımsızlığı hangi antlaşma ile tanınmıştır?",
+                "options": [
+                    "Londra Protokolü ve Edirne Antlaşması (1829-1830)",
+                    "Küçük Kaynarca Antlaşması",
+                    "Belgrat Antlaşması",
+                    "Pasarofça Antlaşması"
+                ],
+                "correct_answer": 0,
+                "category": "YunanBagimsizligi",
+                "difficulty": 7
+            },
+            {
+                "question": "Mehmet Ali Paşa İsyanı sonunda imzalanan antlaşma hangisidir?",
+                "options": [
+                    "Kütahya Antlaşması (1833)",
+                    "Londra Protokolü",
+                    "Edirne Antlaşması",
+                    "Kasr-ı Şirin Antlaşması"
+                ],
+                "correct_answer": 0,
+                "category": "KutahyaAntlasmasi",
+                "difficulty": 7
+            },
+            {
+                "question": "TBMM'nin açıldığı tarih hangisidir?",
+                "options": [
+                    "23 Nisan 1920",
+                    "29 Ekim 1923",
+                    "1 Kasım 1922",
+                    "3 Mart 1924"
+                ],
+                "correct_answer": 0,
+                "category": "TBMMAcilisi",
+                "difficulty": 5
+            },
+            {
+                "question": "TBMM'nin açılmasından sonra çıkarılan ilk kanunlardan biri hangisidir?",
+                "options": [
+                    "Hıyanet-i Vataniye Kanunu (29 Nisan 1920)",
+                    "Saltanatın Kaldırılması Kanunu",
+                    "Cumhuriyetin İlanı Kanunu",
+                    "Halifeliğin Kaldırılması Kanunu"
+                ],
+                "correct_answer": 0,
+                "category": "IlkKanunlar",
+                "difficulty": 6
+            },
+            {
+                "question": "Saltanatın kaldırıldığı tarih hangisidir?",
+                "options": [
+                    "1 Kasım 1922",
+                    "29 Ekim 1923",
+                    "3 Mart 1924",
+                    "20 Ocak 1921"
+                ],
+                "correct_answer": 0,
+                "category": "SaltanatinKaldirilmasi",
+                "difficulty": 5
+            },
+            {
+                "question": "Cumhuriyetin ilan edildiği tarih hangisidir?",
+                "options": [
+                    "29 Ekim 1923",
+                    "1 Kasım 1922",
+                    "3 Mart 1924",
+                    "23 Nisan 1920"
+                ],
+                "correct_answer": 0,
+                "category": "CumhuriyetIlani",
+                "difficulty": 5
+            },
+            {
+                "question": "Halifeliğin kaldırıldığı tarih hangisidir?",
+                "options": [
+                    "3 Mart 1924",
+                    "29 Ekim 1923",
+                    "1 Kasım 1922",
+                    "20 Ocak 1921"
+                ],
+                "correct_answer": 0,
+                "category": "HalifeliginKaldirilmasi",
+                "difficulty": 5
+            },
+            {
+                "question": "1921 Teşkilat-ı Esasiye Kanunu'nun en önemli özelliği nedir?",
+                "options": [
+                    "Kuvvetler birliği ve Meclis Hükûmeti sistemi",
+                    "Cumhuriyetin ilanı",
+                    "Halifeliğin kaldırılması",
+                    "Saltanatın kaldırılması"
+                ],
+                "correct_answer": 0,
+                "category": "1921Anayasasi",
+                "difficulty": 7
+            },
+            {
+                "question": "1924 Teşkilat-ı Esasiye Kanunu'nda devletin şekli nasıl tanımlanmıştır?",
+                "options": [
+                    "Türkiye Devleti bir Cumhuriyettir",
+                    "Türkiye Devleti bir saltanattır",
+                    "Türkiye Devleti bir hilafettir",
+                    "Türkiye Devleti bir meclis hükûmetidir"
+                ],
+                "correct_answer": 0,
+                "category": "1924Anayasasi",
+                "difficulty": 6
+            },
+            {
+                "question": "1924 Anayasası'nda devletin dini hangi maddeyle belirtilmiştir?",
+                "options": [
+                    "Madde 2: Türkiye Devleti'nin dini İslam'dır",
+                    "Madde 1: Cumhuriyet",
+                    "Madde 3: Başkent Ankara",
+                    "Madde 4: TBMM"
+                ],
+                "correct_answer": 0,
+                "category": "1924AnayasasiDin",
+                "difficulty": 7
+            },
+            {
+                "question": "Gümrü Antlaşması hangi cephede imzalanmıştır?",
+                "options": [
+                    "Doğu Cephesi (Ermenilerle)",
+                    "Batı Cephesi",
+                    "Güney Cephesi",
+                    "İç Cephe"
+                ],
+                "correct_answer": 0,
+                "category": "GumruAntlasmasi",
+                "difficulty": 6
+            },
+            {
+                "question": "Ankara İtilafnamesi hangi devletle imzalanmıştır?",
+                "options": [
+                    "Fransa",
+                    "İngiltere",
+                    "İtalya",
+                    "Yunanistan"
+                ],
+                "correct_answer": 0,
+                "category": "AnkaraItilafnamesi",
+                "difficulty": 6
+            },
+            {
+                "question": "Sakarya Meydan Muharebesi hangi tarihte yapılmıştır?",
+                "options": [
+                    "23 Ağustos-13 Eylül 1921",
+                    "26 Ağustos 1922",
+                    "30 Ağustos 1922",
+                    "9 Eylül 1922"
+                ],
+                "correct_answer": 0,
+                "category": "SakaryaMuharebesi",
+                "difficulty": 6
+            },
+            {
+                "question": "Büyük Taarruz'un başlangıç tarihi hangisidir?",
+                "options": [
+                    "26 Ağustos 1922",
+                    "23 Ağustos 1921",
+                    "30 Ağustos 1922",
+                    "9 Eylül 1922"
+                ],
+                "correct_answer": 0,
+                "category": "BuyukTaarruz",
+                "difficulty": 5
+            },
+            {
+                "question": "Mudanya Mütarekesi hangi tarihte imzalanmıştır?",
+                "options": [
+                    "11 Ekim 1922",
+                    "24 Temmuz 1923",
+                    "29 Ekim 1923",
+                    "1 Kasım 1922"
+                ],
+                "correct_answer": 0,
+                "category": "MudanyaMutarekesi",
+                "difficulty": 6
+            },
+            {
+                "question": "Lozan Antlaşması hangi tarihte imzalanmıştır?",
+                "options": [
+                    "24 Temmuz 1923",
+                    "11 Ekim 1922",
+                    "29 Ekim 1923",
+                    "3 Mart 1924"
+                ],
+                "correct_answer": 0,
+                "category": "LozanAntlasmasi",
+                "difficulty": 5
+            },
+            {
+                "question": "TBMM'nin açılışından sonra kurulan ilk hükümetin adı nedir?",
+                "options": [
+                    "İcra Vekilleri Heyeti",
+                    "Bakanlar Kurulu",
+                    "Hükümet-i Merkeziye",
+                    "Saltanat Hükûmeti"
+                ],
+                "correct_answer": 0,
+                "category": "IlkHukumet",
+                "difficulty": 7
+            },
+            {
+                "question": "Hıyanet-i Vataniye Kanunu hangi tarihte çıkarılmıştır?",
+                "options": [
+                    "29 Nisan 1920",
+                    "1 Kasım 1922",
+                    "29 Ekim 1923",
+                    "3 Mart 1924"
+                ],
+                "correct_answer": 0,
+                "category": "HiyanetKanunu",
+                "difficulty": 6
+            },
+            {
+                "question": "Saltanatın kaldırılmasıyla Osmanlı hanedanı ne yapılmıştır?",
+                "options": [
+                    "Türkiye dışına çıkarılmıştır",
+                    "TBMM'ye davet edilmiştir",
+                    "Halife olarak bırakılmıştır",
+                    "Yeni bir saltanat kurulmuştur"
+                ],
+                "correct_answer": 0,
+                "category": "SaltanatSonrasi",
+                "difficulty": 6
+            },
+            {
+                "question": "Cumhuriyetin ilanıyla birlikte hangi değişiklik yapılmıştır?",
+                "options": [
+                    "Devletin şekli Cumhuriyet olarak değiştirilmiştir",
+                    "Halifelik kaldırılmıştır",
+                    "Saltanat yeniden kurulmuştur",
+                    "Başkent İstanbul olmuştur"
+                ],
+                "correct_answer": 0,
+                "category": "CumhuriyetDegisiklik",
+                "difficulty": 6
+            },
+            {
+                "question": "Halifeliğin kaldırılmasıyla hangi vekaletler kaldırılmıştır?",
+                "options": [
+                    "Şer'iye ve Evkaf Vekaleti ile Erkan-ı Harbiye Vekaleti",
+                    "Dahiliye ve Hariciye Vekaletleri",
+                    "Milli Eğitim Vekaleti",
+                    "Maliye Vekaleti"
+                ],
+                "correct_answer": 0,
+                "category": "HalifelikKaldirilmasi",
+                "difficulty": 7
+            },
+            {
+                "question": "1924 Anayasası'nda TBMM'nin üstünlüğü hangi ilkeye dayanır?",
+                "options": [
+                    "Milli hâkimiyet",
+                    "Kuvvetler ayrılığı",
+                    "Federal sistem",
+                    "Monarşi"
+                ],
+                "correct_answer": 0,
+                "category": "1924AnayasasiIlke",
+                "difficulty": 7
+            },
+            {
+                "question": "Kadınlara seçme ve seçilme hakkı hangi değişiklikle verilmiştir?",
+                "options": [
+                    "1934 değişikliği",
+                    "1928 değişikliği",
+                    "1931 değişikliği",
+                    "1937 değişikliği"
+                ],
+                "correct_answer": 0,
+                "category": "KadinHaklari",
+                "difficulty": 6
+            },
+            {
+                "question": "Afganistan halkı Hz. Ali'nin mezarının Mezar-ı Şerif'te olduğunu iddia ederken hangi rivayete dayanır?",
+                "options": [
+                    "Hz. Hüseyin'in rüyasında Peygamber'in gelip cenazeyi götürmesi",
+                    "Ebu Müslim Horasani'nin cesedi taşıması",
+                    "Hz. Ali'nin vasiyeti",
+                    "Şah Tahmasp'ın emri"
+                ],
+                "correct_answer": 0,
+                "category": "MezarRivayetleri",
+                "difficulty": 6
+            },
+            {
+                "question": "Cende Bâlâ (tuğ kaldırma) töreni hangi gün yapılır ve neyi temsil eder?",
+                "options": [
+                    "Nevruz günü (21 Mart) ve Hz. Ali'nin halifeliğini",
+                    "Muharrem ayı ve Kerbela'yı",
+                    "Hicri yılbaşı ve barışı",
+                    "Ramazan ve orucu"
+                ],
+                "correct_answer": 0,
+                "category": "NevruzCendeBala",
+                "difficulty": 6
+            },
+            {
+                "question": "Ravza-i Şerif'teki beyaz güvercinlere neden 'barış güvercini' denir?",
+                "options": [
+                    "Barışı temsil ettikleri için",
+                    "Hz. Ali'nin güvercinleri olduğu için",
+                    "Mezarın kutsallığından beyazlaştıkları için",
+                    "Hac ibadetiyle ilgili oldukları için"
+                ],
+                "correct_answer": 0,
+                "category": "BeyazGuvercinler",
+                "difficulty": 6
+            },
+            {
+                "question": "Ravza-i Şerif'teki kilitlerin açılması neye inanılır?",
+                "options": [
+                    "Açan kişinin muradının gerçekleşeceğine",
+                    "Hz. Ali'nin dirildiğine",
+                    "Cennete gideceğine",
+                    "Zengin olacağına"
+                ],
+                "correct_answer": 0,
+                "category": "Kilitler",
+                "difficulty": 6
+            },
+            {
+                "question": "Çeşme-i Şifa'nın eskiden şifalı olduğu, ancak Hz. Ali'nin duası ile şifa vermediği rivayet edilirken ne sebep gösterilir?",
+                "options": [
+                    "Kafirlere şifa vermesi ve Hz. Ali'nin sinirlenmesi",
+                    "Su sıcak olduğu için",
+                    "Hastalıkların artması",
+                    "Kuyunun kuruması"
+                ],
+                "correct_answer": 0,
+                "category": "CesmeISifa",
+                "difficulty": 8
+            },
+            {
+                "question": "Şadyan Dağı'nın yeşillenmemesinin sebebi olarak ne rivayet edilir?",
+                "options": [
+                    "Hz. Ali'nin Düldül'ü orada otlattığı ve duası ile yeşillenmemesi",
+                    "Kayalık olması",
+                    "Savaş alanı olması",
+                    "Kuraklık"
+                ],
+                "correct_answer": 0,
+                "category": "SadyanDagi",
+                "difficulty": 7
+            },
+            {
+                "question": "Ateşkede-i Zerdüşt tapınağının özelliği nedir?",
+                "options": [
+                    "Bin yıl ateşin yanması ve Hz. Ali'nin söndürmesi",
+                    "Hz. Ali'nin ibadet ettiği yer olması",
+                    "Putların bulunduğu yer",
+                    "Kralın sarayı"
+                ],
+                "correct_answer": 0,
+                "category": "ZerdustTapinagi",
+                "difficulty": 7
+            },
+            {
+                "question": "Kedinin yukarıdan atıldığında dört ayak üzerine düşmesinin sebebi olarak ne rivayet edilir?",
+                "options": [
+                    "Hz. Ali'nin kediyi sevmesi ve Allah'ın sırtının yere gelmesini istememesi",
+                    "Kedinin refleksi",
+                    "Doğal bir özellik",
+                    "Bilimsel bir gerçek"
+                ],
+                "correct_answer": 0,
+                "category": "KediKerameti",
+                "difficulty": 8
+            },
+            {
+                "question": "Barbar kalesi olayında Hz. Ali'ye verilen ilk görev nedir?",
+                "options": [
+                    "Ejderhayı öldürmek",
+                    "Baraj yapmak",
+                    "Köle olarak satılmak",
+                    "Şehirde İslam'ı yaymak"
+                ],
+                "correct_answer": 0,
+                "category": "BarbarKalesi",
+                "difficulty": 8
+            },
+            {
+                "question": "Hz. Ali'nin Barbar'a karşı İslam'ı kabul ettirdiği kişilerden hangisi İsmaili (Gulat-ı Şia) fırkasının kaynağı olarak gösterilir?",
+                "options": [
+                    "Allah'ın oğlu diyen kişi",
+                    "Peygamber diyen kişi",
+                    "Ali diyen kişi",
+                    "Hiçbiri"
+                ],
+                "correct_answer": 0,
+                "category": "BarbarKalesi",
+                "difficulty": 9
+            },
+            {
+                "question": "Osmanlı Devleti'nin kuruluşunda Kayı boyunun lideri kimdir?",
+                "options": [
+                    "Osman Bey",
+                    "Ertuğrul Gazi",
+                    "Süleyman Şah",
+                    "Alaaddin Bey"
+                ],
+                "correct_answer": 0,
+                "category": "OsmanliKurulus",
+                "difficulty": 5
+            },
+            {
+                "question": "Osman Bey'in beyliğini ilan ettiği yıl yaklaşık olarak hangisidir?",
+                "options": [
+                    "1299",
+                    "1308",
+                    "1326",
+                    "1362"
+                ],
+                "correct_answer": 0,
+                "category": "OsmanliKurulus",
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı Devleti'nin ilk başkenti neresidir?",
+                "options": [
+                    "Söğüt",
+                    "Bilecik",
+                    "Bursa",
+                    "Edirne"
+                ],
+                "correct_answer": 1,
+                "category": "IlkBaskent",
+                "difficulty": 6
+            },
+            {
+                "question": "Orhan Bey döneminde Bursa'nın fethi hangi yılda gerçekleşmiştir?",
+                "options": [
+                    "1326",
+                    "1299",
+                    "1362",
+                    "1453"
+                ],
+                "correct_answer": 0,
+                "category": "BursaFethi",
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlıların Rumeli'ye ilk geçişi hangi kale ile olmuştur?",
+                "options": [
+                    "Çimpe Kalesi",
+                    "Gelibolu",
+                    "İstanbul",
+                    "Belgrat"
+                ],
+                "correct_answer": 0,
+                "category": "RumeliGecisi",
+                "difficulty": 7
+            },
+            {
+                "question": "I. Murat döneminde gerçekleşen ve Osmanlıların Balkanlardaki konumunu güçlendiren savaş hangisidir?",
+                "options": [
+                    "Sırp Sındığı",
+                    "Kosova",
+                    "Niğbolu",
+                    "Çaldıran"
+                ],
+                "correct_answer": 0,
+                "category": "BalkanFetihleri",
+                "difficulty": 7
+            },
+            {
+                "question": "Yıldırım Bayezid'in Timur ile karşılaştığı savaş hangisidir?",
+                "options": [
+                    "Ankara Savaşı",
+                    "Çaldıran",
+                    "Otlukbeli",
+                    "Mercidabık"
+                ],
+                "correct_answer": 0,
+                "category": "AnkaraSavasi",
+                "difficulty": 6
+            },
+            {
+                "question": "Fetret Devri kaç yıl sürmüştür?",
+                "options": [
+                    "12 yıl",
+                    "8 yıl",
+                    "6 yıl",
+                    "15 yıl"
+                ],
+                "correct_answer": 0,
+                "category": "FetretDevri",
+                "difficulty": 6
+            },
+            {
+                "question": "Çelebi Mehmet'in tek başına tahta oturduğu yıl hangisidir?",
+                "options": [
+                    "1413",
+                    "1402",
+                    "1421",
+                    "1451"
+                ],
+                "correct_answer": 0,
+                "category": "CelebiMehmet",
+                "difficulty": 6
+            },
+            {
+                "question": "II. Murat döneminde gerçekleşen ve Osmanlıların Balkanlardaki durumunu güçlendiren savaş hangisidir?",
+                "options": [
+                    "Varna Savaşı",
+                    "Kosova",
+                    "Niğbolu",
+                    "Ankara"
+                ],
+                "correct_answer": 0,
+                "category": "VarnaSavasi",
+                "difficulty": 7
+            },
+            {
+                "question": "Fatih Sultan Mehmet İstanbul'u hangi yılda fethetmiştir?",
+                "options": [
+                    "1453",
+                    "1402",
+                    "1362",
+                    "1299"
+                ],
+                "correct_answer": 0,
+                "category": "IstanbulFethi",
+                "difficulty": 5
+            },
+            {
+                "question": "Fatih Sultan Mehmet'in İstanbul'u fethederken yaptırdığı hisar hangisidir?",
+                "options": [
+                    "Rumeli Hisarı",
+                    "Anadolu Hisarı",
+                    "Yedikule",
+                    "Yoros Kalesi"
+                ],
+                "correct_answer": 0,
+                "category": "FatihDonemi",
+                "difficulty": 6
+            },
+            {
+                "question": "Fatih Sultan Mehmet'in İtalya'da ele geçirdiği şehir hangisidir?",
+                "options": [
+                    "Otranto",
+                    "Venedik",
+                    "Roma",
+                    "Napoli"
+                ],
+                "correct_answer": 0,
+                "category": "FatihDonemi",
+                "difficulty": 7
+            },
+            {
+                "question": "Kanuni Sultan Süleyman döneminde Osmanlı'nın en önemli rakibi kimdir?",
+                "options": [
+                    "Şarlken (Kutsal Roma-Cermen İmparatoru)",
+                    "Şah Tahmasp",
+                    "Venedik Doçu",
+                    "Macar Kralı"
+                ],
+                "correct_answer": 0,
+                "category": "KanuniDonemi",
+                "difficulty": 6
+            },
+            {
+                "question": "Kanuni döneminde Mohaç Savaşı hangi yılda yapılmıştır?",
+                "options": [
+                    "1526",
+                    "1453",
+                    "1402",
+                    "1683"
+                ],
+                "correct_answer": 0,
+                "category": "MohacSavasi",
+                "difficulty": 6
+            },
+            {
+                "question": "Kanuni Sultan Süleyman'ın Fransa ile imzaladığı kapitülasyon anlaşması hangi yılda yapılmıştır?",
+                "options": [
+                    "1535",
+                    "1526",
+                    "1453",
+                    "1683"
+                ],
+                "correct_answer": 0,
+                "category": "Kapitulasyon",
+                "difficulty": 7
+            },
+            {
+                "question": "Kanuni döneminde Preveze Deniz Zaferi hangi yılda gerçekleşmiştir?",
+                "options": [
+                    "1538",
+                    "1526",
+                    "1453",
+                    "1683"
+                ],
+                "correct_answer": 0,
+                "category": "PrevezeZaferi",
+                "difficulty": 6
+            },
+            {
+                "question": "Kanuni Sultan Süleyman'ın Bağdat'ı fethettiği sefer hangisidir?",
+                "options": [
+                    "Irakeyn Seferi",
+                    "Mohaç Seferi",
+                    "Viyana Seferi",
+                    "Preveze Seferi"
+                ],
+                "correct_answer": 0,
+                "category": "IrakeynSeferi",
+                "difficulty": 7
+            },
+            {
+                "question": "Yavuz Sultan Selim'in Çaldıran Zaferi hangi yılda gerçekleşmiştir?",
+                "options": [
+                    "1514",
+                    "1453",
+                    "1526",
+                    "1683"
+                ],
+                "correct_answer": 0,
+                "category": "CaldiranSavasi",
+                "difficulty": 6
+            },
+            {
+                "question": "Yavuz Sultan Selim'in Mercidabık Zaferi hangi devlete karşı kazanılmıştır?",
+                "options": [
+                    "Memlükler",
+                    "Safeviler",
+                    "Avusturya",
+                    "Venedik"
+                ],
+                "correct_answer": 0,
+                "category": "Mercidabik",
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlıların Mısır'ı fethettiği Ridaniye Savaşı hangi yılda yapılmıştır?",
+                "options": [
+                    "1517",
+                    "1453",
+                    "1526",
+                    "1683"
+                ],
+                "correct_answer": 0,
+                "category": "RidaniyeSavasi",
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı Devleti'nin Karlofça Antlaşması ile kaybettiği topraklardan biri hangisidir?",
+                "options": [
+                    "Macaristan'ın büyük kısmı",
+                    "Belgrad",
+                    "Budin",
+                    "Semendire"
+                ],
+                "correct_answer": 0,
+                "category": "KarlofcaAntlasmasi",
+                "difficulty": 7
+            },
+            {
+                "question": "Pasarofça Antlaşması hangi yılda imzalanmıştır?",
+                "options": [
+                    "1718",
+                    "1699",
+                    "1606",
+                    "1535"
+                ],
+                "correct_answer": 0,
+                "category": "Pasarofca",
+                "difficulty": 7
+            },
+            {
+                "question": "Kanuni Sultan Süleyman'ın Zigetvar Kuşatması sırasında vefat ettiği yıl hangisidir?",
+                "options": [
+                    "1566",
+                    "1453",
+                    "1526",
+                    "1683"
+                ],
+                "correct_answer": 0,
+                "category": "Zigetvar",
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı Devleti'nde 'Fetret Devri' hangi olaydan sonra başlamıştır?",
+                "options": [
+                    "Ankara Savaşı",
+                    "İstanbul'un Fethi",
+                    "Mohaç Savaşı",
+                    "Viyana Kuşatması"
+                ],
+                "correct_answer": 0,
+                "category": "FetretDevri",
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı Devleti'nin ilk başkenti Bursa olan padişah kimdir?",
+                "options": [
+                    "Orhan Bey",
+                    "Osman Bey",
+                    "I. Murat",
+                    "Yıldırım Bayezid"
+                ],
+                "correct_answer": 0,
+                "category": "BursaBaskent",
+                "difficulty": 5
+            },
+            {
+                "question": "Niğbolu Zaferi hangi padişah döneminde kazanılmıştır?",
+                "options": [
+                    "Yıldırım Bayezid",
+                    "I. Murat",
+                    "Orhan Bey",
+                    "Çelebi Mehmet"
+                ],
+                "correct_answer": 0,
+                "category": "NigboluZaferi",
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı Devleti'nde 'Celali İsyanları' hangi dönemde yoğunlaşmıştır?",
+                "options": [
+                    "XVII. yüzyıl başları",
+                    "XV. yüzyıl",
+                    "XVI. yüzyıl",
+                    "XVIII. yüzyıl"
+                ],
+                "correct_answer": 0,
+                "category": "CelaliIsyanlari",
+                "difficulty": 7
+            },
+            {
+                "question": "IV. Murat döneminde Osmanlı'nın Bağdat'ı geri aldığı savaş hangisidir?",
+                "options": [
+                    "Bağdat'ın Fethi (1638)",
+                    "Mohaç",
+                    "Varna",
+                    "Kosova"
+                ],
+                "correct_answer": 0,
+                "category": "BagdatFethi",
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı Devleti'nde 'Köprülüler Devri' hangi padişah döneminde başlamıştır?",
+                "options": [
+                    "IV. Mehmet",
+                    "II. Selim",
+                    "III. Murat",
+                    "Kanuni"
+                ],
+                "correct_answer": 0,
+                "category": "Koprululer",
+                "difficulty": 6
+            },
+            {
+                "question": "Viyana Kuşatması'nın başarısız olduğu yıl hangisidir?",
+                "options": [
+                    "1683",
+                    "1529",
+                    "1453",
+                    "1566"
+                ],
+                "correct_answer": 0,
+                "category": "ViyanaKusatmasi",
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı Devleti'nin en ağır toprak kaybıyla sonuçlanan antlaşma hangisidir?",
+                "options": [
+                    "Karlofça Antlaşması",
+                    "Pasarofça Antlaşması",
+                    "Zitvatorok Antlaşması",
+                    "Amasya Antlaşması"
+                ],
+                "correct_answer": 0,
+                "category": "Karlofca",
+                "difficulty": 7
+            },
+            {
+                "question": "Makaleye göre Aleviler arasında epistemolojik kabuller bakımından temel ayrım nedir?",
+                "options": [
+                    "İlham ve keşfi bilgi kaynağı kabul edenler ile etmeyenler",
+                    "Sünni-Alevi ayrımı",
+                    "Şii-İsmaili ayrımı",
+                    "Bektaşi-Alevi ayrımı"
+                ],
+                "correct_answer": 0,
+                "category": "Epistemoloji",
+                "difficulty": 7
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.) annesi Hz. Âmine ile Medine'ye gittiğinde kaç yaşındaydı?",
+                "options": [
+                    "Dört yaşında",
+                    "Altı yaşında",
+                    "Sekiz yaşında",
+                    "On iki yaşında"
+                ],
+                "correct_answer": 1,
+                "category": "CocuklukDonemi",
+                "difficulty": 5
+            },
+            {
+                "question": "Hz. Âmine'nin vefat ettiği yer aşağıdakilerden hangisidir?",
+                "options": [
+                    "Mekke",
+                    "Medine",
+                    "Ebvâ Köyü",
+                    "Şam"
+                ],
+                "correct_answer": 2,
+                "category": "CocuklukDonemi",
+                "difficulty": 6
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.) sekiz yaşındayken vefat eden kişi kimdir?",
+                "options": [
+                    "Amcası Ebû Tâlib",
+                    "Dedesi Abdülmuttalib",
+                    "Eşi Hz. Hatice",
+                    "Annesi Hz. Âmine"
+                ],
+                "correct_answer": 1,
+                "category": "CocuklukDonemi",
+                "difficulty": 5
+            },
+            {
+                "question": "Mehmed Âkif Ersoy'un şiirinde 'Ondört asır evvel, yine böyle bir geceydi' dizesi hangi olaya işaret eder?",
+                "options": [
+                    "Hicret",
+                    "Hz. Muhammed'in doğumu",
+                    "Kerbela Olayı",
+                    "Veda Haccı"
+                ],
+                "correct_answer": 1,
+                "category": "SiirYorum",
+                "difficulty": 7
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.) gençliğinde Şam'a yaptığı ilk seyahatte kiminle karşılaşmıştır?",
+                "options": [
+                    "Varaka bin Nevfel",
+                    "Bahîra (Rahip)",
+                    "Nestûra",
+                    "Amr bin Âs"
+                ],
+                "correct_answer": 1,
+                "category": "GencDonem",
+                "difficulty": 6
+            },
+            {
+                "question": "Bahîra'nın Ebû Tâlib'e Şam'a gitmemesi için tavsiyesinin nedeni nedir?",
+                "options": [
+                    "Yol tehlikeliydi",
+                    "Yahudilerin Hz. Muhammed'i tanıyıp zarar verebileceği korkusu",
+                    "Ticaret kötüydü",
+                    "Kervan hasta idi"
+                ],
+                "correct_answer": 1,
+                "category": "GencDonem",
+                "difficulty": 7
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.) hangi yaşta Yemen'e ticaret seyahati yapmıştır?",
+                "options": [
+                    "12 yaşında",
+                    "17 yaşında",
+                    "20 yaşında",
+                    "25 yaşında"
+                ],
+                "correct_answer": 1,
+                "category": "GencDonem",
+                "difficulty": 6
+            },
+            {
+                "question": "Ficâr Savaşı'na Hz. Muhammed (s.a.s.) hangi yaşlarında katılmıştır?",
+                "options": [
+                    "12 yaşında",
+                    "17 yaşında",
+                    "20 yaşlarında",
+                    "25 yaşında"
+                ],
+                "correct_answer": 2,
+                "category": "GencDonem",
+                "difficulty": 6
+            },
+            {
+                "question": "Hılfu'l-Fudûl cemiyetinin amacı nedir?",
+                "options": [
+                    "Ticaret anlaşması",
+                    "Mekke'de zulmü önleme ve zayıfların hakkını koruma",
+                    "Savaş ittifakı",
+                    "Putlara tapma yemini"
+                ],
+                "correct_answer": 1,
+                "category": "HılfuFudul",
+                "difficulty": 7
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.) Hılfu'l-Fudûl cemiyetine hangi yaşında katılmıştır?",
+                "options": [
+                    "17 yaşında",
+                    "20 yaşında",
+                    "25 yaşında",
+                    "35 yaşında"
+                ],
+                "correct_answer": 1,
+                "category": "HılfuFudul",
+                "difficulty": 6
+            },
+            {
+                "question": "Hz. Hatice ile Hz. Muhammed (s.a.s.) arasındaki yaş farkı yaklaşık olarak kaçtır?",
+                "options": [
+                    "5 yıl",
+                    "15 yıl",
+                    "20 yıl civarı",
+                    "30 yıl"
+                ],
+                "correct_answer": 2,
+                "category": "EvlilikDonemi",
+                "difficulty": 6
+            },
+            {
+                "question": "Hz. Hatice'nin Hz. Muhammed (s.a.s.)'e verdiği lakap nedir?",
+                "options": [
+                    "Emin",
+                    "Tâhire",
+                    "Haticetü'l-Kübra",
+                    "Sadık"
+                ],
+                "correct_answer": 2,
+                "category": "EvlilikDonemi",
+                "difficulty": 6
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.)'in Hz. Hatice'den olan erkek çocukları hangileridir?",
+                "options": [
+                    "Kaasım ve Abdullah",
+                    "Hasan ve Hüseyin",
+                    "Zeyd ve Üsâme",
+                    "Ali ve Cafer"
+                ],
+                "correct_answer": 0,
+                "category": "Cocuklari",
+                "difficulty": 7
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.)'in nesli hangi kızı üzerinden devam etmiştir?",
+                "options": [
+                    "Zeyneb",
+                    "Rukiyye",
+                    "Fâtıma",
+                    "Ümmü Gülsüm"
+                ],
+                "correct_answer": 2,
+                "category": "Cocuklari",
+                "difficulty": 6
+            },
+            {
+                "question": "Kâbe'nin tamiri sırasında Hacer-i Esved'i yerine koyma sorununu nasıl çözmüştür?",
+                "options": [
+                    "Yaygı üzerine koyup herkesin tutmasını sağlayarak",
+                    "Kur'a çekerek",
+                    "Kılıçla tehdit ederek",
+                    "Putları kaldırarak"
+                ],
+                "correct_answer": 0,
+                "category": "KabeTamiri",
+                "difficulty": 7
+            },
+            {
+                "question": "Kâbe tamiri sırasında Hz. Muhammed (s.a.s.) kaç yaşındaydı?",
+                "options": [
+                    "25 yaşında",
+                    "35 yaşında",
+                    "40 yaşında",
+                    "50 yaşında"
+                ],
+                "correct_answer": 1,
+                "category": "KabeTamiri",
+                "difficulty": 6
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.)'in peygamberliği hangi mağarada başlamıştır?",
+                "options": [
+                    "Sevr Mağarası",
+                    "Hira (Nûr) Mağarası",
+                    "Hirâ Mağarası",
+                    "Uhud Mağarası"
+                ],
+                "correct_answer": 1,
+                "category": "IlkVahiy",
+                "difficulty": 5
+            },
+            {
+                "question": "İlk vahiyde inen sûre hangisidir?",
+                "options": [
+                    "Fatiha",
+                    "el-Alak",
+                    "el-Müddessir",
+                    "en-Necm"
+                ],
+                "correct_answer": 1,
+                "category": "IlkVahiy",
+                "difficulty": 6
+            },
+            {
+                "question": "İlk Müslüman olan kişi kimdir?",
+                "options": [
+                    "Hz. Ebû Bekir",
+                    "Hz. Ali",
+                    "Hz. Hatice",
+                    "Hz. Zeyd"
+                ],
+                "correct_answer": 2,
+                "category": "IlkMuslumanlar",
+                "difficulty": 5
+            },
+            {
+                "question": "Hz. Ali İslam'ı kaç yaşında kabul etmiştir?",
+                "options": [
+                    "8-10 yaşlarında",
+                    "15 yaşında",
+                    "18 yaşında",
+                    "20 yaşında"
+                ],
+                "correct_answer": 0,
+                "category": "IlkMuslumanlar",
+                "difficulty": 6
+            },
+            {
+                "question": "Açık davetin başlamasına yol açan sûre hangisidir?",
+                "options": [
+                    "el-Hicr Sûresi (94. ayet)",
+                    "el-Müddessir Sûresi",
+                    "el-A'raf Sûresi",
+                    "en-Necm Sûresi"
+                ],
+                "correct_answer": 0,
+                "category": "AcikDavet",
+                "difficulty": 7
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.) açık daveti ilk olarak nerede yapmıştır?",
+                "options": [
+                    "Safâ Tepesi'nde",
+                    "Hira Mağarası'nda",
+                    "Kâbe'de",
+                    "Erkam'ın evinde"
+                ],
+                "correct_answer": 0,
+                "category": "AcikDavet",
+                "difficulty": 6
+            },
+            {
+                "question": "Müşriklerin Müslümanlara karşı ilk tepkisi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Boykot",
+                    "Alay ve hakaret",
+                    "İşkence",
+                    "Öldürme"
+                ],
+                "correct_answer": 1,
+                "category": "MusrikTepkileri",
+                "difficulty": 5
+            },
+            {
+                "question": "Bilâl-i Habeşî'ye yapılan işkence aşağıdakilerden hangisidir?",
+                "options": [
+                    "Kızgın kumda yatırma ve taş koyma",
+                    "Deve ile parçalama",
+                    "Ok atma",
+                    "Dövme"
+                ],
+                "correct_answer": 0,
+                "category": "IskenceDonemi",
+                "difficulty": 7
+            },
+            {
+                "question": "Habeşistan'a ilk hicret kaç kişiyle gerçekleşmiştir?",
+                "options": [
+                    "16 kişi",
+                    "90 kişi",
+                    "77 erkek 13 kadın",
+                    "12 erkek 4 kadın"
+                ],
+                "correct_answer": 0,
+                "category": "HabeşHicreti",
+                "difficulty": 6
+            },
+            {
+                "question": "Habeşistan'a ikinci hicrette kafile reisi kimdir?",
+                "options": [
+                    "Hz. Osman",
+                    "Câfer Tayyar",
+                    "Hz. Ebû Bekir",
+                    "Hz. Ali"
+                ],
+                "correct_answer": 1,
+                "category": "HabeşHicreti",
+                "difficulty": 6
+            },
+            {
+                "question": "Habeş Necâşisi Ashame'nin Müslümanlara karşı tutumu nasıldır?",
+                "options": [
+                    "Onları Kureyş'e teslim etti",
+                    "Müslümanları korudu ve elçileri geri çevirdi",
+                    "Savaş ilan etti",
+                    "Vergi aldı"
+                ],
+                "correct_answer": 1,
+                "category": "HabeşHicreti",
+                "difficulty": 7
+            },
+            {
+                "question": "Kerbela Olayı hangi tarihte gerçekleşmiştir?",
+                "options": [
+                    "10 Ekim 680 (10 Muharrem 61)",
+                    "10 Ekim 661",
+                    "680 Hicri",
+                    "632 Miladi"
+                ],
+                "correct_answer": 0,
+                "category": "Kerbela",
+                "difficulty": 6
+            },
+            {
+                "question": "Kerbela'da Hz. Hüseyin'in yanında kaç kişi şehid olmuştur?",
+                "options": [
+                    "72 kişi",
+                    "90 kişi",
+                    "16 kişi",
+                    "77 kişi"
+                ],
+                "correct_answer": 0,
+                "category": "Kerbela",
+                "difficulty": 6
+            },
+            {
+                "question": "Aleviliğin doğuşunda en önemli olaylardan biri aşağıdakilerden hangisidir?",
+                "options": [
+                    "Gadir Hum Olayı ve Hz. Ali'nin velayeti",
+                    "Bedir Savaşı",
+                    "Hudeybiye Anlaşması",
+                    "Mekke Fethi"
+                ],
+                "correct_answer": 0,
+                "category": "AlevilikDogusu",
+                "difficulty": 7
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.) Gadir Hum'da neyi vurgulamıştır?",
+                "options": [
+                    "Hz. Ali'nin halifeliğini",
+                    "Namaz kılmayı",
+                    "Zekât vermeyi",
+                    "Haccı"
+                ],
+                "correct_answer": 0,
+                "category": "AlevilikDogusu",
+                "difficulty": 7
+            },
+            {
+                "question": "Hz. Osman'ın öldürülmesi hangi yılda gerçekleşmiştir?",
+                "options": [
+                    "656",
+                    "661",
+                    "680",
+                    "632"
+                ],
+                "correct_answer": 0,
+                "category": "HalifelikDonemi",
+                "difficulty": 6
+            },
+            {
+                "question": "Cemel Savaşı hangi taraflar arasında olmuştur?",
+                "options": [
+                    "Hz. Ali ile Hz. Ayşe-Talha-Zübeyr",
+                    "Hz. Ali ile Muaviye",
+                    "Hz. Ali ile Hariciler",
+                    "Hz. Ali ile Yezid"
+                ],
+                "correct_answer": 0,
+                "category": "HalifelikDonemi",
+                "difficulty": 7
+            },
+            {
+                "question": "Sıffin Savaşı'nda Muaviye'nin hilesi nedir?",
+                "options": [
+                    "Mızraklara Kur'an sayfası takmak",
+                    "Gece baskını",
+                    "Ateşkes istemek",
+                    "Ordusunu dağıtmak"
+                ],
+                "correct_answer": 0,
+                "category": "HalifelikDonemi",
+                "difficulty": 8
+            },
+            {
+                "question": "Hariciler kimlerdir?",
+                "options": [
+                    "Hz. Ali ve Muaviye'yi reddeden grup",
+                    "Hz. Ali taraftarları",
+                    "Muaviye taraftarları",
+                    "Yezid taraftarları"
+                ],
+                "correct_answer": 0,
+                "category": "Hariciler",
+                "difficulty": 7
+            },
+            {
+                "question": "Hz. Hüseyin'in Kûfe'ye davet edilmesi hangi halifenin döneminde olmuştur?",
+                "options": [
+                    "Hz. Ali",
+                    "Muaviye",
+                    "Yezid",
+                    "Hz. Hasan"
+                ],
+                "correct_answer": 2,
+                "category": "Kerbela",
+                "difficulty": 7
+            },
+            {
+                "question": "Kerbela'da Hz. Hüseyin'in altı aylık oğlu kimdir?",
+                "options": [
+                    "Ali Asgar",
+                    "Ali Zeynel Abidin",
+                    "Hasan",
+                    "Muhammed Hanefi"
+                ],
+                "correct_answer": 0,
+                "category": "Kerbela",
+                "difficulty": 7
+            },
+            {
+                "question": "Alevilikte Hz. Ali'ye camilerde lanet okutulması hangi dönemde başlamıştır?",
+                "options": [
+                    "Emeviler döneminde",
+                    "Abbasiler döneminde",
+                    "Dört Halife döneminde",
+                    "Osmanlı döneminde"
+                ],
+                "correct_answer": 0,
+                "category": "AlevilikDogusu",
+                "difficulty": 8
+            },
+            {
+                "question": "Hz. Fatıma'nın vefatında dargın olduğu kişiler kimlerdir?",
+                "options": [
+                    "Hz. Ebû Bekir ve Hz. Ömer",
+                    "Hz. Ali ve Hz. Hasan",
+                    "Muaviye ve Yezid",
+                    "Hariciler"
+                ],
+                "correct_answer": 0,
+                "category": "AlevilikDogusu",
+                "difficulty": 8
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.)'in doğum tarihi yaklaşık olarak hangisidir?",
+                "options": [
+                    "571 Miladi",
+                    "610 Miladi",
+                    "622 Miladi",
+                    "632 Miladi"
+                ],
+                "correct_answer": 0,
+                "category": "HayatOzeti",
+                "difficulty": 5
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.)'in peygamberlik süresi kaç yıldır?",
+                "options": [
+                    "13 yıl Mekke + 10 yıl Medine = 23 yıl",
+                    "10 yıl Mekke + 13 yıl Medine",
+                    "20 yıl",
+                    "30 yıl"
+                ],
+                "correct_answer": 0,
+                "category": "HayatOzeti",
+                "difficulty": 5
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.)'in annesinin söylediği şiirde neyi kastettiği belirtilmiştir?",
+                "options": [
+                    "Namını ebedi kılacak hayırlı bir halef bırakıyorum",
+                    "Zenginlik bırakıyorum",
+                    "Savaş bırakıyorum",
+                    "Put bırakıyorum"
+                ],
+                "correct_answer": 0,
+                "category": "CocuklukDonemi",
+                "difficulty": 7
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.)'in dedesi Abdülmuttalib'in oğullarından hangisi Ebû Tâlib'tir?",
+                "options": [
+                    "Abdullah'ın kardeşi",
+                    "Abbas'ın kardeşi",
+                    "Hamza'nın kardeşi",
+                    "Ebû Leheb'in kardeşi"
+                ],
+                "correct_answer": 0,
+                "category": "SoyAgaci",
+                "difficulty": 6
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.)'in 'Emin' lakabı hangi dönemde kazanılmıştır?",
+                "options": [
+                    "Çocuklukta",
+                    "Gençlik ve ticaret döneminde",
+                    "Peygamberlik öncesi evlilik döneminde",
+                    "Peygamberlik döneminde"
+                ],
+                "correct_answer": 1,
+                "category": "Lakaplar",
+                "difficulty": 6
+            },
+            {
+                "question": "Hz. Hatice'nin önceki evliliklerinden kaç kocası vardı?",
+                "options": [
+                    "Bir",
+                    "İki",
+                    "Üç",
+                    "Hiçbiri"
+                ],
+                "correct_answer": 1,
+                "category": "EvlilikDonemi",
+                "difficulty": 6
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.)'in ilk vahiyden sonra evine döndüğünde ilk söylediği söz nedir?",
+                "options": [
+                    "Beni örtünüz, beni örtünüz",
+                    "Namaz kılalım",
+                    "Allah birdir",
+                    "Putları kırın"
+                ],
+                "correct_answer": 0,
+                "category": "IlkVahiy",
+                "difficulty": 6
+            },
+            {
+                "question": "Hz. Ebû Bekir'in Müslümanlığı kabul etmesiyle kaç kişi daha Müslüman olmuştur?",
+                "options": [
+                    "5 kişi",
+                    "8 kişi",
+                    "10 kişi",
+                    "30 kişi"
+                ],
+                "correct_answer": 1,
+                "category": "IlkMuslumanlar",
+                "difficulty": 7
+            },
+            {
+                "question": "Açık davet döneminde Müslümanların toplandığı ev hangisidir?",
+                "options": [
+                    "Hz. Hatice'nin evi",
+                    "Erkam'ın evi (Dâr-ı İslâm)",
+                    "Ebû Tâlib'in evi",
+                    "Safâ Tepesi"
+                ],
+                "correct_answer": 1,
+                "category": "AcikDavet",
+                "difficulty": 7
+            },
+            {
+                "question": "Hz. Muhammed (s.a.s.)'in Safâ Tepesi'ndeki çağrısında kullandığı örnek nedir?",
+                "options": [
+                    "Dağın eteğinde düşman süvarisi var örneği",
+                    "Putların gücü örneği",
+                    "Ticaret kervanı örneği",
+                    "Kâbe tamiri örneği"
+                ],
+                "correct_answer": 0,
+                "category": "AcikDavet",
+                "difficulty": 8
+            },
+            {
+                "question": "Danişmentliler hangi yıl Türkiye Selçukluları tarafından yıkılmıştır?",
+                "options": [
+                    "1078",
+                    "1178",
+                    "1202",
+                    "1228"
+                ],
+                "correct_answer": 1,
+                "category": "Danisment",
+                "difficulty": 7
+            },
+            {
+                "question": "Artuklular'ın Hasankeyf kolu hangi devlet tarafından yıkılmıştır?",
+                "options": [
+                    "Selçuklular",
+                    "Eyyubiler",
+                    "İlhanlılar",
+                    "Karakoyunlular"
+                ],
+                "correct_answer": 1,
+                "category": "Artuklu",
+                "difficulty": 8
+            },
+            {
+                "question": "Çaka Bey'in kurduğu donanmayla ele geçirdiği adalardan hangisi yoktur?",
+                "options": [
+                    "Midilli",
+                    "Sakız",
+                    "Rodos",
+                    "Kıbrıs"
+                ],
+                "correct_answer": 3,
+                "category": "CakaBey",
+                "difficulty": 8
+            },
+            {
+                "question": "Sasaniler hangi savaşlarla Müslüman Araplara yenilmiştir?",
+                "options": [
+                    "Kadeş ve Karkamış",
+                    "Kadisiye ve Nihavend",
+                    "Yarmuk ve Ecnadeyn",
+                    "Malazgirt"
+                ],
+                "correct_answer": 1,
+                "category": "Sasaniler",
+                "difficulty": 7
+            },
+            {
+                "question": "Bizans İmparatorluğu'nda tahtın babadan oğula geçmesi gibi düzenli bir sistem var mıydı?",
+                "options": [
+                    "Evet, babadan oğula",
+                    "Hayır, sürekli taht kavgaları olurdu",
+                    "Sadece kardeşten kardeşe",
+                    "Sadece evlatlık yoluyla"
+                ],
+                "correct_answer": 1,
+                "category": "Bizans",
+                "difficulty": 6
+            },
+            {
+                "question": "Hindistan'da Gupta Devleti'ni yıkan kavim hangisidir?",
+                "options": [
+                    "Sasaniler",
+                    "Hunlar",
+                    "Göktürkler",
+                    "Akhunlar"
+                ],
+                "correct_answer": 1,
+                "category": "Hindistan",
+                "difficulty": 8
+            },
+            {
+                "question": "Taoizm'in kurucusu kimdir?",
+                "options": [
+                    "Buda",
+                    "Lao Tzu",
+                    "Konfüçyüs",
+                    "Mazdek"
+                ],
+                "correct_answer": 1,
+                "category": "Taoizm",
+                "difficulty": 6
+            },
+            {
+                "question": "Hinduizm'in kutsal metinlerine ne ad verilir?",
+                "options": [
+                    "Tevrat",
+                    "Veda'lar",
+                    "Avesta",
+                    "Tripitaka"
+                ],
+                "correct_answer": 1,
+                "category": "Hinduizm",
+                "difficulty": 7
+            },
+            {
+                "question": "Şintoizm hangi ülkenin ulusal dinidir?",
+                "options": [
+                    "Çin",
+                    "Hindistan",
+                    "Japonya",
+                    "İran"
+                ],
+                "correct_answer": 2,
+                "category": "Sintoizm",
+                "difficulty": 5
+            },
+            {
+                "question": "Türklerde yeniden dirilme inancı hangi dönemde özellikle görülür?",
+                "options": [
+                    "Uygur döneminde",
+                    "Hunlarda",
+                    "Göktürklerde",
+                    "Selçuklularda"
+                ],
+                "correct_answer": 1,
+                "category": "TurkDin",
+                "difficulty": 7
+            },
+            {
+                "question": "İpek ve Kürk Yolları Türk devletlerine ne sağlamıştır?",
+                "options": [
+                    "Askeri üstünlük",
+                    "Önemli gelir kaynağı",
+                    "Deniz hakimiyeti",
+                    "Madencilik gelişimi"
+                ],
+                "correct_answer": 1,
+                "category": "TurkEkonomi",
+                "difficulty": 6
+            },
+            {
+                "question": "Anadolu'da kurulan ilk beylik aşağıdakilerden hangisidir?",
+                "options": [
+                    "Danişmentliler",
+                    "Saltuklular",
+                    "Artuklular",
+                    "Mengücekler"
+                ],
+                "correct_answer": 1,
+                "category": "AnadoluBeylikleri",
+                "difficulty": 7
+            },
+            {
+                "question": "Bilge Kağan ve Kul Tiğin'in veziri kimdir?",
+                "options": [
+                    "Tonyukuk",
+                    "İstemi Yabgu",
+                    "Tardu",
+                    "Tumen"
+                ],
+                "correct_answer": 0,
+                "category": "Kutluk",
+                "difficulty": 7
+            },
+            {
+                "question": "Kavimler Göçü'nün sonuçlarından biri aşağıdakilerden hangisidir?",
+                "options": [
+                    "Feodalitenin ortaya çıkması",
+                    "Roma'nın tek parça kalması",
+                    "Avrupa'da etnik yapının bozulması",
+                    "Hunların Anadolu'ya gelmesi"
+                ],
+                "correct_answer": 0,
+                "category": "KavimlerGocu",
+                "difficulty": 7
+            },
+            {
+                "question": "Uygurların Moğollaşmasında değil, hangi süreçte rol oynadıkları belirtilmiştir?",
+                "options": [
+                    "Türklerin İslamlaşmasında",
+                    "Moğolların Türkleşmesinde",
+                    "Çinlilerin yerleşikleşmesinde",
+                    "Hintlilerin Budizm'den vazgeçmesinde"
+                ],
+                "correct_answer": 1,
+                "category": "Uygur",
+                "difficulty": 9
+            },
+            {
+                "question": "Eski Türklerde kölecilik anlayışı nasıldı?",
+                "options": [
+                    "Yaygındı",
+                    "Yaygın değildi, sınıfsız toplum yapısı vardı",
+                    "Sadece savaş esirleri köleydi",
+                    "Tamamen yasaktı"
+                ],
+                "correct_answer": 1,
+                "category": "TurkSosyal",
+                "difficulty": 8
+            },
+            {
+                "question": "Harput Artuklu kolu hangi yılda sona ermiştir?",
+                "options": [
+                    "1231",
+                    "1234",
+                    "1409",
+                    "1178"
+                ],
+                "correct_answer": 1,
+                "category": "Artuklu",
+                "difficulty": 8
+            },
+            {
+                "question": "Mazdekizm hangi dinden türemiştir?",
+                "options": [
+                    "Hinduizm",
+                    "Zerdüştlük",
+                    "Budizm",
+                    "Taoizm"
+                ],
+                "correct_answer": 1,
+                "category": "Zerdustluk",
+                "difficulty": 8
+            },
+            {
+                "question": "Konfüçyüs'e göre devlet yönetimi ile ne özdeşleşmelidir?",
+                "options": [
+                    "Savaş sanatı",
+                    "Ahlak",
+                    "Ticaret",
+                    "Din"
+                ],
+                "correct_answer": 1,
+                "category": "Konfucyus",
+                "difficulty": 7
+            },
+            {
+                "question": "Türk göçleri sonucunda Orta Asya'da kalan boylar hangi devleti kurmuştur?",
+                "options": [
+                    "Göktürk",
+                    "Hun",
+                    "Uygur",
+                    "Kutluk"
+                ],
+                "correct_answer": 1,
+                "category": "TurkGocleri",
+                "difficulty": 6
+            },
+            {
+                "question": "Türk göçlerinin en önemli nedenlerinden biri aşağıdakilerden hangisidir?",
+                "options": [
+                    "Deniz aşırı ticaret yollarının tıkanması",
+                    "Kuraklık ve otlak yetersizliği",
+                    "Avrupa'daki salgın hastalıklar",
+                    "Hint Okyanusu'ndaki korsanlık"
+                ],
+                "correct_answer": 1,
+                "category": "Türk Göçleri",
+                "source_id": "GocNedenSonuc",
+                "difficulty": 5
+            },
+            {
+                "question": "Kavimler Göçü'nü başlatan olay aşağıdakilerden hangisidir?",
+                "options": [
+                    "Göktürklerin Çin'e yenilmesi",
+                    "Hunların batıya doğru göçü (375)",
+                    "Uygurların yerleşik hayata geçmesi",
+                    "Sasanilerin yıkılması"
+                ],
+                "correct_answer": 1,
+                "category": "KavimlerGocu",
+                "source_id": "AsyaHun",
+                "difficulty": 6
+            },
+            {
+                "question": "Asya Hun İmparatorluğu'nda Çin Seddi'nin tamamlandığı yıl yaklaşık olarak hangisidir?",
+                "options": [
+                    "M.Ö. 500",
+                    "M.Ö. 214",
+                    "M.S. 100",
+                    "M.Ö. 100"
+                ],
+                "correct_answer": 1,
+                "category": "AsyaHun",
+                "source_id": "AsyaHun",
+                "difficulty": 6
+            },
+            {
+                "question": "Mete Han'ın Çin politikasındaki temel amacı neydi?",
+                "options": [
+                    "Çin'i tamamen işgal etmek",
+                    "Çin'i yıllık vergiye bağlamak ve asimilasyondan kaçınmak",
+                    "Çin prensesleriyle evlenmeyi yasaklamak",
+                    "Çin Seddi'ni yıkmak"
+                ],
+                "correct_answer": 1,
+                "category": "AsyaHun",
+                "source_id": "AsyaHun",
+                "difficulty": 7
+            },
+            {
+                "question": "Göktürk Devleti'ni Türk adıyla kuran ilk devlet yapan kağan aşağıdakilerden hangisidir?",
+                "options": [
+                    "Mete Han",
+                    "Bumin Kağan",
+                    "Bilge Kağan",
+                    "İstemi Yabgu"
+                ],
+                "correct_answer": 1,
+                "category": "Gokturk",
+                "source_id": "Gokturk",
+                "difficulty": 5
+            },
+            {
+                "question": "Göktürk Devleti'nin batı kısmını yöneten ve Akhunlara karşı Sasanilerle ittifak yapan kişi kimdir?",
+                "options": [
+                    "Bumin Kağan",
+                    "İstemi Yabgu",
+                    "Tonyukuk",
+                    "Kul Tiğin"
+                ],
+                "correct_answer": 1,
+                "category": "Gokturk",
+                "source_id": "Gokturk",
+                "difficulty": 7
+            },
+            {
+                "question": "Kutluk Devleti'nin (II. Göktürk) en güçlü olduğu dönem hangi kağanlar zamanıdır?",
+                "options": [
+                    "Bumin ve İstemi",
+                    "Bilge Kağan ve Kul Tiğin",
+                    "Mete ve Teoman",
+                    "Tonyukuk ve Bilge"
+                ],
+                "correct_answer": 1,
+                "category": "Kutluk",
+                "source_id": "Kutluk",
+                "difficulty": 6
+            },
+            {
+                "question": "Yerleşik hayata geçen ve tarım-sanat-ticarette ilerleyen ilk Türk toplumu aşağıdakilerden hangisidir?",
+                "options": [
+                    "Hunlar",
+                    "Göktürkler",
+                    "Uygurlar",
+                    "Kutluklar"
+                ],
+                "correct_answer": 2,
+                "category": "Uygur",
+                "source_id": "Uygur",
+                "difficulty": 5
+            },
+            {
+                "question": "Uygur yazısının Moğollar tarafından da kullanılmasında Uygurların hangi etkisi vardır?",
+                "options": [
+                    "Askeri teşkilatlanma",
+                    "Yerleşik hayat ve kültür aktarımı",
+                    "Denizcilik",
+                    "At yetiştiriciliği"
+                ],
+                "correct_answer": 1,
+                "category": "Uygur",
+                "source_id": "Uygur",
+                "difficulty": 7
+            },
+            {
+                "question": "Eski Türk devletlerinde hükümdarın yetkisini sınırlayan ve önemli kararların görüşüldüğü meclise ne ad verilir?",
+                "options": [
+                    "Toy",
+                    "Kurultay",
+                    "Divan",
+                    "Meclis-i Ali"
+                ],
+                "correct_answer": 1,
+                "category": "TurkKultur",
+                "source_id": "KulturMedeniyet",
+                "difficulty": 6
+            },
+            {
+                "question": "Türklerde 'ülke toprakları hükümdar ailesinin ortak malıdır' anlayışı hangi sonuca yol açmamıştır?",
+                "options": [
+                    "Taht kavgaları",
+                    "Devletlerin kısa sürede parçalanması",
+                    "Merkezi otoritenin güçlenmesi",
+                    "İç mücadelelerin artması"
+                ],
+                "correct_answer": 2,
+                "category": "TurkKultur",
+                "source_id": "KulturMedeniyet",
+                "difficulty": 8
+            },
+            {
+                "question": "Düzenli ve disiplinli ilk Türk ordusunu onlu sisteme göre teşkilatlandıran hükümdar kimdir?",
+                "options": [
+                    "Bumin Kağan",
+                    "Mete Han",
+                    "Bilge Kağan",
+                    "İstemi Yabgu"
+                ],
+                "correct_answer": 1,
+                "category": "TurkOrdu",
+                "source_id": "KulturMedeniyet",
+                "difficulty": 6
+            },
+            {
+                "question": "Eski Türklerde yazılı olmayan, gelenek ve göreneklerden oluşan hukuka ne denirdi?",
+                "options": [
+                    "Yasa",
+                    "Töre",
+                    "Kanunname",
+                    "Şeriat"
+                ],
+                "correct_answer": 1,
+                "category": "TurkHukuk",
+                "source_id": "KulturMedeniyet",
+                "difficulty": 5
+            },
+            {
+                "question": "Türklerde en eski din aşağıdakilerden hangisidir?",
+                "options": [
+                    "Şamanizm",
+                    "Gök Tanrı dini",
+                    "Maniheizm",
+                    "Budizm"
+                ],
+                "correct_answer": 1,
+                "category": "TurkDin",
+                "source_id": "KulturMedeniyet",
+                "difficulty": 5
+            },
+            {
+                "question": "Türklerin İslam dinini kolay kabul etmesinde Gök Tanrı inancının hangi özelliği etkili olmuştur?",
+                "options": [
+                    "Putperestlik",
+                    "Tek Allah inancı ve dirilme düşüncesi",
+                    "Çok tanrılı tapınaklar",
+                    "Ateş tapınımı"
+                ],
+                "correct_answer": 1,
+                "category": "TurkDin",
+                "source_id": "KulturMedeniyet",
+                "difficulty": 7
+            },
+            {
+                "question": "Uygurların yerleşik hayata geçmesiyle Türklerde hangi alanda gelişme gözlenmiştir?",
+                "options": [
+                    "Göçebe hayvancılık",
+                    "Şehircilik ve mimari",
+                    "Deniz ticareti",
+                    "Madencilik"
+                ],
+                "correct_answer": 1,
+                "category": "TurkEkonomi",
+                "source_id": "KulturMedeniyet",
+                "difficulty": 6
+            },
+            {
+                "question": "Malazgirt Zaferi'nden sonra Anadolu'da kurulan ilk Türk beyliklerinden hangisi en güçlüsü ve en büyüğü olarak kabul edilir?",
+                "options": [
+                    "Saltuklular",
+                    "Danişmentliler",
+                    "Mengücekler",
+                    "Artuklular"
+                ],
+                "correct_answer": 1,
+                "category": "AnadoluBeylikleri",
+                "source_id": "AnadoluBeylikleri",
+                "difficulty": 7
+            },
+            {
+                "question": "Danişmentliler'in kurucusu kimdir?",
+                "options": [
+                    "Saltuk Bey",
+                    "Danişment Gazi Ahmed Bey",
+                    "Mengucek Bey",
+                    "Artuk Bey"
+                ],
+                "correct_answer": 1,
+                "category": "Danisment",
+                "source_id": "AnadoluBeylikleri",
+                "difficulty": 6
+            },
+            {
+                "question": "Saltuklular hangi şehir merkezli kurulmuştur?",
+                "options": [
+                    "Sivas",
+                    "Erzurum",
+                    "Erzincan",
+                    "Diyarbakır"
+                ],
+                "correct_answer": 1,
+                "category": "Saltuklu",
+                "source_id": "AnadoluBeylikleri",
+                "difficulty": 6
+            },
+            {
+                "question": "Mengücekler'in iki kola ayrıldığı yıl yaklaşık olarak hangisidir?",
+                "options": [
+                    "1072",
+                    "1142",
+                    "1178",
+                    "1202"
+                ],
+                "correct_answer": 1,
+                "category": "Mengucek",
+                "source_id": "AnadoluBeylikleri",
+                "difficulty": 7
+            },
+            {
+                "question": "Artuklular kaç kol halinde örgütlenmiştir?",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ],
+                "correct_answer": 1,
+                "category": "Artuklu",
+                "source_id": "AnadoluBeylikleri",
+                "difficulty": 6
+            },
+            {
+                "question": "Mardin Artuklu kolu hangi yılda Karakoyunlular tarafından yıkılmıştır?",
+                "options": [
+                    "1231",
+                    "1234",
+                    "1409",
+                    "1178"
+                ],
+                "correct_answer": 2,
+                "category": "Artuklu",
+                "source_id": "AnadoluBeylikleri",
+                "difficulty": 8
+            },
+            {
+                "question": "Anadolu'daki ilk Türk denizcisi ve donanma kurucusu olarak kabul edilen bey kimdir?",
+                "options": [
+                    "Çaka Bey",
+                    "Tanrıvermiş Bey",
+                    "Sökmen Bey",
+                    "İnal Bey"
+                ],
+                "correct_answer": 0,
+                "category": "CakaBey",
+                "source_id": "AnadoluBeylikleri",
+                "difficulty": 7
+            },
+            {
+                "question": "İslamiyet'in doğuşu sırasında Bizans İmparatorluğu'nun resmi mezhebi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Katolik",
+                    "Ortodoks",
+                    "Aryanizm",
+                    "Monofizit"
+                ],
+                "correct_answer": 1,
+                "category": "IslamOncesiDunya",
+                "source_id": "IslamTarihi",
+                "difficulty": 6
+            },
+            {
+                "question": "Sasaniler'in dini aşağıdakilerden hangisidir?",
+                "options": [
+                    "Hristiyanlık",
+                    "Zerdüştlük",
+                    "Hinduizm",
+                    "Budizm"
+                ],
+                "correct_answer": 1,
+                "category": "Sasaniler",
+                "source_id": "IslamTarihi",
+                "difficulty": 5
+            },
+            {
+                "question": "Zerdüştlükte iyilik tanrısının adı nedir?",
+                "options": [
+                    "Angramanyu",
+                    "Ahuramazda",
+                    "Mazdek",
+                    "Ehrimen"
+                ],
+                "correct_answer": 1,
+                "category": "Zerdustluk",
+                "source_id": "IslamTarihi",
+                "difficulty": 7
+            },
+            {
+                "question": "Hindistan'daki katı sınıf sistemine ne ad verilir?",
+                "options": [
+                    "Feodalite",
+                    "Kast sistemi",
+                    "Derebeylik",
+                    "Kölelik"
+                ],
+                "correct_answer": 1,
+                "category": "Hindistan",
+                "source_id": "IslamTarihi",
+                "difficulty": 6
+            },
+            {
+                "question": "Budizm'in kurucusu kimdir?",
+                "options": [
+                    "Konfüçyüs",
+                    "Buda",
+                    "Lao Tzu",
+                    "Mahavira"
+                ],
+                "correct_answer": 1,
+                "category": "Budizm",
+                "source_id": "IslamTarihi",
+                "difficulty": 5
+            },
+            {
+                "question": "Çin'de ahlaki ve siyasal düşünceleriyle tanınan filozof kimdir?",
+                "options": [
+                    "Lao Tzu",
+                    "Konfüçyüs",
+                    "Buda",
+                    "Mazdek"
+                ],
+                "correct_answer": 1,
+                "category": "Konfucyus",
+                "source_id": "IslamTarihi",
+                "difficulty": 6
+            },
+            {
+                "question": "Japonya'nın ulusal dini aşağıdakilerden hangisidir?",
+                "options": [
+                    "Budizm",
+                    "Şintoizm",
+                    "Taoizm",
+                    "Konfüçyüsçülük"
+                ],
+                "correct_answer": 1,
+                "category": "Japonya",
+                "source_id": "IslamTarihi",
+                "difficulty": 6
+            },
+            {
+                "question": "Türk göçlerinin sonuçlarından biri aşağıdakilerden hangisi değildir?",
+                "options": [
+                    "Orta Asya kültürünün yayılması",
+                    "Kavimler Göçü'nün başlaması",
+                    "Türk tarihinin bütün olarak incelenmesinin kolaylaşması",
+                    "Farklı bölgelerde Türk devletlerinin kurulması"
+                ],
+                "correct_answer": 2,
+                "category": "TurkGocleri",
+                "source_id": "GocNedenSonuc",
+                "difficulty": 8
+            },
+            {
+                "question": "Yazının icadından sonraki döneme ne ad verilir?",
+                "options": [
+                    "Tarih Öncesi",
+                    "Tarih Çağları",
+                    "Taş Devri",
+                    "Maden Devri"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "TarihOncesi",
+                "difficulty": 5
+            },
+            {
+                "question": "Tarih öncesi çağlar içinde Taş Devri'nin aşamaları arasında aşağıdakilerden hangisi yoktur?",
+                "options": [
+                    "Kaba Taş Çağı",
+                    "Yontma Taş Çağı",
+                    "Cilalı Taş Çağı",
+                    "Bakır Çağı"
+                ],
+                "correct_answer": 3,
+                "category": "Tarih",
+                "source_id": "TarihOncesi",
+                "difficulty": 6
+            },
+            {
+                "question": "İnsanların ilk defa tarıma başladığı, yerleşik hayata geçtiği ve ilk köylerin kurulduğu dönem aşağıdakilerden hangisidir?",
+                "options": [
+                    "Kaba Taş Devri",
+                    "Yontma Taş Devri",
+                    "Cilalı Taş Devri",
+                    "Bakır Devri"
+                ],
+                "correct_answer": 2,
+                "category": "Tarih",
+                "source_id": "TarihOncesi",
+                "difficulty": 6
+            },
+            {
+                "question": "Tarihte para’yı ilk kullanan uygarlık aşağıdakilerden hangisidir?",
+                "options": [
+                    "Hititler",
+                    "Frigler",
+                    "Lidyalılar",
+                    "İyonlar"
+                ],
+                "correct_answer": 2,
+                "category": "Tarih",
+                "source_id": "AnadoluMedeniyetleri",
+                "difficulty": 7
+            },
+            {
+                "question": "Çivi yazısını bulan ve tarihte ilk yazılı hukuk kurallarını oluşturan uygarlık hangisidir?",
+                "options": [
+                    "Akkadlar",
+                    "Sümerler",
+                    "Babilliler",
+                    "Asurlular"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "Mezopotamya",
+                "difficulty": 7
+            },
+            {
+                "question": "Aşağıdaki uygarlıklardan hangisi tarihte ilk alfabe (harf yazısı) sistemini bulmuştur?",
+                "options": [
+                    "Sümerler",
+                    "Mısırlılar",
+                    "Fenikeliler",
+                    "Hititler"
+                ],
+                "correct_answer": 2,
+                "category": "Tarih",
+                "source_id": "Fenike",
+                "difficulty": 7
+            },
+            {
+                "question": "Orta Çağ hangi iki olay arasında yer alır?",
+                "options": [
+                    "Yazının icadı – İstanbul’un fethi",
+                    "Batı Roma’nın yıkılışı (476) – İstanbul’un fethi (1453)",
+                    "Fransız İhtilali – Günümüz",
+                    "İstanbul’un fethi – Fransız İhtilali"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "TarihCagları",
+                "difficulty": 6
+            },
+            {
+                "question": "Mısır medeniyetinde ölülerin mumyalanması ve piramitlerin yapılması hangi inançla ilişkilidir?",
+                "options": [
+                    "Tek tanrılı inanç",
+                    "Öldükten sonra dirilme inancı",
+                    "Çok tanrılı inanç (sadece)",
+                    "Ateş tapınımı"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "Misir",
+                "difficulty": 6
+            },
+            {
+                "question": "Hititlerle Mısırlılar arasında imzalanan ilk yazılı uluslararası antlaşma aşağıdakilerden hangisidir?",
+                "options": [
+                    "Kadeş Antlaşması",
+                    "Hammurabi Kanunları",
+                    "12 Levha Kanunları",
+                    "Urukagine Kanunları"
+                ],
+                "correct_answer": 0,
+                "category": "Tarih",
+                "source_id": "Misir",
+                "difficulty": 8
+            },
+            {
+                "question": "Truva Savaşları hangi iki topluluk arasında gerçekleşmiştir?",
+                "options": [
+                    "Akalar (Mikenliler) – Truvalılar",
+                    "Dorlar – Akalar",
+                    "Hititler – Frigler",
+                    "Persler – Yunanlılar"
+                ],
+                "correct_answer": 0,
+                "category": "Tarih",
+                "source_id": "EgeYunan",
+                "difficulty": 7
+            },
+            {
+                "question": "Tarihin başlangıcı için esas alınan tarih aşağıdakilerden hangisidir?",
+                "options": [
+                    "M.Ö. 4000",
+                    "M.Ö. 3200",
+                    "M.Ö. 3500",
+                    "M.Ö. 3000"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "TarihOncesi",
+                "difficulty": 6
+            },
+            {
+                "question": "Yazının icadından önceki döneme ne ad verilir?",
+                "options": [
+                    "Tarih Çağları",
+                    "Tarih Öncesi",
+                    "İlk Çağ",
+                    "Orta Çağ"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "TarihOncesi",
+                "difficulty": 6
+            },
+            {
+                "question": "Yazının icadından sonraki döneme ne ad verilir?",
+                "options": [
+                    "Tarih Öncesi",
+                    "Tarih Çağları",
+                    "Taş Devri",
+                    "Maden Devri"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "TarihOncesi",
+                "difficulty": 6
+            },
+            {
+                "question": "Tarih öncesi devirlerin ilk aşaması aşağıdakilerden hangisidir?",
+                "options": [
+                    "Yontma Taş Çağı",
+                    "Cilalı Taş Çağı",
+                    "Kaba Taş Çağı",
+                    "Bakır Çağı"
+                ],
+                "correct_answer": 2,
+                "category": "Tarih",
+                "source_id": "TasDevri",
+                "difficulty": 7
+            },
+            {
+                "question": "Kaba Taş Devri'nde insanlar araç-gereç yapımı konusunda hangi durumdadır?",
+                "options": [
+                    "Gelişmiş aletler kullanmışlardır",
+                    "Araç ve gereç yapımı başlamamıştır",
+                    "Topraktan kaplar yapmışlardır",
+                    "Maden işleme başlamıştır"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "KabaTas",
+                "difficulty": 7
+            },
+            {
+                "question": "Yontma Taş Devri'nde insanların yaşam biçimi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Yerleşik",
+                    "Göçebe",
+                    "Şehirli",
+                    "Tarımcı"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "YontmaTas",
+                "difficulty": 7
+            },
+            {
+                "question": "Yontma Taş Devri'nin sonlarına doğru insanlık hangi buluşu denetim altına almıştır?",
+                "options": [
+                    "Tarım",
+                    "Ateş",
+                    "Yazı",
+                    "Maden işleme"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "YontmaTas",
+                "difficulty": 7
+            },
+            {
+                "question": "Cilalı Taş Devri'nde insanlık ilk defa hangi faaliyeti başlatmıştır?",
+                "options": [
+                    "Avcılık",
+                    "Toplayıcılık",
+                    "Üretim faaliyetleri",
+                    "Göçebe yaşam"
+                ],
+                "correct_answer": 2,
+                "category": "Tarih",
+                "source_id": "CilaliTas",
+                "difficulty": 7
+            },
+            {
+                "question": "Cilalı Taş Devri'nde ilk defa tarım başlamasıyla ne olmuştur?",
+                "options": [
+                    "Göçebe yaşam başlamıştır",
+                    "Yerleşik yaşama geçilmiştir",
+                    "Maden devri başlamıştır",
+                    "Yazı icat edilmiştir"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "CilaliTas",
+                "difficulty": 7
+            },
+            {
+                "question": "Cilalı Taş Devri'nde dikilen anıtların adı nedir?",
+                "options": [
+                    "Ziggurat",
+                    "Menhir ve Dolmen",
+                    "Piramit",
+                    "Tapınak"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "CilaliTas",
+                "difficulty": 8
+            },
+            {
+                "question": "Maden Devri'nde ilk kullanılan maden aşağıdakilerden hangisidir?",
+                "options": [
+                    "Demir",
+                    "Tunç",
+                    "Bakır",
+                    "Altın"
+                ],
+                "correct_answer": 2,
+                "category": "Tarih",
+                "source_id": "MadenDevri",
+                "difficulty": 7
+            },
+            {
+                "question": "Tunç Devri'nde hangi buluş tarımda gelişim sağlamıştır?",
+                "options": [
+                    "Ateş",
+                    "Karasaban",
+                    "Yazı",
+                    "Çivi yazısı"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "TuncDevri",
+                "difficulty": 7
+            },
+            {
+                "question": "Demir Devri'nde ticaretin hızlanmasına yol açan gelişme nedir?",
+                "options": [
+                    "Tarımın başlaması",
+                    "Demirin yüksek ısıda işlenebilmesi",
+                    "Yerleşik yaşama geçilmesi",
+                    "Göçebe yaşamın sona ermesi"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "DemirDevri",
+                "difficulty": 8
+            },
+            {
+                "question": "Tarihî devirlerden İlk Çağ hangi olayla başlar?",
+                "options": [
+                    "Yazının icadı",
+                    "İstanbul'un fethi",
+                    "Fransız İhtilali",
+                    "Batı Roma'nın yıkılışı"
+                ],
+                "correct_answer": 0,
+                "category": "Tarih",
+                "source_id": "IlkCag",
+                "difficulty": 7
+            },
+            {
+                "question": "Orta Çağ hangi olayla sona erer?",
+                "options": [
+                    "Yazının icadı",
+                    "İstanbul'un Türkler tarafından fethi",
+                    "Fransız İhtilali",
+                    "Batı Roma'nın yıkılışı"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "OrtaCag",
+                "difficulty": 7
+            },
+            {
+                "question": "Yeni Çağ hangi olayla başlar?",
+                "options": [
+                    "Batı Roma'nın yıkılışı",
+                    "İstanbul'un fethi",
+                    "Fransız İhtilali",
+                    "Yazının icadı"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "YeniCag",
+                "difficulty": 7
+            },
+            {
+                "question": "Yakın Çağ hangi olayla başlar?",
+                "options": [
+                    "İstanbul'un fethi",
+                    "Batı Roma'nın yıkılışı",
+                    "Fransız İhtilali",
+                    "Yazının icadı"
+                ],
+                "correct_answer": 2,
+                "category": "Tarih",
+                "source_id": "YakinCag",
+                "difficulty": 7
+            },
+            {
+                "question": "Anadolu'nun tarih boyunca çok göç ve istilaya uğramasının temel nedenlerinden biri aşağıdakilerden hangisidir?",
+                "options": [
+                    "Çöl iklimi",
+                    "Üç tarafının denizlerle çevrili oluşu",
+                    "Soğuk iklim",
+                    "Dağlık yapı"
+                ],
+                "correct_answer": 1,
+                "category": "Coğrafya",
+                "source_id": "Anadolu",
+                "difficulty": 7
+            },
+            {
+                "question": "Anadolu'da uygarlığın gelişmesinin nedenlerinden biri aşağıdakilerden hangisidir?",
+                "options": [
+                    "Uzak konumda olması",
+                    "Mısır, Ege ve Yunan medeniyetlerine yakın olması",
+                    "Çöldeki konumu",
+                    "Soğuk iklim"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "Anadolu",
+                "difficulty": 7
+            },
+            {
+                "question": "Anadolu'da MÖ 2. bin - MÖ 600 yılları arasında kurulan medeniyetlerden biri aşağıdakilerden hangisidir?",
+                "options": [
+                    "Persler",
+                    "Hititler",
+                    "Roma İmparatorluğu",
+                    "Bizanslılar"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "AnadoluMedeniyetleri",
+                "difficulty": 7
+            },
+            {
+                "question": "Lidyalılar tarafından tarihte ilk kez kullanılan buluş aşağıdakilerden hangisidir?",
+                "options": [
+                    "Yazı",
+                    "Para",
+                    "Çivi yazısı",
+                    "Alfabe"
+                ],
+                "correct_answer": 1,
+                "category": "Tarih",
+                "source_id": "Lidyalilar",
+                "difficulty": 4
+            },
+            {
+                "question": "20. yüzyılın başlarına dek hakim olan görüşe göre evrenin temel özelliği aşağıdakilerden hangisidir?",
+                "options": [
+                    "Sürekli genişlemekte olması",
+                    "Sonsuzdan beri var olması ve sonsuza kadar var olacağı",
+                    "Bir başlangıcı olması",
+                    "Sürekli daralmakta olması"
+                ],
+                "correct_answer": 1,
+                "category": "Bilim",
+                "source_id": "EvrenModeli",
+                "difficulty": 5
+            },
+            {
+                "question": "\"Statik (durağan) evren modeli\"ne göre evren için söz konusu olan durum aşağıdakilerden hangisidir?",
+                "options": [
+                    "Başlangıç ve sonu olması",
+                    "Sürekli genişlemesi",
+                    "Herhangi bir başlangıç veya sonun olmaması",
+                    "Yaratıcının varlığını kabul etmesi"
+                ],
+                "correct_answer": 2,
+                "category": "Bilim",
+                "source_id": "EvrenModeli",
+                "difficulty": 5
+            },
+            {
+                "question": "Materyalist felsefenin temelini oluşturan görüş aşağıdakilerden hangisidir?",
+                "options": [
+                    "Evrenin sürekli genişlediği",
+                    "Evrenin bir Yaratıcısı olduğu",
+                    "Evrenin sabit, durağan ve değişmez bir maddeler bütünü olduğu",
+                    "Evrenin bir başlangıcı olduğu"
+                ],
+                "correct_answer": 2,
+                "category": "Felsefe",
+                "source_id": "Materyalizm",
+                "difficulty": 6
+            },
+            {
+                "question": "20. yüzyılda bilim ve teknolojinin gelişmesiyle yıkılan evren modeli aşağıdakilerden hangisidir?",
+                "options": [
+                    "Big Bang modeli",
+                    "Big Crunch modeli",
+                    "Statik (durağan) evren modeli",
+                    "Genişleyen evren modeli"
+                ],
+                "correct_answer": 2,
+                "category": "Bilim",
+                "source_id": "EvrenModeli",
+                "difficulty": 5
+            },
+            {
+                "question": "Modern fizik tarafından evrenin bir başlangıcı olduğu ve büyük bir patlamayla var olduğu hangi yüzyılın başlarında ispatlanmıştır?",
+                "options": [
+                    "19. yüzyıl",
+                    "20. yüzyıl",
+                    "21. yüzyıl",
+                    "18. yüzyıl"
+                ],
+                "correct_answer": 2,
+                "category": "Bilim",
+                "source_id": "BigBang",
+                "difficulty": 6
+            },
+            {
+                "question": "Evrenin başlangıcını ve genişlediğini kabul eden modern fizik teorisinin adı nedir?",
+                "options": [
+                    "Statik Evren Teorisi",
+                    "Big Crunch Teorisi",
+                    "Big Bang Teorisi",
+                    "Sıcak Duman Teorisi"
+                ],
+                "correct_answer": 2,
+                "category": "Bilim",
+                "source_id": "BigBang",
+                "difficulty": 5
+            },
+            {
+                "question": "Big Bang'den önce aşağıdakilerden hangisi yoktu?",
+                "options": [
+                    "Yıldızlar",
+                    "Galaksiler",
+                    "Madde, enerji ve zaman",
+                    "Evrenin genişlemesi"
+                ],
+                "correct_answer": 2,
+                "category": "Bilim",
+                "source_id": "BigBang",
+                "difficulty": 6
+            },
+            {
+                "question": "Kuran-ı Kerim'de evrenin yoktan var edilmesi hangi ayette belirtilmiştir?",
+                "options": [
+                    "Zariyat Suresi, 47",
+                    "Enbiya Suresi, 104",
+                    "Enam Suresi, 101",
+                    "Fussilet Suresi, 10-11"
+                ],
+                "correct_answer": 2,
+                "category": "Din",
+                "source_id": "Kuran",
+                "difficulty": 6
+            },
+            {
+                "question": "Evrenin sürekli genişlediğini belirten Kuran ayeti aşağıdakilerden hangisidir?",
+                "options": [
+                    "Enam Suresi, 101",
+                    "Zariyat Suresi, 47",
+                    "Enbiya Suresi, 104",
+                    "Zümer Suresi, 67"
+                ],
+                "correct_answer": 1,
+                "category": "Din",
+                "source_id": "Kuran",
+                "difficulty": 6
+            },
+            {
+                "question": "Zariyat Suresi 47. ayette geçen \"musi'une\" kelimesi ne anlama gelir?",
+                "options": [
+                    "Yoktan var eden",
+                    "Genişleten / genişletici",
+                    "Katlayan",
+                    "Yaratıcı"
+                ],
+                "correct_answer": 1,
+                "category": "Dil",
+                "source_id": "Kuran",
+                "difficulty": 7
+            },
+            {
+                "question": "Evrenin genişlediğini teorik olarak ilk hesaplayan bilim insanları kimlerdir?",
+                "options": [
+                    "Edwin Hubble ve Albert Einstein",
+                    "Alexander Friedmann ve Georges Lemaitre",
+                    "Isaac Newton ve Stephen Hawking",
+                    "Galileo Galilei ve Johannes Kepler"
+                ],
+                "correct_answer": 1,
+                "category": "Bilim",
+                "source_id": "Tarih",
+                "difficulty": 7
+            },
+            {
+                "question": "Evrenin genişlediğini gözlemsel olarak ilk ispatlayan astronom kimdir?",
+                "options": [
+                    "Alexander Friedmann",
+                    "Georges Lemaitre",
+                    "Albert Einstein",
+                    "Edwin Hubble"
+                ],
+                "correct_answer": 3,
+                "category": "Bilim",
+                "source_id": "Tarih",
+                "difficulty": 6
+            },
+            {
+                "question": "Edwin Hubble'ın gözlemlerinde yıldızların ışıklarının hangi renge doğru kaydığı saptanmıştır?",
+                "options": [
+                    "Mora doğru",
+                    "Kızıla doğru",
+                    "Maviye doğru",
+                    "Yeşile doğru"
+                ],
+                "correct_answer": 1,
+                "category": "Bilim",
+                "source_id": "Astronomi",
+                "difficulty": 6
+            },
+            {
+                "question": "Evrenin genişlemesini balon örneğiyle açıklamak aşağıdakilerden hangisini vurgular?",
+                "options": [
+                    "Evrenin sabit olduğunu",
+                    "Evrenin daraldığını",
+                    "Cisimlerin birbirinden uzaklaştığını",
+                    "Evrenin sonsuz olduğunu"
+                ],
+                "correct_answer": 2,
+                "category": "Bilim",
+                "source_id": "Analoji",
+                "difficulty": 5
+            },
+            {
+                "question": "Albert Einstein'ın evrenin genişlemesiyle ilgili buluşunu başlangıçta neden bir kenara bıraktığı belirtilmiştir?",
+                "options": [
+                    "Deneysel kanıt eksikliği",
+                    "Durağan evren modeli ile ters düşmesi",
+                    "Maliyetli gözlemler",
+                    "Dinî nedenler"
+                ],
+                "correct_answer": 1,
+                "category": "Bilim",
+                "source_id": "Tarih",
+                "difficulty": 6
+            },
+            {
+                "question": "Albert Einstein'ın evrenin genişlemesiyle ilgili buluşunu sonradan ne olarak nitelendirdiği belirtilmiştir?",
+                "options": [
+                    "En büyük başarısı",
+                    "Kariyerinin en büyük hatası",
+                    "Teorik bir yanılgı",
+                    "Deneysel bir keşif"
+                ],
+                "correct_answer": 1,
+                "category": "Bilim",
+                "source_id": "Tarih",
+                "difficulty": 6
+            },
+            {
+                "question": "Evrenin sonunda gerçekleşeceği öngörülen ve Kuran'da da işaret edildiği belirtilen olay aşağıdakilerden hangisidir?",
+                "options": [
+                    "Big Bang",
+                    "Big Crunch",
+                    "Sıcak Duman",
+                    "Evrenin genişlemesi"
+                ],
+                "correct_answer": 1,
+                "category": "Bilim",
+                "source_id": "BigCrunch",
+                "difficulty": 6
+            },
+            {
+                "question": "Evrenin sıcak duman (duhan) halinden yaratıldığını belirten Kuran ayeti aşağıdakilerden hangisidir?",
+                "options": [
+                    "Enam Suresi, 101",
+                    "Zariyat Suresi, 47",
+                    "Enbiya Suresi, 104",
+                    "Fussilet Suresi, 10-11"
+                ],
+                "correct_answer": 3,
+                "category": "Din",
+                "source_id": "Kuran",
+                "difficulty": 6
+            },
+            {
+                "question": "Kuran'da insanın yaratılış aşamalarından ilki olarak belirtilen \"nutfe\" ne anlama gelir?",
+                "options": [
+                    "Bir çiğnem et",
+                    "Rahme asılmış embriyo",
+                    "Dölleyici sperm",
+                    "Toprak"
+                ],
+                "correct_answer": 2,
+                "category": "Din",
+                "source_id": "Yaratilis",
+                "difficulty": 7
+            },
+            {
+                "question": "Mâturîdî'ye göre 'alaka' aşaması ne olarak tanımlanır?",
+                "options": [
+                    "Kan",
+                    "Bir çiğnem et",
+                    "Rahme asılmış embriyo",
+                    "Toprak"
+                ],
+                "correct_answer": 0,
+                "category": "Din",
+                "source_id": "Yaratilis",
+                "difficulty": 7
+            },
+            {
+                "question": "Kuran'da \"mudğa\" aşaması ne olarak tarif edilir?",
+                "options": [
+                    "Dölleyici sperm",
+                    "Rahme asılmış embriyo",
+                    "Bir çiğnem et",
+                    "Kemik"
+                ],
+                "correct_answer": 2,
+                "category": "Din",
+                "source_id": "Yaratilis",
+                "difficulty": 6
+            },
+            {
                 "question": "Zangır zangır yapılan hangisidir?",
                 "options": [
                     "Terlemek",
@@ -547,7 +5076,6 @@
                 "source_id": "Kim Milyoner Olmak İster ATV Galerisi",
                 "difficulty": 6
             },
-            
             {
                 "question": "Hangisi Klasik Batı Müziği bestecisidir?",
                 "options": [
@@ -10946,7 +15474,7 @@
                 "correct_answer": 3,
                 "category": "Coğrafya",
                 "source_id": "Q37",
-                "difficulty": 1
+                "difficulty": 4
             },
             {
                 "question": "Türkiye'nin başkenti aşağıdakilerden hangisidir?",
