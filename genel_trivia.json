@@ -2,6 +2,1436 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "1934 yılında sahnelenen ve Türkiye Cumhuriyeti'nin 'ilk operası' kabul edilen, bestesi Ahmed Adnan Saygun'a ait olan eser hangisidir?",
+                "options": [
+                    "Taş Bebek",
+                    "Özsoy",
+                    "Bay Önder",
+                    "Kerem"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünya tarihinin en büyük mimari yapılarından biri olan Ayasofya'nın (Hagia Sophia) 6. yüzyıldaki inşasında görev alan asıl mimarlar kimlerdir?",
+                "options": [
+                    "Mimar Sinan - Sedefkar Mehmet Ağa",
+                    "Isidore of Miletus - Anthemius of Tralles",
+                    "Vitruvius - Apollodorus",
+                    "Giotto - Brunelleschi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Video oyun tarihinde, bir oyunun içine gizlenen ilk 'Easter Egg' (Paskalya Yumurtası) hangi oyunda, tasarımcısı Warren Robinett tarafından yerleştirilmiştir?",
+                "options": [
+                    "Pac-Man",
+                    "Adventure",
+                    "Space Invaders",
+                    "Pong"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Türk edebiyatında 'Anayurt Oteli' ve 'Aylak Adam' gibi psikolojik derinliği yüksek eserleriyle tanınan yazar kimdir?",
+                "options": [
+                    "Yusuf Atılgan",
+                    "Bilge Karasu",
+                    "Vüs'at O. Bener",
+                    "Ferit Edgü"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Periyodik tabloda yer alan ve doğada en nadir bulunan element olarak kabul edilen, toplam miktarının yer kabuğunda 30 gramdan az olduğu tahmin edilen element hangisidir?",
+                "options": [
+                    "Fransiyum",
+                    "Astatin",
+                    "Prometyum",
+                    "Radyum"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Müzik dünyasının en prestijli ödülü olan Grammy'yi kazanan 'ilk Türk sanatçı' (yapımcı kimliğiyle) kimdir?",
+                "options": [
+                    "Arif Mardin",
+                    "Ahmet Ertegün",
+                    "Fazıl Say",
+                    "Sertab Erener"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "İskandinav mitolojisinde, savaşta ölen kahramanların yarısını Valhalla'ya Odin götürürken, diğer yarısını kendi sarayı Sessrúmnir'e götüren aşk ve savaş tanrıçası kimdir?",
+                "options": [
+                    "Frigg",
+                    "Freyja",
+                    "Hel",
+                    "Skadi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "1930'lu yıllarda Nuri Demirağ tarafından üretilen ve Türkiye'nin ilk yerli uçaklarından biri olan yolcu uçağının modeli hangisidir?",
+                "options": [
+                    "Nu D.36",
+                    "Nu D.38",
+                    "THK-5",
+                    "Vecihi K-VI"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Biyolojide, mikroskop altında ilk kez 'hücre' (cell) terimini kullanan ve bir mantar meşesi kesitini inceleyen İngiliz bilim insanı kimdir?",
+                "options": [
+                    "Antonie van Leeuwenhoek",
+                    "Robert Hooke",
+                    "Matthias Schleiden",
+                    "Theodor Schwann"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1961 yılında Nobel Edebiyat Ödülü'nü kazanan ve 'Drina Köprüsü' adlı romanıyla Balkanlar'ın tarihini anlatan yazar kimdir?",
+                "options": [
+                    "İvo Andriç",
+                    "Nikola Tesla",
+                    "Miloş Crnjanski",
+                    "Meşa Selimoviç"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "İtalyan şair Dante Alighieri'nin 'İlahi Komedya' adlı eserinde, şaire 'Cehennem' ve 'Araf' yolculuğu boyunca rehberlik eden Antik Roma şairi kimdir?",
+                "options": [
+                    "Homer",
+                    "Ovidius",
+                    "Vergilius",
+                    "Horatius"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Sanat tarihinde, 'Las Meninas' (Nedimeler) adlı ünlü tablosunda kendisini de resim yaparken betimleyen İspanyol Barok ressam kimdir?",
+                "options": [
+                    "Diego Velázquez",
+                    "Francisco Goya",
+                    "El Greco",
+                    "Bartolomé Esteban Murillo"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "1967 yılında dünyada 'ilk başarılı insan kalbi naklini' gerçekleştiren Güney Afrikalı cerrah kimdir?",
+                "options": [
+                    "Robert Jarvik",
+                    "Christiaan Barnard",
+                    "Alexander Fleming",
+                    "Jonas Salk"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türk basın tarihinde, Şinasi ve Agâh Efendi tarafından 1860 yılında çıkarılan 'ilk özel gazete' hangisidir?",
+                "options": [
+                    "Takvim-i Vekayi",
+                    "Ceride-i Havadis",
+                    "Tercüman-ı Ahvâl",
+                    "Tasvir-i Efkâr"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Astronimide, bir beyaz cüce yıldızın patlamadan sahip olabileceği maksimum kütleyi ifade eden sınır hangisidir?",
+                "options": [
+                    "Oort Bulutu",
+                    "Event Horizon",
+                    "Chandrasekhar Limiti",
+                    "Hubble Sabiti"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "1958 yılında William Higinbotham tarafından bir osiloskop üzerinde geliştirilen ve 'ilk video oyunlarından biri' kabul edilen yapım hangisidir?",
+                "options": [
+                    "Pong",
+                    "Tennis for Two",
+                    "Space Invaders",
+                    "Spacewar!"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünyanın en yüksek dağı Everest'in zirvesine 1953 yılında ulaşan ilk insanlar Edmund Hillary ve Tenzing Norgay'dır. Peki, Everest Dağı'nın adını aldığı Sir George Everest'in mesleği nedir?",
+                "options": [
+                    "Jeolog",
+                    "Kadastro Genel Müdürü",
+                    "Dağcı",
+                    "Diplomat"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Türk edebiyatında Şemseddin Sami tarafından yazılan ve 'ilk yerli roman' olarak kabul edilen eser hangisidir?",
+                "options": [
+                    "İntibah",
+                    "Araba Sevdası",
+                    "Taaşşuk-ı Talat ve Fitnat",
+                    "Eylül"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Nobel Barış Ödülü'nü reddeden ilk ve tek kişi olan, Vietnamlı siyasetçi ve diplomat kimdir?",
+                "options": [
+                    "Le Duc Tho",
+                    "Ho Chi Minh",
+                    "Vo Nguyen Giap",
+                    "Nguyen Cao Ky"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Ünlü 'Pi' sayısının virgülden sonraki basamaklarını hesaplamak için kullanılan algoritmaların temelini atan ve 'Modern Cebir'in babası sayılan Müslüman bilim insanı kimdir?",
+                "options": [
+                    "Ömer Hayyam",
+                    "Harezmî",
+                    "Birûnî",
+                    "İbn-i Heysem"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün ebedi istirahatgahı olan Anıtkabir'in mimarları kimlerdir?",
+                "options": [
+                    "Mimar Sinan - Sedefkar Mehmet Ağa",
+                    "Emin Onat - Orhan Arda",
+                    "Vedat Tek - Mimar Kemaleddin",
+                    "Turgut Cansever - Behruz Çinici"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Periyodik cetvelde 'W' simgesiyle gösterilen, erime noktası en yüksek olan metal element hangisidir?",
+                "options": [
+                    "Titanyum",
+                    "Vanadyum",
+                    "Volfram (Tungsten)",
+                    "Platin"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Yunan mitolojisinde, yeraltı dünyasına (Hades) giren ruhların geçmiş yaşamlarını tamamen unutmak için içtikleri nehrin adı nedir?",
+                "options": [
+                    "Styx",
+                    "Lethe",
+                    "Acheron",
+                    "Phlegethon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Asya kıtası dışındaki en yüksek dağ olan Aconcagua hangi ülkede bulunmaktadır?",
+                "options": [
+                    "Peru",
+                    "Şili",
+                    "Arjantin",
+                    "Bolivya"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "1893 yılında dünyada kadınlara seçme ve seçilme hakkını tanıyan ilk ülke hangisidir?",
+                "options": [
+                    "Yeni Zelanda",
+                    "Norveç",
+                    "Finlandiya",
+                    "İsviçre"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Müzikte 'Allegro'dan daha hızlı, çok çabuk ve canlı bir tempoyu ifade eden terim hangisidir?",
+                "options": [
+                    "Andante",
+                    "Moderato",
+                    "Adagio",
+                    "Presto"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "Modern genetik biliminin kurucusu kabul edilen ve bezelyeler üzerinde yaptığı deneylerle kalıtım yasalarını keşfeden bilim insanı kimdir?",
+                "options": [
+                    "Charles Darwin",
+                    "Gregor Mendel",
+                    "Louis Pasteur",
+                    "Thomas Morgan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1900'lerin başında bir gemi enkazında bulunan ve 'dünyanın ilk analog bilgisayarı' olarak kabul edilen Antik Yunan düzeneği hangisidir?",
+                "options": [
+                    "Astrolab",
+                    "Antikythera Mekanizması",
+                    "İskenderiye Feneri",
+                    "Arşimet Vidası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Aydınlanma Çağı'nın en önemli yapıtlarından biri olan 'Toplum Sözleşmesi' (Du Contrat Social) adlı eserin yazarı kimdir?",
+                "options": [
+                    "Voltaire",
+                    "Montesquieu",
+                    "Jean-Jacques Rousseau",
+                    "John Locke"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Tarihte dünyanın etrafını dolaşan ilk insan olarak bilinen (ancak yolculuk sırasında Filipinler'de öldüğü için seferi yardımcısı tamamlayan) kaşif kimdir?",
+                "options": [
+                    "Vasco da Gama",
+                    "Bartelmi Diyas",
+                    "Kristof Kolomb",
+                    "Ferdinand Magellan"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "İspanyol Rönesansı'nın en önemli isimlerinden olan ve 'El Greco' (Yunanlı) lakabıyla tanınan ressamın asıl adı nedir?",
+                "options": [
+                    "Diego Velázquez",
+                    "Doménikos Theotokópoulos",
+                    "Francisco Goya",
+                    "Salvador Dalí"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Amerika Birleşik Devletleri tarihinde, bir icat için 'patent' alan ilk ve tek ABD başkanı kimdir?",
+                "options": [
+                    "Abraham Lincoln",
+                    "Thomas Jefferson",
+                    "Benjamin Franklin",
+                    "George Washington"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Dünyanın en derin gölü olan ve dünya üzerindeki donmamış tatlı suyun yaklaşık %20'sini barındıran göl hangisidir?",
+                "options": [
+                    "Superior Gölü",
+                    "Victoria Gölü",
+                    "Baykal Gölü",
+                    "Tanganika Gölü"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Türk dilleri üzerine yapılmış ilk kapsamlı sözlük ve dil bilgisi kitabı olan 'Divan-ı Lügat-it Türk'ün yazarı kimdir?",
+                "options": [
+                    "Kaşgarlı Mahmud",
+                    "Yusuf Has Hacib",
+                    "Edip Ahmet Yükneki",
+                    "Ahmet Yesevi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "1989 yılında CERN'de çalışırken 'World Wide Web' (WWW) sistemini kurarak modern internetin temellerini atan isim kimdir?",
+                "options": [
+                    "Vint Cerf",
+                    "Tim Berners-Lee",
+                    "Bill Gates",
+                    "Steve Jobs"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Klasik müziğin en ünlü eserlerinden biri olan 'Fındıkkıran' (The Nutcracker) balesinin bestecisi kimdir?",
+                "options": [
+                    "Igor Stravinsky",
+                    "Sergei Prokofiev",
+                    "Dmitri Shostakovich",
+                    "Pyotr İlyiç Çaykovski"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "1982 yılında Roma'ya atanarak Türkiye Cumhuriyeti'nin 'ilk kadın büyükelçisi' olan diplomat kimdir?",
+                "options": [
+                    "Filiz Dinçmen",
+                    "Tansu Çiller",
+                    "Adile Ayda",
+                    "Gülten Akın"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Siyasi düşünce tarihinin en önemli yapıtlarından biri olan ve 'ideal bir ada toplumunu' betimleyen 'Ütopya' (Utopia) adlı eserin yazarı kimdir?",
+                "options": [
+                    "Niccolò Machiavelli",
+                    "Thomas More",
+                    "Tommaso Campanella",
+                    "Erasmus"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Sinema tarihinin en büyük başyapıtlarından biri kabul edilen 1941 yapımı 'Yurttaş Kane' (Citizen Kane) filminin hem yönetmeni hem de başrol oyuncusu kimdir?",
+                "options": [
+                    "Orson Welles",
+                    "Alfred Hitchcock",
+                    "Charlie Chaplin",
+                    "John Ford"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Güneş merkezli evren modelini Kopernik'ten yaklaşık 1800 yıl önce ilk kez ortaya atan Antik Yunanlı astronom ve matematikçi kimdir?",
+                "options": [
+                    "Batlamyus",
+                    "Arşimet",
+                    "Pisagor",
+                    "Samoslu Aristarkus"
+                ],
+                "correct_answer": 3,
+                "difficulty": 10
+            },
+            {
+                "question": "Ünlü yazar Cervantes, dünya edebiyatının ilk modern romanı kabul edilen 'Don Kişot'u yazmadan yıllar önce hangi savaşta elinden yaralanarak 'İnebahtı Sakatı' lakabını almıştır?",
+                "options": [
+                    "Preveze Deniz Muharebesi",
+                    "İnebahtı Deniz Muharebesi",
+                    "Mohaç Meydan Muharebesi",
+                    "Viyana Kuşatması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünya üzerinde herhangi bir kara parçasına kıyısı olmayan tek deniz hangisidir?",
+                "options": [
+                    "Sargasso Denizi",
+                    "Umman Denizi",
+                    "Mercan Denizi",
+                    "Lut Gölü"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Bilgisayar dünyasında devrim yaratan 'C' programlama dilini geliştiren ve aynı zamanda Unix işletim sisteminin kurucularından olan isim kimdir?",
+                "options": [
+                    "Bill Gates",
+                    "Dennis Ritchie",
+                    "Linus Torvalds",
+                    "Steve Wozniak"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Antik Mısır mitolojisinde hiyerogliflerin mucidi, bilgeliğin, yazının ve ayın tanrısı olarak kabul edilen, genellikle 'İbis' kuşu başıyla tasvir edilen tanrı kimdir?",
+                "options": [
+                    "Osiris",
+                    "Horus",
+                    "Thoth",
+                    "Seth"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Hindistan'daki ünlü Tac Mahal'in asıl mimarı olarak kabul edilen, Osmanlı mimari ekolünden gelen isim kimdir?",
+                "options": [
+                    "Mimar Sinan",
+                    "Üstad İsa (Hicazî)",
+                    "Sedefkar Mehmet Ağa",
+                    "Mimar Hayrettin"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Klasik müzik dünyasında, Beethoven'dan sonra birçok bestecinin 9. senfonisini tamamladıktan sonra öleceğine dair duyduğu batıl inanca ne ad verilir?",
+                "options": [
+                    "Senfonik Kader",
+                    "Beethoven Sendromu",
+                    "9. Senfoni Laneti",
+                    "Viyana Melankolisi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Rönesans döneminin en karmaşık ve gizemli eserlerinden biri olan 'Dünyevi Zevkler Bahçesi' triptiği (üç parçalı tablo) hangi ressama aittir?",
+                "options": [
+                    "Hieronymus Bosch",
+                    "Pieter Bruegel",
+                    "Jan van Eyck",
+                    "Albrecht Dürer"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "1923 yılında imzalanan Lozan Antlaşması'na göre, Türkiye ile Yunanistan arasındaki sınır hattını oluşturan nehir hangisidir?",
+                "options": [
+                    "Aras",
+                    "Meriç",
+                    "Tunca",
+                    "Karasu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Biyolojide, hücre içerisinde protein sentezinin gerçekleştiği, hem bitki hem de hayvan hücrelerinde bulunan zarsız organel hangisidir?",
+                "options": [
+                    "Mitokondri",
+                    "Lizozom",
+                    "Ribozom",
+                    "Golgi Aygıtı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Dünya tarihinin en yüksek para ödüllü yarışmalarından biri olan ve 11 soruyu doğru yanıtlayan birinin 1 Milyon Sterlin kazandığı orijinal 'Who Wants to Be a Millionaire?' formatı ilk olarak hangi ülkede yayınlanmıştır?",
+                "options": [
+                    "Amerika Birleşik Devletleri",
+                    "Birleşik Krallık",
+                    "Almanya",
+                    "Fransa"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye Cumhuriyeti'nin ilk kadın tıp doktoru ve tıp eğitimi veren ilk kadını kimdir?",
+                "options": [
+                    "Safiye Ali",
+                    "Türkan Akyol",
+                    "Behice Boran",
+                    "Halide Edip Adıvar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Modern fiziğin temellerinden olan 'Mutlak Sıfır' noktası yaklaşık olarak kaç santigrat derecedir?",
+                "options": [
+                    "0 °C",
+                    "-100 °C",
+                    "-273,15 °C",
+                    "-315,15 °C"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Türk edebiyatında 'modernizmin' öncülerinden kabul edilen, 'Tutunamayanlar' ve 'Tehlikeli Oyunlar' romanlarının yazarı kimdir?",
+                "options": [
+                    "Yusuf Atılgan",
+                    "Oğuz Atay",
+                    "Adalet Ağaoğlu",
+                    "Peyami Safa"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Dünyanın en kurak yeri olarak bilinen ve bazı bölgelerine yüzyıllardır yağmur düşmediği kaydedilen Atacama Çölü hangi ülkededir?",
+                "options": [
+                    "Mısır",
+                    "Avustralya",
+                    "Şili",
+                    "Moğolistan"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Pablo Picasso'nun, İspanya İç Savaşı sırasında bir kasabanın bombalanmasını anlatan ve kübizm akımının en önemli eserlerinden biri sayılan tablosu hangisidir?",
+                "options": [
+                    "Avignonlu Kızlar",
+                    "Ağlayan Kadın",
+                    "Guernica",
+                    "Eski Gitarist"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Sinema tarihinde, 1953 yılında Muhsin Ertuğrul tarafından yönetilen Türkiye'nin 'ilk renkli filmi' hangisidir?",
+                "options": [
+                    "Halıcı Kız",
+                    "Bir Millet Uyanıyor",
+                    "Susuz Yaz",
+                    "Yılanların Öcü"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Oyun programlama ve sistem yazılımlarında yaygın olarak kullanılan 'C++' programlama dilini geliştiren bilgisayar bilimcisi kimdir?",
+                "options": [
+                    "Dennis Ritchie",
+                    "Bjarne Stroustrup",
+                    "James Gosling",
+                    "Guido van Rossum"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Güneş Sistemi'ndeki tüm gezegenlerin toplam kütlesi, Güneş'in kütlesinin yaklaşık yüzde kaçına tekabül eder?",
+                "options": [
+                    "%10",
+                    "%5",
+                    "%1",
+                    "%0,14"
+                ],
+                "correct_answer": 3,
+                "difficulty": 10
+            },
+            {
+                "question": "Antik Mısır mitolojisinde, ölenlerin kalplerini bir tüy ile tartarak yargılayan, çakal başlı 'ölüm ve mumyalama tanrısı' kimdir?",
+                "options": [
+                    "Osiris",
+                    "Ra",
+                    "Anubis",
+                    "Horus"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "1977 yılında fırlatılan ve şu an yıldızlararası uzayda yolculuğuna devam eden, üzerinde insanlığa dair mesajlar içeren bir 'Altın Plak' taşıyan uzay aracı hangisidir?",
+                "options": [
+                    "Voyager 1",
+                    "Pioneer 10",
+                    "Apollo 11",
+                    "Cassini"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "1967 yılında Nobel Edebiyat Ödülü'nü kazanan ve 'Büyülü Gerçekçilik' akımının en önemli temsilcilerinden biri olan 'Yüzyıllık Yalnızlık' romanının yazarı kimdir?",
+                "options": [
+                    "Jorge Luis Borges",
+                    "Gabriel García Márquez",
+                    "Pablo Neruda",
+                    "Isabel Allende"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Güneş Sistemi'ne en yakın yıldız sistemi hangisidir?",
+                "options": [
+                    "Sirius",
+                    "Alpha Centauri",
+                    "Barnard Yıldızı",
+                    "Betelgeuse"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "İngiliz hukuk tarihinin temel taşlarından biri kabul edilen ve 1215 yılında Kral John tarafından imzalanan belge hangisidir?",
+                "options": [
+                    "Haklar Bildirgesi (Bill of Rights)",
+                    "Magna Carta Libertatum",
+                    "Habeas Corpus",
+                    "Büyük Reform Yasası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Barok dönem müziğinin en önemli isimlerinden olan ve 'Dört Mevsim' keman konçertolarıyla tanınan İtalyan besteci kimdir?",
+                "options": [
+                    "Johann Sebastian Bach",
+                    "Antonio Vivaldi",
+                    "Claudio Monteverdi",
+                    "Georg Friedrich Händel"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Sinema tarihinde 'En İyi Yönetmen' Oscar'ını kazanan ilk Türk asıllı yönetmen kimdir?",
+                "options": [
+                    "Nuri Bilge Ceylan",
+                    "Fatih Akın",
+                    "Elia Kazan",
+                    "Ferzan Özpetek"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünya tarihinin ilk 'algoritmasını' yazdığı kabul edilen ve ilk bilgisayar programcısı olarak tarihe geçen kadın kimdir?",
+                "options": [
+                    "Grace Hopper",
+                    "Ada Lovelace",
+                    "Katherine Johnson",
+                    "Margaret Hamilton"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "İslam felsefesinde Aristo'dan sonra 'Muallim-i Sani' (İkinci Öğretmen) olarak anılan Türk-İslam bilgini kimdir?",
+                "options": [
+                    "İbn-i Sina",
+                    "Farabi",
+                    "Gazali",
+                    "İbn-i Rüşd"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Modern edebiyatın en zorlayıcı eserlerinden biri kabul edilen ve her bölümü Homeros'un Odysseia destanıyla paralellikler taşıyan 'Ulysses' romanının yazarı kimdir?",
+                "options": [
+                    "Virginia Woolf",
+                    "Marcel Proust",
+                    "James Joyce",
+                    "Franz Kafka"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "1962 yılında MIT'de geliştirilen ve bilgisayar tarihindeki 'ilk dijital video oyunu' olarak kabul edilen yapım hangisidir?",
+                "options": [
+                    "Pong",
+                    "Spacewar!",
+                    "Pac-Man",
+                    "Tetris"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Johannes Vermeer'in 'Kuzeyin Mona Lisa'sı' olarak da adlandırılan ünlü tablosu hangisidir?",
+                "options": [
+                    "Süt Boşaltan Kadın",
+                    "İnci Küpeli Kız",
+                    "Resim Sanatı",
+                    "Açık Pencere Önünde Mektup Okuyan Kız"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Amerika Birleşik Devletleri'nin simgesi olan Özgürlük Heykeli'nin asıl tasarımcısı ve heykeltıraşı kimdir?",
+                "options": [
+                    "Gustave Eiffel",
+                    "Frédéric Auguste Bartholdi",
+                    "Eugene Delacroix",
+                    "Auguste Rodin"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "1971 yılında Türkiye Cumhuriyeti'nin 'ilk kadın bakanı' olarak Sağlık ve Sosyal Yardım Bakanlığı görevine getirilen isim kimdir?",
+                "options": [
+                    "Türkan Akyol",
+                    "Işılay Saygın",
+                    "İmren Aykut",
+                    "Tansu Çiller"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Periyodik tabloda, doğada kendiliğinden bulunmayan ve yapay yollarla elde edilen (sentetik) ilk element hangisidir?",
+                "options": [
+                    "Plütonyum",
+                    "Amerikyum",
+                    "Teknesyum",
+                    "Uranyum"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Dünyanın en uzun kıyı şeridine sahip olan ülkesi hangisidir?",
+                "options": [
+                    "Rusya",
+                    "Avustralya",
+                    "Kanada",
+                    "Endonezya"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Video oyun tarihinin 'ilk ev tipi oyun konsolu' olarak kabul edilen ve 1972'de piyasaya sürülen cihaz hangisidir?",
+                "options": [
+                    "Atari 2600",
+                    "Nintendo (NES)",
+                    "Magnavox Odyssey",
+                    "Commodore 64"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Yunan mitolojisinde 'demirci tanrı' olarak bilinen, Zeus ve Hera'nın oğlu olup topallığıyla tanınan tanrı kimdir?",
+                "options": [
+                    "Hermes",
+                    "Hephaistos",
+                    "Ares",
+                    "Dionisos"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1957 yılında uzaya gönderilen ve içinde 'Laika' adlı köpeği taşıyan Sovyet yapımı yapay uydu hangisidir?",
+                "options": [
+                    "Sputnik 1",
+                    "Sputnik 2",
+                    "Vostok 1",
+                    "Luna 2"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Sinema tarihinde 'bilimkurgunun atası' kabul edilen, 1927 yapımı sessiz şaheser 'Metropolis' filminin yönetmeni kimdir?",
+                "options": [
+                    "F.W. Murnau",
+                    "Fritz Lang",
+                    "Sergey Ayzenştayn",
+                    "Alfred Hitchcock"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Tıp literatüründe 'Askorbik Asit' olarak bilinen vitamin hangisidir?",
+                "options": [
+                    "A Vitamini",
+                    "B12 Vitamini",
+                    "C Vitamini",
+                    "D Vitamini"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Ludwig van Beethoven'ın ünlü '9. Senfoni'sinin son bölümünde koro tarafından seslendirilen 'Neşeye Övgü' (Ode to Joy) şiiri kime aittir?",
+                "options": [
+                    "Goethe",
+                    "Friedrich Schiller",
+                    "Heinrich Heine",
+                    "Rainer Maria Rilke"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünyada, deniz aşırı toprakları ve kolonileri sayesinde en çok zaman dilimine (time zone) sahip olan ülke hangisidir?",
+                "options": [
+                    "Rusya",
+                    "Amerika Birleşik Devletleri",
+                    "Çin",
+                    "Fransa"
+                ],
+                "correct_answer": 3,
+                "difficulty": 8
+            },
+            {
+                "question": "Fizik dünyasında 'Tanrı Parçacığı' olarak da adlandırılan ve atom altı parçacıklara kütle kazandırdığı düşünülen parçacık hangisidir?",
+                "options": [
+                    "Kuvark",
+                    "Gluon",
+                    "Higgs Bozonu",
+                    "Lepton"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "14. yüzyılda İtalyan yazar Giovanni Boccaccio tarafından yazılan ve Avrupa edebiyatının ilk hikaye örneği kabul edilen eser hangisidir?",
+                "options": [
+                    "İlahi Komedya",
+                    "Decameron",
+                    "Prens",
+                    "Canterbury Hikayeleri"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye Cumhuriyeti'nin ilk kadın avukatı ve kadın hakları savunucusu olan isim kimdir?",
+                "options": [
+                    "Halide Edip Adıvar",
+                    "Süreyya Ağaoğlu",
+                    "Fatma Aliye Hanım",
+                    "Sabiha Sertel"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "2019 yılında tarihte ilk kez bir kara deliğin doğrudan görüntüsü elde edilmiştir. Bu devasa kara delik hangi galaksinin merkezinde bulunmaktadır?",
+                "options": [
+                    "Andromeda",
+                    "Samanyolu",
+                    "Messier 87",
+                    "Sombrero"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Psikanaliz ekolünün kurucusu kabul edilen ve 'Rüyaların Yorumu' adlı çığır açan eseri kaleme alan Avusturyalı nörolog kimdir?",
+                "options": [
+                    "Carl Jung",
+                    "Alfred Adler",
+                    "Sigmund Freud",
+                    "Ivan Pavlov"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Klasik müzik tarihinde, tek bir ritmik temanın tüm eser boyunca tekrarlandığı dünyaca ünlü 'Boléro' adlı eserin bestecisi kimdir?",
+                "options": [
+                    "Claude Debussy",
+                    "Frédéric Chopin",
+                    "Maurice Ravel",
+                    "Wolfgang Amadeus Mozart"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Modern bilgisayar biliminin babası sayılan, II. Dünya Savaşı sırasında 'Enigma' şifresini kıran İngiliz matematikçi kimdir?",
+                "options": [
+                    "Ada Lovelace",
+                    "Alan Turing",
+                    "Charles Babbage",
+                    "John von Neumann"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1924 yılında tarihteki ilk Kış Olimpiyat Oyunları'na ev sahipliği yapan şehir hangisidir?",
+                "options": [
+                    "St. Moritz",
+                    "Chamonix",
+                    "Oslo",
+                    "Lake Placid"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "İnsan vücudundaki en küçük kemik olan ve orta kulakta bulunan 'üzengi' kemiğinin tıp literatüründeki adı nedir?",
+                "options": [
+                    "Incus",
+                    "Malleus",
+                    "Stapes",
+                    "Patella"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "İstiklal Marşı'nın günümüzde kullanılan bestesi Osman Zeki Üngör'e aittir. Peki, marşın 1924-1930 yılları arasında kullanılan ilk bestesi kime aittir?",
+                "options": [
+                    "Saadettin Kaynak",
+                    "Ali Rıfat Çağatay",
+                    "Münir Nurettin Selçuk",
+                    "Hacı Arif Bey"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "1921 yılında Nobel Fizik Ödülü'nü kazanan Albert Einstein, bu ödülü hangi çalışmasıyla elde etmiştir?",
+                "options": [
+                    "Genel Görelilik Teorisi",
+                    "Özel Görelilik Teorisi",
+                    "Fotoelektrik Etki Yasası",
+                    "Brownian Hareketi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Osmanlı Devleti'nde matbaayı getiren İbrahim Müteferrika'nın bastığı ilk kitap hangisidir?",
+                "options": [
+                    "Vankulu Lügati",
+                    "Kitab-ı Bahriye",
+                    "Tuhfetü'l-Kibar",
+                    "Cihannüma"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Türk edebiyatında 'Şair-i Azam' unvanıyla tanınan ve Türk şiirine metafizik ürpertiyi getiren 'Makber' şiirinin yazarı kimdir?",
+                "options": [
+                    "Recaizade Mahmut Ekrem",
+                    "Muallim Naci",
+                    "Abdülhak Hamit Tarhan",
+                    "Tevfik Fikret"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Mimar Sinan'ın 'Çıraklık eserim' olarak nitelendirdiği İstanbul'daki yapı hangisidir?",
+                "options": [
+                    "Süleymaniye Camii",
+                    "Şehzade Camii",
+                    "Selimiye Camii",
+                    "Mihrimah Sultan Camii"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Brezilya'nın başkenti hangisidir?",
+                "options": [
+                    "Brasilia",
+                    "Rio de Janeiro",
+                    "Sao Paulo",
+                    "Salvador"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Kimya biliminde 'Modern Kimyanın Babası' olarak kabul edilen ve kütlenin korunumu kanununu bulan Fransız bilim insanı kimdir?",
+                "options": [
+                    "John Dalton",
+                    "Antoine Lavoisier",
+                    "Dmitri Mendeleev",
+                    "Robert Boyle"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Aşağıdaki ülkelerden hangisi Birleşmiş Milletler Güvenlik Konseyi'nin 5 daimi üyesinden biri değildir?",
+                "options": [
+                    "Çin",
+                    "Fransa",
+                    "Rusya",
+                    "Almanya"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "İskandinav mitolojisinde 'Tanrıların Babası' olarak bilinen ve bir gözünü bilgi pınarı için feda eden tanrı kimdir?",
+                "options": [
+                    "Thor",
+                    "Loki",
+                    "Odin",
+                    "Freyr"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Dünyanın en yüksek şelalesi olan Angel Şelalesi hangi ülkededir?",
+                "options": [
+                    "Brezilya",
+                    "Venezuela",
+                    "Arjantin",
+                    "Güney Afrika"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünyada en çok adaya sahip olan ülke hangisidir?",
+                "options": [
+                    "Endonezya",
+                    "Filipinler",
+                    "İsveç",
+                    "Kanada"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye'nin ilk kadın valisi olarak 1991 yılında Muğla'ya atanan isim kimdir?",
+                "options": [
+                    "Lale Aytaman",
+                    "Tansu Çiller",
+                    "Türkan Akyol",
+                    "Filiz Dinçmen"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Periyodik tabloda 'Pb' simgesiyle gösterilen ve Latince ismi 'Plumbum' olan element hangisidir?",
+                "options": [
+                    "Platin",
+                    "Kurşun",
+                    "Fosfor",
+                    "Paladyum"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1980 yılında 'Gülün Adı' (Il nome della rosa) adlı ünlü romanı yayımlanan İtalyan yazar ve göstergebilimci kimdir?",
+                "options": [
+                    "Italo Calvino",
+                    "Dante Alighieri",
+                    "Umberto Eco",
+                    "Giovanni Boccaccio"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Milli Mücadele döneminde TBMM hükümetini resmen tanıyan ilk devlet hangisidir?",
+                "options": [
+                    "Sovyet Rusya",
+                    "Ermenistan",
+                    "Fransa",
+                    "Afganistan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Kendi adıyla anılan matematiksel teoremiyle bilinen ve 10 Türk Lirası'nın arka yüzünde portresi bulunan bilim insanımız kimdir?",
+                "options": [
+                    "Cahit Arf",
+                    "Aydın Sayılı",
+                    "Feza Gürsey",
+                    "Behram Kurşunoğlu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Dünyanın en eski borsası olarak kabul edilen ve 1602 yılında kurulan borsa hangi şehirdedir?",
+                "options": [
+                    "Londra",
+                    "Anvers",
+                    "Amsterdam",
+                    "Venedik"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Güneş Sistemi'nde, eksen eğikliği 98 derece olduğu için adeta 'yuvarlanan bir varil gibi' yörüngesinde ilerleyen gezegen hangisidir?",
+                "options": [
+                    "Neptün",
+                    "Uranüs",
+                    "Satürn",
+                    "Venüs"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Türk edebiyatında 'Sultan-uş Şuara' (Şairler Sultanı) unvanına sahip olan, 'Çile' ve 'Kaldırımlar' şiirlerinin yazarı kimdir?",
+                "options": [
+                    "Yahya Kemal Beyatlı",
+                    "Nazım Hikmet",
+                    "Ahmet Hamdi Tanpınar",
+                    "Necip Fazıl Kısakürek"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "Modern olimpiyat meşalesi uygulaması ilk kez hangi olimpiyat oyunlarında başlatılmıştır?",
+                "options": [
+                    "1896 Atina",
+                    "1924 Paris",
+                    "1928 Amsterdam",
+                    "1936 Berlin"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünyanın ilk kadın savaş pilotu olan ve 1937 yılında Dersim Harekatı'na katılan Türk pilot kimdir?",
+                "options": [
+                    "Sabiha Gökçen",
+                    "Leman Bozkurt Altınçekiç",
+                    "Safiye Ali",
+                    "Süreyya Ağaoğlu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 4
+            },
+            {
+                "question": "Avustralya'nın başkenti hangi şehirdir?",
+                "options": [
+                    "Sidney",
+                    "Melbourne",
+                    "Canberra",
+                    "Perth"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Dünya çapında 'Küçük Prens' kitabıyla tanınan Fransız yazar ve pilot kimdir?",
+                "options": [
+                    "Albert Camus",
+                    "Antoine de Saint-Exupéry",
+                    "Victor Hugo",
+                    "Jean-Paul Sartre"
+                ],
+                "correct_answer": 1,
+                "difficulty": 3
+            },
+            {
+                "question": "Türkiye'nin yüz ölçümü bakımından en büyük gölü hangisidir?",
+                "options": [
+                    "Van Gölü",
+                    "Tuz Gölü",
+                    "Beyşehir Gölü",
+                    "Eğirdir Gölü"
+                ],
+                "correct_answer": 0,
+                "difficulty": 2
+            },
+            {
+                "question": "Ocak 2024'te Uluslararası Uzay İstasyonu'na giderek 'Türkiye'nin ilk astronotu' unvanını alan isim kimdir?",
+                "options": [
+                    "Tuva Cihangir Atasever",
+                    "Alper Gezeravcı",
+                    "Umut Yıldız",
+                    "Halil Kayıkçı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 1
+            },
+            {
+                "question": "Dünyanın en ünlü tablosu olarak kabul edilen 'Mona Lisa'nın yüzünde hangi uzvun (kıl yapısının) olmadığı sıkça tartışma konusu olur?",
+                "options": [
+                    "Kirpikler",
+                    "Dudak çizgisi",
+                    "Kaşlar",
+                    "Burun delikleri"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünya atmosferinde en yüksek oranda bulunan gaz hangisidir?",
+                "options": [
+                    "Oksijen",
+                    "Karbondioksit",
+                    "Hidrojen",
+                    "Azot (Nitrogen)"
+                ],
+                "correct_answer": 3,
+                "difficulty": 6
+            },
+            {
+                "question": "'Kaplumbağa Terbiyecisi' adlı ünlü tablo hangi Türk ressama aittir?",
+                "options": [
+                    "Şeker Ahmed Paşa",
+                    "Osman Hamdi Bey",
+                    "İbrahim Çallı",
+                    "Abidin Dino"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Nobel ödülünü iki farklı bilim dalında (Fizik ve Kimya) kazanan tek bilim insanı kimdir?",
+                "options": [
+                    "Albert Einstein",
+                    "Marie Curie",
+                    "Nikola Tesla",
+                    "Isaac Newton"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Güneş sistemindeki 'Kızıl Gezegen' olarak bilinen gök cismi hangisidir?",
+                "options": [
+                    "Mars",
+                    "Venüs",
+                    "Jüpiter",
+                    "Satürn"
+                ],
+                "correct_answer": 0,
+                "difficulty": 2
+            },
+            {
+                "question": "Türkiye Cumhuriyeti'nin ilk başbakanı olan devlet adamı kimdir?",
+                "options": [
+                    "İsmet İnönü",
+                    "Fevzi Çakmak",
+                    "Celal Bayar",
+                    "Adnan Menderes"
+                ],
+                "correct_answer": 0,
+                "difficulty": 3
+            },
+            {
+                "question": "2003 yılında 'Everyway That I Can' şarkısıyla Türkiye'ye tek Eurovision birinciliğini getiren sanatçı hangisidir?",
+                "options": [
+                    "Şebnem Paker",
+                    "Hadise",
+                    "Sertab Erener",
+                    "maNga"
+                ],
+                "correct_answer": 2,
+                "difficulty": 2
+            },
+            {
+                "question": "Türk edebiyatında 'Mai ve Siyah' ile 'Aşk-ı Memnu' gibi eserlerin sahibi, Batılı anlamda Türk romanının temellerini atan yazar kimdir?",
+                "options": [
+                    "Namık Kemal",
+                    "Halit Ziya Uşaklıgil",
+                    "Reşat Nuri Güntekin",
+                    "Yakup Kadri Karaosmanoğlu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünya Kupası tarihinde A Milli Futbol Takımımızın elde ettiği en yüksek derece hangisidir?",
+                "options": [
+                    "Şampiyonluk",
+                    "İkincilik",
+                    "Üçüncülük",
+                    "Çeyrek Final"
+                ],
+                "correct_answer": 2,
+                "difficulty": 3
+            },
+            {
+                "question": "Osmanlı İmparatorluğu'nun başkenti olmamış şehir hangisidir?",
+                "options": [
+                    "Söğüt",
+                    "Edirne",
+                    "Konya",
+                    "Bursa"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Bilim dünyasında DNA'nın yapısını keşfeden isimlerden biri olan ve 2015'te Nobel Kimya Ödülü'nü kazanan Türk bilim insanı kimdir?",
+                "options": [
+                    "Canan Dağdeviren",
+                    "Aziz Sancar",
+                    "Uğur Şahin",
+                    "Gökhan Hotamışlıgil"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Sahneye çıkan ilk Müslüman Türk kadın tiyatro oyuncusu kimdir?",
+                "options": [
+                    "Bedia Muvahhit",
+                    "Afife Jale",
+                    "Cahide Sonku",
+                    "Gülriz Sururi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Periyodik cetvelde 'K' simgesiyle gösterilen element hangisidir?",
+                "options": [
+                    "Kalsiyum",
+                    "Klor",
+                    "Karbon",
+                    "Potasyum"
+                ],
+                "correct_answer": 3,
+                "difficulty": 8
+            },
+            {
+                "question": "2014 yılında 'Kış Uykusu' filmiyle Cannes Film Festivali'nde en büyük ödül olan Altın Palmiye'yi kazanan yönetmenimiz kimdir?",
+                "options": [
+                    "Zeki Demirkubuz",
+                    "Nuri Bilge Ceylan",
+                    "Semih Kaplanoğlu",
+                    "Fatih Akın"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en derin noktası olarak kabul edilen Mariana Çukuru hangi okyanustadır?",
+                "options": [
+                    "Atlas Okyanusu",
+                    "Hint Okyanusu",
+                    "Büyük Okyanus (Pasifik)",
+                    "Arktik Okyanusu"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
                 "question": "657 yılında gerçekleşen Sıffin Savaşı'nda, Hz. Ali'nin ordusu tam kazanmak üzereyken askerlerin mızraklarına Kur'an sayfaları bağlatarak savaşı durduran stratejist kimdir?",
                 "options": [
                     "Muaviye b. Ebu Süfyan",
@@ -20157,6 +21587,226 @@
             }
         ],
         "Kurtlar Vadisi": [
+            {
+                "question": "Diziye 'Sadece ölüler görür' sloganıyla giriş yapan ve Doğu Eşrefoğlu tarafından 'dağdan şehre indirilen' Pala ve ekibinin, aslında doğrudan bağlı olduğu 'Mithat' karakterinin görevi nedir?",
+                "options": [
+                    "Emniyet Müdürü",
+                    "Milli İstihbarat Başkanı",
+                    "Müsteşar Yardımcısı",
+                    "Jandarma İstihbarat Başkanı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Süleyman Çakır'ın ölümünün ardından Polat Alemdar'ın 'İstanbul Sefiri' olduğu ve tüm babaları topladığı meşhur kahvehane baskınında söylediği ilk cümle hangisidir?",
+                "options": [
+                    "Buraya racon kesmeye değil, kafa kesmeye geldim.",
+                    "Siz sağ olun, Cerrahpaşalılar öldü.",
+                    "Azdan az, çoktan çok gider.",
+                    "Selamünaleyküm beyler, sefirlik hayırlı olsun."
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Kurtlar Konseyi'nin en sadık üyesi olan ve Mehmet Karahanlı'nın 'fedaîsi' olarak bilinen Kılıç'ın, yüzündeki o meşhur yara izini kim yapmıştır?",
+                "options": [
+                    "Mehmet Karahanlı",
+                    "Arslan Akbey",
+                    "Laz Ziya",
+                    "Doğu Eşrefoğlu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Konsey üyesi Hüsrev Ağa'nın kızı Nazlı'nın uyuşturucu bağımlılığı nedeniyle tedavi gördüğü süreçte, ona aşık olan ve bu uğurda ölen Hüsrev Ağa'nın sağ kolu kimdir?",
+                "options": [
+                    "Abidin",
+                    "Tuncay",
+                    "Şevko",
+                    "Bekir"
+                ],
+                "correct_answer": 3,
+                "difficulty": 9
+            },
+            {
+                "question": "Polat Alemdar ve ekibinin, helikopterle hapishaneden kaçırdığı efsanevi uyuşturucu kaçakçısı 'Halil İbrahim Kapar' (Halo Dayı), gerçek hayatta hangi suç örgütü liderinden esinlenilmiştir?",
+                "options": [
+                    "Hüseyin Baybaşin",
+                    "Halil Havar",
+                    "Behçet Cantürk",
+                    "Abuzer Uğurlu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Aslan Akbey'in suikasta uğradığı bölümde, onu vuran 'pusu' timinin başında hangi karakter bulunmaktaydı?",
+                "options": [
+                    "Pala",
+                    "Bedir",
+                    "Kral Faruk",
+                    "Rus Selim"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Laz Ziya, kızı Meral'in Çakır ile olan ilişkisine ve başına buyruk hareketlerine kızarak onu bizzat infaz etmiştir. Meral'i öldürdüğü sırada Laz Ziya'nın yanında hangi sadık adamı vardı?",
+                "options": [
+                    "Orhan",
+                    "Yusuf Akrep",
+                    "Erdal",
+                    "Abidin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Mehmet Karahanlı'nın 'Büyük Kulüp'teki infazı sırasında kellesi kime veya neye kurban edilmiştir?",
+                "options": [
+                    "Konsey Kararına",
+                    "Tapınak Şövalyeleri'nin ayinine",
+                    "Rus Baron İbrahim'in emrine",
+                    "Polat Alemdar'ın planına"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Polat Alemdar'ın kız kardeşi Safiye Karahanlı, Toronto'dan Türkiye'ye döndüğünde hangi mesleği icra etmekteydi?",
+                "options": [
+                    "Avukat",
+                    "Doktor",
+                    "Piyano Öğretmeni",
+                    "Genetik Mühendisi"
+                ],
+                "correct_answer": 3,
+                "difficulty": 8
+            },
+            {
+                "question": "Kurtlar Vadisi'nin 97. ve final bölümünde Polat Alemdar, mahkemede beraat ettikten sonra son sahnede kimin mezarı başında görülür?",
+                "options": [
+                    "Süleyman Çakır",
+                    "Elif Eylül",
+                    "Aslan Akbey",
+                    "Duran Emmi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Kurtlar Konseyi'nin 'Gümrükler ve Dış Ticaret' sorumlusu olan, 'Gümrüklerin Efendisi' lakabıyla tanınan üye kimdir?",
+                "options": [
+                    "İplikçi Nedim",
+                    "Tuncay Kantarcı",
+                    "Samuel Vanunu",
+                    "Nizamettin Güvenç"
+                ],
+                "answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Polat Alemdar'ın Türkiye'ye dönmeden önce 'Ali Candan' kimliğiyle görev yaptığı ülke hangisidir?",
+                "options": [
+                    "Bosna-Hersek",
+                    "Lübnan",
+                    "Kosova",
+                    "Makedonya"
+                ],
+                "answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Süleyman Çakır, hangi bölümde Cerrahpaşalı Halit tarafından vurularak ağır yaralanmış ve diziye veda etme sürecine girmiştir?",
+                "options": [
+                    "43. Bölüm",
+                    "44. Bölüm",
+                    "45. Bölüm",
+                    "46. Bölüm"
+                ],
+                "answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Mehmet Karahanlı'nın oğlu olan 'Efe Yakup Karahanlı'yı (Polat Alemdar), çocukken yetimhaneden kaçıran ve Arslan Akbey'e veren kişi kimdir?",
+                "options": [
+                    "Doğu Eşrefoğlu",
+                    "Seyfo Dayı",
+                    "Aslan Akbey'in yardımcısı",
+                    "Duran Şatıroğlu (Duran Emmi)"
+                ],
+                "answer": 3,
+                "difficulty": 9
+            },
+            {
+                "question": "Dizide 'Testere Necmi'nin infaz emrini verdiği, ancak daha sonra Polat Alemdar tarafından kurtarılan 'Cerrahpaşalılar'ın lideri kimdir?",
+                "options": [
+                    "Halit",
+                    "Metin",
+                    "Hüseyin",
+                    "Süleyman"
+                ],
+                "answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Konseyin en gizemli üyelerinden biri olan Samuel Vanunu'nun, kızıyla ilgili olan ve Polat Alemdar tarafından bir koz olarak kullanılan sırrı neydi?",
+                "options": [
+                    "Başka bir ülkede gizlice yaşaması",
+                    "Bir Türk ile evli olması",
+                    "Uyuşturucu bağımlısı olması",
+                    "Aslında Samuel'in kızı olmaması"
+                ],
+                "answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Duran Emmi'nin öldürülmesinden sonra, Polat Alemdar'ın onun vasiyeti üzerine 'himayesine' girdiği ilk büyük mafya babası kimdir?",
+                "options": [
+                    "Hüsrev Ağa",
+                    "Süleyman Çakır",
+                    "Laz Ziya",
+                    "Mehmet Karahanlı"
+                ],
+                "answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Kurtlar Konseyi'nin hukuk işlerinden sorumlu üyesi Nizamettin Güvenç'in, dizinin finalinde aslında kime çalıştığı ortaya çıkmıştır?",
+                "options": [
+                    "Rus Baron İbrahim",
+                    "Tapınak Şövalyeleri (Yüce Meclis)",
+                    "Doğu Eşrefoğlu",
+                    "İsrail Gizli Servisi"
+                ],
+                "answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Mehmet Karahanlı'nın kalemini kırdığı ve 'İbrahim Ahıskalı' tarafından Rusya'da infaz edilen konsey üyesi kimdir?",
+                "options": [
+                    "Hüsrev Ağa",
+                    "Testere Necmi",
+                    "Samuel Vanunu",
+                    "Nizamettin Güvenç"
+                ],
+                "answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Dizinin finalinde Polat Alemdar'ın kripteksin içindeki belgeleri açıklamak üzere Los Angeles'a giderek görüştüğü 'Dünya Baronu' karakterini hangi Hollywood yıldızı canlandırmıştır?",
+                "options": [
+                    "Sharon Stone",
+                    "Al Pacino",
+                    "Andy Garcia",
+                    "Robert De Niro"
+                ],
+                "answer": 2,
+                "difficulty": 7
+            },
             {
                 "question": "Aslan Akbey'in açıklamalarına göre, Konsey'in kontrol ettiği toplam para miktarı yaklaşık ne kadardır ve bu miktar Türkiye'nin milli gelirinin ne kadarına tekabül etmektedir?",
                 "options": [
