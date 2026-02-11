@@ -1,6 +1,436 @@
 {
     "categories": {
         "Genel Kültür": [
+          {
+        "question": "Işık hızının boşluktaki yaklaşık değeri saniyede kaç kilometredir?",
+        "options": [
+            "150.000 km",
+            "300.000 km",
+            "450.000 km",
+            "600.000 km"
+        ],
+        "correct_answer": 1,
+        "difficulty": 4
+    },
+    {
+        "question": "İspanya İç Savaşı'nı anlatan ve dünya sanat tarihinin en güçlü savaş karşıtı yapıtlarından biri olan 'Guernica' tablosu hangi şehirdedir?",
+        "options": [
+            "Paris",
+            "Barselona",
+            "Madrid",
+            "Bilbao"
+        ],
+        "correct_answer": 2,
+        "difficulty": 7
+    },
+    {
+        "question": "Hangi ülke, yüzölçümü bakımından dünyanın en büyük ülkesi olmasına rağmen nüfus yoğunluğu en düşük ülkelerden biridir?",
+        "options": [
+            "Kanada",
+            "Çin",
+            "Rusya",
+            "Avustralya"
+        ],
+        "correct_answer": 2,
+        "difficulty": 3
+    },
+    {
+        "question": "İnsan DNA'sının çift sarmallı yapısını (Double Helix) 1953 yılında keşfeden ve Nobel ödülü alan bilim insanları kimlerdir?",
+        "options": [
+            "Watson ve Crick",
+            "Marie ve Pierre Curie",
+            "Bohr ve Heisenberg",
+            "Tesla ve Edison"
+        ],
+        "correct_answer": 0,
+        "difficulty": 6
+    },
+    {
+        "question": "Dünyanın en eski yerleşim yerlerinden biri olan ve 'Bereketli Hilal' olarak adlandırılan bölgenin merkezinde yer alan tarihi şehir hangisidir?",
+        "options": [
+            "Efes",
+            "Babil",
+            "Şanlıurfa (Göbeklitepe)",
+            "Truva"
+        ],
+        "correct_answer": 2,
+        "difficulty": 5
+    },
+    {
+        "question": "Kendi döneminde 'Güneş Kral' (Le Roi Soleil) olarak anılan ve Versailles Sarayı'nı inşa ettiren Fransız kralı kimdir?",
+        "options": [
+            "I. Napolyon",
+            "XVI. Louis",
+            "XIV. Louis",
+            "IV. Henri"
+        ],
+        "correct_answer": 2,
+        "difficulty": 8
+    },
+    {
+        "question": "Fizikte 'entropi' kavramı ile yakından ilişkili olan Termodinamik Yasası kaçıncı yasadır?",
+        "options": [
+            "Sıfırıncı Yasa",
+            "Birinci Yasa",
+            "İkinci Yasa",
+            "Üçüncü Yasa"
+        ],
+        "correct_answer": 2,
+        "difficulty": 9
+    },
+    {
+        "question": "20. yüzyılın en büyük opera sanatçılarından biri olan 'La Divina' lakaplı soprano kimdir?",
+        "options": [
+            "Maria Callas",
+            "Edith Piaf",
+            "Aretha Franklin",
+            "Montserrat Caballé"
+        ],
+        "correct_answer": 0,
+        "difficulty": 7
+    },
+    {
+        "question": "Türkiye'nin en yüksek dağı olan Ağrı Dağı'na ilk kez zirve tırmanışı yapan kişi kimdir?",
+        "options": [
+            "Nasuh Mahruki",
+            "Friedrich Parrot",
+            "Marco Polo",
+            "İbn-i Battuta"
+        ],
+        "correct_answer": 1,
+        "difficulty": 10
+    },
+          {
+        "question": "Osmanlı Devleti'nde ilk kez 'Sultan' unvanını kullanan hükümdar hangisidir?",
+        "options": [
+            "Osman Bey",
+            "Orhan Bey",
+            "I. Murad",
+            "Yıldırım Bayezid"
+        ],
+        "correct_answer": 1,
+        "difficulty": 6
+    },
+    {
+        "question": "Hangi gezegen, yüzeyindeki demir oksit nedeniyle 'Kızıl Gezegen' olarak adlandırılır?",
+        "options": [
+            "Merkür",
+            "Venüs",
+            "Mars",
+            "Satürn"
+        ],
+        "correct_answer": 2,
+        "difficulty": 2
+    },
+    {
+        "question": "Ünlü 'İnce Memed' roman serisinin yazarı aşağıdakilerden hangisidir?",
+        "options": [
+            "Orhan Kemal",
+            "Kemal Tahir",
+            "Yaşar Kemal",
+            "Sabahattin Ali"
+        ],
+        "correct_answer": 2,
+        "difficulty": 4
+    },
+    {
+        "question": "Hücrenin enerji santrali olarak bilinen ve oksijenli solunumun gerçekleştiği organel hangisidir?",
+        "options": [
+            "Ribozom",
+            "Mitokondri",
+            "Golgi Aygıtı",
+            "Lizozom"
+        ],
+        "correct_answer": 1,
+        "difficulty": 3
+    },
+    {
+        "question": "Klasik müziğin dahi ismi Ludwig van Beethoven, en ünlü eseri olan '9. Senfoni'yi bestelediğinde hangi fiziksel engel ile mücadele ediyordu?",
+        "options": [
+            "Görme kaybı",
+            "İşitme kaybı",
+            "Kısmi felç",
+            "Konuşma bozukluğu"
+        ],
+        "correct_answer": 1,
+        "difficulty": 5
+    },
+    {
+        "question": "Amerika Birleşik Devletleri'nin ilk başkanı kimdir?",
+        "options": [
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "George Washington",
+            "Benjamin Franklin"
+        ],
+        "correct_answer": 2,
+        "difficulty": 3
+    },
+    {
+        "question": "2023 yılında Cumhuriyetin 100. yılı vesilesiyle uzaya giden ilk Türk astronot kimdir?",
+        "options": [
+            "Alper Gezeravcı",
+            "Tuva Cihangir Atasever",
+            "Umut Yıldız",
+            "Caner Taslaman"
+        ],
+        "correct_answer": 0,
+        "difficulty": 4
+    },
+    {
+        "question": "Hangi ülke hem Avrupa hem de Asya kıtasında toprağı bulunmasına rağmen Avrupa Birliği üyesidir?",
+        "options": [
+            "Türkiye",
+            "Rusya",
+            "Yunanistan",
+            "Güney Kıbrıs Rum Yönetimi"
+        ],
+        "correct_answer": 3,
+        "difficulty": 7
+    },
+    {
+        "question": "Modern periyodik sistemin kurucusu kabul edilen Rus kimyager kimdir?",
+        "options": [
+            "Marie Curie",
+            "Dmitri Mendeleyev",
+            "Antoine Lavoisier",
+            "Robert Boyle"
+        ],
+        "correct_answer": 1,
+        "difficulty": 6
+    },
+    {
+        "question": "Hangi şehir, üç farklı imparatorluğa (Roma, Bizans, Osmanlı) başkentlik yapmıştır?",
+        "options": [
+            "Roma",
+            "İstanbul",
+            "Atina",
+            "Bağdat"
+        ],
+        "correct_answer": 1,
+        "difficulty": 3
+    },
+
+    {
+        "question": "Satrançta 'L' şeklinde hareket eden tek taş hangisidir?",
+        "options": [
+            "Kale",
+            "Fil",
+            "At",
+            "Vezir"
+        ],
+        "correct_answer": 2,
+        "difficulty": 2
+    },
+    {
+        "question": "Dünya edebiyatında 'Modern Romanın başlangıcı' kabul edilen Don Kişot'un yazarı kimdir?",
+        "options": [
+            "Dante",
+            "Cervantes",
+            "Shakespeare",
+            "Moliere"
+        ],
+        "correct_answer": 1,
+        "difficulty": 4
+    },
+    {
+        "question": "Güneş Sistemi'nde kendi ekseni etrafında diğer gezegenlerin aksine saat yönünde (tersine) dönen gezegen hangisidir?",
+        "options": [
+            "Mars",
+            "Venüs",
+            "Neptün",
+            "Satürn"
+        ],
+        "correct_answer": 1,
+        "difficulty": 7
+    },
+    {
+        "question": "Hangi Türk hükümdar, 1402 Ankara Savaşı'nda Timur'a esir düşmüştür?",
+        "options": [
+            "Yıldırım Bayezid",
+            "Fatih Sultan Mehmet",
+            "II. Murat",
+            "Çelebi Mehmet"
+        ],
+        "correct_answer": 0,
+        "difficulty": 5
+    },
+    {
+        "question": "İnsan vücudundaki en küçük kemik olan 'Üzengi kemiği' vücudun hangi bölümünde bulunur?",
+        "options": [
+            "El bileği",
+            "Ayak parmağı",
+            "Kulak",
+            "Burun"
+        ],
+        "correct_answer": 2,
+        "difficulty": 6
+    },
+    {
+        "question": "20. yüzyılın en önemli sanat akımlarından biri olan 'Kübizm'in kurucusu sayılan ressam kimdir?",
+        "options": [
+            "Salvador Dali",
+            "Claude Monet",
+            "Vincent van Gogh",
+            "Pablo Picasso"
+        ],
+        "correct_answer": 3,
+        "difficulty": 4
+    },
+    {
+        "question": "Kıbrıs Barış Harekatı (1974) sırasında Türkiye Cumhuriyeti'nin Başbakanı kimdir?",
+        "options": [
+            "Süleyman Demirel",
+            "Bülent Ecevit",
+            "Necmettin Erbakan",
+            "Alparslan Türkeş"
+        ],
+        "correct_answer": 1,
+        "difficulty": 6
+    },
+    {
+        "question": "Bilgisayar biliminde 'Yapay Zekanın Babası' olarak anılan ve II. Dünya Savaşı'nda Enigma kodunu kıran matematikçi kimdir?",
+        "options": [
+            "Isaac Newton",
+            "Alan Turing",
+            "Nikola Tesla",
+            "Steve Jobs"
+        ],
+        "correct_answer": 1,
+        "difficulty": 7
+    },
+    {
+        "question": "Hangi elementin eksikliği insanlarda 'Guatr' hastalığına neden olur?",
+        "options": [
+            "Kalsiyum",
+            "Demir",
+            "İyot",
+            "Magnezyum"
+        ],
+        "correct_answer": 2,
+        "difficulty": 5
+    },
+    {
+        "question": "Nobel ödüllü bilim insanımız Aziz Sancar, bu ödülü hangi alanda yaptığı çalışmalarla kazanmıştır?",
+        "options": [
+            "Fizik",
+            "Tıp",
+            "Biyoloji",
+            "Kimya"
+        ],
+        "correct_answer": 3,
+        "difficulty": 5
+    },
+          {
+        "question": "Gökyüzünün mavi görünmesinin temel sebebi olan ışık kırılması olayına ne ad verilir?",
+        "options": [
+            "Tyndall Etkisi",
+            "Rayleigh Saçılması",
+            "Doppler Olayı",
+            "Fotoelektrik Etki"
+        ],
+        "correct_answer": 1,
+        "difficulty": 7
+    },
+    {
+        "question": "Sistine Şapeli'nin tavanındaki ünlü 'Adem'in Yaratılışı' freskosu hangi sanatçıya aittir?",
+        "options": [
+            "Leonardo da Vinci",
+            "Donatello",
+            "Raphael",
+            "Michelangelo"
+        ],
+        "correct_answer": 3,
+        "difficulty": 5
+    },
+    {
+        "question": "Dünya üzerinde 'hiç ülke toprağı olmayan' tek kıta hangisidir?",
+        "options": [
+            "Antarktika",
+            "Avustralya",
+            "Güney Amerika",
+            "Afrika"
+        ],
+        "correct_answer": 0,
+        "difficulty": 3
+    },
+    {
+        "question": "1921 yılında Nobel Fizik Ödülü'nü alan Albert Einstein, bu ödülü hangi çalışmasıyla kazanmıştır?",
+        "options": [
+            "Genel Görelilik Kuramı",
+            "Özel Görelilik Kuramı",
+            "Fotoelektrik Etki Yasası",
+            "Brown Hareketi"
+        ],
+        "correct_answer": 2,
+        "difficulty": 9
+    },
+    {
+        "question": "Hangi ülkenin üç tane başkenti (Pretoria, Bloemfontein, Cape Town) bulunmaktadır?",
+        "options": [
+            "İsviçre",
+            "Güney Afrika",
+            "Brezilya",
+            "Kanada"
+        ],
+        "correct_answer": 1,
+        "difficulty": 6
+    },
+    {
+        "question": "Eski Yunan mitolojisinde 'Müzik, Güneş ve Kehanet' tanrısı kimdir?",
+        "options": [
+            "Hermes",
+            "Poseidon",
+            "Ares",
+            "Apollo"
+        ],
+        "correct_answer": 3,
+        "difficulty": 4
+    },
+    {
+        "question": "Periyodik tabloda oda sıcaklığında sıvı halde bulunan tek metal hangisidir?",
+        "options": [
+            "Cıva",
+            "Kurşun",
+            "Galyum",
+            "Magnezyum"
+        ],
+        "correct_answer": 0,
+        "difficulty": 4
+    },
+    {
+        "question": "İstiklal Marşı, TBMM tarafından hangi tarihte kabul edilmiştir?",
+        "options": [
+            "29 Ekim 1923",
+            "23 Nisan 1920",
+            "12 Mart 1921",
+            "30 Ağustos 1922"
+        ],
+        "correct_answer": 2,
+        "difficulty": 5
+    },
+    {
+        "question": "Kendi adını taşıyan 'Evrim Teorisi' ile bilinen Charles Darwin'in, bu teoriyi geliştirmesinde en büyük rolü oynayan adalar topluluğu hangisidir?",
+        "options": [
+            "Maldivler",
+            "Seyşeller",
+            "Galapagos Adaları",
+            "Fiji Adaları"
+        ],
+        "correct_answer": 2,
+        "difficulty": 6
+    },
+    {
+        "question": "Dünya'nın en yüksek şelalesi olan 'Angel Şelalesi' hangi ülkededir?",
+        "options": [
+            "Brezilya",
+            "Venezuela",
+            "Zimbabve",
+            "Amerika Birleşik Devletleri"
+        ],
+        "correct_answer": 1,
+        "difficulty": 8
+    },
             {
                 "question": "1934 yılında sahnelenen ve Türkiye Cumhuriyeti'nin 'ilk operası' kabul edilen, bestesi Ahmed Adnan Saygun'a ait olan eser hangisidir?",
                 "options": [
