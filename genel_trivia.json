@@ -2,6 +2,1194 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "Dünya üzerinde yer alan ve 'Dünyanın Akciğerleri' olarak bilinen, biyolojik çeşitliliğin en yüksek olduğu devasa yağmur ormanları hangi nehir havzasındadır?",
+                "options": [
+                    "Kongo",
+                    "Amazon",
+                    "Mekong",
+                    "Ganj"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Orta Doğu ile Asya'yı birbirine bağlayan, dünya petrol sevkiyatının en önemli geçiş noktalarından biri olan ve Umman Denizi ile Basra Körfezi'ni birleştiren boğaz hangisidir?",
+                "options": [
+                    "Cebelitarık Boğazı",
+                    "Hürmüz Boğazı",
+                    "Malakka Boğazı",
+                    "Babülmendep Boğazı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "İskandinav ülkelerinde (Norveç, İsveç) buzulların aşındırması sonucu oluşan, dik yamaçlı ve derin deniz kollarından oluşan kıyı tipine ne ad verilir?",
+                "options": [
+                    "Ria",
+                    "Fiyort",
+                    "Dalmaçya",
+                    "Limatlı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Yüz ölçümü bakımından dünyanın en geniş ülkesi olan ve hem Avrupa hem de Asya kıtasında toprakları bulunan ülke hangisidir?",
+                "options": [
+                    "Kanada",
+                    "Çin",
+                    "Rusya",
+                    "ABD"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Afrika kıtasının en yüksek noktası olan ve üzerinde kalıcı karların bulunduğu sönmüş volkanik dağ hangisidir?",
+                "options": [
+                    "Kilimanjaro",
+                    "Everest",
+                    "Elbrus",
+                    "Mont Blanc"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en tuzlu su kütlesi olarak kabul edilen, deniz seviyesinden yaklaşık 430 metre aşağıda bulunan ve aşırı tuzluluk nedeniyle içinde canlı yaşayamayan göl hangisidir?",
+                "options": [
+                    "Hazar Denizi",
+                    "Lut Gölü",
+                    "Baykal Gölü",
+                    "Victoria Gölü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Güney Amerika kıtasının batı kıyısı boyunca uzanan ve dünyanın en uzun sıradağlar zinciri kabul edilen dağ sistemi hangisidir?",
+                "options": [
+                    "Kayalık Dağları",
+                    "Himalayalar",
+                    "And Dağları",
+                    "Alpler"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Atmosferin yere en yakın olan, hava olaylarının (yağmur, rüzgar vb.) gerçekleştiği ve kalınlığı ekvatordan kutuplara doğru azalan katmanı hangisidir?",
+                "options": [
+                    "Stratosfer",
+                    "Mezosfer",
+                    "Troposfer",
+                    "Termosfer"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Okyanus akıntılarından biri olan, Meksika Körfezi'nden başlayıp Batı Avrupa kıyılarını ısıtarak iklimi yumuşatan sıcak su akıntısı hangisidir?",
+                "options": [
+                    "Labrador",
+                    "Oyaşivo",
+                    "Gulf Stream",
+                    "Benguela"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Dünya üzerinde güneşin hiç batmadığı veya hiç doğmadığı dönemlerin yaşandığı, 66 derece 33 dakika enlemlerinden geçen hayali çizgilere ne ad verilir?",
+                "options": [
+                    "Dönenceler",
+                    "Kutup Daireleri",
+                    "Ekvator Hattı",
+                    "Başlangıç Meridyeni"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "1939 yapımı 'Rüzgar Gibi Geçti' (Gone with the Wind) filmindeki rolüyle Oscar kazanan ve bu ödülü alan ilk siyahi sanatçı olan kişi kimdir?",
+                "options": [
+                    "Dorothy Dandridge",
+                    "Hattie McDaniel",
+                    "Sidney Poitier",
+                    "Whoopi Goldberg"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Bir film setinde ışık düzeneklerinden sorumlu olan ve görüntü yönetmenine bağlı çalışan ekip şefine ne ad verilir?",
+                "options": [
+                    "Gaffer",
+                    "Best Boy",
+                    "Key Grip",
+                    "Script Supervisor"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Ünlü 'Western' türünün alt dalı olan ve İtalyan yönetmenler tarafından Avrupa'da çekilen filmlere verilen isim nedir?",
+                "options": [
+                    "Neo-Western",
+                    "Spagetti Western",
+                    "Modern Western",
+                    "Revisionist Western"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "1993 yapımı 'Schindler'in Listesi' ve 'Jurassic Park' gibi birbirinden tamamen farklı iki kült filmi aynı yıl içinde yöneten isim kimdir?",
+                "options": [
+                    "James Cameron",
+                    "Steven Spielberg",
+                    "Martin Scorsese",
+                    "George Lucas"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Sinemada, çekilen görüntünün gerçek zamanlıdan daha yavaş akıyormuş gibi görünmesini sağlamak için saniyedeki kare sayısını (fps) artırarak çekim yapma tekniğine ne ad verilir?",
+                "options": [
+                    "Fast Motion",
+                    "Slow Motion",
+                    "Stop Motion",
+                    "Time-lapse"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Görüntü yönetmenliği tarihinde 'Yedi Günah' (Se7en) ve 'Dövüş Kulübü' (Fight Club) gibi filmlerin karanlık atmosferini yaratan ünlü isim kimdir?",
+                "options": [
+                    "Roger Deakins",
+                    "Darius Khondji",
+                    "Emmanuel Lubezki",
+                    "Robert Richardson"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünya sinemasında 'Auteur Kuramı'nın öncüsü kabul edilen, '400 Darbe' (The 400 Blows) filmiyle Fransız Yeni Dalga akımını başlatan yönetmen kimdir?",
+                "options": [
+                    "Jean-Luc Godard",
+                    "François Truffaut",
+                    "Claude Chabrol",
+                    "Eric Rohmer"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Animasyon dünyasında devrim yaratan, 1995 yapımı ilk tamamen bilgisayar üretimi uzun metrajlı film hangisidir?",
+                "options": [
+                    "Aslan Kral",
+                    "Toy Story",
+                    "Shrek",
+                    "Buz Devri"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Sinema tarihinin ilk kurmaca ve bilim kurgu filmi kabul edilen, 1902 yapımı 'A Trip to the Moon' (Aya Yolculuk) filminin yönetmeni kimdir?",
+                "options": [
+                    "Lumiere Kardeşler",
+                    "Georges Méliès",
+                    "D.W. Griffith",
+                    "Alfred Hitchcock"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "1972 yapımı 'The Godfather' (Baba) filminde canlandırdığı Vito Corleone karakteriyle 'En İyi Erkek Oyuncu' Oscar'ını kazanan ancak ödülü reddeden ünlü aktör kimdir?",
+                "options": [
+                    "Al Pacino",
+                    "Robert De Niro",
+                    "Marlon Brando",
+                    "James Caan"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Sinemada 'Gerilim Ustası' (Master of Suspense) olarak bilinen; 'Sapık' (Psycho) ve 'Arka Pencere' (Rear Window) gibi başyapıtların yönetmeni kimdir?",
+                "options": [
+                    "Orson Welles",
+                    "Alfred Hitchcock",
+                    "Stanley Kubrick",
+                    "Francis Ford Coppola"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Filmlerde sahneler çekilirken ses, görüntü ve çekim numarasını eşlemek için kullanılan, çekim başında birbirine vurulan siyah-beyaz tahtaya ne ad verilir?",
+                "options": [
+                    "Steadycam",
+                    "Klaket",
+                    "Vizör",
+                    "Dolly"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "1994 yapımı 'Pulp Fiction' (Ucuz Roman) filmiyle tanınan, filmlerindeki doğrusal olmayan anlatım ve bol diyalog tarzıyla bilinen yönetmen kimdir?",
+                "options": [
+                    "Steven Spielberg",
+                    "Martin Scorsese",
+                    "Quentin Tarantino",
+                    "Christopher Nolan"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Sinema tekniğinde, kameranın bir ray üzerinde veya tekerlekli bir düzenekle çekim sırasında hareket ettirilmesi işlemine ne ad verilir?",
+                "options": [
+                    "Pan",
+                    "Tilt",
+                    "Kaydırma (Dolly Shot)",
+                    "Zoom"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Akademi Ödülleri (Oscar) tarihinde 'En İyi Film' ödülünü kazanan ilk İngilizce dışı dildeki film hangisidir?",
+                "options": [
+                    "Roma",
+                    "Parazit (Parasite)",
+                    "Hayat Güzeldir",
+                    "Amélie"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1968 yapımı '2001: A Space Odyssey' filminin yönetmeni olan ve mükemmeliyetçiliğiyle tanınan efsanevi isim kimdir?",
+                "options": [
+                    "Ridley Scott",
+                    "George Lucas",
+                    "Stanley Kubrick",
+                    "James Cameron"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Bir filmde, çekimden sonra eklenen ayak sesleri, kapı gıcırtısı veya rüzgar gibi çevresel ses efektlerini stüdyoda üreten sanatçılara ne ad verilir?",
+                "options": [
+                    "Gaffer",
+                    "Foley Sanatçısı",
+                    "Boom Operatörü",
+                    "Kurgucu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünyanın en prestijli film festivallerinden biri olan ve büyük ödül olarak 'Altın Palmiye' (Palme d'Or) veren festival hangisidir?",
+                "options": [
+                    "Venedik Film Festivali",
+                    "Berlin Film Festivali",
+                    "Cannes Film Festivali",
+                    "Sundance Film Festivali"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Endülüs Emevi Devleti'nin başkenti olan ve Orta Çağ'da Avrupa'nın en önemli bilim ve kültür merkezlerinden biri kabul edilen şehir hangisidir?",
+                "options": [
+                    "Granada (Gırnata)",
+                    "Kurtuba (Cordoba)",
+                    "Sevilla (İşbiliye)",
+                    "Toledo (Tuleytula)"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "İslam medeniyetinde Abbasi halifesi el-Memun tarafından Bağdat'ta kurulan, antik eserlerin tercüme edildiği ve büyük bir kütüphaneye sahip olan 'Bilgelik Evi'nin adı nedir?",
+                "options": [
+                    "Beytü'l-Hikme",
+                    "Darü'l-Fünun",
+                    "Nizamiye Medresesi",
+                    "Suffe"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Modern cebirin kurucusu kabul edilen, '0' (sıfır) rakamını matematik dünyasına kazandıran ve algoritma kavramının isim babası olan Türk-İslam bilgini kimdir?",
+                "options": [
+                    "Biruni",
+                    "Harezmi",
+                    "Ömer Hayyam",
+                    "Ali Kuşçu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "İslamiyet'te Hz. Muhammed'in eşi Hz. Ayşe ile halife Hz. Ali taraftarları arasında gerçekleşen, Müslümanların kendi içindeki ilk büyük iç savaş hangisidir?",
+                "options": [
+                    "Sıffin Savaşı",
+                    "Cemel Vakası",
+                    "Kerbela Olayı",
+                    "Hendek Savaşı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Sosyolojinin ve tarih felsefesinin kurucusu kabul edilen, devletlerin doğuşunu ve yıkılışını 'Asabiyet' kavramıyla açıklayan, 'Mukaddime' eserinin yazarı kimdir?",
+                "options": [
+                    "İbn Haldun",
+                    "İbn Rüşd",
+                    "İmam Gazali",
+                    "Zemahşeri"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "İslam inancına göre, kıyamet günü sur borusuna üfleyerek ölümü ve yeniden dirilişi başlatacak olan dört büyük melekten biri hangisidir?",
+                "options": [
+                    "Cebrail",
+                    "Azrail",
+                    "İsrafil",
+                    "Mikail"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Kur'an-ı Kerim'in çoğaltılarak çeşitli merkezlere gönderilmesi hangi halife döneminde tamamlanmıştır?",
+                "options": [
+                    "Hz. Ebubekir",
+                    "Hz. Ömer",
+                    "Hz. Osman",
+                    "Hz. Ali"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "İslam mimarisinde camilerin kıble yönünü gösteren ve imamın namaz kıldırırken durduğu girintili yere ne ad verilir?",
+                "options": [
+                    "Minber",
+                    "Vaaz Kürsüsü",
+                    "Mihrap",
+                    "Mahfil"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "İslam tarihinde devlet işlerinin görüşüldüğü, bugünkü bakanlar kurulu veya meclis benzeri yapıya ne ad verilirdi?",
+                "options": [
+                    "Divan",
+                    "Külliye",
+                    "İmaret",
+                    "Bedesten"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "İslam felsefesinde 'Akıl mı önceliklidir yoksa nakil mi?' tartışmalarında aklı ön plana çıkaran ve 'Beş Esas' (Usul-i Hamse) öğretisiyle bilinen mezhep/ekol hangisidir?",
+                "options": [
+                    "Eş'arilik",
+                    "Matüridilik",
+                    "Mutezile",
+                    "Selefilik"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "İslam tarihinde, Müslümanların Mekke'den Medine'ye göç ettikleri ve Hicri takvimin başlangıcı kabul edilen olay hangisidir?",
+                "options": [
+                    "İsra",
+                    "Miraç",
+                    "Hicret",
+                    "Biat"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Kur'an-ı Kerim'in ilk nüshalarının bir kitap (Mushaf) haline getirilmesi hangi halife döneminde gerçekleşmiştir?",
+                "options": [
+                    "Hz. Ebubekir",
+                    "Hz. Ömer",
+                    "Hz. Osman",
+                    "Hz. Ali"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "İslamiyet'in beş şartından biri olan hac ibadeti sırasında, Kabe'nin etrafında yedi kez dönülmesi işlemine ne ad verilir?",
+                "options": [
+                    "Vakfe",
+                    "Sa'y",
+                    "Tavaf",
+                    "İhram"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "İslam felsefesi ve tıp dünyasında 'Avicenna' olarak tanınan, 'El-Kanun fi't-Tıbb' (Tıbbın Kanunu) eserinin yazarı olan dahi kimdir?",
+                "options": [
+                    "Farabi",
+                    "İbn Rüşd",
+                    "İbn Sina",
+                    "Gazali"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Hz. Muhammed'in vefatından sonra İslam devletinin başına geçen dört halifeye verilen genel isim nedir?",
+                "options": [
+                    "Hulefa-i Raşidin",
+                    "Ehl-i Beyt",
+                    "Ensar",
+                    "Muhacir"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "İslam hukukunda (Fıkıh), Kur'an ve Sünnet'te hükmü bulunmayan bir konunun, benzer bir olaydaki hükümle karşılaştırılarak çözülmesine ne ad verilir?",
+                "options": [
+                    "İcma",
+                    "Kıyas",
+                    "İçtihat",
+                    "Fetva"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Müslümanların ilk kıblesi olan ve 'Mescid-i Aksa'nın da içinde bulunduğu kutsal şehir hangisidir?",
+                "options": [
+                    "Mekke",
+                    "Medine",
+                    "Kudüs",
+                    "Şam"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "İslam tarihinde 'Muallim-i Sani' (İkinci Öğretmen) olarak bilinen, mantık ve felsefe alanındaki çalışmalarıyla tanınan düşünür kimdir?",
+                "options": [
+                    "İbn Haldun",
+                    "Farabi",
+                    "Biruni",
+                    "Harezmi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Kur'an-ı Kerim'in her 20 sayfalık bölümüne verilen isim aşağıdakilerden hangisidir?",
+                "options": [
+                    "Ayet",
+                    "Sure",
+                    "Cüz",
+                    "Hizb"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Hz. Muhammed'e peygamberlik müjdesinin verildiği ve Kur'an'ın indirilmeye başlandığı mübarek gece hangisidir?",
+                "options": [
+                    "Mevlid Kandili",
+                    "Regaip Kandili",
+                    "Kadir Gecesi",
+                    "Berat Kandili"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Moleküler biyolojide DNA'nın yapısını oluşturan dört temel bazdan biri olan 'Adenin', her zaman hangi baz ile eşleşir?",
+                "options": [
+                    "Sitozin",
+                    "Guanin",
+                    "Timin",
+                    "Urasil"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünya okyanuslarında bulunan ve kıta sahanlığının bittiği yerden itibaren okyanus tabanına doğru inen dik eğimli bölgeye ne ad verilir?",
+                "options": [
+                    "Abisal Düzlük",
+                    "Kıta Yamacı",
+                    "Okyanus Sırtı",
+                    "Haliç"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Antik Yunan'da 'Bildiğim tek şey, hiçbir şey bilmediğimdir' sözüyle tanınan ve sorgulama yöntemiyle felsefe tarihinde devrim yapan düşünür kimdir?",
+                "options": [
+                    "Platon",
+                    "Aristo",
+                    "Sokrates",
+                    "Herakleitos"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Klasik müzik tarihinde 'Dört Mevsim' (The Four Seasons) keman konçertoları ile tanınan İtalyan besteci ve keman virtüözü kimdir?",
+                "options": [
+                    "Antonio Vivaldi",
+                    "Niccolò Paganini",
+                    "Claudio Monteverdi",
+                    "Giuseppe Verdi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Fizikte, bir akışkanın (sıvı veya gaz) hızı arttıkça basıncının düşeceğini belirten, uçak kanatlarının kalkış kuvvetini açıklayan ilke hangisidir?",
+                "options": [
+                    "Pascal İlkesi",
+                    "Bernoulli İlkesi",
+                    "Arşimet Prensibi",
+                    "Faraday Yasası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Edebiyatta 'Savaş ve Barış' ile 'Anna Karenina' gibi devasa eserlerin yazarı olan, Rus edebiyatının realist dönemine damga vurmuş isim kimdir?",
+                "options": [
+                    "Fyodor Dostoyevski",
+                    "Lev Tolstoy",
+                    "İvan Turgenyev",
+                    "Nikolay Gogol"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "İnsan vücudunda, kandaki şeker oranını dengeleyen insülin hormonunu salgılayan organ hangisidir?",
+                "options": [
+                    "Karaciğer",
+                    "Böbrek",
+                    "Pankreas",
+                    "Dalak"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "1453 yılında İstanbul'un fethi sırasında Osmanlı ordusunun kullandığı ve kaleleri yıkmak için özel olarak dökülen devasa toplara ne ad verilir?",
+                "options": [
+                    "Havan",
+                    "Şahi",
+                    "Balyemez",
+                    "Obüs"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Astronimide, Samanyolu Galaksisi'ne en yakın olan ve çıplak gözle görülebilen sarmal galaksinin adı nedir?",
+                "options": [
+                    "Andromeda",
+                    "Magellan Bulutu",
+                    "Sombrero",
+                    "Messier 87"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Kimyada, bir çözeltinin içindeki hidrojen iyonu derişimini ifade eden ve çözeltinin asidik mi yoksa bazik mi olduğunu gösteren ölçek nedir?",
+                "options": [
+                    "Molarite",
+                    "pH",
+                    "Oksidasyon",
+                    "Sertlik Derecesi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "1889 yılında Paris'te düzenlenen Dünya Fuarı'nın giriş kapısı olarak inşa edilen ve başlangıçta Parisliler tarafından 'estetik dışı' bulunduğu için yıkılması planlanan ikonik yapı hangisidir?",
+                "options": [
+                    "Zafer Takı",
+                    "Eyfel Kulesi",
+                    "Louvre Müzesi",
+                    "Sacré-Cœur Bazilikası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "İnsan vücudunda, bağışıklık sisteminin önemli bir parçası olan ve 'T hücreleri'nin olgunlaştığı göğüs kafesinin hemen arkasında bulunan organ hangisidir?",
+                "options": [
+                    "Dalak",
+                    "Pankreas",
+                    "Timus",
+                    "Safra Kesesi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "19. yüzyılda modern hemşireliğin kurucusu kabul edilen ve Kırım Savaşı sırasında askerlere gece gündüz baktığı için 'Lambalı Kadın' olarak tanınan isim kimdir?",
+                "options": [
+                    "Marie Curie",
+                    "Florence Nightingale",
+                    "Clara Barton",
+                    "Mother Teresa"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Fizikte, bir cismin hareket durumunu koruma isteğine ve dışarıdan bir kuvvet uygulanmadıkça hızını veya yönünü değiştirmeme eğilimine ne ad verilir?",
+                "options": [
+                    "Momentum",
+                    "Sürtünme",
+                    "Eylemsizlik (İnersiya)",
+                    "Kütleçekimi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünya tarihinin en eski yerleşim yerlerinden biri olan ve 'Bereketli Hilal'in bir parçası kabul edilen, bugün Irak sınırları içinde kalan kadim bölgenin adı nedir?",
+                "options": [
+                    "Mezopotamya",
+                    "Kapadokya",
+                    "Endülüs",
+                    "Balkanlar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Kimyada, periyodik tablonun en sağında yer alan, kararlı yapıları nedeniyle başka elementlerle tepkimeye girmeyen gaz grubuna ne ad verilir?",
+                "options": [
+                    "Halojenler",
+                    "Alkali Metaller",
+                    "Soy Gazlar",
+                    "Ametaller"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Edebiyatta 'Yüzbaşının Kızı' ve 'Maça Kızı' gibi eserleriyle modern Rus edebiyatının kurucusu ve en büyük şairi kabul edilen yazar kimdir?",
+                "options": [
+                    "Aleksandr Puşkin",
+                    "Ivan Turgenyev",
+                    "Nikolay Gogol",
+                    "Vladimir Nabokov"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Güneş Sistemi'nde en yüksek dağa (Olympus Mons) ve en büyük kanyona (Valles Marineris) ev sahipliği yapan gezegen hangisidir?",
+                "options": [
+                    "Venüs",
+                    "Jüpiter",
+                    "Mars",
+                    "Satürn"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Resim sanatında, boyanın çok ince katmanlar halinde sürülerek renkler ve tonlar arası geçişin dumanlı bir şekilde, sınırları belli olmayacak şekilde yapılması tekniğine ne ad verilir?",
+                "options": [
+                    "Chiaroscuro",
+                    "Sfumato",
+                    "Fresko",
+                    "Minyatür"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "1903 yılında, motorlu ve kontrol edilebilir ilk uçuşu gerçekleştirerek havacılık tarihinde yeni bir çağ açan kardeşler kimdir?",
+                "options": [
+                    "Montgolfier Kardeşler",
+                    "Wright Kardeşler",
+                    "Lumiere Kardeşler",
+                    "Siemens Kardeşler"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Hücre biyolojisinde, besinleri oksijenle yakarak hücrenin ihtiyaç duyduğu enerjiyi (ATP) üreten ve 'hücrenin güç santrali' olarak bilinen organel hangisidir?",
+                "options": [
+                    "Ribozom",
+                    "Lizozom",
+                    "Mitokondri",
+                    "Golgi Aygıtı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "15. yüzyılda matbaayı geliştirerek kitapların seri üretimini sağlayan ve Rönesans ile Reform hareketlerinin yayılmasında kilit rol oynayan Alman mucit kimdir?",
+                "options": [
+                    "Johannes Gutenberg",
+                    "Leonardo da Vinci",
+                    "Nikola Tesla",
+                    "Galileo Galilei"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Psikolojide, Pavlov'un köpekleri üzerinde yaptığı deneylerle ortaya koyduğu, belirli bir uyarıcıya karşı verilen otomatik tepkiyi tanımlayan kavram nedir?",
+                "options": [
+                    "Bilişsel Öğrenme",
+                    "Klasik Koşullanma",
+                    "Edimsel Koşullanma",
+                    "Sosyal Öğrenme"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "1215 yılında İngiltere Kralı Yurtsuz John tarafından imzalanan ve kralın yetkilerini ilk kez kısıtlayarak anayasal düzene giden yolu açan belge hangisidir?",
+                "options": [
+                    "İnsan Hakları Beyannamesi",
+                    "Magna Carta Libertatum",
+                    "Versay Antlaşması",
+                    "Bill of Rights"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Optik biliminde, ışığın prizmadan geçerken renklerine ayrılması olayına ne ad verilir?",
+                "options": [
+                    "Yansıma",
+                    "Kırınım",
+                    "Dispersiyon (Saçılma)",
+                    "Soğurulma"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Astronimide, bir yıldızın yakıtı bitip kendi içine çökmesiyle oluşan ve ışığın bile kaçamayacağı kadar güçlü bir kütleçekimine sahip olan yapıya ne ad verilir?",
+                "options": [
+                    "Beyaz Cüce",
+                    "Nötron Yıldızı",
+                    "Kara Delik",
+                    "Kızıl Dev"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Felsefe tarihinde 'Toplum Sözleşmesi' eseriyle tanınan ve 'İnsan özgür doğar ama her yerde zincire vurulmuştur' diyen düşünür kimdir?",
+                "options": [
+                    "John Locke",
+                    "Jean-Jacques Rousseau",
+                    "Thomas Hobbes",
+                    "Montesquieu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Kimyada, bir maddenin asitlik veya bazlık derecesini ölçmek için kullanılan 0-14 arası ölçeğe ne ad verilir?",
+                "options": [
+                    "Kelvin ölçeği",
+                    "pH ölçeği",
+                    "Richter ölçeği",
+                    "Molarite"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünya tarihinin en büyük deniz felaketlerinden biri olan ve 1912'de bir buzdağına çarparak batan 'batmaz' denilen geminin adı nedir?",
+                "options": [
+                    "Britannic",
+                    "Lusitania",
+                    "Titanic",
+                    "Olympic"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Resim sanatında derinlik hissi yaratmak için kullanılan, nesnelerin uzaklaştıkça küçülmesi ve renklerinin soluklaşması tekniğine ne ad verilir?",
+                "options": [
+                    "Perspektif",
+                    "Altın Oran",
+                    "Sfumato",
+                    "Empresyonizm"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "İnsan kalbinde, oksijen bakımından zengin kanın tüm vücuda pompalanmadan önce toplandığı en güçlü ve en kalın kas yapısına sahip odacık hangisidir?",
+                "options": [
+                    "Sağ Kulakçık",
+                    "Sağ Karıncık",
+                    "Sol Kulakçık",
+                    "Sol Karıncık"
+                ],
+                "correct_answer": 3,
+                "difficulty": 6
+            },
+            {
+                "question": "17. yüzyılda Babür İmparatoru Şah Cihan tarafından, ölen eşi Mümtaz Mahal anısına Hindistan'ın Agra şehrinde yaptırılan beyaz mermer anıt mezar hangisidir?",
+                "options": [
+                    "Hümayun Türbesi",
+                    "Tac Mahal",
+                    "Kızıl Kale",
+                    "Safdarjung Türbesi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Klasik müzikte 'Bestecilerin Babası' olarak anılan, 'Brandenburg Konsertoları' ve 'Mattheus Passion' gibi eserlerin sahibi Alman Barok dönem sanatçısı kimdir?",
+                "options": [
+                    "Johann Sebastian Bach",
+                    "George Frideric Handel",
+                    "Antonio Vivaldi",
+                    "Joseph Haydn"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Kimyada 'Yükseltgenme' (Oksidasyon) tepkimesi gerçekleştiğinde, bir atom veya molekülde hangi değişim gözlemlenir?",
+                "options": [
+                    "Proton kazanır",
+                    "Elektron kaybeder",
+                    "Nötron kaybeder",
+                    "Elektron kazanır"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Edebiyatta 'Don Kişot' adlı eseriyle modern romanın temelini attığı kabul edilen İspanyol yazar kimdir?",
+                "options": [
+                    "Federico García Lorca",
+                    "Lope de Vega",
+                    "Miguel de Cervantes",
+                    "Gabriel García Márquez"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünya coğrafyasında, 'Dünyanın Çatısı' olarak adlandırılan ve dünyanın en yüksek platolarını barındıran bölge hangisidir?",
+                "options": [
+                    "And Dağları",
+                    "Himalayalar",
+                    "Tibet Platosu",
+                    "Alpler"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "19. yüzyılda mikropların hastalıklara neden olduğunu kanıtlayan ve kuduz aşısını geliştirerek tıp tarihinde devrim yaratan Fransız bilim insanı kimdir?",
+                "options": [
+                    "Alexander Fleming",
+                    "Louis Pasteur",
+                    "Robert Koch",
+                    "Joseph Lister"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Ekonomide, fiyatlar genel düzeyinin sürekli ve hissedilir bir şekilde artması ve paranın satın alma gücünün düşmesi durumuna ne ad verilir?",
+                "options": [
+                    "Deflasyon",
+                    "Stagflasyon",
+                    "Enflasyon",
+                    "Devalüasyon"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "İskandinav mitolojisinde, tanrıların kralı olan ve bilgeliği uğruna bir gözünü feda eden 'Tüm Babaların Babası' kimdir?",
+                "options": [
+                    "Thor",
+                    "Loki",
+                    "Odin",
+                    "Baldur"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Bilgisayar teknolojisinde, verilerin kalıcı olarak saklandığı ancak sadece okunabildiği, üzerine veri yazılamayan bellek türü hangisidir?",
+                "options": [
+                    "RAM",
+                    "ROM",
+                    "SSD",
+                    "CPU"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "II. Dünya Savaşı sırasında Almanların 'Enigma' şifresini çözerek savaşın gidişatını değiştiren ve modern bilgisayar biliminin babası kabul edilen İngiliz matematikçi kimdir?",
+                "options": [
+                    "Nikola Tesla",
+                    "Alan Turing",
+                    "John von Neumann",
+                    "Claude Shannon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Sanat tarihinde 'Belleğin Azmi' (Eriyen Saatler) tablosuyla tanınan, Sürrealizm akımının en önemli temsilcisi İspanyol ressam kimdir?",
+                "options": [
+                    "Pablo Picasso",
+                    "Salvador Dali",
+                    "Joan Miró",
+                    "Francisco Goya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "İnsan vücudunda kanın süzülerek idrarın oluşturulduğu ve vücut sıvı dengesinin ayarlandığı temel birimlere ne ad verilir?",
+                "options": [
+                    "Alveol",
+                    "Nöron",
+                    "Nefron",
+                    "Lenfosit"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "1789 Fransız İhtilali'ni başlatan olay olarak kabul edilen, halkın siyasi mahkumları kurtarmak için bastığı ünlü hapishane hangisidir?",
+                "options": [
+                    "Versay",
+                    "Bastille",
+                    "Louvre",
+                    "Pantheon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünyanın en büyük adası hangisidir? (Kıta olarak kabul edilen Avustralya hariç)",
+                "options": [
+                    "Grönland",
+                    "Madagaskar",
+                    "Borneo",
+                    "Yeni Gine"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Felsefede 'Düşünüyorum, öyleyse varım' (Cogito, ergo sum) sözüyle rasyonalizmin temelini atan Fransız düşünür kimdir?",
+                "options": [
+                    "Jean-Paul Sartre",
+                    "Blaise Pascal",
+                    "René Descartes",
+                    "Voltaire"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Periyodik tabloda atom numarası 79 olan, paslanmayan ve doğada saf halde bulunabilen değerli metal hangisidir?",
+                "options": [
+                    "Gümüş",
+                    "Platin",
+                    "Altın",
+                    "Bakır"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Edebiyatta 'İlahi Komedya' adlı eseriyle Cehennem, Araf ve Cennet'e yapılan bir yolculuğu anlatan İtalyan şair kimdir?",
+                "options": [
+                    "Petrarca",
+                    "Boccaccio",
+                    "Dante Alighieri",
+                    "Machiavelli"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Güneş Sistemi'nde ekseni neredeyse yörüngesine paralel olan (yan yatmış varil gibi dönen) buz devi gezegen hangisidir?",
+                "options": [
+                    "Neptün",
+                    "Uranüs",
+                    "Satürn",
+                    "Jüpiter"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "1945 yılında kurulan ve dünya barışını korumayı amaçlayan Birleşmiş Milletler'in (BM) genel merkezi hangi şehirdedir?",
+                "options": [
+                    "Cenevre",
+                    "Brüksel",
+                    "New York",
+                    "Paris"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Albert Einstein'ın Genel Görelilik teorisinin doğruluğunu kanıtlayan ilk somut gözlem, hangi gezegenin yörüngesindeki 'günberi kayması' (perihelion precession) anomalisinin açıklanmasıyla gerçekleşmiştir?",
+                "options": [
+                    "Venüs",
+                    "Mars",
+                    "Merkür",
+                    "Satürn"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Analitik felsefenin en zorlu eserlerinden biri kabul edilen 'Tractatus Logico-Philosophicus'un yazarı olan ve 'Dilimin sınırları, dünyamın sınırlarıdır' diyen düşünür kimdir?",
+                "options": [
+                    "Bertrand Russell",
+                    "Ludwig Wittgenstein",
+                    "Karl Popper",
+                    "Michel Foucault"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Sanat tarihinde 'Rönesans'ın Üç Büyükleri' arasında sayılan Raphael'in, antik çağın en önemli düşünürlerini tek bir karede topladığı devasa freskin adı nedir?",
+                "options": [
+                    "Atina Okulu",
+                    "Parnassus",
+                    "Kutsal Tartışma",
+                    "Sistine Madonnası"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Biyokimyada, hücrenin enerji para birimi olarak bilinen ve oksijenli solunum sonucunda mitokondride üretilen molekülün tam adı nedir?",
+                "options": [
+                    "Adenozin Monofosfat",
+                    "Adenozin Difosfat",
+                    "Adenozin Trifosfat",
+                    "Guanozin Trifosfat"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "1648 yılında imzalanan ve Avrupa'da 'Ulus Devlet' kavramının temelini atarak Otuz Yıl Savaşları'nı bitiren barış antlaşması hangisidir?",
+                "options": [
+                    "Utrecht Barışı",
+                    "Westphalia Barışı",
+                    "Viyana Kongresi",
+                    "Aix-la-Chapelle Antlaşması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Edebiyatta 'Büyülü Gerçekçilik' akımının en önemli temsilcisi kabul edilen ve 'Yüzyıllık Yalnızlık' romanıyla Nobel ödülü alan Kolombiyalı yazar kimdir?",
+                "options": [
+                    "Jorge Luis Borges",
+                    "Mario Vargas Llosa",
+                    "Gabriel García Márquez",
+                    "Julio Cortázar"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Psikolojide, bireyin bir duruma müdahale etme olasılığının çevredeki insan sayısı arttıkça azaldığını belirten fenomenin adı nedir?",
+                "options": [
+                    "Bilişsel Çelişki",
+                    "Seyirci Etkisi (Bystander Effect)",
+                    "Halo Etkisi",
+                    "Plasebo Etkisi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Müzikte, beş adet diye (#) işaretine sahip olan ve hem neşeli hem de parlak bir ton olarak kabul edilen majör gam hangisidir?",
+                "options": [
+                    "Si Majör",
+                    "Mi Majör",
+                    "La Majör",
+                    "Re Majör"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Optik biliminde, ışığın farklı yoğunluktaki ortamlardan geçerken yön değiştirmesini ve hızının azalmasını açıklayan yasa hangisidir?",
+                "options": [
+                    "Snell Yasası",
+                    "Ohm Yasası",
+                    "Bernoulli İlkesi",
+                    "Doppler Etkisi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Antik Roma tarihinde, Sezar'ın öldürülmesinden sonra kurulan 'İkinci Üçlü Yönetim'de (Second Triumvirate) yer alan isimler Octavianus, Marcus Antonius ve kimdir?",
+                "options": [
+                    "Crassus",
+                    "Lepidus",
+                    "Pompeius",
+                    "Brutus"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
                 "question": "Matematik tarihinde 'Son Teorem'i ile ünlü olan ve bu teoreminin kanıtını bir kitabın kenarına 'dar olduğu için sığdıramadığını' iddia eden, ancak 350 yıl sonra kanıtlanabilen matematikçi kimdir?",
                 "options": [
                     "Blaise Pascal",
@@ -4138,17 +5326,6 @@
                 "difficulty": 8
             },
             {
-                "question": "Asurlular rölyeflerinde hangi renkleri (sarı, mavi, beyaz ve kırmızı dışında) pek kullanmamışlardır?",
-                "options": [
-                    "Yeşil ve Mor",
-                    "Siyah",
-                    "Turuncu",
-                    "Kahverengi"
-                ],
-                "correct_answer": 0,
-                "difficulty": 10
-            },
-            {
                 "question": "İslamiyet'te açık davet emredilmeden önceki gizli tebliğ döneminde ilk Müslüman olan köle kimdir?",
                 "options": [
                     "Bilal-i Habeşi",
@@ -7498,30 +8675,6 @@
                 "difficulty": 6
             },
             {
-                "question": "Afganistan halkı Hz. Ali'nin mezarının Mezar-ı Şerif'te olduğunu iddia ederken hangi rivayete dayanır?",
-                "options": [
-                    "Hz. Hüseyin'in rüyasında Peygamber'in gelip cenazeyi götürmesi",
-                    "Ebu Müslim Horasani'nin cesedi taşıması",
-                    "Hz. Ali'nin vasiyeti",
-                    "Şah Tahmasp'ın emri"
-                ],
-                "correct_answer": 0,
-                "category": "MezarRivayetleri",
-                "difficulty": 6
-            },
-            {
-                "question": "Cende Bâlâ (tuğ kaldırma) töreni hangi gün yapılır ve neyi temsil eder?",
-                "options": [
-                    "Nevruz günü ve Hz. Ali'nin halifeliğini",
-                    "Muharrem ayı ve Kerbela'yı",
-                    "Hicri yılbaşı ve barışı",
-                    "Ramazan ve orucu"
-                ],
-                "correct_answer": 0,
-                "category": "NevruzCendeBala",
-                "difficulty": 6
-            },
-            {
                 "question": "Ravza-i Şerif'teki beyaz güvercinlere neden 'barış güvercini' denir?",
                 "options": [
                     "Barışı temsil ettikleri için",
@@ -7532,90 +8685,6 @@
                 "correct_answer": 0,
                 "category": "BeyazGuvercinler",
                 "difficulty": 6
-            },
-            {
-                "question": "Ravza-i Şerif'teki kilitlerin açılması neye inanılır?",
-                "options": [
-                    "Açan kişinin muradının gerçekleşeceğine",
-                    "Hz. Ali'nin dirildiğine",
-                    "Cennete gideceğine",
-                    "Zengin olacağına"
-                ],
-                "correct_answer": 0,
-                "category": "Kilitler",
-                "difficulty": 6
-            },
-            {
-                "question": "Çeşme-i Şifa'nın eskiden şifalı olduğu, ancak Hz. Ali'nin duası ile şifa vermediği rivayet edilirken ne sebep gösterilir?",
-                "options": [
-                    "Kafirlere şifa vermesi ve Hz. Ali'nin sinirlenmesi",
-                    "Su sıcak olduğu için",
-                    "Hastalıkların artması",
-                    "Kuyunun kuruması"
-                ],
-                "correct_answer": 0,
-                "category": "CesmeISifa",
-                "difficulty": 8
-            },
-            {
-                "question": "Şadyan Dağı'nın yeşillenmemesinin sebebi olarak ne rivayet edilir?",
-                "options": [
-                    "Hz. Ali'nin Düldül'ü orada otlattığı ve duası ile yeşillenmemesi",
-                    "Kayalık olması",
-                    "Savaş alanı olması",
-                    "Kuraklık"
-                ],
-                "correct_answer": 0,
-                "category": "SadyanDagi",
-                "difficulty": 7
-            },
-            {
-                "question": "Ateşkede-i Zerdüşt tapınağının özelliği nedir?",
-                "options": [
-                    "Bin yıl ateşin yanması ve Hz. Ali'nin söndürmesi",
-                    "Hz. Ali'nin ibadet ettiği yer olması",
-                    "Putların bulunduğu yer",
-                    "Kralın sarayı"
-                ],
-                "correct_answer": 0,
-                "category": "ZerdustTapinagi",
-                "difficulty": 7
-            },
-            {
-                "question": "Kedinin yukarıdan atıldığında dört ayak üzerine düşmesinin sebebi olarak ne rivayet edilir?",
-                "options": [
-                    "Hz. Ali'nin kediyi sevmesi ve Allah'ın sırtının yere gelmesini istememesi",
-                    "Kedinin refleksi",
-                    "Doğal bir özellik",
-                    "Bilimsel bir gerçek"
-                ],
-                "correct_answer": 0,
-                "category": "KediKerameti",
-                "difficulty": 8
-            },
-            {
-                "question": "Barbar kalesi olayında Hz. Ali'ye verilen ilk görev nedir?",
-                "options": [
-                    "Ejderhayı öldürmek",
-                    "Baraj yapmak",
-                    "Köle olarak satılmak",
-                    "Şehirde İslam'ı yaymak"
-                ],
-                "correct_answer": 0,
-                "category": "BarbarKalesi",
-                "difficulty": 8
-            },
-            {
-                "question": "Hz. Ali'nin Barbar'a karşı İslam'ı kabul ettirdiği kişilerden hangisi İsmaili (Gulat-ı Şia) fırkasının kaynağı olarak gösterilir?",
-                "options": [
-                    "Allah'ın oğlu diyen kişi",
-                    "Peygamber diyen kişi",
-                    "Ali diyen kişi",
-                    "Hiçbiri"
-                ],
-                "correct_answer": 0,
-                "category": "BarbarKalesi",
-                "difficulty": 9
             },
             {
                 "question": "Osmanlı Devleti'nin kuruluşunda Kayı boyunun lideri kimdir?",
@@ -8362,18 +9431,6 @@
                 "difficulty": 6
             },
             {
-                "question": "Cemel Savaşı hangi taraflar arasında olmuştur?",
-                "options": [
-                    "Hz. Ali ile Hz. Ayşe-Talha-Zübeyr",
-                    "Hz. Ali ile Muaviye",
-                    "Hz. Ali ile Hariciler",
-                    "Hz. Ali ile Yezid"
-                ],
-                "correct_answer": 0,
-                "category": "HalifelikDonemi",
-                "difficulty": 7
-            },
-            {
                 "question": "Sıffin Savaşı'nda Muaviye'nin hilesi nedir?",
                 "options": [
                     "Mızraklara Kur'an sayfası takmak",
@@ -8384,18 +9441,6 @@
                 "correct_answer": 0,
                 "category": "HalifelikDonemi",
                 "difficulty": 8
-            },
-            {
-                "question": "Hariciler kimlerdir?",
-                "options": [
-                    "Hz. Ali ve Muaviye'yi reddeden grup",
-                    "Hz. Ali taraftarları",
-                    "Muaviye taraftarları",
-                    "Yezid taraftarları"
-                ],
-                "correct_answer": 0,
-                "category": "Hariciler",
-                "difficulty": 7
             },
             {
                 "question": "Hz. Hüseyin'in Kûfe'ye davet edilmesi hangi halifenin döneminde olmuştur?",
