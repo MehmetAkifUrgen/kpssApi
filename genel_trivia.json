@@ -2,6 +2,556 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "Kimya biliminde, bir elementin tüm kimyasal özelliklerini taşıyan ve merkezinde çekirdek bulunan en küçük yapı taşına ne ad verilir?",
+                "options": [
+                    "Molekül",
+                    "Atom",
+                    "Elektron",
+                    "Hücre"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Rönesans döneminin dâhisi Leonardo da Vinci'nin, Milano'daki bir manastırın yemekhanesine yaptığı ve İsa'nın havarileriyle son buluşmasını anlatan ünlü freski hangisidir?",
+                "options": [
+                    "Mona Lisa",
+                    "Son Akşam Yemeği",
+                    "Sistine Şapeli",
+                    "Atina Okulu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünya tarihinin en büyük kara imparatorluğunu kuran, 'Okyanusların Kağanı' unvanıyla bilinen Moğol hükümdarı kimdir?",
+                "options": [
+                    "Kubilay Han",
+                    "Hülagü Han",
+                    "Cengiz Han",
+                    "Timur"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Tıp dünyasında 'Penisilin'i tesadüfen keşfederek antibiyotik çağını başlatan ve milyonlarca hayatın kurtulmasını sağlayan bilim insanı kimdir?",
+                "options": [
+                    "Louis Pasteur",
+                    "Alexander Fleming",
+                    "Robert Koch",
+                    "Marie Curie"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Satrançta, bir taşın başka bir taşı doğrudan tehdit etmeden, rakip şahın hareket alanını kısıtladığı veya oyunun bittiği duruma ne ad verilir?",
+                "options": [
+                    "Rok",
+                    "Mat",
+                    "Pat",
+                    "Gambit"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Güneş Sistemi'nde 'Halkalı Gezegen' olarak bilinen ve buz ile kaya parçalarından oluşan devasa bir halka sistemine sahip olan gezegen hangisidir?",
+                "options": [
+                    "Jüpiter",
+                    "Neptün",
+                    "Uranüs",
+                    "Satürn"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "İskandinav mitolojisinde, yalnızca onurlu bir şekilde savaşta ölenlerin girebildiği ve Odin'in misafirlerini ağırladığı salonun adı nedir?",
+                "options": [
+                    "Asgard",
+                    "Valhalla",
+                    "Helheim",
+                    "Midgard"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Fizikte, bir yüzeye dik olarak etki eden kuvvetin birim alana düşen miktarına ne ad verilir?",
+                "options": [
+                    "Güç",
+                    "İş",
+                    "Enerji",
+                    "Basınç"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "1912'de keşfedilen, ancak hala tam olarak deşifre edilememiş, bilinmeyen bir dilde ve alfabede yazılmış olan dünyanın en gizemli el yazması hangisidir?",
+                "options": [
+                    "Voynich El Yazması",
+                    "Ölü Deniz Parşömenleri",
+                    "Codex Gigas",
+                    "Rosetta Taşı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Modern Olimpiyat Oyunları'nın kurucusu kabul edilen ve 'Önemli olan kazanmak değil, katılmaktır' sözüyle bilinen Fransız baron kimdir?",
+                "options": [
+                    "Pierre de Coubertin",
+                    "Charles de Gaulle",
+                    "Napoleon Bonaparte",
+                    "Jean-Jacques Rousseau"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Osmanlı Devleti'nde devlet işlerinin görüşüldüğü, bugünkü Bakanlar Kurulu'na benzer bir görev üstlenen ve padişahın mutlak vekili olan sadrazamın başkanlık ettiği kurum hangisidir?",
+                "options": [
+                    "Enderun",
+                    "Divan-ı Hümayun",
+                    "Babıali",
+                    "Darüşşafaka"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk tarihinde kullanılan ilk düzenli ordu birimi olan ve dünya askeri tarihine 'Onlu Sistem'i kazandıran Asya Hun Hükümdarı kimdir?",
+                "options": [
+                    "Teoman",
+                    "Mete Han",
+                    "Attila",
+                    "Bumin Kağan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "1402 yılında Yıldırım Bayezid ile Timur arasında gerçekleşen ve Osmanlı Devleti'nin 11 yıl sürecek olan 'Fetret Devri'ne girmesine neden olan savaş hangisidir?",
+                "options": [
+                    "Varna Savaşı",
+                    "Niğbolu Savaşı",
+                    "Ankara Savaşı",
+                    "Çaldıran Savaşı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye Cumhuriyeti'nin tapu senedi kabul edilen, kapitülasyonların kesin olarak kaldırıldığı ve sınırların büyük ölçüde çizildiği 24 Temmuz 1923 tarihli antlaşma hangisidir?",
+                "options": [
+                    "Sevr Antlaşması",
+                    "Montrö Boğazlar Sözleşmesi",
+                    "Lozan Barış Antlaşması",
+                    "Mudanya Ateşkes Antlaşması"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı Devleti'nde ordunun ihtiyacı olan memur ve sanatkar ihtiyacını karşılamak amacıyla kurulan, yetenekli çocukların sarayda eğitildiği okula ne ad verilir?",
+                "options": [
+                    "Sıbyan Mektebi",
+                    "Medrese",
+                    "Enderun",
+                    "Rüştiye"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyük Selçuklu Devleti'nin yıkılış sürecine girmesine neden olan ve 1141 yılında Karahitaylılar ile yapılan savaş hangisidir?",
+                "options": [
+                    "Katvan Savaşı",
+                    "Yassıçemen Savaşı",
+                    "Kösedağ Savaşı",
+                    "Malazgirt Savaşı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "19. yüzyılda Osmanlı Devleti'nde ilk kez 'Padişahın yetkilerinin kanunla kısıtlandığı' ve anayasal düzene geçişin ilk adımı kabul edilen belge hangisidir?",
+                "options": [
+                    "Tanzimat Fermanı",
+                    "Islahat Fermanı",
+                    "Kanun-i Esasi",
+                    "Sened-i İttifak"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Türk-İslam tarihinde 'Pozitif Bilimlerin' temellerini atan, Muallim-i Sani unvanlı ve 'Medinetü'l Fazıla' eserinin sahibi bilgin kimdir?",
+                "options": [
+                    "İbn-i Sina",
+                    "Farabi",
+                    "Harezmi",
+                    "Gazali"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Kurtuluş Savaşı'nda, Batı Cephesi'nde Yunan ordusuna karşı kazanılan ilk zafer aşağıdakilerden hangisidir?",
+                "options": [
+                    "I. İnönü Savaşı",
+                    "II. İnönü Savaşı",
+                    "Sakarya Meydan Muharebesi",
+                    "Büyük Taarruz"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı Devleti'nde toprağın mülkiyetinin devlete, kullanım hakkının ise köylüye ait olduğu ve asker yetiştirme esasına dayanan sistem hangisidir?",
+                "options": [
+                    "Müsadere Sistemi",
+                    "İltizam Sistemi",
+                    "Tımar Sistemi",
+                    "Vakıf Sistemi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Orta Asya'da Türk adıyla kurulan ilk devlet olan ve Türk tarihinin bilinen ilk yazılı belgeleri olan 'Orhun Yazıtları'nı bırakan devlet hangisidir?",
+                "options": [
+                    "Hun İmparatorluğu",
+                    "Göktürk Devleti",
+                    "Uygur Devleti",
+                    "Karahanlı Devleti"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "1071 yılında gerçekleşen ve Anadolu'nun kapılarının Türklere açılmasını sağlayan savaş hangisidir?",
+                "options": [
+                    "Pasinler Savaşı",
+                    "Malazgirt Savaşı",
+                    "Miryokefalon Savaşı",
+                    "Dandanakan Savaşı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı Devleti'nde, Avrupa devletlerine tanınan ticari ve hukuki ayrıcalıklara ne ad verilir? (Not: İlk kez geniş çaplı olarak Fransa'ya verilmiştir.)",
+                "options": [
+                    "İltizam",
+                    "Devşirme",
+                    "Kapitülasyon",
+                    "Tımar"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyük Selçuklu Devleti'nde vezirlik yapmış, 'Siyasetname' adlı eseriyle ünlü olan ve Nizamiye Medreseleri'nin kurulmasına öncülük eden devlet adamı kimdir?",
+                "options": [
+                    "Nizamülmülk",
+                    "Gazali",
+                    "Piri Reis",
+                    "İbn Haldun"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı tarihinde 'Yükselme Dönemi' içinde yer almasına rağmen, taht kavgası nedeniyle bir iç meseleyken dış mesele haline gelen olay hangisidir?",
+                "options": [
+                    "Şahkulu İsyanı",
+                    "Cem Sultan Olayı",
+                    "Patrona Halil İsyanı",
+                    "Kavalalı Mehmet Ali Paşa Meselesi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Kurtuluş Savaşı döneminde, 'Manda ve himaye kabul olunamaz' kararı ilk kez kesin olarak nerede reddedilmiştir?",
+                "options": [
+                    "Amasya Genelgesi",
+                    "Erzurum Kongresi",
+                    "Sivas Kongresi",
+                    "Amasya Görüşmeleri"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı Devleti'nde 1839 yılında ilan edilen ve tüm tebaanın can, mal, namus güvenliğini devlet güvencesine alan demokratikleşme hareketi hangisidir?",
+                "options": [
+                    "Islahat Fermanı",
+                    "Tanzimat Fermanı",
+                    "Kanun-i Esasi",
+                    "Sened-i İttifak"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk tarihinde yerleşik hayata geçen, şehirler kuran ve Maniheizm dinini benimseyen ilk Türk devleti hangisidir?",
+                "options": [
+                    "Hazarlar",
+                    "Avarlar",
+                    "Uygurlar",
+                    "Peçenekler"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "13 Ekim 1923 tarihinde Türkiye Büyük Millet Meclisi tarafından kabul edilen Türkiye Cumhuriyeti'nin başkenti neresidir?",
+                "options": [
+                    "İstanbul",
+                    "Bursa",
+                    "Ankara",
+                    "İzmir"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı Devleti'nin 'Yedi Yıl Savaşları' sonrası imzalanan ve tarihindeki ilk büyük toprak kaybını yaşadığı 1699 tarihli antlaşma hangisidir?",
+                "options": [
+                    "Karlofça Antlaşması",
+                    "İstanbul Antlaşması",
+                    "Pasarofça Antlaşması",
+                    "Küçük Kaynarca Antlaşması"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Divan edebiyatında tek bir olay örgüsünü anlatan, beyit sınırlaması olmayan ve günümüz roman/hikaye türünün yerini tutan nazım biçimi hangisidir?",
+                "options": [
+                    "Gazel",
+                    "Kaside",
+                    "Mesnevi",
+                    "Rubai"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Modern Türk edebiyatının en önemli eserlerinden 'Tutunamayanlar'ın yazarı olan ve postmodernizmin öncüsü kabul edilen isim kimdir?",
+                "options": [
+                    "Oğuz Atay",
+                    "Yusuf Atılgan",
+                    "Adalet Ağaoğlu",
+                    "Bilge Karasu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Milli Edebiyat döneminde 'Yeni Lisan' makalesiyle dilde sadeleşme hareketini başlatan ve Türk öykücülüğünde 'Maupassant' tarzının en büyük temsilcisi olan yazar kimdir?",
+                "options": [
+                    "Sait Faik Abasıyanık",
+                    "Ömer Seyfettin",
+                    "Memduh Şevket Esendal",
+                    "Refik Halid Karay"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Servet-i Fünun dönemi şairi olan, 'Sisi' ve 'Elhan-ı Şita' gibi şiirleriyle tanınan, 'sanat şahsi ve muhteremdir' görüşünü savunan isim kimdir?",
+                "options": [
+                    "Tevfik Fikret",
+                    "Cenap Şahabettin",
+                    "Ahmet Haşim",
+                    "Yahya Kemal Beyatlı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türk edebiyatında 'Anayurt Oteli' ve 'Aylak Adam' romanlarıyla bireyin yabancılaşmasını ve yalnızlığını modernist bir dille işleyen yazar kimdir?",
+                "options": [
+                    "Vüs'at O. Bener",
+                    "Yusuf Atılgan",
+                    "Leyla Erbil",
+                    "Ferit Edgü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "14. yüzyılda yaşamış, sade Türkçesi ve ilahileriyle Anadolu tasavvuf şiirinin en büyük ismi kabul edilen halk şairi kimdir?",
+                "options": [
+                    "Pir Sultan Abdal",
+                    "Hacı Bektaş Veli",
+                    "Yunus Emre",
+                    "Kaygusuz Abdal"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Divan edebiyatında şairlerin hayatlarını ve eserlerini anlatan, günümüzdeki biyografi/antoloji türüne karşılık gelen eserlere ne ad verilir?",
+                "options": [
+                    "Siyasetname",
+                    "Sefaretname",
+                    "Tezkire",
+                    "Münşeat"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Cumhuriyet dönemi Türk edebiyatında, Saf Şiir (Öz Şiir) anlayışının temsilcisi olan ve 'Kaldırımlar' şairi olarak tanınan isim kimdir?",
+                "options": [
+                    "Ahmet Hamdi Tanpınar",
+                    "Cahit Sıtkı Tarancı",
+                    "Necip Fazıl Kısakürek",
+                    "Ziya Osman Saba"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "İkinci Yeni akımının en önemli isimlerinden olan, 'Üvercinka' ve 'Göçebe' kitaplarının yazarı şairimiz hangisidir?",
+                "options": [
+                    "Ece Ayhan",
+                    "Cemal Süreya",
+                    "Turgut Uyar",
+                    "Sezai Karakoç"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Sözlükte 'karşılıklı konuşma' anlamına gelen, tiyatro ve roman gibi türlerde karakterlerin karşılıklı konuşmalarına dayanan anlatım tekniği hangisidir?",
+                "options": [
+                    "Monolog",
+                    "Diyalog",
+                    "İç Ses",
+                    "Leitmotiv"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk edebiyatında 'Batılı anlamda' ilk modern roman kabul edilen ve Halit Ziya Uşaklıgil tarafından kaleme alınan eser hangisidir?",
+                "options": [
+                    "Aşk-ı Memnu",
+                    "Mai ve Siyah",
+                    "Eylül",
+                    "Araba Sevdası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Milli Edebiyat döneminin en önemli kadın yazarlarından olan, Kurtuluş Savaşı'nı bizzat cephede takip edip 'Ateşten Gömlek' ve 'Sinekli Bakkal' gibi eserleri yazan isim kimdir?",
+                "options": [
+                    "Halide Edib Adıvar",
+                    "Yakub Kadri Karaosmanoğlu",
+                    "Reşat Nuri Güntekin",
+                    "Fatma Aliye Hanım"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Divan edebiyatında 'Şeyh-i Şuara' (Şairlerin Şeyhi) olarak bilinen, 'Kanuni Mersiyesi' ile ünlü 16. yüzyıl şairi kimdir?",
+                "options": [
+                    "Fuzuli",
+                    "Baki",
+                    "Nedim",
+                    "Nef'i"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Cumhuriyet dönemi Türk şiirinde 'Garip' (Birinci Yeni) akımının kurucuları arasında yer alan, 'Anlatamıyorum' ve 'İstanbul'u Dinliyorum' şiirlerinin yazarı kimdir?",
+                "options": [
+                    "Melih Cevdet Anday",
+                    "Oktay Rifat Horozcu",
+                    "Orhan Veli Kanık",
+                    "Attila İlhan"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk edebiyatında ilk psikolojik roman denemesi olarak kabul edilen 'Zehra'nın yazarı kimdir? (Not: İlk başarılı psikolojik roman 'Eylül'dür.)",
+                "options": [
+                    "Nabizade Nazım",
+                    "Mehmet Rauf",
+                    "Ahmet Mithat Efendi",
+                    "Samipaşazade Sezai"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Modern Türk öykücülüğünün öncülerinden olan, İstanbul'u, denizi ve balıkçıları masalsı bir dille anlatan 'Semaver' ve 'Lüzumsuz Adam' kitaplarının yazarı kimdir?",
+                "options": [
+                    "Ömer Seyfettin",
+                    "Sait Faik Abasıyanık",
+                    "Memduh Şevket Esendal",
+                    "Sabahattin Ali"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Toplumcu gerçekçi edebiyatın dev ismi olan, Çukurova'yı ve ağalık düzenini 'İnce Memed' serisiyle dünyaya tanıtan yazarımız kimdir?",
+                "options": [
+                    "Orhan Kemal",
+                    "Yaşar Kemal",
+                    "Kemal Tahir",
+                    "Fakir Baykurt"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Eski Türk edebiyatında, bir şairin başka bir şairin şiirine aynı ölçü ve uyakla yazdığı benzer şiire ne ad verilir?",
+                "options": [
+                    "Gazel",
+                    "Nazire",
+                    "Kaside",
+                    "Tezkire"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "11. yüzyılda Kaşgarlı Mahmud tarafından yazılan, ilk Türk dünyası haritasını içeren ve Türk dilinin ilk sözlüğü kabul edilen eser hangisidir?",
+                "options": [
+                    "Divan-ı Hikmet",
+                    "Kutadgu Bilig",
+                    "Divânu Lugāti't-Türk",
+                    "Atabetü'l-Hakayık"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "İkinci Yeni şiir akımının en özgün isimlerinden olan, 'Yerçekimli Karanfil' ve 'Masa da Masaymış Ha' şiirlerinin yazarı kimdir?",
+                "options": [
+                    "Turgut Uyar",
+                    "Edip Cansever",
+                    "Cemal Süreya",
+                    "Ece Ayhan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
                 "question": "Dünya üzerinde yer alan ve 'Dünyanın Akciğerleri' olarak bilinen, biyolojik çeşitliliğin en yüksek olduğu devasa yağmur ormanları hangi nehir havzasındadır?",
                 "options": [
                     "Kongo",
