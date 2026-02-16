@@ -24138,6 +24138,1309 @@
                 "flag_svg": "https://flagcdn.com/cl.svg"
             }
         ],
+        "Sinema": [
+            {
+                "question": "Oscar tarihinde 'En İyi Film' kategorisinde ödül kazanan, İngilizce dışındaki bir dilde çekilmiş ilk film hangisidir?",
+                "options": [
+                    "Roma",
+                    "Parasite",
+                    "Crouching Tiger, Hidden Dragon",
+                    "Life is Beautiful"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+
+            {
+                "question": "Hangi efsanevi aktör, 'The Godfather' (1972) filmiyle kazandığı 'En İyi Erkek Oyuncu' ödülünü, Hollywood'un Kızılderililere yönelik tutumunu protesto etmek için reddetmiştir?",
+                "options": [
+                    "Al Pacino",
+                    "Robert De Niro",
+                    "Marlon Brando",
+                    "James Caan"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Oscar tarihinde hem 'En İyi Film' hem de 'En İyi Yönetmen' ödülünü kazanan ilk kadın yönetmen kimdir?",
+                "options": [
+                    "Greta Gerwig",
+                    "Kathryn Bigelow",
+                    "Chloe Zhao",
+                    "Jane Campion"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1939 yılında 'En İyi Yardımcı Kadın Oyuncu' ödülünü kazanarak Oscar alan ilk siyahi sanatçı kimdir?",
+                "options": [
+                    "Hattie McDaniel",
+                    "Whoopi Goldberg",
+                    "Viola Davis",
+                    "Dorothy Dandridge"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Akademi tarihinde 'Big Five' olarak adlandırılan (En İyi Film, Yönetmen, Senaryo, Erkek Oyuncu, Kadın Oyuncu) ana ödüllerin beşini birden kazanan ilk film hangisidir?",
+                "options": [
+                    "The Silence of the Lambs",
+                    "One Flew Over the Cuckoo's Nest",
+                    "It Happened One Night",
+                    "Amadeus"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            
+            {
+                "question": "Christopher Nolan'ın 'Oppenheimer' filmi, 2024 Oscar töreninde toplam kaç dalda ödül kazanmıştır?",
+                "options": [
+                    "5",
+                    "7",
+                    "9",
+                    "11"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Oscar tarihinde aday gösterilen ancak hiç ödül kazanamayan 'En Çok Kaybeden' film rekoru (11 adaylık 0 ödül) hangi iki filme aittir?",
+                "options": [
+                    "The Color Purple ve The Turning Point",
+                    "Avatar ve Inception",
+                    "Gangs of New York ve The Irishman",
+                    "The Power of the Dog ve Mank"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "2017 yılındaki Oscar töreninde, 'En İyi Film' ödülünün yanlışlıkla 'La La Land' olarak anons edildiği ancak asıl kazananın 'Moonlight' olduğu o meşhur karışıklığa ne ad verilir?",
+                "options": [
+                    "The Envelope Gate",
+                    "Oscar Fail",
+                    "Moonlight Crisis",
+                    "La La Mistake"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+
+            {
+                "question": "Heath Ledger'ın 'The Joker' rolüyle 'En İyi Yardımcı Erkek Oyuncu' Oscar'ını almasının en önemli özelliği nedir?",
+                "options": [
+                    "Ödülü bir süper kahraman filmiyle alması",
+                    "Ödülü vefatından sonra alması",
+                    "En genç kazanan olması",
+                    "En kısa ekran süresiyle ödül alması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Akademi Ödülleri tarihinde 'En Genç Oscar Kazanan' kişi (10 yaşında) kimdir?",
+                "options": [
+                    "Shirley Temple",
+                    "Tatum O'Neal",
+                    "Anna Paquin",
+                    "Justin Henry"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Lozan Antlaşması'na göre değil de, sinematik bir başarı olarak; Steven Spielberg'in hangi filmi ona ilk 'En İyi Yönetmen' Oscar'ını getirmiştir?",
+                "options": [
+                    "Jaws",
+                    "E.T.",
+                    "Schindler's List",
+                    "Saving Private Ryan"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Oscar tarihinde 12 adaylık ile en çok aday gösterilen ancak hiç kazanamayan 'Görüntü Yönetmeni' rekorunu 2024'te kırmış olan isim kimdir?",
+                "options": [
+                    "Roger Deakins",
+                    "Emmanuel Lubezki",
+                    "George Stevens",
+                    "Daha önce rekor kırılamadı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Türk sinemasında 'Çirkin Kral' Yılmaz Güney'in, hapishanedeyken senaryosunu yazdığı ve yönetmenliğini Zeki Ökten'in üstlendiği, bir aşiretin dramını anlatan kült film hangisidir?",
+                "options": [
+                    "Yol",
+                    "Sürü",
+                    "Duvar",
+                    "Aç Kurtlar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Yeşilçam'da 'Hababam Sınıfı'nın yazarı Rıfat Ilgaz, serinin sinema uyarlamasında hangi karakterin aslında olmamasını, sonradan eklenmesini eleştirmiştir?",
+                "options": [
+                    "İnek Şaban",
+                    "Hafize Ana",
+                    "Mahmut Hoca",
+                    "Güdük Necmi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "1968 yapımı '2001: A Space Odyssey' filminde, yapay zeka HAL 9000'in dudak okuyabildiğini fark eden astronotların bulunduğu sessiz sahne hangi çekim tekniğiyle etkileyici kılınmıştır?",
+                "options": [
+                    "Point of View",
+                    "Dolly Zoom",
+                    "Low Angle",
+                    "Handheld Camera"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Sinemada 'Asymptote' (Asimptot) kurgu tarzını benimseyen, olay örgüsünden ziyade anların ve duyguların peşinde koşan, 'Sonsuzluk ve Bir Gün' filminin yönetmeni kimdir?",
+                "options": [
+                    "Theo Angelopoulos",
+                    "Bela Tarr",
+                    "Jim Jarmusch",
+                    "Wong Kar-wai"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Türk sinemasının ilk korku filmi kabul edilen ve 1953 yılında çekilen 'Drakula İstanbul'da' filminin başrolünde hangi tiyatro sanatçısı oynamıştır?",
+                "options": [
+                    "Atıf Kaptan",
+                    "Muhsin Ertuğrul",
+                    "Sadri Alışık",
+                    "Cüneyt Gökçer"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "1939 yapımı 'Oz Büyücüsü' filminde, siyah-beyaz dünyadan renkli dünyaya geçişi sağlamak için hangi teknoloji kullanılmıştır?",
+                "options": [
+                    "CGI",
+                    "Technicolor",
+                    "Eastmancolor",
+                    "Kodachrome"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Yeşilçam'ın en önemli senarist ve yönetmenlerinden olan, 'Aaahh Belinda' ve 'Adı Vasfiye' gibi fantastik-gerçekçi filmleriyle tanınan isim kimdir?",
+                "options": [
+                    "Atıf Yılmaz",
+                    "Şerif Gören",
+                    "Ömer Kavur",
+                    "Erden Kıral"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Quentin Tarantino'nun 'Kill Bill' serisinde başrol oyuncusu Uma Thurman'ın giydiği sarı tulum, hangi dövüş sanatları efsanesine bir saygı duruşudur?",
+                "options": [
+                    "Jackie Chan",
+                    "Bruce Lee",
+                    "Jet Li",
+                    "Chuck Norris"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk sinemasında 'Muhsin Bey' ve 'Eşkıya' filmleriyle sinemanın içine girdiği krizden çıkmasını sağlayan 'kurtarıcı' yönetmen kimdir?",
+                "options": [
+                    "Yavuz Turgul",
+                    "Zeki Demirkubuz",
+                    "Nuri Bilge Ceylan",
+                    "Reha Erdem"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Sinemada 'Snyder Cut' terimi, hangi film için hayranların baskısıyla yönetmenin orijinal kurgusunun yayınlanması olayını ifade eder?",
+                "options": [
+                    "Batman v Superman",
+                    "Justice League",
+                    "Watchmen",
+                    "Man of Steel"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Yeşilçam'ın efsane filmi 'Selvi Boylum Al Yazmalım'da Cahit Berkay imzalı o meşhur tema müziğinde baskın olarak duyulan telli enstrüman hangisidir?",
+                "options": [
+                    "Bağlama",
+                    "Cümbüş",
+                    "Moog Sentezleyici",
+                    "Kabak Kemane"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Orson Welles'in 'Yurttaş Kane' filminde, kahramanın çocukluğuna ve masumiyetine duyduğu özlemi simgeleyen, ölmeden önceki son sözü olan gizemli kelime nedir?",
+                "options": [
+                    "Rosebud",
+                    "Xanadu",
+                    "Snowflake",
+                    "Candle"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Sinemada 'Dutch Angle' (Alman Açısı) olarak bilinen, kameranın hafifçe yana yatırılarak huzursuzluk ve dengesizlik hissi yaratılması tekniği ilk hangi akımla ortaya çıkmıştır?",
+                "options": [
+                    "İtalyan Yeni Gerçekçilik",
+                    "Alman Ekspresyonizmi",
+                    "Fransız Yeni Dalga",
+                    "Sovyet Kurgu Okulu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1994 yapımı 'The Shawshank Redemption' (Esaretin Bedeli) filminde, Andy Dufresne karakterinin tünel kazmak için kullandığı küçük çekicin saklandığı kitabın adı nedir?",
+                "options": [
+                    "Sefiller",
+                    "İncil",
+                    "Monte Kristo Kontu",
+                    "Suç ve Ceza"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türk sinemasında 'Sinema Yazarları Derneği' (SİYAD) tarafından 'Yüzyılın En İyi Türk Filmi' seçilen yapım hangisidir?",
+                "options": [
+                    "Yol",
+                    "Umut",
+                    "Susuz Yaz",
+                    "Muhsin Bey"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Quentin Tarantino'nun 'Reservoir Dogs' (Rezervuar Köpekleri) filminde karakterlerin gerçek isimleri yerine 'Bay Turuncu, Bay Pembe' gibi renkleri kod ad olarak kullanması hangi kült filme bir saygı duruşudur?",
+                "options": [
+                    "The Taking of Pelham One Two Three",
+                    "Ocean's Eleven",
+                    "The Great Escape",
+                    "Seven Samurai"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Yeşilçam'ın 'Gülüşüyle dünyayı aydınlatan' oyuncusu Adile Naşit'in sinemadaki ilk filmi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Hababam Sınıfı",
+                    "Lüküs Hayat",
+                    "Yara",
+                    "Ah Nerede"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Steven Spielberg'in 'Jaws' filminde köpekbalığının mekanik arızalar nedeniyle film boyu az görünmesi, hangi teknik zorunluluğu doğurarak gerilimi artırmıştır?",
+                "options": [
+                    "Subjektif kamera",
+                    "Hızlı kurgu",
+                    "Siyah-beyaz çekim",
+                    "Anlatıcı kullanımı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Sinemada 'CGI' (Computer Generated Imagery) teknolojisinin ilk kez yoğun ve devrimsel olarak kullanıldığı uzun metrajlı film hangisidir?",
+                "options": [
+                    "Star Wars",
+                    "Tron",
+                    "Jurassic Park",
+                    "Toy Story"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Türk sinemasında 'Köşeyi Dönen Adam' ve 'Zübük' gibi toplumsal yergi filmlerinin senaryolarını yazan ünlü yazar kimdir?",
+                "options": [
+                    "Müjdat Gezen",
+                    "Aziz Nesin",
+                    "Kartal Tibet",
+                    "Atıf Yılmaz"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Akira Kurosawa'nın 'Yedi Samuray' filminden uyarlanarak çekilen ünlü Western filmi hangisidir?",
+                "options": [
+                    "The Magnificent Seven",
+                    "A Fistful of Dollars",
+                    "Unforgiven",
+                    "The Searchers"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Yeşilçam'ın kült ismi Cüneyt Arkın'ın aslında asıl mesleği nedir?",
+                "options": [
+                    "Mühendis",
+                    "Avukat",
+                    "Tıp Doktoru",
+                    "Öğretmen"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Sinemada 'Fransız Yeni Dalga' akımının en belirgin teknik özelliklerinden biri olan, çekim içindeki sürekliliği kasten bozarak zamanın atladığı hissini veren kurgu tekniği hangisidir?",
+                "options": [
+                    "Cross-cutting",
+                    "Match Cut",
+                    "Jump Cut",
+                    "Parallel Editing"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Metin Erksan'ın 'Sevmek Zamanı' filminde işlediği, bir surete aşık olma teması hangi tasavvufi kavramla ilişkilendirilir?",
+                "options": [
+                    "Vahdet-i Vücud",
+                    "Surete Aşk",
+                    "Fenafillah",
+                    "Aşk-ı Mecazi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Wes Anderson sinemasının en belirgin görsel imzası olan, kadrajın tam ortadan ikiye bölündüğünde her iki tarafın birbirinin aynısı olması durumuna ne ad verilir?",
+                "options": [
+                    "Asimetri",
+                    "Planar Kompozisyon",
+                    "Görsel Simetri",
+                    "Altın Oran"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "1948 yapımı 'Rope' (Ölüm Kararı) filmini, kurgu hileleriyle sanki tek bir kesintisiz çekimden oluşuyormuş gibi tasarlayan yönetmen kimdir?",
+                "options": [
+                    "Alfred Hitchcock",
+                    "Orson Welles",
+                    "Stanley Kubrick",
+                    "Billy Wilder"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Yeşilçam'da çekilen 'Dünyayı Kurtaran Adam' filminde, telif hakları ödenmeden 'Star Wars' ve 'Indiana Jones' filmlerinden sahnelerin kullanılması dünya sinema literatüründe hangi terimle anılır?",
+                "options": [
+                    "Remake",
+                    "Mockbuster",
+                    "Turksploitation",
+                    "Pastiche"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Sinema tarihinde 'Western' türünün ilk örneği kabul edilen, 1903 yapımı Edwin S. Porter filmi hangisidir?",
+                "options": [
+                    "The Searchers",
+                    "The Great Train Robbery",
+                    "Stagecoach",
+                    "High Noon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Stanley Kubrick'in 'Barry Lyndon' filminde, dönemin atmosferini bozmamak için sadece mum ışığında çekim yapabilmesini sağlayan özel NASA lenslerini üreten marka hangisidir?",
+                "options": [
+                    "Leica",
+                    "Carl Zeiss",
+                    "Canon",
+                    "Nikon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Türk sinemasının ilk kadın yönetmeni ve Batı tarzı tiyatronun öncülerinden olan isim kimdir?",
+                "options": [
+                    "Cahide Sonku",
+                    "Afife Jale",
+                    "Bedia Muvahhit",
+                    "Leyla Gencer"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Korku sinemasında karakterin katilin gözünden görüldüğü çekim tekniğine (Point of View) ne ad verilir?",
+                "options": [
+                    "Slasher Shot",
+                    "Subjective Camera",
+                    "Dutch Angle",
+                    "Tracking Shot"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "1966 yapımı 'Persona' filminde iki kadının yüzlerinin birleştiği ikonik sahneyle insan psikolojisinin derinliklerine inen yönetmen kimdir?",
+                "options": [
+                    "Ingmar Bergman",
+                    "Federico Fellini",
+                    "Michelangelo Antonioni",
+                    "Luchino Visconti"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Yeşilçam'ın kült filmi 'Gurbet Kuşları'nın sonunda, Haydarpaşa Garı'nda 'Seni yeneceğim İstanbul!' diye bağıran karakteri hangi aktör canlandırmıştır?",
+                "options": [
+                    "Cüneyt Arkın",
+                    "Tanju Gürsu",
+                    "Öztürk Serengil",
+                    "Erol Taş"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Francis Ford Coppola'nın 'The Godfather' filminde, her önemli ölüm sahnesinden önce ekranda görünen 'uğursuzluk' simgesi olan nesne nedir?",
+                "options": [
+                    "Siyah kedi",
+                    "Portakal",
+                    "Şapka",
+                    "Beyaz gül"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Türk sinemasında 'Kara Bela' lakabıyla anılan, 'Susuz Yaz'ın ödül almasında büyük emeği olan yapımcı ve oyuncu kimdir?",
+                "options": [
+                    "Erol Taş",
+                    "Ulvi Doğan",
+                    "Hulusi Kentmen",
+                    "Necdet Mahfi Ayral"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "2019 yapımı 'The Irishman' filminde Robert De Niro'yu gençleştirmek için kullanılan, fiziksel makyaj yerine geçen dijital tekniğe ne ad verilir?",
+                "options": [
+                    "CGI",
+                    "Deepfake",
+                    "De-aging",
+                    "Motion Capture"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Alfred Hitchcock'un 'Vertigo' filminde ilk kez kullandığı, kameranın ileri giderken lensin zoom out yapması (veya tersi) ile oluşan baş dönmesi hissine ne ad verilir?",
+                "options": [
+                    "Whip Pan",
+                    "Dolly Zoom",
+                    "Tracking Shot",
+                    "Tilt Shift"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türk sinemasında 'Ulusal Sinema' akımının teorisyenliğini yapan ve 'Gelin-Düğün-Diyet' üçlemesiyle toplumsal değişimi işleyen yönetmen kimdir?",
+                "options": [
+                    "Lütfi Ömer Akad",
+                    "Metin Erksan",
+                    "Halit Refiğ",
+                    "Atıf Yılmaz"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "1941 yapımı 'Citizen Kane' filminde nesnelerin hem çok yakın hem de çok uzak planda aynı netlikte görünmesini sağlayan çekim tekniği hangisidir?",
+                "options": [
+                    "Soft Focus",
+                    "Shallow Focus",
+                    "Deep Focus",
+                    "Rack Focus"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Sinemada 'Wilhelm Çığlığı' (Wilhelm Scream) olarak bilinen ve yüzlerce filmde (Star Wars, Indiana Jones vb.) kullanılan ses efekti ilk kez hangi filmde duyulmuştur?",
+                "options": [
+                    "Distant Drums",
+                    "The Charge at Feather River",
+                    "Star Wars",
+                    "King Kong"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Yeşilçam'ın en önemli görüntü yönetmenlerinden olan ve ışık kullanımıyla 'Türk sinemasının Rembrandt'ı' olarak anılan isim kimdir?",
+                "options": [
+                    "Kriton İlyadis",
+                    "Gani Turanlı",
+                    "Enver Burçkin",
+                    "Çetin Tunca"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Francis Ford Coppola'nın 'Apocalypse Now' filminin çekimleri sırasında yaşadığı zorlukları anlatan ünlü belgeselin adı nedir?",
+                "options": [
+                    "Hearts of Darkness",
+                    "Burden of Dreams",
+                    "Lost in La Mancha",
+                    "Visions of Light"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Sinemada 'Brechtian Distancing' (Yabancılaştırma Efekti) tekniğini kullanarak seyirciye film izlediğini hatırlatan, 'Dogville' filminin yönetmeni kimdir?",
+                "options": [
+                    "Michael Haneke",
+                    "Lars von Trier",
+                    "Gaspar Noe",
+                    "Yorgos Lanthimos"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Türk sinemasında ilk renkli uzun metrajlı film hangisidir?",
+                "options": [
+                    "Halıcı Kız",
+                    "Lüküs Hayat",
+                    "Aysel Bataklı Damın Kızı",
+                    "Şoför Nebahat"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Christopher Nolan'ın 'Inception' filminde rüya içinde rüya katmanlarını birbirinden ayırmak için kullandığı temel görsel ve işitsel rehber nedir?",
+                "options": [
+                    "Renk paleti",
+                    "Müzik temposu",
+                    "Kamera açısı",
+                    "Kostüm değişikliği"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1927 yapımı 'The Jazz Singer' filmi sinema tarihinde hangi devrimi başlatmıştır?",
+                "options": [
+                    "Renkli sinema",
+                    "Sesli sinema",
+                    "Geniş ekran",
+                    "3D sinema"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Andrei Tarkovsky'nin 'Nostalghia' filminde, karakterin elinde yanan bir mumla havuzu geçmeye çalıştığı meşhur 9 dakikalık kesintisiz çekim hangi teknikle adlandırılır?",
+                "options": [
+                    "Plan-sekans",
+                    "Jump Cut",
+                    "Fast Motion",
+                    "Cross-cutting"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Yeşilçam'da 'Hababam Sınıfı' serisinin ilk filminde 'İnek Şaban' karakterini aslında canlandırması planlanan ancak daha sonra vazgeçilen aktör kimdir?",
+                "options": [
+                    "Münir Özkul",
+                    "Tarık Akan",
+                    "Zeki Alasya",
+                    "Müjdat Gezen"
+                ],
+                "correct_answer": 3,
+                "difficulty": 10
+            },
+            {
+                "question": "Bili kurgu başyapıtı 'Blade Runner'da (1982) kullanılan, yağmurlu ve karanlık şehir atmosferini betimleyen estetik akım hangisidir?",
+                "options": [
+                    "Cyberpunk",
+                    "Steampunk",
+                    "Futurizm",
+                    "Ekspresyonizm"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Sinemada 'Snyche' (Eşzamanlılık) kavramını yıkarak sesi görüntüden bağımsız bir anlatım aracı olarak kullanan 'Bressoncu' tarzın öncüsü kimdir?",
+                "options": [
+                    "Robert Bresson",
+                    "Jean Renoir",
+                    "Marcel Carne",
+                    "Alain Resnais"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Kült film 'Fight Club'ın sonunda binaların yıkıldığı sahnede çalan ikonik şarkı hangi gruba aittir?",
+                "options": [
+                    "The Pixies",
+                    "Radiohead",
+                    "Pink Floyd",
+                    "The Rolling Stones"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Metin Erksan'ın 1964'te Berlin'de Altın Ayı alan 'Susuz Yaz' filminin çekimleri sırasında, prodüksiyonun yarıda kalmaması için başrol oyuncusu olmasına rağmen teknik işlerde de çalışan aktör kimdir?",
+                "options": [
+                    "Erol Taş",
+                    "Hulusi Kentmen",
+                    "Ulvi Doğan",
+                    "Fikret Hakan"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Sinemada 'MacGuffin' terimini popülerleştiren, hikayede karakterler için çok önemli olan ancak izleyici için önemsiz kalabilen nesneleri (örneğin bir çanta veya gizli belge) kullanan yönetmen kimdir?",
+                "options": [
+                    "Alfred Hitchcock",
+                    "Steven Spielberg",
+                    "Quentin Tarantino",
+                    "David Lynch"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Türk sinemasının 'Gurbet Kuşları' ve 'Haremde Dört Kadın' gibi filmleriyle tanınan, aynı zamanda bir tıp doktoru olan usta yönetmeni kimdir?",
+                "options": [
+                    "Atıf Yılmaz",
+                    "Memduh Ün",
+                    "Halit Refiğ",
+                    "Metin Erksan"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "1999 yapımı 'The Matrix' filminde kullanılan, kameranın nesne etrafında dönerken zamanın yavaşlamış gibi göründüğü teknik çekime ne ad verilir?",
+                "options": [
+                    "Slow Motion",
+                    "Bullet Time",
+                    "Time Lapse",
+                    "Dolly Zoom"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Sinema tarihinin ilk renkli uzun metrajlı animasyon filmi hangisidir?",
+                "options": [
+                    "Aslan Kral",
+                    "Pamuk Prenses ve Yedi Cüceler",
+                    "Fantasia",
+                    "Pinokyo"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Yeşilçam'ın en üretken senaristlerinden olan, 'Selvi Boylum Al Yazmalım'ın senaryosunu da kaleme alan yazar kimdir?",
+                "options": [
+                    "Vedat Türkali",
+                    "Ali Özgentürk",
+                    "Yavuz Turgul",
+                    "Safa Önal"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Fransız Yeni Dalga akımının öncülerinden olan ve '400 Darbe' filmiyle çocukluk travmalarını sinemaya aktaran yönetmen kimdir?",
+                "options": [
+                    "Jean-Luc Godard",
+                    "François Truffaut",
+                    "Eric Rohmer",
+                    "Claude Chabrol"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "1972 yapımı 'Baba' (The Godfather) filminde Marlon Brando'nun canlandırdığı Vito Corleone karakterinin çenesini daha belirgin yapmak için çekimlerde kullandığı yöntem nedir?",
+                "options": [
+                    "Protez makyaj",
+                    "Ağzına pamuk yerleştirmek",
+                    "Özel bir diş aparatı takmak",
+                    "Çene ameliyatı olmak"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünyanın bilinen ilk sinema filmi olan 'Trenin Gara Girişi' (1895) hangi kardeşler tarafından çekilmiştir?",
+                "options": [
+                    "Lumiere Kardeşler",
+                    "Warner Kardeşler",
+                    "Coen Kardeşler",
+                    "Wachowski Kardeşler"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk sinemasında 'Oscar'a giden ilk film' olarak tarihe geçen, 1989 yapımı Tunç Okan filmi hangisidir?",
+                "options": [
+                    "Uçurtmayı Vurmasınlar",
+                    "Otobüs",
+                    "Sarı Mercedes",
+                    "Prenses"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Korku sinemasında 'The Shining' filmindeki o meşhur takip sahnelerini çekmek için ilk kez yaygın olarak kullanılan kamera sabitleme sistemi nedir?",
+                "options": [
+                    "Tripod",
+                    "Gimbal",
+                    "Steadicam",
+                    "Crane"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Brezilya sinemasının başyapıtlarından olan ve Favela hayatını tüm çıplaklığıyla anlatan, kurgu tekniğiyle devrim yaratan 2002 yapımı film hangisidir?",
+                "options": [
+                    "Tanrıkent",
+                    "Elit Tim",
+                    "Merkez İstasyonu",
+                    "Siyah Orfe"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Yeşilçam'ın 'Sultan' lakaplı oyuncusu Türkan Şoray'ın yönetmenlik koltuğuna oturduğu ilk film hangisidir?",
+                "options": [
+                    "Bodrum Hakimi",
+                    "Azap",
+                    "Yılanı Öldürseler",
+                    "Dönüş"
+                ],
+                "correct_answer": 3,
+                "difficulty": 8
+            },
+            {
+                "question": "1957 yapımı '12 Öfkeli Adam' (12 Angry Men) filminin neredeyse tamamının tek bir odada geçmesine rağmen izleyiciyi sıkmamasının temel sebebi hangi teknik başarısıdır?",
+                "options": [
+                    "Müzik kullanımı",
+                    "Kamera açılarının ve odak uzaklığının sürekli değişmesi",
+                    "Renk paleti",
+                    "Dış sahnelerin çokluğu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Sinemada 'Kuleshov Etkisi' olarak bilinen, aynı yüz ifadesinin farklı görüntülerle birleştirildiğinde izleyicide farklı duygular uyandırması deneyi hangi ülke sinemasına aittir?",
+                "options": [
+                    "Fransız",
+                    "Amerikan",
+                    "Sovyet",
+                    "İtalyan"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Sinema tarihinde 'Western' türünü modernize eden, 'İyi, Kötü ve Çirkin' gibi başyapıtlara imza atan ve 'Spagetti Western' akımının öncüsü kabul edilen yönetmen kimdir?",
+                "options": [
+                    "John Ford",
+                    "Sergio Leone",
+                    "Clint Eastwood",
+                    "Howard Hawks"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1960 yapımı 'Psycho' filmindeki duş sahnesinde kullanılan 'kan' efektinin rengi, siyah-beyaz çekimde daha gerçekçi ve yoğun görünmesi için hangi maddeden elde edilmiştir?",
+                "options": [
+                    "Vişne reçeli",
+                    "Çikolata şurubu",
+                    "Domates salçası",
+                    "Kırmızı mürekkep"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Nuri Bilge Ceylan sinemasının dönüm noktalarından biri olan ve 2003 yılında Cannes Film Festivali'nde Büyük Jüri Ödülü (Grand Prix) kazanan film hangisidir?",
+                "options": [
+                    "Kasaba",
+                    "Mayıs Sıkıntısı",
+                    "Uzak",
+                    "İklimler"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "İtalyan Yeni Gerçekçilik (Neo-Realizm) akımının simgesi kabul edilen, bir babanın çalınan bisikletini arayışını anlatan Vittorio De Sica filmi hangisidir?",
+                "options": [
+                    "Roma Açık Şehir",
+                    "Umberto D.",
+                    "Bisiklet Hırsızları",
+                    "Mucize"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Türk sinemasında 'Karanlıkta Uyananlar' ve 'Otobüs' gibi filmleriyle tanınan, toplumsal gerçekçiliğin en özgün isimlerinden biri olan görüntü yönetmeni ve yönetmen kimdir?",
+                "options": [
+                    "Ertem Göreç",
+                    "Tunç Okan",
+                    "Vedat Türkali",
+                    "Yılmaz Güney"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Bilim kurgu türünün en büyük yapıtlarından '2001: A Space Odyssey' filminde kullanılan, insanlığın gelişimini simgeleyen meşhur 'kemikten uzay gemisine geçiş' sahnesine sinema tekniğinde ne ad verilir?",
+                "options": [
+                    "Jump Cut",
+                    "Match Cut",
+                    "Fade Out",
+                    "Dissolve"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "1974 yapımı 'The Godfather Part II', bir devam filmi (sequel) olmasına rağmen 'En İyi Film' Oscar'ını kazanan ilk yapımdır. Bu başarıyı yakalayan tarihteki ikinci devam filmi hangisidir?",
+                "options": [
+                    "Yüzüklerin Efendisi: Kralın Dönüşü",
+                    "Yıldız Savaşları: İmparator",
+                    "Oyuncak Hikayesi 3",
+                    "Kara Şövalye"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Yeşilçam'da 'Vurun Kahpeye' ve 'Lüküs Hayat' gibi eserleri beyaz perdeye taşıyan, Türk sinemasının kurumsallaşmasında büyük payı olan 'Tiyatrocular Dönemi'nin en önemli ismi kimdir?",
+                "options": [
+                    "Muhsin Ertuğrul",
+                    "Şadi Fikret Karagözoğlu",
+                    "Bedia Muvahhit",
+                    "Cahit Irgat"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Francis Ford Coppola'nın yönettiği, Vietnam Savaşı'nı konu alan ve Joseph Conrad'ın 'Karanlığın Yüreği' kitabından esinlenen kült film hangisidir?",
+                "options": [
+                    "Platoon",
+                    "Full Metal Jacket",
+                    "Apocalypse Now",
+                    "The Deer Hunter"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Sinemada 'Sürrealizm' (Gerçeküstücülük) akımının en önemli örneği sayılan, Salvador Dali ve Luis Buñuel tarafından hazırlanan 1929 yapımı kısa film hangisidir?",
+                "options": [
+                    "Bir Endülüs Köpeği",
+                    "Altın Çağ",
+                    "Yok Edici Melek",
+                    "Arzunun O Belirsiz Nesnesi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "1995 yılında Lars von Trier ve Thomas Vinterberg tarafından başlatılan, özel ışık, müzik ve yapay set kullanımını reddeden 'saf sinema' akımına ne ad verilir?",
+                "options": [
+                    "Nouvelle Vague",
+                    "Dogma 95",
+                    "Neo-Realizm",
+                    "Surrealizm"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünya sinemasında 'Sinemanın Şairi' olarak anılan, 'Yedinci Mühür' ve 'Yaban Çilekleri' gibi filmlerle insanın varoluşsal sancılarını işleyen İsveçli yönetmen kimdir?",
+                "options": [
+                    "Ingmar Bergman",
+                    "Lars von Trier",
+                    "Federico Fellini",
+                    "Jean-Luc Godard"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Türk sinemasında 'Toplumsal Gerçekçilik' akımının en önemli örneklerinden biri olan ve 1970 yılında Yılmaz Güney tarafından çekilen, bir faytoncunun dramını anlatan film hangisidir?",
+                "options": [
+                    "Umut",
+                    "Arkadaş",
+                    "Sürü",
+                    "Duvar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Sinemada 'Fransız Yeni Dalga' (Nouvelle Vague) akımını başlatan film kabul edilen ve Jean-Luc Godard tarafından yönetilen 1960 yapımı yapıt hangisidir?",
+                "options": [
+                    "400 Darbe",
+                    "Serseri Aşıklar (À bout de souffle)",
+                    "Hiroşima Sevgilim",
+                    "Gece ve Sis"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Charlie Chaplin'in, sesli sinemaya geçilmesine rağmen sessiz çektiği ve endüstrileşmeyi eleştirdiği ünlü 1936 yapımı filmi hangisidir?",
+                "options": [
+                    "Şehir Işıkları",
+                    "Büyük Diktatör",
+                    "Modern Zamanlar",
+                    "Altına Hücum"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Metin Erksan'ın yönettiği ve bir mülkiyet kavgasını psikolojik derinlikle işleyen, Türk sinemasının en önemli yapımlarından kabul edilen 'Kuyu' filminin başrol oyuncusu kimdir?",
+                "options": [
+                    "Fikret Hakan",
+                    "Hayati Hamzaoğlu",
+                    "Erol Taş",
+                    "Demir Karahan"
+                ],
+                "correct_answer": 3,
+                "difficulty": 10
+            },
+            {
+                "question": "Alfred Hitchcock'un 'Sapık' (Psycho) filmindeki meşhur duş sahnesi, çekim teknikleri açısından kaç farklı kesme (cut) ve kamera açısı içerir?",
+                "options": [
+                    "12",
+                    "34",
+                    "78",
+                    "102"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Animasyon dünyasında 'Ruhların Kaçışı' (Spirited Away) ile Oscar kazanan ve Studio Ghibli'nin kurucularından olan Japon usta kimdir?",
+                "options": [
+                    "Isao Takahata",
+                    "Hayao Miyazaki",
+                    "Mamoru Hosoda",
+                    "Satoshi Kon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "1941 yılında çekilen ve 'Deep Focus' (Derin Odak) tekniğiyle sinemada bir devrim yaratan Gregg Toland, hangi filmin görüntü yönetmenidir?",
+                "options": [
+                    "Casablanca",
+                    "Rüzgar Gibi Geçti",
+                    "Yurttaş Kane",
+                    "Ben-Hur"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Yeşilçam'ın en hüzünlü filmlerinden biri olan 'Canım Kardeşim' filminde Tarık Akan ve Halit Akçatepe'nin canlandırdığı karakterlerin küçük kardeşinin (Kahraman) hayali nedir?",
+                "options": [
+                    "Bisiklet",
+                    "Televizyon",
+                    "Uçurtma",
+                    "Yurtdışına gitmek"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Nuri Bilge Ceylan'a 2014 yılında Cannes Film Festivali'nde en büyük ödül olan 'Altın Palmiye'yi kazandıran film hangisidir?",
+                "options": [
+                    "Uzak",
+                    "Bir Zamanlar Anadolu'da",
+                    "Kış Uykusu",
+                    "Ahlat Ağacı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Sinema tarihinde 'Kurgu' (Montaj) tekniğinin önemini vurgulayan ve merdiven sahnesiyle sinema derslerine konu olan 1925 yapımı Sovyet filmi hangisidir?",
+                "options": [
+                    "Metropolis",
+                    "Potemkin Zırhlısı",
+                    "Yurttaş Kane",
+                    "Modern Zamanlar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "1994 yapımı 'Ucuz Roman' (Pulp Fiction) filmiyle doğrusal olmayan (non-linear) anlatım tarzını popülerleştiren yönetmen kimdir?",
+                "options": [
+                    "Guy Ritchie",
+                    "Quentin Tarantino",
+                    "David Fincher",
+                    "Wes Anderson"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Yeşilçam'ın efsanevi ismi Kemal Sunal'ın, Berlin Film Festivali'nde 'En İyi Erkek Oyuncu' dalında Gümüş Ayı ödülüne aday gösterildiği (ancak siyasi nedenlerle elendiği söylenen) ve sinemamızın başyapıtlarından kabul edilen film hangisidir?",
+                "options": [
+                    "Çöpçüler Kralı",
+                    "Zübük",
+                    "Dünyayı Kurtaran Adam",
+                    "Düttürü Dünya"
+                ],
+                "correct_answer": 3,
+                "difficulty": 9
+            },
+            {
+                "question": "Orson Welles tarafından 25 yaşındayken yönetilen, çekim teknikleri ve derin odak kullanımıyla modern sinemanın başlangıcı kabul edilen film hangisidir?",
+                "options": [
+                    "Casablanca",
+                    "Yurttaş Kane (Citizen Kane)",
+                    "Rüzgar Gibi Geçti",
+                    "Psycho"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1950 yapımı 'Rashomon' filmiyle hikayenin farklı karakterlerin gözünden farklı şekilde anlatılması tekniğini dünyaya tanıtan Japon yönetmen kimdir?",
+                "options": [
+                    "Yasujiro Ozu",
+                    "Akira Kurosawa",
+                    "Hayao Miyazaki",
+                    "Takeshi Kitano"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Türk sinemasının ilk sesli filmi olan ve Muhsin Ertuğrul tarafından yönetilen 1931 yapımı film hangisidir?",
+                "options": [
+                    "İstanbul Sokaklarında",
+                    "Bir Millet Uyanıyor",
+                    "Aysel Bataklı Damın Kızı",
+                    "Şahmeran"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Bilim kurgu türünde çığır açan 'Blade Runner' (Bıçak Sırtı) filminin yönetmeni ve aynı zamanda 'Alien' (Yaratık) serisinin de yaratıcısı olan isim kimdir?",
+                "options": [
+                    "Ridley Scott",
+                    "James Cameron",
+                    "George Lucas",
+                    "Steven Spielberg"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Sinema tarihinin en çok Oscar kazanan (11 ödül) üç filminden biri olan ve yönetmenliğini James Cameron'un yaptığı epik aşk ve dram hikayesi hangisidir?",
+                "options": [
+                    "Ben-Hur",
+                    "Yüzüklerin Efendisi: Kralın Dönüşü",
+                    "Titanic",
+                    "Avatar"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Zeki Demirkubuz ve Nuri Bilge Ceylan gibi yönetmenlerin de etkilendiği, 'Mühürlenmiş Zaman' kitabının yazarı ve 'Stalker' filminin yönetmeni olan Rus dahi kimdir?",
+                "options": [
+                    "Sergei Eisenstein",
+                    "Andrei Tarkovsky",
+                    "Nikita Mikhalkov",
+                    "Dziga Vertov"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Türk sinema tarihinin en önemli yapımlarından biri olan ve 1964 yılında Berlin Film Festivali'nde 'Altın Ayı' ödülünü kazanarak uluslararası alanda ilk büyük başarıyı getiren film hangisidir?",
+                "options": [
+                    "Yol",
+                    "Susuz Yaz",
+                    "Umut",
+                    "Gelin"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünya sinemasında 'Baba' (The Godfather) üçlemesinin yönetmenliğini üstlenen ve sinema tarihinin en ikonik mafya hikayelerinden birini beyaz perdeye aktaran isim kimdir?",
+                "options": [
+                    "Martin Scorsese",
+                    "Steven Spielberg",
+                    "Francis Ford Coppola",
+                    "Quentin Tarantino"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "1982 yılında Cannes Film Festivali'nde 'Altın Palmiye' ödülünü alan, senaryosu Yılmaz Güney'e ait olan ve Şerif Gören tarafından yönetilen film hangisidir?",
+                "options": [
+                    "Sürü",
+                    "Duvar",
+                    "Yol",
+                    "Zavallılar"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Sinema tarihinde 'Gerilim Ustası' (Master of Suspense) olarak bilinen, 'Sapık' (Psycho) ve 'Arka Pencere' (Rear Window) gibi başyapıtların yönetmeni kimdir?",
+                "options": [
+                    "Alfred Hitchcock",
+                    "Stanley Kubrick",
+                    "Ingmar Bergman",
+                    "Akira Kurosawa"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Yüzüklerin Efendisi (The Lord of the Rings) serisinin yönetmeni olan ve Orta Dünya'yı sinemaya muazzam bir görsellikle taşıyan Yeni Zelandalı yönetmen kimdir?",
+                "options": [
+                    "Christopher Nolan",
+                    "James Cameron",
+                    "Peter Jackson",
+                    "Ridley Scott"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Yeşilçam'da 'Çirkin Kral' lakabıyla tanınan, toplumsal gerçekçi filmleriyle Türk sinemasına yön veren oyuncu ve yönetmen kimdir?",
+                "options": [
+                    "Cüneyt Arkın",
+                    "Tarık Akan",
+                    "Yılmaz Güney",
+                    "Ayhan Işık"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "2020 yılında düzenlenen 92. Akademi Ödülleri'nde 'En İyi Film' ödülünü alarak Oscar tarihinde bu ödülü kazanan İngilizce dışındaki ilk film olan yapım hangisidir?",
+                "options": [
+                    "Roma",
+                    "Parasite",
+                    "Amour",
+                    "The Artist"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Hababam Sınıfı, Gülen Gözler ve Neşeli Günler gibi unutulmaz aile filmlerinin yönetmenliğini yapan Türk sinemasının usta ismi kimdir?",
+                "options": [
+                    "Atıf Yılmaz",
+                    "Ertem Eğilmez",
+                    "Memduh Ün",
+                    "Lütfi Akad"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Fizikçi J. Robert Oppenheimer'ın hayatını konu alan ve 2024 Oscar Ödülleri'nde 'En İyi Film' dahil birçok ödül toplayan Christopher Nolan filmi hangisidir?",
+                "options": [
+                    "Inception",
+                    "Dunkirk",
+                    "Oppenheimer",
+                    "Tenet"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Sinema tarihinde 'auteur' kuramının en önemli temsilcilerinden biri olan, '2001: Bir Uzay Destanı' ve 'Otomatik Portakal' gibi filmleriyle tanınan yönetmen kimdir?",
+                "options": [
+                    "David Lynch",
+                    "Stanley Kubrick",
+                    "Woody Allen",
+                    "Federico Fellini"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            }
+        ],
         "Kurtlar Vadisi": [
             {
                 "question": "Diziye 'Sadece ölüler görür' sloganıyla giriş yapan ve Doğu Eşrefoğlu tarafından 'dağdan şehre indirilen' Pala ve ekibinin, aslında doğrudan bağlı olduğu 'Mithat' karakterinin görevi nedir?",
