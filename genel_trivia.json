@@ -2,6 +2,116 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "Matematikte 'Altın Oran' olarak bilinen ve doğadaki pek çok yapıda (deniz kabukları, ayçiçekleri vb.) karşımıza çıkan yaklaşık 1,618 değerindeki sayı hangi harf ile sembolize edilir?",
+                "options": [
+                    "Pi (π)",
+                    "Epsilon (ε)",
+                    "Phi (φ)",
+                    "Lambda (λ)"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Bir dik açılı üçgende, dik kenarların karelerinin toplamının hipotenüsün karesine eşit olduğunu belirten temel geometri teoremi hangisidir?",
+                "options": [
+                    "Öklid Teoremi",
+                    "Pisagor Teoremi",
+                    "Thales Teoremi",
+                    "Pascal Teoremi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Sadece 1'e ve kendisine bölünebilen, 1'den büyük doğal sayılara ne ad verilir?",
+                "options": [
+                    "Tam Sayı",
+                    "Rasyonel Sayı",
+                    "Asal Sayı",
+                    "İrrasyonel Sayı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dairenin çevresinin çapına oranını ifade eden ve basamakları sonsuza kadar giden ünlü 'Pi' sayısı, yaklaşık olarak hangi değere eşittir?",
+                "options": [
+                    "2,71",
+                    "3,14",
+                    "1,41",
+                    "1,61"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Modern bilgisayarların çalışma prensibini oluşturan, sadece '0' ve '1' rakamlarından oluşan sayı sistemine ne ad verilir?",
+                "options": [
+                    "Onluk (Desimal)",
+                    "Sekizlik (Oktal)",
+                    "İkilik (Binary)",
+                    "Onaltılık (Heksadesimal)"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Analiz ve diferansiyel hesapta 'doğal logaritmanın tabanı' olarak kullanılan, yaklaşık 2,718 değerindeki irrasyonel sayıya ne ad verilir?",
+                "options": [
+                    "Euler Sayısı (e)",
+                    "Avogadro Sayısı",
+                    "Planck Sabiti",
+                    "Altın Oran"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Bir kümenin eleman sayısını ifade eden ve sonsuz kümelerin büyüklüklerini karşılaştırmak için kullanılan matematiksel kavrama ne ad verilir?",
+                "options": [
+                    "Kardinalite",
+                    "Türev",
+                    "İntegral",
+                    "Matris"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Olasılık teorisinde, bir paranın havaya atılması durumunda yazı veya tura gelme olasılığının birbirine eşit olduğunu varsayan temel ilkeye ne ad verilir?",
+                "options": [
+                    "Eş Olasılık",
+                    "Koşullu Olasılık",
+                    "Bayes Teoremi",
+                    "Merkezi Limit Teoremi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Karmaşık sayılar kümesinde, karesi -1'e eşit olan 'sanal birim' hangi harf ile gösterilir?",
+                "options": [
+                    "x",
+                    "i",
+                    "y",
+                    "z"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Sıfırın altındaki dereceleri veya borçları ifade etmek için kullanılan, başında eksi (-) işareti bulunan sayılara ne ad verilir?",
+                "options": [
+                    "Pozitif Sayılar",
+                    "Negatif Sayılar",
+                    "Karmaşık Sayılar",
+                    "Asal Sayılar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
                 "question": "Kimya biliminde, bir elementin tüm kimyasal özelliklerini taşıyan ve merkezinde çekirdek bulunan en küçük yapı taşına ne ad verilir?",
                 "options": [
                     "Molekül",
@@ -31992,6 +32102,336 @@
             }
         ],
         "KPSS Tarih": [
+            {
+                "question": "Osmanlı Devleti'nde, şehzadelerin devlet yönetimi tecrübesi kazanmaları için 'Lala' eşliğinde eyaletlere gönderilmesi sistemine ne ad verilir?",
+                "options": [
+                    "İltizam Sistemi",
+                    "Sancağa Çıkma",
+                    "Millet Sistemi",
+                    "Kafes Usulü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı toplumunda, devletten maaş almayan ancak kendisine tahsis edilen arazinin geliriyle geçinen ve savaş zamanı 'Cebelü' denilen asker yetiştiren sınıfa ne ad verilir?",
+                "options": [
+                    "Yeniçeriler",
+                    "Tımarlı Sipahiler",
+                    "Sekbanlar",
+                    "Humbaracılar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı Devleti'nde, özellikle padişahın yazışmalarını süsleyen, altın tozu ve boyalarla yapılan 'kitap süsleme' sanatına ne ad verilir?",
+                "options": [
+                    "Hüsn-i Hat",
+                    "Tezhip",
+                    "Kündekari",
+                    "Malakarî"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı bürokrasisinde, sadrazamdan sonra gelen ve genellikle taşra idaresinden sorumlu olan Divan-ı Hümayun üyelerine ne ad verilirdi?",
+                "options": [
+                    "Kubbealtı Vezirleri",
+                    "Kazaskerler",
+                    "Defterdarlar",
+                    "Kaptan-ı Deryalar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı maliyesinde, devletin acil nakit ihtiyacını karşılamak amacıyla vergilerin ömür boyu kiralama yoluyla ihale edilmesi sistemine ne ad verilir?",
+                "options": [
+                    "İltizam",
+                    "Malikane Sistemi",
+                    "Esam Sistemi",
+                    "Narh Sistemi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Osmanlı şehirlerinde, yabancı tüccarların konakladığı ve ticaret mallarının depolandığı, genellikle tek bir kapısı olan ticaret yapılarına ne ad verilir?",
+                "options": [
+                    "Arasta",
+                    "Bedesten",
+                    "Han",
+                    "Kapan Hanı"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı hukukunda, yerel halkın şikayetlerini dinleyen, fiyatları denetleyen ve noterlik görevlerini yürüten ilmiye sınıfı mensubu kimdir?",
+                "options": [
+                    "Müderris",
+                    "Kadı",
+                    "Muhtesip",
+                    "Naib"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı saray teşkilatında, padişahın özel hizmetinde bulunan, güvenilir ve yetenekli gençlerin eğitildiği 'iç saray' bölümü hangisidir?",
+                "options": [
+                    "Birun",
+                    "Enderun",
+                    "Harem",
+                    "Mabeyn"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı'da şairlerin ve yazarların eserlerini topladıkları kitaplara verilen genel isim nedir?",
+                "options": [
+                    "Divan",
+                    "Münşeat",
+                    "Siyasetname",
+                    "Seyahatname"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı tıp tarihinde, Fatih Sultan Mehmet döneminde cerrahi üzerine 'Cerrahiyetü'l-Haniyye' adlı resimli eseri yazan ünlü hekim kimdir?",
+                "options": [
+                    "Akşemseddin",
+                    "Sabuncuoğlu Şerefeddin",
+                    "Altunizade",
+                    "Ahi Çelebi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Osmanlı Devleti'nde, padişahın mutlak vekili olan sadrazamın emriyle toplanan ve devletin en yüksek karar mekanizması olan Divan-ı Hümayun'un toplandığı saray bölümüne ne ad verilir?",
+                "options": [
+                    "Arz Odası",
+                    "Kubbealtı",
+                    "Harem-i Hümayun",
+                    "Has Oda"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı'da vergi sisteminin temelini oluşturan, mülkiyeti devlete ait olan ve 'mirî arazi' olarak adlandırılan toprakların genel adı hangisidir?",
+                "options": [
+                    "Mülk Arazi",
+                    "Vakıf Arazi",
+                    "Arpalık Arazi",
+                    "Dirlik Arazi"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı hukuk sisteminde, davanın türüne göre kadıların verdiği kararların fıkıh kurallarına (İslam hukuku) uygunluğunu denetleyen ve 'fetva' yetkisine sahip olan en yüksek dini makam hangisidir?",
+                "options": [
+                    "Kazasker",
+                    "Nişancı",
+                    "Şeyhülislam",
+                    "Nakibü'l-Eşraf"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Padişahın taşradaki (eyaletlerdeki) yürütme yetkisini temsil eden, hem askeri hem de idari yetkileri olan sancak amiri kimdir?",
+                "options": [
+                    "Kadı",
+                    "Subaşı",
+                    "Sancakbeyi",
+                    "Beylerbeyi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı klasik döneminde, devletin dış işlerinden sorumlu olan ve 18. yüzyıldan itibaren önemi artarak günümüz Dışişleri Bakanlığına dönüşen divan üyesi hangisidir?",
+                "options": [
+                    "Reisülküttab",
+                    "Defterdar",
+                    "Nişancı",
+                    "Sadrazam"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı eğitiminde, medrese öğrencilerinin mezun olduktan sonra müderris (öğretmen) olabilmek için bekledikleri sıraya veya staj dönemine ne ad verilir?",
+                "options": [
+                    "Mülazemet",
+                    "İcazet",
+                    "Suhte",
+                    "Danişmend"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Osmanlı Devleti'nde, padişahın vefatı veya değişikliği durumunda yeni padişahın tahta çıkışını kutlamak amacıyla askerlere ve memurlara dağıtılan paraya ne ad verilir?",
+                "options": [
+                    "Ulufe",
+                    "Cülus Bahşişi",
+                    "Avarız",
+                    "Cizye"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı mimarisinde, özellikle sivil mimaride sıkça görülen ve binaların çıkmalı pencerelerine verilen isim nedir?",
+                "options": [
+                    "Cumba",
+                    "Kündekari",
+                    "Revan",
+                    "Revak"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı idari taksimatında, eyalet ile sancak arasında bulunan veya sancakların küçülmesiyle oluşan, doğrudan merkeze bağlı idari birime ne ad verilir?",
+                "options": [
+                    "Kaza",
+                    "Köy",
+                    "Liva",
+                    "Muhassıllık"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı Devleti'nde, ordunun geçtiği yollar üzerindeki köprü ve geçitlerin bakımından, onarımından sorumlu olan yardımcı askeri sınıfa ne ad verilir?",
+                "options": [
+                    "Lağımcılar",
+                    "Humbaracılar",
+                    "Derbentçiler",
+                    "Turnalar"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı Devleti'nde Müslüman olmayan halkın, inanç ve ibadet konularında kendi dini liderleri aracılığıyla yönetilmesini sağlayan sisteme ne ad verilir?",
+                "options": [
+                    "İltizam Sistemi",
+                    "Millet Sistemi",
+                    "Devşirme Sistemi",
+                    "Tımar Sistemi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı eğitim sisteminde, yükseköğretim seviyesinde eğitim veren, özellikle hukuk, din ve tıp gibi alanlarda uzman yetiştiren kurumlara ne ad verilir?",
+                "options": [
+                    "Enderun",
+                    "Medrese",
+                    "Rüştiye",
+                    "İdadi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı bürokrasisinde, padişahın tuğrasını çekmekle görevli olan ve arazi kayıtlarını (Tahrir Defterleri) tutan yüksek dereceli memur hangisidir?",
+                "options": [
+                    "Defterdar",
+                    "Kazasker",
+                    "Nişancı",
+                    "Sadrazam"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı minyatür sanatında, objelerin uzaklık-yakınlık (perspektif) yerine önem sırasına göre büyük veya küçük çizilmesi esasına dayanan üslup aşağıdakilerden hangisidir?",
+                "options": [
+                    "Realizm",
+                    "Klasik Minyatür",
+                    "Tezhip",
+                    "Ebru"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı Devleti'nde bir caminin etrafında toplanmış olan kütüphane, hastane, aşevi ve hamam gibi sosyal tesisler bütününe ne ad verilir?",
+                "options": [
+                    "Bedesten",
+                    "Külliye",
+                    "Darüşşifa",
+                    "İmaret"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı ordusunda, sınırları koruyan ve keşif hizmetlerinde bulunan en ön saftaki süvari birliğine ne ad verilir?",
+                "options": [
+                    "Yeniçeriler",
+                    "Sipahiler",
+                    "Akıncılar",
+                    "Levendler"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı Devleti'nde esnafların kendi aralarındaki dayanışmayı sağladığı, mesleki eğitim verdiği ve fiyatları denetlediği teşkilat hangisidir?",
+                "options": [
+                    "Ahi Teşkilatı",
+                    "Müsellem",
+                    "İlmiye Sınıfı",
+                    "Seyfiye Sınıfı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı saray yapısında, devletin yönetim merkezi olan ve padişahın elçileri kabul ettiği 'dış saray' bölümüne ne ad verilir?",
+                "options": [
+                    "Enderun",
+                    "Harem",
+                    "Birun",
+                    "Darüsaade"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı hukukunda, kadıların verdiği kararları denetleyen ve ordu ile eğitim işlerinden sorumlu olan Divan-ı Hümayun üyesi kimdir?",
+                "options": [
+                    "Şeyhülislam",
+                    "Reisülküttab",
+                    "Kazasker",
+                    "Yeniçeri Ağası"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı denizciliğinde, haritacılık alanında 'Kitab-ı Bahriye' adlı eseriyle dünya çapında ün kazanan efsanevi kaptan-ı derya kimdir?",
+                "options": [
+                    "Barbaros Hayrettin Paşa",
+                    "Piri Reis",
+                    "Turgut Reis",
+                    "Seydi Ali Reis"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
             {
                 "question": "Osmanlı Devleti'nde ilk bütçeyi kim hazırlamıştır?",
                 "options": [
