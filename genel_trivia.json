@@ -52489,6 +52489,171 @@
         ],
         "Bilim Soruları": [
             {
+                "question": "Kuantum mekaniğinde bir parçacığın aynı anda birden fazla durumda olabileceğini ifade eden kavram aşağıdakilerden hangisidir?",
+                "options": [
+                    "Entropi",
+                    "Süperpozisyon",
+                    "Kuantum Dolanıklığı",
+                    "Belirsizlik İlkesi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "DNA'nın çift sarmal yapısında Adenin bazının karşısına her zaman hangi baz gelir?",
+                "options": [
+                    "Guanin",
+                    "Sitozin",
+                    "Timin",
+                    "Urasil"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Termodinamiğin ikinci yasasına göre, kapalı bir sistemdeki düzensizlik eğilimini ifade eden termodinamik nicelik nedir?",
+                "options": [
+                    "Entalpi",
+                    "Entropi",
+                    "İç Enerji",
+                    "Özgül Isı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Güneş sistemindeki en yüksek dağ olan 'Olympus Mons' hangi gezegende bulunur?",
+                "options": [
+                    "Venüs",
+                    "Mars",
+                    "Jüpiter",
+                    "Satürn"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Işığın hem dalga hem de parçacık özelliği gösterdiğini kanıtlayan ünlü deney hangisidir?",
+                "options": [
+                    "Michelson-Morley Deneyi",
+                    "Çift Yarık Deneyi",
+                    "Milikan Yağ Damlası Deneyi",
+                    "Stern-Gerlach Deneyi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Periyodik tabloda atom numarası 1 olan ve evrende en bol bulunan element hangisidir?",
+                "options": [
+                    "Helyum",
+                    "Oksijen",
+                    "Azot",
+                    "Hidrojen"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Bir kara deliğin merkezindeki, hacmin sıfır ve yoğunluğun sonsuz olduğu varsayılan noktaya ne ad verilir?",
+                "options": [
+                    "Olay Ufku",
+                    "Tekillik (Singularity)",
+                    "Akkreşyon Diski",
+                    "Schwarzschild Yarıçapı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "İnsan vücudunda kan şekerini düşürerek hücrelerin glikoz almasını sağlayan hormon hangisidir?",
+                "options": [
+                    "Glukagon",
+                    "Adrenalin",
+                    "İnsülin",
+                    "Tiroksin"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Işık hızının boşluktaki değeri yaklaşık olarak saniyede kaç kilometredir?",
+                "options": [
+                    "150.000",
+                    "300.000",
+                    "450.000",
+                    "600.000"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Bitkilerde fotosentez olayının gerçekleştiği ve yeşil rengi veren organel hangisidir?",
+                "options": [
+                    "Mitokondri",
+                    "Ribozom",
+                    "Kloroplast",
+                    "Golgi Aygıtı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Evrenin yaklaşık 13.8 milyar yıl önce çok sıcak ve yoğun bir noktadan başladığını öne süren teori hangisidir?",
+                "options": [
+                    "Sicim Teorisi",
+                    "Sabit Durum Teorisi",
+                    "Büyük Patlama (Big Bang)",
+                    "Paralel Evrenler Teorisi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Bir sıvının yüzey alanını minimumda tutmaya çalışan kuvvete ne ad verilir?",
+                "options": [
+                    "Viskozite",
+                    "Yüzey Gerilimi",
+                    "Kılcallık",
+                    "Özkütle"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Nükleer reaksiyonlarda büyük bir atom çekirdeğinin daha küçük parçalara bölünmesi olayına ne ad verilir?",
+                "options": [
+                    "Füzyon",
+                    "Fisyon",
+                    "Radyoaktif Bozunma",
+                    "İyonlaşma"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Gezegenlerin güneş etrafındaki yörüngelerinin elips şeklinde olduğunu belirten yasaları kim bulmuştur?",
+                "options": [
+                    "Isaac Newton",
+                    "Johannes Kepler",
+                    "Galileo Galilei",
+                    "Nicolaus Copernicus"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Işık yılı (Light year) bir zaman birimi değil, ne birimidir?",
+                "options": [
+                    "Hız",
+                    "Parlaklık",
+                    "Uzaklık",
+                    "Enerji"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
                 "question": "Periyodik tablonun yaratıcısı olarak bilinen Rus kimyager kimdir?",
                 "options": [
                     "Dmitri Mendeleev",
