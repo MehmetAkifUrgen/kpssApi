@@ -25669,6 +25669,1218 @@
                 "difficulty": 7
             }
         ],
+        "Müzik": [
+            {
+                "question": "90'lı yıllarda Türk Pop müziğinde fırtınalar estiren ve 'Abone' şarkısıyla büyük bir çıkış yakalayan sanatçımız kimdir?",
+                "options": [
+                    "Yonca Evcimik",
+                    "Aşkın Nur Yengi",
+                    "Sertab Erener",
+                    "Zerrin Özer"
+                ],
+                "correct_answer": 0,
+                "difficulty": 4
+            },
+            {
+                "question": "Türk Sanat Müziği'nde kullanılan, gövdesi su kabağından veya ağaçtan yapılan, yaylı bir çalgı olan enstrüman hangisidir?",
+                "options": [
+                    "Kemençe",
+                    "Kabak Kemane",
+                    "Yaylı Tanbur",
+                    "Rebab"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Barış Manço'nun 1975 yılında çıkardığı, '2023' albümünde yer alan ve Türkiye Cumhuriyeti'nin 100. yılına atfedilen enstrümantal eserin adı nedir?",
+                "options": [
+                    "Kayaların Oğlu",
+                    "2023",
+                    "Dönence",
+                    "Yeni Bir Gün"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Zülfü Livaneli'nin 'Karlı Kayın Ormanı' şarkısı, hangi büyük Türk şairinin şiirinden bestelenmiştir?",
+                "options": [
+                    "Nazım Hikmet",
+                    "Atilla İlhan",
+                    "Orhan Veli Kanık",
+                    "Ahmed Arif"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk müziğinde 'Hüzünlü/Ağır' bir hava veren, 'gamlı' duygularla özdeşleştirilen ve en çok sevilen makamlardan biri hangisidir?",
+                "options": [
+                    "Hicaz",
+                    "Uşşak",
+                    "Nihavend",
+                    "Saba"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Müslüm Gürses'in seslendirdiği ve aslında bir Teoman şarkısı olan, rock ile arabeski birleştiren o meşhur eser hangisidir?",
+                "options": [
+                    "Paramparça",
+                    "Gönül Çelen",
+                    "Kupa Kızı ve Sinek Valesi",
+                    "İstanbul'da Sonbahar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Klasik Türk Müziği'nde bir eserin en başında çalınan ve eserin makamını dinleyiciye tanıtan enstrümantal bölüme ne ad verilir?",
+                "options": [
+                    "Peşrev",
+                    "Saz Semaisi",
+                    "Taksim",
+                    "Aranağme"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Anadolu Rock müziğinin efsanesi Cem Karaca'nın, bir işçinin hikayesini anlattığı 'Tamirci Çırağı' şarkısında olay nerede geçmektedir?",
+                "options": [
+                    "Fabrikada",
+                    "Oto tamirhanesinde",
+                    "İnşaatta",
+                    "Dokuma atölyesinde"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Türk Halk Müziği'nde kullanılan ve iki adet kamıştan oluşan, Ege bölgesine özgü üflemeli çalgı hangisidir?",
+                "options": [
+                    "Sipsi",
+                    "Zurna",
+                    "Kaval",
+                    "Kaval"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Sezen Aksu'nun 'Sen Ağlama' şarkısının bestesi kime aittir?",
+                "options": [
+                    "Sezen Aksu",
+                    "Onno Tunç",
+                    "Uzay Heparı",
+                    "Attila Özdemiroğlu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "İbrahim Tatlıses'in 'Mavi Mavi' şarkısının klibinde başrolü paylaştığı ünlü sinema oyuncusu kimdir?",
+                "options": [
+                    "Hülya Avşar",
+                    "Türkan Şoray",
+                    "Gülşen Bubikoğlu",
+                    "Müjde Ar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk müziği tarihinde 'Hamparsum Notası' olarak bilinen nota sistemini geliştiren Ermeni asıllı besteci kimdir?",
+                "options": [
+                    "Hamparsum Limonciyan",
+                    "Tatyos Efendi",
+                    "Bimen Şen",
+                    "Kemani Serkis Efendi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Türk Sanat Müziği'nde 'Yıldızların Altında' şarkısını ilk kez plağa okuyan ve Türk müziğinin en önemli kadın seslerinden biri olan sanatçı kimdir?",
+                "options": [
+                    "Müzeyyen Senar",
+                    "Safiye Ayla",
+                    "Hamiyet Yüceses",
+                    "Behiye Aksoy"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Tarkan'ın dünyaca ünlü 'Şımarık' (Kiss Kiss) şarkısının söz ve müziği kime aittir?",
+                "options": [
+                    "Tarkan",
+                    "Sezen Aksu",
+                    "Ozan Çolakoğlu",
+                    "Mete Özgencil"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türk Sanat Müziği'nde kullanılan ve 'üflemeli çalgıların şahı' olarak kabul edilen, Mevlevilikte de kutsal bir yere sahip olan enstrüman hangisidir?",
+                "options": [
+                    "Zurna",
+                    "Kaval",
+                    "Ney",
+                    "Mey"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Efsanevi rock grubu Moğollar'ın kurucularından olan ve 'Selvi Boylum Al Yazmalım' filminin o unutulmaz müziğini besteleyen sanatçı kimdir?",
+                "options": [
+                    "Cahit Berkay",
+                    "Taner Öngür",
+                    "Engin Yörükoğlu",
+                    "Murat Ses"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Aşık Veysel'in ölümünden sonra meşhur olan, 'Gidiyorum gündüz gece' dizesiyle başlayan 'Uzun İnce Bir Yoldayım' eserini modern tarzda yorumlayarak dünyaya tanıtan sanatçı kimdir?",
+                "options": [
+                    "Barış Manço",
+                    "Tarkan",
+                    "Fikret Kızılok",
+                    "Aşık Mahzuni Şerif"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Türk müziğinde ritmi belirleyen vuruş kalıplarına 'Usul' denir. Peki, en temel ve basit usullerden biri olan 2 zamanlı usule ne ad verilir?",
+                "options": [
+                    "Aksak",
+                    "Sofyan",
+                    "Nim Sofyan",
+                    "Yürük Semai"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Barış Manço'nun 'Gülpembe' şarkısı aslında kime ithafen yazılmıştır?",
+                "options": [
+                    "Eski bir aşkına",
+                    "Babaannesine",
+                    "Annesine",
+                    "Kızına"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türk Sanat Müziği'nde 'Akşam oldu hüzünlendim ben yine' şarkısının bestecisi olan ve Türk müziğine 1000'e yakın eser bırakan dâhi sanatçı kimdir?",
+                "options": [
+                    "Semahat Özdenses",
+                    "Sadettin Kaynak",
+                    "Avni Anıl",
+                    "Selahatttin Pınar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Mazhar-Fuat-Özkan (MFÖ) grubunun 1985 Eurovision Şarkı Yarışması'nda Türkiye'yi temsil ettiği o meşhur şarkı hangisidir?",
+                "options": [
+                    "Sude",
+                    "Ele Güne Karşı",
+                    "Diday Diday Day",
+                    "Sufi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Anadolu Rock müziğinin öncülerinden Cem Karaca'nın, gurbetçilerin yaşadığı zorlukları anlattığı 'Almanya acı vatan' temasını işleyen şarkısı hangisidir?",
+                "options": [
+                    "Tamirci Çırağı",
+                    "Namus Belası",
+                    "Emmioğlu",
+                    "Die Kanacken"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "Türk Halk Müziği'nde 'Bozlak' denilince akla gelen ilk ilimiz ve Neşet Ertaş'ın memleketi neresidir?",
+                "options": [
+                    "Sivas",
+                    "Kırşehir",
+                    "Erzurum",
+                    "Gaziantep"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Zeki Müren'in başrolünde oynadığı ve ismini bir şarkısından alan, Türk sinemasının ilk renkli filmlerinden biri hangisidir?",
+                "options": [
+                    "Beklenen Şarkı",
+                    "Manolyam",
+                    "Sanat Güneşi",
+                    "Kahır Mektubu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Modern Türk müziğinde 'Elektronik müziğin babası' kabul edilen, 'Dağlar Dağlar' şarkısında Barış Manço'ya eşlik eden kemençe üstadı kimdir?",
+                "options": [
+                    "Cüneyt Sepetçi",
+                    "Okay Temiz",
+                    "Kemençeci Yaşar",
+                    "Cüneyd Orhon"
+                ],
+                "correct_answer": 3,
+                "difficulty": 8
+            },
+            {
+                "question": "Sezen Aksu'nun 'Gülümse' albümündeki aynı isimli şarkının sözleri hangi ünlü şairimize aittir?",
+                "options": [
+                    "Kemal Burkay",
+                    "Can Yücel",
+                    "Turgut Uyar",
+                    "Edip Cansever"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Türk müziğinde 'Makam' kavramı ses dizilerini ifade eder. En çok bilinen ve 'neşeli/parlak' bir his veren makam hangisidir?",
+                "options": [
+                    "Hicaz",
+                    "Nihavend",
+                    "Rast",
+                    "Uşşak"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Erkin Koray'ın 'Çöpçüler' şarkısında geçen 'Kör olası çöpçüler, aşkımı süpürmüşler' dizesi hangi yıl piyasaya çıkmıştır?",
+                "options": [
+                    "1962",
+                    "1973",
+                    "1982",
+                    "1991"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de 'Aranjman' dönemini başlatan, yabancı şarkılara Türkçe söz yazarak (Alpay, Berkant gibi isimlerle) meşhur olan akımın en bilinen şarkısı hangisidir?",
+                "options": [
+                    "Samanyolu",
+                    "Anlamazdın",
+                    "Deniz ve Mehtap",
+                    "Arkadaş"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Türk Sanat Müziği'nde 'Sanat Güneşi' olarak anılan ve 'Şimdi Uzaklardasın' gibi pek çok ölümsüz eseri seslendiren sanatçı kimdir?",
+                "options": [
+                    "Münir Nurettin Selçuk",
+                    "Zeki Müren",
+                    "Bülent Ersoy",
+                    "Adnan Şenses"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Klasik Türk Müziği'nin en büyük bestecilerinden olan ve 'Itri' lakabıyla tanınan sanatçının asıl adı nedir?",
+                "options": [
+                    "Mustafa Efendi",
+                    "Dede Efendi",
+                    "Hacı Arif Bey",
+                    "Sadettin Kaynak"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Aşık Veysel'in 'Uzun İnce Bir Yoldayım' türküsünde geçen 'iki kapılı bir han' benzetmesi neyi ifade etmektedir?",
+                "options": [
+                    "Dünya hayatını",
+                    "Köy evini",
+                    "Saray kapısını",
+                    "Gurbet yolunu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "19. yüzyılda yaşamış olan ve 'Yine bir Gülnihal' gibi popüler şarkılarıyla tanınan, Sultan II. Mahmud'un da hocası olan besteci kimdir?",
+                "options": [
+                    "Hacı Arif Bey",
+                    "Tanburi Cemil Bey",
+                    "Dede Efendi",
+                    "Zekai Dede"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Neşet Ertaş'ın 'Bozkırın Tezenesi' lakabını ona hangi yazarımız vermiştir?",
+                "options": [
+                    "Yaşar Kemal",
+                    "Orhan Pamuk",
+                    "Aziz Nesin",
+                    "Zülfü Livaneli"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'nin Eurovision Şarkı Yarışması'ndaki ilk birinciliğini getiren 'Everyway That I Can' şarkısını hangi sanatçımız seslendirmiştir?",
+                "options": [
+                    "Şebnem Paker",
+                    "Sertab Erener",
+                    "Hadise",
+                    "Can Bonomo"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Türk Pop Müziği'nde 'Minik Serçe' lakabıyla anılan ve 'Sen Ağlama', 'Keskin Bıçak' gibi eserlerin sahibi kimdir?",
+                "options": [
+                    "Ajda Pekkan",
+                    "Nilüfer",
+                    "Sezen Aksu",
+                    "Sertab Erener"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Özdemir Erdoğan'ın meşhur ettiği 'Bana Ellerini Ver' şarkısının nakaratında 'hayat kısa, kuşlar uçuyor' dizeleri hangi şairimize aittir?",
+                "options": [
+                    "Cemal Süreya",
+                    "Attila İlhan",
+                    "Nazım Hikmet",
+                    "Turgut Uyar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Cem Karaca'nın 'Resimdeki Gözyaşları' şarkısında geçen 'Bırak ay gitsin, sen kal bu gece' dizesi hangi duygu durumunu anlatır?",
+                "options": [
+                    "Yalnızlık ve özlem",
+                    "Mutluluk",
+                    "Öfke",
+                    "Kıskançlık"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Münir Nurettin Selçuk'un 'Dönülmez akşamın ufkundayız, vakit çok geç' mısralarıyla başlayan ünlü eseri, hangi şairin şiirinden bestelenmiştir?",
+                "options": [
+                    "Yahya Kemal Beyatlı",
+                    "Ahmet Haşim",
+                    "Cahit Sıtkı Tarancı",
+                    "Faruk Nafiz Çamlıbel"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Türk Halk Müziği'nde bağlamanın en küçük ve en tiz sesli olan türüne ne ad verilir?",
+                "options": [
+                    "Divan Sazı",
+                    "Cura",
+                    "Tambura",
+                    "Meydan Sazı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Barış Manço'nun vefatından sonra yayınlanan ve 'Mançoloji' albümünde de yer alan, hüzünlü melodisiyle bilinen veda niteliğindeki şarkısı hangisidir?",
+                "options": [
+                    "Can Bedenden Çıkmayınca",
+                    "Güle Güle Oğlum",
+                    "Gülpembe",
+                    "Anlıyorsun Değil mi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Erkin Koray'ın 'Fesuphanallah' şarkısı, aslında hangi ülkenin müziğinden uyarlanmış bir melodidir?",
+                "options": [
+                    "Yunanistan",
+                    "Mısır",
+                    "Hindistan",
+                    "İspanya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Zülfü Livaneli'nin 'Yiğidim Aslanım Burda Yatıyor' şarkısı kime ithafen bestelenmiş ve meşhur olmuştur?",
+                "options": [
+                    "Deniz Gezmiş",
+                    "Uğur Mumcu",
+                    "Nazım Hikmet",
+                    "Sabahattin Ali"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünyanın en ünlü piyano eserlerinden biri olan 'Für Elise' (Elise İçin) hangi dâhi besteciye aittir?",
+                "options": [
+                    "Mozart",
+                    "Beethoven",
+                    "Chopin",
+                    "Bach"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Düğünlerin vazgeçilmez müziği olan 'Düğün Marşı' (Wedding March), hangi bestecinin 'Bir Yaz Gecesi Rüyası' adlı eseri için yazılmıştır?",
+                "options": [
+                    "Felix Mendelssohn",
+                    "Richard Wagner",
+                    "Johann Strauss",
+                    "Franz Liszt"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Napolyon Bonapart'ın Avrupa'yı işgal etmesi üzerine duyduğu hayal kırıklığıyla '3. Senfoni'sinin ithafını yırtan besteci kimdir?",
+                "options": [
+                    "Haydn",
+                    "Beethoven",
+                    "Schubert",
+                    "Wagner"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Meşhur 'Türk Marşı' (Rondo alla Turca), aslında hangi Avusturyalı bestecinin bir piyano sonatının son bölümüdür?",
+                "options": [
+                    "Franz Schubert",
+                    "Wolfgang Amadeus Mozart",
+                    "Joseph Haydn",
+                    "Johann Sebastian Bach"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Müzik tarihinde 'Piyanonun Şairi' olarak bilinen ve tüm eserlerini piyano üzerine kurgulayan Polonyalı besteci kimdir?",
+                "options": [
+                    "Frederic Chopin",
+                    "Franz Liszt",
+                    "Robert Schumann",
+                    "Sergey Rahmaninov"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Rossini'nin 'Sevil Berberi' operasının en ünlü aryası olan ve berberin kendisini övdüğü parça hangisidir?",
+                "options": [
+                    "Nessun Dorma",
+                    "Largo al Factotum",
+                    "La Donna e Mobile",
+                    "Habanera"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Beethoven'ın '9. Senfoni'sinin final bölümünde kullanılan ve bugün Avrupa Birliği Marşı olarak da bilinen ünlü bölümün adı nedir?",
+                "options": [
+                    "Kader Motifi",
+                    "Neşeye Övgü",
+                    "Ayışığı",
+                    "Kahramanlık Marşı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Johann Strauss II tarafından bestelenen ve 'Valslerin Kralı' olarak anılmasını sağlayan en ünlü vals hangisidir?",
+                "options": [
+                    "Viyana Kanı",
+                    "Mavi Tuna",
+                    "İlkbahar Sesleri",
+                    "İmparator Valsi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Çaykovski'nin '1812 Uvertürü' eserinin orijinal performanslarında, savaşın etkisini artırmak için gerçekte hangi 'enstrüman' kullanılır?",
+                "options": [
+                    "Dev çanlar",
+                    "Top atışları",
+                    "Tüfek sesleri",
+                    "Gök gürültüsü efekti"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Rimsky-Korsakov'un, bir arının uçuşunu taklit eden aşırı hızlı ve teknik piyano/keman parçası hangisidir?",
+                "options": [
+                    "Arı Uçuşu (Flight of the Bumblebee)",
+                    "Kelebek Etkisi",
+                    "Yaz Fırtınası",
+                    "Hızlı Ritim"
+                ],
+                "correct_answer": 0,
+                "difficulty": 4
+            },
+            {
+                "question": "Edvard Grieg'in 'Peer Gynt' süiti içinde yer alan, sabahın doğuşunu ve huzuru simgeleyen meşhur parça hangisidir?",
+                "options": [
+                    "Dağ Kralının Mağarasında",
+                    "Morning Mood (Sabah Keyfi)",
+                    "Solveig'in Şarkısı",
+                    "Anitra'nın Dansı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Puccini'nin 'Turandot' operasında geçen ve 'Kimse Uyumasın' anlamına gelen efsanevi tenor aryası hangisidir?",
+                "options": [
+                    "O Mio Babbino Caro",
+                    "Nessun Dorma",
+                    "E Lucevan Le Stelle",
+                    "Vesti La Giubba"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Bizet'nin 'Carmen' operasında, başrol oyuncusu Carmen'in aşkın değişkenliğini anlattığı meşhur arya hangisidir?",
+                "options": [
+                    "Habanera",
+                    "Torero Şarkısı",
+                    "Casta Diva",
+                    "Sempre Libera"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Bach'ın 'Hava' (Air on the G String) olarak bilinen eseri, aslında hangi numaralı orkestra süitinin bir parçasıdır?",
+                "options": [
+                    "1 Numaralı Süit",
+                    "2 Numaralı Süit",
+                    "3 Numaralı Süit",
+                    "4 Numaralı Süit"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Müzikte seslerin üzerine yazıldığı, beş paralel çizgi ve dört aralıktan oluşan yapıya ne ad verilir?",
+                "options": [
+                    "Nota",
+                    "Porte (Dizek)",
+                    "Sol Anahtarı",
+                    "Ölçü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Ünlü besteci Wolfgang Amadeus Mozart, hangi ülkenin vatandaşıdır?",
+                "options": [
+                    "Almanya",
+                    "Avusturya",
+                    "Fransa",
+                    "İtalya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Senfoni orkestrasında enstrümanların önünde duran ve orkestrayı yöneten kişiye ne ad verilir?",
+                "options": [
+                    "Şef",
+                    "Solist",
+                    "Başkemancı",
+                    "Koro Başı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 4
+            },
+            {
+                "question": "Müzikte 'Piyano' (p) ve 'Forte' (f) işaretleri sırasıyla neyi ifade eder?",
+                "options": [
+                    "Hızlı - Yavaş",
+                    "Hafif - Güçlü",
+                    "İnce - Kalın",
+                    "Yumuşak - Sert"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Bir müzik parçasının en küçük ritmik birimine veya vuruş düzenine ne ad verilir?",
+                "options": [
+                    "Ezgi",
+                    "Ölçü",
+                    "Tempo",
+                    "Ritim"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Gitarın tellerini akort etmek için sapın en ucunda bulunan dönen mandallara ne ad verilir?",
+                "options": [
+                    "Burgu",
+                    "Eşik",
+                    "Perde",
+                    "Fret"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Müzik tarihinde '9. Senfoni'si ile insan sesini (koro) ilk kez senfoniye dahil eden besteci kimdir?",
+                "options": [
+                    "Mozart",
+                    "Bach",
+                    "Beethoven",
+                    "Chopin"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Piyanonun tuşlarına basıldığında, içeride tellere vurarak ses çıkaran mekanizmanın parçası nedir?",
+                "options": [
+                    "Mızrap",
+                    "Çekiç",
+                    "Yay",
+                    "Pedal"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Müzikte 'Adagio' terimi eserin hangi hızda çalınacağını belirtir?",
+                "options": [
+                    "Hızlı",
+                    "Yavaş",
+                    "Çok Hızlı",
+                    "Yürüyüş Hızında"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Geleneksel Türk müziğinde telleri mızrapla değil, parmak uçlarına takılan 'mızrap' (zıh) ile çalınan, masaya yatırılarak icra edilen çalgı hangisidir?",
+                "options": [
+                    "Ud",
+                    "Kanun",
+                    "Bağlama",
+                    "Cümbüş"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Nota üzerinde görülen '♯' (Diyez) işareti, yanındaki notayı ne kadar inceltir (tizleştirir)?",
+                "options": [
+                    "Bir tam ses",
+                    "Yarım ses",
+                    "Çeyrek ses",
+                    "İki tam ses"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Mozart'ın 'Türk Marşı' (Rondo alla Turca) olarak bilinen eseri, aslında hangi numaralı piyano sonatının son bölümüdür?",
+                "options": [
+                    "9. Piyano Sonatı",
+                    "11. Piyano Sonatı",
+                    "13. Piyano Sonatı",
+                    "15. Piyano Sonatı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Beethoven'ın başlangıçta Napolyon Bonapart'a ithaf ettiği ancak Napolyon kendisini imparator ilan edince ithafını geri çektiği 'Eroica' (Kahramanlık) senfonisi kaçıncı senfonisidir?",
+                "options": [
+                    "3. Senfoni",
+                    "5. Senfoni",
+                    "7. Senfoni",
+                    "9. Senfoni"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Opera tarihinde 'Leitmotif' (karakterleri veya fikirleri temsil eden kısa müzikal temalar) tekniğini en yetkin şekilde kullanan Alman besteci kimdir?",
+                "options": [
+                    "Johannes Brahms",
+                    "Richard Wagner",
+                    "Franz Schubert",
+                    "Felix Mendelssohn"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Vivaldi'nin 'Dört Mevsim' eserinde, kemanların 'fırtına ve gök gürültüsünü' taklit ettiği en hareketli ve dramatik bölüm hangisidir?",
+                "options": [
+                    "İlkbahar",
+                    "Yaz",
+                    "Sonbahar",
+                    "Kış"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Rus Beşleri (Kudretli Küme) olarak bilinen grubun içinde yer alan ve 'Bir Sergiden Tablolar' eserini besteleyen sanatçı kimdir?",
+                "options": [
+                    "Rimsky-Korsakov",
+                    "Modest Mussorgsky",
+                    "Borodin",
+                    "Balakirev"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Klasik müzik konserlerinde seyircinin bölümler arasında alkışlamaması geleneği, hangi bestecinin eserlerinin kutsallığını koruma arzusuyla başlamıştır?",
+                "options": [
+                    "J.S. Bach",
+                    "Beethoven",
+                    "Richard Wagner",
+                    "Gustav Mahler"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Müzikte bir eserin temposunu belirlemek için kullanılan 'Andante' terimi yaklaşık olarak hangi hızdadır?",
+                "options": [
+                    "Çok yavaş",
+                    "Yürüyüş hızı",
+                    "Oldukça hızlı",
+                    "Fırtına hızı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünya tarihinin en genç senfoni yazan bestecilerinden Mozart, ilk senfonisini kaç yaşında bestelemiştir?",
+                "options": [
+                    "4",
+                    "8",
+                    "12",
+                    "16"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Franz Liszt'in, piyanoda adeta imkansızı hedefleyerek yazdığı ve 12 eserden oluşan serinin adı nedir?",
+                "options": [
+                    "Macar Rapsodileri",
+                    "Transcendental Etütler",
+                    "Yıllar süren Hac Yolculuğu",
+                    "Noktürnler"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Rossini'nin 'Sevil Berberi' operasının prömiyerinde yaşanan talihsizlikler silsilesinde, sahnede aniden beliren ve gösterinin sabote edilmesine neden olan hayvan hangisidir?",
+                "options": [
+                    "Fare",
+                    "Kedi",
+                    "Köpek",
+                    "Maymun"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Müzikte iki nota arasındaki en küçük perde farkına 'yarım ses' denir. Peki, 'Koma' adı verilen çok daha küçük ses aralıkları hangi müzik türünün temelidir?",
+                "options": [
+                    "Klasik Batı Müziği",
+                    "Türk Makam Müziği",
+                    "Caz",
+                    "Rock"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Ünlü keman virtüözü Niccolò Paganini'nin, o dönemde imkansız görülen teknikleri nedeniyle hangi varlıkla anlaşma yaptığına inanılırdı?",
+                "options": [
+                    "Şeytan",
+                    "Melek",
+                    "Tanrı",
+                    "Uzaylılar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Müzik tarihinde 'Piyanistlerin Şairi' olarak anılan ve hemen hemen tüm eserlerini piyano için besteleyen Romantik dönem sanatçısı kimdir?",
+                "options": [
+                    "Franz Liszt",
+                    "Frederic Chopin",
+                    "Robert Schumann",
+                    "Johannes Brahms"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Mozart'ın hayatının son döneminde üzerinde çalıştığı ancak tamamlayamadığı, ölümle ilgili olan görkemli dinsel eserin adı nedir?",
+                "options": [
+                    "Saraydan Kız Kaçırma",
+                    "Figaro'nun Düğünü",
+                    "Requiem",
+                    "Sihirli Flüt"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en çok seslendirilen orkestra eserlerinden biri olan 'Bolero'nun bestecisi hangi Fransız sanatçıdır?",
+                "options": [
+                    "Claude Debussy",
+                    "Maurice Ravel",
+                    "Georges Bizet",
+                    "Erik Satie"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Giuseppe Verdi'nin, Süveyş Kanalı'nın açılışı şerefine bestelenmesi planlanan ancak galası 1871'de Kahire'de yapılan ünlü operası hangisidir?",
+                "options": [
+                    "La Traviata",
+                    "Rigoletto",
+                    "Aida",
+                    "Nabucco"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Johann Sebastian Bach'ın meşhur 'Brandenburg Konçertoları' toplamda kaç adet eserden oluşmaktadır?",
+                "options": [
+                    "3",
+                    "5",
+                    "6",
+                    "9"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Puccini'nin 'Turandot' operasında geçen ve özellikle Pavarotti ile özdeşleşen dünyanın en ünlü tenor aryası hangisidir?",
+                "options": [
+                    "Nessun Dorma",
+                    "O Mio Babbino Caro",
+                    "La Donna e Mobile",
+                    "Habanera"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Beethoven'ın 'Kader' temasıyla bilinen 5. Senfonisi, hangi ikonik nota motifiyle başlar?",
+                "options": [
+                    "Uzun-Uzun-Kısa",
+                    "Kısa-Kısa-Kısa-Uzun",
+                    "Sürekli Tekrar",
+                    "Yavaş ve Yumuşak"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünyanın en ünlü bale eserlerinden olan 'Fındıkkıran' ve 'Kuğu Gölü'nün bestecisi kimdir?",
+                "options": [
+                    "Igor Stravinsky",
+                    "Pyotr İlyiç Çaykovski",
+                    "Sergey Rahmaninov",
+                    "Dmitri Şostakoviç"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Antoni Vivaldi'nin 'Dört Mevsim' eserinde, kemanların 'havlayan bir köpeği' taklit ettiği bölüm hangisidir?",
+                "options": [
+                    "İlkbahar",
+                    "Yaz",
+                    "Sonbahar",
+                    "Kış"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Klasik Batı Müziği'nde 'Barok Dönemi' kapatıp 'Klasik Dönemi' başlatan olay genellikle kimin ölümüyle bağdaştırılır?",
+                "options": [
+                    "J.S. Bach",
+                    "Mozart",
+                    "Haydn",
+                    "Handel"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Müzik tarihinde 'Paganini'nin piyano versiyonu' olarak görülen ve 'Campanella' gibi zorlu eserleri besteleyen Macar virtüöz kimdir?",
+                "options": [
+                    "Bela Bartok",
+                    "Franz Liszt",
+                    "Zoltan Kodaly",
+                    "Gyorgy Ligeti"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Bizet'nin meşhur 'Carmen' operası, ilk kez nerede sahnelendiğinde beklenen ilgiyi görememiş ve eleştirilmiştir?",
+                "options": [
+                    "Viyana",
+                    "Londra",
+                    "Paris",
+                    "Milano"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Kendi döneminde çok tanınmayan ancak 19. yüzyılda Mendelssohn tarafından yeniden keşfedilen 'Aziz Matta Pasyonu'nun bestecisi kimdir?",
+                "options": [
+                    "Vivaldi",
+                    "J.S. Bach",
+                    "Teleman",
+                    "Corelli"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Türk Beşleri olarak bilinen grup içinde, Türkiye'nin ilk operası 'Özsoy'u besteleyen sanatçımız kimdir?",
+                "options": [
+                    "Ulvi Cemal Erkin",
+                    "Adnan Saygun",
+                    "Necil Kazım Akses",
+                    "Cemal Reşit Rey"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Niccolo Paganini, meşhur '24 Kapris' eserini hangi enstrüman için bestelemiştir?",
+                "options": [
+                    "Piyano",
+                    "Keman",
+                    "Gitar",
+                    "Viyolonsel"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Müzikte seslerin yüksekliklerini ve sürelerini göstermeye yarayan işaretlere ne ad verilir?",
+                "options": [
+                    "Nota",
+                    "Sol Anahtarı",
+                    "Porte",
+                    "Bemol"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Klasik Batı müziğinde 'Senfoninin Babası' olarak anılan ve 100'den fazla senfoni besteleyen Avusturyalı besteci kimdir?",
+                "options": [
+                    "Mozart",
+                    "Beethoven",
+                    "Joseph Haydn",
+                    "Vivaldi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Yaylı çalgılar ailesinin en küçük ve en yüksek sesli üyesi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Viyola",
+                    "Keman",
+                    "Çello",
+                    "Kontrbas"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk sanat müziğinde kullanılan, üflemeli çalgıların en önemlilerinden biri olan ve kamıştan yapılan enstrüman hangisidir?",
+                "options": [
+                    "Zurna",
+                    "Kaval",
+                    "Ney",
+                    "Mey"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyaca ünlü 'Dört Mevsim' keman konçertosu hangi besteciye aittir?",
+                "options": [
+                    "Bach",
+                    "Antonio Vivaldi",
+                    "Chopin",
+                    "Tchaikovsky"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Bir orkestradaki tüm enstrümanların akort yapabilmesi için referans ses (La sesi) veren çalgı hangisidir?",
+                "options": [
+                    "Piyano",
+                    "Keman",
+                    "Obua",
+                    "Flüt"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Piyanonun atası sayılan ve tellere mızrapla vurularak ses çıkarılan çalgı hangisidir?",
+                "options": [
+                    "Arp",
+                    "Klavsen",
+                    "Org",
+                    "Lir"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Modern operanın kurucusu kabul edilen ve 'Orfeo' operasını besteleyen İtalyan besteci kimdir?",
+                "options": [
+                    "Verdi",
+                    "Puccini",
+                    "Claudio Monteverdi",
+                    "Rossini"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Gitarın sap kısmında tellerin altına yerleştirilen ve perdeleri ayıran metal çubuklara ne ad verilir?",
+                "options": [
+                    "Eşik",
+                    "Perde",
+                    "Fret",
+                    "Burgu"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Müzikte bir sesin kendi frekansının iki katı olan sese çıkmasına ne ad verilir?",
+                "options": [
+                    "Aralık",
+                    "Gam",
+                    "Oktav",
+                    "Akor"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Klasik müzikte '9. Senfoni'yi bestelerken tamamen sağır olduğu bilinen dâhi besteci kimdir?",
+                "options": [
+                    "Ludwig van Beethoven",
+                    "Richard Wagner",
+                    "Franz Schubert",
+                    "Brahms"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk halk müziğinde 'Bozkırın Tezenesi' lakabıyla anılan efsanevi ozanımız kimdir?",
+                "options": [
+                    "Aşık Veysel",
+                    "Neşet Ertaş",
+                    "Mahzuni Şerif",
+                    "Muharrem Ertaş"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Standart bir modern piyanoda toplam kaç adet tuş bulunur?",
+                "options": [
+                    "76",
+                    "85",
+                    "88",
+                    "92"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Caz müziğinin en önemli isimlerinden biri olan ve 'Satchmo' lakabıyla tanınan trompet ustası kimdir?",
+                "options": [
+                    "Miles Davis",
+                    "Louis Armstrong",
+                    "Duke Ellington",
+                    "Charlie Parker"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Müzikte hızın (temponun) giderek artırılmasına ne ad verilir?",
+                "options": [
+                    "Ritardando",
+                    "Accelerando",
+                    "Adagio",
+                    "Allegro"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            }
+        ],
         "Kurtlar Vadisi": [
             {
                 "question": "Diziye 'Sadece ölüler görür' sloganıyla giriş yapan ve Doğu Eşrefoğlu tarafından 'dağdan şehre indirilen' Pala ve ekibinin, aslında doğrudan bağlı olduğu 'Mithat' karakterinin görevi nedir?",
