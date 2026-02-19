@@ -2,6 +2,171 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "Dünyanın yedi harikasından biri olan 'Artemis Tapınağı' günümüzde hangi ülkede bulunmaktadır?",
+                "options": [
+                    "Yunanistan",
+                    "Mısır",
+                    "Türkiye",
+                    "İtalya"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "İnsan vücudundaki en sert madde aşağıdakilerden hangisidir?",
+                "options": [
+                    "Kemik",
+                    "Diş Minesi",
+                    "Kıkırdak",
+                    "Tırnak"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Rönesans döneminin ünlü sanatçısı Leonardo da Vinci'nin 'Son Akşam Yemeği' tablosu hangi şehirdedir?",
+                "options": [
+                    "Paris",
+                    "Roma",
+                    "Milano",
+                    "Floransa"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Yüzölçümü bakımından dünyanın en büyük ülkesi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Çin",
+                    "Kanada",
+                    "Rusya",
+                    "ABD"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Fatih Sultan Mehmet'in İstanbul'u fethettiğinde henüz 21 yaşında olduğu bilinmektedir. Peki, İstanbul kaç yılında fethedilmiştir?",
+                "options": [
+                    "1071",
+                    "1299",
+                    "1453",
+                    "1517"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Nobel Ödülleri hangi ülkenin başkentinde düzenlenen törenle sahiplerine verilir?",
+                "options": [
+                    "Norveç",
+                    "İsveç",
+                    "Danimarka",
+                    "İsviçre"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Güneş sistemindeki 'Kızıl Gezegen' lakabıyla bilinen gezegen hangisidir?",
+                "options": [
+                    "Venüs",
+                    "Mars",
+                    "Jüpiter",
+                    "Merkür"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Modern hemşireliğin kurucusu kabul edilen ve 'Lambalı Kadın' olarak bilinen kişi kimdir?",
+                "options": [
+                    "Marie Curie",
+                    "Florence Nightingale",
+                    "Rosa Parks",
+                    "Ada Lovelace"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Kimyada 'Ag' sembolü ile gösterilen element hangisidir?",
+                "options": [
+                    "Altın",
+                    "Gümüş",
+                    "Bakır",
+                    "Cıva"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "İstiklal Marşı'mızın bestecisi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Osman Zeki Üngör",
+                    "Mehmet Akif Ersoy",
+                    "Zeki Müren",
+                    "Münir Nurettin Selçuk"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünya üzerinde en çok konuşulan ana dil hangisidir?",
+                "options": [
+                    "İngilizce",
+                    "İspanyolca",
+                    "Mandarin",
+                    "Hintçe"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Hangi ülke hem Asya hem de Avrupa kıtasında toprağı bulunmasıyla bilinir?",
+                "options": [
+                    "Mısır",
+                    "Türkiye",
+                    "Azerbaycan",
+                    "Yunanistan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Eski Mısır'da hiyeroglif yazısını çözen ünlü taşın adı nedir?",
+                "options": [
+                    "Hammurabi",
+                    "Rosetta Taşı",
+                    "Piri Reis Haritası",
+                    "Orhun Abidesi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Olimpiyat halkalarındaki beş farklı renk neyi temsil eder?",
+                "options": [
+                    "Beş Okyanusu",
+                    "Beş Kıtayı",
+                    "Beş Büyük Devleti",
+                    "Beş Spor Dalını"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Fransız İhtilali hangi yıl gerçekleşmiştir?",
+                "options": [
+                    "1453",
+                    "1789",
+                    "1881",
+                    "1914"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
                 "question": "Matematikte 'Altın Oran' olarak bilinen ve doğadaki pek çok yapıda (deniz kabukları, ayçiçekleri vb.) karşımıza çıkan yaklaşık 1,618 değerindeki sayı hangi harf ile sembolize edilir?",
                 "options": [
                     "Pi (π)",
