@@ -41527,6 +41527,2151 @@
         ],
         "Coğrafya Soruları": [
             {
+                "question": "Türkiye'de yer şekillerinin engebeli olması nedeniyle yol yapım maliyetlerinin en yüksek olduğu bölgeler hangileridir?",
+                "options": [
+                    "Marmara - İç Anadolu",
+                    "Doğu Anadolu - Doğu Karadeniz",
+                    "Ege - Güneydoğu Anadolu",
+                    "Akdeniz - Marmara"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Aşağıdaki illerden hangisinin demiryolu ağına bağlantısı bulunmamaktadır?",
+                "options": [
+                    "Antalya",
+                    "Sivas",
+                    "Kayseri",
+                    "Afyonkarahisar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'nin en işlek kara sınır kapısı olan ve Avrupa'ya açılan en önemli kapımız hangisidir?",
+                "options": [
+                    "Sarp",
+                    "Habur",
+                    "Kapıkule",
+                    "Gürbulak"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dağların kıyıya paralel uzandığı Akdeniz ve Karadeniz'de kıyı ile iç kesimler arasındaki ulaşım genellikle 'geçitler' vasıtasıyla sağlanır. Aşağıdakilerden hangisi Akdeniz'deki geçitlerden biri değildir?",
+                "options": [
+                    "Sertavul",
+                    "Gülek",
+                    "Zigana",
+                    "Belen"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'nin en büyük 'ihracat' (dış satım) limanı olma özelliğine sahip, art bölgesi (hinterlandı) oldukça geniş olan liman hangisidir?",
+                "options": [
+                    "İstanbul",
+                    "İzmir",
+                    "Mersin",
+                    "Trabzon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'nin dış ticaretinde en büyük paya sahip olan ulaşım yolu aşağıdakilerden hangisidir?",
+                "options": [
+                    "Karayolu",
+                    "Havayolu",
+                    "Denizyolu",
+                    "Demiryolu"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Aşağıdaki turizm merkezlerinden hangisi 'UNESCO Dünya Miras Listesi'nde yer almaz?",
+                "options": [
+                    "Efes Antik Kenti",
+                    "Göbeklitepe",
+                    "Sümela Manastırı",
+                    "Safranbolu Şehri"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye'de kış turizminin geliştiği 'Palandöken' kayak merkezi hangi ilimiz sınırları içerisindedir?",
+                "options": [
+                    "Bursa",
+                    "Bolu",
+                    "Erzurum",
+                    "Kayseri"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Bolu Dağı Geçidi, Marmara Bölgesi'ni Karadeniz ve İç Anadolu'ya bağlayan en önemli noktalardan biridir. Bu geçidin üzerinden geçen otoyol hangisidir?",
+                "options": [
+                    "O-1",
+                    "O-3",
+                    "O-4",
+                    "O-5"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'nin dış ticaretinde en çok 'ithal' (dış alım) ettiği ürün grubu aşağıdakilerden hangisidir?",
+                "options": [
+                    "Tarım ürünleri",
+                    "Tekstil ürünleri",
+                    "Fosil yakıtlar (Enerji)",
+                    "Gıda ürünleri"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Deniz üzerine inşa edilen Türkiye'nin ilk havalimanı hangisidir?",
+                "options": [
+                    "Rize-Artvin Havalimanı",
+                    "Ordu-Giresun Havalimanı",
+                    "Trabzon Havalimanı",
+                    "Samsun Çarşamba Havalimanı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Aşağıdaki sınır kapılarından hangisi 'İran' ile olan ticaretimizde demiryolu geçişine imkan sağlar?",
+                "options": [
+                    "Kapıköy",
+                    "Esendere",
+                    "Gürbulak",
+                    "Dilucu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Karadeniz'i Doğu Anadolu'ya bağlayan ve dünyanın en uzun tünellerinden biri olan 'Ovit Dağı Tüneli' hangi iller arasındadır?",
+                "options": [
+                    "Trabzon - Gümüşhane",
+                    "Rize - Erzurum",
+                    "Artvin - Ardahan",
+                    "Giresun - Erzincan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'nin en büyük konteyner limanı olan ve Marmara Bölgesi'nde yer alan 'Asyaport' hangi ilimizdedir?",
+                "options": [
+                    "Kocaeli",
+                    "İstanbul",
+                    "Tekirdağ",
+                    "Bursa"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Aşağıdakilerden hangisi Türkiye'nin 'transit ticaret' potansiyelini artıran bir faktördür?",
+                "options": [
+                    "Üç tarafının denizlerle çevrili olması",
+                    "Asya ve Avrupa arasında köprü konumunda olması",
+                    "Genç nüfus oranının fazla olması",
+                    "Tarım alanlarının geniş olması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'de çıkarılan bir madenin, çıkarıldığı yer ile işlendiği yerin farklı olmasında 'enerji kaynağına yakınlık' faktörü etkili olabilmektedir. Bu duruma en iyi örnek aşağıdakilerden hangisidir?",
+                "options": [
+                    "Samsun Bakır İşletmeleri",
+                    "Ereğli Demir-Çelik Fabrikası",
+                    "Seydişehir Alüminyum Tesisleri",
+                    "Elazığ Ferro-Krom Tesisleri"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünya rezervlerinin yaklaşık %72'sine sahip olduğumuz, jet yakıtından cam sanayisine kadar yüzlerce alanda kullanılan 'stratejik' madenimiz hangisidir?",
+                "options": [
+                    "Krom",
+                    "Bor",
+                    "Boksit",
+                    "Linyit"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Türkiye'de demir-çelik sanayisinin ham maddesi olan demir madeninin en önemli çıkarım merkezleri hangi seçenekte doğru verilmiştir?",
+                "options": [
+                    "Kastamonu-Küre / Artvin-Murgul",
+                    "Sivas-Divriği / Malatya-Hekimhan",
+                    "Konya-Seydişehir / Akseki",
+                    "Muğla-Fethiye / Elazığ-Guleman"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Elektrik ve elektronik sanayisinin temel madeni olan 'Bakır'ın, Karadeniz Bölgesi'nde Samsun'da işlenmesinin temel nedeni nedir?",
+                "options": [
+                    "Ham maddeye yakınlık",
+                    "Ulaşım ve Hinterland genişliği",
+                    "Enerji kaynağına yakınlık",
+                    "İş gücü potansiyeli"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'de elektrik üretiminde kullanılan enerji kaynakları düşünüldüğünde, hangisi 'yenilenemeyen' (fosil) kaynaklar arasında yer almasına rağmen çevre kirliliği diğerlerine göre daha azdır?",
+                "options": [
+                    "Linyit",
+                    "Taş Kömürü",
+                    "Doğal Gaz",
+                    "Petrol"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Denizli-Sarayköy ve Aydın-Germencik çevresinde bulunan, yer altındaki sıcak su buharından elektrik üreten santraller hangi enerji türüne örnektir?",
+                "options": [
+                    "Biyokütle",
+                    "Hidroelektrik",
+                    "Jeotermal",
+                    "Rüzgar"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'de linyit yataklarının hemen hemen her bölgemizde bulunması, Türkiye'nin hangi özelliği ile doğrudan ilgilidir?",
+                "options": [
+                    "Üç tarafının denizlerle çevrili olması",
+                    "Genç oluşumlu  bir ülke olması",
+                    "Ortalama yükseltisinin fazla olması",
+                    "Dağların kıyıya paralel uzanması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Muğla-Fethiye, Elazığ-Guleman ve Bursa-Orhaneli çevresinde çıkarılan, paslanmaz çelik yapımında kullanılan maden hangisidir?",
+                "options": [
+                    "Krom",
+                    "Boksit",
+                    "Mangan",
+                    "Barit"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Aşağıdaki enerji santrallerinden hangisi, üretiminde iklim koşullarına (yağış/rüzgar) bağlı olarak dalgalanma yaşamaz?",
+                "options": [
+                    "Keban Hidroelektrik Santrali",
+                    "Soma Termik Santrali",
+                    "Alaçatı Rüzgar Santrali",
+                    "Güneydoğu Anadolu Güneş Santralleri"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'nin en büyük petrol rafinerisi olan ve Kırıkkale'de bulunan tesisin adı nedir?",
+                "options": [
+                    "İpraş",
+                    "Ataş",
+                    "Orta Anadolu Rafinerisi",
+                    "Aliağa"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Alüminyumun ham maddesi olan boksit madeninin Türkiye'deki en önemli çıkarım ve işleme merkezi neresidir?",
+                "options": [
+                    "Konya-Seydişehir",
+                    "Zonguldak-Ereğli",
+                    "Artvin-Murgul",
+                    "Elazığ-Maden"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Ham maddeye yakınlık ilkesine göre Batman'da kurulan petrol rafinerisinin, diğer rafinerilere göre (İzmir, İzmit, Mersin) dezavantajı nedir?",
+                "options": [
+                    "Üretim kapasitesi",
+                    "Pazara uzaklık ve ulaşım",
+                    "Teknolojik yetersizlik",
+                    "Hammadde eksikliği"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Nükleer enerji üretimi için hammadde olarak kullanılan 'Uranyum' ve 'Toryum' yatakları Türkiye'de en çok hangi ilimizde yoğunlaşmıştır?",
+                "options": [
+                    "Yozgat ve Eskişehir",
+                    "Zonguldak ve Bartın",
+                    "Antalya ve Muğla",
+                    "Konya ve Karaman"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Sondaj kuyularında kullanılan, yoğunluğu fazla olduğu için çamuru ağırlaştıran ve en çok Antalya-Alanya-Gazipaşa çevresinde çıkarılan maden hangisidir?",
+                "options": [
+                    "Asbest",
+                    "Barit",
+                    "Fosfat",
+                    "Mermer"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye'nin ilk nükleer güç santrali olan Akkuyu Nükleer Santrali'nin yer seçiminde aşağıdakilerden hangisi etkili olmamıştır?",
+                "options": [
+                    "Deprem riskinin az olması",
+                    "Deniz suyuna yakınlık",
+                    "Hammadde yataklarına yakınlık",
+                    "Güvenlik faktörü"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de tarımsal faaliyetlerde 'nadas' uygulamasının en temel nedeni aşağıdakilerden hangisidir?",
+                "options": [
+                    "Toprağı havalandırmak",
+                    "Yağış azlığı ve sulama yetersizliği",
+                    "Gübre kullanımını azaltmak",
+                    "Makineli tarıma uygun zemin hazırlamak"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Aşağıdaki tarım ürünlerinden hangisi, üretiminde sürekliliğin sağlanması ve bozulma riskinin yüksek olması nedeniyle fabrikaların çevresinde yoğunlaşmıştır?",
+                "options": [
+                    "Pamuk",
+                    "Şeker Pancarı",
+                    "Buğday",
+                    "Tütün"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Kış ılıklığı isteyen ve mikroklima etkisiyle Rize ve çevresinde tarımı yapılabilen, ancak Türkiye'de ekim alanı en dar olan ürünlerden biri hangisidir?",
+                "options": [
+                    "Çay",
+                    "Zeytin",
+                    "Turunçgiller",
+                    "Kivi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de pamuk üretimi için yaz kuraklığı ve yüksek sıcaklık şarttır. Buna göre, aşağıdaki yörelerin hangisinde pamuk tarımının yapılması beklenmez?",
+                "options": [
+                    "Çukurova",
+                    "Güneydoğu Anadolu",
+                    "Kıyı Ege",
+                    "Doğu Karadeniz Kıyıları"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "İç Anadolu Bölgesi'nde sulama imkanlarının gelişmesiyle (KOP Projesi) ekim alanı en çok artan ve Türkiye üretiminde bölgeyi ön plana çıkaran ürün hangisidir?",
+                "options": [
+                    "Mısır",
+                    "Arpa",
+                    "Yulaf",
+                    "Çavdar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Aşağıdaki tarım ürünlerinden hangisinin üretiminde 'devlet kontrolü' (kota), uyuşturucu ham maddesi olma özelliği ile ilgilidir?",
+                "options": [
+                    "Pirinç",
+                    "Tütün",
+                    "Haşhaş",
+                    "Şeker Pancarı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Zeytin ağacının bir yıl çok, bir yıl az ürün vermesi (alternans durumu) aşağıdakilerden hangisiyle doğrudan ilişkilidir?",
+                "options": [
+                    "Bakım yetersizliği",
+                    "İklim dalgalanmaları",
+                    "Bitkinin biyolojik yapısı",
+                    "Gübreleme hataları"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de 'soğuğa en dayanıklı' tahıl ürünü olması nedeniyle Doğu Anadolu'nun yüksek kesimlerinde bile tarımı yapılabilen ürün hangisidir?",
+                "options": [
+                    "Buğday",
+                    "Mısır",
+                    "Arpa",
+                    "Pirinç"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Ege Bölgesi'nin dünya üretiminde lider olduğu, ancak dondan çabuk etkilenen ve kurutularak ihraç edilen karakteristik ürünü hangisidir?",
+                "options": [
+                    "İncir",
+                    "Haşhaş",
+                    "Tütün",
+                    "Zeytin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "TÜİK verilerine göre Türkiye'de Ayçiçeği ve Kanola üretiminde birinci sırada yer alan bölge aşağıdakilerden hangisidir?",
+                "options": [
+                    "İç Anadolu",
+                    "Güneydoğu Anadolu",
+                    "Marmara",
+                    "Ege"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Çeltik (Pirinç) tarımının yerleşim birimlerinden uzak, akarsu boylarında yapılmasının temel sebebi nedir?",
+                "options": [
+                    "Toprak seçiciliği",
+                    "Sıcaklık ihtiyacı",
+                    "Sıtma hastalığına yol açan sivrisineklerin üremesi",
+                    "Yoğun su isteği"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Aşağıdaki tarım ürünlerinden hangisi Türkiye'nin 'geleneksel ihraç ürünleri' (Çekirdeksiz üzüm, İncir, Kayısı, Fındık, Tütün) arasında yer almaz?",
+                "options": [
+                    "Üzüm",
+                    "Muz",
+                    "Kayısı",
+                    "Tütün"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Bir bölgede 'intensif' (modern) tarım yöntemleri uygulanıyorsa, aşağıdakilerden hangisinin gerçekleşmesi beklenir?",
+                "options": [
+                    "Üretimin doğaya bağımlılığının artması",
+                    "Birim alandan alınan verimin yükselmesi",
+                    "Nadas alanlarının genişlemesi",
+                    "Makineli tarımın azalması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'de sebze ve meyve üretiminde kış ılıklığı nedeniyle Akdeniz Bölgesi'nin lider olmasını sağlayan temel faktör nedir?",
+                "options": [
+                    "Güneşlenme süresinin fazlalığı",
+                    "Sulama imkanları",
+                    "Yer şekilleri",
+                    "Pazarlama kolaylığı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Güneydoğu Anadolu Projesi (GAP) ile birlikte bölgede ekim alanı en çok artan ve Türkiye'yi dünya üretiminde söz sahibi yapan sanayi bitkisi hangisidir?",
+                "options": [
+                    "Mercimek",
+                    "Antep Fıstığı",
+                    "Pamuk",
+                    "Soya Fasulyesi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'de tarımsal verimi artırmak için uygulanan yöntemlerden hangisi, doğaya olan bağımlılığı en aza indirir?",
+                "options": [
+                    "Nadas uygulaması",
+                    "İntansif tarım",
+                    "Ekstansif tarım",
+                    "Mera hayvancılığı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Aşağıdaki tarım ürünlerinden hangisinin Türkiye'deki ekim alanı, iklim seçiciliği nedeniyle değil, devlet kontrolü (kota) nedeniyle sınırlıdır?",
+                "options": [
+                    "Muz",
+                    "Çay",
+                    "Şeker Pancarı",
+                    "Fındık"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'de sulama imkanlarının gelişmesiyle birlikte (Örn: GAP ile Şanlıurfa), ekim alanı en çok azalan ve yerini endüstri bitkilerine bırakan ürün grubu hangisidir?",
+                "options": [
+                    "Baklagiller",
+                    "Tahıllar",
+                    "Yumrulu bitkiler",
+                    "Yağ tohumları"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Dünya üretiminde açık ara birinci olduğumuz ve Türkiye'de en çok Ordu ve Giresun çevresinde yoğunlaşan, aynı zamanda Karadeniz ikliminin en karakteristik ürünü hangisidir?",
+                "options": [
+                    "Çay",
+                    "Fındık",
+                    "Mısır",
+                    "Kivi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Kış ılıklığı isteyen ve mikroklima etkisiyle Rize çevresinde tarımı yapılan, Türkiye'de ekim alanı en dar olan ürünlerden biri hangisidir?",
+                "options": [
+                    "Turunçgil",
+                    "Zeytin",
+                    "Çay",
+                    "İncir"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Toprağın bir yıl ekilip ertesi yıl dinlendirilmesi işlemine 'Nadas' denir. Aşağıdaki bölgelerimizden hangisinde nadas alanlarının en az olması beklenir?",
+                "options": [
+                    "İç Anadolu",
+                    "Güneydoğu Anadolu",
+                    "Karadeniz",
+                    "Ege"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Aşağıdaki ürünlerden hangisi, 'üretimde sürekliliği sağlamak' amacıyla genellikle fabrikaların (işleme tesislerinin) hemen yakınına ekilmek zorundadır?",
+                "options": [
+                    "Pamuk",
+                    "Şeker Pancarı",
+                    "Buğday",
+                    "Ayçiçeği"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "TÜİK verilerine göre Türkiye'de 'Mısır' üretiminin son yıllarda Karadeniz'den Akdeniz ve İç Anadolu'ya kaymasının temel sebebi nedir?",
+                "options": [
+                    "İklimin değişmesi",
+                    "Doğal yağışın artması",
+                    "Sulu tarımın gelişmesi",
+                    "Gübre kullanımının azalması"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Üretiminde Isparta'nın birinci sırada yer aldığı, kozmetik ve ilaç sanayisinde kullanılan aromatik bitki hangisidir?",
+                "options": [
+                    "Lavanta",
+                    "Gül",
+                    "Anason",
+                    "Haşhaş"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'de en çok İç Anadolu'da (Konya) üretilen, 'soğuğa ve kuraklığa en dayanıklı' tahıl ürünü hangisidir?",
+                "options": [
+                    "Mısır",
+                    "Pirinç",
+                    "Arpa",
+                    "Yulaf"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Pirinç (Çeltik) tarımının yerleşim yerlerinden uzak, akarsu boylarında yapılmasının temel nedeni nedir?",
+                "options": [
+                    "Çok su istemesi",
+                    "Sıcaklık ihtiyacı",
+                    "Sıtma hastalığına neden olan sivrisineklerin üremesi",
+                    "Toprak seçiciliği"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Aşağıdaki ürünlerden hangisi Türkiye'nin ihraç (dış satım) ürünleri arasında 'geleneksel' olarak yer almaz ve ithal ettiğimiz ürünler arasındadır?",
+                "options": [
+                    "Üzüm",
+                    "Kayısı",
+                    "Kahve",
+                    "Tütün"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Zeytin tarımı ile ilgili verilen bilgilerden hangisi 'alternans' (var yılı-yok yılı) durumunu açıklar?",
+                "options": [
+                    "Her mevsim yağış istemesi",
+                    "Sıcaklık isteğinin fazla olması",
+                    "Bir yıl çok ürün verip ertesi yıl dinlenmesi",
+                    "Sadece Akdeniz'de yetişmesi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Pamuk üretimi için yaz kuraklığı şarttır. Bu nedenle aşağıdaki bölgelerin hangisinde pamuk tarımı yapılması iklim nedeniyle imkansızdır?",
+                "options": [
+                    "Doğu Karadeniz Kıyıları",
+                    "Kıyı Ege",
+                    "Güneydoğu Anadolu",
+                    "Çukurova"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "TÜİK 2024/25 verilerine göre Türkiye'de Kanola (Kolza) ve Ayçiçeği üretiminde açık ara birinci olan bölge hangisidir?",
+                "options": [
+                    "Marmara",
+                    "İç Anadolu",
+                    "Ege",
+                    "Akdeniz"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye nüfusunun yapısal özellikleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+                "options": [
+                    "Erkek nüfus kadın nüfustan fazladır",
+                    "Ortanca yaş giderek yükselmektedir",
+                    "Çalışan nüfusun yarısından fazlası tarım sektöründedir",
+                    "Okur-yazar oranı %95'in üzerindedir"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'de nüfusun dağılışında aşağıdakilerden hangisi 'beşeri' bir faktör olarak değerlendirilir?",
+                "options": [
+                    "Yer şekillerinin dağlık olması",
+                    "Sanayileşme ve ticaret imkanları",
+                    "Su kaynaklarının bolluğu",
+                    "İklimin elverişli olması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Nüfus piramidinin tabanının daralması, o ülke veya bölge hakkında öncelikle aşağıdakilerden hangisini kanıtlar?",
+                "options": [
+                    "Doğum oranlarının azaldığını",
+                    "Ölüm oranlarının arttığını",
+                    "Dış göçlerin hızlandığını",
+                    "Ortalama yaşam süresinin kısaldığını"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Karadeniz Bölgesi'nde kırsal yerleşmelerin 'dağınık' olmasında etkili olan temel faktörler aşağıdakilerden hangisidir?",
+                "options": [
+                    "Toprak verimliliği ve ulaşım",
+                    "Su kaynaklarının bolluğu ve engebeli yer şekilleri",
+                    "Bitki örtüsü ve hayvancılık",
+                    "Sanayi kuruluşları ve ticaret"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'de Cumhuriyet'in ilk yıllarından itibaren nüfus artış hızını artırmaya yönelik politikalar izlenmiştir. Aşağıdakilerden hangisi bu dönemde (1923-1965) uygulanan bir politika değildir?",
+                "options": [
+                    "Çok çocuklu ailelerin yol vergisinden muaf tutulması",
+                    "Altı ve daha fazla çocuklu annelere madalya verilmesi",
+                    "Evlenme yaşının yükseltilmesi",
+                    "Göçlerin teşvik edilmesi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Genellikle İç Anadolu ve Güneydoğu Anadolu'da görülen, kerpiç evlerin yaygın olduğu 'toplu yerleşmelerin' temel nedeni nedir?",
+                "options": [
+                    "Su kaynaklarının kısıtlı olması",
+                    "Tarım alanlarının dar olması",
+                    "Yükseltinin fazla olması",
+                    "Kışların sert geçmesi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'de yapılan göçlerin büyük bir kısmı 'ekonomik' nedenlere dayanır. Aşağıdakilerden hangisi 'itici güç' (göçe zorlayan) faktörlerden biridir?",
+                "options": [
+                    "Şehirlerdeki eğitim imkanları",
+                    "Tarımdaki makineleşme sonucu işsizliğin artması",
+                    "Şehirlerdeki sosyal hizmetlerin fazlalığı",
+                    "Modern yaşam arzusu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Güneydoğu Anadolu ve Doğu Anadolu'da görülen, genellikle hayvancılık amaçlı kullanılan ve birkaç haneden oluşan 'köy altı yerleşmesi' tipi hangisidir?",
+                "options": [
+                    "Mezra",
+                    "Kom",
+                    "Divan",
+                    "Dalyan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de 'aktif nüfus' olarak kabul edilen 15-64 yaş arası nüfusun toplam nüfus içindeki payının fazla olması neyi ifade eder?",
+                "options": [
+                    "Bağımlı nüfusun fazla olduğunu",
+                    "Demografik fırsat penceresinin açık olduğunu",
+                    "Yaşlı nüfusun çocuk nüfustan fazla olduğunu",
+                    "Eğitim seviyesinin çok yüksek olduğunu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Bolu, Kastamonu ve Zonguldak çevresinde görülen, birkaç mahallenin birleşmesiyle oluşmuş köy altı yerleşmesi hangisidir?",
+                "options": [
+                    "Ağıl",
+                    "Dam",
+                    "Divan",
+                    "Yayla"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "TÜİK verilerine göre son yıllarda Türkiye'de nüfusun en az olduğu ilimiz genellikle aşağıdakilerden hangisidir?",
+                "options": [
+                    "Bayburt",
+                    "Tunceli",
+                    "Ardahan",
+                    "Gümüşhane"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de 'Nüfus Yoğunluğu' (Aritmetik Nüfus Yoğunluğu) en fazla olan coğrafi bölge hangisidir?",
+                "options": [
+                    "Ege",
+                    "Marmara",
+                    "İç Anadolu",
+                    "Akdeniz"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Adana, Antalya ve Bursa gibi şehirlerin göç almasında 'çekici faktör' olarak aşağıdakilerden hangisi öncelikle gösterilir?",
+                "options": [
+                    "Doğal güzellikler",
+                    "İklim şartları",
+                    "Tarıma dayalı sanayi ve iş imkanları",
+                    "Yer şekillerinin sadeliği"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Batı Karadeniz'de orman köylerinde yapı malzemesi olarak hangisinin kullanımı en yaygındır?",
+                "options": [
+                    "Kerpiç",
+                    "Taş",
+                    "Ahşap",
+                    "Tuğla"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Türkiye'de nüfusun artış hızı grafiğine bakıldığında 1940-1945 yılları arasında görülen keskin düşüşün temel sebebi nedir?",
+                "options": [
+                    "Büyük bir depremin yaşanması",
+                    "Salgın hastalıklar",
+                    "II. Dünya Savaşı nedeniyle seferberlik ilan edilmesi",
+                    "Dış göçlerin başlaması"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'de toprak oluşumunu etkileyen en temel faktör iklimdir. Buna göre, kimyasal çözünmenin en fazla olduğu Karadeniz kıyı kuşağında toprak oluşumunun hızlı olmasının temel sebebi nedir?",
+                "options": [
+                    "Sıcaklık farkının fazla olması",
+                    "Yıllık yağış miktarının ve nemin yüksek olması",
+                    "Bitki örtüsünün bozkır olması",
+                    "Eğimli arazi yapısı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Akdeniz iklim bölgesinde, kalkerli (kireç taşlı) araziler üzerinde oluşan ve demir oksit miktarının fazlalığı nedeniyle kırmızı renkli olan toprak tipi hangisidir?",
+                "options": [
+                    "Terra-Rossa",
+                    "Laterit",
+                    "Çernezyom",
+                    "Podzol"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Eski göl tabanlarında oluşan, killi yapısı nedeniyle kurak mevsimde derin çatlaklar oluşturan ve 'taş doğuran toprak' olarak bilinen toprak tipi hangisidir?",
+                "options": [
+                    "Rendzina",
+                    "Vertisol",
+                    "Regosol",
+                    "Litosol"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Aşağıdakilerden hangisi insanın doğa üzerindeki olumsuz etkilerine örnek olarak gösterilemez?",
+                "options": [
+                    "Fosil yakıt kullanımının artması",
+                    "Sulak alanların kurutularak tarıma açılması",
+                    "Atık suların arıtılarak sanayide kullanılması",
+                    "Orman alanlarının yerleşmeye açılması"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Türkiye'de erozyonla mücadelenin temel amacı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Toprak tabakasının süpürülmesini engellemek",
+                    "Deprem riskini azaltmak",
+                    "Yer altı suyu seviyesini düşürmek",
+                    "Kar yağışını artırmak"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Bir bölgede sanayileşme ve fosil yakıt kullanımının artmasına bağlı olarak havadaki kükürt ve azot gazlarının su buharıyla birleşmesi sonucu oluşan olay nedir?",
+                "options": [
+                    "Sera etkisi",
+                    "Asit yağmurları",
+                    "Ozon delinmesi",
+                    "Ötrofikasyon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Göl sularında fosfor ve azot gibi besin maddelerinin aşırı artması sonucu alglerin hızla çoğalması ve sudaki oksijenin tükenmesi olayına ne ad verilir?",
+                "options": [
+                    "Erozyon",
+                    "Ötrofikasyon",
+                    "Çölleşme",
+                    "Radyoaktif kirlilik"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye'nin en verimli doğal toprağı kabul edilen, Çayır bitki örtüsü altında oluşan 'Kara Topraklar' (Çernezyom) en çok hangi yöremizde görülür?",
+                "options": [
+                    "Güney Marmara",
+                    "Erzurum-Kars Platosu",
+                    "Tuz Gölü Çevresi",
+                    "Menteşe Yöresi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Küresel ısınma sonucunda buzulların erimesiyle aşağıdakilerden hangisinin gerçekleşmesi beklenmez?",
+                "options": [
+                    "Deniz seviyesinin yükselmesi",
+                    "Bazı ada ülkelerinin sular altında kalması",
+                    "Okyanus akıntılarının yön değiştirmesi",
+                    "Bitki çeşitliliğinin tüm dünyada hızla artması"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Aşağıdaki toprak tiplerinden hangisi 'Azonal' (taşınmış) toprak grubunda yer almaz?",
+                "options": [
+                    "Alüvyal",
+                    "Lös",
+                    "Moren",
+                    "Kahverengi Orman Toprağı"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "Rüzgar erozyonunun Türkiye'de en etkili olduğu bölgenin İç Anadolu olması, bu bölgenin hangi özelliği ile doğrudan ilişkilidir?",
+                "options": [
+                    "Bitki örtüsünün cılız ve iklimin kurak olması",
+                    "Yer şekillerinin dağlık olması",
+                    "Yükseltinin fazla olması",
+                    "Tarım alanlarının dar olması"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyük sanayi tesislerinin soğutma sularını arıtmadan akarsu veya denizlere boşaltması sonucu suyun sıcaklığının değişmesiyle oluşan kirlilik türü hangisidir?",
+                "options": [
+                    "Kimyasal kirlilik",
+                    "Termal kirlilik",
+                    "Radyoaktif kirlilik",
+                    "Biyolojik kirlilik"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Aşağıdaki bitki türlerinden hangisi, Türkiye'de ormanların tahrip edilmesi sonucu oluşan 'Maki' topluluğunun üyelerinden biri değildir?",
+                "options": [
+                    "Zeytin",
+                    "Zakkum",
+                    "Defne",
+                    "Ladin"
+                ],
+                "correct_answer": 3,
+                "difficulty": 6
+            },
+            {
+                "question": "Sera gazlarının atmosferde birikerek güneşten gelen ısının geri çıkmasını engellemesi sonucu oluşan küresel ısınmayı azaltmak için imzalanan uluslararası sözleşme hangisidir?",
+                "options": [
+                    "Kyoto Protokolü",
+                    "Ramsar Sözleşmesi",
+                    "Montrö Sözleşmesi",
+                    "Cenevre Protokolü"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Volkanik tüfler üzerinde oluşan ve geçirgenliği fazla olduğu için üzerinde genellikle bağcılık yapılan taşınmış toprak tipi hangisidir?",
+                "options": [
+                    "Regosol",
+                    "Kolüvyal",
+                    "Litosol",
+                    "Moren"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye'nin en kapsamlı ve ilk bölgesel kalkınma projesi olan, sulama ve hidroelektrik enerji üretimine dayalı GAP (Güneydoğu Anadolu Projesi) kapsamında yer alan merkezi il hangisidir?",
+                "options": [
+                    "Gaziantep",
+                    "Şanlıurfa",
+                    "Diyarbakır",
+                    "Mardin"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "KOP (Konya Ovası Projesi) kapsamında gerçekleştirilen ve Göksu Nehri'nin sularını Bağbaşı Barajı'ndan Mavi Tünel ile İç Anadolu'ya aktaran dev yatırımın adı nedir?",
+                "options": [
+                    "Karasu Projesi",
+                    "Mavi Tünel Projesi",
+                    "Yeşil Kuşak Projesi",
+                    "Suruç Tüneli"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Aşağıdaki illerden hangisi, hem DOKAP (Doğu Karadeniz Projesi) hem de Yeşilırmak Havzası Gelişim Projesi (YHGP) kapsamında yer alan 'ortak' illerden biridir?",
+                "options": [
+                    "Trabzon",
+                    "Samsun",
+                    "Rize",
+                    "Artvin"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Zonguldak, Bartın, Karabük (ZBK) projesinin temel amacı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Yaylacılık faaliyetlerini geliştirmek",
+                    "Demir-çelik sanayisini modernize etmek ve kömür işletmelerini verimli kılmak",
+                    "Tarımda sulama imkanlarını artırmak",
+                    "Turizm çeşitliliğini sağlamak"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "DAP (Doğu Anadolu Projesi) kapsamında bölgenin ekonomik kalkınması için öncelikle hangi sektörün geliştirilmesi hedeflenmektedir?",
+                "options": [
+                    "Sanayi",
+                    "Turizm",
+                    "Hayvancılık",
+                    "Madencilik"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Doğu Karadeniz Projesi (DOKAP) kapsamında yaylaları birbirine bağlayarak turizmi canlandırmayı hedefleyen yol projesine ne ad verilir?",
+                "options": [
+                    "Mavi Yol",
+                    "Yeşil Yol",
+                    "İpek Yolu",
+                    "Karadeniz Sahil Yolu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Aşağıdaki illerden hangisi, diğerlerine göre daha geç bir tarihte DOKAP (Doğu Karadeniz Projesi) kapsamına dahil edilmiştir?",
+                "options": [
+                    "Giresun",
+                    "Ordu",
+                    "Amasya",
+                    "Gümüşhane"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye'de 'Bölge' kavramı üzerine yapılan yeni sınıflandırmada, İstanbul ve çevresi hangi 'Düzey 1' bölgesi içerisinde yer alır?",
+                "options": [
+                    "Batı Marmara",
+                    "Doğu Marmara",
+                    "İstanbul",
+                    "Ege"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Yeşilırmak Havzası Gelişim Projesi (YHGP) aşağıda verilen illerden hangisini kapsamaz?",
+                "options": [
+                    "Amasya",
+                    "Tokat",
+                    "Çorum",
+                    "Sinop"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "Güneydoğu Anadolu Projesi (GAP) ile birlikte bölgede ekim alanı en çok artan ve Türkiye üretiminde bölgeyi birinci sıraya taşıyan sanayi bitkisi hangisidir?",
+                "options": [
+                    "Tütün",
+                    "Pamuk",
+                    "Ayçiçeği",
+                    "Şeker Pancarı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Bir bölgenin 'Hinterland'ının geniş olması ne anlama gelmektedir?",
+                "options": [
+                    "Limanın deniz derinliğinin fazla olması",
+                    "Limanın iç kesimlerle ulaşım bağlantısının güçlü olması",
+                    "Limanın çok fazla yağış alması",
+                    "Limanın sadece turizm amaçlı kullanılması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Aşağıdaki göllerden hangisi bir 'Ramsar Alanı' (Sulak Alanların Korunması Sözleşmesi) kapsamında yer almaktadır?",
+                "options": [
+                    "Manyas (Kuş) Gölü",
+                    "Tuz Gölü",
+                    "Van Gölü",
+                    "Eğirdir Gölü"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de işlevsel bölgeler içerisinde yer alan 'TÜİK' bölgeleri kaç düzeyden oluşmaktadır?",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "KOP (Konya Ovası Projesi) kapsamında yer alan iller arasında aşağıdakilerden hangisi bulunmaz?",
+                "options": [
+                    "Niğde",
+                    "Aksaray",
+                    "Nevşehir",
+                    "Eskişehir"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'nin en büyük sınır kapısı olan ve 'Modern İpek Yolu' üzerinde yer alan Gürbulak Sınır Kapısı hangi ülkemize açılmaktadır?",
+                "options": [
+                    "Irak",
+                    "İran",
+                    "Gürcistan",
+                    "Ermenistan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye, 36°-42° Kuzey enlemleri ile 26°-45° Doğu boylamları arasında yer alır. Buna göre, Türkiye'nin en kuzeyi ile en güneyi arasındaki kuş uçuşu mesafe yaklaşık kaç kilometredir?",
+                "options": [
+                    "555",
+                    "666",
+                    "777",
+                    "888"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'nin Kuzey Yarım Küre'de ve Orta Kuşak'ta yer almasının bir sonucu olarak, aşağıdakilerden hangisi 'enlem' etkisiyle açıklanamaz?",
+                "options": [
+                    "Dört mevsimin belirgin olarak yaşanması",
+                    "Cephesel yağışların görülmesi",
+                    "Dağların güney yamaçlarının bakı etkisinde kalması",
+                    "Aynı anda farklı iklim özelliklerinin görülmesi"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "21 Haziran tarihinde Türkiye'de en uzun gündüz süresi hangi ilimizde yaşanmaktadır?",
+                "options": [
+                    "Hatay",
+                    "Muğla",
+                    "Sinop",
+                    "Iğdır"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'nin en doğusu (Iğdır-Dilucu) ile en batısı (Gökçeada-Avlaka Burnu) arasındaki zaman farkı kaç dakikadır?",
+                "options": [
+                    "19",
+                    "38",
+                    "76",
+                    "95"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'de kış aylarında ulusal saat ayarı yapılırken (eskiden kullanılan sistemde) hangi meridyenin yerel saati esas alınmaktaydı?",
+                "options": [
+                    "30° Doğu (İzmit)",
+                    "45° Doğu (Iğdır)",
+                    "26° Doğu (Çanakkale",
+                    "36° Doğu (Sivas)"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'nin 'Özel Konumu' (Göreceli Konum) aşağıdakilerden hangisi üzerinde doğrudan etkili değildir?",
+                "options": [
+                    "Transit ticaretin gelişmiş olması",
+                    "Üç tarafının denizlerle çevrili olması",
+                    "Güneş ışınlarının düşme açısının güneyden kuzeye daralması",
+                    "Kısa mesafede bitki örtüsünün değişmesi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Aşağıdaki şehirlerden hangisinde yerel saat ile ulusal saat arasındaki fark yıl boyunca en azdır?",
+                "options": [
+                    "İzmir",
+                    "İstanbul",
+                    "Ankara",
+                    "Iğdır"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de dağların kuzey yamaçlarının denizelliğin etkisiyle daha nemli ve ormanlık olması, hangi kavramın 'Bakı' etkisiyle çeliştiğini gösterir?",
+                "options": [
+                    "Enlem",
+                    "Boylam",
+                    "Yükselti",
+                    "Karasallık"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye sınırları içerisinde çizgisel hızın en fazla, yer çekiminin ise en az olduğu ilimiz aşağıdakilerden hangisidir?",
+                "options": [
+                    "Sinop",
+                    "Kırklareli",
+                    "Hatay",
+                    "Hakkari"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Aynı boylam üzerinde yer alan Samsun ve Mersin şehirleri için aşağıdakilerden hangisi yıl boyunca kesinlikle aynıdır?",
+                "options": [
+                    "Gündüz süreleri",
+                    "Güneşin doğuş vakti",
+                    "Yerel saatleri",
+                    "Güneş ışınlarını alış açısı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "21 Mart tarihinde güneş Iğdır'da doğduktan yaklaşık kaç saat sonra Çanakkale'de doğar?",
+                "options": [
+                    "1 saat 16 dakika",
+                    "45 dakika",
+                    "19 dakika",
+                    "2 saat"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye'nin jeopolitik önemini artıran 'İstanbul ve Çanakkale Boğazları'na sahip olması', hangi konum özelliğinin bir sonucudur?",
+                "options": [
+                    "Mutlak Konum",
+                    "Matematik Konum",
+                    "Göreceli Konum",
+                    "Enlem Konumu"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Kışın Türkiye'yi etkileyen ve Sibirya üzerinden gelen yüksek basınç merkezi, Türkiye'nin hangi konum özelliğinin bir sonucudur?",
+                "options": [
+                    "Matematik Konum",
+                    "Özel Konum",
+                    "Enlem",
+                    "Boylam"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Aşağıdakilerden hangisi Türkiye'nin 'Kuzey Yarım Küre'de yer aldığının kesin kanıtıdır?",
+                "options": [
+                    "Batı rüzgarlarının etkisi altında olması",
+                    "Dağların güney yamaçlarının daha sıcak olması",
+                    "Doğusu ile batısı arasında zaman farkı bulunması",
+                    "Dört mevsimin yaşanması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye'de gölge boyunun hiçbir zaman 'sıfır' olmaması, aşağıdakilerden hangisiyle doğrudan ilişkilidir?",
+                "options": [
+                    "Orta kuşakta yer alması",
+                    "Yengeç Dönencesi'nin kuzeyinde yer alması",
+                    "Asya ile Avrupa arasında olması",
+                    "Yükseltisinin fazla olması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de üretiminde devlet kontrolü (kota) bulunan, haşhaş ve kenevir gibi ürünlerin ekim alanlarının sınırlı tutulmasının temel nedeni nedir?",
+                "options": [
+                    "İklim seçiciliği",
+                    "Toprak verimsizliği",
+                    "Uyuşturucu ham maddesi olarak kullanımı",
+                    "Pazar sorunu"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'nin dünya üretiminde birinci sırada yer aldığı ve 'Cumhuriyet altını' olarak da adlandırılan, en çok Aydın çevresinde yetişen tarım ürünü hangisidir?",
+                "options": [
+                    "Fındık",
+                    "Üzüm",
+                    "İncir",
+                    "Kayısı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Modern (intensif) tarım yöntemlerinin uygulandığı bir yörede aşağıdakilerden hangisinin görülmesi beklenmez?",
+                "options": [
+                    "Birim alandan alınan verimin yüksek olması",
+                    "Nadas alanlarının geniş yer tutması",
+                    "Sulama ve gübreleme imkanlarının gelişmiş olması",
+                    "Üretimde iklime olan bağımlılığın azalması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'de büyükbaş hayvancılığın (mera hayvancılığı şeklinde) Erzurum-Kars çevresinde yoğunlaşmasının temel nedeni nedir?",
+                "options": [
+                    "Pazarlama imkanları",
+                    "Yaz yağışlarıyla yeşeren gür çayırlar",
+                    "Yer şekillerinin sade olması",
+                    "Ulaşım kolaylığı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Demir-çelik sanayisinin ham maddesi olan demirin eritilmesinde kullanılan, Türkiye'de sadece Zonguldak ve çevresinde çıkarılan enerji kaynağı hangisidir?",
+                "options": [
+                    "Linyit",
+                    "Taş Kömürü",
+                    "Antrasit",
+                    "Petrol"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünya rezervlerinin yaklaşık %72'sine sahip olduğumuz, jet yakıtından cam sanayisine kadar geniş bir alanda kullanılan maden hangisidir?",
+                "options": [
+                    "Bakır",
+                    "Krom",
+                    "Bor",
+                    "Boksit"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Artvin-Murgul, Kastamonu-Küre ve Elazığ-Maden yataklarında çıkarılan, elektrik-elektronik sanayisinin temel madeni hangisidir?",
+                "options": [
+                    "Krom",
+                    "Bakır",
+                    "Demir",
+                    "Mangan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'nin en büyük doğal gaz depolama tesisi hangi gölün altında veya çevresinde yer almaktadır?",
+                "options": [
+                    "Van Gölü",
+                    "Tuz Gölü",
+                    "Beyşehir Gölü",
+                    "Eğirdir Gölü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Denizli-Sarayköy ve Aydın-Germencik çevresinde bulunan, yer altındaki sıcak su buharından elektrik üretilen enerji santrali türü hangisidir?",
+                "options": [
+                    "Biyokütle",
+                    "Hidroelektrik",
+                    "Jeotermal",
+                    "Güneş Enerjisi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Muğla-Yatağan, Manisa-Soma ve Kütahya-Seyitömer termik santrallerinde elektrik üretimi için kullanılan fosil yakıt hangisidir?",
+                "options": [
+                    "Linyit",
+                    "Taş Kömürü",
+                    "Doğal Gaz",
+                    "Petrol"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'de kümes hayvancılığının Marmara ve Ege bölgelerinde (Bolu, Balıkesir, Manisa) yoğunlaşmasının temel sebebi nedir?",
+                "options": [
+                    "İklimin uygunluğu",
+                    "Tüketici nüfusa ve pazara yakınlık",
+                    "Yer şekillerinin uygunluğu",
+                    "Yem bitkisi üretiminin fazlalığı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Alüminyumun ham maddesi olan 'Boksit' madeninin Türkiye'deki en önemli yatağı ve işleme tesisi nerededir?",
+                "options": [
+                    "Konya-Seydişehir",
+                    "Elazığ-Guleman",
+                    "Antalya-Akseki",
+                    "Zonguldak-Ereğli"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Aşağıdaki tarım ürünlerinden hangisinin üretiminde yıllara göre dalgalanma (üretim miktarının çok değişmesi) en azdır?",
+                "options": [
+                    "Buğday",
+                    "Şeker Pancarı",
+                    "Arpa",
+                    "Mercimek"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye'nin ilk nükleer güç santrali inşaatı hangi ilimizin sınırları içerisinde devam etmektedir?",
+                "options": [
+                    "Sinop",
+                    "Mersin",
+                    "Kırklareli",
+                    "Tekirdağ"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Güney Marmara'da (Balıkesir, Bursa) ipek böcekçiliği gerilerken, bu faaliyetin 'yaş ipek kozası' üretiminde birinci sıraya yerleştiği ilimiz hangisidir?",
+                "options": [
+                    "Bursa",
+                    "Diyarbakır",
+                    "Antalya",
+                    "Edirne"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de Akdeniz ikliminin etki alanının, Ege Bölgesi'nde Akdeniz kıyılarına göre daha iç kesimlere kadar sokulabilmesinin temel sebebi nedir?",
+                "options": [
+                    "Enlem etkisi",
+                    "Dağların kıyıya uzanış doğrultusu",
+                    "Denizellik etkisi",
+                    "Yükseltinin az olması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Karadeniz kıyı kuşağında ormanların tahrip edilmesiyle oluşan, fındık, şimşir ve kızılcık gibi türlerin yer aldığı bitki topluluğuna ne ad verilir?",
+                "options": [
+                    "Maki",
+                    "Garig",
+                    "Psödömaki (Yalancı Maki)",
+                    "Antropojen Bozkır"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de kış ılıklığı isteyen bir tarım ürününün (örneğin zeytin veya turunçgil), Karadeniz Bölgesi'nde Rize çevresinde yetişebilmesi hangi kavramla açıklanır?",
+                "options": [
+                    "Bakı",
+                    "Mikroklima",
+                    "Karasallık",
+                    "Yükselti"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Genellikle Erzurum-Kars platolarında görülen, sert karasal iklimin etkisiyle oluşan ve dünyanın en verimli doğal toprağı kabul edilen 'Kara Topraklar' hangisidir?",
+                "options": [
+                    "Laterit",
+                    "Podzol",
+                    "Çernezyom",
+                    "Terra-Rossa"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Toros Dağları'nın güney yamaçlarının, kuzey yamaçlarına göre daha fazla ısınması ve yerleşmelerin bu yamaçta yoğunlaşması hangi iklim etmeniyle ilgilidir?",
+                "options": [
+                    "Bakı",
+                    "Yükselti",
+                    "Karasallık",
+                    "Enlem"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "İç Anadolu Bölgesi'nde ormanların tahrip edilmesi sonucu oluşan ve ilkbahar yağışlarıyla yeşerip yazın sararan ot topluluklarına ne ad verilir?",
+                "options": [
+                    "Mera",
+                    "Antropojen Bozkır",
+                    "Alpin Çayır",
+                    "Savan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Batı Karadeniz'de (Bolu, Zonguldak çevresi) iğne yapraklı ormanların altında görülen, aşırı yıkanmış ve mineral bakımından fakir kül rengi topraklara ne ad verilir?",
+                "options": [
+                    "Podzol",
+                    "Kahverengi Orman Toprağı",
+                    "Vertisol",
+                    "Rendzina"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye'de 'Fön Rüzgarları'nın en etkili olduğu ve bu nedenle tarımsal ürün çeşitliliğinin arttığı yöre aşağıdakilerden hangisidir?",
+                "options": [
+                    "Konya Ovası",
+                    "Doğu Karadeniz Kıyıları",
+                    "Ergene Havzası",
+                    "Iğdır Ovası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Akdeniz iklim kuşağında, kalkerli araziler üzerinde oluşan ve demir oksit oranı yüksek olduğu için kırmızı renkli olan toprak tipi hangisidir?",
+                "options": [
+                    "Alüvyal",
+                    "Terra-Rossa",
+                    "Kestane Renkli Bozkır",
+                    "Regosol"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Eski göl tabanlarında oluşan, killi yapısı nedeniyle kurak dönemde çatlayan ve halk arasında 'Taş Doğuran' veya 'Dönen Toprak' olarak bilinen toprak tipi hangisidir?",
+                "options": [
+                    "Lös",
+                    "Moren",
+                    "Vertisol",
+                    "Kalsimorfik"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Yaz yağışlarının etkisiyle Erzurum-Kars ve Doğu Karadeniz'in yüksek kesimlerinde görülen, hayvancılık faaliyetleri için büyük önem taşıyan bitki örtüsü hangisidir?",
+                "options": [
+                    "Bozkır",
+                    "Maki",
+                    "Alpin Çayırlar",
+                    "Tayga"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'de yıllık sıcaklık farkının en az olduğu iklim bölgesi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Akdeniz İklimi",
+                    "Karadeniz İklimi",
+                    "Step İklimi",
+                    "Sert Karasal İklim"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Güneydoğu Anadolu Bölgesi'nde yaz kuraklığının ve buharlaşmanın Türkiye'nin diğer bölgelerinden daha şiddetli olmasının temel nedeni nedir?",
+                "options": [
+                    "Enlem ve Basra Alçak Basıncı",
+                    "Yükseltinin az olması",
+                    "Bitki örtüsünün cılızlığı",
+                    "Denize uzaklık"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Akarsuların taşıdığı malzemeleri biriktirmesiyle oluşan ve verimi yüksek olan 'Azonal' (taşınmış) toprak grubu hangisidir?",
+                "options": [
+                    "Kolüvyal Toprak",
+                    "Regosol",
+                    "Alüvyal Toprak",
+                    "Litosol"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'nin iklimini etkileyen yerel rüzgarlardan 'Lodos', hangi yönden eserek sıcaklığı artırır ve deniz ulaşımını olumsuz etkiler?",
+                "options": [
+                    "Kuzeybatı",
+                    "Güneybatı",
+                    "Güneydoğu",
+                    "Kuzeydoğu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'de Akdeniz ikliminin etki alanının, Ege Bölgesi'nde Akdeniz kıyılarına göre daha iç kesimlere kadar sokulabilmesinin temel sebebi nedir?",
+                "options": [
+                    "Enlem etkisi",
+                    "Dağların kıyıya uzanış doğrultusu",
+                    "Denizellik etkisi",
+                    "Yükseltinin az olması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Karadeniz kıyı kuşağında ormanların tahrip edilmesiyle oluşan, fındık, şimşir ve kızılcık gibi türlerin yer aldığı bitki topluluğuna ne ad verilir?",
+                "options": [
+                    "Maki",
+                    "Garig",
+                    "Psödömaki (Yalancı Maki)",
+                    "Antropojen Bozkır"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de kış ılıklığı isteyen bir tarım ürününün (örneğin zeytin veya turunçgil), Karadeniz Bölgesi'nde Rize çevresinde yetişebilmesi hangi kavramla açıklanır?",
+                "options": [
+                    "Bakı",
+                    "Mikroklima",
+                    "Karasallık",
+                    "Yükselti"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Genellikle Erzurum-Kars platolarında görülen, sert karasal iklimin etkisiyle oluşan ve dünyanın en verimli doğal toprağı kabul edilen 'Kara Topraklar' hangisidir?",
+                "options": [
+                    "Laterit",
+                    "Podzol",
+                    "Çernezyom",
+                    "Terra-Rossa"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Toros Dağları'nın güney yamaçlarının, kuzey yamaçlarına göre daha fazla ısınması ve yerleşmelerin bu yamaçta yoğunlaşması hangi iklim etmeniyle ilgilidir?",
+                "options": [
+                    "Bakı",
+                    "Yükselti",
+                    "Karasallık",
+                    "Enlem"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "İç Anadolu Bölgesi'nde ormanların tahrip edilmesi sonucu oluşan ve ilkbahar yağışlarıyla yeşerip yazın sararan ot topluluklarına ne ad verilir?",
+                "options": [
+                    "Mera",
+                    "Antropojen Bozkır",
+                    "Alpin Çayır",
+                    "Savan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Batı Karadeniz'de (Bolu, Zonguldak çevresi) iğne yapraklı ormanların altında görülen, aşırı yıkanmış ve mineral bakımından fakir kül rengi topraklara ne ad verilir?",
+                "options": [
+                    "Podzol",
+                    "Kahverengi Orman Toprağı",
+                    "Vertisol",
+                    "Rendzina"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye'de 'Fön Rüzgarları'nın en etkili olduğu ve bu nedenle tarımsal ürün çeşitliliğinin arttığı yöre aşağıdakilerden hangisidir?",
+                "options": [
+                    "Konya Ovası",
+                    "Doğu Karadeniz Kıyıları",
+                    "Ergene Havzası",
+                    "Iğdır Ovası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Akdeniz iklim kuşağında, kalkerli araziler üzerinde oluşan ve demir oksit oranı yüksek olduğu için kırmızı renkli olan toprak tipi hangisidir?",
+                "options": [
+                    "Alüvyal",
+                    "Terra-Rossa",
+                    "Kestane Renkli Bozkır",
+                    "Regosol"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Eski göl tabanlarında oluşan, killi yapısı nedeniyle kurak dönemde çatlayan ve halk arasında 'Taş Doğuran' veya 'Dönen Toprak' olarak bilinen toprak tipi hangisidir?",
+                "options": [
+                    "Lös",
+                    "Moren",
+                    "Vertisol",
+                    "Kalsimorfik"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Yaz yağışlarının etkisiyle Erzurum-Kars ve Doğu Karadeniz'in yüksek kesimlerinde görülen, hayvancılık faaliyetleri için büyük önem taşıyan bitki örtüsü hangisidir?",
+                "options": [
+                    "Bozkır",
+                    "Maki",
+                    "Alpin Çayırlar",
+                    "Tayga"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'de yıllık sıcaklık farkının en az olduğu iklim bölgesi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Akdeniz İklimi",
+                    "Karadeniz İklimi",
+                    "Step İklimi",
+                    "Sert Karasal İklim"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Güneydoğu Anadolu Bölgesi'nde yaz kuraklığının ve buharlaşmanın Türkiye'nin diğer bölgelerinden daha şiddetli olmasının temel nedeni nedir?",
+                "options": [
+                    "Enlem ve Basra Alçak Basıncı",
+                    "Yükseltinin az olması",
+                    "Bitki örtüsünün cılızlığı",
+                    "Denize uzaklık"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Akarsuların taşıdığı malzemeleri biriktirmesiyle oluşan ve verimi yüksek olan 'Azonal' (taşınmış) toprak grubu hangisidir?",
+                "options": [
+                    "Kolüvyal Toprak",
+                    "Regosol",
+                    "Alüvyal Toprak",
+                    "Litosol"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'nin iklimini etkileyen yerel rüzgarlardan 'Lodos', hangi yönden eserek sıcaklığı artırır ve deniz ulaşımını olumsuz etkiler?",
+                "options": [
+                    "Kuzeybatı",
+                    "Güneybatı",
+                    "Güneydoğu",
+                    "Kuzeydoğu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye’nin yer şekillerinin oluşumunda en etkili olan dış kuvvet aşağıdakilerden hangisidir?",
+                "options": [
+                    "Buzullar",
+                    "Rüzgarlar",
+                    "Akarsular",
+                    "Dalga ve Akıntılar"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Ege Bölgesi'nde yer alan graben alanları (çöküntü ovaları) ile horst alanları (kırıklı dağlar) arasında yer alan ve deprem riski ile jeotermal enerji potansiyelini artıran yapı hangisidir?",
+                "options": [
+                    "Antiklinal",
+                    "Senklinal",
+                    "Fay Hattı",
+                    "Kıvrım Eksenleri"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Aşağıdaki göllerden hangisi, oluşum bakımından 'Karma Oluşumlu' (hem tektonik hem de karstik süreçler etkili) bir yapıya sahiptir?",
+                "options": [
+                    "Tuz Gölü",
+                    "Eğirdir Gölü",
+                    "Manyas Gölü",
+                    "Sapanca Gölü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Karadeniz kıyıları boyunca görülen 'Boyuna Kıyı Tipi'nin bir sonucu olarak aşağıdakilerden hangisi beklenemez?",
+                "options": [
+                    "Kıta sahanlığının dar olması",
+                    "Falez oluşumunun yaygın olması",
+                    "Limanların hinterlandının geniş olması",
+                    "Kıyı ile iç kesimler arasında ulaşımın zor olması"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Aşağıdaki akarsulardan hangisi Türkiye sınırları dışından doğup Türkiye üzerinden denize dökülmektedir?",
+                "options": [
+                    "Fırat",
+                    "Dicle",
+                    "Meriç",
+                    "Çoruh"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Batı Karadeniz'de Küre Dağları üzerinde yer alan ve dünyanın en derin kanyonlarından biri olarak kabul edilen oluşum hangisidir?",
+                "options": [
+                    "Ihlara Vadisi",
+                    "Valla Kanyonu",
+                    "Saklıkent Kanyonu",
+                    "Köprülü Kanyon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye’de buzulların oluşturduğu yer şekillerine (sirk gölleri, morenler) genellikle 2000-2500 metrenin üzerindeki dağlarda rastlanır. Bu durum aşağıdakilerden hangisi ile açıklanır?",
+                "options": [
+                    "Matematik Konum",
+                    "Özel Konum",
+                    "Boylam Etkisi",
+                    "Bakı Faktörü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Aşağıdaki platolardan hangisi Türkiye'nin en büyük volkanik platosu (lav platosu) olma özelliğine sahiptir?",
+                "options": [
+                    "Haymana Platosu",
+                    "Obruk Platosu",
+                    "Erzurum-Kars Platosu",
+                    "Teke Platosu"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Akdeniz Bölgesi'nde yaygın olan karstik aşınım şekillerinin en büyüğü aşağıdakilerden hangisidir?",
+                "options": [
+                    "Lapya",
+                    "Dolin",
+                    "Uvala",
+                    "Polye"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "Aşağıdaki kıyı oluşumlarından hangisi Türkiye'de gel-git (med-cezir) genliğinin az olmasının bir kanıtıdır?",
+                "options": [
+                    "Haliçli Kıyılar",
+                    "Delta Ovaları",
+                    "Ria Kıyıları",
+                    "Falezli Kıyılar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'nin en büyük 'Heyelan Set Gölü' aşağıdakilerden hangisidir?",
+                "options": [
+                    "Abant Gölü",
+                    "Tortum Gölü",
+                    "Yedigöller",
+                    "Sera Gölü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Marmara Denizi'nde Kapıdağ Yarımadası'nın oluşum şekli aşağıdakilerden hangisidir?",
+                "options": [
+                    "Lagün",
+                    "Tombolo (Bağlama Seti)",
+                    "Kıyı Oku",
+                    "Delta"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Aşağıdaki barajlardan hangisi Çoruh Nehri üzerinde yer alan ve gövde yüksekliği bakımından Türkiye'nin en yüksek barajı olan yapıttır?",
+                "options": [
+                    "Atatürk Barajı",
+                    "Deriner Barajı",
+                    "Yusufeli Barajı",
+                    "Keban Barajı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Eskişehir ve Ankara çevresinde görülen, bitki örtüsünden yoksun ve sel sularının aşındırmasıyla oluşan 'Kırgıbayır' (Badlands) şekilleri en çok hangi kayaç türü üzerinde görülür?",
+                "options": [
+                    "Granit",
+                    "Tüf ve Kil",
+                    "Kalker",
+                    "Mermer"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye’nin batı kıyılarında kıta sahanlığının geniş olması, aşağıdakilerden hangisinin oluşumunu kolaylaştırmıştır?",
+                "options": [
+                    "Falezler",
+                    "Deltalar",
+                    "Ria Kıyılar",
+                    "Buzul Vadileri"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'nin en yüksek noktası olan ve 'Büyük' ve 'Küçük' olmak üzere iki zirveden oluşan dağ hangisidir?",
+                "options": [
+                    "Erciyes Dağı",
+                    "Ağrı Dağı",
+                    "Süphan Dağı",
+                    "Kaçkar Dağları"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Türkiye'nin en büyük gölü olan ve suları sodalı olduğu için inci kefali dışında balık türü barındırmayan göl hangisidir?",
+                "options": [
+                    "Tuz Gölü",
+                    "Beyşehir Gölü",
+                    "Van Gölü",
+                    "Eğirdir Gölü"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Ege Bölgesi'nde dağların denize dik uzanması sonucu oluşan, akarsuların taşıdığı alüvyonlarla denizi doldurmasıyla meydana gelen geniş düzlüklere ne ad verilir?",
+                "options": [
+                    "Plato",
+                    "Delta Ovası",
+                    "Graben",
+                    "Polye"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'nin sınırları içerisindeki en uzun nehir aşağıdakilerden hangisidir?",
+                "options": [
+                    "Fırat",
+                    "Dicle",
+                    "Kızılırmak",
+                    "Sakarya"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Toros Dağları'nın Akdeniz kıyısı boyunca denize paralel uzanması, aşağıdaki kıyı tiplerinden hangisinin görülmesine neden olmuştur?",
+                "options": [
+                    "Ria Kıyısı",
+                    "Dalmaçya Kıyısı",
+                    "Boyuna Kıyı",
+                    "Enine Kıyı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en hızlı akan nehirlerinden biri olan ve üzerinde rafting sporunun yoğun olarak yapıldığı Karadeniz nehri hangisidir?",
+                "options": [
+                    "Yeşilırmak",
+                    "Çoruh",
+                    "Filyos",
+                    "Bartın Çayı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Antalya ve Muğla çevresinde yaygın olarak görülen, kalkerli arazilerin erimesiyle oluşan 'obruk' ve 'mağara' gibi yer şekillerine ne ad verilir?",
+                "options": [
+                    "Volkanik Şekiller",
+                    "Karstik Şekiller",
+                    "Buzul Şekilleri",
+                    "Rüzgar Şekilleri"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye'nin en büyük delta ovası olan ve Seyhan ile Ceyhan nehirlerinin taşıdığı alüvyonlarla oluşan ova hangisidir?",
+                "options": [
+                    "Bafra Ovası",
+                    "Çarşamba Ovası",
+                    "Çukurova",
+                    "Silifke Ovası"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "İstanbul ve Çanakkale Boğazları, jeolojik devirlerde akarsu vadilerinin deniz suları altında kalmasıyla oluşmuştur. Bu kıyı tipine ne ad verilir?",
+                "options": [
+                    "Limanlı Kıyı",
+                    "Ria Tipi Kıyı",
+                    "Fiyort Tipi Kıyı",
+                    "Skyer Tipi Kıyı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Güneydoğu Anadolu Projesi (GAP) kapsamında inşa edilen ve Türkiye'nin en büyük hidroelektrik santrali olan baraj hangisidir?",
+                "options": [
+                    "Keban Barajı",
+                    "Karakaya Barajı",
+                    "Atatürk Barajı",
+                    "Ilısu Barajı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'nin 'Yedi Göller'i ile ünlü milli parkı hangi ilimizin sınırları içerisinde yer almaktadır?",
+                "options": [
+                    "Bolu",
+                    "Isparta",
+                    "Artvin",
+                    "Kastamonu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 4
+            },
+            {
+                "question": "Nevşehir ve çevresinde volkanik tüflerin aşınmasıyla oluşan, Kapadokya'nın simgesi haline gelmiş yer şekilleri nelerdir?",
+                "options": [
+                    "Traverten",
+                    "Peribacası",
+                    "Mantar Kaya",
+                    "Barkan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Türkiye'nin batısında yer alan 'Bozdağlar' ve 'Aydın Dağları' gibi dağlar, yer kabuğunun kırılmasıyla oluşmuş hangi tip dağlardır?",
+                "options": [
+                    "Kıvrım Dağları",
+                    "Volkanik Dağlar",
+                    "Horst Dağları",
+                    "Buzul Dağları"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Eski bir krater gölü olan ve 'Dünyanın Nazar Boncuğu' olarak adlandırılan gölümüz hangisidir?",
+                "options": [
+                    "Nemrut Gölü",
+                    "Meke Gölü",
+                    "Abant Gölü",
+                    "Salda Gölü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye'nin en sığ gölü olan ve yaz aylarında buharlaşma nedeniyle alanı büyük oranda küçülen göl hangisidir?",
+                "options": [
+                    "Tuz Gölü",
+                    "Manyas Gölü",
+                    "Akşehir Gölü",
+                    "Bafa Gölü"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
                 "question": "Türkiye'nin en yüksek dağı olan Ağrı Dağı hangi ilimizin sınırları içerisindedir?",
                 "options": [
                     "Iğdır - Ağrı",
