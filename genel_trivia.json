@@ -2,6 +2,303 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "Türkiye'nin 2025 yılı sonu itibarıyla kişi başına düşen milli gelirde ulaştığı seviyeyi de içeren 'Orta Vadeli Program'ın temel hedefi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Tek haneli enflasyon",
+                    "Cari fazla vermek",
+                    "İşsizliği %5 altına indirmek",
+                    "Tarımsal ithalatı sıfırlamak"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "2024 yılı Aralık ayında düzenlenen 'COP29 İklim Zirvesi'ne ev sahipliği yapan kardeş ülke hangisidir?",
+                "options": [
+                    "Özbekistan",
+                    "Kazakistan",
+                    "Azerbaycan",
+                    "Kırgızistan"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünyanın en büyük teleskobu olan James Webb'in 2025 yılında keşfettiği, 'yaşam barındırma ihtimali en yüksek' olan ötegezegen sistemi hangisidir?",
+                "options": [
+                    "Trappist-1",
+                    "K2-18b",
+                    "Proxima B",
+                    "Kepler-186f"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "2026 yılı itibarıyla Birleşmiş Milletler (BM) Genel Sekreterliği görevini yürüten isim kimdir?",
+                "options": [
+                    "Ban Ki-moon",
+                    "António Guterres",
+                    "Amina J. Mohammed",
+                    "Tedros Adhanom"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Türkiye'nin UNESCO 'Yaratıcı Şehirler Ağı'na 2024 yılında dahil olan ve gastronomi alanında tescillenen yeni şehrimiz hangisidir?",
+                "options": [
+                    "Balıkesir",
+                    "Nevşehir",
+                    "Sivas",
+                    "Amasya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "2024 Paris Olimpiyatları'nda boks branşında gümüş madalya kazanarak Türkiye'yi gururlandıran, haksız tartışmaların gölgesinde büyük bir mücadele veren sporcumuz kimdir?",
+                "options": [
+                    "Buse Naz Çakıroğlu",
+                    "Busenaz Sürmeneli",
+                    "Esra Yıldız Kahraman",
+                    "Hatice Akbaş"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Avrupa Birliği'nin 2026 yılında tamamen yürürlüğe koymayı hedeflediği ve ithal ürünlere uygulanacak olan 'Karbon Düzenleme Mekanizması'nın kısa adı nedir?",
+                "options": [
+                    "CBAM",
+                    "GDPR",
+                    "REACH",
+                    "ESMA"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye'nin yerli uçak motoru olan ve 2025 yılında KAAN ile entegrasyon çalışmaları hızlanan motorun adı nedir?",
+                "options": [
+                    "TEİ-TF6000",
+                    "TS1400",
+                    "PD170",
+                    "TEİ-TF10000"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "2024 yılında düzenlenen 74. Berlin Film Festivali'nde (Berlinale) 'Altın Ayı' ödülünü kazanan yapım hangisidir?",
+                "options": [
+                    "Dahomey",
+                    "A Traveler's Needs",
+                    "The Empire",
+                    "My Favourite Cake"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Türk Patent ve Marka Kurumu tarafından 2024 yılında 'Avrupa Birliği Coğrafi İşaret' tescili alan, Bursa ile özdeşleşmiş ürün hangisidir?",
+                "options": [
+                    "Bursa Şeftalisi",
+                    "Bursa Siyah İnciri",
+                    "Bursa Kestane Şekeri",
+                    "İnegöl Köfte"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "2026 yılı Türk Dünyası Kültür Başkenti olarak belirlenen ve Türkmenistan'da bulunan antik şehir hangisidir?",
+                "options": [
+                    "Merv",
+                    "Aşkabat",
+                    "Hiva",
+                    "Özgen"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünyanın en yaşlı insanı unvanına sahipken 2024 yılında 117 yaşında hayatını kaybeden Maria Branyas hangi ülke vatandaşıdır?",
+                "options": [
+                    "İspanya",
+                    "Japonya",
+                    "Fransa",
+                    "İtalya"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "2024 yılı sonunda G20 dönem başkanlığını Brezilya'dan devralan ve 2025 yılı boyunca bu görevi yürüten ülke hangisidir?",
+                "options": [
+                    "Güney Afrika",
+                    "Hindistan",
+                    "Endonezya",
+                    "Meksika"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'nin yerli imkanlarla geliştirdiği ve 2024 yılında ilk uçuşunu başarıyla gerçekleştiren 5. nesil milli muharip uçağının adı nedir?",
+                "options": [
+                    "Hürjet",
+                    "Kızılelma",
+                    "KAAN",
+                    "Anka-3"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "2024 Cannes Film Festivali'nde 'Altın Palmiye' (Palme d'Or) ödülünü kazanan 'Anora' filminin yönetmeni kimdir?",
+                "options": [
+                    "Sean Baker",
+                    "Francis Ford Coppola",
+                    "Yorgos Lanthimos",
+                    "Greta Gerwig"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Avrupa Uzay Ajansı (ESA) tarafından 2024 yılında Jüpiter'in buzlu uydularını incelemek üzere gönderilen uzay aracının adı nedir?",
+                "options": [
+                    "Juice",
+                    "Artemis",
+                    "Euclid",
+                    "Hera"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "2025 yılı başı itibarıyla Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) geçici üye olarak görev yapmaya başlayan ülkelerden biri hangisidir?",
+                "options": [
+                    "Türkiye",
+                    "Yunanistan",
+                    "Almanya",
+                    "Brezilya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünyanın en büyük yüzölçümüne sahip gölü olan Hazar Denizi'ne kıyısı olan ülkelerin 2024 zirvesi hangi şehirde düzenlenmiştir?",
+                "options": [
+                    "Bakü",
+                    "Astana",
+                    "Aşkabat",
+                    "Tahran"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Ekim 2024'te Nobel Ekonomi Ödülü'nü kazanan ve kurumların refah üzerindeki etkileri üzerine yaptığı çalışmalarla tanınan Türk asıllı ekonomist kimdir?",
+                "options": [
+                    "Daron Acemoğlu",
+                    "Özgür Demirtaş",
+                    "Dani Rodrik",
+                    "Aziz Sancar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 4
+            },
+            {
+                "question": "2024 Paris Olimpiyatları'nda 'Filenin Sultanları' olarak bilinen A Milli Kadın Voleybol Takımımız olimpiyatları kaçıncı sırada tamamlamıştır?",
+                "options": [
+                    "2. Sırada",
+                    "3. Sırada",
+                    "4. Sırada",
+                    "Şampiyon"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "2025 yılı 'Dünya Spor Başkenti' unvanını taşıyan ve spor organizasyonlarıyla dikkat çeken şehir hangisidir?",
+                "options": [
+                    "Konya",
+                    "Madrid",
+                    "Sofya",
+                    "İstanbul"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye'nin Antarktika'da kurduğu geçici bilim üssünün bulunduğu adanın adı nedir?",
+                "options": [
+                    "King George Adası",
+                    "Horseshoe Adası",
+                    "Galindez Adası",
+                    "Ross Adası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "2024 yılında Avrupa'nın en büyük teknoloji etkinliği olan 'Viva Technology' fuarına 'Yılın Ülkesi' olarak davet edilen ülke hangisidir?",
+                "options": [
+                    "Güney Kore",
+                    "Japonya",
+                    "Türkiye",
+                    "Almanya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye'nin 2024 yılında tescillenen ve UNESCO Somut Olmayan Kültürel Miras Listesi'ne giren 'Geleneksel Ahlat Taş İşçiliği' hangi ilimizdedir?",
+                "options": [
+                    "Bitlis",
+                    "Van",
+                    "Erzurum",
+                    "Mardin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "2026 Kış Olimpiyatları'na ev sahipliği yapacak olan 'Milano ve Cortina d'Ampezzo' şehirleri hangi ülkededir?",
+                "options": [
+                    "Fransa",
+                    "İtalya",
+                    "İsviçre",
+                    "Avusturya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "2024 yılında hayatını kaybeden, 'Küçük Ağa' ve 'Osmancık' gibi eserlerin dizilerinde de rol almış, Türk tiyatrosunun duayenlerinden olan sanatçı kimdir?",
+                "options": [
+                    "Ayla Algan",
+                    "Kayhan Yıldızoğlu",
+                    "Tolga Savacı",
+                    "Türker İnanoğlu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Türk Devletleri Teşkilatı tarafından kabul edilen ve 2024 yılında duyurulan 'Ortak Türk Alfabesi' kaç harften oluşmaktadır?",
+                "options": [
+                    "29",
+                    "32",
+                    "34",
+                    "36"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
                 "question": "Dünyanın yedi harikasından biri olan 'Artemis Tapınağı' günümüzde hangi ülkede bulunmaktadır?",
                 "options": [
                     "Yunanistan",
