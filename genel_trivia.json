@@ -2,6 +2,623 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "Modern dünyayı aydınlatan akkor telli ampulü ticari olarak başarıya ulaştıran ve 1000'den fazla patente sahip olan Amerikalı mucit kimdir?",
+                "options": [
+                    "Nikola Tesla",
+                    "Thomas Edison",
+                    "Alexander Graham Bell",
+                    "Benjamin Franklin"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Radyo, alternatif akım ve kablosuz enerji aktarımı gibi devrimsel fikirlerin babası sayılan Sırp asıllı mucit kimdir?",
+                "options": [
+                    "Guglielmo Marconi",
+                    "Nikola Tesla",
+                    "Michael Faraday",
+                    "James Watt"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "1876 yılında 'Bay Watson, buraya gelin, sizi görmek istiyorum' cümlesiyle ilk telefon görüşmesini gerçekleştiren mucit kimdir?",
+                "options": [
+                    "Samuel Morse",
+                    "Alexander Graham Bell",
+                    "Isaac Newton",
+                    "Louis Pasteur"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Matbaayı icat ederek kitapların seri üretimini sağlayan ve Rönesans'ın başlamasında büyük rol oynayan Alman mucit kimdir?",
+                "options": [
+                    "Johannes Gutenberg",
+                    "Leonardo da Vinci",
+                    "Galileo Galilei",
+                    "James Cook"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Kendi adıyla anılan 'Pastörizasyon' yöntemini geliştirerek süt ve gıdaların bozulmasını önleyen Fransız mikrobiyolog kimdir?",
+                "options": [
+                    "Marie Curie",
+                    "Louis Pasteur",
+                    "Robert Koch",
+                    "Charles Darwin"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "1903 yılında ilk başarılı motorlu uçuşu gerçekleştirerek havacılık tarihini başlatan kardeşler kimlerdir?",
+                "options": [
+                    "Montgolfier Kardeşler",
+                    "Wright Kardeşler",
+                    "Lumiere Kardeşler",
+                    "McDonald Kardeşler"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Radyoaktivite üzerine yaptığı çalışmalarla iki farklı alanda Nobel Ödülü kazanan ve polonyum ile radyum elementlerini keşfeden bilim insanı kimdir?",
+                "options": [
+                    "Rosalind Franklin",
+                    "Marie Curie",
+                    "Lise Meitner",
+                    "Ada Lovelace"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Tarihteki ilk bilgisayar programcısı olarak kabul edilen ve Charles Babbage'ın mekanik bilgisayarı üzerine çalışmalar yapan kadın matematikçi kimdir?",
+                "options": [
+                    "Grace Hopper",
+                    "Ada Lovelace",
+                    "Katherine Johnson",
+                    "Margaret Hamilton"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "1928 yılında laboratuvarında unuttuğu bir kapta tesadüfen küf mantarının bakterileri öldürdüğünü fark ederek Penisilin'i keşfeden mucit kimdir?",
+                "options": [
+                    "Edward Jenner",
+                    "Alexander Fleming",
+                    "Jonas Salk",
+                    "Albert Sabin"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Bilgisayar biliminin babası sayılan, Enigma şifresini kıran ve kendi adıyla anılan bir yapay zeka testi geliştiren matematikçi kimdir?",
+                "options": [
+                    "Alan Turing",
+                    "John von Neumann",
+                    "Steve Jobs",
+                    "Bill Gates"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Siyah-beyaz televizyonun icadında büyük rol oynayan ve 1926'da ilk hareketli görüntüyü ileten İskoç mucit kimdir?",
+                "options": [
+                    "Philo Farnsworth",
+                    "John Logie Baird",
+                    "Vladimir Zworykin",
+                    "Guglielmo Marconi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Kendi adıyla anılan alfabeyi geliştirerek görme engellilerin okuma ve yazma yapabilmesini sağlayan kişi kimdir?",
+                "options": [
+                    "Louis Braille",
+                    "Helen Keller",
+                    "Thomas Gallaudet",
+                    "Samuel Gridley Howe"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Dinamiti icat eden ancak buluşunun savaşlarda kullanılmasından üzüntü duyarak vasiyetiyle kendi adına bir ödül fonu kurulmasını isteyen mucit kimdir?",
+                "options": [
+                    "Robert Oppenheimer",
+                    "Alfred Nobel",
+                    "Enrico Fermi",
+                    "Antoine Lavoisier"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "1947 yılında John Bardeen ve Walter Brattain ile birlikte modern elektroniğin temeli olan 'Transistör'ü icat eden bilim insanı kimdir?",
+                "options": [
+                    "William Shockley",
+                    "Jack Kilby",
+                    "Robert Noyce",
+                    "Gordon Moore"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "1912'de 'asla batmaz' denilen ancak ilk seferinde bir buz dağına çarparak batan, yeterli filika taşımadığı için binlerce kişinin ölümüne yol açan dev gemi hangisidir?",
+                "options": [
+                    "Britannic",
+                    "Titanic",
+                    "Lusitania",
+                    "Olympic"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Truva Savaşı'nda Truvalıların, içinde düşman askerleri olduğunu anlamadan şehre aldıkları ve yıkımlarına neden olan nesne nedir?",
+                "options": [
+                    "Altın Heykel",
+                    "Tahta At",
+                    "Gümüş Kapı",
+                    "Kutsal Kase"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "1867 yılında 'değersiz bir buz kütlesi' olduğu düşünülerek Rusya tarafından 7.2 milyon dolara ABD'ye satılan bölge hangisidir?",
+                "options": [
+                    "Florida",
+                    "Alaska",
+                    "Teksas",
+                    "Kaliforniya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "1962 yılında 'gitar gruplarının modası geçiyor' diyerek The Beatles grubunu geri çeviren ve müzik tarihinin en büyük hatasını yapan plak şirketi hangisidir?",
+                "options": [
+                    "Decca Records",
+                    "EMI",
+                    "Columbia",
+                    "Sony"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "J.K. Rowling'in 'Harry Potter' kitabını tam 12 kez reddeden yayınevlerinin kaçırdığı fırsat, bugün kaç milyar dolarlık bir marka haline gelmiştir?",
+                "options": [
+                    "1 Milyar",
+                    "5 Milyar",
+                    "15 Milyar",
+                    "25 Milyar"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "1986'da mühendislerin uyarılarına rağmen fırlatılan ve havalandıktan 73 saniye sonra infilak eden uzay mekiği hangisidir?",
+                "options": [
+                    "Apollo 11",
+                    "Challenger",
+                    "Columbia",
+                    "Discovery"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "14. yüzyılda Avrupa nüfusunun üçte birini yok eden 'Kara Ölüm' (Veba) salgınında, halkın kedileri 'şeytan' ilan edip öldürmesi hangi canlı sayısını artırarak salgını hızlandırmıştır?",
+                "options": [
+                    "Kuşlar",
+                    "Fareler",
+                    "Köpekler",
+                    "Sinekler"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Hollandalıların 1626 yılında Amerikan yerlilerinden sadece 24 dolar değerinde boncuk ve ticari mal karşılığında satın aldıkları ada hangisidir?",
+                "options": [
+                    "Manhattan",
+                    "Long Island",
+                    "Staten Island",
+                    "Liberty Island"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "1980'lerde dijital fotoğrafçılığı icat etmesine rağmen 'film satışlarını etkiler' korkusuyla bu teknolojiyi rafa kaldıran ve sonra iflas eden dev şirket hangisidir?",
+                "options": [
+                    "Nikon",
+                    "Canon",
+                    "Kodak",
+                    "Fujifilm"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Çinli lider Mao'nun, ekinleri yediği gerekçesiyle 'Serçeleri' öldürme kampanyası başlatması, hangi canlının çoğalarak büyük kıtlığa neden olmasına yol açmıştır?",
+                "options": [
+                    "Çekirgeler",
+                    "Fareler",
+                    "Yılanlar",
+                    "Kargalar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Fransızların II. Dünya Savaşı öncesi Almanları durdurmak için inşa ettiği ancak Almanların etrafından dolanarak geçtiği aşılması imkansız sanılan savunma hattı hangisidir?",
+                "options": [
+                    "Siegfried Hattı",
+                    "Maginot Hattı",
+                    "Mannerheim Hattı",
+                    "Alp Hattı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Alexander Fleming'in tatile çıkmadan önce laboratuvarını 'temizlememesi' ve kapları açık bırakması hangi devrimsel ilacın tesadüfen keşfedilmesini sağlamıştır?",
+                "options": [
+                    "Aspirin",
+                    "Penisilin",
+                    "İnsülin",
+                    "Morfin"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Vücudumuzdaki tüm damarları uç uca ekleseydik, dünyayı yaklaşık kaç kez dolaşabilirdi?",
+                "options": [
+                    "Yarım",
+                    "1",
+                    "2.5",
+                    "10"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Dünya üzerinde toplamda 17.500'den fazla adası bulunan ve 'en çok adaya sahip ülke' unvanını taşıyan yer hangisidir?",
+                "options": [
+                    "Yunanistan",
+                    "Filipinler",
+                    "İsveç",
+                    "Endonezya"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Ahtapotların biyolojik yapısıyla ilgili en ilginç özelliklerden biri, kaç tane kalbe sahip olmalarıdır?",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Ortalama bir bulutun ağırlığı yaklaşık ne kadardır?",
+                "options": [
+                    "100 kg",
+                    "1 ton",
+                    "500 ton",
+                    "50.000 ton"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Parmağımızla dokunabildiğimiz her şeyin aslında %99'u boşluktur. Bu, atomun hangi özelliğinden kaynaklanır?",
+                "options": [
+                    "Elektronların hızı",
+                    "Çekirdek ile elektronlar arası mesafe",
+                    "Atomun ağırlığı",
+                    "Proton sayısı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Eyfel Kulesi, yaz aylarında genleşme nedeniyle yaklaşık kaç santimetre uzayabilir?",
+                "options": [
+                    "2 cm",
+                    "15 cm",
+                    "50 cm",
+                    "1 metre"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en kısa savaşı olan İngiliz-Zanzibar Savaşı toplamda kaç dakika sürmüştür?",
+                "options": [
+                    "38 dakika",
+                    "2 saat",
+                    "1 gün",
+                    "45 dakika"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Aşağıdaki canlılardan hangisi 'asla yaşlanarak ölmez' ve biyolojik olarak ölümsüz kabul edilir?",
+                "options": [
+                    "Mavi Balina",
+                    "Turritopsis Dohrnii (Medüz)",
+                    "Dev Kaplumbağa",
+                    "Fil"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "İnsan beyni, uyanık olduğu bir anda küçük bir ampulü yakmaya yetecek kadar elektrik üretir. Bu güç yaklaşık kaç watt'tır?",
+                "options": [
+                    "5 Watt",
+                    "20 Watt",
+                    "100 Watt",
+                    "500 Watt"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Bal, bozulmayan tek gıda maddesidir. Arkeologlar Mısır piramitlerinde kaç yıllık yenilebilir bal bulmuşlardır?",
+                "options": [
+                    "500",
+                    "1000",
+                    "3000",
+                    "7000"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünya üzerinde gelmiş geçmiş tüm insanlardan daha fazla sayıda olan canlı türü hangisidir?",
+                "options": [
+                    "Karınca",
+                    "Sivrisinek",
+                    "Arı",
+                    "Fare"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Bir zürafanın dili yaklaşık kaç santimetredir ve kulağını bile temizleyebilir?",
+                "options": [
+                    "10 cm",
+                    "25 cm",
+                    "50 cm",
+                    "80 cm"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Güneş sistemindeki en yüksek dağ olan 'Olympus Mons' hangi gezegendedir?",
+                "options": [
+                    "Venüs",
+                    "Jüpiter",
+                    "Mars",
+                    "Satürn"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Aşağıdaki meyvelerden hangisi aslında bir gül türüyle (Rosaceae) aynı aileden gelir?",
+                "options": [
+                    "Muz",
+                    "Elma",
+                    "Portakal",
+                    "Kivi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "İnsan parmak izine benzer şekilde, her birinin dil izi de kendine hastır. Peki, burnunun izi parmak izi gibi eşsiz olan hayvan hangisidir?",
+                "options": [
+                    "Kedi",
+                    "Köpek",
+                    "İnek",
+                    "At"
+                ],
+                "active_answer": 1,
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Coğrafi keşifler sırasında 'Yeni Dünya'ya ismini veren ve buranın yeni bir kıta olduğunu fark eden İtalyan denizci kimdir?",
+                "options": [
+                    "Kristof Kolomb",
+                    "Amerigo Vespucci",
+                    "Macellan",
+                    "Vasco da Gama"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Günümüz 'Yeni Dünya' düzeninin en büyük teknolojik devrimlerinden biri kabul edilen 'Yapay Zeka' kavramı ilk kez hangi yıl düzenlenen Dartmouth Konferansı'nda ortaya atılmıştır?",
+                "options": [
+                    "1945",
+                    "1956",
+                    "1968",
+                    "1972"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Elon Musk tarafından kurulan ve 'Yeni Dünya'nın uzay taşımacılığı' vizyonunu temsil eden şirketin adı nedir?",
+                "options": [
+                    "Blue Origin",
+                    "SpaceX",
+                    "Virgin Galactic",
+                    "NASA"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Kripto para dünyasının öncüsü olan Bitcoin'in gizemli yaratıcısı olarak bilinen takma isim hangisidir?",
+                "options": [
+                    "Satoshi Nakamoto",
+                    "Vitalik Buterin",
+                    "Elon Musk",
+                    "Sam Altman"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Yeni Dünya'nın en büyük ticaret yollarından biri olması beklenen ve Çin tarafından başlatılan projenin adı nedir?",
+                "options": [
+                    "İpek Yolu",
+                    "Kuşak ve Yol Girişimi",
+                    "Baharat Yolu",
+                    "Demir İpek Yolu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en yüksek binası olan ve 'Yeni Dünya' mimarisinin zirvesi kabul edilen Burj Khalifa hangi şehirdedir?",
+                "options": [
+                    "Doha",
+                    "Riyad",
+                    "Dubai",
+                    "Abu Dabi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Metaverse kavramını ilk kez 1992 yılında yazdığı 'Snow Crash' adlı romanında kullanan yazar kimdir?",
+                "options": [
+                    "Isaac Asimov",
+                    "Neal Stephenson",
+                    "Arthur C. Clarke",
+                    "Philip K. Dick"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "2024 itibarıyla piyasa değeriyle dünyanın en değerli şirketleri arasına giren ve yapay zeka çiplerinin öncüsü olan şirket hangisidir?",
+                "options": [
+                    "Intel",
+                    "NVIDIA",
+                    "AMD",
+                    "Apple"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Yeni Dünya'nın 'Mavi Altını' olarak adlandırılan ve gelecekte petrolden daha değerli olacağı öngörülen kaynak hangisidir?",
+                "options": [
+                    "Lityum",
+                    "Tatlı Su",
+                    "Bor",
+                    "Hidrojen"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın ilk vatandaşlık alan insansı robotu 'Sophia' hangi ülke tarafından vatandaşlığa kabul edilmiştir?",
+                "options": [
+                    "Suudi Arabistan",
+                    "Japonya",
+                    "ABD",
+                    "Güney Kore"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Yeni Dünya düzeninde 'dördüncü sanayi devrimi' olarak adlandırılan akımın genel adı nedir?",
+                "options": [
+                    "Endüstri 2.0",
+                    "Endüstri 3.0",
+                    "Endüstri 4.0",
+                    "Dijital Çağ"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "İnsan beynini bilgisayara bağlamayı hedefleyen ve Elon Musk'ın kurucu olduğu nöroteknoloji şirketinin adı nedir?",
+                "options": [
+                    "OpenAI",
+                    "Neuralink",
+                    "DeepMind",
+                    "Boston Dynamics"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Yeni Dünya'nın enerji ihtiyacını karşılamak için geliştirilen 'Yapay Güneş' deneyi (nükleer füzyon) hangi ülkede rekor kırmıştır?",
+                "options": [
+                    "ABD",
+                    "Rusya",
+                    "Çin",
+                    "Almanya"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Modern internetin temeli olan 'World Wide Web' (WWW) sistemini kuran bilim insanı kimdir?",
+                "options": [
+                    "Steve Jobs",
+                    "Bill Gates",
+                    "Tim Berners-Lee",
+                    "Mark Zuckerberg"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Hangi ülke 2024 yılında Bitcoin'i resmi para birimi olarak kabul eden ilk ülkelerden biri olmuştur?",
+                "options": [
+                    "El Salvador",
+                    "Panama",
+                    "İsviçre",
+                    "Singapur"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
                 "question": "Türkiye'nin 2025 yılı sonu itibarıyla kişi başına düşen milli gelirde ulaştığı seviyeyi de içeren 'Orta Vadeli Program'ın temel hedefi aşağıdakilerden hangisidir?",
                 "options": [
                     "Tek haneli enflasyon",
