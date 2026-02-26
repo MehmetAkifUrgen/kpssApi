@@ -34843,6 +34843,1108 @@
                 "category": "Ezel"
             }
         ],
+        "Harry Potter": [
+            {
+                "question": "Harry Potter'ın Hogwarts'taki ilk yılında binaları seçen 'Seçmen Şapka' aslında hangi Hogwarts kurucusuna aitti?",
+                "options": [
+                    "Slytherin",
+                    "Gryffindor",
+                    "Ravenclaw",
+                    "Hufflepuff"
+                ],
+                "correct_answer": 1,
+                "difficulty": 1
+            },
+            {
+                "question": "Ron Weasley'nin en büyük korkusu olan ve Böcürt ile karşılaştığında gördüğü canlı hangisidir?",
+                "options": [
+                    "Yılan",
+                    "Örümcek",
+                    "Fare",
+                    "Ruh Emici"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "Harry Potter serisinde, bir büyücünün evinden başka bir yere ışınlanmasını sağlayan yeşil tozun adı nedir?",
+                "options": [
+                    "Sihir Tozu",
+                    "Uçan Toz",
+                    "Parıltı Tozu",
+                    "Anka Tozu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 3
+            },
+            {
+                "question": "Harry Potter'ın katıldığı Üç Büyücü Turnuvası'nın ikinci görevinde, su altında kurtarması gereken 'en değerli varlığı' kimdir?",
+                "options": [
+                    "Hermione Granger",
+                    "Ron Weasley",
+                    "Cho Chang",
+                    "Hagrid"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Sirius Black'in kardeşi olan ve Lord Voldemort'un Hortkuluklarından birini çalan eski Ölüm Yiyen kimdir?",
+                "options": [
+                    "Lucius Malfoy",
+                    "Regulus Arcturus Black",
+                    "Phineas Nigellus",
+                    "Bellatrix Lestrange"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Severus Snape'in çocukluk aşkı olan Lily Potter'ın Patronus'u hangi hayvan şeklindedir?",
+                "options": [
+                    "Geyik",
+                    "Maral",
+                    "Kuğu",
+                    "Tavşan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarını yapmak için Harry'ye 'İhtiyaç Odası'nı öneren ev cini (kitaplarda) kimdir?",
+                "options": [
+                    "Dobby",
+                    "Kreacher",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Albus Dumbledore'un babası Percival Dumbledore, neden Azkaban'a gönderilmiştir?",
+                "options": [
+                    "Ölüm Yiyen olduğu için",
+                    "Kızına saldıran Muggle çocuklarına saldırdığı için",
+                    "Yasaklı büyü kullandığı için",
+                    "Gellert Grindelwald'a yardım ettiği için"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Lord Voldemort'un Hortkuluk haline getirdiği Rowena Ravenclaw'ın Diademi'ni Harry Potter nerede bulmuştur?",
+                "options": [
+                    "Sırlar Odası",
+                    "Gringotts Bankası",
+                    "İhtiyaç Odası",
+                    "Müdürün Odası"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Ginny Weasley'nin okul dışındayken sahip olduğu ve omuzunda taşıdığı pembe, tüylü küçük yaratığın (Pygmy Puff) adı nedir?",
+                "options": [
+                    "Arnold",
+                    "Barnaby",
+                    "Binky",
+                    "Hermes"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Harry Potter'ın asasıyla aynı çekirdeğe sahip olan (Anka tüyü) Voldemort'un asasını yapan kişi Ollivander'dır. Peki bu asanın boyu tam olarak kaç inçtir?",
+                "options": [
+                    "11 inç",
+                    "13.5 inç",
+                    "10 inç",
+                    "12.5 inç"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Hogwarts Ekspresi'nde yemek arabasını süren yaşlı kadının, öğrencilerin trenden kaçmasını önlemek için ellerinin dönüştüğü nesne hangisidir?",
+                "options": [
+                    "Pençeler",
+                    "Keskin Bıçaklar",
+                    "Alevler",
+                    "Sarmaşıklar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Harry Potter'ın beşinci yılında aldığı S.Y.B.S (Sıradan Büyücülük Düzeyi) sınavlarında 'Astronomi' dersinden aldığı not nedir?",
+                "options": [
+                    "Olağanüstü",
+                    "Beklenenin Üstünde",
+                    "Zayıf",
+                    "Kabul Edilebilir"
+                ],
+                "correct_answer": 3,
+                "difficulty": 8
+            },
+            {
+                "question": "Sirius Black'in evindeki huysuz ev cini Kreacher'ın ait olduğu Black ailesinin sloganı 'Toujours Pur' ne anlama gelir?",
+                "options": [
+                    "Daima Güçlü",
+                    "Daima Safkan",
+                    "Daima Sadık",
+                    "Daima Soylu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Hermione Granger'ın anne ve babasının mesleği nedir?",
+                "options": [
+                    "Öğretmen",
+                    "Doktor",
+                    "Diş Hekimi",
+                    "Avukat"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Harry Potter'ın Hogwarts'taki binaları belirleyen Seçmen Şapka, Harry'yi aslen hangi binaya göndermek istemiştir?",
+                "options": [
+                    "Gryffindor",
+                    "Slytherin",
+                    "Ravenclaw",
+                    "Hufflepuff"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "Harry Potter serisinin ilk kitabında Harry'nin doğum günü olan 31 Temmuz'da Hagrid ona ne hediye etmiştir?",
+                "options": [
+                    "Bir asa",
+                    "Baykuş Hedwig",
+                    "Görünmezlik Pelerini",
+                    "Nimbus 2000"
+                ],
+                "correct_answer": 1,
+                "difficulty": 3
+            },
+            {
+                "question": "Harry Potter'ın katıldığı Üç Büyücü Turnuvası'nın sonundaki labirentte Harry ve Cedric, kupaya aynı anda dokunarak nereye ışınlanmışlardır?",
+                "options": [
+                    "Hogwarts Kalesi",
+                    "Hogsmeade Köyü",
+                    "Little Hangleton Mezarlığı",
+                    "Sihir Bakanlığı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Harry Potter serisinde 'Zümrüdüanka Yoldaşlığı'nın kurucusu ve lideri kimdir?",
+                "options": [
+                    "Albus Dumbledore",
+                    "Sirius Black",
+                    "Kingsley Shacklebolt",
+                    "Remus Lupin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 3
+            },
+            {
+                "question": "Hermione Granger'ın kedisi Crookshanks, aslında hangi hayvana benzer bir melezdir?",
+                "options": [
+                    "Kedi - Vaşak",
+                    "Kedi - Kneazle",
+                    "Kedi - Testral",
+                    "Kedi - Hipogrif"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Ron Weasley'nin meşhur faresi Scabbers'ın asıl kimliği olan Peter Pettigrew, toplamda kaç yıl boyunca fare kılığında yaşamıştır?",
+                "options": [
+                    "5 Yıl",
+                    "8 Yıl",
+                    "12 Yıl",
+                    "15 Yıl"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Gellert Grindelwald'ın, Dumbledore tarafından yenilmeden önce hapsettiği ve kendisinin de daha sonra hapsedildiği ünlü hapishane hangisidir?",
+                "options": [
+                    "Azkaban",
+                    "Nurmengard",
+                    "Gringotts",
+                    "St. Mungo"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Harry Potter'ın dördüncü yılındaki Noel Balosu'nda (Yule Ball), Harry'nin partneri olan Gryffindor öğrencisi kimdir?",
+                "options": [
+                    "Cho Chang",
+                    "Ginny Weasley",
+                    "Parvati Patil",
+                    "Padma Patil"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Profesör Snape'in 'Melez Prens' (Half-Blood Prince) takma adındaki 'Prince' kelimesi annesinin kızlık soyadıdır. Peki annesinin ilk adı nedir?",
+                "options": [
+                    "Lily",
+                    "Eileen",
+                    "Narcissa",
+                    "Bellatrix"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Lord Voldemort'un babası Tom Riddle Senior, nerede öldürülmüştür?",
+                "options": [
+                    "Riddle Evi",
+                    "Hogwarts",
+                    "Gaunt Evi",
+                    "Sihir Bakanlığı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın beşinci yılında savunma derslerine giren Dolores Umbridge'in kullandığı sihirli kalemin mürekkebi aslında nedir?",
+                "options": [
+                    "Ejderha kanı",
+                    "Kullanıcının kendi kanı",
+                    "Siyah mürekkep",
+                    "Görünmez mürekkep"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Severus Snape, Albus Dumbledore'u öldürdüğünde hangi kulede bulunuyorlardı?",
+                "options": [
+                    "Gryffindor Kulesi",
+                    "Astronomi Kulesi",
+                    "Baykuş Kulesi",
+                    "Ravenclaw Kulesi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarının yerini Dolores Umbridge'e ispiyonlayan Marietta Edgecombe'un yüzünde sivilcelerle ne yazmıştır?",
+                "options": [
+                    "HAİN",
+                    "MUHBİR",
+                    "YALANCI",
+                    "SUÇLU"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Harry Potter'ın oğlu Albus Severus Potter'ın tam adı iki müdürden gelir. Peki, Albus'un ikinci ismi olan Severus hangi binanın müdürüydü?",
+                "options": [
+                    "Gryffindor",
+                    "Slytherin",
+                    "Ravenclaw",
+                    "Hufflepuff"
+                ],
+                "correct_answer": 1,
+                "difficulty": 1
+            },
+            {
+                "question": "Sihir Bakanlığı'ndaki Gizemler Dairesi'nde bulunan ve Harry'nin Sirius'un düşerken kaybolduğunu gördüğü o meşhur nesne/yer hangisidir?",
+                "options": [
+                    "Zaman Odası",
+                    "Beyin Odası",
+                    "Ölüm Kemeri",
+                    "Kehanet Küresi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Harry Potter'ın Hogwarts'taki ilk yılında arkadaş olduğu devasa yarı-devin adı nedir?",
+                "options": [
+                    "Grawp",
+                    "Rubeus Hagrid",
+                    "Aragog",
+                    "Fluffy"
+                ],
+                "correct_answer": 1,
+                "difficulty": 1
+            },
+            {
+                "question": "Hermione Granger'ın en sevmediği ve genelde saçma bulduğu, Profesör Trelawney tarafından verilen ders hangisidir?",
+                "options": [
+                    "Aritmansi",
+                    "Kehanet",
+                    "Bitkibilim",
+                    "Tılsım"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "Harry Potter'ın okul dışındaki evi olan Privet Drive, hangi numaradadır?",
+                "options": [
+                    "4",
+                    "10",
+                    "12",
+                    "7"
+                ],
+                "correct_answer": 0,
+                "difficulty": 3
+            },
+            {
+                "question": "Dobby'yi özgür bırakan giysi parçası olan çorap, başlangıçta kime aitti?",
+                "options": [
+                    "Lucius Malfoy",
+                    "Harry Potter",
+                    "Ron Weasley",
+                    "Dumbledore"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Severus Snape'in 'Melez Prens' takma adındaki 'Prens' (Prince) ifadesi nereden gelmektedir?",
+                "options": [
+                    "Kraliyet soyundan",
+                    "Annesinin kızlık soyadından",
+                    "Babasının unvanından",
+                    "Kendi uydurduğu bir isimdir"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın katıldığı Üç Büyücü Turnuvası'nda, su altındaki ikinci görevde kullandığı ve su altında nefes almasını sağlayan bitki hangisidir?",
+                "options": [
+                    "Şahtere",
+                    "Galsuyu (Gillyweed)",
+                    "Şeytan Tuzağı",
+                    "Adamotu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Albus Dumbledore'un tam adı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Albus Percival Wulfric Brian Dumbledore",
+                    "Albus Severus Brian Dumbledore",
+                    "Albus Wulfric Percival Dumbledore",
+                    "Albus Brian Wulfric Dumbledore"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Sirius Black, Azkaban'dan kaçarken hangi hayvan formuna dönüşmüştür?",
+                "options": [
+                    "Fare",
+                    "Geyik",
+                    "Siyah Köpek",
+                    "Kurt"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Lord Voldemort'un Hortkuluklarından biri olan Marvolo Gaunt'un yüzüğünün içindeki taş aslında hangi Ölüm Yadigarı'dır?",
+                "options": [
+                    "Mürver Asa",
+                    "Diriltme Taşı",
+                    "Görünmezlik Pelerini",
+                    "Felsefe Taşı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Hogwarts Savaşında, Neville Longbottom tarafından Godric Gryffindor'un kılıcıyla öldürülen son Hortkuluk hangisidir?",
+                "options": [
+                    "Helga Hufflepuff'ın Kupası",
+                    "Nagini",
+                    "Rowena Ravenclaw'ın Diademi",
+                    "Harry Potter"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Ron Weasley'nin meşhur faresi Scabbers'ın gerçek kimliği olan Peter Pettigrew, hangi 'Çapulcu' lakabını kullanıyordu?",
+                "options": [
+                    "Aylak",
+                    "Patiayak",
+                    "Çatalboynuz",
+                    "Kılkuyruk"
+                ],
+                "correct_answer": 3,
+                "difficulty": 4
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarına ihanet eden ve yüzünde sivilcelerden 'MUHBİR' yazısı çıkan Ravenclaw öğrencisi kimdir?",
+                "options": [
+                    "Cho Chang",
+                    "Marietta Edgecombe",
+                    "Luna Lovegood",
+                    "Padma Patil"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Gilderoy Lockhart'ın yazdığı ve kendi maceralarını (!) anlattığı kitaplardan biri değildir?",
+                "options": [
+                    "Kurtadamla Gezintiler",
+                    "Hortlakla El Ele",
+                    "Vampirle Tatil",
+                    "Büyücülük Tarihi"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "Harry Potter'ın annesi Lily Potter'ın kızlık soyadı nedir?",
+                "options": [
+                    "Evans",
+                    "Black",
+                    "Snape",
+                    "Dursley"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Sihir Bakanı Cornelius Fudge'dan sonra göreve gelen ve 'Aslan' lakabıyla bilinen bakan kimdir?",
+                "options": [
+                    "Kingsley Shacklebolt",
+                    "Rufus Scrimgeour",
+                    "Pius Thicknesse",
+                    "Dolores Umbridge"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Harry Potter'ın alnındaki yara izi hangi şekildedir?",
+                "options": [
+                    "Yıldız",
+                    "Daire",
+                    "Şimşek",
+                    "Ayça"
+                ],
+                "correct_answer": 2,
+                "difficulty": 1
+            },
+            {
+                "question": "Harry Potter'ın Hogwarts'taki ilk süpürgesinin adı nedir?",
+                "options": [
+                    "Ateşoku",
+                    "Nimbus 2000",
+                    "Temizlikotu 7",
+                    "Kuyrukyıldız 260"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "Hermione Granger'ın kedisinin adı nedir?",
+                "options": [
+                    "Mrs. Norris",
+                    "Fang",
+                    "Crookshanks",
+                    "Scabbers"
+                ],
+                "correct_answer": 2,
+                "difficulty": 3
+            },
+            {
+                "question": "Harry'nin ikinci yılında Sırlar Odası'nı açan Gryffindor öğrencisi kimdir?",
+                "options": [
+                    "Ron Weasley",
+                    "Ginny Weasley",
+                    "Neville Longbottom",
+                    "Percy Weasley"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Üç Büyücü Turnuvası'nda Harry Potter, ilk görevde hangi ejderha türüyle eşleşmiştir?",
+                "options": [
+                    "Macar Boynuzkuyruk",
+                    "Çin Ateştopu",
+                    "Galler Yeşili",
+                    "İsveç Kısaburnu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarını yaptığı gizli odanın adı nedir?",
+                "options": [
+                    "Sırlar Odası",
+                    "İhtiyaç Odası",
+                    "Dönüşüm Odası",
+                    "Müdürün Odası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Lord Voldemort'un annesinin adı nedir?",
+                "options": [
+                    "Bellatrix Lestrange",
+                    "Merope Gaunt",
+                    "Narcissa Malfoy",
+                    "Walburga Black"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Sirius Black'in aile evinin bulunduğu Grimmauld Meydanı 12 numaranın gizli bekçisi (Secret Keeper) aslen kimdir?",
+                "options": [
+                    "Sirius Black",
+                    "Remus Lupin",
+                    "Albus Dumbledore",
+                    "Kingsley Shacklebolt"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Gryffindor'un kılıcını yapan ve gerçek sahibi olduğunu iddia eden cinücenin (goblin) adı nedir?",
+                "options": [
+                    "Griphook",
+                    "Ragnuk I",
+                    "Gornuk",
+                    "Bogrod"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dumbledore'un kız kardeşi Ariana'nın ölümüne sebep olan üçlü düelloda Albus ve Aberforth'un karşısındaki üçüncü isim kimdir?",
+                "options": [
+                    "Severus Snape",
+                    "Gellert Grindelwald",
+                    "Tom Riddle",
+                    "Igor Karkaroff"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Harry Potter'ın Hogwarts'taki ilk yılında, okulun üçüncü katındaki yasak koridoru koruyan üç başlı dev köpeğin adı nedir?",
+                "options": [
+                    "Fang",
+                    "Fluffy",
+                    "Norbert",
+                    "Grawp"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Büyücülerin alışveriş yaptığı Diagon Yolu'na giriş yapabilmek için hangi barın arka bahçesindeki duvar tuğlalarına belirli bir sırayla vurmak gerekir?",
+                "options": [
+                    "Üç Süpürge",
+                    "Domuz Kafası",
+                    "Çatlak Kazan",
+                    "Rezervuar Köpekleri"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dumbledore'un bürosunda bulunan, hatıraları saklamaya ve tekrar izlemeye yarayan sihirli havuzun adı nedir?",
+                "options": [
+                    "Düşünseli",
+                    "Görünmezlik Havuzu",
+                    "Zaman Kuyusu",
+                    "Büyü Aynası"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter'ın vaftiz babası Sirius Black, James Potter ve Remus Lupin ile arkadaştı. Bu grubun dördüncü üyesi olan ve gruba 'Kılkuyruk' olarak katılan kişi kimdir?",
+                "options": [
+                    "Severus Snape",
+                    "Peter Pettigrew",
+                    "Lucius Malfoy",
+                    "Gilderoy Lockhart"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi sihirli yaratık, sadece ölümü görmüş kişiler tarafından görülebilir ve Hogwarts arabalarını çeker?",
+                "options": [
+                    "Hipogrif",
+                    "Testral",
+                    "Anka Kuşu",
+                    "Ejderha"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter serisinde 'Kovuk' (The Burrow) olarak bilinen ev hangi aileye aittir?",
+                "options": [
+                    "Malfoy Ailesi",
+                    "Black Ailesi",
+                    "Weasley Ailesi",
+                    "Longbottom Ailesi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Profesör Snape'in Harry Potter'ın annesi Lily'ye olan ömür boyu süren aşkını simgeleyen ve Patronus'uyla aynı olan hayvan hangisidir?",
+                "options": [
+                    "Gümüşi Aslan",
+                    "Gümüşi Kuğu",
+                    "Gümüşi Maral",
+                    "Gümüşi At"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyücü dünyasında günlük olarak yayınlanan ve resimlerin hareket ettiği gazetenin adı nedir?",
+                "options": [
+                    "Gelecek Postası",
+                    "Sihir Gazetesi",
+                    "Hogwarts Haberleri",
+                    "Dırdırcı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter serisinde 'Sıvı Şans' olarak bilinen ve içene her konuda başarı getiren iksirin adı nedir?",
+                "options": [
+                    "Veritaserum",
+                    "Amortentia",
+                    "Felix Felicis",
+                    "Çok Özlü İksir"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Hagrid'in Yasak Orman'da yetiştirdiği ve Harry ile Ron'un ikinci sınıfta karşılaştığı dev örümceğin adı nedir?",
+                "options": [
+                    "Aragog",
+                    "Mosag",
+                    "Shelob",
+                    "Fang"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Sirius Black'in ailesine ait olan ve Zümrüdüanka Yoldaşlığı'nın karargahı olarak kullanılan evin adresi nedir?",
+                "options": [
+                    "Grimmauld Meydanı 12 numara",
+                    "Privet Drive 4 numara",
+                    "Godric's Hollow",
+                    "Spinners End"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter serisinde 'Safkan' büyücülerin, Muggle ana-babadan doğan büyücülere hakaret etmek için kullandığı kelime hangisidir?",
+                "options": [
+                    "Bulanık",
+                    "Koful",
+                    "Melez",
+                    "Muggle-doğumlu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Hogwarts okulunun sloganı olan 'Draco Dormiens Nunquam Titillandus'un Türkçe anlamı nedir?",
+                "options": [
+                    "Bilgi güçtür",
+                    "Asla vazgeçme",
+                    "Uyuyan bir ejderhayı asla gıdıklama",
+                    "Büyü her şeydir"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter'ın Ateş Kadehi filmindeki turnuvada karşılaştığı ilk ejderha türü hangisidir?",
+                "options": [
+                    "Macar Boynuzkuyruk",
+                    "Çin Ateştopu",
+                    "Galler Yeşili",
+                    "İsveç Kısaburnu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyücülük dünyasında ulaşım için kullanılan, kişiyi bir yerden başka bir yere anında taşıyan nesnelere ne ad verilir?",
+                "options": [
+                    "Anahtar",
+                    "Uçan Süpürge",
+                    "Hızır Otobüs",
+                    "Görünmezlik Pelerini"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın vaftiz babası olan ve Azkaban hapishanesinden kaçan ilk kişi olarak bilinen büyücü kimdir?",
+                "options": [
+                    "Remus Lupin",
+                    "Sirius Black",
+                    "Peter Pettigrew",
+                    "Lucius Malfoy"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter serisinde, bir büyücünün en korktuğu şeyin şeklini alan varlığa ne ad verilir?",
+                "options": [
+                    "Ruh Emici",
+                    "Böcürt",
+                    "Testral",
+                    "Hipogrif"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Lord Voldemort'un yılanı olan ve aynı zamanda bir Hortkuluk olan canlının adı nedir?",
+                "options": [
+                    "Nagini",
+                    "Aragog",
+                    "Basilisk",
+                    "Norbert"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın babası James Potter, bir 'Animagus' olarak hangi hayvana dönüşebiliyordu?",
+                "options": [
+                    "Köpek",
+                    "Fare",
+                    "Çatalboynuzlu Geyik",
+                    "Kurt"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Dobby adlı ev cinini özgürlüğüne kavuşturan ve Harry Potter tarafından Lucius Malfoy'a verilen giysi parçası hangisidir?",
+                "options": [
+                    "Eldiven",
+                    "Şapka",
+                    "Çorap",
+                    "Atkı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın ilk süpürgesi olan ve Profesör McGonagall tarafından hediye edilen süpürgenin modeli nedir?",
+                "options": [
+                    "Ateşoku (Firebolt)",
+                    "Nimbus 2000",
+                    "Nimbus 2001",
+                    "Temizlikotu 7"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter ve arkadaşlarına Hogwarts'ın gizli yollarını gösteren 'Çapulcu Haritası'nın yaratıcılarından 'Kılkuyruk' takma adı kime aittir?",
+                "options": [
+                    "James Potter",
+                    "Sirius Black",
+                    "Remus Lupin",
+                    "Peter Pettigrew"
+                ],
+                "correct_answer": 3,
+                "difficulty": 6
+            },
+            {
+                "question": "Hermione Granger'ın üçüncü sınıfta tüm derslere yetişebilmek için kullandığı sihirli nesne hangisidir?",
+                "options": [
+                    "Zaman Döndürücü",
+                    "Düşünseli",
+                    "Uçan Toz",
+                    "Anahtar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Hogwarts'ta bitkibilim (Herbology) derslerine giren ve Hufflepuff bina başkanı olan profesör kimdir?",
+                "options": [
+                    "Severus Snape",
+                    "Pomona Sprout",
+                    "Minerva McGonagall",
+                    "Sybill Trelawney"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarını yaptığı, sadece gerçekten ihtiyacı olanlara görünen Hogwarts odası hangisidir?",
+                "options": [
+                    "Sırlar Odası",
+                    "İhtiyaç Odası",
+                    "Müdürün Odası",
+                    "Büyük Salon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Ron Weasley'nin babası Arthur Weasley, Sihir Bakanlığı'nın hangi dairesinde çalışmaktadır?",
+                "options": [
+                    "Seherbaz Bürosu",
+                    "Muggle Eşyalarının Kötüye Kullanımı Dairesi",
+                    "Sihirli Yaratıkların Düzenlenmesi Dairesi",
+                    "Gizemler Dairesi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Ölüm Yadigarları'ndan biri olan ve mezarlıktan geri getirme gücü olduğu söylenen taşın adı nedir?",
+                "options": [
+                    "Felsefe Taşı",
+                    "Diriltme Taşı",
+                    "Mürver Taş",
+                    "Sihir Taşı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın Patronus'u hangi hayvan şeklindedir?",
+                "options": [
+                    "Su Samuru",
+                    "Anka Kuşu",
+                    "Geyik",
+                    "Köpek"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Gryffindor binasının ortak salonuna girebilmek için hangi tabloya parola söylenmelidir?",
+                "options": [
+                    "Şişman Hanım",
+                    "Kanlı Baron",
+                    "Gri Leydi",
+                    "Mızmız Myrtle"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter serisinde, bir büyücünün asasını seçmediğini, asanın büyücüyü seçtiğini söyleyen ünlü asa yapımcısı kimdir?",
+                "options": [
+                    "Gellert Grindelwald",
+                    "Garrick Ollivander",
+                    "Gregorovitch",
+                    "Aberforth Dumbledore"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter serisinin yazarı olan ve bu eserle dünyanın en zengin yazarlarından biri haline gelen isim kimdir?",
+                "options": [
+                    "Stephenie Meyer",
+                    "J.R.R. Tolkien",
+                    "J.K. Rowling",
+                    "George R.R. Martin"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Hogwarts Cadılık ve Büyücülük Okulu'nda öğrencileri binalara (Gryffindor, Slytherin vb.) ayıran sihirli nesne hangisidir?",
+                "options": [
+                    "Sihirli Küre",
+                    "Seçmen Şapka",
+                    "Ateş Kadehi",
+                    "Görünmezlik Pelerini"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın alnındaki meşhur şimşek şeklindeki yara izini ona hangi büyücü bırakmıştır?",
+                "options": [
+                    "Severus Snape",
+                    "Lord Voldemort",
+                    "Sirius Black",
+                    "Albus Dumbledore"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Hogwarts Ekspresi'ne binmek için Londra'daki King's Cross İstasyonu'nda hangi perondan geçmek gerekir?",
+                "options": [
+                    "8 1/2",
+                    "9 1/4",
+                    "9 3/4",
+                    "10 1/2"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın en yakın arkadaşları olan Ron Weasley ve Hermione Granger hangi binanın öğrencileridir?",
+                "options": [
+                    "Slytherin",
+                    "Ravenclaw",
+                    "Hufflepuff",
+                    "Gryffindor"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Büyücülük dünyasının popüler sporu olan Quidditch'te, oyunu bitiren ve 150 puan kazandıran küçük altın topun adı nedir?",
+                "options": [
+                    "Quaffle",
+                    "Bludger",
+                    "Altın Snitch",
+                    "Sihirli Küre"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Lord Voldemort'un ruhunun parçalarını sakladığı ve yok edilmesi oldukça zor olan nesnelere ne ad verilir?",
+                "options": [
+                    "Hortkuluk",
+                    "Ölüm Yadigarı",
+                    "Mürver Asa",
+                    "Felsefe Taşı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter'ın baykuşunun adı nedir?",
+                "options": [
+                    "Errol",
+                    "Hedwig",
+                    "Fawkes",
+                    "Scabbers"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Severus Snape, Hogwarts'ta uzun yıllar hangi dersin öğretmeni olmak istemiş ancak yıllarca iksir dersi vermiştir?",
+                "options": [
+                    "Biçim Değiştirme",
+                    "Karanlık Sanatlara Karşı Savunma",
+                    "Bitkibilim",
+                    "Tılsım"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyücülerin kişisel koruyucusu olan ve 'Expecto Patronum' büyüsüyle çağrılan gümüşi varlığa ne ad verilir?",
+                "options": [
+                    "Patronus",
+                    "Ruh Emici",
+                    "Ev Cini",
+                    "Böcürt"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter serisinin ilk kitabının adı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Sırlar Odası",
+                    "Ateş Kadehi",
+                    "Felsefe Taşı",
+                    "Melez Prens"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Hogwarts okulunun anahtarlarının koruyucusu ve bekçisi olan devasa dostumuzun adı nedir?",
+                "options": [
+                    "Argus Filch",
+                    "Rubeus Hagrid",
+                    "Grawp",
+                    "Dobby"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Üç büyücü turnuvasında Harry Potter ile birlikte Hogwarts'ı temsil eden ve Cedric Diggory karakterini canlandıran oyuncu kimdir?",
+                "options": [
+                    "Daniel Radcliffe",
+                    "Tom Felton",
+                    "Robert Pattinson",
+                    "Rupert Grint"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Hermione Granger'ın kütüphanelerde vakit geçirmeyi seven, yassı suratlı kedisinin adı nedir?",
+                "options": [
+                    "Crookshanks",
+                    "Mrs. Norris",
+                    "Fang",
+                    "Trevor"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyücü dünyasında banka işlerini yürüten ve Gringotts bankasını yöneten varlıklar hangileridir?",
+                "options": [
+                    "At adamlar",
+                    "Cinüceler",
+                    "Ev cinleri",
+                    "Devler"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            }
+        ],
         "Hz. Yusuf": [
             {
                 "question": "Hz. Yusuf'un kardeşleri, onu kuyuya attıktan sonra babalarına 'Onu kurt yedi' demişlerdi. Hz. Yakub, bu yalana inanmadığını hangi mantıksal gözlemiyle ima etmiştir?",
@@ -36430,1108 +37532,6 @@
                 "category": "Halk Edebiyatı",
                 "source_id": "YUSUF VE ZÜLEYHA HİKÂYESİNİN EPİZOT TAHLİLİ",
                 "difficulty": 8
-            }
-        ],
-        "Harry Potter": [
-            {
-                "question": "Harry Potter'ın Hogwarts'taki ilk yılında binaları seçen 'Seçmen Şapka' aslında hangi Hogwarts kurucusuna aitti?",
-                "options": [
-                    "Slytherin",
-                    "Gryffindor",
-                    "Ravenclaw",
-                    "Hufflepuff"
-                ],
-                "correct_answer": 1,
-                "difficulty": 1
-            },
-            {
-                "question": "Ron Weasley'nin en büyük korkusu olan ve Böcürt ile karşılaştığında gördüğü canlı hangisidir?",
-                "options": [
-                    "Yılan",
-                    "Örümcek",
-                    "Fare",
-                    "Ruh Emici"
-                ],
-                "correct_answer": 1,
-                "difficulty": 2
-            },
-            {
-                "question": "Harry Potter serisinde, bir büyücünün evinden başka bir yere ışınlanmasını sağlayan yeşil tozun adı nedir?",
-                "options": [
-                    "Sihir Tozu",
-                    "Uçan Toz",
-                    "Parıltı Tozu",
-                    "Anka Tozu"
-                ],
-                "correct_answer": 1,
-                "difficulty": 3
-            },
-            {
-                "question": "Harry Potter'ın katıldığı Üç Büyücü Turnuvası'nın ikinci görevinde, su altında kurtarması gereken 'en değerli varlığı' kimdir?",
-                "options": [
-                    "Hermione Granger",
-                    "Ron Weasley",
-                    "Cho Chang",
-                    "Hagrid"
-                ],
-                "correct_answer": 1,
-                "difficulty": 4
-            },
-            {
-                "question": "Sirius Black'in kardeşi olan ve Lord Voldemort'un Hortkuluklarından birini çalan eski Ölüm Yiyen kimdir?",
-                "options": [
-                    "Lucius Malfoy",
-                    "Regulus Arcturus Black",
-                    "Phineas Nigellus",
-                    "Bellatrix Lestrange"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Severus Snape'in çocukluk aşkı olan Lily Potter'ın Patronus'u hangi hayvan şeklindedir?",
-                "options": [
-                    "Geyik",
-                    "Maral",
-                    "Kuğu",
-                    "Tavşan"
-                ],
-                "correct_answer": 1,
-                "difficulty": 6
-            },
-            {
-                "question": "Dumbledore'un Ordusu'nun toplantılarını yapmak için Harry'ye 'İhtiyaç Odası'nı öneren ev cini (kitaplarda) kimdir?",
-                "options": [
-                    "Dobby",
-                    "Kreacher",
-                    "Winky",
-                    "Hokey"
-                ],
-                "correct_answer": 0,
-                "difficulty": 7
-            },
-            {
-                "question": "Albus Dumbledore'un babası Percival Dumbledore, neden Azkaban'a gönderilmiştir?",
-                "options": [
-                    "Ölüm Yiyen olduğu için",
-                    "Kızına saldıran Muggle çocuklarına saldırdığı için",
-                    "Yasaklı büyü kullandığı için",
-                    "Gellert Grindelwald'a yardım ettiği için"
-                ],
-                "correct_answer": 1,
-                "difficulty": 8
-            },
-            {
-                "question": "Lord Voldemort'un Hortkuluk haline getirdiği Rowena Ravenclaw'ın Diademi'ni Harry Potter nerede bulmuştur?",
-                "options": [
-                    "Sırlar Odası",
-                    "Gringotts Bankası",
-                    "İhtiyaç Odası",
-                    "Müdürün Odası"
-                ],
-                "correct_answer": 2,
-                "difficulty": 7
-            },
-            {
-                "question": "Ginny Weasley'nin okul dışındayken sahip olduğu ve omuzunda taşıdığı pembe, tüylü küçük yaratığın (Pygmy Puff) adı nedir?",
-                "options": [
-                    "Arnold",
-                    "Barnaby",
-                    "Binky",
-                    "Hermes"
-                ],
-                "correct_answer": 0,
-                "difficulty": 9
-            },
-            {
-                "question": "Harry Potter'ın asasıyla aynı çekirdeğe sahip olan (Anka tüyü) Voldemort'un asasını yapan kişi Ollivander'dır. Peki bu asanın boyu tam olarak kaç inçtir?",
-                "options": [
-                    "11 inç",
-                    "13.5 inç",
-                    "10 inç",
-                    "12.5 inç"
-                ],
-                "correct_answer": 1,
-                "difficulty": 10
-            },
-            {
-                "question": "Hogwarts Ekspresi'nde yemek arabasını süren yaşlı kadının, öğrencilerin trenden kaçmasını önlemek için ellerinin dönüştüğü nesne hangisidir?",
-                "options": [
-                    "Pençeler",
-                    "Keskin Bıçaklar",
-                    "Alevler",
-                    "Sarmaşıklar"
-                ],
-                "correct_answer": 1,
-                "difficulty": 9
-            },
-            {
-                "question": "Harry Potter'ın beşinci yılında aldığı S.Y.B.S (Sıradan Büyücülük Düzeyi) sınavlarında 'Astronomi' dersinden aldığı not nedir?",
-                "options": [
-                    "Olağanüstü",
-                    "Beklenenin Üstünde",
-                    "Zayıf",
-                    "Kabul Edilebilir"
-                ],
-                "correct_answer": 3,
-                "difficulty": 8
-            },
-            {
-                "question": "Sirius Black'in evindeki huysuz ev cini Kreacher'ın ait olduğu Black ailesinin sloganı 'Toujours Pur' ne anlama gelir?",
-                "options": [
-                    "Daima Güçlü",
-                    "Daima Safkan",
-                    "Daima Sadık",
-                    "Daima Soylu"
-                ],
-                "correct_answer": 1,
-                "difficulty": 6
-            },
-            {
-                "question": "Hermione Granger'ın anne ve babasının mesleği nedir?",
-                "options": [
-                    "Öğretmen",
-                    "Doktor",
-                    "Diş Hekimi",
-                    "Avukat"
-                ],
-                "correct_answer": 2,
-                "difficulty": 4
-            },
-            {
-                "question": "Harry Potter'ın Hogwarts'taki binaları belirleyen Seçmen Şapka, Harry'yi aslen hangi binaya göndermek istemiştir?",
-                "options": [
-                    "Gryffindor",
-                    "Slytherin",
-                    "Ravenclaw",
-                    "Hufflepuff"
-                ],
-                "correct_answer": 1,
-                "difficulty": 2
-            },
-            {
-                "question": "Harry Potter serisinin ilk kitabında Harry'nin doğum günü olan 31 Temmuz'da Hagrid ona ne hediye etmiştir?",
-                "options": [
-                    "Bir asa",
-                    "Baykuş Hedwig",
-                    "Görünmezlik Pelerini",
-                    "Nimbus 2000"
-                ],
-                "correct_answer": 1,
-                "difficulty": 3
-            },
-            {
-                "question": "Harry Potter'ın katıldığı Üç Büyücü Turnuvası'nın sonundaki labirentte Harry ve Cedric, kupaya aynı anda dokunarak nereye ışınlanmışlardır?",
-                "options": [
-                    "Hogwarts Kalesi",
-                    "Hogsmeade Köyü",
-                    "Little Hangleton Mezarlığı",
-                    "Sihir Bakanlığı"
-                ],
-                "correct_answer": 2,
-                "difficulty": 4
-            },
-            {
-                "question": "Harry Potter serisinde 'Zümrüdüanka Yoldaşlığı'nın kurucusu ve lideri kimdir?",
-                "options": [
-                    "Albus Dumbledore",
-                    "Sirius Black",
-                    "Kingsley Shacklebolt",
-                    "Remus Lupin"
-                ],
-                "correct_answer": 0,
-                "difficulty": 3
-            },
-            {
-                "question": "Hermione Granger'ın kedisi Crookshanks, aslında hangi hayvana benzer bir melezdir?",
-                "options": [
-                    "Kedi - Vaşak",
-                    "Kedi - Kneazle",
-                    "Kedi - Testral",
-                    "Kedi - Hipogrif"
-                ],
-                "correct_answer": 1,
-                "difficulty": 7
-            },
-            {
-                "question": "Ron Weasley'nin meşhur faresi Scabbers'ın asıl kimliği olan Peter Pettigrew, toplamda kaç yıl boyunca fare kılığında yaşamıştır?",
-                "options": [
-                    "5 Yıl",
-                    "8 Yıl",
-                    "12 Yıl",
-                    "15 Yıl"
-                ],
-                "correct_answer": 2,
-                "difficulty": 6
-            },
-            {
-                "question": "Gellert Grindelwald'ın, Dumbledore tarafından yenilmeden önce hapsettiği ve kendisinin de daha sonra hapsedildiği ünlü hapishane hangisidir?",
-                "options": [
-                    "Azkaban",
-                    "Nurmengard",
-                    "Gringotts",
-                    "St. Mungo"
-                ],
-                "correct_answer": 1,
-                "difficulty": 8
-            },
-            {
-                "question": "Harry Potter'ın dördüncü yılındaki Noel Balosu'nda (Yule Ball), Harry'nin partneri olan Gryffindor öğrencisi kimdir?",
-                "options": [
-                    "Cho Chang",
-                    "Ginny Weasley",
-                    "Parvati Patil",
-                    "Padma Patil"
-                ],
-                "correct_answer": 2,
-                "difficulty": 5
-            },
-            {
-                "question": "Profesör Snape'in 'Melez Prens' (Half-Blood Prince) takma adındaki 'Prince' kelimesi annesinin kızlık soyadıdır. Peki annesinin ilk adı nedir?",
-                "options": [
-                    "Lily",
-                    "Eileen",
-                    "Narcissa",
-                    "Bellatrix"
-                ],
-                "correct_answer": 1,
-                "difficulty": 9
-            },
-            {
-                "question": "Lord Voldemort'un babası Tom Riddle Senior, nerede öldürülmüştür?",
-                "options": [
-                    "Riddle Evi",
-                    "Hogwarts",
-                    "Gaunt Evi",
-                    "Sihir Bakanlığı"
-                ],
-                "correct_answer": 0,
-                "difficulty": 5
-            },
-            {
-                "question": "Harry Potter'ın beşinci yılında savunma derslerine giren Dolores Umbridge'in kullandığı sihirli kalemin mürekkebi aslında nedir?",
-                "options": [
-                    "Ejderha kanı",
-                    "Kullanıcının kendi kanı",
-                    "Siyah mürekkep",
-                    "Görünmez mürekkep"
-                ],
-                "correct_answer": 1,
-                "difficulty": 4
-            },
-            {
-                "question": "Severus Snape, Albus Dumbledore'u öldürdüğünde hangi kulede bulunuyorlardı?",
-                "options": [
-                    "Gryffindor Kulesi",
-                    "Astronomi Kulesi",
-                    "Baykuş Kulesi",
-                    "Ravenclaw Kulesi"
-                ],
-                "correct_answer": 1,
-                "difficulty": 4
-            },
-            {
-                "question": "Dumbledore'un Ordusu'nun toplantılarının yerini Dolores Umbridge'e ispiyonlayan Marietta Edgecombe'un yüzünde sivilcelerle ne yazmıştır?",
-                "options": [
-                    "HAİN",
-                    "MUHBİR",
-                    "YALANCI",
-                    "SUÇLU"
-                ],
-                "correct_answer": 1,
-                "difficulty": 8
-            },
-            {
-                "question": "Harry Potter'ın oğlu Albus Severus Potter'ın tam adı iki müdürden gelir. Peki, Albus'un ikinci ismi olan Severus hangi binanın müdürüydü?",
-                "options": [
-                    "Gryffindor",
-                    "Slytherin",
-                    "Ravenclaw",
-                    "Hufflepuff"
-                ],
-                "correct_answer": 1,
-                "difficulty": 1
-            },
-            {
-                "question": "Sihir Bakanlığı'ndaki Gizemler Dairesi'nde bulunan ve Harry'nin Sirius'un düşerken kaybolduğunu gördüğü o meşhur nesne/yer hangisidir?",
-                "options": [
-                    "Zaman Odası",
-                    "Beyin Odası",
-                    "Ölüm Kemeri",
-                    "Kehanet Küresi"
-                ],
-                "correct_answer": 2,
-                "difficulty": 10
-            },
-            {
-                "question": "Harry Potter'ın Hogwarts'taki ilk yılında arkadaş olduğu devasa yarı-devin adı nedir?",
-                "options": [
-                    "Grawp",
-                    "Rubeus Hagrid",
-                    "Aragog",
-                    "Fluffy"
-                ],
-                "correct_answer": 1,
-                "difficulty": 1
-            },
-            {
-                "question": "Hermione Granger'ın en sevmediği ve genelde saçma bulduğu, Profesör Trelawney tarafından verilen ders hangisidir?",
-                "options": [
-                    "Aritmansi",
-                    "Kehanet",
-                    "Bitkibilim",
-                    "Tılsım"
-                ],
-                "correct_answer": 1,
-                "difficulty": 2
-            },
-            {
-                "question": "Harry Potter'ın okul dışındaki evi olan Privet Drive, hangi numaradadır?",
-                "options": [
-                    "4",
-                    "10",
-                    "12",
-                    "7"
-                ],
-                "correct_answer": 0,
-                "difficulty": 3
-            },
-            {
-                "question": "Dobby'yi özgür bırakan giysi parçası olan çorap, başlangıçta kime aitti?",
-                "options": [
-                    "Lucius Malfoy",
-                    "Harry Potter",
-                    "Ron Weasley",
-                    "Dumbledore"
-                ],
-                "correct_answer": 1,
-                "difficulty": 4
-            },
-            {
-                "question": "Severus Snape'in 'Melez Prens' takma adındaki 'Prens' (Prince) ifadesi nereden gelmektedir?",
-                "options": [
-                    "Kraliyet soyundan",
-                    "Annesinin kızlık soyadından",
-                    "Babasının unvanından",
-                    "Kendi uydurduğu bir isimdir"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Harry Potter'ın katıldığı Üç Büyücü Turnuvası'nda, su altındaki ikinci görevde kullandığı ve su altında nefes almasını sağlayan bitki hangisidir?",
-                "options": [
-                    "Şahtere",
-                    "Galsuyu (Gillyweed)",
-                    "Şeytan Tuzağı",
-                    "Adamotu"
-                ],
-                "correct_answer": 1,
-                "difficulty": 6
-            },
-            {
-                "question": "Albus Dumbledore'un tam adı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Albus Percival Wulfric Brian Dumbledore",
-                    "Albus Severus Brian Dumbledore",
-                    "Albus Wulfric Percival Dumbledore",
-                    "Albus Brian Wulfric Dumbledore"
-                ],
-                "correct_answer": 0,
-                "difficulty": 7
-            },
-            {
-                "question": "Sirius Black, Azkaban'dan kaçarken hangi hayvan formuna dönüşmüştür?",
-                "options": [
-                    "Fare",
-                    "Geyik",
-                    "Siyah Köpek",
-                    "Kurt"
-                ],
-                "correct_answer": 2,
-                "difficulty": 5
-            },
-            {
-                "question": "Lord Voldemort'un Hortkuluklarından biri olan Marvolo Gaunt'un yüzüğünün içindeki taş aslında hangi Ölüm Yadigarı'dır?",
-                "options": [
-                    "Mürver Asa",
-                    "Diriltme Taşı",
-                    "Görünmezlik Pelerini",
-                    "Felsefe Taşı"
-                ],
-                "correct_answer": 1,
-                "difficulty": 8
-            },
-            {
-                "question": "Hogwarts Savaşında, Neville Longbottom tarafından Godric Gryffindor'un kılıcıyla öldürülen son Hortkuluk hangisidir?",
-                "options": [
-                    "Helga Hufflepuff'ın Kupası",
-                    "Nagini",
-                    "Rowena Ravenclaw'ın Diademi",
-                    "Harry Potter"
-                ],
-                "correct_answer": 1,
-                "difficulty": 6
-            },
-            {
-                "question": "Ron Weasley'nin meşhur faresi Scabbers'ın gerçek kimliği olan Peter Pettigrew, hangi 'Çapulcu' lakabını kullanıyordu?",
-                "options": [
-                    "Aylak",
-                    "Patiayak",
-                    "Çatalboynuz",
-                    "Kılkuyruk"
-                ],
-                "correct_answer": 3,
-                "difficulty": 4
-            },
-            {
-                "question": "Dumbledore'un Ordusu'nun toplantılarına ihanet eden ve yüzünde sivilcelerden 'MUHBİR' yazısı çıkan Ravenclaw öğrencisi kimdir?",
-                "options": [
-                    "Cho Chang",
-                    "Marietta Edgecombe",
-                    "Luna Lovegood",
-                    "Padma Patil"
-                ],
-                "correct_answer": 1,
-                "difficulty": 9
-            },
-            {
-                "question": "Gilderoy Lockhart'ın yazdığı ve kendi maceralarını (!) anlattığı kitaplardan biri değildir?",
-                "options": [
-                    "Kurtadamla Gezintiler",
-                    "Hortlakla El Ele",
-                    "Vampirle Tatil",
-                    "Büyücülük Tarihi"
-                ],
-                "correct_answer": 3,
-                "difficulty": 7
-            },
-            {
-                "question": "Harry Potter'ın annesi Lily Potter'ın kızlık soyadı nedir?",
-                "options": [
-                    "Evans",
-                    "Black",
-                    "Snape",
-                    "Dursley"
-                ],
-                "correct_answer": 0,
-                "difficulty": 6
-            },
-            {
-                "question": "Sihir Bakanı Cornelius Fudge'dan sonra göreve gelen ve 'Aslan' lakabıyla bilinen bakan kimdir?",
-                "options": [
-                    "Kingsley Shacklebolt",
-                    "Rufus Scrimgeour",
-                    "Pius Thicknesse",
-                    "Dolores Umbridge"
-                ],
-                "correct_answer": 1,
-                "difficulty": 10
-            },
-            {
-                "question": "Harry Potter'ın alnındaki yara izi hangi şekildedir?",
-                "options": [
-                    "Yıldız",
-                    "Daire",
-                    "Şimşek",
-                    "Ayça"
-                ],
-                "correct_answer": 2,
-                "difficulty": 1
-            },
-            {
-                "question": "Harry Potter'ın Hogwarts'taki ilk süpürgesinin adı nedir?",
-                "options": [
-                    "Ateşoku",
-                    "Nimbus 2000",
-                    "Temizlikotu 7",
-                    "Kuyrukyıldız 260"
-                ],
-                "correct_answer": 1,
-                "difficulty": 2
-            },
-            {
-                "question": "Hermione Granger'ın kedisinin adı nedir?",
-                "options": [
-                    "Mrs. Norris",
-                    "Fang",
-                    "Crookshanks",
-                    "Scabbers"
-                ],
-                "correct_answer": 2,
-                "difficulty": 3
-            },
-            {
-                "question": "Harry'nin ikinci yılında Sırlar Odası'nı açan Gryffindor öğrencisi kimdir?",
-                "options": [
-                    "Ron Weasley",
-                    "Ginny Weasley",
-                    "Neville Longbottom",
-                    "Percy Weasley"
-                ],
-                "correct_answer": 1,
-                "difficulty": 4
-            },
-            {
-                "question": "Üç Büyücü Turnuvası'nda Harry Potter, ilk görevde hangi ejderha türüyle eşleşmiştir?",
-                "options": [
-                    "Macar Boynuzkuyruk",
-                    "Çin Ateştopu",
-                    "Galler Yeşili",
-                    "İsveç Kısaburnu"
-                ],
-                "correct_answer": 0,
-                "difficulty": 5
-            },
-            {
-                "question": "Dumbledore'un Ordusu'nun toplantılarını yaptığı gizli odanın adı nedir?",
-                "options": [
-                    "Sırlar Odası",
-                    "İhtiyaç Odası",
-                    "Dönüşüm Odası",
-                    "Müdürün Odası"
-                ],
-                "correct_answer": 1,
-                "difficulty": 6
-            },
-            {
-                "question": "Lord Voldemort'un annesinin adı nedir?",
-                "options": [
-                    "Bellatrix Lestrange",
-                    "Merope Gaunt",
-                    "Narcissa Malfoy",
-                    "Walburga Black"
-                ],
-                "correct_answer": 1,
-                "difficulty": 7
-            },
-            {
-                "question": "Sirius Black'in aile evinin bulunduğu Grimmauld Meydanı 12 numaranın gizli bekçisi (Secret Keeper) aslen kimdir?",
-                "options": [
-                    "Sirius Black",
-                    "Remus Lupin",
-                    "Albus Dumbledore",
-                    "Kingsley Shacklebolt"
-                ],
-                "correct_answer": 2,
-                "difficulty": 8
-            },
-            {
-                "question": "Gryffindor'un kılıcını yapan ve gerçek sahibi olduğunu iddia eden cinücenin (goblin) adı nedir?",
-                "options": [
-                    "Griphook",
-                    "Ragnuk I",
-                    "Gornuk",
-                    "Bogrod"
-                ],
-                "correct_answer": 1,
-                "difficulty": 9
-            },
-            {
-                "question": "Dumbledore'un kız kardeşi Ariana'nın ölümüne sebep olan üçlü düelloda Albus ve Aberforth'un karşısındaki üçüncü isim kimdir?",
-                "options": [
-                    "Severus Snape",
-                    "Gellert Grindelwald",
-                    "Tom Riddle",
-                    "Igor Karkaroff"
-                ],
-                "correct_answer": 1,
-                "difficulty": 10
-            },
-            {
-                "question": "Harry Potter'ın Hogwarts'taki ilk yılında, okulun üçüncü katındaki yasak koridoru koruyan üç başlı dev köpeğin adı nedir?",
-                "options": [
-                    "Fang",
-                    "Fluffy",
-                    "Norbert",
-                    "Grawp"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Büyücülerin alışveriş yaptığı Diagon Yolu'na giriş yapabilmek için hangi barın arka bahçesindeki duvar tuğlalarına belirli bir sırayla vurmak gerekir?",
-                "options": [
-                    "Üç Süpürge",
-                    "Domuz Kafası",
-                    "Çatlak Kazan",
-                    "Rezervuar Köpekleri"
-                ],
-                "correct_answer": 2,
-                "difficulty": 5
-            },
-            {
-                "question": "Dumbledore'un bürosunda bulunan, hatıraları saklamaya ve tekrar izlemeye yarayan sihirli havuzun adı nedir?",
-                "options": [
-                    "Düşünseli",
-                    "Görünmezlik Havuzu",
-                    "Zaman Kuyusu",
-                    "Büyü Aynası"
-                ],
-                "correct_answer": 0,
-                "difficulty": 6
-            },
-            {
-                "question": "Harry Potter'ın vaftiz babası Sirius Black, James Potter ve Remus Lupin ile arkadaştı. Bu grubun dördüncü üyesi olan ve gruba 'Kılkuyruk' olarak katılan kişi kimdir?",
-                "options": [
-                    "Severus Snape",
-                    "Peter Pettigrew",
-                    "Lucius Malfoy",
-                    "Gilderoy Lockhart"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Hangi sihirli yaratık, sadece ölümü görmüş kişiler tarafından görülebilir ve Hogwarts arabalarını çeker?",
-                "options": [
-                    "Hipogrif",
-                    "Testral",
-                    "Anka Kuşu",
-                    "Ejderha"
-                ],
-                "correct_answer": 1,
-                "difficulty": 6
-            },
-            {
-                "question": "Harry Potter serisinde 'Kovuk' (The Burrow) olarak bilinen ev hangi aileye aittir?",
-                "options": [
-                    "Malfoy Ailesi",
-                    "Black Ailesi",
-                    "Weasley Ailesi",
-                    "Longbottom Ailesi"
-                ],
-                "correct_answer": 2,
-                "difficulty": 5
-            },
-            {
-                "question": "Profesör Snape'in Harry Potter'ın annesi Lily'ye olan ömür boyu süren aşkını simgeleyen ve Patronus'uyla aynı olan hayvan hangisidir?",
-                "options": [
-                    "Gümüşi Aslan",
-                    "Gümüşi Kuğu",
-                    "Gümüşi Maral",
-                    "Gümüşi At"
-                ],
-                "correct_answer": 2,
-                "difficulty": 6
-            },
-            {
-                "question": "Büyücü dünyasında günlük olarak yayınlanan ve resimlerin hareket ettiği gazetenin adı nedir?",
-                "options": [
-                    "Gelecek Postası",
-                    "Sihir Gazetesi",
-                    "Hogwarts Haberleri",
-                    "Dırdırcı"
-                ],
-                "correct_answer": 0,
-                "difficulty": 5
-            },
-            {
-                "question": "Harry Potter serisinde 'Sıvı Şans' olarak bilinen ve içene her konuda başarı getiren iksirin adı nedir?",
-                "options": [
-                    "Veritaserum",
-                    "Amortentia",
-                    "Felix Felicis",
-                    "Çok Özlü İksir"
-                ],
-                "correct_answer": 2,
-                "difficulty": 6
-            },
-            {
-                "question": "Hagrid'in Yasak Orman'da yetiştirdiği ve Harry ile Ron'un ikinci sınıfta karşılaştığı dev örümceğin adı nedir?",
-                "options": [
-                    "Aragog",
-                    "Mosag",
-                    "Shelob",
-                    "Fang"
-                ],
-                "correct_answer": 0,
-                "difficulty": 5
-            },
-            {
-                "question": "Sirius Black'in ailesine ait olan ve Zümrüdüanka Yoldaşlığı'nın karargahı olarak kullanılan evin adresi nedir?",
-                "options": [
-                    "Grimmauld Meydanı 12 numara",
-                    "Privet Drive 4 numara",
-                    "Godric's Hollow",
-                    "Spinners End"
-                ],
-                "correct_answer": 0,
-                "difficulty": 6
-            },
-            {
-                "question": "Harry Potter serisinde 'Safkan' büyücülerin, Muggle ana-babadan doğan büyücülere hakaret etmek için kullandığı kelime hangisidir?",
-                "options": [
-                    "Bulanık",
-                    "Koful",
-                    "Melez",
-                    "Muggle-doğumlu"
-                ],
-                "correct_answer": 0,
-                "difficulty": 5
-            },
-            {
-                "question": "Hogwarts okulunun sloganı olan 'Draco Dormiens Nunquam Titillandus'un Türkçe anlamı nedir?",
-                "options": [
-                    "Bilgi güçtür",
-                    "Asla vazgeçme",
-                    "Uyuyan bir ejderhayı asla gıdıklama",
-                    "Büyü her şeydir"
-                ],
-                "correct_answer": 2,
-                "difficulty": 6
-            },
-            {
-                "question": "Harry Potter'ın Ateş Kadehi filmindeki turnuvada karşılaştığı ilk ejderha türü hangisidir?",
-                "options": [
-                    "Macar Boynuzkuyruk",
-                    "Çin Ateştopu",
-                    "Galler Yeşili",
-                    "İsveç Kısaburnu"
-                ],
-                "correct_answer": 0,
-                "difficulty": 6
-            },
-            {
-                "question": "Büyücülük dünyasında ulaşım için kullanılan, kişiyi bir yerden başka bir yere anında taşıyan nesnelere ne ad verilir?",
-                "options": [
-                    "Anahtar",
-                    "Uçan Süpürge",
-                    "Hızır Otobüs",
-                    "Görünmezlik Pelerini"
-                ],
-                "correct_answer": 0,
-                "difficulty": 5
-            },
-            {
-                "question": "Harry Potter'ın vaftiz babası olan ve Azkaban hapishanesinden kaçan ilk kişi olarak bilinen büyücü kimdir?",
-                "options": [
-                    "Remus Lupin",
-                    "Sirius Black",
-                    "Peter Pettigrew",
-                    "Lucius Malfoy"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Harry Potter serisinde, bir büyücünün en korktuğu şeyin şeklini alan varlığa ne ad verilir?",
-                "options": [
-                    "Ruh Emici",
-                    "Böcürt",
-                    "Testral",
-                    "Hipogrif"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Lord Voldemort'un yılanı olan ve aynı zamanda bir Hortkuluk olan canlının adı nedir?",
-                "options": [
-                    "Nagini",
-                    "Aragog",
-                    "Basilisk",
-                    "Norbert"
-                ],
-                "correct_answer": 0,
-                "difficulty": 5
-            },
-            {
-                "question": "Harry Potter'ın babası James Potter, bir 'Animagus' olarak hangi hayvana dönüşebiliyordu?",
-                "options": [
-                    "Köpek",
-                    "Fare",
-                    "Çatalboynuzlu Geyik",
-                    "Kurt"
-                ],
-                "correct_answer": 2,
-                "difficulty": 6
-            },
-            {
-                "question": "Dobby adlı ev cinini özgürlüğüne kavuşturan ve Harry Potter tarafından Lucius Malfoy'a verilen giysi parçası hangisidir?",
-                "options": [
-                    "Eldiven",
-                    "Şapka",
-                    "Çorap",
-                    "Atkı"
-                ],
-                "correct_answer": 2,
-                "difficulty": 5
-            },
-            {
-                "question": "Harry Potter'ın ilk süpürgesi olan ve Profesör McGonagall tarafından hediye edilen süpürgenin modeli nedir?",
-                "options": [
-                    "Ateşoku (Firebolt)",
-                    "Nimbus 2000",
-                    "Nimbus 2001",
-                    "Temizlikotu 7"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Harry Potter ve arkadaşlarına Hogwarts'ın gizli yollarını gösteren 'Çapulcu Haritası'nın yaratıcılarından 'Kılkuyruk' takma adı kime aittir?",
-                "options": [
-                    "James Potter",
-                    "Sirius Black",
-                    "Remus Lupin",
-                    "Peter Pettigrew"
-                ],
-                "correct_answer": 3,
-                "difficulty": 6
-            },
-            {
-                "question": "Hermione Granger'ın üçüncü sınıfta tüm derslere yetişebilmek için kullandığı sihirli nesne hangisidir?",
-                "options": [
-                    "Zaman Döndürücü",
-                    "Düşünseli",
-                    "Uçan Toz",
-                    "Anahtar"
-                ],
-                "correct_answer": 0,
-                "difficulty": 6
-            },
-            {
-                "question": "Hogwarts'ta bitkibilim (Herbology) derslerine giren ve Hufflepuff bina başkanı olan profesör kimdir?",
-                "options": [
-                    "Severus Snape",
-                    "Pomona Sprout",
-                    "Minerva McGonagall",
-                    "Sybill Trelawney"
-                ],
-                "correct_answer": 1,
-                "difficulty": 6
-            },
-            {
-                "question": "Dumbledore'un Ordusu'nun toplantılarını yaptığı, sadece gerçekten ihtiyacı olanlara görünen Hogwarts odası hangisidir?",
-                "options": [
-                    "Sırlar Odası",
-                    "İhtiyaç Odası",
-                    "Müdürün Odası",
-                    "Büyük Salon"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Ron Weasley'nin babası Arthur Weasley, Sihir Bakanlığı'nın hangi dairesinde çalışmaktadır?",
-                "options": [
-                    "Seherbaz Bürosu",
-                    "Muggle Eşyalarının Kötüye Kullanımı Dairesi",
-                    "Sihirli Yaratıkların Düzenlenmesi Dairesi",
-                    "Gizemler Dairesi"
-                ],
-                "correct_answer": 1,
-                "difficulty": 6
-            },
-            {
-                "question": "Ölüm Yadigarları'ndan biri olan ve mezarlıktan geri getirme gücü olduğu söylenen taşın adı nedir?",
-                "options": [
-                    "Felsefe Taşı",
-                    "Diriltme Taşı",
-                    "Mürver Taş",
-                    "Sihir Taşı"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Harry Potter'ın Patronus'u hangi hayvan şeklindedir?",
-                "options": [
-                    "Su Samuru",
-                    "Anka Kuşu",
-                    "Geyik",
-                    "Köpek"
-                ],
-                "correct_answer": 2,
-                "difficulty": 5
-            },
-            {
-                "question": "Gryffindor binasının ortak salonuna girebilmek için hangi tabloya parola söylenmelidir?",
-                "options": [
-                    "Şişman Hanım",
-                    "Kanlı Baron",
-                    "Gri Leydi",
-                    "Mızmız Myrtle"
-                ],
-                "correct_answer": 0,
-                "difficulty": 5
-            },
-            {
-                "question": "Harry Potter serisinde, bir büyücünün asasını seçmediğini, asanın büyücüyü seçtiğini söyleyen ünlü asa yapımcısı kimdir?",
-                "options": [
-                    "Gellert Grindelwald",
-                    "Garrick Ollivander",
-                    "Gregorovitch",
-                    "Aberforth Dumbledore"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Harry Potter serisinin yazarı olan ve bu eserle dünyanın en zengin yazarlarından biri haline gelen isim kimdir?",
-                "options": [
-                    "Stephenie Meyer",
-                    "J.R.R. Tolkien",
-                    "J.K. Rowling",
-                    "George R.R. Martin"
-                ],
-                "correct_answer": 2,
-                "difficulty": 5
-            },
-            {
-                "question": "Hogwarts Cadılık ve Büyücülük Okulu'nda öğrencileri binalara (Gryffindor, Slytherin vb.) ayıran sihirli nesne hangisidir?",
-                "options": [
-                    "Sihirli Küre",
-                    "Seçmen Şapka",
-                    "Ateş Kadehi",
-                    "Görünmezlik Pelerini"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Harry Potter'ın alnındaki meşhur şimşek şeklindeki yara izini ona hangi büyücü bırakmıştır?",
-                "options": [
-                    "Severus Snape",
-                    "Lord Voldemort",
-                    "Sirius Black",
-                    "Albus Dumbledore"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Hogwarts Ekspresi'ne binmek için Londra'daki King's Cross İstasyonu'nda hangi perondan geçmek gerekir?",
-                "options": [
-                    "8 1/2",
-                    "9 1/4",
-                    "9 3/4",
-                    "10 1/2"
-                ],
-                "correct_answer": 2,
-                "difficulty": 5
-            },
-            {
-                "question": "Harry Potter'ın en yakın arkadaşları olan Ron Weasley ve Hermione Granger hangi binanın öğrencileridir?",
-                "options": [
-                    "Slytherin",
-                    "Ravenclaw",
-                    "Hufflepuff",
-                    "Gryffindor"
-                ],
-                "correct_answer": 3,
-                "difficulty": 5
-            },
-            {
-                "question": "Büyücülük dünyasının popüler sporu olan Quidditch'te, oyunu bitiren ve 150 puan kazandıran küçük altın topun adı nedir?",
-                "options": [
-                    "Quaffle",
-                    "Bludger",
-                    "Altın Snitch",
-                    "Sihirli Küre"
-                ],
-                "correct_answer": 2,
-                "difficulty": 5
-            },
-            {
-                "question": "Lord Voldemort'un ruhunun parçalarını sakladığı ve yok edilmesi oldukça zor olan nesnelere ne ad verilir?",
-                "options": [
-                    "Hortkuluk",
-                    "Ölüm Yadigarı",
-                    "Mürver Asa",
-                    "Felsefe Taşı"
-                ],
-                "correct_answer": 0,
-                "difficulty": 6
-            },
-            {
-                "question": "Harry Potter'ın baykuşunun adı nedir?",
-                "options": [
-                    "Errol",
-                    "Hedwig",
-                    "Fawkes",
-                    "Scabbers"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Severus Snape, Hogwarts'ta uzun yıllar hangi dersin öğretmeni olmak istemiş ancak yıllarca iksir dersi vermiştir?",
-                "options": [
-                    "Biçim Değiştirme",
-                    "Karanlık Sanatlara Karşı Savunma",
-                    "Bitkibilim",
-                    "Tılsım"
-                ],
-                "correct_answer": 1,
-                "difficulty": 6
-            },
-            {
-                "question": "Büyücülerin kişisel koruyucusu olan ve 'Expecto Patronum' büyüsüyle çağrılan gümüşi varlığa ne ad verilir?",
-                "options": [
-                    "Patronus",
-                    "Ruh Emici",
-                    "Ev Cini",
-                    "Böcürt"
-                ],
-                "correct_answer": 0,
-                "difficulty": 6
-            },
-            {
-                "question": "Harry Potter serisinin ilk kitabının adı aşağıdakilerden hangisidir?",
-                "options": [
-                    "Sırlar Odası",
-                    "Ateş Kadehi",
-                    "Felsefe Taşı",
-                    "Melez Prens"
-                ],
-                "correct_answer": 2,
-                "difficulty": 5
-            },
-            {
-                "question": "Hogwarts okulunun anahtarlarının koruyucusu ve bekçisi olan devasa dostumuzun adı nedir?",
-                "options": [
-                    "Argus Filch",
-                    "Rubeus Hagrid",
-                    "Grawp",
-                    "Dobby"
-                ],
-                "correct_answer": 1,
-                "difficulty": 5
-            },
-            {
-                "question": "Üç büyücü turnuvasında Harry Potter ile birlikte Hogwarts'ı temsil eden ve Cedric Diggory karakterini canlandıran oyuncu kimdir?",
-                "options": [
-                    "Daniel Radcliffe",
-                    "Tom Felton",
-                    "Robert Pattinson",
-                    "Rupert Grint"
-                ],
-                "correct_answer": 2,
-                "difficulty": 6
-            },
-            {
-                "question": "Hermione Granger'ın kütüphanelerde vakit geçirmeyi seven, yassı suratlı kedisinin adı nedir?",
-                "options": [
-                    "Crookshanks",
-                    "Mrs. Norris",
-                    "Fang",
-                    "Trevor"
-                ],
-                "correct_answer": 0,
-                "difficulty": 6
-            },
-            {
-                "question": "Büyücü dünyasında banka işlerini yürüten ve Gringotts bankasını yöneten varlıklar hangileridir?",
-                "options": [
-                    "At adamlar",
-                    "Cinüceler",
-                    "Ev cinleri",
-                    "Devler"
-                ],
-                "correct_answer": 1,
-                "difficulty": 6
             }
         ],
         "Futbolcular": [
