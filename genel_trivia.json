@@ -35233,7 +35233,7 @@
                 "question": "Harry Potter'ın katıldığı Üç Büyücü Turnuvası'nda, su altındaki ikinci görevde kullandığı ve su altında nefes almasını sağlayan bitki hangisidir?",
                 "options": [
                     "Şahtere",
-                    "Galsuyu (Gillyweed)",
+                    "Galsuyu",
                     "Şeytan Tuzağı",
                     "Adamotu"
                 ],
@@ -35560,17 +35560,6 @@
                 "difficulty": 5
             },
             {
-                "question": "Sirius Black'in ailesine ait olan ve Zümrüdüanka Yoldaşlığı'nın karargahı olarak kullanılan evin adresi nedir?",
-                "options": [
-                    "Grimmauld Meydanı 12 numara",
-                    "Privet Drive 4 numara",
-                    "Godric's Hollow",
-                    "Spinners End"
-                ],
-                "correct_answer": 0,
-                "difficulty": 6
-            },
-            {
                 "question": "Harry Potter serisinde 'Safkan' büyücülerin, Muggle ana-babadan doğan büyücülere hakaret etmek için kullandığı kelime hangisidir?",
                 "options": [
                     "Bulanık",
@@ -35581,17 +35570,7 @@
                 "correct_answer": 0,
                 "difficulty": 5
             },
-            {
-                "question": "Hogwarts okulunun sloganı olan 'Draco Dormiens Nunquam Titillandus'un Türkçe anlamı nedir?",
-                "options": [
-                    "Bilgi güçtür",
-                    "Asla vazgeçme",
-                    "Uyuyan bir ejderhayı asla gıdıklama",
-                    "Büyü her şeydir"
-                ],
-                "correct_answer": 2,
-                "difficulty": 6
-            },
+            
             {
                 "question": "Harry Potter'ın Ateş Kadehi filmindeki turnuvada karşılaştığı ilk ejderha türü hangisidir?",
                 "options": [
@@ -35648,17 +35627,6 @@
                 "difficulty": 5
             },
             {
-                "question": "Harry Potter'ın babası James Potter, bir 'Animagus' olarak hangi hayvana dönüşebiliyordu?",
-                "options": [
-                    "Köpek",
-                    "Fare",
-                    "Çatalboynuzlu Geyik",
-                    "Kurt"
-                ],
-                "correct_answer": 2,
-                "difficulty": 6
-            },
-            {
                 "question": "Dobby adlı ev cinini özgürlüğüne kavuşturan ve Harry Potter tarafından Lucius Malfoy'a verilen giysi parçası hangisidir?",
                 "options": [
                     "Eldiven",
@@ -35672,7 +35640,7 @@
             {
                 "question": "Harry Potter'ın ilk süpürgesi olan ve Profesör McGonagall tarafından hediye edilen süpürgenin modeli nedir?",
                 "options": [
-                    "Ateşoku (Firebolt)",
+                    "Ateşoku",
                     "Nimbus 2000",
                     "Nimbus 2001",
                     "Temizlikotu 7"
@@ -35866,17 +35834,6 @@
                 ],
                 "correct_answer": 1,
                 "difficulty": 5
-            },
-            {
-                "question": "Severus Snape, Hogwarts'ta uzun yıllar hangi dersin öğretmeni olmak istemiş ancak yıllarca iksir dersi vermiştir?",
-                "options": [
-                    "Biçim Değiştirme",
-                    "Karanlık Sanatlara Karşı Savunma",
-                    "Bitkibilim",
-                    "Tılsım"
-                ],
-                "correct_answer": 1,
-                "difficulty": 6
             },
             {
                 "question": "Büyücülerin kişisel koruyucusu olan ve 'Expecto Patronum' büyüsüyle çağrılan gümüşi varlığa ne ad verilir?",
