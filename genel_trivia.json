@@ -2,6 +2,1524 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "Hücrenin enerji santrali olarak bilinen ve besinleri enerjiye (ATP) dönüştüren organel hangisidir?",
+                "options": [
+                    "Ribozom",
+                    "Mitokondri",
+                    "Lizozom",
+                    "Golgi Aygıtı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı Devleti'nde 'Şairler Sultanı' (Sultanü'ş Şuara) olarak anılan ve Kanuni Sultan Süleyman'ın ölümü üzerine ünlü bir mersiye yazan şair kimdir?",
+                "options": [
+                    "Fuzuli",
+                    "Nedim",
+                    "Baki",
+                    "Nefi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Satrançta bir oyuncu, oyun boyunca toplamda en fazla kaç adet 'Vezir'e sahip olabilir (piyon terfileri dahil)?",
+                "options": [
+                    "1",
+                    "2",
+                    "9",
+                    "10"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Güneş sistemindeki en büyük dağ olan ve sönmüş bir yanardağ olan 'Olympus Mons' hangi gezegendedir?",
+                "options": [
+                    "Venüs",
+                    "Mars",
+                    "Jüpiter",
+                    "Satürn"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk edebiyatında 'Yedi Meşaleciler' topluluğunun kurucuları arasında yer alan ve 'Mesut İnsanlar Fotoğrafhanesi' adlı eseriyle tanınan yazar kimdir?",
+                "options": [
+                    "Ziya Osman Saba",
+                    "Yaşar Nabi Nayır",
+                    "Cevdet Kudret",
+                    "Sabri Esat Siyavuşgil"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en küçük kıtası aşağıdakilerden hangisidir?",
+                "options": [
+                    "Avrupa",
+                    "Antarktika",
+                    "Avustralya",
+                    "Güney Amerika"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Eski Yunan mitolojisinde 'Müzik ve Sanatın Tanrısı' olarak bilinen, aynı zamanda güneşle özdeşleştirilen tanrı kimdir?",
+                "options": [
+                    "Ares",
+                    "Hermes",
+                    "Apollo",
+                    "Poseidon"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Birleşmiş Milletler'in beş daimi üyesinden biri olmayan ülke aşağıdakilerden hangisidir?",
+                "options": [
+                    "Çin",
+                    "Fransa",
+                    "Almanya",
+                    "Rusya"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Işık hızı saniyede yaklaşık olarak kaç kilometredir?",
+                "options": [
+                    "100.000",
+                    "200.000",
+                    "300.000",
+                    "400.000"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'nin en uzun kıyı şeridine sahip olan coğrafi bölgesi hangisidir?",
+                "options": [
+                    "Karadeniz",
+                    "Marmara",
+                    "Ege",
+                    "Akdeniz"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Brezilya'nın resmi dili aşağıdakilerden hangisidir?",
+                "options": [
+                    "İspanyolca",
+                    "Portekizce",
+                    "İngilizce",
+                    "Fransızca"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Kendi adıyla anılan 'İnsani Gelişmişlik Endeksi'ni de etkileyen, atomun parçalanabileceğini söyleyen ünlü fizikçi kimdir?",
+                "options": [
+                    "Albert Einstein",
+                    "İsaac Newton",
+                    "Niels Bohr",
+                    "Ernest Rutherford"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi hayvanın sütü pembe renklidir?",
+                "options": [
+                    "Zürafa",
+                    "Su Aygırı",
+                    "Fil",
+                    "Gergedan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Tarihteki ilk demokrasi denemelerinin yapıldığı, 'Polis' adı verilen şehir devletleriyle ünlü uygarlık hangisidir?",
+                "options": [
+                    "Hititler",
+                    "Sümerler",
+                    "İyonlar",
+                    "Asurlar"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünyanın yedi harikasından biri olan 'Babil'in Asma Bahçeleri' günümüzde hangi ülkenin sınırları içerisinde kalırdı?",
+                "options": [
+                    "Mısır",
+                    "İran",
+                    "Irak",
+                    "Türkiye"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "İnsan kalbinde toplam kaç adet odacık (karıncık ve kulakçık) bulunur?",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "6"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Edebiyatımızda 'Mavi Sürgün' eseriyle tanınan ve Bodrum'un simgesi haline gelen 'Halikarnas Balıkçısı'nın asıl adı nedir?",
+                "options": [
+                    "Cevat Şakir Kabaağaçlı",
+                    "Sait Faik Abasıyanık",
+                    "Sabahattin Ali",
+                    "Reşat Nuri Güntekin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en uzun nehrinin adı nedir?",
+                "options": [
+                    "Amazon",
+                    "Nil",
+                    "Ganj",
+                    "Missisippi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Müzik tarihinde 'Dahi' olarak kabul edilen ve henüz 5 yaşındayken beste yapmaya başlayan Avusturyalı besteci kimdir?",
+                "options": [
+                    "Beethoven",
+                    "Bach",
+                    "Mozart",
+                    "Chopin"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Satrançta bir oyuncu, rakibinin şahını tehdit ettiğinde bunu belirtmek için hangi kelimeyi söyler?",
+                "options": [
+                    "Mat",
+                    "Pat",
+                    "Şah",
+                    "Rok"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi ülke 'Doğan Güneşin Ülkesi' olarak anılır?",
+                "options": [
+                    "Çin",
+                    "Güney Kore",
+                    "Tayland",
+                    "Japonya"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'nin yüz ölçümü bakımından en büyük gölü olan Van Gölü'nün suları ne özelliktedir?",
+                "options": [
+                    "Tatlı",
+                    "Tuzlu",
+                    "Sodalı",
+                    "Kireçli"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Fransız ihtilali sırasında halkın yönetime el koyduğu ve bugün Fransa'nın ulusal bayramı olarak kutlanan olay hangi hapishanenin baskınıdır?",
+                "options": [
+                    "Bastille",
+                    "Alcatraz",
+                    "Tower of London",
+                    "Chateau d'If"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Aşağıdaki elementlerden hangisi 'yanıcı' bir gazdır ve evrendeki en hafif elementtir?",
+                "options": [
+                    "Oksijen",
+                    "Azot",
+                    "Hidrojen",
+                    "Helyum"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Tarihteki ilk yazılı kanunlar olarak bilinen 'Urnammu Kanunları' hangi uygarlığa aittir?",
+                "options": [
+                    "Babil",
+                    "Asur",
+                    "Sümer",
+                    "Hitit"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Hangi meyve, botanik açıdan aslında bir 'dutsu meyve' (berry) iken, çilek bir 'yalancı meyve' kabul edilir?",
+                "options": [
+                    "Elma",
+                    "Muz",
+                    "Erik",
+                    "Kayısı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye Cumhuriyeti'nin ilk kadın pilotu kimdir?",
+                "options": [
+                    "Sabiha Gökçen",
+                    "Bedriye Tahir Gökmen",
+                    "Safiye Ali",
+                    "Halide Edip Adıvar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünya genelinde 'kara altın' olarak adlandırılan doğal kaynak hangisidir?",
+                "options": [
+                    "Kömür",
+                    "Elmas",
+                    "Petrol",
+                    "Bor"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Kendi adıyla anılan bir 'ölçek' ile depremlerin büyüklüğünü ölçen bilim insanı kimdir?",
+                "options": [
+                    "Celsius",
+                    "Richter",
+                    "Kelvin",
+                    "Newton"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Nobel ödülleri arasında hangi kategoride bir ödül verilmez?",
+                "options": [
+                    "Matematik",
+                    "Fizik",
+                    "Kimya",
+                    "Edebiyat"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı tarihinde 'Avni' mahlasıyla şiirler yazan, havan topunun projesini bizzat çizen ve İstanbul'u fetheden padişah kimdir?",
+                "options": [
+                    "Yavuz Sultan Selim",
+                    "Fatih Sultan Mehmet",
+                    "Kanuni Sultan Süleyman",
+                    "II. Abdülhamid"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "İnsan vücudunda 'denge merkezi' olarak görev yapan ve kulaktaki yarım daire kanallarıyla koordineli çalışan organ hangisidir?",
+                "options": [
+                    "Beyin",
+                    "Beyincik",
+                    "Omurilik Soğanı",
+                    "Talamus"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "19. yüzyılda Darwin'e 'Evrim Teorisi' için ilham veren, dev kaplumbağalarıyla ünlü takımadalar hangisidir?",
+                "options": [
+                    "Maldivler",
+                    "Galapagos",
+                    "Seyşeller",
+                    "Fiji"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Hangi gezegen, kendi ekseni etrafındaki dönüşünü Güneş etrafındaki dönüşünden daha yavaş tamamladığı için 'bir günü bir yılından daha uzun' olan tek gezegendir?",
+                "options": [
+                    "Merkür",
+                    "Venüs",
+                    "Mars",
+                    "Neptün"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Kimyada bir tepkimeye girip tepkimeyi hızlandıran ancak kendisi değişmeden çıkan maddelere ne ad verilir?",
+                "options": [
+                    "İnhibitör",
+                    "Katalizör",
+                    "Reaktant",
+                    "Çözücü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk beşleri arasında yer alan, Türkiye'nin ilk Türk operası olan 'Özsoy'u besteleyen sanatçı kimdir?",
+                "options": [
+                    "Cemal Reşit Rey",
+                    "Ahmet Adnan Saygun",
+                    "Ulvi Cemal Erkin",
+                    "Hasan Ferit Alnar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Mitolojide her dokunduğunu altına çevirme yeteneğiyle (veya lanetiyle) bilinen Frigya kralı kimdir?",
+                "options": [
+                    "Sisyphos",
+                    "Midas",
+                    "Oidipus",
+                    "Tantalos"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünyanın en büyük tatlı su gölü yüz ölçümü bakımından aşağıdakilerden hangisidir?",
+                "options": [
+                    "Hazar Denizi",
+                    "Superior Gölü",
+                    "Baykal Gölü",
+                    "Victoria Gölü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "İspanyol İç Savaşı'nın acılarını anlatan ve Picasso tarafından yapılan devasa siyah-beyaz tablonun adı nedir?",
+                "options": [
+                    "Guernica",
+                    "Ağlayan Kadın",
+                    "Avignonlu Kızlar",
+                    "Yıldızlı Gece"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Kendi adıyla anılan bir genetik yasası geliştiren ve bezelyelerle yaptığı deneylerle tanınan bilim insanı kimdir?",
+                "options": [
+                    "Lamarck",
+                    "Gregor Mendel",
+                    "Charles Darwin",
+                    "Alfred Wallace"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'nin 'Mavi Bayrak' ödüllü plajlarının en yoğun olduğu ilimiz hangisidir?",
+                "options": [
+                    "Muğla",
+                    "İzmir",
+                    "Antalya",
+                    "Aydın"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Atmosferin hangi katmanı, radyo dalgalarını yansıtma özelliği sayesinde uzun mesafeli haberleşmeye olanak tanır?",
+                "options": [
+                    "Troposfer",
+                    "Stratosfer",
+                    "Mezosfer",
+                    "İyonosfer"
+                ],
+                "correct_answer": 3,
+                "difficulty": 6
+            },
+            {
+                "question": "Aşağıdaki ülkelerden hangisinin bayrağı kare formuna en yakın (1:1 oranında) ve üzerinde bir artı işareti vardır?",
+                "options": [
+                    "İsveç",
+                    "Norveç",
+                    "İsviçre",
+                    "Danimarka"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Hangi vitaminin eksikliği çocuklarda 'raşitizm', yetişkinlerde ise 'osteomalazi' (kemik yumuşaması) hastalığına neden olur?",
+                "options": [
+                    "A Vitamini",
+                    "B12 Vitamini",
+                    "C Vitamini",
+                    "D Vitamini"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünyanın en büyük yüz ölçümüne sahip ülkesi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Çin",
+                    "ABD",
+                    "Rusya",
+                    "Kanada"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "İstiklal Marşı'mızın bestecisi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Mehmet Akif Ersoy",
+                    "Osman Zeki Üngör",
+                    "Zeki Müren",
+                    "Münir Nurettin Selçuk"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Güneş sisteminde 'Halkalı Gezegen' olarak bilinen ve görkemli halkalarıyla tanınan gezegen hangisidir?",
+                "options": [
+                    "Jüpiter",
+                    "Satürn",
+                    "Uranüs",
+                    "Neptün"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Nobel ödülleri hangi bilim insanının vasiyeti üzerine verilmeye başlanmıştır?",
+                "options": [
+                    "Albert Einstein",
+                    "Alfred Nobel",
+                    "Isaac Newton",
+                    "Marie Curie"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'nin en yüksek dağı olan Ağrı Dağı, hangi coğrafi bölgemizin sınırları içerisinde yer alır?",
+                "options": [
+                    "Karadeniz",
+                    "Doğu Anadolu",
+                    "İç Anadolu",
+                    "Güneydoğu Anadolu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Mona Lisa tablosu ile tanınan, Rönesans döneminin dahi sanatçısı kimdir?",
+                "options": [
+                    "Michelangelo",
+                    "Raphael",
+                    "Leonardo da Vinci",
+                    "Donatello"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Havadaki nem oranını ölçmek için kullanılan aletin adı nedir?",
+                "options": [
+                    "Barometre",
+                    "Termometre",
+                    "Higrometre",
+                    "Anemometre"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Cumhuriyetimizin kurucusu Mustafa Kemal Atatürk'ün nüfusa kayıtlı olduğu il hangisidir?",
+                "options": [
+                    "Ankara",
+                    "İstanbul",
+                    "Gaziantep",
+                    "Selanik"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Vücudumuzda kanı temizleyerek süzme görevini yapan organ hangisidir?",
+                "options": [
+                    "Kalp",
+                    "Mide",
+                    "Böbrek",
+                    "Akciğer"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Aşağıdaki ülkelerden hangisinin 'Eyfel Kulesi' gibi bir dünya miras alanı vardır?",
+                "options": [
+                    "Almanya",
+                    "Fransa",
+                    "İtalya",
+                    "İspanya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk lirasının simgesi (₺) hangi yıl kullanılmaya başlanmıştır?",
+                "options": [
+                    "2010",
+                    "2012",
+                    "2014",
+                    "2015"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en derin okyanusu hangisidir?",
+                "options": [
+                    "Atlas Okyanusu",
+                    "Hint Okyanusu",
+                    "Büyük Okyanus",
+                    "Arktik Okyanusu"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi vitamin 'Güneş Vitamini' olarak da bilinir ve vücudun kalsiyumu emmesine yardımcı olur?",
+                "options": [
+                    "A Vitamini",
+                    "B12 Vitamini",
+                    "C Vitamini",
+                    "D Vitamini"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı Devleti'nin başkenti İstanbul'un fethi hangi yıl gerçekleşmiştir?",
+                "options": [
+                    "1071",
+                    "1299",
+                    "1453",
+                    "1923"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Edebiyatta 'Bilinç akışı' tekniğinin en önemli temsilcilerinden olan ve 'Mrs. Dalloway' adlı eseriyle tanınan İngiliz yazar kimdir?",
+                "options": [
+                    "Virginia Woolf",
+                    "Jane Austen",
+                    "George Eliot",
+                    "Emily Brontë"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "İnsan vücudundaki en küçük kemik olan 'üzengi kemiği' (stapes) vücudun hangi bölümünde bulunur?",
+                "options": [
+                    "El bileği",
+                    "İç kulak",
+                    "Ayak parmağı",
+                    "Burun kemiği"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1945 yılında kurulan Birleşmiş Milletler'in (BM) merkezi hangi şehirde bulunmaktadır?",
+                "options": [
+                    "Cenevre",
+                    "Viyana",
+                    "New York",
+                    "Brüksel"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı Devleti'nde ilk kez 'Reisülküttab'lık makamının dışişleri bakanlığına (Hariciye Nezareti) dönüştürülmesi hangi padişah dönemindedir?",
+                "options": [
+                    "III. Selim",
+                    "II. Mahmut",
+                    "Abdülaziz",
+                    "V. Murad"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Mitolojide kendi yaptığı heykele aşık olan ve Tanrıça Afrodit'in bu heykeli canlandırmasıyla aşkına kavuşan heykeltıraş kimdir?",
+                "options": [
+                    "Narcissus",
+                    "Pygmalion",
+                    "Midas",
+                    "Orpheus"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Güneş sistemindeki en sıcak gezegen hangisidir? (Not: Güneş'e en yakın olan değil, sera etkisi en yoğun olandır.)",
+                "options": [
+                    "Merkür",
+                    "Venüs",
+                    "Mars",
+                    "Jüpiter"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türk tarihinde 'Dede Korkut Hikayeleri'ni ilk kez yazıya geçiren ve günümüze ulaşmasını sağlayan nüshaların bulunduğu şehirler hangileridir?",
+                "options": [
+                    "İstanbul - Ankara",
+                    "Dresden - Vatikan",
+                    "Paris - Londra",
+                    "Bakü - Aşkabat"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Kimyada 'soygazlar' grubunun ilk elementi olan ve evrende hidrojenden sonra en bol bulunan element hangisidir?",
+                "options": [
+                    "Neon",
+                    "Argon",
+                    "Helyum",
+                    "Kripton"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Rönesans döneminde 'Atina Okulu' adlı devasa freski yaparak Platon ve Aristo gibi filozofları aynı tabloda buluşturan ressam kimdir?",
+                "options": [
+                    "Leonardo da Vinci",
+                    "Raphael",
+                    "Michelangelo",
+                    "Donatello"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "19. yüzyılda 'Sefiller' (Les Misérables) romanıyla Fransız toplumundaki adaletsizliği eleştiren dev yazar kimdir?",
+                "options": [
+                    "Gustave Flaubert",
+                    "Victor Hugo",
+                    "Emile Zola",
+                    "Honore de Balzac"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de 'Ihlara Vadisi' olarak bilinen ve içinde çok sayıda kaya kilisesi barındıran doğal oluşum hangi ilimizdedir?",
+                "options": [
+                    "Nevşehir",
+                    "Aksaray",
+                    "Niğde",
+                    "Kayseri"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Dünyanın en derin gölü olan Baykal Gölü hangi ülkenin sınırları içerisinde yer almaktadır?",
+                "options": [
+                    "Kanada",
+                    "Rusya",
+                    "Çin",
+                    "Moğolistan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "İnternet dünyasında 'IP' (Internet Protocol) adreslerinin daha kolay hatırlanması için kullanılan sisteme (Örn: google.com) ne ad verilir?",
+                "options": [
+                    "URL",
+                    "DNS",
+                    "HTTP",
+                    "FTP"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Müzik tarihinde 'Piyanist' filmiyle de hatırlanan, Polonya asıllı ünlü besteci ve piyanist kimdir?",
+                "options": [
+                    "Franz Liszt",
+                    "Frederic Chopin",
+                    "Ludwig van Beethoven",
+                    "Wolfgang Amadeus Mozart"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Aşağıdaki ülkelerden hangisi, Avrupa Birliği üyesi olmasına rağmen ortak para birimi olan 'Euro'yu kullanmamaktadır?",
+                "options": [
+                    "Fransa",
+                    "Danimarka",
+                    "İtalya",
+                    "İspanya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "1666 yılında gerçekleşen ve şehrin %80'ini yok ederek modern şehir planlamacılığının doğmasına neden olan 'Büyük Yangın' hangi Avrupa başkentinde yaşanmıştır?",
+                "options": [
+                    "Paris",
+                    "Londra",
+                    "Roma",
+                    "Viyana"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'nin de kurucu üyeleri arasında bulunduğu, merkezi Cidde'de olan 'İslam İşbirliği Teşkilatı' hangi şehrin 1969'da kundaklanması üzerine kurulmuştur?",
+                "options": [
+                    "Mekke",
+                    "Medine",
+                    "Kudüs",
+                    "Kahire"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Edebiyatta 'Dedektif Sherlock Holmes' karakterinin yaratıcısı olan ve aslında bir tıp doktoru olan yazar kimdir?",
+                "options": [
+                    "Agatha Christie",
+                    "Arthur Conan Doyle",
+                    "Edgar Allan Poe",
+                    "Maurice Leblanc"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "İnsan vücudunda bulunan ve 'mutluluk hormonu' olarak bilinen, eksikliğinde depresyona yol açabilen nörotransmitter hangisidir?",
+                "options": [
+                    "Dopamin",
+                    "Adrenalin",
+                    "Serotonin",
+                    "İnsülin"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Sanat tarihinde 'Kübizm' akımının kurucusu kabul edilen ve 'Guernica' tablosuyla tanınan İspanyol ressam kimdir?",
+                "options": [
+                    "Salvador Dali",
+                    "Pablo Picasso",
+                    "Joan Miro",
+                    "Francisco Goya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Güneş sistemindeki en büyük uydu olan ve Jüpiter'in etrafında dönen gök cismi hangisidir?",
+                "options": [
+                    "Titan",
+                    "Ganymede",
+                    "Europa",
+                    "Callisto"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Osmanlı İmparatorluğu'nda 'Şairler Sultanı' (Sultanü'ş Şuara) unvanına sahip olan, 'Kanuni Mersiyesi'nin yazarı kimdir?",
+                "options": [
+                    "Fuzuli",
+                    "Baki",
+                    "Nefi",
+                    "Nedim"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünyanın en büyük sıcak çölü olan Sahra Çölü, Afrika kıtasının yaklaşık olarak ne kadarını kaplamaktadır?",
+                "options": [
+                    "%10",
+                    "%20",
+                    "%30",
+                    "%50"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Bilim dünyasında 'E=mc²' formülüyle enerjinin kütleye dönüşebileceğini kanıtlayan Albert Einstein, bu formülü hangi teorisi kapsamında geliştirmiştir?",
+                "options": [
+                    "Kuantum Teorisi",
+                    "Genel Görelilik",
+                    "Özel Görelilik",
+                    "Fotoelektrik Etki"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Fransız ihtilalinden sonra iktidara gelen ve 'Kod Napolyon' olarak bilinen medeni kanunla modern hukuk sistemlerini etkileyen lider kimdir?",
+                "options": [
+                    "XVI. Louis",
+                    "Maximilien Robespierre",
+                    "Napolyon Bonapart",
+                    "Charles de Gaulle"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Satrançta bir oyuncunun şahının hiçbir yere kaçamayacak şekilde saldırı altında kalması durumuna ne ad verilir?",
+                "options": [
+                    "Pat",
+                    "Rok",
+                    "Mat",
+                    "Gambit"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı Devleti'nde kağıt paraya (Kaime) geçiş hangi padişah döneminde gerçekleşmiştir?",
+                "options": [
+                    "II. Mahmut",
+                    "Abdülmecid",
+                    "Abdülaziz",
+                    "II. Abdülhamid"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Mitolojide 'Tanrıların Habercisi' olarak bilinen ve ayaklarındaki kanatlı sandaletlerle tasvir edilen Yunan tanrısı kimdir?",
+                "options": [
+                    "Ares",
+                    "Hermes",
+                    "Apollo",
+                    "Hephaistos"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Anıtkabir'in mimarları olan Emin Onat ve Orhan Arda'nın, yapının tasarımında ilham aldıkları ve Anadolu'nun en eski uygarlıklarından birine ait olan 'Aslanlı Yol' hangi medeniyetin sanat üslubunu yansıtır?",
+                "options": [
+                    "Frigler",
+                    "Hititler",
+                    "Lidyalılar",
+                    "Urartular"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Osmanlı Devleti'nde sadrazamlık makamına getirilen ilk devşirme kökenli devlet adamı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Çandarlı Halil Paşa",
+                    "Veli Mahmud Paşa",
+                    "Pargalı İbrahim Paşa",
+                    "Sokullu Mehmed Paşa"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Klasik Türk müziğinde 'Yedi Kule' olarak da bilinen ve en büyük usullerden biri kabul edilen 120 zamanlı devasa usulün adı nedir?",
+                "options": [
+                    "Zencir",
+                    "Çenber",
+                    "Dar-ı Fetih",
+                    "Remel"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Modern Türk resminin öncülerinden olan ve 'Mavi Sürgün' olarak bilinen Halikarnas Balıkçısı'nın kız kardeşi olan ünlü kadın ressamımız kimdir?",
+                "options": [
+                    "Fahrelnissa Zeid",
+                    "Aliye Berger",
+                    "Semiha Berksoy",
+                    "Mihri Müşfik Hanım"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Türkiye'de bulunan ve 'Gladyatörler Şehri' olarak bilinen, dünyanın en büyük mermer antik kentlerinden biri olan yerleşim hangisidir?",
+                "options": [
+                    "Stratonikeia",
+                    "Kibyra",
+                    "Sagalassos",
+                    "Knidos"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "1932 yılında Milletler Cemiyeti'ne (Cemiyet-i Akvam) Türkiye'nin ilk temsilcisi olarak atanan devlet adamı kimdir?",
+                "options": [
+                    "Tevfik Rüştü Aras",
+                    "Cemal Hüsnü Taray",
+                    "Fethi Okyar",
+                    "İsmet İnönü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Osmanlı saray mutfağının en meşhur tatlılarından biri olan ve 'saray helvası' olarak da bilinen, içinde hiç un bulunmayan lezzet hangisidir?",
+                "options": [
+                    "Zerde",
+                    "Levzine",
+                    "Baklava",
+                    "Güllaç"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye'nin 'Sakin Şehir' (Cittaslow) unvanını alan ilk yerleşimi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Akyaka",
+                    "Seferihisar",
+                    "Gökçeada",
+                    "Taraklı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Cumhuriyet döneminin ilk kağıt parasının (I. Emisyon) üzerinde resmi bulunan ve 'birinci meclis' binasını tasvir eden para birimi hangisidir?",
+                "options": [
+                    "1 Türk Lirası",
+                    "5 Türk Lirası",
+                    "10 Türk Lirası",
+                    "100 Türk Lirası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Mimar Sinan'ın 'Çıraklık Eserim' dediği Şehzade Camii'nin bahçesinde bulunan ve yapının 'ağırlık merkezini' temsil ettiğine inanılan sütun hangisidir?",
+                "options": [
+                    "Yeşil Sütun",
+                    "Kırmızı Sütun",
+                    "Yılanlı Sütun",
+                    "Örme Sütun"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Türk edebiyatında 'Korkuyu Beklerken' ve 'Tehlikeli Oyunlar' eserleriyle tanınan Oğuz Atay'ın, biyografisini yazdığı ünlü bilim insanı kimdir?",
+                "options": [
+                    "Cahit Arf",
+                    "Mustafa İnan",
+                    "Feza Gürsey",
+                    "Hulusi Behçet"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Antalya'da bulunan ve dünyanın en iyi korunmuş antik tiyatrolarından biri olan Aspendos'un mimarı kimdir?",
+                "options": [
+                    "Zenon",
+                    "Vitruvius",
+                    "Anthemius",
+                    "Sostratos"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Osmanlı Devleti'nde ilk kez 'Vakayı Nuvis' (Resmi Tarih Yazıcısı) olarak atanan isim kimdir?",
+                "options": [
+                    "Naîmâ Mustafa Efendi",
+                    "Peçevi İbrahim Efendi",
+                    "Aşıkpaşazade",
+                    "Ahmedi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye'nin en kuzey noktası olan İnceburun'da bulunan fenerin deniz seviyesinden yüksekliği yaklaşık kaç metredir?",
+                "options": [
+                    "12",
+                    "26",
+                    "38",
+                    "54"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Osmanlı Devleti'nde 'Vakayı Hayriye' olarak adlandırılan, Yeniçeri Ocağı'nın kaldırılması olayını gerçekleştiren padişah hangisidir?",
+                "options": [
+                    "III. Selim",
+                    "II. Mahmut",
+                    "Abdülmecid",
+                    "II. Abdülhamid"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Sanat tarihinde 'Türk Empresyonizmi'nin öncülerinden kabul edilen ve meşhur 'Zeybekler' tablosunun sahibi olan ressam kimdir?",
+                "options": [
+                    "İbrahim Çallı",
+                    "Abidin Dino",
+                    "Fikret Mualla",
+                    "Osman Hamdi Bey"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye'nin ilk kadın arkeoloğu olan ve Hitit hiyerogliflerinin çözülmesinde büyük rol oynayan isim kimdir?",
+                "options": [
+                    "Halet Çambel",
+                    "Jale İnan",
+                    "Muazzez İlmiye Çığ",
+                    "Afet İnan"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Bursa'da bulunan ve Orhan Gazi tarafından yaptırılan 'Koza Han', hangi ipek yolu ticaretinin Anadolu'daki en önemli merkezlerinden biri olmuştur?",
+                "options": [
+                    "Baharat Ticareti",
+                    "İpek Koza Ticareti",
+                    "Tuz Ticareti",
+                    "Kürk Ticareti"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Modern Türk hikayeciliğinin kurucusu kabul edilen, 'Yüksek Ökçeler' ve 'Kaşağı' gibi eserlerin yazarı Ömer Seyfettin hangi savaş sırasında esir düşmüştür?",
+                "options": [
+                    "Balkan Savaşları",
+                    "I. Dünya Savaşı",
+                    "Çanakkale Savaşı",
+                    "Trablusgarp Savaşı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Türkiye'nin en derin gölü olan ve 184 metre derinliğe ulaşan, karstik oluşumlu gölümüz hangisidir?",
+                "options": [
+                    "Salda Gölü",
+                    "Van Gölü",
+                    "Eğirdir Gölü",
+                    "Hazar Gölü"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Cumhuriyet tarihinin ilk barajı olma özelliğini taşıyan ve 1936 yılında açılan baraj hangisidir?",
+                "options": [
+                    "Keban Barajı",
+                    "Çubuk-1 Barajı",
+                    "Hirfanlı Barajı",
+                    "Sarıyar Barajı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Antik Çağ'da 'Filozofların Şehri' olarak bilinen ve Aristoteles'in bir dönem ders verdiği, Çanakkale sınırları içindeki antik kent hangisidir?",
+                "options": [
+                    "Troya",
+                    "Assos",
+                    "Pergamon",
+                    "Efes"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Türk beşleri arasında yer alan, Türkiye'nin ilk operası 'Özsoy'un bestecisi olan sanatçı kimdir?",
+                "options": [
+                    "Ulvi Cemal Erkin",
+                    "Ahmed Adnan Saygun",
+                    "Cemal Reşit Rey",
+                    "Hasan Ferit Alnar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Evliya Çelebi'nin 'Seyahatname' adlı eserinde 'Göklerin yeryüzündeki gölgesi' olarak tanımladığı şehir hangisidir?",
+                "options": [
+                    "İstanbul",
+                    "Bursa",
+                    "Edirne",
+                    "Konya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Türkiye'de bulunan ve 'Dünyanın en büyük mermer antik kenti' olarak bilinen, UNESCO adayı yerleşim yeri hangisidir?",
+                "options": [
+                    "Aphrodisias",
+                    "Sagalassos",
+                    "Termessos",
+                    "Knidos"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Osmanlı İmparatorluğu'nda 'Lale Devri'ne son veren ve III. Ahmed'in tahttan indirilmesine neden olan ayaklanma hangisidir?",
+                "options": [
+                    "Patrona Halil İsyanı",
+                    "Kabakçı Mustafa İsyanı",
+                    "Şeyh Bedreddin İsyanı",
+                    "Canberdi Gazali İsyanı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünyanın en eski kütüphanelerinden biri kabul edilen Celsus Kütüphanesi, hangi antik kentimizin en ikonik yapısıdır?",
+                "options": [
+                    "Perge",
+                    "Hierapolis",
+                    "Efes",
+                    "Milet"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "18. yüzyılda keşfedilen ve Mısır hiyerogliflerinin çözülmesini sağlayan Rosetta Taşı üzerinde, aynı metnin yazıldığı üç dilden biri Antik Yunanca, diğeri Hiyeroglif, üçüncüsü ise hangisidir?",
+                "options": [
+                    "Kıpti",
+                    "Demotik",
+                    "Akadca",
+                    "Fenikece"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Müzik teorisinde, bir gamdaki tüm notaların birbirine eşit mesafede (yarım ses) olduğu ve herhangi bir anahtar duygusu barındırmayan diziye ne ad verilir?",
+                "options": [
+                    "Pentatonik Gam",
+                    "Kromatik Gam",
+                    "Diatonik Gam",
+                    "Modülasyon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Antropolojide 'İnsanın kökeni' üzerine yaptığı çalışmalarla tanınan ve 1974'te Etiyopya'da bulunan 3.2 milyon yıllık 'Lucy' fosilini keşfeden paleoantropolog kimdir?",
+                "options": [
+                    "Donald Johanson",
+                    "Richard Leakey",
+                    "Jane Goodall",
+                    "Raymond Dart"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Fizikte 'Standart Model'in eksik parçası olan ve parçacıklara kütle kazandırdığı düşünülen 'Higgs Bozonu'nun varlığı hangi yıl CERN'de yapılan deneylerle doğrulanmıştır?",
+                "options": [
+                    "2005",
+                    "2008",
+                    "2012",
+                    "2015"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Hukuk tarihinde 'Kısasa kısas' ilkesini sistemli bir metin haline getiren ve Mezopotamya'da hüküm süren Babil kralı kimdir?",
+                "options": [
+                    "Sargon",
+                    "Hammurabi",
+                    "Nabukadnezar",
+                    "Gılgamış"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünyanın en zor çözülen şifrelerinden biri olan ve II. Dünya Savaşı'nda Alman ordusu tarafından kullanılan Enigma makinesinin şifreleme mantığını temelden sarsan 'Bomba' adlı makineyi tasarlayan Polonyalı matematikçi kimdir?",
+                "options": [
+                    "Marian Rejewski",
+                    "Alan Turing",
+                    "John von Neumann",
+                    "Kurt Gödel"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Sanat tarihinde 'Işık ve Gölgenin Ustası' olarak bilinen, 'Gece Devriyesi' (The Night Watch) tablosunun sahibi Hollandalı ressam kimdir?",
+                "options": [
+                    "Vermeer",
+                    "Rembrandt",
+                    "Van Gogh",
+                    "Rubens"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Klasik filolojide, Truva Savaşı'nı anlatan 'İlyada' destanının sadece son kaç gününü kapsadığı kabul edilir?",
+                "options": [
+                    "10 Gün",
+                    "51 Gün",
+                    "1 Yıl",
+                    "10 Yıl"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Matematikte 'Sayıların Teorisi' üzerine yaptığı çalışmalarla bilinen ve ölmeden önce 'Bir teoremin ispatını buldum ama marj (kağıt kenarı) yetersiz' diyen Fransız matematikçi kimdir?",
+                "options": [
+                    "Pascal",
+                    "Descartes",
+                    "Pierre de Fermat",
+                    "Lagrange"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "20. yüzyıl felsefesinin en zor metinlerinden biri kabul edilen 'Tractatus Logico-Philosophicus' adlı eserin yazarı kimdir?",
+                "options": [
+                    "Martin Heidegger",
+                    "Ludwig Wittgenstein",
+                    "Jean-Paul Sartre",
+                    "Friedrich Nietzsche"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Dünya edebiyatında 'Magnum Opus'u sayılan 'İlahi Komedya'yı İtalyancanın Toskana lehçesiyle yazarak modern İtalyancanın temellerini atan şair kimdir?",
+                "options": [
+                    "Petrarca",
+                    "Boccaccio",
+                    "Dante Alighieri",
+                    "Machiavelli"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Biyolojide, hücrenin kendi kendini sindirmesi ve temizlemesi işlemi olan 'Otofaji' mekanizmasını keşfederek 2016 Nobel Tıp Ödülü'nü kazanan bilim insanı kimdir?",
+                "options": [
+                    "Yoshinori Ohsumi",
+                    "Shinya Yamanaka",
+                    "Tu Youyou",
+                    "Tasuku Honjo"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Fransız ihtilalci Jean-Paul Marat'nın bir küvette bıçaklanarak öldürülmesini tasvir eden ünlü 'Marat'nın Ölümü' tablosu hangi ressama aittir?",
+                "options": [
+                    "Eugène Delacroix",
+                    "Jacques-Louis David",
+                    "Jean-Auguste-Dominique Ingres",
+                    "Gustave Courbet"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Periyodik tabloda oda sıcaklığında sıvı halde bulunan iki elementten biri Cıva (Hg), diğeri hangisidir?",
+                "options": [
+                    "Sezyum",
+                    "Brom",
+                    "Galyum",
+                    "Fransiyum"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "17. yüzyılda Hollanda'da yaşanan ve tarihteki ilk spekülatif balon kabul edilen 'Lale Çılgınlığı' (Tulip Mania) sırasında, tek bir lale soğanı karşılığında hangisinin satın alınabildiği kaydedilmiştir?",
+                "options": [
+                    "Bir savaş gemisi",
+                    "Lüks bir malikâne",
+                    "Küçük bir ordu",
+                    "Bir kütüphane dolusu el yazması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Brezilya'nın başkenti Brasília'yı bir 'uçak' formunda tasarlayan ve modern mimarinin en önemli isimlerinden biri kabul edilen şehir plancısı kimdir?",
+                "options": [
+                    "Oscar Niemeyer",
+                    "Lucio Costa",
+                    "Le Corbusier",
+                    "Frank Lloyd Wright"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Felsefede 'Hiçbir şey yoktur, olsa da bilinemez, bilinse de başkasına aktarılamaz' diyerek nihilizmin ilk tohumlarını atan Sofist düşünür kimdir?",
+                "options": [
+                    "Protagoras",
+                    "Gorgias",
+                    "Thales",
+                    "Herakleitos"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Müzik tarihinde 'Bach'tan sonraki en büyük polifoni ustası' kabul edilen, 'Matematiğin müziği' olarak bilinen 48 prelüd ve füglük dev eserin tam adı nedir?",
+                "options": [
+                    "Goldberg Varyasyonları",
+                    "Brandenburg Konçertoları",
+                    "Eşit Düzenli Klavye",
+                    "Füg Sanatı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Periyodik cetvelde ismi bir bilim insanına değil, bir ülkeye (Polonya) atfen Marie Curie tarafından verilen element hangisidir?",
+                "options": [
+                    "Radyum",
+                    "Polonyum",
+                    "Kurçatovyum",
+                    "Frankiyum"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Edebiyat dünyasında 'Bilinç akışı' tekniğini zirveye taşıyan, tek bir günü 800 küsur sayfada anlatan 'Ulysses' romanının yazarı James Joyce hangi şehri merkezine almıştır?",
+                "options": [
+                    "Londra",
+                    "Dublin",
+                    "Paris",
+                    "Zürih"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Orta Çağ İslam dünyasında 'İkinci Öğretmen' (Muallim-i Sani) lakabıyla anılan, Aristo felsefesini yorumlayan ünlü düşünür kimdir?",
+                "options": [
+                    "İbn-i Sina",
+                    "Farabi",
+                    "Gazali",
+                    "İbn-i Rüşd"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Antik dünyanın yedi harikasından biri olan ve depremler sonucu yıkılarak sular altında kalan İskenderiye Feneri, hangi ada üzerine inşa edilmişti?",
+                "options": [
+                    "Rodos",
+                    "Pharos",
+                    "Girit",
+                    "Kıbrıs"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Matematikte 'X' işaretini çarpma işlemi için ilk kez kullanan ve logaritmanın gelişimine katkıda bulunan İngiliz matematikçi kimdir?",
+                "options": [
+                    "John Napier",
+                    "William Oughtred",
+                    "Isaac Newton",
+                    "Gottfried Leibniz"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Fransız Devrimi sırasında 'Ekmek bulamıyorlarsa pasta yesinler' dediği iddia edilen Marie Antoinette, aslında hangi ülkenin imparatoriçesinin kızıydı?",
+                "options": [
+                    "İspanya",
+                    "Avusturya",
+                    "Prusya",
+                    "İngiltere"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünyanın en derin noktası olan Mariana Çukuru'na (Challenger Deep) 1960 yılında inen 'Trieste' adlı batiskafın içindeki iki kişiden biri olan ünlü okyanus bilimci kimdir?",
+                "options": [
+                    "James Cameron",
+                    "Jacques Piccard",
+                    "Robert Ballard",
+                    "Jacques Cousteau"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
                 "question": "Modern dünyayı aydınlatan akkor telli ampulü ticari olarak başarıya ulaştıran ve 1000'den fazla patente sahip olan Amerikalı mucit kimdir?",
                 "options": [
                     "Nikola Tesla",
@@ -34912,6 +36430,1108 @@
                 "category": "Halk Edebiyatı",
                 "source_id": "YUSUF VE ZÜLEYHA HİKÂYESİNİN EPİZOT TAHLİLİ",
                 "difficulty": 8
+            }
+        ],
+        "Harry Potter": [
+            {
+                "question": "Harry Potter'ın Hogwarts'taki ilk yılında binaları seçen 'Seçmen Şapka' aslında hangi Hogwarts kurucusuna aitti?",
+                "options": [
+                    "Slytherin",
+                    "Gryffindor",
+                    "Ravenclaw",
+                    "Hufflepuff"
+                ],
+                "correct_answer": 1,
+                "difficulty": 1
+            },
+            {
+                "question": "Ron Weasley'nin en büyük korkusu olan ve Böcürt ile karşılaştığında gördüğü canlı hangisidir?",
+                "options": [
+                    "Yılan",
+                    "Örümcek",
+                    "Fare",
+                    "Ruh Emici"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "Harry Potter serisinde, bir büyücünün evinden başka bir yere ışınlanmasını sağlayan yeşil tozun adı nedir?",
+                "options": [
+                    "Sihir Tozu",
+                    "Uçan Toz",
+                    "Parıltı Tozu",
+                    "Anka Tozu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 3
+            },
+            {
+                "question": "Harry Potter'ın katıldığı Üç Büyücü Turnuvası'nın ikinci görevinde, su altında kurtarması gereken 'en değerli varlığı' kimdir?",
+                "options": [
+                    "Hermione Granger",
+                    "Ron Weasley",
+                    "Cho Chang",
+                    "Hagrid"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Sirius Black'in kardeşi olan ve Lord Voldemort'un Hortkuluklarından birini çalan eski Ölüm Yiyen kimdir?",
+                "options": [
+                    "Lucius Malfoy",
+                    "Regulus Arcturus Black",
+                    "Phineas Nigellus",
+                    "Bellatrix Lestrange"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Severus Snape'in çocukluk aşkı olan Lily Potter'ın Patronus'u hangi hayvan şeklindedir?",
+                "options": [
+                    "Geyik",
+                    "Maral",
+                    "Kuğu",
+                    "Tavşan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarını yapmak için Harry'ye 'İhtiyaç Odası'nı öneren ev cini (kitaplarda) kimdir?",
+                "options": [
+                    "Dobby",
+                    "Kreacher",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Albus Dumbledore'un babası Percival Dumbledore, neden Azkaban'a gönderilmiştir?",
+                "options": [
+                    "Ölüm Yiyen olduğu için",
+                    "Kızına saldıran Muggle çocuklarına saldırdığı için",
+                    "Yasaklı büyü kullandığı için",
+                    "Gellert Grindelwald'a yardım ettiği için"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Lord Voldemort'un Hortkuluk haline getirdiği Rowena Ravenclaw'ın Diademi'ni Harry Potter nerede bulmuştur?",
+                "options": [
+                    "Sırlar Odası",
+                    "Gringotts Bankası",
+                    "İhtiyaç Odası",
+                    "Müdürün Odası"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Ginny Weasley'nin okul dışındayken sahip olduğu ve omuzunda taşıdığı pembe, tüylü küçük yaratığın (Pygmy Puff) adı nedir?",
+                "options": [
+                    "Arnold",
+                    "Barnaby",
+                    "Binky",
+                    "Hermes"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Harry Potter'ın asasıyla aynı çekirdeğe sahip olan (Anka tüyü) Voldemort'un asasını yapan kişi Ollivander'dır. Peki bu asanın boyu tam olarak kaç inçtir?",
+                "options": [
+                    "11 inç",
+                    "13.5 inç",
+                    "10 inç",
+                    "12.5 inç"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Hogwarts Ekspresi'nde yemek arabasını süren yaşlı kadının, öğrencilerin trenden kaçmasını önlemek için ellerinin dönüştüğü nesne hangisidir?",
+                "options": [
+                    "Pençeler",
+                    "Keskin Bıçaklar",
+                    "Alevler",
+                    "Sarmaşıklar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Harry Potter'ın beşinci yılında aldığı S.Y.B.S (Sıradan Büyücülük Düzeyi) sınavlarında 'Astronomi' dersinden aldığı not nedir?",
+                "options": [
+                    "Olağanüstü",
+                    "Beklenenin Üstünde",
+                    "Zayıf",
+                    "Kabul Edilebilir"
+                ],
+                "correct_answer": 3,
+                "difficulty": 8
+            },
+            {
+                "question": "Sirius Black'in evindeki huysuz ev cini Kreacher'ın ait olduğu Black ailesinin sloganı 'Toujours Pur' ne anlama gelir?",
+                "options": [
+                    "Daima Güçlü",
+                    "Daima Safkan",
+                    "Daima Sadık",
+                    "Daima Soylu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Hermione Granger'ın anne ve babasının mesleği nedir?",
+                "options": [
+                    "Öğretmen",
+                    "Doktor",
+                    "Diş Hekimi",
+                    "Avukat"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Harry Potter'ın Hogwarts'taki binaları belirleyen Seçmen Şapka, Harry'yi aslen hangi binaya göndermek istemiştir?",
+                "options": [
+                    "Gryffindor",
+                    "Slytherin",
+                    "Ravenclaw",
+                    "Hufflepuff"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "Harry Potter serisinin ilk kitabında Harry'nin doğum günü olan 31 Temmuz'da Hagrid ona ne hediye etmiştir?",
+                "options": [
+                    "Bir asa",
+                    "Baykuş Hedwig",
+                    "Görünmezlik Pelerini",
+                    "Nimbus 2000"
+                ],
+                "correct_answer": 1,
+                "difficulty": 3
+            },
+            {
+                "question": "Harry Potter'ın katıldığı Üç Büyücü Turnuvası'nın sonundaki labirentte Harry ve Cedric, kupaya aynı anda dokunarak nereye ışınlanmışlardır?",
+                "options": [
+                    "Hogwarts Kalesi",
+                    "Hogsmeade Köyü",
+                    "Little Hangleton Mezarlığı",
+                    "Sihir Bakanlığı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Harry Potter serisinde 'Zümrüdüanka Yoldaşlığı'nın kurucusu ve lideri kimdir?",
+                "options": [
+                    "Albus Dumbledore",
+                    "Sirius Black",
+                    "Kingsley Shacklebolt",
+                    "Remus Lupin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 3
+            },
+            {
+                "question": "Hermione Granger'ın kedisi Crookshanks, aslında hangi hayvana benzer bir melezdir?",
+                "options": [
+                    "Kedi - Vaşak",
+                    "Kedi - Kneazle",
+                    "Kedi - Testral",
+                    "Kedi - Hipogrif"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Ron Weasley'nin meşhur faresi Scabbers'ın asıl kimliği olan Peter Pettigrew, toplamda kaç yıl boyunca fare kılığında yaşamıştır?",
+                "options": [
+                    "5 Yıl",
+                    "8 Yıl",
+                    "12 Yıl",
+                    "15 Yıl"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Gellert Grindelwald'ın, Dumbledore tarafından yenilmeden önce hapsettiği ve kendisinin de daha sonra hapsedildiği ünlü hapishane hangisidir?",
+                "options": [
+                    "Azkaban",
+                    "Nurmengard",
+                    "Gringotts",
+                    "St. Mungo"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Harry Potter'ın dördüncü yılındaki Noel Balosu'nda (Yule Ball), Harry'nin partneri olan Gryffindor öğrencisi kimdir?",
+                "options": [
+                    "Cho Chang",
+                    "Ginny Weasley",
+                    "Parvati Patil",
+                    "Padma Patil"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Profesör Snape'in 'Melez Prens' (Half-Blood Prince) takma adındaki 'Prince' kelimesi annesinin kızlık soyadıdır. Peki annesinin ilk adı nedir?",
+                "options": [
+                    "Lily",
+                    "Eileen",
+                    "Narcissa",
+                    "Bellatrix"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Lord Voldemort'un babası Tom Riddle Senior, nerede öldürülmüştür?",
+                "options": [
+                    "Riddle Evi",
+                    "Hogwarts",
+                    "Gaunt Evi",
+                    "Sihir Bakanlığı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın beşinci yılında savunma derslerine giren Dolores Umbridge'in kullandığı sihirli kalemin mürekkebi aslında nedir?",
+                "options": [
+                    "Ejderha kanı",
+                    "Kullanıcının kendi kanı",
+                    "Siyah mürekkep",
+                    "Görünmez mürekkep"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Severus Snape, Albus Dumbledore'u öldürdüğünde hangi kulede bulunuyorlardı?",
+                "options": [
+                    "Gryffindor Kulesi",
+                    "Astronomi Kulesi",
+                    "Baykuş Kulesi",
+                    "Ravenclaw Kulesi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarının yerini Dolores Umbridge'e ispiyonlayan Marietta Edgecombe'un yüzünde sivilcelerle ne yazmıştır?",
+                "options": [
+                    "HAİN",
+                    "MUHBİR",
+                    "YALANCI",
+                    "SUÇLU"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Harry Potter'ın oğlu Albus Severus Potter'ın tam adı iki müdürden gelir. Peki, Albus'un ikinci ismi olan Severus hangi binanın müdürüydü?",
+                "options": [
+                    "Gryffindor",
+                    "Slytherin",
+                    "Ravenclaw",
+                    "Hufflepuff"
+                ],
+                "correct_answer": 1,
+                "difficulty": 1
+            },
+            {
+                "question": "Sihir Bakanlığı'ndaki Gizemler Dairesi'nde bulunan ve Harry'nin Sirius'un düşerken kaybolduğunu gördüğü o meşhur nesne/yer hangisidir?",
+                "options": [
+                    "Zaman Odası",
+                    "Beyin Odası",
+                    "Ölüm Kemeri",
+                    "Kehanet Küresi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Harry Potter'ın Hogwarts'taki ilk yılında arkadaş olduğu devasa yarı-devin adı nedir?",
+                "options": [
+                    "Grawp",
+                    "Rubeus Hagrid",
+                    "Aragog",
+                    "Fluffy"
+                ],
+                "correct_answer": 1,
+                "difficulty": 1
+            },
+            {
+                "question": "Hermione Granger'ın en sevmediği ve genelde saçma bulduğu, Profesör Trelawney tarafından verilen ders hangisidir?",
+                "options": [
+                    "Aritmansi",
+                    "Kehanet",
+                    "Bitkibilim",
+                    "Tılsım"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "Harry Potter'ın okul dışındaki evi olan Privet Drive, hangi numaradadır?",
+                "options": [
+                    "4",
+                    "10",
+                    "12",
+                    "7"
+                ],
+                "correct_answer": 0,
+                "difficulty": 3
+            },
+            {
+                "question": "Dobby'yi özgür bırakan giysi parçası olan çorap, başlangıçta kime aitti?",
+                "options": [
+                    "Lucius Malfoy",
+                    "Harry Potter",
+                    "Ron Weasley",
+                    "Dumbledore"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Severus Snape'in 'Melez Prens' takma adındaki 'Prens' (Prince) ifadesi nereden gelmektedir?",
+                "options": [
+                    "Kraliyet soyundan",
+                    "Annesinin kızlık soyadından",
+                    "Babasının unvanından",
+                    "Kendi uydurduğu bir isimdir"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın katıldığı Üç Büyücü Turnuvası'nda, su altındaki ikinci görevde kullandığı ve su altında nefes almasını sağlayan bitki hangisidir?",
+                "options": [
+                    "Şahtere",
+                    "Galsuyu (Gillyweed)",
+                    "Şeytan Tuzağı",
+                    "Adamotu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Albus Dumbledore'un tam adı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Albus Percival Wulfric Brian Dumbledore",
+                    "Albus Severus Brian Dumbledore",
+                    "Albus Wulfric Percival Dumbledore",
+                    "Albus Brian Wulfric Dumbledore"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Sirius Black, Azkaban'dan kaçarken hangi hayvan formuna dönüşmüştür?",
+                "options": [
+                    "Fare",
+                    "Geyik",
+                    "Siyah Köpek",
+                    "Kurt"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Lord Voldemort'un Hortkuluklarından biri olan Marvolo Gaunt'un yüzüğünün içindeki taş aslında hangi Ölüm Yadigarı'dır?",
+                "options": [
+                    "Mürver Asa",
+                    "Diriltme Taşı",
+                    "Görünmezlik Pelerini",
+                    "Felsefe Taşı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Hogwarts Savaşında, Neville Longbottom tarafından Godric Gryffindor'un kılıcıyla öldürülen son Hortkuluk hangisidir?",
+                "options": [
+                    "Helga Hufflepuff'ın Kupası",
+                    "Nagini",
+                    "Rowena Ravenclaw'ın Diademi",
+                    "Harry Potter"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Ron Weasley'nin meşhur faresi Scabbers'ın gerçek kimliği olan Peter Pettigrew, hangi 'Çapulcu' lakabını kullanıyordu?",
+                "options": [
+                    "Aylak",
+                    "Patiayak",
+                    "Çatalboynuz",
+                    "Kılkuyruk"
+                ],
+                "correct_answer": 3,
+                "difficulty": 4
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarına ihanet eden ve yüzünde sivilcelerden 'MUHBİR' yazısı çıkan Ravenclaw öğrencisi kimdir?",
+                "options": [
+                    "Cho Chang",
+                    "Marietta Edgecombe",
+                    "Luna Lovegood",
+                    "Padma Patil"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Gilderoy Lockhart'ın yazdığı ve kendi maceralarını (!) anlattığı kitaplardan biri değildir?",
+                "options": [
+                    "Kurtadamla Gezintiler",
+                    "Hortlakla El Ele",
+                    "Vampirle Tatil",
+                    "Büyücülük Tarihi"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "Harry Potter'ın annesi Lily Potter'ın kızlık soyadı nedir?",
+                "options": [
+                    "Evans",
+                    "Black",
+                    "Snape",
+                    "Dursley"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Sihir Bakanı Cornelius Fudge'dan sonra göreve gelen ve 'Aslan' lakabıyla bilinen bakan kimdir?",
+                "options": [
+                    "Kingsley Shacklebolt",
+                    "Rufus Scrimgeour",
+                    "Pius Thicknesse",
+                    "Dolores Umbridge"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Harry Potter'ın alnındaki yara izi hangi şekildedir?",
+                "options": [
+                    "Yıldız",
+                    "Daire",
+                    "Şimşek",
+                    "Ayça"
+                ],
+                "correct_answer": 2,
+                "difficulty": 1
+            },
+            {
+                "question": "Harry Potter'ın Hogwarts'taki ilk süpürgesinin adı nedir?",
+                "options": [
+                    "Ateşoku",
+                    "Nimbus 2000",
+                    "Temizlikotu 7",
+                    "Kuyrukyıldız 260"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "Hermione Granger'ın kedisinin adı nedir?",
+                "options": [
+                    "Mrs. Norris",
+                    "Fang",
+                    "Crookshanks",
+                    "Scabbers"
+                ],
+                "correct_answer": 2,
+                "difficulty": 3
+            },
+            {
+                "question": "Harry'nin ikinci yılında Sırlar Odası'nı açan Gryffindor öğrencisi kimdir?",
+                "options": [
+                    "Ron Weasley",
+                    "Ginny Weasley",
+                    "Neville Longbottom",
+                    "Percy Weasley"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Üç Büyücü Turnuvası'nda Harry Potter, ilk görevde hangi ejderha türüyle eşleşmiştir?",
+                "options": [
+                    "Macar Boynuzkuyruk",
+                    "Çin Ateştopu",
+                    "Galler Yeşili",
+                    "İsveç Kısaburnu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarını yaptığı gizli odanın adı nedir?",
+                "options": [
+                    "Sırlar Odası",
+                    "İhtiyaç Odası",
+                    "Dönüşüm Odası",
+                    "Müdürün Odası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Lord Voldemort'un annesinin adı nedir?",
+                "options": [
+                    "Bellatrix Lestrange",
+                    "Merope Gaunt",
+                    "Narcissa Malfoy",
+                    "Walburga Black"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Sirius Black'in aile evinin bulunduğu Grimmauld Meydanı 12 numaranın gizli bekçisi (Secret Keeper) aslen kimdir?",
+                "options": [
+                    "Sirius Black",
+                    "Remus Lupin",
+                    "Albus Dumbledore",
+                    "Kingsley Shacklebolt"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Gryffindor'un kılıcını yapan ve gerçek sahibi olduğunu iddia eden cinücenin (goblin) adı nedir?",
+                "options": [
+                    "Griphook",
+                    "Ragnuk I",
+                    "Gornuk",
+                    "Bogrod"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dumbledore'un kız kardeşi Ariana'nın ölümüne sebep olan üçlü düelloda Albus ve Aberforth'un karşısındaki üçüncü isim kimdir?",
+                "options": [
+                    "Severus Snape",
+                    "Gellert Grindelwald",
+                    "Tom Riddle",
+                    "Igor Karkaroff"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Harry Potter'ın Hogwarts'taki ilk yılında, okulun üçüncü katındaki yasak koridoru koruyan üç başlı dev köpeğin adı nedir?",
+                "options": [
+                    "Fang",
+                    "Fluffy",
+                    "Norbert",
+                    "Grawp"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Büyücülerin alışveriş yaptığı Diagon Yolu'na giriş yapabilmek için hangi barın arka bahçesindeki duvar tuğlalarına belirli bir sırayla vurmak gerekir?",
+                "options": [
+                    "Üç Süpürge",
+                    "Domuz Kafası",
+                    "Çatlak Kazan",
+                    "Rezervuar Köpekleri"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dumbledore'un bürosunda bulunan, hatıraları saklamaya ve tekrar izlemeye yarayan sihirli havuzun adı nedir?",
+                "options": [
+                    "Düşünseli",
+                    "Görünmezlik Havuzu",
+                    "Zaman Kuyusu",
+                    "Büyü Aynası"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter'ın vaftiz babası Sirius Black, James Potter ve Remus Lupin ile arkadaştı. Bu grubun dördüncü üyesi olan ve gruba 'Kılkuyruk' olarak katılan kişi kimdir?",
+                "options": [
+                    "Severus Snape",
+                    "Peter Pettigrew",
+                    "Lucius Malfoy",
+                    "Gilderoy Lockhart"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi sihirli yaratık, sadece ölümü görmüş kişiler tarafından görülebilir ve Hogwarts arabalarını çeker?",
+                "options": [
+                    "Hipogrif",
+                    "Testral",
+                    "Anka Kuşu",
+                    "Ejderha"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter serisinde 'Kovuk' (The Burrow) olarak bilinen ev hangi aileye aittir?",
+                "options": [
+                    "Malfoy Ailesi",
+                    "Black Ailesi",
+                    "Weasley Ailesi",
+                    "Longbottom Ailesi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Profesör Snape'in Harry Potter'ın annesi Lily'ye olan ömür boyu süren aşkını simgeleyen ve Patronus'uyla aynı olan hayvan hangisidir?",
+                "options": [
+                    "Gümüşi Aslan",
+                    "Gümüşi Kuğu",
+                    "Gümüşi Maral",
+                    "Gümüşi At"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyücü dünyasında günlük olarak yayınlanan ve resimlerin hareket ettiği gazetenin adı nedir?",
+                "options": [
+                    "Gelecek Postası",
+                    "Sihir Gazetesi",
+                    "Hogwarts Haberleri",
+                    "Dırdırcı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter serisinde 'Sıvı Şans' olarak bilinen ve içene her konuda başarı getiren iksirin adı nedir?",
+                "options": [
+                    "Veritaserum",
+                    "Amortentia",
+                    "Felix Felicis",
+                    "Çok Özlü İksir"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Hagrid'in Yasak Orman'da yetiştirdiği ve Harry ile Ron'un ikinci sınıfta karşılaştığı dev örümceğin adı nedir?",
+                "options": [
+                    "Aragog",
+                    "Mosag",
+                    "Shelob",
+                    "Fang"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Sirius Black'in ailesine ait olan ve Zümrüdüanka Yoldaşlığı'nın karargahı olarak kullanılan evin adresi nedir?",
+                "options": [
+                    "Grimmauld Meydanı 12 numara",
+                    "Privet Drive 4 numara",
+                    "Godric's Hollow",
+                    "Spinners End"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter serisinde 'Safkan' büyücülerin, Muggle ana-babadan doğan büyücülere hakaret etmek için kullandığı kelime hangisidir?",
+                "options": [
+                    "Bulanık",
+                    "Koful",
+                    "Melez",
+                    "Muggle-doğumlu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Hogwarts okulunun sloganı olan 'Draco Dormiens Nunquam Titillandus'un Türkçe anlamı nedir?",
+                "options": [
+                    "Bilgi güçtür",
+                    "Asla vazgeçme",
+                    "Uyuyan bir ejderhayı asla gıdıklama",
+                    "Büyü her şeydir"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter'ın Ateş Kadehi filmindeki turnuvada karşılaştığı ilk ejderha türü hangisidir?",
+                "options": [
+                    "Macar Boynuzkuyruk",
+                    "Çin Ateştopu",
+                    "Galler Yeşili",
+                    "İsveç Kısaburnu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyücülük dünyasında ulaşım için kullanılan, kişiyi bir yerden başka bir yere anında taşıyan nesnelere ne ad verilir?",
+                "options": [
+                    "Anahtar",
+                    "Uçan Süpürge",
+                    "Hızır Otobüs",
+                    "Görünmezlik Pelerini"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın vaftiz babası olan ve Azkaban hapishanesinden kaçan ilk kişi olarak bilinen büyücü kimdir?",
+                "options": [
+                    "Remus Lupin",
+                    "Sirius Black",
+                    "Peter Pettigrew",
+                    "Lucius Malfoy"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter serisinde, bir büyücünün en korktuğu şeyin şeklini alan varlığa ne ad verilir?",
+                "options": [
+                    "Ruh Emici",
+                    "Böcürt",
+                    "Testral",
+                    "Hipogrif"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Lord Voldemort'un yılanı olan ve aynı zamanda bir Hortkuluk olan canlının adı nedir?",
+                "options": [
+                    "Nagini",
+                    "Aragog",
+                    "Basilisk",
+                    "Norbert"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın babası James Potter, bir 'Animagus' olarak hangi hayvana dönüşebiliyordu?",
+                "options": [
+                    "Köpek",
+                    "Fare",
+                    "Çatalboynuzlu Geyik",
+                    "Kurt"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Dobby adlı ev cinini özgürlüğüne kavuşturan ve Harry Potter tarafından Lucius Malfoy'a verilen giysi parçası hangisidir?",
+                "options": [
+                    "Eldiven",
+                    "Şapka",
+                    "Çorap",
+                    "Atkı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın ilk süpürgesi olan ve Profesör McGonagall tarafından hediye edilen süpürgenin modeli nedir?",
+                "options": [
+                    "Ateşoku (Firebolt)",
+                    "Nimbus 2000",
+                    "Nimbus 2001",
+                    "Temizlikotu 7"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter ve arkadaşlarına Hogwarts'ın gizli yollarını gösteren 'Çapulcu Haritası'nın yaratıcılarından 'Kılkuyruk' takma adı kime aittir?",
+                "options": [
+                    "James Potter",
+                    "Sirius Black",
+                    "Remus Lupin",
+                    "Peter Pettigrew"
+                ],
+                "correct_answer": 3,
+                "difficulty": 6
+            },
+            {
+                "question": "Hermione Granger'ın üçüncü sınıfta tüm derslere yetişebilmek için kullandığı sihirli nesne hangisidir?",
+                "options": [
+                    "Zaman Döndürücü",
+                    "Düşünseli",
+                    "Uçan Toz",
+                    "Anahtar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Hogwarts'ta bitkibilim (Herbology) derslerine giren ve Hufflepuff bina başkanı olan profesör kimdir?",
+                "options": [
+                    "Severus Snape",
+                    "Pomona Sprout",
+                    "Minerva McGonagall",
+                    "Sybill Trelawney"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarını yaptığı, sadece gerçekten ihtiyacı olanlara görünen Hogwarts odası hangisidir?",
+                "options": [
+                    "Sırlar Odası",
+                    "İhtiyaç Odası",
+                    "Müdürün Odası",
+                    "Büyük Salon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Ron Weasley'nin babası Arthur Weasley, Sihir Bakanlığı'nın hangi dairesinde çalışmaktadır?",
+                "options": [
+                    "Seherbaz Bürosu",
+                    "Muggle Eşyalarının Kötüye Kullanımı Dairesi",
+                    "Sihirli Yaratıkların Düzenlenmesi Dairesi",
+                    "Gizemler Dairesi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Ölüm Yadigarları'ndan biri olan ve mezarlıktan geri getirme gücü olduğu söylenen taşın adı nedir?",
+                "options": [
+                    "Felsefe Taşı",
+                    "Diriltme Taşı",
+                    "Mürver Taş",
+                    "Sihir Taşı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın Patronus'u hangi hayvan şeklindedir?",
+                "options": [
+                    "Su Samuru",
+                    "Anka Kuşu",
+                    "Geyik",
+                    "Köpek"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Gryffindor binasının ortak salonuna girebilmek için hangi tabloya parola söylenmelidir?",
+                "options": [
+                    "Şişman Hanım",
+                    "Kanlı Baron",
+                    "Gri Leydi",
+                    "Mızmız Myrtle"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter serisinde, bir büyücünün asasını seçmediğini, asanın büyücüyü seçtiğini söyleyen ünlü asa yapımcısı kimdir?",
+                "options": [
+                    "Gellert Grindelwald",
+                    "Garrick Ollivander",
+                    "Gregorovitch",
+                    "Aberforth Dumbledore"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter serisinin yazarı olan ve bu eserle dünyanın en zengin yazarlarından biri haline gelen isim kimdir?",
+                "options": [
+                    "Stephenie Meyer",
+                    "J.R.R. Tolkien",
+                    "J.K. Rowling",
+                    "George R.R. Martin"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Hogwarts Cadılık ve Büyücülük Okulu'nda öğrencileri binalara (Gryffindor, Slytherin vb.) ayıran sihirli nesne hangisidir?",
+                "options": [
+                    "Sihirli Küre",
+                    "Seçmen Şapka",
+                    "Ateş Kadehi",
+                    "Görünmezlik Pelerini"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın alnındaki meşhur şimşek şeklindeki yara izini ona hangi büyücü bırakmıştır?",
+                "options": [
+                    "Severus Snape",
+                    "Lord Voldemort",
+                    "Sirius Black",
+                    "Albus Dumbledore"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Hogwarts Ekspresi'ne binmek için Londra'daki King's Cross İstasyonu'nda hangi perondan geçmek gerekir?",
+                "options": [
+                    "8 1/2",
+                    "9 1/4",
+                    "9 3/4",
+                    "10 1/2"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın en yakın arkadaşları olan Ron Weasley ve Hermione Granger hangi binanın öğrencileridir?",
+                "options": [
+                    "Slytherin",
+                    "Ravenclaw",
+                    "Hufflepuff",
+                    "Gryffindor"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Büyücülük dünyasının popüler sporu olan Quidditch'te, oyunu bitiren ve 150 puan kazandıran küçük altın topun adı nedir?",
+                "options": [
+                    "Quaffle",
+                    "Bludger",
+                    "Altın Snitch",
+                    "Sihirli Küre"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Lord Voldemort'un ruhunun parçalarını sakladığı ve yok edilmesi oldukça zor olan nesnelere ne ad verilir?",
+                "options": [
+                    "Hortkuluk",
+                    "Ölüm Yadigarı",
+                    "Mürver Asa",
+                    "Felsefe Taşı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter'ın baykuşunun adı nedir?",
+                "options": [
+                    "Errol",
+                    "Hedwig",
+                    "Fawkes",
+                    "Scabbers"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Severus Snape, Hogwarts'ta uzun yıllar hangi dersin öğretmeni olmak istemiş ancak yıllarca iksir dersi vermiştir?",
+                "options": [
+                    "Biçim Değiştirme",
+                    "Karanlık Sanatlara Karşı Savunma",
+                    "Bitkibilim",
+                    "Tılsım"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyücülerin kişisel koruyucusu olan ve 'Expecto Patronum' büyüsüyle çağrılan gümüşi varlığa ne ad verilir?",
+                "options": [
+                    "Patronus",
+                    "Ruh Emici",
+                    "Ev Cini",
+                    "Böcürt"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter serisinin ilk kitabının adı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Sırlar Odası",
+                    "Ateş Kadehi",
+                    "Felsefe Taşı",
+                    "Melez Prens"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Hogwarts okulunun anahtarlarının koruyucusu ve bekçisi olan devasa dostumuzun adı nedir?",
+                "options": [
+                    "Argus Filch",
+                    "Rubeus Hagrid",
+                    "Grawp",
+                    "Dobby"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Üç büyücü turnuvasında Harry Potter ile birlikte Hogwarts'ı temsil eden ve Cedric Diggory karakterini canlandıran oyuncu kimdir?",
+                "options": [
+                    "Daniel Radcliffe",
+                    "Tom Felton",
+                    "Robert Pattinson",
+                    "Rupert Grint"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Hermione Granger'ın kütüphanelerde vakit geçirmeyi seven, yassı suratlı kedisinin adı nedir?",
+                "options": [
+                    "Crookshanks",
+                    "Mrs. Norris",
+                    "Fang",
+                    "Trevor"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyücü dünyasında banka işlerini yürüten ve Gringotts bankasını yöneten varlıklar hangileridir?",
+                "options": [
+                    "At adamlar",
+                    "Cinüceler",
+                    "Ev cinleri",
+                    "Devler"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
             }
         ],
         "Futbolcular": [
