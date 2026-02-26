@@ -2,6 +2,2438 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "Hücrenin enerji santrali olarak bilinen ve besinleri enerjiye (ATP) dönüştüren organel hangisidir?",
+                "options": [
+                    "Ribozom",
+                    "Mitokondri",
+                    "Lizozom",
+                    "Golgi Aygıtı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı Devleti'nde 'Şairler Sultanı' (Sultanü'ş Şuara) olarak anılan ve Kanuni Sultan Süleyman'ın ölümü üzerine ünlü bir mersiye yazan şair kimdir?",
+                "options": [
+                    "Fuzuli",
+                    "Nedim",
+                    "Baki",
+                    "Nefi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Satrançta bir oyuncu, oyun boyunca toplamda en fazla kaç adet 'Vezir'e sahip olabilir (piyon terfileri dahil)?",
+                "options": [
+                    "1",
+                    "2",
+                    "9",
+                    "10"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Güneş sistemindeki en büyük dağ olan ve sönmüş bir yanardağ olan 'Olympus Mons' hangi gezegendedir?",
+                "options": [
+                    "Venüs",
+                    "Mars",
+                    "Jüpiter",
+                    "Satürn"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk edebiyatında 'Yedi Meşaleciler' topluluğunun kurucuları arasında yer alan ve 'Mesut İnsanlar Fotoğrafhanesi' adlı eseriyle tanınan yazar kimdir?",
+                "options": [
+                    "Ziya Osman Saba",
+                    "Yaşar Nabi Nayır",
+                    "Cevdet Kudret",
+                    "Sabri Esat Siyavuşgil"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en küçük kıtası aşağıdakilerden hangisidir?",
+                "options": [
+                    "Avrupa",
+                    "Antarktika",
+                    "Avustralya",
+                    "Güney Amerika"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Eski Yunan mitolojisinde 'Müzik ve Sanatın Tanrısı' olarak bilinen, aynı zamanda güneşle özdeşleştirilen tanrı kimdir?",
+                "options": [
+                    "Ares",
+                    "Hermes",
+                    "Apollo",
+                    "Poseidon"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Birleşmiş Milletler'in beş daimi üyesinden biri olmayan ülke aşağıdakilerden hangisidir?",
+                "options": [
+                    "Çin",
+                    "Fransa",
+                    "Almanya",
+                    "Rusya"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Işık hızı saniyede yaklaşık olarak kaç kilometredir?",
+                "options": [
+                    "100.000",
+                    "200.000",
+                    "300.000",
+                    "400.000"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'nin en uzun kıyı şeridine sahip olan coğrafi bölgesi hangisidir?",
+                "options": [
+                    "Karadeniz",
+                    "Marmara",
+                    "Ege",
+                    "Akdeniz"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Brezilya'nın resmi dili aşağıdakilerden hangisidir?",
+                "options": [
+                    "İspanyolca",
+                    "Portekizce",
+                    "İngilizce",
+                    "Fransızca"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Kendi adıyla anılan 'İnsani Gelişmişlik Endeksi'ni de etkileyen, atomun parçalanabileceğini söyleyen ünlü fizikçi kimdir?",
+                "options": [
+                    "Albert Einstein",
+                    "İsaac Newton",
+                    "Niels Bohr",
+                    "Ernest Rutherford"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi hayvanın sütü pembe renklidir?",
+                "options": [
+                    "Zürafa",
+                    "Su Aygırı",
+                    "Fil",
+                    "Gergedan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Tarihteki ilk demokrasi denemelerinin yapıldığı, 'Polis' adı verilen şehir devletleriyle ünlü uygarlık hangisidir?",
+                "options": [
+                    "Hititler",
+                    "Sümerler",
+                    "İyonlar",
+                    "Asurlar"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünyanın yedi harikasından biri olan 'Babil'in Asma Bahçeleri' günümüzde hangi ülkenin sınırları içerisinde kalırdı?",
+                "options": [
+                    "Mısır",
+                    "İran",
+                    "Irak",
+                    "Türkiye"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "İnsan kalbinde toplam kaç adet odacık (karıncık ve kulakçık) bulunur?",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "6"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Edebiyatımızda 'Mavi Sürgün' eseriyle tanınan ve Bodrum'un simgesi haline gelen 'Halikarnas Balıkçısı'nın asıl adı nedir?",
+                "options": [
+                    "Cevat Şakir Kabaağaçlı",
+                    "Sait Faik Abasıyanık",
+                    "Sabahattin Ali",
+                    "Reşat Nuri Güntekin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en uzun nehrinin adı nedir?",
+                "options": [
+                    "Amazon",
+                    "Nil",
+                    "Ganj",
+                    "Missisippi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Müzik tarihinde 'Dahi' olarak kabul edilen ve henüz 5 yaşındayken beste yapmaya başlayan Avusturyalı besteci kimdir?",
+                "options": [
+                    "Beethoven",
+                    "Bach",
+                    "Mozart",
+                    "Chopin"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Satrançta bir oyuncu, rakibinin şahını tehdit ettiğinde bunu belirtmek için hangi kelimeyi söyler?",
+                "options": [
+                    "Mat",
+                    "Pat",
+                    "Şah",
+                    "Rok"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi ülke 'Doğan Güneşin Ülkesi' olarak anılır?",
+                "options": [
+                    "Çin",
+                    "Güney Kore",
+                    "Tayland",
+                    "Japonya"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'nin yüz ölçümü bakımından en büyük gölü olan Van Gölü'nün suları ne özelliktedir?",
+                "options": [
+                    "Tatlı",
+                    "Tuzlu",
+                    "Sodalı",
+                    "Kireçli"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Fransız ihtilali sırasında halkın yönetime el koyduğu ve bugün Fransa'nın ulusal bayramı olarak kutlanan olay hangi hapishanenin baskınıdır?",
+                "options": [
+                    "Bastille",
+                    "Alcatraz",
+                    "Tower of London",
+                    "Chateau d'If"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Aşağıdaki elementlerden hangisi 'yanıcı' bir gazdır ve evrendeki en hafif elementtir?",
+                "options": [
+                    "Oksijen",
+                    "Azot",
+                    "Hidrojen",
+                    "Helyum"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Tarihteki ilk yazılı kanunlar olarak bilinen 'Urnammu Kanunları' hangi uygarlığa aittir?",
+                "options": [
+                    "Babil",
+                    "Asur",
+                    "Sümer",
+                    "Hitit"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Hangi meyve, botanik açıdan aslında bir 'dutsu meyve' (berry) iken, çilek bir 'yalancı meyve' kabul edilir?",
+                "options": [
+                    "Elma",
+                    "Muz",
+                    "Erik",
+                    "Kayısı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türkiye Cumhuriyeti'nin ilk kadın pilotu kimdir?",
+                "options": [
+                    "Sabiha Gökçen",
+                    "Bedriye Tahir Gökmen",
+                    "Safiye Ali",
+                    "Halide Edip Adıvar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünya genelinde 'kara altın' olarak adlandırılan doğal kaynak hangisidir?",
+                "options": [
+                    "Kömür",
+                    "Elmas",
+                    "Petrol",
+                    "Bor"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Kendi adıyla anılan bir 'ölçek' ile depremlerin büyüklüğünü ölçen bilim insanı kimdir?",
+                "options": [
+                    "Celsius",
+                    "Richter",
+                    "Kelvin",
+                    "Newton"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Nobel ödülleri arasında hangi kategoride bir ödül verilmez?",
+                "options": [
+                    "Matematik",
+                    "Fizik",
+                    "Kimya",
+                    "Edebiyat"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı tarihinde 'Avni' mahlasıyla şiirler yazan, havan topunun projesini bizzat çizen ve İstanbul'u fetheden padişah kimdir?",
+                "options": [
+                    "Yavuz Sultan Selim",
+                    "Fatih Sultan Mehmet",
+                    "Kanuni Sultan Süleyman",
+                    "II. Abdülhamid"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "İnsan vücudunda 'denge merkezi' olarak görev yapan ve kulaktaki yarım daire kanallarıyla koordineli çalışan organ hangisidir?",
+                "options": [
+                    "Beyin",
+                    "Beyincik",
+                    "Omurilik Soğanı",
+                    "Talamus"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "19. yüzyılda Darwin'e 'Evrim Teorisi' için ilham veren, dev kaplumbağalarıyla ünlü takımadalar hangisidir?",
+                "options": [
+                    "Maldivler",
+                    "Galapagos",
+                    "Seyşeller",
+                    "Fiji"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Hangi gezegen, kendi ekseni etrafındaki dönüşünü Güneş etrafındaki dönüşünden daha yavaş tamamladığı için 'bir günü bir yılından daha uzun' olan tek gezegendir?",
+                "options": [
+                    "Merkür",
+                    "Venüs",
+                    "Mars",
+                    "Neptün"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Kimyada bir tepkimeye girip tepkimeyi hızlandıran ancak kendisi değişmeden çıkan maddelere ne ad verilir?",
+                "options": [
+                    "İnhibitör",
+                    "Katalizör",
+                    "Reaktant",
+                    "Çözücü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk beşleri arasında yer alan, Türkiye'nin ilk Türk operası olan 'Özsoy'u besteleyen sanatçı kimdir?",
+                "options": [
+                    "Cemal Reşit Rey",
+                    "Ahmet Adnan Saygun",
+                    "Ulvi Cemal Erkin",
+                    "Hasan Ferit Alnar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Mitolojide her dokunduğunu altına çevirme yeteneğiyle (veya lanetiyle) bilinen Frigya kralı kimdir?",
+                "options": [
+                    "Sisyphos",
+                    "Midas",
+                    "Oidipus",
+                    "Tantalos"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünyanın en büyük tatlı su gölü yüz ölçümü bakımından aşağıdakilerden hangisidir?",
+                "options": [
+                    "Hazar Denizi",
+                    "Superior Gölü",
+                    "Baykal Gölü",
+                    "Victoria Gölü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "İspanyol İç Savaşı'nın acılarını anlatan ve Picasso tarafından yapılan devasa siyah-beyaz tablonun adı nedir?",
+                "options": [
+                    "Guernica",
+                    "Ağlayan Kadın",
+                    "Avignonlu Kızlar",
+                    "Yıldızlı Gece"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Kendi adıyla anılan bir genetik yasası geliştiren ve bezelyelerle yaptığı deneylerle tanınan bilim insanı kimdir?",
+                "options": [
+                    "Lamarck",
+                    "Gregor Mendel",
+                    "Charles Darwin",
+                    "Alfred Wallace"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'nin 'Mavi Bayrak' ödüllü plajlarının en yoğun olduğu ilimiz hangisidir?",
+                "options": [
+                    "Muğla",
+                    "İzmir",
+                    "Antalya",
+                    "Aydın"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Atmosferin hangi katmanı, radyo dalgalarını yansıtma özelliği sayesinde uzun mesafeli haberleşmeye olanak tanır?",
+                "options": [
+                    "Troposfer",
+                    "Stratosfer",
+                    "Mezosfer",
+                    "İyonosfer"
+                ],
+                "correct_answer": 3,
+                "difficulty": 6
+            },
+            {
+                "question": "Aşağıdaki ülkelerden hangisinin bayrağı kare formuna en yakın (1:1 oranında) ve üzerinde bir artı işareti vardır?",
+                "options": [
+                    "İsveç",
+                    "Norveç",
+                    "İsviçre",
+                    "Danimarka"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Hangi vitaminin eksikliği çocuklarda 'raşitizm', yetişkinlerde ise 'osteomalazi' (kemik yumuşaması) hastalığına neden olur?",
+                "options": [
+                    "A Vitamini",
+                    "B12 Vitamini",
+                    "C Vitamini",
+                    "D Vitamini"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünyanın en büyük yüz ölçümüne sahip ülkesi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Çin",
+                    "ABD",
+                    "Rusya",
+                    "Kanada"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "İstiklal Marşı'mızın bestecisi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Mehmet Akif Ersoy",
+                    "Osman Zeki Üngör",
+                    "Zeki Müren",
+                    "Münir Nurettin Selçuk"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Güneş sisteminde 'Halkalı Gezegen' olarak bilinen ve görkemli halkalarıyla tanınan gezegen hangisidir?",
+                "options": [
+                    "Jüpiter",
+                    "Satürn",
+                    "Uranüs",
+                    "Neptün"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Nobel ödülleri hangi bilim insanının vasiyeti üzerine verilmeye başlanmıştır?",
+                "options": [
+                    "Albert Einstein",
+                    "Alfred Nobel",
+                    "Isaac Newton",
+                    "Marie Curie"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'nin en yüksek dağı olan Ağrı Dağı, hangi coğrafi bölgemizin sınırları içerisinde yer alır?",
+                "options": [
+                    "Karadeniz",
+                    "Doğu Anadolu",
+                    "İç Anadolu",
+                    "Güneydoğu Anadolu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Mona Lisa tablosu ile tanınan, Rönesans döneminin dahi sanatçısı kimdir?",
+                "options": [
+                    "Michelangelo",
+                    "Raphael",
+                    "Leonardo da Vinci",
+                    "Donatello"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Havadaki nem oranını ölçmek için kullanılan aletin adı nedir?",
+                "options": [
+                    "Barometre",
+                    "Termometre",
+                    "Higrometre",
+                    "Anemometre"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Cumhuriyetimizin kurucusu Mustafa Kemal Atatürk'ün nüfusa kayıtlı olduğu il hangisidir?",
+                "options": [
+                    "Ankara",
+                    "İstanbul",
+                    "Gaziantep",
+                    "Selanik"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Vücudumuzda kanı temizleyerek süzme görevini yapan organ hangisidir?",
+                "options": [
+                    "Kalp",
+                    "Mide",
+                    "Böbrek",
+                    "Akciğer"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Aşağıdaki ülkelerden hangisinin 'Eyfel Kulesi' gibi bir dünya miras alanı vardır?",
+                "options": [
+                    "Almanya",
+                    "Fransa",
+                    "İtalya",
+                    "İspanya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Türk lirasının simgesi (₺) hangi yıl kullanılmaya başlanmıştır?",
+                "options": [
+                    "2010",
+                    "2012",
+                    "2014",
+                    "2015"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en derin okyanusu hangisidir?",
+                "options": [
+                    "Atlas Okyanusu",
+                    "Hint Okyanusu",
+                    "Büyük Okyanus",
+                    "Arktik Okyanusu"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi vitamin 'Güneş Vitamini' olarak da bilinir ve vücudun kalsiyumu emmesine yardımcı olur?",
+                "options": [
+                    "A Vitamini",
+                    "B12 Vitamini",
+                    "C Vitamini",
+                    "D Vitamini"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı Devleti'nin başkenti İstanbul'un fethi hangi yıl gerçekleşmiştir?",
+                "options": [
+                    "1071",
+                    "1299",
+                    "1453",
+                    "1923"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Edebiyatta 'Bilinç akışı' tekniğinin en önemli temsilcilerinden olan ve 'Mrs. Dalloway' adlı eseriyle tanınan İngiliz yazar kimdir?",
+                "options": [
+                    "Virginia Woolf",
+                    "Jane Austen",
+                    "George Eliot",
+                    "Emily Brontë"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "İnsan vücudundaki en küçük kemik olan 'üzengi kemiği' (stapes) vücudun hangi bölümünde bulunur?",
+                "options": [
+                    "El bileği",
+                    "İç kulak",
+                    "Ayak parmağı",
+                    "Burun kemiği"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1945 yılında kurulan Birleşmiş Milletler'in (BM) merkezi hangi şehirde bulunmaktadır?",
+                "options": [
+                    "Cenevre",
+                    "Viyana",
+                    "New York",
+                    "Brüksel"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı Devleti'nde ilk kez 'Reisülküttab'lık makamının dışişleri bakanlığına (Hariciye Nezareti) dönüştürülmesi hangi padişah dönemindedir?",
+                "options": [
+                    "III. Selim",
+                    "II. Mahmut",
+                    "Abdülaziz",
+                    "V. Murad"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Mitolojide kendi yaptığı heykele aşık olan ve Tanrıça Afrodit'in bu heykeli canlandırmasıyla aşkına kavuşan heykeltıraş kimdir?",
+                "options": [
+                    "Narcissus",
+                    "Pygmalion",
+                    "Midas",
+                    "Orpheus"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Güneş sistemindeki en sıcak gezegen hangisidir? (Not: Güneş'e en yakın olan değil, sera etkisi en yoğun olandır.)",
+                "options": [
+                    "Merkür",
+                    "Venüs",
+                    "Mars",
+                    "Jüpiter"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türk tarihinde 'Dede Korkut Hikayeleri'ni ilk kez yazıya geçiren ve günümüze ulaşmasını sağlayan nüshaların bulunduğu şehirler hangileridir?",
+                "options": [
+                    "İstanbul - Ankara",
+                    "Dresden - Vatikan",
+                    "Paris - Londra",
+                    "Bakü - Aşkabat"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Kimyada 'soygazlar' grubunun ilk elementi olan ve evrende hidrojenden sonra en bol bulunan element hangisidir?",
+                "options": [
+                    "Neon",
+                    "Argon",
+                    "Helyum",
+                    "Kripton"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Rönesans döneminde 'Atina Okulu' adlı devasa freski yaparak Platon ve Aristo gibi filozofları aynı tabloda buluşturan ressam kimdir?",
+                "options": [
+                    "Leonardo da Vinci",
+                    "Raphael",
+                    "Michelangelo",
+                    "Donatello"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "19. yüzyılda 'Sefiller' (Les Misérables) romanıyla Fransız toplumundaki adaletsizliği eleştiren dev yazar kimdir?",
+                "options": [
+                    "Gustave Flaubert",
+                    "Victor Hugo",
+                    "Emile Zola",
+                    "Honore de Balzac"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'de 'Ihlara Vadisi' olarak bilinen ve içinde çok sayıda kaya kilisesi barındıran doğal oluşum hangi ilimizdedir?",
+                "options": [
+                    "Nevşehir",
+                    "Aksaray",
+                    "Niğde",
+                    "Kayseri"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Dünyanın en derin gölü olan Baykal Gölü hangi ülkenin sınırları içerisinde yer almaktadır?",
+                "options": [
+                    "Kanada",
+                    "Rusya",
+                    "Çin",
+                    "Moğolistan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "İnternet dünyasında 'IP' (Internet Protocol) adreslerinin daha kolay hatırlanması için kullanılan sisteme (Örn: google.com) ne ad verilir?",
+                "options": [
+                    "URL",
+                    "DNS",
+                    "HTTP",
+                    "FTP"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Müzik tarihinde 'Piyanist' filmiyle de hatırlanan, Polonya asıllı ünlü besteci ve piyanist kimdir?",
+                "options": [
+                    "Franz Liszt",
+                    "Frederic Chopin",
+                    "Ludwig van Beethoven",
+                    "Wolfgang Amadeus Mozart"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Aşağıdaki ülkelerden hangisi, Avrupa Birliği üyesi olmasına rağmen ortak para birimi olan 'Euro'yu kullanmamaktadır?",
+                "options": [
+                    "Fransa",
+                    "Danimarka",
+                    "İtalya",
+                    "İspanya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "1666 yılında gerçekleşen ve şehrin %80'ini yok ederek modern şehir planlamacılığının doğmasına neden olan 'Büyük Yangın' hangi Avrupa başkentinde yaşanmıştır?",
+                "options": [
+                    "Paris",
+                    "Londra",
+                    "Roma",
+                    "Viyana"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'nin de kurucu üyeleri arasında bulunduğu, merkezi Cidde'de olan 'İslam İşbirliği Teşkilatı' hangi şehrin 1969'da kundaklanması üzerine kurulmuştur?",
+                "options": [
+                    "Mekke",
+                    "Medine",
+                    "Kudüs",
+                    "Kahire"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Edebiyatta 'Dedektif Sherlock Holmes' karakterinin yaratıcısı olan ve aslında bir tıp doktoru olan yazar kimdir?",
+                "options": [
+                    "Agatha Christie",
+                    "Arthur Conan Doyle",
+                    "Edgar Allan Poe",
+                    "Maurice Leblanc"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "İnsan vücudunda bulunan ve 'mutluluk hormonu' olarak bilinen, eksikliğinde depresyona yol açabilen nörotransmitter hangisidir?",
+                "options": [
+                    "Dopamin",
+                    "Adrenalin",
+                    "Serotonin",
+                    "İnsülin"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Sanat tarihinde 'Kübizm' akımının kurucusu kabul edilen ve 'Guernica' tablosuyla tanınan İspanyol ressam kimdir?",
+                "options": [
+                    "Salvador Dali",
+                    "Pablo Picasso",
+                    "Joan Miro",
+                    "Francisco Goya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Güneş sistemindeki en büyük uydu olan ve Jüpiter'in etrafında dönen gök cismi hangisidir?",
+                "options": [
+                    "Titan",
+                    "Ganymede",
+                    "Europa",
+                    "Callisto"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Osmanlı İmparatorluğu'nda 'Şairler Sultanı' (Sultanü'ş Şuara) unvanına sahip olan, 'Kanuni Mersiyesi'nin yazarı kimdir?",
+                "options": [
+                    "Fuzuli",
+                    "Baki",
+                    "Nefi",
+                    "Nedim"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünyanın en büyük sıcak çölü olan Sahra Çölü, Afrika kıtasının yaklaşık olarak ne kadarını kaplamaktadır?",
+                "options": [
+                    "%10",
+                    "%20",
+                    "%30",
+                    "%50"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Bilim dünyasında 'E=mc²' formülüyle enerjinin kütleye dönüşebileceğini kanıtlayan Albert Einstein, bu formülü hangi teorisi kapsamında geliştirmiştir?",
+                "options": [
+                    "Kuantum Teorisi",
+                    "Genel Görelilik",
+                    "Özel Görelilik",
+                    "Fotoelektrik Etki"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Fransız ihtilalinden sonra iktidara gelen ve 'Kod Napolyon' olarak bilinen medeni kanunla modern hukuk sistemlerini etkileyen lider kimdir?",
+                "options": [
+                    "XVI. Louis",
+                    "Maximilien Robespierre",
+                    "Napolyon Bonapart",
+                    "Charles de Gaulle"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Satrançta bir oyuncunun şahının hiçbir yere kaçamayacak şekilde saldırı altında kalması durumuna ne ad verilir?",
+                "options": [
+                    "Pat",
+                    "Rok",
+                    "Mat",
+                    "Gambit"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı Devleti'nde kağıt paraya (Kaime) geçiş hangi padişah döneminde gerçekleşmiştir?",
+                "options": [
+                    "II. Mahmut",
+                    "Abdülmecid",
+                    "Abdülaziz",
+                    "II. Abdülhamid"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Mitolojide 'Tanrıların Habercisi' olarak bilinen ve ayaklarındaki kanatlı sandaletlerle tasvir edilen Yunan tanrısı kimdir?",
+                "options": [
+                    "Ares",
+                    "Hermes",
+                    "Apollo",
+                    "Hephaistos"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Anıtkabir'in mimarları olan Emin Onat ve Orhan Arda'nın, yapının tasarımında ilham aldıkları ve Anadolu'nun en eski uygarlıklarından birine ait olan 'Aslanlı Yol' hangi medeniyetin sanat üslubunu yansıtır?",
+                "options": [
+                    "Frigler",
+                    "Hititler",
+                    "Lidyalılar",
+                    "Urartular"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Osmanlı Devleti'nde sadrazamlık makamına getirilen ilk devşirme kökenli devlet adamı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Çandarlı Halil Paşa",
+                    "Veli Mahmud Paşa",
+                    "Pargalı İbrahim Paşa",
+                    "Sokullu Mehmed Paşa"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Klasik Türk müziğinde 'Yedi Kule' olarak da bilinen ve en büyük usullerden biri kabul edilen 120 zamanlı devasa usulün adı nedir?",
+                "options": [
+                    "Zencir",
+                    "Çenber",
+                    "Dar-ı Fetih",
+                    "Remel"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Modern Türk resminin öncülerinden olan ve 'Mavi Sürgün' olarak bilinen Halikarnas Balıkçısı'nın kız kardeşi olan ünlü kadın ressamımız kimdir?",
+                "options": [
+                    "Fahrelnissa Zeid",
+                    "Aliye Berger",
+                    "Semiha Berksoy",
+                    "Mihri Müşfik Hanım"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Türkiye'de bulunan ve 'Gladyatörler Şehri' olarak bilinen, dünyanın en büyük mermer antik kentlerinden biri olan yerleşim hangisidir?",
+                "options": [
+                    "Stratonikeia",
+                    "Kibyra",
+                    "Sagalassos",
+                    "Knidos"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "1932 yılında Milletler Cemiyeti'ne (Cemiyet-i Akvam) Türkiye'nin ilk temsilcisi olarak atanan devlet adamı kimdir?",
+                "options": [
+                    "Tevfik Rüştü Aras",
+                    "Cemal Hüsnü Taray",
+                    "Fethi Okyar",
+                    "İsmet İnönü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Osmanlı saray mutfağının en meşhur tatlılarından biri olan ve 'saray helvası' olarak da bilinen, içinde hiç un bulunmayan lezzet hangisidir?",
+                "options": [
+                    "Zerde",
+                    "Levzine",
+                    "Baklava",
+                    "Güllaç"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye'nin 'Sakin Şehir' (Cittaslow) unvanını alan ilk yerleşimi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Akyaka",
+                    "Seferihisar",
+                    "Gökçeada",
+                    "Taraklı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Cumhuriyet döneminin ilk kağıt parasının (I. Emisyon) üzerinde resmi bulunan ve 'birinci meclis' binasını tasvir eden para birimi hangisidir?",
+                "options": [
+                    "1 Türk Lirası",
+                    "5 Türk Lirası",
+                    "10 Türk Lirası",
+                    "100 Türk Lirası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Mimar Sinan'ın 'Çıraklık Eserim' dediği Şehzade Camii'nin bahçesinde bulunan ve yapının 'ağırlık merkezini' temsil ettiğine inanılan sütun hangisidir?",
+                "options": [
+                    "Yeşil Sütun",
+                    "Kırmızı Sütun",
+                    "Yılanlı Sütun",
+                    "Örme Sütun"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Türk edebiyatında 'Korkuyu Beklerken' ve 'Tehlikeli Oyunlar' eserleriyle tanınan Oğuz Atay'ın, biyografisini yazdığı ünlü bilim insanı kimdir?",
+                "options": [
+                    "Cahit Arf",
+                    "Mustafa İnan",
+                    "Feza Gürsey",
+                    "Hulusi Behçet"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Antalya'da bulunan ve dünyanın en iyi korunmuş antik tiyatrolarından biri olan Aspendos'un mimarı kimdir?",
+                "options": [
+                    "Zenon",
+                    "Vitruvius",
+                    "Anthemius",
+                    "Sostratos"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Osmanlı Devleti'nde ilk kez 'Vakayı Nuvis' (Resmi Tarih Yazıcısı) olarak atanan isim kimdir?",
+                "options": [
+                    "Naîmâ Mustafa Efendi",
+                    "Peçevi İbrahim Efendi",
+                    "Aşıkpaşazade",
+                    "Ahmedi"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye'nin en kuzey noktası olan İnceburun'da bulunan fenerin deniz seviyesinden yüksekliği yaklaşık kaç metredir?",
+                "options": [
+                    "12",
+                    "26",
+                    "38",
+                    "54"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Osmanlı Devleti'nde 'Vakayı Hayriye' olarak adlandırılan, Yeniçeri Ocağı'nın kaldırılması olayını gerçekleştiren padişah hangisidir?",
+                "options": [
+                    "III. Selim",
+                    "II. Mahmut",
+                    "Abdülmecid",
+                    "II. Abdülhamid"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Sanat tarihinde 'Türk Empresyonizmi'nin öncülerinden kabul edilen ve meşhur 'Zeybekler' tablosunun sahibi olan ressam kimdir?",
+                "options": [
+                    "İbrahim Çallı",
+                    "Abidin Dino",
+                    "Fikret Mualla",
+                    "Osman Hamdi Bey"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye'nin ilk kadın arkeoloğu olan ve Hitit hiyerogliflerinin çözülmesinde büyük rol oynayan isim kimdir?",
+                "options": [
+                    "Halet Çambel",
+                    "Jale İnan",
+                    "Muazzez İlmiye Çığ",
+                    "Afet İnan"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Bursa'da bulunan ve Orhan Gazi tarafından yaptırılan 'Koza Han', hangi ipek yolu ticaretinin Anadolu'daki en önemli merkezlerinden biri olmuştur?",
+                "options": [
+                    "Baharat Ticareti",
+                    "İpek Koza Ticareti",
+                    "Tuz Ticareti",
+                    "Kürk Ticareti"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Modern Türk hikayeciliğinin kurucusu kabul edilen, 'Yüksek Ökçeler' ve 'Kaşağı' gibi eserlerin yazarı Ömer Seyfettin hangi savaş sırasında esir düşmüştür?",
+                "options": [
+                    "Balkan Savaşları",
+                    "I. Dünya Savaşı",
+                    "Çanakkale Savaşı",
+                    "Trablusgarp Savaşı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Türkiye'nin en derin gölü olan ve 184 metre derinliğe ulaşan, karstik oluşumlu gölümüz hangisidir?",
+                "options": [
+                    "Salda Gölü",
+                    "Van Gölü",
+                    "Eğirdir Gölü",
+                    "Hazar Gölü"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Cumhuriyet tarihinin ilk barajı olma özelliğini taşıyan ve 1936 yılında açılan baraj hangisidir?",
+                "options": [
+                    "Keban Barajı",
+                    "Çubuk-1 Barajı",
+                    "Hirfanlı Barajı",
+                    "Sarıyar Barajı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Antik Çağ'da 'Filozofların Şehri' olarak bilinen ve Aristoteles'in bir dönem ders verdiği, Çanakkale sınırları içindeki antik kent hangisidir?",
+                "options": [
+                    "Troya",
+                    "Assos",
+                    "Pergamon",
+                    "Efes"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Türk beşleri arasında yer alan, Türkiye'nin ilk operası 'Özsoy'un bestecisi olan sanatçı kimdir?",
+                "options": [
+                    "Ulvi Cemal Erkin",
+                    "Ahmed Adnan Saygun",
+                    "Cemal Reşit Rey",
+                    "Hasan Ferit Alnar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Evliya Çelebi'nin 'Seyahatname' adlı eserinde 'Göklerin yeryüzündeki gölgesi' olarak tanımladığı şehir hangisidir?",
+                "options": [
+                    "İstanbul",
+                    "Bursa",
+                    "Edirne",
+                    "Konya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Türkiye'de bulunan ve 'Dünyanın en büyük mermer antik kenti' olarak bilinen, UNESCO adayı yerleşim yeri hangisidir?",
+                "options": [
+                    "Aphrodisias",
+                    "Sagalassos",
+                    "Termessos",
+                    "Knidos"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Osmanlı İmparatorluğu'nda 'Lale Devri'ne son veren ve III. Ahmed'in tahttan indirilmesine neden olan ayaklanma hangisidir?",
+                "options": [
+                    "Patrona Halil İsyanı",
+                    "Kabakçı Mustafa İsyanı",
+                    "Şeyh Bedreddin İsyanı",
+                    "Canberdi Gazali İsyanı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünyanın en eski kütüphanelerinden biri kabul edilen Celsus Kütüphanesi, hangi antik kentimizin en ikonik yapısıdır?",
+                "options": [
+                    "Perge",
+                    "Hierapolis",
+                    "Efes",
+                    "Milet"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "18. yüzyılda keşfedilen ve Mısır hiyerogliflerinin çözülmesini sağlayan Rosetta Taşı üzerinde, aynı metnin yazıldığı üç dilden biri Antik Yunanca, diğeri Hiyeroglif, üçüncüsü ise hangisidir?",
+                "options": [
+                    "Kıpti",
+                    "Demotik",
+                    "Akadca",
+                    "Fenikece"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Müzik teorisinde, bir gamdaki tüm notaların birbirine eşit mesafede (yarım ses) olduğu ve herhangi bir anahtar duygusu barındırmayan diziye ne ad verilir?",
+                "options": [
+                    "Pentatonik Gam",
+                    "Kromatik Gam",
+                    "Diatonik Gam",
+                    "Modülasyon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Antropolojide 'İnsanın kökeni' üzerine yaptığı çalışmalarla tanınan ve 1974'te Etiyopya'da bulunan 3.2 milyon yıllık 'Lucy' fosilini keşfeden paleoantropolog kimdir?",
+                "options": [
+                    "Donald Johanson",
+                    "Richard Leakey",
+                    "Jane Goodall",
+                    "Raymond Dart"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Fizikte 'Standart Model'in eksik parçası olan ve parçacıklara kütle kazandırdığı düşünülen 'Higgs Bozonu'nun varlığı hangi yıl CERN'de yapılan deneylerle doğrulanmıştır?",
+                "options": [
+                    "2005",
+                    "2008",
+                    "2012",
+                    "2015"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Hukuk tarihinde 'Kısasa kısas' ilkesini sistemli bir metin haline getiren ve Mezopotamya'da hüküm süren Babil kralı kimdir?",
+                "options": [
+                    "Sargon",
+                    "Hammurabi",
+                    "Nabukadnezar",
+                    "Gılgamış"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünyanın en zor çözülen şifrelerinden biri olan ve II. Dünya Savaşı'nda Alman ordusu tarafından kullanılan Enigma makinesinin şifreleme mantığını temelden sarsan 'Bomba' adlı makineyi tasarlayan Polonyalı matematikçi kimdir?",
+                "options": [
+                    "Marian Rejewski",
+                    "Alan Turing",
+                    "John von Neumann",
+                    "Kurt Gödel"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Sanat tarihinde 'Işık ve Gölgenin Ustası' olarak bilinen, 'Gece Devriyesi' (The Night Watch) tablosunun sahibi Hollandalı ressam kimdir?",
+                "options": [
+                    "Vermeer",
+                    "Rembrandt",
+                    "Van Gogh",
+                    "Rubens"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Klasik filolojide, Truva Savaşı'nı anlatan 'İlyada' destanının sadece son kaç gününü kapsadığı kabul edilir?",
+                "options": [
+                    "10 Gün",
+                    "51 Gün",
+                    "1 Yıl",
+                    "10 Yıl"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Matematikte 'Sayıların Teorisi' üzerine yaptığı çalışmalarla bilinen ve ölmeden önce 'Bir teoremin ispatını buldum ama marj (kağıt kenarı) yetersiz' diyen Fransız matematikçi kimdir?",
+                "options": [
+                    "Pascal",
+                    "Descartes",
+                    "Pierre de Fermat",
+                    "Lagrange"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "20. yüzyıl felsefesinin en zor metinlerinden biri kabul edilen 'Tractatus Logico-Philosophicus' adlı eserin yazarı kimdir?",
+                "options": [
+                    "Martin Heidegger",
+                    "Ludwig Wittgenstein",
+                    "Jean-Paul Sartre",
+                    "Friedrich Nietzsche"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Dünya edebiyatında 'Magnum Opus'u sayılan 'İlahi Komedya'yı İtalyancanın Toskana lehçesiyle yazarak modern İtalyancanın temellerini atan şair kimdir?",
+                "options": [
+                    "Petrarca",
+                    "Boccaccio",
+                    "Dante Alighieri",
+                    "Machiavelli"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Biyolojide, hücrenin kendi kendini sindirmesi ve temizlemesi işlemi olan 'Otofaji' mekanizmasını keşfederek 2016 Nobel Tıp Ödülü'nü kazanan bilim insanı kimdir?",
+                "options": [
+                    "Yoshinori Ohsumi",
+                    "Shinya Yamanaka",
+                    "Tu Youyou",
+                    "Tasuku Honjo"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Fransız ihtilalci Jean-Paul Marat'nın bir küvette bıçaklanarak öldürülmesini tasvir eden ünlü 'Marat'nın Ölümü' tablosu hangi ressama aittir?",
+                "options": [
+                    "Eugène Delacroix",
+                    "Jacques-Louis David",
+                    "Jean-Auguste-Dominique Ingres",
+                    "Gustave Courbet"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Periyodik tabloda oda sıcaklığında sıvı halde bulunan iki elementten biri Cıva (Hg), diğeri hangisidir?",
+                "options": [
+                    "Sezyum",
+                    "Brom",
+                    "Galyum",
+                    "Fransiyum"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "17. yüzyılda Hollanda'da yaşanan ve tarihteki ilk spekülatif balon kabul edilen 'Lale Çılgınlığı' (Tulip Mania) sırasında, tek bir lale soğanı karşılığında hangisinin satın alınabildiği kaydedilmiştir?",
+                "options": [
+                    "Bir savaş gemisi",
+                    "Lüks bir malikâne",
+                    "Küçük bir ordu",
+                    "Bir kütüphane dolusu el yazması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Brezilya'nın başkenti Brasília'yı bir 'uçak' formunda tasarlayan ve modern mimarinin en önemli isimlerinden biri kabul edilen şehir plancısı kimdir?",
+                "options": [
+                    "Oscar Niemeyer",
+                    "Lucio Costa",
+                    "Le Corbusier",
+                    "Frank Lloyd Wright"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Felsefede 'Hiçbir şey yoktur, olsa da bilinemez, bilinse de başkasına aktarılamaz' diyerek nihilizmin ilk tohumlarını atan Sofist düşünür kimdir?",
+                "options": [
+                    "Protagoras",
+                    "Gorgias",
+                    "Thales",
+                    "Herakleitos"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Müzik tarihinde 'Bach'tan sonraki en büyük polifoni ustası' kabul edilen, 'Matematiğin müziği' olarak bilinen 48 prelüd ve füglük dev eserin tam adı nedir?",
+                "options": [
+                    "Goldberg Varyasyonları",
+                    "Brandenburg Konçertoları",
+                    "Eşit Düzenli Klavye",
+                    "Füg Sanatı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Periyodik cetvelde ismi bir bilim insanına değil, bir ülkeye (Polonya) atfen Marie Curie tarafından verilen element hangisidir?",
+                "options": [
+                    "Radyum",
+                    "Polonyum",
+                    "Kurçatovyum",
+                    "Frankiyum"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Edebiyat dünyasında 'Bilinç akışı' tekniğini zirveye taşıyan, tek bir günü 800 küsur sayfada anlatan 'Ulysses' romanının yazarı James Joyce hangi şehri merkezine almıştır?",
+                "options": [
+                    "Londra",
+                    "Dublin",
+                    "Paris",
+                    "Zürih"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Orta Çağ İslam dünyasında 'İkinci Öğretmen' (Muallim-i Sani) lakabıyla anılan, Aristo felsefesini yorumlayan ünlü düşünür kimdir?",
+                "options": [
+                    "İbn-i Sina",
+                    "Farabi",
+                    "Gazali",
+                    "İbn-i Rüşd"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Antik dünyanın yedi harikasından biri olan ve depremler sonucu yıkılarak sular altında kalan İskenderiye Feneri, hangi ada üzerine inşa edilmişti?",
+                "options": [
+                    "Rodos",
+                    "Pharos",
+                    "Girit",
+                    "Kıbrıs"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Matematikte 'X' işaretini çarpma işlemi için ilk kez kullanan ve logaritmanın gelişimine katkıda bulunan İngiliz matematikçi kimdir?",
+                "options": [
+                    "John Napier",
+                    "William Oughtred",
+                    "Isaac Newton",
+                    "Gottfried Leibniz"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Fransız Devrimi sırasında 'Ekmek bulamıyorlarsa pasta yesinler' dediği iddia edilen Marie Antoinette, aslında hangi ülkenin imparatoriçesinin kızıydı?",
+                "options": [
+                    "İspanya",
+                    "Avusturya",
+                    "Prusya",
+                    "İngiltere"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünyanın en derin noktası olan Mariana Çukuru'na (Challenger Deep) 1960 yılında inen 'Trieste' adlı batiskafın içindeki iki kişiden biri olan ünlü okyanus bilimci kimdir?",
+                "options": [
+                    "James Cameron",
+                    "Jacques Piccard",
+                    "Robert Ballard",
+                    "Jacques Cousteau"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Modern dünyayı aydınlatan akkor telli ampulü ticari olarak başarıya ulaştıran ve 1000'den fazla patente sahip olan Amerikalı mucit kimdir?",
+                "options": [
+                    "Nikola Tesla",
+                    "Thomas Edison",
+                    "Alexander Graham Bell",
+                    "Benjamin Franklin"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Radyo, alternatif akım ve kablosuz enerji aktarımı gibi devrimsel fikirlerin babası sayılan Sırp asıllı mucit kimdir?",
+                "options": [
+                    "Guglielmo Marconi",
+                    "Nikola Tesla",
+                    "Michael Faraday",
+                    "James Watt"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "1876 yılında 'Bay Watson, buraya gelin, sizi görmek istiyorum' cümlesiyle ilk telefon görüşmesini gerçekleştiren mucit kimdir?",
+                "options": [
+                    "Samuel Morse",
+                    "Alexander Graham Bell",
+                    "Isaac Newton",
+                    "Louis Pasteur"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Matbaayı icat ederek kitapların seri üretimini sağlayan ve Rönesans'ın başlamasında büyük rol oynayan Alman mucit kimdir?",
+                "options": [
+                    "Johannes Gutenberg",
+                    "Leonardo da Vinci",
+                    "Galileo Galilei",
+                    "James Cook"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Kendi adıyla anılan 'Pastörizasyon' yöntemini geliştirerek süt ve gıdaların bozulmasını önleyen Fransız mikrobiyolog kimdir?",
+                "options": [
+                    "Marie Curie",
+                    "Louis Pasteur",
+                    "Robert Koch",
+                    "Charles Darwin"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "1903 yılında ilk başarılı motorlu uçuşu gerçekleştirerek havacılık tarihini başlatan kardeşler kimlerdir?",
+                "options": [
+                    "Montgolfier Kardeşler",
+                    "Wright Kardeşler",
+                    "Lumiere Kardeşler",
+                    "McDonald Kardeşler"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Radyoaktivite üzerine yaptığı çalışmalarla iki farklı alanda Nobel Ödülü kazanan ve polonyum ile radyum elementlerini keşfeden bilim insanı kimdir?",
+                "options": [
+                    "Rosalind Franklin",
+                    "Marie Curie",
+                    "Lise Meitner",
+                    "Ada Lovelace"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Tarihteki ilk bilgisayar programcısı olarak kabul edilen ve Charles Babbage'ın mekanik bilgisayarı üzerine çalışmalar yapan kadın matematikçi kimdir?",
+                "options": [
+                    "Grace Hopper",
+                    "Ada Lovelace",
+                    "Katherine Johnson",
+                    "Margaret Hamilton"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "1928 yılında laboratuvarında unuttuğu bir kapta tesadüfen küf mantarının bakterileri öldürdüğünü fark ederek Penisilin'i keşfeden mucit kimdir?",
+                "options": [
+                    "Edward Jenner",
+                    "Alexander Fleming",
+                    "Jonas Salk",
+                    "Albert Sabin"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Bilgisayar biliminin babası sayılan, Enigma şifresini kıran ve kendi adıyla anılan bir yapay zeka testi geliştiren matematikçi kimdir?",
+                "options": [
+                    "Alan Turing",
+                    "John von Neumann",
+                    "Steve Jobs",
+                    "Bill Gates"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Siyah-beyaz televizyonun icadında büyük rol oynayan ve 1926'da ilk hareketli görüntüyü ileten İskoç mucit kimdir?",
+                "options": [
+                    "Philo Farnsworth",
+                    "John Logie Baird",
+                    "Vladimir Zworykin",
+                    "Guglielmo Marconi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Kendi adıyla anılan alfabeyi geliştirerek görme engellilerin okuma ve yazma yapabilmesini sağlayan kişi kimdir?",
+                "options": [
+                    "Louis Braille",
+                    "Helen Keller",
+                    "Thomas Gallaudet",
+                    "Samuel Gridley Howe"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Dinamiti icat eden ancak buluşunun savaşlarda kullanılmasından üzüntü duyarak vasiyetiyle kendi adına bir ödül fonu kurulmasını isteyen mucit kimdir?",
+                "options": [
+                    "Robert Oppenheimer",
+                    "Alfred Nobel",
+                    "Enrico Fermi",
+                    "Antoine Lavoisier"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "1947 yılında John Bardeen ve Walter Brattain ile birlikte modern elektroniğin temeli olan 'Transistör'ü icat eden bilim insanı kimdir?",
+                "options": [
+                    "William Shockley",
+                    "Jack Kilby",
+                    "Robert Noyce",
+                    "Gordon Moore"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "1912'de 'asla batmaz' denilen ancak ilk seferinde bir buz dağına çarparak batan, yeterli filika taşımadığı için binlerce kişinin ölümüne yol açan dev gemi hangisidir?",
+                "options": [
+                    "Britannic",
+                    "Titanic",
+                    "Lusitania",
+                    "Olympic"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Truva Savaşı'nda Truvalıların, içinde düşman askerleri olduğunu anlamadan şehre aldıkları ve yıkımlarına neden olan nesne nedir?",
+                "options": [
+                    "Altın Heykel",
+                    "Tahta At",
+                    "Gümüş Kapı",
+                    "Kutsal Kase"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "1867 yılında 'değersiz bir buz kütlesi' olduğu düşünülerek Rusya tarafından 7.2 milyon dolara ABD'ye satılan bölge hangisidir?",
+                "options": [
+                    "Florida",
+                    "Alaska",
+                    "Teksas",
+                    "Kaliforniya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "1962 yılında 'gitar gruplarının modası geçiyor' diyerek The Beatles grubunu geri çeviren ve müzik tarihinin en büyük hatasını yapan plak şirketi hangisidir?",
+                "options": [
+                    "Decca Records",
+                    "EMI",
+                    "Columbia",
+                    "Sony"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "J.K. Rowling'in 'Harry Potter' kitabını tam 12 kez reddeden yayınevlerinin kaçırdığı fırsat, bugün kaç milyar dolarlık bir marka haline gelmiştir?",
+                "options": [
+                    "1 Milyar",
+                    "5 Milyar",
+                    "15 Milyar",
+                    "25 Milyar"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "1986'da mühendislerin uyarılarına rağmen fırlatılan ve havalandıktan 73 saniye sonra infilak eden uzay mekiği hangisidir?",
+                "options": [
+                    "Apollo 11",
+                    "Challenger",
+                    "Columbia",
+                    "Discovery"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "14. yüzyılda Avrupa nüfusunun üçte birini yok eden 'Kara Ölüm' (Veba) salgınında, halkın kedileri 'şeytan' ilan edip öldürmesi hangi canlı sayısını artırarak salgını hızlandırmıştır?",
+                "options": [
+                    "Kuşlar",
+                    "Fareler",
+                    "Köpekler",
+                    "Sinekler"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Hollandalıların 1626 yılında Amerikan yerlilerinden sadece 24 dolar değerinde boncuk ve ticari mal karşılığında satın aldıkları ada hangisidir?",
+                "options": [
+                    "Manhattan",
+                    "Long Island",
+                    "Staten Island",
+                    "Liberty Island"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "1980'lerde dijital fotoğrafçılığı icat etmesine rağmen 'film satışlarını etkiler' korkusuyla bu teknolojiyi rafa kaldıran ve sonra iflas eden dev şirket hangisidir?",
+                "options": [
+                    "Nikon",
+                    "Canon",
+                    "Kodak",
+                    "Fujifilm"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Çinli lider Mao'nun, ekinleri yediği gerekçesiyle 'Serçeleri' öldürme kampanyası başlatması, hangi canlının çoğalarak büyük kıtlığa neden olmasına yol açmıştır?",
+                "options": [
+                    "Çekirgeler",
+                    "Fareler",
+                    "Yılanlar",
+                    "Kargalar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Fransızların II. Dünya Savaşı öncesi Almanları durdurmak için inşa ettiği ancak Almanların etrafından dolanarak geçtiği aşılması imkansız sanılan savunma hattı hangisidir?",
+                "options": [
+                    "Siegfried Hattı",
+                    "Maginot Hattı",
+                    "Mannerheim Hattı",
+                    "Alp Hattı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Alexander Fleming'in tatile çıkmadan önce laboratuvarını 'temizlememesi' ve kapları açık bırakması hangi devrimsel ilacın tesadüfen keşfedilmesini sağlamıştır?",
+                "options": [
+                    "Aspirin",
+                    "Penisilin",
+                    "İnsülin",
+                    "Morfin"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Vücudumuzdaki tüm damarları uç uca ekleseydik, dünyayı yaklaşık kaç kez dolaşabilirdi?",
+                "options": [
+                    "Yarım",
+                    "1",
+                    "2.5",
+                    "10"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Dünya üzerinde toplamda 17.500'den fazla adası bulunan ve 'en çok adaya sahip ülke' unvanını taşıyan yer hangisidir?",
+                "options": [
+                    "Yunanistan",
+                    "Filipinler",
+                    "İsveç",
+                    "Endonezya"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Ahtapotların biyolojik yapısıyla ilgili en ilginç özelliklerden biri, kaç tane kalbe sahip olmalarıdır?",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Ortalama bir bulutun ağırlığı yaklaşık ne kadardır?",
+                "options": [
+                    "100 kg",
+                    "1 ton",
+                    "500 ton",
+                    "50.000 ton"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Parmağımızla dokunabildiğimiz her şeyin aslında %99'u boşluktur. Bu, atomun hangi özelliğinden kaynaklanır?",
+                "options": [
+                    "Elektronların hızı",
+                    "Çekirdek ile elektronlar arası mesafe",
+                    "Atomun ağırlığı",
+                    "Proton sayısı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Eyfel Kulesi, yaz aylarında genleşme nedeniyle yaklaşık kaç santimetre uzayabilir?",
+                "options": [
+                    "2 cm",
+                    "15 cm",
+                    "50 cm",
+                    "1 metre"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en kısa savaşı olan İngiliz-Zanzibar Savaşı toplamda kaç dakika sürmüştür?",
+                "options": [
+                    "38 dakika",
+                    "2 saat",
+                    "1 gün",
+                    "45 dakika"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Aşağıdaki canlılardan hangisi 'asla yaşlanarak ölmez' ve biyolojik olarak ölümsüz kabul edilir?",
+                "options": [
+                    "Mavi Balina",
+                    "Turritopsis Dohrnii (Medüz)",
+                    "Dev Kaplumbağa",
+                    "Fil"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "İnsan beyni, uyanık olduğu bir anda küçük bir ampulü yakmaya yetecek kadar elektrik üretir. Bu güç yaklaşık kaç watt'tır?",
+                "options": [
+                    "5 Watt",
+                    "20 Watt",
+                    "100 Watt",
+                    "500 Watt"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Bal, bozulmayan tek gıda maddesidir. Arkeologlar Mısır piramitlerinde kaç yıllık yenilebilir bal bulmuşlardır?",
+                "options": [
+                    "500",
+                    "1000",
+                    "3000",
+                    "7000"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünya üzerinde gelmiş geçmiş tüm insanlardan daha fazla sayıda olan canlı türü hangisidir?",
+                "options": [
+                    "Karınca",
+                    "Sivrisinek",
+                    "Arı",
+                    "Fare"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Bir zürafanın dili yaklaşık kaç santimetredir ve kulağını bile temizleyebilir?",
+                "options": [
+                    "10 cm",
+                    "25 cm",
+                    "50 cm",
+                    "80 cm"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Güneş sistemindeki en yüksek dağ olan 'Olympus Mons' hangi gezegendedir?",
+                "options": [
+                    "Venüs",
+                    "Jüpiter",
+                    "Mars",
+                    "Satürn"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Aşağıdaki meyvelerden hangisi aslında bir gül türüyle (Rosaceae) aynı aileden gelir?",
+                "options": [
+                    "Muz",
+                    "Elma",
+                    "Portakal",
+                    "Kivi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "İnsan parmak izine benzer şekilde, her birinin dil izi de kendine hastır. Peki, burnunun izi parmak izi gibi eşsiz olan hayvan hangisidir?",
+                "options": [
+                    "Kedi",
+                    "Köpek",
+                    "İnek",
+                    "At"
+                ],
+                "active_answer": 1,
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Coğrafi keşifler sırasında 'Yeni Dünya'ya ismini veren ve buranın yeni bir kıta olduğunu fark eden İtalyan denizci kimdir?",
+                "options": [
+                    "Kristof Kolomb",
+                    "Amerigo Vespucci",
+                    "Macellan",
+                    "Vasco da Gama"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Günümüz 'Yeni Dünya' düzeninin en büyük teknolojik devrimlerinden biri kabul edilen 'Yapay Zeka' kavramı ilk kez hangi yıl düzenlenen Dartmouth Konferansı'nda ortaya atılmıştır?",
+                "options": [
+                    "1945",
+                    "1956",
+                    "1968",
+                    "1972"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Elon Musk tarafından kurulan ve 'Yeni Dünya'nın uzay taşımacılığı' vizyonunu temsil eden şirketin adı nedir?",
+                "options": [
+                    "Blue Origin",
+                    "SpaceX",
+                    "Virgin Galactic",
+                    "NASA"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Kripto para dünyasının öncüsü olan Bitcoin'in gizemli yaratıcısı olarak bilinen takma isim hangisidir?",
+                "options": [
+                    "Satoshi Nakamoto",
+                    "Vitalik Buterin",
+                    "Elon Musk",
+                    "Sam Altman"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Yeni Dünya'nın en büyük ticaret yollarından biri olması beklenen ve Çin tarafından başlatılan projenin adı nedir?",
+                "options": [
+                    "İpek Yolu",
+                    "Kuşak ve Yol Girişimi",
+                    "Baharat Yolu",
+                    "Demir İpek Yolu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın en yüksek binası olan ve 'Yeni Dünya' mimarisinin zirvesi kabul edilen Burj Khalifa hangi şehirdedir?",
+                "options": [
+                    "Doha",
+                    "Riyad",
+                    "Dubai",
+                    "Abu Dabi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Metaverse kavramını ilk kez 1992 yılında yazdığı 'Snow Crash' adlı romanında kullanan yazar kimdir?",
+                "options": [
+                    "Isaac Asimov",
+                    "Neal Stephenson",
+                    "Arthur C. Clarke",
+                    "Philip K. Dick"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "2024 itibarıyla piyasa değeriyle dünyanın en değerli şirketleri arasına giren ve yapay zeka çiplerinin öncüsü olan şirket hangisidir?",
+                "options": [
+                    "Intel",
+                    "NVIDIA",
+                    "AMD",
+                    "Apple"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Yeni Dünya'nın 'Mavi Altını' olarak adlandırılan ve gelecekte petrolden daha değerli olacağı öngörülen kaynak hangisidir?",
+                "options": [
+                    "Lityum",
+                    "Tatlı Su",
+                    "Bor",
+                    "Hidrojen"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın ilk vatandaşlık alan insansı robotu 'Sophia' hangi ülke tarafından vatandaşlığa kabul edilmiştir?",
+                "options": [
+                    "Suudi Arabistan",
+                    "Japonya",
+                    "ABD",
+                    "Güney Kore"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Yeni Dünya düzeninde 'dördüncü sanayi devrimi' olarak adlandırılan akımın genel adı nedir?",
+                "options": [
+                    "Endüstri 2.0",
+                    "Endüstri 3.0",
+                    "Endüstri 4.0",
+                    "Dijital Çağ"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "İnsan beynini bilgisayara bağlamayı hedefleyen ve Elon Musk'ın kurucu olduğu nöroteknoloji şirketinin adı nedir?",
+                "options": [
+                    "OpenAI",
+                    "Neuralink",
+                    "DeepMind",
+                    "Boston Dynamics"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Yeni Dünya'nın enerji ihtiyacını karşılamak için geliştirilen 'Yapay Güneş' deneyi (nükleer füzyon) hangi ülkede rekor kırmıştır?",
+                "options": [
+                    "ABD",
+                    "Rusya",
+                    "Çin",
+                    "Almanya"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Modern internetin temeli olan 'World Wide Web' (WWW) sistemini kuran bilim insanı kimdir?",
+                "options": [
+                    "Steve Jobs",
+                    "Bill Gates",
+                    "Tim Berners-Lee",
+                    "Mark Zuckerberg"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Hangi ülke 2024 yılında Bitcoin'i resmi para birimi olarak kabul eden ilk ülkelerden biri olmuştur?",
+                "options": [
+                    "El Salvador",
+                    "Panama",
+                    "İsviçre",
+                    "Singapur"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'nin 2025 yılı sonu itibarıyla kişi başına düşen milli gelirde ulaştığı seviyeyi de içeren 'Orta Vadeli Program'ın temel hedefi aşağıdakilerden hangisidir?",
+                "options": [
+                    "Tek haneli enflasyon",
+                    "Cari fazla vermek",
+                    "İşsizliği %5 altına indirmek",
+                    "Tarımsal ithalatı sıfırlamak"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "2024 yılı Aralık ayında düzenlenen 'COP29 İklim Zirvesi'ne ev sahipliği yapan kardeş ülke hangisidir?",
+                "options": [
+                    "Özbekistan",
+                    "Kazakistan",
+                    "Azerbaycan",
+                    "Kırgızistan"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünyanın en büyük teleskobu olan James Webb'in 2025 yılında keşfettiği, 'yaşam barındırma ihtimali en yüksek' olan ötegezegen sistemi hangisidir?",
+                "options": [
+                    "Trappist-1",
+                    "K2-18b",
+                    "Proxima B",
+                    "Kepler-186f"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "2026 yılı itibarıyla Birleşmiş Milletler (BM) Genel Sekreterliği görevini yürüten isim kimdir?",
+                "options": [
+                    "Ban Ki-moon",
+                    "António Guterres",
+                    "Amina J. Mohammed",
+                    "Tedros Adhanom"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Türkiye'nin UNESCO 'Yaratıcı Şehirler Ağı'na 2024 yılında dahil olan ve gastronomi alanında tescillenen yeni şehrimiz hangisidir?",
+                "options": [
+                    "Balıkesir",
+                    "Nevşehir",
+                    "Sivas",
+                    "Amasya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "2024 Paris Olimpiyatları'nda boks branşında gümüş madalya kazanarak Türkiye'yi gururlandıran, haksız tartışmaların gölgesinde büyük bir mücadele veren sporcumuz kimdir?",
+                "options": [
+                    "Buse Naz Çakıroğlu",
+                    "Busenaz Sürmeneli",
+                    "Esra Yıldız Kahraman",
+                    "Hatice Akbaş"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Avrupa Birliği'nin 2026 yılında tamamen yürürlüğe koymayı hedeflediği ve ithal ürünlere uygulanacak olan 'Karbon Düzenleme Mekanizması'nın kısa adı nedir?",
+                "options": [
+                    "CBAM",
+                    "GDPR",
+                    "REACH",
+                    "ESMA"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye'nin yerli uçak motoru olan ve 2025 yılında KAAN ile entegrasyon çalışmaları hızlanan motorun adı nedir?",
+                "options": [
+                    "TEİ-TF6000",
+                    "TS1400",
+                    "PD170",
+                    "TEİ-TF10000"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "2024 yılında düzenlenen 74. Berlin Film Festivali'nde (Berlinale) 'Altın Ayı' ödülünü kazanan yapım hangisidir?",
+                "options": [
+                    "Dahomey",
+                    "A Traveler's Needs",
+                    "The Empire",
+                    "My Favourite Cake"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Türk Patent ve Marka Kurumu tarafından 2024 yılında 'Avrupa Birliği Coğrafi İşaret' tescili alan, Bursa ile özdeşleşmiş ürün hangisidir?",
+                "options": [
+                    "Bursa Şeftalisi",
+                    "Bursa Siyah İnciri",
+                    "Bursa Kestane Şekeri",
+                    "İnegöl Köfte"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "2026 yılı Türk Dünyası Kültür Başkenti olarak belirlenen ve Türkmenistan'da bulunan antik şehir hangisidir?",
+                "options": [
+                    "Merv",
+                    "Aşkabat",
+                    "Hiva",
+                    "Özgen"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünyanın en yaşlı insanı unvanına sahipken 2024 yılında 117 yaşında hayatını kaybeden Maria Branyas hangi ülke vatandaşıdır?",
+                "options": [
+                    "İspanya",
+                    "Japonya",
+                    "Fransa",
+                    "İtalya"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "2024 yılı sonunda G20 dönem başkanlığını Brezilya'dan devralan ve 2025 yılı boyunca bu görevi yürüten ülke hangisidir?",
+                "options": [
+                    "Güney Afrika",
+                    "Hindistan",
+                    "Endonezya",
+                    "Meksika"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Türkiye'nin yerli imkanlarla geliştirdiği ve 2024 yılında ilk uçuşunu başarıyla gerçekleştiren 5. nesil milli muharip uçağının adı nedir?",
+                "options": [
+                    "Hürjet",
+                    "Kızılelma",
+                    "KAAN",
+                    "Anka-3"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "2024 Cannes Film Festivali'nde 'Altın Palmiye' (Palme d'Or) ödülünü kazanan 'Anora' filminin yönetmeni kimdir?",
+                "options": [
+                    "Sean Baker",
+                    "Francis Ford Coppola",
+                    "Yorgos Lanthimos",
+                    "Greta Gerwig"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Avrupa Uzay Ajansı (ESA) tarafından 2024 yılında Jüpiter'in buzlu uydularını incelemek üzere gönderilen uzay aracının adı nedir?",
+                "options": [
+                    "Juice",
+                    "Artemis",
+                    "Euclid",
+                    "Hera"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "2025 yılı başı itibarıyla Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) geçici üye olarak görev yapmaya başlayan ülkelerden biri hangisidir?",
+                "options": [
+                    "Türkiye",
+                    "Yunanistan",
+                    "Almanya",
+                    "Brezilya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünyanın en büyük yüzölçümüne sahip gölü olan Hazar Denizi'ne kıyısı olan ülkelerin 2024 zirvesi hangi şehirde düzenlenmiştir?",
+                "options": [
+                    "Bakü",
+                    "Astana",
+                    "Aşkabat",
+                    "Tahran"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Ekim 2024'te Nobel Ekonomi Ödülü'nü kazanan ve kurumların refah üzerindeki etkileri üzerine yaptığı çalışmalarla tanınan Türk asıllı ekonomist kimdir?",
+                "options": [
+                    "Daron Acemoğlu",
+                    "Özgür Demirtaş",
+                    "Dani Rodrik",
+                    "Aziz Sancar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 4
+            },
+            {
+                "question": "2024 Paris Olimpiyatları'nda 'Filenin Sultanları' olarak bilinen A Milli Kadın Voleybol Takımımız olimpiyatları kaçıncı sırada tamamlamıştır?",
+                "options": [
+                    "2. Sırada",
+                    "3. Sırada",
+                    "4. Sırada",
+                    "Şampiyon"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "2025 yılı 'Dünya Spor Başkenti' unvanını taşıyan ve spor organizasyonlarıyla dikkat çeken şehir hangisidir?",
+                "options": [
+                    "Konya",
+                    "Madrid",
+                    "Sofya",
+                    "İstanbul"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye'nin Antarktika'da kurduğu geçici bilim üssünün bulunduğu adanın adı nedir?",
+                "options": [
+                    "King George Adası",
+                    "Horseshoe Adası",
+                    "Galindez Adası",
+                    "Ross Adası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "2024 yılında Avrupa'nın en büyük teknoloji etkinliği olan 'Viva Technology' fuarına 'Yılın Ülkesi' olarak davet edilen ülke hangisidir?",
+                "options": [
+                    "Güney Kore",
+                    "Japonya",
+                    "Türkiye",
+                    "Almanya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Türkiye'nin 2024 yılında tescillenen ve UNESCO Somut Olmayan Kültürel Miras Listesi'ne giren 'Geleneksel Ahlat Taş İşçiliği' hangi ilimizdedir?",
+                "options": [
+                    "Bitlis",
+                    "Van",
+                    "Erzurum",
+                    "Mardin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "2026 Kış Olimpiyatları'na ev sahipliği yapacak olan 'Milano ve Cortina d'Ampezzo' şehirleri hangi ülkededir?",
+                "options": [
+                    "Fransa",
+                    "İtalya",
+                    "İsviçre",
+                    "Avusturya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "2024 yılında hayatını kaybeden, 'Küçük Ağa' ve 'Osmancık' gibi eserlerin dizilerinde de rol almış, Türk tiyatrosunun duayenlerinden olan sanatçı kimdir?",
+                "options": [
+                    "Ayla Algan",
+                    "Kayhan Yıldızoğlu",
+                    "Tolga Savacı",
+                    "Türker İnanoğlu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Türk Devletleri Teşkilatı tarafından kabul edilen ve 2024 yılında duyurulan 'Ortak Türk Alfabesi' kaç harften oluşmaktadır?",
+                "options": [
+                    "29",
+                    "32",
+                    "34",
+                    "36"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
                 "question": "Dünyanın yedi harikasından biri olan 'Artemis Tapınağı' günümüzde hangi ülkede bulunmaktadır?",
                 "options": [
                     "Yunanistan",
@@ -5698,17 +8130,6 @@
                 ],
                 "correct_answer": 2,
                 "difficulty": 6
-            },
-            {
-                "question": "Hz. Osman'a 'iki nur sahibi' anlamına gelen 'Zi'n-nureyn' lakabının verilme sebebi nedir?",
-                "options": [
-                    "Hem Hz. Rukiyye hem de Hz. Ümmü Gülsüm ile evlenmiş olması",
-                    "Hem Mekke hem Medine'de vali olması",
-                    "İki kez hicret etmiş olması",
-                    "Hem Tevrat'ı hem Kur'an'ı ezbere bilmesi"
-                ],
-                "correct_answer": 0,
-                "difficulty": 7
             },
             {
                 "question": "605 yılında Kabe'nin tamiri sırasında 'Hacer-i Esved'in yerine konulması krizini çözen hakem kimdir?",
@@ -21325,19 +23746,6 @@
                 "difficulty": 4
             },
             {
-                "question": "Maratonda koşulan mesafe kaç kilometredir?",
-                "options": [
-                    "42.195",
-                    "40",
-                    "45",
-                    "50"
-                ],
-                "correct_answer": 0,
-                "category": "Spor",
-                "source_id": "additional",
-                "difficulty": 4
-            },
-            {
                 "question": "Radyoyu kim icat etmiştir?",
                 "options": [
                     "Guglielmo Marconi",
@@ -32433,6 +34841,1108 @@
                 ],
                 "correct_answer": 1,
                 "category": "Ezel"
+            }
+        ],
+        "Harry Potter": [
+            {
+                "question": "Harry Potter'ın Hogwarts'taki ilk yılında binaları seçen 'Seçmen Şapka' aslında hangi Hogwarts kurucusuna aitti?",
+                "options": [
+                    "Slytherin",
+                    "Gryffindor",
+                    "Ravenclaw",
+                    "Hufflepuff"
+                ],
+                "correct_answer": 1,
+                "difficulty": 1
+            },
+            {
+                "question": "Ron Weasley'nin en büyük korkusu olan ve Böcürt ile karşılaştığında gördüğü canlı hangisidir?",
+                "options": [
+                    "Yılan",
+                    "Örümcek",
+                    "Fare",
+                    "Ruh Emici"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "Harry Potter serisinde, bir büyücünün evinden başka bir yere ışınlanmasını sağlayan yeşil tozun adı nedir?",
+                "options": [
+                    "Sihir Tozu",
+                    "Uçan Toz",
+                    "Parıltı Tozu",
+                    "Anka Tozu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 3
+            },
+            {
+                "question": "Harry Potter'ın katıldığı Üç Büyücü Turnuvası'nın ikinci görevinde, su altında kurtarması gereken 'en değerli varlığı' kimdir?",
+                "options": [
+                    "Hermione Granger",
+                    "Ron Weasley",
+                    "Cho Chang",
+                    "Hagrid"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Sirius Black'in kardeşi olan ve Lord Voldemort'un Hortkuluklarından birini çalan eski Ölüm Yiyen kimdir?",
+                "options": [
+                    "Lucius Malfoy",
+                    "Regulus Arcturus Black",
+                    "Phineas Nigellus",
+                    "Bellatrix Lestrange"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Severus Snape'in çocukluk aşkı olan Lily Potter'ın Patronus'u hangi hayvan şeklindedir?",
+                "options": [
+                    "Geyik",
+                    "Maral",
+                    "Kuğu",
+                    "Tavşan"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarını yapmak için Harry'ye 'İhtiyaç Odası'nı öneren ev cini (kitaplarda) kimdir?",
+                "options": [
+                    "Dobby",
+                    "Kreacher",
+                    "Winky",
+                    "Hokey"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Albus Dumbledore'un babası Percival Dumbledore, neden Azkaban'a gönderilmiştir?",
+                "options": [
+                    "Ölüm Yiyen olduğu için",
+                    "Kızına saldıran Muggle çocuklarına saldırdığı için",
+                    "Yasaklı büyü kullandığı için",
+                    "Gellert Grindelwald'a yardım ettiği için"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Lord Voldemort'un Hortkuluk haline getirdiği Rowena Ravenclaw'ın Diademi'ni Harry Potter nerede bulmuştur?",
+                "options": [
+                    "Sırlar Odası",
+                    "Gringotts Bankası",
+                    "İhtiyaç Odası",
+                    "Müdürün Odası"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Ginny Weasley'nin okul dışındayken sahip olduğu ve omuzunda taşıdığı pembe, tüylü küçük yaratığın (Pygmy Puff) adı nedir?",
+                "options": [
+                    "Arnold",
+                    "Barnaby",
+                    "Binky",
+                    "Hermes"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Harry Potter'ın asasıyla aynı çekirdeğe sahip olan (Anka tüyü) Voldemort'un asasını yapan kişi Ollivander'dır. Peki bu asanın boyu tam olarak kaç inçtir?",
+                "options": [
+                    "11 inç",
+                    "13.5 inç",
+                    "10 inç",
+                    "12.5 inç"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Hogwarts Ekspresi'nde yemek arabasını süren yaşlı kadının, öğrencilerin trenden kaçmasını önlemek için ellerinin dönüştüğü nesne hangisidir?",
+                "options": [
+                    "Pençeler",
+                    "Keskin Bıçaklar",
+                    "Alevler",
+                    "Sarmaşıklar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Harry Potter'ın beşinci yılında aldığı S.Y.B.S (Sıradan Büyücülük Düzeyi) sınavlarında 'Astronomi' dersinden aldığı not nedir?",
+                "options": [
+                    "Olağanüstü",
+                    "Beklenenin Üstünde",
+                    "Zayıf",
+                    "Kabul Edilebilir"
+                ],
+                "correct_answer": 3,
+                "difficulty": 8
+            },
+            {
+                "question": "Sirius Black'in evindeki huysuz ev cini Kreacher'ın ait olduğu Black ailesinin sloganı 'Toujours Pur' ne anlama gelir?",
+                "options": [
+                    "Daima Güçlü",
+                    "Daima Safkan",
+                    "Daima Sadık",
+                    "Daima Soylu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Hermione Granger'ın anne ve babasının mesleği nedir?",
+                "options": [
+                    "Öğretmen",
+                    "Doktor",
+                    "Diş Hekimi",
+                    "Avukat"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Harry Potter'ın Hogwarts'taki binaları belirleyen Seçmen Şapka, Harry'yi aslen hangi binaya göndermek istemiştir?",
+                "options": [
+                    "Gryffindor",
+                    "Slytherin",
+                    "Ravenclaw",
+                    "Hufflepuff"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "Harry Potter serisinin ilk kitabında Harry'nin doğum günü olan 31 Temmuz'da Hagrid ona ne hediye etmiştir?",
+                "options": [
+                    "Bir asa",
+                    "Baykuş Hedwig",
+                    "Görünmezlik Pelerini",
+                    "Nimbus 2000"
+                ],
+                "correct_answer": 1,
+                "difficulty": 3
+            },
+            {
+                "question": "Harry Potter'ın katıldığı Üç Büyücü Turnuvası'nın sonundaki labirentte Harry ve Cedric, kupaya aynı anda dokunarak nereye ışınlanmışlardır?",
+                "options": [
+                    "Hogwarts Kalesi",
+                    "Hogsmeade Köyü",
+                    "Little Hangleton Mezarlığı",
+                    "Sihir Bakanlığı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Harry Potter serisinde 'Zümrüdüanka Yoldaşlığı'nın kurucusu ve lideri kimdir?",
+                "options": [
+                    "Albus Dumbledore",
+                    "Sirius Black",
+                    "Kingsley Shacklebolt",
+                    "Remus Lupin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 3
+            },
+            {
+                "question": "Hermione Granger'ın kedisi Crookshanks, aslında hangi hayvana benzer bir melezdir?",
+                "options": [
+                    "Kedi - Vaşak",
+                    "Kedi - Kneazle",
+                    "Kedi - Testral",
+                    "Kedi - Hipogrif"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Ron Weasley'nin meşhur faresi Scabbers'ın asıl kimliği olan Peter Pettigrew, toplamda kaç yıl boyunca fare kılığında yaşamıştır?",
+                "options": [
+                    "5 Yıl",
+                    "8 Yıl",
+                    "12 Yıl",
+                    "15 Yıl"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Gellert Grindelwald'ın, Dumbledore tarafından yenilmeden önce hapsettiği ve kendisinin de daha sonra hapsedildiği ünlü hapishane hangisidir?",
+                "options": [
+                    "Azkaban",
+                    "Nurmengard",
+                    "Gringotts",
+                    "St. Mungo"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Harry Potter'ın dördüncü yılındaki Noel Balosu'nda (Yule Ball), Harry'nin partneri olan Gryffindor öğrencisi kimdir?",
+                "options": [
+                    "Cho Chang",
+                    "Ginny Weasley",
+                    "Parvati Patil",
+                    "Padma Patil"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Profesör Snape'in 'Melez Prens' (Half-Blood Prince) takma adındaki 'Prince' kelimesi annesinin kızlık soyadıdır. Peki annesinin ilk adı nedir?",
+                "options": [
+                    "Lily",
+                    "Eileen",
+                    "Narcissa",
+                    "Bellatrix"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Lord Voldemort'un babası Tom Riddle Senior, nerede öldürülmüştür?",
+                "options": [
+                    "Riddle Evi",
+                    "Hogwarts",
+                    "Gaunt Evi",
+                    "Sihir Bakanlığı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın beşinci yılında savunma derslerine giren Dolores Umbridge'in kullandığı sihirli kalemin mürekkebi aslında nedir?",
+                "options": [
+                    "Ejderha kanı",
+                    "Kullanıcının kendi kanı",
+                    "Siyah mürekkep",
+                    "Görünmez mürekkep"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Severus Snape, Albus Dumbledore'u öldürdüğünde hangi kulede bulunuyorlardı?",
+                "options": [
+                    "Gryffindor Kulesi",
+                    "Astronomi Kulesi",
+                    "Baykuş Kulesi",
+                    "Ravenclaw Kulesi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarının yerini Dolores Umbridge'e ispiyonlayan Marietta Edgecombe'un yüzünde sivilcelerle ne yazmıştır?",
+                "options": [
+                    "HAİN",
+                    "MUHBİR",
+                    "YALANCI",
+                    "SUÇLU"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Harry Potter'ın oğlu Albus Severus Potter'ın tam adı iki müdürden gelir. Peki, Albus'un ikinci ismi olan Severus hangi binanın müdürüydü?",
+                "options": [
+                    "Gryffindor",
+                    "Slytherin",
+                    "Ravenclaw",
+                    "Hufflepuff"
+                ],
+                "correct_answer": 1,
+                "difficulty": 1
+            },
+            {
+                "question": "Sihir Bakanlığı'ndaki Gizemler Dairesi'nde bulunan ve Harry'nin Sirius'un düşerken kaybolduğunu gördüğü o meşhur nesne/yer hangisidir?",
+                "options": [
+                    "Zaman Odası",
+                    "Beyin Odası",
+                    "Ölüm Kemeri",
+                    "Kehanet Küresi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Harry Potter'ın Hogwarts'taki ilk yılında arkadaş olduğu devasa yarı-devin adı nedir?",
+                "options": [
+                    "Grawp",
+                    "Rubeus Hagrid",
+                    "Aragog",
+                    "Fluffy"
+                ],
+                "correct_answer": 1,
+                "difficulty": 1
+            },
+            {
+                "question": "Hermione Granger'ın en sevmediği ve genelde saçma bulduğu, Profesör Trelawney tarafından verilen ders hangisidir?",
+                "options": [
+                    "Aritmansi",
+                    "Kehanet",
+                    "Bitkibilim",
+                    "Tılsım"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "Harry Potter'ın okul dışındaki evi olan Privet Drive, hangi numaradadır?",
+                "options": [
+                    "4",
+                    "10",
+                    "12",
+                    "7"
+                ],
+                "correct_answer": 0,
+                "difficulty": 3
+            },
+            {
+                "question": "Dobby'yi özgür bırakan giysi parçası olan çorap, başlangıçta kime aitti?",
+                "options": [
+                    "Lucius Malfoy",
+                    "Harry Potter",
+                    "Ron Weasley",
+                    "Dumbledore"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Severus Snape'in 'Melez Prens' takma adındaki 'Prens' (Prince) ifadesi nereden gelmektedir?",
+                "options": [
+                    "Kraliyet soyundan",
+                    "Annesinin kızlık soyadından",
+                    "Babasının unvanından",
+                    "Kendi uydurduğu bir isimdir"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın katıldığı Üç Büyücü Turnuvası'nda, su altındaki ikinci görevde kullandığı ve su altında nefes almasını sağlayan bitki hangisidir?",
+                "options": [
+                    "Şahtere",
+                    "Galsuyu (Gillyweed)",
+                    "Şeytan Tuzağı",
+                    "Adamotu"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Albus Dumbledore'un tam adı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Albus Percival Wulfric Brian Dumbledore",
+                    "Albus Severus Brian Dumbledore",
+                    "Albus Wulfric Percival Dumbledore",
+                    "Albus Brian Wulfric Dumbledore"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Sirius Black, Azkaban'dan kaçarken hangi hayvan formuna dönüşmüştür?",
+                "options": [
+                    "Fare",
+                    "Geyik",
+                    "Siyah Köpek",
+                    "Kurt"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Lord Voldemort'un Hortkuluklarından biri olan Marvolo Gaunt'un yüzüğünün içindeki taş aslında hangi Ölüm Yadigarı'dır?",
+                "options": [
+                    "Mürver Asa",
+                    "Diriltme Taşı",
+                    "Görünmezlik Pelerini",
+                    "Felsefe Taşı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Hogwarts Savaşında, Neville Longbottom tarafından Godric Gryffindor'un kılıcıyla öldürülen son Hortkuluk hangisidir?",
+                "options": [
+                    "Helga Hufflepuff'ın Kupası",
+                    "Nagini",
+                    "Rowena Ravenclaw'ın Diademi",
+                    "Harry Potter"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Ron Weasley'nin meşhur faresi Scabbers'ın gerçek kimliği olan Peter Pettigrew, hangi 'Çapulcu' lakabını kullanıyordu?",
+                "options": [
+                    "Aylak",
+                    "Patiayak",
+                    "Çatalboynuz",
+                    "Kılkuyruk"
+                ],
+                "correct_answer": 3,
+                "difficulty": 4
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarına ihanet eden ve yüzünde sivilcelerden 'MUHBİR' yazısı çıkan Ravenclaw öğrencisi kimdir?",
+                "options": [
+                    "Cho Chang",
+                    "Marietta Edgecombe",
+                    "Luna Lovegood",
+                    "Padma Patil"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Gilderoy Lockhart'ın yazdığı ve kendi maceralarını (!) anlattığı kitaplardan biri değildir?",
+                "options": [
+                    "Kurtadamla Gezintiler",
+                    "Hortlakla El Ele",
+                    "Vampirle Tatil",
+                    "Büyücülük Tarihi"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "Harry Potter'ın annesi Lily Potter'ın kızlık soyadı nedir?",
+                "options": [
+                    "Evans",
+                    "Black",
+                    "Snape",
+                    "Dursley"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Sihir Bakanı Cornelius Fudge'dan sonra göreve gelen ve 'Aslan' lakabıyla bilinen bakan kimdir?",
+                "options": [
+                    "Kingsley Shacklebolt",
+                    "Rufus Scrimgeour",
+                    "Pius Thicknesse",
+                    "Dolores Umbridge"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Harry Potter'ın alnındaki yara izi hangi şekildedir?",
+                "options": [
+                    "Yıldız",
+                    "Daire",
+                    "Şimşek",
+                    "Ayça"
+                ],
+                "correct_answer": 2,
+                "difficulty": 1
+            },
+            {
+                "question": "Harry Potter'ın Hogwarts'taki ilk süpürgesinin adı nedir?",
+                "options": [
+                    "Ateşoku",
+                    "Nimbus 2000",
+                    "Temizlikotu 7",
+                    "Kuyrukyıldız 260"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "Hermione Granger'ın kedisinin adı nedir?",
+                "options": [
+                    "Mrs. Norris",
+                    "Fang",
+                    "Crookshanks",
+                    "Scabbers"
+                ],
+                "correct_answer": 2,
+                "difficulty": 3
+            },
+            {
+                "question": "Harry'nin ikinci yılında Sırlar Odası'nı açan Gryffindor öğrencisi kimdir?",
+                "options": [
+                    "Ron Weasley",
+                    "Ginny Weasley",
+                    "Neville Longbottom",
+                    "Percy Weasley"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Üç Büyücü Turnuvası'nda Harry Potter, ilk görevde hangi ejderha türüyle eşleşmiştir?",
+                "options": [
+                    "Macar Boynuzkuyruk",
+                    "Çin Ateştopu",
+                    "Galler Yeşili",
+                    "İsveç Kısaburnu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarını yaptığı gizli odanın adı nedir?",
+                "options": [
+                    "Sırlar Odası",
+                    "İhtiyaç Odası",
+                    "Dönüşüm Odası",
+                    "Müdürün Odası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Lord Voldemort'un annesinin adı nedir?",
+                "options": [
+                    "Bellatrix Lestrange",
+                    "Merope Gaunt",
+                    "Narcissa Malfoy",
+                    "Walburga Black"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Sirius Black'in aile evinin bulunduğu Grimmauld Meydanı 12 numaranın gizli bekçisi (Secret Keeper) aslen kimdir?",
+                "options": [
+                    "Sirius Black",
+                    "Remus Lupin",
+                    "Albus Dumbledore",
+                    "Kingsley Shacklebolt"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Gryffindor'un kılıcını yapan ve gerçek sahibi olduğunu iddia eden cinücenin (goblin) adı nedir?",
+                "options": [
+                    "Griphook",
+                    "Ragnuk I",
+                    "Gornuk",
+                    "Bogrod"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dumbledore'un kız kardeşi Ariana'nın ölümüne sebep olan üçlü düelloda Albus ve Aberforth'un karşısındaki üçüncü isim kimdir?",
+                "options": [
+                    "Severus Snape",
+                    "Gellert Grindelwald",
+                    "Tom Riddle",
+                    "Igor Karkaroff"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Harry Potter'ın Hogwarts'taki ilk yılında, okulun üçüncü katındaki yasak koridoru koruyan üç başlı dev köpeğin adı nedir?",
+                "options": [
+                    "Fang",
+                    "Fluffy",
+                    "Norbert",
+                    "Grawp"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Büyücülerin alışveriş yaptığı Diagon Yolu'na giriş yapabilmek için hangi barın arka bahçesindeki duvar tuğlalarına belirli bir sırayla vurmak gerekir?",
+                "options": [
+                    "Üç Süpürge",
+                    "Domuz Kafası",
+                    "Çatlak Kazan",
+                    "Rezervuar Köpekleri"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dumbledore'un bürosunda bulunan, hatıraları saklamaya ve tekrar izlemeye yarayan sihirli havuzun adı nedir?",
+                "options": [
+                    "Düşünseli",
+                    "Görünmezlik Havuzu",
+                    "Zaman Kuyusu",
+                    "Büyü Aynası"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter'ın vaftiz babası Sirius Black, James Potter ve Remus Lupin ile arkadaştı. Bu grubun dördüncü üyesi olan ve gruba 'Kılkuyruk' olarak katılan kişi kimdir?",
+                "options": [
+                    "Severus Snape",
+                    "Peter Pettigrew",
+                    "Lucius Malfoy",
+                    "Gilderoy Lockhart"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi sihirli yaratık, sadece ölümü görmüş kişiler tarafından görülebilir ve Hogwarts arabalarını çeker?",
+                "options": [
+                    "Hipogrif",
+                    "Testral",
+                    "Anka Kuşu",
+                    "Ejderha"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter serisinde 'Kovuk' (The Burrow) olarak bilinen ev hangi aileye aittir?",
+                "options": [
+                    "Malfoy Ailesi",
+                    "Black Ailesi",
+                    "Weasley Ailesi",
+                    "Longbottom Ailesi"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Profesör Snape'in Harry Potter'ın annesi Lily'ye olan ömür boyu süren aşkını simgeleyen ve Patronus'uyla aynı olan hayvan hangisidir?",
+                "options": [
+                    "Gümüşi Aslan",
+                    "Gümüşi Kuğu",
+                    "Gümüşi Maral",
+                    "Gümüşi At"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyücü dünyasında günlük olarak yayınlanan ve resimlerin hareket ettiği gazetenin adı nedir?",
+                "options": [
+                    "Gelecek Postası",
+                    "Sihir Gazetesi",
+                    "Hogwarts Haberleri",
+                    "Dırdırcı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter serisinde 'Sıvı Şans' olarak bilinen ve içene her konuda başarı getiren iksirin adı nedir?",
+                "options": [
+                    "Veritaserum",
+                    "Amortentia",
+                    "Felix Felicis",
+                    "Çok Özlü İksir"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Hagrid'in Yasak Orman'da yetiştirdiği ve Harry ile Ron'un ikinci sınıfta karşılaştığı dev örümceğin adı nedir?",
+                "options": [
+                    "Aragog",
+                    "Mosag",
+                    "Shelob",
+                    "Fang"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Sirius Black'in ailesine ait olan ve Zümrüdüanka Yoldaşlığı'nın karargahı olarak kullanılan evin adresi nedir?",
+                "options": [
+                    "Grimmauld Meydanı 12 numara",
+                    "Privet Drive 4 numara",
+                    "Godric's Hollow",
+                    "Spinners End"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter serisinde 'Safkan' büyücülerin, Muggle ana-babadan doğan büyücülere hakaret etmek için kullandığı kelime hangisidir?",
+                "options": [
+                    "Bulanık",
+                    "Koful",
+                    "Melez",
+                    "Muggle-doğumlu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Hogwarts okulunun sloganı olan 'Draco Dormiens Nunquam Titillandus'un Türkçe anlamı nedir?",
+                "options": [
+                    "Bilgi güçtür",
+                    "Asla vazgeçme",
+                    "Uyuyan bir ejderhayı asla gıdıklama",
+                    "Büyü her şeydir"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter'ın Ateş Kadehi filmindeki turnuvada karşılaştığı ilk ejderha türü hangisidir?",
+                "options": [
+                    "Macar Boynuzkuyruk",
+                    "Çin Ateştopu",
+                    "Galler Yeşili",
+                    "İsveç Kısaburnu"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyücülük dünyasında ulaşım için kullanılan, kişiyi bir yerden başka bir yere anında taşıyan nesnelere ne ad verilir?",
+                "options": [
+                    "Anahtar",
+                    "Uçan Süpürge",
+                    "Hızır Otobüs",
+                    "Görünmezlik Pelerini"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın vaftiz babası olan ve Azkaban hapishanesinden kaçan ilk kişi olarak bilinen büyücü kimdir?",
+                "options": [
+                    "Remus Lupin",
+                    "Sirius Black",
+                    "Peter Pettigrew",
+                    "Lucius Malfoy"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter serisinde, bir büyücünün en korktuğu şeyin şeklini alan varlığa ne ad verilir?",
+                "options": [
+                    "Ruh Emici",
+                    "Böcürt",
+                    "Testral",
+                    "Hipogrif"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Lord Voldemort'un yılanı olan ve aynı zamanda bir Hortkuluk olan canlının adı nedir?",
+                "options": [
+                    "Nagini",
+                    "Aragog",
+                    "Basilisk",
+                    "Norbert"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın babası James Potter, bir 'Animagus' olarak hangi hayvana dönüşebiliyordu?",
+                "options": [
+                    "Köpek",
+                    "Fare",
+                    "Çatalboynuzlu Geyik",
+                    "Kurt"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Dobby adlı ev cinini özgürlüğüne kavuşturan ve Harry Potter tarafından Lucius Malfoy'a verilen giysi parçası hangisidir?",
+                "options": [
+                    "Eldiven",
+                    "Şapka",
+                    "Çorap",
+                    "Atkı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın ilk süpürgesi olan ve Profesör McGonagall tarafından hediye edilen süpürgenin modeli nedir?",
+                "options": [
+                    "Ateşoku (Firebolt)",
+                    "Nimbus 2000",
+                    "Nimbus 2001",
+                    "Temizlikotu 7"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter ve arkadaşlarına Hogwarts'ın gizli yollarını gösteren 'Çapulcu Haritası'nın yaratıcılarından 'Kılkuyruk' takma adı kime aittir?",
+                "options": [
+                    "James Potter",
+                    "Sirius Black",
+                    "Remus Lupin",
+                    "Peter Pettigrew"
+                ],
+                "correct_answer": 3,
+                "difficulty": 6
+            },
+            {
+                "question": "Hermione Granger'ın üçüncü sınıfta tüm derslere yetişebilmek için kullandığı sihirli nesne hangisidir?",
+                "options": [
+                    "Zaman Döndürücü",
+                    "Düşünseli",
+                    "Uçan Toz",
+                    "Anahtar"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Hogwarts'ta bitkibilim (Herbology) derslerine giren ve Hufflepuff bina başkanı olan profesör kimdir?",
+                "options": [
+                    "Severus Snape",
+                    "Pomona Sprout",
+                    "Minerva McGonagall",
+                    "Sybill Trelawney"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Dumbledore'un Ordusu'nun toplantılarını yaptığı, sadece gerçekten ihtiyacı olanlara görünen Hogwarts odası hangisidir?",
+                "options": [
+                    "Sırlar Odası",
+                    "İhtiyaç Odası",
+                    "Müdürün Odası",
+                    "Büyük Salon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Ron Weasley'nin babası Arthur Weasley, Sihir Bakanlığı'nın hangi dairesinde çalışmaktadır?",
+                "options": [
+                    "Seherbaz Bürosu",
+                    "Muggle Eşyalarının Kötüye Kullanımı Dairesi",
+                    "Sihirli Yaratıkların Düzenlenmesi Dairesi",
+                    "Gizemler Dairesi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Ölüm Yadigarları'ndan biri olan ve mezarlıktan geri getirme gücü olduğu söylenen taşın adı nedir?",
+                "options": [
+                    "Felsefe Taşı",
+                    "Diriltme Taşı",
+                    "Mürver Taş",
+                    "Sihir Taşı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın Patronus'u hangi hayvan şeklindedir?",
+                "options": [
+                    "Su Samuru",
+                    "Anka Kuşu",
+                    "Geyik",
+                    "Köpek"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Gryffindor binasının ortak salonuna girebilmek için hangi tabloya parola söylenmelidir?",
+                "options": [
+                    "Şişman Hanım",
+                    "Kanlı Baron",
+                    "Gri Leydi",
+                    "Mızmız Myrtle"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter serisinde, bir büyücünün asasını seçmediğini, asanın büyücüyü seçtiğini söyleyen ünlü asa yapımcısı kimdir?",
+                "options": [
+                    "Gellert Grindelwald",
+                    "Garrick Ollivander",
+                    "Gregorovitch",
+                    "Aberforth Dumbledore"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter serisinin yazarı olan ve bu eserle dünyanın en zengin yazarlarından biri haline gelen isim kimdir?",
+                "options": [
+                    "Stephenie Meyer",
+                    "J.R.R. Tolkien",
+                    "J.K. Rowling",
+                    "George R.R. Martin"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Hogwarts Cadılık ve Büyücülük Okulu'nda öğrencileri binalara (Gryffindor, Slytherin vb.) ayıran sihirli nesne hangisidir?",
+                "options": [
+                    "Sihirli Küre",
+                    "Seçmen Şapka",
+                    "Ateş Kadehi",
+                    "Görünmezlik Pelerini"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın alnındaki meşhur şimşek şeklindeki yara izini ona hangi büyücü bırakmıştır?",
+                "options": [
+                    "Severus Snape",
+                    "Lord Voldemort",
+                    "Sirius Black",
+                    "Albus Dumbledore"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Hogwarts Ekspresi'ne binmek için Londra'daki King's Cross İstasyonu'nda hangi perondan geçmek gerekir?",
+                "options": [
+                    "8 1/2",
+                    "9 1/4",
+                    "9 3/4",
+                    "10 1/2"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Harry Potter'ın en yakın arkadaşları olan Ron Weasley ve Hermione Granger hangi binanın öğrencileridir?",
+                "options": [
+                    "Slytherin",
+                    "Ravenclaw",
+                    "Hufflepuff",
+                    "Gryffindor"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Büyücülük dünyasının popüler sporu olan Quidditch'te, oyunu bitiren ve 150 puan kazandıran küçük altın topun adı nedir?",
+                "options": [
+                    "Quaffle",
+                    "Bludger",
+                    "Altın Snitch",
+                    "Sihirli Küre"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Lord Voldemort'un ruhunun parçalarını sakladığı ve yok edilmesi oldukça zor olan nesnelere ne ad verilir?",
+                "options": [
+                    "Hortkuluk",
+                    "Ölüm Yadigarı",
+                    "Mürver Asa",
+                    "Felsefe Taşı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter'ın baykuşunun adı nedir?",
+                "options": [
+                    "Errol",
+                    "Hedwig",
+                    "Fawkes",
+                    "Scabbers"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Severus Snape, Hogwarts'ta uzun yıllar hangi dersin öğretmeni olmak istemiş ancak yıllarca iksir dersi vermiştir?",
+                "options": [
+                    "Biçim Değiştirme",
+                    "Karanlık Sanatlara Karşı Savunma",
+                    "Bitkibilim",
+                    "Tılsım"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyücülerin kişisel koruyucusu olan ve 'Expecto Patronum' büyüsüyle çağrılan gümüşi varlığa ne ad verilir?",
+                "options": [
+                    "Patronus",
+                    "Ruh Emici",
+                    "Ev Cini",
+                    "Böcürt"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Harry Potter serisinin ilk kitabının adı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Sırlar Odası",
+                    "Ateş Kadehi",
+                    "Felsefe Taşı",
+                    "Melez Prens"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Hogwarts okulunun anahtarlarının koruyucusu ve bekçisi olan devasa dostumuzun adı nedir?",
+                "options": [
+                    "Argus Filch",
+                    "Rubeus Hagrid",
+                    "Grawp",
+                    "Dobby"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Üç büyücü turnuvasında Harry Potter ile birlikte Hogwarts'ı temsil eden ve Cedric Diggory karakterini canlandıran oyuncu kimdir?",
+                "options": [
+                    "Daniel Radcliffe",
+                    "Tom Felton",
+                    "Robert Pattinson",
+                    "Rupert Grint"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Hermione Granger'ın kütüphanelerde vakit geçirmeyi seven, yassı suratlı kedisinin adı nedir?",
+                "options": [
+                    "Crookshanks",
+                    "Mrs. Norris",
+                    "Fang",
+                    "Trevor"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Büyücü dünyasında banka işlerini yürüten ve Gringotts bankasını yöneten varlıklar hangileridir?",
+                "options": [
+                    "At adamlar",
+                    "Cinüceler",
+                    "Ev cinleri",
+                    "Devler"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
             }
         ],
         "Hz. Yusuf": [
@@ -54799,39 +58309,403 @@
         "Video Oyun Karakterleri": [
             {
                 "name": "Mario",
-                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mario_Series_Logo.svg"
+                "image_url": "https://www.freeiconspng.com/thumbs/mario/mario-transparent-6.png"
             },
             {
-                "name": "Kratos",
-                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kratos_cosplayer.jpg"
+                "name": "Luigi",
+                "image_url": "https://purepng.com/public/uploads/thumbnail/purepng.com-luigimariofictional-charactervideo-gamefranchisenintendodesigner-1701528631379ykssh.png"
             },
             {
-                "name": "Master Chief",
-                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosplay_of_Master_Chief_from_Halo_at_Brussels_Comic_Con_2022_(51961833228).jpg"
+                "name": "Princess Peach",
+                "image_url": "https://www.pngmart.com/files/2/Princess-Peach-PNG-Photos.png"
+            },
+            {
+                "name": "Bowser",
+                "image_url": "https://w7.pngwing.com/pngs/80/18/png-transparent-nintendo-bowser-illustration-super-mario-bros-bowser-mario-sonic-at-the-olympic-winter-games-bowser-heroes-super-mario-bros-carnivoran-thumbnail.png"
+            },
+            {
+                "name": "Yoshi",
+                "image_url": "https://gimgs2.nohat.cc/thumb/f/350/yoshi-png-image-transparent--comdlpng6968210.jpg"
+            },
+            {
+                "name": "Toad",
+                "image_url": "https://www.pngmart.com/files/13/Super-Mario-Bros-Toad-PNG-Transparent-Picture-273x279.png"
+            },
+            {
+                "name": "Wario",
+                "image_url": "https://pngset.com/images/wario-super-smash-bros-super-mario-person-human-transparent-png-223008.png"
+            },
+            {
+                "name": "Donkey Kong",
+                "image_url": "https://www.seekpng.com/png/detail/23-234094_donkey-kong-free-png-image-donkey-kong-country.png"
+            },
+            {
+                "name": "Diddy Kong",
+                "image_url": "https://www.pngmart.com/files/23/Diddy-Kong-PNG-Pic-190x200.png"
             },
             {
                 "name": "Link",
-                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/LinkZeldaCosplay.jpg"
+                "image_url": "https://www.pngmart.com/files/2/Zelda-Link-Transparent-Background-356x279.png"
             },
             {
-                "name": "Solid Snake",
-                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Solid_Snake_cosplay.jpg"
+                "name": "Princess Zelda",
+                "image_url": "https://image.pngaaa.com/898/4197898-small.png"
             },
             {
-                "name": "Sonic the Hedgehog",
-                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sonic_Cosplayers_at_Lucca_Comics_%26_Games_2015.jpg"
+                "name": "Ganon",
+                "image_url": "https://w7.pngwing.com/pngs/373/169/png-transparent-ganon-the-legend-of-zelda-ocarina-of-time-the-legend-of-zelda-skyward-sword-the-legend-of-zelda-breath-of-the-wild-link-warrior-boss-video-game-fictional-character-thumbnail.png"
+            },
+            {
+                "name": "Samus Aran",
+                "image_url": "https://www.pngarts.com/files/3/Samus-Aran-Transparent-Image-320x279.png"
+            },
+            {
+                "name": "Kirby",
+                "image_url": "https://pngteam.com/images/kirby-png-371x323_54639928_transparent_202031.png.png"
+            },
+            {
+                "name": "Fox McCloud",
+                "image_url": "https://p.kindpng.com/picc/s/203-2032022_transparent-fox-mccloud-png-cartoon-png-download.png"
             },
             {
                 "name": "Pikachu",
-                "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+                "image_url": "https://www.freeiconspng.com/thumbs/pikachu-transparent/pikachu-png-transparent-0.png"
+            },
+            {
+                "name": "Charizard",
+                "image_url": "https://freepngimg.com/thumb/pokemon/106162-pokemon-charizard-png-image-high-quality-thumb.png"
+            },
+            {
+                "name": "Mewtwo",
+                "image_url": "https://pngpix.com/images/thumbnail/mewtwo-pokemon3-d-model-fk3xrdlke1vi6hsm.webp"
+            },
+            {
+                "name": "Lucario",
+                "image_url": "https://www.seekpng.com/png/small/39-397186_mammal-vertebrate-cartoon-fictional-character-lucario-surprised.png"
+            },
+            {
+                "name": "Jigglypuff",
+                "image_url": "https://p.kindpng.com/picc/s/135-1357803_jigglypuff-pokemon-jigglypuff-hd-png-download.png"
+            },
+            {
+                "name": "Ness",
+                "image_url": "https://toppng.com/uploads/thumbnail/o-caption-provided-ness-earthbound-11563054098eeikebh07j.png"
+            },
+            {
+                "name": "Captain Falcon",
+                "image_url": "https://www.pngmart.com/files/13/Captain-Falcon-Transparent-Images-PNG.png"
+            },
+            {
+                "name": "Marth",
+                "image_url": "https://www.seekpng.com/png/small/183-1830776_character-marth-fire-emblem-warriors-marth.png"
+            },
+            {
+                "name": "Roy",
+                "image_url": "https://smallimg.pngkey.com/png/small/229-2295166_roy-archer-fire-emblem.png"
+            },
+            {
+                "name": "Ike",
+                "image_url": "https://png.pngitem.com/pimgs/s/177-1772203_fire-emblem-heroes-ike-hd-png-download.png"
+            },
+            {
+                "name": "Pit",
+                "image_url": "https://smallimg.pngkey.com/png/small/447-4479441_pit-nintendo-character-pit-kid-icarus-weapons.png"
+            },
+            {
+                "name": "Palutena",
+                "image_url": "https://png.pngitem.com/pimgs/s/24-247690_super-smash-bros-ultimate-palutena-hd-png-download.png"
+            },
+            {
+                "name": "Olimar",
+                "image_url": "https://freepngimg.com/thumb/super_smash_bros/115021-picture-captain-olimar-free-download-png-hd-thumb.png"
+            },
+            {
+                "name": "Isabelle",
+                "image_url": "https://assets.stickpng.com/images/5f539984060f2e000485808f.png"
+            },
+            {
+                "name": "Tom Nook",
+                "image_url": "https://p.kindpng.com/picc/s/676-6766795_animal-crossing-tom-nook-hd-png-download.png"
+            },
+            {
+                "name": "K.K. Slider",
+                "image_url": "https://png.pngitem.com/pimgs/s/355-3553328_transparent-kk-slider-png-animal-crossing-city-folk.png"
+            },
+            {
+                "name": "Shulk",
+                "image_url": "https://www.pngkit.com/png/full/180-1802237_xenoblade-chronicles-shulk.png"
+            },
+            {
+                "name": "Rex",
+                "image_url": "https://static.wikia.nocookie.net/xenoblade/images/b/b7/Rex_pic.png/revision/latest?cb=20170712045610"
+            },
+            {
+                "name": "Pyra",
+                "image_url": "https://static.tvtropes.org/pmwiki/pub/images/xc2pyra.png"
+            },
+            {
+                "name": "Mythra",
+                "image_url": "https://i.pinimg.com/originals/2a/20/a9/2a20a9f6a0356b65ac5d0550dec20d0a.png"
+            },
+            {
+                "name": "Inkling",
+                "image_url": "https://png.pngitem.com/pimgs/s/454-4548782_inkling-nintendo-hd-png-download.png"
+            },
+            {
+                "name": "Min Min",
+                "image_url": "https://simg.nicepng.com/png/small/62-625886_2-arms-min-min.png"
+            },
+            {
+                "name": "Spring Man",
+                "image_url": "https://p.kindpng.com/picc/s/147-1479964_arms-spring-man-png-transparent-png.png"
+            },
+            {
+                "name": "Twintelle",
+                "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea4b4748-2d1a-430f-b2d5-31b698ede13c/dc3omuo-52c112de-c1f4-4e49-b386-15e2b452d8f6.png/v1/fit/w_300,h_900,strp/twintelle_pose_5_by_crepet9000_dc3omuo-300w.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAwMCIsInBhdGgiOiJcL2ZcL2VhNGI0NzQ4LTJkMWEtNDMwZi1iMmQ1LTMxYjY5OGVkZTEzY1wvZGMzb211by01MmMxMTJkZS1jMWY0LTRlNDktYjM4Ni0xNWUyYjQ1MmQ4ZjYucG5nIiwid2lkdGgiOiI8PTIwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-pQMbwHlWHWDvZCUXP6clsoC_wjilEF9UUDWOA0y1TQ"
+            },
+            {
+                "name": "Sonic the Hedgehog",
+                "image_url": "https://freepngimg.com/thumb/technology/82871-sonic-toy-character-fictional-the-hedgehog-shadow-thumb.png"
+            },
+            {
+                "name": "Miles Tails Prower",
+                "image_url": "https://png.pngitem.com/pimgs/s/520-5203792_miles-tails-prower-classic-hd-png-download.png"
+            },
+            {
+                "name": "Knuckles the Echidna",
+                "image_url": "https://png.pngitem.com/pimgs/s/344-3441701_sonic-knuckles-plant-fiction-echidna-the-hedgehog-knuckles.png"
+            },
+            {
+                "name": "Amy Rose",
+                "image_url": "https://img1.picmix.com/output/stamp/normal/2/6/0/2/1852062_750e1.png"
+            },
+            {
+                "name": "Doctor Eggman",
+                "image_url": "https://www.seekpng.com/png/small/200-2004103_sonic-forces-dr-eggman.png"
+            },
+            {
+                "name": "Shadow the Hedgehog",
+                "image_url": "https://www.seekpng.com/png/small/148-1484984_click-to-edit-shadow-the-hedgehog-character-bio.png"
+            },
+            {
+                "name": "Mega Man",
+                "image_url": "https://simg.nicepng.com/png/small/15-155746_megaman-png-transparent-image-mega-man-transparent.png"
+            },
+            {
+                "name": "Zero",
+                "image_url": "https://www.pngkey.com/png/full/232-2326687_megaman-transparent-zero-zero-mega-man-x4.png"
+            },
+            {
+                "name": "Ryu",
+                "image_url": "http://www.pngmart.com/files/2/Ryu-PNG-HD-347x279.png"
+            },
+            {
+                "name": "Ken Masters",
+                "image_url": "https://ssb.wiki.gallery/images/thumb/8/8c/Ken.png/250px-Ken.png"
+            },
+            {
+                "name": "Chun-Li",
+                "image_url": "https://smallimg.pngkey.com/png/small/187-1879195_chun-li-is-a-video-game-character-from.png"
+            },
+            {
+                "name": "Guile",
+                "image_url": "https://png.pngitem.com/pimgs/s/317-3170670_guile-png-1-png-image-transparent-png.png"
+            },
+            {
+                "name": "M. Bison",
+                "image_url": "https://simg.nicepng.com/png/small/205-2053098_street-fighter-png-image-m-bison-street-fighter.png"
+            },
+            {
+                "name": "Akuma",
+                "image_url": "https://www.seekpng.com/png/full/161-1610839_akuma-png.png"
+            },
+            {
+                "name": "Cammy White",
+                "image_url": "https://simg.nicepng.com/png/small/182-1828462_cammy-white-diorama-cammy.png"
+            },
+            {
+                "name": "Zangief",
+                "image_url": "https://smallimg.pngkey.com/png/small/327-3276376_zangief-street-fighter-dibujo.png"
+            },
+            {
+                "name": "Terry Bogard",
+                "image_url": "https://png.pngitem.com/pimgs/s/370-3703991_terry-bogard-kof-all-stars-hd-png-download.png"
+            },
+            {
+                "name": "Kyo Kusanagi",
+                "image_url": "https://simg.nicepng.com/png/small/600-6008730_kyo-kusanagi-png-king-of-fighters-97-kyo.png"
+            },
+            {
+                "name": "Mai Shiranui",
+                "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/837a4631-2bd5-4860-985b-41601679101a/dad63ay-c92d739c-240d-482d-bae5-67c0a78e675c.png/v1/fill/w_272,h_177/mai_shiranui_ex_by_briankusanagi98_dad63ay-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc3IiwicGF0aCI6IlwvZlwvODM3YTQ2MzEtMmJkNS00ODYwLTk4NWItNDE2MDE2NzkxMDFhXC9kYWQ2M2F5LWM5MmQ3MzljLTI0MGQtNDgyZC1iYWU1LTY3YzBhNzhlNjc1Yy5wbmciLCJ3aWR0aCI6Ijw9MjcyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.xSK2wC3BBXUf-UseQ7t3MtpHe1JNhU5Wm3Exmu8ExN4"
+            },
+            {
+                "name": "Iori Yagami",
+                "image_url": "https://png.pngitem.com/pimgs/s/14-146477_kof-97-iori-yagami-hd-png-download.png"
+            },
+            {
+                "name": "Kazuya Mishima",
+                "image_url": "https://www.pngmart.com/files/12/Kazuya-Mishima-PNG-Transparent-Image-182x279.png"
+            },
+            {
+                "name": "Heihachi Mishima",
+                "image_url": "https://www.pngmart.com/files/12/Heihachi-Mishima-Transparent-Images-PNG-257x279.png"
+            },
+            {
+                "name": "Jin Kazama",
+                "image_url": "https://www.pngmart.com/files/12/Jin-Kazama-PNG-Pic.png"
+            },
+            {
+                "name": "Nina Williams",
+                "image_url": "https://www.pngmart.com/files/12/Tekken-Nina-Williams-Transparent-Images-PNG-191x279.png"
+            },
+            {
+                "name": "Yoshimitsu",
+                "image_url": "https://simg.nicepng.com/png/small/313-3130911_yoshimitsu-tekken-6-yoshimitsu.png"
+            },
+            {
+                "name": "King",
+                "image_url": "https://smallimg.pngkey.com/png/small/900-9007149_king-tekken-png-tekken-king.png"
+            },
+            {
+                "name": "Paul Phoenix",
+                "image_url": "https://www.pngmart.com/files/12/Paul-Phoenix-PNG-Transparent-298x279.png"
+            },
+            {
+                "name": "Marshall Law",
+                "image_url": "https://freepngimg.com/thumb/tekken/107519-marshall-law-png-image-high-quality-thumb.png"
+            },
+            {
+                "name": "Scorpion",
+                "image_url": "https://w7.pngwing.com/pngs/741/872/png-transparent-mortal-kombat-x-sub-zero-kitana-scorpion-scorpions-insects-video-game-fictional-character-thumbnail.png"
+            },
+            {
+                "name": "Sub-Zero",
+                "image_url": "https://png.pngitem.com/pimgs/s/87-876321_transparent-sub-zero-png-sub-zero-mortal-kombat.png"
+            },
+            {
+                "name": "Raiden",
+                "image_url": "https://w7.pngwing.com/pngs/810/340/png-transparent-mortal-kombat-ii-mortal-kombat-x-raiden-scorpion-mortal-kombat-hat-video-game-mortal-kombat-thumbnail.png"
+            },
+            {
+                "name": "Liu Kang",
+                "image_url": "https://www.pngmart.com/files/2/Mortal-Kombat-Liu-Kang-PNG-Clipart-244x279.png"
+            },
+            {
+                "name": "Johnny Cage",
+                "image_url": "https://simg.nicepng.com/png/small/152-1528852_character-mortal-kombat-johnny-cage.png"
+            },
+            {
+                "name": "Sonya Blade",
+                "image_url": "https://simg.nicepng.com/png/small/631-6319112_sonya-blade-png-sonya-blade.png"
+            },
+            {
+                "name": "Kitana",
+                "image_url": "https://p.kindpng.com/picc/s/102-1020075_mortal-kombat-wiki-kitana-mk11-hd-png-download.png"
+            },
+            {
+                "name": "Mileena",
+                "image_url": "https://w7.pngwing.com/pngs/695/221/png-transparent-mortal-kombat-x-mileena-mortal-kombat-shaolin-monks-kitana-scorpion-scorpion-purple-black-hair-violet-thumbnail.png"
+            },
+            {
+                "name": "Shao Kahn",
+                "image_url": "https://w7.pngwing.com/pngs/670/588/png-transparent-shao-kahn-mortal-kombat-ii-goro-mortal-kombat-armageddon-shao-kahn-video-game-boss-fictional-character-thumbnail.png"
+            },
+            {
+                "name": "Solid Snake",
+                "image_url": "https://www.pngmart.com/files/13/Solid-Snake-PNG-HD-277x279.png"
+            },
+            {
+                "name": "Big Boss",
+                "image_url": "https://p.kindpng.com/picc/s/728-7284294_metal-gear-solid-5-big-boss-png-metal.png"
+            },
+            {
+                "name": "Raiden",
+                "image_url": "https://png.pngitem.com/pimgs/s/24-241727_raiden-metal-gear-rising-png-transparent-png.png"
+            },
+            {
+                "name": "Revolver Ocelot",
+                "image_url": "https://www.pngmart.com/files/13/Revolver-Ocelot-PNG-Transparent-Image-296x279.png"
+            },
+            {
+                "name": "Cloud Strife",
+                "image_url": "https://www.pngarts.com/files/3/Cloud-Strife-PNG-Image.png"
+            },
+            {
+                "name": "Sephiroth",
+                "image_url": "https://www.seekpng.com/png/small/62-626265_sephiroth-final-fantasy-artwork-final-fantasy-characters-final.png"
+            },
+            {
+                "name": "Tifa Lockhart",
+                "image_url": "https://www.pngmart.com/files/13/Tifa-Lockhart-PNG-HD-251x279.png"
+            },
+            {
+                "name": "Aerith Gainsborough",
+                "image_url": "https://www.pngmart.com/files/13/Aerith-Gainsborough-PNG-Transparent-168x279.png"
+            },
+            {
+                "name": "Squall Leonhart",
+                "image_url": "https://png.pngitem.com/pimgs/s/448-4483999_squall-leonhart-png-transparent-image-final-fantasy-leon.png"
+            },
+            {
+                "name": "Zidane Tribal",
+                "image_url": "https://www.pngmart.com/files/13/Zidane-Tribal-PNG-Transparent-Picture-420x232.png"
+            },
+            {
+                "name": "Lara Croft",
+                "image_url": "https://pngimg.com/uploads/lara_croft/lara_croft_PNG30.png"
+            },
+            {
+                "name": "Nathan Drake",
+                "image_url": "https://www.pngmart.com/files/2/Nathan-Drake-Transparent-Background.png"
+            },
+            {
+                "name": "Chloe Frazer",
+                "image_url": "https://www.seekpng.com/png/small/130-1303860_chloe-frazer-avatar-in-u2-uncharted-2-characters.png"
+            },
+            {
+                "name": "Kratos",
+                "image_url": "https://www.pngkey.com/png/full/80-806234_kratos-png.png"
+            },
+            {
+                "name": "Atreus",
+                "image_url": "https://www.seekpng.com/png/small/80-806557_god-of-war-art-atreus-god-of.png"
+            },
+            {
+                "name": "Master Chief",
+                "image_url": "https://cpng.pikpng.com/pngl/s/98-980495_master-chief-eevee-render-master-chief-action-figure.png"
+            },
+            {
+                "name": "Cortana",
+                "image_url": "https://p.kindpng.com/picc/s/202-2024741_https-www-halopedia-org-images-8-86-queen.png"
+            },
+            {
+                "name": "Arbiter",
+                "image_url": "https://www.seekpng.com/png/small/69-695285_halo-3-arbiter.png"
+            },
+            {
+                "name": "Marcus Fenix",
+                "image_url": "https://simg.nicepng.com/png/small/70-705840_marcus-fenix-gears-of-war-3.png"
+            },
+            {
+                "name": "Dominic Santiago",
+                "image_url": "https://www.pngkit.com/png/full/53-532706_gears-of-war-png-image-dominic-santiago-gears.png"
             },
             {
                 "name": "Geralt of Rivia",
-                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SDCC_2017_-_The_Witcher_Cosplay_(35758163190).jpg"
+                "image_url": "https://simg.nicepng.com/png/small/330-3305287_witcher-geralt-of-rivia-png-image-geralt-of.png"
             },
             {
-                "name": "Arthur Morgan",
-                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_Dead_Redemption_2_Logo.png"
+                "name": "Ciri",
+                "image_url": "https://w7.pngwing.com/pngs/77/103/png-transparent-the-witcher-3-wild-hunt-ciri-video-game-character-starbucks-thumbnail.png"
+            },
+            {
+                "name": "Yennefer of Vengerberg",
+                "image_url": "https://smallimg.pngkey.com/png/small/340-3402915_yennefer-of-vengerberg-witcher-bracelets-series-yennefer.png"
+            },
+            {
+                "name": "Triss Merigold",
+                "image_url": "https://www.pngall.com/wp-content/uploads/4/Triss-Merigold.png"
             }
         ],
         "Süper Kahramanlar": [
@@ -54848,8 +58722,8 @@
                 "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/620-spider-man.jpg"
             },
             {
-                "name": "Wonder Woman",
-                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/703-wonder-woman.jpg"
+                "name": "War Machine",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/703-war-machine.jpg"
             },
             {
                 "name": "Iron Man",
@@ -54874,6 +58748,366 @@
             {
                 "name": "Thor",
                 "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/659-thor.jpg"
+            },
+            {
+                "name": "Black Panther",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/106-black-panther.jpg"
+            },
+            {
+                "name": "Black Widow",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/107-black-widow.jpg"
+            },
+            {
+                "name": "Ant-Man",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/30-ant-man.jpg"
+            },
+            {
+                "name": "Doctor Strange",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/226-doctor-strange.jpg"
+            },
+            {
+                "name": "Harley Quinn",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/309-harley-quinn.jpg"
+            },
+            {
+                "name": "Harry Potter",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/310-harry-potter.jpg"
+            },
+            {
+                "name": "Gamora",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/275-gamora.jpg"
+            },
+            {
+                "name": "Bane",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/60-bane.jpg"
+            },
+            {
+                "name": "Firestorm",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/261-firestorm.jpg"
+            },
+            {
+                "name": "Catwoman",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/165-catwoman.jpg"
+            },
+            {
+                "name": "Scarlet Witch",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/579-scarlet-witch.jpg"
+            },
+            {
+                "name": "Wonder Woman",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/720-wonder-woman.jpg"
+            },
+            {
+                "name": "Venom",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/687-venom.jpg"
+            },
+            {
+                "name": "Thanos",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/655-thanos.jpg"
+            },
+            {
+                "name": "Magneto",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/423-magneto.jpg"
+            },
+            {
+                "name": "Doctor Octopus",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/225-doctor-octopus.jpg"
+            },
+            {
+                "name": "John Wraith",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/no-portrait.jpg"
+            },
+            {
+                "name": "Loki",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/414-loki.jpg"
+            },
+            {
+                "name": "Killer Frost",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/387-killer-frost.jpg"
+            },
+            {
+                "name": "Jack of Hearts",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/350-jack-of-hearts.jpg"
+            },
+            {
+                "name": "Carnage",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/162-carnage.jpg"
+            },
+            {
+                "name": "Vision",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/697-vision.jpg"
+            },
+            {
+                "name": "Red Skull",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/550-red-skull.jpg"
+            },
+            {
+                "name": "Scarlet Spider",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/577-scarlet-spider.jpg"
+            },
+            {
+                "name": "Cheetah III",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/174-cheetah-iii.jpg"
+            },
+            {
+                "name": "Stephanie Powell",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/636-stephanie-powell.jpg"
+            },
+            {
+                "name": "Steppenwolf",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/637-steppenwolf.jpg"
+            },
+            {
+                "name": "She-Thing",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/590-she-thing.jpg"
+            },
+            {
+                "name": "Mister Freeze",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/457-mister-freeze.jpg"
+            },
+            {
+                "name": "Nebula",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/487-nebula.jpg"
+            },
+            {
+                "name": "Cyborg Superman",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/195-cyborg-superman.jpg"
+            },
+            {
+                "name": "Impulse",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/340-impulse.jpg"
+            },
+            {
+                "name": "Naruto Uzumaki",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/485-naruto-uzumaki.jpg"
+            },
+            {
+                "name": "James Bond",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/352-james-bond.jpg"
+            },
+            {
+                "name": "Rhino",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/556-rhino.jpg"
+            },
+            {
+                "name": "Stargirl",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/633-stargirl.jpg"
+            },
+            {
+                "name": "Nightwing",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/491-nightwing.jpg"
+            },
+            {
+                "name": "Robin",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/561-robin.jpg"
+            },
+            {
+                "name": "Luna",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/419-luna.jpg"
+            },
+            {
+                "name": "Invisible Woman",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/344-invisible-woman.jpg"
+            },
+            {
+                "name": "Shocker",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/591-shocker.jpg"
+            },
+            {
+                "name": "Hawkeye",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/313-hawkeye.jpg"
+            },
+            {
+                "name": "Forge",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/268-forge.jpg"
+            },
+            {
+                "name": "Silverclaw",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/599-silverclaw.jpg"
+            },
+            {
+                "name": "Light Lass",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/406-light-lass.jpg"
+            },
+            {
+                "name": "Oracle",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/505-oracle.jpg"
+            },
+            {
+                "name": "Jubilee",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/372-jubilee.jpg"
+            },
+            {
+                "name": "Aquaman",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/38-aquaman.jpg"
+            },
+            {
+                "name": "Black Mamba",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/104-black-mamba.jpg"
+            },
+            {
+                "name": "Emma Frost",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/241-emma-frost.jpg"
+            },
+            {
+                "name": "Moonstone",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/471-moonstone.jpg"
+            },
+            {
+                "name": "Shadow Lass",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/585-shadow-lass.jpg"
+            },
+            {
+                "name": "Beyonder",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/80-beyonder.jpg"
+            },
+            {
+                "name": "Master Chief",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/435-master-chief.jpg"
+            },
+            {
+                "name": "Red Hulk",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/547-red-hulk.jpg"
+            },
+            {
+                "name": "Batman II",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/71-batman-ii.jpg"
+            },
+            {
+                "name": "Monica Dawson",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/469-monica-dawson.jpg"
+            },
+            {
+                "name": "Space Ghost",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/611-space-ghost.jpg"
+            },
+            {
+                "name": "Sandman",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/572-sandman.jpg"
+            },
+            {
+                "name": "Raven",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/542-raven.jpg"
+            },
+            {
+                "name": "Daphne Powell",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/200-daphne-powell.jpg"
+            },
+            {
+                "name": "Poison Ivy",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/522-poison-ivy.jpg"
+            },
+            {
+                "name": "Etrigan",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/246-etrigan.jpg"
+            },
+            {
+                "name": "Fallen One II",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/252-fallen-one-ii.jpg"
+            },
+            {
+                "name": "Thing",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/658-thing.jpg"
+            },
+            {
+                "name": "Vibe",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/692-vibe.jpg"
+            },
+            {
+                "name": "Tigra",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/667-tigra.jpg"
+            },
+            {
+                "name": "Maverick",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/438-maverick.jpg"
+            },
+            {
+                "name": "Ben 10",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/78-ben-10.jpg"
+            },
+            {
+                "name": "Professor Zoom",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/528-professor-zoom.jpg"
+            },
+            {
+                "name": "Magog",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/424-magog.jpg"
+            },
+            {
+                "name": "Hancock",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/308-hancock.jpg"
+            },
+            {
+                "name": "Man of Miracles",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/426-man-of-miracles.jpg"
+            },
+            {
+                "name": "One-Above-All",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/503-one-above-all.jpg"
+            },
+            {
+                "name": "General Zod",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/278-general-zod.jpg"
+            },
+            {
+                "name": "Superboy-Prime",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/642-superboy-prime.jpg"
+            },
+            {
+                "name": "Martian Manhunter",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/432-martian-manhunter.jpg"
+            },
+            {
+                "name": "Power Girl",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/524-power-girl.jpg"
+            },
+            {
+                "name": "Supergirl",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/643-supergirl.jpg"
+            },
+            {
+                "name": "Stardust",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/631-stardust.jpg"
+            },
+            {
+                "name": "Vegeta",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/686-vegeta.jpg"
+            },
+            {
+                "name": "Big Barda",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/81-big-barda.jpg"
+            },
+            {
+                "name": "Darkseid",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/204-darkseid.jpg"
+            },
+            {
+                "name": "Phoenix",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/517-phoenix.jpg"
+            },
+            {
+                "name": "Spectre",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/613-spectre.jpg"
+            },
+            {
+                "name": "Hyperion",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/338-hyperion.jpg"
+            },
+            {
+                "name": "Amazo",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/20-amazo.jpg"
+            },
+            {
+                "name": "Captain Marvel",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/156-captain-marvel.jpg"
+            },
+            {
+                "name": "Dormammu",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/232-dormammu.jpg"
+            },
+            {
+                "name": "Faora",
+                "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/253-faora.jpg"
             }
         ],
         "Yeşilçam Soruları": [
