@@ -2,6 +2,1249 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "Müzikte seslerin yüksekliklerini ve sürelerini göstermeye yarayan, beş paralel çizgi ve dört aralıktan oluşan sembolün adı nedir?",
+                "options": [
+                    "Nota",
+                    "Porte",
+                    "Anahtar",
+                    "Ölçü"
+                ],
+                "correct_answer": 1,
+                "difficulty": 1
+            },
+            {
+                "question": "Klasik müzik tarihinde '9. Senfoni' ve 'Ayışığı Sonatı' gibi ölümsüz eserlerin sahibi olan, hayatının son yıllarında tamamen sağır olan besteci kimdir?",
+                "options": [
+                    "Mozart",
+                    "Beethoven",
+                    "Bach",
+                    "Vivaldi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 3
+            },
+            {
+                "question": "Modern orkestraların en küçük ve en yüksek sesli telli çalgısı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Viyola",
+                    "Çello",
+                    "Keman",
+                    "Kontrabas"
+                ],
+                "correct_answer": 2,
+                "difficulty": 2
+            },
+            {
+                "question": "Müzikte 'Rönesans'ın sonu, Klasik dönemin başlangıcı' kabul edilen, matematiksel hassasiyetiyle bilinen 'Füg Sanatı'nın babası kimdir?",
+                "options": [
+                    "Johann Sebastian Bach",
+                    "Frédéric Chopin",
+                    "Franz Liszt",
+                    "Pyotr İlyiç Çaykovski"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Caz müziğinin doğduğu ve 'Cazın Beşiği' olarak kabul edilen Amerika Birleşik Devletleri şehri hangisidir?",
+                "options": [
+                    "New York",
+                    "Chicago",
+                    "New Orleans",
+                    "Nashville"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Türk Sanat Müziği'nde 'Sanat Güneşi' olarak anılan, Cumhuriyet tarihinin en ikonik seslerinden biri olan sanatçı kimdir?",
+                "options": [
+                    "Münir Nurettin Selçuk",
+                    "Zeki Müren",
+                    "Bülent Ersoy",
+                    "Emel Sayın"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "Dünya müzik tarihinde 'Piyanonun Şairi' olarak bilinen, Polonyalı romantik dönem bestecisi ve piyanisti kimdir?",
+                "options": [
+                    "Johannes Brahms",
+                    "Frédéric Chopin",
+                    "Robert Schumann",
+                    "Franz Schubert"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Opera sanatında, eserin içindeki duygusal ve teknik açıdan en zorlu, genellikle tek başına söylenen şarkı bölümüne ne ad verilir?",
+                "options": [
+                    "Libretto",
+                    "Uvertür",
+                    "Arya",
+                    "Resitatif"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Gitarın atası kabul edilen, gövdesi yarım armut şeklinde olan ve genellikle mızrapla çalınan telli çalgı hangisidir?",
+                "options": [
+                    "Lut",
+                    "Arp",
+                    "Sitar",
+                    "Mandolin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "20. yüzyılın en büyük rock gruplarından biri olan Queen'in efsanevi solisti Freddie Mercury'nin doğum yeri neresidir?",
+                "options": [
+                    "Londra",
+                    "Zanzibar",
+                    "Bombay",
+                    "New York"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Müzikte seslerin kalınlaşmasına veya incelmesine göre dizilmesine 'gam' denir. Peki, sadece 5 sesten oluşan gam türüne ne ad verilir?",
+                "options": [
+                    "Diyatonik",
+                    "Kromatik",
+                    "Pentatonik",
+                    "Majör"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Dünyaca ünlü Türk piyanist ve besteci Fazıl Say'ın, Nazım Hikmet'in şiirlerinden esinlenerek bestelediği büyük eserin adı nedir?",
+                "options": [
+                    "İstanbul Senfonisi",
+                    "Nazım Oratoryosu",
+                    "Mezopotamya",
+                    "Kara Toprak"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Senfoni orkestrasının en önünde, şefin solunda oturan ve orkestranın akordundan sorumlu olan 'başkemancı'ya ne ad verilir?",
+                "options": [
+                    "Kondüktör",
+                    "Konzertmeister",
+                    "Solist",
+                    "Kompozitör"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Antonio Vivaldi'nin mevsimleri betimlediği ünlü keman konçertoları serisi 'Dört Mevsim'in her bir bölümü için yazılmış kısa şiirlere ne denir?",
+                "options": [
+                    "Sone",
+                    "Libretto",
+                    "Haiku",
+                    "Ağıt"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "İnsanlığın ilk kez yerleşik hayata geçtiği, tarım ve hayvancılığın başladığı Taş Çağı dönemi hangisidir?",
+                "options": [
+                    "Paleolitik (Eski Taş)",
+                    "Mezolitik (Orta Taş)",
+                    "Neolitik (Yeni Taş)",
+                    "Kalkolitik"
+                ],
+                "correct_answer": 2,
+                "difficulty": 3
+            },
+            {
+                "question": "Tarih çağlarını başlatan en önemli gelişme olan 'Yazı', M.Ö. 3200 yıllarında hangi Mezopotamya uygarlığı tarafından bulunmuştur?",
+                "options": [
+                    "Akadlar",
+                    "Sümerler",
+                    "Babiller",
+                    "Asurlar"
+                ],
+                "correct_answer": 1,
+                "difficulty": 2
+            },
+            {
+                "question": "İlk Çağ'ı kapatıp Orta Çağ'ı başlatan, Avrupa'nın etnik ve siyasi yapısını kökten değiştiren olay hangisidir?",
+                "options": [
+                    "İstanbul'un Fethi",
+                    "Kavimler Göçü",
+                    "Fransız İhtilali",
+                    "Rönesans"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Orta Çağ'da Avrupa'da hüküm süren, toprağa dayalı ve kapalı ekonomik yapıyı ifade eden yönetim biçimi hangisidir?",
+                "options": [
+                    "Demokrasi",
+                    "Feodalite",
+                    "Mutlakiyet",
+                    "Oligarşi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Yeni Çağ'ı başlatan ve 'Cihan Devleti' Osmanlı'nın dünya siyasetine damga vurduğu 1453 tarihli olay hangisidir?",
+                "options": [
+                    "İstanbul'un Fethi",
+                    "Amerika'nın Keşfi",
+                    "Reform Hareketleri",
+                    "Matbaanın İcadı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 2
+            },
+            {
+                "question": "Yakın Çağ'ı başlatan, milliyetçilik akımının dünyaya yayılmasına neden olan 1789 tarihli gelişme hangisidir?",
+                "options": [
+                    "Sanayi İnkılabı",
+                    "Fransız İhtilali",
+                    "Viyana Kongresi",
+                    "I. Dünya Savaşı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 3
+            },
+            {
+                "question": "Bakır ile kalayın karıştırılmasıyla elde edilen ve insanlığın daha dayanıklı silah/araç yapmasını sağlayan maden devri hangisidir?",
+                "options": [
+                    "Tunç Devri",
+                    "Demir Devri",
+                    "Altın Devri",
+                    "Çelik Devri"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Anadolu'da 'Tarih Çağları'nın başlamasına öncülük eden, ticaret kolonileri aracılığıyla çivi yazısını Anadolu'ya getiren uygarlık hangisidir?",
+                "options": [
+                    "Hititler",
+                    "Lidyalılar",
+                    "Asurlar",
+                    "Urartular"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Tarihçiler arasında 'İlk Çağ'ın bitişi' konusunda Kavimler Göçü dışında kabul gören diğer önemli alternatif olay hangisidir?",
+                "options": [
+                    "Batı Roma İmparatorluğu'nun Yıkılışı",
+                    "Hz. İsa'nın Doğumu",
+                    "İskenderiye Kütüphanesi'nin Yanması",
+                    "Hicret"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Dünyanın bilinen en eski kült yapılar topluluğu olan ve Neolitik Çağ'a dair tüm bilgileri güncelleyen Şanlıurfa'daki merkez hangisidir?",
+                "options": [
+                    "Çatalhöyük",
+                    "Hattuşaş",
+                    "Göbeklitepe",
+                    "Alacahöyük"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Orta Çağ Avrupa'sında kilisenin bilimsel düşünceyi baskı altına aldığı, sorgulamanın yasak olduğu düşünce sistemine ne ad verilir?",
+                "options": [
+                    "Skolastik Düşünce",
+                    "Pozitivizm",
+                    "Rasyonalizm",
+                    "Hümanizm"
+                ],
+                "correct_answer": 0,
+                "difficulty": 4
+            },
+            {
+                "question": "İngiltere'de başlayarak el emeğinden makineleşmeye geçişi sağlayan ve modern dünyanın ekonomik yapısını kuran 'Sanayi İnkılabı' hangi yüzyılda gerçekleşmiştir?",
+                "options": [
+                    "16. Yüzyıl",
+                    "17. Yüzyıl",
+                    "18. Yüzyıl",
+                    "19. Yüzyıl"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı Devleti'nde padişahın mutlak vekili olan ve padişahın mührünü taşıyan en yüksek dereceli devlet görevlisi kimdir?",
+                "options": [
+                    "Defterdar",
+                    "Nişancı",
+                    "Sadrazam",
+                    "Kazasker"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı'da devletin mali işlerinden sorumlu olan, gelir ve gider dengesini tutan görevliye ne ad verilirdi?",
+                "options": [
+                    "Reisülküttab",
+                    "Defterdar",
+                    "Nişancı",
+                    "Kaptan-ı Derya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Padişahın yazışmalarını yapan, belgelere padişahın tuğrasını çeken ve toprak kayıtlarını (tahrir) tutan görevli hangisidir?",
+                "options": [
+                    "Vezir-i Azam",
+                    "Nişancı",
+                    "Şeyhülislam",
+                    "Müderris"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Türk mimarisinin zirvesi kabul edilen ve Mimar Sinan'ın 'ustalık eserim' dediği Edirne'deki yapı hangisidir?",
+                "options": [
+                    "Süleymaniye Camii",
+                    "Selimiye Camii",
+                    "Şehzade Camii",
+                    "Mihrimah Sultan Camii"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı eğitim sisteminde yükseköğretim kurumu olan ve ders veren hocalarına 'müderris' denilen okul hangisidir?",
+                "options": [
+                    "Enderun",
+                    "Medrese",
+                    "Sıbyan Mektebi",
+                    "Darülfünun"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Padişah çocuklarının (Şehzadelerin) eğitimiyle görevli olan, onlara devlet yönetimi ve askeri eğitim veren tecrübeli hocalara ne ad verilir?",
+                "options": [
+                    "Atabey",
+                    "Lala",
+                    "Hoca",
+                    "Paşa"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı'da güzel yazı yazma sanatına 'Hat' denir. Bu sanatın en büyük ustalarından biri kabul edilen ve 'Hattatların Kıblesi' olarak anılan isim kimdir?",
+                "options": [
+                    "Levni",
+                    "Şeyh Hamdullah",
+                    "Itri",
+                    "Sinan Bey"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Osmanlı Devleti'nde hukuk işlerinden sorumlu olan, hakim (kadı) ve müderrislerin atamasını yapan divan üyesi kimdir?",
+                "options": [
+                    "Sadrazam",
+                    "Kazasker",
+                    "Kaptan-ı Derya",
+                    "Yeniçeri Ağası"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Devlet işlerinin görüşüldüğü 'Divan-ı Hümayun'da, dış yazışmalardan sorumlu olan ve 18. yüzyıldan itibaren 'Dışişleri Bakanı' statüsüne yükselen görevli kimdir?",
+                "options": [
+                    "Reisülküttab",
+                    "Nişancı",
+                    "Defterdar",
+                    "Kaptan-ı Derya"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Osmanlı saray yapısında, devlet adamlarının yetiştiği ve 'İç Saray' olarak bilinen okul bölümüne ne ad verilir?",
+                "options": [
+                    "Birun",
+                    "Harem",
+                    "Enderun",
+                    "Mabeyn"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Sarayın ve ordunun ihtiyacı olan kumaşların dokunduğu, Osmanlı'da tekstil üretiminin merkezi olan şehir hangisidir?",
+                "options": [
+                    "İznik",
+                    "Kütahya",
+                    "Bursa",
+                    "Uşak"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı Devleti'nde sefere çıkan ordunun veya hac kafilesinin güvenliğini sağlayan, haberleşmeyi hızlandıran teşkilat hangisidir?",
+                "options": [
+                    "Menzil Teşkilatı",
+                    "Derbentçiler",
+                    "Mekkari Taifesi",
+                    "Vakıf Teşkilatı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Osmanlı tıp tarihinde 'Cerrahiyetü'l Haniyye' adlı eseriyle bilinen ve ilk kez cerrahi müdahaleleri resimli olarak anlatan ünlü tıp bilgini kimdir?",
+                "options": [
+                    "Akşemsettin",
+                    "Sabuncuoğlu Şerefeddin",
+                    "İbn-i Sina",
+                    "Piri Reis"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Osmanlı hukukunda, padişahın kendi iradesiyle çıkardığı ve İslam hukukuna aykırı olmayan kurallar bütününe ne ad verilir?",
+                "options": [
+                    "Şer'i Hukuk",
+                    "Örfi Hukuk",
+                    "Fıkıh",
+                    "Fetva"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı Devleti'nin Bizans İmparatorluğu ile yaptığı ilk meydan savaşı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Malazgirt",
+                    "Koyunhisar",
+                    "Pelekanon",
+                    "Sazlıdere"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "1402 yılında yapılan ve Osmanlı Devleti'nin 11 yıl sürecek olan 'Fetret Devri'ne girmesine neden olan savaş hangisidir?",
+                "options": [
+                    "Varna",
+                    "Niğbolu",
+                    "Ankara Savaşı",
+                    "Otulukbeli"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünya tarihinin en kısa süren meydan savaşlarından biri kabul edilen ve Macar Krallığı'nın sona erdiği 1526 tarihli savaş hangisidir?",
+                "options": [
+                    "Mohaç",
+                    "Ridaniye",
+                    "Çaldıran",
+                    "Belgrad"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Fatih Sultan Mehmet döneminde, Doğu Anadolu'nun güvenliğini sağlamak amacıyla Akkoyunlu Devleti ile yapılan savaş hangisidir?",
+                "options": [
+                    "Mercidabık",
+                    "Otlukbeli",
+                    "Turnadağ",
+                    "Çaldıran"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Denizcilik tarihinde 'Preveze Deniz Zaferi'nde Haçlı donanmasına karşı Osmanlı donanmasına komuta eden ünlü amiral kimdir?",
+                "options": [
+                    "Piri Reis",
+                    "Turgut Reis",
+                    "Barbaros Hayrettin Paşa",
+                    "Kılıç Ali Paşa"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Osmanlı Devleti'nin 'Hilal Taktiği'ni (Turan Taktiği) kullanarak kazandığı, Yavuz Sultan Selim komutasındaki 1514 tarihli savaş hangisidir?",
+                "options": [
+                    "Mercidabık",
+                    "Çaldıran",
+                    "Ridaniye",
+                    "Turnadağ"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1683 yılında gerçekleşen ve Osmanlı'nın Avrupa'daki ilerleyişinin duraklamasına neden olan tarihi olay hangisidir?",
+                "options": [
+                    "I. Viyana Kuşatması",
+                    "II. Viyana Kuşatması",
+                    "Uyvar Kalesi'nin Fethi",
+                    "Zenta Savaşı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı donanmasının tarihte ilk kez yakıldığı, II. Selim dönemine denk gelen deniz savaşı hangisidir?",
+                "options": [
+                    "İnebahtı",
+                    "Çeşme Baskını",
+                    "Navarin Baskını",
+                    "Sinop Baskını"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Kırım Savaşı (1853-1856) sırasında İngiltere ve Fransa ile müttefik olan Osmanlı'nın, Rusya'ya karşı kazandığı savunma başarısıyla ünlü kale hangisidir?",
+                "options": [
+                    "Kars Kalesi",
+                    "Plevne Kalesi",
+                    "Silistre Kalesi",
+                    "Sedidülbahir"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "1711 yılında Rus Çarı I. Petro'nun ordusunun kuşatıldığı ve Baltacı Mehmet Paşa'nın zafer kazandığı savaş hangisidir?",
+                "options": [
+                    "Prut Savaşı",
+                    "Hotin Savaşı",
+                    "Kamanice Kuşatması",
+                    "Lala Paşa Savaşı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Osmanlı ordusunda 'Hacı Bektaş-ı Veli'nin askerleri' olarak bilinen ve savaşların ön saflarında yer alan askeri sınıf hangisidir?",
+                "options": [
+                    "Sipahiler",
+                    "Akıncılar",
+                    "Yeniçeriler",
+                    "Leventler"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "I. Balkan Savaşı'nda Edirne'yi 'Şükrü Paşa' komutasında 155 gün boyunca kahramanca savunan şehre verilen unvan nedir?",
+                "options": [
+                    "Gazi Şehir",
+                    "Edirne Müdafii",
+                    "Balkan Fatihi",
+                    "Şarkın Yıldızı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Napolyon Bonapart'ın 'Eğer Akka'da durdurulmasaydım dünyayı fethederdim' dediği kuşatmada, ona karşı zafer kazanan yaşlı Osmanlı paşası kimdir?",
+                "options": [
+                    "Alemdar Mustafa Paşa",
+                    "Cezzar Ahmet Paşa",
+                    "Tiryaki Hasan Paşa",
+                    "Koca Sinan Paşa"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "1389 yılında gerçekleşen, I. Murad'ın savaş meydanında şehit edildiği ancak zaferle sonuçlanan savaş hangisidir?",
+                "options": [
+                    "Sırpsındığı",
+                    "I. Kosova Savaşı",
+                    "Niğbolu",
+                    "Varna"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "1571 yılında Kıbrıs'ın fethi üzerine Avrupa'nın tepkisi olarak çıkan ve Osmanlı donanmasının ağır hasar aldığı savaşın ardından Sokullu Mehmet Paşa'nın 'Biz sakalımızı kestirdik' dediği olay hangisidir?",
+                "options": [
+                    "İnebahtı",
+                    "Preveze",
+                    "Cerbe",
+                    "Navarin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Felsefede 'Biliyorum ki hiçbir şey bilmiyorum' sözüyle tanınan ve Atinalı gençler tarafından baldıran zehri içilerek idam edilen düşünür kimdir?",
+                "options": [
+                    "Platon",
+                    "Aristoteles",
+                    "Sokrates",
+                    "Diogenes"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Platon'un 'Devlet' adlı eserinde, insanların gerçeği değil sadece gölgeleri gördüğünü anlattığı meşhur benzetme hangisidir?",
+                "options": [
+                    "Güneş Benzetmesi",
+                    "Mağara Alegorisi",
+                    "Bölünmüş Çizgi",
+                    "Kanatlı Araba"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Modern felsefenin babası sayılan ve 'Düşünüyorum, öyleyse varım' (Cogito ergo sum) sözüyle metodik şüpheyi başlatan filozof kimdir?",
+                "options": [
+                    "Immanuel Kant",
+                    "Baruch Spinoza",
+                    "René Descartes",
+                    "John Locke"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Ahlak felsefesinde 'Öyle davran ki eyleminin ilkesi genel bir yasa olsun' diyen ve 'Ödev Ahlakı'nı savunan Alman filozof kimdir?",
+                "options": [
+                    "Friedrich Nietzsche",
+                    "Arthur Schopenhauer",
+                    "Immanuel Kant",
+                    "G.W.F. Hegel"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Nihilizm ve 'Üstinsan' (Übermensch) kavramlarıyla tanınan, 'Böyle Buyurdu Zerdüşt' eserinin yazarı kimdir?",
+                "options": [
+                    "Karl Marx",
+                    "Friedrich Nietzsche",
+                    "Jean-Paul Sartre",
+                    "Martin Heidegger"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Felsefede 'Hiçbir şey yoktur, olsa da bilinemez, bilinse de başkasına aktarılamaz' diyerek nihilizmin ilk tohumlarını atan Sofist düşünür kimdir?",
+                "options": [
+                    "Protagoras",
+                    "Gorgias",
+                    "Thales",
+                    "Herakleitos"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Varoluşçuluğun (Egzistansiyalizm) öncülerinden olan ve 'Varoluş özden önce gelir' ilkesini savunan Fransız filozof kimdir?",
+                "options": [
+                    "Albert Camus",
+                    "Jean-Paul Sartre",
+                    "Simone de Beauvoir",
+                    "Michel Foucault"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Siyaset felsefesinde 'İnsan insanın kurduydu' (Homo homini lupus) diyerek mutlak monarşiyi savunan 'Leviathan' adlı eserin yazarı kimdir?",
+                "options": [
+                    "Thomas Hobbes",
+                    "Niccolò Machiavelli",
+                    "John Locke",
+                    "Jean-Jacques Rousseau"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Antik Yunan'da 'Aynı nehirde iki kez yıkanılmaz' diyerek evrendeki sürekli değişimi (oluşu) savunan filozof kimdir?",
+                "options": [
+                    "Parmenides",
+                    "Demokritos",
+                    "Anaksimenes",
+                    "Herakleitos"
+                ],
+                "correct_answer": 3,
+                "difficulty": 7
+            },
+            {
+                "question": "Orta Çağ İslam dünyasında 'İkinci Öğretmen' (Muallim-i Sani) lakabıyla anılan, Aristo felsefesini sistemleştiren düşünür kimdir?",
+                "options": [
+                    "İbn-i Sina",
+                    "Farabi",
+                    "Gazali",
+                    "İbn-i Rüşd"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Mantıkta 'Ockham'ın Usturası' ilkesi temel olarak neyi savunur?",
+                "options": [
+                    "En karmaşık çözüm doğrudur",
+                    "En basit açıklama genellikle doğrudur",
+                    "Hiçbir şey kanıtlanamaz",
+                    "Tanrı her şeyin merkezidir"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Epiktetos ve Marcus Aurelius gibi isimlerin temsil ettiği, duyguların akılla kontrol edilmesini savunan felsefe ekolü hangisidir?",
+                "options": [
+                    "Epikürizm",
+                    "Stoacılık",
+                    "Kinizm",
+                    "Skeptisizm"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "20. yüzyıl felsefesinin en zor metinlerinden biri kabul edilen 'Tractatus Logico-Philosophicus' adlı eserin yazarı kimdir?",
+                "options": [
+                    "Martin Heidegger",
+                    "Ludwig Wittgenstein",
+                    "Karl Popper",
+                    "Hannah Arendt"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Felsefede 'Tabula Rasa' (Boş Levha) kavramıyla insanın zihninin doğuştan boş olduğunu ve deneyimle dolduğunu savunan empirist filozof kimdir?",
+                "options": [
+                    "David Hume",
+                    "John Locke",
+                    "Francis Bacon",
+                    "Thomas Aquinas"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Kaderci bir anlayışa karşı çıkarak 'Sisifos Söyleni' üzerinden hayatın absürtlüğünü (saçmalığını) anlatan filozof kimdir?",
+                "options": [
+                    "Albert Camus",
+                    "Franz Kafka",
+                    "Samuel Beckett",
+                    "Arthur Schopenhauer"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "İslamiyet'te 'Kur'an-ı Kerim' hangi halife döneminde kitap (mushaf) haline getirilmiştir?",
+                "options": [
+                    "Hz. Ebubekir",
+                    "Hz. Ömer",
+                    "Hz. Osman",
+                    "Hz. Ali"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Müslümanların ilk kıblesi olan ve Kudüs'te bulunan kutsal yapı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Mescid-i Haram",
+                    "Mescid-i Nebevi",
+                    "Mescid-i Aksa",
+                    "Kubbet'üs Sahra"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Kur'an-ı Kerim'de adı en çok zikredilen ve 'Asa' mucizesiyle tanınan peygamber kimdir?",
+                "options": [
+                    "Hz. İbrahim",
+                    "Hz. Yusuf",
+                    "Hz. Musa",
+                    "Hz. İsa"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "İslam hukukunda 'fıkıh' ilminin dört ana kaynağından biri olan, Hz. Muhammed'in söz ve davranışlarını ifade eden terim hangisidir?",
+                "options": [
+                    "İcma",
+                    "Kıyas",
+                    "Sünnet",
+                    "Ayet"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "İslam tarihinde 'Mekke'den Medine'ye göç' olayına ne ad verilir ve bu olay Hicri takvimin başlangıcı kabul edilir?",
+                "options": [
+                    "Hicret",
+                    "Biat",
+                    "İsra",
+                    "Miraç"
+                ],
+                "correct_answer": 0,
+                "difficulty": 4
+            },
+            {
+                "question": "Kur'an-ı Kerim'in en uzun suresi olan ve içinde 'Ayetel Kürsi'yi de barındıran sure hangisidir?",
+                "options": [
+                    "Fatiha",
+                    "Al-i İmran",
+                    "Bakara",
+                    "Nisa"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "İslamiyet'in ilk şehidi olarak kabul edilen kadın sahabi kimdir?",
+                "options": [
+                    "Hz. Hatice",
+                    "Hz. Sümeyye",
+                    "Hz. Fatıma",
+                    "Hz. Ayşe"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Dini terim olarak 'Allah'ın birliğini, eşi ve benzeri olmadığını' ifade eden inanç esasına ne ad verilir?",
+                "options": [
+                    "İhlas",
+                    "Tevhid",
+                    "Tevekkül",
+                    "Takva"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Peygamber Efendimiz Hz. Muhammed'in (s.a.v) doğduğu yıl gerçekleşen ve Kur'an'da bir sureye adını veren olay hangisidir?",
+                "options": [
+                    "Fil Vakası",
+                    "Şakk-ı Kamer",
+                    "Hacerü'l Esved",
+                    "Bedir Savaşı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "İslamiyet'te 'Kütüb-i Sitte' olarak bilinen altı büyük hadis kitabından en sahih kabul edilen ikisine (Buhari ve Müslim) verilen ortak ad nedir?",
+                "options": [
+                    "Sünen",
+                    "Sahiheyn",
+                    "Müsned",
+                    "Cami"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Hangi peygamber 'Sabır' timsali olarak bilinir ve ağır hastalıklarına rağmen şükrünü bozmamasıyla kıssalara konu olmuştur?",
+                "options": [
+                    "Hz. Yakub",
+                    "Hz. Eyyub",
+                    "Hz. Yunus",
+                    "Hz. Nuh"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "İslam mimarisinin zirvesi kabul edilen camilerde, vaaz vermek için çıkılan basamaklı yüksek kürsüye ne ad verilir?",
+                "options": [
+                    "Mihrap",
+                    "Minber",
+                    "Vaaz Kürsüsü",
+                    "Şerefe"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Kur'an-ı Kerim'de 'Bin aydan daha hayırlı' olduğu belirtilen mübarek gece hangisidir?",
+                "options": [
+                    "Kadir Gecesi",
+                    "Berat Kandili",
+                    "Mevlid Kandili",
+                    "Miraç Kandili"
+                ],
+                "correct_answer": 0,
+                "difficulty": 4
+            },
+            {
+                "question": "İslam tarihinde 'Allah'ın Aslanı' ve 'İlmin Kapısı' olarak anılan dördüncü halife kimdir?",
+                "options": [
+                    "Hz. Ebubekir",
+                    "Hz. Ömer",
+                    "Hz. Osman",
+                    "Hz. Ali"
+                ],
+                "correct_answer": 3,
+                "difficulty": 5
+            },
+            {
+                "question": "Hangi ibadet, İslam'ın şartlarından biri olup sadece maddi durumu yerinde olan ve sağlığı elveren Müslümanlara farzdır?",
+                "options": [
+                    "Namaz",
+                    "Oruç",
+                    "Zekat",
+                    "Hac"
+                ],
+                "correct_answer": 3,
+                "difficulty": 4
+            },
+            {
+                "question": "Dünyanın en derin noktası olan Mariana Çukuru'na (yaklaşık 11.000 metre) 1960 yılında 'Trieste' adlı batiskaf ile inen iki kişiden biri olan ünlü okyanus bilimci kimdir?",
+                "options": [
+                    "James Cameron",
+                    "Jacques Piccard",
+                    "Robert Ballard",
+                    "Jacques Cousteau"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Osmanlı İmparatorluğu'nda 'Millet-i Sadıka' (Sadık Millet) olarak adlandırılan topluluk aşağıdakilerden hangisidir?",
+                "options": [
+                    "Rumlar",
+                    "Ermeniler",
+                    "Yahudiler",
+                    "Süryaniler"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Sanat tarihinde 'Karanlığın Ustası' olarak bilinen, ışık ve gölgeyi (Chiaroscuro) dramatik bir şekilde kullanarak Barok dönemine damga vuran ressam kimdir?",
+                "options": [
+                    "Rembrandt",
+                    "Caravaggio",
+                    "Rubens",
+                    "Velázquez"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye'nin en büyük adası olan Gökçeada'nın antik çağdaki adı aşağıdakilerden hangisidir?",
+                "options": [
+                    "Imbros",
+                    "Tenedos",
+                    "Boğalı",
+                    "Limni"
+                ],
+                "correct_answer": 0,
+                "difficulty": 7
+            },
+            {
+                "question": "Fizikte 'belirsizlik ilkesi'ni ortaya atan, bir parçacığın hem konumunun hem de momentumunun aynı anda kesin olarak bilinemeyeceğini savunan bilim insanı kimdir?",
+                "options": [
+                    "Erwin Schrödinger",
+                    "Werner Heisenberg",
+                    "Max Planck",
+                    "Niels Bohr"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünya üzerinde toplamda 17.500'den fazla adası bulunan ve 'en çok adaya sahip ülke' unvanını taşıyan yer hangisidir?",
+                "options": [
+                    "Filipinler",
+                    "Endonezya",
+                    "İsveç",
+                    "Yunanistan"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Klasik müzikte 'Ayışığı Sonatı' ve '9. Senfoni' gibi ölümsüz eserlerin sahibi olan, hayatının son yıllarında tamamen sağır olan besteci kimdir?",
+                "options": [
+                    "Mozart",
+                    "Beethoven",
+                    "Bach",
+                    "Vivaldi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Mitolojide 'Tanrıların Dağı' olarak bilinen Olympos Dağı, günümüzde hangi ülkenin sınırları içerisindedir?",
+                "options": [
+                    "İtalya",
+                    "Türkiye",
+                    "Yunanistan",
+                    "Mısır"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Güneş sistemindeki en büyük uydu olan 'Ganymede', hangi gezegenin yörüngesinde dönmektedir?",
+                "options": [
+                    "Satürn",
+                    "Jüpiter",
+                    "Neptün",
+                    "Uranüs"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1944 yılında imzalanan ve günümüz küresel finans sisteminin (IMF ve Dünya Bankası) temellerini atan anlaşma hangi kasabada imzalanmıştır?",
+                "options": [
+                    "Bretton Woods",
+                    "Cenevre",
+                    "Yalta",
+                    "Postdam"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Türkiye'nin ilk kadın arkeoloğu olan ve Karatepe-Aslantaş'taki Hitit hiyerogliflerinin çözülmesinde büyük rol oynayan isim kimdir?",
+                "options": [
+                    "Halet Çambel",
+                    "Jale İnan",
+                    "Muazzez İlmiye Çığ",
+                    "Afet İnan"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Bitkilerde fotosentez olayının gerçekleştiği ve yeşil rengi veren organel hangisidir?",
+                "options": [
+                    "Mitokondri",
+                    "Kloroplast",
+                    "Ribozom",
+                    "Koful"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "İnternet dünyasında web sayfalarının 'ismini' IP adreslerine dönüştüren sistemin (Örn: google.com -> 142.250.190.46) adı nedir?",
+                "options": [
+                    "HTTP",
+                    "DNS",
+                    "FTP",
+                    "TCP/IP"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Felsefede 'Biliyorum ki hiçbir şey bilmiyorum' sözüyle tanınan ve Atinalı gençler tarafından baldıran zehri içilerek idam edilen düşünür kimdir?",
+                "options": [
+                    "Platon",
+                    "Aristoteles",
+                    "Sokrates",
+                    "Diogenes"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Yüz ölçümü bakımından dünyanın en küçük ülkesi olan Vatikan, hangi şehrin sınırları içerisinde yer alan bağımsız bir devlettir?",
+                "options": [
+                    "Floransa",
+                    "Roma",
+                    "Venedik",
+                    "Napoli"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünya üzerinde 'Başlangıç Meridyeni' (0 derece) hangi ülkenin başkentindeki bir mahalleden geçmektedir?",
+                "options": [
+                    "Fransa",
+                    "İngiltere",
+                    "İspanya",
+                    "İtalya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Edebiyatta 'Suç ve Ceza' adlı ölümsüz eserin başkahramanı olan Raskolnikov'un işlediği cinayetin temel sebebi felsefede hangi kavramla açıklanır?",
+                "options": [
+                    "Nihilizm",
+                    "Üstinsan",
+                    "Egzistansiyalizm",
+                    "Hedonizm"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Modern Türkiye'nin ilk şeker fabrikası hangi ilimizde açılmıştır?",
+                "options": [
+                    "Eskişehir",
+                    "Kırklareli",
+                    "Uşak",
+                    "Afyon"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "İnsan vücudunda 'insülin' hormonunu salgılayarak kan şekerini düzenleyen organ hangisidir?",
+                "options": [
+                    "Karaciğer",
+                    "Dalak",
+                    "Pankreas",
+                    "Böbrek Üstü Bezleri"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Kendi adıyla anılan 'Evrensel Çekim Yasası'nı formüle eden ve klasik mekaniğin temellerini atan bilim insanı kimdir?",
+                "options": [
+                    "Galileo Galilei",
+                    "Johannes Kepler",
+                    "Isaac Newton",
+                    "Albert Einstein"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünyanın en büyük yüz ölçümüne sahip 'adası' aşağıdakilerden hangisidir? (Avustralya kıta kabul edildiğinde)",
+                "options": [
+                    "Madagaskar",
+                    "Grönland",
+                    "Borneo",
+                    "Yeni Gine"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Osmanlı İmparatorluğu'nda 'Lale Devri' hangi olayla sona ermiştir?",
+                "options": [
+                    "Patrona Halil İsyanı",
+                    "Kabakçı Mustafa İsyanı",
+                    "Çınar Vakası",
+                    "Edirne Olayı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Mitolojide 'Eros'un Roma mitolojisindeki karşılığı olan ve aşk oklarıyla tanınan tanrı hangisidir?",
+                "options": [
+                    "Mars",
+                    "Venüs",
+                    "Cupid",
+                    "Jüpiter"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Türkiye'nin en yüksek barajı olma özelliğini taşıyan, Çoruh Nehri üzerine kurulu yapı hangisidir?",
+                "options": [
+                    "Atatürk Barajı",
+                    "Yusufeli Barajı",
+                    "Deriner Barajı",
+                    "Keban Barajı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünya sanat tarihinde 'İzlenimcilik' (Empresyonizm) akımına adını veren 'İzlenim: Gündoğumu' tablosu hangi ressama aittir?",
+                "options": [
+                    "Edouard Manet",
+                    "Claude Monet",
+                    "Vincent van Gogh",
+                    "Paul Cezanne"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Atmosferdeki gazların oranına bakıldığında, hacimce en büyük paya sahip olan gaz hangisidir?",
+                "options": [
+                    "Oksijen",
+                    "Karbondioksit",
+                    "Azot",
+                    "Argon"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "İnternet protokollerinde kullanılan 'HTTP' kısaltmasının açılımı nedir?",
+                "options": [
+                    "HyperText Transfer Protocol",
+                    "High Tech Transfer Process",
+                    "Hyperlink Text Transmission Point",
+                    "Home Tool Transfer Program"
+                ],
+                "correct_answer": 0,
+                "difficulty": 6
+            },
+            {
+                "question": "Avrupa Birliği'nin yürütme organı olan ve Brüksel'de bulunan kurumun adı nedir?",
+                "options": [
+                    "Avrupa Parlamentosu",
+                    "Avrupa Konseyi",
+                    "Avrupa Komisyonu",
+                    "Avrupa Merkez Bankası"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
                 "question": "Hücrenin enerji santrali olarak bilinen ve besinleri enerjiye (ATP) dönüştüren organel hangisidir?",
                 "options": [
                     "Ribozom",
