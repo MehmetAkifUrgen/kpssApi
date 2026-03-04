@@ -2,6 +2,842 @@
     "categories": {
         "Genel Kültür": [
             {
+                "question": "Dünya'nın merkezinde yer alan ve yüksek oranda demir-nikel karışımından oluşan katman hangisidir?",
+                "options": [
+                    "Yer Kabuğu",
+                    "Manto",
+                    "Çekirdek",
+                    "Litosfer"
+                ],
+                "correct_answer": 2,
+                "difficulty": 3
+            },
+            {
+                "question": "Hangi ülke 'Yükselen Güneşin Ülkesi' olarak bilinir?",
+                "options": [
+                    "Çin",
+                    "Güney Kore",
+                    "Japonya",
+                    "Tayland"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "İnsan vücudundaki en büyük organ hangisidir?",
+                "options": [
+                    "Karaciğer",
+                    "Akciğer",
+                    "Deri",
+                    "Bağırsak"
+                ],
+                "correct_answer": 2,
+                "difficulty": 4
+            },
+            {
+                "question": "Osmanlı Devleti'nde ilk matbaayı kuran (İbrahim Müteferrika ile birlikte) kişi kimdir?",
+                "options": [
+                    "Sait Efendi",
+                    "Lagari Hasan Çelebi",
+                    "Katip Çelebi",
+                    "Piri Reis"
+                ],
+                "correct_answer": 0,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünyanın en derin gölü olan Baykal Gölü hangi ülkededir?",
+                "options": [
+                    "Kanada",
+                    "Rusya",
+                    "Çin",
+                    "Amerika Birleşik Devletleri"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Frida Kahlo'nun eşi olan ve devasa duvar resimleriyle (mural) tanınan ünlü Meksikalı ressam kimdir?",
+                "options": [
+                    "Salvador Dalí",
+                    "Diego Rivera",
+                    "Pablo Picasso",
+                    "Joan Miró"
+                ],
+                "correct_answer": 1,
+                "difficulty": 6
+            },
+            {
+                "question": "Sesin hızı aşağıdakilerden hangisinde en yüksektir?",
+                "options": [
+                    "Hava",
+                    "Su",
+                    "Demir",
+                    "Boşluk"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Savaş ve Barış ile Anna Karenina gibi klasiklerin yazarı olan Rus edebiyatçı kimdir?",
+                "options": [
+                    "Dostoyevski",
+                    "Tolstoy",
+                    "Turgenyev",
+                    "Çehov"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Işığın prizmadan geçerken renklerine ayrılması olayına ne ad verilir?",
+                "options": [
+                    "Kırılma",
+                    "Işık Tayfı",
+                    "Yansıma",
+                    "Soğurulma"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "Fizikte 'Belirsizlik İlkesi'ni ortaya koyan Nobel ödüllü bilim insanı kimdir?",
+                "options": [
+                    "Albert Einstein",
+                    "Werner Heisenberg",
+                    "Max Planck",
+                    "Niels Bohr"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünya tarihinde 'Magna Carta' hangi ülkede ve hangi kral döneminde imzalanmıştır?",
+                "options": [
+                    "Fransa - XIV. Louis",
+                    "İngiltere - Yurtsuz John",
+                    "İspanya - II. Philip",
+                    "Almanya - I. Friedrich"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Güneş sistemindeki en yüksek dağ olan 'Olympus Mons' hangi gezegendedir?",
+                "options": [
+                    "Venüs",
+                    "Jüpiter",
+                    "Mars",
+                    "Satürn"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Kriptolojide 'Enigma' makinesinin şifresini çözerek II. Dünya Savaşı'nın seyrini değiştiren matematikçi kimdir?",
+                "options": [
+                    "Isaac Newton",
+                    "Alan Turing",
+                    "John von Neumann",
+                    "Ada Lovelace"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Ay'ın Dünya ile Güneş arasına girmesiyle Güneş ışığının bir kısmının engellenmesi olayına ne ad verilir?",
+                "options": [
+                    "Ay Tutulması",
+                    "Güneş Tutulması",
+                    "Gel-git",
+                    "Günöte"
+                ],
+                "correct_answer": 1,
+                "difficulty": 3
+            },
+            {
+                "question": "İnternet sitelerinin güvenli olduğunu belirten ve adres çubuğunda kilit simgesiyle gösterilen protokol hangisidir?",
+                "options": [
+                    "HTTP",
+                    "HTTPS",
+                    "FTP",
+                    "SMTP"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Kimyada 'Altın' elementinin periyodik tablodaki simgesi nedir?",
+                "options": [
+                    "Ag",
+                    "Au",
+                    "Fe",
+                    "Al"
+                ],
+                "correct_answer": 1,
+                "difficulty": 4
+            },
+            {
+                "question": "Rönesans döneminde 'Mona Lisa' ve 'Son Akşam Yemeği' gibi eserleri yapan, aynı zamanda helikopter taslakları çizen dahi kimdir?",
+                "options": [
+                    "Michelangelo",
+                    "Raphael",
+                    "Leonardo da Vinci",
+                    "Donatello"
+                ],
+                "correct_answer": 2,
+                "difficulty": 5
+            },
+            {
+                "question": "Dünyanın en büyük sıcak çölü olan Sahra Çölü, hangi kıtanın kuzeyinde yer alır?",
+                "options": [
+                    "Asya",
+                    "Afrika",
+                    "Güney Amerika",
+                    "Avustralya"
+                ],
+                "correct_answer": 1,
+                "difficulty": 5
+            },
+            {
+                "question": "Bilgisayarlarda verilerin kalıcı olarak saklandığı, ancak RAM'den daha yavaş çalışan birim hangisidir?",
+                "options": [
+                    "İşlemci",
+                    "Ekran Kartı",
+                    "Hard Disk",
+                    "Anakart"
+                ],
+                "correct_answer": 2,
+                "difficulty": 6
+            },
+            {
+                "question": "Güneş sistemindeki 'Kızıl Gezegen' olarak bilinen Mars'ın kaç tane doğal uydusu vardır?",
+                "options": [
+                    "1",
+                    "2",
+                    "67",
+                    "Hiç yok"
+                ],
+                "correct_answer": 1,
+                "difficulty": 7
+            },
+            {
+                "question": "1912 yılında batan ve 'batmaz' denilen ünlü yolcu gemisi Titanic, hangi okyanusta sulara gömülmüştür?",
+                "options": [
+                    "Pasifik Okyanusu",
+                    "Hint Okyanusu",
+                    "Atlas Okyanusu",
+                    "Arktik Okyanusu"
+                ],
+                "correct_answer": 2,
+                "difficulty": 7
+            },
+            {
+                "question": "Biyolojide 'hücrenin enerji santrali' olarak bilinen ve ATP üretiminden sorumlu organel hangisidir?",
+                "options": [
+                    "Ribozom",
+                    "Mitokondri",
+                    "Lizozom",
+                    "Kloroplast"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Osmanlı Devleti'nde 1876 yılında ilan edilen ve Türk tarihinin ilk anayasası kabul edilen belge hangisidir?",
+                "options": [
+                    "Sened-i İttifak",
+                    "Tanzimat Fermanı",
+                    "Islahat Fermanı",
+                    "Kanun-i Esasi"
+                ],
+                "correct_answer": 3,
+                "difficulty": 8
+            },
+            {
+                "question": "Matematikte 'Sıfır' (0) kavramını sistematik olarak kullanan ve Cebir ilminin kurucusu kabul edilen Müslüman bilim insanı kimdir?",
+                "options": [
+                    "İbn-i Sina",
+                    "Harezmi",
+                    "Farabi",
+                    "Ömer Hayyam"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Havada süzülen bir uçağın kanatlarının üst ve alt kısımlarındaki basınç farkından doğan kaldırma kuvvetini açıklayan fizik ilkesi nedir?",
+                "options": [
+                    "Pascal Prensibi",
+                    "Bernoulli İlkesi",
+                    "Newton Yasası",
+                    "Arşimet Prensibi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Napolyon'un Mısır seferi sırasında bulunan ve hiyerogliflerin çözülmesini sağlayan Rosetta Taşı'ndaki metin, Hiyeroglif ve Antik Yunanca dışında hangi üçüncü yazı türüyle yazılmıştır?",
+                "options": [
+                    "Demotik",
+                    "Kıpti",
+                    "Akadca",
+                    "Süryanice"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "İnsan vücudunda, kendi DNA'sı olan ve sadece anneden çocuğa geçen 'hücre enerji santrali' organeli hangisidir?",
+                "options": [
+                    "Ribozom",
+                    "Mitokondri",
+                    "Lizozom",
+                    "Çekirdek"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünyanın en derin tatlı su gölü olan Baykal Gölü, dünyadaki donmamış tatlı su rezervinin yaklaşık yüzde kaçını tek başına barındırır?",
+                "options": [
+                    "%5",
+                    "%10",
+                    "%20",
+                    "%35"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "Matematikte 'asal sayılar arasındaki boşlukların dağılımı' ile ilgili olan ve henüz kanıtlanamamış en meşhur problem hangisidir?",
+                "options": [
+                    "Fermat'nın Son Teoremi",
+                    "Riemann Hipotezi",
+                    "Goldbach Sanısı",
+                    "Collatz Problemi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Periyodik tabloda oda sıcaklığında avucunuzun içine aldığınızda vücut ısınızla (29.7°C) eriyen metal element hangisidir?",
+                "options": [
+                    "Sezyum",
+                    "Galyum",
+                    "Fransiyum",
+                    "Cıva"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünyanın en eski parlamentosu (Althing) hangi ülkede, M.S. 930 yılında kurulmuştur?",
+                "options": [
+                    "Danimarka",
+                    "İzlanda",
+                    "Norveç",
+                    "İngiltere"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Hangi hayvanın gözleri beyninden daha büyüktür ve her bir gözü vücut ağırlığının yaklaşık %3'üne denk gelir?",
+                "options": [
+                    "Baykuş",
+                    "Devekuşu",
+                    "Dev Mürekkep Balığı",
+                    "Kartal"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Satrançta bir oyunun, her iki tarafın da aynı 3 pozisyonu tekrarlaması sonucu beraberlikle bitmesine ne ad verilir?",
+                "options": [
+                    "Pat",
+                    "Zugzwang",
+                    "Konum Tekrarı",
+                    "Zaman Aşımı"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Biyolojide 'Tardigrad' (Su Ayısı) canlısının, ekstrem koşullarda hayatta kalmak için vücudundaki suyu %3'e kadar düşürerek girdiği uyku benzeri evreye ne denir?",
+                "options": [
+                    "Hibernasyon",
+                    "Kriptobiyoz",
+                    "Metamorfoz",
+                    "Stasis"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Dünyanın en kısa savaşı olan ve sadece 38 dakika süren 1896 tarihli savaş hangi iki taraf arasında gerçekleşmiştir?",
+                "options": [
+                    "İngiltere - Zanzibar",
+                    "Fransa - Belçika",
+                    "İspanya - Fas",
+                    "İtalya - Etiyopya"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Müzikte '4'33\"' adlı eseriyle tanınan ve bu eser boyunca piyanistin sahnede hiçbir notaya basmadan oturduğu deneysel besteci kimdir?",
+                "options": [
+                    "John Cage",
+                    "Philip Glass",
+                    "Arnold Schoenberg",
+                    "Igor Stravinsky"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Güneş sisteminde, üzerinde sıvı göller (ancak sudan değil metandan oluşan) bulunduğu kesinleşmiş tek gök cismi hangisidir?",
+                "options": [
+                    "Mars",
+                    "Europa",
+                    "Titan",
+                    "Enceladus"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Matematikte 'Altın Oran' (Phi) ile yakından ilişkili olan ve her sayının kendinden önceki iki sayının toplamı olduğu dizinin adı nedir?",
+                "options": [
+                    "Pascal Üçgeni",
+                    "Fibonacci Dizisi",
+                    "Euler Serisi",
+                    "Bernoulli Sayıları"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünyanın en eski ve halen işleyen güneş saati olan, 3500 yıl önce III. Thutmose döneminde yapılan dikilitaş hangi şehirdedir?",
+                "options": [
+                    "Kahire",
+                    "Londra",
+                    "Roma",
+                    "İstanbul"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Dilbilimde 'Pangram' terimi neyi ifade eder?",
+                "options": [
+                    "Tersten okunduğunda aynı olan cümle",
+                    "Alfabedeki tüm harfleri en az bir kez içeren cümle",
+                    "Sadece sesli harflerden oluşan kelime",
+                    "Anlamı olmayan ama kulağa hoş gelen söz öbeği"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Hangi ülkenin adı, yerel dilde 'Güneşin Doğduğu Yer' anlamına gelen 'Nippon' kelimesinden türetilmiştir?",
+                "options": [
+                    "Güney Kore",
+                    "Tayland",
+                    "Japonya",
+                    "Vietnam"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "1962'de bir grup araştırmacının 4 ay boyunca bir mağarada dış dünyadan izole kalarak kanıtladığı, insan vücudunun doğal iç saati olan biyolojik ritme ne ad verilir?",
+                "options": [
+                    "Sirkadiyen Ritm",
+                    "Homeostaz",
+                    "Metabolik Döngü",
+                    "Nöral Salınım"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Müzik tarihinde 'Hüzünlü Piyano'nun ustası kabul edilen Erik Satie'nin, icrası tam 18 saat süren ve 840 kez tekrarlanması gereken eseri hangisidir?",
+                "options": [
+                    "Gymnopédies",
+                    "Vexations",
+                    "Gnossiennes",
+                    "Parade"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Periyodik tabloda atom numarası 92 olan ve doğada bulunan en ağır (en yüksek atom numaralı) element hangisidir?",
+                "options": [
+                    "Plütonyum",
+                    "Uranyum",
+                    "Toryum",
+                    "Radyum"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünyanın en küçük bağımsız cumhuriyeti olan ve sadece 21 kilometrekarelik bir mercan adasından oluşan ülke hangisidir?",
+                "options": [
+                    "Tuvalu",
+                    "Nauru",
+                    "Palau",
+                    "Kiribati"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Biyolojide 'Semender' türlerinden biri olan ve uzuvlarını, kalbini hatta beyninin bir kısmını tamamen yenileyebilen, 'Meksika Yürüyen Balığı' olarak da bilinen canlı hangisidir?",
+                "options": [
+                    "Axolotl",
+                    "Semender",
+                    "Bukalemun",
+                    "Deniz Atı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "İnsanlığın en eski yazılı destanı olan 'Gılgamış Destanı'nda, Gılgamış'ın ölümsüzlük sırrını sormak için bulduğu 'Nuh' karakterinin Mezopotamya mitolojisindeki adı nedir?",
+                "options": [
+                    "Enkidu",
+                    "Utnapiştim",
+                    "Marduk",
+                    "Humbaba"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Havacılıkta 'Kara Kutu' (Black Box) olarak bilinen uçuş veri kaydedicilerinin asıl rengi nedir?",
+                "options": [
+                    "Siyah",
+                    "Turuncu",
+                    "Gümüş",
+                    "Kırmızı"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünya üzerinde sadece bir tek ülkede 'Mavi Gözlü Dev' (aslında lökisizm nedeniyle) lemurlar yaşamaktadır. Bu ülke hangisidir?",
+                "options": [
+                    "Madagaskar",
+                    "Avustralya",
+                    "Endonezya",
+                    "Sri Lanka"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Kriptolojide 'Sezar Şifrelemesi'nde her harf, alfabede kaç adım kaydırılarak şifrelenirdi? (Geleneksel orijinal yöntem)",
+                "options": [
+                    "1",
+                    "3",
+                    "5",
+                    "7"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "15. yüzyılda yazılmış olan ve bugüne kadar dünyanın en usta kriptologları tarafından bile deşifre edilemeyen, bilinmeyen bir dilde ve alfabede yazılmış el yazmasının adı nedir?",
+                "options": [
+                    "Codex Gigas",
+                    "Voynich El Yazması",
+                    "Rohonc Kodeksi",
+                    "Copiale Kodeksi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Fizikte 'Schrödinger'in Kedisi' paradoksunun temelini oluşturan, bir parçacığın aynı anda birden fazla durumda bulunabilmesi özelliğine ne ad verilir?",
+                "options": [
+                    "Kuantum Dolanıklığı",
+                    "Kuantum Süperpozisyonu",
+                    "Tünelleme Etkisi",
+                    "Belirsizlik İlkesi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Okyanusların derinliklerinde yaşayan ve biyolojik olarak 'ölümsüz' kabul edilen, yaşlandıkça hücrelerini yenileyerek polip evresine geri dönebilen canlı hangisidir?",
+                "options": [
+                    "Mavi Balina",
+                    "Turritopsis dohrnii",
+                    "Dev Mürekkep Balığı",
+                    "Cam Süngeri"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünyanın en sessiz odası (yankısız oda) olarak bilinen ve içinde 45 dakikadan fazla kalmanın halüsinasyonlara neden olduğu laboratuvar hangi şirkete aittir?",
+                "options": [
+                    "NASA",
+                    "Microsoft",
+                    "Google",
+                    "SpaceX"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Müzik tarihinde 'Şeytanın Aralığı' (Diabolus in Musica) olarak bilinen ve Orta Çağ'da kilise tarafından yasaklandığı rivayet edilen uyumsuz ses aralığı hangisidir?",
+                "options": [
+                    "Minör Yedili",
+                    "Triton",
+                    "Majör Dokuzlu",
+                    "Tam Beşli"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "İnsan beynindeki nöronların birbirine bağlandığı ve sinyallerin iletildiği o dar boşluğa ne ad verilir?",
+                "options": [
+                    "Akson",
+                    "Dendrit",
+                    "Sinaps",
+                    "Miyelin"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Güneş sistemindeki en yüksek rüzgar hızlarına (saatte 2100 km) sahip olan, metan gazı nedeniyle derin mavi görünen gezegen hangisidir?",
+                "options": [
+                    "Uranüs",
+                    "Neptün",
+                    "Satürn",
+                    "Jüpiter"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Dünyanın en eski ve halen kullanımda olan ulusal bayrağı (Dannebrog) hangi ülkeye aittir?",
+                "options": [
+                    "Danimarka",
+                    "İskoçya",
+                    "Avusturya",
+                    "Japonya"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "Satrançta 'En Passant' (Geçerken Alma) kuralı sadece hangi taş için geçerlidir?",
+                "options": [
+                    "At",
+                    "Fil",
+                    "Piyon",
+                    "Kale"
+                ],
+                "correct_answer": 2,
+                "difficulty": 8
+            },
+            {
+                "question": "Venezuela'da bulunan ve yılın 300 günü boyunca, günde 10 saat aralıksız şimşek çakan doğa olayının adı nedir?",
+                "options": [
+                    "Catatumbo Yıldırımı",
+                    "Mavi Jetler",
+                    "Aziz Elmo Ateşi",
+                    "Kızıl Cin"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "İnternetin temeli sayılan ARPANET üzerinden gönderilen ilk mesaj aşağıdakilerden hangisidir?",
+                "options": [
+                    "HELLO",
+                    "LOGIN",
+                    "LO",
+                    "START"
+                ],
+                "correct_answer": 2,
+                "difficulty": 10
+            },
+            {
+                "question": "Dünyanın en pahalı maddesi (gram başına maliyeti yaklaşık 62 trilyon dolar) hangisidir?",
+                "options": [
+                    "Elmas",
+                    "Kaliforniyum-252",
+                    "Antimadde",
+                    "Trityum"
+                ],
+                "correct_answer": 2,
+                "difficulty": 9
+            },
+            {
+                "question": "1977'de uzaya fırlatılan Voyager uzay araçlarında bulunan 'Altın Plak'ta yer alan Türkçe sesli mesajda hangi cümle kurulmaktadır?",
+                "options": [
+                    "Dünyadan size barış getirdik",
+                    "Sabah şerifleriniz hayrolsun",
+                    "Gelecekteki dostlarımıza selam olsun",
+                    "Yurtta sulh, cihanda sulh"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Dünyanın en kuzeyindeki yerleşim yeri olan ve 'ölmenin yasak olduğu' (permafrost nedeniyle cesetlerin çürümemesi yüzünden) kasaba hangisidir?",
+                "options": [
+                    "Longyearbyen",
+                    "Murmansk",
+                    "Alert",
+                    "Nuuk"
+                ],
+                "correct_answer": 0,
+                "difficulty": 9
+            },
+            {
+                "question": "Modern satrançta 'En Uzun Hamleli Mat Problemi' olarak bilinen ve çözümü tam 549 hamle süren algoritmayı kim geliştirmiştir?",
+                "options": [
+                    "Lewis Stiller",
+                    "Garry Kasparov",
+                    "Magnus Carlsen",
+                    "Bobby Fischer"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Periyodik tabloda adı bir ülke isminden gelmeyen ancak simgesi 'W' olan Tungsten elementinin diğer adı nedir?",
+                "options": [
+                    "Wolfram",
+                    "Wurtzite",
+                    "Waldstein",
+                    "Wilhelmite"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
+                "question": "İnsan DNA'sının yaklaşık yüzde kaçı, tarihteki antik virüslerin kalıntılarından (Endojen Retrovirüsler) oluşmaktadır?",
+                "options": [
+                    "%1",
+                    "%8",
+                    "%25",
+                    "%50"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Fransız yazar Georges Perec'in 'Kayboluş' (La Disparition) adlı romanının en büyük edebi özelliği nedir?",
+                "options": [
+                    "Tüm cümlelerin kafiyeli olması",
+                    "İçinde hiç 'e' harfi bulunmaması",
+                    "Sadece diyaloglardan oluşması",
+                    "Tek bir cümleden oluşması"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Arıların kovanın yerini bildirmek için yaptıkları 'sallantı dansı' (waggle dance) ile hangi gök cisminin açısını referans aldıkları kanıtlanmıştır?",
+                "options": [
+                    "Ay",
+                    "Güneş",
+                    "Kuzey Yıldızı",
+                    "Venüs"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Dünyanın en izole noktası olan ve karaya en uzak yer kabul edilen, 'Uyduların Mezarlığı' olarak da bilinen bölgenin adı nedir?",
+                "options": [
+                    "Mariana",
+                    "Nemo Noktası",
+                    "Bermuda",
+                    "Drake Geçidi"
+                ],
+                "correct_answer": 1,
+                "difficulty": 10
+            },
+            {
+                "question": "Osmanlı Devleti'nde uçan ilk kişi olarak bilinen Hezarfen Ahmed Çelebi'nin uçuşu sırasında Galata Kulesi'nden Üsküdar'a geçerken rüzgarın hızı yaklaşık ne kadardı?",
+                "options": [
+                    "Lodos",
+                    "Poyraz",
+                    "Karayel",
+                    "Meltem"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "İnsan gözünde bulunan ve sadece karanlıkta çalışan, renkleri algılayamayan hücrelere ne ad verilir?",
+                "options": [
+                    "Koni hücreleri",
+                    "Çubuk hücreleri",
+                    "Retina hücreleri",
+                    "Kornea hücreleri"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Hangi hayvanın sütü, güneş ışığına maruz kaldığında pembe rengini alır (aslında terindeki bir pigment yüzünden)?",
+                "options": [
+                    "Flamingo",
+                    "Su Aygırı",
+                    "Mavi Balina",
+                    "Karınca Yiyen"
+                ],
+                "correct_answer": 1,
+                "difficulty": 8
+            },
+            {
+                "question": "Yazılım dünyasında 'Bug' (böcek) terimi, ilk kez 1947'de bir bilgisayarın devresine sıkışan gerçek bir böcek nedeniyle kullanılmıştır. Bu bilgisayar hangisidir?",
+                "options": [
+                    "ENIAC",
+                    "Mark II",
+                    "UNIVAC",
+                    "Altair"
+                ],
+                "correct_answer": 1,
+                "difficulty": 9
+            },
+            {
+                "question": "Müzikte 'Tristan Akoru' olarak bilinen ve modern müziğin başlangıcı kabul edilen akor hangi bestecinin eserinde ilk kez duyulmuştur?",
+                "options": [
+                    "Richard Wagner",
+                    "Mahler",
+                    "Stravinsky",
+                    "Schoenberg"
+                ],
+                "correct_answer": 0,
+                "difficulty": 10
+            },
+            {
+                "question": "Antarktika'da bulunan ve demir oksit nedeniyle kırmızı akan ünlü şelalenin adı nedir?",
+                "options": [
+                    "Kan Şelalesi",
+                    "Pas Şelalesi",
+                    "Ateş Şelalesi",
+                    "Kızıl Akıntı"
+                ],
+                "correct_answer": 0,
+                "difficulty": 8
+            },
+            {
                 "question": "Müzikte seslerin yüksekliklerini ve sürelerini göstermeye yarayan, beş paralel çizgi ve dört aralıktan oluşan sembolün adı nedir?",
                 "options": [
                     "Nota",
