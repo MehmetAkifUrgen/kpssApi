@@ -4658,6 +4658,722 @@
           "metin": "Bu Kanun hükümlerini Cumhurbaşkanı yürütür."
         }
       ]
+    },
+    "Vatandaşlık": {
+      "Hukukun Temel Kavramları": [
+        {
+          "baslik": "Din Kuralları",
+          "metin": "Tanrı tarafından konulduğuna ve peygamberler aracılığıyla insanlara ulaştırıldığına inanılan birtakım emir ve yasaklardır. Din kurallarının yaptırımı manevidir. Örneğin, günahkar sayılmak."
+        },
+        {
+          "baslik": "Ahlak Kuralları",
+          "metin": "Sosyal hayat içerisinde insanların başkalarına ya da kendilerine karşı nasıl davranılması gerektiğini düzenleyen kurallar ahlak kurallarıdır. Objektif ve subjektif olarak ikiye ayrılır. Objektif Ahlak Kuralları, başkalarına karşı davranışlarla ilgilidir, Subjektif Ahlak Kuralları ise kendi nefsimize karşı sorumlu olduğumuz davranışlardır."
+        },
+        {
+          "baslik": "Görgü Kuralları",
+          "metin": "Aynı çevrede yaşayan kişilerin benimsediği ve kişilerin diğer insanlarla karşılaştıkları zaman takınmaları gereken tavırları, konuşma, selamlaşma, yeme-içme tarzları, oturuş biçimi, düğün ve benzeri törenlerdeki davranışları gösteren kurallardır."
+        },
+        {
+          "baslik": "Örf ve Adet Kuralları",
+          "metin": "Örf ve adet kuralları, topluluk içerisinde uzun zamandan beri yerleşmiş olup toplumun uyarılmasını zorunlu saydığı ortak davranış kurallarıdır. Gelenek hukuku yazılı değildir. Bir geleneğin örf ve adet kuralı olabilmesi için istikrarlı olarak tekrarlanması gerekir."
+        },
+        {
+          "baslik": "Hukuk Kuralları",
+          "metin": "Sosyal hayatta bireyleri birbirleriyle ve devletle kurdukları ilişkiyi düzenleyen, kamu gücü tarafından desteklenen, uyulması zorunlu olan kurallar bütünüdür. Hukuk kurallarının yaptırımı manevidir."
+        },
+        {
+          "baslik": "Hukuk Kurallarının Yaptırımları",
+          "metin": "Yaptırım (müeyyide), herhangi bir hukuk kuralının koymuş olduğu emir ve yasaklara uygun davranmama halinde karşılaşılacak olan tepkidir. Ceza, Cebri İcra, Tazminat, İdari İşlemde İptal ve Hükümsüzlük gibi başlıklar altında toplanabilir."
+        },
+        {
+          "baslik": "Ceza",
+          "metin": "Kanunun suç işleyen kişilere uygulanmasını öngördüğü yaptırımdır. Hapis, adli para cezası ve disiplin cezaları örnekleridir."
+        },
+        {
+          "baslik": "Cebri İcra",
+          "metin": "Borcun ödenmemesi durumunda devlet zoruyla borcun icra ile tahsili yerine getirilmesidir. Borcu sadece para borcu olarak düşünmemek gerekmektedir."
+        },
+        {
+          "baslik": "Tazminat",
+          "metin": "Haksız fiil sonrası zarar gören kişinin zararının tazmin edilmesi gerekir. Tazminat maddi olabileceği gibi manevi de olabilir."
+        },
+        {
+          "baslik": "Hukuk Türleri",
+          "metin": "Hukuk; kamu hukuku, özel hukuk ve karma hukuk olmak üzere üçe ayrılır. Pozitif Hukuk, Mevzu Hukuk, İdeal Hukuk, Tarihi Hukuk gibi farklı türleri bulunmaktadır."
+        },
+        {
+          "baslik": "Hukuk Kurallarının Temel Nitelikleri",
+          "metin": "Kamu gücünün desteğine dayanan bir buyruğun ya da bir yasağın hukuk kuralı niteliği alabilmesi için sahip olması gereken özellikler: Genellik, Soyutluk, Kişilik dışı olma, Süreklilik, Yaptırıma dayalı olma."
+        },
+        {
+          "baslik": "Hukuk Kurallarının Çeşitleri",
+          "metin": "Emredici Hukuk Kuralları, Yedek Hukuk Kuralları, Tanımlayıcı Hukuk Kuralları gibi çeşitler bulunmaktadır."
+        },
+        {
+          "baslik": "Hukuk Kurallarının Kaynakları",
+          "metin": "Yazılı Kaynaklar (Anayasa, kanun, yönetmelikler), Yazısız Kaynaklar (Örf ve adet hukuku), Yardımcı Kaynaklar (Bilimsel içtihatlar, Yargısal içtihatlar) gibi kaynaklar mevcuttur."
+        },
+        {
+          "baslik": "Hukuk Boşlukları",
+          "metin": "Hukuk boşluğu, bir hukuki uyuşmazlığın çözümlenmesinde hem yazılı hem de yazısız kaynaklarda hüküm bulunmaması durumudur. Hakimin Hukuk Yaratması ve Kanun Boşluğu gibi konuları içerir."
+        },
+        {
+          "baslik": "Medeni Hukuk",
+          "metin": "Özel hukukun en önemli ve en geniş uygulama alanı olan koludur. Kişilerin kişilerle ve ailesiyle ilişkilerini düzenleyen; eşyaları üzerinde ne gibi hak ve yetkiye sahip olduğunu belirten, öldükten sonra mirasın kimler arasında dağıtılacağını, kişinin kendisine kalan mirası nasıl alacağını, hak ve yetkilerinin neler olduğunu gösteren hukuk dalıdır."
+        },
+        {
+          "baslik": "Medeni Hukukun Bölümleri",
+          "metin": "Medeni hukukun bölümleri dörte ayrılır: kişiler hukuku, aile hukuku, miras hukuku, eşya hukuku"
+        },
+        {
+          "baslik": "Hak Kavramı",
+          "metin": "Hak, hukuk tarafından tanınan ve korunan, kişiye ait menfaatlerdir. Tüm haklar kurallardan doğar ve her hakkın bir sahibi vardır, sahipsiz hak olamaz. Hak sahibi varlıklara kişi denir."
+        },
+        {
+          "baslik": "Hakkın Kazanılması",
+          "metin": "Hakkın kazanılması, bir kişiye bağlanması demektir. Hakkın kazanılmasında iyiniyet kuralı geçerlidir. Bir hakkın kazanılmasında, bu hakkın kazanılmasına engeli bilmemek iyiniyet olarak tanımlanır. Hakkın kazanılması üç sebepten olabilir: hukuki olay, hukuki fiil ve hukuki işlem."
+        },
+        {
+          "baslik": "Hukuki Olay",
+          "metin": "Hukuk düzeni tarafından kendisine sonuç bağlanan olaylardır."
+        },
+        {
+          "baslik": "Hukuki Fiil",
+          "metin": "İnsan iradesinin ürünü eylemlerdir."
+        },
+        {
+          "baslik": "Hukuki İşlem",
+          "metin": "Hukuki bir sonuç doğurmak üzere tarafların karşılıklı iradesi açıklamasıyla gerçekleşen eylemlerdir."
+        },
+        {
+          "baslik": "Hakların Kazanılması",
+          "metin": "Hak sahibinin haklarını kullanması ve borçlarını yerine getirmesinde geçerli olan ana ilke dürüstlük kuralıdır. Dürüst davranma, hak sahibinin hakkını kullanırken ya da borcunu yerine getirirken iyi ve doğru hareket etmesini gerektirir."
+        },
+        {
+          "baslik": "Hakkın Korunması",
+          "metin": "Hukuk rejimimiz hakkın devlet tarafından korunmasını kural olarak benimsemiştir. Kişinin kendi eliyle hakkını koruması da mümkündür. Hukukun bu iki biçimdeki koruma yöntemleri vardır: Meşru müdafaa (haklı savunma) ve Zaruret hâli (ıztırar hâli)."
+        },
+        {
+          "baslik": "Kişiler Hukuku",
+          "metin": "Kişiler hukukunun konuları; kişi, kişi türleri, kişiliğin başlangıcı, kişiliğin sona ermesi, kişi ehliyetleri, kişi hakları ve hısımlık gibi konuları kapsar."
+        },
+        {
+          "baslik": "Gerçek Kişi",
+          "metin": "İnsanlar gerçek kişi olarak tanımlanır. Gerçek kişiliğin başlangıcı sağ ve tam doğum ile başlar."
+        },
+        {
+          "baslik": "Fiil Ehliyeti",
+          "metin": "Fiil ehliyeti, hak ve borçları kullanabilme ehliyetidir. Herkes sahip değildir. Fiil ehliyeti için gerekli koşullar: Ayırt etme gücüne sahip olmak, ergin olmak ve kısıtlı olmamak."
+        },
+        {
+          "baslik": "Gerçek Kişiliğin Sona Ermesi",
+          "metin": "Gerçek kişiliği doğal yollarla sona erdiren ölüm, ya da ölümüne olası gözle bakılacak bir durumda kaybolma (gaiplik) ile sona erer."
+        },
+        {
+          "baslik": "Aile Hukuku",
+          "metin": "Nişanlanma, evlilik, boşanma, velayet, soybağı gibi konuları düzenleyen hukuki alandır."
+        },
+        {
+          "baslik": "Miras Hukuku",
+          "metin": "Vasiyet, miras hükümleri ve mirasın nasıl dağıtılacağını düzenler."
+        },
+        {
+          "baslik": "Eşya Hukuku",
+          "metin": "Taşınır ve taşınmaz malları konu alan medeni hukuk alt dalıdır."
+        },
+        {
+          "baslik": "Borçlar Hukuku",
+          "metin": "Kişiler arasındaki borç ilişkisini düzenleyen özel hukuk dalıdır. Borç, borçlunun yerine getirmekle yükümlü olduğu edimi ifade eder."
+        },
+        {
+          "baslik": "Ticaret Hukuku",
+          "metin": "Bireyler arasındaki ticari ilişkileri düzenleyen hukuk kurallarıdır."
+        },
+        {
+          "baslik": "Devletler Özel Hukuku",
+          "metin": "Farklı milletlerden olan bireylerin ilişkilerini, hukuki statülerini ve farklı vatandaşlığa sahip bireyler arasındaki uyuşmazlıklarda hangi ülkenin hukuk kurallarının uygulanacağını düzenleyen hukuk dalıdır."
+        },
+        {
+          "baslik": "Devlet Şekilleri",
+          "metin": "Devletler tek yapılı (üniter), birleşik karma (federal, konfederal) veya demokratik, monarşik gibi çeşitli şekillerde olabilir. "
+        },
+        {
+          "baslik": "Demokrasi",
+          "metin": "Halk egemenliğini esas alan, iktidarın halk olmasını savunan anlayıştır. Demokrasi, eşitlik, özgürlük, millî egemenlik, çoğulculuk gibi temel unsurları içerir."
+        },
+        {
+          "baslik": "1982 Anayasası",
+          "metin": "1982 Anayasası, Türkiye Cumhuriyeti'nin temel kanunu olup, devletin şekli, cumhuriyetin nitelikleri, egemenlik, yasama ve yürütme yetkilerinin ayrılması gibi konuları düzenler. Anayasa, 1982'de halkoyuyla kabul edilmiştir."
+        }
+      ],
+      "Anayasal Kavramlar": [
+        {
+          "baslik": "Anayasa",
+          "metin": "Devletin kuruluşu, temel teşkilatlanmasını, temel organlarının (yasama-yürütme-yargı) kuruluş ve işleyişi ile birbiri ile ilişkilerine ilişkin düzenleme yapan, temel hak ve hürriyetleri belirten ve bunları güvence altına alan, iktidarın yetkisini sınırlayan temel metinlerdir."
+        },
+        {
+          "baslik": "Anayasa Türleri",
+          "metin": "Yazılı anayasa: İçinde olması gerekli olduğu düşünülen kuralların yetkili organ tarafından belli bir belgede ya da metinde toplanması sonucu oluşur. Yazısız anayasa: Toplum içinde uzun süre devamlı olarak tekrarlanan ve gelenekler sonucu oluşan anayasadır. Yumuşak anayasa: Normal kanunlarla aynı şekilde ve organlarca değiştirilebilen, değiştirilmesine ilişkin özel koşullar aranmayan anayasadır. Sert anayasa: Normal kanunlarla aynı şekilde ve organlarca değiştirilemeyen, değiştirilmesinde daha zor şartların arandığı anayasadır. Kazuistik anayasa: Ayrıntılı düzenlemelere yer veren, madde sayıları bakımından fazla ve maddeleri uzun olan anayasalardır. Çerçeve anayasa: Ayrıntılı düzenlemeleri olmayan temel hususlar düzenledikten sonra geriye kalan düzenlemeleri Kanunlara bırakan, kısa ve öz anayasalardır."
+        },
+        {
+          "baslik": "Devlet ve Devlet Şekilleri",
+          "metin": "Devlet şekilleri, yapısına göre tek yapılı (üniter) ve birleşik karma (federal, konfederal) devletler olarak sınıflandırılabilir. Üniter devlet, tek merkezden yönetilen ve aynı hukuk kurallarının geçerli olduğu devlet şeklidir. Federal devlet, birden fazla devletten oluşan, kendi iç yapılarında bağımsız fakat dışarıya karşı aynı hukuk kurallarına tabi olan devlet türüdür. Konfederal devlet ise, birden fazla devletin varlıklarını korumak şartıyla, belirli bir amaç çerçevesinde oluşturdukları topluluklardır. Demokrasi, halkın devlet yönetimine katıldığı devlettir."
+        },
+        {
+          "baslik": "Egemenliklere Göre Devlet Şekilleri",
+          "metin": "Monarşi: Egemenliğin tek bir kişiye ait olmasıdır. Oligarşi: Egemenliğin bir grup ya da zümre tarafından kullanıldığı devlet sistemidir. Meşrutiyet: Hükümdarın yanında halkın da kısmen devlet yönetimine katılmasıdır. Teokratik: Hukuk kurallarının din kurallarına göre oluşturulduğu ve din kurallarına göre yönetilen devlet şeklidir. Cumhuriyet: Devlet yönetiminde millet iradesinin egemen olduğu ve yönetimin bir kişiye ya da zümreye bırakılmadığı devlet şeklidir."
+        },
+        {
+          "baslik": "Hükümet Sistemleri",
+          "metin": "Kuvvetler Birliği: Yasama ve yürütme yetkilerinin yasamada toplanmasıdır. Meclis Hükûmeti, yasama ve yürütme yetkileri yasamada toplanan sistemdir. Kuvvetler Ayrılığı: Yasama, yürütme ve yargı organlarının birbirinden bağımsız olmasıdır. Parlamenter Sistem, yürütmenin yasamadan kaynaklı olduğu, kuvvetlerin yumuşak bir şekilde ayrıldığı sistemdir. Yarı Başkanlık Sistemi, yürütme organının iki başlı olduğu ve kuvvetlerin birbirinden yumuşak bir şekilde ayrıldığı bir sistemdir. Başkanlık Sistemi, kuvvetlerin kesin ve katı bir biçimde ayrıldığı, yürütmenin tek kanatlı olduğu sistemdir."
+        },
+        {
+          "baslik": "Demokrasi",
+          "metin": "Demokrasi, halk egemenliğini esas alan ve iktidarın halk tarafından belirlenmesini savunan anlayıştır. Demokrasinin temel unsurları eşitlik, özgürlük, millî egemenlik, çoğulculuk ve temel hakların güvence altına alınmasıdır."
+        },
+        {
+          "baslik": "1982 Anayasası’nın Genel Esasları",
+          "metin": "1982 Anayasası, Türkiye Cumhuriyeti'nin devletin şekli, temel hak ve hürriyetleri, egemenlik, yasama-yürütme-yargı yetkilerinin ayrılması gibi konuları düzenler. Anayasa, halkoyuyla kabul edilmiştir ve devletin şekli cumhuriyet olarak belirlenmiştir. Türkiye Cumhuriyeti, toplumsal huzur, milli dayanışma ve adalet anlayışı içinde insan haklarına saygılı, Atatürk milliyetçiliğine bağlı, demokratik, laik ve sosyal bir hukuk devletidir."
+        },
+        {
+          "baslik": "Seçim İlkeleri",
+          "metin": "Seçimlerde serbest oy, genel oy, eşit oy, gizli oy-açık sayım, tek dereceli seçim ilkeleri uygulanmaktadır. Seçmenler, kendi iradeleriyle oy kullanmalı, hiçbir ayrım yapılmamalıdır. Seçimlerde oy kullanamayacak kişiler arasında silah altında bulunan er-erbaşlar ve askeri okul öğrencileri yer alır."
+        },
+        {
+          "baslik": "Demokrasi Uygulama Şekilleri",
+          "metin": "Demokrasi, halkın yönetime katılımını sağlar. Demokrasi şekilleri; doğrudan demokrasi, yarı doğrudan demokrasi ve temsili demokrasi olarak ayrılır. Doğrudan demokrasi halkın kendisini yönettiği, temsilcisiz bir sistemdir. Yarı doğrudan demokrasi, halkın seçtiği temsilciler aracılığıyla bazen de kendilerinin yönetime katıldığı bir modeldir. Temsili demokrasi ise, halkın egemenliğini temsilcileri aracılığıyla kullandığı sistemdir."
+        },
+        {
+          "baslik": "İktidar ve İktidar Türleri",
+          "metin": "İktidar, devleti yönetebilme ve devlet gücünü kullanma yetkisidir. Kurucu iktidar, anayasa yapma ve değiştirme gücüne sahip iktidardır. Asil kurucu iktidar, yeni bir anayasa yaparak yönetimi uygulayan iktidardır. Tali kurucu iktidar, var olan anayasayı belirtilen usullere uygun olarak değiştirme gücüne sahip iktidardır. Kurulmuş iktidar, anayasa değiştirme gücü olmayan, mevcut anayasa ile devleti yöneten iktidardır."
+        }
+      ],
+      "Anayasa Tarihi": [
+        {
+          "baslik": "Osmanlı Devleti’ndeki Anayasal Gelişmeler",
+          "metin": "Osmanlı devleti kendi başlarına göre hareket eden ayanları kontrol altına almayı amaçlamıştır. Anayasalcılık hareketi bu belge ile başlar. II. Mahmut döneminde düzenlenmiştir. Sözleşme biçiminde ilan edilmiştir. Osmanlı devleti ayanları tanıyarak hukukileştirmiştir. Padişahın yetkileri sınırlandırılmıştır."
+        },
+        {
+          "baslik": "Sened-i İttifak",
+          "metin": "Osmanlı devleti kendi başlarına göre hareket eden ayanları kontrol altına almayı amaçlamıştır. Anayasalcılık hareketi bu belge ile başlar. II. Mahmut döneminde düzenlenmiştir. Sözleşme biçimde ilan edilmiştir. Osmanlı devleti ayanları tanıyarak hukukileştirmiştir. Padişahın yetkileri sınırlandırılmıştır."
+        },
+        {
+          "baslik": "Tanzimat Fermanı",
+          "metin": "Osmanlı uyruğunda bulunan bütün vatandaşlara eşit haklar vermek ve Avrupa desteğini almak amacı ile çıkarılmıştır. Devlet harcamalarının kanunlara dayandırılması hükmü karara bağlanmıştır. Halkın gelirine göre vergi vermesi ve askerlik işleri düzenlenmiştir. Abdülmecit bu esaslara uyacağına dair söz vermiştir. Kanun gücü ilkesi benimsenmiştir. Avrupa hukuk kuralları geçerli olmaya başlamıştır. Herkesin can, mal, ırz güvenliğinin düzene kavuşturulması kararı alınmıştır. Padişah yetkileri sınırlandırılmış, anayasalcılığa ve demokrasiye atıla ilk adım olmuştur."
+        },
+        {
+          "baslik": "Islahat Fermanı",
+          "metin": "Yabancı devletlerin Osmanlı'nın iç işlerini karışmasını engellemek ve azınlıkların ayaklanmasını önlemek amacıyla çıkarılmıştır. Ferman biçiminde ilan edilen bu belge Müslümanlar ile Gayrimüslimler arasındaki tam eşitliği sağlamaktadır. Gayrimüslimlere küçük düşürücü sözler söylenmesi yasaklanmıştır. Cizye ve iltizam kaldırılmış, yabancılara mülk edinme hakkı getirilmiştir. İşkence ve kötü muamele yasaklanmıştır. Azınlıklara Türk okullarında veya kendi dinlerinde eğitim yapan okullarda okuma özgürlüğü tanınmıştır."
+        },
+        {
+          "baslik": "I. Meşrutiyetin İlanı (Kanun-i Esasi)",
+          "metin": "Anayasa Hukuku ve Türk Anayasa Tarihi konusunda önemli bir yere sahip olan 1. Meşrutiyetin İlanı yani Kanun-i Esasi, Osmanlı devletinin dağılmasını engellemek amacı ile çıkarılmıştır. II. Abdülhamit tarafından kabul ve ilan edilmiştir. Prusya ve Belçika anayasaları esas alınarak yazılmıştır. Halk ilk defa sınırlı da olsa seçme ve seçilme hakkı kullanmıştır. Yasama ve yürütme padişahın elinde toplanmıştır. Yasama dokunulmazlığı ve yüce divan ilk kez bu anayasa ile düzenlenmiştir. I. Meşrutiyetin ilanında Osmanlıcılık ve Batıcılık etkili olmuştur."
+        },
+        {
+          "baslik": "II. Meşrutiyetin İlanı",
+          "metin": "II. Abdülhamit zamanında ilan edilmiştir. Padişah yetkileri daraltılmış ve Mebusan meclisinin yetkileri arttırılmıştır. Padişahın sürgün yetkisi kaldırılmış ve basına sansür yasağı koyamayacağı belirlenmiştir. Değişiklikler sonucunda bir meşruti monarşi anayasası haline gelmiştir. Parti kurma hakkı getirilerek çok partili hayata geçiş sağlanmıştır."
+        },
+        {
+          "baslik": "1921 Anayasası (Teşkilat-ı Esasiye)",
+          "metin": "Egemenliğin millete ait olduğu belirtilmiştir. Yumuşak ve çerçeve nitelikte bir anayasadır. Yasama yürütme TBMM’de toplanmıştır. Meclis hükümeti sistemini benimsemiştir. Seçimler iki yılda bir yapılmaktadır. Yerinden yönetime ilişkin düzenlemeler vardır. Yargıdan ve temel haklardan bahsedilmiştir."
+        },
+        {
+          "baslik": "1924 Anayasası (Teşkilat-ı Esasiye)",
+          "metin": "1876-1921 anayasalarının neden olduğu ikili anayasal uygulamaya son vermek için ilan edilmiştir. Meclis hükümeti sistemi ile parlamenter sistemi arasında kalan karma Hükümet Sistemi benimsenmiştir. Temel özellikleri şunlardır: Devletin temel niteliğinin Cumhuriyet olduğu kesin hükme bağlanmış ve hüküm değiştirilemez hüküm olarak anayasada yer almıştır. Bu nedenle değiştirilemez maddelere yer veren ilk anayasadır. Yasama ve yürütme yetkisi TBMM’de toplanır ancak meclis yürütme yetkisini Bakanlar Kurulu aracılığı ile kullanır (güçler birliği görevler ayrılığı uygulandı)."
+        },
+        {
+          "baslik": "1961 Anayasası",
+          "metin": "27 Mayıs 1960’da Milli Birlik Komitesinin yönetimi el koyması sonrasında kabul edilmiştir. Halk oylamasıyla kabul edilmiştir. Parlamenter hükümet sistemi ilk defa benimsenmiştir. Çoğulcu demokrasi anlayışını benimseyen ilk ve tek anayasadır. Çift yapılı meclis benimsenmiştir. Bunlar Millet Meclisi ve Cumhuriyet Senatosudur."
+        },
+        {
+          "baslik": "1982 Anayasası",
+          "metin": "1982 Anayasası 12 Eylül 1980’de Milli Güvenlik Konseyinin yönetimi el koymasından sonraki dönemde kabul edilmiştir. Halk oylamasıyla kabul edilmiştir. Kazuistik yönteme göre hazırlanmıştır. Sert anayasadır. Az katılımcı demokrasi anlayışını benimsemiştir. Siyasi kararlar almadaki zorlukları giderici hükümler getirilmiştir."
+        },
+        {
+          "baslik": "1982 Anayasası’nın Değiştirilemez Maddeleri",
+          "metin": "Devletin şekli, Cumhuriyetin nitelikleri, devletin bütünlüğü, resmi dili, bayrağı, milli marşı ve başkenti gibi temel esaslar Anayasa'nın değiştirilmesi teklif dahi edilemez maddeleri arasında yer alır. Türkiye Cumhuriyeti, huzur, milli dayanışma ve adalet anlayışı içinde insan haklarına saygılı, Atatürk milliyetçiliğine bağlı, demokratik, laik ve sosyal bir hukuk devleti olarak tanımlanır."
+        }
+      ],
+      "Temel Hak Ödevler": [
+        {
+          "baslik": "Genel Hükümler",
+          "metin": "Temel Hak ve Hürriyetlerin Niteliği: Anayasanın 12 maddesine göre herkes, kişiliğine bağlı, dokunulmaz, devredilmez, vazgeçilmez temel hak ve hürriyetlere sahiptir."
+        },
+        {
+          "baslik": "Temel Hak ve Özgürlüklerin Sınırlandırılması",
+          "metin": "Temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlanabilir. Bu sınırlamalar; anayasanın sözüne ve ruhuna, Demokratik Toplum düzeninin gereklerine, laik cumhuriyetin gereklerine, ölçülülük ilkesine aykırı olamaz."
+        },
+        {
+          "baslik": "Temel Hak ve Hürriyetlerin Kötüyü Kullanılmaması",
+          "metin": "Anayasada yer alan hak ve hürriyetlerden hiçbiri devletin ülkesi ve milleti ile Bölünmez bütünlüğünü bozmayı ve insan haklarına dayanan demokratik ve laik Cumhuriyeti ortadan kaldırmayı amaçlayan faaliyetler biçiminde kullanılamaz."
+        },
+        {
+          "baslik": "Temel Hak ve Hürriyetlerin Kullanılmasının Durdurulması",
+          "metin": "Savaş, seferberlik veya olağanüstü hallerde, milletlerarası hukuktan doğan yükümlülükler ihlal edilmemek kaydıyla, durumun gerektirdiği ölçüde temel hak ve hürriyetlerin kullanılması kısmen veya tamamen durdurulabilir veya bunlar için anayasada öngörülen güvencelere aykırı tedbirler alınabilir."
+        },
+        {
+          "baslik": "Savaş, Seferberlik veya Olağanüstü Hallerde Temel Hakların Durdurulması",
+          "metin": "Birinci fıkrada belirlenen durumlarda dahi; 1) Savaş hukukuna uygun fiiller sonucu meydana gelen ölümler dışında, 2) Kişinin yaşama hakkına, maddi ve manevi varlığının bütünlüğüne dokunulamaz, 3) Kimse din, vicdan, düşünce ve kanaatlerini açıklamaya zorlanamaz ve bunlardan dolayı suçlanamaz, 4) Suç ve cezalar geçmişe yürütülemez, 5) Suçluluğu mahkeme kararı ile saptanıncaya kadar kimse suçlu sayılamaz."
+        },
+        {
+          "baslik": "Yabancıların Durumu",
+          "metin": "Temel hak ve hürriyetler yabancılar için milletlerarası hukuka uygun olarak kanunla sınırlanabilir."
+        },
+        {
+          "baslik": "Kişisel Haklar",
+          "metin": "Kişinin dokunulmazlığı, maddi ve manevi varlığı: Herkes, yaşama, maddi ve manevi varlığını koruma ve geliştirme hakkına sahiptir. Tıbbi zorunluluklar ve kanunda yazılı haller dışında, kişinin vücut bütünlüğüne dokunulmaz; rızası olmadan bilimsel ve tıbbı deneylere tabi tutulamaz."
+        },
+        {
+          "baslik": "Zorla Çalıştırma Yasağı",
+          "metin": "Hiç kimse zorla çalıştırılamaz. Zorla çalıştırma yasaktır."
+        },
+        {
+          "baslik": "Kişi Hürriyeti ve Güvenliği",
+          "metin": "Herkes, kişi hürriyeti ve güvenliğine sahiptir. Şekil ve şartları kanunda gösterilen; Mahkemelerce verilmiş hürriyeti kısıtlayıcı cezaların ve güvenlik tedbirlerinin yerine getirilmesi, Mahkeme kararını veya kanunda öngörülen bir yükümlülüğün gereği olarak ilgilinin yakalanması ve tutuklanması gibi durumlar hürriyetin kısıtlanmasına örnektir."
+        },
+        {
+          "baslik": "Özel Hayatın Gizliliği ve Korunması",
+          "metin": "Özel hayatın gizliliği herkes, özel hayatını ve aile hayatına saygı göstermesini isteme hakkına sahiptir. Konut dokunulmazlığı kanunda yetkili kılınmış mercinin yazılı emri bulunmadıkça kimsenin konutuna girilmez."
+        },
+        {
+          "baslik": "Haberleşme Hürriyeti",
+          "metin": "Herkes, haberleşme hürriyetine sahiptir. Haberleşmenin gizliliği esastır."
+        },
+        {
+          "baslik": "Yerleşme ve Seyahat Hürriyeti",
+          "metin": "Yerleşme hürriyeti, suç işlemesini önlemek, sosyal ekonomik gelişmeyi sağlamak, sağlıklı ve düzenli kentleşmeyi sağlamak gibi gerekçelerle sınırlandırılabilir. Seyahat hürriyeti, suç soruşturması ve kovuşturması sebebiyle ve suç işlemesini önlemek nedeniyle sınırlandırılabilir."
+        },
+        {
+          "baslik": "Din ve Vicdan Hürriyeti",
+          "metin": "Herkes; vicdan, dinî inanç ve kanaat hürriyetine sahiptir."
+        },
+        {
+          "baslik": "Bilim ve Sanat Hürriyeti",
+          "metin": "Herkes, bilim ve sanatı serbestçe öğrenme ve öğretme, açıklama, yayma ve bu alanlarda her türlü araştırma hakkına sahiptir."
+        },
+        {
+          "baslik": "Basın ve Yayınla İlgili Hükümler",
+          "metin": "Basın hürriyeti: Basın hürdür, sansür edilemez. Basımevi kurmak izin alma ve malî teminat yatırma şartına bağlanamaz."
+        },
+        {
+          "baslik": "Düşünce ve Kanaat Hürriyeti",
+          "metin": "Herkes, düşünce ve kanaat hürriyetine sahiptir. Her ne sebeple olursa olsun kimse düşüncelerini açıklamaya zorlanamaz."
+        },
+        {
+          "baslik": "Düşünceyi Açıklama ve Yayma Hürriyeti",
+          "metin": "Herkes, düşünce ve kanaatlerini söz, yazı, resim veya başka yollarla tek başına veya toplu olarak açıklama ve yayma hakkına sahiptir."
+        },
+        {
+          "baslik": "Düzeltme ve Cevap Hakkı",
+          "metin": "Düzeltme ve cevap hakkı, ancak kişilerin haysiyet ve şereflerine dokunulması veya kendileriyle ilgili gerçeğe aykırı yayımlar yapılması hâllerinde tanınır ve kanunla düzenlenir."
+        },
+        {
+          "baslik": "Mülkiyet Hakkı",
+          "metin": "Herkes, mülkiyet ve miras haklarına sahiptir. Mülkiyet hakkının kullanılması toplum yararına aykırı olamaz."
+        },
+        {
+          "baslik": "Hak Arama Hürriyeti",
+          "metin": "Herkes, meşrû vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma ile adil yargılanma hakkına sahiptir."
+        },
+        {
+          "baslik": "Kanunî Hâkim Güvencesi",
+          "metin": "Hiç kimse kanunen tabi olduğu mahkemeden başka bir merci önüne çıkarılamaz."
+        },
+        {
+          "baslik": "Suç ve Cezalara İlişkin Esaslar",
+          "metin": "Kimse, işlendiği zaman yürürlükte bulunan kanunun suç saymadığı bir fiilden dolayı cezalandırılamaz; kimseye suçu işlediği zaman kanunda o suç için konulmuş olan cezadan daha ağır bir ceza verilemez."
+        },
+        {
+          "baslik": "İspat Hakkı",
+          "metin": "Kamu görev ve hizmetinde bulunanlara karşı, bu görev ve hizmetin yerine getirilmesiyle ilgili olarak yapılan isnatlardan dolayı açılan hakaret davalarında, sanık, isnadın doğruluğunu ispat hakkına sahiptir."
+        },
+        {
+          "baslik": "Dernek Kurma Hürriyeti",
+          "metin": "Herkes, önceden izin almaksızın dernek kurma ve bunlara üye olma ya da üyelikten çıkma hürriyetine sahiptir. Dernek kurma hürriyetinin kullanılmasıyla ilgili hükümler, şekil şart ve usuller kanunda gösterilir."
+        },
+        {
+          "baslik": "Toplantı ve Gösteri Yürüyüşü Düzenleme Hakkı",
+          "metin": "Herkes, önceden izin almadan, silahsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkına sahiptir."
+        },
+        {
+          "baslik": "Sosyal ve Ekonomik Haklar ve Ödevler",
+          "metin": "Çalışma, herkesin hakkı ve ödevidir. Devlet çalışanları korumak, hayat standartlarını yükselmek, çalışmayı desteklemek için her türlü tedbiri alır."
+        }
+      ],
+      "Yasama": [
+        {
+          "baslik": "Yasama",
+          "metin": "Yasama Yetkisinin Temel İlkeleri"
+        },
+        {
+          "baslik": "Yasama Yetkisinin Genelliği",
+          "metin": "TBMM’nin dilediği her konuda işlem yapabilmesi (istisna: Cumhurbaşkanlığı kararnamesi)"
+        },
+        {
+          "baslik": "Yasama Yetkisinin Asliliği",
+          "metin": "TBMM’nin araya başka bir işlem girmeden ilk elden işlem yapabilmesi"
+        },
+        {
+          "baslik": "Yasama Yetkisinin Devredilmezliği",
+          "metin": "Yasama yetkisinin sadece TBMM’ye ait olması"
+        },
+        {
+          "baslik": "Yasama Yetkisinin Sürekliliği",
+          "metin": "Yasama yetkisinin kesintiye uğramaması"
+        },
+        {
+          "baslik": "Yasama İşlemleri",
+          "metin": "Yasama işlemleri kapsamında Türkiye Büyük Millet Meclisi iki ana işlem gerçekleştirir. Bunlar kanun ve parlamento kararıdır."
+        },
+        {
+          "baslik": "Kanun",
+          "metin": "Bir kanun Türkiye Büyük Millet Meclisinin genel ve soyut nitelikli olan, cumhurbaşkanına çıkan işlemleridir. Kanunların tamamı Cumhurbaşkanı tarafından imzalanır ve yayınlanır. Kanun Anayasa Mahkemesinin yargısal denetimine tabidir."
+        },
+        {
+          "baslik": "Parlamento Kararı",
+          "metin": "Türkiye Büyük Millet Meclisi’ni daha çok kendi iç işleyişine ilişkin işlemlerdir. Bir başka deyişle Türkiye Büyük Millet Meclisinin kanun dışında yaptığı tüm işlemler parlamento kararıdır."
+        },
+        {
+          "baslik": "Parlamento Kararlarının Yargısal Denetimi",
+          "metin": "Kural olarak parlamento kararları yargısal denetim dışındadır. Ancak bazı istisnalar vardır: milletvekilinin dokunulmazlığının kaldırılması kararı, milletvekillerinin düşürülmesi kararı, TBMM iç tüzüğü."
+        },
+        {
+          "baslik": "Türkiye Büyük Millet Meclisinin Kurulması ve Seçimler",
+          "metin": "Türkiye Büyük Millet Meclisi genel oyla seçilen 600 milletvekilinden oluşur. 1982 anayasasının ilk halinde TBMM üye sayısı 400 idi. Bu sayı 1987 değişikliği ile 450, 1995 değişikliği ile 550, 2017 değişikliği ile 600 olmuştur."
+        },
+        {
+          "baslik": "Milletvekili Seçilme Yeterliliği",
+          "metin": "Milletvekili seçilme yeterliliği için; Türk vatandaşı olmak, 18 yaşını doldurmuş olmak, en az ilkokul mezunu olmak, askerlik durumu uygun olmak, kısıtlı olmamak, kamu hizmetlerinden yasaklı olmamak gibi şartlar aranır."
+        },
+        {
+          "baslik": "TBMM Seçimleri",
+          "metin": "Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri 5 yılda bir aynı günde yapılır. Süresi biten milletvekili yeniden seçilebilir. Seçimlerin yenilenmesi kararı TBMM üye tam sayısının 5’te 3 çoğunluğu ile alınabilir."
+        },
+        {
+          "baslik": "Seçimlerin Yenilenmesi Kararı",
+          "metin": "TBMM üye tam sayısının 5’te 3 çoğunluğu 360 ile seçimleri yenilemesine karar verebilir. Cumhurbaşkanı, herhangi bir nedeni belirtmeksizin seçimleri yenileyebilir."
+        },
+        {
+          "baslik": "Seçimlerin Ertelenmesi",
+          "metin": "Seçimler yalnızca savaş sebebiyle 1 yıl geriye bırakılabilir, ertelenebilir."
+        },
+        {
+          "baslik": "Ara Seçim",
+          "metin": "Milletvekili sayısında boşalma olması durumunda yapılan seçimdir. Ancak, genel seçim üzerinden 30 ay geçmedikçe yapılamaz."
+        },
+        {
+          "baslik": "İstisnalar",
+          "metin": "TBMM’de %5’lik bir boşalma olursa, boşalmayı takip eden 3 ay içinde ara seçim yapılabilir."
+        },
+        {
+          "baslik": "TBMM Üyeliği İle İlgili Hükümler",
+          "metin": "Türkiye Büyük Millet Meclisi Üyeleri, seçildikleri bölgeyi veya kendilerini seçenleri değil bütün milleti temsil ederler."
+        },
+        {
+          "baslik": "Yasama Bağışıklığı",
+          "metin": "Yasama sorumsuzluğu Türkiye Büyük Millet Meclisi üyeleri, meclis çalışmalarındaki oy ve sözlerinden, mecliste ileri sürdükleri düşüncelerinden sorumlu tutulamazlar."
+        },
+        {
+          "baslik": "Yasama Dokunulmazlığı",
+          "metin": "Seçimden önce veya sonra bir suç işlediği ileri sürülen bir milletvekili, meclisin kararı olmadıkça; tutulamaz, sorguya çekilemez, tutuklanamaz ve yargılanamaz."
+        },
+        {
+          "baslik": "Milletvekilliğinin Düşmesi",
+          "metin": "Milletvekilliği, kendiliğinden sona erdiği hallerde; ölüm, gaiplik, Cumhurbaşkanı seçilme gibi durumlarla sona erer."
+        },
+        {
+          "baslik": "Oylama ile Sona Erdiği Haller",
+          "metin": "Milletvekilliği, istifa, milletvekilliği ile bağdaşmayan bir görev veya hizmeti sürdürmekte ısrar etme gibi durumlarla sona erer."
+        },
+        {
+          "baslik": "İptal İstemi",
+          "metin": "Yasama dokunulmazlığının kaldırılmasına veya milletvekillerinin düşmesine karar verilmiş olması hallerinde, ilgili milletvekili veya bir diğer milletvekili, kararın Anayasaya, kanuna veya iç tüzüğe aykırılığı iddiasıyla Anayasa Mahkemesine başvurabilir."
+        },
+        {
+          "baslik": "Ödenek ve Yokluklar",
+          "metin": "Türkiye Büyük Millet Meclisi üyelerinin ödenek, yokluk ve emeklilik işlemleri kanunla düzenlenir. Ödeneğin ayrı tutarı, en yüksek devlet memurunun almakta olduğu miktarı aşamaz."
+        },
+        {
+          "baslik": "TBMM’nin Görev ve Yetkileri",
+          "metin": "Kanun koymak, değiştirmek veya kaldırmak, Cumhurbaşkanının yüce divanda yargılanmasına karar vermek, bütçe kabul etmek, askeri güç kullanımı kararları gibi çeşitli görev ve yetkiler TBMM’ye aittir."
+        },
+        {
+          "baslik": "Anayasının Değiştirilmesi",
+          "metin": "Anayasaların değiştirilmesi, Türkiye Büyük Millet Meclisi üye tam sayısının en az üçte biri tarafından yazılı teklif edilebilir ve teklifin kabulü için 5’te 3 çoğunluğu gereklidir."
+        },
+        {
+          "baslik": "Kanunların Teklif Edilmesi ve Görüşülmesi",
+          "metin": "Kanun teklif etmeye milletvekilleri yetkilidir. 1 milletvekili dahi kanun teklif edebilir. Cumhurbaşkanı, Türkiye Büyük Millet Meclisi’nce kabul edilen kanunları 15 gün içinde yayımlar."
+        }
+      ],
+      "Yürütme": [
+        {
+          "baslik": "Cumhurbaşkanı Olabilme Koşulları",
+          "metin": "Türk vatandaşı olmak, 40 yaşını doldurmuş olmak, Yükseköğretim mezunu olmak, Milletvekili seçilme yeterliliğine sahip Türk vatandaşları arasında doğrudan halk tarafından seçilir."
+        },
+        {
+          "baslik": "Cumhurbaşkanlığına Aday Gösterilme",
+          "metin": "Görev süresi 5 yıldır. Bir kimse en az iki kere Cumhurbaşkanı seçilebilir."
+        },
+        {
+          "baslik": "Cumhurbaşkanlığı Seçim Dönemi",
+          "metin": "Cumhurbaşkanı ve TBMM’nin görev sürelerinin dolmasından önce son pazar günü oy verme günüdür. Seçimlerin yenilenmesine karar verilmesi halinde bu karar 48 saat içinde resmi gazetede yayınlanarak ilan edilir."
+        },
+        {
+          "baslik": "Cumhurbaşkanlığı Seçimi",
+          "metin": "Cumhurbaşkanlığı seçimi en çok iki turda genel oy ile yapılmaktadır. İlk oylamada geçerli oyların çoğunluğunu alan aday Cumhurbaşkanı seçilir. İkinci oylama gerektiğinde, ilk oylamada en çok oy alan iki aday arasında yapılır."
+        },
+        {
+          "baslik": "Cumhurbaşkanının Görev ve Yetkileri",
+          "metin": "Cumhurbaşkanı devlet başkanı sıfatıyla Türkiye Cumhuriyeti’ni ve Türk milletinin birliğini temsil eder, kanunları yayımlar, Anayasa değişikliklerine dair yasaları halkoyuna sunar, Cumhurbaşkanlığı kararnamesi ve yönetmelik çıkarır, Türk Silahlı Kuvvetlerinin kullanılmasına karar verir."
+        },
+        {
+          "baslik": "Cumhurbaşkanı Cezai Sorumluluğu",
+          "metin": "Cumhurbaşkanı hakkında bir suç işlediği iddiasıyla TBMM üye tam sayısının salt çoğunluğunun vereceği önerge ile soruşturma açılması istenebilir. Soruşturma komisyonu tarafından yapılır ve rapor 10 gün içinde dağıtılır."
+        },
+        {
+          "baslik": "Cumhurbaşkanı Yardımcıları ve Bakanlar",
+          "metin": "Cumhurbaşkanı yardımcıları ve bakanlar, Cumhurbaşkanlığı tarafından atanır ve görevden alınır. Meclis soruşturması açılabilir ve Yüce Divanda yargılanabilirler. Bakanlıklar Cumhurbaşkanlığı kararnamesi ile düzenlenir."
+        },
+        {
+          "baslik": "Cumhurbaşkanlığına Vekalet",
+          "metin": "Cumhurbaşkanlığı makamının boşalması durumunda Cumhurbaşkanı yardımcısı cumhurbaşkanına vekalet eder. 45 gün içinde Cumhurbaşkanı seçimi yapılır."
+        },
+        {
+          "baslik": "Devlet Denetleme Kurulu",
+          "metin": "Cumhurbaşkanlığına bağlı olarak kurulan Devlet Denetleme Kurulu, idarenin hukuka uygunluğunu denetler. Kurulun başkan ve üyeleri Cumhurbaşkanınca atanır."
+        },
+        {
+          "baslik": "Başkomutanlık ve Genelkurmay Başkanlığı",
+          "metin": "Cumhurbaşkanı, silahlı kuvvetlerin komutanıdır ve savaş durumunda Başkomutanlık görevini yerine getirir. Genelkurmay Başkanı, Cumhurbaşkanınca atanır."
+        },
+        {
+          "baslik": "Yürütmenin Düzenleyici İşlemleri",
+          "metin": "Cumhurbaşkanlığı kararnamesi Cumhurbaşkanı tarafından yapılan düzenleyici işlemlerdir. Olağan dönemde kişisel haklar düzenlenemezken, OHAL döneminde temel haklar düzenlenebilir."
+        },
+        {
+          "baslik": "Milli Güvenlik Kurulu",
+          "metin": "Cumhurbaşkanının başkanlığında toplanan Milli Güvenlik Kurulu, devletin milli güvenlik politikalarını belirler. Kurulun kararları tavsiye niteliğindedir."
+        },
+        {
+          "baslik": "Olağanüstü Hal Yönetimi",
+          "metin": "Cumhurbaşkanı, savaş, ayaklanma, ekonomik kriz gibi durumlarda 6 ay süresine kadar olağanüstü hal ilan edebilir. Olağanüstü hal ilanı, Türkiye Büyük Millet Meclisi’nin onayına sunulur."
+        }
+      ],
+      "Yargı": [
+        {
+          "baslik": "Mahkemelerin Bağımsızlığı",
+          "metin": "Hakimler, görevlerinde bağımsızdırlar; anayasa, kanun ve hukuka uygun olarak vicdani kanaatlerine göre hüküm verirler. Hiçbir organ, makam, merci veya kişi, mahkemelere ve hakimlere emir veremez."
+        },
+        {
+          "baslik": "Hakimlik ve Savcılık Talimatı",
+          "metin": "Hakimler ve savcılar; az olamaz, kendileri istemedikçe anayasa da gösterilen yaştan önce emekliye ayrılamaz, aylık, ödenek ve diğer özlük haklarından yoksun kılınamaz."
+        },
+        {
+          "baslik": "Hakimlik ve Savcılık Mesleği",
+          "metin": "Hakimler ve savcılar adli ve idari yargı hakim ve savcıları olarak görev yaparlar. Meslekten hakim ve savcılar tarafından yürütülür."
+        },
+        {
+          "baslik": "Duruşmaların Açık ve Kararların Gerçekçiliği",
+          "metin": "Mahkemelerde duruşmalar herkese açık yapılır. Mahkemelerin kararları gerekçeli olarak yazılır ve davaların mümkün olan en az giderle sonuçlandırılması yargının görevidir."
+        },
+        {
+          "baslik": "Mahkemelerin Kuruluşu",
+          "metin": "Mahkemelerin kuruluşu, görevleri, işleyişi ve yargılama usulleri kanunla düzenlenir. Savaş hali dışında askeri mahkemeler dışında asgari mahkemeler kurulamaz."
+        },
+        {
+          "baslik": "Adalet Hizmetlerinin Denetimi",
+          "metin": "Adalet hizmetlerinin denetimi, Adalet Bakanlığı ve iç denetçiler tarafından yapılır. Adalet müfettişleri araştırma, inceleme ve soruşturma işlemlerini gerçekleştirir."
+        },
+        {
+          "baslik": "Yargısal Kuruluşlar",
+          "metin": "1982 Anayasasında yargı bölümünde mahkeme veya yüksek mahkeme niteliğinde olmayan kuruluşlar da vardır. Bunlar Hakimler ve Savcılar Yüksek Kurulu ve Sayıştay’dır."
+        },
+        {
+          "baslik": "Yüksek Mahkemeler",
+          "metin": "Yüksek mahkemeler şunlardır: Anayasa Mahkemesi, Yargıtay, Danıştay, Uyuşmazlık Mahkemesi."
+        },
+        {
+          "baslik": "Anayasa Mahkemesi",
+          "metin": "Anayasa Mahkemesi, 15 üyeden oluşur ve kanunların, Cumhurbaşkanlığı kararnamelerinin ve Türkiye Büyük Millet Meclisi tüzüğünün Anayasa’ya uygunluğunu denetler. Ayrıca bireysel başvuruları karara bağlar ve siyasi partilerin mali denetimini yapar."
+        },
+        {
+          "baslik": "Yüce Divanda Yargılananlar",
+          "metin": "Cumhurbaşkanı, TBMM Başkanı, Cumhurbaşkanlığı yardımcıları, bakanlar, Anayasa Mahkemesi başkanı ve üyeleri, Yargıtay ve Danıştay başkan ve üyeleri, Genelkurmay Başkanı gibi yüksek kamu görevlileri Yüce Divan’da yargılanır."
+        },
+        {
+          "baslik": "Bireysel Başvuru",
+          "metin": "Herkes, Anayasada güvence altına alınmış haklarının ihlali nedeniyle Anayasa Mahkemesi'ne başvurabilir. Bireysel başvuru, kanun yolları tükenmeden yapılabilir."
+        },
+        {
+          "baslik": "Yargıtay",
+          "metin": "Yargıtay, adliye mahkemelerinin verdiği kararların son inceleme merciidir. Ayrıca kanunla belirtilen davalarla ilk ve son derece mahkemesi olarak bakar."
+        },
+        {
+          "baslik": "Danıştay",
+          "metin": "Danıştay, idari mahkemelerin verdiği kararların son inceleme merciisidir. Ayrıca belirli davalara ilk ve son derece mahkemesi olarak bakar ve kamu hizmetleri ile ilgili imtiyaz şartları ve sözleşmeler hakkında görüş bildirir."
+        },
+        {
+          "baslik": "Uyuşmazlık Mahkemesi",
+          "metin": "Uyuşmazlık Mahkemesi, adli ve idari yargı arasındaki görev ve hüküm uyuşmazlıklarını çözer. Başkanlığını Anayasa Mahkemesi seçer."
+        },
+        {
+          "baslik": "Hakimler ve Savcılar Yüksek Kurulu",
+          "metin": "13 üyeden oluşur. 7 üye TBMM tarafından, 4 üye Cumhurbaşkanı tarafından seçilir. HSK, adli ve idari yargı hakim ve savcılarını mesleğe kabul etme, atama, nakletme, yükseltme, disiplin cezası verme işlemlerini yapar."
+        },
+        {
+          "baslik": "Sayıştay",
+          "metin": "Sayıştay, merkezi yönetim bütçesi kapsamındaki kamu idarelerinin gelir, gider ve mallarını TBMM adına denetler. Sayıştay'ın üyeleri ve başkanı TBMM tarafından seçilir."
+        },
+        {
+          "baslik": "Yargı Denetiminde Tabi Olmayan Durumlar ve İdari İşlemler",
+          "metin": "Olağanüstü hal dönemi Cumhurbaşkanlığı kararnamesi, inkılap kanunları, Yüksek Seçim Kurulu kararları, tahkim kurulu kararları, kamu görevlileri hakem kurulu kararları gibi bazı idari işlemler yargı denetimine tabi değildir."
+        }
+      ],
+      "İdare Hukuku": [
+        {
+          "baslik": "İdare Hukukunun Özellikleri",
+          "metin": "Genç ve dinamik yapıda olan bir hukuk dalıdır. Tedvin edilmiştir. İçtihatlara dayanan bir hukuk dalıdır. Temel amacı kamu yararıdır. Bağımsız bir kamu hukuku dalıdır. İşlemleri tek yanlıdır. İdare hukukundan doğan uyuşmazlıklar İdari yargıda çözümlenir. Statüler hukukudur."
+        },
+        {
+          "baslik": "İdare Hukukunun Kaynakları",
+          "metin": "Anayasa, uluslararası antlaşma, kanun, Cumhurbaşkanlığı Kararnamesi, yönetmelik, genelge, içtihat, öğreti, idari teamül ve uygulamalar."
+        },
+        {
+          "baslik": "Fonksiyonel Anlamda İdare",
+          "metin": "İdare kamusal yararı amaç edinir ve siyasi nitelikte olmayan devlet faaliyetlerini kapsar. Yasamanın, yargının ve yürütmenin siyasi nitelikteki faaliyetleri idare kapsamında değildir. İdari fonksiyonun özellikleri: Bireyler ve devlet arasında eşitlik yoktur, üstün ve ayrıcalıklı yetkilerle yapılır, devamlılık arz eder, kar elde etme amacı güdülmez, resmen yürütülür."
+        },
+        {
+          "baslik": "İdarenin Faaliyetleri",
+          "metin": "Milli güvenliğin korunması, kamu hizmetlerinin yürütülmesi, kolluk faaliyetlerinin gerçekleştirilmesi, teşviki destekleme faaliyetleri, öz yönetim faaliyetleri, planlama faaliyetleri."
+        },
+        {
+          "baslik": "İdarenin Düzenleyici İşlemleri",
+          "metin": "Cumhurbaşkanlığı Kararnamesi, OHAL Cumhurbaşkanlığı Kararnamesi, Yönetmelik, Genelge."
+        },
+        {
+          "baslik": "Cumhurbaşkanlığı Kararnamesi",
+          "metin": "Cumhurbaşkanı, yürütmeyi ilgilendiren konularda Cumhurbaşkanlığı Kararnamesi çıkarabilir. Temel haklar ve siyasi haklar Cumhurbaşkanlığı Kararnamesi ile düzenlenemez. Kanunda açıkça düzenlenen konularda Cumhurbaşkanlığı Kararnamesi çıkarılamaz. Kararnameler, yargısal denetimi Anayasa Mahkemesi tarafından yapılır ve resmi gazetede yayımlandıkları gün yürürlüğe girer."
+        },
+        {
+          "baslik": "Yönetmelik",
+          "metin": "Cumhurbaşkanı, Bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir. Kanun ve Cumhurbaşkanlığı kararnamelerine aykırı olamazlar. Ülke çapında uygulanacak yönetmelikler Resmi Gazete'de yayımlanır ve yürürlüğe girer. Danıştay, ülke çapında uygulanacak yönetmelikleri denetler."
+        },
+        {
+          "baslik": "İdarenin Mal Edinme Yöntemleri",
+          "metin": "İstimval, Devletleştirme, Kamulaştırma, Kamulaştırmasız El Atma, Geçici İşgal gibi yöntemler ile mal edinilebilir."
+        },
+        {
+          "baslik": "İdari Sözleşmeler",
+          "metin": "İdari sözleşmelerde aleniyet, serbest rekabet, en uygun bedelin bulunması gibi ilkeler vardır. İdari sözleşme türleri arasında mali iltizam, kamu borçlanma sözleşmeleri, idari hizmet sözleşmeleri, kamu hizmeti imtiyaz sözleşmeleri ve yer altı/yer üstü servetlerine ilişkin sözleşmeler yer alır."
+        },
+        {
+          "baslik": "İdari İşlemlerde Yargı Yolu",
+          "metin": "İdarenin her türlü eylem ve işlemlerine karşı yargı yolu açıktır. Yargı yetkisi, idari eylem ve işlemlerin hukuka uygunluğunun denetimi ile sınırlıdır. Yargı organları telafisi güç zararların doğması, idari işlemlerin açıkça hukuka aykırı olması durumlarında yürütmenin durdurulması kararı verebilir."
+        },
+        {
+          "baslik": "Türkiye Cumhuriyeti İdari Yapılanması",
+          "metin": "Merkezi Yönetim ve Yerinden Yönetim olmak üzere iki ana başlığa ayrılır. Merkezi yönetim başkent ve taşra teşkilatından, yerinden yönetim ise yer bakımından ve hizmet bakımından idarelerden oluşur."
+        },
+        {
+          "baslik": "Merkezi Yönetim",
+          "metin": "Vatandaşlara sunulacak kamu hizmetlerinin tek bir merkezden yürütülmesi amaçlanır. Merkezi yönetim güçlü, merkeziyetçi bir devlet yönetimi sağlar. Ancak, bürokrasi ve kırtasiyeciliği artırabilir ve yerel ihtiyaçları göz ardı edebilir."
+        },
+        {
+          "baslik": "Yerinden Yönetim",
+          "metin": "Yerinden yönetim yerel yerinden yönetim ve hizmet yerinden yönetim olmak üzere iki ana bölümde anlatılır. Yerinden yönetim, yerel ihtiyaçların karşılanmasında daha etkin bir yöntemdir. Ancak, milli bütünlük zedelenebilir ve yerel baskılar oluşabilir."
+        },
+        {
+          "baslik": "Merkezden Yönetim Organları",
+          "metin": "Cumhurbaşkanı, Cumhurbaşkanlığı Yardımcıları ve Bakanlar, Başkent Teşkilatı ve Taşra Teşkilatı gibi merkezden yönetim organları, merkezi yönetimin işleyişini sağlamakla sorumludur."
+        },
+        {
+          "baslik": "Danıştay",
+          "metin": "Danıştay, idari mahkemelerin verdiği kararların son inceleme merciisidir. Ayrıca belirli davalara ilk ve son derece mahkemesi olarak bakar."
+        },
+        {
+          "baslik": "Sayıştay",
+          "metin": "Sayıştay, merkezi yönetim bütçesi kapsamındaki kamu idarelerinin gelir ve giderlerini denetler. Türkiye Büyük Millet Meclisi adına denetim yapar ve sorumluların hesaplarını kesin hükme bağlar."
+        },
+        {
+          "baslik": "Taşra Teşkilatı",
+          "metin": "İl Genel İdaresi, Valiler, İl İdare Kurulu, İl Encümeni gibi organlar, taşra teşkilatının yapı taşlarıdır. Vali, ilin yönetiminden sorumlu en yüksek yetkilidir."
+        },
+        {
+          "baslik": "İl İdare Kurulu",
+          "metin": "İl İdare Kurulu, valinin başkanlığında oluşturulan ve kamusal kararlar alan bir organ olup, kamulaştırma kararları verir, bütçeyi inceler ve cezai önlemler alır."
+        },
+        {
+          "baslik": "Belediye İdaresi",
+          "metin": "Belediye, nüfusu 5000 ve üzerinde olan yerleşim birimlerinde kurulur. Belediye Meclisi, Belediye Encümeni gibi organlarla yönetilir ve yerel hizmetlerin etkin bir şekilde yürütülmesini sağlar."
+        },
+        {
+          "baslik": "Yerel Yerinden Yönetimler",
+          "metin": "Yerel yerinden yönetimler, il özel idaresi, belediye, büyükşehir belediyesi gibi yerel yönetim organlarından oluşur. Her biri halk tarafından seçilen organlara sahiptir ve merkezi yönetim tarafından denetlenir."
+        },
+        {
+          "baslik": "İdarenin Bütünlüğü",
+          "metin": "İdarenin her türlü eylem ve işlemlerine karşı yargı yolu açıktır. Kamu hizmetleri ile ilgili uyuşmazlıklar için millî veya milletlerarası tahkim yoluna başvurulabilir."
+        },
+        {
+          "baslik": "Kamu Tüzel Kişiliği",
+          "metin": "Kamu tüzel kişiliği, kanunla kurulan, üstün ve ayrıcalıklı yetkilerle donatılmış, malları ve personelleri ayrı bir statüye sahip kuruluşlardır."
+        },
+        {
+          "baslik": "Kamu Görevlileri",
+          "metin": "Kamu kesiminde çalışan kişiler kamu görevlileridir. Memurlar, sözleşmeli personel ve geçici personel, 657 sayılı Kanun'a ve kamu hukukuna tabidir."
+        }
+      ]
+    },
+    "Güncel Bilgiler": {
+      "Nobel Ödülleri": [
+        {
+          "baslik": "2024 Nobel Ödülleri",
+          "metin": "2024 Nobel Ödülleri’ne fizik, kimya, tıp, barış, edebiyat ve ekonomi alanında 11 isim layık görüldü. 2023 Nobel Fizik Ödülü, John Hopfield ve Geoffrey Hinton'a; Kimya Ödülü,David Baker, Demis Hassabis ve John M. Jumpera; Tıp Ödülü, Gary Ruvkun ve Victor Ambrosa; Edebiyat Ödülü, Han Kang’ya; Barış Ödülü,Nihon Hidankyo’ya; Ekonomi Ödülü, Daron Acemoğlu, Simon Johnson ve James A. Robinsona verildi."
+        }
+      ],
+      "2024 Oscar Ödülleri": [
+        {
+          "baslik": "2024 Oscar Ödülleri",
+          "metin": "2024 Oscar Ödülleri'nde En İyi Film: Oppenheimer, En İyi Yönetmen: Christopher Nolan (Oppenheimer), En İyi Kadın Oyuncu: Emma Stone (Poor Things), En İyi Erkek Oyuncu: Cillian Murphy (Oppenheimer), En İyi Yardımcı Kadın Oyuncu: Da’Vine Joy Randolph (The Holdovers), En İyi Yardımcı Erkek Oyuncu: Robert Downey Jr. (Oppenheimer), En İyi Orijinal Senaryo: Anatomy of A Fall, En İyi Uyarlama Senaryo: American Fiction, En İyi Animasyon Film: The Boy and the Heron, En İyi Uluslararası Film: The Zone of Interest, En İyi Belgesel: 20 Days in Mariupol ödüllerini aldı."
+        }
+      ],
+      "2024 Altın Küre Ödülleri": [
+        {
+          "baslik": "2024 Altın Küre Ödülleri",
+          "metin": "2024 Altın Küre Ödülleri'nde Drama dalında En İyi Sinema Filmi: Oppenheimer, En İyi Yönetmen: Christopher Nolan (Oppenheimer), Drama dalında En İyi Kadın Oyuncu: Lily Gladstone (Killers of the Flower Moon), Drama dalında En İyi Erkek Oyuncu: Cillian Murphy (Oppenheimer), En İyi Uluslararası Film: Anatomy of a Fall (Fransa), Müzikal veya Komedi dalında En İyi Film: Poor Things, En İyi Mini Dizi (TV): Beef, En İyi Stand-Up: Ricky Gervais (Armageddon), En İyi Sinematik ve Box Office Başarısı: Barbie, En İyi Orijinal Şarkı: Billie Eilish ve Finneas (Barbie) - 'What Was I Made For?', En İyi Özgün Müzik: Ludwig Göransson (Oppenheimer), En İyi Animasyon Film: The Boy and the Heron ödülleri dağıtıldı."
+        }
+      ],
+      "Sinemayazarları Derneği Ödülleri (SİYAD 2024)": [
+        {
+          "baslik": "Sinemayazarları Derneği Ödülleri (SİYAD 2024)",
+          "metin": "En İyi Film: Kuru Otlar Üstüne - Nuri Bilge Ceylan\nEn İyi Yönetmen: Kuru Otlar Üstüne - Nuri Bilge Ceylan\nEn İyi Senaryo: Kuru Otlar Üstüne - Nuri Bilge Ceylan, Ebru Ceylan, Akın Aksu\nEn İyi Erkek Oyuncu: Kuru Otlar Üstüne - Deniz Celiloğlu\nEn İyi Kadın Oyuncu: Kuru Otlar Üstüne - Merve Dizdar\nEn İyi Kurgu: Kuru Otlar Üstüne - Oğuz Atabaş, Nuri Bilge Ceylan\nEn İyi Görüntü Yönetmeni: Kuru Otlar Üstüne - Cevahir Şahin, Kürşat Üresin\nYardımcı Rolde En İyi Erkek Oyuncu: Hayat - Cem Davran\nYardımcı Rolde En İyi Kadın Oyuncu: Kuru Otlar Üstüne - Ece Bağcı\nEn İyi Müzik: Karanlık Gece - Cansun Küçüktürk\nEn İyi Sanat Yönetimi: Kuru Otlar Üstüne - Meral Aktan\nEn İyi Uzun Metraj Belgesel: Kavur - Fırat Özeler\nEn İyi Kısa Belgesel: 8 Mart 2020 Bir Günce - Fırat Yücel\nEn İyi Kısa Film: Avrupa Fatihi - Onur Yağız\nAhmet Uluçay Umut Ödülü: Çilingir Sofrası - Ali Kemal Güven\nDijital Platformlarda Gösterilen En İyi Uluslarası Film: Güneş Sonrası - Charlotte Wells\nSinemalarda Gösterime Giren En İyi Uluslararası Film: Anatomy of A Fall - Justine Triet\nDijital Platformlarda Gösterilen En İyi Yerli Film Ödülü: Ayna Ayna - Belmin Söylemez\nGiovanni Scognamillo Fantastik Film Ödülü: Aç Karnına Çıkmayalım - Yiğit Hepsev"
+        }
+      ],
+      "2024 Grammy Ödülleri": [
+        {
+          "baslik": "2024 Grammy Ödülleri",
+          "metin": "Yılın Albümü: Taylor Swift – Midnights\nYılın Şarkısı: Billie Eilish – What Was I Made For?\nEn İyi Klip: The Beatles - I’m Only Sleeping\nYılın Kaydı: Miley Cyrus – Flowers\nEn İyi Yeni Sanatçı: Victoria Monét\nEn İyi Geleneksel Pop Vokal Albümü: Laufey – Bewitched\nEn İyi Solo Pop Performansı: Miley Cyrus – Flowers\nEn İyi Grup/İkili Pop Performansı: SZA ft. Phoebe Bridgers – Ghost in the Machine\nEn İyi Rap Performansı: Killer Mike ft. André 3000, Future ve Eryn Allen Kane – Scientists & Engineers\nEn İyi Rap Şarkısı: Killer Mike ft. André 3000, Future ve Eryn Allen Kane – Scientists & Engineers\nEn İyi Rap Albümü: Killer Mike – Michael\nEn İyi Rock Şarkısı: boygenius – Not Strong Enough\nEn İyi Rock Albümü: Paramore – This Is Why\nEn İyi Rock Performansı: boygenius – Not Strong Enough\nEn İyi Metal Performansı: Metallica – 72 Seasons\nEn İyi Komedi Albümü: Dave Chappelle – What’s in a Name?\nEn İyi Alternatif Müzik Albümü: boygenius – The Record\nEn İyi Country Şarkısı: Chris Stapleton – White Horse\nEn İyi Country Albümü: Lainey Wilson – Bell Bottom Country\nEn İyi Caz Vokal Albümü: Nicole Zuraitis - How Love Begins\nEn İyi Country Performansı: Chris Stapleton – White Horse"
+        }
+      ],
+      "2023 Kültür ve Turizm Bakanlığı Özel Ödülleri": [
+        {
+          "baslik": "2023 Kültür ve Turizm Bakanlığı Özel Ödülleri",
+          "metin": "Anadolu El Sanatlarını Yaşatma ve Geliştirme Derneği (Anelsander)\nİbrahim Alimoğlu Müzik Müzesi\nSadberk Hanım Müzesi"
+        }
+      ],
+      "2024 Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri": [
+        {
+          "baslik": "2023 Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri",
+          "metin": "Bilim: Günay Kut - Gönül Tekin\nTiyatro: Turan Oflazoğlu\nMüzik: Ahmet Özhan\nKütüphanecilik: Ramazan Minder\nSinema: Göksel Arsoy\nEdebiyat: Fatma Barbarosoğlu\nVefa Ödülleri: Halit Refiğ, "
+        }
+      ],
+      "Güncel Olaylar": [
+        {
+          "baslik": "Güncel Olaylar",
+          "metin": "Türkiye’nin ilk uzay yolcusu Alper Gezeravcı’nın SpaceX Falcon 9 Roketi ile ISS’ye fırlatılması.\n6 Şubat 2023 Kahramanmaraş merkezli depremler: Yüzyılın Felaketi olarak anılan büyük deprem.\nErsen Martin ve Arif Keskiner'in vefatı.\nTCG Anadolu’nun Türk Deniz Kuvvetleri’ne katılımı."
+        }
+      ]
     }
   }
 }
