@@ -9014,18 +9014,6 @@
           "dogruCevap": "Akademi ile ilişiği kesilir."
         },
         {
-          "soru_id": "TM079",
-          "soru": "7528 sayılı Öğretmenlik Meslek Kanunu’na göre aşağıdakilerden hangisi ödeme kesintisi gerektiren haller arasında değildir?",
-          "secenekler": [
-            "Akademi yetkililerince istenilen bilgileri kasti olarak eksik veya gerçeğe aykırı bildirmek.",
-            "Sınavlarda kopya çekmeye teşebbüs etmek.",
-            "Akademiye ait alanlarda alkollü içki içmek veya Akademiye sarhoş gelmek.",
-            "Hazırlık eğitimine mazeretsiz olarak toplam dört gün katılmamak.",
-            "Kastı olarak Akademi binasında mevcut bina, demirbaş eşya ve benzeri malzemeyi tahrip etmek veya bilişim sistemine zarar vermek."
-          ],
-          "dogruCevap": "Kastı olarak Akademi binasında mevcut bina, demirbaş eşya ve benzeri malzemeyi tahrip etmek veya bilişim sistemine zarar vermek."
-        },
-        {
           "soru_id": "TM080",
           "soru": "Millî Eğitim Akademisi’nde hazırlık eğitiminde bulunan öğretmen adayı Arif hakkında, hazırlık eğitimine mazeretsiz olarak toplam dört gün katılmama gerekçesi ile disiplin soruşturması başlatılmış ve savunması istenmiştir. 7528 sayılı Öğretmenlik Meslek Kanunu’na göre verilen süre kaç günden az olamaz?",
           "secenekler": [
@@ -29184,7 +29172,7 @@
             "Ege - Güneydoğu Anadolu",
             "Akdeniz - Marmara"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 4
         },
         {
@@ -29195,7 +29183,7 @@
             "Kayseri",
             "Afyonkarahisar"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 7
         },
         {
@@ -29206,7 +29194,7 @@
             "Kapıkule",
             "Gürbulak"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -29217,7 +29205,7 @@
             "Zigana",
             "Belen"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -29228,7 +29216,7 @@
             "Mersin",
             "Trabzon"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -29239,7 +29227,7 @@
             "Denizyolu",
             "Demiryolu"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -29250,7 +29238,7 @@
             "Sümela Manastırı",
             "Safranbolu Şehri"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 8
         },
         {
@@ -29261,7 +29249,7 @@
             "Erzurum",
             "Kayseri"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 4
         },
         {
@@ -29272,7 +29260,7 @@
             "O-4",
             "O-5"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -29283,7 +29271,7 @@
             "Fosil yakıtlar (Enerji)",
             "Gıda ürünleri"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 4
         },
         {
@@ -29294,7 +29282,7 @@
             "Trabzon Havalimanı",
             "Samsun Çarşamba Havalimanı"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -29305,7 +29293,7 @@
             "Gürbulak",
             "Dilucu"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 9
         },
         {
@@ -29316,7 +29304,7 @@
             "Artvin - Ardahan",
             "Giresun - Erzincan"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -29327,7 +29315,7 @@
             "Tekirdağ",
             "Bursa"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 8
         },
         {
@@ -29338,7 +29326,7 @@
             "Genç nüfus oranının fazla olması",
             "Tarım alanlarının geniş olması"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -29349,7 +29337,7 @@
             "Seydişehir Alüminyum Tesisleri",
             "Elazığ Ferro-Krom Tesisleri"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -29360,7 +29348,7 @@
             "Boksit",
             "Linyit"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 4
         },
         {
@@ -29371,7 +29359,7 @@
             "Konya-Seydişehir / Akseki",
             "Muğla-Fethiye / Elazığ-Guleman"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -29382,7 +29370,7 @@
             "Enerji kaynağına yakınlık",
             "İş gücü potansiyeli"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -29393,7 +29381,7 @@
             "Doğal Gaz",
             "Petrol"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -29404,7 +29392,7 @@
             "Jeotermal",
             "Rüzgar"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -29415,7 +29403,7 @@
             "Ortalama yükseltisinin fazla olması",
             "Dağların kıyıya paralel uzanması"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 8
         },
         {
@@ -29426,7 +29414,7 @@
             "Mangan",
             "Barit"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 6
         },
         {
@@ -29437,7 +29425,7 @@
             "Alaçatı Rüzgar Santrali",
             "Güneydoğu Anadolu Güneş Santralleri"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -29448,7 +29436,7 @@
             "Orta Anadolu Rafinerisi",
             "Aliağa"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -29459,7 +29447,7 @@
             "Artvin-Murgul",
             "Elazığ-Maden"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 6
         },
         {
@@ -29470,7 +29458,7 @@
             "Teknolojik yetersizlik",
             "Hammadde eksikliği"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 8
         },
         {
@@ -29481,7 +29469,7 @@
             "Antalya ve Muğla",
             "Konya ve Karaman"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 9
         },
         {
@@ -29492,7 +29480,7 @@
             "Fosfat",
             "Mermer"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 8
         },
         {
@@ -29503,7 +29491,7 @@
             "Hammadde yataklarına yakınlık",
             "Güvenlik faktörü"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -29514,7 +29502,7 @@
             "Gübre kullanımını azaltmak",
             "Makineli tarıma uygun zemin hazırlamak"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -29525,7 +29513,7 @@
             "Buğday",
             "Tütün"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -29536,7 +29524,7 @@
             "Turunçgiller",
             "Kivi"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -29547,7 +29535,7 @@
             "Kıyı Ege",
             "Doğu Karadeniz Kıyıları"
           ],
-          "correct_answer": 3,
+          "dogruCevap": 3,
           "difficulty": 5
         },
         {
@@ -29558,7 +29546,7 @@
             "Yulaf",
             "Çavdar"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 8
         },
         {
@@ -29569,7 +29557,7 @@
             "Haşhaş",
             "Şeker Pancarı"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -29580,7 +29568,7 @@
             "Bitkinin biyolojik yapısı",
             "Gübreleme hataları"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -29591,7 +29579,7 @@
             "Arpa",
             "Pirinç"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -29602,7 +29590,7 @@
             "Tütün",
             "Zeytin"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 5
         },
         {
@@ -29613,7 +29601,7 @@
             "Marmara",
             "Ege"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -29624,7 +29612,7 @@
             "Sıtma hastalığına yol açan sivrisineklerin üremesi",
             "Yoğun su isteği"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -29635,7 +29623,7 @@
             "Kayısı",
             "Tütün"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 4
         },
         {
@@ -29646,7 +29634,7 @@
             "Nadas alanlarının genişlemesi",
             "Makineli tarımın azalması"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         }
       ],
@@ -29659,7 +29647,7 @@
             "Yer şekilleri",
             "Pazarlama kolaylığı"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 7
         },
         {
@@ -29670,7 +29658,7 @@
             "Pamuk",
             "Soya Fasulyesi"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -29681,7 +29669,7 @@
             "Ekstansif tarım",
             "Mera hayvancılığı"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -29692,7 +29680,7 @@
             "Şeker Pancarı",
             "Fındık"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -29703,7 +29691,7 @@
             "Yumrulu bitkiler",
             "Yağ tohumları"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 7
         },
         {
@@ -29714,7 +29702,7 @@
             "Mısır",
             "Kivi"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 4
         },
         {
@@ -29725,7 +29713,7 @@
             "Çay",
             "İncir"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 7
         },
         {
@@ -29736,7 +29724,7 @@
             "Karadeniz",
             "Ege"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -29747,7 +29735,7 @@
             "Buğday",
             "Ayçiçeği"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -29758,7 +29746,7 @@
             "Sulu tarımın gelişmesi",
             "Gübre kullanımının azalması"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 8
         },
         {
@@ -29769,7 +29757,7 @@
             "Anason",
             "Haşhaş"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -29780,7 +29768,7 @@
             "Arpa",
             "Yulaf"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -29791,7 +29779,7 @@
             "Sıtma hastalığına neden olan sivrisineklerin üremesi",
             "Toprak seçiciliği"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -29802,7 +29790,7 @@
             "Kahve",
             "Tütün"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -29813,7 +29801,7 @@
             "Bir yıl çok ürün verip ertesi yıl dinlenmesi",
             "Sadece Akdeniz'de yetişmesi"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 8
         },
         {
@@ -29824,7 +29812,7 @@
             "Güneydoğu Anadolu",
             "Çukurova"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 6
         },
         {
@@ -29835,7 +29823,7 @@
             "Ege",
             "Akdeniz"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 7
         },
         {
@@ -29846,7 +29834,7 @@
             "Çalışan nüfusun yarısından fazlası tarım sektöründedir",
             "Okur-yazar oranı %95'in üzerindedir"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -29857,7 +29845,7 @@
             "Su kaynaklarının bolluğu",
             "İklimin elverişli olması"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -29868,7 +29856,7 @@
             "Dış göçlerin hızlandığını",
             "Ortalama yaşam süresinin kısaldığını"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 6
         },
         {
@@ -29879,7 +29867,7 @@
             "Bitki örtüsü ve hayvancılık",
             "Sanayi kuruluşları ve ticaret"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -29890,7 +29878,7 @@
             "Evlenme yaşının yükseltilmesi",
             "Göçlerin teşvik edilmesi"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 8
         },
         {
@@ -29901,7 +29889,7 @@
             "Yükseltinin fazla olması",
             "Kışların sert geçmesi"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 6
         },
         {
@@ -29912,7 +29900,7 @@
             "Şehirlerdeki sosyal hizmetlerin fazlalığı",
             "Modern yaşam arzusu"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -29923,7 +29911,7 @@
             "Divan",
             "Dalyan"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -29934,7 +29922,7 @@
             "Yaşlı nüfusun çocuk nüfustan fazla olduğunu",
             "Eğitim seviyesinin çok yüksek olduğunu"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 8
         },
         {
@@ -29945,7 +29933,7 @@
             "Divan",
             "Yayla"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -29956,7 +29944,7 @@
             "Ardahan",
             "Gümüşhane"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         }
       ],
@@ -29969,7 +29957,7 @@
             "Yer şekilleri",
             "Pazarlama kolaylığı"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 7
         },
         {
@@ -29980,7 +29968,7 @@
             "Pamuk",
             "Soya Fasulyesi"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -29991,7 +29979,7 @@
             "Ekstansif tarım",
             "Mera hayvancılığı"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -30002,7 +29990,7 @@
             "Şeker Pancarı",
             "Fındık"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -30013,7 +30001,7 @@
             "Yumrulu bitkiler",
             "Yağ tohumları"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 7
         },
         {
@@ -30024,7 +30012,7 @@
             "Mısır",
             "Kivi"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 4
         },
         {
@@ -30035,7 +30023,7 @@
             "Çay",
             "İncir"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 7
         },
         {
@@ -30046,7 +30034,7 @@
             "Karadeniz",
             "Ege"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -30057,7 +30045,7 @@
             "Buğday",
             "Ayçiçeği"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -30068,7 +30056,7 @@
             "Sulu tarımın gelişmesi",
             "Gübre kullanımının azalması"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 8
         },
         {
@@ -30079,7 +30067,7 @@
             "Anason",
             "Haşhaş"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -30090,7 +30078,7 @@
             "Arpa",
             "Yulaf"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -30101,7 +30089,7 @@
             "Sıtma hastalığına neden olan sivrisineklerin üremesi",
             "Toprak seçiciliği"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -30112,7 +30100,7 @@
             "Kahve",
             "Tütün"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -30123,7 +30111,7 @@
             "Bir yıl çok ürün verip ertesi yıl dinlenmesi",
             "Sadece Akdeniz'de yetişmesi"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 8
         },
         {
@@ -30134,7 +30122,7 @@
             "Güneydoğu Anadolu",
             "Çukurova"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 6
         },
         {
@@ -30145,7 +30133,7 @@
             "Ege",
             "Akdeniz"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 7
         },
         {
@@ -30156,7 +30144,7 @@
             "Çalışan nüfusun yarısından fazlası tarım sektöründedir",
             "Okur-yazar oranı %95'in üzerindedir"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -30167,7 +30155,7 @@
             "Su kaynaklarının bolluğu",
             "İklimin elverişli olması"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -30178,7 +30166,7 @@
             "Dış göçlerin hızlandığını",
             "Ortalama yaşam süresinin kısaldığını"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 6
         },
         {
@@ -30189,7 +30177,7 @@
             "Bitki örtüsü ve hayvancılık",
             "Sanayi kuruluşları ve ticaret"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -30200,7 +30188,7 @@
             "Evlenme yaşının yükseltilmesi",
             "Göçlerin teşvik edilmesi"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 8
         },
         {
@@ -30211,7 +30199,7 @@
             "Yükseltinin fazla olması",
             "Kışların sert geçmesi"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 6
         },
         {
@@ -30222,7 +30210,7 @@
             "Şehirlerdeki sosyal hizmetlerin fazlalığı",
             "Modern yaşam arzusu"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -30233,7 +30221,7 @@
             "Divan",
             "Dalyan"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -30244,7 +30232,7 @@
             "Yaşlı nüfusun çocuk nüfustan fazla olduğunu",
             "Eğitim seviyesinin çok yüksek olduğunu"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 8
         },
         {
@@ -30255,7 +30243,7 @@
             "Divan",
             "Yayla"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -30266,7 +30254,7 @@
             "Ardahan",
             "Gümüşhane"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         }
       ],
@@ -30279,7 +30267,7 @@
             "İç Anadolu",
             "Akdeniz"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 4
         },
         {
@@ -30290,7 +30278,7 @@
             "Tarıma dayalı sanayi ve iş imkanları",
             "Yer şekillerinin sadeliği"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -30301,7 +30289,7 @@
             "Ahşap",
             "Tuğla"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 4
         },
         {
@@ -30312,7 +30300,7 @@
             "II. Dünya Savaşı nedeniyle seferberlik ilan edilmesi",
             "Dış göçlerin başlaması"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -30323,7 +30311,7 @@
             "Bitki örtüsünün bozkır olması",
             "Eğimli arazi yapısı"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -30334,7 +30322,7 @@
             "Çernezyom",
             "Podzol"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 5
         },
         {
@@ -30345,7 +30333,7 @@
             "Regosol",
             "Litosol"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -30356,7 +30344,7 @@
             "Atık suların arıtılarak sanayide kullanılması",
             "Orman alanlarının yerleşmeye açılması"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 4
         },
         {
@@ -30367,7 +30355,7 @@
             "Yer altı suyu seviyesini düşürmek",
             "Kar yağışını artırmak"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 5
         },
         {
@@ -30378,7 +30366,7 @@
             "Ozon delinmesi",
             "Ötrofikasyon"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -30389,7 +30377,7 @@
             "Çölleşme",
             "Radyoaktif kirlilik"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 8
         },
         {
@@ -30400,7 +30388,7 @@
             "Tuz Gölü Çevresi",
             "Menteşe Yöresi"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -30411,7 +30399,7 @@
             "Okyanus akıntılarının yön değiştirmesi",
             "Bitki çeşitliliğinin tüm dünyada hızla artması"
           ],
-          "correct_answer": 3,
+          "dogruCevap": 3,
           "difficulty": 5
         },
         {
@@ -30422,7 +30410,7 @@
             "Moren",
             "Kahverengi Orman Toprağı"
           ],
-          "correct_answer": 3,
+          "dogruCevap": 3,
           "difficulty": 7
         },
         {
@@ -30433,7 +30421,7 @@
             "Yükseltinin fazla olması",
             "Tarım alanlarının dar olması"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 6
         },
         {
@@ -30444,7 +30432,7 @@
             "Radyoaktif kirlilik",
             "Biyolojik kirlilik"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 8
         },
         {
@@ -30455,7 +30443,7 @@
             "Defne",
             "Ladin"
           ],
-          "correct_answer": 3,
+          "dogruCevap": 3,
           "difficulty": 6
         },
         {
@@ -30466,7 +30454,7 @@
             "Montrö Sözleşmesi",
             "Cenevre Protokolü"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 7
         },
         {
@@ -30477,7 +30465,7 @@
             "Litosol",
             "Moren"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 9
         },
         {
@@ -30488,7 +30476,7 @@
             "Diyarbakır",
             "Mardin"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -30499,7 +30487,7 @@
             "Yeşil Kuşak Projesi",
             "Suruç Tüneli"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -30510,7 +30498,7 @@
             "Rize",
             "Artvin"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 8
         },
         {
@@ -30521,7 +30509,7 @@
             "Tarımda sulama imkanlarını artırmak",
             "Turizm çeşitliliğini sağlamak"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -30532,7 +30520,7 @@
             "Hayvancılık",
             "Madencilik"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -30543,7 +30531,7 @@
             "İpek Yolu",
             "Karadeniz Sahil Yolu"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -30554,7 +30542,7 @@
             "Amasya",
             "Gümüşhane"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 9
         }
       ],
@@ -30567,7 +30555,7 @@
             "İstanbul",
             "Ege"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -30578,7 +30566,7 @@
             "Çorum",
             "Sinop"
           ],
-          "correct_answer": 3,
+          "dogruCevap": 3,
           "difficulty": 7
         },
         {
@@ -30589,7 +30577,7 @@
             "Ayçiçeği",
             "Şeker Pancarı"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -30600,7 +30588,7 @@
             "Limanın çok fazla yağış alması",
             "Limanın sadece turizm amaçlı kullanılması"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -30611,7 +30599,7 @@
             "Van Gölü",
             "Eğirdir Gölü"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 7
         },
         {
@@ -30622,7 +30610,7 @@
             "3",
             "4"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 8
         },
         {
@@ -30633,7 +30621,7 @@
             "Nevşehir",
             "Eskişehir"
           ],
-          "correct_answer": 3,
+          "dogruCevap": 3,
           "difficulty": 7
         },
         {
@@ -30644,7 +30632,7 @@
             "Gürcistan",
             "Ermenistan"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -30655,7 +30643,7 @@
             "777",
             "888"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -30666,7 +30654,7 @@
             "Dağların güney yamaçlarının bakı etkisinde kalması",
             "Aynı anda farklı iklim özelliklerinin görülmesi"
           ],
-          "correct_answer": 3,
+          "dogruCevap": 3,
           "difficulty": 7
         },
         {
@@ -30677,7 +30665,7 @@
             "Sinop",
             "Iğdır"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -30688,7 +30676,7 @@
             "76",
             "95"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -30699,7 +30687,7 @@
             "26° Doğu (Çanakkale",
             "36° Doğu (Sivas)"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 6
         },
         {
@@ -30710,7 +30698,7 @@
             "Güneş ışınlarının düşme açısının güneyden kuzeye daralması",
             "Kısa mesafede bitki örtüsünün değişmesi"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -30721,7 +30709,7 @@
             "Ankara",
             "Iğdır"
           ],
-          "correct_answer": 3,
+          "dogruCevap": 3,
           "difficulty": 7
         },
         {
@@ -30732,7 +30720,7 @@
             "Yükselti",
             "Karasallık"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 8
         },
         {
@@ -30743,7 +30731,7 @@
             "Hatay",
             "Hakkari"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -30754,7 +30742,7 @@
             "Yerel saatleri",
             "Güneş ışınlarını alış açısı"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -30765,7 +30753,7 @@
             "19 dakika",
             "2 saat"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 8
         },
         {
@@ -30776,7 +30764,7 @@
             "Göreceli Konum",
             "Enlem Konumu"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 4
         },
         {
@@ -30787,7 +30775,7 @@
             "Enlem",
             "Boylam"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 8
         },
         {
@@ -30798,7 +30786,7 @@
             "Doğusu ile batısı arasında zaman farkı bulunması",
             "Dört mevsimin yaşanması"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 9
         },
         {
@@ -30809,7 +30797,7 @@
             "Asya ile Avrupa arasında olması",
             "Yükseltisinin fazla olması"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -30820,7 +30808,7 @@
             "Uyuşturucu ham maddesi olarak kullanımı",
             "Pazar sorunu"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 5
         },
         {
@@ -30831,7 +30819,7 @@
             "İncir",
             "Kayısı"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 4
         },
         {
@@ -30842,7 +30830,7 @@
             "Sulama ve gübreleme imkanlarının gelişmiş olması",
             "Üretimde iklime olan bağımlılığın azalması"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -30853,7 +30841,7 @@
             "Yer şekillerinin sade olması",
             "Ulaşım kolaylığı"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -30864,7 +30852,7 @@
             "Antrasit",
             "Petrol"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -30875,7 +30863,7 @@
             "Bor",
             "Boksit"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 4
         },
         {
@@ -30886,7 +30874,7 @@
             "Demir",
             "Mangan"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -30897,7 +30885,7 @@
             "Beyşehir Gölü",
             "Eğirdir Gölü"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 8
         },
         {
@@ -30908,7 +30896,7 @@
             "Jeotermal",
             "Güneş Enerjisi"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -30919,7 +30907,7 @@
             "Doğal Gaz",
             "Petrol"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 6
         },
         {
@@ -30930,7 +30918,7 @@
             "Yer şekillerinin uygunluğu",
             "Yem bitkisi üretiminin fazlalığı"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -30941,7 +30929,7 @@
             "Antalya-Akseki",
             "Zonguldak-Ereğli"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 8
         },
         {
@@ -30952,7 +30940,7 @@
             "Arpa",
             "Mercimek"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 8
         },
         {
@@ -30963,7 +30951,7 @@
             "Kırklareli",
             "Tekirdağ"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -30974,7 +30962,7 @@
             "Antalya",
             "Edirne"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -30985,7 +30973,7 @@
             "Denizellik etkisi",
             "Yükseltinin az olması"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -30996,7 +30984,7 @@
             "Psödömaki (Yalancı Maki)",
             "Antropojen Bozkır"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -31007,7 +30995,7 @@
             "Karasallık",
             "Yükselti"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -31018,7 +31006,7 @@
             "Çernezyom",
             "Terra-Rossa"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -31029,7 +31017,7 @@
             "Karasallık",
             "Enlem"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 5
         }
       ],
@@ -31042,7 +31030,7 @@
             "Alpin Çayır",
             "Savan"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -31053,7 +31041,7 @@
             "Vertisol",
             "Rendzina"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 8
         },
         {
@@ -31064,7 +31052,7 @@
             "Ergene Havzası",
             "Iğdır Ovası"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -31075,7 +31063,7 @@
             "Kestane Renkli Bozkır",
             "Regosol"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -31086,7 +31074,7 @@
             "Vertisol",
             "Kalsimorfik"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 8
         },
         {
@@ -31097,7 +31085,7 @@
             "Alpin Çayırlar",
             "Tayga"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -31108,7 +31096,7 @@
             "Step İklimi",
             "Sert Karasal İklim"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -31119,7 +31107,7 @@
             "Bitki örtüsünün cılızlığı",
             "Denize uzaklık"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 7
         },
         {
@@ -31130,7 +31118,7 @@
             "Alüvyal Toprak",
             "Litosol"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -31141,7 +31129,7 @@
             "Güneydoğu",
             "Kuzeydoğu"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -31152,7 +31140,7 @@
             "Denizellik etkisi",
             "Yükseltinin az olması"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -31163,7 +31151,7 @@
             "Psödömaki (Yalancı Maki)",
             "Antropojen Bozkır"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 7
         },
         {
@@ -31174,7 +31162,7 @@
             "Karasallık",
             "Yükselti"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 6
         },
         {
@@ -31185,7 +31173,7 @@
             "Çernezyom",
             "Terra-Rossa"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -31196,7 +31184,7 @@
             "Karasallık",
             "Enlem"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 5
         },
         {
@@ -31207,7 +31195,7 @@
             "Alpin Çayır",
             "Savan"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -31218,7 +31206,7 @@
             "Vertisol",
             "Rendzina"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 8
         },
         {
@@ -31229,7 +31217,7 @@
             "Ergene Havzası",
             "Iğdır Ovası"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 7
         },
         {
@@ -31240,7 +31228,7 @@
             "Kestane Renkli Bozkır",
             "Regosol"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -31251,7 +31239,7 @@
             "Vertisol",
             "Kalsimorfik"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 8
         },
         {
@@ -31262,7 +31250,7 @@
             "Alpin Çayırlar",
             "Tayga"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -31273,7 +31261,7 @@
             "Step İklimi",
             "Sert Karasal İklim"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         },
         {
@@ -31284,7 +31272,7 @@
             "Bitki örtüsünün cılızlığı",
             "Denize uzaklık"
           ],
-          "correct_answer": 0,
+          "dogruCevap": 0,
           "difficulty": 7
         },
         {
@@ -31295,7 +31283,7 @@
             "Alüvyal Toprak",
             "Litosol"
           ],
-          "correct_answer": 2,
+          "dogruCevap": 2,
           "difficulty": 6
         },
         {
@@ -31306,7 +31294,7 @@
             "Güneydoğu",
             "Kuzeydoğu"
           ],
-          "correct_answer": 1,
+          "dogruCevap": 1,
           "difficulty": 5
         }
       ],
