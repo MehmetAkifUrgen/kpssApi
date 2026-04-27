@@ -123,18 +123,6 @@
           "dogruCevap": "Rıza ikinci olmuştur"
         },
         {
-          "soru_id": "Q013",
-          "soru": "Yukarıdaki bilgilere göre, kırmızı takım üyeleri aşağıdakilerden hangisidir?",
-          "secenekler": [
-            "Yalnız I",
-            "Yalnız II",
-            "I ve II",
-            "I ve III",
-            "II ve III"
-          ],
-          "dogruCevap": "I ve III"
-        },
-        {
           "soru_id": "Q014",
           "soru": "Yarışı bitirme sıralarına göre aşağıdakilerden hangisi doğrudur?",
           "secenekler": [
@@ -877,17 +865,6 @@
             "Türk İslam coğrafyasında demokratik kurumların kurulması"
           ],
           "dogruCevap": "Türk-İslam mimarisinin temellerinin atılması"
-        },
-        {
-          "soru": "Osmanlı Devleti'nin kuruluş döneminde Anadolu'da siyasi birliği sağlayabilmesinde aşağıdakilerden hangisinin etkisi olmuştur?",
-          "secenekler": [
-            "Haçlı Seferleri'nin sona ermesi",
-            "Anadolu Selçuklu Devleti'nin zayıflaması",
-            "Bizans İmparatorluğu'nun güçlenmesi",
-            "Mongol istilasının Avrupa'ya yayılması",
-            "Karesioğulları Beyliği'nin geniş topraklara sahip olması"
-          ],
-          "dogruCevap": "Anadolu Selçuklu Devleti'nin zayıflaması"
         },
         {
           "soru": "Osmanlı Devleti'nde 'Timar Sistemi' ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
@@ -38213,177 +38190,187 @@
     "Vatandaşlık": {
       "Hukukun Temel Kavramları": [
         {
-          "soru": "Aşağıdakilerden hangisi, hukukun temel ilkelerinden biri değildir?",
+          "soru": "Ayırt etme gücüne sahip 17 yaşındaki bir kişinin, yasal temsilcisinin rızası olmaksızın kendi adına bir taşınmaz satış sözleşmesi yapması durumunda bu işlemin hukuki akıbeti nedir?",
           "secenekler": [
-            "Eşitlik ilkesi",
-            "Hakkaniyet ilkesi",
-            "Özgürlük ilkesi",
-            "Tek taraflılık ilkesi"
+            "Yokluk",
+            "Mutlak Butlan",
+            "Nisbi Butlan",
+            "Tek taraflı bağlamazlık"
           ],
-          "dogruCevap": "Tek taraflılık ilkesi"
+          "dogruCevap": "Tek taraflı bağlamazlık"
         },
         {
-          "soru": "Aşağıdakilerden hangisi kamu hukukuna örnek değildir?",
+          "soru": "Hâkimin, önüne gelen bir uyuşmazlıkta uygulanacak yazılı bir hüküm bulamaması ve aynı zamanda somut olaya uygulanacak bir örf ve adet hukuku kuralının da mevcut olmaması durumu ne ad verilir?",
           "secenekler": [
-            "Anayasa Hukuku",
-            "Ceza Hukuku",
-            "Vergi Hukuku",
-            "Ticaret Hukuku"
+            "Kanun boşluğu",
+            "Hukuk boşluğu",
+            "Örtülü boşluk",
+            "Kural içi boşluk"
           ],
-          "dogruCevap": "Ticaret Hukuku"
+          "dogruCevap": "Hukuk boşluğu"
         },
         {
-          "soru": "Bir kişinin yerine getirmesi gereken yükümlülüklerden herhangi birini ihlal etmesi durumunda uygulanan yaptırım türü aşağıdakilerden hangisidir?",
+          "soru": "Milletlerarası andlaşmaların normlar hiyerarşisindeki yeri ile ilgili olarak, temel hak ve özgürlüklere ilişkin andlaşmalar ile kanunların çatışması durumunda hangisi esas alınır?",
           "secenekler": [
-            "Cezai Yaptırım",
-            "Mali Yaptırım",
-            "İdari Yaptırım",
-            "Tazminat"
+            "Anayasa Mahkemesi kararı",
+            "Sonraki tarihli norm",
+            "Milletlerarası andlaşma hükümleri",
+            "Kanun hükümleri"
           ],
-          "dogruCevap": "Cezai Yaptırım"
+          "dogruCevap": "Milletlerarası andlaşma hükümleri"
         },
         {
-          "soru": "Aşağıdaki kavramlardan hangisi, hukukun üstünlüğü ilkesine aykırıdır?",
+          "soru": "Aşağıdaki kişilerden hangisi Türk hukukuna göre 'Sınırlı Ehliyetsiz' grubunda yer alır?",
           "secenekler": [
-            "Hukuk önünde eşitlik",
-            "Yasaların herkes için geçerli olması",
-            "Birey haklarının güvence altına alınması",
-            "Yasaların keyfi bir şekilde uygulanması"
+            "Ayırt etme gücü olmayan erginler",
+            "Ayırt etme gücüne sahip küçükler",
+            "Tam akıl sağlığı yerinde olan 20 yaşındaki bireyler",
+            "Kendisine yasal danışman atanmış erginler"
           ],
-          "dogruCevap": "Yasaların keyfi bir şekilde uygulanması"
+          "dogruCevap": "Ayırt etme gücüne sahip küçükler"
         },
         {
-          "soru": "Hukuk kurallarının toplumun her bireyi tarafından kabul edilmesi, hangi kavramla açıklanabilir?",
+          "soru": "Bir hakkın kazanılmasında kişinin durumu bilmemesi veya bilmesinin kendisinden beklenememesi durumunu ifade eden kavram hangisidir?",
           "secenekler": [
-            "Sosyal Sözleşme",
-            "Hukukun Kaynakları",
-            "Adalet",
-            "Toplumsal Sözleşme"
+            "Dürüstlük kuralı",
+            "Objektif iyiniyet",
+            "Sübjektif iyiniyet",
+            "Hakkaniyet"
           ],
-          "dogruCevap": "Sosyal Sözleşme"
+          "dogruCevap": "Sübjektif iyiniyet"
         },
         {
-          "soru": "Aşağıdakilerden hangisi, bir hukuki ilişkinin doğmasında gerekli olmayan unsurlardan biridir?",
+          "soru": "Aşağıdakilerden hangisi, hukuki işlemin kurucu unsurlarından birinin eksikliği nedeniyle işlemin hiç oluşmamış sayılması durumudur?",
           "secenekler": [
-            "Taraflar arasında rıza",
-            "Hukuki bir amaç",
-            "Yazılı bir sözleşme",
-            "Hukuki uygunluk"
+            "Yokluk",
+            "İptal edilebilirlik",
+            "Nisbi butlan",
+            "Mutlak butlan"
           ],
-          "dogruCevap": "Yazılı bir sözleşme"
+          "dogruCevap": "Yokluk"
         },
         {
-          "soru": "Hukuk kurallarının yerine getirilmesini sağlamak için devletin güç kullanma yetkisini hangi kavram ifade eder?",
+          "soru": "Türk Medeni Kanunu'na göre, 15 yaşını dolduran bir küçüğün kendi isteği ve velisinin rızasıyla mahkemece ergin kılınmasına ne ad verilir?",
           "secenekler": [
-            "Devlet Gücü",
-            "Hukuk Devleti",
-            "İktidar",
-            "Zorlama Yetkisi"
+            "Olağan erginlik",
+            "Olağanüstü erginlik",
+            "Yargısal erginlik (Kazai rüşt)",
+            "Evlenme yoluyla erginlik"
           ],
-          "dogruCevap": "Zorlama Yetkisi"
+          "dogruCevap": "Yargısal erginlik (Kazai rüşt)"
         },
         {
-          "soru": "Aşağıdaki haklardan hangisi, devlete karşı değil, bireyler arası ilişkilerde kullanılır?",
+          "soru": "Sadece borç ilişkisinin tarafları arasında ileri sürülebilen, herkese karşı ileri sürülemeyen haklara ne ad verilir?",
           "secenekler": [
-            "Kişisel Haklar",
-            "Kamu Hakları",
-            "Sosyal Haklar",
-            "Siyasi Haklar"
+            "Mutlak haklar",
+            "Nisbi haklar",
+            "Ayni haklar",
+            "Kişilik hakları"
           ],
-          "dogruCevap": "Kişisel Haklar"
+          "dogruCevap": "Nisbi haklar"
         },
         {
-          "soru": "Aşağıdakilerden hangisi, özel hukuk alanına örnek gösterilemez?",
+          "soru": "Bir hukuki işlemin kurucu unsurları tam olmasına rağmen, emredici hukuk kurallarına aykırı olması sebebiyle baştan itibaren geçersiz sayılmasına ne ad verilir?",
           "secenekler": [
-            "Borçlar Hukuku",
-            "Aile Hukuku",
-            "İş Hukuku",
-            "İdare Hukuku"
+            "Yokluk",
+            "Mutlak Butlan",
+            "Nisbi Butlan",
+            "Askıda Geçersizlik"
           ],
-          "dogruCevap": "İdare Hukuku"
+          "dogruCevap": "Mutlak Butlan"
         },
         {
-          "soru": "İnanç özgürlüğü, kişisel haklardan hangisi ile ilişkilidir?",
+          "soru": "Aşağıdakilerden hangisi, hakların kullanılmasında ve borçların ifasında geçerli olan temel hukuk ilkesidir?",
           "secenekler": [
-            "Siyasi Haklar",
-            "Sosyal Haklar",
-            "Kişisel Haklar",
-            "Eşitlik Hakları"
+            "İyiniyet",
+            "Dürüstlük Kuralı",
+            "Hakkaniyet",
+            "Kusursuz Sorumluluk"
           ],
-          "dogruCevap": "Kişisel Haklar"
+          "dogruCevap": "Dürüstlük Kuralı"
         },
         {
-          "soru": "Bir kişinin sahip olduğu, yalnızca kendisine ait olan hakları ifade eden kavram aşağıdakilerden hangisidir?",
+          "soru": "Kanunda somut olaya uygulanacak hiçbir hükmün bulunmaması ve aynı zamanda örf ve adet hukukunda da bir kuralın yer almaması durumuna ne ad verilir?",
           "secenekler": [
-            "Devlet Hakları",
-            "Kamu Hakları",
-            "Kişisel Haklar",
-            "Özel Haklar"
+            "Hüküm içi boşluk",
+            "Kanun boşluğu",
+            "Hukuk boşluğu",
+            "Örtülü boşluk"
           ],
-          "dogruCevap": "Özel Haklar"
+          "dogruCevap": "Hukuk boşluğu"
         },
         {
-          "soru": "Hukukun bir toplumda varlığını devam ettirmesi için hangi şartların yerine getirilmesi gerekir?",
+          "soru": "Türk hukuk sisteminde, bir kimsenin tam ve sağ doğmak şartıyla ana rahmine düştüğü andan itibaren kazandığı ehliyet türü hangisidir?",
           "secenekler": [
-            "Herkesin eşit haklara sahip olması",
-            "Adaletin sürekli sağlanması",
-            "Hukukun kaynağı olarak devletin varlığı",
-            "Toplumda bir takım zorlama araçlarının bulunması"
+            "Fiil Ehliyeti",
+            "Hak Ehliyeti",
+            "İşlem Ehliyeti",
+            "Yargılama Ehliyeti"
           ],
-          "dogruCevap": "Herkesin eşit haklara sahip olması"
+          "dogruCevap": "Hak Ehliyeti"
         },
         {
-          "soru": "Türk hukukunda ‘sözleşme serbestisi’ ilkesi neyi ifade eder?",
+          "soru": "Aşağıdakilerden hangisi, sadece belirli bir kişiye karşı ileri sürülebilen haklar grubunda yer alır?",
           "secenekler": [
-            "Bireylerin istedikleri sözleşmeleri yapabilme özgürlüğü",
-            "Sözleşme şartlarının devlet tarafından belirlenmesi",
-            "Her sözleşmenin yazılı olması gerekliliği",
-            "Sözleşmelerin ancak noter huzurunda yapılabilmesi"
+            "Mülkiyet hakkı",
+            "Alacak hakkı",
+            "Telif hakkı",
+            "Kişilik hakkı"
           ],
-          "dogruCevap": "Bireylerin istedikleri sözleşmeleri yapabilme özgürlüğü"
+          "dogruCevap": "Alacak hakkı"
         },
         {
-          "soru": "Bir hukuk düzeninin, içindeki tüm hukuki ilişkilerde eşitlik ilkesini uygulaması gerektiği kavramı nedir?",
+          "soru": "Ayırt etme gücüne sahip olmayan bir yetişkinin yaptığı hukuki işlemin yaptırımı aşağıdakilerden hangisidir?",
           "secenekler": [
-            "Hukuki Denetim",
-            "Eşitlik İlkesi",
-            "Hukukun Gücü",
-            "Hukuk Devleti"
+            "İptal edilebilirlik",
+            "Kesin hükümsüzlük (Butlan)",
+            "Yokluk",
+            "Tek taraflı bağlamazlık"
           ],
-          "dogruCevap": "Eşitlik İlkesi"
+          "dogruCevap": "Kesin hükümsüzlük (Butlan)"
         },
         {
-          "soru": "Aşağıdakilerden hangisi, hukukun amacı değildir?",
+          "soru": "Normlar hiyerarşisine göre, temel hak ve hürriyetlere ilişkin milletlerarası andlaşmalar ile kanunların çatışması halinde hangisi esas alınır?",
           "secenekler": [
-            "Toplumda barış ve düzeni sağlamak",
-            "Birey haklarını korumak",
-            "Hukukun üstünlüğünü tesis etmek",
-            "Toplumda zenginliği artırmak"
+            "Kanun hükümleri",
+            "Anayasa Mahkemesi kararı",
+            "Milletlerarası andlaşma hükümleri",
+            "En son yürürlüğe giren metin"
           ],
-          "dogruCevap": "Toplumda zenginliği artırmak"
+          "dogruCevap": "Milletlerarası andlaşma hükümleri"
         },
         {
-          "soru": "Hukuk kuralları arasında en üstün olan kural aşağıdakilerden hangisidir?",
+          "soru": "15 yaşını doldurmuş bir küçüğün, kendi isteği ve velisinin rızasıyla mahkeme kararıyla ergin kılınması durumuna ne ad verilir?",
           "secenekler": [
-            "Anayasadır",
-            "Yönetmeliklerdir",
-            "Kanunlardır",
-            "İçtihatlardır"
+            "Olağan erginlik",
+            "Kazai rüşt (Yargısal erginlik)",
+            "Zümre erginliği",
+            "Evlenme ile erginlik"
           ],
-          "dogruCevap": "Anayasadır"
+          "dogruCevap": "Kazai rüşt (Yargısal erginlik)"
         },
         {
-          "soru": "Bir suçtan dolayı uygulanan ceza, suçun niteliği ve faili göz önünde bulundurularak belirleniyorsa, bu hangi ceza prensibine dayalıdır?",
+          "soru": "Hukuk kurallarını diğer sosyal düzen kurallarından ayıran temel fark aşağıdakilerden hangisidir?",
           "secenekler": [
-            "Orantılılık Prensibi",
-            "Hakkaniyet Prensibi",
-            "Genel Hukuk Prensibi",
-            "Ceza İnfaz Prensibi"
+            "Genel olması",
+            "Sürekli olması",
+            "Maddi yaptırıma dayanması",
+            "Yazılı olması"
           ],
-          "dogruCevap": "Orantılılık Prensibi"
+          "dogruCevap": "Maddi yaptırıma dayanması"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi, borçlunun borcunu ifa etmemesi durumunda alacaklının devlet gücü aracılığıyla borcun yerine getirilmesini isteme yetkisini ifade eder?",
+          "secenekler": [
+            "Cebri İcra",
+            "Tazminat",
+            "Hükümsüzlük",
+            "Müsadere"
+          ],
+          "dogruCevap": "Cebri İcra"
         }
       ],
-      "Devlet Biçimleri Ve Hükümet Sistemleri": [
+      "Devlet Biçimleri ve Hükümet Sistemleri": [
         {
           "soru": "Aşağıdakilerden hangisi, devletin egemenlik hakkını en belirgin şekilde sınırlayan bir devlet biçimidir?",
           "secenekler": [
@@ -38565,6 +38552,200 @@
           "dogruCevap": "Halk iradesine dayalı yönetim"
         }
       ],
+      "Devlet Biçimleri ve Hükümet Sistemleri 2": [
+        {
+          "soru": "Egemenliğin tek bir merkezde toplandığı, yasama, yürütme ve yargı yetkilerinin bu merkezden yürütüldüğü, yerinden yönetim kuruluşlarının ise merkezin vesayeti altında olduğu devlet yapısı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Federal Devlet",
+            "Konfederal Devlet",
+            "Üniter Devlet",
+            "Bölgeli Devlet"
+          ],
+          "dogruCevap": "Üniter Devlet"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi, Federal Devlet yapısının Üniter Devlet yapısından ayrılan en temel farklarından biridir?",
+          "secenekler": [
+            "Kendi içinde idari birimlere ayrılması",
+            "Bağımsız bir yargı sisteminin bulunması",
+            "Üye devletlerin kendilerine ait anayasalarının bulunması",
+            "Tek bir vatandaşlık tanımının olması"
+          ],
+          "dogruCevap": "Üye devletlerin kendilerine ait anayasalarının bulunması"
+        },
+        {
+          "soru": "Yürütme organının, yasama organının içinden çıktığı ve ona karşı sorumlu olduğu, devlet başkanının ise sembolik yetkilere sahip olduğu hükümet sistemi hangisidir?",
+          "secenekler": [
+            "Başkanlık Sistemi",
+            "Parlamenter Sistem",
+            "Meclis Hükümeti Sistemi",
+            "Yarı-Başkanlık Sistemi"
+          ],
+          "dogruCevap": "Parlamenter Sistem"
+        },
+        {
+          "soru": "Başkanlık sistemi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+          "secenekler": [
+            "Yürütme organı tek başlıdır.",
+            "Yasama ve yürütme organları birbirinin hukuki varlığına son veremez.",
+            "Yürütme organı yasama organına karşı siyasi olarak sorumludur.",
+            "Sert kuvvetler ayrılığı ilkesi uygulanır."
+          ],
+          "dogruCevap": "Yürütme organı yasama organına karşı siyasi olarak sorumludur."
+        },
+        {
+          "soru": "Yasama ve yürütme yetkilerinin mecliste toplandığı, ayrı bir devlet başkanlığı makamının bulunmadığı ve meclis başkanının aynı zamanda hükümetin de başkanı olduğu sistem aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Mutlak Monarşi",
+            "Meclis Hükümeti Sistemi",
+            "Yarı-Başkanlık Sistemi",
+            "Parlamenter Sistem"
+          ],
+          "dogruCevap": "Meclis Hükümeti Sistemi"
+        },
+        {
+          "soru": "Devletin şekli olarak 'Cumhuriyet' kavramı, egemenliğin kaynağı bakımından aşağıdakilerden hangisine dayanır?",
+          "secenekler": [
+            "Tek bir kişiye",
+            "Belirli bir zümreye",
+            "Halka ve millete",
+            "Tanrısal bir iradeye"
+          ],
+          "dogruCevap": "Halka ve millete"
+        },
+        {
+          "soru": "Halkın, temsilcileri aracılığıyla değil, bizzat kendisinin doğrudan doğruya kararlara katıldığı demokrasi modeli aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Temsili Demokrasi",
+            "Doğrudan Demokrasi",
+            "Yarı Doğrudan Demokrasi",
+            "Sosyal Demokrasi"
+          ],
+          "dogruCevap": "Doğrudan Demokrasi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi 'Yarı Doğrudan Demokrasi' araçlarından biri değildir?",
+          "secenekler": [
+            "Referandum",
+            "Halk Vetosu",
+            "Halk Teşebbüsü",
+            "Gensoru"
+          ],
+          "dogruCevap": "Gensoru"
+        },
+        {
+          "soru": "Hem halk tarafından seçilen güçlü bir devlet başkanının hem de meclis içinden çıkan ve meclise karşı sorumlu bir hükümetin (başbakanın) bir arada bulunduğu sistem hangisidir?",
+          "secenekler": [
+            "Başkanlık Sistemi",
+            "Yarı-Başkanlık Sistemi",
+            "Parlamenter Sistem",
+            "Meclis Hükümeti Sistemi"
+          ],
+          "dogruCevap": "Yarı-Başkanlık Sistemi"
+        },
+        {
+          "soru": "Birden fazla devletin, uluslararası şahsiyetlerini koruyarak ortak bir savunma veya çıkar amacıyla bir sözleşme ile oluşturdukları yapıya ne ad verilir?",
+          "secenekler": [
+            "Federal Devlet",
+            "Konfederal Devlet",
+            "Üniter Devlet",
+            "Bölgeli Devlet"
+          ],
+          "dogruCevap": "Konfederal Devlet"
+        }
+      ],
+      "Türk Anayasa Tarihi": [
+        {
+          "soru": "Türk anayasa tarihinde, padişahın yetkilerinin bir belgeyle ilk kez sınırlandırıldığı ve 'Magna Carta'ya benzetilen hukuki belge aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Sened-i İttifak (1808)",
+            "Tanzimat Fermanı (1839)",
+            "Islahat Fermanı (1856)",
+            "Kanun-i Esasi (1876)"
+          ],
+          "dogruCevap": "Sened-i İttifak (1808)"
+        },
+        {
+          "soru": "Türk tarihinin ilk yazılı anayasası olan 1876 Kanun-i Esasi'de, yürütme yetkisinin başında bulunan padişaha tanınan, meclis üyelerini sürgüne gönderme yetkisi hangi yıl yapılan anayasa değişikliği ile kaldırılmıştır?",
+          "secenekler": [
+            "1880 Değişiklikleri",
+            "1909 Değişiklikleri",
+            "1921 Değişiklikleri",
+            "1924 Değişiklikleri"
+          ],
+          "dogruCevap": "1909 Değişiklikleri"
+        },
+        {
+          "soru": "1921 Anayasası (Teşkilat-ı Esasiye) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+          "secenekler": [
+            "Meclis hükümeti sistemi benimsenmiştir.",
+            "Türk tarihinin tek yumuşak anayasasıdır.",
+            "Yargı organı hakkında hiçbir hüküm içermez.",
+            "Devletin şeklinin Cumhuriyet olduğu ilk kez bu metinde yer almıştır."
+          ],
+          "dogruCevap": "Devletin şeklinin Cumhuriyet olduğu ilk kez bu metinde yer almıştır."
+        },
+        {
+          "soru": "1924 Anayasası'nda uygulanan, egemenliğin mecliste toplandığı ancak meclisin yürütme yetkisini 'Hükümet' eliyle kullandığı sistem aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Parlamenter Sistem",
+            "Kuvvetler Birliği - Görevler Ayrılığı",
+            "Meclis Hükümeti Sistemi",
+            "Yarı-Başkanlık Sistemi"
+          ],
+          "dogruCevap": "Kuvvetler Birliği - Görevler Ayrılığı"
+        },
+        {
+          "soru": "Türk anayasa tarihinde 'İnsan Haklarına Dayalı Devlet' ifadesi ilk kez hangi anayasada yer almıştır?",
+          "secenekler": [
+            "1921 Anayasası",
+            "1924 Anayasası",
+            "1961 Anayasası",
+            "1982 Anayasası"
+          ],
+          "dogruCevap": "1961 Anayasası"
+        },
+        {
+          "soru": "Anayasa Mahkemesi, Milli Güvenlik Kurulu ve Cumhuriyet Senatosu gibi kurumlar ilk kez hangi anayasa ile hukuk sistemimize dahil edilmiştir?",
+          "secenekler": [
+            "1924 Anayasası",
+            "1961 Anayasası",
+            "1971 Değişiklikleri",
+            "1982 Anayasası"
+          ],
+          "dogruCevap": "1961 Anayasası"
+        },
+        {
+          "soru": "Aşağıdaki anayasalardan hangisi 'Kazuistik' (Ayrıntıcı) ve 'Sert' (Katı) yapısıyla diğerlerinden ayrılır?",
+          "secenekler": [
+            "1876 Kanun-i Esasi",
+            "1921 Anayasası",
+            "1924 Anayasası",
+            "1982 Anayasası"
+          ],
+          "dogruCevap": "1982 Anayasası"
+        },
+        {
+          "soru": "Tanzimat Fermanı'nın Türk anayasalcılık tarihindeki en önemli önemi aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "İlk kez meclis açılması",
+            "Kanun gücünün padişahın üzerinde olduğunun ilk kez kabul edilmesi",
+            "Halkın ilk kez yönetime katılması",
+            "Halifelik makamının yetkilerinin artırılması"
+          ],
+          "dogruCevap": "Kanun gücünün padişahın üzerinde olduğunun ilk kez kabul edilmesi"
+        },
+        {
+          "soru": "1924 Anayasası'nda 1937 yılında yapılan değişiklikle anayasaya eklenen temel ilkeler hangisidir?",
+          "secenekler": [
+            "Kadınlara seçme ve seçilme hakkı",
+            "Atatürk İlkeleri",
+            "Çok partili hayata geçiş",
+            "Ankara'nın başkent olması"
+          ],
+          "dogruCevap": "Atatürk İlkeleri"
+        }
+      ],
       "Anayasa Hukukuna Giriş, Temel Kavramlar Ve Türk Anayasa Tarihi": [
         {
           "soru": "Türk Anayasası'na göre, yürütme yetkisi ve görevi hangi organ tarafından kullanılır?",
@@ -38725,6 +38906,158 @@
             "Yasama"
           ],
           "dogruCevap": "Devletin şekli"
+        }
+      ],
+      "1982 Anayasası: Temel İlkeler, Hak ve Ödevler": [
+        {
+          "soru": "1982 Anayasası'na göre aşağıdakilerden hangisi değiştirilemez ve değiştirilmesi teklif edilemez hükümlerden biri olan 3. maddede yer almaz?",
+          "secenekler": [
+            "Başkenti Ankara'dır.",
+            "Milli marşı İstiklal Marşı'dır.",
+            "Resmi dili Türkçedir.",
+            "Egemenlik kayıtsız şartsız milletindir."
+          ],
+          "dogruCevap": "Egemenlik kayıtsız şartsız milletindir."
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi 'Kişi Hak ve Ödevleri' (Negatif Statü Hakları) grubunda yer alan bir haktır?",
+          "secenekler": [
+            "Mülkiyet hakkı",
+            "Eğitim ve öğrenim hakkı",
+            "Çalışma hakkı",
+            "Vatan hizmeti"
+          ],
+          "dogruCevap": "Mülkiyet hakkı"
+        },
+        {
+          "soru": "Temel hak ve hürriyetlerin sınırlanması ile ilgili anayasanın 13. maddesine göre, sınırlamalar aşağıdakilerden hangisi ile yapılabilir?",
+          "secenekler": [
+            "Genelge",
+            "Yönetmelik",
+            "Kanun",
+            "Cumhurbaşkanlığı Kararnamesi"
+          ],
+          "dogruCevap": "Kanun"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi 'Sosyal ve Ekonomik Haklar' (Pozitif Statü Hakları) arasında yer alır?",
+          "secenekler": [
+            "Konut dokunulmazlığı",
+            "Sendika kurma hakkı",
+            "İspat hakkı",
+            "Dernek kurma hürriyeti"
+          ],
+          "dogruCevap": "Sendika kurma hakkı"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi bir 'Siyasi Hak ve Ödev' (Aktif Statü Hakkı) niteliğindedir?",
+          "secenekler": [
+            "Dilekçe hakkı",
+            "Yerleşme ve seyahat hürriyeti",
+            "Din ve vicdan hürriyeti",
+            "Dinlenme hakkı"
+          ],
+          "dogruCevap": "Dilekçe hakkı"
+        },
+        {
+          "soru": "Savaş durumunda bile dokunulamayacak 'Çekirdek Alan' hakları arasında aşağıdakilerden hangisi yer almaz?",
+          "secenekler": [
+            "Kişinin yaşama hakkı",
+            "Masumiyet karinesi",
+            "Seyahat hürriyeti",
+            "Din, vicdan ve düşünce kanaatlerini açıklamaya zorlanamama"
+          ],
+          "dogruCevap": "Seyahat hürriyeti"
+        },
+        {
+          "soru": "1982 Anayasası'na göre, aşağıdakilerden hangisi 'Sosyal Devlet' ilkesinin araçlarından biri değildir?",
+          "secenekler": [
+            "Vergi adaleti",
+            "Kamulaştırma",
+            "Devletleştirme",
+            "Resmi dilin Türkçe olması"
+          ],
+          "dogruCevap": "Resmi dilin Türkçe olması"
+        },
+        {
+          "soru": "Hangi anayasal ilke, devletin her türlü eylem ve işleminin yargı denetimine açık olmasını ifade eder?",
+          "secenekler": [
+            "Laik Devlet",
+            "Hukuk Devleti",
+            "Sosyal Devlet",
+            "Üniter Devlet"
+          ],
+          "dogruCevap": "Hukuk Devleti"
+        },
+        {
+          "soru": "Vatandaşlıktan çıkarma kararlarına karşı gidilebilecek yargı yolu aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Yargıtay",
+            "Danıştay",
+            "Anayasa Mahkemesi",
+            "Uyuşmazlık Mahkemesi"
+          ],
+          "dogruCevap": "Danıştay"
+        },
+        {
+          "soru": "Siyasi partilere üye olabilmek için kaç yaşını doldurmuş olmak gerekir?",
+          "secenekler": [
+            "15",
+            "17",
+            "18",
+            "21"
+          ],
+          "dogruCevap": "18"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisinin siyasi partilere üye olması anayasal olarak yasaktır?",
+          "secenekler": [
+            "İşçiler",
+            "Yükseköğretim öğrencileri",
+            "Silahlı Kuvvetler mensupları",
+            "Yükseköğretim elemanları"
+          ],
+          "dogruCevap": "Silahlı Kuvvetler mensupları"
+        },
+        {
+          "soru": "Yabancıların Türkiye'de dilekçe hakkını kullanabilmesi için aranan şart hangisidir?",
+          "secenekler": [
+            "En az 10 yıl ikamet",
+            "Karşılıklılık (mütekabiliyet)",
+            "Türkçe sınavını geçmek",
+            "Mülk sahibi olmak"
+          ],
+          "dogruCevap": "Karşılıklılık (mütekabiliyet)"
+        },
+        {
+          "soru": "Siyasi partilerin kapatılması davasını açma yetkisi kime aittir?",
+          "secenekler": [
+            "Cumhurbaşkanı",
+            "TBMM Başkanı",
+            "Yargıtay Cumhuriyet Başsavcısı",
+            "Adalet Bakanı"
+          ],
+          "dogruCevap": "Yargıtay Cumhuriyet Başsavcısı"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi vergi ödevi ile ilgili anayasal ilkelerden biri değildir?",
+          "secenekler": [
+            "Verginin mali güce göre alınması",
+            "Verginin kanunla konulması",
+            "Verginin sadece belirli bir zümreden alınması",
+            "Vergi yükünün adaletli dağılımı"
+          ],
+          "dogruCevap": "Verginin sadece belirli bir zümreden alınması"
+        },
+        {
+          "soru": "1982 Anayasası'na göre, temel hak ve hürriyetler özlerine dokunulmaksızın yalnızca anayasanın ilgili maddelerinde belirtilen 'özel sebeplerle' sınırlanabilir. Bu ilke hangisidir?",
+          "secenekler": [
+            "Ölçülülük",
+            "Genel sınırlama",
+            "Özel sınırlama",
+            "Hukuki belirlilik"
+          ],
+          "dogruCevap": "Özel sınırlama"
         }
       ],
       "Yasama": [
@@ -38889,6 +39222,158 @@
           "dogruCevap": "Yasaların kabul edilmesi için genel kurulda oylama yapılır."
         }
       ],
+      "Yasama 2": [
+        {
+          "soru": "1982 Anayasası'na göre, TBMM seçimleri ve Cumhurbaşkanlığı seçimleri kaç yılda bir aynı günde yapılır?",
+          "secenekler": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "dogruCevap": "5"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi milletvekili seçilme yeterliliği şartlarından biri değildir?",
+          "secenekler": [
+            "Türk vatandaşı olmak",
+            "18 yaşını doldurmuş olmak",
+            "En az lise mezunu olmak",
+            "Kısıtlı olmamak"
+          ],
+          "dogruCevap": "En az lise mezunu olmak"
+        },
+        {
+          "soru": "Milletvekillerinin Meclis çalışmalarındaki oy ve sözlerinden, ileri sürdükleri düşüncelerden ötürü sorumlu tutulamamasına ne ad verilir?",
+          "secenekler": [
+            "Yasama Dokunulmazlığı",
+            "Yasama Sorumsuzluğu",
+            "Yasama Bağımsızlığı",
+            "Temsili Yetki"
+          ],
+          "dogruCevap": "Yasama Sorumsuzluğu"
+        },
+        {
+          "soru": "Seçimden önce veya sonra bir suç işlediği ileri sürülen bir milletvekilinin, Meclis kararı olmadıkça tutulamaması, sorgulanamaması ve yargılanamamasına ne ad verilir?",
+          "secenekler": [
+            "Yasama Dokunulmazlığı",
+            "Yasama Sorumsuzluğu",
+            "Parlamento Muafiyeti",
+            "Diplomatik Bağışıklık"
+          ],
+          "dogruCevap": "Yasama Dokunulmazlığı"
+        },
+        {
+          "soru": "TBMM'nin bir yasama yılında en çok ne kadar süreyle tatil yapabilir?",
+          "secenekler": [
+            "15 gün",
+            "1 ay",
+            "3 ay",
+            "4 ay"
+          ],
+          "dogruCevap": "3 ay"
+        },
+        {
+          "soru": "TBMM'nin tatilde veya ara vermede olduğu bir dönemde, Meclis'i doğrudan toplantıya çağırma yetkisi kime aittir?",
+          "secenekler": [
+            "Cumhurbaşkanı ve TBMM Başkanı",
+            "Sadece Cumhurbaşkanı",
+            "Sadece TBMM Başkanı",
+            "En az 100 milletvekili"
+          ],
+          "dogruCevap": "Cumhurbaşkanı ve TBMM Başkanı"
+        },
+        {
+          "soru": "Bir milletvekilinin istifasının geçerli olabilmesi için aşağıdakilerden hangisi gereklidir?",
+          "secenekler": [
+            "Cumhurbaşkanının onayı",
+            "Anayasa Mahkemesinin kararı",
+            "TBMM Genel Kurulu tarafından kabul edilmesi",
+            "Yüksek Seçim Kurulu'nun kararı"
+          ],
+          "dogruCevap": "TBMM Genel Kurulu tarafından kabul edilmesi"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi TBMM'nin görev ve yetkileri arasında yer almaz?",
+          "secenekler": [
+            "Kanun koymak, değiştirmek ve kaldırmak",
+            "Para basılmasına karar vermek",
+            "Milletlerarası andlaşmaların onaylanmasını uygun bulmak",
+            "Yönetmelik çıkarmak"
+          ],
+          "dogruCevap": "Yönetmelik çıkarmak"
+        },
+        {
+          "soru": "Milletvekili sıfatı ne zaman kazanılır?",
+          "secenekler": [
+            "Mazbatanın düzenlendiği an",
+            "Meclis'te ant içildiği an",
+            "Seçim sonuçlarının Resmi Gazete'de ilan edildiği an",
+            "Seçim yasaklarının bittiği an"
+          ],
+          "dogruCevap": "Mazbatanın düzenlendiği an"
+        },
+        {
+          "soru": "TBMM Genel Kurulu'nda bir toplantının açılabilmesi için gerekli olan 'Toplantı Yeter Sayısı' kaçtır?",
+          "secenekler": [
+            "Üye tamsayısının yarısı (300)",
+            "Üye tamsayısının salt çoğunluğu (301)",
+            "Üye tamsayısının üçte biri (200)",
+            "Üye tamsayısının beşte biri (120)"
+          ],
+          "dogruCevap": "Üye tamsayısının üçte biri (200)"
+        },
+        {
+          "soru": "TBMM tarafından kabul edilen kanunları yayımlama yetkisi kime aittir?",
+          "secenekler": [
+            "TBMM Başkanı",
+            "Cumhurbaşkanı",
+            "Adalet Bakanı",
+            "Resmi Gazete Genel Müdürü"
+          ],
+          "dogruCevap": "Cumhurbaşkanı"
+        },
+        {
+          "soru": "TBMM Başkanlık Divanı için bir yasama döneminde kaç kez seçim yapılır?",
+          "secenekler": [
+            "1",
+            "2",
+            "3",
+            "Seçim yapılmaz, kıdeme göre belirlenir"
+          ],
+          "dogruCevap": "2"
+        },
+        {
+          "soru": "TBMM seçimlerinin yenilenmesine (erken seçim) karar verme yetkisi kimlere aittir?",
+          "secenekler": [
+            "Sadece TBMM",
+            "Sadece Cumhurbaşkanı",
+            "TBMM ve Cumhurbaşkanı",
+            "Anayasa Mahkemesi ve TBMM"
+          ],
+          "dogruCevap": "TBMM ve Cumhurbaşkanı"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Meclis'in bilgi edinme ve denetim yollarından biri değildir?",
+          "secenekler": [
+            "Meclis Araştırması",
+            "Genel Görüşme",
+            "Yazılı Soru",
+            "Gensoru"
+          ],
+          "dogruCevap": "Gensoru"
+        },
+        {
+          "soru": "Savaş ilanı verilmesine karar verme yetkisi aşağıdakilerden hangisine aittir?",
+          "secenekler": [
+            "Milli Güvenlik Kurulu",
+            "Cumhurbaşkanı",
+            "TBMM",
+            "Genelkurmay Başkanı"
+          ],
+          "dogruCevap": "TBMM"
+        }
+      ],
       "Yürütme": [
         {
           "soru": "Aşağıdakilerden hangisi Türkiye Cumhuriyeti Anayasası'na göre yürütme yetkisinin sahibi olan organdır?",
@@ -39049,6 +39534,158 @@
             "Yasaların yorumlanmasını sağlamak"
           ],
           "dogruCevap": "Bakanları atamak ve görevden almak"
+        }
+      ],
+      "Yürütme 2": [
+        {
+          "soru": "1982 Anayasası'na göre yürütme yetkisi ve görevi aşağıdakilerden hangisine aittir?",
+          "secenekler": [
+            "TBMM",
+            "Bakanlar Kurulu",
+            "Cumhurbaşkanı",
+            "Cumhurbaşkanı ve Başbakan"
+          ],
+          "dogruCevap": "Cumhurbaşkanı"
+        },
+        {
+          "soru": "Cumhurbaşkanı seçilebilmek için kaç yaşını doldurmuş olmak gerekir?",
+          "secenekler": [
+            "18",
+            "25",
+            "30",
+            "40"
+          ],
+          "dogruCevap": "40"
+        },
+        {
+          "soru": "Cumhurbaşkanı seçilmek için aşağıdaki öğrenim şartlarından hangisi gereklidir?",
+          "secenekler": [
+            "Lise mezunu olmak",
+            "Yükseköğrenim yapmış olmak",
+            "En az ilkokul mezunu olmak",
+            "Öğrenim şartı aranmaz"
+          ],
+          "dogruCevap": "Yükseköğrenim yapmış olmak"
+        },
+        {
+          "soru": "Cumhurbaşkanlığına aday gösterilebilmek için aşağıdakilerden hangisi yanlıştır?",
+          "secenekler": [
+            "En son yapılan genel seçimlerde toplam oyları %5'i geçen siyasi partiler",
+            "En az 20 milletvekili",
+            "En az 100.000 seçmen",
+            "En az bir siyasi parti grubu"
+          ],
+          "dogruCevap": "En az 20 milletvekili"
+        },
+        {
+          "soru": "Cumhurbaşkanı seçilen bir milletvekilinin TBMM üyeliği ne zaman sona erer?",
+          "secenekler": [
+            "Seçildiği an",
+            "YSK tarafından sonuçlar açıklandığı an",
+            "Ant içerek göreve başladığı an",
+            "Üyeliği sona ermez"
+          ],
+          "dogruCevap": "Seçildiği an"
+        },
+        {
+          "soru": "Cumhurbaşkanlığı makamının herhangi bir sebeple boşalması halinde, yenisi seçilene kadar Cumhurbaşkanlığına kim vekalet eder?",
+          "secenekler": [
+            "TBMM Başkanı",
+            "En yaşlı Cumhurbaşkanı Yardımcısı",
+            "Cumhurbaşkanının görevlendireceği bir yardımcı",
+            "Anayasa Mahkemesi Başkanı"
+          ],
+          "dogruCevap": "Cumhurbaşkanının görevlendireceği bir yardımcı"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Cumhurbaşkanının görev ve yetkileri arasında yer almaz?",
+          "secenekler": [
+            "Milletlerarası andlaşmaları onaylamak ve yayımlamak",
+            "Sürekli hastalık veya sakatlık sebebiyle kişilerin cezalarını hafifletmek",
+            "Kanunları yayımlamak",
+            "Para basılmasına karar vermek"
+          ],
+          "dogruCevap": "Para basılmasına karar vermek"
+        },
+        {
+          "soru": "Cumhurbaşkanlığı Kararnamesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+          "secenekler": [
+            "Sadece yürütme yetkisine ilişkin konularda çıkarılabilir.",
+            "Anayasada münhasıran kanunla düzenlenmesi öngörülen konularda çıkarılamaz.",
+            "Kanunda açıkça düzenlenen konularda kararname çıkarılamaz.",
+            "Temel haklar ve kişi hakları olağan dönemde kararname ile düzenlenebilir."
+          ],
+          "dogruCevap": "Temel haklar ve kişi hakları olağan dönemde kararname ile düzenlenebilir."
+        },
+        {
+          "soru": "Yönetmelik çıkarma yetkisi aşağıdakilerden hangisinde yoktur?",
+          "secenekler": [
+            "Cumhurbaşkanı",
+            "Bakanlıklar",
+            "Kamu Tüzel Kişileri",
+            "TBMM Başkanı"
+          ],
+          "dogruCevap": "TBMM Başkanı"
+        },
+        {
+          "soru": "Milli Güvenlik Kurulu'nun (MGK) başkanı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Cumhurbaşkanı",
+            "Milli Savunma Bakanı",
+            "Genelkurmay Başkanı",
+            "İçişleri Bakanı"
+          ],
+          "dogruCevap": "Cumhurbaşkanı"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Milli Güvenlik Kurulu üyesi değildir?",
+          "secenekler": [
+            "Cumhurbaşkanı Yardımcıları",
+            "Milli Eğitim Bakanı",
+            "Adalet Bakanı",
+            "Dışişleri Bakanı"
+          ],
+          "dogruCevap": "Milli Eğitim Bakanı"
+        },
+        {
+          "soru": "Devlet Denetleme Kurulu (DDK) nereye bağlı olarak görev yapar?",
+          "secenekler": [
+            "Başbakanlık (Kaldırıldı)",
+            "TBMM Başkanlığı",
+            "Cumhurbaşkanlığı",
+            "Sayıştay"
+          ],
+          "dogruCevap": "Cumhurbaşkanlığı"
+        },
+        {
+          "soru": "Genelkurmay Başkanı aşağıdakilerden hangisi tarafından atanır?",
+          "secenekler": [
+            "TBMM Başkanı",
+            "Cumhurbaşkanı",
+            "Milli Savunma Bakanı",
+            "Yüksek Askeri Şura"
+          ],
+          "dogruCevap": "Cumhurbaşkanı"
+        },
+        {
+          "soru": "Cumhurbaşkanının bir suçu işlediği iddiasıyla hakkında soruşturma açılabilmesi için TBMM üye tamsayısının kaçının oyu gerekir?",
+          "secenekler": [
+            "Salt çoğunluk (301)",
+            "Beşte üç (360)",
+            "Üçte iki (400)",
+            "Üçte bir (200)"
+          ],
+          "dogruCevap": "Üçte iki (400)"
+        },
+        {
+          "soru": "Olağanüstü Hal (OHAL) ilan etme yetkisi kime aittir?",
+          "secenekler": [
+            "TBMM",
+            "Cumhurbaşkanı",
+            "Milli Güvenlik Kurulu",
+            "İçişleri Bakanı"
+          ],
+          "dogruCevap": "Cumhurbaşkanı"
         }
       ],
       "Yargı": [
@@ -39241,6 +39878,158 @@
             "İdare Mahkemesi"
           ],
           "dogruCevap": "İdare Mahkemesi"
+        }
+      ],
+      "Yargı 2": [
+        {
+          "soru": "1982 Anayasası'na göre, hakimlerin ve savcıların idari yönden bağlı oldukları kurum aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Anayasa Mahkemesi",
+            "Yargıtay",
+            "Adalet Bakanlığı",
+            "Hakimler ve Savcılar Kurulu"
+          ],
+          "dogruCevap": "Adalet Bakanlığı"
+        },
+        {
+          "soru": "Hakimler ve Savcılar Kurulu (HSK) toplam kaç üyeden oluşur?",
+          "secenekler": [
+            "7",
+            "11",
+            "13",
+            "15"
+          ],
+          "dogruCevap": "13"
+        },
+        {
+          "soru": "Anayasa Mahkemesi toplam kaç üyeden oluşur?",
+          "secenekler": [
+            "11",
+            "13",
+            "15",
+            "17"
+          ],
+          "dogruCevap": "15"
+        },
+        {
+          "soru": "Anayasa Mahkemesi üyelerinin görev süresi kaç yıldır?",
+          "secenekler": [
+            "4",
+            "6",
+            "9",
+            "12"
+          ],
+          "dogruCevap": "12"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi 1982 Anayasası'nda düzenlenen yüksek mahkemeler arasında yer almaz?",
+          "secenekler": [
+            "Yargıtay",
+            "Danıştay",
+            "Uyuşmazlık Mahkemesi",
+            "Sayıştay"
+          ],
+          "dogruCevap": "Sayıştay"
+        },
+        {
+          "soru": "Adli yargının en üst derece mahkemesi aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Danıştay",
+            "Yargıtay",
+            "Anayasa Mahkemesi",
+            "Bölge Adliye Mahkemesi"
+          ],
+          "dogruCevap": "Yargıtay"
+        },
+        {
+          "soru": "Hakimler ve Savcılar Kurulu'nun başkanı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Anayasa Mahkemesi Başkanı",
+            "Yargıtay Cumhuriyet Başsavcısı",
+            "Adalet Bakanı",
+            "Adalet Bakanlığı Müsteşarı"
+          ],
+          "dogruCevap": "Adalet Bakanı"
+        },
+        {
+          "soru": "Anayasa Mahkemesi'ne 'Bireysel Başvuru' hakkı Türk hukuk sistemine hangi yıl yapılan anayasa değişikliği ile girmiştir?",
+          "secenekler": [
+            "1982",
+            "2004",
+            "2010",
+            "2017"
+          ],
+          "dogruCevap": "2010"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Anayasa Mahkemesi'nin 'Yüce Divan' sıfatıyla yargılayabileceği kişiler arasında yer almaz?",
+          "secenekler": [
+            "Cumhurbaşkanı",
+            "TBMM Başkanı",
+            "Milletvekilleri",
+            "Genelkurmay Başkanı"
+          ],
+          "dogruCevap": "Milletvekilleri"
+        },
+        {
+          "soru": "Uyuşmazlık Mahkemesi başkanını aşağıdakilerden hangisi seçer?",
+          "secenekler": [
+            "Cumhurbaşkanı",
+            "TBMM",
+            "Anayasa Mahkemesi",
+            "Yargıtay ve Danıştay Genel Kurulları"
+          ],
+          "dogruCevap": "Anayasa Mahkemesi"
+        },
+        {
+          "soru": "Danıştay üyelerinin dörtte birini (%25) aşağıdakilerden hangisi seçer?",
+          "secenekler": [
+            "Hakimler ve Savcılar Kurulu",
+            "Cumhurbaşkanı",
+            "Yargıtay",
+            "TBMM"
+          ],
+          "dogruCevap": "Cumhurbaşkanı"
+        },
+        {
+          "soru": "2017 Anayasa değişikliği ile Türk yargı sisteminden tamamen kaldırılan yargı kolu aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "İdari Yargı",
+            "Vergi Yargısı",
+            "Askeri Yargı",
+            "Uyuşmazlık Yargısı"
+          ],
+          "dogruCevap": "Askeri Yargı"
+        },
+        {
+          "soru": "Siyasi partilerin mali denetimini Anayasa Mahkemesi aşağıdakilerden hangisinin yardımıyla yapar?",
+          "secenekler": [
+            "Yargıtay",
+            "Sayıştay",
+            "Merkez Bankası",
+            "Maliye Bakanlığı"
+          ],
+          "dogruCevap": "Sayıştay"
+        },
+        {
+          "soru": "Hakimler ve Savcılar Kurulu'nun (HSK) kararlarından hangisine karşı yargı yolu açıktır?",
+          "secenekler": [
+            "Meslekten çıkarma kararları",
+            "Atama kararları",
+            "Disiplin hapisleri",
+            "HSK'nın hiçbir kararına karşı yargı yolu açık değildir"
+          ],
+          "dogruCevap": "Meslekten çıkarma kararları"
+        },
+        {
+          "soru": "Anayasa Mahkemesi'nde iptal davası açma süresi, iptali istenen kuralın Resmi Gazete'de yayımlanmasından itibaren kaç gündür?",
+          "secenekler": [
+            "15",
+            "30",
+            "45",
+            "60"
+          ],
+          "dogruCevap": "60"
         }
       ],
       "Temel Hak Ve Hürriyetler": [
@@ -39769,6 +40558,158 @@
           "dogruCevap": "İl sınırları içinde kamusal hizmetlerin sunulması"
         }
       ],
+      "İdare Hukuku 3": [
+        {
+          "soru": "Türkiye Cumhuriyeti idaresinin kuruluşu ve görevleri 'Merkezden Yönetim' ve 'Yerinden Yönetim' esaslarına dayanır. Bu bütünlüğü sağlayan temel ilke aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Yetki Genişliği",
+            "İdarenin Bütünlüğü",
+            "Yerinden Yönetim",
+            "Kamu Tüzel Kişiliği"
+          ],
+          "dogruCevap": "İdarenin Bütünlüğü"
+        },
+        {
+          "soru": "Anayasa'ya göre, merkezdeki kamu hizmetlerini taşrada yürütmekle görevli olan Valilere tanınan, merkeze danışmadan karar alabilme yetkisine ne ad verilir?",
+          "secenekler": [
+            "İdari Vesayet",
+            "Hiyerarşik Yetki",
+            "Yetki Genişliği",
+            "İmza Yetkisi"
+          ],
+          "dogruCevap": "Yetki Genişliği"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi 'Yönetmelik' çıkarma yetkisine sahip değildir?",
+          "secenekler": [
+            "Cumhurbaşkanı",
+            "Bakanlıklar",
+            "Belediyeler",
+            "Kaymakamlıklar"
+          ],
+          "dogruCevap": "Kaymakamlıklar"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi 'Merkezden Yönetimin' taşra teşkilatı içerisinde yer almaz?",
+          "secenekler": [
+            "İl Genel İdaresi",
+            "İlçe İdaresi",
+            "Bölge Kuruluşları",
+            "Belediye İdaresi"
+          ],
+          "dogruCevap": "Belediye İdaresi"
+        },
+        {
+          "soru": "Bir üst makamın alt makam üzerindeki denetim yetkisine 'Hiyerarşi' denir. Buna göre aşağıdakilerden hangisi bir hiyerarşi ilişkisi örneğidir?",
+          "secenekler": [
+            "Vali - Belediye Başkanı",
+            "Kaymakam - İlçe Milli Eğitim Müdürü",
+            "İçişleri Bakanı - Büyükşehir Belediye Başkanı",
+            "YÖK - Üniversiteler"
+          ],
+          "dogruCevap": "Kaymakam - İlçe Milli Eğitim Müdürü"
+        },
+        {
+          "soru": "Merkezi yönetimin, yerinden yönetim kuruluşları üzerindeki denetim yetkisine ne ad verilir?",
+          "secenekler": [
+            "Hiyerarşi",
+            "Yetki Devri",
+            "İdari Vesayet",
+            "Yargısal Denetim"
+          ],
+          "dogruCevap": "İdari Vesayet"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi 'Mahalli İdareler' (Yerel Yönetimler) arasında yer almaz?",
+          "secenekler": [
+            "İl Özel İdaresi",
+            "Belediye İdaresi",
+            "Köy İdaresi",
+            "Mahalle İdaresi"
+          ],
+          "dogruCevap": "Mahalle İdaresi"
+        },
+        {
+          "soru": "Büyükşehir Belediyesi kurulabilmesi için nüfusun en az kaç olması gerekir?",
+          "secenekler": [
+            "250.000",
+            "500.000",
+            "750.000",
+            "1.000.000"
+          ],
+          "dogruCevap": "750.000"
+        },
+        {
+          "soru": "Bir köyün kurulması aşağıdakilerden hangisinin kararı ile gerçekleşir?",
+          "secenekler": [
+            "Cumhurbaşkanı kararı",
+            "İçişleri Bakanı kararı",
+            "Kanun",
+            "Vali onayı"
+          ],
+          "dogruCevap": "İçişleri Bakanı kararı"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi memurlara verilen disiplin cezaları arasında yer almaz?",
+          "secenekler": [
+            "Uyarma",
+            "Kınama",
+            "Aylıktan kesme",
+            "Görevden uzaklaştırma"
+          ],
+          "dogruCevap": "Görevden uzaklaştırma"
+        },
+        {
+          "soru": "Devlet memurlarının haftalık çalışma süresi genel olarak kaç saattir?",
+          "secenekler": [
+            "35",
+            "40",
+            "45",
+            "48"
+          ],
+          "dogruCevap": "40"
+        },
+        {
+          "soru": "Belediye Başkanı aşağıdakilerden hangisi tarafından görevden uzaklaştırılabilir?",
+          "secenekler": [
+            "Vali",
+            "Belediye Meclisi",
+            "İçişleri Bakanı",
+            "Danıştay"
+          ],
+          "dogruCevap": "İçişleri Bakanı"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi kamu tüzel kişiliğine sahip bir kurum değildir?",
+          "secenekler": [
+            "TRT",
+            "Üniversiteler",
+            "Emniyet Genel Müdürlüğü",
+            "Orman Genel Müdürlüğü"
+          ],
+          "dogruCevap": "Emniyet Genel Müdürlüğü"
+        },
+        {
+          "soru": "Memurların mal bildiriminde bulunma süresi sonu '0' ve '5' ile biten yılların hangi ayıdır?",
+          "secenekler": [
+            "Ocak",
+            "Şubat",
+            "Mart",
+            "Haziran"
+          ],
+          "dogruCevap": "Şubat"
+        },
+        {
+          "soru": "Aday memurluk süresi en az ne kadar olabilir?",
+          "secenekler": [
+            "6 ay",
+            "1 yıl",
+            "2 yıl",
+            "3 yıl"
+          ],
+          "dogruCevap": "1 yıl"
+        }
+      ],
       "Uluslararası Kuruluşlar Ve Güncel Olaylar": [
         {
           "soru": "Birleşmiş Milletler'e üye ülkelerden kaç tanesi Güvenlik Konseyi'nde daimi üye olarak bulunur?",
@@ -39939,6 +40880,310 @@
             "Fransa"
           ],
           "dogruCevap": "Hindistan"
+        }
+      ],
+      "İnsan Hakları Hukuku": [
+        {
+          "soru": "İnsan haklarını 'Kuşaklar' bazında sınıflandıran ve 'Mavi Haklar' olarak da bilinen Birinci Kuşak hakların temel odak noktası nedir?",
+          "secenekler": [
+            "Sosyal haklar",
+            "Kişisel ve siyasi hürriyetler",
+            "Dayanışma hakları",
+            "Çevre ve barış hakları"
+          ],
+          "dogruCevap": "Kişisel ve siyasi hürriyetler"
+        },
+        {
+          "soru": "Birleşmiş Milletler tarafından kabul edilen 'İnsan Hakları Evrensel Beyannamesi' hangi tarihte kabul edilmiştir?",
+          "secenekler": [
+            "29 Ekim 1923",
+            "10 Aralık 1948",
+            "20 Ekim 1945",
+            "1 Eylül 1939"
+          ],
+          "dogruCevap": "10 Aralık 1948"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi İkinci Kuşak (Ekonomik, Sosyal ve Kültürel) haklar arasında yer almaz?",
+          "secenekler": [
+            "Eğitim hakkı",
+            "Çalışma hakkı",
+            "Konut dokunulmazlığı hakkı",
+            "Sağlık hakkı"
+          ],
+          "dogruCevap": "Konut dokunulmazlığı hakkı"
+        },
+        {
+          "soru": "Avrupa İnsan Hakları Mahkemesi'ne (AİHM) bireysel başvuruda bulunabilmek için öncelikle hangi şartın yerine getirilmesi zorunludur?",
+          "secenekler": [
+            "Mağdurun Türk vatandaşı olması",
+            "İç hukuk yollarının tüketilmiș olması",
+            "Maddi bir zararın ispatlanması",
+            "Davanın en az 5 yıl sürmüş olması"
+          ],
+          "dogruCevap": "İç hukuk yollarının tüketilmiș olması"
+        },
+        {
+          "soru": "Türkiye'de Anayasa Mahkemesi'ne 'Bireysel Başvuru' yolu hangi yıl yapılan anayasa değişikliği ile açılmıştır?",
+          "secenekler": [
+            "1982",
+            "2004",
+            "2010",
+            "2017"
+          ],
+          "dogruCevap": "2010"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi 'Üçüncü Kuşak' (Dayanışma Hakları) arasında yer alır?",
+          "secenekler": [
+            "Seçme ve seçilme hakkı",
+            "Çevre hakkı",
+            "Sendika kurma hakkı",
+            "İbadet hürriyeti"
+          ],
+          "dogruCevap": "Çevre hakkı"
+        },
+        {
+          "soru": "Avrupa İnsan Hakları Mahkemesi (AİHM) nerede bulunmaktadır?",
+          "secenekler": [
+            "Brüksel",
+            "Strazburg",
+            "Lahey",
+            "Cenevre"
+          ],
+          "dogruCevap": "Strazburg"
+        },
+        {
+          "soru": "Türkiye'de insan haklarını korumak ve işkenceyle mücadele etmek amacıyla kurulan, idari ve mali özerkliğe sahip kurum hangisidir?",
+          "secenekler": [
+            "Kamu Denetçiliği Kurumu",
+            "Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK)",
+            "Devlet Denetleme Kurulu",
+            "Kişisel Verileri Koruma Kurumu"
+          ],
+          "dogruCevap": "Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK)"
+        },
+        {
+          "soru": "İnsan haklarının 'Mutlak Hak' olması neyi ifade eder?",
+          "secenekler": [
+            "Sadece vatandaşlara tanınmasını",
+            "Herkese karşı ileri sürülebilmesini",
+            "Savaş durumunda tamamen kaldırılabilmesini",
+            "Sadece devlet tarafından kullanılmasını"
+          ],
+          "dogruCevap": "Herkese karşı ileri sürülebilmesini"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Birleşmiş Milletler bünyesinde insan haklarını korumakla görevli ana birimdir?",
+          "secenekler": [
+            "UNESCO",
+            "İnsan Hakları Konseyi",
+            "Uluslararası Af Örgütü",
+            "Avrupa Konseyi"
+          ],
+          "dogruCevap": "İnsan Hakları Konseyi"
+        },
+        {
+          "soru": "Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme'ye göre, kaç yaşına kadar her insan çocuk sayılır?",
+          "secenekler": [
+            "12",
+            "15",
+            "18",
+            "21"
+          ],
+          "dogruCevap": "18"
+        },
+        {
+          "soru": "Anayasa Mahkemesi'ne yapılan bir bireysel başvuruda, Anayasa'daki hangi hak grubuna ilişkin ihlal iddiası incelenemez?",
+          "secenekler": [
+            "Mülkiyet hakkı",
+            "Adil yargılanma hakkı",
+            "Anayasa'da olup AİHS'de yer almayan haklar",
+            "Kişi hürriyeti ve güvenliği"
+          ],
+          "dogruCevap": "Anayasa'da olup AİHS'de yer almayan haklar"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi 1982 Anayasası'nda yer alan 'Siyasi Hak ve Ödevler'den biri olan dilekçe hakkının kapsamına 2010 yılında dahil edilmiştir?",
+          "secenekler": [
+            "TBMM Başkanlığına başvuru",
+            "Kamu Denetçiliği Kurumuna başvuru",
+            "Valiliğe şikayet",
+            "Bilgi edinme hakkı"
+          ],
+          "dogruCevap": "Kamu Denetçiliği Kurumuna başvuru"
+        },
+        {
+          "soru": "İşkence ve Diğer Zalimane, İnsanlık Dışı veya Onur Kırıcı Muamele veya Cezaya Karşı Sözleşme hangi uluslararası kuruluş tarafından hazırlanmıştır?",
+          "secenekler": [
+            "Avrupa Birliği",
+            "Birleşmiş Milletler",
+            "NATO",
+            "İslam İşbirliği Teşkilatı"
+          ],
+          "dogruCevap": "Birleşmiş Milletler"
+        },
+        {
+          "soru": "Kadınlara Karşı Her Türlü Ayrımcılığın Önlenmesi Sözleşmesi'nin kısa adı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "UNICEF",
+            "CEDAW",
+            "ILO",
+            "UNHCR"
+          ],
+          "dogruCevap": "CEDAW"
+        }
+      ],
+      "Güncel Bilgiler ve Uluslararası Kuruluşlar": [
+        {
+          "soru": "İkinci Dünya Savaşı'ndan sonra dünya barışını ve güvenliğini sağlamak amacıyla 1945 yılında kurulan, Türkiye'nin de kurucu üye olduğu uluslararası kuruluş hangisidir?",
+          "secenekler": [
+            "Avrupa Birliği",
+            "Birleşmiş Milletler",
+            "NATO",
+            "İslam İşbirliği Teşkilatı"
+          ],
+          "dogruCevap": "Birleşmiş Milletler"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) veto yetkisine sahip olan 5 daimi üyeden (FİRÇA) biri değildir?",
+          "secenekler": [
+            "Fransa",
+            "İngiltere",
+            "Almanya",
+            "Çin"
+          ],
+          "dogruCevap": "Almanya"
+        },
+        {
+          "soru": "Türkiye, Kuzey Atlantik Antlaşması Örgütü'ne (NATO) hangi yıl üye olmuştur?",
+          "secenekler": [
+            "1945",
+            "1949",
+            "1952",
+            "1959"
+          ],
+          "dogruCevap": "1952"
+        },
+        {
+          "soru": "Merkezi Brüksel'de bulunan ve Türkiye'nin de adaylık sürecinin devam ettiği 'Avrupa Birliği'nin temeli sayılan 1951 tarihli antlaşma hangisidir?",
+          "secenekler": [
+            "Maastricht Antlaşması",
+            "Roma Antlaşması",
+            "Paris Antlaşması (AKÇT)",
+            "Lizbon Antlaşması"
+          ],
+          "dogruCevap": "Paris Antlaşması (AKÇT)"
+        },
+        {
+          "soru": "Eski adıyla 'Türk Keneşi' olan ve 2021 yılında adı değiştirilen, merkezi İstanbul'da bulunan uluslararası kuruluşun yeni adı nedir?",
+          "secenekler": [
+            "Türk Devletleri Teşkilatı",
+            "Türk Kültür ve Sanatları Ortak Yönetimi",
+            "TÜRKSOY",
+            "Ekonomik İşbirliği Teşkilatı"
+          ],
+          "dogruCevap": "Türk Devletleri Teşkilatı"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi gelişmiş sekiz ülkeyi kapsayan G-8 (şu an G-7) grubunda yer almaz?",
+          "secenekler": [
+            "Japonya",
+            "Kanada",
+            "İtalya",
+            "Türkiye"
+          ],
+          "dogruCevap": "Türkiye"
+        },
+        {
+          "soru": "Merkezi Cidde'de bulunan ve 1969 yılında Mescid-i Aksa'nın kundaklanması üzerine kurulan teşkilat aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Arap Birliği",
+            "İslam İşbirliği Teşkilatı",
+            "D-8",
+            "KİK (Körfez İşbirliği Konseyi)"
+          ],
+          "dogruCevap": "İslam İşbirliği Teşkilatı"
+        },
+        {
+          "soru": "Dünya Sağlık Örgütü'nün (WHO) merkezi aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Cenevre",
+            "New York",
+            "Paris",
+            "Roma"
+          ],
+          "dogruCevap": "Cenevre"
+        },
+        {
+          "soru": "1997 yılında İstanbul'da kurulan ve gelişmekte olan 8 Müslüman ülkeyi kapsayan ekonomik iş birliği platformu hangisidir?",
+          "secenekler": [
+            "İİT",
+            "D-8",
+            "G-20",
+            "EİT"
+          ],
+          "dogruCevap": "D-8"
+        },
+        {
+          "soru": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü'nün kısaltılmış adı hangisidir?",
+          "secenekler": [
+            "UNICEF",
+            "UNESCO",
+            "ILO",
+            "FAO"
+          ],
+          "dogruCevap": "UNESCO"
+        },
+        {
+          "soru": "Avrupa İnsan Hakları Mahkemesi (AİHM) hangi kuruluşa bağlı olarak faaliyet gösteren bir yargı organıdır?",
+          "secenekler": [
+            "Avrupa Birliği",
+            "Avrupa Konseyi",
+            "Birleşmiş Milletler",
+            "AGİT"
+          ],
+          "dogruCevap": "Avrupa Konseyi"
+        },
+        {
+          "soru": "Merkezi Ankara'da bulunan ve 1992 yılında kurulan Türk dünyasının UNESCO'su olarak kabul edilen kuruluş hangisidir?",
+          "secenekler": [
+            "TÜRKSOY",
+            "TİKA",
+            "YTB",
+            "Türk Akademisi"
+          ],
+          "dogruCevap": "TÜRKSOY"
+        },
+        {
+          "soru": "Brezilya, Rusya, Hindistan, Çin ve Güney Afrika Cumhuriyeti'nin oluşturduğu ekonomik grup hangisidir?",
+          "secenekler": [
+            "BRICS",
+            "ASEAN",
+            "NAFTA",
+            "OECD"
+          ],
+          "dogruCevap": "BRICS"
+        },
+        {
+          "soru": "Aşağıdaki kuruluşlardan hangisinin merkezi Türkiye'de (İstanbul/Ankara) değildir?",
+          "secenekler": [
+            "Karadeniz Ekonomik İşbirliği (KEİ)",
+            "D-8",
+            "Türk Devletleri Teşkilatı",
+            "Petrol İhraç Eden Ülkeler Örgütü (OPEC)"
+          ],
+          "dogruCevap": "Petrol İhraç Eden Ülkeler Örgütü (OPEC)"
+        },
+        {
+          "soru": "Birleşmiş Milletler'in 'Yargı Organı' olan Uluslararası Adalet Divanı'nın merkezi neresidir?",
+          "secenekler": [
+            "Lahey",
+            "Strazburg",
+            "Viyana",
+            "Lüksemburg"
+          ],
+          "dogruCevap": "Lahey"
         }
       ],
       "1982 Anayasası Tam Metni": [
@@ -40409,6 +41654,46 @@
       ],
       "Güncel Konular 2": [
         {
+          "soru": "Türkiye'nin 'Milli Uzay Programı' kapsamında, Ocak 2024 tarihinde Alper Gezeravcı'nın da içinde bulunduğu mürettebatı Uluslararası Uzay İstasyonu'na (ISS) taşıyan uzay aracının ve misyonun adı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Dragon - Ax-3",
+            "Soyuz - MS-24",
+            "Orion - Artemis 2",
+            "Starliner - CFT"
+          ],
+          "dogruCevap": "Dragon - Ax-3"
+        },
+        {
+          "soru": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü (UNESCO) tarafından 2024 yılı için 'Dünya Kitap Başkenti' olarak ilan edilen şehir aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Akra",
+            "Strazburg",
+            "Tiflis",
+            "Riyad"
+          ],
+          "dogruCevap": "Strazburg"
+        },
+        {
+          "soru": "2023 yılında 'Hayat Bilgisi', 'Yeditepe İstanbul' ve 'Gönül Yarası' gibi pek çok önemli yapımda rol alan ve hayatını kaybeden usta sanatçı aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Cüneyt Arkın",
+            "Fatma Girik",
+            "Özkan Uğur",
+            "Alev Irmak"
+          ],
+          "dogruCevap": "Özkan Uğur"
+        },
+        {
+          "soru": "2025 yılı Türk Dünyası Kültür Başkenti olarak seçilen şehir aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Aşkabat",
+            "Şuşa",
+            "Aktau",
+            "Bursa"
+          ],
+          "dogruCevap": "Aktau"
+        },
+        {
           "soru": "2024 Grammy Ödülleri'nde 'Yılın Albümü' ödülünü kazanan sanatçı kimdir?",
           "secenekler": [
             "Billie Eilish",
@@ -40577,6 +41862,168 @@
             "Fatma Barbarosoğlu ve Göksel Arsoy"
           ],
           "dogruCevap": "Günay Kut ve Gönül Tekin"
+        }
+      ],
+      "Güncel Konular 3": [
+        {
+          "soru": "Türkiye'nin 'Milli Uzay Programı' kapsamında Ocak 2024'te Uluslararası Uzay İstasyonu'na (ISS) giderek 'ilk Türk astronot' unvanını alan isim aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Alper Gezeravcı",
+            "Tuva Cihangir Atasever",
+            "Umut Yıldız",
+            "Caner Bakırer"
+          ],
+          "dogruCevap": "Alper Gezeravcı"
+        },
+        {
+          "soru": "UNESCO tarafından 2024 yılı için 'Dünya Kitap Başkenti' ilan edilen şehir aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "İstanbul",
+            "Strazburg",
+            "Tiflis",
+            "Madrid"
+          ],
+          "dogruCevap": "Strazburg"
+        },
+        {
+          "soru": "2024 Avrupa Futbol Şampiyonası (EURO 2024) hangi ülkede düzenlenmiştir?",
+          "secenekler": [
+            "Fransa",
+            "İngiltere",
+            "Almanya",
+            "İtalya"
+          ],
+          "dogruCevap": "Almanya"
+        },
+        {
+          "soru": "Cumhuriyet tarihinin en büyük projelerinden biri olan ve 2023 sonunda seri üretimine başlanan yerli muharip uçağımızın adı nedir?",
+          "secenekler": [
+            "Hürkuş",
+            "KAAN",
+            "Anka",
+            "Kızılelma"
+          ],
+          "dogruCevap": "KAAN"
+        },
+        {
+          "soru": "2024 yılında hayatını kaybeden, 'Ayla' ve 'Müslüm' gibi filmlerin yapımcılığını üstlenen ünlü isim hangisidir?",
+          "secenekler": [
+            "Mustafa Uslu",
+            "Türker İnanoğlu",
+            "Birol Güven",
+            "Ezel Akay"
+          ],
+          "dogruCevap": "Türker İnanoğlu"
+        },
+        {
+          "soru": "Dünya Sağlık Örgütü (WHO) tarafından 'dünya genelinde acil durum' ilan edilen ve 2024 yılında maymun çiçeği virüsü olarak bilinen hastalığın yeni adı nedir?",
+          "secenekler": [
+            "Mpox",
+            "Zika",
+            "Ebola",
+            "Sars-3"
+          ],
+          "dogruCevap": "Mpox"
+        },
+        {
+          "soru": "2025 yılı için Türk Dünyası Kültür Başkenti seçilen yer aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Bursa",
+            "Şuşa",
+            "Aktau",
+            "Aşkabat"
+          ],
+          "dogruCevap": "Aktau"
+        },
+        {
+          "soru": "Türkiye'nin ilk yerli ve milli haberleşme uydusu olan ve 2024 yılında uzaya fırlatılan uydunun adı nedir?",
+          "secenekler": [
+            "Türksat 4A",
+            "Türksat 5B",
+            "Türksat 6A",
+            "Göktürk-2"
+          ],
+          "dogruCevap": "Türksat 6A"
+        },
+        {
+          "soru": "Nisan 2024'te düzenlenen 96. Oscar Ödülleri'nde 'En İyi Film' ödülünü kazanan yapım aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Oppenheimer",
+            "Barbie",
+            "Poor Things",
+            "Anatomy of a Fall"
+          ],
+          "dogruCevap": "Oppenheimer"
+        },
+        {
+          "soru": "Türk Devletleri Teşkilatı'nın gözlemci üyesi olan ve Avrupa'da yer alan devlet hangisidir?",
+          "secenekler": [
+            "Avusturya",
+            "Macaristan",
+            "Polonya",
+            "Bulgaristan"
+          ],
+          "dogruCevap": "Macaristan"
+        },
+        {
+          "soru": "2024 Yaz Olimpiyat Oyunları'na ev sahipliği yapan şehir aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Londra",
+            "Tokyo",
+            "Paris",
+            "Los Angeles"
+          ],
+          "dogruCevap": "Paris"
+        },
+        {
+          "soru": "Birleşmiş Milletler tarafından '2024 yılı' ne yılı ilan edilmiştir?",
+          "secenekler": [
+            "Meyve ve Sebze Yılı",
+            "Uluslararası Devegiller Yılı",
+            "Balıkçılık Yılı",
+            "Cam Yılı"
+          ],
+          "dogruCevap": "Uluslararası Devegiller Yılı"
+        },
+        {
+          "soru": "Türkiye'nin en yüksek barajı olma özelliğini taşıyan ve Artvin'de bulunan baraj hangisidir?",
+          "secenekler": [
+            "Atatürk Barajı",
+            "Yusufeli Barajı",
+            "Deriner Barajı",
+            "Keban Barajı"
+          ],
+          "dogruCevap": "Yusufeli Barajı"
+        },
+        {
+          "soru": "2024 yılı itibarıyla NATO'ya katılan 32. ve en son üye devlet hangisidir?",
+          "secenekler": [
+            "Finlandiya",
+            "İsveç",
+            "Ukrayna",
+            "Gürcistan"
+          ],
+          "dogruCevap": "İsveç"
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi 2024 yılında UNESCO Dünya Miras Listesi'ne Türkiye'den eklenen son kültürel varlıktır?",
+          "secenekler": [
+            "Gordion Antik Kenti",
+            "Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri",
+            "Arslantepe Höyüğü",
+            "Afrodisias"
+          ],
+          "dogruCevap": "Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri"
+        },
+        {
+          "soru": "2023 Nobel Edebiyat Ödülü'nü 'söylenemeyenleri dile getiren yenilikçi oyunları ve nesirleri' nedeniyle kazanan yazar kimdir?",
+          "secenekler": [
+            "Jon Fosse",
+            "Annie Ernaux",
+            "Abdulrazak Gurnah",
+            "Louise Glück"
+          ],
+          "dogruCevap": "Jon Fosse"
         }
       ]
     }
