@@ -633,18 +633,6 @@
           "dogruCevap": "Toplumdan bağımsız bir okul kültürü geliştirmek"
         },
         {
-          "soru_id": "Q070",
-          "soru": "Bir öğretmen \"yapay zeka\" haberlerini öğrenicilerle birlikte sınıf incelemeleri yaparak zeka kullanan sistem yasadıgı olmusuzluklara dair ömek hikayeler paylaşıyor. Dersin sonunda öğrenmen \"Sizce dogrudan mu bu bilgilerle nepsi anlarız?\" sorusunu sorar ve cevapları dinler.",
-          "secenekler": [
-            "Hangisidir",
-            "Medya okuryazarlığı",
-            "Bilişsayar okuryazarlığı",
-            "Finansal okuryazarlık",
-            "Teknoloji okuryazarlığı"
-          ],
-          "dogruCevap": "Medya okuryazarlığı"
-        },
-        {
           "soru_id": "Q071",
           "soru": "Bir öğretmende derse hazırlık yaparken internetten indirdiği materyalleri doğrudan kullanmadan önce telif hakkı olup olmadığını kontrol eder. Aşağıdakilerden hangisi bu öğretmenin yaptığı davranışın temel ilkesi olabilir?",
           "secenekler": [
@@ -670,18 +658,6 @@
         }
       ],
       "Mevzuat": [
-        {
-          "soru_id": "Q073",
-          "soru": "1982 Anayasası'na göre Türkiye'de Siyasi Partilerin faaliyetleri, denetimi ve kapatılması ile ilgili hükümler hangi başlık altında düzenlenmiştir?",
-          "secenekler": [
-            "Kamu hizmetlerine girme hakkı",
-            "Grev hakkı",
-            "Çalışma hakkı",
-            "Toplantı ve gösteri yürüyüşü düzenleme hakkı",
-            "Mülkiyet hakkı"
-          ],
-          "dogruCevap": "Kamu hizmetlerine girme hakkı"
-        },
         {
           "soru_id": "Q074",
           "soru": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi kaç milletvekilinden oluşur?",
@@ -974,17 +950,6 @@
             "Karadeniz Bölgesi"
           ],
           "dogruCevap": "Marmara Bölgesi"
-        },
-        {
-          "soru": "Türkiye'de aşağıdaki illerden hangisi pamuk üretimi açısından öne çıkar?",
-          "secenekler": [
-            "Adana",
-            "Trabzon",
-            "Rize",
-            "Van",
-            "Kars"
-          ],
-          "dogruCevap": "Adana"
         },
         {
           "soru": "Türkiye'de aşağıdaki termal kaynaklardan hangisi turizm açısından daha çok önem taşır?",
@@ -1304,17 +1269,6 @@
             "Disiplin cezalarına karşı itiraz hakkı vardır."
           ],
           "dogruCevap": "Disiplin cezası almak için suçun işlenmesi yeterlidir."
-        },
-        {
-          "soru": "1739 Sayılı Milli Eğitim Temel Kanunu'na göre, aşağıdakilerden hangisi 'eğitim sistemini' oluşturan öğelerden biri değildir?",
-          "secenekler": [
-            "Okul öncesi eğitim",
-            "Ortaöğretim",
-            "Yükseköğretim",
-            "Mesleki eğitim",
-            "Sadece askeri eğitim"
-          ],
-          "dogruCevap": "Sadece askeri eğitim"
         },
         {
           "soru": "222 Sayılı İlköğretim ve Eğitim Kanunu'na göre, aşağıdakilerden hangisi 'ilköğretim çağı' olarak kabul edilen yaş aralığıdır?",
